@@ -1,0 +1,44 @@
+{
+  "documentos": [
+    {
+      "clave": "cff",
+      "etiqueta": "Código Fiscal de la Federación",
+      "sigla": "CFF",
+      "tipo": "ley",
+      "num_articulos": 421,
+      "version": "2026-04-09"
+    },
+    {
+      "clave": "lieps",
+      "etiqueta": "Ley del Impuesto Especial sobre Producción y Servicios",
+      "sigla": "LIEPS",
+      "tipo": "ley",
+      "num_articulos": 68,
+      "version": "2025-11-07"
+    },
+    {
+      "clave": "lisr",
+      "etiqueta": "Ley del Impuesto sobre la Renta",
+      "sigla": "LISR",
+      "tipo": "ley",
+      "num_articulos": 236,
+      "version": "2024-04-01"
+    },
+    {
+      "clave": "liva",
+      "etiqueta": "Ley del Impuesto al Valor Agregado",
+      "sigla": "LIVA",
+      "tipo": "ley",
+      "num_articulos": 80,
+      "version": "2021-11-12"
+    },
+    {
+      "clave": "rcff",
+      "etiqueta": "Reglamento del Código Fiscal de la Federación",
+      "sigla": "RCFF",
+      "tipo": "reglamento",
+      "num_articulos": 113,
+      "version": "2014-04-02"
+    }
+  ]
+}
