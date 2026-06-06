@@ -17,7 +17,12 @@ metadata/
   documentos.json           índice maestro del corpus (qué documentos, versión)
   <clave>/articulos.json    metadata por artículo (cita, título, reformas, derogado)
   <clave>/reformas.json     reforma DOF → artículos afectados
+  <clave>/pasajes.jsonl     párrafos citables + ubicación en el PDF (página + rects)
 ```
+
+Cada línea de `pasajes.jsonl` es un párrafo citable con su `cita` legal y, en
+`coordenadas`, la **página del PDF** (1-based, para `#page=N`) y los rectángulos
+de resaltado — para citar páginas y párrafos del documento oficial.
 
 La clave del artículo incluye sus sufijos: `027` (Art. 27), `017-h-bis`
 (Art. 17-H Bis), `032-b-quater` (Art. 32-B Quáter).
