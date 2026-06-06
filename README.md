@@ -40,8 +40,12 @@ La clave del artículo incluye sus sufijos: `027` (Art. 27), `017-h-bis`
 | `rliva` | Reglamento de la Ley del IVA | reglamento |
 | `rlieps`| Reglamento de la Ley del IEPS | reglamento |
 | `rmf-2026` | Resolución Miscelánea Fiscal para 2026 | rmf (reglas) |
+| `criterios-normativos` | Criterios normativos del SAT (Anexo 7 RMF) | criterios |
+| `criterios-no-vinculativos` | Criterios sobre prácticas fiscales indebidas (Anexo 3 RMF) | criterios |
 
-14 documentos, ~3 720 unidades. La RMF usa **reglas** con numeración jerárquica
-(`rmf-2026/2.7.1.21.md`) en vez de artículos, y vigencia anual
-(`vigente_desde`/`vigente_hasta` = el ejercicio). Pendientes: criterios
-normativos y no vinculativos; extracción de referencias legales por regla.
+16 documentos, ~3 950 unidades. Tres tipos de unidad: **artículos** (leyes,
+códigos, reglamentos), **reglas** jerárquicas (`rmf-2026/2.7.1.21.md`) y
+**criterios** (`criterios-normativos/10-iva-n.md`). La RMF y los criterios tienen
+vigencia anual. El repo se valida con `python -m extractor validar` desde
+[`fiscal-extractor`](../fiscal-extractor). Pendiente: extracción de referencias
+legales por regla.

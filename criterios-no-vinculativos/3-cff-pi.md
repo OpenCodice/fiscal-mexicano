@@ -1,0 +1,23 @@
+# Criterio 3/CFF/PI — Elusión de los efectos de la restricción temporal o cancelación del uso del CSD.
+
+Conforme a los artículos 17-H y 17-H Bis del CFF, cuando las autoridades fiscales detecten conductas irregulares por parte de los contribuyentes, podrán dejar sin efectos o restringir de forma temporal el uso de los CSD para la expedición de CFDI, lo que representa una consecuencia ante las irregularidades detectadas, reflejándose en el impedimento de expedir comprobantes fiscales, hasta en tanto no se subsanen o desvirtúen dichas irregularidades por parte de los contribuyentes.
+
+De conformidad con el artículo 29, primer párrafo del CFF, cuando las leyes fiscales establezcan la obligación de expedir CFDI por los actos o actividades que se realicen, por los ingresos que se perciban o por las retenciones de contribuciones que efectúen, los contribuyentes que lleven a cabo las operaciones correspondientes se encuentran obligados a emitirlos, asimismo, las personas que, entre otros supuestos, adquieran bienes, disfruten de su uso o goce temporal, reciban servicios, o aquéllas a las que les hubieren retenido contribuciones, deberán solicitar el CFDI respectivo.
+
+Por su parte, el artículo 113 Bis del CFF establece una sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
+En este sentido, resulta evidente que, por una parte, los contribuyentes a los que se les haya restringido temporalmente el uso de su CSD para la expedición de CFDI o se les haya dejado sin efectos el mismo, previo a que continúen emitiendo comprobantes fiscales, deberán subsanar las irregularidades detectadas, o bien, desvirtuar las causas que motivaron la aplicación de la medida, según corresponda al procedimiento de que se trate, y obtener la resolución positiva por parte del SAT, debiendo posteriormente, expedir los CFDI respectivos únicamente por los actos o actividades que efectivamente realicen dichos contribuyentes y, por otra parte, que las personas que adquieran bienes, disfruten de su uso o goce temporal, reciban servicios, o aquéllas a las que les hubieren retenido contribuciones, deberán solicitar el CFDI únicamente de la persona con la cual celebraron la operación correspondiente, evitándose con ello la emisión de comprobantes fiscales que pudieran amparar operaciones falsas o simuladas.
+
+Al respecto, se ha detectado, por una parte, que algunos contribuyentes a los que se les restringió de forma temporal el uso de los CSD o se les dejó sin efectos el CSD, y que aún no han subsanado o desvirtuado las inconsistencias detectadas, realizan diversos actos mercantiles o corporativos en los cuales otra persona física o moral emite los comprobantes que amparan la operación realizada por aquél, eludiendo de esta forma la imposibilidad de expedir CFDI, en virtud de ubicarse en alguno de los supuestos a los que se refieren los artículos 17-H y 17-H Bis del CFF, y por otra, que existen contribuyentes que a sabiendas de que el comprobante fiscal fue emitido por interpósita persona pretenden realizar deducciones y/o acreditamientos con base en dichos comprobantes fiscales.
+
+Por lo tanto, se considera que realizan una práctica fiscal indebida aquellos contribuyentes que:
+
+I. Se les haya restringido temporalmente el uso de su CSD para la expedición de CFDI o dejado sin efectos el mismo, y que aún no hayan subsanado las irregularidades detectadas o bien, desvirtuado las causas que motivaron la aplicación de la medida, según corresponda al procedimiento de que se trate, y realicen cualquier acto, independientemente del nombre con el que se denomine, mediante el cual, emitan CFDI a través de interpósita persona.
+
+II. Emitan comprobantes fiscales que pretendan amparar actos o actividades realizados por un contribuyente al que se le hayan restringido temporalmente o dejado sin efectos los CSD.
+
+III. Deduzcan y/o acrediten alguna cantidad con base en los comprobantes fiscales emitidos por una persona diferente de la que adquirieron bienes, disfrutaron de su uso o goce temporal, recibieron servicios o les hubiera retenido contribuciones, a sabiendas de que actualiza alguno de los supuestos a los que refieren los artículos 17-H y 17-H Bis del CFF y está impedida legalmente para la expedición de CFDI.
+
+IV. Quien asesore, aconseje, preste servicios o participe en la realización o la implementación de cualquiera de las prácticas anteriores.
+
+Origen Primer antecedente RMF para 2022 Publicada en el DOF el 27 de diciembre de 2021, Anexo 3, publicado en el DOF el 05 de enero de 2022.

@@ -1,0 +1,11 @@
+# Criterio 57/ISR/N — Donativos otorgados por Donatarias Autorizadas a organizaciones
+
+extranjeras.
+
+El artículo 82, penúltimo párrafo de la Ley del ISR, dispone que las fundaciones, patronatos y demás entidades podrán obtener autorización para recibir donativos deducibles cuando su objeto social consista en apoyar económicamente las actividades de otras donatarias autorizadas en términos de la propia Ley, siempre que destinen la totalidad de sus ingresos a las actividades autorizadas.
+
+Por su parte, el artículo 22, párrafos 2 y 3 del Convenio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América para evitar la doble imposición e impedir la evasión fiscal en materia de impuestos sobre la renta, establece disposiciones complementarias a las de la legislación interna de México y de Estados Unidos de América, en cuanto que regulan los elementos para el reconocimiento recíproco de las donatarias, lo que se encuentra sujeto a los límites que establece el propio Convenio así como a las disposiciones internas de cada país, ello al permitir considerar deducibles los donativos que un residente de los Estados Unidos de América haga a donatarias autorizadas de México que cumplan ciertos requisitos y los que residentes de México hagan a instituciones de beneficencia pública autorizadas en los Estados Unidos de América, como deducibles en México.
+
+En este sentido, a diferencia de lo que acontece con las disposiciones del artículo 22, párrafo 2 del Convenio, el párrafo 3 del artículo en comento no establece la posibilidad de que las fundaciones, patronatos y demás entidades cuyo propósito sea apoyar económicamente las actividades de donatarias autorizadas a que se refiere el artículo 82, penúltimo párrafo de la Ley del ISR, puedan efectuar donativos a instituciones de beneficencia pública o fundaciones privadas de Estados Unidos de América, pues en caso de hacerlo se consideraría erogaciones no deducibles lo que involucraría la determinación de remanente distribuible del cual deberá realizarse el pago conforme a lo señalado en el artículo 79 de la Ley del ISR.
+
+Origen Primer antecedente Modificación al Anexo 7 Publicada en el DOF el 27 de diciembre de 2022, de la RMF para 2022 Modificación al Anexo 7, publicado el 10 de enero de 2023, con el número de criterio normativo 68/ISR.

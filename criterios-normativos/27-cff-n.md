@@ -1,0 +1,13 @@
+# Criterio 27/CFF/N — Acuerdo Conclusivo. Concepto de calificación de hechos u omisiones.
+
+El artículo 69-C, primer párrafo del CFF, establece que cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX, del referido Código y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones o en la resolución provisional, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo.
+
+El artículo 69-C, segundo párrafo del CFF, establece que, sin perjuicio de lo señalado en el primer párrafo, los contribuyentes podrán solicitar la adopción del acuerdo conclusivo en cualquier momento, a partir de que dé inicio el ejercicio de las facultades de comprobación y hasta dentro de los veinte días siguientes a aquél en que se haya levantado el acta final, notificado el oficio de observaciones o la resolución provisional, según sea el caso, siempre que la autoridad revisora ya haya realizado una calificación de hechos u omisiones.
+
+Por lo tanto, cuando se solicite la adopción de un acuerdo conclusivo conforme a lo establecido en el segundo párrafo del artículo 69-C del CFF, será necesario que la autoridad revisora haya realizado una calificación de hechos u omisiones; entendiendo por dicha calificación aquélla comparación o confrontación entre lo que dispone la ley sustantiva y las situaciones jurídicas o de hecho del contribuyente, que la autoridad realiza en cualquier momento del ejercicio de sus facultades, a fin de determinar si hay conexión y correlación o no entre el precepto legal y las circunstancias de hecho, siempre que dicha calificación se haga del conocimiento del contribuyente por cualquier medio en los términos del procedimiento que corresponda al ejercicio de la facultad ejercida.
+
+En otras palabras, la referida calificación de hechos y omisiones es la afirmación de la autoridad en la cual señala que determinada circunstancia o hecho del contribuyente actualizó la hipótesis jurídica, por ejemplo, que determinada situación del contribuyente entraña incumplimiento de las disposiciones fiscales, conforme a la información que conste en los expedientes, documentos, bases de datos, papeles de trabajo e información proporcionada por el contribuyente y terceros relacionados con este, de conformidad con el artículo 63 del multicitado Código.
+
+Origen Primer antecedente Segunda Resolución de Publicada en el DOF el 6 de mayo de 2016, Anexo 7, Modificaciones a la RMF publicado en el DOF el 9 de mayo de 2016.
+
+para 2016
