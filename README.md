@@ -30,7 +30,18 @@ La clave del artículo incluye sus sufijos: `027` (Art. 27), `017-h-bis`
 | `lisr`  | Ley del Impuesto sobre la Renta | ley |
 | `liva`  | Ley del Impuesto al Valor Agregado | ley |
 | `lieps` | Ley del IEPS | ley |
+| `lfd`   | Ley Federal de Derechos | ley |
+| `ladua` | Ley Aduanera | ley |
+| `lcf`   | Ley de Coordinación Fiscal | ley |
+| `lfpca` | Ley Federal de Procedimiento Contencioso Administrativo | ley |
+| `lif-2026` | Ley de Ingresos de la Federación 2026 | ley (anual) |
 | `rcff`  | Reglamento del Código Fiscal de la Federación | reglamento |
+| `rlisr` | Reglamento de la Ley del ISR | reglamento |
+| `rliva` | Reglamento de la Ley del IVA | reglamento |
+| `rlieps`| Reglamento de la Ley del IEPS | reglamento |
+| `rmf-2026` | Resolución Miscelánea Fiscal para 2026 | rmf (reglas) |
 
-Pendientes (fases siguientes): Resolución Miscelánea Fiscal (RMF), criterios
-normativos y no vinculativos.
+14 documentos, ~3 720 unidades. La RMF usa **reglas** con numeración jerárquica
+(`rmf-2026/2.7.1.21.md`) en vez de artículos, y vigencia anual
+(`vigente_desde`/`vigente_hasta` = el ejercicio). Pendientes: criterios
+normativos y no vinculativos; extracción de referencias legales por regla.
