@@ -19,7 +19,7 @@ permissions:
 
 env:
   # Repo del extractor (código). Ajusta si el owner/nombre difiere.
-  EXTRACTOR_REPO: https://github.com/danielcardeenas/fiscal-extractor.git
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
 
 jobs:
   vigilar:
