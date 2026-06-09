@@ -5,7 +5,7 @@ name: Notificar a fiscal-web
 # reingest.yml reconstruya el índice. Sin esto, fiscal-web solo se entera por
 # su cron semanal de respaldo.
 #
-# Requiere el secret DISPATCH_TOKEN: un PAT con permiso de escritura sobre
+# Requiere el secret WEB_DISPATCH_TOKEN: un PAT con permiso de escritura sobre
 # OpenCodice/fiscal-web (el GITHUB_TOKEN del job no puede disparar workflows
 # de otro repo).
 
@@ -24,10 +24,10 @@ jobs:
     steps:
       - name: repository_dispatch → fiscal-web (datos-actualizados)
         env:
-          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          TOKEN: ${{ secrets.WEB_DISPATCH_TOKEN }}
         run: |
           if [ -z "$TOKEN" ]; then
-            echo "::error::Falta el secret DISPATCH_TOKEN (PAT con acceso a OpenCodice/fiscal-web)."
+            echo "::error::Falta el secret WEB_DISPATCH_TOKEN (PAT con acceso a OpenCodice/fiscal-web)."
             exit 1
           fi
           curl -sS --fail-with-body -X POST \
