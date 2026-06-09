@@ -1,0 +1,34 @@
+{
+  "clave": "12.2.3",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 12.2.3. Expedición de comprobantes con clave en el RFC genérica",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2b57f638941a707e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Comprobantes con clave RFC genérica",
+  "temas": [
+    "comprobantes fiscales",
+    "clave RFC",
+    "retenciones de impuestos",
+    "servicios digitales",
+    "intermediación",
+    "CFDI"
+  ],
+  "terminos_coloquiales": [
+    "comprobantes sin RFC",
+    "recibos con clave genérica",
+    "facturas sin RFC",
+    "retenciones con RFC genérico"
+  ],
+  "resumen": "Esta regla permite utilizar claves en el RFC genéricas para emitir comprobantes fiscales cuando no se cuenta con el RFC de los destinatarios de servicios digitales. Esto es útil para retenciones de impuestos en operaciones con personas que no están inscritas en el RFC.",
+  "preguntas_ejemplo": [
+    "¿Qué hacer si no tengo el RFC de un cliente?",
+    "¿Puedo emitir una factura sin el RFC del comprador?",
+    "¿Qué son los comprobantes con clave genérica?",
+    "¿Cómo se manejan las retenciones si el cliente está en el extranjero?",
+    "¿Qué reglas aplican para servicios digitales sin RFC?"
+  ]
+}

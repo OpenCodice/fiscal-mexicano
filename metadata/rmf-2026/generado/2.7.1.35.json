@@ -1,0 +1,37 @@
+{
+  "clave": "2.7.1.35",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.35. Cancelación de CFDI sin aceptación del receptor",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3f26d803f9b27523",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Cancelación de CFDI sin aceptación del receptor",
+  "temas": [
+    "CFDI",
+    "cancelación",
+    "receptor",
+    "nómina",
+    "ingresos",
+    "egresos",
+    "traslado",
+    "retenciones",
+    "residentes en el extranjero"
+  ],
+  "terminos_coloquiales": [
+    "cancelar CFDI sin que el receptor acepte",
+    "CFDI sin aprobación del receptor",
+    "anular factura sin consentimiento",
+    "cancelar factura electrónica"
+  ],
+  "resumen": "Esta regla permite a los contribuyentes cancelar ciertos comprobantes fiscales digitales por internet (CFDI) sin necesidad de que el receptor lo acepte, bajo condiciones específicas como el monto o el tipo de operación. Si se cancela un CFDI, se podrá emitir uno nuevo relacionado con el cancelado.",
+  "preguntas_ejemplo": [
+    "¿Puedo cancelar un CFDI sin que el receptor lo acepte?",
+    "¿Qué CFDI puedo cancelar sin aprobación del receptor?",
+    "¿Cuáles son las condiciones para cancelar un CFDI?",
+    "¿Cómo anulo una factura electrónica?",
+    "¿Qué pasa si cancelo un CFDI y la operación sigue vigente?"
+  ]
+}

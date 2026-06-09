@@ -1,0 +1,35 @@
+{
+  "clave": "2.7.1.25",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.25. Concepto de unidad de medida a utilizar en los CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:cdf81541ae25c620",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Unidad de medida en CFDI",
+  "temas": [
+    "CFDI",
+    "unidad de medida",
+    "usos mercantiles",
+    "clave unidad",
+    "Catálogo",
+    "registro",
+    "contribuyentes"
+  ],
+  "terminos_coloquiales": [
+    "qué unidad de medida poner en el CFDI",
+    "cómo registrar la unidad de medida",
+    "claves para unidad de medida en el CFDI",
+    "usos mercantiles en CFDI",
+    "clave c_ClaveUnidad"
+  ],
+  "resumen": "Los contribuyentes deben indicar la unidad de medida que usan en sus CFDI según los usos comerciales. Si no encuentran la clave exacta en el catálogo, pueden usar la que más se asemeje.",
+  "preguntas_ejemplo": [
+    "¿Qué unidad de medida debo usar en mi CFDI?",
+    "¿Dónde encuentro la clave para la unidad de medida?",
+    "¿Qué hago si no hay clave específica para mi unidad de medida?",
+    "¿Qué dice la regla sobre el registro de unidades en CFDI?"
+  ]
+}

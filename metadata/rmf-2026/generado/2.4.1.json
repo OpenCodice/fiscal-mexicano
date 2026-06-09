@@ -1,0 +1,38 @@
+{
+  "clave": "2.4.1",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.4.1. y SOCAP",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5d2282fc73dac750",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Verificación de RFC para cuentas bancarias",
+  "temas": [
+    "RFC",
+    "entidades financieras",
+    "SOCAP",
+    "cuentahabientes",
+    "verificación de cuentas",
+    "depósitos",
+    "créditos",
+    "Ley del ISR"
+  ],
+  "terminos_coloquiales": [
+    "validar RFC",
+    "verificación bancaria",
+    "inscripción en el RFC",
+    "cuentas en bancos",
+    "sociedades de ahorro",
+    "cuenta bancaria"
+  ],
+  "resumen": "La regla establece que las entidades financieras y las SOCAP deben verificar que sus cuentahabientes o socios estén inscritos en el RFC a través de un procedimiento en línea. Además, se especifican qué tipos de cuentas y créditos deben verificarse y cuáles están exentos de este proceso.",
+  "preguntas_ejemplo": [
+    "¿Cómo se valida el RFC de un cliente en un banco?",
+    "¿Qué cuentas no necesitan verificación de RFC?",
+    "¿Las SOCAP deben verificar el RFC de sus socios?",
+    "¿Qué sucede si no estoy inscrito en el RFC?",
+    "¿Cuáles son las cuentas que se deben verificar según la ley?"
+  ]
+}

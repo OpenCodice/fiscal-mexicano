@@ -1,0 +1,31 @@
+{
+  "clave": "2.2.11",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.11. Verificación y autenticación de e.firma",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:42c5bd14f69e6edd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Verificación de e.firma",
+  "temas": [
+    "e.firma",
+    "SAT",
+    "certificados digitales",
+    "autenticación"
+  ],
+  "terminos_coloquiales": [
+    "cómo verificar mi e.firma",
+    "autenticación de firma electrónica",
+    "certificado digital SAT",
+    "validar e.firma"
+  ],
+  "resumen": "El SAT ofrece un servicio para verificar y autenticar los certificados de firmas electrónicas avanzadas. Los contribuyentes que usen la e.firma pueden acceder a este servicio si presentan la documentación requerida.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo validar mi e.firma?",
+    "¿Qué necesito para autenticar mi firma electrónica?",
+    "¿Dónde puedo verificar la validez de mi certificado digital?",
+    "¿Qué es el servicio de verificación de e.firma del SAT?"
+  ]
+}

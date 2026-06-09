@@ -1,0 +1,38 @@
+{
+  "clave": "3.2.15",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 3.2.15. de deuda",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b61e8d1468d2c089",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Retención de ISR sobre Certificados de Fideicomisos",
+  "temas": [
+    "intermediarios financieros",
+    "retención del ISR",
+    "certificados de fideicomisos",
+    "personas residentes",
+    "intereses",
+    "títulos de crédito",
+    "fideicomisos",
+    "patrimonio fideicomitido"
+  ],
+  "terminos_coloquiales": [
+    "retención de impuestos",
+    "ISR sobre fideicomisos",
+    "certificados financieros",
+    "intereses de fideicomisos",
+    "cómo se retiene el ISR",
+    "calculadora de ISR"
+  ],
+  "resumen": "La regla establece cómo deben retener los intermediarios financieros el ISR sobre los intereses generados por certificados de fideicomisos. Esto depende de si los beneficiarios son residentes en México o en el extranjero, y se considera el costo promedio de adquisición de los certificados para calcular la retención.",
+  "preguntas_ejemplo": [
+    "¿Cómo se calcula el ISR sobre los intereses de los certificados?",
+    "¿Qué sucede si soy residente en el extranjero y tengo certificados de fideicomisos?",
+    "¿Debo pagar impuestos por los intereses de mis inversiones en fideicomisos?",
+    "¿Qué es el costo promedio ponderado de adquisición?",
+    "¿Cómo funciona la retención del ISR en fideicomisos?"
+  ]
+}

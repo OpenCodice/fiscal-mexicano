@@ -1,0 +1,35 @@
+{
+  "clave": "017",
+  "documento": "lieps",
+  "etiqueta": "Artículo 17.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c208c28e72a83172",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Cálculo del impuesto por servicios",
+  "temas": [
+    "impuesto",
+    "prestación de servicios",
+    "contraprestación",
+    "cobro",
+    "tasa",
+    "pago"
+  ],
+  "terminos_coloquiales": [
+    "cómo se calcula el impuesto de servicios",
+    "impuesto sobre servicios",
+    "cuando se paga el impuesto de servicios",
+    "cobro de impuestos",
+    "tasa de impuesto"
+  ],
+  "resumen": "El impuesto se calcula sobre el valor de la contraprestación en la prestación de servicios. Se genera al momento de cobrar efectivamente las contraprestaciones. Si se cobran parcialmente, se aplica la tasa correspondiente a la parte cobrada.",
+  "preguntas_ejemplo": [
+    "¿Cómo calculo el impuesto por servicios que ofrezco?",
+    "¿Cuándo se causa el impuesto en los servicios?",
+    "Si cobro una parte de mis servicios, ¿cómo calculo el impuesto?",
+    "¿Qué pasa si solo cobro una parte de la contraprestación?",
+    "¿Cuál es la tasa de impuesto que debo aplicar?"
+  ]
+}

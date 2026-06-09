@@ -1,0 +1,35 @@
+{
+  "clave": "023",
+  "documento": "lieps",
+  "etiqueta": "Artículo 23.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9eb84e91631a795f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Registro de adquisiciones y presunciones fiscales",
+  "temas": [
+    "omisión de registros",
+    "materia prima",
+    "empaques y envases",
+    "control volumétrico",
+    "presunciones fiscales",
+    "valor de bienes"
+  ],
+  "terminos_coloquiales": [
+    "no registrar compras",
+    "falta de información de productos",
+    "presunciones de uso",
+    "registro de materias",
+    "diferencias de volumen"
+  ],
+  "resumen": "El artículo establece que si un contribuyente no registra adquisiciones de materiales o su control, se presume que estos se utilizaron para productos vendidos y que no se declaró el impuesto correspondiente. También se consideran las diferencias entre control físico y volumétrico.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no registro mis compras de materia prima?",
+    "¿Cuáles son las consecuencias de omitir el registro de empaques?",
+    "¿Cómo se determina el impuesto si hay diferencias en el volumen producido?",
+    "¿Qué se considera como valor para efectos fiscales?",
+    "¿Qué debo hacer si no tengo control de mis materiales?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.1.32",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.32. Expedición de CFDI por pagos realizados",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:39baae1996cbdacb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Expedición de CFDI por pagos",
+  "temas": [
+    "CFDI",
+    "pagos",
+    "comprobantes fiscales",
+    "Complemento para recepción de Pagos",
+    "método de pago",
+    "forma de pago"
+  ],
+  "terminos_coloquiales": [
+    "recibir un CFDI",
+    "comprobante por pago",
+    "CFDI por pagos parciales",
+    "si el pago no es total",
+    "cómo emitir CFDI",
+    "CFDI de entrada y salida"
+  ],
+  "resumen": "Esta regla establece cómo deben emitirse los CFDI cuando un pago se realiza en varias partes. Se debe emitir un CFDI por el total de la operación y luego otros por cada pago recibido, indicando cero en el total.",
+  "preguntas_ejemplo": [
+    "¿Cómo emito un CFDI si no recibí el pago total?",
+    "¿Qué debo poner en el CFDI si mi cliente paga en partes?",
+    "¿Qué es el Complemento para recepción de Pagos?",
+    "¿Cuánto tiempo tengo para emitir un CFDI por los pagos recibidos?",
+    "¿Puedo emitir un solo CFDI para varios pagos de un cliente?"
+  ]
+}

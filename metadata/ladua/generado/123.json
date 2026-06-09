@@ -1,0 +1,33 @@
+{
+  "clave": "123",
+  "documento": "ladua",
+  "etiqueta": "Artículo 123.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:46f87e11f08a3fdc",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Régimen de mercancías",
+  "temas": [
+    "mercancías",
+    "reglas de control",
+    "almacenes generales",
+    "depósito",
+    "tránsito"
+  ],
+  "terminos_coloquiales": [
+    "qué mercancías no se pueden mover",
+    "reglas de manejo de mercancías",
+    "almacenes de depósito",
+    "control de mercancías"
+  ],
+  "resumen": "La Secretaría define qué mercancías no pueden ser parte de este régimen y establece medidas de control que los almacenes deben seguir para gestionar adecuadamente las mercancías. Además, menciona la importancia de la separación de los espacios destinados a estas mercancías.",
+  "preguntas_ejemplo": [
+    "¿Qué mercancías no se pueden mover bajo este régimen?",
+    "¿Cuáles son las reglas para los almacenes de depósito?",
+    "¿Cómo se controla el manejo de mercancías en tránsito?",
+    "¿Qué establece la Secretaría sobre el depósito de mercancías?",
+    "¿Qué medidas deben observar los almacenes generales?"
+  ]
+}

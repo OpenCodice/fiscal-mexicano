@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.2.16",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.2.16. certificación de expedición de CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ce58ffc82be5c213",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Certificación de CFDI",
+  "temas": [
+    "CFDI",
+    "Certificación",
+    "RFC",
+    "PCECFDI",
+    "Comprobantes fiscales",
+    "Datos fiscales",
+    "Contabilidad"
+  ],
+  "terminos_coloquiales": [
+    "Cómo certificar un CFDI",
+    "Servicio de CFDI",
+    "Generación de CFDI",
+    "CFDI en SAT",
+    "Regla de CFDI"
+  ],
+  "resumen": "La regla establece que los proveedores de certificación de CFDI deben validar el RFC de los contribuyentes y conservar las solicitudes de servicio para emitir CFDI. También deben usar un sistema específico para la generación y certificación de estos documentos fiscales.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo certificar mi CFDI?",
+    "¿Qué necesito para generar un CFDI?",
+    "¿Qué es un PCECFDI?",
+    "¿Dónde puedo obtener la clave del RFC para el CFDI?",
+    "¿Cuánto tiempo se conserva la información de los CFDI?"
+  ]
+}

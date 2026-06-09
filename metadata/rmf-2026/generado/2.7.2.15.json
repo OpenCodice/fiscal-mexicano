@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.2.15",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.2.15. proveedor de certificación de CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6b0c0ea2b1fe3f83",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Proveedor de Certificación de CFDI",
+  "temas": [
+    "CFDI",
+    "CSD",
+    "Proveedor de certificación",
+    "SAT",
+    "Confidencialidad",
+    "Trámite",
+    "Responsabilidad"
+  ],
+  "terminos_coloquiales": [
+    "certificación de CFDI",
+    "certificado de sello digital",
+    "PCCFDI",
+    "uso del CSD",
+    "generación de CFDI"
+  ],
+  "resumen": "Esta regla establece las responsabilidades y procedimientos que deben seguir los proveedores de certificación de CFDI para obtener y resguardar su certificado de sello digital. También detalla qué hacer en caso de riesgo a la confidencialidad del certificado.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo obtener un certificado de sello digital?",
+    "¿Qué debo hacer si mi CSD se ve comprometido?",
+    "¿Cuáles son mis responsabilidades como proveedor de certificación?",
+    "¿Qué trámites necesito para certificar CFDI?",
+    "¿Cómo renuevo mi certificado de sello digital?"
+  ]
+}

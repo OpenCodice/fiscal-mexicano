@@ -1,0 +1,32 @@
+{
+  "clave": "2.2.3",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.3. Información que deben contener los certificados",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d0a3b074ea69d28f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Información de Certificados SAT",
+  "temas": [
+    "certificados",
+    "SAT",
+    "identificación",
+    "validez",
+    "e.firma"
+  ],
+  "terminos_coloquiales": [
+    "certificado del SAT",
+    "como obtener un certificado",
+    "validez del certificado",
+    "requisitos del SAT"
+  ],
+  "resumen": "Los certificados emitidos por el SAT deben incluir información como un código de identificación, el periodo de validez y cumplir con estándares establecidos. Para personas físicas, el certificado de e.firma puede reemplazar al CSD para la expedición de CFDI.",
+  "preguntas_ejemplo": [
+    "¿Qué información debe contener un certificado del SAT?",
+    "¿Cuál es la validez de un certificado emitido por el SAT?",
+    "¿Puedo usar mi e.firma en lugar del CSD para CFDI?",
+    "¿Cómo se identifica un certificado del SAT?"
+  ]
+}

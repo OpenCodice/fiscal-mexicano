@@ -1,0 +1,35 @@
+{
+  "clave": "2.16.1",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.16.1. Presentación de la información sobre su situación fiscal",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1509ae460c107cda",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Información sobre situación fiscal",
+  "temas": [
+    "e.firma",
+    "PORTAL del SAT",
+    "formato ISSIF",
+    "contribuyentes",
+    "declaraciones fiscales",
+    "sectores financieros"
+  ],
+  "terminos_coloquiales": [
+    "qué es la ISSIF",
+    "cómo presentar mi situación fiscal",
+    "enviar información a SAT",
+    "requisitos para la declaración",
+    "firmar electrónicamente"
+  ],
+  "resumen": "Los contribuyentes deben presentar su información fiscal mediante un aplicativo llamado ISSIF a través del Portal del SAT. Es necesario contar con un certificado de e.firma y seguir un procedimiento específico para llenar y enviar la información correcta según su categoría.",
+  "preguntas_ejemplo": [
+    "¿Qué documentos necesito para presentar mi información fiscal?",
+    "¿Cómo uso el aplicativo ISSIF?",
+    "¿Dónde encuentro el formato para declarar?",
+    "¿Qué hacer si soy una persona moral?",
+    "¿Cuál es el requisito de la e.firma?"
+  ]
+}

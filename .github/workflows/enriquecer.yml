@@ -1,0 +1,71 @@
+name: Generar enriquecimiento (LLM)
+
+# Genera/actualiza la capa de enriquecimiento (metadata/<clave>/generado/) que
+# mejora el recall del buscador del RAG ante preguntas coloquiales. NO es texto
+# oficial ni fuente de cita: la verdad sigue en los .md y en pasajes.jsonl.
+#
+# Se dispara A MANO (no en cada reforma; el watcher vigilar-fiscal.yml solo
+# reconstruye la capa determinista). El extractor descarga las fuentes del
+# registro y procesa TODO el corpus en un comando; es incremental por hash
+# (solo regenera las unidades cuyo texto cambió), salvo que uses 'force'.
+#
+# Requiere el secret OPENAI_API_KEY en este repo.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Regenerar TODO (ignorar la caché por hash)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  enriquecer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo de datos
+        uses: actions/checkout@v5
+
+      - name: Verificar que exista la API key
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::Falta el secret OPENAI_API_KEY en este repo."
+            exit 1
+          fi
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt openai
+
+      - name: Generar enriquecimiento (corpus completo, autodescarga de fuentes)
+        run: |
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
+            --out "$GITHUB_WORKSPACE" \
+            --proveedor openai ${{ inputs.force && '--force' || '' }}
+
+      - name: Commitear el resultado (si hubo cambios)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 'metadata/*/generado' 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el enriquecimiento."
+          else
+            git commit -m "Enriquecimiento por LLM (generado en CI)"
+            git push
+            echo "Enriquecimiento actualizado y pusheado."
+          fi

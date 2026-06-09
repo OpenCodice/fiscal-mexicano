@@ -1,0 +1,33 @@
+{
+  "clave": "2.7.1.31",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.31. Facilidad para emitir CFDI sin mencionar los datos del pedimento de importación",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bb92e52774ac7f4d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Facilidad para emitir CFDI sin datos de pedimento",
+  "temas": [
+    "CFDI",
+    "importación",
+    "exportación",
+    "pedimentos consolidados",
+    "documentos aduaneros"
+  ],
+  "terminos_coloquiales": [
+    "CFDI sin pedimento",
+    "factura sin datos de importación",
+    "emitir CFDI fácil",
+    "pedimentos en CFDI"
+  ],
+  "resumen": "Se permite a los contribuyentes que importan o exportan mercancías a través de tuberías o cables no incluir el número y la fecha del documento aduanero en sus CFDI. Esto aplica solo a ciertos casos de importación o exportación.",
+  "preguntas_ejemplo": [
+    "¿Puedo emitir un CFDI sin poner los datos del pedimento?",
+    "¿Qué mercancías pueden estar exentas de declarar datos aduaneros en el CFDI?",
+    "¿Cómo afectan los pedimentos consolidados a la emisión de CFDI?",
+    "¿Qué datos no necesito incluir en un CFDI para ciertas importaciones?",
+    "¿Cuándo se puede omitir información del pedimento en facturas?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "2.2.2",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.2. Valor probatorio de la e.firma portable",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c6e66e8fbf769f37",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "e.firma portable",
+  "temas": [
+    "valor probatorio",
+    "registro de e.firma",
+    "autenticación SAT",
+    "revocación de certificados"
+  ],
+  "terminos_coloquiales": [
+    "firma portable",
+    "clave dinámica SAT",
+    "firma electrónica",
+    "cómo funciona la e.firma",
+    "trámites con e.firma"
+  ],
+  "resumen": "La e.firma portable es un mecanismo que sustituye a la firma autógrafa y tiene el mismo valor legal. Se utiliza a través de una clave dinámica de un solo uso para realizar trámites en el Portal del SAT sin necesidad de dispositivos de almacenamiento.",
+  "preguntas_ejemplo": [
+    "¿Qué es la e.firma portable?",
+    "¿Cómo se usa la clave dinámica del SAT?",
+    "¿Qué hago si quiero revocar mi e.firma?",
+    "¿La e.firma portable tiene el mismo valor que una firma autógrafa?",
+    "¿Cómo me registro en el servicio de e.firma portable?"
+  ]
+}

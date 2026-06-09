@@ -1,0 +1,33 @@
+{
+  "clave": "2.7.7.1.6",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.7.1.6. Gasolina o Diésel",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8a28dd0b328d5288",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Cancelación de CFDI de Combustibles",
+  "temas": [
+    "CFDI",
+    "cancelación",
+    "gasolina",
+    "diésel",
+    "traslado",
+    "Complemento Carta Porte"
+  ],
+  "terminos_coloquiales": [
+    "cancelar CFDI de gasolina",
+    "cancelación de factura de diésel",
+    "reglas CFDI combustible",
+    "cómo cancelar CFDI de traslado"
+  ],
+  "resumen": "Esta regla establece que se pueden cancelar los CFDI de gasolina y diésel sin necesidad de aceptación, siempre que se haga antes de que inicie el traslado. Después de este plazo, no se podrán cancelar.",
+  "preguntas_ejemplo": [
+    "¿Puedo cancelar un CFDI de gasolina después de que ya he iniciado el traslado?",
+    "¿Qué tipos de combustible se incluyen en la cancelación de CFDI?",
+    "¿Necesito aceptación para cancelar un CFDI de diésel?",
+    "¿Cuándo se vuelve no cancelable un CFDI de traslado de combustible?"
+  ]
+}

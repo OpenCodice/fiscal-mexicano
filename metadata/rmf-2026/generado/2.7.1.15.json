@@ -1,0 +1,34 @@
+{
+  "clave": "2.7.1.15",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.15. financiero y SOCAP",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bf5831f32a703b26",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Identificación de operaciones de divisas",
+  "temas": [
+    "centros cambiarios",
+    "instituciones financieras",
+    "SOCAP",
+    "CFDI",
+    "compra de divisas",
+    "venta de divisas"
+  ],
+  "terminos_coloquiales": [
+    "cómo reportar compra y venta de divisas",
+    "obligaciones de los centros cambiarios",
+    "CFDI para divisas",
+    "identificación de operaciones en divisas"
+  ],
+  "resumen": "Se establece que los centros cambiarios y las instituciones financieras deben identificar las operaciones de compra y venta de divisas. Además, deben expedir CFDI específicos para cada tipo de operación, utilizando un complemento del SAT.",
+  "preguntas_ejemplo": [
+    "¿Qué obligaciones tienen los centros cambiarios sobre divisas?",
+    "¿Cómo debo emitir un CFDI por la compra de divisas?",
+    "¿Qué información debo incluir en los CFDI de divisas?",
+    "¿Las SOCAP deben reportar la venta de divisas?",
+    "¿Cómo identifico las operaciones de divisas?"
+  ]
+}

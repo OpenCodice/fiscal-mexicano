@@ -1,0 +1,38 @@
+{
+  "clave": "2.7.1.7",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.7. Requisitos de las representaciones impresas del CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2c75e466656a5e10",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Requisitos del CFDI impreso",
+  "temas": [
+    "CFDI",
+    "Código de barras",
+    "Número de folio fiscal",
+    "Datos del CSD",
+    "Leyenda del CFDI",
+    "Firma autógrafa",
+    "Retenciones",
+    "Complementos",
+    "Formato PDF"
+  ],
+  "terminos_coloquiales": [
+    "CFDI impreso",
+    "requisitos de CFDI",
+    "comprobante fiscal",
+    "formato del CFDI",
+    "documento fiscal"
+  ],
+  "resumen": "Las representaciones impresas del CFDI deben tener varios requisitos, como un código de barras y una leyenda específica. Además, si amparan retenciones o pagos, deben incluir información adicional según las reglas correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Qué necesita tener un CFDI impreso?",
+    "¿Cuáles son los requisitos para el código de barras en el CFDI?",
+    "¿Qué información debe incluir un comprobante de retención?",
+    "¿Se puede imprimir un CFDI en formato PDF?",
+    "¿Qué datos extra debo agregar si el CFDI es de un pago?"
+  ]
+}

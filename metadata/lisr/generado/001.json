@@ -1,0 +1,35 @@
+{
+  "clave": "001",
+  "documento": "lisr",
+  "etiqueta": "Artículo 1o.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b83198a173cd10b8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Impuesto sobre la Renta",
+  "temas": [
+    "personas físicas",
+    "personas morales",
+    "ingresos",
+    "residencia fiscal",
+    "establecimiento permanente",
+    "fuentes de riqueza"
+  ],
+  "terminos_coloquiales": [
+    "impuesto de la renta",
+    "ISR",
+    "quién paga el impuesto",
+    "ingresos que se gravan",
+    "reglas del impuesto sobre la renta"
+  ],
+  "resumen": "El impuesto sobre la renta se debe pagar por personas físicas y morales en base a sus ingresos, ya sea que residan en México o en el extranjero. Los que están en el extranjero también deben pagar por sus ingresos generados en México, dependiendo de si tienen un establecimiento permanente en el país.",
+  "preguntas_ejemplo": [
+    "¿Quiénes deben pagar el impuesto sobre la renta?",
+    "¿Qué ingresos están sujetos al impuesto de la renta?",
+    "¿Los extranjeros tienen que pagar impuestos en México?",
+    "¿Qué significa tener un establecimiento permanente?",
+    "¿Cómo se determina la residencia fiscal para pagar impuestos?"
+  ]
+}

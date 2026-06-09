@@ -1,0 +1,32 @@
+{
+  "clave": "2.4.15",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.4.15. financieras y SOCAP",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:12bbcdf48efec895",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Información de entidades financieras y SOCAP",
+  "temas": [
+    "entidades financieras",
+    "SOCAP",
+    "información del RFC",
+    "datos de cuentahabientes",
+    "obligaciones fiscales"
+  ],
+  "terminos_coloquiales": [
+    "requisitos de bancos",
+    "información que deben dar las SOCAP",
+    "qué datos pide el SAT a bancos",
+    "obligaciones de entidades financieras"
+  ],
+  "resumen": "Las entidades financieras y las SOCAP deben recopilar información de sus cuentahabientes o socios que están en el RFC, incluyendo domicilio, correo electrónico y teléfono, y enviarla al SAT.",
+  "preguntas_ejemplo": [
+    "¿Qué información tienen que dar los bancos al SAT?",
+    "¿Cuáles son los datos que deben recoger las SOCAP de sus socios?",
+    "¿Los bancos necesitan mi dirección y teléfono para el SAT?",
+    "¿Qué obligaciones tienen las entidades financieras con el SAT?"
+  ]
+}
