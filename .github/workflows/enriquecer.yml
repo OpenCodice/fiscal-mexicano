@@ -58,6 +58,7 @@ jobs:
             --proveedor openai ${{ inputs.force && '--force' || '' }}
 
       - name: Commitear el resultado (si hubo cambios)
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,5 +68,20 @@ jobs:
           else
             git commit -m "Enriquecimiento por LLM (generado en CI)"
             git push
+            echo "pusheado=true" >> "$GITHUB_OUTPUT"
             echo "Enriquecimiento actualizado y pusheado."
           fi
+
+      - name: Notificar a fiscal-web
+        # Los pushes hechos con GITHUB_TOKEN no disparan otros workflows, así
+        # que notificar-web.yml no ve este push: el dispatch va directo de aquí.
+        if: steps.commit.outputs.pusheado == 'true'
+        env:
+          TOKEN: ${{ secrets.WEB_DISPATCH_TOKEN }}
+        run: |
+          curl -sS --fail-with-body -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/OpenCodice/fiscal-web/dispatches \
+            -d '{"event_type":"datos-actualizados","client_payload":{"origen":"enriquecer"}}'
+          echo "Dispatch enviado: fiscal-web reingestará el índice."
