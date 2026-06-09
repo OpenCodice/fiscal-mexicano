@@ -85,6 +85,10 @@ jobs:
         if: steps.cambios.outputs.hay_cambios == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
+          # Con un PAT (secret PR_TOKEN) el PR nace atribuido a un usuario real,
+          # así dispara `revisar-pr` (gate) como un PR humano. Si el secret no
+          # existe, cae al GITHUB_TOKEN (el PR se abre pero sin checks).
+          token: ${{ secrets.PR_TOKEN || github.token }}
           branch: actualizacion/corpus-fiscal-automatica
           base: main
           title: '🧾 Cambio en el corpus fiscal (detección automática)'

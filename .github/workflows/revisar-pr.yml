@@ -1,0 +1,43 @@
+name: Revisar PR de reforma fiscal
+
+# Se ejecuta en cada PR (los del watcher incluidos, gracias a PR_TOKEN): corre
+# el validador de invariantes sobre el repo como quedaría tras el merge. Es el
+# GATE: si falla, no se debe mergear (actívalo como required check en branch
+# protection). El resumen LLM del PR (como en el federal/estatales) queda
+# pendiente de portar resumir_pr.py a fiscal-extractor.
+
+on:
+  pull_request: {}
+
+permissions:
+  contents: read
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Validar invariantes (GATE)
+        run: |
+          if PYTHONPATH=/tmp/extractor python -m extractor validar \
+               --out "$GITHUB_WORKSPACE"; then
+            echo "✅ Invariantes OK"
+          else
+            echo "::error::Invariantes ROTOS — no mergear"
+            exit 1
+          fi
