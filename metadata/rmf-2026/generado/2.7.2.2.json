@@ -1,0 +1,35 @@
+{
+  "clave": "2.7.2.2",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.2.2. Publicación de datos en el Portal del SAT de los proveedores de certificación de CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:89a2b7b4711463a1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Publicación de Proveedores de CFDI",
+  "temas": [
+    "Proveedores de Certificación de CFDI",
+    "Portal del SAT",
+    "Datos de contacto",
+    "Revocación de autorización",
+    "Liquidación de proveedores"
+  ],
+  "terminos_coloquiales": [
+    "Proveedores de CFDI",
+    "SAT",
+    "CFDI",
+    "certificadores",
+    "publicación de datos",
+    "revocación de certificación"
+  ],
+  "resumen": "El SAT publica información sobre los proveedores de certificación de CFDI, incluyendo su nombre, RFC y estado de autorización. También se incluyen datos de proveedores cuya autorización ha sido revocada o que están en proceso de liquidación.",
+  "preguntas_ejemplo": [
+    "¿Dónde puedo ver la lista de proveedores de CFDI?",
+    "¿Qué pasa si un proveedor de CFDI pierde su autorización?",
+    "¿Cómo se actualizan los datos de los proveedores en el SAT?",
+    "¿Qué información publica el SAT sobre los certificadores de CFDI?",
+    "¿Cuánto tiempo tiene el SAT para publicar información sobre la revocación de un proveedor?"
+  ]
+}

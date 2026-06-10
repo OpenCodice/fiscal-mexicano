@@ -1,0 +1,37 @@
+{
+  "clave": "2.2.1",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.1. Valor probatorio de la Contraseña",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fb253ac3d56792d3",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Valor probatorio de la Contraseña",
+  "temas": [
+    "Firma electrónica",
+    "SAT",
+    "Contraseña",
+    "RFC",
+    "Vigencia",
+    "Trámites fiscales",
+    "Identificación",
+    "e.firma"
+  ],
+  "terminos_coloquiales": [
+    "Contraseña del SAT",
+    "Firma digital",
+    "Acceso a servicios del SAT",
+    "Identificación electrónica"
+  ],
+  "resumen": "La Contraseña del SAT es una firma electrónica que sustituye la firma autógrafa y tiene el mismo valor probatorio. Debe ser renovada cada cuatro años y su uso es necesario para acceder a los servicios del SAT de manera electrónica.",
+  "preguntas_ejemplo": [
+    "¿Qué es la Contraseña del SAT?",
+    "¿Cómo se renueva la Contraseña para acceder a mis trámites fiscales?",
+    "¿La Contraseña es igual a una firma autógrafa?",
+    "¿Cuánto tiempo dura la vigencia de la Contraseña del SAT?",
+    "¿Qué debo hacer si me piden información adicional para mi Contraseña?",
+    "¿Qué pasa si no actualizo mi Contraseña a tiempo?"
+  ]
+}

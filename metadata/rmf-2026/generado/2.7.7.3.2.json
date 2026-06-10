@@ -1,0 +1,35 @@
+{
+  "clave": "2.7.7.3.2",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.7.3.2. Servicios de fletamento por tiempo determinado",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:80457ebc164697f8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Servicios de fletamento por tiempo",
+  "temas": [
+    "CFDI de traslado",
+    "CFDI de ingreso",
+    "complemento Carta Porte",
+    "fletante",
+    "fletador",
+    "transporte marítimo"
+  ],
+  "terminos_coloquiales": [
+    "fletamento",
+    "CFDI Carta Porte",
+    "factura de transporte",
+    "fletador",
+    "fletante"
+  ],
+  "resumen": "Esta regla establece que al fletar una embarcación, el fletador debe emitir un CFDI de tipo traslado con complemento Carta Porte para el transporte de mercancías. Si el fletador transporta mercancías para un tercero, debe emitir un CFDI de tipo ingreso con el mismo complemento. Esta regla no aplica si el fletador es extranjero sin establecimiento en México.",
+  "preguntas_ejemplo": [
+    "¿Cómo emito un CFDI por servicios de fletamento?",
+    "¿Qué tipo de CFDI necesito para transportar mercancías marítimas?",
+    "¿Es necesario emitir un CFDI si soy fletador y transporto para un tercero?",
+    "¿Qué es el complemento Carta Porte?",
+    "¿Aplica la regla si soy extranjero y no tengo establecimiento en México?"
+  ]
+}

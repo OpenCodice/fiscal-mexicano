@@ -1,0 +1,35 @@
+{
+  "clave": "2.7.1.5",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.5. De la generación del CSD",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5a127857550fb27e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Generación del Certificado de Sello Digital (CSD)",
+  "temas": [
+    "CFDI",
+    "CSD",
+    "e.firma",
+    "Portal del SAT",
+    "descarga de certificados",
+    "domicilio fiscal",
+    "sucursales"
+  ],
+  "terminos_coloquiales": [
+    "Solicitud del CSD",
+    "Certificado de sello digital",
+    "CSD",
+    "Certificados SAT"
+  ],
+  "resumen": "Los contribuyentes deben generar y solicitar su Certificado de Sello Digital (CSD) utilizando el software ‘Certifica’ a través del Portal del SAT. Este proceso incluye la creación de archivos con la clave privada y un requerimiento para el CSD.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo solicitar mi Certificado de Sello Digital?",
+    "¿Qué necesito para generar un CSD?",
+    "¿Dónde descargo mi Certificado de Sello Digital?",
+    "¿Puedo tener un CSD para cada sucursal?",
+    "¿Qué es la e.firma en la solicitud del CSD?"
+  ]
+}

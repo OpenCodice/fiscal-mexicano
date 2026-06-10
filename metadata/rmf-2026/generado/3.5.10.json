@@ -1,0 +1,36 @@
+{
+  "clave": "3.5.10",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 3.5.10. en custodia o administración fideicomisos de deuda",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2eff457ff2f56eaa",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Fideicomisos de deuda",
+  "temas": [
+    "certificados emitidos",
+    "custodia",
+    "intermediarios financieros",
+    "información al SAT",
+    "retenciones de ISR",
+    "intereses pagados",
+    "fideicomisos"
+  ],
+  "terminos_coloquiales": [
+    "información de fideicomisos",
+    "certificados de fideicomisos",
+    "custodia de certificados",
+    "ISR fideicomisos",
+    "RMF 3.2.16"
+  ],
+  "resumen": "Los intermediarios financieros deben proporcionar información al SAT sobre los certificados emitidos por fideicomisos y los intereses pagados a sus propietarios. También deben entregar constancias a los propietarios sobre sus ingresos y las retenciones de ISR correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben reportar los intermediarios sobre los fideicomisos?",
+    "¿Cómo se calcula el ISR de los intereses de certificados de fideicomisos?",
+    "¿Qué datos contiene la constancia que entregan los intermediarios a los propietarios de certificados?",
+    "¿Cuándo se debe enviar la información al SAT sobre los fideicomisos?",
+    "¿Quién es responsable de los errores en la información de los fideicomisos?"
+  ]
+}

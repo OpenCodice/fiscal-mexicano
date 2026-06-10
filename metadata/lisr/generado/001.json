@@ -1,0 +1,36 @@
+{
+  "clave": "001",
+  "documento": "lisr",
+  "etiqueta": "Artículo 1o.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9cad72f120bc5fb8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Impuesto sobre la Renta",
+  "temas": [
+    "personas físicas",
+    "personas morales",
+    "ingresos",
+    "residentes en México",
+    "residentes en el extranjero",
+    "establecimiento permanente",
+    "fuentes de riqueza"
+  ],
+  "terminos_coloquiales": [
+    "ISR",
+    "impuesto sobre la renta",
+    "ingresos de residentes",
+    "impuesto personas físicas",
+    "impuesto personas morales"
+  ],
+  "resumen": "El Artículo 1o. establece que tanto las personas físicas como las morales deben pagar impuesto sobre la renta bajo ciertas condiciones, como ser residentes en México o tener un establecimiento permanente en el país si son residentes en el extranjero.",
+  "preguntas_ejemplo": [
+    "¿Quiénes están obligados a pagar el ISR?",
+    "¿Qué ingresos están sujetos al impuesto sobre la renta?",
+    "¿Los extranjeros deben pagar ISR?",
+    "¿Qué es un establecimiento permanente?",
+    "¿Qué pasa con los ingresos de fuentes nacionales para extranjeros?"
+  ]
+}

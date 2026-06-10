@@ -1,0 +1,32 @@
+{
+  "clave": "2.7.1.32",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.32. Expedición de CFDI por pagos realizados",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:07c392121b7cebe9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Expedición de CFDI por pagos realizados",
+  "temas": [
+    "CFDI",
+    "comprobantes fiscales",
+    "pagos recibidos",
+    "complemento para recepción de pagos"
+  ],
+  "terminos_coloquiales": [
+    "factura electrónica",
+    "CFDI por pagos",
+    "CPRP",
+    "complemento de pago"
+  ],
+  "resumen": "Se deben emitir CFDI por el total de la operación y por cada pago recibido, indicando \"cero\" en el total de los pagos. Se puede emitir un solo CFDI por todos los pagos de un mes para el mismo receptor.",
+  "preguntas_ejemplo": [
+    "¿Cómo emito un CFDI por pagos parciales?",
+    "¿Qué debo incluir en el CFDI de complemento para recepción de pagos?",
+    "¿Cuándo tengo que emitir el CFDI por un pago recibido?",
+    "¿Puedo emitir un solo CFDI por varios pagos?",
+    "¿Qué pasa si no recibo el pago al emitir el CFDI?"
+  ]
+}

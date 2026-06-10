@@ -1,0 +1,36 @@
+{
+  "clave": "2.13.6",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.13.6. Entero del saldo de la cantidad ofrecida en la postura o de la que resultó de las mejoras",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ef21580dfa7c906a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Entero del saldo de la postura en subastas",
+  "temas": [
+    "subastas",
+    "postores",
+    "pagos",
+    "bien inmuebles",
+    "bien muebles",
+    "transferencia electrónica",
+    "SAT"
+  ],
+  "terminos_coloquiales": [
+    "pago de subasta",
+    "saldo de la postura",
+    "participación en subasta",
+    "SubastaSAT"
+  ],
+  "resumen": "Esta regla establece que el postor ganador debe realizar el pago completo de su postura o de la mejora en un plazo determinado, dependiendo de si son bienes muebles o inmuebles. El pago se hace a través de transferencia electrónica a una cuenta bancaria específica.",
+  "preguntas_ejemplo": [
+    "¿Cómo hago el pago si gané una subasta?",
+    "¿Cuánto tiempo tengo para pagar la postura en una subasta?",
+    "¿Qué procedimiento debo seguir para pagar mi postura en SubastaSAT?",
+    "¿Qué datos necesito para realizar el pago de una subasta?",
+    "¿Puede alguien más hacer el pago por mí en una subasta?",
+    "¿Qué pasa si no pago a tiempo mi postura en la subasta?"
+  ]
+}

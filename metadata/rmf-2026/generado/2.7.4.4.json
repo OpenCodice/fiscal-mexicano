@@ -1,0 +1,33 @@
+{
+  "clave": "2.7.4.4",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.4.4. generación de CFDI para el sector primario",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c06af99695d74411",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Generación de CFDI para el sector primario",
+  "temas": [
+    "CFDI",
+    "sector primario",
+    "sello digital",
+    "representaciones impresas",
+    "proveedor de certificación"
+  ],
+  "terminos_coloquiales": [
+    "CFDI sector primario",
+    "factura del campo",
+    "comprobante fiscal del sector primario",
+    "PCGCFDISP"
+  ],
+  "resumen": "Esta regla establece los requisitos que deben cumplir las representaciones impresas de los CFDI del sector primario, incluyendo la información que deben contener, como el sello digital y la firma del productor. También describe cómo deben ser emitidos por los proveedores de certificación.",
+  "preguntas_ejemplo": [
+    "¿Qué requisitos deben cumplir los CFDI del sector primario?",
+    "¿Cómo se debe emitir un CFDI para el sector primario?",
+    "¿Qué información debe contener la representación impresa de un CFDI del campo?",
+    "¿Qué es el PCGCFDISP y qué funciones tiene?",
+    "¿Cómo se genera el sello digital para un CFDI del sector primario?"
+  ]
+}

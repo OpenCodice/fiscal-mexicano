@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.2.9",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.2.9. Obligaciones de los proveedores en el proceso de certificación de CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:220ac9837d3de0ae",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Obligaciones de Proveedores de CFDI",
+  "temas": [
+    "Certificación de CFDI",
+    "Validaciones de documentos",
+    "Sello digital",
+    "Timbre Fiscal Digital",
+    "Plazos de certificación",
+    "Anexo 20",
+    "CSD del contribuyente"
+  ],
+  "terminos_coloquiales": [
+    "Proveedores de CFDI",
+    "Certificación de Facturas",
+    "CFDI",
+    "CSD",
+    "SAT"
+  ],
+  "resumen": "La regla establece las obligaciones y validaciones que deben cumplir los proveedores de certificación de CFDI para certificar los comprobantes fiscales digitales. Incluye requisitos sobre vigencia del sello digital y especificaciones técnicas.",
+  "preguntas_ejemplo": [
+    "¿Qué requisitos deben cumplir los proveedores de CFDI para certificar una factura?",
+    "¿Cómo se valida la vigencia del CSD en un CFDI?",
+    "¿Qué información se incluye en la respuesta del proveedor tras certificar un CFDI?",
+    "¿Qué pasa si un CFDI ya fue certificado anteriormente?",
+    "¿Cuánto tiempo tengo para certificar un CFDI después de generarlo?"
+  ]
+}

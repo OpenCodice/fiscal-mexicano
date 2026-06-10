@@ -1,0 +1,34 @@
+{
+  "clave": "2.9.3",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.9.3. del buzón tributario",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1ad4d74ab268dbbf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Verificación de documentos fiscales",
+  "temas": [
+    "e.firma",
+    "sello digital",
+    "Código QR",
+    "verificación de documentos",
+    "integridad y autoría",
+    "notificaciones electrónicas",
+    "SAT"
+  ],
+  "terminos_coloquiales": [
+    "verificar documentos",
+    "comprobar firmas electrónicas",
+    "integridad de documentos",
+    "verificación SAT"
+  ],
+  "resumen": "Esta regla establece cómo los contribuyentes pueden comprobar la integridad y autoría de documentos fiscales firmados electrónicamente, utilizando un código QR o a través del Portal del SAT. Proporciona detalles sobre la información que se mostrará durante la verificación.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo verificar la firma electrónica de un documento fiscal?",
+    "¿Qué son los códigos QR en la verificación de documentos?",
+    "¿Dónde puedo comprobar la integridad de mis documentos fiscales?",
+    "¿Qué información se muestra al verificar un documento en el SAT?"
+  ]
+}

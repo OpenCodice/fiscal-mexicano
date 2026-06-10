@@ -1,0 +1,34 @@
+{
+  "clave": "3.5.18",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 3.5.18. para el retiro",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0dd6fc5f2c6fc150",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Retiro de Fondos para el Retiro",
+  "temas": [
+    "Administradoras de fondos",
+    "Intereses",
+    "RFC",
+    "CURP",
+    "Información fiscal",
+    "Identificación de contribuyentes"
+  ],
+  "terminos_coloquiales": [
+    "Fondos para el retiro",
+    "AFORE",
+    "Identificación con RFC",
+    "Requisitos de información fiscal"
+  ],
+  "resumen": "Las administradoras de fondos para el retiro pueden identificar a los contribuyentes que reciben intereses, usando su RFC o CURP. Si hay discrepancias con el SAT, deben informar electrónicamente los datos del contribuyente.",
+  "preguntas_ejemplo": [
+    "¿Cómo identifican las AFORE a los contribuyentes?",
+    "¿Qué pasa si mi RFC no coincide con el del SAT?",
+    "¿Qué información deben proporcionar las administradoras sobre mis intereses?",
+    "¿Puedo usar mi CURP en lugar del RFC para los fondos para el retiro?",
+    "¿Qué debo hacer si no tengo RFC?"
+  ]
+}

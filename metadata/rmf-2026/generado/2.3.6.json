@@ -1,0 +1,36 @@
+{
+  "clave": "2.3.6",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.3.6. Procedimiento para consultar el trámite de devolución",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:61091ebe2876e5d0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Consulta de Trámite de Devolución",
+  "temas": [
+    "devolución",
+    "sat",
+    "RFC",
+    "e.firma",
+    "trámite",
+    "saldos a favor",
+    "auditoría"
+  ],
+  "terminos_coloquiales": [
+    "cómo ver mi devolución",
+    "seguimiento de devolución",
+    "consultar estado de devolución",
+    "devolución de impuestos",
+    "CFF 22"
+  ],
+  "resumen": "Los contribuyentes pueden consultar el estado de su trámite de devolución a través del portal del SAT. Para ello, necesitan su clave en el RFC y su e.firma, e.firma portable o contraseña.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo saber el estado de mi devolución?",
+    "¿Qué necesito para consultar mi trámite de devolución?",
+    "¿Dónde puedo ver el seguimiento de mi devolución?",
+    "¿Se puede consultar la devolución en línea?",
+    "¿Qué documentos se requieren para la consulta de mi devolución?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "4.5.2",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 4.5.2. pagos del mes",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:89ef4eeef9429fae",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Pagos del mes del IVA",
+  "temas": [
+    "obligaciones de los contribuyentes",
+    "información de proveedores",
+    "comprobantes fiscales",
+    "gastos deducibles",
+    "limites de erogaciones"
+  ],
+  "terminos_coloquiales": [
+    "declaración de IVA",
+    "reportes de proveedores",
+    "gastos de IVA",
+    "LIVA 32"
+  ],
+  "resumen": "Los contribuyentes pueden omitir detallar a sus proveedores en ciertos pagos mensuales, siempre que estos no superen un 10% del total pagado en el mes, y que ninguna erogación individual sobrepase los 50,000 pesos. Además, hay gastos específicos que no se cuentan dentro de este límite.",
+  "preguntas_ejemplo": [
+    "¿Cuánto puedo pagar sin tener que incluir a mis proveedores?",
+    "¿Qué gastos no se cuentan para el cálculo del 10% de mis pagos?",
+    "¿Qué requisitos deben cumplir mis comprobantes fiscales?",
+    "¿Qué sucede si mis erogaciones superan los 50,000 pesos por proveedor?",
+    "¿Puedo omitir a mis proveedores en mi declaración de IVA?"
+  ]
+}

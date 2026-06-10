@@ -1,0 +1,35 @@
+{
+  "clave": "2.2.3",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.3. Información que deben contener los certificados",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:29976893f0ce56f2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Información de certificados del SAT",
+  "temas": [
+    "certificados SAT",
+    "código de identificación",
+    "periodo de validez",
+    "mecanismos de e.firma",
+    "CFDI",
+    "CSD",
+    "identificación única"
+  ],
+  "terminos_coloquiales": [
+    "certificado SAT",
+    "CSD",
+    "e.firma",
+    "CFDI"
+  ],
+  "resumen": "Esta disposición establece que los certificados emitidos por el SAT deben incluir información específica como el código de identificación único y el periodo de validez. También menciona los estándares que deben seguir los datos de certificados digitales.",
+  "preguntas_ejemplo": [
+    "¿Qué datos debe tener un certificado del SAT?",
+    "¿Cuál es el periodo de validez de un certificado?",
+    "¿Qué es el código de identificación único del certificado?",
+    "¿Puedo usar mi e.firma en lugar del CSD para CFDI?",
+    "¿Qué estándares siguen los certificados digitales emitidos por el SAT?"
+  ]
+}

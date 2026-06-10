@@ -1,0 +1,32 @@
+{
+  "clave": "11.13.10",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 11.13.10. Control de la salida, entrada y traslado de bienes",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f095b3f47beab83e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Control de salida y entrada de bienes en POINBI",
+  "temas": [
+    "CFDI",
+    "Complemento Carta Porte",
+    "Traslado de bienes",
+    "POINBI"
+  ],
+  "terminos_coloquiales": [
+    "Control de bienes",
+    "Carta Porte",
+    "CFDI con Carta Porte",
+    "POINBI"
+  ],
+  "resumen": "La regla establece que para el control de la salida y entrada de bienes en los POINBI, se debe emitir el CFDI con el Complemento Carta Porte que identifique el origen y destino de los bienes. Además, se debe incluir una leyenda específica en el CFDI para operaciones dentro de estos Polos.",
+  "preguntas_ejemplo": [
+    "¿Cómo debo manejar el traslado de bienes en un POINBI?",
+    "¿Qué es el Complemento Carta Porte?",
+    "¿Es necesario un CFDI para el tránsito de bienes?",
+    "¿Qué información debe incluir el CFDI en un POINBI?",
+    "¿Cuáles son las obligaciones para enajenar bienes en los POINBI?"
+  ]
+}

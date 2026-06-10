@@ -1,0 +1,111 @@
+name: Vigilar corpus fiscal
+
+# Vigila las fuentes oficiales del corpus fiscal (Cámara de Diputados para leyes,
+# códigos y reglamentos; SAT para la RMF y los criterios) y abre un PR cuando el
+# texto vigente cambia. La detección la hace git: se reconstruye el repo y se
+# compara; NO se comparan bytes de los PDF.
+#
+# El PR trae solo texto + metadata (reconstrucción determinista y gratuita).
+# El validador corre como gate: si los invariantes fallan, no se abre PR.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'        # cada lunes 09:00 UTC
+  workflow_dispatch: {}         # también disparo manual
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  # Repo del extractor (código). Ajusta si el owner/nombre difiere.
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo de datos
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Descargar fuentes y reconstruir el corpus
+        id: reconstruir
+        # Exit 3 = alguna fuente no se pudo resolver/descargar pero el resto sí
+        # se reconstruyó: se sigue (el PR de lo que sí cambió vale) y el paso
+        # final pone el job en rojo para que el fallo no pase inadvertido.
+        run: |
+          cd /tmp/extractor
+          set +e
+          PYTHONPATH=/tmp/extractor python -m extractor actualizar \
+            --out "$GITHUB_WORKSPACE"
+          code=$?
+          if [ "$code" -eq 3 ]; then
+            echo "fuentes_fallidas=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          exit "$code"
+
+      - name: Validar invariantes (gate)
+        # Si la reconstrucción rompe un invariante (regresión del parser,
+        # colisión, hueco…), el job falla y NO se abre PR.
+        run: |
+          PYTHONPATH=/tmp/extractor python -m extractor validar \
+            --out "$GITHUB_WORKSPACE"
+
+      - name: Actualizar la tabla de documentos del README
+        # Refresca los enlaces a los PDF y las fechas de última reforma desde la
+        # metadata recién reconstruida, para que entren en el mismo PR.
+        run: python "$GITHUB_WORKSPACE/scripts/gen_readme.py"
+
+      - name: ¿Cambió el texto vigente?
+        id: cambios
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "hay_cambios=true" >> "$GITHUB_OUTPUT"
+            git status --short | head -40
+          else
+            echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios: el corpus coincide con las fuentes."
+          fi
+
+      - name: Generar cuerpo del PR
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          python /tmp/extractor/scripts/pr_summary.py "$GITHUB_WORKSPACE" > /tmp/cuerpo.md
+          cat /tmp/cuerpo.md
+
+      - name: Abrir Pull Request
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          # Con un PAT (secret PR_TOKEN) el PR nace atribuido a un usuario real,
+          # así dispara `revisar-pr` (gate) como un PR humano. Si el secret no
+          # existe, cae al GITHUB_TOKEN (el PR se abre pero sin checks).
+          token: ${{ secrets.PR_TOKEN || github.token }}
+          branch: actualizacion/corpus-fiscal-automatica
+          base: main
+          title: '🧾 Cambio en el corpus fiscal (detección automática)'
+          body-path: /tmp/cuerpo.md
+          commit-message: 'Actualización automática del corpus fiscal vigente'
+          labels: |
+            actualizacion
+            automatico
+          delete-branch: true
+
+      - name: Alertar fuentes fallidas
+        if: steps.reconstruir.outputs.fuentes_fallidas == 'true'
+        run: |
+          echo "::error::Alguna fuente no se pudo resolver o descargar (URL muerta o cambió la página del SAT). Revisa el log del paso de descarga."
+          exit 1

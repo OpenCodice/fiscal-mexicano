@@ -1,0 +1,35 @@
+{
+  "clave": "011",
+  "documento": "liva",
+  "etiqueta": "Artículo 11.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4bd98e44c81d388f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Enajenación de bienes",
+  "temas": [
+    "momentos de enajenación",
+    "contraprestaciones",
+    "títulos",
+    "certificados de participación",
+    "faltantes en inventarios",
+    "donaciones"
+  ],
+  "terminos_coloquiales": [
+    "cuando se vende un bien",
+    "enajenación de títulos",
+    "certificado de participación inmobiliaria",
+    "falta de bienes en inventarios",
+    "donaciones"
+  ],
+  "resumen": "El artículo establece cuándo se considera que se realiza la enajenación de bienes, ya sea al recibir el pago, al transferir títulos o certificados, o cuando se detecten faltantes en inventarios. También se especifica que en el caso de donaciones, la enajenación ocurre al entregar el bien o emitir el comprobante de transferencia.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se considera que se vendió un bien?",
+    "¿Cómo se determina la enajenación de un certificado de participación?",
+    "¿Qué pasa si hay faltante de bienes en el inventario?",
+    "¿Cuándo se considera que se hizo una donación?",
+    "¿Qué significa enajenación de títulos?"
+  ]
+}

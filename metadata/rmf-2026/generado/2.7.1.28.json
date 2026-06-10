@@ -1,0 +1,33 @@
+{
+  "clave": "2.7.1.28",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.28. Integración del Número de Identificación Vehicular",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:af0a2d08f9fd1850",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Número de Identificación Vehicular en CFDI",
+  "temas": [
+    "CFDI",
+    "Número de identificación vehicular",
+    "Norma Oficial Mexicana",
+    "Contribuyentes",
+    "Complemento fiscal"
+  ],
+  "terminos_coloquiales": [
+    "Identificación vehicular",
+    "NIV",
+    "CFDI con NIV",
+    "Norma NOM-001-SSP-2008"
+  ],
+  "resumen": "Esta regla establece que el número de identificación vehicular debe integrarse en los Comprobantes Fiscales Digitales por Internet (CFDI) según la Norma Oficial Mexicana correspondiente. Los contribuyentes tienen la obligación de señalar este número en el complemento adecuado.",
+  "preguntas_ejemplo": [
+    "¿Cómo se integra el número de identificación vehicular en un CFDI?",
+    "¿Qué norma regula el uso del número de identificación vehicular?",
+    "¿Dónde se debe colocar el número de identificación vehicular en los CFDI?",
+    "¿Qué es el NIV en los comprobantes fiscales?",
+    "¿Qué información debe incluir un CFDI respecto al número de identificación vehicular?"
+  ]
+}

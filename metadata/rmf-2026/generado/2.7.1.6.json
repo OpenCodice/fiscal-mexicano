@@ -1,0 +1,34 @@
+{
+  "clave": "2.7.1.6",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.6. móviles",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:093e17e32a7b3490",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Factura SAT Móvil",
+  "temas": [
+    "CFDI",
+    "Genera tu factura",
+    "Código QR",
+    "Aplicación móvil",
+    "Portal del SAT"
+  ],
+  "terminos_coloquiales": [
+    "factura digital",
+    "expedir CFDI",
+    "app facturación",
+    "Factura SAT Móvil",
+    "CFDI sin PCCFDI"
+  ],
+  "resumen": "Los contribuyentes pueden emitir CFDI a través de la herramienta 'Genera tu factura' o la aplicación 'Factura SAT Móvil', sin necesidad de remitirlos a un PCCFDI. La aplicación incluye un lector y generador de código QR para facilitar la expedición de CFDI.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo expedir una factura digital sin PCCFDI?",
+    "¿Dónde descargo la app de Factura SAT Móvil?",
+    "¿Qué es el código QR en la Factura SAT Móvil?",
+    "¿Qué herramienta necesito para generar un CFDI?",
+    "¿Puedo emitir CFDI desde mi celular?"
+  ]
+}

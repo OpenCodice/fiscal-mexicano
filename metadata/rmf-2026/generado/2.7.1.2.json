@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.1.2",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.1.2. Generación del CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a75823acccddf16b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Generación del CFDI",
+  "temas": [
+    "CFDI",
+    "validación",
+    "sello digital",
+    "especificaciones técnicas",
+    "addenda",
+    "sistemas informáticos",
+    "proveedores de certificación"
+  ],
+  "terminos_coloquiales": [
+    "comprobante fiscal digital",
+    "CFDI",
+    "certificación de CFDI",
+    "sello del SAT",
+    "validación de CFDI"
+  ],
+  "resumen": "Los contribuyentes deben generar CFDI siguiendo ciertas especificaciones técnicas y enviarlos a un PCCFDI para validación y certificación. También pueden incorporar addendas y usar sistemas propios o servicios de terceros para generarlos.",
+  "preguntas_ejemplo": [
+    "¿Cómo genero un CFDI válido?",
+    "¿Qué pasos debo seguir para certificar mi CFDI?",
+    "¿Qué es el PCCFDI y qué función tiene?",
+    "¿Puedo usar un software para crear mis CFDI?",
+    "¿Qué es una addenda y cómo la incorporo al CFDI?"
+  ]
+}

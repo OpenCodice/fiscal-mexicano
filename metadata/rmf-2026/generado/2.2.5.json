@@ -1,0 +1,32 @@
+{
+  "clave": "2.2.5",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.5. Cancelación de Certificados por muerte, extinción del titular o duplicidad",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e864b3f829f4f0f2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Cancelación de Certificados",
+  "temas": [
+    "Muerte del titular",
+    "Extinción de sociedades",
+    "Duplicidad de RFC",
+    "Revocación de certificados"
+  ],
+  "terminos_coloquiales": [
+    "Cancelación de certificados",
+    "Cancelación por muerte",
+    "RFC duplicado",
+    "CFF"
+  ],
+  "resumen": "La autoridad fiscal cancelará certificados de contribuyentes si se presenta aviso de fallecimiento, extinción por liquidación o duplicidad en el RFC. Los certificados serán revocados una vez cancelado el RFC del contribuyente.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa con mi certificado si fallezco?",
+    "¿Cómo se cancela un RFC por duplicidad?",
+    "¿Qué debo hacer si mi sociedad se extingue?",
+    "¿Qué ocurre con los certificados tras la muerte de un contribuyente?",
+    "¿Cómo se procede con la cancelación de certificados asociados a un RFC?"
+  ]
+}

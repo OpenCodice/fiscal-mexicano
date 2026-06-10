@@ -1,0 +1,33 @@
+{
+  "clave": "3.11.1",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 3.11.1. obligaciones",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c1cd2ccf5f161712",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Obligaciones de Personas Físicas",
+  "temas": [
+    "Ingresos por préstamos",
+    "Donativos",
+    "Premios",
+    "Declaración anual",
+    "Relevación de obligaciones"
+  ],
+  "terminos_coloquiales": [
+    "Declaración de ingresos",
+    "Obligaciones fiscales",
+    "RFC",
+    "ISR"
+  ],
+  "resumen": "Las personas físicas que reciben ingresos por préstamos, donativos y premios superiores a $600,000 necesitan reportarlos en su declaración anual. Además, si solo tienen ingresos exentos, no tienen que presentar un aviso de actualización ante el RFC si ya están inscritos por otros ingresos.",
+  "preguntas_ejemplo": [
+    "¿Qué ingresos debo declarar si supero los $600,000?",
+    "¿Están exentos los premios de la declaración anual?",
+    "¿Qué pasa si solo tengo ingresos por donativos?",
+    "¿Necesito presentar un aviso si tengo ingresos exentos?",
+    "¿Cómo afectará mi RFC al declarar estos ingresos?"
+  ]
+}

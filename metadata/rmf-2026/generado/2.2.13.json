@@ -1,0 +1,33 @@
+{
+  "clave": "2.2.13",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.2.13. Renovación del certificado de e.firma mediante e.firma portable",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6aefb5a9f77b667d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Renovación de e.firma portable",
+  "temas": [
+    "e.firma",
+    "certificado digital",
+    "renovación de certificado",
+    "SAT",
+    "contribuyentes"
+  ],
+  "terminos_coloquiales": [
+    "renovar e.firma",
+    "certificado de e.firma",
+    "e.firma portable",
+    "SAT"
+  ],
+  "resumen": "Los contribuyentes con e.firma portable pueden renovar su certificado digital a través del portal del SAT, incluso si está activo, caduco o revocado. Sin embargo, si hay restricciones en el uso del certificado, no se podrá aplicar esta facilidad en ciertos casos.",
+  "preguntas_ejemplo": [
+    "¿Cómo renuevo mi e.firma portable?",
+    "¿Qué hacer si mi certificado de e.firma está revocado?",
+    "¿Puedo renovar mi e.firma si está caduco?",
+    "¿Cuáles son los requisitos para renovar el certificado de e.firma?",
+    "¿Dónde puedo solicitar la renovación del certificado de e.firma?"
+  ]
+}

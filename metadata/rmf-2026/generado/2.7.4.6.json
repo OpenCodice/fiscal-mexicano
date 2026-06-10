@@ -1,0 +1,36 @@
+{
+  "clave": "2.7.4.6",
+  "documento": "rmf-2026",
+  "etiqueta": "Regla 2.7.4.6. primario",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c97c3fdda1236b23",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Proveedores de Certificación de CFDI",
+  "temas": [
+    "CFDI",
+    "PCGCFDISP",
+    "habilitación de RFC",
+    "certificación de comprobantes",
+    "validaciones del CFDI",
+    "anexo 20",
+    "cancelación de CFDI"
+  ],
+  "terminos_coloquiales": [
+    "proveedores de CFDI",
+    "certificación de facturas",
+    "PCGCFDISP",
+    "comprobantes fiscales digitales",
+    "factura electrónica"
+  ],
+  "resumen": "Los Proveedores de Certificación de CFDI deben recibir la clave RFC de los contribuyentes y verificar ciertos requisitos para certificar los CFDI. Además, ofrecen servicios de consulta y obtención de representaciones impresas de los CFDI generados.",
+  "preguntas_ejemplo": [
+    "¿Qué es un PCGCFDISP?",
+    "¿Cómo se certifica un CFDI?",
+    "¿Qué requisitos debe cumplir un CFDI para ser certificado?",
+    "¿Cómo cancelo un CFDI a través de un proveedor de certificación?",
+    "¿Qué información lleva el complemento de un CFDI certificado?"
+  ]
+}
