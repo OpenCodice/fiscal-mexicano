@@ -1,0 +1,41 @@
+{
+  "clave": "1.10",
+  "documento": "rfa-2026",
+  "etiqueta": "Regla 1.10. Impuesto al valor agregado",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ff9bd4d841ff85bc",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Obligaciones fiscales del sector primario",
+  "temas": [
+    "IVA",
+    "CFDI",
+    "retenciones",
+    "segmento agrícola",
+    "segmento ganadero",
+    "segmento silvícola",
+    "segmento pesquero",
+    "declaraciones fiscales"
+  ],
+  "terminos_coloquiales": [
+    "impuesto al valor agregado",
+    "factura",
+    "comprobante de retenciones",
+    "liquidación",
+    "agricultores",
+    "ganaderos",
+    "silvicultores",
+    "pescadores"
+  ],
+  "resumen": "Las personas morales del sector primario pueden cumplir con sus obligaciones fiscales del IVA por cuenta de sus integrantes y deben emitir un CFDI de retenciones que incluya ciertos requisitos. Además, deben declarar globalmente sus operaciones y las de sus integrantes.",
+  "preguntas_ejemplo": [
+    "¿Cómo cumplen las empresas del sector primario con el IVA?",
+    "¿Qué información debe contener un CFDI de retenciones?",
+    "¿Qué requisitos deben seguir las personas morales del sector agrícola para cumplir con sus obligaciones fiscales?",
+    "¿Cómo se declaran las operaciones de los integrantes de una persona moral en el sector primario?",
+    "¿Qué es el complemento de liquidación en un CFDI?"
+  ]
+}

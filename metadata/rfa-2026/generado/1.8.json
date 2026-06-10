@@ -1,0 +1,38 @@
+{
+  "clave": "1.8",
+  "documento": "rfa-2026",
+  "etiqueta": "Regla 1.8. electrónicos",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3b1121de2eedbbc4",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Exención de pagos en el sector primario",
+  "temas": [
+    "pagos a contribuyentes",
+    "actividades agrícolas",
+    "actividades silvícolas",
+    "actividades ganaderas",
+    "actividades pesqueras",
+    "liberación de obligaciones"
+  ],
+  "terminos_coloquiales": [
+    "pago en efectivo",
+    "actividades del campo",
+    "ganadería",
+    "pesca",
+    "cheque",
+    "tarjeta de débito",
+    "monedero electrónico"
+  ],
+  "resumen": "Las personas que paguen a quienes se dedican a actividades agrícolas, ganaderas, silvícolas o pesqueras no necesitan hacer el pago con cheque o tarjeta si el monto es menor a $5,000 en un mes. Esto les permite usar formas de pago más simples.",
+  "preguntas_ejemplo": [
+    "¿Puedo pagar en efectivo a un agricultor?",
+    "¿Qué monto exenta de obligaciones de pago a los contribuyentes del sector primario?",
+    "¿Hay restricciones para pagar a un ganadero?",
+    "¿Qué tipo de pagos se pueden hacer a los pescadores?",
+    "¿Cómo puedo pagar a un silvicultor sin usar un cheque?"
+  ]
+}
