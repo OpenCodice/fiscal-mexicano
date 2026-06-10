@@ -1,0 +1,30 @@
+{
+  "clave": "011",
+  "documento": "lsat",
+  "etiqueta": "Artículo 11.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:64a7d35d014b9b4d",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Junta de Gobierno",
+  "temas": [
+    "sesiones ordinarias",
+    "sesiones extraordinarias",
+    "resoluciones",
+    "voto de calidad"
+  ],
+  "terminos_coloquiales": [
+    "Junta de Gobierno",
+    "reuniones del SAT"
+  ],
+  "resumen": "La Junta de Gobierno se reúne al menos una vez cada tres meses y puede convocar sesiones extraordinarias. Las decisiones se toman por mayoría de votos y el Secretario de Hacienda tiene un voto adicional en caso de empate.",
+  "preguntas_ejemplo": [
+    "¿Con qué frecuencia se reúne la Junta de Gobierno?",
+    "¿Quién puede convocar sesiones extraordinarias en la Junta de Gobierno?",
+    "¿Cómo se toman las decisiones en la Junta de Gobierno?",
+    "¿Qué pasa en caso de empate en la votación de la Junta de Gobierno?"
+  ]
+}
