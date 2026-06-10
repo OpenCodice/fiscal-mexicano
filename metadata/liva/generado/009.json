@@ -6,33 +6,39 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4d915beb016f13c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones en la enajenación de bienes",
+  "denominacion_comun": "Exenciones del IVA en enajenación de bienes",
   "temas": [
-    "exenciones fiscales",
+    "exenciones de IVA",
     "enajenación de bienes",
-    "impuesto al valor agregado",
-    "bienes inmuebles",
-    "bienes muebles",
-    "donativos deducibles",
+    "suelo",
+    "construcciones",
+    "bienes muebles usados",
     "moneda",
-    "títulos de crédito",
-    "certificados de participación"
+    "certificados de participación inmobiliaria",
+    "bienes entre residentes en el extranjero",
+    "donativos deducibles"
   ],
   "terminos_coloquiales": [
-    "exenciones de IVA",
-    "enajenación sin impuesto",
-    "bienes exentos",
-    "Ley del IVA"
+    "no pagar IVA",
+    "venta de casas",
+    "libros",
+    "revistas",
+    "billetes de lotería",
+    "dinero",
+    "certificados de participación",
+    "donativos",
+    "enajenación de bienes"
   ],
-  "resumen": "El Artículo 9o. de la LIVA establece que no se pagará el impuesto al valor agregado en la enajenación de ciertos bienes como el suelo, casas habitación, libros, bienes muebles usados y otros. También contempla exenciones para ciertas operaciones internacionales y donativos deducibles.",
+  "resumen": "El artículo establece los casos en que no se pagará el impuesto al valor agregado (IVA) en la venta de ciertos bienes, como el suelo, construcciones para casa habitación, libros, bienes muebles usados, y otros. También menciona exenciones relacionadas con operaciones entre residentes en el extranjero y donativos autorizados.",
   "preguntas_ejemplo": [
-    "¿Qué bienes están exentos de pagar el IVA?",
-    "¿Cuándo no se paga impuesto en la venta de propiedades?",
-    "¿Qué requisitos hay para las exenciones en la enajenación de bienes?",
-    "¿Los libros y periódicos están exentos de impuestos?",
-    "¿Qué sucede con la venta de bienes entre residentes en el extranjero?",
-    "¿Cómo funcionan los certificados de participación inmobiliaria en relación al IVA?"
+    "¿Cuáles son los bienes que están exentos de IVA?",
+    "¿Se paga IVA al vender una casa?",
+    "¿Es necesario pagar IVA por la venta de un libro?",
+    "¿Los bienes usados que vendo tienen IVA?",
+    "¿Qué pasa con el IVA si vendo bienes a alguien en el extranjero?",
+    "¿Cómo funcionan los donativos deducibles en términos de IVA?"
   ]
 }

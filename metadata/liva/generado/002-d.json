@@ -6,15 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo 2o-D (LIVA)",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene validez en la legislación actual.",
+  "denominacion_comun": "Derogación del Artículo 2o-D LIVA",
+  "temas": [
+    "derogación",
+    "ley del IVA",
+    "regulación fiscal",
+    "disposiciones fiscales"
+  ],
+  "terminos_coloquiales": [
+    "se quitó",
+    "ya no existe",
+    "Artículo 2o-D LIVA"
+  ],
+  "resumen": "El artículo 2o-D de la Ley del IVA ha sido derogado, lo que significa que ya no tiene validez ni aplicabilidad en la legislación fiscal actual.",
   "preguntas_ejemplo": [
-    "¿Qué dice el Artículo 2o-D de la LIVA?",
-    "¿Está vigente el artículo 2o-D de la Ley del IVA?",
-    "¿Qué pasó con el Artículo 2o-D de la LIVA?"
+    "¿Qué significa que se derogue el Artículo 2o-D de la LIVA?",
+    "¿Por qué se eliminó el Artículo 2o-D de la Ley del IVA?",
+    "¿Qué pasó con las disposiciones que estaban en el Artículo 2o-D de la LIVA?"
   ]
 }

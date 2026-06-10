@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4e0cc93c6ebb52cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto al Valor Agregado en Importaciones",
+  "denominacion_comun": "Impuesto al valor agregado en importaciones",
   "temas": [
     "importación de bienes",
-    "pago provisional",
+    "impuesto al valor agregado",
     "impuesto general de importación",
     "regímenes aduaneros",
-    "acreditamiento IVA",
-    "depósito fiscal"
+    "depósito fiscal",
+    "programas de maquila",
+    "acreditamiento"
   ],
   "terminos_coloquiales": [
     "IVA en importaciones",
     "pago de impuestos al importar",
-    "importaciones temporales",
-    "pedimento aduanal"
+    "importación temporal",
+    "maquila",
+    "bienes en depósito fiscal"
   ],
-  "resumen": "Este artículo establece que el impuesto al valor agregado (IVA) sobre la importación de bienes es provisional y debe pagarse junto con el impuesto general de importación. Además, menciona las condiciones bajo las cuales se pueden realizar los pagos y el acreditamiento del IVA pagado al importar.",
+  "resumen": "El artículo regula el pago provisional del IVA en la importación de bienes tangibles, que debe hacerse junto con el impuesto general de importación. Además, establece que el IVA pagado en la importación puede ser acreditado según lo que dispone la ley.",
   "preguntas_ejemplo": [
-    "¿Cuándo tengo que pagar el IVA al importar mercancías?",
-    "¿Qué es un pago provisional de impuesto al importar?",
-    "¿Cómo se acredita el IVA al importar bienes?",
-    "¿Qué requisitos tengo que cumplir para importar bajo un régimen aduanero?",
-    "¿Puedo retirar mercancías sin haber pagado el impuesto correspondiente?"
+    "¿Cómo se paga el IVA al importar bienes?",
+    "¿El IVA en importaciones es provisional?",
+    "¿Cuándo se puede acreditar el IVA en importaciones?",
+    "¿Qué pasa si los bienes están en depósito fiscal?",
+    "¿Puedo retirar mercancías de la aduana sin pagar el IVA?"
   ]
 }

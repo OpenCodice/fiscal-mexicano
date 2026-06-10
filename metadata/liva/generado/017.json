@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:416f1930fb23253e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligación de pago del IVA en servicios",
+  "denominacion_comun": "Impuesto sobre la prestación de servicios",
   "temas": [
-    "pago del IVA",
+    "obligación de pago",
     "prestación de servicios",
     "contraprestaciones",
     "intereses",
     "servicios gratuitos"
   ],
   "terminos_coloquiales": [
-    "pago del impuesto",
-    "IVA en servicios",
-    "servicios gratuitos"
+    "pago de impuestos por servicios",
+    "impuesto por servicios",
+    "servicios gratis"
   ],
-  "resumen": "El impuesto se debe pagar cuando se cobran los servicios, salvo en el caso de los intereses, donde se paga conforme se devengan. Si se ofrecen servicios gratuitos, se causará el impuesto al proporcionarlos.",
+  "resumen": "El impuesto sobre la prestación de servicios debe pagarse cuando se cobren las contraprestaciones, excepto en el caso de intereses, que se paga conforme se devengan. Si se prestan servicios de forma gratuita, el impuesto se causa al momento de proporcionar el servicio.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo pagar el IVA por mis servicios?",
-    "¿Qué pasa si ofrezco un servicio gratuito?",
-    "¿Cómo se calcula el IVA en la prestación de servicios?",
-    "¿En qué momento se genera la obligación de pago del impuesto?",
-    "¿Qué son las contraprestaciones en el IVA?"
+    "¿Cuándo se paga el impuesto por servicios que se cobran?",
+    "¿Qué pasa con los servicios gratuitos y el impuesto?",
+    "¿Cómo se manejan los intereses en el pago de impuestos sobre servicios?",
+    "¿Se debe pagar el impuesto si el servicio es proporcionado sin costo?",
+    "¿Cuál es el momento exacto para pagar el impuesto por la prestación de servicios?"
   ]
 }

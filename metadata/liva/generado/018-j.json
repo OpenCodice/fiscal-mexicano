@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74b7d5af85b473b8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intermediarios en servicios digitales",
+  "denominacion_comun": "Servicios digitales por residentes en el extranjero",
   "temas": [
     "IVA",
-    "residentes en el extranjero",
     "retenciones",
-    "comprobantes fiscales",
-    "información al SAT",
-    "publicación de precios",
-    "declaración electrónica"
+    "servicios digitales",
+    "intermediarios",
+    "obligaciones fiscales",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
+    "servicios en línea",
     "intermediarios digitales",
-    "IVA para extranjeros",
-    "retenciones de IVA",
-    "comprobantes de retenciones",
-    "Servicios Digitales IVA"
+    "IVA incluido",
+    "retención del IVA",
+    "comprobante fiscal digital",
+    "RIF"
   ],
-  "resumen": "Los residentes en el extranjero que actúan como intermediarios en servicios deben publicar claramente el IVA en los precios, retener un porcentaje del IVA en sus cobros y registrar su información ante el SAT. Además, deben proporcionar datos de sus clientes al SAT mensualmente.",
+  "resumen": "Este artículo establece las obligaciones para los residentes en el extranjero que actúan como intermediarios en servicios digitales en México, incluyendo la obligación de retener y enterar el IVA correspondiente, así como la publicación de precios con o sin el IVA incluido. También detalla la información que deben proporcionar al SAT sobre sus clientes.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los intermediarios digitales que residen en el extranjero?",
-    "¿Cómo deben manejar el IVA los servicios digitales en México?",
-    "¿Qué información deben reportar al SAT los intermediarios extranjeros?",
-    "¿Cuánto IVA deben retener los residentes en el extranjero?",
-    "¿Qué pasa si no publican el IVA en sus precios?"
+    "¿Qué obligaciones tienen los intermediarios digitales en México?",
+    "¿Cómo se debe retener el IVA para servicios prestados por extranjeros?",
+    "¿Qué información deben proporcionar los intermediarios al SAT?",
+    "¿Qué es el comprobante fiscal digital de retenciones?",
+    "¿Se debe incluir el IVA en los precios publicados por residentes en el extranjero?",
+    "¿Cuándo se debe enterar la retención del IVA?"
   ]
 }

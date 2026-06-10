@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80b1a4b2de8298fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales y IVA",
   "temas": [
-    "Contribuyentes",
-    "Servicios digitales",
-    "Intermediarios",
-    "Impuesto al valor agregado"
+    "impuesto al valor agregado",
+    "servicios digitales",
+    "intermediarios",
+    "actividades afectas",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "IVA servicios digitales",
-    "Contribuyentes digitales",
-    "Intermediarios de IVA"
+    "IVA",
+    "impuesto sobre ventas",
+    "servicios en línea",
+    "intermediarios digitales"
   ],
-  "resumen": "Los contribuyentes en México que ofrecen servicios digitales a otros en el país deben cumplir con obligaciones relacionadas con el impuesto al valor agregado. Esto incluye a quienes actúan como intermediarios en actividades de terceros que están sujetas a este impuesto.",
+  "resumen": "Los contribuyentes que ofrezcan servicios digitales a receptores en México deben cumplir con obligaciones fiscales relacionadas con el IVA. Esto incluye a aquellos que actúan como intermediarios en actividades que generan este impuesto.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los servicios digitales en México respecto al IVA?",
-    "¿Cómo afecta el IVA a los intermediarios que ofrecen servicios digitales?",
-    "¿Qué artículos debo revisar si soy un contribuyente digital en México?",
-    "¿Qué pasa si soy una persona moral que ofrece servicios afectos al IVA?",
-    "¿ cuáles son las obligaciones de los intermediarios de IVA en México?"
+    "¿Qué obligaciones fiscales tengo si ofrezco servicios digitales en México?",
+    "¿Cómo afecta el IVA a los servicios digitales que proporciono?",
+    "¿Quiénes son considerados intermediarios en el pago del IVA?",
+    "¿Qué dicen las leyes sobre servicios digitales y el impuesto al valor agregado?"
   ]
 }

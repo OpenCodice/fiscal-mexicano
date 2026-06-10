@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2635ec9d1c3daa9f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Factoraje Financiero",
+  "denominacion_comun": "Factoraje financiero",
   "temas": [
-    "Impuesto al Valor Agregado",
-    "Documentos Pendientes de Cobro",
-    "Transmisión de Documentos",
-    "Cobranzas",
-    "Responsabilidades Fiscales"
+    "impuesto al valor agregado",
+    "documentos pendientes de cobro",
+    "transmisión de documentos",
+    "contraprestación",
+    "responsabilidades del adquirente",
+    "estados de cuenta",
+    "cobranza",
+    "recuperaciones"
   ],
   "terminos_coloquiales": [
-    "Factoraje",
-    "IVA en Factoraje",
-    "Documentos por Cobrar"
+    "factoring",
+    "cobro de documentos",
+    "impuesto IVA",
+    "opción de cobranza",
+    "documentos financieros",
+    "documentos en factoraje"
   ],
-  "resumen": "El artículo detalla cómo los contribuyentes que transmiten documentos pendientes de cobro y realizan factoraje financiero deben considerar el IVA en el momento de la transmisión o en el cobro, según opciones. También establece responsabilidades sobre la entrega de estados de cuenta y la determinación del IVA correspondiente.",
+  "resumen": "Este artículo regula cómo los contribuyentes deben tratar el impuesto al valor agregado en operaciones de factoraje financiero. Permite elegir entre reconocer la contraprestación al transmitir documentos o esperar hasta su cobro, imponiendo responsabilidades específicas tanto para el cedente como para el adquirente de los documentos.",
   "preguntas_ejemplo": [
-    "¿Cómo se maneja el IVA en el factoraje financiero?",
-    "¿Qué obligaciones tengo al transmitir documentos pendientes de cobro?",
-    "¿Cuándo se considera causado el IVA en la operación de factoraje?",
-    "¿Qué deben incluir los estados de cuenta mensuales en el factoraje?",
-    "¿Qué sucede si no se proporciona el estado de cuenta de cobros?"
+    "¿Cómo se determina el IVA en el factoraje financiero?",
+    "¿Qué responsabilidades tienen los adquirentes en el cobro de documentos?",
+    "¿Cuál es el procedimiento para reportar las cantidades cobradas en factoraje?",
+    "¿Qué sucede si no se cobran los documentos pendientes en seis meses?",
+    "¿Qué información debo incluir en los estados de cuenta de factoraje?"
   ]
 }

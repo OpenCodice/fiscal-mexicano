@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b501219b37a16b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento del IVA",
   "temas": [
     "impuesto al valor agregado",
     "acreditamiento",
-    "deducción",
-    "erogaciones",
+    "erogaciones deducibles",
     "importación",
+    "comprobantes fiscales",
     "servicios especializados",
-    "gastos e inversiones",
-    "periodo preoperativo"
+    "gastos preoperativos",
+    "inversiones",
+    "ajustes de acreditamiento"
   ],
   "terminos_coloquiales": [
-    "acreditamiento del IVA",
-    "IVA acreditable",
     "IVA",
-    "deducción de IVA"
+    "acreditar IVA",
+    "declaración de IVA",
+    "comprobante fiscal",
+    "gastos deducibles",
+    "copia de la declaración del IVA",
+    "servicios especiales"
   ],
-  "resumen": "El artículo establece los requisitos para que el impuesto al valor agregado (IVA) sea acreditable, incluyendo la condición de que el impuesto haya sido trasladado al contribuyente y pagado. También detalla los criterios para determinación de acreditabilidad en función de la deducción de erogaciones y el uso de bienes y servicios.",
+  "resumen": "El artículo establece los requisitos para que el impuesto al valor agregado (IVA) sea acreditable por los contribuyentes. Esto incluye que el impuesto debe corresponder a erogaciones deducibles y constar claramente en comprobantes fiscales. Además, se menciona que el acreditamiento del IVA puede ser afectado por la naturaleza de las actividades realizadas y cómo se utilizan los bienes o servicios adquiridos.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para acreditar el IVA?",
-    "¿Cómo puedo deducir el IVA de mis gastos?",
-    "¿El IVA que pagué en importaciones es acreditable?",
-    "¿Qué pasa si no tengo la documentación del IVA trasladado?",
-    "¿Puedo acreditar el IVA de mis inversiones preoperativas?",
-    "¿Cómo se determina la proporción de IVA acreditable?"
+    "¿Cuáles son los requisitos para acreditar el IVA?",
+    "¿Cómo puedo acreditar el IVA de mis erogaciones?",
+    "¿Qué necesito para que el IVA de la importación sea acreditable?",
+    "¿Qué pasa si no tengo comprobantes fiscales del IVA?",
+    "¿Cómo se manejan los gastos preoperativos en relación al IVA?"
   ]
 }

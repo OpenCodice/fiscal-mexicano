@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d8358a8b73a6409",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exportación de bienes y servicios",
   "temas": [
-    "impuesto al Valor Agregado",
+    "impuesto del 0%",
     "exportación",
     "bienes intangibles",
-    "servicios técnicos",
+    "servicios en el extranjero",
     "maquila",
-    "publicidad",
-    "tecnologías de la información",
+    "servicios de tecnologías de la información",
+    "comprobantes fiscales",
     "transportación internacional"
   ],
   "terminos_coloquiales": [
-    "IVA en exportaciones",
-    "exportaciones de bienes",
-    "servicios en el extranjero",
+    "exportar servicios",
+    "exportar bienes",
     "maquila",
-    "beneficio fiscal para exportación"
+    "servicios en el extranjero",
+    "comprobantes fiscales",
+    "impuesto sobre la renta",
+    "ISR"
   ],
-  "resumen": "Las empresas mexicanas aplicarán una tasa del 0% de IVA por la exportación de bienes y servicios, siempre que cumplan ciertas condiciones. Esto incluye enajenación de bienes intangibles y prestación de diversos servicios utilizados en el extranjero.",
+  "resumen": "Las empresas en México aplican un impuesto del 0% al exportar bienes o servicios. Esto incluye servicios prestados en el extranjero, como asistencia técnica y operaciones de maquila, siempre que se cumplan ciertos requisitos como la ubicación de la infraestructura tecnológica.",
   "preguntas_ejemplo": [
-    "¿Qué servicios pueden exportar sin IVA en México?",
-    "¿Cómo se aplica el IVA a la exportación de bienes?",
-    "¿Qué deben hacer las empresas para que sus servicios no paguen IVA?",
-    "¿Cuáles son los requisitos para la maquila según el IVA?",
-    "¿Qué se considera exportación de servicios técnicos?"
+    "¿Qué impuestos se aplican al exportar bienes desde México?",
+    "¿Cómo se consideran los servicios prestados en el extranjero?",
+    "¿Cuáles son los requisitos para la exportación de servicios tecnológicos?",
+    "¿Qué es el régimen de maquila en la exportación?",
+    "¿Necesito un comprobante fiscal para servicios exportados?",
+    "¿Qué significa un impuesto del 0% en la exportación de bienes?"
   ]
 }

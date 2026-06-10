@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af2d751ab90d86fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento de impuestos",
   "temas": [
-    "impuesto trasladado",
-    "requisitos de acreditamiento",
+    "impuesto",
+    "acreditamiento",
     "comprobantes fiscales",
-    "servicios"
+    "servicios",
+    "requisitos"
   ],
   "terminos_coloquiales": [
-    "acreditar impuestos",
+    "declarar impuestos",
+    "acreditar IVA",
     "comprobantes fiscales digitales",
-    "impuesto IVA"
+    "recibos"
   ],
-  "resumen": "Los que reciben ciertos servicios pueden acreditar el impuesto trasladado siempre que cumplan con los requisitos de la ley. Los comprobantes deben cumplir con lo que se indica en un artículo relacionado.",
+  "resumen": "El artículo establece que los receptores de ciertos servicios pueden acreditar el impuesto trasladado, siempre que cumplan con los requisitos establecidos por la Ley. Para ello, deben reunir requisitos específicos de comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el impuesto que me trasladaron?",
-    "¿Qué requisitos deben tener mis comprobantes fiscales?",
-    "¿Qué es el acreditamiento de impuestos en servicios?",
-    "¿Por qué no puedo usar los comprobantes fiscales digitales?",
-    "¿Qué impuestos puedo acreditar en mis servicios?"
+    "¿Cómo puedo acreditar el IVA de los servicios que recibo?",
+    "¿Qué requisitos deben cumplir mis recibos para acreditar impuestos?",
+    "¿Qué son los comprobantes fiscales necesarios para el acreditamiento de impuestos?",
+    "¿Puedo acreditar el impuesto sin un comprobante fiscal digital?",
+    "¿Qué quiere decir acreditar impuestos en la Ley de IVA?"
   ]
 }

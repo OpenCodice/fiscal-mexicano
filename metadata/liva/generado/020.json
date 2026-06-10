@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cf98eaf05712d608",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones del impuesto al uso temporal",
+  "denominacion_comun": "Exenciones del impuesto al uso de bienes",
   "temas": [
-    "exenciones",
-    "impuesto",
-    "bienes",
     "donativos deducibles",
+    "casa habitación",
     "inmuebles",
-    "casa-habitación",
     "fincas agrícolas",
-    "publicaciones"
+    "libros y publicaciones"
   ],
   "terminos_coloquiales": [
-    "exenciones de IVA",
-    "uso temporal de bienes",
-    "casa-habitación",
-    "donativos deducibles",
-    "impuesto sobre el uso de bienes"
+    "impuesto por uso de bienes",
+    "no pagar impuestos por inmuebles",
+    "exenciones de impuestos",
+    "casa habitación",
+    "donaciones",
+    "libros y revistas"
   ],
-  "resumen": "Este artículo establece que no se pagará un impuesto por el uso temporal de ciertos bienes, como aquellos otorgados por entidades autorizadas para recibir donativos, inmuebles destinados a casa-habitación, fincas agrícolas y ciertas publicaciones. Algunas excepciones y condiciones se mencionan sobre los usos de los inmuebles.",
+  "resumen": "Este artículo establece que no se pagará impuesto por el uso o goce temporal de ciertos bienes. Se incluyen donativos deducibles, inmuebles para casa habitación, fincas agrícolas y libros o revistas.",
   "preguntas_ejemplo": [
-    "¿Qué bienes están exentos del impuesto por uso temporal?",
-    "¿Se paga impuesto por el uso de un inmueble como casa-habitación?",
-    "¿Qué condiciones deben cumplir las fincas para estar exentas del impuesto?",
-    "¿Los libros y revistas están sujetos al impuesto por uso temporal?"
+    "¿Qué bienes están exentos del impuesto por uso?",
+    "¿Puedo no pagar impuestos por una casa habitación?",
+    "¿Las donaciones deducibles están exentas de impuestos?",
+    "¿Qué pasa si uso un inmueble para casa y también como negocio?",
+    "¿Los libros y revistas tienen alguna exención fiscal?"
   ]
 }

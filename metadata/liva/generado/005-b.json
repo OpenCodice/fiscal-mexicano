@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f7f0a5bffc9bc2a7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento del IVA",
@@ -13,23 +14,27 @@
     "impuesto al valor agregado",
     "acreditamiento",
     "inversiones",
-    "ajuste del acreditamiento",
-    "proporciones",
-    "erogaciones",
-    "actividades económicas"
+    "ajuste",
+    "proporción",
+    "reintegro",
+    "incremento",
+    "erogaciones"
   ],
   "terminos_coloquiales": [
-    "acreditamiento de IVA",
-    "IVA acreditable",
-    "ajuste de IVA",
-    "IVA de inversiones"
+    "devolución de IVA",
+    "acreditar IVA",
+    "gastos deducibles",
+    "comprar bienes",
+    "servicios",
+    "uso de bienes"
   ],
-  "resumen": "El artículo establece cómo los contribuyentes pueden acreditar el IVA pagado en erogaciones relacionadas con la adquisición de bienes y servicios. También se detalla el procedimiento para ajustar dicho acreditamiento en función de las proporciones de las actividades realizadas en un período específico.",
+  "resumen": "El artículo establece cómo los contribuyentes pueden acreditar el IVA trasladado en sus erogaciones según un cálculo proporcional de sus actividades. También incluye reglas para ajustar el acreditamiento si hay cambios significativos en las proporciones aplicadas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el IVA que pagué por mis compras?",
-    "¿Cuándo debo ajustar el acreditamiento del IVA?",
-    "¿Qué pasa si mis actividades económicas cambian después de realizar el acreditamiento del IVA?",
-    "¿Qué erogaciones puedo considerar para el acreditamiento de IVA?",
-    "¿Cuál es el procedimiento para ajustar el IVA acreditable en mis inversiones?"
+    "¿Cómo puedo acreditar el IVA que pagué?",
+    "¿Qué pasa si mis ingresos cambian después de acreditar el IVA?",
+    "¿Cómo se calcula el reintegro del IVA?",
+    "¿Cuánto tiempo tengo para ajustar el acreditamiento del IVA?",
+    "¿Puedo acreditar el IVA de todos mis gastos?",
+    "¿Qué reglas sigo para incrementar el IVA acreditable?"
   ]
 }

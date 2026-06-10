@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da27177ad7a59bf4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de los contribuyentes del IVA",
+  "denominacion_comun": "Obligaciones de los contribuyentes",
   "temas": [
-    "Contabilidad",
-    "Comprobantes fiscales",
-    "Declaraciones de pago",
-    "Retenciones",
-    "Información fiscal"
+    "contabilidad",
+    "comprobantes fiscales",
+    "declaraciones",
+    "retenciones",
+    "impuesto al valor agregado",
+    "representante legal",
+    "información fiscal"
   ],
   "terminos_coloquiales": [
-    "IVA",
     "obligaciones fiscales",
-    "declaraciones de IVA",
-    "retenciones de IVA"
+    "recibos de pago",
+    "declaración de impuestos",
+    "IVA",
+    "retenciones de impuestos"
   ],
-  "resumen": "El artículo establece las obligaciones que deben cumplir los contribuyentes del impuesto al valor agregado, como llevar contabilidad, expedir comprobantes fiscales y presentar declaraciones de pago. También detalla los procedimientos para las retenciones y la información que deben proporcionar a las autoridades fiscales.",
+  "resumen": "Este artículo establece las obligaciones que deben cumplir los contribuyentes del impuesto al valor agregado, como llevar contabilidad, expedir comprobantes fiscales y presentar declaraciones. También menciona la obligación de retener y reportar información sobre el IVA y otras retenciones realizadas.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tengo si soy contribuyente del IVA?",
-    "¿Cómo debo llevar mi contabilidad para el IVA?",
-    "¿Cuándo y cómo debo presentar mis declaraciones de IVA?",
-    "¿Qué son los comprobantes fiscales y cómo los expido?",
-    "¿Qué información debo proporcionar sobre mis retenciones de IVA?"
+    "¿Qué debo hacer si tengo varios establecimientos?",
+    "¿Cuáles son mis obligaciones fiscales como contribuyente del IVA?",
+    "¿Cómo expido comprobantes fiscales?",
+    "¿Qué pasa con las retenciones de impuestos?",
+    "¿Cuándo debo presentar mis declaraciones fiscales?"
   ]
 }

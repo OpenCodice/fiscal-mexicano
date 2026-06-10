@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:55c82101d5b20d49",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo y pago del impuesto",
+  "denominacion_comun": "Pago del IVA",
   "temas": [
-    "impuesto mensual",
-    "declaración de impuestos",
-    "pagos a plazo",
+    "cálculo del impuesto",
+    "declaración fiscal",
+    "plazo de pago",
     "acreditamiento",
-    "importaciones",
-    "bienes tangibles e intangibles"
+    "importación de bienes",
+    "bienes tangibles",
+    "bienes intangibles"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos",
-    "declaración mensual",
-    "impuesto sobre la renta",
-    "ISR",
-    "importación de bienes"
+    "pago del IVA",
+    "declarar IVA",
+    "impuesto sobre la renta mensual",
+    "importación de productos",
+    "bienes tangibles",
+    "bienes que se tocan"
   ],
-  "resumen": "Este artículo establece que el impuesto se calcula mensualmente y se paga mediante una declaración que los contribuyentes deben presentar. También detalla cómo se determina el pago y las diferencias que se pueden acreditar, así como el tratamiento de las importaciones de bienes tangibles.",
+  "resumen": "Este artículo establece cómo se calcula y se paga el impuesto por cada mes. Los contribuyentes deben presentar una declaración y hacer el pago correspondiente antes del 17 del mes siguiente, descontando ciertos impuestos retenidos y acreditamientos permitidos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto mensual?",
-    "¿Cuándo debo presentar mi declaración de impuestos?",
-    "¿Qué debo hacer si tengo importaciones de bienes?",
-    "¿Cómo se acredita el impuesto retenido?",
-    "¿Qué son bienes tangibles e intangibles?"
+    "¿Cómo se calcula el pago del IVA cada mes?",
+    "¿Cuándo debo presentar mi declaración del IVA?",
+    "¿Qué bienes se consideran tangibles para el pago del IVA?",
+    "¿Puedo descontar impuestos retenidos del IVA que debo pagar?",
+    "¿Cuál es el plazo para pagar el IVA después de hacer una declaración?"
   ]
 }

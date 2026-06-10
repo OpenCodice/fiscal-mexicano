@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ab44c5960c587677",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto al Valor Agregado (IVA)",
+  "denominacion_comun": "Impuesto al Valor Agregado",
   "temas": [
-    "traslación del impuesto",
-    "acreditamiento del IVA",
-    "obligaciones de la Federación",
-    "retención del impuesto",
-    "residencia fiscal"
+    "obligaciones fiscales",
+    "impuesto al valor agregado",
+    "acreditamiento de impuestos",
+    "retención de impuestos",
+    "organismos públicos",
+    "exenciones fiscales"
   ],
   "terminos_coloquiales": [
     "IVA",
+    "impuestos",
     "retención de IVA",
     "acreditamiento de IVA",
-    "exenciones del IVA"
+    "exentos de IVA"
   ],
-  "resumen": "El artículo establece las obligaciones de diversos entes públicos para aceptar la traslación del IVA y menciona las condiciones para el acreditamiento del impuesto. También se detalla la retención del IVA en ciertas transacciones con bienes y servicios.",
+  "resumen": "Este artículo establece que diversas entidades públicas deben aceptar y pagar el impuesto al valor agregado (IVA) en ciertas condiciones. Indica las obligaciones de la Federación y sus organismos en cuanto a la retención y acreditamiento del IVA en transacciones específicas.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben pagar el IVA según el artículo 3o?",
-    "¿Cómo se puede acreditar el IVA que se ha pagado?",
-    "¿Qué entidades están exentas del pago de IVA?",
-    "¿Qué implica la retención de IVA para la Federación?",
-    "¿Cómo se determina la residencia fiscal de una empresa en México?"
+    "¿Quiénes deben pagar el IVA según la ley?",
+    "¿Qué requisitos debo cumplir para acreditar el IVA?",
+    "¿Cómo se retiene el IVA en la compra de bienes?",
+    "¿Las entidades públicas están exentas de pagar IVA?",
+    "¿Qué se considera residente para el pago del IVA?",
+    "¿Qué actividades generan la obligación de pagar IVA?"
   ]
 }

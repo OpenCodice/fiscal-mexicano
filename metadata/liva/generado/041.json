@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9dfce2bd5e3b96f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuestos locales y el IVA",
+  "denominacion_comun": "Impuestos locales y participación federal",
   "temas": [
-    "Convenios fiscales",
-    "Impuesto al valor agregado",
-    "Exención de impuestos locales",
+    "Sistema Nacional de Coordinación Fiscal",
+    "Impuesto al Valor Agregado",
+    "Participaciones federales",
+    "Exenciones de impuestos locales",
     "Servicios de hospedaje",
-    "Enajenación de bienes",
-    "Espectáculos públicos"
+    "Exportación de bienes",
+    "Gravámenes adicionales",
+    "Bienes y servicios exentos"
   ],
   "terminos_coloquiales": [
-    "IVA",
-    "Impuesto sobre el valor agregado",
-    "Impuesto local",
-    "Convenios de coordinación",
-    "Participaciones fiscales"
+    "impuesto sobre actividades",
+    "impuesto sobre bienes",
+    "hospedaje",
+    "no pagar impuestos locales",
+    "servicios exentos de impuestos",
+    "participación en loterías",
+    "convenio de coordinación fiscal"
   ],
-  "resumen": "Este artículo establece que las entidades que se adhieran al Sistema Nacional de Coordinación Fiscal no deben cobrar impuestos locales sobre ciertos actos sujetos al impuesto al valor agregado. Incluye excepciones para servicios de hospedaje y enajenaciones específicas.",
+  "resumen": "Este artículo establece que algunos impuestos locales o municipales no se cobrarán sobre ciertas actividades y bienes, como la enajenación de bienes sujetos a IVA, servicios de hospedaje y exportaciones. También menciona que estas exenciones se aplican para no afectar las participaciones que reciben los estados del gobierno federal.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos locales no se pueden cobrar sobre el IVA?",
-    "¿Cuáles son las excepciones de impuestos en servicios de hospedaje?",
-    "¿Los estados pueden cobrar impuestos adicionales sobre participaciones federales?",
-    "¿Qué bienes están exentos de impuestos locales según este artículo?",
-    "¿Cómo afecta este artículo a los espectáculos públicos?"
+    "¿Qué impuestos locales no se pueden cobrar sobre la enajenación de bienes?",
+    "¿Qué servicios de hospedaje están exentos de impuestos locales?",
+    "¿Se pueden cobrar impuestos locales sobre la exportación de bienes?",
+    "¿Qué significa el Sistema Nacional de Coordinación Fiscal?",
+    "¿Qué actividades no deben tener un impuesto local adicional?",
+    "¿Los estados pueden cobrar impuestos sobre las participaciones federales?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f8495df871b085f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios Digitales de Intermediación",
+  "denominacion_comun": "Servicios digitales y su importación",
   "temas": [
     "residentes en el extranjero",
     "importación de servicios",
-    "impuesto",
-    "servicios ubicados en México",
+    "impuesto al valor agregado",
+    "servicios digitales",
     "intermediación",
-    "artículo 18-D",
-    "artículo 24"
+    "receptores de servicios"
   ],
   "terminos_coloquiales": [
-    "servicios digitales",
+    "servicios en línea",
     "importación de servicios",
-    "impuesto a servicios digitales"
+    "IVA",
+    "servicios digitales"
   ],
-  "resumen": "Este artículo trata sobre cómo se consideran los servicios prestados por residentes en el extranjero sin establecimiento en México, así como el pago del impuesto correspondiente. Si no están en la lista especificada, estos servicios se consideran como importación.",
+  "resumen": "El artículo establece que los servicios proporcionados por residentes en el extranjero que no están en una lista específica deben ser considerados como importaciones y los receptores en México deben pagar el impuesto correspondiente. Esto se aplica a los servicios digitales de intermediación.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los servicios de extranjeros en México?",
-    "¿Qué implica la importación de servicios digitales?",
-    "¿Cuáles son las obligaciones fiscales para servicios de intermediación?",
-    "¿Qué sucede si un servicio extranjero no está en la lista del artículo 18-D?",
-    "¿Cómo se determina el pago de impuestos para servicios digitales?"
+    "¿Qué debo hacer si recibo un servicio digital de una empresa extranjera?",
+    "¿Cómo se grava el impuesto por servicios digitales en México?",
+    "¿Los servicios digitales de extranjeros requieren importación?",
+    "¿Qué significa que un servicio digital se considere como importación?",
+    "¿Quién paga el impuesto por servicios digitales de residentes en el extranjero?",
+    "¿Qué artículos de la ley regulan la importación de servicios?"
   ]
 }

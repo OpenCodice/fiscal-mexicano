@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:44231d52cb3db05a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actos no objeto del impuesto",
+  "denominacion_comun": "Actos o actividades no objeto del IVA",
   "temas": [
-    "impuesto al valor agregado",
+    "IVA",
+    "actos no objeto",
     "territorio nacional",
     "ingresos",
     "gastos",
-    "inversiones",
-    "importación"
+    "inversiones"
   ],
   "terminos_coloquiales": [
-    "actos no gravados",
-    "IVA",
-    "actividades exentas"
+    "actividades exentas",
+    "exento de IVA",
+    "no objeto del IVA"
   ],
-  "resumen": "Este artículo define los actos o actividades que no están sujetos al impuesto al valor agregado. Se refiere a los casos en que el contribuyente no realiza actividades en territorio nacional o realiza actividades no especificadas que generan ingresos en el país.",
+  "resumen": "Este artículo define qué se entiende por actos o actividades que no están sujetos al impuesto al valor agregado (IVA) en México. Se refiere a actividades realizadas fuera del país o a ingresos generados en territorio nacional que no se consideran objeto del impuesto.",
   "preguntas_ejemplo": [
-    "¿Qué significa actos no objeto del impuesto?",
-    "¿Cuándo se considera que un ingreso no está sujeto al IVA?",
-    "¿Qué actividades no se gravan con impuesto al valor agregado?",
-    "¿Cómo se determina el valor de los actos no sujetos al impuesto?",
-    "¿Los gastos relacionados con importaciones siempre llevan IVA?"
+    "¿Qué actividades no tienen que pagar IVA?",
+    "¿Cómo se definen los ingresos no sujetos al IVA?",
+    "¿Qué gastos puedo considerar si realizo actividades no objeto del IVA?",
+    "¿Qué significa realizar actividades exentas de IVA?",
+    "¿Los ingresos obtenidos fuera del país generan IVA?",
+    "¿Qué son los actos no objeto del impuesto al valor agregado?"
   ]
 }

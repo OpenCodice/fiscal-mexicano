@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e7c76d854a982868",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación y servicios ocasionales",
+  "denominacion_comun": "Impuesto al Valor Agregado",
   "temas": [
-    "pago de impuesto",
-    "declaración",
+    "pago de impuestos",
+    "enajenación de bienes",
+    "servicios ocasionales",
     "importaciones ocasionales",
-    "enajenación de inmuebles",
     "comprobantes fiscales",
-    "juicios de arrendamiento"
+    "arrendamiento inmobiliario"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos ocasionales",
-    "servicios intermitentes",
-    "enajenación de bienes",
-    "comprobante fiscal",
-    "SAT"
+    "IVA",
+    "pago de impuestos de ventas",
+    "compra ocasional",
+    "servicios esporádicos",
+    "recibo de pago",
+    "declaración de impuestos"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales los contribuyentes deben pagar impuestos por la enajenación de bienes o por la prestación de servicios de forma ocasional. También se detalla el procedimiento de pago y la emisión de comprobantes fiscales relacionados con estas transacciones.",
+  "resumen": "Este artículo establece cómo y cuándo deben pagarse los impuestos por la enajenación de bienes y la prestación de servicios de manera ocasional. También menciona la obligación de emitir comprobantes fiscales y los procedimientos que deben seguir notarios y autoridades judiciales para asegurar el cumplimiento de estas disposiciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por la venta de un bien ocasionalmente?",
-    "¿Qué debo hacer si enajeno un inmueble?",
-    "¿Qué comprobantes fiscales necesito al vender un bien de forma ocasional?",
-    "¿Cuál es el procedimiento para pagar impuestos por servicios intermitentes?",
-    "¿Qué pasa si no emito un comprobante fiscal en un juicio de arrendamiento?"
+    "¿Cómo se paga el IVA por ventas ocasionales?",
+    "¿Cuáles son mis obligaciones si vendo un bien de manera accidental?",
+    "¿Qué debo hacer si soy notario y tengo que calcular impuestos por una venta?",
+    "¿Cómo se emiten comprobantes fiscales por enajenación de bienes?",
+    "¿Qué sucede si no presento el comprobante fiscal en un juicio de arrendamiento?"
   ]
 }

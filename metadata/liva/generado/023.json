@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c123d41fdbe516ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto por uso de bienes",
+  "denominacion_comun": "Uso o goce temporal de bienes",
   "temas": [
     "impuesto",
-    "uso temporal de bienes",
-    "contraprestación",
-    "cargos adicionales"
+    "valor de contraprestación",
+    "uso de bienes",
+    "cobros adicionales",
+    "importación de bienes y servicios"
   ],
   "terminos_coloquiales": [
-    "impuesto por uso de bienes",
-    "cálculo de impuestos",
-    "uso temporal",
-    "LIVA"
+    "alquiler de bienes",
+    "renta de equipos",
+    "uso de bienes",
+    "impuesto por uso de bienes"
   ],
-  "resumen": "Este artículo establece cómo calcular el impuesto cuando se hace uso o goce temporal de bienes. Se considera el valor pactado y cualquier carga adicional relacionada con el uso de esos bienes.",
+  "resumen": "Este artículo establece cómo calcular el impuesto cuando se otorga el uso o goce temporal de bienes, considerando la contraprestación pactada y otros cobros adicionales relacionados. También menciona aspectos sobre la importación de bienes y servicios.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por el uso temporal de un bien?",
-    "¿Qué se incluye en la contraprestación para el cálculo del impuesto?",
-    "¿Qué cargos adicionales se pueden considerar al calcular el impuesto?",
-    "¿Qué pasa si hay otros impuestos o costos involucrados?",
-    "¿Qué es lo que se debe considerar al gozar de bienes temporalmente?"
+    "¿Cómo se calcula el impuesto por alquilar bienes?",
+    "¿Qué se incluye en la contraprestación para el uso de bienes?",
+    "¿Qué cobros adicionales afectan el cálculo del impuesto?",
+    "¿Qué consideración debo tener al importar bienes y servicios?",
+    "¿Cómo afecta el mantenimiento en el impuesto de uso de bienes?"
   ]
 }

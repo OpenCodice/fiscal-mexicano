@@ -6,30 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5871d5ebc09ed707",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasa del 0% en LIVA",
+  "denominacion_comun": "Impuesto al Valor Agregado (IVA) Tasa del 0%",
   "temas": [
-    "Enajenación de bienes",
-    "Servicios independientes",
-    "Agricultura",
-    "Alimentos",
-    "Medicinas",
-    "Maquinaria",
-    "Exportaciones"
+    "exenciones IVA",
+    "productos alimenticios",
+    "maquinaria agrícola",
+    "servicios agropecuarios",
+    "exportación",
+    "animales y vegetales",
+    "medicinas",
+    "educación y publicaciones",
+    "gestión menstrual"
   ],
   "terminos_coloquiales": [
-    "Tasa cero",
-    "Impuesto al valor agregado",
-    "IVA 0%",
-    "LIVA"
+    "IVA",
+    "productos exentos de IVA",
+    "alimentos",
+    "maquinaria agrícola",
+    "animales de compañía",
+    "medicinas",
+    "libros y revistas",
+    "toallas sanitarias",
+    "servicios a agricultores"
   ],
-  "resumen": "Este artículo establece que ciertos bienes y servicios se gravan con una tasa del 0% de IVA. Incluye productos como alimentos, medicinas, maquinaria agrícola y ciertos servicios, siempre que se cumplan las condiciones especificadas.",
+  "resumen": "Este artículo especifica que algunos productos y servicios están exentos del IVA al aplicar una tasa del 0%. Incluye alimentos, medicamentos, maquinaria agrícola, y servicios prestados a agricultores. También establece que la venta de ciertos bienes y servicios tendrá una tasa del 16%.",
   "preguntas_ejemplo": [
-    "¿Qué bienes están gravados con IVA del 0%?",
-    "¿Cuáles son los productos exentos de IVA?",
-    "¿Qué servicios tienen tasa del 0% en la LIVA?",
-    "¿Cómo se aplica el IVA 0% en la venta de maquinaria agrícola?",
-    "¿Qué alimentos no pagan IVA según la ley?"
+    "¿Qué productos están exentos de IVA?",
+    "¿Cuáles son las tasas de IVA para alimentos y medicinas?",
+    "¿Qué servicios pueden prestar los agricultores sin pagar IVA?",
+    "¿Hay exenciones de IVA para la exportación?",
+    "¿Qué reglas aplican para la venta de maquinaria agrícola?"
   ]
 }

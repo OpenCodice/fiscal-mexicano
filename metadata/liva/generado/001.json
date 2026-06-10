@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7730b293bb04029f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto al Valor Agregado",
   "temas": [
-    "obligaciones fiscales",
+    "obligados al pago",
     "enajenación de bienes",
     "prestación de servicios",
-    "uso temporal de bienes",
+    "uso o goce temporal de bienes",
     "importación de bienes y servicios",
-    "cálculo del impuesto"
+    "traslado del impuesto",
+    "acreditación del impuesto",
+    "diferencia de impuestos"
   ],
   "terminos_coloquiales": [
     "IVA",
-    "impuesto sobre el valor agregado",
-    "cobro de IVA",
-    "declaración de IVA"
+    "impuesto sobre ventas",
+    "cobro de impuestos",
+    "impuesto en compras",
+    "deducción de impuestos"
   ],
-  "resumen": "El artículo establece que las personas físicas y morales deben pagar el impuesto al valor agregado (IVA) por enajenación de bienes, prestación de servicios, otorgamiento de uso temporal de bienes e importación de bienes o servicios. Además, señala cómo se debe calcular el impuesto y la forma en que el contribuyente debe trasladarlo a los adquirentes.",
+  "resumen": "El artículo establece que las personas físicas y morales que realicen ciertas actividades en México están obligadas a pagar el Impuesto al Valor Agregado (IVA). Este impuesto se aplica sobre el valor de bienes y servicios enajenados, importados o prestados, y debe ser trasladado a los compradores de manera separada.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben pagar el IVA?",
-    "¿Qué actividades generan obligación de pagar IVA?",
-    "¿Cómo se calcula el impuesto al valor agregado?",
-    "¿Qué es el traslado del IVA?",
-    "¿Puedo restar el IVA que me retuvieron al calcular lo que debo?",
-    "¿El cobro del IVA está sujeto a regulaciones de precios?"
+    "¿Quiénes están obligados a pagar el IVA?",
+    "¿Cómo se calcula el Impuesto al Valor Agregado?",
+    "¿Qué actividades generan la obligación de pagar el IVA?",
+    "¿Qué implica trasladar el impuesto al consumidor?",
+    "¿Puedo acreditar el impuesto que pagué en mis compras?"
   ]
 }

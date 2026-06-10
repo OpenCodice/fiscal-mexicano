@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2e730629ed482a8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del Impuesto sobre la Renta",
+  "denominacion_comun": "Cálculo del Impuesto por Servicios",
   "temas": [
-    "valor de contraprestación",
+    "cálculo del impuesto",
     "prestación de servicios",
+    "valor de contraprestación",
     "personas morales",
-    "pagos de socios",
-    "operaciones de financiamiento"
+    "intereses",
+    "financiamiento"
   ],
   "terminos_coloquiales": [
-    "cálculo del impuesto",
-    "valor a considerar",
-    "servicios prestados",
-    "prestación de servicios"
+    "impuesto sobre la renta",
+    "cobro de servicios",
+    "intereses de préstamos"
   ],
-  "resumen": "El artículo establece cómo calcular el impuesto basado en el total de la contraprestación por servicios, incluyendo otros gastos y pagos de personas morales a sus socios. También incluye el tratamiento de intereses en operaciones de financiamiento.",
+  "resumen": "Este artículo establece cómo calcular el impuesto por servicios, considerando el total de la contraprestación y otros conceptos adicionales. También regula los pagos entre personas morales y sus miembros, así como los intereses en operaciones de financiamiento.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por servicios?",
-    "¿Qué se considera como valor en el cálculo del impuesto?",
-    "¿Qué sucede con los pagos de los socios en una persona moral?",
-    "¿Cómo se manejan los intereses en un mutuo?",
-    "¿Qué otros conceptos se incluyen en el cálculo del impuesto?"
+    "¿Cómo calculo el impuesto si presto un servicio?",
+    "¿Qué se considera como contraprestación en el cálculo del impuesto?",
+    "¿Los pagos entre socios cuentan para el cálculo del impuesto sobre la renta?",
+    "¿Qué se incluye en el valor para el impuesto en un préstamo?",
+    "¿Cómo se consideran los intereses en el cálculo del impuesto?"
   ]
 }

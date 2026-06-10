@@ -6,24 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:981a929ff6800a2d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Receptor de servicio en territorio nacional",
+  "denominacion_comun": "Receptor de Servicios en Territorio Nacional",
   "temas": [
     "Domicilio en México",
-    "Intermediarios de pago",
+    "Pago mediante intermediarios",
     "Dirección IP",
-    "Número de teléfono"
+    "Número de teléfono en México"
   ],
   "terminos_coloquiales": [
-    "Dónde se considera mi servicio",
-    "Requisitos de servicio en México",
-    "Servicios digitales en México"
+    "receptor de servicios",
+    "servicios en México",
+    "número de teléfono mexicano",
+    "dirección IP mexicana"
   ],
-  "resumen": "Se establece cuándo un receptor de servicio es considerado ubicado en México, ya sea por su domicilio, el método de pago, su dirección IP o su número de teléfono.",
+  "resumen": "Se considera que un receptor de servicio está en territorio nacional si tiene un domicilio en México, paga a través de un intermediario mexicano, utiliza una dirección IP de México o proporciona un número de teléfono mexicano.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los criterios para que un servicio se considere proporcionado en México?",
-    "¿Qué necesito para que mi servicio digital sea válido en México?",
-    "¿Cómo se determina la ubicación de un receptor de servicio?"
+    "¿Cómo se determina si un servicio se presta en México?",
+    "¿Qué requisitos debe cumplir un receptor para ser considerado en territorio nacional?",
+    "¿Es suficiente con tener un número de teléfono mexicano para recibir servicios?",
+    "¿Qué papel juega la dirección IP en la ubicación del receptor?",
+    "¿Puede un intermediario extranjero afectar la calificación de territorialidad del servicio?"
   ]
 }

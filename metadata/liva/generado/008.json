@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df011f0290af4158",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación en LIVA",
+  "denominacion_comun": "Enajenación y devolución del IVA",
   "temas": [
-    "enajenación",
-    "impuesto al valor agregado",
-    "faltante de bienes",
-    "donación",
-    "transmisión de propiedad",
-    "devolución del impuesto"
-  ],
-  "terminos_coloquiales": [
     "enajenación de bienes",
     "faltante en inventarios",
+    "donaciones",
     "devolución de IVA",
-    "donaciones no deducibles",
-    "LIVA"
+    "transmisión de propiedad"
   ],
-  "resumen": "El artículo establece que se considera enajenación el faltante de bienes en los inventarios, y aclara que no se considera enajenación la transmisión de propiedad por causa de muerte o donaciones en ciertos casos. También se indica el derecho a la devolución del IVA en caso de que la transferencia de propiedad no se efectúe, bajo ciertas condiciones.",
+  "terminos_coloquiales": [
+    "venta de bienes",
+    "faltante",
+    "donación",
+    "devolución de IVA",
+    "impuesto al valor agregado"
+  ],
+  "resumen": "Este artículo define lo que se considera enajenación, incluyendo faltantes de bienes en inventarios. También establece excepciones para la transmisión de propiedad por muerte y donaciones, además de las condiciones para la devolución del IVA.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por enajenación según la LIVA?",
-    "¿Cuándo se puede solicitar la devolución del IVA?",
-    "¿Se consideran donaciones como enajenación?",
-    "¿Qué pasa si hay un faltante en los inventarios?",
-    "¿Hay excepciones a la enajenación por causa de muerte?"
+    "¿Qué se considera enajenación en la Ley del IVA?",
+    "¿Qué pasa si tengo un faltante en mis inventarios?",
+    "¿Puedo deducir una donación realizada por mi empresa?",
+    "¿Bajo qué condiciones puedo solicitar la devolución del IVA?",
+    "¿Qué ocurre si no se realiza la transferencia de propiedad?"
   ]
 }

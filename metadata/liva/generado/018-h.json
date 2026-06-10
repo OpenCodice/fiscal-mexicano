@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dea3eb3cf38be25",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto al Valor Agregado en Servicios Digitales",
+  "denominacion_comun": "IVA en servicios digitales",
   "temas": [
-    "Servicios digitales",
-    "Cálculo de IVA",
-    "Tasa de 16%",
-    "Comprobantes fiscales",
-    "Separación de servicios",
-    "Contraprestaciones"
+    "impuesto al valor agregado",
+    "servicios digitales",
+    "separación de servicios",
+    "contraprestaciones",
+    "tasa del 16%"
   ],
   "terminos_coloquiales": [
     "IVA en servicios digitales",
-    "Servicios digitales conjuntos",
-    "Artículo 18-H",
-    "18-H"
+    "servicios por internet",
+    "impuesto en línea",
+    "comprobantes fiscales",
+    "artículo 18-B"
   ],
-  "resumen": "El impuesto al valor agregado (IVA) se calcula al 16% solo para los servicios digitales que menciona el artículo 18-B, siempre que se separen en el recibo. Si no se separan, se asume que el 70% del total cobrado corresponde a estos servicios.",
+  "resumen": "Este artículo establece cómo se debe calcular el impuesto al valor agregado (IVA) para servicios digitales cuando se ofrecen junto con otros servicios. Se requiere que los comprobantes separen los servicios para aplicar la tasa del 16%. Si no hay separación, se asume un porcentaje específico de la contraprestación para el IVA.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA en servicios digitales conjuntos?",
-    "¿Qué pasa si no separo los servicios en el comprobante?",
-    "¿Qué significa el artículo 18-H en la LIVA?",
-    "¿Cuál es la tasa de IVA para servicios digitales?",
-    "¿Cómo se determina la contraprestación para el IVA?",
-    "¿Qué servicios están incluidos en el artículo 18-B?"
+    "¿Cómo se calcula el IVA en servicios digitales que se ofrecen junto con otros?",
+    "¿Qué pasa si no separo los servicios en mi comprobante?",
+    "¿Qué porcentaje se aplica si hay servicios combinados?",
+    "¿Qué dice el artículo 18-H sobre servicios digitales?",
+    "¿Cómo debe ser el comprobante para servicios digitales?"
   ]
 }

@@ -6,24 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fa44312f995d8ef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facultades de las autoridades",
   "temas": [
-    "facultades",
+    "facultades fiscales",
     "autoridades fiscales",
-    "derogación",
-    "responsabilidades"
+    "cumplimiento fiscal"
   ],
   "terminos_coloquiales": [
-    "facultades",
-    "autoridades",
-    "LIVA"
+    "poderes de la autoridad",
+    "facultades de la SAT",
+    "derechos de la autoridad"
   ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que las disposiciones que contenía ya no están vigentes. Se refiere a las facultades de las autoridades fiscales.",
+  "resumen": "Este artículo trata sobre las facultades que tienen las autoridades fiscales. Las autoridades pueden llevar a cabo acciones para asegurar el cumplimiento de las obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué facultades tienen las autoridades fiscales?",
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Cuál es el impacto de la derogación de este artículo?"
+    "¿Qué puede hacer la SAT para ejercer sus facultades?",
+    "¿Cuáles son los poderes que tienen las autoridades fiscales?",
+    "¿Cómo actúan las autoridades fiscales en caso de incumplimiento?",
+    "¿Qué facultades tienen las autoridades para auditar a los contribuyentes?",
+    "¿La autoridad puede revisar mis documentos fiscales?"
   ]
 }

@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fe74bba383c89005",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prestación de servicios en territorio nacional",
+  "denominacion_comun": "Servicios en territorio nacional",
   "temas": [
-    "servicios en territorio nacional",
+    "prestación de servicios",
     "transporte internacional",
-    "transportación aérea",
     "servicios digitales",
     "intereses y contraprestaciones"
   ],
   "terminos_coloquiales": [
     "servicios en México",
     "transporte internacional",
-    "viajes aéreos",
     "servicios digitales",
-    "intereses a extranjeros"
+    "intereses",
+    "pagos con tarjeta"
   ],
-  "resumen": "Se considera que un servicio se presta en territorio nacional si se lleva a cabo por un residente en el país o si el servicio de transporte inicia en México. En el caso de servicios digitales, se considera prestado en México si el receptor está en el país.",
+  "resumen": "El artículo establece las condiciones bajo las cuales se considera que un servicio se presta en territorio nacional, tanto para transportes como para servicios digitales e intereses. Se aclara la relación de residencia y el tratamiento especial para ciertas operaciones, como el transporte aéreo y pagos con tarjetas.",
   "preguntas_ejemplo": [
-    "¿Qué se considera servicio prestado en México?",
-    "¿Cómo afecta el transporte internacional a los impuestos?",
-    "¿Qué pasa con los servicios digitales de empresas extranjeras?",
-    "¿Los intereses pagados a extranjeros se consideran en México?",
-    "¿Se gravan los servicios aéreos que inician en México?"
+    "¿Cuándo se considera que un servicio se presta en México?",
+    "¿Qué pasa con el transporte internacional y los servicios digitales?",
+    "¿Cómo se aplican los impuestos a los servicios prestados por extranjeros?",
+    "¿Qué implica el uso de una tarjeta en la prestación de servicios?",
+    "¿Qué porcentajes se manejan para el transporte aéreo internacional?"
   ]
 }

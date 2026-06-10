@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cde4eb0b0589b900",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opción de retención de IVA",
   "temas": [
     "retención de IVA",
-    "opción de retención",
     "comprobantes fiscales",
-    "Registro Federal de Contribuyentes",
-    "declaraciones informativas",
-    "cobros de contraprestaciones"
+    "declaraciones mensuales",
+    "impuesto al valor agregado",
+    "opciones fiscales"
   ],
   "terminos_coloquiales": [
-    "opción de retención",
-    "retención definitiva",
-    "IVA",
-    "artículo 18-L",
-    "artículo 18-J"
+    "optar por retención definitiva",
+    "comprobante fiscal digital",
+    "declaración de IVA",
+    "registro de contribuyentes",
+    "retención de impuestos"
   ],
-  "resumen": "El artículo establece que ciertos contribuyentes pueden optar por considerar la retención de IVA como definitiva si la retención corresponde a todas sus actividades con intermediación. Deben inscribirse en el RFC y seguir ciertos procedimientos, sin derecho a acreditamientos por gastos.",
+  "resumen": "Este artículo establece que ciertos contribuyentes pueden optar por una retención definitiva del IVA cuando se les haya efectuado la retención completa de sus actividades. También detalla los requisitos y obligaciones que deben cumplir, como inscribirse en el registro de contribuyentes y expedir comprobantes fiscales digitales.",
   "preguntas_ejemplo": [
-    "¿Qué es la retención de IVA y cómo funciona?",
-    "¿Quiénes pueden optar por la retención definitiva de IVA?",
-    "¿Qué pasos debo seguir para inscribirme en el RFC para la opción de retención?",
-    "¿Puedo hacer acreditamientos si elijo la retención definitiva?",
-    "¿Qué comprobantes debo conservar si ejerzo esta opción?"
+    "¿Cómo puedo optar por la retención definitiva del IVA?",
+    "¿Qué requisitos debo cumplir para ejercer la opción de retención?",
+    "¿Necesito presentar declaraciones mensuales si opto por la retención?",
+    "¿Qué tipo de comprobantes fiscales debo expedir?",
+    "¿Puedo cambiar mi opción de retención después de cinco años?"
   ]
 }

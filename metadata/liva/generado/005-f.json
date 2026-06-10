@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64aaf75fdcc16409",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago trimestral del IVA para arrendadores",
+  "denominacion_comun": "Pagos provisionales de IVA",
   "temas": [
+    "contribuyentes",
+    "ingresos",
+    "uso temporal de inmuebles",
     "impuesto al valor agregado",
-    "contribuyentes personas físicas",
-    "arrendamiento",
-    "pagos provisionales",
-    "declaración trimestral",
+    "pagos trimestrales",
+    "declaración",
     "acreditamiento",
     "retenciones"
   ],
   "terminos_coloquiales": [
-    "IVA trimestral",
-    "pago de IVA para arrendadores",
-    "declaración de IVA",
-    "arrendamiento",
-    "pago provisional"
+    "pago de IVA",
+    "declarar IVA",
+    "ingresar ingresos por renta",
+    "renta de inmuebles",
+    "declaración trimestral",
+    "IVA trimestral"
   ],
-  "resumen": "Los contribuyentes personas físicas que obtienen ingresos por arrendamiento de inmuebles y optan por pagar el IVA trimestralmente, deben calcular y reportar este impuesto cada tres meses. La diferencia entre el impuesto generado y los créditos aplicables se paga mediante una declaración presentada antes del 17 del mes siguiente al trimestre correspondiente.",
+  "resumen": "Este artículo regula cómo deben tributar las personas físicas que únicamente obtienen ingresos por el uso temporal de inmuebles. Estos contribuyentes pueden optar por realizar pagos provisionales de IVA de forma trimestral en lugar de mensual, y deben calcular el impuesto con base en sus actividades de cada trimestre.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA si soy arrendador?",
-    "¿Cuándo debo presentar la declaración de IVA trimestral?",
-    "¿Qué pasa si mis ingresos por arrendamiento son bajos?",
-    "¿Puedo acreditar el IVA retenido en mis pagos?",
-    "¿Qué debo incluir en mi primera declaración trimestral?"
+    "¿Cómo declaro el IVA si solo rento un inmueble?",
+    "¿Cuándo debo pagar el IVA trimestralmente?",
+    "¿Qué pasa si solo inicio actividades en el trimestre?",
+    "¿Cómo se calcula el impuesto sobre mis ingresos por rentas?",
+    "¿Qué significa el acreditamiento de IVA?",
+    "¿Debo presentar declaración de IVA cada mes si elijo el pago trimestral?"
   ]
 }

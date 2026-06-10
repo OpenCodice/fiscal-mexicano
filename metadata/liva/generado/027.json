@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bc9c1cc954ca9e19",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto al Valor Agregado en Importaciones",
   "temas": [
     "importación de bienes",
     "valor en aduana",
-    "impuesto general de importación",
     "regímenes aduaneros",
     "maquila",
     "exportación",
-    "bienes y servicios"
+    "contribuciones",
+    "aprovechamientos"
   ],
   "terminos_coloquiales": [
     "IVA en importaciones",
-    "impuesto a la importación",
-    "regímenes aduaneros",
-    "Ley Aduanera"
+    "impuesto de importación",
+    "regímenes de importación",
+    "importaciones temporales",
+    "bienes tangibles"
   ],
-  "resumen": "El artículo establece cómo calcular el IVA en la importación de bienes tangibles, considerando el valor para el impuesto general de importación y otros gravámenes. También especifica el valor a utilizar para determinados regímenes aduaneros, incluidos los de maquila y exportación.",
+  "resumen": "Este artículo establece cómo se debe calcular el Impuesto al Valor Agregado (IVA) en la importación de bienes tangibles, considerando el valor utilizado para el impuesto general de importación, así como otros gravámenes relacionados. También especifica el tratamiento de bienes bajo regímenes aduaneros específicos y las contribuciones adicionales que deben considerarse.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA para bienes importados?",
-    "¿Qué se considera valor en aduana para el IVA?",
-    "¿Qué regímenes aduaneros son relevantes para el cálculo del IVA?",
-    "¿Qué pasa con el IVA en bienes exportados temporalmente?",
-    "¿Qué contribuciones se suman al valor de importación para calcular el IVA?"
+    "¿Cómo se calcula el IVA en la importación de bienes?",
+    "¿Qué se considera en el valor de aduana para el IVA?",
+    "¿Qué son los regímenes aduaneros de importación temporal?",
+    "¿Se paga IVA por bienes exportados temporalmente?",
+    "¿Qué son los aprovechamientos en importaciones?"
   ]
 }

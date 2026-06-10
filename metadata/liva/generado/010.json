@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ebf94ff7307a15c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes en territorio nacional",
+  "denominacion_comun": "Enajenación de bienes",
   "temas": [
-    "Enajenación de bienes",
-    "Territorio nacional",
-    "Bienes intangibles",
-    "Residentes en México",
-    "Establecimientos",
-    "Registros mexicanos"
+    "territorio nacional",
+    "enajenación",
+    "bien",
+    "entrega material",
+    "bienes intangibles"
   ],
   "terminos_coloquiales": [
-    "venta de bienes en México",
-    "entrega de bienes",
-    "bienes tangibles e intangibles",
-    "enajenación nacional"
+    "venta de bienes",
+    "traspaso de propiedad",
+    "bienes muebles",
+    "bienes inmuebles"
   ],
-  "resumen": "Se considera que la enajenación de bienes se realiza en México si el bien se envía o entrega en el país. Esto aplica también a bienes intangibles, siempre que el vendedor y comprador residan en el mismo lugar.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales se considera que la enajenación de bienes ocurre dentro del territorio nacional, ya sea por envío o entrega material. También se aplica a bienes intangibles cuando el vendedor y el comprador están en el mismo lugar.",
   "preguntas_ejemplo": [
-    "¿Qué significa enajenación de bienes en territorio nacional?",
-    "¿Cómo se considera la venta de bienes si el comprador está fuera de México?",
-    "¿Qué pasa con los bienes intangibles en la venta?",
-    "¿Dónde debe estar el bien para que se considere enajenación en México?",
-    "¿Qué requisitos hay para la enajenación de bienes registrados en México?"
+    "¿Cuándo se considera que una venta se realiza en México?",
+    "¿Qué significa la enajenación de bienes en territorio nacional?",
+    "¿Cómo afecta la residencia del vendedor y comprador en la enajenación de bienes?",
+    "¿Qué requisitos debo cumplir para que una venta sea válida en el país?",
+    "¿La entrega de un bien fuera de México se considera enajenación en territorio nacional?",
+    "¿Qué sucede con la venta de bienes intangibles?"
   ]
 }

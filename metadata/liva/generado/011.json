@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4bd98e44c81d388f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes",
   "temas": [
-    "momentos de enajenación",
-    "contraprestaciones",
-    "títulos",
-    "certificados de participación",
+    "cobro de contraprestaciones",
+    "títulos de propiedad",
+    "certificados de participación inmobiliaria",
     "faltantes en inventarios",
-    "donaciones"
+    "donaciones",
+    "impuesto de enajenación"
   ],
   "terminos_coloquiales": [
-    "cuando se vende un bien",
-    "enajenación de títulos",
-    "certificado de participación inmobiliaria",
-    "falta de bienes en inventarios",
-    "donaciones"
+    "vender bienes",
+    "donar bienes",
+    "cobrar por bienes",
+    "certificados de participación",
+    "falta de bienes",
+    "impuesto por donaciones"
   ],
-  "resumen": "El artículo establece cuándo se considera que se realiza la enajenación de bienes, ya sea al recibir el pago, al transferir títulos o certificados, o cuando se detecten faltantes en inventarios. También se especifica que en el caso de donaciones, la enajenación ocurre al entregar el bien o emitir el comprobante de transferencia.",
+  "resumen": "Este artículo establece que la enajenación de bienes se considera realizada cuando se cobra el precio. También detalla el momento en que se considera que se enajenan bienes relacionados con títulos y el procedimiento para las donaciones y faltantes de inventarios.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que se vendió un bien?",
-    "¿Cómo se determina la enajenación de un certificado de participación?",
-    "¿Qué pasa si hay faltante de bienes en el inventario?",
-    "¿Cuándo se considera que se hizo una donación?",
-    "¿Qué significa enajenación de títulos?"
+    "¿Cuándo se considera que he vendido un bien?",
+    "¿Qué pasa con los títulos de propiedad y su venta?",
+    "¿Cómo se determina el momento de enajenación en donaciones?",
+    "¿Qué hacer si hay un faltante en mis inventarios?",
+    "¿Cuándo se cobra el impuesto por enajenación de bienes?"
   ]
 }

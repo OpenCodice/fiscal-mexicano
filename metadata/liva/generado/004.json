@@ -6,28 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9b394ddffa02ed7a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento del IVA",
   "temas": [
     "impuesto acreditable",
     "impuesto al valor agregado",
-    "traslado del impuesto",
-    "derecho al acreditamiento",
-    "sociedades escindentes"
+    "traslado de impuesto",
+    "droit de acreditamiento",
+    "contribuyentes",
+    "sociedad escindente",
+    "fusión",
+    "escisión"
   ],
   "terminos_coloquiales": [
-    "acreditamiento IVA",
-    "IVA acreditable",
+    "acreditamiento",
+    "IVA",
     "impuesto trasladado",
-    "IVA"
+    "impuesto pagado",
+    "contribuyentes",
+    "fusión de sociedades",
+    "escisión de sociedades"
   ],
-  "resumen": "El acreditamiento es la opción de restar el impuesto acreditable de la cantidad que se calcula con la tasa del impuesto al valor agregado. Este derecho es personal y no se puede transmitir, excepto en casos de fusión.",
+  "resumen": "El acreditamiento del IVA permite restar el impuesto acreditable de la cantidad calculada según la tasa correspondiente. Solo se puede realizar por los contribuyentes y no se puede transmitir, salvo en casos de fusión.",
   "preguntas_ejemplo": [
-    "¿Qué es el acreditamiento del IVA?",
-    "¿Cómo se determina el impuesto acreditable?",
-    "¿El IVA trasladado es acreditable?",
-    "¿Qué pasa con el acreditamiento en una fusión o escisión?",
-    "¿Quién puede ejercer el derecho al acreditamiento del IVA?"
+    "¿Cómo puedo acreditar el IVA que pagué por bienes y servicios?",
+    "¿Qué es el impuesto acreditable en el IVA?",
+    "¿Qué pasa con el acreditamiento si una sociedad se escinde?",
+    "¿Se puede transferir el derecho al acreditamiento del IVA?",
+    "¿El IVA que me trasladan es acreditable?",
+    "¿Qué requisitos debo cumplir para el acreditamiento del IVA?"
   ]
 }

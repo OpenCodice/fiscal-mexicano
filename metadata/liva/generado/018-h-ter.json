@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ea8f6886920ac90",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bloqueo de acceso a servicios digitales",
+  "denominacion_comun": "Bloqueo Temporal de Servicios Digitales",
   "temas": [
-    "Bloqueo",
-    "Cumplimiento de obligaciones fiscales",
-    "Notificaciones",
-    "Prórrogas",
-    "Resoluciones fiscales"
+    "obligaciones fiscales",
+    "bloqueo de servicios",
+    "notificaciones",
+    "prórrogas",
+    "documentación",
+    "resoluciones",
+    "Diario Oficial de la Federación"
   ],
   "terminos_coloquiales": [
-    "bloqueo de servicios digitales",
+    "bloqueo de acceso",
     "notificación de incumplimiento",
-    "prórroga para cumplir",
-    "SAT",
-    "obligaciones fiscales"
+    "prórroga de plazo",
+    "documentación fiscal necesaria"
   ],
-  "resumen": "Este artículo establece el procedimiento a seguir antes de bloquear el acceso a servicios digitales a un contribuyente que no cumpla con sus obligaciones fiscales. Se deben notificar las resoluciones y permitir un plazo para que el contribuyente presente aclaraciones o documentación.",
+  "resumen": "El artículo establece el procedimiento que seguirá el Servicio de Administración Tributaria cuando un contribuyente incumpla con sus obligaciones fiscales, incluyendo el bloqueo temporal del acceso a servicios digitales y el proceso para notificar y desvirtuar el incumplimiento. También se menciona la posibilidad de solicitar una prórroga para presentar la documentación requerida.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no cumplo con mis obligaciones fiscales?",
-    "¿Cómo se me notificará que hay un incumplimiento?",
-    "¿Puedo solicitar más tiempo para cumplir con mis obligaciones fiscales?",
-    "¿Qué es el bloqueo de servicios digitales del SAT?",
-    "¿Dónde puedo recibir notificaciones sobre mi situación fiscal?"
+    "¿Cómo puedo saber si mi acceso a servicios digitales está bloqueado?",
+    "¿Cuánto tiempo tengo para presentar mi documentación después de recibir una notificación?",
+    "¿Puedo pedir una prórroga si no tengo toda mi información a tiempo?",
+    "¿Dónde se publican las resoluciones del SAT?",
+    "¿Qué debo hacer si me notifican un incumplimiento?"
   ]
 }

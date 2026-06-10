@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d446b1fa5a2059d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de residentes en el extranjero que proporcionan servicios digitales",
+  "denominacion_comun": "Obligaciones de Residentes en el Extranjero",
   "temas": [
+    "servicios digitales",
+    "impuesto al valor agregado",
     "Registro Federal de Contribuyentes",
-    "Impuesto al Valor Agregado",
-    "Declaración electrónica",
-    "Comprobantes fiscales",
-    "Firma electrónica avanzada",
-    "Representante legal"
+    "declaraciones electrónicas",
+    "comprobantes fiscales",
+    "firma electrónica avanzada"
   ],
   "terminos_coloquiales": [
-    "residentes en el extranjero",
     "servicios digitales",
-    "IVA para extranjeros",
-    "obligaciones fiscales",
-    "RIF"
+    "IVA",
+    "registrarse en el SAT",
+    "declarar IVA",
+    "comprobante fiscal electrónico",
+    "e.firma"
   ],
-  "resumen": "Los residentes en el extranjero que ofrecen servicios digitales a México deben registrarse en el SAT, cobrar el IVA y presentar declaraciones mensuales. También necesitan emitir comprobantes a sus clientes en México y tener un representante legal en el país.",
+  "resumen": "Los residentes en el extranjero que ofrecen servicios digitales a personas en México deben registrarse en el SAT, cobrar IVA y presentar información y declaraciones mensuales. También deben emitir comprobantes digitales cuando se soliciten y contar con un representante legal en el país.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los extranjeros que dan servicios digitales en México?",
-    "¿Cómo deben registrarse los residentes en el extranjero en el SAT?",
-    "¿Qué impuestos deben cobrar los extranjeros por sus servicios digitales?",
-    "¿Cómo se presentan las declaraciones de IVA para servicios digitales?",
-    "¿Qué requisitos deben cumplir los comprobantes fiscales para servicios digitales?"
+    "¿Qué obligaciones tienen los extranjeros que ofrecen servicios digitales en México?",
+    "¿Cómo se registra un extranjero en el SAT?",
+    "¿Qué es el IVA y cómo se cobra en servicios digitales?",
+    "¿Qué información debo enviar al SAT si ofrezco servicios digitales desde el extranjero?",
+    "¿Qué es un comprobante fiscal electrónico y cuándo debo emitirlo?"
   ]
 }

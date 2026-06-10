@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d63efe8093ca8a5d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto al Valor Agregado en Exportaciones",
+  "denominacion_comun": "Exportación de bienes y servicios",
   "temas": [
     "tasa del 0%",
-    "exportación de bienes",
     "acreditamiento",
+    "exportación",
+    "bienes tangibles",
     "regímenes aduaneros",
-    "devolución de impuestos"
+    "devolución de impuestos",
+    "maquila",
+    "depósito fiscal"
   ],
   "terminos_coloquiales": [
-    "IVA en exportaciones",
-    "exportaciones",
-    "acreditamiento IVA",
-    "devolución IVA"
+    "exportación",
+    "tasa cero",
+    "acreditamiento del IVA",
+    "devolución de IVA",
+    "maquila"
   ],
-  "resumen": "Este artículo establece que los exportadores pueden aplicar una tasa del 0% al valor de sus bienes o servicios exportados. También permite el acreditamiento del impuesto en ciertas condiciones relacionadas con regímenes aduaneros.",
+  "resumen": "Este artículo establece que los exportadores de bienes o servicios aplicarán una tasa del 0% al valor de la venta y podrán acreditar impuestos en ciertas condiciones. También se regula la devolución de impuestos en caso de exportación de bienes tangibles y otros escenarios relacionados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA en exportaciones?",
-    "¿Qué requisitos hay para el acreditamiento del IVA?",
-    "¿Cuándo puedo hacer la devolución del IVA por exportaciones?",
-    "¿Qué regímenes aduaneros permiten el acreditamiento del impuesto?",
-    "¿Cuál es la tasa de IVA aplicable a las exportaciones?"
+    "¿Cómo se calcula el impuesto en la exportación de bienes?",
+    "¿Qué tasa se aplica a los servicios exportados?",
+    "¿Puedo acreditar el IVA en mis exportaciones?",
+    "¿Cuándo puedo solicitar la devolución del IVA por exportaciones?",
+    "¿Qué condiciones debo cumplir para exportar sin pagar IVA?",
+    "¿Qué es la maquila y cómo afecta mis exportaciones?"
   ]
 }

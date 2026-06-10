@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7064798ed9eb0797",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Precio y IVA",
+  "denominacion_comun": "Manifestación del IVA en precios",
   "temas": [
     "impuesto al valor agregado",
-    "precio de bienes",
-    "servicios",
-    "manifestación del IVA"
+    "personas físicas",
+    "personas morales",
+    "precio manifiesto",
+    "bienes y servicios"
   ],
   "terminos_coloquiales": [
     "IVA",
-    "impuesto sobre el valor agregado",
-    "desglose de IVA"
+    "impuesto sobre ventas",
+    "precio con IVA",
+    "precios desglosados"
   ],
-  "resumen": "Las personas físicas y morales que deben pagar el impuesto al valor agregado deben mostrar el precio de sus bienes y servicios, indicando claramente cuánto corresponde al IVA. Esto es una obligación establecida por la ley.",
+  "resumen": "Este artículo establece que quienes realicen actividades sujetas al IVA deben mostrar por separado el monto del impuesto en el precio de sus bienes y servicios. Tanto personas físicas como morales están obligadas a cumplir con esta disposición.",
   "preguntas_ejemplo": [
     "¿Cómo debo mostrar el IVA en mis precios?",
-    "¿Qué dice la ley sobre el desglose del IVA?",
-    "¿Quiénes tienen que pagar el impuesto al valor agregado?",
-    "¿Es obligatorio separar el precio del IVA?",
-    "¿Qué implica el artículo 18-K de la LIVA?"
+    "¿Qué obligaciones tengo si vendo bienes o servicios sujetos a IVA?",
+    "¿Es obligatorio desglosar el IVA en las facturas?",
+    "¿A quiénes aplica esta regla sobre el IVA en precios?",
+    "¿Qué pasa si no manifiesto el monto del IVA en mis precios?"
   ]
 }

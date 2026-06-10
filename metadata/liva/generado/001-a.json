@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b0ad2b8029272619",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del IVA",
+  "denominacion_comun": "Retención de Impuesto",
   "temas": [
     "retención de impuestos",
     "instituciones de crédito",
     "personas morales",
+    "personas físicas",
+    "bienes tangibles",
     "servicios personales",
-    "bien tangibles",
-    "residentes extranjeros",
+    "autotransporte terrestre",
+    "comisionistas",
     "importación de bienes"
   ],
   "terminos_coloquiales": [
-    "retención IVA",
-    "impreso de retención",
-    "personas físicas",
-    "personas morales"
+    "retención de impuestos",
+    "pago de impuestos",
+    "impuesto trasladado",
+    "servicios independientes",
+    "gózar temporalmente bienes"
   ],
-  "resumen": "Este artículo establece quiénes están obligados a realizar la retención del IVA cuando reciben ciertos servicios o bienes. Las instituciones de crédito y algunas personas morales están entre los que deben retener y enterar el impuesto correspondiente.",
+  "resumen": "Este artículo establece quiénes deben realizar la retención del impuesto que se les traslade, incluyendo instituciones de crédito y personas morales que adquieran bienes o servicios. También especifica que quienes realicen la retención sustituyen al prestador de servicios en la obligación de pagar el impuesto.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben hacer la retención del IVA?",
-    "¿Qué tipo de servicios llevan retención de impuestos?",
-    "¿Las importaciones están sujetas a retención de IVA?",
+    "¿Quiénes deben hacer la retención del impuesto trasladado?",
+    "¿Qué tipo de servicios están sujetos a retención de impuestos?",
     "¿Cómo se realiza la retención del impuesto?",
-    "¿Qué sucede si no se retiene el impuesto?"
+    "¿Qué pasa si no se hace la retención del impuesto?",
+    "¿Las personas físicas también tienen obligación de retener impuestos?"
   ]
 }

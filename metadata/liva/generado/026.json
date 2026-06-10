@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d595f7f6db05bf6e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Importación de bienes y servicios",
   "temas": [
     "importación",
-    "bienes",
-    "servicios",
-    "contraprestaciones",
+    "bien",
+    "servicio",
+    "contraprestación",
     "importación temporal",
-    "legislación aduanera",
-    "servicios de no residentes"
+    "aduanas",
+    "no residentes"
   ],
   "terminos_coloquiales": [
-    "importación",
-    "importación de bienes",
-    "importación de servicios",
-    "contraprestación",
-    "pedimento",
-    "importación temporal"
+    "importar",
+    "cláusula de aduanas",
+    "servicios de extranjeros",
+    "pago de servicios",
+    "contraprestaciones periódicas"
   ],
-  "resumen": "El artículo define cuándo se considera que se efectúa la importación de bienes y servicios, ya sea mediante la presentación de un pedimento, al convertir una importación temporal en definitiva, al pagar contraprestaciones, o por el uso de servicios de no residentes.",
+  "resumen": "El artículo establece cuándo se considera que se realiza la importación de bienes o servicios, ya sea al presentar el pedimento, al convertir importaciones temporales en definitivas, al pagar contraprestaciones o al aprovechar servicios de no residentes. También se considera el momento del pago en caso de contraprestaciones periódicas.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que se importa un bien?",
-    "¿Qué dice la ley sobre las importaciones temporales?",
-    "¿Cómo se manejan las contraprestaciones en las importaciones?",
-    "¿Cuándo se registra la importación de servicios de no residentes?",
-    "¿Qué es un pedimento en el contexto de importación?",
-    "¿Cuáles son los plazos para declarar una importación?"
+    "¿Cuándo se considera que he importado un bien?",
+    "¿Qué pasa con la importación temporal de un servicio?",
+    "¿Cuándo tengo que pagar por un servicio de una empresa extranjera?",
+    "¿Qué significa la contraprestación en la importación?",
+    "¿Cómo se efectúa la importación según la norma aduanera?"
   ]
 }

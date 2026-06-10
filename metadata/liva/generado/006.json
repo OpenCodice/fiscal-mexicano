@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a7fe6d60918e15c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Saldo a Favor en LIVA",
+  "denominacion_comun": "Saldo a favor en LIVA",
   "temas": [
-    "devolución de saldos",
-    "acreditamiento de impuestos",
-    "servicios de infraestructura",
-    "Ley del Impuesto al Valor Agregado"
-  ],
-  "terminos_coloquiales": [
+    "devolución de impuestos",
     "saldo a favor",
-    "devolución de IVA",
     "acreditamiento",
     "inversión en infraestructura",
-    "IVA"
+    "derechos",
+    "Servicios tributarios"
   ],
-  "resumen": "Si un contribuyente tiene un saldo a favor en su declaración de IVA, puede acreditarlo en los meses siguientes o solicitar su devolución. Si se pide la devolución, debe ser del total del saldo y no se puede acreditar en declaraciones futuras.",
+  "terminos_coloquiales": [
+    "devolución de saldo",
+    "acreditar saldo a favor",
+    "devolución de impuestos",
+    "infraestructura hidráulica",
+    "pago de derechos"
+  ],
+  "resumen": "Si un contribuyente tiene saldo a favor en su declaración de impuestos, puede usarlo para reducir impuestos futuros o solicitar su devolución. Sin embargo, los saldos solicitados no se pueden acreditar en futuras declaraciones, y algunos contribuyentes deben usar su saldo para obras de infraestructura hidráulica o para pagar derechos específicos.",
   "preguntas_ejemplo": [
-    "¿Qué hago si tengo saldo a favor en mi declaración de IVA?",
-    "¿Puedo acreditar un saldo a favor en el siguiente mes?",
+    "¿Qué debo hacer si tengo saldo a favor en mi declaración de LIVA?",
+    "¿Puedo acreditar mi saldo a favor en meses posteriores?",
     "¿Cómo solicito la devolución de mi saldo a favor?",
-    "¿Qué sucede si solicito la devolución de un saldo a favor?",
-    "¿Los saldos a favor se pueden usar en futuras declaraciones?",
-    "¿En qué se debe invertir un saldo a favor si soy contribuyente de ciertos servicios?"
+    "¿Qué pasa si soy un contribuyente que presta servicios relacionados con derechos?",
+    "¿Debo destinar mi saldo a favor a infraestructura hidráulica?"
   ]
 }

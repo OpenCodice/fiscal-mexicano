@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10fcd0438f59d9d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación presuntiva del valor",
+  "denominacion_comun": "Determinación Presuntiva del Valor",
   "temas": [
     "impuesto",
-    "valor",
-    "actos",
-    "actividades",
-    "tasa",
-    "cantidades acreditables"
+    "tasa del impuesto",
+    "cantidades acreditables",
+    "actos o actividades"
   ],
   "terminos_coloquiales": [
     "valor presuntivo",
-    "impuesto sobre actividades",
-    "tasa de impuesto",
-    "LIVA"
+    "cálculo del impuesto",
+    "impuesto sobre actividades"
   ],
-  "resumen": "El artículo establece que para determinar el valor presuntivo de los actos o actividades sujetas a impuesto, se aplicará la tasa correspondiente y se restarán las cantidades acreditables debidamente comprobadas.",
+  "resumen": "Este artículo establece cómo se debe calcular el valor presuntivo para el pago de impuestos, aplicando la tasa correspondiente y restando las cantidades que se pueden acreditar. Es un proceso para determinar cuánto se debe pagar en función de actividades o actos realizados.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor de un acto para el impuesto?",
-    "¿Qué es la tasa que se aplica al valor presuntivo?",
-    "¿Cómo se pueden acreditar cantidades en la determinación de un impuesto?",
-    "¿Qué se entiende por actos o actividades gravadas?",
-    "¿Qué implicaciones tiene el valor presuntivo en el pago de impuestos?"
+    "¿Cómo se calcula el impuesto si no tengo un monto exacto?",
+    "¿Qué significa valor presuntivo en el pago de impuestos?",
+    "¿Puedo descontar montos acreditables del impuesto que debo pagar?",
+    "¿Qué tasa de impuesto se aplica a mis actividades?",
+    "¿Cómo afecta la acreditación al cálculo del impuesto?"
   ]
 }

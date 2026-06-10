@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4aa0627d7d97ac52",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto por enajenaciones",
+  "denominacion_comun": "Cálculo de Impuesto por Enajenaciones",
   "temas": [
-    "enajenaciones",
-    "valor de la enajenación",
-    "precio pactado",
+    "valor de enajenaciones",
+    "precio de venta",
     "contraprestación",
-    "impuestos adicionales"
+    "cargos adicionales",
+    "impuestos",
+    "intereses",
+    "penas convencionales"
   ],
   "terminos_coloquiales": [
-    "cálculo de impuesto",
+    "cálculo de impuestos",
     "precio de venta",
-    "impuesto por enajenación"
+    "costo final",
+    "cargos extra"
   ],
-  "resumen": "El artículo establece que el impuesto para enajenaciones se calcula considerando el precio acordado y cualquier cargo adicional asociado a la transacción. Esto incluye otros impuestos y cargos que se apliquen al comprador.",
+  "resumen": "Este artículo establece que para calcular el impuesto en las enajenaciones se debe considerar el precio acordado y cualquier cargo adicional que se cobre al comprador, incluyendo otros impuestos y cargos relacionados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por venta de un bien?",
-    "¿Qué incluye el precio de enajenación?",
-    "¿Se consideran otros impuestos al calcular el impuesto de enajenación?",
-    "¿Qué cargos adicionales pueden afectar el cálculo del impuesto?",
-    "¿Qué se entiende por contraprestación en una enajenación?"
+    "¿Cómo se calcula el impuesto de una venta?",
+    "¿Qué se incluye en el valor de la enajenación?",
+    "¿Los impuestos y cargos adicionales cuentan para el cálculo del impuesto?",
+    "¿Qué significa contraprestación en una venta?",
+    "¿Se pueden agregar intereses al precio de venta para los impuestos?"
   ]
 }

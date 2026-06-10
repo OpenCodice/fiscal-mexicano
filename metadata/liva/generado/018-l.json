@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28c29787951737c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso hasta $300,000",
+  "denominacion_comun": "Opción para contribuyentes de bajo ingreso",
   "temas": [
     "contribuyentes personas físicas",
-    "opción del artículo 18-M",
-    "ingresos por intermediación",
-    "cálculo de ingresos",
-    "inicio de actividades"
+    "opción de régimen",
+    "ingresos",
+    "intermediación",
+    "actividades económicas"
   ],
   "terminos_coloquiales": [
+    "opción para contribuir",
+    "bajo ingresos",
+    "régimen de bajos ingresos",
+    "personas físicas",
     "ingresos hasta 300 mil",
-    "opción artículo 18-M"
+    "inicializar actividades"
   ],
-  "resumen": "Los contribuyentes personas físicas que obtuvieron ingresos hasta $300,000 en el ejercicio anterior pueden optar por ciertas disposiciones fiscales, siempre que no reciban ingresos por otros conceptos. Aquellos que inicien actividades también pueden aplicar estas reglas si estiman que sus ingresos no superarán este monto.",
+  "resumen": "El artículo establece que los contribuyentes personas físicas con ingresos hasta $300,000 pueden optar por un régimen especial si no tienen otros ingresos. También se contempla a quienes inician actividades y consideran que no superarán ese monto durante el ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden optar por los beneficios del artículo 18-L?",
-    "¿Qué ingresos se consideran para la opción del artículo 18-M?",
-    "¿Cómo se calcula el ingreso si inicias actividades a mitad de año?",
-    "¿Qué pasa si mis ingresos superan los 300,000 pesos?",
-    "¿Qué condiciones debo cumplir para aplicar la opción del artículo 18-L?"
+    "¿Qué opciones tengo si mis ingresos son bajos?",
+    "¿Cómo puedo optar por un régimen si inicio actividades?",
+    "¿Cuánto debo facturar para poder aplicar la opción que menciona el artículo?",
+    "¿Qué pasa si mis ingresos superan los 300 mil pesos?",
+    "¿Puedo elegir este régimen si recibo otras fuentes de ingreso?"
   ]
 }

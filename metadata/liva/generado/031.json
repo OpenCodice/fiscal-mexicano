@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b1850ca5c15bbc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para turistas",
+  "denominacion_comun": "Devolución del IVA a turistas",
   "temas": [
-    "IVA",
     "devolución de impuestos",
-    "turistas",
-    "compras en México",
-    "requisitos",
-    "comprobantes fiscales"
+    "impuesto al valor agregado",
+    "comprobantes fiscales",
+    "turistas extranjeros",
+    "requisitos de devolución",
+    "reglas de operación",
+    "aduanas"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA para turistas",
-    "devolución de impuestos",
-    "SAT",
-    "requisitos para devolver IVA"
+    "devolución de impuestos a turistas",
+    "compras en el extranjero",
+    "comprobantes de compra",
+    "reglas del SAT"
   ],
-  "resumen": "Los turistas extranjeros pueden solicitar la devolución del IVA pagado en compras en México si cumplen ciertos requisitos, como presentar un comprobante fiscal válido y que las mercancías salgan del país. El SAT definirá las reglas y costos asociados a este proceso.",
+  "resumen": "Los turistas extranjeros pueden solicitar la devolución del IVA pagado por mercancías adquiridas en México al salir del país, siempre que presenten un comprobante fiscal válido y cumplan con ciertos requisitos establecidos por el SAT. La devolución se ajustará con los costos de administración correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo recuperar el IVA que pagué como turista?",
-    "¿Qué requisitos necesito para pedir la devolución del IVA?",
-    "¿Dónde presento el comprobante para la devolución del IVA?",
-    "¿El SAT cobra algo por la devolución del IVA a turistas?",
-    "¿Qué monto mínimo debo gastar para pedir la devolución de IVA?",
-    "¿Las mercancías tienen que salir del país para devolver el IVA?"
+    "¿Cómo puedo obtener la devolución del IVA si soy turista?",
+    "¿Cuáles son los requisitos para que un extranjero solicite la recuperación del IVA?",
+    "¿Qué comprobantes necesito para la devolución del IVA?",
+    "¿Hay un monto mínimo de compras para que me devuelvan el IVA?",
+    "¿Qué reglas debo seguir para obtener la devolución del IVA al salir del país?"
   ]
 }

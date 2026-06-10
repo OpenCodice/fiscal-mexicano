@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b673fdc77f37a3aa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses devengados",
   "temas": [
-    "valor real de intereses",
-    "créditos otorgados",
     "cálculo de impuestos",
+    "intereses",
+    "moneda nacional",
+    "moneda extranjera",
     "ganancia cambiaria",
     "arrendamiento financiero",
-    "intereses moratorios"
+    "unidad de inversión"
   ],
   "terminos_coloquiales": [
-    "intereses de créditos",
-    "impuesto sobre intereses",
-    "ganancia cambiaria",
+    "intereses devengados",
+    "créditos bancarios",
+    "tarjetas de crédito",
     "arrendamiento",
-    "LIVA"
+    "intereses",
+    "créditos en dólares"
   ],
-  "resumen": "Este artículo establece cómo se determina el valor real de los intereses devengados en créditos otorgados por instituciones financieras. También aborda cuándo no se causará impuesto y las condiciones para diferir el pago del impuesto si no se reciben los intereses mensualmente.",
+  "resumen": "Este artículo establece cómo se deben calcular los intereses devengados provenientes de créditos y arrendamientos financieros, tomando en cuenta factores como la inflación y la ganancia cambiaria. También menciona que si la tasa de interés más la ganancia cambiaria es igual o menor a la inflación, no se causará impuesto.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto sobre los intereses de un crédito?",
-    "¿Qué pasa si no recibo mis intereses mensualmente?",
-    "¿Qué debo considerar si mi crédito es en moneda extranjera?",
-    "¿Los cargos adicionales se suman a los intereses?",
-    "¿Qué es la ganancia cambiaria y cómo afecta los intereses?",
-    "¿Puedo diferir el impuesto si no cobro mis intereses?"
+    "¿Cómo se calculan los impuestos sobre los intereses de un préstamo?",
+    "¿Qué se considera como intereses devengados?",
+    "¿Qué pasa si no cobro los intereses de un crédito por tres meses?",
+    "¿Cuándo no se causará impuesto sobre los intereses?",
+    "¿Cómo afecta la inflación el cálculo de intereses?",
+    "¿Qué significa ganancia cambiaria en operaciones en moneda extranjera?"
   ]
 }

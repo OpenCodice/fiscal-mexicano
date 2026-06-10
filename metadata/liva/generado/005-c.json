@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e98fe7a6e951766",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proporción de Exclusión de Valores",
+  "denominacion_comun": "Proporción de ingresos excluidos",
   "temas": [
     "importaciones",
-    "enajenaciones",
+    "enajenaciones de activos",
     "dividendos",
     "acciones",
-    "moneda",
     "intereses",
-    "arrendamiento financiero",
-    "certificados de participación"
+    "arrendamientos",
+    "operaciones financieras"
   ],
   "terminos_coloquiales": [
-    "exclusión de valores",
-    "cálculo de proporciones",
-    "Ley del IVA",
-    "LIVA"
+    "ingresos no considerados",
+    "exclusiones de ingresos",
+    "venta de acciones",
+    "intereses",
+    "arrendamiento financiero",
+    "certificados de participación inmobiliaria"
   ],
-  "resumen": "El artículo establece que ciertos conceptos no deben ser incluidos al calcular la proporción de valores para determinar el impuesto. Esto incluye importaciones, enajenaciones de activos, dividendos, y algunos tipos de transacciones financieras.",
+  "resumen": "Este artículo establece qué ingresos no deben incluirse al calcular la proporción de ingresos de un contribuyente para efectos fiscales. Se excluyen importaciones, enajenaciones de activos fijos, dividendos y ciertos tipos de enajenaciones de bienes.",
   "preguntas_ejemplo": [
-    "¿Qué valores no se incluyen en el cálculo para el IVA?",
-    "¿Cuáles son las excepciones al calcular proporciones en la Ley del IVA?",
-    "¿Qué impactos tienen las enajenaciones en la determinación de impuestos?",
-    "¿Cómo afectan las inversiones en acciones al cálculo del IVA?",
-    "¿Qué pasa con los dividendos y su inclusión en el cálculo de proporciones?"
+    "¿Qué ingresos no son considerados para el cálculo de impuestos?",
+    "¿Se incluyen las ventas de acciones en la proporción de ingresos?",
+    "¿Qué pasa con los dividendos al calcular los ingresos?",
+    "¿Los arrendamientos se cuentan como ingresos?",
+    "¿Qué son las enajenaciones de certificados de participación inmobiliaria?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:323345ee287432b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones a servicios digitales",
+  "denominacion_comun": "Incumplimiento de obligaciones de servicios digitales",
   "temas": [
-    "incumplimiento de obligaciones",
-    "servicios digitales",
+    "sanciones",
+    "bloqueo de servicios digitales",
     "residentes en el extranjero",
-    "bloqueo de servicios",
-    "registro de contribuyentes",
-    "sanciones fiscales",
-    "declaraciones de pago"
+    "Declaraciones de pago",
+    "Registro Federal de Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "bloqueo de servicios digitales",
-    "sanciones a empresas extranjeras",
-    "IRR (Impuesto sobre la Renta de Residentes en el Extranjero)"
+    "bloqueo de acceso a servicios digitales",
+    "no pago de impuestos",
+    "declaraciones de impuestos",
+    "RFC",
+    "residentes fuera de México"
   ],
-  "resumen": "Este artículo establece que los residentes en el extranjero que no cumplan con sus obligaciones fiscales relacionadas con servicios digitales en México enfrentarán un bloqueo temporal de sus servicios. Además, la falta de pago de impuestos y la no presentación de declaraciones puede conllevar a la cancelación de su inscripción en el Registro Federal de Contribuyentes.",
+  "resumen": "Este artículo establece que los residentes en el extranjero que proporcionen servicios digitales a receptores en México, y que incumplan con sus obligaciones fiscales, sufrirán un bloqueo temporal de acceso a sus servicios. Además, se cancelará su inscripción en el RFC si no cumplen con sus obligaciones durante tres meses consecutivos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una empresa extranjera no paga impuestos por servicios digitales en México?",
-    "¿Se puede bloquear el acceso a un servicio digital si no se cumplen las obligaciones fiscales?",
-    "¿Cuáles son las sanciones para los servicios digitales proporcionados por residentes en el extranjero?",
-    "¿Qué obligaciones fiscales tienen los prestadores de servicios digitales en México?",
-    "¿Cómo se puede dar de baja a una empresa extranjera del RFC por incumplimiento?"
+    "¿Qué pasa si un residente en el extranjero no paga sus impuestos por servicios digitales?",
+    "¿Cómo se bloquea el acceso a un servicio digital?",
+    "¿Cuáles son las obligaciones fiscales para prestar servicios digitales desde el extranjero?",
+    "¿Qué sanciones hay por no presentar declaraciones de pago e informativas?",
+    "¿Qué ocurre con el Registro Federal de Contribuyentes si incumplo con mis obligaciones?"
   ]
 }

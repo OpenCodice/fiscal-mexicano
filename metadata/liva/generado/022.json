@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d952260a97b83167",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto por uso temporal de bienes",
+  "denominacion_comun": "Uso o goce temporal de bienes",
   "temas": [
     "impuesto",
-    "uso temporal",
     "bien tangible",
+    "otorgamiento",
     "contraprestaciones"
   ],
   "terminos_coloquiales": [
-    "impuesto por uso",
-    "impuesto por alquiler",
-    "impuesto sobre bienes",
-    "LIVA"
+    "pago de impuesto",
+    "renta",
+    "alquiler",
+    "uso de bienes"
   ],
-  "resumen": "Se debe pagar un impuesto cuando se otorga el uso o goce temporal de un bien tangible, en el momento en que se cobran las contraprestaciones por ello.",
+  "resumen": "Cuando se cede el uso de un bien tangible, se debe pagar un impuesto al momento de cobrar por su uso. Esto aplica sobre cada pago recibido por la renta o uso del bien.",
   "preguntas_ejemplo": [
-    "¿Cuándo se paga el impuesto por alquilar un bien?",
-    "¿Qué sucede al otorgar el uso de un bien tangible?",
-    "¿Qué implica la contraprestación en este impuesto?",
-    "¿Se paga impuesto al prestar un bien temporalmente?",
-    "¿A qué se refiere el uso de bienes en la LIVA?"
+    "¿Cuándo debo pagar el impuesto al rentar un bien?",
+    "¿Qué pasa si alquilo un objeto?",
+    "¿El impuesto se paga al recibir el dinero por un bien alquilado?",
+    "¿Cuánto se debe pagar por el uso temporal de un bien?",
+    "¿Hay impuesto al cobrar por el uso de herramientas?"
   ]
 }

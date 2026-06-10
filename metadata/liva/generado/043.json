@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3f4fccfdf4661d6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuestos Cedulares",
   "temas": [
-    "personas físicas",
+    "ingenios fiscales",
+    "impuestos locales",
     "prestación de servicios profesionales",
-    "uso o goce temporal de bienes inmuebles",
     "enajenación de bienes inmuebles",
     "actividades empresariales",
-    "tasa de impuesto",
     "utilidad gravable",
-    "jurisdicción fiscal"
+    "ingresos personales independientes"
   ],
   "terminos_coloquiales": [
-    "impuestos estatales",
-    "impuestos sobre servicios",
-    "impuesto cedular",
-    "ISAI",
-    "impuesto por enajenación",
-    "impuesto por arrendamiento"
+    "impuesto sobre servicios profesionales",
+    "impuesto sobre renta local",
+    "impuesto sobre alquiler de inmuebles",
+    "impuesto sobre venta de propiedades",
+    "'ingreso por actividades independientes'",
+    "utilidad gravable",
+    "impuesto cedular"
   ],
-  "resumen": "Las Entidades Federativas pueden imponer impuestos cedulares a las personas físicas por ingresos de servicios profesionales, uso de bienes inmuebles, enajenación de bienes inmuebles y actividades empresariales. La tasa de estos impuestos variará entre el 2% y el 5%, dependiendo de la actividad y su localización.",
+  "resumen": "Las Entidades Federativas pueden establecer impuestos sobre los ingresos de personas físicas que obtienen dinero de servicios profesionales, alquiler de inmuebles, venta de propiedades o actividades empresariales. Este impuesto se aplica a los ingresos generados en la entidad donde se brinda el servicio o se ubica el bien inmueble.",
   "preguntas_ejemplo": [
-    "¿Qué son los impuestos cedulares en México?",
-    "¿Cómo se gravan los ingresos por servicios profesionales?",
-    "¿Qué tasas se aplican a la enajenación de bienes inmuebles?",
-    "¿Dónde debo pagar el impuesto si tengo propiedades en diferentes estados?",
-    "¿Los impuestos cedulares son los mismos en todas las entidades federativas?"
+    "¿Qué impuestos puede cobrar mi estado si soy freelancer?",
+    "¿Cómo se grava el alquiler de un departamento en mi estado?",
+    "¿Cuáles son los impuestos por la venta de una casa?",
+    "¿Qué tasas se aplican a los ingresos por actividades empresariales?",
+    "¿Cómo se determinan los impuestos si tengo sucursales en diferentes estados?"
   ]
 }

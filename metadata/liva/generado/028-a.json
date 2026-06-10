@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:028d6da4b3f9ca65",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Crédito Fiscal por Importación Temporal",
+  "denominacion_comun": "Crédito fiscal por importación temporal",
   "temas": [
+    "bien importado",
     "crédito fiscal",
-    "importación temporal",
-    "maquila",
-    "depósito fiscal",
-    "certificación",
     "impuesto al valor agregado",
-    "vehículos",
-    "recinto fiscalizado"
+    "programas de maquila",
+    "certificación",
+    "depósito fiscal",
+    "recinto fiscalizado",
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
-    "crédito IVA",
-    "certificación SAT",
-    "regímenes aduaneros",
-    "maquila",
-    "depósito fiscal"
+    "crédito de IVA",
+    "certificación ante el SAT",
+    "dejar de pagar IVA",
+    "fianza para IVA",
+    "bienes importados"
   ],
-  "resumen": "Este artículo establece que las empresas pueden obtener un crédito fiscal del 100% del IVA por la importación de bienes bajo ciertos regímenes aduaneros, siempre que estén certificadas por el SAT. Además, aquellas que no se certifiquen pueden evitar el pago del IVA garantizando el interés fiscal con una fianza.",
+  "resumen": "Este artículo establece que las empresas pueden obtener un crédito fiscal del 100% del impuesto al valor agregado por bienes importados bajo ciertos regímenes aduaneros, siempre que estén certificadas por el SAT. Si no se certifican, pueden evitar pagar el impuesto proporcionando una fianza.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener el crédito fiscal por importación temporal?",
-    "¿Qué es la certificación del SAT para créditos fiscales?",
-    "¿Qué requisitos debo cumplir para acceder a los regímenes aduaneros?",
-    "¿Qué sucede si no me certifico para obtener el crédito fiscal?",
-    "¿El crédito fiscal se considera ingreso acumulable?",
-    "¿Cómo garantizo el interés fiscal si no me certifico?"
+    "¿Cómo obtengo un crédito fiscal por importación temporal?",
+    "¿Qué requisitos necesito para la certificación ante el SAT?",
+    "¿Puedo dejar de pagar IVA por bienes importados?",
+    "¿Qué es la fianza para garantizar el interés fiscal?",
+    "¿Cuánto tiempo dura la certificación del SAT?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:86260fac7263ae4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Efectivo cobro y contraprestaciones",
+  "denominacion_comun": "Efectos del cobro en la Ley del IVA",
   "temas": [
     "cobro efectivo",
     "contraprestaciones",
-    "pago con cheque",
-    "garantía de pago",
-    "documentos de cobro",
+    "pagos con cheque",
+    "títulos de crédito",
+    "documentos de pago",
     "tarjetas electrónicas"
   ],
   "terminos_coloquiales": [
     "cobro en efectivo",
-    "pago de impuestos",
-    "cheques y pagos",
-    "documentos pendientes de cobro",
-    "TCM (Tarjetas de Cobro y Medios)"
+    "cheques",
+    "documentos de pago",
+    "vales",
+    "tarjetas de pago",
+    "IVA"
   ],
-  "resumen": "El artículo establece cuándo se consideran efectivamente cobradas las contraprestaciones, ya sea en efectivo, en bienes o servicios. También menciona el tratamiento de cheques y otros documentos como garantías de pago en transacciones comerciales.",
+  "resumen": "El artículo establece cómo se considera que se han cobrado las contraprestaciones en diferentes formas de pago, incluyendo efectivo, cheques y documentos. Además, aclara cuándo se consideran efectivamente recibidos estos pagos en relación al IVA.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que se ha cobrado una contraprestación?",
-    "¿Qué pasa si pago con un cheque?",
-    "¿Los vales cuentan como contraprestaciones?",
-    "¿Cómo se considera el pago a través de tarjetas electrónicas?",
-    "¿Qué son los títulos de crédito y cómo se relacionan con el cobro?"
+    "¿Cuándo se considera que se ha cobrado un pago en efectivo?",
+    "¿Qué pasa si recibo un cheque como pago?",
+    "¿Cómo se manejan los vales y tarjetas electrónicas en el cobro?",
+    "¿Qué implicaciones tiene el uso de títulos de crédito?",
+    "¿Se considera que el IVA se ha pagado al recibir un documento de pago?"
   ]
 }

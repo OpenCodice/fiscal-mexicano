@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e27598b6facbe2a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de IVA en importaciones",
+  "denominacion_comun": "Importaciones Exentas de IVA",
   "temas": [
-    "importaciones exentas",
-    "regímenes aduaneros",
-    "donaciones de bienes",
-    "obras de arte",
-    "equipajes",
-    "vehículos"
+    "Importaciones",
+    "IVA",
+    "Exenciones",
+    "Bienes culturales",
+    "Vehículos",
+    "Equipajes",
+    "Donaciones"
   ],
   "terminos_coloquiales": [
+    "importaciones sin IVA",
     "exenciones de IVA",
-    "IVA importaciones",
-    "importación temporal",
-    "regímenes aduaneros",
+    "vehículos extranjeros",
     "donaciones",
-    "obras de arte",
-    "menajes de casa"
+    "obra de arte",
+    "equipaje"
   ],
-  "resumen": "El Artículo 25 de la LIVA establece qué importaciones están exentas del impuesto al valor agregado, incluyendo bienes que no se consumen, equipajes, donaciones y obras de arte con valor cultural. También menciona regímenes aduaneros específicos donde se aplican estas exenciones.",
+  "resumen": "El artículo establece las importaciones que están exentas del pago del impuesto al valor agregado, incluyendo bienes que no se consumen, equipajes, bienes donados, obras de arte y ciertos vehículos. También menciona que algunas importaciones temporales o para programas de maquila tienen condiciones especiales.",
   "preguntas_ejemplo": [
-    "¿Qué bienes están exentos de IVA al importar?",
-    "¿Cuáles son los regímenes aduaneros que permiten exenciones?",
-    "¿Se paga IVA por la importación de obras de arte?",
-    "¿Cómo se manejan los equipajes en la importación de IVA?",
-    "¿Qué requisitos debo cumplir para importar sin pagar IVA?"
+    "¿Qué importaciones están exentas de IVA?",
+    "¿Los equipajes se pueden importar sin pagar IVA?",
+    "¿Cuáles son las condiciones para importar obras de arte sin IVA?",
+    "¿Qué tipos de vehículos se pueden traer sin IVA?",
+    "¿Las donaciones de bienes del extranjero están exentas del impuesto al valor agregado?"
   ]
 }
