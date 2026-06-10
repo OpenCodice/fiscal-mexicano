@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7a3a702625a73c5a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos del Fisco Federal",
+  "denominacion_comun": "Ingresos y gastos del Fisco Federal",
   "temas": [
     "enajenación de bienes",
     "gastos de ejecución",
     "ingresos netos",
     "desincorporación de entidades",
-    "contrataciones con terceros",
     "recursos remanentes",
-    "pasivos de entidades"
+    "comisiones a agentes financieros",
+    "destino de recursos",
+    "Ley de Adquisiciones"
   ],
   "terminos_coloquiales": [
-    "cobro de bienes del fisco",
-    "dinero del gobierno",
-    "ingresos por ventas del gobierno",
-    "gastos del fisco",
-    "dinero de la tesorería"
+    "vender bienes al gobierno",
+    "cobrar gastos",
+    "ingresos netos por ventas",
+    "recursos del Fisco",
+    "desincorporación de entidades",
+    "fondos disponibles",
+    "Ley de Víctimas"
   ],
-  "resumen": "El artículo establece cómo se deben manejar los ingresos que obtiene el Fisco Federal por la venta de bienes y los gastos asociados a procesos de ejecución. También indica cómo se deben registrar los ingresos netos y su destino en la Tesorería de la Federación.",
+  "resumen": "El artículo regula cómo se deben enterar los ingresos y gastos asociados a la enajenación de bienes que pasan a ser propiedad del Fisco Federal y establece las condiciones bajo las cuales se deben realizar dichos procedimientos. También abarca la gestión de recursos remanentes y su destino a programas específicos.",
   "preguntas_ejemplo": [
-    "¿Cómo se cobra el dinero de bienes que vende el gobierno?",
-    "¿Qué gastos se tienen en cuenta al vender bienes del fisco?",
-    "¿Qué se hace con los recursos que sobran de la venta de entidades?",
-    "¿Los ingresos del gobierno se reportan en la misma tesorería?",
-    "¿Cómo se manejan las deudas de entidades en desincorporación?"
+    "¿Cuándo debo pagar los ingresos por la venta de bienes al Fisco?",
+    "¿Qué gastos se consideran para calcular los ingresos netos que se reportan al gobierno?",
+    "¿Cómo se manejan los recursos que quedan después de desincorporar entidades?",
+    "¿Qué pasa con los pasivos de un organismo descentralizado en proceso de desincorporación?",
+    "¿Los ingresos por la Ley de Víctimas se destinan a un fondo específico?"
   ]
 }

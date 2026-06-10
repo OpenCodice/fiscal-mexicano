@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7016f7c4ff84e6ef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de multas fiscales",
+  "denominacion_comun": "Multas por infracciones fiscales",
   "temas": [
-    "multas fiscales",
-    "incumplimiento de obligaciones",
+    "multas",
+    "infracciones fiscales",
+    "obligaciones fiscales",
     "Registro Federal de Contribuyentes",
     "declaraciones",
-    "contabilidad"
+    "contabilidad",
+    "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "descuento en multas",
+    "multas fiscales",
+    "sanciones fiscales",
+    "declarar impuestos",
     "pago de multas",
-    "rebaja en sanciones",
-    "multas por no pagar impuestos"
+    "contabilidad",
+    "contribuciones omitidas"
   ],
-  "resumen": "Esta disposición establece que los contribuyentes sancionados con multas por incumplimiento de obligaciones fiscales pueden pagar una parte de la multa si corrigen su situación antes de ciertos eventos. La reducción puede ser del 50% o 60% dependiendo del momento en que realicen el pago.",
+  "resumen": "Este artículo establece que las personas que reciben multas por infracciones fiscales pueden pagar solo el 50% de la multa si corrigen su situación antes de ciertos procedimientos. Además, si corrigen su situación después de esos procedimientos, pagarán el 60% de la multa siempre que cumplan con los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir mi multa fiscal?",
-    "¿Qué pasa si pago la multa después de una revisión?",
-    "¿Qué porcentaje de la multa debo pagar si corrijo mi situación?",
-    "¿Cuáles son las condiciones para obtener descuentos en multas fiscales?",
-    "¿Hasta cuándo puedo pagar la multa con descuento?"
+    "¿Cuánto tengo que pagar si me multan por no declarar?",
+    "¿Puedo reducir mi multa fiscal si corrojo mi situación?",
+    "¿Qué pasa si pago mi multa después de que inicien la revisión?",
+    "¿Cuáles son las infracciones que pueden dar lugar a multas fiscales?",
+    "¿Qué requisitos debo cumplir para obtener una reducción en mi multa?",
+    "¿Qué son las contribuciones omitidas?"
   ]
 }

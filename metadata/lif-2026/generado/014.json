@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:15287023358b4851",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de productos fiscales",
+  "denominacion_comun": "Autorización de cuotas 2026",
   "temas": [
     "cuotas",
     "productos",
-    "dependencias",
-    "Hacienda",
+    "autorización",
+    "Secretaría de Hacienda",
+    "ingresos",
+    "administración pública",
     "cobro",
-    "informes",
-    "autorización"
+    "documentos electrónicos",
+    "firma electrónica"
   ],
   "terminos_coloquiales": [
-    "cobro de productos",
-    "cuotas de Hacienda",
-    "autorización de tarifas",
-    "cobros fiscales",
-    "informe de ingresos"
+    "cobro de cuotas",
+    "productos cobros",
+    "Hacienda",
+    "informes de ingresos",
+    "firma autógrafa",
+    "productos no autorizados"
   ],
-  "resumen": "El Ejecutivo Federal puede autorizar las cuotas que cobren las dependencias a lo largo del ejercicio fiscal, y esas autorizaciones solo son válidas para ese año. Además, las dependencias tienen que reportar ingresos y cuotas a la Secretaría de Hacienda.",
+  "resumen": "Este artículo regula cómo la Secretaría de Hacienda y Crédito Público puede fijar o modificar las cuotas que cobran las dependencias en el ejercicio fiscal de 2026. Los productos deben ser aprobados antes de su cobro y hay normativas para la presentación de informes de ingresos por parte de estas dependencias.",
   "preguntas_ejemplo": [
-    "¿Qué productos fiscales puedo cobrar este año?",
-    "¿Cómo se autorizan las cuotas de los productos?",
-    "¿Qué pasa si no autorizo mis productos a tiempo?",
-    "¿Qué debo informar a Hacienda sobre mis ingresos?",
-    "¿Cuáles son los productos que no necesitan autorización?"
+    "¿Cómo se fijan las cuotas que cobra Hacienda?",
+    "¿Qué productos deben ser autorizados por la Secretaría de Hacienda?",
+    "¿Qué pasa si no se aprueban las cuotas antes de marzo de 2026?",
+    "¿Cómo debo informar mis ingresos a la Secretaría de Hacienda?",
+    "¿Cuándo debo presentar el informe de ingresos por productos?"
   ]
 }

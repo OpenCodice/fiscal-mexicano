@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f6b56d5ec1c1e67a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informes de la Secretaría de Hacienda",
+  "denominacion_comun": "Reportes de ingresos y financiamiento",
   "temas": [
-    "informes trimestrales",
     "ingresos por contribuciones",
-    "destino de ingresos",
+    "informes trimestrales",
     "financiamiento del Gasto de Capital",
-    "información económica",
-    "ingresos excedentes",
-    "Fondo Mexicano del Petróleo"
+    "información sobre aprovechamientos",
+    "evolución del precio del petróleo",
+    "ingresos excedentes"
   ],
   "terminos_coloquiales": [
-    "informes de Hacienda",
-    "reportes de ingresos",
-    "cómo se usan los ingresos",
-    "financiamiento del gobierno",
-    "información económica al Congreso"
+    "reportes de Hacienda",
+    "informes al Congreso",
+    "transferencias del Fondo Mexicano del Petróleo",
+    "ingresos del gobierno"
   ],
-  "resumen": "La Secretaría de Hacienda y Crédito Público debe informar trimestralmente al Congreso sobre los ingresos y su uso, incluyendo detalles sobre los ingresos por contribuciones y su destino. También se reportará la evolución del precio del petróleo y los ingresos excedentes generados.",
+  "resumen": "La Secretaría de Hacienda y Crédito Público debe informar al Congreso sobre los ingresos por contribuciones, el financiamiento del Gasto de Capital, y los aprovechamientos generados. También debe reportar trimestralmente sobre el comportamiento del precio del petróleo y los ingresos excedentes.",
   "preguntas_ejemplo": [
-    "¿Qué informes debe presentar Hacienda al Congreso?",
+    "¿Qué informes debe hacer Hacienda al Congreso?",
     "¿Cómo se reportan los ingresos por contribuciones?",
-    "¿Qué información se incluye sobre el financiamiento del gasto público?",
-    "¿Se informan los ingresos excedentes al Congreso?",
-    "¿Qué dice Hacienda sobre el precio del petróleo?"
+    "¿Qué información se incluye sobre el presupuesto y financiamiento?",
+    "¿Cómo se monitorea el precio del petróleo?",
+    "¿Qué son los ingresos excedentes que reporta Hacienda?"
   ]
 }

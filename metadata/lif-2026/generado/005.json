@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0b69fb7beb21e6d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Déficit por Intermediación Financiera",
+  "denominacion_comun": "Déficit por intermediación financiera",
   "temas": [
     "banca de desarrollo",
     "fondos de fomento",
-    "Instituto del Fondo Nacional para el Consumo",
+    "Instituto del Fondo Nacional para el Consumo de los Trabajadores",
     "déficit",
-    "resultado de operación",
     "reservas crediticias preventivas",
-    "autorización",
     "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
-    "déficit financiero",
-    "banca de desarrollo",
-    "operaciones del banco",
+    "banca",
     "fondos de fomento",
-    "dinero para trabajadores"
+    "déficit financiero",
+    "reservas de crédito"
   ],
-  "resumen": "Se permite a ciertas entidades tener un déficit específico por intermediación financiera de cero pesos para un ejercicio fiscal. Esta autorización requiere aprobación del órgano de gobierno correspondiente y la Secretaría de Hacienda.",
+  "resumen": "Se permite a ciertas instituciones un monto conjunto de déficit por intermediación financiera para el ejercicio fiscal. Este déficit debe ser autorizado por el órgano de gobierno y contar con la opinión favorable de la Secretaría de Hacienda.",
   "preguntas_ejemplo": [
-    "¿Cuánto déficit puede tener la banca de desarrollo?",
-    "¿Quién autoriza el déficit por intermediación financiera?",
-    "¿Qué entidades están involucradas en el déficit financiero?",
-    "¿Qué se necesita para ajustar el monto autorizado?",
-    "¿Qué significa el resultado de operación en este contexto?"
+    "¿Qué es el déficit por intermediación financiera?",
+    "¿Quién autoriza el déficit para la banca de desarrollo?",
+    "¿Cómo se determina el monto del déficit permitido?",
+    "¿Qué opiniones se requieren para ajustar el déficit?",
+    "¿Qué entidades están involucradas en el déficit financiero?"
   ]
 }

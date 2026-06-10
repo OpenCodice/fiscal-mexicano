@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bcdd5648902c2d25",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Refinanciamiento del Instituto para la Protección al Ahorro Bancario",
+  "denominacion_comun": "Créditos del Instituto para la Protección al Ahorro Bancario",
   "temas": [
     "créditos",
     "valores",
-    "refinanciamiento",
-    "obligaciones financieras",
+    "deuda",
     "liquidez",
-    "deuda"
+    "Banco de México",
+    "obligaciones financieras",
+    "informes trimestrales"
   ],
   "terminos_coloquiales": [
-    "créditos del Instituto",
-    "emisión de valores",
-    "refinanciar deudas",
-    "mejorar condiciones de deuda"
+    "créditos del IPAB",
+    "deuda del IPAB",
+    "valor de deuda",
+    "emisión de bonos",
+    "refinanciamiento",
+    "banco central"
   ],
-  "resumen": "Este artículo autoriza al Instituto para la Protección al Ahorro Bancario a contratar créditos y emitir valores para refinanciar sus obligaciones. Asimismo, establece el papel del Banco de México en la colocación y manejo de estos valores en caso de insuficiencia de fondos.",
+  "resumen": "Se permite al Instituto para la Protección al Ahorro Bancario contratar créditos o emitir valores para refinanciar sus obligaciones financieras. El Banco de México actuará como agente financiero para la colocación y emisión de estos valores, asegurando que el Instituto cumpla con sus pagos de deuda.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer el Instituto para la Protección al Ahorro Bancario si no tiene dinero para pagar sus deudas?",
-    "¿Quién se encarga de colocar los valores del Instituto?",
-    "¿Cómo se informará al Congreso sobre las operaciones de refinanciamiento?",
-    "¿Puede el Banco de México ayudar al Instituto en caso de falta de fondos?",
-    "¿Cuánto tiempo tiene el Banco de México para colocar los valores?"
+    "¿Qué es el Instituto para la Protección al Ahorro Bancario?",
+    "¿Cómo funciona el refinanciamiento de la deuda del IPAB?",
+    "¿Qué papel juega el Banco de México en el financiamiento del IPAB?",
+    "¿Qué sucede si el IPAB no tiene suficientes fondos para sus pagos?",
+    "¿Cuánto tiempo tiene el Banco de México para colocar valores del IPAB?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:889f4ada718a7488",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad de fideicomisos y recursos públicos",
+  "denominacion_comun": "Responsabilidad de fideicomisos",
   "temas": [
     "fideicomisos",
-    "obligaciones fiscales",
-    "recursos públicos",
-    "extinción de fideicomisos",
-    "fins específicos"
+    "responsabilidad fiscal",
+    "recursos federales",
+    "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
-    "fideicomisos públicos",
-    "deberes de los fideicomisos",
-    "recursos de fideicomisos",
-    "aplicación de recursos"
+    "fideicomisos",
+    "mandatos públicos",
+    "recursos públicos",
+    "saneamiento de créditos",
+    "adeudos fiscales",
+    "IMSS",
+    "SHCP"
   ],
-  "resumen": "Las entidades encargadas de los fideicomisos deben asegurarse de que los recursos que administran se usen para los fines establecidos, incluso cuando se terminen o extingan. Esto incluye una adecuada concentración de recursos no utilizados en la Tesorería de la Federación.",
+  "resumen": "El artículo establece que las unidades responsables de los fideicomisos y mandatos públicos deben verificar que los recursos se usen de acuerdo a su objeto y fines, además de definir acciones a seguir en caso de que estos recursos no hayan sido ejercidos correctamente. También se abordan temas de compensación y regularización de adeudos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué responsabilidades tienen los fideicomisos sobre sus recursos?",
-    "¿Qué sucede con los recursos de fideicomisos que no se utilizan?",
-    "¿Cómo se deben manejar los recursos de fideicomisos al final de su vida útil?",
-    "¿Qué pasa con los recursos públicos no devengados en ejercicios anteriores?"
+    "¿Qué obligaciones tienen los fideicomisos en cuanto al uso de recursos?",
+    "¿Qué pasa con los recursos que no se utilizan de acuerdo con las reglas?",
+    "¿Cómo se deben manejar los adeudos fiscales con el IMSS en relación a los fideicomisos?",
+    "¿Qué recursos se consideran extemporáneos en la concentración de fondos públicos?",
+    "¿Qué incentivos hay para las entidades que regularizan su situación fiscal?"
   ]
 }

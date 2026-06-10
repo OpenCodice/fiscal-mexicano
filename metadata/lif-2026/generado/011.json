@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c8758670391cafb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recargos por prórroga de créditos fiscales",
+  "denominacion_comun": "Prórroga de pagos de créditos fiscales",
   "temas": [
-    "prórroga",
-    "créditos fiscales",
     "recargos",
-    "pagos a plazos"
+    "pagos a plazos",
+    "créditos fiscales",
+    "saldos insolutos",
+    "tasa de recargos"
   ],
   "terminos_coloquiales": [
-    "recargos por pagos atrasados",
-    "intereses por prórroga",
-    "cobros por prórroga",
-    "intereses en pagos a plazos"
+    "prórroga de pagos",
+    "créditos fiscales",
+    "recargos",
+    "pago a plazos"
   ],
-  "resumen": "Este artículo establece que se generan recargos por la prórroga en el pago de créditos fiscales. Los recargos varían según el tiempo y la modalidad de los pagos a plazos.",
+  "resumen": "El artículo establece que se generarán recargos en caso de prórroga para el pago de créditos fiscales. La tasa de recargos varía según el periodo de pago a plazos y la cantidad de meses.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga de recargo por no cumplir con un crédito fiscal?",
-    "¿Qué tasas de recargo hay si elijo pagar a plazos?",
-    "¿Cómo se calculan los recargos por prórroga en impuestos?",
-    "¿Cuáles son las consecuencias de no pagar a tiempo mis impuestos?",
-    "¿Qué debo saber de los recargos si solicito una prórroga?"
+    "¿Qué tasas de recargos se aplican si me dan prórroga para pagar impuestos?",
+    "¿Cómo se calculan los recargos en los pagos a plazos de créditos fiscales?",
+    "¿Cuánto debo pagar de recargos si tengo un saldo insoluto?",
+    "¿Qué pasa si elijo pagar a plazos más de 24 meses?",
+    "¿Se actualizan las tasas de recargos según el Código Fiscal?"
   ]
 }

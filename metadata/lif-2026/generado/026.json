@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b77d4f17a45fcec9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estudio de ingreso-gasto",
   "temas": [
     "política fiscal",
+    "impuestos",
     "ingreso",
     "gasto",
-    "contribuciones fiscales",
-    "bienestar",
-    "servicios públicos"
+    "contribuciones",
+    "bienestar social",
+    "estadísticas",
+    "secretaría de hacienda"
   ],
   "terminos_coloquiales": [
-    "estudio de impuestos y gastos",
-    "análisis de ingresos",
-    "impacto fiscal en familias",
-    "cómo afecta la fiscalidad a los ciudadanos"
+    "estudio de ingreso-gasto",
+    "análisis de impuestos",
+    "contribuciones fiscales",
+    "Secretaría de Hacienda",
+    "estudio de impacto fiscal"
   ],
-  "resumen": "Se debe realizar un estudio sobre el ingreso y gasto de las familias, analizando cómo contribuyen a los impuestos y qué servicios reciben a cambio. Este estudio será llevado a cabo por la Secretaría de Hacienda y publicado para su revisión.",
+  "resumen": "La Secretaría de Hacienda y Crédito Público debe realizar un estudio que analice los ingresos y gastos de las familias de acuerdo a su decil socioeconómico. Este estudio mostrará su contribución a los impuestos y los servicios que reciben a cambio.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos pagan las familias según su ingreso?",
-    "¿Cómo se distribuyen los servicios públicos entre los distintos grupos de ingreso?",
-    "¿Qué efectos tiene la política fiscal en mi familia?",
-    "¿Dónde puedo ver el estudio de ingresos y gastos?",
-    "¿Quién es responsable de hacer el estudio fiscal?"
+    "¿Qué es el estudio de ingreso-gasto de la Secretaría de Hacienda?",
+    "¿Cómo afecta la política fiscal a las familias en México?",
+    "¿Qué información presenta el estudio de ingreso-gasto?",
+    "¿Quién es responsable de realizar el estudio de ingreso-gasto?",
+    "¿Cuándo se debe entregar el estudio de ingreso-gasto?"
   ]
 }

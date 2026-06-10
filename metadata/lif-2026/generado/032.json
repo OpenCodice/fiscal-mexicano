@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:047aea62e0857d4a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Modificaciones a la Tarifa de Impuestos",
+  "denominacion_comun": "Tarifa de Impuestos de Importación y Exportación",
   "temas": [
-    "Impuestos Generales de Importación",
-    "Impuestos Generales de Exportación",
-    "Congreso de la Unión",
-    "Ejecutivo Federal",
-    "Informe del Ejecutivo"
+    "impuestos",
+    "importación",
+    "exportación",
+    "congreso",
+    "modificaciones"
   ],
   "terminos_coloquiales": [
-    "cambios en impuestos de importación",
-    "tarifas de aduanas",
+    "impuestos de importación",
     "impuestos de exportación",
-    "modificaciones fiscales",
-    "informe del gobierno sobre impuestos"
+    "tarifa de impuestos"
   ],
-  "resumen": "El Congreso aprueba cambios en las tarifas de impuestos de importación y exportación que presentó el Ejecutivo Federal. Esto se hace conforme a un informe que se rinde al Congreso.",
+  "resumen": "El Congreso aprueba cambios a la tarifa de impuestos que se aplican a las importaciones y exportaciones. Estos cambios son enviados por la persona titular del Ejecutivo Federal, cumpliendo con lo establecido en la Constitución.",
   "preguntas_ejemplo": [
-    "¿Qué cambios se hicieron en los impuestos de importación?",
-    "¿Cómo afectan las nuevas tarifas a las exportaciones?",
-    "¿Quién aprueba las modificaciones fiscales en México?",
-    "¿Qué informe presentó el Ejecutivo al Congreso?",
-    "¿Qué son los Impuestos Generales de Importación?"
+    "¿Cuáles son los cambios en la tarifa de impuestos de importación?",
+    "¿Qué modificaciones se han aprobado para los impuestos de exportación?",
+    "¿Qué informa el Ejecutivo Federal sobre la tarifa de impuestos?",
+    "¿Cómo afectan las modificaciones a los impuestos de importación y exportación?",
+    "¿Qué dice el Congreso sobre la tarifa de impuestos?"
   ]
 }

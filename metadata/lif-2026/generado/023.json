@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd43f67b5c53d900",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Clasificación de ingresos excedentes",
+  "denominacion_comun": "Clasificación de Ingresos Excedentes",
   "temas": [
-    "ingresos excedentes",
-    "clasificación de ingresos",
     "ingresos inherentes",
     "ingresos no inherentes",
     "ingresos excepcionales",
-    "Secretaría de Hacienda"
+    "ingresos del Poder Legislativo",
+    "ingresos del Poder Judicial"
   ],
   "terminos_coloquiales": [
-    "cómo se clasifican los ingresos extras",
-    "ingresos adicionales del gobierno",
-    "diferentes tipos de ingresos públicos",
-    "qué son los ingresos excepcionales"
+    "ingresos excedentes",
+    "clasificación de ingresos",
+    "Secretaría de Hacienda",
+    "inversiones de entidades",
+    "presupuestos"
   ],
-  "resumen": "El artículo clasifica los ingresos excedentes de las entidades en cuatro categorías: ingresos inherentes, no inherentes, excepcionales y de los poderes Legislativo y Judicial. También le da a la Secretaría de Hacienda la facultad de modificar esta clasificación.",
+  "resumen": "Este artículo clasifica los ingresos excedentes de las dependencias y entidades en varias categorías, incluyendo ingresos inherentes y excepcionales. También otorga a la Secretaría de Hacienda la facultad de modificar esta clasificación y requerimientos para su aplicación.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de ingresos adicionales puede tener una entidad?",
-    "¿Cómo se clasifican los ingresos que generan las dependencias del gobierno?",
-    "¿Qué ingresos son considerados excepcionales?",
-    "¿Quién determina cómo se clasifican los ingresos excedentes?"
+    "¿Cómo se clasifican los ingresos excedentes de las dependencias?",
+    "¿Qué ingresos son considerados excepcionales según esta ley?",
+    "¿Quién puede modificar la clasificación de ingresos excedentes?",
+    "¿Qué son los ingresos no inherentes?",
+    "¿Cuáles son los ingresos del Poder Legislativo y Judicial?"
   ]
 }

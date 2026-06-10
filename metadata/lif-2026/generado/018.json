@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e96db668d63f7283",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso de entidades públicas",
+  "denominacion_comun": "Ingresos de Entidades Públicas",
   "temas": [
-    "ingresos",
-    "Administración Pública",
-    "control presupuestario",
-    "Registro Federal de Contribuyentes",
-    "contabilidad",
-    "declaraciones informativas"
+    "entidades de la administración pública",
+    "control financiero",
+    "declaciones informativas",
+    "Registro Federal de Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "ingresos de gobierno",
-    "contabilidad de entidades públicas",
-    "declaraciones fiscales",
-    "registros de contribuyentes públicos"
+    "entidades públicas",
+    "IMSS",
+    "ISSSTE",
+    "declaraciones fiscales"
   ],
-  "resumen": "Este artículo establece que las entidades de la Administración Pública Federal Paraestatal que reciben ingresos deben estar registradas y llevar su contabilidad de acuerdo a la ley. También deben presentar ciertas declaraciones informativas.",
+  "resumen": "Este artículo establece que las entidades de la administración pública federal paraestatal que reciban ingresos deben cumplir con ciertas normativas fiscales. Deben estar registradas ante el RFC y llevar su contabilidad conforme a la ley.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos deben registrar las entidades públicas?",
-    "¿Qué entidades están sujetas a esta ley?",
-    "¿Cómo deben llevar la contabilidad las entidades de gobierno?",
-    "¿Qué tipo de declaraciones informativas deben presentar?",
-    "¿Qué es el Registro Federal de Contribuyentes para entidades públicas?"
+    "¿Qué deben hacer las entidades públicas con sus ingresos?",
+    "¿Quiénes deben estar inscritas en el RFC?",
+    "¿Cómo presentan las declaraciones informativas las entidades públicas?",
+    "¿Qué es el control financiero para las entidades públicas?",
+    "¿Qué entidades están sujetas a esta ley?"
   ]
 }

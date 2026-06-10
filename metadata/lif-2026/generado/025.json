@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4508215d2e15fa63",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos Deducibles",
+  "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Impuesto al Valor Agregado",
-    "Donativos",
-    "Organizaciones Civiles",
-    "Fideicomisos",
-    "Desastres Naturales",
-    "Autorizaciones",
-    "Requisitos"
+    "impuesto sobre la renta",
+    "impuesto al valor agregado",
+    "organizaciones civiles",
+    "fideicomisos",
+    "donativos",
+    "desastres naturales",
+    "auditoría",
+    "transparencia"
   ],
   "terminos_coloquiales": [
     "donativos deducibles",
-    "donaciones a organizaciones",
-    "apoyo en desastres",
-    "requisitos para donar",
-    "organizaciones de ayuda"
+    "donativos a ONG",
+    "donativos a fideicomisos",
+    "donativos para desastres",
+    "deducciones fiscales",
+    "impuesto sobre la renta (ISR)",
+    "IVA"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles. Estas organizaciones pueden otorgar donativos a otras que trabajan en labores de rescate y reconstrucción tras desastres naturales, siempre cumpliendo ciertos criterios específicos.",
+  "resumen": "El artículo establece las condiciones bajo las cuales las organizaciones civiles y fideicomisos que reciban donativos pueden ser considerados deducibles en el impuesto sobre la renta y el impuesto al valor agregado. Se mencionan los requisitos que deben cumplir ambos tipos de organizaciones para otorgar y recibir donativos, especialmente en situaciones de desastres naturales.",
   "preguntas_ejemplo": [
     "¿Qué requisitos debo cumplir para que mis donativos sean deducibles?",
-    "¿A qué organizaciones puedo donar y que cuenten con deducción fiscal?",
-    "¿Cómo puedo comprobar que estoy donando a una causa legítima?",
-    "¿Qué pasa si la organización que recibe la donación no está autorizada?",
-    "¿Cuáles son las obligaciones de las organizaciones que reciben donativos?"
+    "¿Puedo deducir donativos a organizaciones que no están autorizadas?",
+    "¿Qué tipo de informes debo presentar al hacer donativos a organizaciones de rescate?",
+    "¿Cómo se consideran los donativos a fideicomisos en la declaración de impuestos?",
+    "¿Existen límites para los donativos que se pueden deducir?"
   ]
 }

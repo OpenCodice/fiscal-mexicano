@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f7312dcfa50cddc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Endeudamiento Público 2026",
+  "denominacion_comun": "Deuda Pública y Créditos",
   "temas": [
-    "Créditos del Gobierno",
-    "Deuda Pública",
-    "Empréstitos",
-    "Financiamiento del Presupuesto"
+    "créditos",
+    "empréstitos",
+    "deuda pública interna",
+    "deuda pública externa",
+    "financiamiento",
+    "Presupuesto de Egresos",
+    "Secretaría de Hacienda",
+    "valores"
   ],
   "terminos_coloquiales": [
-    "deuda del gobierno",
-    "préstamos del ejecutivo",
-    "financiamiento público",
-    "emisión de valores"
+    "deuda pública",
+    "créditos",
+    "empréstitos",
+    "valores",
+    "financiamiento del presupuesto",
+    "Secretaría de Hacienda y Crédito Público"
   ],
-  "resumen": "El Ejecutivo Federal puede contratar créditos y empréstitos, tanto internos como externos, para financiar el presupuesto del año 2026. Esto incluye la posibilidad de emitir valores y refinanciar deudas existentes.",
+  "resumen": "Este artículo autoriza al Ejecutivo Federal a contratar créditos y empréstitos para financiar el Presupuesto de Egresos, tanto en el país como en el exterior. También se permiten operaciones de canje o refinanciamiento de obligaciones de deuda pública, siempre que el endeudamiento neto adicional no exceda lo autorizado.",
   "preguntas_ejemplo": [
-    "¿Cuánto puede endeudar el gobierno este año?",
-    "¿Qué créditos puede contratar el Ejecutivo?",
-    "¿Cómo se maneja la deuda pública externa?",
-    "¿Qué son los empréstitos del gobierno?",
-    "¿Qué significa emitir valores?"
+    "¿Cómo se financia el presupuesto de 2026?",
+    "¿Qué tipos de deuda puede contratar el gobierno?",
+    "¿Se pueden refinanciar deudas del sector público?",
+    "¿Qué autoriza la Secretaría de Hacienda en este artículo?",
+    "¿Cómo se determina el monto de deuda externa permitido?"
   ]
 }
