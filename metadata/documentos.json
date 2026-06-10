@@ -49,12 +49,36 @@
       "version": "2025-11-07"
     },
     {
+      "clave": "lfdc",
+      "etiqueta": "Ley Federal de los Derechos del Contribuyente",
+      "sigla": "LFDC",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2005-06-23"
+    },
+    {
+      "clave": "lfisan",
+      "etiqueta": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+      "sigla": "LFISAN",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2021-11-12"
+    },
+    {
       "clave": "lfpca",
       "etiqueta": "Ley Federal de Procedimiento Contencioso Administrativo",
       "sigla": "LFPCA",
       "tipo": "ley",
       "num_articulos": 103,
       "version": "2025-11-14"
+    },
+    {
+      "clave": "lfpiorpi",
+      "etiqueta": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "sigla": "LFPIORPI",
+      "tipo": "ley",
+      "num_articulos": 73,
+      "version": "2025-07-16"
     },
     {
       "clave": "lieps",
@@ -73,6 +97,14 @@
       "version": "2025-11-07"
     },
     {
+      "clave": "lish",
+      "etiqueta": "Ley de Ingresos sobre Hidrocarburos",
+      "sigla": "LISH",
+      "tipo": "ley",
+      "num_articulos": 64,
+      "version": "2025-03-18"
+    },
+    {
       "clave": "lisr",
       "etiqueta": "Ley del Impuesto sobre la Renta",
       "sigla": "LISR",
@@ -89,12 +121,36 @@
       "version": "2021-11-12"
     },
     {
+      "clave": "lsat",
+      "etiqueta": "Ley del Servicio de Administración Tributaria",
+      "sigla": "LSAT",
+      "tipo": "ley",
+      "num_articulos": 41,
+      "version": "2018-12-04"
+    },
+    {
       "clave": "rcff",
       "etiqueta": "Reglamento del Código Fiscal de la Federación",
       "sigla": "RCFF",
       "tipo": "reglamento",
       "num_articulos": 113,
       "version": "2014-04-02"
+    },
+    {
+      "clave": "rladua",
+      "etiqueta": "Reglamento de la Ley Aduanera",
+      "sigla": "RLA",
+      "tipo": "reglamento",
+      "num_articulos": 282,
+      "version": "2026-02-23"
+    },
+    {
+      "clave": "rlfpiorpi",
+      "etiqueta": "Reglamento de la LFPIORPI",
+      "sigla": "RLFPIORPI",
+      "tipo": "reglamento",
+      "num_articulos": 70,
+      "version": "2026-03-27"
     },
     {
       "clave": "rlieps",
