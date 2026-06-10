@@ -1,0 +1,74 @@
+name: Revisar PR de reforma fiscal
+
+# Se ejecuta en cada PR.
+#   validar  — invariantes deterministas. Es el GATE: required check de main.
+#   fusionar — fusiona solo el PR si la vigilancia lo dejó verificado contra el PDF,
+#              con rebase (un commit por documento).
+
+on:
+  pull_request: {}
+
+permissions:
+  contents: read
+  pull-requests: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Validar invariantes (GATE)
+        run: |
+          if PYTHONPATH=/tmp/extractor python -m extractor validar \
+               --out "$GITHUB_WORKSPACE"; then
+            echo "✅ Invariantes OK"
+          else
+            echo "::error::Invariantes ROTOS — no mergear"
+            exit 1
+          fi
+
+  fusionar:
+    needs: validar
+    if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'actualizacion/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Fusionar si la extracción quedó verificada
+        env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Sin PR_TOKEN: el PR queda para revisión manual."; exit 0
+          fi
+          estado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json isDraft,labels \
+            -q '"\(.isDraft) \([.labels[].name] | join(","))"')
+          case "$estado" in
+            true*|*extraccion-sospechosa*) echo "Extracción sospechosa: no se fusiona."; exit 0 ;;
+            *verificado*) ;;
+            *) echo "Sin etiqueta 'verificado': no se fusiona."; exit 0 ;;
+          esac
+          # La vigilancia (en fiscal-extractor) trae un commit por documento: se
+          # fusiona con rebase para conservarlos. Se reintenta si main cambió.
+          for intento in 1 2 3 4 5 6; do
+            gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --rebase --delete-branch && exit 0
+            sleep $(( (RANDOM % 30) + 15 * intento ))
+          done
+          echo "::error::No se pudo fusionar el PR #$PR tras 6 intentos"; exit 1
