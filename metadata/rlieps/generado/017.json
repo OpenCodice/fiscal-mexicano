@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e950dcf1e5f65f8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Destrucción de envases de bebidas alcohólicas",
   "temas": [
-    "contribuyentes",
-    "envases vacíos",
+    "destrucción de envases",
     "bebidas alcohólicas",
-    "destrucción",
+    "contribuyentes",
     "etiquetas",
     "marbetes",
-    "registro",
     "información fiscal"
   ],
   "terminos_coloquiales": [
-    "vaciar botellas",
-    "cómo destruir envases",
-    "destruir etiquetas",
-    "marbetes en botellas",
-    "destrucción semanal de envases"
+    "destruir envases vacíos",
+    "bebidas alcohólicas",
+    "raspar etiquetas",
+    "marbetes",
+    "información de envases"
   ],
-  "resumen": "Los contribuyentes pueden destruir los envases vacíos de bebidas alcohólicas cada semana, pero deben raspar las etiquetas y registrar información sobre los marbetes. También deben conservar ciertos datos para las autoridades fiscales.",
+  "resumen": "Los contribuyentes pueden optar por destruir envases vacíos de bebidas alcohólicas de forma semanal. Deben raspar las etiquetas y registrar los marbetes de los envases destruidos, además de conservar la información necesaria para las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo destruir envases de bebidas alcohólicas?",
-    "¿Qué debo hacer con las etiquetas de las botellas vacías?",
-    "¿Es obligatorio registrar las botellas que destruyo?",
-    "¿Cuándo y cómo debo destruir los envases vacíos?",
-    "¿Qué información debo conservar sobre los envases destruidos?"
+    "¿Cómo puedo destruir envases vacíos de bebidas alcohólicas?",
+    "¿Qué debo hacer con las etiquetas de los envases que destruyo?",
+    "¿Qué información necesito conservar sobre los envases destruidos?",
+    "¿Con qué frecuencia puedo destruir los envases vacíos?",
+    "¿Debo informar a las autoridades fiscales sobre los envases destruidos?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:13adb3d9b26cf2eb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comprobantes fiscales",
   "temas": [
-    "requisitos de comprobantes",
-    "nombre del contribuyente",
-    "impuesto trasladado",
     "Registro Federal de Contribuyentes",
-    "constancia de inscripción"
+    "Comprobantes fiscales",
+    "Contribuyentes",
+    "Impuestos"
   ],
   "terminos_coloquiales": [
-    "comprobantes de impuestos",
-    "requisitos para facturar",
-    "cómo saber si mi comprobante es válido",
-    "datos del contribuyente en la factura"
+    "factura",
+    "CFDI",
+    "recibo",
+    "comprobante",
+    "RFC"
   ],
-  "resumen": "El artículo establece que para emitir un comprobante fiscal, es necesario asegurarse de que los datos del contribuyente coincidan con su registro en el RFC, y que se incluya el número de dicha constancia en el comprobante.",
+  "resumen": "Este artículo establece que para expedir un comprobante fiscal, es necesario confirmar que los datos de la persona a quien se le expide coinciden con su registro en el RFC. Además, se debe anotar el número de la constancia de inscripción en el comprobante.",
   "preguntas_ejemplo": [
-    "¿Qué datos debo tener para emitir un comprobante fiscal?",
-    "¿Cómo verifico que los datos de una factura son correctos?",
-    "¿Qué es la constancia de inscripción en el RFC?",
-    "¿Qué pasa si los datos del contribuyente no coinciden?",
-    "¿Es necesario incluir el número de la constancia en el comprobante?"
+    "¿Cómo me aseguro que los datos en mi factura son correctos?",
+    "¿Qué requisitos debo seguir para emitir un CFDI?",
+    "¿Qué pasa si mis datos no coinciden con el RFC?",
+    "¿Es necesario incluir el número de constancia en la factura?",
+    "¿Qué es un comprobante fiscal y cómo funciona?",
+    "¿Cómo verificar que soy contribuyente de impuestos?"
   ]
 }

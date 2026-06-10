@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ceebe47e9ce9002e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Etiquetas en bebidas alcohólicas",
+  "denominacion_comun": "Etiquetado de bebidas alcohólicas",
   "temas": [
     "exportación",
     "bebidas alcohólicas",
     "etiquetas",
-    "importación",
-    "tiendas libres de impuestos"
+    "depósitos fiscales",
+    "tiendas libres de impuestos",
+    "identificación del importador"
   ],
   "terminos_coloquiales": [
-    "etiquetas para alcohol",
-    "etiquetas en botellas",
-    "envases de bebidas",
-    "requisitos de etiquetado",
-    "comercialización de alcohol"
+    "etiquetado de alcohol",
+    "exportación de bebidas",
+    "tiendas libres",
+    "depósitos fiscales"
   ],
-  "resumen": "Los contribuyentes que exportan bebidas alcohólicas deben poner etiquetas en los envases con información del importador. Si los envases se venden en tiendas libres de impuestos, solo es necesaria una etiqueta con los datos de esas tiendas.",
+  "resumen": "Los contribuyentes que exportan bebidas alcohólicas deben colocar etiquetas con información del importador en los envases. Si se venden a tiendas libres de impuestos, solo debe tener la etiqueta con la identificación de dichas tiendas.",
   "preguntas_ejemplo": [
-    "¿Qué etiquetas debo poner en las botellas de alcohol que exporto?",
-    "¿Cuáles son los requisitos para etiquetar bebidas alcohólicas?",
-    "¿Qué información necesita la etiqueta de los productos en tiendas libres de impuestos?",
-    "¿Es necesario etiquetar las bebidas alcohólicas que se venden en el extranjero?",
-    "¿Qué datos deben incluirse en las etiquetas de las bebidas alcohólicas?"
+    "¿Qué etiquetas debo poner en las bebidas alcohólicas que exporto?",
+    "¿Cómo se identifican las tiendas libres de impuestos para el etiquetado?",
+    "¿Qué requisitos hay para etiquetar bebidas alcohólicas en la exportación?",
+    "¿Las etiquetas son diferentes si vendo a tiendas libres de impuestos?",
+    "¿Qué información debe contener la etiqueta del importador?"
   ]
 }

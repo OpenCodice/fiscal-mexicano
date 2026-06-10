@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aae523816a0e84de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes de enajenación de alcohol",
+  "denominacion_comun": "Comprobantes por enajenación de alcohol",
   "temas": [
-    "enajenación de alcohol",
+    "alcohol",
     "comprobantes fiscales",
-    "impuesto sobre alcohol",
-    "traslado de impuestos"
+    "traslado de impuestos",
+    "enajenación"
   ],
   "terminos_coloquiales": [
-    "comprobantes de venta de alcohol",
-    "impuesto de alcohol",
     "factura de alcohol",
-    "recibo de enajenación de alcohol"
+    "comprobante de venta de alcohol",
+    "impuesto sobre alcohol"
   ],
-  "resumen": "Los que venden alcohol pueden emitir comprobantes en donde se especifique el impuesto aplicado, si el comprador lo pide. Esto ayuda a que el impuesto esté claro en la transacción.",
+  "resumen": "Los contribuyentes que venden alcohol pueden dar facturas donde se detalle el impuesto que deben pagar por la venta si el comprador lo pide. Esto aplica también para el alcohol desnaturalizado.",
   "preguntas_ejemplo": [
-    "¿Puedo recibir un comprobante por la compra de alcohol?",
-    "¿Cómo se aplica el impuesto al comprar alcohol?",
-    "¿Qué información debe tener la factura de alcohol?",
-    "¿Puedo solicitar el impuesto por separado en mi recibo de alcohol?"
+    "¿Qué tipo de factura necesito si compro alcohol?",
+    "¿Puedo obtener un comprobante que especifique el impuesto al comprar alcohol?",
+    "¿Los vendedores de alcohol tienen que mostrar el impuesto en la factura?",
+    "¿Qué pasa si no pido un comprobante al comprar alcohol?",
+    "¿Hay algún requisito para expedir comprobantes de alcohol?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8bfc9d996c8c8e20",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de contabilidad para contribuyentes",
   "temas": [
+    "impuesto",
     "contabilidad",
-    "impuestos",
     "devoluciones",
     "descuentos",
+    "bonificaciones",
     "materias primas",
-    "graduación alcohólica"
+    "producción",
+    "mermas"
   ],
   "terminos_coloquiales": [
-    "cómo registrar mis impuestos",
-    "contabilidad para contribuyentes",
-    "devoluciones de impuestos",
-    "descuentos fiscales",
-    "registro de materias primas"
+    "contabilidad",
+    "impuesto",
+    "devoluciones",
+    "descuentos",
+    "bonificaciones",
+    "materia prima",
+    "producción"
   ],
-  "resumen": "Los contribuyentes deben llevar un control de su contabilidad registrando el valor de sus actividades y cualquier devolución o descuento que reciban. También deben anotar datos de materias primas si son productores, como su volumen y graduación alcohólica.",
+  "resumen": "Los contribuyentes deben llevar un registro detallado de sus actos o actividades relacionadas con el pago de impuestos y documentar devoluciones, descuentos y bonificaciones. Además, aquellos que son productores deben registrar la compra de materias primas, su volumen de producción y las mermas asociadas.",
   "preguntas_ejemplo": [
-    "¿Cómo debo llevar mi contabilidad si soy contribuyente?",
-    "¿Qué debo registrar si recibo devoluciones de impuestos?",
-    "¿Cuáles son las obligaciones de los productores en su contabilidad?",
-    "¿Cómo registro el volumen de materias primas?",
-    "¿Qué significa registrar la graduación alcohólica de la materia prima?"
+    "¿Qué debo registrar en mi contabilidad como contribuyente?",
+    "¿Cómo registro las devoluciones y descuentos en mi impuesto?",
+    "¿Qué información necesito sobre las materias primas que utilizo?",
+    "¿Cómo documentar los volúmenes de producción y las mermas?",
+    "¿Qué es la graduación alcohólica y cómo debo registrarla?"
   ]
 }

@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd4be710e698f7e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Faltantes de Inventarios",
+  "denominacion_comun": "Faltantes en Inventarios",
   "temas": [
-    "faltantes de materias primas",
-    "bienes en inventarios",
+    "inventarios",
+    "faltantes",
+    "deducciones",
     "caso fortuito",
     "fuerza mayor",
-    "destrucción autorizada",
-    "deducción de impuestos",
-    "enajenación de inventarios"
+    "enajenación",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "faltantes en el inventario",
-    "mercancías perdidas",
-    "daños en inventario",
-    "inventario faltante",
-    "destrucción de mercancías",
-    "inventario y impuestos"
+    "faltantes de inventario",
+    "mercancías destruidas",
+    "caso fortuito",
+    "fuerza mayor"
   ],
-  "resumen": "El artículo establece que no se consideran faltantes en los inventarios aquellos que son causados por eventos imprevistos como accidentes o fuerza mayor. Además, menciona que se considera que se realizó la venta de los bienes en el mes en que se levantó el inventario.",
+  "resumen": "Este artículo establece que los faltantes de materias primas o bienes en los inventarios no se consideran si surgen por caso fortuito o fuerza mayor, así como la destrucción autorizada de mercancías. También señala que se debe pagar el impuesto correspondiente por enajenación en el mes del levantamiento del inventario.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si se pierde mercancía por un accidente?",
-    "¿Los faltantes en mi inventario cuentan para impuestos?",
-    "¿Cómo afecta la destrucción de mercancías a mis impuestos?",
-    "¿Debo reportar faltantes en el inventario?",
-    "¿Qué se considera caso fortuito en el inventario?"
+    "¿Qué pasa si tengo faltantes en mis inventarios por fuerza mayor?",
+    "¿Se pueden deducir las mercancías destruidas en mi inventario?",
+    "¿Cuándo se considera que se realiza la enajenación de un producto según el inventario?",
+    "¿Debo pagar impuestos por faltantes ocasionados por caso fortuito?",
+    "¿Cómo afecta el levantamiento del inventario a mis obligaciones fiscales?"
   ]
 }

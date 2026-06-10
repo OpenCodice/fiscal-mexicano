@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07b1751d0c9d83e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones del comisionista",
+  "denominacion_comun": "Obligaciones del Comisionista",
   "temas": [
     "impuesto",
     "comisionista",
     "comitente",
-    "gastos",
-    "traslado",
-    "actividades",
-    "obligaciones"
+    "actividades económicas",
+    "transferencia de impuestos",
+    "gastos reembolsados"
   ],
   "terminos_coloquiales": [
-    "quién paga el impuesto",
-    "impuesto del comisionista",
-    "pago de comisiones",
-    "gastos del comitente",
-    "responsabilidad fiscal del comisionista"
+    "impuesto por comisión",
+    "comisión del comisionista",
+    "gastos del comitente"
   ],
-  "resumen": "El comisionista debe pagar el impuesto por las actividades que realiza en representación del comitente, sin que este último descuente la comisión. Además, el comisionista también es responsable del impuesto sobre la comisión acordada y los gastos relacionados con su actividad.",
+  "resumen": "El artículo establece cómo deben manejarse los impuestos entre comisionistas y comitentes. Los comisionistas deben trasladar el impuesto correspondiente, y los comitentes asumen el impuesto por las actividades realizadas por ellos, sin descontar ciertos gastos.",
   "preguntas_ejemplo": [
-    "¿Quién debe pagar el impuesto en una operación de comisión?",
-    "¿Se puede descontar la comisión al calcular el impuesto?",
-    "¿Qué gastos son considerados a cargo del comitente?",
-    "¿El comisionista tiene que trasladar el impuesto al comitente?",
-    "¿Cómo se manejan los impuestos en la relación entre comisionista y comitente?"
+    "¿Qué debe hacer un comisionista con los impuestos?",
+    "¿El comitente paga impuestos sobre la comisión?",
+    "¿Qué gastos puede considerar un comisionista?",
+    "¿Cómo se manejan los impuestos entre un comitente y un comisionista?",
+    "¿Los gastos reembolsados afectan el impuesto del comitente?",
+    "¿El comisionista puede trasladar el impuesto al comitente?"
   ]
 }

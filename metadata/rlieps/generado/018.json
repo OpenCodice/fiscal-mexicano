@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:736629723e3d4c39",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de participaciones",
+  "denominacion_comun": "Participaciones a Entidades Federativas",
   "temas": [
-    "participaciones a entidades federativas",
-    "Ley de Coordinación Fiscal",
-    "impuesto por enajenaciones",
-    "registro contable",
-    "cerveza y refrescos",
-    "tabacos labrados"
+    "contabilidad",
+    "impuestos",
+    "productos",
+    "distribución",
+    "cerveza",
+    "refrescos",
+    "tabacos"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan participaciones",
     "registro de ventas",
-    "impuesto a la cerveza",
-    "impuesto a los refrescos",
-    "registro para tabacos"
+    "participaciones fiscales",
+    "impuesto sobre ventas",
+    "cerveza",
+    "refrescos",
+    "tabaco"
   ],
-  "resumen": "Los productores deben registrar en su contabilidad las ventas e importaciones que generan impuestos, separando la información por entidad federativa. Esto incluye también la producción de cerveza, refrescos y tabacos labrados, de acuerdo a las tasas aplicables.",
+  "resumen": "El artículo establece que los productores deben registrar en su contabilidad el valor de las enajenaciones o importaciones de productos para calcular las participaciones que deben pagar a las entidades federativas. También menciona que se debe registrar la producción de cerveza, refrescos y tabacos por entidad federativa.",
   "preguntas_ejemplo": [
-    "¿Cómo se registran las ventas de cerveza por entidad federativa?",
-    "¿Qué impuestos debo considerar para los refrescos?",
-    "¿Cómo afecta la Ley de Coordinación Fiscal a mis ventas de tabacos?",
-    "¿Qué información debo registrar para las participaciones federativas?",
-    "¿Cómo calculo los impuestos por enajenación de productos en mi negocio?"
+    "¿Cómo se calculan las participaciones a las entidades federativas?",
+    "¿Qué productos deben registrarse para el impuesto correspondiente?",
+    "¿Cómo se lleva la contabilidad para las ventas de cerveza y refrescos?",
+    "¿Qué tasas o cuotas aplican a los productos como tabaco?",
+    "¿Qué información necesito para las participaciones fiscales?"
   ]
 }

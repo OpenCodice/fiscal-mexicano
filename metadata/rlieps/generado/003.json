@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cde128764dbd16a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de bienes y notas de crédito",
+  "denominacion_comun": "Devolución de bienes y descuentos",
   "temas": [
     "devolución de bienes",
     "descuentos",
@@ -17,17 +18,16 @@
     "nota de crédito"
   ],
   "terminos_coloquiales": [
-    "devueltas de productos",
-    "notas de crédito",
-    "restitución de impuestos",
-    "descuentos fiscales"
+    "devolución de mercancía",
+    "descuentos en ventas",
+    "nota de crédito"
   ],
-  "resumen": "Este artículo establece que cuando un contribuyente devuelva bienes o haga descuentos, tiene que restituir el impuesto trasladado y emitir una nota de crédito. También se mencionan casos específicos de notas de crédito sin impuesto previamente enterado.",
+  "resumen": "El contribuyente que reciba bienes devueltos o otorgue descuentos debe restituir el impuesto trasladado y emitir una nota de crédito que lo indique. Esto también aplica si no se pagó el impuesto antes de hacer el descuento.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si devuelvo un producto y tenía un impuesto?",
-    "¿Cómo se expide una nota de crédito?",
-    "¿Qué sucede con el impuesto si otorgo un descuento?",
-    "¿Es necesario restituir el impuesto en todos los casos de devolución?",
-    "¿En qué situaciones puedo emitir una nota de crédito sin haber pagado el impuesto?"
+    "¿Qué debo hacer si recibo una devolución de mercancía?",
+    "¿Cómo se emite una nota de crédito por descuentos?",
+    "¿Es necesario restituir el impuesto si otorgo un descuento?",
+    "¿Qué implica una nota de crédito en una venta?",
+    "¿Qué pasa si no enteré el impuesto antes de hacer un descuento?"
   ]
 }
