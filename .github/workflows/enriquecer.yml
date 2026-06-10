@@ -25,6 +25,9 @@ permissions:
 env:
   EXTRACTOR_REPO: https://github.com/OpenCodice/fiscal-extractor.git
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  # Sin esto el log del runner se queda mudo durante documentos largos (la RMF
+  # tarda decenas de minutos): el progreso por unidad sale con el buffer lleno.
+  PYTHONUNBUFFERED: "1"
 
 jobs:
   enriquecer:
@@ -52,10 +55,23 @@ jobs:
 
       - name: Generar enriquecimiento (corpus completo, autodescarga de fuentes)
         run: |
+          set -o pipefail
           cd /tmp/extractor
           PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
             --out "$GITHUB_WORKSPACE" \
-            --proveedor openai ${{ inputs.force && '--force' || '' }}
+            --proveedor openai ${{ inputs.force && '--force' || '' }} \
+            | tee /tmp/enriquecer.log
+
+      - name: Resumen del avance
+        if: always()
+        run: |
+          {
+            echo "## Enriquecimiento"
+            echo '```'
+            # Líneas por documento (✓/✗ y stats) y el total; sin el avance unidad a unidad.
+            grep -E '^[a-z0-9-]+ \(|^✗|^·|^Total:' /tmp/enriquecer.log || echo "(sin log)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commitear el resultado (si hubo cambios)
         id: commit
