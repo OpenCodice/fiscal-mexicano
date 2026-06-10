@@ -28,11 +28,18 @@ vigente:
 | Ley Aduanera | 2025-11-19 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf) |
 | Ley Federal de Derechos | 2025-11-07 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf) |
 | Ley Federal de Procedimiento Contencioso Administrativo | 2025-11-14 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
+| Ley Federal de los Derechos del Contribuyente | 2005-06-23 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf) |
+| Ley Federal del Impuesto sobre Automóviles Nuevos | 2021-11-12 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf) |
+| Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | 2025-07-16 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf) |
 | Ley de Coordinación Fiscal | 2024-01-03 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf) |
 | Ley de Ingresos de la Federación 2026 | 2025-11-07 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf) |
+| Ley de Ingresos sobre Hidrocarburos | 2025-03-18 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf) |
 | Ley del Impuesto Especial sobre Producción y Servicios | 2025-11-07 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf) |
 | Ley del Impuesto al Valor Agregado | 2021-11-12 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf) |
 | Ley del Impuesto sobre la Renta | 2024-04-01 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf) |
+| Ley del Servicio de Administración Tributaria | 2018-12-04 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf) |
+| Reglamento de la LFPIORPI | 2026-03-27 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf) |
+| Reglamento de la Ley Aduanera | 2026-02-23 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf) |
 | Reglamento de la Ley del IEPS | 2006-12-04 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf) |
 | Reglamento de la Ley del Impuesto al Valor Agregado | 2014-09-25 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf) |
 | Reglamento de la Ley del Impuesto sobre la Renta | 2016-05-06 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf) |
