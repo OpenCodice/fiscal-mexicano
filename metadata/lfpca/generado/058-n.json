@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89ced2c0894c2d9b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones en Juicio en Línea",
   "temas": [
-    "notificaciones",
-    "juicio en línea",
-    "actuaciones judiciales",
-    "sistema de justicia",
-    "acuse de recibo electrónico"
+    "Juicio en línea",
+    "Notificaciones",
+    "Sistema de Justicia en Línea",
+    "Acuse de Recibo Electrónico",
+    "Minuta Electrónica",
+    "Firma Electrónica Avanzada",
+    "Dirección de Correo Electrónico"
   ],
   "terminos_coloquiales": [
-    "notificación por internet",
-    "correo electrónico en juicio",
-    "notificaciones judiciales",
-    "juicio virtual"
+    "notificaciones por correo",
+    "notificaciones electrónicas",
+    "Juicio en Línea",
+    "Sistema de Justicia",
+    "acuse de recibo"
   ],
-  "resumen": "Este artículo establece cómo deben realizarse las notificaciones en los juicios en línea, incluyendo el uso de un sistema electrónico y el envío de avisos por correo electrónico. También detalla el proceso de registro y acuse de recibo para garantizar la legalidad de las notificaciones.",
+  "resumen": "El artículo establece cómo se deben realizar las notificaciones dentro de un juicio en línea, incluyendo el uso de un sistema electrónico para enviar avisos y generar recibos. Se detalla el proceso que debe seguir el actuario y los plazos para considerar legales esas notificaciones.",
   "preguntas_ejemplo": [
     "¿Cómo se notifican las resoluciones en un juicio en línea?",
-    "¿Qué es el acuse de recibo electrónico?",
-    "¿Qué sucede si no se genera el acuse de recibo?",
-    "¿Cómo se asegura que una notificación sea válida?",
-    "¿Qué documentos necesita el actuario para las notificaciones?"
+    "¿Qué es una minuta electrónica?",
+    "¿Qué pasa si no se genera el acuse de recibo en tres días?",
+    "¿Cómo se considera legalmente realizada una notificación?",
+    "¿Qué documentos se deben adjuntar a las notificaciones?",
+    "¿Qué es el Sistema de Justicia en Línea del Tribunal?"
   ]
 }

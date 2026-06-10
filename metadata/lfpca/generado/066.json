@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:013acbbef2a9236e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Publicación de autos y resoluciones",
+  "denominacion_comun": "Boletín Jurisdiccional",
   "temas": [
-    "Boletín Jurisdiccional",
-    "Magistrado",
-    "Resoluciones",
-    "Protección de datos",
-    "Sintesis de resoluciones",
-    "Notificaciones",
-    "Consultas electrónicas"
+    "publicación de autos",
+    "resoluciones judiciales",
+    "protección de datos personales",
+    "notificaciones",
+    "juicios"
   ],
   "terminos_coloquiales": [
-    "dónde ver las resoluciones",
-    "cómo se publican los autos",
-    "información de juicios en Internet",
-    "qué dice el Boletín Jurisdiccional",
-    "resoluciones de juicios",
-    "notificaciones de Magistrados"
+    "autos",
+    "resoluciones",
+    "sentencias",
+    "notificaciones judiciales",
+    "Boletín Jurisdiccional"
   ],
-  "resumen": "El Boletín Jurisdiccional publica la lista de autos y resoluciones de un Magistrado o Sala. Incluye detalles como el número de expediente y la identificación de las autoridades a notificar.",
+  "resumen": "El Boletín Jurisdiccional publicará la lista de autos y resoluciones de un Magistrado o Sala, incluyendo detalles como el número de expediente y las autoridades a notificar, cumpliendo con normativas de protección de datos. Se podrá consultar en la página del Tribunal o en módulos específicos.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo ver el Boletín Jurisdiccional?",
-    "¿Qué información contiene un auto publicado?",
-    "¿Cómo me notifican las resoluciones del Tribunal?",
-    "¿Qué debo saber sobre la protección de datos en estas publicaciones?",
-    "¿Quién establece el contenido de las síntesis de las resoluciones?"
+    "¿Dónde puedo ver los autos y resoluciones de un juicio?",
+    "¿Qué información contiene el Boletín Jurisdiccional?",
+    "¿Cómo se notifican las resoluciones judiciales?",
+    "¿Qué detalles se publican sobre las sentencias en el boletín?",
+    "¿Es seguro publicar nombres en el Boletín Jurisdiccional?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bb0178dd3ebf9b6d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de demandantes en línea",
+  "denominacion_comun": "Juicio en línea",
   "temas": [
     "demanda en línea",
     "Sistema de Justicia en Línea",
     "comparecencia",
-    "juicio",
+    "juicio tradicional",
     "notificación"
   ],
   "terminos_coloquiales": [
     "demandar por internet",
-    "juicio en línea",
+    "juicio digital",
     "notificación por correo",
-    "presentar demanda digital"
+    "Correo Electrónico"
   ],
-  "resumen": "El demandante puede presentar su demanda en línea y las autoridades deben participar en el mismo formato. Si no proporciona un correo electrónico, el juicio se tramitará de manera tradicional.",
+  "resumen": "El artículo establece que si una persona demanda en línea, las autoridades deben contestar de la misma manera. Si no se proporciona un correo electrónico, el juicio se tramitará de manera tradicional con notificaciones por lista.",
   "preguntas_ejemplo": [
     "¿Puedo demandar por internet?",
-    "¿Qué pasa si no doy mi correo electrónico al demandar?",
-    "¿Las autoridades tienen que asistir al juicio en línea?",
-    "¿Cómo se notifican las resoluciones en juicios digitales?"
+    "¿Qué sucede si no doy mi correo electrónico al demandar?",
+    "¿Las autoridades tienen que responder en línea si yo lo hago?",
+    "¿Cómo se notifican los acuerdos si no uso el correo electrónico?",
+    "¿Cuáles son las diferencias entre un juicio en línea y uno tradicional?"
   ]
 }

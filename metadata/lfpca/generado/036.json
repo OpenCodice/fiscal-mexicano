@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:edc3b6882b0112b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Falsedad de documentos",
+  "denominacion_comun": "Falsedad de documentos en juicio",
   "temas": [
-    "incidentes",
-    "falsedad documental",
-    "documentos firmados",
-    "autenticidad"
+    "falsedad de documentos",
+    "incidentes en juicio",
+    "cotejo de firmas",
+    "autenticidad de documentos"
   ],
   "terminos_coloquiales": [
-    "falsedad de documentos",
+    "falsedad de firma",
     "documentos falsos",
-    "incidentes en juicio",
-    "cuándo se rechaza un incidente"
+    "incidente judicial",
+    "cotejo de documentos"
   ],
-  "resumen": "Este artículo trata sobre cómo se puede impugnar la falsedad de un documento en un juicio. Permite que las partes presenten pruebas de autenticidad y establece que el juez debe tomar decisiones basadas en la autenticidad de los documentos en cuestión.",
+  "resumen": "El artículo establece el procedimiento para hacer valer la falsedad de un documento en un juicio. Permite que el Magistrado Instructor cite a la parte cuya firma se cuestiona y resuelve sobre la autenticidad del documento para efectos del juicio.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si creo que un documento es falso en un juicio?",
-    "¿Cómo se comprueba la autenticidad de un documento en un juicio?",
-    "¿Qué pasa si no presento pruebas de un documento indubitado?",
-    "¿Puedo impugnar un documento firmado por otra persona?",
-    "¿Qué tipo de pruebas se necesitan para un incidente de falsedad?"
+    "¿Qué hago si creo que un documento presentado en juicio es falso?",
+    "¿Cómo se valida la firma de un documento en el juicio?",
+    "¿Qué es un incidente de falsedad de documento?",
+    "¿Cuál es el procedimiento para cuestionar la autenticidad de un documento?",
+    "¿Qué pasa si no presento pruebas de que un documento es falso?"
   ]
 }

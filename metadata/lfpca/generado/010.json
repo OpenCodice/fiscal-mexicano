@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d1b87f881129228b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impedimentos de magistrados y peritos",
   "temas": [
     "imparcialidad",
     "interés personal",
-    "relaciones familiares",
-    "amistad y enemistad",
-    "casos similares"
+    "amistad",
+    "enemistad",
+    "parentesco",
+    "patronos",
+    "peritos",
+    "dictamen"
   ],
   "terminos_coloquiales": [
-    "magistrados imparciales",
-    "conflictos de interés",
-    "amigos y enemigos del juez",
-    "parientes del juez",
-    "juicios similares"
+    "magistrados",
+    "peritos",
+    "juicio",
+    "caso",
+    "conflicto de interés"
   ],
-  "resumen": "El artículo establece las situaciones en las que los magistrados y peritos no pueden participar en un caso por posible sesgo o falta de imparcialidad. Esto incluye tener intereses personales, relaciones cercanas con las partes y haber participado anteriormente en el caso.",
+  "resumen": "El artículo establece las circunstancias bajo las cuales los magistrados y peritos del Tribunal no pueden participar en un juicio debido a impedimentos relacionados con intereses personales, relaciones familiares o amistad con las partes involucradas. Esto asegura la impartialidad en los procedimientos judiciales.",
   "preguntas_ejemplo": [
-    "¿Cuándo un magistrado no puede conocer un caso?",
-    "¿Los parientes de un juez pueden participar en un juicio?",
-    "¿Qué significa que un juez está impedido?",
-    "¿Cómo afecta la amistad de un juez en su decisión?",
-    "¿Pueden los peritos dictaminar si tienen interés en el caso?"
+    "¿Cuáles son los impedimentos para que un magistrado participe en un juicio?",
+    "¿Un magistrado puede participar si tiene un amigo en el caso?",
+    "¿Los familiares de un magistrado pueden afectar su imparcialidad?",
+    "¿Qué sucede si un perito tiene un conflicto de interés?",
+    "¿Cómo se determina si un magistrado está impedido para conocer un caso?"
   ]
 }

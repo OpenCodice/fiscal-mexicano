@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e5316551593e21f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Modificaciones en el Sistema de Justicia en Línea",
+  "denominacion_comun": "Modificaciones al Sistema de Justicia en Línea",
   "temas": [
-    "Protección de información",
-    "Sistema de Justicia en Línea",
-    "Consecuencias de alteraciones",
-    "Cancelación de Firma Electrónica"
+    "responsabilidad del usuario",
+    "fraude digital",
+    "firma electrónica",
+    "multas por infracciones"
   ],
   "terminos_coloquiales": [
-    "qué pasa si altero información en el sistema",
-    "consecuencias de destruir datos en juicios en línea",
-    "multa por perder información en el sistema judicial",
-    "cancelación de acceso por mal uso del sistema"
+    "sistema de justicia en línea",
+    "firma electrónica",
+    "cancelación de firma",
+    "juicios en línea"
   ],
-  "resumen": "El artículo establece que si alguien altera o destruye información en el Sistema de Justicia en Línea, se tomarán medidas para protegerla y el juicio continuará de manera tradicional. El responsable perderá su acceso al sistema y podría enfrentar multas y consecuencias penales.",
+  "resumen": "Esta disposición establece que si una persona altera o destruye información del Sistema de Justicia en Línea, se tomarán medidas de protección y su firma electrónica será cancelada. Además, se pueden imponer multas por estas infracciones.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si altero información en el juicio en línea?",
-    "¿Puedo perder mi acceso al sistema judicial por modificar datos?",
-    "¿Qué multas hay por destruir información judicial?",
-    "¿Qué medidas se toman si hay manipulación de datos en el sistema?",
-    "¿Qué pasa si soy responsable de una alteración en el Sistema de Justicia?"
+    "¿Qué pasa si alguien modifica información en el Sistema de Justicia en Línea?",
+    "¿Cuáles son las consecuencias de alterar datos en el sistema judicial?",
+    "¿Se puede recuperar mi acceso al sistema después de una infracción?",
+    "¿Qué multa tendré si rompo las reglas del Sistema de Justicia en Línea?",
+    "¿Qué es la cancelación de firma electrónica en este contexto?",
+    "¿Cómo se protege la información del Sistema de Justicia en Línea?"
   ]
 }

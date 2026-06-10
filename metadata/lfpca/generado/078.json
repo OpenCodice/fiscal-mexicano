@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a47d9e94c3a7a43d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Suspensión de Jurisprudencia",
@@ -13,22 +14,23 @@
     "jurisprudencia",
     "suspensión",
     "sentencias",
-    "resoluciones",
-    "magistrados",
-    "Tribunal"
+    "contradicción de sentencias",
+    "razones de suspensión",
+    "publicación en revista",
+    "propuestas de magistrados"
   ],
   "terminos_coloquiales": [
-    "cancelación de jurisprudencia",
-    "parar jurisprudencia",
-    "detener criterios legales",
-    "cambios en jurisprudencia"
+    "suspensión de jurisprudencia",
+    "jurisprudencia suspendida",
+    "sentencias contradictorias",
+    "decisiones del Pleno"
   ],
-  "resumen": "El Pleno puede suspender una jurisprudencia si una nueva sentencia la contradice. Para que esto ocurra, es necesario que se publiquen las razones y se apruebe por una mayoría de magistrados.",
+  "resumen": "El Pleno del Tribunal puede suspender una jurisprudencia si se presenta una sentencia que contradice la tesis de esa jurisprudencia. Esta suspensión se debe publicar en la revista del Tribunal y puede ser propuesta por magistrados o Salas Regionales cuando existan razones que lo justifiquen.",
   "preguntas_ejemplo": [
-    "¿Cuándo se puede suspender una jurispruencia?",
-    "¿Qué necesita el Pleno para parar una jurisprudencia?",
-    "¿Cómo se da a conocer la suspensión de una jurisprudencia?",
-    "¿Quién puede proponer la suspensión de jurisprudencia?",
-    "¿Cuándo termina la suspensión de una jurisprudencia?"
+    "¿Cuándo se puede suspender una jurisprudencia?",
+    "¿Qué sucede si una sentencia contradice una jurisprudencia ya establecida?",
+    "¿Quién puede proponer la suspensión de una jurisprudencia?",
+    "¿Cómo se informa sobre la suspensión de una jurisprudencia?",
+    "¿Qué requisitos hay para que se suspenda una jurisprudencia?"
   ]
 }

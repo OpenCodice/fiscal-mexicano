@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b72e63f97e2388dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Juicio en Línea",
+  "denominacion_comun": "Recursos de revisión y juicios de amparo",
   "temas": [
-    "recursos de revisión",
-    "juicios de amparo",
-    "actuaciones del Tribunal",
-    "Expediente Electrónico"
+    "Juicio en Línea",
+    "Recursos de revisión",
+    "Juicios de amparo",
+    "Expediente Electrónico",
+    "Certificaciones de juicio",
+    "Medios electrónicos"
   ],
   "terminos_coloquiales": [
-    "juicio en línea",
+    "juicios",
     "revisión de juicios",
     "amparo",
-    "recursos legales"
+    "expediente digital",
+    "documentos electrónicos"
   ],
-  "resumen": "Este artículo menciona que para los juicios y recursos relacionados con el Juicio en Línea no aplican ciertas disposiciones. Además, establece la responsabilidad de los secretarios del Tribunal en la preparación y certificación de documentos para su remisión a otros juzgados.",
+  "resumen": "Este artículo establece que para los recursos de revisión y juicios de amparo relacionados con el Juicio en Línea, no se aplican ciertas disposiciones. Además, se detalla el procedimiento para imprimir y certificar el expediente electrónico correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué es el juicio en línea?",
-    "¿Cómo se presentan recursos de revisión?",
-    "¿Quién certifica los documentos del juicio en línea?",
-    "¿Se puede enviar información electrónicamente?",
-    "¿Qué resoluciones puedo impugnar en un juicio en línea?"
+    "¿Cómo se manejan los juicios en línea?",
+    "¿Qué hago si quiero impugnar una resolución en un juicio de amparo?",
+    "¿Se puede enviar información de juicios por medios electrónicos?",
+    "¿Quiénes deben certificar las constancias de un juicio?",
+    "¿Qué es el expediente electrónico en un juicio?"
   ]
 }

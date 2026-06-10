@@ -6,24 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f7906ab59adba3b5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos en fiscalización",
+  "denominacion_comun": "Recurso y trámite judicial",
   "temas": [
-    "recursos legales",
-    "contraparte",
-    "plazos",
-    "decisiones judiciales"
+    "recurso legal",
+    "traslado",
+    "derecho de defensa",
+    "resolución judicial"
   ],
   "terminos_coloquiales": [
-    "cómo apelar una decisión",
-    "tiempos para responder",
-    "qué pasa después de un recurso"
+    "recurso",
+    "dar traslado",
+    "defensa legal"
   ],
-  "resumen": "Este artículo establece el procedimiento a seguir una vez que se interpone un recurso, incluyendo los plazos que tienen las partes para presentar sus argumentos y la obligación del magistrado que dictó la decisión original.",
+  "resumen": "Este artículo establece el procedimiento a seguir una vez que se interpone un recurso, indicando que se debe correr traslado a la contraparte para que manifieste su postura y luego se dará cuenta a la Sala para su resolución. El magistrado que dictó el acuerdo no podrá excusarse del proceso.",
   "preguntas_ejemplo": [
-    "¿Qué tengo que hacer después de presentar un recurso?",
-    "¿Cuánto tiempo tiene la contraparte para responder?",
-    "¿El magistrado puede excusarse de su decisión?"
+    "¿Qué pasa después de interponer un recurso legal?",
+    "¿Cuánto tiempo tiene la contraparte para responder a un recurso?",
+    "¿Puede el magistrado que dictó el acuerdo excusarse?",
+    "¿Cómo se procede en un trámite judicial tras un recurso?"
   ]
 }

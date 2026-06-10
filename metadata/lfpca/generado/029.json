@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef926d8bc00deba5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Incidentes en Juicio Contencioso Administrativo",
+  "denominacion_comun": "Juicio Contencioso Administrativo Federal",
   "temas": [
+    "incidente",
     "incompetencia",
     "acumulación de juicios",
     "nulidad de notificaciones",
     "recusación",
-    "reposiciones",
-    "interrupciones",
+    "reposición de autos",
+    "interrupción",
     "multas"
   ],
   "terminos_coloquiales": [
     "juicio administrativo",
-    "incidentes en juicio",
-    "problemas en el juicio",
-    "multas por incidentes"
+    "incompetencia",
+    "notificaciones",
+    "recusación",
+    "multas por incidentes",
+    "juicios acumulados"
   ],
-  "resumen": "El artículo establece los incidentes que deben ser tratados de forma previa en un juicio contencioso administrativo. También menciona las multas que pueden imponerse si se promueve un incidente que se considere frívolo o improcedente.",
+  "resumen": "El artículo establece los incidentes que deben ser resueltos de manera previa en el juicio contencioso administrativo federal, como la incompetencia, acumulación de juicios y otras causas. Además, señala que si un incidente es considerado frívolo, se puede imponer una multa al que lo promueva.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los incidentes que se pueden presentar en un juicio contencioso administrativo?",
-    "¿Qué pasa si hago un incidente que no tiene fundamento?",
-    "¿Cómo se manejan las recusaciones en un juicio administrativo?",
-    "¿Qué son las multas por incidentes improcedentes?"
+    "¿Qué incidentes se deben resolver antes en un juicio administrativo?",
+    "¿Qué pasa si promuevo un incidente frívolo en un juicio contencioso?",
+    "¿Cuáles son las causas de nulidad de notificaciones en un juicio administrativo?",
+    "¿Qué es la recusación por causa de impedimento?",
+    "¿Cómo se manejan los juicios acumulados en el contencioso administrativo?"
   ]
 }

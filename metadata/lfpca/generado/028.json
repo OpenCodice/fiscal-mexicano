@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e389aa1991912bf8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Suspensión de actos administrativos",
   "temas": [
-    "suspensión",
-    "acto administrativo",
-    "garantía",
-    "requisitos",
-    "procedimiento",
-    "sentencia"
+    "recurso administrativo",
+    "interés social",
+    "garantía fiscal",
+    "perjuicios",
+    "procedimiento judicial",
+    "sentencia",
+    "Magistrado Instructor"
   ],
   "terminos_coloquiales": [
-    "paro de trámite",
-    "detener un cobro",
-    "suspender un pago",
-    "frustrar un acto",
-    "parar un embargo"
+    "suspensión de pago",
+    "garantía fiscal",
+    "juicio de amparo",
+    "daños a terceros"
   ],
-  "resumen": "Este artículo regula cómo se puede solicitar la suspensión de un acto administrativo que se está impugnando. Para otorgar la suspensión, se deben cumplir ciertos requisitos, y se establece el procedimiento que seguirá la solicitud hasta que se decida si se concede o no.",
+  "resumen": "Este artículo establece las condiciones y requisitos para solicitar la suspensión de actos administrativos que afectan derechos del solicitante. Incluye aspectos sobre la garantía fiscal y los procedimientos que deben seguirse ante el Magistrado Instructor.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo detener un cobro de impuestos?",
-    "¿Qué necesito para solicitar la suspensión de un acto administrativo?",
-    "¿Cuáles son los requisitos para la suspensión de un embargo?",
-    "¿Qué pasa si la suspensión causa daños a terceros?",
-    "¿En cuánto tiempo se resuelve la solicitud de suspensión?"
+    "¿Cómo puedo suspender un acto administrativo que me afecta?",
+    "¿Qué requisitos necesito para pedir una suspensión de pago?",
+    "¿Qué hacer si la suspensión causa daños a terceros?",
+    "¿Cuánto tiempo tarda el proceso de suspensión?",
+    "¿Qué ocurre si obtengo una sentencia favorable en la suspensión?"
   ]
 }

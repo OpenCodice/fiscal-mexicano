@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:563f5a1c12d747c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resoluciones administrativas ilegales",
+  "denominacion_comun": "Resoluciones Administrativas Ilegales",
   "temas": [
     "incompetencia",
+    "vicios de procedimiento",
     "requisitos formales",
-    "vicios del procedimiento",
-    "hechos distintos",
-    "facultades discrecionales"
+    "resoluciones impugnadas",
+    "facultades discrecionales",
+    "irregularidades en citatorios"
   ],
   "terminos_coloquiales": [
-    "resoluciones ilegales",
-    "errores administrativos",
-    "fallas en procedimientos",
-    "incompetencia de funcionarios"
+    "resolución ilegal",
+    "incompetencia de autoridades",
+    "vicios en citatorios",
+    "irregularidades administrativas"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales una resolución administrativa puede ser considerada ilegal. Destaca la importancia de que los procedimientos se realicen conforme a la ley y los derechos de los particulares.",
+  "resumen": "El artículo establece que una resolución administrativa es ilegal si se demuestra incompetencia del funcionario, omisiones de requisitos, vicios del procedimiento o errores en los hechos motivadores. Además, señala que ciertas irregularidades no afectan la defensa de los particulares si no trascienden al sentido de la resolución impugnada.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera ilegal una resolución administrativa?",
-    "¿Qué errores pueden invalidar una resolución de un funcionario?",
-    "¿Qué implica la incompetencia de un funcionario en una resolución?",
-    "¿Cuáles son los vicios de procedimiento que afectan una resolución?",
-    "¿Qué pasa si los hechos en que se basa una resolución son incorrectos?"
+    "¿Cuáles son las causas para considerar una resolución administrativa como ilegal?",
+    "¿Qué irregularidades no afectan mis derechos como contribuyente?",
+    "¿Qué debo hacer si creo que la autoridad fue incompetente para dictar una resolución?",
+    "¿Cómo puedo impugnar una resolución administrativa que considero errónea?",
+    "¿Cuándo se pueden considerar vicios en el procedimiento administrativo?"
   ]
 }

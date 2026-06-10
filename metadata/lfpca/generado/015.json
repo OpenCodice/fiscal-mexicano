@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c06e3acf2d9ba39a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación necesaria en demanda",
+  "denominacion_comun": "Demanda y pruebas en procedimientos fiscales",
   "temas": [
-    "copia de demanda",
-    "documentos anexos",
-    "personalidad del demandante",
-    "resolución impugnada",
-    "notificación de resolución",
+    "documentos de demanda",
+    "notificaciones",
     "pruebas documentales",
     "información confidencial"
   ],
   "terminos_coloquiales": [
-    "qué documentos necesito para la demanda",
-    "requisitos para presentar demanda",
-    "documentación para juicio",
-    "papeles necesarios para el tribunal"
+    "demanda",
+    "documentos anexos",
+    "notificación de resoluciones",
+    "pruebas",
+    "confidencialidad"
   ],
-  "resumen": "El artículo establece los documentos que debe presentar el demandante junto con su demanda, incluyendo copias y constancias de notificación. También se menciona el tratamiento de información confidencial relacionada con la resolución impugnada.",
+  "resumen": "El artículo establece los documentos que deben acompañar a una demanda, así como los requisitos para notificaciones y la presentación de pruebas. También menciona la valoración de información confidencial en el contexto de procedimientos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué tengo que incluir en mi demanda?",
-    "¿Cuáles son los requisitos para presentar una demanda?",
-    "¿Cómo puedo comprobar mi personalidad en un juicio?",
-    "¿Qué hacer si no tengo ciertos documentos para la demanda?",
-    "¿Qué pasa si no presento todos los documentos requeridos?"
+    "¿Qué debo incluir en mi demanda fiscal?",
+    "¿Cómo se notifica una resolución en un procedimiento fiscal?",
+    "¿Qué pasa si no tengo los documentos requeridos para la demanda?",
+    "¿Cómo se trata la información confidencial en mi caso?"
   ]
 }

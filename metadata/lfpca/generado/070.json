@@ -6,27 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6bfa92202c7c110f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones fiscales",
   "temas": [
-    "efectos de notificaciones",
-    "plazo de notificación",
-    "día hábil",
-    "requisitos de notificación"
+    "notificaciones",
+    "efectos legales",
+    "días hábiles"
   ],
   "terminos_coloquiales": [
-    "cuándo surte efecto una notificación",
-    "días hábiles para notificaciones",
-    "notificación fiscal efectiva",
-    "cuando me avisan de algo"
+    "notificaciones",
+    "efectos de la notificación"
   ],
-  "resumen": "Las notificaciones fiscales tienen efecto al día hábil siguiente de que se realizan. Esto establece un plazo claro para su validez.",
+  "resumen": "Las notificaciones fiscales tienen validez a partir del día hábil siguiente en que se realizan. Esto significa que los actos legales comienzan a surtir efectos después de este período.",
   "preguntas_ejemplo": [
-    "¿Cuándo comienza a contar el plazo de una notificación?",
-    "¿Qué significa que una notificación surta efectos?",
-    "¿Los días hábiles afectan las notificaciones fiscales?",
-    "¿Qué pasa si una notificación se hace un día festivo?",
-    "¿Cómo se determina el día hábil siguiente para una notificación?"
+    "¿Cuándo surten efecto las notificaciones en el aspecto fiscal?",
+    "¿Qué pasa si una notificación se hace en un fin de semana?",
+    "¿Los efectos de una notificación son inmediatos?",
+    "¿Cómo se cuentan los días para una notificación fiscal?",
+    "¿Qué se considera un día hábil para notificaciones?"
   ]
 }

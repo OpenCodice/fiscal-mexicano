@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4834c513eb0715f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medidas Cautelares",
   "temas": [
     "contradicciones",
+    "hechos",
+    "fundamentos de derecho",
     "resoluciones impugnadas",
-    "autoridad federativa",
     "dependencias",
-    "organismos descentralizados"
+    "organismos desconcentrados",
+    "descentralizados"
   ],
   "terminos_coloquiales": [
     "medidas cautelares",
-    "resoluciones de autoridades",
-    "contestar a la autoridad",
-    "conflictos de información"
+    "resoluciones",
+    "autoridad",
+    "dependencias",
+    "organismos"
   ],
-  "resumen": "El artículo establece que en caso de contradicciones entre los hechos y fundamentos de derecho de la autoridad y los expuestos por la dependencia u organismo descentralizado, se tomará en cuenta solo lo que diga este último sobre esas contradicciones.",
+  "resumen": "Este artículo establece que en caso de contradicciones entre las declaraciones de la autoridad y las de un organismo u dependencia, se priorizará lo que diga este último. Se refiere a la validez de la información en disputas legales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si hay conflictos en la información presentada por la autoridad?",
-    "¿Quién tiene la razón en caso de contradicciones?",
-    "¿Cómo se manejan los desacuerdos entre autoridades y dependencias?",
-    "¿Qué son las medidas cautelares en este contexto?",
-    "¿Qué sucede si la dependencia no está de acuerdo con la resolución de la autoridad?"
+    "¿Qué pasa si hay contradicciones en un caso legal?",
+    "¿A quién se le da más peso en la resolución de conflictos entre autoridades?",
+    "¿Cómo se manejan las medidas cautelares en casos de discrepancias?",
+    "¿Qué dice la ley sobre las resoluciones impugnadas?",
+    "¿Qué son las dependencias y organismos desconcentrados en este contexto?"
   ]
 }

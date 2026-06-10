@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec86a90b73612ede",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Alegatos en juicio",
+  "denominacion_comun": "Juicio y alegatos",
   "temas": [
     "plazos",
     "alegatos",
-    "resolución de juicios",
-    "notificaciones"
+    "sentencia",
+    "instrucción del juicio",
+    "facultad de atracción"
   ],
   "terminos_coloquiales": [
-    "tiempo para alegatos",
-    "cómo presentar alegatos",
-    "cerrar juicio",
-    "plazo para alegatos"
+    "alegatos",
+    "plazo para alegatos",
+    "resolución de juicio",
+    "cerrar el juicio",
+    "días para alegatos"
   ],
-  "resumen": "El Magistrado da un plazo de cinco días para que las partes presenten sus alegatos tras terminar la fase de sustanciación del juicio. Si no se presentan alegatos, el juicio se cierra igualmente al terminar el plazo.",
+  "resumen": "El Magistrado Instructor notifica a las partes que tienen cinco días para presentar alegatos después de concluida la sustanciación del juicio. Al finalizar este período, la instrucción del juicio se cierra automáticamente, sin necesidad de una declaración formal.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para presentar mis alegatos?",
-    "¿Qué pasa si no presento alegatos a tiempo?",
-    "¿Cuándo se cierra el juicio?",
-    "¿Puede el Magistrado aceptar alegatos después del plazo?"
+    "¿Cuánto tiempo tengo para presentar mis alegatos en un juicio?",
+    "¿Qué sucede si no presento alegatos en el plazo establecido?",
+    "¿Cómo se cierran los juicios después de presentar alegatos?",
+    "¿Qué significa la facultad de atracción en este contexto?",
+    "¿El juicio se cierra automáticamente?"
   ]
 }

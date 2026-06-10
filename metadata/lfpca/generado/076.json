@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:309afe167f2fedc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Jurisprudencia",
   "temas": [
-    "jurisprudencia",
     "precedentes",
-    "Pleno de la Sala Superior",
-    "Secciones",
-    "decisiones judiciales"
+    "Sala Superior",
+    "jurisprudencia",
+    "fijación de jurisprudencia"
   ],
   "terminos_coloquiales": [
-    "cómo se establece la jurisprudencia",
-    "qué es un precedente",
-    "jurisprudencia en México",
-    "decisiones de la sala superior"
+    "resoluciones",
+    "fallos",
+    "criterios",
+    "Jurisprudencia",
+    "SS"
   ],
-  "resumen": "Se establece cómo se fija la jurisprudencia en México, ya sea por el Pleno de la Sala Superior o por Secciones, mediante la aprobación de precedentes. Es necesario que los precedentes sean en el mismo sentido y no estén interrumpidos por otros en contrario.",
+  "resumen": "Se establece cómo se fija la jurisprudencia en el sistema judicial, especificando el número de precedentes requeridos para su aprobación y la intervención de la Sala Superior. Esto asegura consistencia en la interpretación de la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se forma la jurisprudencia?",
-    "¿Qué se necesita para que la sala superior fije jurisprudencia?",
-    "¿Cuántos precedentes se requieren para la jurisprudencia?",
-    "¿Qué significa que un precedente esté interrumpido?",
-    "¿Quiénes componen la Sala Superior?"
+    "¿Cómo se establece la jurisprudencia en México?",
+    "¿Cuántos precedentes se necesitan para fijar jurisprudencia?",
+    "¿Qué es la Sala Superior en el contexto de la jurisprudencia?",
+    "¿Qué significa tener criterios no interrumpidos en jurisprudencia?",
+    "¿Cómo se aprueba la jurisprudencia por una sección de la Sala Superior?"
   ]
 }

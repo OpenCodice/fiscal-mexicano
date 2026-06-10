@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85fd2cb9bbabc3bf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Firma Electrónica Avanzada",
   "temas": [
-    "firma electrónica",
-    "validez legal",
-    "integridad de documentos",
+    "efectos legales",
+    "firma autógrafa",
+    "validez",
+    "integridad del documento",
     "valor probatorio"
   ],
   "terminos_coloquiales": [
-    "firma digital",
-    "firma electrónica",
-    "firma en línea",
-    "firma válida"
+    "e.firma",
+    "firma electrónica"
   ],
-  "resumen": "La Firma Electrónica Avanzada tiene el mismo valor legal que una firma autógrafa y asegura que el documento no ha sido alterado. Ambas firmas tienen el mismo peso en términos legales.",
+  "resumen": "La Firma Electrónica Avanzada tiene el mismo efecto legal que una firma autógrafa y asegura que el documento es íntegro. Ambos tipos de firma tienen el mismo valor probatorio.",
   "preguntas_ejemplo": [
-    "¿La firma electrónica tiene el mismo valor que una firma hecha a mano?",
-    "¿Cómo puedo garantizar que un documento firmado electrónicamente es auténtico?",
     "¿Qué es la firma electrónica avanzada?",
-    "¿Qué importancia tiene la firma digital en documentos legales?"
+    "¿La e.firma tiene el mismo valor que una firma en papel?",
+    "¿Para qué se usa la firma electrónica?",
+    "¿Qué garantiza la firma electrónica avanzada?",
+    "¿Cuál es la diferencia entre la e.firma y la firma manual?"
   ]
 }

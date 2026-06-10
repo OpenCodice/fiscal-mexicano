@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6aed38037b974b67",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recusación de magistrados y peritos",
@@ -17,16 +18,16 @@
   ],
   "terminos_coloquiales": [
     "quitar a un juez",
-    "no quiero a este perito",
-    "cambiar magistrado",
-    "cuándo puedo recusarlo"
+    "juez imparcial",
+    "recusar",
+    "peritos"
   ],
-  "resumen": "Las partes tienen el derecho de rechazar a los magistrados o peritos del Tribunal si están en alguna situación que los impida actuar. Esto se debe a los casos especificados en la ley.",
+  "resumen": "Las partes en un juicio pueden pedir que se retire a un magistrado o a un perito si este se encuentra en alguna de las situaciones que impiden su imparcialidad. La ley establece los casos específicos en los que se puede hacer esta solicitud.",
   "preguntas_ejemplo": [
-    "¿En qué casos puedo rechazar a un magistrado?",
-    "¿Cómo puedo pedir que no intervenga un perito?",
-    "¿Qué significa recurrir a un juez?",
-    "¿Qué situaciones me permiten recusarlos?",
-    "¿Cuál es el proceso para recusar a un magistrado?"
+    "¿Cuándo puedo recusar a un magistrado?",
+    "¿Qué razones hay para quitar a un juez en mi caso?",
+    "¿Se puede pedir la salida de un perito durante el juicio?",
+    "¿Qué significa que un magistrado esté impedido?",
+    "¿Cómo se hace una recusación formal en el tribunal?"
   ]
 }

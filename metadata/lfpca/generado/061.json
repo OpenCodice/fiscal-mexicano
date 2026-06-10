@@ -6,27 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:460e5242128a4244",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Desistimiento en juicio",
+  "denominacion_comun": "Reclamación en juicio",
   "temas": [
     "reclamación",
-    "acuerdo",
     "juicio",
     "desistimiento",
     "contraparte"
   ],
   "terminos_coloquiales": [
-    "renunciar a la demanda",
-    "dejar el juicio",
-    "cancelar el juicio",
-    "no seguir con el caso"
+    "reclamación de juicio",
+    "desistirse de un juicio",
+    "cierre de instrucción"
   ],
-  "resumen": "Este artículo establece que si alguien decide desistirse de una demanda antes de cerrar la fase de instrucción, no es necesario informar a la otra parte del juicio.",
+  "resumen": "Este artículo establece que si se presenta una reclamación contra un acuerdo que suspende un juicio antes de cerrarse la instrucción y el demandante se desiste, no es necesario notificar a la otra parte del juicio.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si decido desistirme de mi demanda?",
-    "¿Necesito avisar a la otra parte si me retiro del juicio?",
-    "¿Qué significa desistimiento en un juicio?",
-    "¿Cuándo no es necesario notificar el desistimiento?"
+    "¿Qué pasa si me desisto de un juicio antes de que se cierre la instrucción?",
+    "¿Necesito avisar a la contraparte si me desisto de mi reclamación?",
+    "¿Qué significa que un juicio esté sobreseído?",
+    "¿Qué ocurre si interpongo una reclamación en un juicio?"
   ]
 }

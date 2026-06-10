@@ -6,33 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d511a103069689f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Firma en Promociones Legales",
+  "denominacion_comun": "Firma de Promociones",
   "temas": [
     "firma autógrafa",
     "firma electrónica avanzada",
-    "promociones legales",
     "huella digital",
-    "representante legal",
-    "demanda",
     "personas morales",
-    "Magistrado Instructor"
+    "demanda",
+    "representante común"
   ],
   "terminos_coloquiales": [
-    "firma de documentos",
-    "cómo firmar digitalmente",
-    "dónde poner la firma",
-    "huella en vez de firma",
-    "quién firma la demanda",
-    "representante en juicio"
+    "firma",
+    "e.firma",
+    "promoción",
+    "demanda judicial"
   ],
-  "resumen": "Las promociones legales deben incluir una firma autógrafa o electrónica avanzada. Si alguien no puede firmar, puede usar su huella digital y otra persona puede firmar por él. Las personas morales pueden usar su propia firma electrónica o la de su representante legal para presentar demandas.",
+  "resumen": "Este artículo establece que toda promoción debe llevar firma autógrafa o firma electrónica avanzada. También menciona que si una persona no puede firmar, puede usar su huella digital y que en caso de afectar a varias personas, todas deben firmar y designar un representante común.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de firma necesito para promover algo?",
-    "¿Puedo usar mi huella digital si no puedo firmar?",
-    "¿Quién firma si hay varias personas en la demanda?",
-    "¿Pueden las empresas firmar electrónicamente?",
-    "¿Qué pasa si no firmo correctamente?"
+    "¿Qué tipos de firmas se necesitan para presentar una promoción?",
+    "¿Qué hago si no puedo firmar un documento?",
+    "¿Las personas morales pueden usar firma electrónica?",
+    "¿Qué pasa si la demanda afecta a más de una persona?",
+    "¿Quién designa al representante común en una demanda?"
   ]
 }

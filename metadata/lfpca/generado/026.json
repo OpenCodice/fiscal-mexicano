@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6f4289a17b57432f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medidas cautelares",
   "temas": [
-    "magistrado instructor",
+    "medidas cautelares",
+    "situaciones jurídicas",
     "daños substanciales",
-    "lesión de derechos",
-    "situaciones jurídicas duraderas"
+    "lesión al derecho"
   ],
   "terminos_coloquiales": [
-    "medidas para proteger derechos",
-    "acciones preventivas",
-    "proteger un derecho en riesgo"
+    "tutela preventiva",
+    "protección legal",
+    "medidas provisionales"
   ],
-  "resumen": "El magistrado instructor puede ordenar medidas para proteger derechos en situaciones donde hay riesgo de daños importantes por el paso del tiempo. Estas medidas se buscan para evitar que se perjudique al actor antes de que se resuelva el asunto legal.",
+  "resumen": "El Magistrado Instructor puede ordenar medidas cautelares para proteger a una persona cuando se prevé que su derecho se vea afectado por el tiempo o por daños significativos. Estas medidas buscan evitar que la situación empeore mientras se resuelve el caso.",
   "preguntas_ejemplo": [
     "¿Qué son las medidas cautelares?",
-    "¿Quién puede decretar medidas cautelares?",
-    "¿En qué casos se pueden solicitar medidas cautelares?",
-    "¿Qué pasa si hay daño substancial en un caso legal?",
-    "¿Cómo se protegen mis derechos mientras se resuelve un juicio?"
+    "¿Cuándo se pueden solicitar medidas cautelares?",
+    "¿Qué daños se pueden considerar para decretar medidas cautelares?",
+    "¿Qué hace un Magistrado Instructor en casos de medidas cautelares?",
+    "¿Cómo protege la ley mis derechos a través de medidas cautelares?"
   ]
 }

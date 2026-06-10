@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c68ca26e623212f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Contestación en juicio",
   "temas": [
-    "apersonamiento",
     "demanda",
-    "requisitos de la demanda",
-    "justificación de derechos",
+    "apersonamiento en juicio",
+    "justificación de derecho",
     "pruebas documentales",
-    "personalidad",
-    "cuestionario de peritos"
+    "cuestionario para peritos"
   ],
   "terminos_coloquiales": [
-    "responder a la demanda",
-    "contestar en juicio",
-    "cómo me defiendo",
-    "donde mando mi escrito",
-    "documentos para el juicio"
+    "contestar demanda",
+    "intervención en juicio",
+    "pruebas",
+    "derecho de apersonamiento"
   ],
-  "resumen": "El artículo establece cómo una persona puede intervenir en un juicio tras recibir una demanda. Debe presentar un escrito con los requisitos correspondientes y documentos que comprueben su derecho a intervenir.",
+  "resumen": "El tercero puede presentarse en juicio dentro de los treinta días después de recibir la demanda, enviando un escrito con los requisitos necesarios y justificando su derecho. También debe incluir las pruebas y el cuestionario para peritos si es necesario.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si me llega una demanda?",
-    "¿Qué documentos necesito para contestar una demanda?",
-    "¿Cómo justifico mi derecho a intervenir en un juicio?",
-    "¿Cuánto tiempo tengo para contestar una demanda?",
-    "¿Qué requisitos debe tener mi escrito de contestación?"
+    "¿Cómo puedo contestar una demanda en el juicio?",
+    "¿Qué requisitos necesito para apersonarme en juicio?",
+    "¿Qué documentos debo presentar al contestar una demanda?",
+    "¿Qué pruebas puedo ofrecer en el juicio?",
+    "¿Cómo justifico mi derecho para intervenir en un juicio?"
   ]
 }

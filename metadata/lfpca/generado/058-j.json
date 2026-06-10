@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb3730cb327b0efa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Juicio en Línea",
   "temas": [
     "Sistema de Justicia en Línea",
-    "Actuaciones Judiciales",
-    "Firmas Electrónicas",
-    "Tribunales",
-    "Magistrados",
-    "Secretarios de Acuerdos"
+    "Actuaciones judiciales",
+    "Firmas electrónicas avanzadas",
+    "Tribunal"
   ],
   "terminos_coloquiales": [
     "juicio por internet",
-    "juicio en línea",
-    "actuaciones online",
-    "firma electrónica en juicios"
+    "tribunal en línea",
+    "firma electrónica"
   ],
-  "resumen": "Las actuaciones en el Juicio en Línea se realizan a través del Sistema de Justicia en Línea del Tribunal y deben ser validadas con firmas electrónicas avanzadas de los magistrados y secretarios. Esto asegura la autenticidad de los actos judiciales.",
+  "resumen": "El Juicio en Línea se realiza a través de un sistema específico donde se llevan a cabo actuaciones judiciales. Estas actuaciones deben ser validadas con las firmas electrónicas de los funcionarios correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se lleva a cabo un juicio en línea?",
+    "¿Cómo se realiza un juicio en línea?",
     "¿Qué es el Sistema de Justicia en Línea?",
-    "¿Qué tipo de firma se necesita para el juicio en línea?",
-    "¿Quién valida las actuaciones en un juicio en línea?"
+    "¿Las firmas electrónicas son requeridas en los juicios en línea?",
+    "¿Qué actuaciones se pueden hacer en un juicio en línea?",
+    "¿Quiénes validan las actuaciones en un juicio en línea?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f476d5fd30933fa0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pruebas documentales en documentos digitales",
+  "denominacion_comun": "Documentos digitales en pruebas",
   "temas": [
-    "documentos digitales",
     "pruebas documentales",
-    "valor probatorio",
-    "sistema de justicia",
-    "manifestación bajo protesta"
-  ],
-  "terminos_coloquiales": [
-    "pruebas digitales",
-    "documentos en línea",
-    "copias digitales",
+    "documentos digitales",
+    "Sistema de Justicia en Línea",
+    "validez probatoria",
+    "copia simple",
+    "copia certificada",
     "firma autógrafa"
   ],
-  "resumen": "Este artículo establece que los documentos presentados como prueba deben ser legibles y, si son digitales, especificar su naturaleza. Se requiere una manifestación de verdad sobre la tipo de documento y se considera que tienen el mismo valor que los documentos físicos si se cumplen ciertos requisitos.",
+  "terminos_coloquiales": [
+    "documentos digitales",
+    "pruebas en línea",
+    "copia simple",
+    "copia certificada",
+    "firma electrónica"
+  ],
+  "resumen": "Los documentos que se presenten como prueba deben ser legibles y, si son digitales, se debe indicar su naturaleza. Los documentos digitales tendrán el mismo valor que los físicos si se cumplen las normas adecuadas.",
   "preguntas_ejemplo": [
-    "¿Cómo se presentan pruebas digitales en el tribunal?",
-    "¿Qué es necesario declarar al presentar un documento digital?",
-    "¿Los documentos escaneados tienen el mismo valor que los físicos?",
-    "¿Qué pasa si no se manifiesta la naturaleza del documento digital?",
-    "¿Qué se considera una copia simple o certificada?"
+    "¿Cómo debo presentar documentos digitales como prueba?",
+    "¿Qué pasa si no indico si un documento digital es original o copia?",
+    "¿Tienen los documentos digitales el mismo valor que los físicos?",
+    "¿Qué significa que un documento tenga firma autógrafa?",
+    "¿Dónde puedo revisar las normas para enviar pruebas digitales?"
   ]
 }

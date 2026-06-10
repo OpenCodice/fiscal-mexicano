@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:219d8f00b1dcd267",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acceso al Expediente Electrónico",
   "temas": [
     "Expediente Electrónico",
-    "Claves de Acceso",
-    "Contraseñas",
-    "Acceso a Información"
+    "Clave de Acceso",
+    "Contraseña",
+    "Consulta",
+    "Partes autorizadas",
+    "Delegados"
   ],
   "terminos_coloquiales": [
-    "cómo acceder al expediente electrónico",
-    "quién puede ver el expediente",
-    "clave y contraseña para expediente",
-    "consulta de información fiscal"
+    "acceso a documentos electrónicos",
+    "consultar expediente",
+    "clave y contraseña"
   ],
-  "resumen": "El acceso al Expediente Electrónico está limitado a las partes, personas autorizadas y delegados. Solo pueden consultarlo si tienen su Clave de Acceso y Contraseña registradas.",
+  "resumen": "El acceso al Expediente Electrónico está restringido a las partes, personas autorizadas y delegados que cuenten con su Clave de Acceso y Contraseña. Solo ellos podrán consultar la información de este expediente.",
   "preguntas_ejemplo": [
-    "¿Quién puede acceder al expediente electrónico?",
-    "¿Qué necesito para consultar un expediente?",
-    "¿Cómo obtengo mi clave de acceso?",
-    "¿Puedo ver el expediente sin contraseña?",
-    "¿Qué es el expediente electrónico en fiscalidad?"
+    "¿Quién puede acceder al Expediente Electrónico?",
+    "¿Qué se necesita para consultar el expediente?",
+    "¿Cómo obtener la Clave de Acceso para el expediente?",
+    "¿Se puede acceder a los documentos sin clave?",
+    "¿Pueden los delegados consultar el expediente?"
   ]
 }

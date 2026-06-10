@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb6f243a4648e962",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revisión",
+  "denominacion_comun": "Recurso de Revisión",
   "temas": [
-    "resoluciones fiscales",
-    "impugnación",
+    "impugnación de resoluciones",
     "autoridades fiscales",
     "tribunales",
-    "revisión administrativa",
+    "exceso de cuantía",
+    "indemnización",
+    "responsabilidades administrativas",
+    "comercio exterior",
+    "aportar seguridad social",
+    "prestaciones laborales"
+  ],
+  "terminos_coloquiales": [
+    "recurso de revisión",
+    "impugnar resoluciones",
+    "SAT",
+    "Secretaría de Hacienda",
     "indemnización",
     "comercio exterior"
   ],
-  "terminos_coloquiales": [
-    "cómo apelar una resolución fiscal",
-    "recurso contra impuestos",
-    "revisión de resoluciones fiscales",
-    "impugnar un fallo fiscal",
-    "qué hacer con una resolución negativa"
-  ],
-  "resumen": "Este artículo establece los procedimientos y condiciones bajo los cuales se puede impugnar una resolución emitida por autoridades fiscales. Se permiten recursos de revisión en casos de resoluciones que afecten derechos fiscales, incluyendo aquellos de importancia y trascendencia.",
+  "resumen": "El artículo establece las condiciones bajo las cuales se puede interponer un recurso de revisión contra resoluciones emitidas por diversas autoridades fiscales. Se detalla la cuantía mínima y los motivos que pueden justificar la impugnación, así como los procedimientos que deben seguirse en estos casos.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo impugnar una resolución de la autoridad fiscal?",
-    "¿Qué tipo de resoluciones se pueden revisar?",
-    "¿Cuál es el plazo para presentar un recurso de revisión?",
-    "¿Qué requisitos debo cumplir para apelar una decisión fiscal?",
-    "¿Puedo adherirme a un recurso de revisión ya interpuesto?"
+    "¿Cuáles son los motivos para impugnar una resolución fiscal?",
+    "¿Qué es un recurso de revisión en materia fiscal?",
+    "¿Qué plazos debo seguir para presentar un recurso de revisión?",
+    "¿Qué autoridades fiscales pueden ser impugnadas?",
+    "¿Cómo afecta una resolución del SAT a mis derechos?"
   ]
 }

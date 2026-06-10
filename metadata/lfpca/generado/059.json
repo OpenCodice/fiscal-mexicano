@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8fc26091e2b835dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recurso de reclamación",
   "temas": [
     "resoluciones",
-    "Magistrado Instructor",
     "demanda",
     "contestación",
     "pruebas",
-    "sobreseimiento",
-    "intervención de terceros"
+    "juicio",
+    "intervención del tercero"
   ],
   "terminos_coloquiales": [
-    "reclamo legal",
-    "queja contra una decisión",
-    "cómo apelar",
-    "recurso de apelación"
+    "recurso",
+    "queja",
+    "apelación"
   ],
-  "resumen": "El recurso de reclamación permite impugnar decisiones del Magistrado Instructor sobre la demanda y otros aspectos del juicio. Se debe presentar ante la Sala o Sección correspondiente dentro de un plazo determinado después de la notificación.",
+  "resumen": "El recurso de reclamación se puede presentar contra decisiones específicas del Magistrado Instructor en un juicio. Este recurso debe interponerse ante la autoridad correspondiente dentro de un plazo de diez días después de recibir la notificación.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si no me aceptan la demanda?",
-    "¿Cómo se apela una decisión del juez?",
-    "¿Qué pasa si quiero impugnar una resolución antes de cerrar el juicio?",
-    "¿Cuánto tiempo tengo para presentar un recurso de reclamación?"
+    "¿Cuándo puedo presentar un recurso de reclamación?",
+    "¿Qué resoluciones se pueden impugnar con un recurso de reclamación?",
+    "¿Cómo se interpondrá un recurso de reclamación?",
+    "¿Cuánto tiempo tengo para presentar un recurso de reclamación?",
+    "¿Qué pasa si no estoy de acuerdo con la decisión del Magistrado Instructor?"
   ]
 }

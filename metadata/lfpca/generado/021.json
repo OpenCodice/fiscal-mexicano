@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd7f3f492fb022c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentos en contestación",
+  "denominacion_comun": "Documentación en contestación de demanda",
   "temas": [
-    "documentos necesarios",
     "contestación de demanda",
+    "documentos para demandantes",
+    "personalidad del demandado",
+    "cuestionario pericial",
     "pruebas documentales",
-    "peritos",
-    "confidencialidad",
-    "personalidad del demandado"
+    "ampliación de la demanda",
+    "información confidencial"
   ],
   "terminos_coloquiales": [
-    "qué documentos necesito para contestar",
-    "requisitos para la respuesta a una demanda",
-    "documentos en juicio",
-    "documentos que debes llevar a juicio",
-    "cómo se responde a una demanda"
+    "contestar la demanda",
+    "papeles para la demanda",
+    "pruebas que presentar",
+    "cuestionario del perito"
   ],
-  "resumen": "Este artículo detalla los documentos que debe adjuntar el demandado al responder a una demanda. Esto incluye copias de documentos, acreditación de personalidad y cuestionarios para peritos.",
+  "resumen": "El demandado debe presentar varios documentos junto con su contestación a la demanda, incluyendo copias y pruebas. También debe acreditar su personalidad si actúa en nombre de otro y gestionar un cuestionario para el perito. La ley detalla qué documentos específicos son necesarios en cada caso.",
   "preguntas_ejemplo": [
-    "¿Qué documentos debo presentar al contestar una demanda?",
-    "¿Qué es el cuestionario del perito?",
-    "¿Cómo demuestro que soy una persona legalmente representativa?",
-    "¿Tengo que volver a enviar documentos ya presentados?",
-    "¿Qué información es confidencial en una demanda?"
+    "¿Qué documentos debo adjuntar al contestar una demanda?",
+    "¿Cómo acreditó mi personalidad si no estoy demandando a nombre propio?",
+    "¿Qué pasa si necesito ampliar el cuestionario para el perito?",
+    "¿Qué pruebas documentales puedo ofrecer en mi contestación?",
+    "¿Qué información confidencial debo considerar en mi respuesta?"
   ]
 }

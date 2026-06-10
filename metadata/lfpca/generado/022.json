@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7524d384ce9e8d81",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contestación de la demanda",
+  "denominacion_comun": "Contestación de demanda",
   "temas": [
     "fundamentos de derecho",
     "resolución impugnada",
@@ -17,17 +18,16 @@
     "revocación"
   ],
   "terminos_coloquiales": [
-    "respuesta a la demanda",
-    "impugnación de resoluciones",
+    "respuestas a demandas",
     "cambio de fundamentos",
-    "aceptar o rechazar demandas"
+    "allanarse a la demanda"
   ],
-  "resumen": "Este artículo trata sobre cómo las autoridades deben responder a las demandas, sin poder cambiar los fundamentos de derecho. También menciona que pueden aceptar las pretensiones del demandante o revocar la resolución impugnada.",
+  "resumen": "El artículo establece que en la contestación de la demanda no se pueden cambiar los fundamentos legales de la resolución impugnada. También menciona que en caso de una resolución negativa tácita, la autoridad deberá exponer los hechos y derechos en los que se basa. Además, se permite a la autoridad demandada allanarse a las pretensiones del demandante o revocar la resolución antes del cierre de la instrucción.",
   "preguntas_ejemplo": [
-    "¿Puede la autoridad cambiar los fundamentos de su respuesta a una demanda?",
-    "¿Qué pasa si la autoridad no responde a tiempo?",
-    "¿La autoridad puede aceptar lo que pide el demandante?",
-    "¿Qué significa la resolución negativa ficta?",
-    "¿Qué ocurre si la autoridad quiere revocar su decisión?"
+    "¿Puedo modificar los fundamentos legales en mi respuesta a la demanda?",
+    "¿Qué es una resolución negativa ficta?",
+    "¿Qué significa allanarse a una demanda?",
+    "¿Puede la autoridad revocar su propia resolución impugnada?",
+    "¿Hasta cuándo puedo presentar mi respuesta a la demanda?"
   ]
 }

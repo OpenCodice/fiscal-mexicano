@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:68c0e7eeb46a0919",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sentencias del Tribunal",
   "temas": [
-    "facultades del Tribunal",
-    "causales de ilegalidad",
+    "resoluciones impugnadas",
     "nulidad de resoluciones",
+    "requisitos formales",
+    "vicios de procedimiento",
     "errores en preceptos",
-    "legalidad de resoluciones",
+    "legalidad en recursos administrativos",
     "derechos subjetivos",
     "indemnización"
   ],
   "terminos_coloquiales": [
-    "sentencia del Tribunal",
-    "juicio administrativo",
-    "resolución impugnada",
-    "derechos violados",
-    "indemnización por despido"
+    "sentencias judiciales",
+    "resoluciones de tribunales",
+    "quejas administrativas",
+    "demandas contra autoridades",
+    "restitución de derechos",
+    "indemnizaciones por despido"
   ],
-  "resumen": "El artículo establece cómo el Tribunal debe fundamentar sus sentencias y examinar las causales de ilegalidad presentadas en una demanda. También señala que debe evaluar la legalidad de las resoluciones administrativas y asegurar que los derechos de los particulares sean respetados.",
+  "resumen": "El artículo establece que las sentencias del Tribunal deben basarse en derecho y atender las demandas de los particulares. También abordan la nulidad de resoluciones por vicios y los errores que pueden corregirse en las sentencias. Asimismo, se pronuncian sobre la legalidad de resoluciones administrativas y la restitución de derechos violados.",
   "preguntas_ejemplo": [
     "¿Cómo se fundamentan las sentencias del Tribunal?",
-    "¿Qué pasa si hay errores en la resolución administrativa?",
-    "¿Cuándo se puede declarar la nulidad de una resolución?",
-    "¿Cómo se resuelven los juicios sobre derechos personales?",
-    "¿Cuáles son las causales de ilegalidad que se pueden invocar?"
+    "¿Qué pasa si hay errores en los preceptos citados?",
+    "¿Se puede anular una resolución administrativa sin impugnarla?",
+    "¿Qué requisitos tiene que cumplir una sentencia que ordene la devolución de un derecho?",
+    "¿Qué derechos tienen los demandantes en una queja administrativa?"
   ]
 }

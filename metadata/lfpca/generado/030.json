@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:acf9c8bf63e1ab22",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Competencia de Salas Regionales",
+  "denominacion_comun": "Competencia de las Salas Regionales",
   "temas": [
-    "juicios por razón de territorio",
-    "Sala Regional",
+    "juicios",
+    "territorio",
     "competencia",
-    "asuntos legales"
+    "Sala Especializada",
+    "resoluciones",
+    "incidentes",
+    "enviar autos"
   ],
   "terminos_coloquiales": [
-    "donde se presenta el juicio",
-    "quién conoce el caso",
-    "competencia territorial",
-    "salas del tribunal"
+    "juicios fiscales",
+    "salas fiscales",
+    "competencia regional",
+    "demanda fiscal"
   ],
-  "resumen": "Las Salas Regionales son responsables de conocer juicios relacionados con territorio. Si hay dudas sobre la competencia, se debe acudir a la Sala Regional donde se presentó el asunto para resolverlo.",
+  "resumen": "Las Salas Regionales se encargan de los juicios según su ubicación territorial. Si un juicio es presentado ante una sala que no le corresponde, se puede solicitar que se remita al órgano adecuado. Las salas deben decidir rápidamente si aceptan o no conocer de un juicio que les corresponde.",
   "preguntas_ejemplo": [
-    "¿Qué hace una Sala Regional?",
-    "¿Quién decide qué sala debe conocer un juicio?",
-    "¿Qué pasa si una sala no es competente?",
-    "¿Cuánto tiempo tiene una sala para decidir si acepta un caso?"
+    "¿Qué hace una Sala Regional en asuntos fiscales?",
+    "¿Cómo se determina la competencia de una Sala Regional?",
+    "¿Qué sucede si presento un juicio en la sala equivocada?",
+    "¿Cuánto tiempo tiene una Sala para aceptar un caso?",
+    "¿Qué pasa si la Sala no acepta conocer de un juicio?",
+    "¿Cómo se comunica una resolución entre Salas?"
   ]
 }

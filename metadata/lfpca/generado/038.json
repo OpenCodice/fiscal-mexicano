@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fba3c65210a39520",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interrupción de juicio por causa de muerte",
+  "denominacion_comun": "Interrupción del juicio",
   "temas": [
-    "interrupción de juicio",
+    "juicio",
+    "interrupción",
     "causa de muerte",
     "disolución",
     "incapacidad",
     "declaratoria de ausencia",
-    "albacea",
-    "representante legal",
-    "tutor"
+    "plazo máximo"
   ],
   "terminos_coloquiales": [
-    "qué pasa si muere alguien en un juicio",
-    "interrupción del juicio por muerte",
-    "juicio detenido por incapacidad",
-    "qué hacer si no hay representante legal",
-    "proceso legal por disolución"
+    "pausa en el juicio",
+    "interrupción legal",
+    "sucesión",
+    "llamar a juicio",
+    "tutela",
+    "representante legal"
   ],
-  "resumen": "La interrupción de un juicio puede ocurrir por muerte, incapacidad o ausencia y durará hasta un año. Si no se presenta el responsable al término de este plazo, se reanudará el juicio con notificaciones adecuadas.",
+  "resumen": "Este artículo establece que un juicio puede interrumpirse por motivos como muerte, disolución, incapacidad o ausencia. La interrupción puede durar hasta un año y se reanuda si no se presenta el representante legal o albacea después de ese plazo.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo puede estar detenido un juicio por la muerte de una persona?",
-    "¿Qué sucede si nadie se presenta en el juicio tras un año?",
-    "¿Cómo se reanuda el juicio si hay incapacidad?",
-    "¿Cuál es el proceso legal si alguien desaparece durante un juicio?",
-    "¿Quién puede ser el representante legal en caso de incapacidad?"
+    "¿Cuánto tiempo puede durar la interrupción de un juicio?",
+    "¿Quién declara la interrupción del juicio por muerte o incapacidad?",
+    "¿Qué pasa si el albacea no se presenta después de un año?",
+    "¿Qué motivos se consideran para interrumpir un juicio?",
+    "¿Cómo se notifica al representante en un juicio interrumpido?",
+    "¿Se puede reanudar un juicio si hay incapacidad o ausencia?"
   ]
 }

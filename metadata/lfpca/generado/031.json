@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cdc2f4f8e5e2aa8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acumulación de juicios",
   "temas": [
     "juicios pendientes",
     "acumulación",
-    "partes iguales",
-    "agravios idénticos",
-    "actos impugnados",
-    "vías de juicio",
+    "partes",
+    "agravios",
+    "vía tradicional",
     "juicio en línea"
   ],
   "terminos_coloquiales": [
-    "juntar juicios",
-    "acumular juicios",
-    "juicios similares",
-    "juicios en línea",
-    "juicio conjunto"
+    "acumulación de juicios",
+    "juicio en línea",
+    "vía tradicional"
   ],
-  "resumen": "El artículo describe las condiciones bajo las cuales se pueden acumular dos o más juicios que están pendientes de resolución. Esto puede suceder cuando las partes y los agravios son los mismos, o cuando se impugnan diferentes agravios sobre el mismo acto.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales se pueden acumular dos o más juicios pendientes de resolución, ya sea porque las partes son las mismas o el acto impugnado es el mismo. También menciona la opción de tramitar el juicio en línea si se está llevando a cabo un juicio tradicional.",
   "preguntas_ejemplo": [
-    "¿Cuándo se pueden juntar dos juicios?",
-    "¿Qué significa acumular juicios pendientes?",
-    "¿Qué condiciones deben cumplirse para la acumulación de juicios?",
-    "¿Se pueden acumular juicios si las partes son diferentes?",
-    "¿Cómo se maneja la acumulación en juicios en línea?"
+    "¿Cuándo se pueden acumular juicios?",
+    "¿Qué se necesita para que proceda la acumulación de juicios?",
+    "¿Qué pasa si tengo juicios en línea y tradicionales?",
+    "¿Cómo elijo entre juicio en línea y juicio tradicional?",
+    "¿Qué significa acumulación de juicios?"
   ]
 }

@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a5fbe997db7d029",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de actos",
+  "denominacion_comun": "Notificación de actos fiscales",
   "temas": [
     "notificación personal",
     "correo certificado",
@@ -16,17 +17,16 @@
     "comprobación de recepción"
   ],
   "terminos_coloquiales": [
-    "cómo se notifica algo",
-    "notificación legal",
+    "notificación",
     "recibo de notificación",
-    "notificación por correo"
+    "correo con acuse"
   ],
-  "resumen": "La notificación de actos se considera legalmente realizada si se hace de forma personal o por correo certificado, y se puede probar que se recibió. Se aceptan otros medios que demuestren fehacientemente la recepción.",
+  "resumen": "Este artículo establece que la notificación de actos fiscales se considera legalmente efectuada si se realiza de manera personal o por correo con acuse de recibo, siempre que se pueda comprobar que se recibió. También permite el uso de otros medios comprobables para la recepción.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifica un acto legal?",
-    "¿Qué es una notificación por correo certificado?",
-    "¿Qué medios puedo usar para comprobar que he recibido una notificación?",
-    "¿Qué es el acuse de recibo?",
-    "¿La notificación se puede hacer de otras formas?"
+    "¿Cómo se considera válida una notificación de actos fiscales?",
+    "¿Qué medios se pueden usar para notificar actos fiscales?",
+    "¿Qué significa acuse de recibo en una notificación?",
+    "¿Se puede notificar por otros medios además del correo?",
+    "¿Qué requisitos debe tener una notificación para ser válida?"
   ]
 }

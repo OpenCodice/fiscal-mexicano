@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1233ab113c2658ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sentencia de Magistrados",
+  "denominacion_comun": "Sentencias de Juicio",
   "temas": [
-    "pronunciamiento",
-    "votación",
-    "instrucción",
-    "proyecto",
-    "resolución"
+    "plazos de sentencia",
+    "proyecto de resolución",
+    "votos de magistrados",
+    "voto particular",
+    "sobreseimiento",
+    "cierre de instrucción"
   ],
   "terminos_coloquiales": [
-    "decisión de jueces",
-    "voto de magistrados",
-    "sentencia unánime",
-    "voto disidente"
+    "sentencia",
+    "voto en contra",
+    "proyecto de fallo",
+    "voto particular"
   ],
-  "resumen": "Los magistrados deben pronunciar una sentencia por unanimidad o mayoría dentro de un plazo específico después de cerrar la instrucción. Si hay desacuerdo, un magistrado puede presentar un voto particular con argumentos.",
+  "resumen": "Este artículo establece los plazos y procedimientos que deben seguir los magistrados para emitir una sentencia en un juicio. Detalla cómo se presenta el proyecto de resolución y la posibilidad de expresar votos particulares en caso de desacuerdo.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tienen los magistrados para emitir una sentencia?",
-    "¿Qué pasa si un magistrado no está de acuerdo con el proyecto?",
-    "¿Puede un magistrado presentar un voto particular?",
-    "¿Cómo se determina el pronunciamiento de los magistrados?",
-    "¿Qué sucede si hay un sobreseimiento en el juicio?"
+    "¿Cuánto tiempo tienen los magistrados para dictar una sentencia?",
+    "¿Qué pasa si un magistrado no está de acuerdo con el proyecto de resolución?",
+    "¿Cómo se formula un voto particular?",
+    "¿Qué significa el sobreseimiento en un juicio?",
+    "¿Cuándo se considera que se ha cerrado la instrucción?"
   ]
 }

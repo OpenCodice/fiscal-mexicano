@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:254a8207f6a810ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cumplimiento de sentencias del Tribunal Federal",
+  "denominacion_comun": "Cumplimiento de Sentencias",
   "temas": [
-    "autoridades demandadas",
-    "nulidad de resoluciones",
-    "reposición de procedimientos",
-    "plazos para reponer",
-    "ejecución de sentencias",
+    "sentencias",
+    "nulidad",
+    "procedimientos administrativos",
+    "vicios de procedimiento",
+    "plazos para resolución",
+    "reposición del procedimiento",
     "desvío de poder",
-    "vidas administrativas",
-    "obligaciones de pago"
+    "condenas",
+    "juicio de amparo"
   ],
   "terminos_coloquiales": [
-    "qué pasa si se anula una resolución",
-    "cómo se cumple una sentencia",
-    "plazos después de una sentencia",
-    "reponer un procedimiento",
-    "cuando hay nulidad administrativa",
-    "cumplimiento de resoluciones"
+    "cumplir sentencias",
+    "reponer procedimientos",
+    "cambiar resoluciones",
+    "juzgados fiscales",
+    "TFJFA",
+    "resoluciones administrativas"
   ],
-  "resumen": "Las autoridades deben cumplir con las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa. Dependiendo de la causa de nulidad, pueden reponer procedimientos o dictar nuevas resoluciones, siempre respetando los plazos establecidos.",
+  "resumen": "El artículo establece cómo deben actuar las autoridades en cumplimiento de sentencias del Tribunal Federal de Justicia Fiscal y Administrativa, incluyendo plazos y condiciones para reponer procedimientos o dictar nuevas resoluciones. También aborda situaciones como nulidades por vicios en el procedimiento y los efectos de las condenas.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si una resolución es anulada por el Tribunal?",
-    "¿Cuánto tiempo tiene una autoridad para reponer un procedimiento?",
-    "¿Puede la autoridad dictar una nueva resolución después de una nulidad?",
-    "¿Qué es el desvío de poder en este contexto?",
-    "¿Cómo afecta la nulidad de una resolución a las obligaciones de pago?",
-    "¿Cuándo se suspenden los efectos de una sentencia?"
+    "¿Qué pasa si una autoridad no cumple con una sentencia?",
+    "¿Cuáles son los plazos para reponer un procedimiento después de una nulidad?",
+    "¿Cómo se corrigen los vicios en una resolución impugnada?",
+    "¿Qué significa desvío de poder en una resolución?",
+    "¿Qué ocurre con una sentencia si se interpone un juicio de amparo?"
   ]
 }

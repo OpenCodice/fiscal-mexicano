@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3e0b4c2ef9690b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Juicio en línea",
+  "denominacion_comun": "Juicios en línea",
   "temas": [
-    "juicio",
     "demanda",
+    "juicio",
     "autoridad",
-    "tramite en línea",
     "particular",
-    "notificación"
+    "emplacement",
+    "trámite en línea",
+    "juicio tradicional",
+    "correo electrónico"
   ],
   "terminos_coloquiales": [
-    "juicio digital",
-    "demanda en línea",
-    "juicio por internet",
-    "notificación electrónica"
+    "juicio en línea",
+    "juicio tradicional",
+    "contestar la demanda",
+    "notificación personal",
+    "emplazamiento"
   ],
-  "resumen": "El particular demandado puede optar por tramitar su juicio en línea si la demanda proviene de una autoridad. Debe proporcionar su domicilio y correo electrónico para el proceso. Si decide no hacerlo, puede responder a la demanda de forma tradicional.",
+  "resumen": "Este artículo establece que cuando una autoridad demanda, el particular puede optar por tramitar el juicio en línea o de manera tradicional. Para ello, debe señalar su domicilio y correo electrónico. Si el particular no quiere el juicio en línea, deberá contestar la demanda en la vía normal.",
   "preguntas_ejemplo": [
-    "¿Puedo hacer mi juicio en línea?",
-    "¿Qué opciones tengo para contestar una demanda?",
-    "¿Qué pasa si no quiero un juicio digital?",
-    "¿Cómo se notifica una demanda en línea?",
-    "¿Es obligatorio tramitar el juicio por internet?"
+    "¿Puedo tramitar mi juicio en línea si la demanda es de una autoridad?",
+    "¿Qué hago si no quiero un juicio en línea?",
+    "¿Cómo se notifica la demanda en un juicio en línea?",
+    "¿Qué información debo proporcionar para el juicio en línea?",
+    "¿Qué sucede si rechazo el juicio en línea?",
+    "¿Cuál es el procedimiento para contestar una demanda?"
   ]
 }

@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7751f5fa2d26c500",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Improcedencia del juicio ante el Tribunal",
+  "denominacion_comun": "Improcedencia de juicios fiscales",
   "temas": [
-    "Causales de improcedencia",
-    "Actos impugnables",
-    "Consentimiento",
-    "Recursos pendientes",
-    "Conexidad",
-    "Resoluciones administrativas",
-    "Tribunal",
-    "Juicio",
-    "Legitimación"
+    "acciones improcedentes",
+    "impugnación de actos administrativos",
+    "juicio ante el Tribunal",
+    "resoluciones administrativas",
+    "vicios propios",
+    "tratados internacionales",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "no se puede demandar",
-    "reclamo no aceptado",
-    "juicio improcedente",
-    "actos que no se pueden impugnar"
+    "juicio fiscal",
+    "improcedencia",
+    "sanciones administrativas",
+    "recurso de revocación",
+    "tratados de doble tributación"
   ],
-  "resumen": "Este artículo establece las razones por las cuales no se puede presentar un juicio ante el Tribunal. Se refiere a situaciones en las que no se afectan los intereses del demandante, no le compete a dicho Tribunal, o ya se ha dictado una sentencia sobre el mismo caso, entre otras causales.",
+  "resumen": "Este artículo establece las causas por las cuales un juicio ante el Tribunal es improcedente, incluyendo situaciones en las que no afecta los intereses del demandante, ya hay un consentimiento previo, o se esté manejando un recurso pendiente. También se mencionan resoluciones que no se pueden impugnar y qué sucede si hay vicios en el proceso.",
   "preguntas_ejemplo": [
-    "¿Cuándo no puedo demandar ante el Tribunal?",
-    "¿Qué actos no se pueden impugnar?",
+    "¿Cuáles son las razones por las que no puedo impugnar un acto administrativo?",
     "¿Qué significa que un juicio sea improcedente?",
-    "¿Hay excepciones para presentar un juicio?",
-    "¿Qué implican los vicios propios en un juicio?"
+    "¿En qué casos no puedo presentar un juicio ante el Tribunal?",
+    "¿Puedo impugnar una resolución administrativa si ya hay otro recurso vigente?",
+    "¿Qué pasa si he impugnado el mismo acto varias veces?"
   ]
 }

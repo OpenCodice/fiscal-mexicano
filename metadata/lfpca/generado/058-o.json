@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ea4a892407544ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Juicio en Línea",
   "temas": [
-    "horarios de presentación",
-    "presentación de promociones",
-    "acuses de recibo",
-    "días hábiles e inhábiles"
+    "promociones",
+    "Tribunal",
+    "Acuse de Recibo Electrónico",
+    "domicilio fiscal"
   ],
   "terminos_coloquiales": [
-    "juicio electrónico",
-    "presentar promociones online",
-    "horarios de juicios",
-    "acuso de recibo digital"
+    "Juicio en Línea",
+    "promover un juicio",
+    "presentar documentos",
+    "horarios de los tribunales"
   ],
-  "resumen": "El artículo establece que el Juicio en Línea está disponible las 24 horas cuando las oficinas están abiertas. Las promociones se considerarán presentadas en el día y hora que indique el acuse de recibo electrónico del sistema del Tribunal.",
+  "resumen": "El artículo establece que las promociones en el Juicio en Línea se consideran presentadas en la fecha y hora que indique el Acuse de Recibo Electrónico. También aclara cómo se manejan las presentaciones en días inhábiles.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo presentar una promoción en el Juicio en Línea?",
-    "¿Cómo sé si mi promoción fue aceptada?",
-    "¿Qué ocurre si presento mi promoción en un día inhábil?",
-    "¿Qué es el Acuse de Recibo Electrónico?"
+    "¿Cómo se presenta una promoción en el Juicio en Línea?",
+    "¿Qué se considera un día hábil para el Juicio en Línea?",
+    "¿Qué pasa si presento un documento en un día inhábil?",
+    "¿Cómo funciona el Acuse de Recibo Electrónico en el tribunal?",
+    "¿Dónde se considera que se presenta la promoción?"
   ]
 }

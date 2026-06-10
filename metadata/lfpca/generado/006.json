@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e7dcb181866490e7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Condenación en costas",
   "temas": [
-    "juicios",
-    "costas",
-    "gastos de juicio",
-    "resoluciones administrativas",
-    "indemnización",
+    "juicios administrativos",
+    "gastos judiciales",
+    "indemnizaciones",
     "falta grave",
-    "dilación",
-    "impugnación"
+    "dilación en cobros"
   ],
   "terminos_coloquiales": [
-    "pagos en juicios",
-    "gastos judiciales",
-    "indemnización por daños",
-    "costos de procesos",
-    "demandas y costas"
+    "gastos de juicio",
+    "costas",
+    "indemnización",
+    "demanda",
+    "autoridad demandada"
   ],
-  "resumen": "El artículo establece que en los juicios ante el Tribunal no se condenará a costas, a menos que se demuestren propósitos dilatorios de una parte. Además, se establece la obligación de indemnizar a quien haya sufrido daños por falta grave de la autoridad durante el proceso.",
+  "resumen": "El artículo establece que no habrá condenación en costas en juicios ante el Tribunal, salvo si hay acciones dilatorias por parte del demandante. También se menciona la indemnización que deberá pagar la autoridad si comete faltas graves al dictar resoluciones. Las partes deben hacerse cargo de sus propios gastos.",
   "preguntas_ejemplo": [
-    "¿Cuándo tengo que pagar costas en un juicio?",
-    "¿Qué pasa si la autoridad comete un error en su resolución?",
-    "¿Qué significa que se actúe con propósitos dilatorios?",
-    "¿Puedo reclamar gastos si gano un juicio?",
-    "¿Qué son las faltas graves de la autoridad en un juicio?"
+    "¿Tendré que pagar costas si pierdo un juicio administrativo?",
+    "¿Qué pasa si la autoridad demanda incurre en falta grave?",
+    "¿Cómo se determina si un juicio tiene propósitos dilatorios?",
+    "¿Puedo reclamar gastos si la autoridad se equivoca en su resolución?",
+    "¿Qué significa condenación en costas en un juicio?"
   ]
 }

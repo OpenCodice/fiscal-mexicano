@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa1b4890e6b86b9d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Copias certificadas",
+  "denominacion_comun": "Expedición de copias certificadas",
   "temas": [
     "pruebas",
+    "copias certificadas",
     "documentos",
     "autoridades",
-    "multas",
-    "omisión",
-    "diligencias extraordinarias"
+    "incumplimiento",
+    "medidas de apremio",
+    "multas"
   ],
   "terminos_coloquiales": [
-    "copias de documentos",
-    "certificaciones",
-    "qué hacer si no dan las copias",
-    "obligación de expedir copias",
-    "multas a funcionarios",
-    "ordenar documentos"
+    "copias",
+    "documentos oficiales",
+    "multas para funcionarios",
+    "omisión de documentos"
   ],
-  "resumen": "Las autoridades deben expedir copias certificadas de los documentos solicitados, previo pago de derechos. Si no lo hacen, se pueden presumir ciertos los hechos que intenta probar el demandante. Además, pueden enfrentar multas por omisión.",
+  "resumen": "Las autoridades deben expedir copias certificadas de documentos solicitados para pruebas, previo pago de derechos. Si no lo hacen sin justificación, se presumirán ciertos los hechos que el solicitante intenta probar. El Magistrado Instructor puede imponer multas a los funcionarios omisos y permitir un plazo adicional si las copias no se pueden obtener normalmente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si la autoridad no me da las copias de mis documentos?",
-    "¿Cómo puedo exigir que me den copias certificadas?",
-    "¿Qué medidas se pueden tomar si no me entregan los documentos?",
-    "¿Qué multas enfrentan los funcionarios si no cumplen con su obligación?",
-    "¿Qué hago si se requieren diligencias adicionales para obtener copias?"
+    "¿Qué hacer si la autoridad no me da las copias de documentos solicitados?",
+    "¿Qué pasa si no se expiden las copias certificadas de documentos para mi caso?",
+    "¿Cómo se imponen multas a funcionarios que no cumplen con la entrega de documentos?",
+    "¿Puedo solicitar más tiempo si no me dan las copias que necesito?",
+    "¿Qué se considera una omisión justificada en la entrega de documentos?"
   ]
 }

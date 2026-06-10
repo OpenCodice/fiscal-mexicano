@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2eec950749a9912",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Excitativa de justicia",
+  "denominacion_comun": "Excitativa de Justicia",
   "temas": [
-    "Plazos de informes",
-    "Sustitución de magistrados",
-    "Sentencias",
-    "Cumplimiento de sentencia",
-    "Tribunal Federal de Justicia Fiscal y Administrativa"
+    "proceso judicial",
+    "sustitución de magistrados",
+    "cumplimiento de sentencia",
+    "plazos de resolución"
   ],
   "terminos_coloquiales": [
-    "qué hacer si un magistrado no responde",
-    "exceso de tiempo en juicio",
-    "cambio de magistrado",
-    "plazo para sentencia"
+    "reclamo judicial",
+    "plazo para sentencia",
+    "cambio de magistrados"
   ],
-  "resumen": "El artículo establece procedimientos para que el Presidente del Tribunal solicite informes y otorgue plazos en caso de que los magistrados no cumplan con sus obligaciones. Si un magistrado es sustituido varias veces, se informará al Presidente de la República.",
+  "resumen": "El artículo regula el procedimiento a seguir cuando se presenta una excitativa de justicia, estableciendo plazos para la presentación de informes y la posible sustitución de magistrados que no cumplan con sus obligaciones. También se contempla el manejo de casos donde no se dicte sentencia a pesar de tener un proyecto listo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un magistrado no rinde un informe a tiempo?",
-    "¿Cuánto tiempo tiene un magistrado para cumplir con su obligación?",
-    "¿Qué sucede si un magistrado no dicta sentencia a tiempo?",
-    "¿Puede un magistrado ser cambiado por incumplimiento?",
-    "¿A quién se informa si un magistrado falta dos veces?"
+    "¿Qué es una excitativa de justicia?",
+    "¿Qué pasa si un magistrado no cumple con su sentencia?",
+    "¿Cuáles son los plazos para la respuesta a una excitativa?",
+    "¿Se puede cambiar a un magistrado si no dicta sentencia a tiempo?",
+    "¿Cómo se procede si la excitativa se presenta por falta de sentencia?"
   ]
 }

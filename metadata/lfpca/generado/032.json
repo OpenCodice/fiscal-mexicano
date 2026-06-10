@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:807eb62e5454004c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acumulación de juicios",
   "temas": [
     "juicios",
-    "demandas",
+    "demanda",
     "Magistrado Instructor",
-    "autos del juicio",
-    "resolución",
+    "resoluciones judiciales",
     "plazos",
     "trámite de oficio"
   ],
   "terminos_coloquiales": [
-    "juntar juicios",
-    "cómo acumular juicios",
-    "hacer un juicio conjunto",
-    "magistrado de juicio",
-    "plazos para juicios"
+    "acumulación de juicios",
+    "juicios acumulados",
+    "Magistrado",
+    "plazos de respuesta"
   ],
-  "resumen": "El artículo establece que la acumulación de juicios se solicita ante el magistrado que conoce el primer juicio, y se deben enviar los documentos dentro de un plazo específico. El magistrado tiene un tiempo determinado para elaborar un proyecto de resolución que se deberá presentar a la Sala correspondiente.",
+  "resumen": "Este artículo establece el procedimiento para solicitar la acumulación de juicios. La solicitud debe hacerse ante el Magistrado que conozca del primer juicio, quien tiene plazos específicos para resolver.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo juntar dos demandas?",
-    "¿Quién se encarga de la acumulación de juicios?",
-    "¿Qué plazos hay para solicitar la acumulación?",
-    "¿Qué es un proyecto de resolución?",
-    "¿Se puede acumular un juicio de oficio?"
+    "¿Cómo se solicita la acumulación de juicios?",
+    "¿Qué plazos tiene el Magistrado para resolver la acumulación?",
+    "¿Qué sucede si se solicita la acumulación de un juicio?",
+    "¿Puede el juicio acumularse de oficio?",
+    "¿Quién es el Magistrado Instructor en un juicio?"
   ]
 }

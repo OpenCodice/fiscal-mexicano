@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c94c0d07d8045e87",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones en juicios fiscales",
+  "denominacion_comun": "Notificaciones en juicios",
   "temas": [
-    "notificaciones personales",
+    "notificaciones",
+    "juicios",
+    "resoluciones",
+    "testigos",
     "correo certificado",
-    "juicio de lesividad",
-    "citación de testigos",
-    "Boletín Jurisdiccional",
-    "dirección de correo electrónico",
-    "Magistrado Instructor"
+    "Boletín Jurisdiccional"
   ],
   "terminos_coloquiales": [
-    "cómo se notifican los juicios",
-    "notificación por correo",
-    "avisos en juicios fiscales",
-    "citación a testigos"
+    "notificaciones",
+    "avisos judiciales",
+    "correo certificado",
+    "testigos",
+    "juicio de lesividad"
   ],
-  "resumen": "Este artículo establece las formas en que se deben realizar las notificaciones en determinados juicios, como las personales o a través de correo certificado. También menciona que en otros casos, se usarán publicaciones en el Boletín Jurisdiccional.",
+  "resumen": "Este artículo establece cómo deben realizarse las notificaciones en juicios, indicando que se deben hacer personalmente o por correo certificado en ciertos casos. También se menciona que en otros casos las notificaciones se harán a través del Boletín Jurisdiccional.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan las notificaciones en un juicio fiscal?",
+    "¿Cómo se notifican las resoluciones en un juicio?",
+    "¿Qué tipo de notificaciones son válidas en juicios?",
+    "¿Qué debo hacer si no puedo presentar a un testigo en el juicio?",
     "¿Qué es el Boletín Jurisdiccional?",
-    "¿Cuándo se notifica a un testigo en un juicio?",
-    "¿Qué pasa si no doy mi correo electrónico en un juicio?",
-    "¿Puede el juez decidir la forma de notificación?"
+    "¿Se pueden hacer notificaciones por correo electrónico en un juicio?"
   ]
 }

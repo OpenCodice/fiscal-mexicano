@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23d35c3c9802e397",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sentencias del Tribunal Federal de Justicia Fiscal",
+  "denominacion_comun": "Sentencias del Tribunal Fiscal",
   "temas": [
-    "sentencias",
+    "relación de causalidad",
     "indemnización",
-    "causalidad",
-    "lesión patrimonial",
-    "criterios de cuantificación"
+    "daño",
+    "valoración del daño",
+    "criterios de cuantificación",
+    "concurrencia"
   ],
   "terminos_coloquiales": [
-    "cómo se determinan las sentencias fiscales",
-    "indemnización por daño patrimonial",
-    "daño causado por el Estado",
-    "criterios para la indemnización"
+    "demandas al Estado",
+    "responsabilidad patrimonial",
+    "indemnización",
+    "sentencias del TFJFA"
   ],
-  "resumen": "Este artículo establece los requisitos mínimos que deben tener las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa relacionadas con las demandas de responsabilidad patrimonial del Estado, incluyendo la relación de causalidad y la forma de calcular la indemnización.",
+  "resumen": "Este artículo establece que las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa deben incluir elementos mínimos, como la relación entre la actividad del Estado y el daño causado, la cuantificación de la indemnización y los criterios de impugnación en casos de concurrencia.",
   "preguntas_ejemplo": [
-    "¿Qué tiene que incluir una sentencia del Tribunal Federal de Justicia Fiscal?",
-    "¿Cómo se calcula la indemnización por daño patrimonial?",
-    "¿Qué relación debe existir entre la actividad administrativa y el daño?",
-    "¿Qué criterios se utilizan para determinar la indemnización en un caso particular?"
+    "¿Qué elementos debe incluir una sentencia del Tribunal Fiscal?",
+    "¿Cómo se determina el monto de una indemnización?",
+    "¿Qué es la responsabilidad patrimonial del Estado?",
+    "¿Qué criterios usa el Tribunal para valorar el daño?",
+    "¿Qué pasa si hay concurrencia en las demandas?"
   ]
 }

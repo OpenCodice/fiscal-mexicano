@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa1e615fa54e3dea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Nulidad de notificaciones",
@@ -13,21 +14,21 @@
     "notificaciones",
     "nulidad",
     "pruebas",
-    "resoluciones",
-    "multas"
+    "multas",
+    "actuario"
   ],
   "terminos_coloquiales": [
-    "notificación inválida",
-    "cómo anular una notificación",
-    "multas por notificaciones",
-    "qué hacer si me notifican mal"
+    "anular notificaciones",
+    "hacer nulidad",
+    "notificación equivocada",
+    "multa al notificador"
   ],
-  "resumen": "Si una notificación no se hace correctamente, puede ser declarada nula. La persona afectada tiene un plazo para solicitar esta nulidad y presentar pruebas. Si se acepta la solicitud, se dará oportunidad a las otras partes para que se pronuncien antes de tomar una decisión.",
+  "resumen": "Este artículo establece que las notificaciones que no se hagan de acuerdo con la ley son nulas. La persona afectada puede solicitar la nulidad y presentar pruebas. Si se declara la nulidad, se debe reponer la notificación y se puede imponer una multa al actuario responsable.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me notifican de manera incorrecta?",
-    "¿Cómo puedo anular una notificación que consideran inválida?",
-    "¿Qué debo hacer si me dicen que la notificación que recibí es nula?",
+    "¿Qué hago si me notifiqué de manera incorrecta?",
+    "¿Cómo puedo anular una notificación?",
+    "¿Qué sanciones hay para un actuario que notifica mal?",
     "¿Cuánto tiempo tengo para pedir la nulidad de una notificación?",
-    "¿Qué consecuencias tiene una notificación nula?"
+    "¿Qué tipo de pruebas debo presentar para solicitar la nulidad?"
   ]
 }

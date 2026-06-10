@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1df23156d244dff2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de resoluciones administrativas",
+  "denominacion_comun": "Impugnación de resoluciones administrativas",
   "temas": [
-    "impugnación",
-    "resolución administrativa",
-    "notificación",
-    "juicio contencioso administrativo"
+    "notificación de resoluciones",
+    "juicio contencioso administrativo",
+    "conceptos de impugnación",
+    "resoluciones ilegales",
+    "notificación ilegal",
+    "fecha de conocimiento"
   ],
   "terminos_coloquiales": [
-    "cómo se notifica una resolución",
-    "impugnar una resolución",
-    "cuándo se considera notificada",
-    "plazos para impugnación"
+    "impugnación administrativa",
+    "notificación de la resolución",
+    "recurso administrativo",
+    "juicio contencioso",
+    "contestación de la demanda"
   ],
-  "resumen": "Este artículo establece las reglas para impugnar la notificación de resoluciones administrativas en un juicio contencioso administrativo. Se detalla cómo debe proceder el demandante al alegar desconocimiento de la resolución o los problemas con su notificación.",
+  "resumen": "Este artículo establece las reglas para impugnar resoluciones administrativas en el juicio contencioso administrativo federal, especialmente en lo relacionado con la notificación de dichas resoluciones y los procedimientos que deben seguirse. Si la notificación es considerada ilegal, el actor puede combatir la resolución y sus efectos quedan sin validez.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si no me notificaron una resolución?",
-    "¿Cómo puedo impugnar una resolución administrativa?",
-    "¿Qué sucede si la notificación fue ilegal?",
-    "¿Qué plazo tengo para impugnar una resolución que conozco?",
-    "¿Qué pasa si presenté mi demanda tarde?"
+    "¿Qué hacer si no me notificaron una resolución administrativa?",
+    "¿Cómo impugnar una resolución si creo que la notificación fue ilegal?",
+    "¿Qué sucede si presento la demanda después de la fecha de notificación?",
+    "¿Qué se considera una notificación válida en un juicio contencioso administrativo?",
+    "¿Qué son los conceptos de impugnación en un juicio administrativo?"
   ]
 }

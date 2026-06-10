@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de218660508e2d27",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Juicio Contencioso Administrativo Federal",
@@ -13,22 +14,23 @@
     "juicio contencioso",
     "resoluciones administrativas",
     "actos administrativos",
-    "Decretos y Acuerdos",
-    "autoridades administrativas"
+    "Decretos",
+    "Acuerdos",
+    "Administración Pública Federal"
   ],
   "terminos_coloquiales": [
-    "juicio en contra de la administración",
-    "pelear decisiones de la autoridad",
-    "impugnar resoluciones",
-    "recursos administrativos",
-    "contestar actos de la administración"
+    "pleito administrativo",
+    "juicio contra el gobierno",
+    "revisión de decisiones",
+    "impugnación de resoluciones",
+    "reclamo administrativo"
   ],
-  "resumen": "El juicio contencioso administrativo federal permite impugnar resoluciones de la administración pública que son definitivas. También se puede usar para cuestionar decisiones generales que sean autoaplicativas o que se discutan junto con el primer acto de aplicación.",
+  "resumen": "El juicio contencioso administrativo federal permite impugnar resoluciones administrativas definitivas y ciertos actos administrativos. También permite a las autoridades revisar resoluciones favorables a particulares si consideran que son ilegales.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si no estoy de acuerdo con una resolución de la autoridad?",
-    "¿Cómo se impugna un acuerdo de la administración pública?",
-    "¿Qué actos administrativos se pueden cuestionar?",
-    "¿Las autoridades pueden impugnar resoluciones favorables a particulares?",
-    "¿Qué es un juicio contencioso administrativo?"
+    "¿Qué es un juicio contencioso administrativo?",
+    "¿Cómo puedo impugnar una resolución administrativa?",
+    "¿Qué actos administrativos se pueden recurrir?",
+    "¿Puedo demandar al gobierno por una decisión administrativa?",
+    "¿Qué acciones tiene la Administración Pública Federal respecto a resoluciones favorables?"
   ]
 }

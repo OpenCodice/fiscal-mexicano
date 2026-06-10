@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ceca4683738f49cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Demanda ante la Sala Regional",
+  "denominacion_comun": "Demanda fiscal",
   "temas": [
-    "Requisitos de la demanda",
-    "Datos del demandante",
-    "Resolución impugnada",
-    "Autoridades demandadas",
-    "Pruebas ofrecidas",
-    "Conceptos de impugnación",
-    "Domicilio del tercero interesado",
-    "Plazo para corregir demandas"
+    "requisitos de la demanda",
+    "autoridades demandadas",
+    "pruebas en juicio",
+    "conceptos de impugnación",
+    "expediente administrativo",
+    "representación común"
   ],
   "terminos_coloquiales": [
-    "cómo hacer una demanda",
-    "requisitos para demandar",
-    "datos necesarios para la demanda",
-    "proceso de impugnación",
-    "documentación para juicio"
+    "demanda",
+    "demandante",
+    "juicio",
+    "pruebas",
+    "resolución impugnada",
+    "tercero interesado",
+    "correo electrónico"
   ],
-  "resumen": "El artículo establece los elementos que debe contener una demanda, como el nombre y domicilio del demandante, la resolución que se impugna y las pruebas que se presentarán. También especifica qué hacer si falta información importante en la demanda.",
+  "resumen": "Este artículo establece los requisitos que debe cumplir una demanda en el ámbito fiscal, incluyendo la información que debe proporcionar el demandante, los hechos que dan origen a la demanda, y las pruebas que se presenten. Además, señala cómo se debe tramitar el juicio en función de la complejidad de los casos.",
   "preguntas_ejemplo": [
-    "¿Qué datos necesito para presentar una demanda?",
-    "¿Qué pasa si olvido incluir mi correo electrónico en la demanda?",
-    "¿Cuáles son las pruebas que puedo ofrecer en un juicio?",
-    "¿Qué sucede si hay más de un demandante?",
-    "¿Qué hacer si falta información en la demanda?"
+    "¿Qué información debo incluir en mi demanda fiscal?",
+    "¿Cuáles son los requisitos para presentar una demanda?",
+    "¿Qué pasa si omito datos importantes en mi demanda?",
+    "¿Cómo puedo presentar pruebas en mi juicio?",
+    "¿Qué es un expediente administrativo en este contexto?"
   ]
 }

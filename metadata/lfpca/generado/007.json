@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:443e1543f436153f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Responsabilidad de los miembros del Tribunal",
@@ -13,19 +14,23 @@
     "responsabilidad",
     "juicio",
     "resoluciones jurisdiccionales",
-    "información confidencial"
+    "información confidencial",
+    "notificación",
+    "transparencia"
   ],
   "terminos_coloquiales": [
-    "qué puede hacer un juez",
-    "obligaciones de los jueces",
-    "responsabilidad de los tribunales",
-    "juicios y sus reglas"
+    "responsabilidad de los jueces",
+    "juicio",
+    "sentencias",
+    "información del caso",
+    "confidencialidad"
   ],
-  "resumen": "Los miembros del Tribunal son responsables si hablan de los casos fuera de los momentos permitidos, informan a personas no autorizadas sobre el contenido de las resoluciones antes de ser notificadas, o revelan información confidencial.",
+  "resumen": "Los miembros del Tribunal son responsables si hacen juicios fuera de lo permitido, comparten información no autorizada sobre resoluciones o estados de juicio, o revelan datos confidenciales. Estas reglas aseguran la privacidad y la transparencia de los procesos judiciales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un juez habla de un caso antes de que se resuelva?",
-    "¿Cuándo pueden los jueces compartir información sobre un juicio?",
-    "¿Qué es información confidencial en un tribunal?",
-    "¿Qué reglas hay para los miembros del Tribunal sobre el manejo de información?"
+    "¿Qué pasa si un juez habla sobre un caso antes de que se resuelva?",
+    "¿Pueden los miembros del Tribunal compartir detalles de una sentencia?",
+    "¿Qué información es confidencial en un juicio?",
+    "¿Hay sanciones por filtrar información de un juicio?",
+    "¿Quiénes pueden recibir información sobre un proceso judicial?"
   ]
 }

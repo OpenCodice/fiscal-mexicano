@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:57ae0bb3e25a2517",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pruebas en el Expediente Electrónico",
+  "denominacion_comun": "Pruebas electrónicas",
   "temas": [
-    "pruebas documentales",
+    "pruebas en juicio",
     "Expediente Electrónico",
-    "certificación de cotejo",
+    "digitalización de documentos",
+    "certificación de cotejos",
     "resguardo de originales",
-    "ofrecimiento de pruebas"
+    "Sistema de Justicia en Línea"
   ],
   "terminos_coloquiales": [
     "pruebas electrónicas",
     "documentos digitales",
-    "ofrecimiento de pruebas",
-    "resguardo de documentos"
+    "expediente digital",
+    "justicia en línea"
   ],
-  "resumen": "Se establece cómo deben integrarse y ofrecerse las pruebas documentales en un expediente electrónico, además de las responsabilidades del Secretario de Acuerdos en este proceso. También se indican los pasos para la certificación y el resguardo de las pruebas originales.",
+  "resumen": "El artículo establece que las pruebas diversas a las documentales deben ser integradas al Expediente Electrónico y digitalizadas. También se indica que deben presentarse junto con la demanda y registrarse electrónicamente en el Tribunal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se presentan las pruebas documentales electrónicamente?",
-    "¿Qué hace el Secretario de Acuerdos con las pruebas?",
-    "¿Cómo se garantiza el resguardo de documentos originales?",
-    "¿Dónde se integran las pruebas en un caso legal?",
-    "¿Qué se necesita para ofrecer pruebas en un juicio?"
+    "¿Cómo se presentan las pruebas digitales en un juicio?",
+    "¿Qué es un Expediente Electrónico?",
+    "¿Cómo se certifican las pruebas en el Tribunal?",
+    "¿Qué debo hacer con los originales de las pruebas?",
+    "¿Cómo registro mis pruebas en el Sistema de Justicia en Línea?"
   ]
 }

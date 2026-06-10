@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2cb3a76744e263d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contradicción de sentencias",
+  "denominacion_comun": "Contradicción de Sentencias",
   "temas": [
     "jurisprudencia",
-    "magistrados",
-    "tribunales",
     "sentencias",
-    "juicios"
+    "juicios",
+    "Magistrados",
+    "decisiones del Tribunal"
   ],
   "terminos_coloquiales": [
-    "conflicto de sentencias",
-    "sentencias contradictorias",
-    "decisión de magistrados",
-    "jurisprudencia del tribunal"
+    "no estoy de acuerdo con una sentencia",
+    "en qué casos se puede apelar",
+    "decisión del Tribunal",
+    "jurisprudencia",
+    "sentencias contradictorias"
   ],
-  "resumen": "Este artículo establece cómo se pueden denunciar contradicciones entre sentencias en el tribunal. El Presidente del Tribunal informará al Pleno, quien decidirá cuál sentencia debe prevalecer y esto servirá para crear jurisprudencia.",
+  "resumen": "Este artículo establece que, en caso de contradicción entre sentencias, cualquier Magistrado o parte en el juicio puede informar al Presidente del Tribunal para que se decida cuál sentencia debe prevalecer. La decisión del Pleno fijará jurisprudencia, sin afectar las resoluciones de los juicios actuales.",
   "preguntas_ejemplo": [
-    "¿Qué hago si hay sentencias contradictorias?",
-    "¿Cómo se resuelven conflictos entre resoluciones de un tribunal?",
-    "¿Qué significa que un caso establezca jurisprudencia?",
-    "¿Quién decide cuál sentencia es la correcta?",
-    "¿Las decisiones del Pleno afectan juicios anteriores?"
+    "¿Qué hacer si hay sentencias contradictorias?",
+    "¿Cómo se resuelven las contradicciones en las sentencias?",
+    "¿Qué significa que una sentencia sea jurisprudencia?",
+    "¿Quién puede denunciar contradicciones ante el Tribunal?",
+    "¿Cuál es el papel del Presidente del Tribunal en estas situaciones?",
+    "¿Qué efectos tiene la decisión del Pleno del Tribunal?"
   ]
 }

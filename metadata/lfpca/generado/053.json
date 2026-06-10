@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfacf5a394490cd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sentencias Firmes",
+  "denominacion_comun": "Sentencia firme",
   "temas": [
-    "sentencias",
-    "recursos",
-    "juicios",
-    "fallos",
-    "cumplimiento"
+    "sentencia",
+    "recurso",
+    "juicio",
+    "plazos de cumplimiento"
   ],
   "terminos_coloquiales": [
-    "sentencia definitiva",
     "sentencia firme",
-    "cuando una sentencia se vuelve final",
-    "cómo se impugna una sentencia"
+    "recurso",
+    "juicio",
+    "plazos",
+    "sentencias"
   ],
-  "resumen": "Una sentencia se considera firme cuando no se puede apelar o si fue impugnada y no tuvo éxito. A partir de la firmeza de la sentencia, comienzan a contarse los plazos para cumplir con lo ordenado por la misma.",
+  "resumen": "Una sentencia se considera firme cuando no puede ser impugnada, si se impugnó y fue desechada o sobreseída, o si fue consentida por las partes. A partir de su firmeza, inician los plazos para el cumplimiento de las sentencias.",
   "preguntas_ejemplo": [
-    "¿Cuándo una sentencia se considera definitiva?",
-    "¿Qué pasa si impugno una sentencia?",
-    "¿Cómo se cuentan los plazos después de una sentencia firme?",
-    "¿Qué significa que una sentencia haya causado ejecutoria?",
-    "¿Puedo apelar una sentencia que ya es firme?"
+    "¿Cuándo una sentencia se vuelve firme?",
+    "¿Qué significa que una sentencia sea consentida?",
+    "¿Qué plazos hay para cumplir con una sentencia firme?",
+    "¿Qué pasa si se interpone un recurso contra una sentencia?",
+    "¿Una sentencia firme siempre se puede impugnar?"
   ]
 }

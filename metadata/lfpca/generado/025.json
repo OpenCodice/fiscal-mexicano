@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64d506276a335b40",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medidas Cautelares",
   "temas": [
-    "incidentes",
-    "actos administrativos",
-    "informes",
-    "resoluciones",
-    "garantías"
+    "incidente de petición",
+    "acuerdo",
+    "traslado",
+    "informe",
+    "resolución",
+    "garantía"
   ],
   "terminos_coloquiales": [
-    "medidas preventivas",
-    "temporalidades",
-    "decisiones rápidas",
-    "resoluciones de emergencia"
+    "medidas cautelares",
+    "acuerdo de medidas cautelares",
+    "incidente",
+    "traslado de informe"
   ],
-  "resumen": "Este artículo establece que las medidas cautelares deben ser decididas rápidamente y que si no se presentan informes adecuados, los hechos se consideran ciertos. Además, permite la modificación de estas medidas si ocurren nuevos hechos relevantes.",
+  "resumen": "El artículo establece el procedimiento para la emisión de un acuerdo que admita medidas cautelares. Si no se rinde un informe o si no se refiere a los hechos imputados, estos se consideran ciertos. El magistrado deberá resolver sobre las medidas cautelares solicitadas dentro de un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tiene el juez para decidir sobre las medidas cautelares?",
-    "¿Qué pasa si no se presenta un informe sobre el incidente?",
-    "¿Se pueden cambiar las medidas cautelares después de su aprobación?",
-    "¿Qué ocurre si no se otorga la garantía requerida para las medidas cautelares?"
+    "¿Qué son las medidas cautelares?",
+    "¿Cómo se solicita un incidente de medidas cautelares?",
+    "¿Qué pasa si no se presenta el informe solicitado en un incidente?",
+    "¿Cuánto tiempo tiene el magistrado para decidir sobre las medidas cautelares?",
+    "¿Puedo modificar las medidas cautelares una vez solicitadas?"
   ]
 }

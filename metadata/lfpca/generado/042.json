@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b071e16567623c95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presunción de legalidad",
+  "denominacion_comun": "Presunción de legalidad de actos administrativos",
   "temas": [
     "resoluciones administrativas",
     "actos administrativos",
     "presunción de legalidad",
-    "prueba de hechos"
+    "prueba de hechos",
+    "negativa de hechos"
   ],
   "terminos_coloquiales": [
     "actos legales",
-    "resoluciones legales",
-    "formas de probar",
-    "negativa de actos"
+    "resoluciones",
+    "presunción",
+    "negación de resoluciones"
   ],
-  "resumen": "Las resoluciones y actos administrativos se consideran legales a menos que se demuestre lo contrario. Si alguien niega un acto administrativo, la autoridad debe probar los hechos que respaldan su decisión.",
+  "resumen": "Las resoluciones y actos administrativos se consideran legales, pero si alguien los niega de manera clara, las autoridades deben demostrar los hechos que justifican esas resoluciones, a menos que la negación implique que se afirme otro hecho.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si niego un acto administrativo?",
-    "¿Las resoluciones administrativas son siempre legales?",
-    "¿Quién debe comprobar los hechos en un acto administrativo?",
-    "¿Se puede desafiar una resolución administrativa?",
-    "¿Qué significa la presunción de legalidad?",
-    "¿Qué se necesita para probar un acto administrativo?"
+    "¿Qué pasa si niego una resolución administrativa?",
+    "¿Las autoridades tienen que probar los hechos detrás de sus decisiones?",
+    "¿Qué es la presunción de legalidad en actos administrativos?",
+    "¿Qué debo hacer si no estoy de acuerdo con una resolución?",
+    "¿Puede una autoridad hacer valer una resolución sin probar hechos?"
   ]
 }

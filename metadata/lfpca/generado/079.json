@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4577d40a8423b477",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Jurisprudencia del Tribunal",
   "temas": [
     "jurisprudencia",
-    "Tribunal",
     "sentencias",
-    "Magistrados",
-    "sanciones administrativas"
+    "sanciones administrativas",
+    "Tribunal",
+    "Poder Judicial Federal"
   ],
   "terminos_coloquiales": [
-    "decisiones del Tribunal",
-    "sentencias de los Magistrados",
-    "aplicar la jurisprudencia",
-    "jurisprudencia contraria"
+    "sentencias del Tribunal",
+    "jurisprudencia",
+    "sanciones para magistrados"
   ],
-  "resumen": "Las Salas del Tribunal deben seguir la jurisprudencia del mismo, a menos que contradiga la del Poder Judicial Federal. Si se detecta que se emitió una sentencia que infringe esta norma, se llevará a cabo un informe y posibles sanciones a los responsables.",
+  "resumen": "El artículo establece que las Salas del Tribunal deben seguir la jurisprudencia del Tribunal, a menos que contradiga la del Poder Judicial Federal. Si se descubre que una Sala ha dictado una sentencia en contravención, se procederá a un informe y se podrán imponer sanciones a los magistrados involucrados en caso de reincidencia.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una Sala del Tribunal emite una sentencia incorrecta?",
-    "¿Quién se encarga de verificar el cumplimiento de la jurisprudencia?",
-    "¿Qué sanciones pueden aplicarse a los Magistrados por contradecir la jurisprudencia?",
-    "¿Qué es la jurisprudencia del Tribunal?",
-    "¿Cómo se aplican las leyes en el Tribunal?"
+    "¿Las Salas del Tribunal deben seguir la jurisprudencia?",
+    "¿Qué pasa si una Sala contraviene la jurisprudencia?",
+    "¿Se pueden sancionar a los magistrados por incumplimiento?",
+    "¿Cómo se notifica un incumplimiento de jurisprudencia?",
+    "¿Qué es la jurisprudencia del Tribunal?"
   ]
 }

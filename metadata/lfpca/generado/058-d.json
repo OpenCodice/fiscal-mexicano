@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f376e03108a2cdd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Expediente Electrónico en Juicios en Línea",
   "temas": [
     "Sistema de Justicia en Línea",
     "Expediente Electrónico",
-    "Pruebas Testimoniales",
-    "Videoconferencia",
-    "Seguridad del Expediente"
+    "Juicios en línea",
+    "Pruebas testimoniales",
+    "Videoconferencia"
   ],
   "terminos_coloquiales": [
     "juicios en línea",
-    "expediente digital",
-    "pruebas por video",
-    "justicia en línea",
-    "audiencias electrónicas"
+    "expediente electrónico",
+    "pruebas en videoconferencia"
   ],
-  "resumen": "El artículo describe cómo se integrará un expediente electrónico en el Sistema de Justicia en Línea, que contendrá todas las pruebas y documentos relacionados con un juicio en línea. También menciona que las pruebas testimoniales podrán presentarse por videoconferencia cuando sea posible.",
+  "resumen": "Establece que en los juicios en línea se integrará un expediente electrónico que contendrá todas las pruebas y actuaciones del juicio, asegurando su seguridad y autenticidad. Además, permite que se desahoguen pruebas testimoniales mediante videoconferencia cuando sea posible.",
   "preguntas_ejemplo": [
-    "¿Qué es el expediente electrónico en juicios en línea?",
-    "¿Cómo se presentan las pruebas en los juicios en línea?",
-    "¿Se pueden hacer audiencias por videoconferencia?",
-    "¿Qué contiene el expediente electrónico?",
-    "¿Cómo se asegura la integridad del expediente en línea?"
+    "¿Qué es un expediente electrónico en juicios en línea?",
+    "¿Cómo se presentan las pruebas en un juicio en línea?",
+    "¿Se pueden hacer audiencias por videoconferencia en juicios en línea?",
+    "¿Qué información contiene el expediente electrónico?",
+    "¿Cómo garantiza el Tribunal la seguridad del expediente electrónico?"
   ]
 }

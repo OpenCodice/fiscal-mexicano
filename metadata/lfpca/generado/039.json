@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:31d124c28a00ae81",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión de juicio por incidentes",
+  "denominacion_comun": "Incidentales en juicios",
   "temas": [
-    "suscripción de juicio",
-    "incidentes",
-    "pruebas",
-    "traslados",
-    "normas procesales"
+    "suspensión de juicios",
+    "promoción de incidentes",
+    "trámite de procesos",
+    "pruebas en juicio"
   ],
   "terminos_coloquiales": [
-    "qué pasa con el juicio si hay un incidente",
-    "cómo se suspenden los juicios",
-    "trámites de incidentes en juicios",
-    "proceso de incidentes",
-    "presentación de pruebas en incidentes"
+    "incidentes en juicios",
+    "suspensión de juicio",
+    "trámite de incidentes",
+    "pruebas en juicio"
   ],
-  "resumen": "Cuando se presentan incidentes en un juicio, este se suspende hasta que se resuelva el incidente. Existen reglas específicas sobre cómo se tratan las pruebas y los documentos relacionados con estos incidentes.",
+  "resumen": "Este artículo establece que cuando se promueva un incidente, se suspenderá el juicio principal hasta que se resuelva el incidente. También menciona que hay plazos y reglas para la promoción de pruebas en estos incidentes.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si surge un incidente en mi juicio?",
-    "¿Cómo puedo presentar un incidente en un juicio?",
-    "¿Qué pasa con las pruebas cuando hay un incidente?",
-    "¿Hasta cuándo puedo promover un incidente?",
-    "¿Cuánto tiempo tengo para presentar documentos relacionados con un incidente?"
+    "¿Qué pasa si se promueve un incidente durante un juicio?",
+    "¿Cuánto tiempo se tiene para presentar pruebas en un incidente?",
+    "¿Los incidentes suspenden el juicio principal?",
+    "¿Cuáles son las reglas para substanciar incidentes en juicio?"
   ]
 }

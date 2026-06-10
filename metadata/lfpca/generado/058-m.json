@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d71389699ab0a0d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Juicios y traslados",
+  "denominacion_comun": "Juicios en línea",
   "temas": [
-    "juicios",
     "traslados",
-    "terceros interesados",
+    "tercero interesado",
+    "juicio en línea",
     "digitalización de documentos",
-    "instrucción del juicio",
-    "expediente",
-    "correo electrónico"
+    "expediente tradicional"
   ],
   "terminos_coloquiales": [
-    "cómo funcionan los juicios",
-    "traslados en juicios",
-    "tercero interesado en juicio",
-    "judicialización en línea",
-    "documentos digitales en juicios"
+    "juicio en línea",
+    "juicio digital",
+    "traslados",
+    "copia de traslado"
   ],
-  "resumen": "Este artículo regula cómo se manejan los juicios en un contexto digital, especificando que no es necesario presentar copias para ciertos traslados, excepto si hay un tercero interesado. También establece cómo deben proceder en casos de oposición y asegura el manejo adecuado de la documentación.",
+  "resumen": "El artículo establece que en juicios específicos no se requieren copias para los traslados, a menos que haya un tercero interesado. Este tercero puede optar por continuar su participación en el juicio de forma digital, proporcionando su correo electrónico para ello.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si hay un tercero interesado en un juicio?",
-    "¿Cómo se hacen los traslados en un juicio digital?",
-    "¿Es necesario presentar copias de documentos en juicios?",
-    "¿Qué debo hacer si me opongo a un juicio en línea?",
-    "¿Cómo se integran los documentos digitales al expediente?"
+    "¿Necesito presentar copias para el traslado en juicios?",
+    "¿Cómo se maneja la participación de un tercero interesado en un juicio?",
+    "¿Puedo continuar mi juicio de manera digital?",
+    "¿Qué sucede si el tercero interesado no quiere un juicio en línea?",
+    "¿Cómo se integran los documentos en un juicio tradicional?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7af67cec3d9c3e21",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sobreseimiento",
+  "denominacion_comun": "Sobreseimiento de juicio",
   "temas": [
     "desistimiento",
     "improcedencia",
     "muerte del demandante",
     "acto impugnado",
     "juicio sin materia",
-    "impedimentos legales"
+    "impedimentos legales",
+    "sobreseimiento total",
+    "sobreseimiento parcial"
   ],
   "terminos_coloquiales": [
-    "fin del juicio",
-    "cerrar el caso",
-    "detener proceso",
-    "juicio cancelado"
+    "terminar un juicio",
+    "dar por concluido un juicio",
+    "cancelar un juicio",
+    "suspender un juicio"
   ],
-  "resumen": "El artículo establece las circunstancias bajo las cuales se puede dar el sobreseimiento de un juicio, es decir, cuándo se puede cerrar o detener un proceso legal. Esto incluye situaciones como la renuncia del demandante o si surgen impedimentos legales durante el juicio.",
+  "resumen": "El artículo establece las circunstancias bajo las cuales puede llevarse a cabo el sobreseimiento de un juicio. Esto incluye el desistimiento del demandante, causas de improcedencia, la muerte del demandante y situaciones en las que la autoridad demandada actúa.",
   "preguntas_ejemplo": [
-    "¿Cuándo se puede cerrar un juicio?",
-    "¿Qué pasa si muere el demandante?",
-    "¿Qué significa desistirse en un juicio?",
-    "¿Cuáles son las causas para que un juicio se declare sin materia?",
-    "¿Qué ocurre si la autoridad cancela la resolución impugnada?"
+    "¿Cuándo puedo desistirme de un juicio?",
+    "¿Qué pasa si muero durante un juicio?",
+    "¿Qué significa que un juicio quede sin materia?",
+    "¿Cuáles son las causas de improcedencia en un juicio?",
+    "¿Se puede cancelar un juicio si la autoridad cambia su decisión?"
   ]
 }

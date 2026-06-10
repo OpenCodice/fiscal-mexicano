@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1ebdfa74abfebff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Amparo directo",
+  "denominacion_comun": "Amparo Directo",
   "temas": [
-    "recursos de revisión",
+    "recursos legales",
+    "resolución de amparos",
     "sentencias impugnadas",
-    "Tribunal Colegiado",
-    "resolución de amparo",
-    "notificaciones"
+    "Tribunal Colegiado de Circuito",
+    "notificaciones",
+    "disposiciones finales"
   ],
   "terminos_coloquiales": [
-    "que es el amparo directo",
-    "como funciona el recurso de revisión",
-    "resolución rápida del amparo",
-    "qué hace el Tribunal Colegiado",
-    "notificaciones en amparo"
+    "amparo",
+    "recursos de revisión",
+    "sentencias",
+    "decisión del tribunal"
   ],
-  "resumen": "El artículo explica que si alguien presenta un amparo directo contra una sentencia impugnada, el Tribunal Colegiado resolverá el recurso en la misma sesión que decida el amparo. Esto implica que las decisiones se toman de manera conjunta en una sola reunión.",
+  "resumen": "Este artículo establece que si una persona presenta un amparo directo contra una resolución impugnada, el Tribunal Colegiado de Circuito debe resolver dicho recurso en la misma sesión en que resuelve el amparo. También se refiere a las disposiciones sobre notificaciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si hago un amparo directo?",
-    "¿Cómo se resuelve un recurso de revisión?",
-    "¿El Tribunal Colegiado debe decidir el amparo y el recurso juntos?",
-    "¿Cuál es el proceso de notificación para el amparo directo?",
-    "¿Cuánto tardará en resolverse mi amparo?"
+    "¿Qué pasa si interpongo un amparo directo?",
+    "¿Cómo resuelve el Tribunal Colegiado de Circuito un recurso de revisión?",
+    "¿En qué momento se decide un amparo?",
+    "¿Qué son las disposiciones finales de notificaciones?",
+    "¿Qué significa que el tribunal resuelva en la misma sesión?"
   ]
 }

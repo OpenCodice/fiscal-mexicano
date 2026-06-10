@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:591d64f2e94371a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Prueba testimonial",
   "temas": [
+    "desahogo de prueba",
     "testigos",
-    "comparecencia",
-    "acta pormenorizada",
+    "acta de testimonios",
     "interrogatorio",
     "exhorto"
   ],
   "terminos_coloquiales": [
-    "testigos en un juicio",
-    "cómo presentan testigos",
-    "acta de testimonios",
-    "preguntas a testigos"
+    "testigos",
+    "citar a testigos",
+    "acta de declaración",
+    "prueba testimonial",
+    "exhorto"
   ],
-  "resumen": "Este artículo menciona que para recopilar pruebas testimoniales, se debe requerir a quien ofrezca los testigos para que se presenten. Si no pueden, el magistrado los citará. También se pueden hacer preguntas sobre los hechos en cuestión.",
+  "resumen": "El artículo regula cómo se desahoga la prueba testimonial, incluyendo la presentación de testigos y el levantamiento de un acta con los testimonios. También aborda la posibilidad de utilizar un exhorto para desahogar la prueba cuando los testigos están fuera de la sede de la Sala.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no puedo presentar a mis testigos?",
-    "¿Cómo se toman los testimonios en un juicio?",
-    "¿Se puede pedir que los testigos declaren por escrito?",
-    "¿Qué es un exhorto en el contexto de los testigos?",
-    "¿Quién puede hacer preguntas a los testigos?"
+    "¿Cómo se presentan los testigos en un juicio?",
+    "¿Qué hacer si no puedo presentar a mis testigos?",
+    "¿Qué es un exhorto en la prueba testimonial?",
+    "¿Cómo se levantan actas de testimonios?",
+    "¿Puede el magistrado hacer preguntas a los testigos?"
   ]
 }

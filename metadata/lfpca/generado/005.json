@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b4d6c562f9eeeee2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representación ante el Tribunal",
+  "denominacion_comun": "Representación en juicio",
   "temas": [
     "gestión de negocios",
     "representación legal",
-    "patria potestad",
     "firma electrónica",
-    "notificaciones",
-    "defensa jurídica",
-    "delegados"
+    "patria potestad",
+    "autoridad",
+    "notificaciones"
   ],
   "terminos_coloquiales": [
-    "cómo representar a alguien en el Tribunal",
-    "quién puede firmar en mi nombre",
-    "gestión legal",
-    "autorizar a un abogado",
-    "recibir notificaciones legales"
+    "representar a alguien en juicio",
+    "firma electrónica",
+    "abogado",
+    "notificaciones",
+    "carta poder"
   ],
-  "resumen": "El artículo establece cómo se debe otorgar la representación legal ante el Tribunal, ya sea mediante escritura pública o carta poder, y quiénes pueden representarse a sí mismos o a otros. También menciona el uso de la firma electrónica para presentar demandas.",
+  "resumen": "El artículo establece que la gestión de negocios no procederá ante el Tribunal sin la debida representación. Para representar a alguien se requiere una escritura pública o carta poder, y se aclara cómo se manejarán las representaciones según el tipo de persona. También se menciona el uso de la firma electrónica avanzada para la presentación de documentos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo autorizar a alguien para que presente mi demanda?",
-    "¿Quién puede representarme legalmente ante el Tribunal?",
-    "¿Qué requisitos necesita una carta poder para que alguien me represente?",
-    "¿Es válida la firma electrónica para presentar documentos?",
-    "¿Qué pasa si no tengo patria potestad y necesito representación?"
+    "¿Qué se necesita para representar a alguien en el Tribunal?",
+    "¿Cómo se acredita la representación legal en un juicio?",
+    "¿Quién puede recibir notificaciones en nombre de una persona?",
+    "¿Qué es la carta poder y cómo se utiliza?",
+    "¿Qué pasa si no tengo representación legal y quiero presentar una demanda?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d10d29c554557fcd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones por Boletín Jurisdiccional",
+  "denominacion_comun": "Notificaciones en procedimientos judiciales",
   "temas": [
+    "actuario",
     "notificaciones",
-    "acusas de recibo",
+    "Boletín Jurisdiccional",
+    "correo certificado",
     "multas",
-    "actuarios",
-    "Boletín Jurisdiccional"
+    "constancias",
+    "archivos especiales"
   ],
   "terminos_coloquiales": [
-    "notificaciones legales",
-    "cómo se notifican",
-    "multas para actuarios",
+    "notificaciones",
+    "actuario",
     "Boletín Jurisdiccional",
-    "recibos de notificación"
+    "correo certificado"
   ],
-  "resumen": "El actuario debe registrar las notificaciones y acuses de recibo. Si no lo hace sin justificación, puede ser multado y destituido si reincide.",
+  "resumen": "El actuario debe registrar las notificaciones realizadas, ya sea por Boletín Jurisdiccional o por correo certificado, y agregar constancias al expediente. Si no cumple, puede enfrentar multas y destitución en caso de reincidencia.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un actuario no notifica correctamente?",
-    "¿Qué es el Boletín Jurisdiccional?",
-    "¿Cómo se registra una notificación?",
-    "¿Cuáles son las consecuencias de no cumplir con las notificaciones?",
-    "¿Qué debe hacer el actuario con los acuses de recibo?"
+    "¿Qué debe hacer un actuario con las notificaciones?",
+    "¿Qué pasa si un actuario no registra las notificaciones?",
+    "¿Cómo se lleva el control de las notificaciones en el Boletín Jurisdiccional?",
+    "¿Qué tipo de sanciones enfrenta un actuario por incumplimientos?",
+    "¿Qué se incluye en el expediente de notificaciones?",
+    "¿Qué es el Boletín Jurisdiccional?"
   ]
 }

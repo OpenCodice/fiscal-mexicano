@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:450e32f8df5c7511",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contestación de demanda",
+  "denominacion_comun": "Contestación en juicio",
   "temas": [
     "incidentes",
-    "derechos",
-    "hechos",
-    "argumentos",
+    "argumentos de defensa",
     "pruebas",
-    "indemnización"
+    "derecho a indemnización"
   ],
   "terminos_coloquiales": [
-    "respuesta a la demanda",
-    "defensa en juicio",
-    "cómo contestar una demanda",
-    "argumentos en juicio"
+    "respuesta en juicio",
+    "defensa del demandado",
+    "ofrecimiento de pruebas"
   ],
-  "resumen": "El demandado debe presentar su respuesta a la demanda, señalando incidentes, consideraciones sobre derechos, hechos imputados y argumentos que demuestren la ineficacia de los reclamos. También debe ofrecer pruebas y dar detalles sobre testigos o peritos, si corresponde.",
+  "resumen": "El demandado debe presentar su respuesta a la demanda abordando incidentes, argumentos de defensa y ofreciendo pruebas. También debe responder a las imputaciones del demandante y señalar cualquier prueba pericial o testimonial que ofrezca.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en mi respuesta a una demanda?",
-    "¿Cómo defiendo mis derechos en un juicio?",
-    "¿Qué tipo de pruebas puedo presentar?",
-    "¿Cómo puedo impugnar una indemnización solicitada?",
-    "¿Qué son los incidentes en una demanda?"
+    "¿Qué debe incluir la contestación del demandado?",
+    "¿Cómo puede el demandado impugnar la demanda?",
+    "¿Qué tipo de pruebas puede ofrecer el demandado?",
+    "¿Cuáles son los incidentes que puede mencionar el demandado?",
+    "¿Qué ocurre si el demandado no señala a sus testigos?"
   ]
 }

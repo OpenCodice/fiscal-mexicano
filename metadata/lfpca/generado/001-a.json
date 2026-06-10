@@ -6,35 +6,41 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:67ed8d8530044932",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Definiciones Generales (LFPCA)",
+  "denominacion_comun": "Definiciones importantes en la LFPCA",
   "temas": [
     "Acuse de Recibo Electrónico",
     "Archivo Electrónico",
     "Boletín Jurisdiccional",
-    "Aviso Electrónico",
-    "Clave de Acceso",
+    "Aviso electrónico",
+    "Clave de acceso",
     "Contraseña",
+    "Dirección de Correo Electrónico",
     "Documento Electrónico",
     "Expediente Electrónico",
-    "Firma Electrónica Avanzada",
-    "Sistema de Justicia en Línea"
+    "Firma Electrónica Avanzada"
   ],
   "terminos_coloquiales": [
-    "recibo electrónico",
-    "documentos digitales",
-    "archivo en línea",
+    "acuse de recibo electrónico",
+    "archivo de información",
     "boletín del tribunal",
-    "firma electrónica",
-    "juicio en línea"
+    "notificación electrónica",
+    "clave de acceso",
+    "contraseña segura",
+    "correo electrónico",
+    "documento digital",
+    "expediente digital",
+    "firma electrónica"
   ],
-  "resumen": "El artículo establece definiciones clave relacionadas con el proceso de justicia en línea, incluyendo acuses de recibo, archivos electrónicos y la firma electrónica avanzada. Estas definiciones son fundamentales para entender cómo funcionan los juicios contenciosos administrativos a través de plataformas digitales.",
+  "resumen": "Este artículo define varios términos relacionados con el uso de tecnología en los juicios contenciosos administrativos federales. Incluye conceptos como acuse de recibo electrónico, documento electrónico y firma electrónica avanzada.",
   "preguntas_ejemplo": [
     "¿Qué es un acuse de recibo electrónico?",
-    "¿Cómo se usa la firma electrónica en el juicio?",
-    "¿Qué información contiene un expediente electrónico?",
-    "¿Qué es un boletín jurisdiccional?",
-    "¿Cómo se accede al sistema de justicia en línea?"
+    "¿Cómo funcionan los documentos digitales en el juicio?",
+    "¿Qué se considera un expediente electrónico?",
+    "¿Qué es la firma electrónica avanzada?",
+    "¿Cómo se envían las notificaciones electrónicas?",
+    "¿Qué es un boletín jurisdiccional?"
   ]
 }

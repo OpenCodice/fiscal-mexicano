@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64ee9d1d648d74c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medidas Cautelares",
+  "denominacion_comun": "Medidas cautelares",
   "temas": [
-    "trámite",
     "incidente",
     "requisitos",
-    "justificación"
+    "demandante",
+    "notificaciones",
+    "justificación",
+    "Magistrado Instructor"
   ],
   "terminos_coloquiales": [
     "medidas cautelares",
-    "cómo solicitar medidas cautelares",
-    "requisitos para medidas cautelares"
+    "solicitud de medidas",
+    "requisitos para medidas"
   ],
-  "resumen": "El artículo establece cómo se deben tramitar las medidas cautelares, incluyendo qué información debe contener la solicitud y los requisitos necesarios para su presentación. Si no se cumplen los requisitos, la solicitud se considerará no interpuesta.",
+  "resumen": "El artículo establece los requisitos y el procedimiento para solicitar medidas cautelares en un juicio. Las solicitudes deben incluir información del demandante, la resolución impugnada, los hechos a resguardar y las razones que justifican la solicitud.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesito para solicitar medidas cautelares?",
-    "¿Cómo se tramitan las medidas cautelares en un juicio?",
-    "¿Qué pasa si no cumplo con los requisitos para las medidas cautelares?"
+    "¿Cómo se piden medidas cautelares?",
+    "¿Qué requisitos debo cumplir para solicitar una medida cautelar?",
+    "¿Qué debo incluir en mi solicitud de medidas cautelares?",
+    "¿Cuándo puedo presentar la solicitud de medidas cautelares?",
+    "¿Qué pasa si no cumplo con los requisitos para solicitar medidas cautelares?"
   ]
 }

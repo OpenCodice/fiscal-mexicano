@@ -6,26 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f05a96afd143a996",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interrupción del Sistema de Justicia en Línea",
+  "denominacion_comun": "Juicio en la Vía Sumaria",
   "temas": [
-    "interrupción de servicio",
-    "justicia en línea",
     "plazos legales",
-    "avisos a la sala"
+    "interrupción del sistema",
+    "juicio contencioso administrativo",
+    "resoluciones fiscales",
+    "sanciones administrativas",
+    "recursos de reclamación",
+    "medidas cautelares",
+    "audiencias"
   ],
   "terminos_coloquiales": [
-    "problemas con el sistema",
-    "fallas en el sistema de justicia",
-    "plazos detenidos por fallas",
-    "notificaciones por interrupción"
+    "juicio de manera rápida",
+    "juicio sumario",
+    "recurso de reclamación",
+    "interrupción del sistema",
+    "días para contestar",
+    "plazos de juicio"
   ],
-  "resumen": "El artículo establece que si hay interrupciones en el Sistema de Justicia en Línea por razones ajenas, las partes deben notificar a la sala correspondiente. Los plazos se suspenden solo durante la interrupción del sistema y se registrará el motivo de la misma.",
+  "resumen": "El Artículo 58-S establece cómo se tramitan los juicios en la vía sumaria en caso de interrupción del Sistema de Justicia en Línea, detallando el procedimiento para dar aviso y suspender plazos, así como las resoluciones que se pueden impugnar. También se explican los requisitos y plazos para las partes involucradas en el juicio.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si el sistema de justicia no funciona?",
-    "¿Cómo se notifican las fallas del sistema?",
-    "¿Se suspenden los plazos si hay problemas técnicos?",
-    "¿Qué información debe incluir el reporte de interrupción?"
+    "¿Qué pasa si el sistema de justicia se interrumpe?",
+    "¿Cuáles son los plazos para presentar un juicio sumario?",
+    "¿Qué resoluciones fiscales se pueden impugnar a través de este juicio?",
+    "¿Cómo puedo notificar una interrupción del servicio en el sistema?",
+    "¿Qué medidas cautelares se pueden solicitar en este tipo de juicio?"
   ]
 }

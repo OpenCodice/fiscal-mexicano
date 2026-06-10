@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:87932467f35c7b66",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de autoridades en juicios contenciosos",
+  "denominacion_comun": "Registro de autoridades para juicios contenciosos",
   "temas": [
+    "juicios contenciosos administrativos",
     "notificaciones electrónicas",
     "emplazamientos",
-    "tribunales",
     "autoridades demandadas",
-    "juicios contenciosos administrativos"
+    "formalidades",
+    "Boletín Procesal"
   ],
   "terminos_coloquiales": [
-    "registro de autoridades",
-    "notificaciones por correo",
     "juicios administrativos",
-    "emplazamientos en juicios"
+    "notificaciones por correo",
+    "emplazamiento a juicio"
   ],
-  "resumen": "Las autoridades que pueden ser impugnadas deben registrar su correo electrónico y domicilio oficial para recibir notificaciones en juicios administrativos. Si no lo hacen, las notificaciones se harán a través de un boletín hasta que cumplan con este requisito.",
+  "resumen": "Las autoridades que pueden ser impugnadas deben registrar su correo electrónico y domicilio oficial para ser emplazadas electrónicamente en juicios. Si no lo hacen, las notificaciones se realizarán a través del Boletín Procesal hasta que cumplan con este requisito.",
   "preguntas_ejemplo": [
-    "¿Cómo se registran las autoridades para recibir notificaciones?",
-    "¿Qué pasa si una autoridad no cumple con el registro?",
-    "¿Dónde se notifican a las autoridades en juicios contenciosos?",
+    "¿Cómo se notifican las autoridades en juicios contenciosos?",
+    "¿Qué pasa si una autoridad no registra su correo electrónico?",
     "¿Qué es el Boletín Procesal?",
-    "¿Qué información necesitan las autoridades para ser emplazadas?"
+    "¿Qué autoridades deben cumplir con el registro para juicios?",
+    "¿Qué sucede con el emplazamiento si no se cumple con la formalidad?"
   ]
 }

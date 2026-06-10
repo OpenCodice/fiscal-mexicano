@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:01c87cc1e5f5f5e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medidas cautelares",
+  "denominacion_comun": "Medidas Cautelares",
   "temas": [
-    "garantías",
+    "garantía",
     "indemnización",
     "daños a terceros",
-    "sentencias",
-    "autoridad",
-    "valor del negocio"
+    "daños y perjuicios",
+    "sentencia favorable",
+    "reparación del daño"
   ],
   "terminos_coloquiales": [
-    "medidas preventivas",
-    "garantías para daños",
-    "daños colaterales",
+    "medidas cautelares",
+    "garantía de indemnización",
     "indemnización por daños",
-    "cautelares en juicios"
+    "reparación de daños"
   ],
-  "resumen": "El artículo establece que las medidas cautelares pueden causar daños a terceros, por lo que se requiere una garantía suficiente para reparar esos daños. Si no se puede calcular la indemnización, se fijará un importe discrecionalmente. La autoridad también puede ser obligada a resarcir daños en ciertos casos.",
+  "resumen": "El artículo establece que, si las medidas cautelares pueden causar daños a terceros, se debe otorgar una garantía para indemnizar dichos daños. La autoridad también puede ser responsabilizada por los daños causados, y en caso de que la sentencia sea en su contra, deberá pagar la indemnización administrativa correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué son las medidas cautelares?",
-    "¿Cómo se establece la garantía para daños a terceros?",
-    "¿Qué sucede si la indemnización no se puede cuantificar?",
-    "¿La autoridad puede ser responsable de indemnizar daños?",
-    "¿Qué medidas se toman para proteger a terceros en un juicio?"
+    "¿Qué son las medidas cautelares en un juicio?",
+    "¿Qué garantía debo ofrecer si las medidas cautelares afectan a terceros?",
+    "¿Cómo se fija el monto de la indemnización por daños?",
+    "¿Qué sucede si la autoridad causa daños durante un procedimiento?",
+    "¿Quién debe pagar la indemnización si pierdo el juicio?"
   ]
 }

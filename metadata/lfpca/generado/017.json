@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c1ee4dc068674cc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ampliación de demanda",
   "temas": [
-    "plazos",
-    "documentación",
-    "requisitos",
     "negativa ficta",
-    "sobreseimiento"
+    "acto principal",
+    "sobreseimiento",
+    "demandante",
+    "pruebas documentales"
   ],
   "terminos_coloquiales": [
-    "agregar a la demanda",
-    "ampliar mi demanda",
-    "documentos adicionales",
-    "qué hacer después de la notificación"
+    "ampliación de demanda",
+    "demandar",
+    "juicio",
+    "pruebas",
+    "documentos"
   ],
-  "resumen": "El artículo establece que se puede ampliar una demanda dentro de un plazo específico tras la notificación del acuerdo que admite la contestación. La ampliación debe incluir ciertos documentos y pruebas, y hay sanciones si no se presentan las copias necesarias.",
+  "resumen": "El artículo establece que se puede ampliar la demanda dentro de un plazo específico en ciertos casos, como cuando se impugna una negativa ficta o se introducen nuevas cuestiones. También menciona la obligación de presentar copias de las pruebas documentales y las consecuencias de no hacerlo.",
   "preguntas_ejemplo": [
-    "¿Puedo agregar más pruebas a mi demanda?",
-    "¿Cuánto tiempo tengo para ampliar mi demanda?",
-    "¿Qué debo incluir en la solicitud de ampliación?",
-    "¿Qué pasa si no presento las copias necesarias?",
-    "¿Qué significa una negativa ficta en el proceso?"
+    "¿Cómo puedo ampliar mi demanda?",
+    "¿Qué es una negativa ficta?",
+    "¿Qué sucede si no adjunto las pruebas a mi ampliación de demanda?",
+    "¿Cuál es el plazo para ampliar la demanda después de la notificación?",
+    "¿Qué implica el sobreseimiento del juicio?"
   ]
 }

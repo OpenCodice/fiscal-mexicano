@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd3de2b5edd6dd7a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impedimento de magistrados",
+  "denominacion_comun": "Impedimento en juicios fiscales",
   "temas": [
     "impedimento",
-    "magistrados",
-    "calificación",
-    "turno de asuntos",
-    "ley orgánica",
-    "resolución de juicios"
+    "juicio fiscal",
+    "calificación de causas",
+    "Tribunal Federal de Justicia Fiscal y Administrativa"
   ],
   "terminos_coloquiales": [
-    "magistrados impedidos",
-    "cambio de magistrado",
-    "asuntos de magistrados",
-    "calificación de impedimentos"
+    "juicio fiscal",
+    "causa de impedimento",
+    "Tribunal",
+    "TFJFA"
   ],
-  "resumen": "Este artículo describe el proceso que se debe seguir cuando un magistrado manifiesta su impedimento para participar en un asunto. El Presidente correspondiente debe calificar la causa y actuar conforme a la ley.",
+  "resumen": "El artículo establece el procedimiento que se debe seguir cuando un magistrado manifiesta una causa de impedimento. El asunto se turnará al Presidente del Tribunal para su calificación y, si resulta fundada, se actuarán conforme a la Ley Orgánica correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un magistrado no puede atender un caso?",
-    "¿Cómo se califica el impedimento de un magistrado?",
-    "¿Qué se hace cuando un magistrado se manifiesta impedido?",
-    "¿Quién decide sobre el impedimento de un magistrado?",
-    "¿Cuál es el procedimiento para un impedimento en el tribunal?"
+    "¿Qué pasa si un magistrado tiene un impedimento?",
+    "¿Cómo se califica una causa de impedimento en un juicio fiscal?",
+    "¿Qué procedimiento sigue el Tribunal ante un impedimento?",
+    "¿Qué es el Tribunal Federal de Justicia Fiscal y Administrativa?",
+    "¿Cuáles son los pasos a seguir si hay un impedimento en el juicio?"
   ]
 }

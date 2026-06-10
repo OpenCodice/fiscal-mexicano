@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff9a2970749cf91c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de demandas",
+  "denominacion_comun": "Demanda en Juicio Contencioso Administrativo",
   "temas": [
-    "demanda",
+    "plazos de demanda",
     "juicio tradicional",
-    "plazos",
-    "sistema de justicia en línea",
-    "notificaciones",
+    "Sistema de Justicia en Línea",
     "suspensión de plazos",
-    "representación legal",
-    "incapacidad"
+    "notificaciones",
+    "sucesión",
+    "instrucciones de presentación"
   ],
   "terminos_coloquiales": [
-    "presentar una demanda",
-    "dónde poner mi demanda",
-    "juicio en línea",
-    "plazos para demandas",
-    "suspensión de juicios"
+    "demanda",
+    "juicio contencioso",
+    "presentar demanda",
+    "suspender plazos",
+    "justicia online"
   ],
-  "resumen": "El artículo trata sobre cómo y cuándo un demandante debe presentar su demanda, ya sea por escrito o en línea, y los plazos para hacerlo. También explica las condiciones bajo las cuales se suspenderán esos plazos, como en casos de fallecimiento o incapacidad.",
+  "resumen": "Este artículo regula cómo presentar una demanda en juicios contenciosos administrativos, ya sea de forma tradicional o en línea. Establece plazos específicos para la presentación de demandas y prevé la suspensión de plazos en casos de fallecimiento, incapacidad o controversias fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo presentar mi demanda?",
-    "¿Cuáles son los plazos para presentar una demanda?",
-    "¿Qué pasa si no elijo cómo presentar mi demanda?",
-    "¿Se suspenden los plazos si fallezco?",
-    "¿Qué sucede si tengo un tutor y quiero demandar?"
+    "¿Cómo presento una demanda en línea?",
+    "¿Cuál es el plazo para presentar mi demanda?",
+    "¿Qué hago si el demandante fallece antes de presentar la demanda?",
+    "¿Puedo enviar mi demanda desde otro lugar?",
+    "¿Qué sucede si no elijo opción para presentar mi demanda?"
   ]
 }

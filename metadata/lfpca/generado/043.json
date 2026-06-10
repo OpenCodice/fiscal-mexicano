@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70ea390d11b96ddd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prueba pericial",
+  "denominacion_comun": "Prueba Pericial",
   "temas": [
     "peritos",
     "dictamen",
-    "plazos",
     "diligencias",
-    "audiencia"
+    "ampliación de plazos",
+    "Magistrado Instructor"
   ],
   "terminos_coloquiales": [
-    "testimonio de expertos",
-    "opinión de peritos",
-    "dictámenes periciales",
-    "revisión de peritos"
+    "peritos",
+    "dictamen pericial",
+    "junta de peritos",
+    "ampliar plazo",
+    "perito tercero"
   ],
-  "resumen": "El artículo regula cómo se lleva a cabo la prueba pericial en un juicio, especificando los plazos y las obligaciones de los peritos al rendir sus dictámenes. También aborda la posibilidad de solicitar cambios o ampliaciones en los plazos establecidos.",
+  "resumen": "Este artículo regula el procedimiento para la presentación y aceptación de peritos en un juicio. Los peritos deben rendir un dictamen independiente y se establecen plazos específicos para su presentación, así como la posibilidad de ampliar dichos plazos en ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para presentar a los peritos?",
-    "¿Qué pasa si un perito no cumple con los requisitos?",
-    "¿Cómo se elige al perito tercero?",
-    "¿Puedo cambiar de perito si no estoy satisfecho?",
-    "¿Qué ocurre en la junta de peritos?"
+    "¿Qué debo hacer para presentar a mi perito en un juicio?",
+    "¿Cuáles son los plazos para entregar el dictamen pericial?",
+    "¿Puedo cambiar de perito después de haberlo propuesto?",
+    "¿Qué ocurre si mi perito no acepta el cargo?",
+    "¿Qué es una junta de peritos y cómo se lleva a cabo?"
   ]
 }

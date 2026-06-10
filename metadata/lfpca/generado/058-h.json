@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de370405a29fbf0d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad del Uso de Firma Electrónica",
+  "denominacion_comun": "Responsabilidad del uso de la Firma Electrónica Avanzada",
   "temas": [
     "Firma Electrónica Avanzada",
     "Clave de Acceso",
@@ -18,17 +19,18 @@
     "Sistema de Justicia en Línea"
   ],
   "terminos_coloquiales": [
-    "responsabilidad de la firma electrónica",
-    "uso de clave de acceso",
-    "qué pasa si no recibo notificación",
-    "problemas con el expediente electrónico"
+    "e.firma",
+    "clave de acceso",
+    "contraseña",
+    "notificaciones electrónicas",
+    "consulta de expediente"
   ],
-  "resumen": "Los titulares de una Firma Electrónica Avanzada son responsables de su uso, así como del acceso a notificaciones y del envío de información. No se admiten pruebas en contra de su uso a menos que se demuestre que hubo fallas en el sistema correspondiente.",
+  "resumen": "Los responsables de la Firma Electrónica Avanzada, clave de acceso y contraseña deben asegurar su uso correcto. Cualquier acción realizada con estos instrumentos será atribuida a ellos, a menos que se pruebe un fallo del sistema.",
   "preguntas_ejemplo": [
-    "¿Quién es responsable si no recibo una notificación?",
-    "¿Qué pasa si olvido mi contraseña de la firma electrónica?",
-    "¿Cómo se valida el acceso al expediente electrónico?",
-    "¿Qué hacer si hay fallas en el sistema de justicia?",
-    "¿Puedo demostrar que no utilicé mi firma electrónica?"
+    "¿Qué responsabilidades tengo al usar mi e.firma?",
+    "¿Cómo funcionan las notificaciones electrónicas?",
+    "¿Qué pasa si hay un problema con mi clave de acceso?",
+    "¿Puedo probar que no soy responsable de un uso indebido de mi contraseña?",
+    "¿Qué es el Expediente Electrónico y cómo lo consulto?"
   ]
 }

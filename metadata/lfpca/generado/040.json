@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:741983092049e916",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pruebas en juicios fiscales",
   "temas": [
-    "derecho subjetivo",
-    "prueba de hechos",
-    "juicios fiscales",
-    "excepciones",
+    "derechos subjetivos",
     "pruebas admisibles",
+    "confesión de autoridades",
     "sentencias",
-    "contraparte"
+    "pruebas supervenientes"
   ],
   "terminos_coloquiales": [
-    "pruebas en el tribunal",
-    "cómo presentar pruebas",
-    "derechos en juicios",
-    "excepciones en juicios fiscales"
+    "pruebas en juicios fiscales",
+    "reclamos",
+    "demanda",
+    "excepciones"
   ],
-  "resumen": "En los juicios fiscales, el demandante debe probar su derecho y la violación del mismo. Se pueden presentar pruebas, salvo algunas excepciones, y las pruebas adicionales se pueden presentar antes de que se dicte la sentencia.",
+  "resumen": "Este artículo establece que en los juicios ante el Tribunal, el demandante debe probar los hechos que sustentan su derecho. También menciona que se pueden presentar diversas pruebas, con algunas excepciones, y permite la presentación de pruebas adicionales hasta antes de que se dicte sentencia.",
   "preguntas_ejemplo": [
-    "¿Qué pruebas puedo presentar en un juicio fiscal?",
-    "¿Cómo demuestro mi derecho en el tribunal?",
-    "¿Qué pasa si quiero presentar pruebas después?",
-    "¿Qué tipo de excepciones se pueden argumentar en un juicio?",
-    "¿La contraparte puede ver mis pruebas?"
+    "¿Qué pruebas debo presentar en un juicio fiscal?",
+    "¿Qué tipo de pruebas no se aceptan en el Tribunal?",
+    "¿Puedo presentar pruebas después de haber iniciado un juicio?",
+    "¿Qué debo hacer si mi derecho ha sido violado en un juicio?",
+    "¿Cómo se presentan las excepciones en un juicio fiscal?"
   ]
 }

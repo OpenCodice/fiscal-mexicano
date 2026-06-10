@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cfc65c169bf26d7a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Firma Electrónica Avanzada y Justicia en Línea",
+  "denominacion_comun": "Firma Electrónica Avanzada",
   "temas": [
     "Firma Electrónica Avanzada",
     "Clave de Acceso",
     "Contraseña",
     "Sistema de Justicia en Línea",
-    "Registro y autorización",
-    "Consentimiento expreso",
-    "Fecha y hora de acceso",
-    "Archivos Electrónicos",
+    "Registro",
     "Expediente Electrónico"
   ],
   "terminos_coloquiales": [
-    "Firma electrónica",
-    "Sistema de justicia en línea",
-    "Acceso a documentos legales",
-    "Registro de firma",
-    "Archivos electrónicos"
+    "e.firma",
+    "registrar firma",
+    "acceso digital",
+    "sistema de justicia",
+    "contraseña electrónica"
   ],
-  "resumen": "Este artículo establece que para usar la Firma Electrónica Avanzada y el Sistema de Justicia en Línea, es necesario registrarse y obtener autorización. Además, se registra la fecha y hora de acceso a los archivos electrónicos relacionados con expedientes legales.",
+  "resumen": "El artículo establece que la Firma Electrónica Avanzada, junto con una Clave de Acceso y Contraseña, se proporcionarán mediante un sistema del Tribunal, y su registro implica el consentimiento para registrar fechas y horas de apertura de archivos electrónicos. Además, se deben seguir ciertos lineamientos para usar el sistema.",
   "preguntas_ejemplo": [
-    "¿Cómo obtengo mi firma electrónica avanzada?",
-    "¿Qué necesito para usar el sistema de justicia en línea?",
-    "¿Se registra cuándo accedo a mis documentos legales?",
-    "¿Cuáles son los requisitos para el acceso a la firma electrónica?",
-    "¿Qué implica el consentimiento para el registro?"
+    "¿Cómo puedo obtener mi firma electrónica avanzada?",
+    "¿Qué es el sistema de justicia en línea?",
+    "¿Qué documentos necesito para registrar mi firma electrónica?",
+    "¿Qué implica el registro de la firma electrónica?",
+    "¿Cómo se utilizan los archivos electrónicos en el sistema judicial?"
   ]
 }

@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9bd121805b2a3e8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Excusas de magistrados",
+  "denominacion_comun": "Impedimentos de Magistrados",
   "temas": [
-    "deber de excusarse",
-    "impedimentos",
     "magistrados",
-    "negocios legales"
+    "impedimentos",
+    "deber de excusarse",
+    "conocimiento de negocios"
   ],
   "terminos_coloquiales": [
-    "magistrados que no pueden participar",
-    "por qué se excusa un magistrado",
-    "impedimentos de magistrados"
+    "magistrados",
+    "problemas de imparcialidad",
+    "excusa para no participar"
   ],
-  "resumen": "Los magistrados deben excusarse de conocer ciertos casos si tienen algún impedimento. Deben explicar claramente cuál es ese impedimento.",
+  "resumen": "Los magistrados deben apartarse de los casos donde tengan impedimentos, explicando de manera específica en qué consiste el impedimento. Esto es para asegurar la imparcialidad en los procesos.",
   "preguntas_ejemplo": [
-    "¿Cuándo un magistrado debe excusarse?",
-    "¿Qué es un impedimento para un magistrado?",
-    "¿Cómo se realiza la excusa de un magistrado?",
-    "¿Qué sucede si un magistrado tiene un conflicto de interés?",
-    "¿Qué deben hacer los magistrados en caso de un impedimento?"
+    "¿Qué deben hacer los magistrados si tienen un impedimento?",
+    "¿Cómo se excusan los magistrados en un juicio?",
+    "¿Qué implica tener un impedimento para un magistrado?",
+    "¿Por qué es importante que un magistrado se excuse?"
   ]
 }

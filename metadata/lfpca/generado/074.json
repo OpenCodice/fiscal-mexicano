@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:741c22f6b6d204f1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cómputo de plazos",
   "temas": [
-    "computo de plazos",
-    "notificaciones",
-    "días hábiles",
-    "días inhábiles",
-    "plazos por mes",
-    "plazos por año"
+    "Reglas de plazos",
+    "Días hábiles",
+    "Días inhábiles",
+    "Notificaciones",
+    "Períodos de tiempo"
   ],
   "terminos_coloquiales": [
-    "cómo contar los plazos",
-    "días para cumplir",
-    "plazos legales",
-    "fechas límite"
+    "plazos",
+    "días hábiles",
+    "días inhábiles",
+    "notificaciones"
   ],
-  "resumen": "El artículo establece cómo se deben contar los plazos legales, considerando si son días hábiles o inhábiles y las diferentes reglas según el tipo de plazo. Si el último día de un plazo cae en un día inhábil, se prorrogará al siguiente día hábil.",
+  "resumen": "El artículo establece cómo se deben contar los plazos en diferentes situaciones. Los plazos comienzan a contarse a partir del día siguiente de la notificación y varían si son en días hábiles o en meses y años. También aclara qué hacer si el último día de un plazo es inhábil.",
   "preguntas_ejemplo": [
-    "¿Cómo se cuentan los plazos en la ley?",
-    "¿Qué días se consideran hábiles para los plazos?",
-    "¿Qué pasa si el último día de un plazo cae en fin de semana?",
-    "¿Los plazos se extienden si son por mes o año?",
-    "¿Cómo afecta una notificación al inicio de un plazo?"
+    "¿Cómo se cuentan los plazos para notificaciones?",
+    "¿Qué son los días hábiles y cómo se consideran en los plazos?",
+    "¿Qué ocurre si el último día de un plazo es inhábil?",
+    "¿Cómo se fijan los plazos por mes o año?",
+    "¿Cuándo se prorrogan los plazos?"
   ]
 }

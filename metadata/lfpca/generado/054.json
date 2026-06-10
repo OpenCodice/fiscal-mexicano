@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2584cbc6eed9efb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aclaración de sentencias",
   "temas": [
-    "sentencias del tribunal",
-    "aclaración de sentencias",
-    "plazos de aclaración",
+    "sentencias",
+    "tribunales",
+    "aclaraciones",
+    "plazos",
     "impugnación"
   ],
   "terminos_coloquiales": [
-    "¿cómo aclare una sentencia?",
-    "plazo para aclarar una sentencia",
-    "sentencias confusas",
-    "necesito aclarar una decisión judicial"
+    "aclarar una sentencia",
+    "sentencia confusa",
+    "promover aclaración"
   ],
-  "resumen": "Este artículo establece que se puede pedir la aclaración de una sentencia si se considera que es contradictoria o ambigua, y debe hacerse en un plazo específico. La aclaración sólo se puede hacer una vez y no modifica el fallo original.",
+  "resumen": "Si hay partes contradictorias o confusas en una sentencia del Tribunal, se puede pedir su aclaración una sola vez dentro de diez días. La aclaración debe hacerse ante el mismo Tribunal y no podrá cambiar el contenido de la sentencia original.",
   "preguntas_ejemplo": [
-    "¿Puedo pedir que aclaren una sentencia?",
-    "¿Cuánto tiempo tengo para aclarar una sentencia?",
-    "¿La aclaración de una sentencia puede cambiar la decisión?",
-    "¿Qué debo hacer si no entiendo una sentencia del Tribunal?"
+    "¿Cómo puedo aclarar una sentencia del Tribunal?",
+    "¿Cuánto tiempo tengo para pedir una aclaración de una sentencia?",
+    "¿Qué debo hacer si una sentencia no es clara?",
+    "¿Puedo apelar después de solicitar una aclaración de sentencia?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:369cf812b7d6f260",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Valoración de pruebas",
   "temas": [
-    "pruebas plenas",
+    "pruebas legales",
     "confesión",
-    "presunciones legales",
     "documentos públicos",
-    "prueba pericial",
-    "valoración de pruebas",
-    "actos de comprobación"
+    "pruebas periciales",
+    "pruebas testimoniales",
+    "actas administrativas",
+    "documentos digitales"
   ],
   "terminos_coloquiales": [
-    "cómo se valoran las pruebas",
-    "documentos que cuentan como prueba",
-    "testigos y documentos en juicios",
-    "qué es una confesión en juicio",
-    "actas de comprobación"
+    "valoración de pruebas",
+    "documentos digitales",
+    "actas de la autoridad"
   ],
-  "resumen": "Este artículo establece cómo se valoran las pruebas en un juicio, incluyendo confesiones, documentos y testimonios. Determina que ciertos documentos son prueba plena, mientras que otros necesitan valoración a criterio de la sala.",
+  "resumen": "El artículo establece cómo se valoran las pruebas en los procedimientos administrativos, incluyendo las confesiones y documentos públicos. También menciona que el valor de las pruebas testimoniales queda a criterio de la Sala y cómo se manejan los documentos digitales con firma electrónica.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de pruebas son consideradas plenas?",
-    "¿Cómo se usan los documentos públicos como evidencia?",
-    "¿Qué pasa si hay diferencias en las pruebas presentadas?",
-    "¿Cómo se valúan los testimonios en un juicio?",
-    "¿Qué significa tener una confesión legalmente válida?"
+    "¿Cómo se valoran las pruebas en un juicio administrativo?",
+    "¿Qué tipos de pruebas se consideran plenas?",
+    "¿Qué pasa con los documentos digitales en la valoración de pruebas?",
+    "¿Cómo se toman en cuenta las actas administrativas?",
+    "¿Qué criterios sigue la Sala para valorar pruebas testimoniales?"
   ]
 }

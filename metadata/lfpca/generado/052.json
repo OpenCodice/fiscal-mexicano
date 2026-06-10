@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19b738d4d4784f16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sentencia definitiva",
+  "denominacion_comun": "Sentencias del Tribunal",
   "temas": [
-    "validez de resolución",
-    "nulidad de resolución",
-    "modificación de cuantía",
-    "sanciones excesivas",
-    "derecho subjetivo",
-    "indemnización",
-    "cumplimiento de sentencia"
+    "sentencias",
+    "nulidad",
+    "resoluciones administrativas",
+    "sanciones",
+    "indemnizaciones"
   ],
   "terminos_coloquiales": [
-    "sentencia final",
-    "resolución del tribunal",
-    "decisión del juez",
-    "fallo judicial",
-    "indemnización por daños"
+    "sentencia",
+    "recurso",
+    "resolución",
+    "indemnización"
   ],
-  "resumen": "El artículo establece que una sentencia definitiva puede validar o declarar nula una resolución impugnada. Si hay sanciones excesivas, se puede reducir el importe y se pueden reconocer derechos subjetivos o indemnizaciones a los afectados.",
+  "resumen": "Este artículo establece cómo debe actuar el Tribunal ante la impugnación de resoluciones administrativas, incluyendo la posibilidad de declarar nulidad y reconocer derechos. También regula el cumplimiento de sentencias, plazos y posibles indemnizaciones por daños.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si impugno una resolución y el tribunal decide que es nula?",
-    "¿Cómo se determina si una sanción es excesiva?",
-    "¿Qué derechos tengo si la autoridad no cumple con una sentencia?",
-    "¿Qué sucede si el tribunal modifica la resolución administrativa?",
-    "¿Cuánto tiempo tiene la autoridad para cumplir con una sentencia?"
+    "¿Qué pasa si impugno una resolución de la autoridad?",
+    "¿El Tribunal puede declarar nula una multa?",
+    "¿Cuánto tiempo tiene la autoridad para cumplir una sentencia?",
+    "¿Puedo recibir una indemnización si la autoridad no cumple con la sentencia?",
+    "¿Qué ocurre si la resolución que impugno afecta mis derechos?"
   ]
 }

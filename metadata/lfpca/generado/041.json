@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae0586786acfb02b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Instrucción Judicial",
+  "denominacion_comun": "Exhibición de documentos en juicio",
   "temas": [
-    "Magistrado Instructor",
-    "Exhibición de documentos",
-    "Diligencias",
-    "Prueba pericial",
-    "Instrucción judicial"
+    "pruebas en juicio",
+    "diligencias judiciales",
+    "instrucción",
+    "documentación",
+    "prueba pericial"
   ],
   "terminos_coloquiales": [
-    "qué puede hacer el juez antes de cerrar un caso",
-    "documentos necesarios en un juicio",
-    "revisión de pruebas",
-    "cuándo se reabre un caso"
+    "mostrar documentos",
+    "pruebas de juicio",
+    "prueba técnica"
   ],
-  "resumen": "El magistrado instructor puede solicitar documentos y realizar diligencias para aclarar hechos antes de cerrar un caso. También puede proponer reabrir la instrucción si es necesario.",
+  "resumen": "El juez puede solicitar la entrega de documentos relevantes y ordenar la realización de pruebas antes de cerrar un caso. También puede pedir que se reabra la instrucción si es necesario.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer un juez antes de terminar un juicio?",
-    "¿Cómo se presentan pruebas en un juicio?",
-    "¿Cuándo se pueden pedir más documentos durante un caso?",
-    "¿Qué significa reabrir la instrucción en un juicio?",
-    "¿Qué tipo de pruebas puede solicitar un magistrado?"
+    "¿Qué puede hacer el juez con los documentos en un juicio?",
+    "¿Se pueden volver a abrir las pruebas en un caso?",
+    "¿Qué es la prueba pericial y cómo se presenta?",
+    "¿Puedo solicitar que se muestre un documento en el juicio?",
+    "¿Qué diligencias puede ordenar el magistrado?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5954d6ffd1fb453d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones electrónicas",
+  "denominacion_comun": "Notificaciones Judiciales",
   "temas": [
+    "notificaciones",
     "Boletín Jurisdiccional",
     "avisos electrónicos",
-    "notificaciones a autoridades",
-    "notificaciones a particulares",
-    "plazos de notificación",
-    "traslados de ley"
+    "traslados de ley",
+    "plazos judiciales"
   ],
   "terminos_coloquiales": [
-    "cómo me notifican",
-    "notificaciones electrónicas",
-    "boletín de notificación",
-    "recibir aviso del tribunal"
+    "notificación por correo",
+    "notificación electrónica",
+    "avisos de notificación",
+    "Boletín Judicial",
+    "notificación personal"
   ],
-  "resumen": "El artículo establece cómo se deben realizar las notificaciones en juicios mediante el Boletín Jurisdiccional y el aviso electrónico a las partes. Las notificaciones se entenderán realizadas una vez que se publique en el boletín, y los plazos comenzarán a contar a partir de esa publicación.",
+  "resumen": "Este artículo establece cómo se deben realizar las notificaciones a las partes en un juicio, ya sea por medio del Boletín Jurisdiccional o personalmente. También indica que los plazos comienzan a computarse a partir de la notificación, y se detalla el contenido que debe incluir el aviso previo.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifican las decisiones del tribunal?",
+    "¿Cómo se realizan las notificaciones en un juicio?",
     "¿Qué es el Boletín Jurisdiccional?",
-    "¿Tengo que ir al tribunal para la notificación?",
-    "¿Cuándo inicia el plazo después de la notificación?",
-    "¿Qué información debe contener un aviso de notificación?"
+    "¿Cuántos días de anticipación se debe enviar un aviso de notificación?",
+    "¿Qué hacer si no recibí la notificación por el correo?",
+    "¿Cuándo comienza a contarse el plazo después de la notificación?"
   ]
 }
