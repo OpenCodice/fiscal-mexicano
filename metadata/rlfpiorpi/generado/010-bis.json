@@ -1,0 +1,35 @@
+{
+  "clave": "010-bis",
+  "documento": "rlfpiorpi",
+  "etiqueta": "Artículo 10 Bis",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a521cb1e8d807121",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Facultades de Verificación del SAT",
+  "temas": [
+    "verificación del SAT",
+    "obligaciones del SAT",
+    "confidencialidad de la información",
+    "bases de datos",
+    "copias certificadas",
+    "comprobantes fiscales digitales"
+  ],
+  "terminos_coloquiales": [
+    "revisión del SAT",
+    "auditoría fiscal",
+    "comprobantes fiscales",
+    "CFDI"
+  ],
+  "resumen": "El SAT puede utilizar información de diversas fuentes para justificar sus decisiones sin tener que revelar qué datos consultó. También debe mantener la confidencialidad de la información de terceros que sea relevante para el verificado.",
+  "preguntas_ejemplo": [
+    "¿Qué información puede usar el SAT para verificar mis datos?",
+    "¿El SAT tiene que decirme qué bases de datos consultó?",
+    "¿Qué valor tienen las copias de mis documentos ante el SAT?",
+    "¿Cuánto tiempo tengo para responder si el SAT me proporciona información de otras autoridades?",
+    "¿Los CFDI tienen validez ante el SAT?"
+  ]
+}

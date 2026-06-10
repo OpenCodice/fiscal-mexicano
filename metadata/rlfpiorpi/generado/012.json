@@ -1,0 +1,35 @@
+{
+  "clave": "012",
+  "documento": "rlfpiorpi",
+  "etiqueta": "Artículo 12.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a5505c6f92331244",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Actividades Vulnerables",
+  "temas": [
+    "inscripción al RFC",
+    "firma electrónica avanzada",
+    "registro ante el SAT",
+    "fideicomisos",
+    "baja de padrón"
+  ],
+  "terminos_coloquiales": [
+    "trámites de actividades vulnerables",
+    "alta en el SAT",
+    "baja del padrón",
+    "e.firma",
+    "certificado de firma electrónica"
+  ],
+  "resumen": "Las personas que realicen actividades vulnerables deben inscribirse en el RFC y contar con una firma electrónica vigente. Además, tienen que enviar información al SAT para su registro y, si dejan de realizar dichas actividades, deben solicitar su baja del padrón correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Cómo me inscribo en el SAT para actividades vulnerables?",
+    "¿Qué es la firma electrónica avanzada y cómo la obtengo?",
+    "¿Qué hago si ya no realizo actividades vulnerables?",
+    "¿Dónde envío la información para registrarme ante el SAT?",
+    "¿Qué requisitos necesito para darme de baja del padrón de actividades vulnerables?"
+  ]
+}
