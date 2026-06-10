@@ -1,0 +1,33 @@
+{
+  "clave": "022",
+  "documento": "lfdc",
+  "etiqueta": "Artículo 22.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ced763b3b73a8af6",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Depósito de bienes embargados",
+  "temas": [
+    "contribuyentes",
+    "embargo",
+    "interés fiscal",
+    "bienes embargados",
+    "mercancías"
+  ],
+  "terminos_coloquiales": [
+    "embargo",
+    "bien embargado",
+    "depositario"
+  ],
+  "resumen": "Los contribuyentes con ingresos menores a un cierto límite que garanticen el interés fiscal mediante embargo serán designados como depositarios de ciertos bienes. No se pueden embargar mercancías esenciales para el negocio, salvo las de origen extranjero sin documentación adecuada.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si mis ingresos son bajos y me embargan bienes?",
+    "¿Pueden embargar mis mercancías si son esenciales para mi negocio?",
+    "¿Cómo se garantiza el interés fiscal en caso de embargo?",
+    "¿Quién puede ser depositario de bienes embargados?",
+    "¿Qué mercancías no se pueden embargar?"
+  ]
+}

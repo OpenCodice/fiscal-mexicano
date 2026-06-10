@@ -1,0 +1,33 @@
+{
+  "clave": "015",
+  "documento": "lfdc",
+  "etiqueta": "Artículo 15.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4855d9fea7fd2278",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Declaración de Corrección",
+  "temas": [
+    "obligaciones de los contribuyentes",
+    "declaraciones fiscales",
+    "visitas domiciliarias",
+    "comunicaciones con la autoridad",
+    "actas parciales"
+  ],
+  "terminos_coloquiales": [
+    "declaración corregida",
+    "comunicación de la autoridad",
+    "visita del SAT"
+  ],
+  "resumen": "Los contribuyentes deben entregar una copia de la declaración de corrección a la autoridad y esta debe comunicar la recepción, pero no implica que se acepte la corrección. Si hay visitas domiciliarias, se consigna en un acta parcial.",
+  "preguntas_ejemplo": [
+    "¿Qué debo hacer si presento una declaración de corrección?",
+    "¿La autoridad me avisa si recibe mi declaración corregida?",
+    "¿Cómo se documenta si hay una visita domiciliaria?",
+    "¿Cuánto tiempo tiene la autoridad para comunicar la recepción de la declaración corregida?",
+    "¿Qué significa que la autoridad no acepte la corrección presentada?"
+  ]
+}
