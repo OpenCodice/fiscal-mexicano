@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b1e5c253b0cd3be5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de inspección y vigilancia",
+  "denominacion_comun": "Pagos por servicios de inspección y vigilancia",
   "temas": [
-    "derechos",
+    "derechos de pago",
     "servicios de inspección",
-    "vigilancia",
+    "control y vigilancia",
     "sanidad animal",
     "sanidad vegetal",
-    "productos acuícolas",
-    "tarifas",
-    "horarios"
+    "transporte de productos",
+    "horarios de servicio",
+    "gastos de pasaje"
   ],
   "terminos_coloquiales": [
-    "pagos por inspección",
-    "cargos por servicios de vigilancia",
-    "derechos de sanidad",
-    "costos por servicio de control"
+    "derechos de inspección",
+    "cargos por vigilancia",
+    "pago por servicios de control",
+    "servicios de sanidad",
+    "inspecciones en frontera"
   ],
-  "resumen": "Establece los derechos a pagar por los servicios de inspección y vigilancia de vegetales y animales al entrar o salir del país. Los costos varían según el tiempo y las condiciones del servicio prestado.",
+  "resumen": "Se establecen los pagos que deben realizarse por los servicios de inspección, control y vigilancia relacionados con la entrada y salida de productos en el territorio nacional, y se determinan las tarifas según el tiempo y circunstancias del servicio proporcionado.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por la inspección de productos agrícolas?",
-    "¿Qué costos están asociados a la vigilancia en fronteras?",
-    "¿Cómo se calculan los derechos de inspección?",
-    "¿Qué pasa si el servicio se realiza en días inhábiles?",
-    "¿Quién cubre los gastos de pasaje para la inspección?"
+    "¿Cuánto debo pagar por servicios de inspección en frontera?",
+    "¿Cómo se calculan los derechos por vigilancia de productos?",
+    "¿Qué tarifas aplican para servicios en horarios inhábiles?",
+    "¿Qué gastos cubren los servicios de control y vigilancia?",
+    "¿Cuáles son los costos por la inspección de animales y vegetales?"
   ]
 }

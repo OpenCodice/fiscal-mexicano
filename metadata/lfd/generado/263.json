@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:507a84ecee798225",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho sobre minería",
   "temas": [
     "concesiones mineras",
     "asignaciones mineras",
-    "cuotas semestrales",
-    "derecho de minería",
-    "pagos proporcionales",
+    "cuotas por hectárea",
+    "cálculo de derecho",
     "vigencia de concesiones",
     "sustitución de concesiones",
-    "explotación de sales"
+    "salinas"
   ],
   "terminos_coloquiales": [
-    "pago de derecho minero",
-    "tarifas de minería",
-    "costos de concesiones",
-    "derechos por hectárea",
-    "impuesto a la minería"
+    "pago por minería",
+    "derechos mineros",
+    "concesión minera",
+    "asignación minera"
   ],
-  "resumen": "Los titulares de concesiones y asignaciones mineras deben pagar un derecho sobre minería semestralmente, que varía según el tiempo de vigencia de la concesión. También se detalla cómo se calcularán estos pagos en función de la duración de la concesión o asignación.",
+  "resumen": "Los titulares de concesiones y asignaciones mineras deben pagar semestralmente un derecho sobre minería que varía según los años de vigencia. Este pago se calcula proporcionalmente si la vigencia es menor a un semestre y se considera el año calendario para su cálculo.",
   "preguntas_ejemplo": [
     "¿Cuánto tengo que pagar por mi concesión minera?",
-    "¿Cómo se determina el derecho sobre minería?",
-    "¿Qué cuotas aplican a las concesiones mineras?",
-    "¿Qué pasa si mi concesión es nueva?",
-    "¿Qué sucede en caso de sustitución de concesiones?"
+    "¿Cómo se calcula el derecho sobre minería?",
+    "¿Qué sucede si mi concesión minera es nueva?",
+    "¿Qué criterios se usan para el pago de derechos en las salinas?",
+    "¿Cómo afecta la sustitución de concesiones al pago del derecho minero?"
   ]
 }

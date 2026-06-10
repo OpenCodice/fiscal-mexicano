@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:940a48c1a55ac531",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas de Inspección y Vigilancia",
+  "denominacion_comun": "Cuotas de Fondos para el Retiro",
   "temas": [
+    "derechos de inspección",
+    "cuotas anuales",
     "Administradoras de Fondos para el Retiro",
-    "Cuotas anuales",
-    "Inspección y vigilancia",
-    "Empresas Operadoras SAR",
     "Sociedades de Inversión Especializadas",
-    "Aportaciones de seguros de retiro"
+    "pagos provisionales",
+    "base de datos Nacional SAR"
   ],
   "terminos_coloquiales": [
-    "cuotas de fondos de retiro",
-    "pago de derechos de vigilancia",
-    "cuotas de sociedades de inversión",
-    "derechos de inspección",
-    "pagos trimestrales de fondos"
+    "cuota de fondos para el retiro",
+    "cuota anual",
+    "AFORE",
+    "SAR",
+    "fondos de pensiones"
   ],
-  "resumen": "El artículo establece las cuotas anuales que deben pagar las Administradoras de Fondos para el Retiro y otras instituciones por concepto de inspección y vigilancia. También menciona los plazos y detalles sobre pagos provisionales trimestrales relacionados con el capital que los trabajadores han invertido.",
+  "resumen": "Este artículo establece las cuotas que deben pagar las Administradoras de Fondos para el Retiro y otras instituciones relacionadas, así como las fechas límite para realizar estos pagos. También se indican las cuotas anuales y los pagos provisionales trimestrales que corresponden a estas entidades.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar de cuota anual por un fondo de retiro?",
-    "¿Cuáles son las fechas límite para el pago de derechos de inspección?",
-    "¿Qué cuotas deben pagar las Sociedades de Inversión?",
-    "¿Qué pasa si una nueva administradora inicia operaciones?",
-    "¿Cómo se calculan los pagos trimestrales de derechos?"
+    "¿Cuánto debo pagar por la cuota anual de mi AFORE?",
+    "¿Qué es la cuota de derechos de inspección para fondos de retiro?",
+    "¿Cuáles son las fechas límite para pagar la cuota de los fondos para el retiro?",
+    "¿Qué sucede si una nueva AFORE inicia operaciones en el año?",
+    "¿Cómo se calculan los pagos provisionales trimestrales para las cuotas de AFORE?",
+    "¿Qué entidades están sujetas a estas cuotas de vigilancia?"
   ]
 }

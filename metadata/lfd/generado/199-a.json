@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:204c289a92b76d1c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de pesca comercial",
+  "denominacion_comun": "Derecho de Pesca Comercial",
   "temas": [
+    "cuotas de pesca",
     "pesca comercial",
-    "cuotas anuales",
+    "acuicultura",
     "especies marinas",
     "permisos de pesca",
-    "organismos acuáticos",
-    "regulación de pesca"
+    "concesiones de pesca"
   ],
   "terminos_coloquiales": [
-    "cuota de pesca",
-    "pago de pesca",
     "derecho de pesca",
-    "costo por pescar",
-    "cuotas de mariscos"
+    "cuota anual por tonelada",
+    "permiso de pesca",
+    "concesión de pesca"
   ],
-  "resumen": "Las personas y empresas que realicen pesca comercial en México deben pagar cuotas anuales según las especies que pesquen. Estas cuotas se abonan al obtener permisos de pesca y pueden variar según el tipo de organismo marino.",
+  "resumen": "Las personas que practican la pesca comercial en aguas nacionales deben pagar anualmente un derecho de pesca, que varía según la especie. El pago se realiza al obtener el permiso de pesca y anualmente en enero para los años siguientes.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por pesca comercial?",
-    "¿Qué especies requieren pago de cuota?",
-    "¿Cómo se calculan las cuotas de pesca?",
+    "¿Cuánto tengo que pagar por la pesca de camarón?",
+    "¿Qué cuotas anuales hay para la pesca de almejas?",
+    "¿Cómo se calcula el derecho de pesca comercial?",
     "¿Cuándo debo pagar el derecho de pesca?",
-    "¿Qué pasa si tengo un permiso de pesca menor a un año?"
+    "¿Qué necesito para obtener el permiso de pesca?"
   ]
 }

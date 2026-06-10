@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:18c55022d0042344",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajuste de cuotas de derechos",
   "temas": [
-    "cuotas de derechos",
-    "ajuste de pagos",
-    "unidad de ajuste",
-    "Secretaría de Hacienda"
+    "cuotas",
+    "derechos",
+    "ajuste",
+    "pago",
+    "Secretaría de Hacienda",
+    "inspección",
+    "vigilancia"
   ],
   "terminos_coloquiales": [
+    "cuotas de derechos",
     "ajuste de cuotas",
-    "cuotas de pago",
+    "pago de derechos",
     "Hacienda"
   ],
-  "resumen": "Este artículo establece que las cuotas de derechos se ajustan a múltiplos de $5.00 y se determina la unidad de ajuste más próxima para su pago. Si la cuota está a la misma distancia de dos unidades, se elige la inmediata anterior.",
+  "resumen": "Este artículo establece que las cuotas de los derechos se ajustarán a múltiplos de $5.00, incrementando o disminuyendo según sea necesario. Si la cuota está igual de cerca de dos múltiplos, se ajustará hacia el múltiplo inferior.",
   "preguntas_ejemplo": [
     "¿Cómo se ajustan las cuotas de derechos?",
-    "¿Qué significa la unidad de ajuste más próxima?",
-    "¿Qué pasa si la cuota está a la misma distancia de dos unidades de ajuste?",
-    "¿Quién regula estos ajustes de cuotas?",
-    "¿A qué monto se ajustan las cuotas de derechos?"
+    "¿Qué dice la ley sobre el pago de cuotas?",
+    "¿Cuáles son las reglas para ajustar las cuotas?",
+    "¿Qué hace la Secretaría de Hacienda con las cuotas de derechos?"
   ]
 }

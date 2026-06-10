@@ -6,22 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de normas",
-  "temas": [
-    "derogación",
-    "normas fiscales"
-  ],
-  "terminos_coloquiales": [
-    "se ha quitado",
-    "normas derrocadas",
-    "artículo eliminado"
-  ],
-  "resumen": "Este artículo indica que una norma ha sido eliminada. Esto significa que ya no es válida y no se aplicará más.",
+  "denominacion_comun": "Derogación de Disposición",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Esta disposición ha sido derogada y ya no es aplicable.",
   "preguntas_ejemplo": [
-    "¿Qué normas han sido eliminadas?",
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Cómo afecta la derogación de una norma a los contribuyentes?"
+    "¿Qué significa que un artículo ha sido derogado?",
+    "¿Qué disposiciones fiscales ya no están vigentes?",
+    "¿Cómo afecta la derogación de una ley a los contribuyentes?"
   ]
 }

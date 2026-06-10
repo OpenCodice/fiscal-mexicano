@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c6484ec4065222d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho de Aprovechamiento Forestal",
   "temas": [
     "explotación forestal",
-    "derechos",
+    "vegetación arbórea",
+    "zona federal",
+    "pago de derechos",
+    "Comisión Nacional Forestal",
+    "restauración forestal",
     "cuotas",
-    "recaudación",
-    "restauración forestal"
+    "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
-    "pago por madera",
-    "derecho de uso de árboles",
-    "costo por madera",
-    "tarifa por aprovechamiento forestal"
+    "pago por árboles",
+    "derecho de aprovechamiento",
+    "cuota de aprovechamiento forestal",
+    "recaudación forestal"
   ],
-  "resumen": "Este artículo establece un pago por la explotación de árboles en ríos y zonas federales. Los ingresos se destinarán a programas de restauración forestal.",
+  "resumen": "Este artículo establece que se debe pagar un derecho por la explotación de árboles en zonas federales de ríos. Los ingresos de este pago se destinarán a programas de restauración forestal.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por cortar árboles en ríos?",
-    "¿Dónde hago el pago para usar madera?",
-    "¿Qué pasa con el dinero que se recauda por estos derechos?",
-    "¿Qué se necesita para aprovechar árboles en zona federal?",
-    "¿A quién se le paga el derecho de aprovechamiento forestal?"
+    "¿Cuánto tengo que pagar por explotar árboles en ríos?",
+    "¿Dónde debo pagar el derecho de aprovechamiento forestal?",
+    "¿Qué se hace con el dinero que se recauda por derechos forestales?",
+    "¿Qué es el derecho de aprovechamiento forestal?",
+    "¿Quién autoriza el aprovechamiento de árboles en zonas federales?"
   ]
 }

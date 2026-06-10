@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:83ab65daa50d1622",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuotas por trasvase de aguas nacionales",
   "temas": [
-    "trasvase de agua",
-    "cuotas",
-    "personas físicas y morales",
-    "zonas de disponibilidad",
+    "trasvase de aguas",
+    "cuotas por uso de agua",
     "exportación de agua",
-    "beneficio indirecto"
+    "importación de agua",
+    "zonas de disponibilidad",
+    "concesionarios de agua",
+    "asignatarios de agua",
+    "infraestructura hidráulica",
+    "factores de ajuste ambiental"
   ],
   "terminos_coloquiales": [
-    "costo por mover agua",
-    "tarifas de agua",
-    "cuotas de trasvase",
-    "pago por trasvase"
+    "trasvase de agua",
+    "cuotas de agua",
+    "exportar agua",
+    "importar agua",
+    "uso de agua",
+    "concesiones de agua"
   ],
-  "resumen": "Este artículo establece las cuotas que deben pagar las personas que trasvasan aguas nacionales, tanto de manera directa como indirecta. Incluye detalles sobre las tarifas que dependen de la zona de disponibilidad y el uso del agua.",
+  "resumen": "Las personas que trasvasen aguas nacionales deberán pagar cuotas adicionales según el uso y la zona de disponibilidad. También se explican diferentes factores de ajuste que pueden aplicarse a estas cuotas. La Secretaría de Hacienda publicará las cuotas aplicables cada ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por el trasvase de agua?",
-    "¿Qué cuotas aplican al trasvase de aguas nacionales?",
-    "¿Cómo se determina el costo de mover agua de una zona a otra?",
-    "¿Qué significa trasvasar agua directamente?",
-    "¿Qué tipos de trasvase de agua existen?"
+    "¿Cuánto tengo que pagar si trasvaso agua?",
+    "¿Qué cuotas se aplican para exportar o importar agua?",
+    "¿Cómo funciona el trasvase de aguas nacionales?",
+    "¿Qué factores afectan las cuotas por el uso de agua?",
+    "¿Dónde puedo encontrar las cuotas vigentes para el trasvase de agua?",
+    "¿Qué es un concesionario de agua?"
   ]
 }

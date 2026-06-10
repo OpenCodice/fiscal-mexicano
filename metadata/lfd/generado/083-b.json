@@ -6,19 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 83-B",
-  "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "ley derogada",
-    "cambios en la ley fiscal"
+  "denominacion_comun": "Derogación de disposición fiscal",
+  "temas": [
+    "derogación",
+    "disposiciones fiscales",
+    "ley de fiscalización"
   ],
-  "resumen": "El Artículo 83-B ha sido derogado, lo que significa que ya no se aplica en la legislación fiscal.",
+  "terminos_coloquiales": [
+    "se eliminó un artículo",
+    "ya no existe este artículo",
+    "derogar",
+    "LFD"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene efecto legal ni aplica en la legislación fiscal vigente.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 83-B?",
-    "¿Está vigente el Artículo 83-B de la LFD?",
-    "¿Qué significa que un artículo haya sido derogado?"
+    "¿Qué significa que un artículo fue derogado?",
+    "¿Qué artículos de la LFD han sido eliminados?",
+    "¿Cómo afecta la derogación de un artículo a mis obligaciones fiscales?"
   ]
 }

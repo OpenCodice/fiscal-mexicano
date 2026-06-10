@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b743d8386cb8d7e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reexpedición de mercancías",
+  "denominacion_comun": "Reexpedición de Mercancías",
   "temas": [
-    "derechos de almacenaje",
     "aduanas",
+    "derechos de almacenaje",
     "reexpedición",
-    "despacho de mercancías"
+    "despacho aduanero"
   ],
   "terminos_coloquiales": [
     "cobro de almacenaje",
     "reexpedición de mercancías",
-    "derechos en aduana"
+    "aduana interior"
   ],
-  "resumen": "Cuando se reexpiden mercancías para su despacho en una aduana interior, es responsabilidad de la aduana ajustar y cobrar los derechos de almacenaje correspondientes.",
+  "resumen": "Cuando se reexpiden mercancías para ser despachadas en una aduana interior, esta aduana es responsable de ajustar y cobrar los derechos de almacenaje correspondientes.",
   "preguntas_ejemplo": [
-    "¿Quién cobra los derechos de almacenaje en la aduana?",
-    "¿Qué pasa con las mercancías reexpedidas?",
-    "¿Cómo se manejan los derechos por almacenamiento?",
-    "¿Qué implica la reexpedición en aduanas?"
+    "¿Quién cobra los derechos de almacenaje al reexpedir mercancías?",
+    "¿Qué sucede cuando se reexpiden mercancías en aduanas interiores?",
+    "¿Cuáles son los derechos que se cobran por almacenaje?",
+    "¿Cómo se ajustan los derechos de almacenaje en la aduana?",
+    "¿Qué implica la reexpedición de mercancías en aduanas?"
   ]
 }

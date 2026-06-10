@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f28f90e32cb1cf5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios culturales",
+  "denominacion_comun": "Derechos por servicios de monumentos",
   "temas": [
-    "derechos de exportación",
-    "permisos",
+    "servicios de registros",
+    "permisos de exportación",
     "dictámenes",
-    "monumentos",
-    "zonas históricas",
-    "servicios culturales"
+    "monumentos históricos",
+    "zonas artísticas"
   ],
   "terminos_coloquiales": [
-    "cuotas por permisos",
-    "costos de exportación temporal",
-    "tarifas de dictámenes",
-    "derechos culturales",
-    "pago por servicios de cultura"
+    "derechos por exportación de obras",
+    "servicios de patrimonio",
+    "dictamen de patrimonio",
+    "exportación temporal de obras"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por servicios relacionados con registros, permisos y dictámenes de monumentos y zonas históricas. Incluye cuotas para exportación temporal y dictámenes de bienes artísticos.",
+  "resumen": "Se establecen derechos a pagar por los servicios relacionados con los registros, permisos y dictámenes que realizan los institutos correspondientes en materia de monumentos y zonas históricas y artísticas. Estos incluyen permisos de exportación temporal y el dictamen para certificar la naturaleza histórica o artística de bienes.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un permiso de exportación para un monumento?",
-    "¿Qué derechos se tienen que pagar por un dictamen de un bien artístico?",
-    "¿Cuáles son las tarifas por servicios de los institutos culturales?",
-    "¿Cómo se obtienen permisos para exhibir obras de arte?",
-    "¿Qué tengo que pagar para registrar un monumento histórico?"
+    "¿Cuánto cuesta exportar temporalmente una obra?",
+    "¿Qué derechos debo pagar por un dictamen de un monumento?",
+    "¿Qué servicios ofrecen los Institutos Nacionales sobre monumentos?",
+    "¿Cómo se obtienen permisos para la exhibición de obras?",
+    "¿Hay costos para registrar un bien histórico o artístico?"
   ]
 }

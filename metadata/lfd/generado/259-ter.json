@@ -6,19 +6,17 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a253febd8561539c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derogación de artículo",
   "temas": [],
-  "terminos_coloquiales": [
-    "se derogó un artículo",
-    "artículo eliminado",
-    "quitar un artículo"
-  ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene validez legal.",
+  "terminos_coloquiales": [],
+  "resumen": "El artículo ha sido derogado y por lo tanto ya no tiene vigencia ni aplicación legal.",
   "preguntas_ejemplo": [
     "¿Qué significa que un artículo esté derogado?",
-    "¿Qué pasa con las leyes que se derogan?",
-    "¿Dónde puedo encontrar artículos vigentes?"
+    "¿Qué pasa con las obligaciones derivadas de un artículo derogado?",
+    "¿Dónde puedo encontrar información actualizada sobre las disposiciones fiscales?",
+    "¿Qué artículos han sido derogados recientemente?"
   ]
 }

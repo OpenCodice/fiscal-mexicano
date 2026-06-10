@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f95373efed55af9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de Derechos Consulares",
+  "denominacion_comun": "Exención de derechos consulares",
   "temas": [
     "legalización de firmas",
     "repatriación",
-    "pensionados",
-    "registros civiles",
-    "certificados consulares",
-    "documentos"
+    "registro de nacimientos",
+    "expedición de documentos",
+    "servicios consulares",
+    "certificados de nacionalidad"
   ],
   "terminos_coloquiales": [
-    "exenciones consulares",
-    "derechos consulares",
-    "trámites sin costo",
-    "servicios consulares"
+    "sin costo en servicios consulares",
+    "repatriación sin derechos",
+    "documentos sin pagar",
+    "certificado de nacionalidad",
+    "acta de nacimiento",
+    "acta de defunción",
+    "pasaporte",
+    "migración"
   ],
-  "resumen": "El artículo establece que no se pagarán derechos por ciertos servicios consulares, como la legalización de documentos y la repatriación de nacionales. También incluye exenciones para pensionados y registros civiles bajo ciertas condiciones.",
+  "resumen": "El artículo establece que no se pagarán derechos por ciertos servicios consulares, como la legalización de firmas, el registro de nacimientos y defunciones, y otros trámites relacionados con la repatriación y la nacionalidad. También incluye provisiones específicas para indigentes y pensionados mexicanos.",
   "preguntas_ejemplo": [
     "¿Cuáles son los servicios consulares que no tienen costo?",
-    "¿Qué documentos necesito para no pagar derechos consulares?",
-    "¿Los pensionados deben pagar derechos por sus trámites?",
-    "¿Cómo puedo repatriar a un familiar sin costo?",
-    "¿Qué se necesita para la legalización de firmas sin pagar derechos?"
+    "¿Puedo obtener mi acta de nacimiento sin pagar derechos?",
+    "¿Qué trámites están exentos de derechos por repatriación?",
+    "¿Necesito pagar algo para responsabilizar mi situación legal en el extranjero?",
+    "¿Qué documentos necesito para la legalización de firmas sin costo?"
   ]
 }

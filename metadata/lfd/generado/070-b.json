@@ -6,21 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Artículo derogado",
   "temas": [],
-  "terminos_coloquiales": [
-    "artículo que ya no existe",
-    "regla eliminada",
-    "normativa derogada"
-  ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no es válido y no se aplica más.",
+  "terminos_coloquiales": [],
+  "resumen": "El artículo 70-B de la Ley del Impuesto sobre la Renta ha sido derogado, por lo que ya no tiene vigencia.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 70-B?",
-    "¿Está vigente el artículo 70-B de la LFD?",
-    "¿Cuál es el estado actual del artículo 70-B?",
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Se aplica alguna norma en lugar del artículo 70-B?"
+    "¿Qué pasó con el artículo 70-B de la LFD?",
+    "¿Está vigente el artículo 70-B de la Ley Fiscal?",
+    "¿Cuáles son los efectos de la derogación del artículo 70-B?"
   ]
 }

@@ -6,22 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposiciones fiscales",
-  "temas": [
-    "derogación",
-    "disposiciones fiscales"
-  ],
-  "terminos_coloquiales": [
-    "ya no aplica",
-    "cancelación de ley",
-    "ley eliminada"
-  ],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene validez legal. Las disposiciones que contenía ya no se aplican.",
+  "denominacion_comun": "Derogación de Artículos",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene validez ni aplicación en la legislación actual.",
   "preguntas_ejemplo": [
     "¿Qué significa que un artículo esté derogado?",
-    "¿Qué leyes ya no aplican?",
-    "¿Cómo afecta la derogación a los contribuyentes?"
+    "¿Cuáles son las implicaciones de la derogación de un artículo?",
+    "¿Hay algún efecto legal de la derogación de este artículo?",
+    "¿Qué sucede con las disposiciones que estaban en este artículo?",
+    "¿Este artículo todavía se aplica de alguna manera después de su derogación?"
   ]
 }

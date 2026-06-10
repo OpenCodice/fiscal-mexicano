@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7b7632e4f09ee9a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos sobre puertos",
+  "denominacion_comun": "Derechos de uso de puertos",
   "temas": [
-    "concesiones",
-    "administradores portuarios",
     "derechos portuarios",
-    "uso de puertos"
+    "administradores portuarios",
+    "concesiones",
+    "muelles",
+    "embarque",
+    "desembarque"
   ],
   "terminos_coloquiales": [
-    "derechos de muelle",
-    "uso del puerto",
-    "concesiones de puertos",
-    "administración portuaria"
+    "derechos de puerto",
+    "uso de puertos",
+    "concesiones portuarias"
   ],
-  "resumen": "Este artículo establece que no se generarán derechos por el uso del puerto si este ha sido concesionado a un administrador portuario. Es decir, el uso del puerto por parte de un concesionario no genera pagos adicionales.",
+  "resumen": "Este artículo menciona que no se causarán derechos por el uso de un puerto cuando su administración haya sido concedida a un administrador portuario. Es relevante en el contexto de los servicios de muelles y las actividades de embarque y desembarque.",
   "preguntas_ejemplo": [
-    "¿Cuándo se generan derechos por el uso de un puerto?",
-    "¿Qué pasa si un puerto está concesionado?",
-    "¿Quiénes son los administradores portuarios?",
-    "¿Qué implica la concesión de un puerto?",
-    "¿Por qué no se causan derechos en un puerto concesionado?"
+    "¿Cuándo no se causan derechos por el uso de un puerto?",
+    "¿Qué son los derechos portuarios?",
+    "¿Quién es un administrador portuario?",
+    "¿Qué significa concesionar un puerto?",
+    "¿Cómo afectan los muelles al embarque y desembarque?"
   ]
 }

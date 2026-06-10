@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:874a6ebd803b11a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de derechos de riego",
+  "denominacion_comun": "Exenciones de derechos por uso de infraestructura hidráulica",
   "temas": [
     "distritos de riego",
     "unidades de riego",
+    "drenaje",
     "concesiones",
-    "derechos de uso de agua",
+    "servicio público de agua",
     "infraestructura hidráulica",
-    "servicio de agua potable",
-    "alcantarillado",
-    "saneamiento"
+    "derechos de uso"
   ],
   "terminos_coloquiales": [
-    "no pago por uso de agua de riego",
-    "exención de derechos de agua",
-    "gratis usar infraestructura de agua",
-    "concesiones de riego sin costo"
+    "derechos de uso de agua",
+    "distritos de riego",
+    "servicio de agua potable",
+    "alcantarillado",
+    "concesiones de riego"
   ],
-  "resumen": "Los distritos y unidades de riego que tengan permisos no pagarán por usar la infraestructura de riego. Además, ciertas entidades como municipios que ofrezcan agua potable tampoco tendrán que pagar por usar infraestructura hidráulica construida por el gobierno.",
+  "resumen": "Los distritos y unidades de riego no pagarán derechos por el uso de la infraestructura si tienen concesiones. Lo mismo aplica a entidades federativas y municipios que presten servicios públicos de agua y usen infraestructura construida por el gobierno federal.",
   "preguntas_ejemplo": [
-    "¿Los distritos de riego tienen que pagar por usar el agua?",
-    "¿Quiénes están exentos de pagar derechos por la infraestructura de agua?",
-    "Si una entidad hace uso de infraestructura del gobierno, ¿tiene que pagar algo?",
-    "¿Qué concesiones no implican costos para los municipios?",
-    "¿Qué tipos de infraestructura hidráulica están exentos de derechos?"
+    "¿Quién no paga derechos por el uso de infraestructura de riego?",
+    "¿Qué exenciones existen para el servicio público de agua?",
+    "¿Los municipios tienen que pagar por el uso de la infraestructura hidráulica?",
+    "¿Qué condiciones deben cumplirse para no pagar derechos de uso de agua?",
+    "¿Se establecen exenciones de derechos en el artículo 237-C?"
   ]
 }

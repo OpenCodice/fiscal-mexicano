@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:102af8244b08d535",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios de Certificación de Firma Electrónica",
   "temas": [
     "firma electrónica",
-    "certificación",
     "actos de comercio",
-    "servicios"
+    "certificación de firma",
+    "servicios digitales"
   ],
   "terminos_coloquiales": [
-    "firma digital",
-    "certificación de firmas",
-    "cómo certificar una firma",
-    "servicios de firma electrónica"
+    "firma electrónica",
+    "e.firma",
+    "certificado de firma electrónica"
   ],
-  "resumen": "Este artículo se refiere a los servicios relacionados con la certificación de firmas electrónicas en los actos de comercio. La disposición ha sido derogada.",
+  "resumen": "Este artículo anteriormente regulaba los servicios de certificación de firma electrónica para actos de comercio. Sin embargo, ha sido derogado, lo que significa que ya no está en vigencia.",
   "preguntas_ejemplo": [
-    "¿Qué implica la certificación de una firma electrónica?",
-    "¿Necesito certificar mi firma para un contrato?",
-    "¿Cuáles son los servicios de firma electrónica disponibles?",
-    "¿Cómo funciona la firma electrónica en actos comerciales?"
+    "¿Qué era el Servicio de Certificación de Firma Electrónica?",
+    "¿Cuáles son los requisitos para usar firma electrónica en comercio?",
+    "¿Qué cambios ha habido en la regulación de la firma electrónica?",
+    "¿Qué significa que se haya derogado el artículo sobre firma electrónica?",
+    "¿Qué es la e.firma y cómo se usa en actos comerciales?"
   ]
 }

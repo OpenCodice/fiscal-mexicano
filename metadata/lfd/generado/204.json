@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:904a52873626e7f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exenciones de derechos para embarcaciones",
   "temas": [
-    "embarcaciones nacionales",
-    "embarcaciones extranjeras",
-    "derechos de puerto",
-    "exenciones",
+    "exenciones de derechos",
+    "embarcaciones",
+    "pesca comercial",
     "reciprocidad",
-    "buques de guerra",
-    "financiamiento humanitario",
-    "embarcaciones científicas"
+    "fines humanitarios",
+    "caso fortuito",
+    "emblemáticas",
+    "reparaciones",
+    "puertos"
   ],
   "terminos_coloquiales": [
-    "embarcaciones sin costo",
-    "exenciones de tarifas portuarias",
-    "barcos sin pagar derechos",
-    "embarcaciones que no pagan",
-    "barcos de guerra",
-    "buques para labores humanitarias"
+    "no pagar derechos de embarcaciones",
+    "exoneración de derechos",
+    "embarcaciones de guerra",
+    "embarcaciones civiles",
+    "embarcaciones para pesca",
+    "barcos científicos",
+    "embarcaciones en puerto por fuerza mayor"
   ],
-  "resumen": "Este artículo establece que ciertas embarcaciones no tendrán que pagar derechos en los puertos. Esto incluye embarcaciones de guerra, civiles en servicio oficial, y aquellas dedicadas a la conservación o reparación de cables submarinos, entre otras.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales no se deben pagar derechos por diversas embarcaciones, incluyendo barcos de guerra, civiles en servicio oficial, y aquellos dedicados a la pesca comercial o a fines humanitarios. También menciona situaciones de fuerza mayor que justifican la exención de derechos.",
   "preguntas_ejemplo": [
-    "¿Qué embarcaciones están exentas de pagar derechos en el puerto?",
-    "¿Las embarcaciones de guerra no pagan derechos?",
-    "¿Qué tiene que ver la reciprocidad con los derechos de puerto?",
-    "¿Las embarcaciones dedicadas a fines científicos pagan derechos?",
-    "¿Qué condiciones permiten que un barco no pague derechos de puerto?"
+    "¿Cuáles embarcaciones están exentas de pagar derechos?",
+    "¿Qué significa reciprocidad en el contexto de embarcaciones?",
+    "¿Las embarcaciones de pesca pagan derechos?",
+    "¿Qué pasa si una embarcación llega por caso fortuito?",
+    "¿Se eximen de derechos las embarcaciones de gobiernos extranjeros?",
+    "¿Cuándo no se pagan derechos por reparaciones de embarcaciones?"
   ]
 }

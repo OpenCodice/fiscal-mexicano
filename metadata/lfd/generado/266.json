@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0a961d5ceff7f985",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de concesiones mineras",
@@ -14,20 +15,19 @@
     "derechos sobre minería",
     "incumplimiento de pago",
     "Ley Minera",
-    "obligaciones fiscales"
+    "disposiciones fiscales"
   ],
   "terminos_coloquiales": [
-    "cancelar concesión minera",
-    "pago de derechos mineros",
-    "fallo en pago de concesiones",
-    "problemas con concesiones mineras"
+    "cancelación de concesiones",
+    "derechos mineros",
+    "deudas mineras"
   ],
-  "resumen": "Si se cancela una concesión minera por no pagar los derechos, el titular sigue obligado a pagar lo que adeuda. También tiene que cumplir con otras obligaciones que surjan por este incumplimiento.",
+  "resumen": "Si se cancela una concesión o asignación minera por no pagar los derechos correspondientes, el titular aún debe pagar lo que causó durante su vigencia, además de otros cargos. Esto está regido por las disposiciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si cancelo mi concesión minera?",
-    "¿Aún tengo que pagar si me cancelan la concesión?",
-    "¿Cuáles son las consecuencias de no pagar derechos mineros?",
-    "¿Qué debo hacer si incumplo con el pago de minería?",
-    "¿Se puede cancelar una concesión minera sin consecuencias?"
+    "¿Qué pasa si no pago mis derechos de minería?",
+    "¿Me liberan del pago si me cancelan la concesión minera?",
+    "¿Qué debo pagar si incumplo con los derechos mineros?",
+    "¿Cuáles son las consecuencias de no pagar mis derechos sobre minería?",
+    "¿Qué establece la Ley Minera sobre el incumplimiento de pago?"
   ]
 }

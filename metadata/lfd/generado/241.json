@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e52a57854bc20929",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de emisión satelital",
+  "denominacion_comun": "Derechos por uso de espectro radioeléctrico",
   "temas": [
     "concesionarios",
     "derechos de emisión",
+    "señales satelitales",
     "espectro radioeléctrico",
-    "megaherztz",
     "telecomunicaciones",
+    "cuotas",
     "pagos",
-    "agencia de telecomunicaciones"
+    "megahertz"
   ],
   "terminos_coloquiales": [
-    "pago por uso de satélites",
-    "derechos de espectro",
-    "costos de telecomunicaciones satelitales",
-    "cuotas por megahertz"
+    "derechos por espectro",
+    "uso de frecuencias",
+    "pago de megahertz",
+    "telecomunicaciones satelitales",
+    "comisión de telecomunicaciones"
   ],
-  "resumen": "Los concesionarios de satélites en México deben pagar derechos por el uso del espectro radioeléctrico basado en los megaherztz que utilizan. También deben realizar estos pagos en fechas específicas y demostrar los pagos hechos en su país de origen.",
+  "resumen": "Los concesionarios que usan espectro radioeléctrico para servicios satelitales deben pagar cuotas por megahertz utilizados en territorio nacional. Los pagos se realizan semestralmente y están sujetos a ciertas deducciones y condiciones relacionadas con concesiones en el país de origen.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por el uso del espectro de satélites?",
-    "¿Cuándo se hacen los pagos por derechos de emisión?",
-    "¿Puedo acreditar mis pagos por el uso de megaherztz?",
-    "¿Cómo se calcula el importe a pagar por el uso de satélites?",
-    "¿Qué requisitos debo cumplir para pagar derechos de telecomunicaciones?"
+    "¿Cuánto tengo que pagar por el uso de megahertz?",
+    "¿Cómo se calcula el pago por espectro radioeléctrico?",
+    "¿Cuándo debo realizar el pago de derechos por telecomunicaciones?",
+    "¿Qué cuotas debo considerar para los megahertz que utilizo?",
+    "¿Puedo acreditar los pagos realizados en el país de origen del satélite?"
   ]
 }

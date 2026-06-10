@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3ad3e4fc028f34a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por anuncios publicitarios",
   "temas": [
     "anuncios publicitarios",
     "señalamientos informativos",
-    "derechos",
+    "derechos anuales",
+    "cuotas",
     "carreteras federales",
     "recintos portuarios"
   ],
   "terminos_coloquiales": [
-    "costo de anuncios",
-    "pago por anuncios",
-    "derechos de publicidad",
-    "costo de señalización"
+    "anuncios",
+    "señales informativas",
+    "permisos de anuncios",
+    "derechos por anuncios",
+    "cuotas de anuncios"
   ],
-  "resumen": "Se establecen los derechos anuales que deben pagarse por la instalación de anuncios publicitarios y señales informativas en carreteras federales y recintos portuarios, dependiendo de su tamaño. Estos derechos deben pagarse de manera adelantada a través de una declaración a la Secretaría de Hacienda.",
+  "resumen": "Este artículo establece que se deben pagar derechos anuales por la instalación de anuncios publicitarios fuera del derecho de vía y por señalizaciones informativas dentro del derecho de vía en carreteras federales y recintos portuarios. Las cuotas varían dependiendo del tamaño de los anuncios.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta poner un anuncio en la carretera?",
-    "¿Qué derechos tengo que pagar por anuncios publicitarios?",
-    "¿Cómo hago el pago por señalización informativa?",
-    "¿Dónde se presentan las declaraciones para derechos de anuncios?",
-    "¿Hay un costo diferente si el anuncio es más grande?"
+    "¿Cuánto tengo que pagar por instalar un anuncio publicitario?",
+    "¿Cuáles son las cuotas por señales informativas?",
+    "¿Dónde debo presentar la declaración para pagar los derechos de anuncios?",
+    "¿Qué tamaño de anuncio tiene una tarifa diferente?",
+    "¿Cómo se calculan los derechos por anuncios en carreteras?"
   ]
 }

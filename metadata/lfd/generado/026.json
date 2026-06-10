@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:818c901be9135de8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de tramitación de nacionalidad",
+  "denominacion_comun": "Derechos de trámite de nacionalidad y naturalización",
   "temas": [
+    "derechos de trámite",
     "nacionalidad",
     "naturalización",
-    "derechos de trámite",
-    "certificados",
-    "constancias",
-    "carta de naturalización"
+    "certificado de nacionalidad",
+    "constancia de renuncia",
+    "carta de naturalización",
+    "constancia de no antecedentes"
   ],
   "terminos_coloquiales": [
-    "trámite de nacionalidad",
     "carta de naturalización",
-    "certificado de nacionalidad",
-    "costos de nacionalidad",
-    "derechos de nacionalidad"
+    "certificado de nacionalidad mexicana",
+    "derechos de nacionalidad",
+    "naturalización",
+    "renuncia a la nacionalidad"
   ],
-  "resumen": "Se establecen los derechos de trámite que deben pagarse por servicios relacionados con la nacionalidad y naturalización, incluyendo solicitudes de certificados y constancias. Las cuotas varían dependiendo del tipo de documento solicitado.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por los trámites relacionados con la nacionalidad y naturalización en México. Incluye costos por la expedición de certificados, constancias y cartas de naturalización.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un certificado de nacionalidad?",
-    "¿Qué documentos necesito para la carta de naturalización?",
-    "¿Cuáles son los costos del trámite de nacionalidad mexicana?",
-    "¿Qué es la constancia de renuncia a la nacionalidad?",
-    "¿Cómo se solicita un documento de nacionalidad?"
+    "¿Cuánto cuesta obtener el certificado de nacionalidad mexicana?",
+    "¿Cuáles son las tarifas para los trámites de nacionalidad?",
+    "¿Qué cuota se paga por la carta de naturalización?",
+    "¿Cuánto se cobra por la constancia de no antecedentes de naturalización?",
+    "¿Cómo se solicita la renuncia a la nacionalidad mexicana?"
   ]
 }

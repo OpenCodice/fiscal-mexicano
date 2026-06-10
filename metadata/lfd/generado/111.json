@@ -6,19 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 111",
-  "temas": [],
-  "terminos_coloquiales": [
-    "¿Qué pasó con el Artículo 111?",
-    "Artículo 111 derogado",
-    "Eliminar el Artículo 111"
+  "denominacion_comun": "Derogación de Artículo",
+  "temas": [
+    "derogación",
+    "legislación fiscal"
   ],
-  "resumen": "El Artículo 111 ha sido derogado, por lo que ya no está en vigor.",
+  "terminos_coloquiales": [
+    "se derogó",
+    "ya no existe",
+    "anulación"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está vigente ni tiene efectos legales.",
   "preguntas_ejemplo": [
-    "¿Qué significa que se haya derogado el Artículo 111?",
-    "¿Cuáles son las implicaciones de la derogación del Artículo 111?",
-    "¿Qué leyes quedan después de la derogación del Artículo 111?"
+    "¿Qué pasó con el artículo 111 de la LFD?",
+    "¿Este artículo sigue en vigor?",
+    "¿Se derogó alguna disposición fiscal recientemente?",
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Dónde puedo ver qué artículos se han derogado?"
   ]
 }

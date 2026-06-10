@@ -6,25 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0842516ad47abc83",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por intermediario de reaseguro",
+  "denominacion_comun": "Derechos por autorización de reaseguro",
   "temas": [
-    "autorización",
     "intermediario de reaseguro",
+    "autorización de reaseguro",
     "derechos",
-    "comisión nacional",
-    "registro"
+    "Comisión Nacional de Seguros y Fianzas"
   ],
   "terminos_coloquiales": [
-    "costos de reaseguro",
-    "cuotas de reaseguro",
-    "derechos para reaseguro"
+    "autorización de reaseguro",
+    "derechos de reaseguro",
+    "intermediario de reaseguro"
   ],
-  "resumen": "Se establecen las cuotas que se deben pagar por la autorización y registro de intermediarios de reaseguro ante la Comisión Nacional de Seguros y Fianzas. También se especifican costos para apoderados y refrendos de autorización.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la autorización o registro de intermediario de reaseguro ante la Comisión Nacional de Seguros y Fianzas. Incluye tarifas para la autorización definitiva y para ejercer como apoderado de intermediario de reaseguro, así como el refrendo de autorización.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta registrarse como intermediario de reaseguro?",
-    "¿Qué derechos se tienen que pagar para ser apoderado de intermediario de reaseguro?",
-    "¿Qué cuota hay que cubrir para refrendar la autorización de reaseguro?"
+    "¿Cuánto se paga por ser intermediario de reaseguro?",
+    "¿Qué derechos se deben pagar para la autorización de reaseguro?",
+    "¿Cuáles son las tarifas de la Comisión Nacional de Seguros y Fianzas para reaseguro?"
   ]
 }

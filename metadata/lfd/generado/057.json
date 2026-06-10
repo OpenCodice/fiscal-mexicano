@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b1aa0ca636f5a787",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por gas natural",
+  "denominacion_comun": "Derechos por servicios de gas natural",
   "temas": [
-    "derechos",
-    "gas natural",
-    "permisos",
-    "transportación",
-    "almacenamiento",
-    "distribución",
-    "supervisión"
+    "permisos de gas natural",
+    "derechos de distribución",
+    "derechos de transporte",
+    "derechos de almacenamiento",
+    "cuotas anuales",
+    "modificación de permisos"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de gas",
-    "derechos de gas",
-    "tarifa de gas natural",
-    "cobros de gas natural"
+    "gas natural",
+    "permisos de gas",
+    "derechos por gas",
+    "transportar gas",
+    "almacenamiento de gas"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por los servicios relacionados con la distribución, almacenamiento y transporte de gas natural. Esto incluye cuotas por permisos y supervisión de estos servicios.",
+  "resumen": "Este artículo establece los derechos que deben pagarse por los servicios relacionados con la distribución, transporte y almacenamiento de gas natural, así como las cuotas aplicables para la expedición y supervisión de permisos. También se mencionan los costos por la modificación de dichos permisos.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por un permiso de gas natural?",
-    "¿Qué derechos hay que cubrir para el almacenamiento de gas?",
-    "¿Cuáles son las tarifas para el transporte de gas natural?",
-    "¿Cómo se calcula el derecho por modificación de permisos de gas?",
-    "¿Qué costos hay por la supervisión de permisos de gas?"
+    "¿Cuánto se paga por un permiso de distribución de gas natural?",
+    "¿Qué derechos se aplican al transporte de gas natural?",
+    "¿Hay costos anuales por permisos de gas natural?",
+    "¿Qué cuota se debe pagar para modificar un permiso de gas natural?",
+    "¿Cuáles son los requisitos para obtener un permiso de almacenamiento de gas?"
   ]
 }

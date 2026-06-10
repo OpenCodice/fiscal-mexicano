@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec38d0b76a7d7596",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación presuntiva del volumen de agua",
+  "denominacion_comun": "Determinación Presuntiva del Volumen de Agua",
   "temas": [
-    "autoridad fiscal",
     "medición de agua",
     "sanciones",
-    "derechos de agua"
+    "fiscalización",
+    "derechos de agua",
+    "comisión nacional del agua"
   ],
   "terminos_coloquiales": [
-    "cómo mide el agua la autoridad",
-    "cuándo pueden decidir cuánto agua uso",
-    "medición del agua sin aparato",
-    "sanciones por no pagar derechos de agua"
+    "volumen de agua",
+    "medidor de agua",
+    "medición",
+    "derecho de agua"
   ],
-  "resumen": "La autoridad fiscal puede determinar el volumen de agua que se usa en ciertas situaciones, como la falta de medidor o la falta de pago. También puede actuar si hay obstrucciones o problemas con el medidor.",
+  "resumen": "La autoridad fiscal puede estimar el volumen de agua en caso de que no haya medidor instalado, el medidor no funcione, se oponga a la verificación, no se lleven registros adecuados, entre otros. Esta determinación se realiza sin afectar las sanciones correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede la autoridad determinar mi uso de agua sin medidor?",
-    "¿Qué debo hacer si mi medidor de agua no funciona?",
-    "¿Qué pasa si no informo que mi medidor está roto?",
-    "¿Puede la autoridad cobrarme si no llevo registro de mis lecturas de agua?",
-    "¿Qué sanciones hay si uso agua sin autorización?"
+    "¿Qué pasa si no tengo medidor de agua?",
+    "¿Qué sucede si mi medidor de agua no funciona correctamente?",
+    "¿Cuáles son las sanciones si no presento la información de uso de agua?",
+    "¿Qué sucede si altero el medidor de agua?",
+    "¿Cómo se determina el volumen de agua si no llevo registros?"
   ]
 }

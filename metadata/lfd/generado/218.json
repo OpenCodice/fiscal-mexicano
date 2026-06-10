@@ -6,24 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:475a23c7ccd6ff5d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aeropuertos",
   "temas": [
-    "aeropuertos",
-    "regulación",
     "impuestos",
-    "derogación"
+    "regímenes fiscales",
+    "exenciones fiscales",
+    "gastos deducibles"
   ],
   "terminos_coloquiales": [
-    "ley de aeropuertos",
-    "impuestos de aeropuertos",
-    "reglas para aeropuertos"
+    "impuestos sobre aeropuertos",
+    "regímenes fiscales en aeropuertos"
   ],
-  "resumen": "El artículo ya no está en vigor ya que se ha derogado. No existen obligaciones actuales relacionadas con él.",
+  "resumen": "Este artículo se refiere a los aspectos fiscales relacionados con los aeropuertos, incluyendo impuestos y deducciones. La disposición ha sido derogada.",
   "preguntas_ejemplo": [
-    "¿Qué dice la ley sobre aeropuertos?",
-    "¿Qué impuestos aplican a los aeropuertos?",
-    "¿Está vigente la regulación de aeropuertos?"
+    "¿Qué impuestos se aplican a los aeropuertos?",
+    "¿Cómo funcionan las deducciones fiscales en aeropuertos?",
+    "¿Existen exenciones fiscales para aeropuertos?",
+    "¿Qué régimen fiscal se aplica a las operaciones aeroportuarias?",
+    "¿Cuáles son los gastos deducibles relacionados con aeropuertos?"
   ]
 }

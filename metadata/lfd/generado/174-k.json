@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9982929d27fdef3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por certificados de estaciones radioeléctricas",
+  "denominacion_comun": "Derechos por estaciones radioeléctricas",
   "temas": [
     "certificados de aptitud",
     "estaciones radioeléctricas",
-    "derechos",
-    "expedición",
+    "cuotas",
     "exámenes",
     "revalidación"
   ],
   "terminos_coloquiales": [
-    "cuota para certificados",
-    "derechos por estaciones de radio",
-    "costo de exámenes",
-    "pago por revalidación"
+    "certificados de radio",
+    "derechos por instalaciones de radio",
+    "estaciones de radio",
+    "permisos de radio"
   ],
-  "resumen": "Se deben pagar derechos para obtener certificados de aptitud para instalar y operar estaciones radioeléctricas. Estos derechos varían según el tipo de trámite que se realice.",
+  "resumen": "Se establecen las cuotas que se deben pagar por la expedición de certificados de aptitud para operar estaciones radioeléctricas, así como por exámenes y revalidaciones de estos certificados.",
   "preguntas_ejemplo": [
     "¿Cuánto cuesta obtener un certificado para una estación de radio?",
-    "¿Cuáles son los derechos por examen de radioeléctrica?",
-    "¿Qué pago necesito hacer para la revalidación de mi certificado?",
-    "¿Qué derechos se aplican para instalar una estación radioeléctrica?"
+    "¿Qué derechos debo pagar para operar una estación radioeléctrica?",
+    "¿Hay algún costo para revalidar un certificado de aptitud de radio?",
+    "¿Cuáles son las tarifas para los exámenes de estaciones radioeléctricas?"
   ]
 }

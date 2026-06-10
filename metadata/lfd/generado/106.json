@@ -6,19 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del artículo",
+  "denominacion_comun": "Derogación del Artículo",
   "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "se eliminó un artículo",
-    "quitaron una ley"
-  ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está vigente ni se aplica.",
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ya no tiene validez legal al estar derogado.",
   "preguntas_ejemplo": [
-    "¿Qué artículos han sido derogados?",
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Cómo afectan las derogaciones a la legislación actual?"
+    "¿Qué pasó con el artículo 106 de la LFD?",
+    "¿Está vigente el artículo 106 de la LFD?",
+    "¿Qué significa que un artículo esté derogado?"
   ]
 }

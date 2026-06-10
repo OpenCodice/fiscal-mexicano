@@ -6,25 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89bd2923bccaeb70",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios Migratorios",
+  "denominacion_comun": "Trámites migratorios",
   "temas": [
-    "cotejo de documentos",
-    "trámites migratorios",
     "derechos",
-    "exenciones"
+    "servicios migratorios",
+    "cotejo de documentos",
+    "trámites"
   ],
   "terminos_coloquiales": [
-    "trámites de migración",
-    "cotejo de documentos",
-    "sin derechos migratorios"
+    "no pago de derechos migratorios",
+    "trámites de inmigración",
+    "cotejo de documentos"
   ],
-  "resumen": "No se tienen que pagar derechos por el cotejo de documentos necesarios para realizar trámites migratorios.",
+  "resumen": "No se deben pagar derechos por los servicios relacionados con el cotejo de documentos para realizar trámites migratorios. Esto significa que este procedimiento no tiene costo asociado.",
   "preguntas_ejemplo": [
-    "¿Tengo que pagar por el cotejo de mis documentos para migración?",
+    "¿Cuánto cuesta el cotejo de documentos para trámites migratorios?",
+    "¿Se deben pagar derechos por servicios migratorios?",
     "¿Qué servicios migratorios no tienen costo?",
-    "¿Los trámites migratorios requieren pago de derechos?",
-    "¿Qué implica el cotejo de documentos en mi trámite migratorio?"
+    "¿Hay que pagar por el cotejo de documentos?"
   ]
 }

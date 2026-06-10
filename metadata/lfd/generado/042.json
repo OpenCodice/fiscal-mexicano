@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c1b4702138f277ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de almacenaje en aduanas",
+  "denominacion_comun": "Cuotas de almacenaje en aduanas",
   "temas": [
-    "cuotas diarias",
     "derechos de almacenaje",
-    "mercancías de comercio exterior",
+    "mercancías",
+    "depósito ante la aduana",
     "recintos fiscales",
-    "equipajes personales"
+    "equipajes",
+    "contenedores",
+    "custodia especial"
   ],
   "terminos_coloquiales": [
-    "tarifas por almacenaje",
-    "costo de dejar mercancía en aduana",
-    "cobro por custodia de mercancías",
-    "cuánto se paga por almacenaje en aduanas"
+    "costos de almacenamiento en aduanas",
+    "cuotas de aduana",
+    "derechos de manejo",
+    "almacenaje de mercancías",
+    "derecho de almacenaje",
+    "recintos fiscales"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por el manejo y almacenaje de mercancías en recintos fiscales. Se especifican diferentes tarifas dependiendo del tiempo de almacenaje y el tipo de mercancía.",
+  "resumen": "Este artículo establece las cuotas diarias que se deben pagar por el manejo y almacenaje de mercancías en recintos fiscales. Los costos varían según el tipo de mercancía y el tiempo de almacenaje requerido.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por almacenar mercancías en la aduana?",
-    "¿Qué tarifas aplican para el almacenaje de explosivos en aduanas?",
-    "¿Cuál es el costo diario por cuidar mis efectos personales en la aduana?",
-    "¿Qué se considera mercancía para el cobro de derechos de almacenaje?",
-    "¿Cómo se calculan las cuotas de almacenaje por tiempo en aduanas?"
+    "¿Cuánto debo pagar por almacenar mercancías en la aduana?",
+    "¿Qué cuotas hay para el almacenaje de equipajes en recintos fiscales?",
+    "¿Cómo se calculan los derechos de almacenaje por mercancías peligrosas?",
+    "¿Qué sucede si mis mercancías están almacenadas más de 30 días?",
+    "¿Hay tarifas especiales para almacenar contenedores grandes?"
   ]
 }

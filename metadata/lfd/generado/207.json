@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae9b3ad83068ef0d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de embarque y desembarque",
+  "denominacion_comun": "Derecho de embarque y desembarque",
   "temas": [
-    "derechos",
-    "embarcaciones",
+    "derechos portuarios",
+    "embarque",
+    "desembarque",
     "pasajeros",
-    "puertos"
+    "cabotaje",
+    "cargos portuarios"
   ],
   "terminos_coloquiales": [
-    "cuota de embarque",
-    "pago de desembarque",
-    "costo de abordar",
-    "tarifa de puerto"
+    "derecho de embarque",
+    "derecho de desembarque",
+    "cargos por embarque",
+    "cargos por desembarque"
   ],
-  "resumen": "El pasajero que embarque o desembarque en muelles de la Federación debe pagar una cuota específica. Esta cuota varía dependiendo de si las instalaciones son exclusivas para pasajeros o no.",
+  "resumen": "El artículo establece las cuotas que deben pagar los pasajeros al embarcar o desembarcar en muelles de la Federación. También menciona que los pasajeros de embarcaciones nacionales que operen en tráfico de cabotaje pagarán una tarifa reducida.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar al embarcarme?",
-    "¿Cuál es la tarifa para desembarcar en un muelle federal?",
-    "¿Qué derechos debo cubrir al usar un muelle de la Federación?",
-    "¿Hay descuentos si viajo en una embarcación nacional?",
-    "¿Cómo se determina el costo de embarque en puertos?"
+    "¿Cuánto tengo que pagar por el derecho de embarque?",
+    "¿Qué tarifas hay para desembarcar en un puerto?",
+    "¿Los pasajeros de cabotaje también pagan derechos de embarque?",
+    "¿Cuándo se paga el derecho de embarque?",
+    "¿Qué diferencia hay entre instalaciones para pasajeros y no exclusivos?"
   ]
 }

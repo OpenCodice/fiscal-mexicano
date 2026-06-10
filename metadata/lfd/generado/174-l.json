@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:37256760b1424689",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por concesiones y licencias",
+  "denominacion_comun": "Derechos de concesiones y telecomunicaciones",
   "temas": [
-    "Concesiones públicas",
-    "Uso social",
-    "Derechos de radio",
-    "Licencias de telecomunicaciones",
-    "Peritos en radiodifusión"
+    "concesiones",
+    "derechos",
+    "telecomunicaciones",
+    "licencias de radio",
+    "peritos"
   ],
   "terminos_coloquiales": [
-    "Cuotas por concesiones",
-    "Licencias de radio",
-    "Derechos de telecomunicaciones",
-    "Costos por concesiones",
-    "Acreditación de peritos"
+    "concesiones para uso público",
+    "concesiones para uso social",
+    "licencias de estación de radio",
+    "peritos en telecomunicaciones",
+    "acreditación de peritos",
+    "MMSI"
   ],
-  "resumen": "Este artículo establece los pagos que se deben realizar por concesiones de uso público y social, así como los costos asociados a licencias de estación de radio y acreditación de peritos en telecomunicaciones. Además, se especifica que no se pagarán derechos en ciertos casos relacionados con comunidades indígenas.",
+  "resumen": "El artículo establece los pagos de derechos por concesiones para uso público y social, así como por licencias de radio y acreditaciones de peritos en telecomunicaciones. También menciona que no se pagarán derechos en ciertos casos de servicio vinculado a comunidades indígenas.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por una concesión pública?",
-    "¿Hay cuotas especiales para concesiones comunitarias?",
-    "¿Cuánto cuesta obtener una licencia para una estación de radio?",
-    "¿Qué derechos se deben pagar para ser perito en telecomunicaciones?",
-    "¿Existen reducciones en las tarifas para concesiones sociales?"
+    "¿Cuánto tengo que pagar por una concesión para uso social?",
+    "¿Qué derechos se aplican a las licencias de radio en barcos?",
+    "¿Cuáles son los costos para acreditar a un perito en telecomunicaciones?",
+    "¿Se cuentan con descuentos para concesiones a comunidades indígenas?",
+    "¿Qué cuota se paga para modificaciones de concesiones?"
   ]
 }

@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bb2f57e394eee8c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de pesca deportivo-recreativa",
+  "denominacion_comun": "Derecho de pesca",
   "temas": [
+    "recursos pesqueros",
+    "pesca deportivo-recreativa",
     "cuotas de pesca",
-    "permiso individual",
-    "pesca deportiva",
-    "ingresos fiscales"
+    "permiso de pesca"
   ],
   "terminos_coloquiales": [
-    "costo de la licencia de pesca",
-    "cuota de pesca recreativa",
-    "derecho de pesca",
-    "cómo obtener permiso de pesca"
+    "pescas",
+    "derechos de pesca",
+    "cuotas de permiso de pesca"
   ],
-  "resumen": "El artículo establece las cuotas que se deben pagar por el derecho a realizar pesca deportivo-recreativa, que varían según el tiempo de la licencia. También menciona que algunas entidades federativas pueden administrar estos ingresos directamente a través de convenios con la Secretaría de Hacienda.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por el derecho a pescar en actividades deportivo-recreativas, incluyendo tarifas para diferentes duraciones de permiso. También menciona que las entidades federativas que firmen convenios pueden administrar estos ingresos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta pescar por un día?",
-    "¿Qué permiso necesito para pescar en México?",
-    "¿Hay cuotas especiales para turistas que vienen a pescar?",
-    "¿Las cuotas de pesca son las mismas en todos los estados?",
-    "¿Qué se necesita para obtener una licencia de pesca deportiva?"
+    "¿Cuánto se paga por el permiso de pesca por un día?",
+    "¿Cuáles son las tarifas para pescar por una semana?",
+    "¿Qué cuota se aplica para una excursión de pesca del extranjero?",
+    "¿Qué derechos tengo si soy pescador recreativo?",
+    "¿Las entidades pueden administrar los derechos de pesca?",
+    "¿Cuáles son las tarifas anuales para la pesca?"
   ]
 }

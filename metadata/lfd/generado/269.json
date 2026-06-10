@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:045bfb0d8a6d4222",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho adicional sobre minería",
   "temas": [
     "concesiones mineras",
-    "derechos sobre minería",
     "exploración",
     "explotación",
-    "obras",
-    "cuota",
-    "pagos"
+    "derechos mineros",
+    "cuotas",
+    "pagos semestrales"
   ],
   "terminos_coloquiales": [
-    "pago de derechos mineros",
-    "costo de concesiones",
-    "derecho sobre minería",
-    "impuesto a minería",
-    "concesiones sin actividad",
-    "multas mineras"
+    "derecho extra de minería",
+    "concesiones mineras",
+    "pago de derechos",
+    "obra minera"
   ],
-  "resumen": "Los titulares de concesiones mineras que no realicen actividades de exploración o explotación durante dos años deberán pagar un derecho adicional por hectárea. Este pago es semestral y varía dependiendo del tiempo de la concesión.",
+  "resumen": "Este artículo establece que los titulares de concesiones mineras deben pagar un derecho adicional si no realizan obras de exploración o explotación dentro de los primeros once años de su concesión. Este pago es semestral y varía según el tiempo de vigencia de la concesión.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no realizo trabajos en mi concesión minera?",
-    "¿Cuánto debo pagar si no hago exploración por dos años?",
-    "¿Cada cuánto tiempo se paga el derecho adicional sobre minería?",
-    "¿Cómo se calcula el derecho por hectárea en minería?",
-    "¿Qué ocurre si me retraso en el pago del derecho adicional?"
+    "¿Qué pasa si no hago trabajos en mi concesión minera?",
+    "¿Cuánto debo pagar si no he explorado mi mina en dos años?",
+    "¿Cuándo debo hacer el pago del derecho adicional sobre minería?",
+    "¿Qué porcentaje del derecho debo pagar si no he trabajado mi concesión por más de dos años?",
+    "¿Se modifica el pago si mi concesión tiene más de diez años?",
+    "¿Cómo calcular la parte proporcional del derecho si cumplo dos años en medio del semestre?"
   ]
 }

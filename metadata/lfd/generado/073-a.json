@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee881cb1b4dfeaa2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por marcas y contraseñas oficiales",
+  "denominacion_comun": "Derechos por uso de marcas y contraseñas",
   "temas": [
-    "derechos",
-    "marcas",
-    "contraseñas oficiales",
+    "trámite",
     "registro",
-    "autorización"
+    "autorización",
+    "marcas",
+    "contraseñas",
+    "derechos"
   ],
   "terminos_coloquiales": [
-    "derechos por marcas",
-    "costos de registro de marcas",
-    "cuota por contraseñas oficiales",
-    "autorización de marcas"
+    "pago de derechos",
+    "marcas oficiales",
+    "contraseñas oficiales"
   ],
-  "resumen": "Se establecen derechos que deben pagarse para el trámite y registro de marcas y contraseñas oficiales. Estos derechos se determinan conforme a una cuota específica.",
+  "resumen": "Este artículo establece que se deben pagar derechos por el trámite y, en su caso, registro y autorización para el uso de marcas y contraseñas oficiales. Se menciona una cuota específica a pagar por este concepto.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por registrar una marca?",
-    "¿Qué costos involucra el uso de contraseñas oficiales?",
-    "¿Qué derechos hay que pagar para autorizar una marca?",
-    "¿Cuáles son los trámites para el registro de marcas?"
+    "¿Cuánto cuesta el registro de una marca oficial?",
+    "¿Qué derechos debo pagar para usar contraseñas oficiales?",
+    "¿Cómo puedo obtener la autorización para el uso de una marca?",
+    "¿Cuáles son los trámites para el uso de marcas y contraseñas oficiales?",
+    "¿Qué requisitos se necesitan para registrar una marca?"
   ]
 }

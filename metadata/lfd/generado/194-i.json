@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e2800b9a1dd05a49",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por organismos genéticamente modificados",
+  "denominacion_comun": "Permisos de organismos genéticamente modificados",
   "temas": [
+    "derechos",
     "organismos genéticamente modificados",
-    "permisos de liberación",
-    "cuotas",
+    "permisos",
+    "liberación al ambiente",
     "importación"
   ],
   "terminos_coloquiales": [
-    "costo de permisos GMO",
-    "derechos por liberación de GMO",
-    "cuotas por organismos modificados",
-    "precio permisos GMO"
+    "OGM",
+    "permisos de OGM",
+    "liberación de OGM",
+    "importación de OGM"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por los permisos relacionados con la liberación de organismos genéticamente modificados al ambiente, incluyendo diferentes tipos de permisos y su importación.",
+  "resumen": "Este artículo establece las tarifas que se deben pagar por los permisos relacionados con la liberación de organismos genéticamente modificados al ambiente. Incluye distintos tipos de permisos como el experimental, el de programa piloto y el comercial.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso para liberar organismos genéticamente modificados?",
-    "¿Qué tipos de permisos existen para organismos modificados?",
-    "¿Cuál es la cuota por la importación de GMO?",
-    "¿Hay un costo por reconsiderar un permiso de GMO?",
-    "¿Qué incluye el permiso de liberación comercial de GMO?"
+    "¿Cuánto cuesta obtener un permiso para liberar OGM?",
+    "¿Qué tipos de permisos se necesitan para organismos genéticamente modificados?",
+    "¿Qué requisitos hay para importar organismos genéticamente modificados?",
+    "¿Hay una cuota por reconsiderar una resolución negativa de permisos de OGM?",
+    "¿Cuál es el proceso para obtener permisos de liberación de OGM?"
   ]
 }

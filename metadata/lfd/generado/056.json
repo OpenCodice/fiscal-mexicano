@@ -6,27 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5382c48bcd0065b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos en energía eléctrica",
   "temas": [
-    "Derechos",
-    "Energía eléctrica",
+    "derechos",
+    "energía eléctrica",
     "Comisión Reguladora de Energía",
-    "Permisos"
+    "permiso",
+    "supervisión",
+    "modificación de permisos",
+    "catálogo de precios",
+    "convenios y contratos"
   ],
   "terminos_coloquiales": [
-    "costos de permisos de energía",
+    "pagos por permisos de energía",
     "derechos de energía eléctrica",
-    "cobros de la CRE",
-    "tarifas para permisos de electricidad"
+    "supervisión de permisos",
+    "modificaciones de permiso",
+    "Modelo de Convenios",
+    "CRE"
   ],
-  "resumen": "Este artículo establece los derechos que se deben pagar por los servicios relacionados con la energía eléctrica, incluyendo análisis de solicitudes y supervisión de permisos, dependiendo de la capacidad de generación de energía. Se detallan las cuotas que corresponden según la capacidad nominal.",
+  "resumen": "Se establecen los derechos que se deben pagar por los servicios de la Comisión Reguladora de Energía en materia de energía eléctrica, tales como la expedición de permisos, supervisión y modificación de permisos. También incluye costos por la aprobación de modelos de convenios y el catálogo de precios.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por un permiso de energía eléctrica?",
-    "¿Cuáles son los derechos por supervisión de permisos en energía?",
-    "¿Qué tarifas se aplican para la modificación de títulos de permiso de energía eléctrica?",
-    "¿Cómo se determina el costo de los derechos en energía eléctrica?",
-    "¿Qué derechos se deben pagar a la CRE?"
+    "¿Cuánto debo pagar por el permiso de energía eléctrica?",
+    "¿Cuáles son las tarifas por supervisión de permisos de energía?",
+    "¿Qué derechos se pagan por la modificación de permisos de energía eléctrica?",
+    "¿Cómo se determina el costo del catálogo de precios en energía eléctrica?",
+    "¿Qué tarifas aplican para diferentes capacidades de energía eléctrica?",
+    "¿Qué costos están asociados a los convenios y contratos con la CRE?"
   ]
 }

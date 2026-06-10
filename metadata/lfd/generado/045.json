@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d6b067d6cb3b781",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de derechos de almacenaje",
+  "denominacion_comun": "Derechos de almacenaje",
   "temas": [
-    "derechos de almacenaje",
-    "exenciones",
-    "mercancías",
+    "exenciones fiscales",
+    "almacenaje de mercancías",
     "administración pública",
-    "embajadas",
-    "organismos internacionales",
-    "funcionarios consulares",
-    "accidentes",
-    "inspección",
-    "causa fortuita"
+    "embajadas y consulados",
+    "funcionarios diplomáticos",
+    "accidentes de transporte",
+    "verificación de mercancías"
   ],
   "terminos_coloquiales": [
-    "no pagar almacenaje",
-    "exención de almacenaje",
-    "derechos aduaneros",
-    "almacenaje gratis",
-    "mercancías exentas"
+    "derechos de almacenaje",
+    "mercancías de la administración pública",
+    "mercancías de embajadas",
+    "efectos personales de diplomáticos",
+    "restos de transporte",
+    "mercancías secuestradas",
+    "caso fortuito",
+    "fuera de control"
   ],
-  "resumen": "El artículo establece que no se pagarán derechos de almacenaje para ciertas mercancías, como las destinadas a la administración pública, embajadas y efectos personales de funcionarios. Estas exenciones solo aplican por un tiempo limitado y hay condiciones específicas para otras situaciones.",
+  "resumen": "No se cobran derechos de almacenaje por ciertas mercancías, como las de la administración pública y embajadas. Sin embargo, hay condiciones en las que se deben pagar estos derechos si no se cumplen las estipulaciones de exención.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías no pagan derechos de almacenaje?",
-    "¿Cómo funciona la exención de almacenaje para embajadas?",
-    "¿Qué pasa con los derechos de almacenaje si hay un accidente?",
-    "¿Cuánto tiempo dura la exención de derechos de almacenaje?",
-    "¿Qué condiciones deben cumplirse para no pagar almacenaje?"
+    "¿Cuáles mercancías no pagan derechos de almacenaje?",
+    "¿Qué exenciones existen para el almacenaje en aduanas?",
+    "¿Las mercancías de embajadas están exentas de almacenaje?",
+    "¿Qué sucede con los restos de transporte en accidentes?",
+    "¿Cómo se aplican los derechos de almacenaje por fuerza mayor?"
   ]
 }

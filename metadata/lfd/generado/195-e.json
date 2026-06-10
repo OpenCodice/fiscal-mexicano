@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:96f254e1135889a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por certificados sanitarios",
@@ -13,23 +14,22 @@
     "certificados sanitarios",
     "agua potable",
     "agua industrial",
-    "salud humana",
-    "cuotas",
-    "abrigo sanitario"
+    "insumos para la salud",
+    "condiciones sanitarias"
   ],
   "terminos_coloquiales": [
-    "derechos para certificados",
-    "costo de certificados de salud",
-    "cuota por certificados de agua",
-    "certificados sanitarios costo"
+    "certificados sanitarios",
+    "derecho de certificados",
+    "agua",
+    "certificados de buenas prácticas",
+    "insumos de salud"
   ],
-  "resumen": "Se establecen derechos que se deben pagar por la expedición de certificados y dictámenes relacionados con el uso y consumo de agua, así como otros productos y servicios para la salud. Las cuotas varían dependiendo del tipo de certificado solicitado.",
+  "resumen": "Esta disposición establece los derechos que se deben pagar por la solicitud de certificados y dictámenes relacionados con el uso y consumo de agua y productos sanitarios. Los montos varían dependiendo del tipo de certificación solicitada.",
   "preguntas_ejemplo": [
     "¿Cuánto cuesta un certificado sanitario para agua potable?",
-    "¿Qué derechos tengo que pagar por certificados de salud?",
-    "¿Cuáles son las tarifas por certificados de agua industrial?",
-    "¿Qué tipos de certificados sanitarios existen?",
-    "¿Cuál es el costo de los certificados de buenas prácticas de fabricación?",
-    "¿Qué requisitos se necesitan para obtener un certificado sanitario?"
+    "¿Qué derechos se pagan por insumos de salud?",
+    "¿Cuáles son las tarifas para certificados de buenas prácticas?",
+    "¿Qué requisitos hay para los certificados de calidad del agua?",
+    "¿Qué tipos de certificados sanitarios existen?"
   ]
 }

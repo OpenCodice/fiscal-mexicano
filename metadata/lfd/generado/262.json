@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8649c4b72e3fe41b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos sobre minería",
+  "denominacion_comun": "Derechos sobre Minería",
   "temas": [
-    "derechos",
-    "minería",
     "concesiones",
-    "exploración",
-    "explotación",
-    "sustancias minerales"
+    "explotación de minerales",
+    "exploración de minerales",
+    "derechos de minería",
+    "personas obligadas"
   ],
   "terminos_coloquiales": [
-    "pago de derechos mineros",
     "derechos de minería",
-    "concesiones mineras",
-    "explotación de minerales"
+    "explotación de minerales",
+    "concesiones mineras"
   ],
-  "resumen": "Las personas que tienen una concesión de minería o que realizan trabajos relacionados con la exploración o explotación de minerales deben pagar derechos de acuerdo con la Ley Minera.",
+  "resumen": "Las personas físicas o morales que tienen concesiones o que trabajan en la exploración y explotación de minerales deben pagar derechos establecidos por la Ley Minera.",
   "preguntas_ejemplo": [
     "¿Quiénes deben pagar derechos sobre minería?",
     "¿Qué son los derechos de minería?",
-    "¿Cómo se aplica la Ley Minera a los concesionarios?",
-    "¿Qué trabajos están sujetos al pago de derechos sobre minería?"
+    "¿Cómo se aplica la Ley Minera?",
+    "¿Qué obligaciones tienen los titulares de concesiones mineras?",
+    "¿Qué trabajos están sujetos a los derechos de minería?"
   ]
 }

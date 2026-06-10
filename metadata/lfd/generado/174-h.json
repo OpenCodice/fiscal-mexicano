@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:563df4d005c50144",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por autorización de señales satelitales",
+  "denominacion_comun": "Derechos por autorización de sistemas satelitales",
   "temas": [
-    "derechos de emisión",
-    "señales satelitales",
+    "derechos",
     "autorización",
     "prórroga",
+    "sistemas satelitales",
+    "señales",
     "bandas de frecuencias",
-    "sistemas extranjeros"
+    "servicios"
   ],
   "terminos_coloquiales": [
-    "costo de autorización satelital",
-    "derechos por señales de satélite",
-    "pago por uso de frecuencia",
-    "autorización de satélites",
-    "expedición de derechos satelitales"
+    "cobrar derechos",
+    "sistemas satelitales",
+    "frecuencias",
+    "autorización de satélites"
   ],
-  "resumen": "Se establece el costo que se debe pagar por la autorización y prórroga para explotar derechos relacionados con satélites extranjeros que operen en México. Esto incluye una cuota por la expedición de autorización y otra por prórroga.",
+  "resumen": "Se establecen derechos que se deben pagar por la autorización o prórroga para explotar señales y frecuencias de sistemas satelitales extranjeros en México. Estos derechos varían dependiendo de si es para la expedición o prórroga de la autorización.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por autorización de un satélite?",
-    "¿Qué costos implica prorrogar el uso de señales satelitales?",
-    "¿Cómo se establece el derecho para usar frecuencias de satélites extranjeros?",
-    "¿Qué requisitos tengo que cumplir para obtener autorización satelital?",
-    "¿Qué tarifas hay que considerar para operar un satélite en México?"
+    "¿Cuánto se paga por la autorización de un sistema satelital?",
+    "¿Qué derechos hay que pagar para prorrogar la autorización de satélites?",
+    "¿Qué se necesita para operar un sistema satelital en México?",
+    "¿Cuáles son las cuotas por la explotación de señales satelitales?",
+    "¿Cómo se solicita la autorización para usar frecuencias satelitales?",
+    "¿Qué tipos de derechos se cobran por sistemas satelitales?"
   ]
 }

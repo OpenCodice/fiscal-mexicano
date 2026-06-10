@@ -6,19 +6,20 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación",
+  "denominacion_comun": "Derogación de la Ley Fiscal",
   "temas": [],
   "terminos_coloquiales": [
-    "se deroga",
-    "ya no aplica",
-    "cancelado"
+    "derogación",
+    "eliminar",
+    "anular"
   ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor ni tiene efectos legales.",
+  "resumen": "Este artículo se refiere a la derogación de una disposición fiscal, lo que significa que ya no tiene validez ni obliga a su cumplimiento.",
   "preguntas_ejemplo": [
-    "¿Este artículo todavía es válido?",
-    "¿Qué pasó con el artículo 247?",
-    "¿Se elimina alguna obligación con la derogación?"
+    "¿Qué significa que un artículo sea derogado?",
+    "¿Qué sucede con la ley cuando se deroga un artículo?",
+    "¿La derogación de un artículo afecta mis obligaciones fiscales?"
   ]
 }

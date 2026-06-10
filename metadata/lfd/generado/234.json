@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b3623426d58d98a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos provisionales de derechos",
+  "denominacion_comun": "Derechos de uso de inmuebles",
   "temas": [
     "pagos provisionales",
-    "derechos fiscales",
-    "ejercicios fiscales",
+    "derechos",
+    "inmuebles",
     "declaraciones",
-    "Secretaría de Hacienda"
+    "ejercicios fiscales"
   ],
   "terminos_coloquiales": [
+    "derechos sobre inmuebles",
     "pago de derechos",
-    "declaraciones fiscales",
-    "pagos bimestrales",
-    "impuestos sobre inmuebles",
-    "derechos anuales"
+    "declaración bimestral",
+    "Secretaría de Hacienda",
+    "pago anual"
   ],
-  "resumen": "Este artículo establece que los contribuyentes deben efectuar pagos provisionales bimestrales por ciertos derechos fiscales y permite opciones para el pago del derecho del ejercicio. Los pagos se realizan mediante declaraciones ante la Secretaría de Hacienda.",
+  "resumen": "Los contribuyentes deben calcular y pagar derechos por el uso de inmuebles de manera bimestral. Pueden optar por pagar todo el derecho del ejercicio en la primera declaración bimestral y presentar la declaración anual después.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer mis pagos provisionales de derechos?",
-    "¿Cómo se calcula el derecho por uso de inmuebles?",
-    "¿Puedo pagar todo el derecho de un ejercicio en un solo pago?",
-    "¿Qué pasa si no hago mis pagos bimestrales a tiempo?",
-    "¿Dónde presento mi declaración de derechos?"
+    "¿Cuándo debo hacer los pagos provisionales por el uso de inmuebles?",
+    "¿Cómo calculo el derecho que tengo que pagar por uso de un inmueble?",
+    "¿Puedo pagar todos mis derechos en una sola declaración bimestral?",
+    "¿Dónde presento mi declaración para los derechos de inmuebles?",
+    "¿Qué pasa si no pago los derechos a tiempo?"
   ]
 }

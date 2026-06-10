@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d59613d1b9df97c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos sobre gas licuado de petróleo",
+  "denominacion_comun": "Derechos por Gas Licuado de Petróleo",
   "temas": [
     "derechos",
     "gas licuado de petróleo",
     "permisos",
     "supervisión",
     "almacenamiento",
-    "distribución",
     "transporte",
+    "distribución",
     "modificación de permisos"
   ],
   "terminos_coloquiales": [
-    "costos de permisos de gas",
-    "cuotas por gas licuado",
-    "cobros de distribución de gas",
-    "derechos por transporte de gas"
+    "derechos de gas",
+    "permisos de gas",
+    "costo de permisos de gas licuado",
+    "supervisión de permisos de gas",
+    "análisis de permisos de gas"
   ],
-  "resumen": "Se establecen derechos que deben pagarse por servicios relacionados con el gas licuado de petróleo. Estos incluyen cuotas por permisos de distribución, almacenamiento y transporte, así como derechos anuales por supervisión de estos permisos.",
+  "resumen": "Se establecen derechos que deben pagarse por servicios relacionados con el gas licuado de petróleo, incluidos permisos para su distribución, almacenamiento y transporte. Además, se establecen cuotas anuales por la supervisión de estos permisos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un permiso para distribuir gas licuado?",
-    "¿Qué derechos debo pagar por el transporte de gas?",
-    "¿Cuáles son las cuotas por la supervisión de permisos de gas?",
-    "¿Cómo se pagan los derechos por modificación de permisos de gas?",
-    "¿Qué incluye el costo de los permisos de almacenamiento de gas?"
+    "¿Cuánto cuesta un permiso para el transporte de gas licuado de petróleo?",
+    "¿Qué derechos tengo que pagar por la distribución de gas licuado?",
+    "¿Cómo se modifica un permiso de gas licuado de petróleo?",
+    "¿Qué cuotas anuales debo considerar para la supervisión de permisos de gas?",
+    "¿Qué servicios incluye la Comisión Reguladora de Energía para el gas licuado?"
   ]
 }

@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:446f46b5e10c6dcb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exenciones de derechos para extranjeros",
   "temas": [
-    "Residentes temporales",
-    "Visitantes sin permiso de trabajo",
-    "Derechos y exenciones",
-    "Cooperación educativa"
+    "derechos",
+    "extranjeros",
+    "residencia temporal",
+    "visitantes",
+    "cooperación educativa",
+    "travesía internacional",
+    "buques",
+    "aeronaves"
   ],
   "terminos_coloquiales": [
     "exención de derechos",
-    "residentes temporales",
-    "visitantes",
-    "miembros de tripulación"
+    "residente temporal",
+    "visitante",
+    "tripulación de buques",
+    "tripulación de aeronaves",
+    "cooperación cultural"
   ],
-  "resumen": "Se especifican las condiciones bajo las cuales los extranjeros no deben pagar ciertos derechos en México, dependiendo de su tipo de estancia y duración en el país. Incluye categorías como residentes temporales estudiantes y diversos tipos de visitantes.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales los extranjeros no deben pagar derechos al permanecer en México. Se refiere a residentes temporales estudiantes y a visitantes que cumplen con ciertas condiciones de estancia. También incluye excepciones para miembros de la tripulación de buques y aeronaves.",
   "preguntas_ejemplo": [
-    "¿Cuándo no tengo que pagar derechos como extranjero en México?",
-    "¿Qué condiciones deben cumplir los residentes temporales para estar exentos de derechos?",
-    "¿Cuánto tiempo puede estar un visitante sin pagar derechos?",
-    "¿Los miembros de la tripulación también están exentos de derechos?",
-    "¿Existen exenciones para extranjeros en programas de intercambio?"
+    "¿Cuándo no tengo que pagar derechos si soy extranjero en México?",
+    "¿Qué condiciones debo cumplir como residente temporal para estar exento de derechos?",
+    "¿Los miembros de la tripulación de un barco tienen que pagar derechos?",
+    "¿Cuánto tiempo pueden estar los visitantes sin pagar derechos?",
+    "¿Existen exenciones para estudiantes extranjeros en México?"
   ]
 }

@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c7d4d920fc6be452",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de pesca y acuacultura",
+  "denominacion_comun": "Derechos por concesiones de pesca y acuacultura",
   "temas": [
     "concesiones",
     "permisos",
     "autorizaciones",
     "pesca comercial",
     "acuacultura",
-    "cuotas",
-    "actividades acuícolas",
-    "transferencia de permisos"
+    "derechos",
+    "cuotas"
   ],
   "terminos_coloquiales": [
-    "derechos de pesca",
-    "costos de permisos de acuacultura",
-    "cuotas de pesca",
-    "autorizaciones para pescar",
-    "concesiones agrícolas"
+    "derecho de pesca",
+    "derecho de acuacultura",
+    "permisos de pesca",
+    "concesiones de pesca",
+    "permisos de acuacultura",
+    "pesca comercial",
+    "acuacultura comercial"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por concesiones, permisos y autorizaciones para realizar actividades de pesca y acuicultura. Incluye costos específicos para diferentes tipos de permisos y concesiones.",
+  "resumen": "Este artículo establece las cuotas a pagar por el otorgamiento de concesiones, permisos y autorizaciones relacionados con la pesca y la acuacultura. Incluye montos específicos para diferentes tipos de permisos y concesiones.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un permiso de pesca comercial?",
-    "¿Qué cuotas se aplican para la acuacultura?",
-    "¿Cómo obtengo una concesión para pesca?",
-    "¿Qué permisos necesito para acuicultura de fomento?",
-    "¿Cuánto pago por transferir un permiso de pesca?"
+    "¿Cuánto tengo que pagar por un permiso de pesca comercial?",
+    "¿Qué cuota se aplica para una concesión de acuacultura?",
+    "¿Cuáles son los derechos por la pesca de fomento?",
+    "¿Qué permisos necesito y cuánto cuestan para la acuacultura?",
+    "¿Hay alguna cuota por cambiar el titular de una concesión acuícola?",
+    "¿Cuánto cuesta desembarcar productos pesqueros frescos en puertos mexicanos?"
   ]
 }

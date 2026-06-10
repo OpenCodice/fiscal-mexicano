@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:73f9513095205b66",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por el uso de bienes del Estado",
+  "denominacion_comun": "Derechos por servicios en bienes del dominio público",
   "temas": [
     "derechos",
+    "servicios",
     "prestación de servicios",
-    "bienes del dominio público",
-    "costo del servicio",
     "actualización de cuotas",
     "organismos públicos",
-    "concesiones"
+    "costo total del servicio",
+    "factor de actualización"
   ],
   "terminos_coloquiales": [
-    "derechos del Estado",
-    "cobro de derechos",
-    "actualización de derechos",
-    "servicios del gobierno"
+    "derechos de uso de bienes",
+    "cobros por servicios del Estado",
+    "servicios concesionados",
+    "actualización de tarifas"
   ],
-  "resumen": "Este artículo establece que se deben pagar derechos por el uso de bienes del dominio público y por los servicios prestados por el Estado. También se menciona cómo se actualizarán las cuotas de esos derechos anualmente.",
+  "resumen": "Este artículo establece que los derechos por el uso de bienes del dominio público y la prestación de servicios del Estado deben estar relacionados con el costo total del servicio. Además, las cuotas de estos derechos se actualizarán anualmente y se aplicarán factores de actualización basados en índices de precios.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por usar un bien del Estado?",
-    "¿Cómo se actualizan las cuotas de los derechos?",
-    "¿Qué derechos debo pagar por recibir servicios gubernamentales?",
-    "¿Qué pasa si un servicio es proporcionado por un particular?",
-    "¿Quién publica el factor de actualización de los derechos?"
+    "¿Cómo se actualizan las cuotas de los derechos por servicios del Estado?",
+    "¿Qué derechos se deben pagar por el uso de bienes del dominio público?",
+    "¿Cómo se determina el costo total de un servicio del Estado?",
+    "¿Qué sucede si un particular proporciona el servicio que grava esta ley?",
+    "¿Qué es el factor de actualización mencionado en este artículo?"
   ]
 }

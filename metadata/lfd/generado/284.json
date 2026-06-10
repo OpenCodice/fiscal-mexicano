@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4e11c0561aa882fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Determinación presuntiva del derecho federal",
   "temas": [
+    "Comisión Nacional del Agua",
+    "Servicio de Administración Tributaria",
     "derecho federal",
-    "medición de agua",
+    "descarga de aguas residuales",
     "sanciones",
-    "descargas residuales",
-    "comprobación",
-    "usuario",
-    "documentación",
-    "contaminación"
+    "verificación",
+    "medición"
   ],
   "terminos_coloquiales": [
-    "medición de agua",
-    "derechos de agua",
-    "cálculo de derechos",
-    "descarga de aguas residuales"
+    "multa por agua",
+    "cargos de agua",
+    "comprobaciones del agua",
+    "servicio de agua",
+    "CNA",
+    "SAT"
   ],
-  "resumen": "Este artículo establece que la Comisión Nacional del Agua o el SAT pueden determinar presuntivamente el derecho federal cuando no se mide el agua adecuadamente o hay oposición a las verificaciones. También indica que esta determinación puede ocurrir independientemente de otras sanciones.",
+  "resumen": "Este artículo establece los casos en los que se puede hacer una determinación presuntiva del derecho federal relacionado con el uso del agua. Esto ocurre si no hay medición adecuada, si se impide la verificación, o si hay descargas contaminadas. La determinación se aplica sin que afecte otras sanciones pertinentes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no tengo medidor de agua?",
-    "¿Cuándo se puede hacer una determinación presuntiva del derecho de agua?",
-    "¿Qué documentos debo presentar a la Comisión Nacional del Agua?",
-    "¿Qué sanciones hay si no pago el derecho de agua?",
-    "¿Qué ocurre si descargo aguas residuales sin ser contribuyente?"
+    "¿Qué pasa si no tengo un medidor de agua?",
+    "¿Qué sanciones hay por descargar aguas residuales?",
+    "¿Cuáles son las obligaciones del usuario del agua?",
+    "¿Cómo se calculan los derechos por el uso de agua?",
+    "¿Qué ocurre si obstruyo la verificación del agua?"
   ]
 }

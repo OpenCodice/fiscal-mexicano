@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6cf42a2c66214aad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por concesiones mineras",
+  "denominacion_comun": "Derechos Mineros",
   "temas": [
     "concesiones mineras",
-    "derechos",
-    "trámites",
-    "cuotas",
-    "superficie"
+    "asignaciones mineras",
+    "cuotas fijas",
+    "cuotas adicionales",
+    "trámites mineros",
+    "prórrogas de concesiones"
   ],
   "terminos_coloquiales": [
-    "costo de concesión minera",
-    "tarifas de concesión",
-    "cuánto se paga por concesiones",
-    "derechos mineros"
+    "derechos por concesión minera",
+    "derechos mineros",
+    "cuota por hectárea",
+    "trámite de concesión",
+    "prórroga de concesión"
   ],
-  "resumen": "El artículo establece los derechos que se deben pagar por la expedición y trámite de concesiones mineras, especificando cuotas fijas y adicionales según el rango de superficie del terreno. También menciona el costo para la prórroga de concesiones existentes.",
+  "resumen": "El artículo establece que se deben pagar derechos por la expedición y trámite de concesiones y asignaciones mineras. Las cuotas se determinan según la superficie solicitada y se especifican límites y costos adicionales por hectárea excedente.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por una concesión minera?",
-    "¿Qué derechos se aplican al solicitar una concesión minera?",
-    "¿Cómo se calculan los costos de una concesión minera?",
-    "¿Hay tarifas diferentes según el tamaño del terreno?",
-    "¿Qué pasa si quiero una prórroga de mi concesión?"
+    "¿Cuánto debo pagar por una concesión minera?",
+    "¿Qué son los derechos mineros?",
+    "¿Cómo se calculan las cuotas por hectárea en minería?",
+    "¿Qué trámites son necesarios para obtener una concesión minera?",
+    "¿Cuál es el costo de una prórroga de concesión minera?"
   ]
 }

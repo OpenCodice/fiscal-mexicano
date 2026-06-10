@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:58e81a05f86b8426",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos Aduaneros",
+  "denominacion_comun": "Derechos aduaneros",
   "temas": [
     "inscripciones",
     "concesiones",
     "autorizaciones",
-    "derechos aduaneros",
+    "depósito fiscal",
+    "mercancías",
     "servicios aduaneros",
-    "procesamiento electrónico",
-    "almacenamiento de mercancías"
+    "registro de empresas",
+    "prórrogas"
   ],
   "terminos_coloquiales": [
-    "costos de aduana",
-    "tarifas de inscripción aduanera",
-    "cuotas para importación",
-    "pagos aduanales",
-    "derechos fiscales"
+    "derechos aduaneros",
+    "autorizaciones aduaneras",
+    "inscripción en aduanas",
+    "depósito fiscal",
+    "entrada y salida de mercancías"
   ],
-  "resumen": "El artículo establece las cuotas a pagar por diversos trámites y servicios relacionados con la aduana, como inscripciones, concesiones y autorizaciones. Estos derechos pueden pagarse anualmente o por única vez, dependiendo del servicio solicitado.",
+  "resumen": "Este artículo establece las cuotas que deben pagarse por diversos trámites relacionados con inscripciones, concesiones y autorizaciones en el ámbito aduanero. Además, menciona la forma en que se deben pagar los derechos, ya sea anualmente o por única vez.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta inscribir un despacho de mercancías?",
-    "¿Qué tarifas se aplican para autorizaciones aduaneras?",
-    "¿Cómo se paga el derecho aduanero por servicios de almacenamiento?",
-    "¿Qué derechos se deben pagar anualmente en aduanas?",
-    "¿Cuáles son los costos para obtener una autorización de depósito fiscal?"
+    "¿Cuánto se paga por la autorización de un depósito fiscal?",
+    "¿Qué costos tiene la inscripción en el registro de mercancías?",
+    "¿Se cobra algún derecho por la entrada de mercancías al país?",
+    "¿Cuáles son las tarifas para las autorizaciones aduaneras?",
+    "¿Cómo se renuevan las concesiones en aduanas?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e98bf95f8b2cfb2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por comercializadoras de telecomunicaciones",
   "temas": [
-    "derechos",
-    "comercializadoras",
-    "telecomunicaciones",
-    "autorización",
-    "prórroga",
-    "cuotas"
+    "servicios de telecomunicaciones",
+    "autorizaciones",
+    "prórrogas",
+    "establecimientos",
+    "explotación",
+    "cuotas",
+    "derechos"
   ],
   "terminos_coloquiales": [
-    "costos para abrir una empresa de telecomunicaciones",
-    "cuotas por permisos de telecomunicaciones",
-    "derechos de telecomunicaciones",
-    "tarifas para comercializadoras"
+    "telecomunicaciones",
+    "autorización de comercializadoras",
+    "costos de permisos"
   ],
-  "resumen": "Se deben pagar derechos por la autorización y prórroga para establecer y operar comercializadoras de servicios de telecomunicaciones. Las cuotas varían dependiendo del tipo de permiso.",
+  "resumen": "Se establecen derechos que se deben pagar por la solicitud y autorización de comercializadoras de servicios de telecomunicaciones, así como por la prórroga de estas autorizaciones. Las cuotas varían según el tipo de trámite.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener la autorización para una comercializadora de telecomunicaciones?",
-    "¿Qué tarifas se aplican para prórrogas en telecomunicaciones?",
-    "¿Qué derechos debo pagar para operar en telecomunicaciones?",
-    "¿Cuáles son los costos de establecer una comercializadora de servicios de telecomunicaciones?"
+    "¿Cuánto debo pagar por la autorización de una comercializadora de telecomunicaciones?",
+    "¿Qué cuotas se aplican para prórrogas de servicios de telecomunicaciones?",
+    "¿Qué derechos se deben pagar para establecer una comercializadora de telecomunicaciones?",
+    "¿Cómo funciona el proceso de autorización para telecomunicaciones?",
+    "¿Cuáles son los costos asociados a la operación de una comercializadora de telecomunicaciones?"
   ]
 }

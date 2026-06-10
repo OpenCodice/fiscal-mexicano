@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b3b1f8b2e878cbb2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de la Secretaría de la Función Pública",
+  "denominacion_comun": "Derechos del patrimonio inmobiliario",
   "temas": [
-    "patrimonio inmobiliario",
     "derechos",
+    "patrimonio inmobiliario",
+    "servicios",
     "concesiones",
     "permisos",
-    "inmuebles federales",
     "proyectos de construcción",
-    "columbarios",
     "inspección",
     "vigilancia"
   ],
   "terminos_coloquiales": [
-    "derechos por uso de terrenos",
-    "costo de permisos de construcción",
-    "tarifas de la Secretaría de la Función Pública",
-    "pagos por concesiones",
-    "cuotas por inmuebles federales"
+    "derechos de inmuebles",
+    "concesiones de inmuebles",
+    "permisos de construcción",
+    "proyectos de obra",
+    "inspección de inmuebles",
+    "servicios de la Secretaría",
+    "SFP"
   ],
-  "resumen": "Se establecen tarifas que se deben pagar por varios servicios relacionados con inmuebles de la federación, como concesiones, permisos y autorizaciones de proyectos. Cada servicio tiene una cuota específica que debe ser cubierta.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por los derechos relacionados con el patrimonio inmobiliario de la federación, incluyendo concesiones y permisos sobre inmuebles de dominio público. También se contempla el costo por la autorización de proyectos de construcción y ampliación de columbarios.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso de construcción en un inmueble federal?",
-    "¿Qué derechos se pagan por enajenar un inmueble de la federación?",
-    "¿Cuáles son las tarifas para proyectos de columbarios en templos federales?",
-    "¿Qué servicios ofrece la Secretaría de la Función Pública relacionados con inmuebles?",
-    "¿Cómo se pagan los derechos sobre el patrimonio inmobiliario?"
+    "¿Cuánto cuesta pedir un permiso para construir en un inmueble federal?",
+    "¿Qué derechos se aplican al patrimonio inmobiliario de la federación?",
+    "¿Cuáles son las tarifas por concesiones de inmuebles?",
+    "¿Qué impuestos hay que pagar por la enajenación de inmuebles federales?",
+    "¿Cómo se solicitan permisos para obras en inmuebles de la federación?"
   ]
 }

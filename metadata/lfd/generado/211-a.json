@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ccc72c9098d51d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho de explotación de sal",
   "temas": [
     "derecho de explotación",
     "sal",
-    "permisos mineros",
-    "concesiones",
-    "declaración de pagos"
+    "subproductos",
+    "concesiones mineras",
+    "permisos",
+    "autorizaciones",
+    "pago semestral"
   ],
   "terminos_coloquiales": [
-    "pago de sal",
     "derecho de sal",
-    "explotación de sal",
-    "DIRESAL"
+    "pago de sal",
+    "salinas",
+    "sal y subproductos"
   ],
-  "resumen": "Se establece que las personas que tienen permisos para explotar salinas deben pagar un derecho por la explotación de sal y sus subproductos. Este derecho se calcula por cada tonelada enajenada y se debe pagar semestralmente mediante una declaración ante el SAT.",
+  "resumen": "Las personas que tengan permisos o concesiones para explotar salinas deben pagar un derecho por la explotación de sal y sus subproductos. Este derecho se calcula por tonelada y se paga semestralmente ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben pagar el derecho de explotación de sal?",
-    "¿Cómo se calcula el derecho de sal?",
-    "¿Con qué frecuencia se debe pagar el derecho de explotación?",
-    "¿Qué se debe hacer para declarar el pago de sal?",
-    "¿Dónde se presenta la declaración del derecho de sal?"
+    "¿Quiénes deben pagar el derecho por la explotación de sal?",
+    "¿Cómo se calcula el derecho sobre las ventas de sal?",
+    "¿Cuándo debo presentar la declaración para el pago del derecho de sal?",
+    "¿Qué es el derecho de explotación de sal?",
+    "¿Qué permisos necesito para explotar salinas?",
+    "¿Qué subproductos de la sal están gravados?"
   ]
 }

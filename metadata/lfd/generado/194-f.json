@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5601351203a11123",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por servicios de vida silvestre",
   "temas": [
-    "permisos",
-    "autorizaciones",
-    "certificados",
     "colecta científica",
-    "exportación",
-    "importación",
-    "extinción de especies",
-    "biotecnología"
+    "permisos de exportación",
+    "recursos biológicos",
+    "vida silvestre",
+    "licencias de caza deportiva",
+    "autorizaciones ambientales"
   ],
   "terminos_coloquiales": [
-    "derechos de vida silvestre",
-    "permisos de fauna",
     "caza deportiva",
-    "colecta de especies",
-    "trámites ambientales"
+    "colecta de fauna",
+    "permisos de vida silvestre",
+    "registro de vida silvestre",
+    "licencia de caza",
+    "derechos de vida silvestre"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por diversos servicios relacionados con la vida silvestre, como la emisión de permisos y la colecta de material biológico. Algunas actividades están exentas de pago bajo ciertas condiciones.",
+  "resumen": "El artículo establece los derechos que se deben pagar por servicios relacionados con la vida silvestre, incluyendo permisos y licencias para colecta científica y caza deportiva. Algunas gestiones están exentas de pago dependiendo del tipo de actividad y su relación con el Gobierno Federal.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un permiso para colectar especies?",
-    "¿Qué trámites se necesitan para cazar en México?",
-    "¿Hay tarifas por exportar productos de vida silvestre?",
-    "¿Qué documentos se requieren para investigar con especies silvestres?",
-    "¿Las licencias para cazar tienen algún costo?",
-    "¿Se pueden registrar mascotas sin pagar derecho?"
+    "¿Cuánto se paga por un permiso de colecta científica?",
+    "¿Qué derechos se requieren para cazar en México?",
+    "¿Se necesitan permisos para la exportación de especies silvestres?",
+    "¿Qué costos tiene la licencia de caza?",
+    "¿Qué trámites están exentos de derechos en vida silvestre?"
   ]
 }

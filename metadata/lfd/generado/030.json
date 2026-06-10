@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:046b9bcefcc93d8b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de Inspección y Vigilancia",
+  "denominacion_comun": "Derechos de inspección y vigilancia",
   "temas": [
-    "instituciones mutualistas",
-    "seguros",
-    "reaseguro",
+    "instituciones de seguros",
+    "sociedades mutualistas",
     "derechos de inspección",
-    "cuotas",
-    "gastos de administración"
+    "vigilancia de seguros",
+    "primas de seguro",
+    "reaseguro",
+    "cuotas de inspección"
   ],
   "terminos_coloquiales": [
-    "cuotas de seguros",
-    "derechos de vigilancia",
-    "gastos de inspección",
-    "pagos de seguros",
-    "cuotas mutualistas"
+    "derechos de inspección",
+    "cuotas de vigilancia",
+    "seguros",
+    "mutualistas"
   ],
-  "resumen": "Las instituciones y sociedades mutualistas de seguros deben pagar derechos por inspección y vigilancia basados en las primas de seguros emitidas. Estos pagos se realizan en mensualidades adelantadas y se distribuyen entre las instituciones según sus primas y gastos.",
+  "resumen": "Las instituciones y sociedades mutualistas de seguros deben pagar derechos por servicios de inspección y vigilancia, que se calculan en función de las primas de seguros emitidas. Estas cuotas se prorratean entre las instituciones y se pagan de manera mensual.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por la inspección de mi seguros?",
-    "¿Cómo se calculan las cuotas de vigilancia en seguros?",
-    "¿Qué son los derechos de inspección para instituciones mutualistas?",
-    "¿Las sociedades mutualistas también tienen que pagar cuotas?",
-    "¿Qué pasa si mi cuota de inspección es muy alta?"
+    "¿Cuánto deben pagar las aseguradoras por derechos de inspección?",
+    "¿Cómo se calculan las cuotas de vigilancia para las sociedades de seguros?",
+    "¿Qué porcentaje de las primas se utiliza para el cálculo de los derechos?",
+    "¿Las sociedades mutualistas tienen un límite en los pagos de inspección?",
+    "¿Con qué frecuencia se deben pagar los derechos de inspección?"
   ]
 }

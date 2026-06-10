@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39c00df27611281d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones del derecho de muelle",
+  "denominacion_comun": "Derecho de muelle",
   "temas": [
-    "exenciones",
-    "derecho de muelle",
-    "carga pesquera",
+    "explotación pesquera",
     "contenedores",
-    "equipaje",
-    "víveres",
+    "equipaje de pasajeros",
+    "mercancías para embarcaciones",
     "correspondencia",
     "naufragio",
-    "caso fortuito"
+    "fuerza mayor"
   ],
   "terminos_coloquiales": [
     "derecho de muelle",
-    "exenciones en muelles",
-    "carga sin costo",
-    "qué no se paga en el muelle",
-    "exenciones para barcos"
+    "carga de pesca",
+    "contenedores vacíos",
+    "menaje de pasajeros",
+    "víveres para barcos",
+    "cargos por naufragio",
+    "descarga por fuerza mayor"
   ],
-  "resumen": "El artículo establece qué tipos de cargas y mercancías están exentas del derecho de muelle. Incluye carga pesquera, contenedores, equipaje de pasajeros, víveres y mercancías para la embarcación, entre otros.",
+  "resumen": "El artículo establece que no se pagará el derecho de muelle en ciertas situaciones, como cuando se trata de carga de la explotación pesquera nacional, equipaje de pasajeros, o mercancías destinadas al uso de la embarcación. También incluye casos de carga afectada por naufragios o por fuerza mayor.",
   "preguntas_ejemplo": [
-    "¿Qué cargas están exentas del derecho de muelle?",
-    "¿No tengo que pagar derecho de muelle si llevo víveres?",
-    "¿Qué tipo de mercancías no pagan derecho de muelle?",
-    "¿Los contenedores tienen exención de derecho de muelle?",
-    "¿Qué pasa con el equipaje de los pasajeros en el muelle?"
+    "¿Cuándo no tengo que pagar el derecho de muelle?",
+    "¿Existen excepciones al pago del derecho de muelle?",
+    "¿Qué tipos de carga están exentos del derecho de muelle?",
+    "¿El equipaje de los pasajeros está exento del derecho de muelle?",
+    "¿Qué pasa con la carga dañada por un naufragio?"
   ]
 }

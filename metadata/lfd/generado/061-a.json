@@ -6,25 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d4d3cbb9c559d27",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por permisos de tratamiento de petróleo",
+  "denominacion_comun": "Derechos por permisos de petróleo y gas",
   "temas": [
     "derechos",
     "permisos",
     "tratamiento de petróleo",
     "refinación de petróleo",
-    "procesamiento de gas natural"
+    "procesamiento de gas",
+    "prórrogas",
+    "cesiones",
+    "modificaciones"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de petróleo",
-    "tarifas por tratamiento de petróleo",
-    "derechos de uso de gas natural"
+    "derechos por permisos de petróleo",
+    "derechos de refinación",
+    "permisos de gas",
+    "cesión de permisos"
   ],
-  "resumen": "Se deben pagar derechos por la recepción y análisis de solicitudes para permisos de tratamiento y refinación de petróleo, así como para el procesamiento de gas natural. También se aplican derechos por la prórroga o cesión de dichos permisos.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la solicitud y análisis de permisos relacionados con el tratamiento y refinación de petróleo y el procesamiento de gas natural. También menciona los derechos a pagar por prórrogas y cesiones de permisos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso para tratar petróleo?",
-    "¿Qué derechos debo pagar para procesar gas natural?",
-    "¿Hay algún costo por la prórroga de permisos de petróleo?"
+    "¿Cuánto tengo que pagar por el permiso de tratamiento de petróleo?",
+    "¿Qué derechos se pagan por la prórroga de un permiso de refinación?",
+    "¿Cuáles son las cuotas por la cesión de un permiso de gas?",
+    "¿Cómo se determina el costo de los permisos para el procesamiento de gas?",
+    "¿Qué obligaciones tengo al solicitar un permiso de petróleo?"
   ]
 }

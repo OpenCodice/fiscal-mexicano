@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad151b1ce53e2ac8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso de inmuebles culturales",
+  "denominacion_comun": "Derechos por uso de inmuebles en cultura",
   "temas": [
     "derechos de uso",
     "museos",
     "eventos culturales",
-    "instituciones públicas",
-    "zonas arqueológicas"
+    "monumentos históricos",
+    "zonas arqueológicas",
+    "cuotas",
+    "exenciones"
   ],
   "terminos_coloquiales": [
-    "pago por uso de museos",
-    "derechos de acceso a museos",
-    "costos de eventos en museos",
-    "tarifas para eventos culturales"
+    "pago de derechos",
+    "acceso a museos",
+    "eventos culturales",
+    "museos de la Federación"
   ],
-  "resumen": "Este artículo establece las tarifas que deben pagar las personas y entidades por el uso de inmuebles culturales y espacios en museos para actividades comerciales y eventos. También especifica quiénes están exentos de pagar estos derechos.",
+  "resumen": "Las personas que usan inmuebles en museos, monumentos históricos y zonas arqueológicas deben pagar derechos por su uso. Esto incluye cuotas mensuales y tarifas por eventos culturales. También hay exenciones para ciertos grupos de personas.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por usar un museo para un evento?",
-    "¿Quiénes no pagan entrada a los museos?",
-    "¿Qué tarifas aplican para eventos culturales en zonas arqueológicas?",
-    "¿Cuáles son los derechos por acceso a museos federales?",
-    "¿Qué sucede si el evento dura más de cuatro horas?"
+    "¿Cuánto se paga por usar un espacio en un museo?",
+    "¿Existen descuentos para accesos a museos?",
+    "¿Cómo se realiza el pago por eventos culturales en recintos?",
+    "¿Quiénes están exentos de pagar derechos para ingresar a los museos?",
+    "¿Cuáles son las tarifas por acceso a diferentes tipos de museos?"
   ]
 }

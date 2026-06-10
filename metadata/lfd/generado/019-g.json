@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c40e87e88999130f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Apostillamiento de documentos",
+  "denominacion_comun": "Apostillamiento de Documentos Públicos Federales",
   "temas": [
     "derechos de apostillamiento",
-    "documentos públicos federales",
+    "documentos públicos",
     "exenciones de pago",
-    "juicio de amparo"
+    "juicio de amparo",
+    "servicios insulares"
   ],
   "terminos_coloquiales": [
     "apostilla",
-    "costos de apostillamiento",
-    "exención de derechos",
-    "derechos por apostilla"
+    "documentos federales",
+    "derecho de apostillamiento",
+    "exoneración de pago"
   ],
-  "resumen": "Se establece un costo por el apostillamiento de documentos públicos federales, pero se exime de este pago en ciertos casos, como cuando la solicitud proviene de la Federación para asuntos oficiales o para el juicio de amparo.",
+  "resumen": "El artículo establece que hay un costo para apostillar documentos públicos federales, pero no se cobrará este derecho si la solicitud proviene de la Federación para asuntos oficiales o en casos de juicios de amparo. También menciona que este procedimiento está relacionado con los servicios insulares.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta apostillar un documento público?",
-    "¿Cuándo no se paga el derecho de apostillamiento?",
-    "¿Qué es el apostillamiento de documentos federales?",
-    "¿Existen excepciones para pagar la apostilla?",
-    "¿Qué documentos no requieren pago de apostillamiento en juicio de amparo?"
+    "¿Cuánto cuesta apostillar un documento público federal?",
+    "¿Hay que pagar por apostillar documentos para el juicio de amparo?",
+    "¿Cuál es la exención del derecho de apostillamiento?",
+    "¿Qué documentos públicos federales se pueden apostillar?",
+    "¿Qué son los servicios insulares relacionados con apostillamiento?"
   ]
 }

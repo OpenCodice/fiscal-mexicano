@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3b301e912b09d034",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos Provisionales de Caminos y Puentes",
+  "denominacion_comun": "Pagos Provisionales",
   "temas": [
+    "Caminos y Puentes Federales",
+    "derechos de ejercicio",
     "pagos provisionales",
-    "derechos federales",
-    "ingresos",
-    "servicios conexos",
-    "cálculo de pagos"
+    "cálculo de pagos",
+    "tasa del 1%",
+    "ingresos por ventas",
+    "diferencia a pagar"
   ],
   "terminos_coloquiales": [
-    "cuánto tengo que pagar",
-    "pagos mensuales de caminos y puentes",
-    "derechos por ingresos",
-    "cómo calcular el pago provisional"
+    "pagos de impuestos",
+    "derecho de ejercicio",
+    "pago provisional",
+    "Caminos y Puentes",
+    "ingresos por ventas"
   ],
-  "resumen": "El artículo establece que Caminos y Puentes Federales debe hacer pagos provisionales mensuales relacionados con el derecho del ejercicio. Estos pagos se calculan aplicando una tasa a los ingresos obtenidos y restando pagos previos realizados.",
+  "resumen": "Los Caminos y Puentes Federales deben hacer pagos provisionales mensuales a cuenta de un derecho, calculando el pago con una tasa del 1% sobre los ingresos por la venta de bienes y servicios. Este pago se ajusta restando los pagos realizados en meses anteriores.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer el pago provisional?",
-    "¿Cómo se calcula el pago por derechos?",
-    "¿Qué ingresos se consideran para el pago provisional?",
-    "¿Qué pasa si ya hice pagos en meses anteriores?",
-    "¿Cuál es la tasa que se aplica para calcular el pago?"
+    "¿Cuándo debo hacer el pago provisional a Caminos y Puentes?",
+    "¿Cómo se calcula el pago provisional por derechos de ejercicio?",
+    "¿Qué tasa se aplica para el cálculo del pago provisional?",
+    "¿Puedo restar pagos anteriores al hacer el pago provisional?",
+    "¿Qué ingresos se consideran para el cálculo de pagos provisionales?"
   ]
 }

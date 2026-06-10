@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbe7d1eff3714454",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de cambio de uso de suelo",
+  "denominacion_comun": "Derecho de Cambio de Uso de Suelo",
   "temas": [
-    "derechos",
-    "uso de suelo",
+    "cambio de uso de suelo",
     "terrenos forestales",
     "cuotas",
-    "evaluación técnica",
-    "cambio de uso"
+    "estudios técnicos justificativos",
+    "autorización"
   ],
   "terminos_coloquiales": [
     "cambio de uso de suelo",
-    "derechos por usar terreno",
-    "cuotas por cambio de uso",
-    "tarifas para cambios de suelo"
+    "terrenos de bosque",
+    "derecho por cambio de uso",
+    "estudio técnico"
   ],
-  "resumen": "Se establece un derecho que se debe pagar por la evaluación y autorización del cambio de uso de suelo en terrenos forestales, con diferentes tarifas según la extensión del terreno. Además, hay un cargo extra si se trata de terrenos incendiados que requieren un dictamen especial.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por la recepción y evaluación de estudios para cambiar el uso de suelo en terrenos forestales. Las cuotas varían según el tamaño del terreno y hay un cargo adicional si se trata de terrenos incendiados.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por cambiar el uso de mi terreno?",
-    "¿Qué cuotas aplican si tengo más de una hectárea?",
-    "¿Qué pasa si mi terreno ha sido incendiado?",
-    "¿Necesito un dictamen especial para hacer cambios de uso de suelo?",
-    "¿Cómo se calcula el derecho de cambio de uso de suelo?",
-    "¿Qué estudios técnicos se requieren para el cambio de uso de suelo?"
+    "¿Cuánto se paga por cambiar el uso de suelo de un terreno forestal?",
+    "¿Qué requisito debo cumplir para solicitar un cambio de uso de suelo?",
+    "¿Hay cuotas adicionales si el terreno fue incendiado?",
+    "¿Qué se entiende por estudio técnico justificativo?",
+    "¿Cómo se determina la cuota por cambio de uso de suelo?"
   ]
 }

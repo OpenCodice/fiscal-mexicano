@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae1b25f8c217822a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por transporte privado",
+  "denominacion_comun": "Derechos por Transporte Privado",
   "temas": [
     "permisos de transporte",
-    "tarjetas de circulación",
-    "revalidación de permisos",
-    "vehículos automotores",
+    "tarjeta de circulación",
+    "reposición de tarjeta",
+    "alta de vehículo",
     "transporte de materiales peligrosos",
     "grúas industriales",
-    "transportes especiales"
+    "transporte de objetos voluminosos"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de transporte",
-    "licencias para transporte privado",
-    "tarjeta de circulación para vehículos",
-    "derechos por transporte de carga",
-    "cuotas por permisos de transporte"
+    "pagar derechos de transporte",
+    "alta de auto",
+    "permiso de transporte",
+    "reposición de tarjeta de circulación",
+    "tarjeta de circulación",
+    "transporte privado",
+    "grúa",
+    "transporte de materiales peligrosos"
   ],
-  "resumen": "Se establecen las cuotas que se deben pagar por la expedición y revalidación de permisos y tarjetas de circulación para el transporte privado en caminos federales. También se mencionan costos por servicios especiales como el transporte de materiales peligrosos.",
+  "resumen": "Se establecen derechos que deben pagarse por varios servicios relacionados con el transporte privado, como la expedición de permisos y tarjetas de circulación, así como la alta de vehículos. También se incluyen tarifas específicas para permisos de transporte de materiales peligrosos y grúas.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un permiso para transporte privado?",
-    "¿Qué tarifas hay para revalidar una tarjeta de circulación?",
-    "¿Cuáles son los derechos por el transporte de materiales peligrosos?",
-    "¿Qué necesito para obtener un permiso de transporte privado?",
-    "¿Hay precios diferentes si solicito permisos por internet?"
+    "¿Cuánto cuesta sacar un permiso para transporte privado?",
+    "¿Qué derechos tengo que pagar para una tarjeta de circulación?",
+    "¿Cómo hago la reposición de la tarjeta de circulación?",
+    "¿Cuáles son los costos para el transporte de materiales peligrosos?",
+    "¿Dónde puedo obtener un permiso para una grúa industrial?",
+    "¿Qué necesito para transportar objetos voluminosos?"
   ]
 }

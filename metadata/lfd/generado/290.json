@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e85a6b8792111040",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Clasificación de Aeronaves",
   "temas": [
-    "Clasificación de aeronaves",
-    "Envergadura",
-    "Helicópteros",
-    "Publicación oficial",
+    "envergadura de aeronaves",
+    "tipos de aeronaves",
+    "pequeñas aeronaves",
+    "medianas aeronaves",
+    "grandes aeronaves",
+    "Secretaría de Comunicaciones y Transportes",
     "Dirección General de Aeronáutica Civil"
   ],
   "terminos_coloquiales": [
-    "tipos de aviones",
-    "clase de aeronaves",
-    "tamaño de aviones",
-    "clasificación de helicópteros"
+    "aeronaves pequeñas",
+    "aeronaves medianas",
+    "aeronaves grandes",
+    "helis",
+    "helicópteros"
   ],
-  "resumen": "El artículo establece cómo se clasifican las aeronaves en pequeñas, medianas y grandes según su envergadura. También indica que la Secretaría de Comunicaciones y Transportes debe publicar esta clasificación oficialmente y cómo actuar en caso de que un modelo no esté listado.",
+  "resumen": "El artículo establece la clasificación de las aeronaves según su envergadura en pequeñas, medianas y grandes. La Secretaría de Comunicaciones y Transportes publicará la relación de aeronaves y su clasificación en el Diario Oficial de la Federación.",
   "preguntas_ejemplo": [
-    "¿Cómo se clasifican las aeronaves?",
-    "¿Qué tipos de aviones hay según su tamaño?",
-    "¿Dónde puedo ver la lista de aeronaves clasificadas?",
-    "¿Qué hago si mi avión no está en la lista oficial?",
-    "¿Qué se considera una aeronave pequeña?"
+    "¿Cómo se clasifican las aeronaves según su tamaño?",
+    "¿Qué tipos de aeronaves existen según la envergadura?",
+    "¿Dónde puedo ver la clasificación de diversas aeronaves?",
+    "¿Qué hacer si mi aeronave no está en la lista publicada?",
+    "¿Quién se encarga de clasificar las aeronaves en México?"
   ]
 }

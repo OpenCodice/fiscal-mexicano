@@ -6,18 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 81",
-  "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "normativa eliminada"
+  "denominacion_comun": "Derogación de Artículo",
+  "temas": [
+    "derogación",
+    "artículo",
+    "legislación",
+    "fiscal"
   ],
-  "resumen": "El artículo 81 ha sido derogado, lo que significa que ya no tiene validez legal ni se aplica.",
+  "terminos_coloquiales": [
+    "deroga",
+    "se quitó un artículo"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor y no se aplicará más en la legislación fiscal.",
   "preguntas_ejemplo": [
+    "¿Qué artículos han sido derogados en la ley fiscal?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Qué pasó con el Artículo 81 de la LFD?",
-    "¿Cómo afecta la derogación de un artículo a su aplicación?"
+    "¿Qué pasa con las obligaciones de un artículo que se ha derogado?"
   ]
 }

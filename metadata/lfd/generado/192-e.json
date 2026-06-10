@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:870efc9a48a3d0f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facultades de la Comisión Nacional del Agua",
   "temas": [
-    "Devolución de pagos",
-    "Compensación de contribuciones",
-    "Asistencia a contribuyentes",
-    "Consultas y criterios de aplicación",
-    "Cumplimiento de obligaciones",
-    "Determinación de contribuciones omitidas",
-    "Multas y notificaciones"
+    "devolución de pagos",
+    "compensación de pagos",
+    "pago a plazos",
+    "asistencia a contribuyentes",
+    "consultas fiscales",
+    "comprobación de obligaciones",
+    "multas",
+    "notificación de créditos fiscales"
   ],
   "terminos_coloquiales": [
-    "Devoluciones de agua",
-    "Pagos de derechos de agua",
-    "Asesoría de la Conagua",
-    "Consultas sobre derechos",
-    "Multas por derechos no pagados",
-    "Interrupción de uso de agua"
+    "devolución de dinero",
+    "compensar impuestos",
+    "pago en parcialidades",
+    "ayuda para contribuyentes",
+    "preguntar sobre impuestos",
+    "visitas fiscales",
+    "multas fiscales",
+    "avisos de impuestos"
   ],
-  "resumen": "La Comisión Nacional del Agua tiene la facultad de devolver pagos, autorizar contribuciones a plazos, y proporcionar asistencia gratuita a los contribuyentes. También puede comprobar el cumplimiento de obligaciones y determinar contribuciones omitidas, así como interrumpir el uso de bienes si no se han pagado los derechos correspondientes.",
+  "resumen": "Este artículo detalla las facultades de la Comisión Nacional del Agua en relación con derechos fiscales, que incluyen la devolución de pagos, autorizar pagos a plazos y proporcionar asistencia a los contribuyentes. También establece procedimientos para notificar créditos fiscales y comprobar el cumplimiento de obligaciones.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para pagar mis derechos de agua?",
-    "¿Puedo solicitar una devolución de pago a la Conagua?",
-    "¿Qué pasa si no pago mis contribuciones a tiempo?",
-    "¿Cómo puedo hacer una consulta sobre mi situación con la Conagua?",
-    "¿Qué multas puedo recibir por no cumplir con las disposiciones de agua?"
+    "¿Qué debo hacer si no puedo pagar mis contribuciones de inmediato?",
+    "¿La Comisión Nacional del Agua puede ayudarme con mis consultas fiscales?",
+    "¿Qué sucede si no pago mis derechos a tiempo?",
+    "¿Cuáles son las facultades de la Comisión Nacional del Agua respecto a los pagos?",
+    "¿Pueden devolverme el dinero si pagué de más?",
+    "¿Me pueden multar si no cumplo con mis obligaciones fiscales?"
   ]
 }

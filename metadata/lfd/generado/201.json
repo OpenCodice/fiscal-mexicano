@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f7f122e9aca3fa4c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de puerto de cabotaje",
+  "denominacion_comun": "Derecho de Puerto de Cabotaje",
   "temas": [
     "embarcaciones",
     "puertos nacionales",
-    "terminales de uso público",
-    "cabotaje",
+    "tráfico de cabotaje",
+    "derechos",
     "actividades turísticas"
   ],
   "terminos_coloquiales": [
-    "costo de entrada a puertos",
-    "pago por usar puertos",
-    "derecho de cabotaje",
-    "tarifa por embarcaciones"
+    "derecho de puerto de cabotaje",
+    "cuota de puerto",
+    "embarcaciones turísticas",
+    "pagar por puerto"
   ],
-  "resumen": "Las personas que utilicen embarcaciones en puertos nacionales deben pagar un derecho de puerto de cabotaje. Las embarcaciones turísticas tienen un descuento especial en esta cuota.",
+  "resumen": "Las personas y empresas que usen embarcaciones en puertos nacionales deberán pagar un derecho por el tráfico de cabotaje. Las embarcaciones dedicadas al turismo pagan una cuota reducida.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por usar un puerto en México?",
-    "¿Hay descuentos para embarcaciones turísticas en los puertos?",
+    "¿Cuánto tengo que pagar por el uso de un puerto para mi embarcación?",
+    "¿Las embarcaciones turísticas tienen un descuento en el pago de derechos?",
     "¿Qué es el derecho de puerto de cabotaje?",
-    "¿Quiénes tienen que pagar este derecho en los puertos?",
-    "¿Qué tasa se aplica a las embarcaciones en tráfico de cabotaje?"
+    "¿Cómo se calcula el derecho por tráfico de cabotaje?",
+    "¿Qué tipos de embarcaciones tienen que pagar?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:769a18cf6286e5a9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por aprovechamiento de bosques nacionales",
+  "denominacion_comun": "Derechos por aprovechamiento de bosques",
   "temas": [
-    "derechos",
-    "bosques nacionales",
-    "vegetación arbórea",
-    "madera",
+    "aprovechamiento de bosques",
+    "maderas",
     "vegetación herbácea",
-    "pastoreo"
+    "pastoreo",
+    "derechos federales"
   ],
   "terminos_coloquiales": [
-    "costo por usar bosques",
-    "tarifas por madera",
-    "derechos forestales",
-    "cargos por pastoreo"
+    "derechos por uso de bosques",
+    "cuotas por madera",
+    "pago por pastoreo",
+    "Comisión Nacional Forestal",
+    "madera",
+    "ganado"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por el aprovechamiento de bosques nacionales, tanto por la extracción de madera como por el pastoreo de ganado. Los ingresos generados se destinarán a programas de restauración forestal.",
+  "resumen": "Este artículo establece las cuotas a pagar por el aprovechamiento de maderas y vegetación herbácea en bosques nacionales. Los ingresos obtenidos se destinarán a la Comisión Nacional Forestal para programas de restauración forestal.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por sacar madera de los bosques nacionales?",
-    "¿Cuáles son las tarifas por pastoreo en terrenos federales?",
-    "¿Dónde se van los ingresos de los derechos de aprovechamiento de bosques?",
-    "¿Qué especies de madera tienen un costo específico?",
-    "¿Cómo se calculan los derechos por aprovechamiento de vegetación?"
+    "¿Cuánto se paga por el uso de madera en bosques nacionales?",
+    "¿Qué cuotas hay por el pastoreo en terrenos del Gobierno Federal?",
+    "¿Cuál es el costo por tonelada de chicle autorizado?",
+    "¿A dónde van los ingresos de los derechos por aprovechamiento de bosques?",
+    "¿Qué tipos de madera tienen cuotas establecidas?"
   ]
 }

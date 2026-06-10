@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2cb7ae1bffd0ad05",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Bienes Culturales",
   "temas": [
-    "propiedad de la nación",
+    "patrimonio cultural",
     "bienes culturales",
-    "derogación",
-    "patrimonio cultural"
+    "nación",
+    "propiedad",
+    "legislación"
   ],
   "terminos_coloquiales": [
-    "bienes culturales de México",
-    "cultura nacional",
-    "propiedad cultural",
-    "patrimonio nacional",
-    "ley de bienes culturales"
+    "bienes culturales",
+    "patrimonio de la nación",
+    "cultura nacional"
   ],
-  "resumen": "Este artículo estaba relacionado con los bienes culturales que son propiedad de la nación, pero ha sido derogado y ya no tiene efecto legal.",
+  "resumen": "El artículo estaba relacionado con la regulación de los bienes culturales que son propiedad de la nación, pero ha sido derogado.",
   "preguntas_ejemplo": [
+    "¿Qué pasó con la regulación de los bienes culturales de la nación?",
+    "¿Dónde se puede encontrar la ley sobre bienes culturales?",
     "¿Qué son los bienes culturales propiedad de la nación?",
-    "¿Qué pasará con la ley de bienes culturales?",
-    "¿Hay cambios en la legislación sobre patrimonio cultural?",
-    "¿Qué significa que un artículo se derogue?",
-    "¿Cómo afecta la derogación a los bienes culturales?",
-    "¿Qué dice la ley sobre patrimonio cultural?"
+    "¿Qué bienes culturales pertenecen a la nación?"
   ]
 }

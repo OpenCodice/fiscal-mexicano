@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5e15179e68231389",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Destinos de ingresos por derechos ambientales",
+  "denominacion_comun": "Destino de ingresos por derechos ambientales",
   "temas": [
-    "ingresos",
-    "derechos",
+    "derechos ambientales",
     "Secretaría de Medio Ambiente",
     "conservación",
-    "servicios",
+    "servicios urbanos",
     "descentralización"
   ],
   "terminos_coloquiales": [
-    "ingresos por derechos ambientales",
-    "dinero de trámites ambientales",
-    "fondos para el medio ambiente",
-    "servicios de medio ambiente",
-    "recaudación de derechos"
+    "ingresos por derechos",
+    "conservación del medio ambiente",
+    "servicios ambientales",
+    "trámites de conservación"
   ],
-  "resumen": "Los ingresos recaudados por ciertos derechos se destinarán a la Secretaría de Medio Ambiente para su conservación y operación. Si estos servicios están descentralizados, el dinero irá al estado o Distrito Federal que los realice.",
+  "resumen": "Los ingresos de ciertos derechos se usarán para el mantenimiento y operación de servicios ambientales. Si esos servicios están descentralizados, el dinero irá al estado o distrito federal que los ejecute.",
   "preguntas_ejemplo": [
-    "¿A dónde va el dinero de los derechos ambientales?",
-    "¿Qué sucede con los ingresos de los trámites de medio ambiente?",
-    "¿Quién se queda con el dinero de los derechos cuando son descentralizados?",
-    "¿Cómo se manejan los ingresos por servicios ambientales?",
-    "¿Qué hace la Secretaría de Medio Ambiente con los ingresos recaudados?"
+    "¿Qué pasa con los ingresos de los derechos ambientales?",
+    "¿A dónde se destinan los ingresos por la recaudación de derechos?",
+    "¿Qué servicios se financian con estos ingresos?",
+    "¿Cómo afecta la descentralización a la recaudación de derechos ambientales?",
+    "¿Quién recibe los ingresos si los servicios son prestados por un estado?"
   ]
 }

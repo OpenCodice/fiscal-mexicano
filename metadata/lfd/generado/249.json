@@ -6,19 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposición",
+  "denominacion_comun": "Derogación de artículo",
   "temas": [],
-  "terminos_coloquiales": [
-    "se eliminó una ley",
-    "derogación de artículo",
-    "caída de norma"
-  ],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene validez. No se aplican las disposiciones que antes contenía.",
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigencia y no tiene efecto legal.",
   "preguntas_ejemplo": [
-    "¿Este artículo todavía está en vigor?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Qué efectos tiene la derogación de una norma?"
+    "¿Qué sucede con las disposiciones cuando se derogan?",
+    "¿Qué debo hacer si un artículo que aplicaba antes ya no está vigente?"
   ]
 }

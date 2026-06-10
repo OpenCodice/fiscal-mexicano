@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d3ce0aa151f97c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de inversiones extranjeras",
+  "denominacion_comun": "Derecho de Inversiones Extranjeras",
   "temas": [
-    "derechos",
     "inversiones extranjeras",
-    "comisión nacional",
-    "autorizaciones",
-    "cuotas"
+    "comisión nacional de inversiones",
+    "autorizationes",
+    "derechos",
+    "fideicomisos",
+    "acciones",
+    "sucursales"
   ],
   "terminos_coloquiales": [
-    "derechos por inversiones",
-    "costos de inversión extranjera",
-    "cuotas de autorización",
-    "pagos de la Comisión de Inversiones"
+    "derecho de inversiones",
+    "autorización de inversión",
+    "comisión de inversiones",
+    "fideicomiso",
+    "acciones",
+    "sucursal"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por diversos procedimientos relacionados con inversiones extranjeras, como la adquisición de acciones, la constitución de fideicomisos, y la autorización para registros. Incluye tarifas específicas para diferentes tipos de solicitudes relacionadas con la inversión extranjera.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la recepción y estudio de solicitudes y la expedición de resoluciones relacionadas con inversiones extranjeras. Incluye aspectos como la constitución de fideicomisos y la autorización de inscripción de personas morales extranjeras.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta hacer una inversión extranjera?",
-    "¿Qué derechos necesito pagar para invertir en México?",
-    "¿Cuáles son las tarifas por autorizaciones de inversión extranjera?",
-    "¿Qué cuota se aplica si quiero comprar acciones en México?",
-    "¿Cuánto se paga por una prórroga en la inversión extranjera?"
+    "¿Cuánto debo pagar por invertir en acciones de una empresa mexicana?",
+    "¿Qué cuotas se aplican para la constitución de fideicomisos de inversión extranjera?",
+    "¿Cuáles son los derechos que debo cumplir al hacer una inversión extranjera?",
+    "¿Qué costos tiene la autorización para abrir una sucursal en México?",
+    "¿Cómo se gestionan las prórrogas para inversiones extranjeras?"
   ]
 }

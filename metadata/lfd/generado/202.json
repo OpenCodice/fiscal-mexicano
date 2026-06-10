@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:50359a1069e85a06",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de Atraque",
+  "denominacion_comun": "Derechos de atraque",
   "temas": [
-    "Embarcaciones",
-    "Derechos",
-    "Atraque",
-    "Muelles"
+    "embarcaciones",
+    "muelles",
+    "derechos de atraque",
+    "embarcaciones comerciales",
+    "yates",
+    "embarcaciones arrejeradas",
+    "embarcaciones locales comerciales"
   ],
   "terminos_coloquiales": [
-    "cuánto cuesta atracar",
-    "derechos de muelle",
-    "pago de atraque",
-    "tarifas de embarcaciones"
+    "derecho de atraque",
+    "pago por atraque",
+    "cuota de muelle",
+    "embarcaciones comerciales",
+    "yates",
+    "embarcaciones arrejeradas",
+    "embarcaciones locales"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por el atraque de embarcaciones en muelles de la Federación. Las tarifas varían según el tipo de embarcación y el tiempo de atraque.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por el atraque de diferentes tipos de embarcaciones en muelles de la Federación. Las tarifas varían según el tipo de embarcación y deben pagarse antes de desatraque.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por atracar mi yate?",
-    "¿Qué tarifas hay para embarcaciones comerciales?",
-    "¿Cómo se calculan los derechos de atraque?",
-    "¿Qué es una embarcación arrejerada?",
-    "¿Debo pagar antes de desatracar mi embarcación?"
+    "¿Cuánto tengo que pagar por el atraque de mi yate?",
+    "¿Qué tipos de embarcaciones están sujetas a derechos de atraque?",
+    "¿Cómo se calculan las tarifas de atraque en muelles federales?",
+    "¿Debo pagar antes de desatracar mi embarcación?",
+    "¿Qué es una embarcación arrejerada?"
   ]
 }

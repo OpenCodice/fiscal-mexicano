@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:66b8142f261dda86",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Descuento en derechos de agua",
+  "denominacion_comun": "Descuento en derechos por aguas residuales",
   "temas": [
-    "tratamiento de aguas residuales",
+    "derechos de agua",
+    "plantas de tratamiento",
     "calidad del agua",
-    "derechos por uso de agua",
-    "descargas",
-    "Norma Oficial Mexicana"
+    "descargas residuales",
+    "beneficios fiscales",
+    "NOM-127",
+    "Ley de Aguas Nacionales"
   ],
   "terminos_coloquiales": [
-    "descuento por tratamiento de aguas",
-    "pago de derechos de agua",
-    "calidad de descargas",
-    "ahorros en uso de agua"
+    "descuento en pagos de agua",
+    "tratamiento de aguas",
+    "calidad del agua",
+    "derechos por uso de agua"
   ],
-  "resumen": "Las personas que tratan aguas residuales y cumplen con ciertas normas pueden obtener un descuento en el pago de derechos por el uso de aguas nacionales. Este beneficio se aplica si las descargas de agua son de calidad aceptable según la normativa vigente.",
+  "resumen": "Las personas que traten aguas residuales y cumplan con normas de calidad tienen derecho a un descuento del 70% en los derechos por el uso de aguas nacionales. Este descuento solo se aplica si se presentan los resultados de calidad del agua de un laboratorio acreditado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un descuento en mis derechos de agua?",
-    "¿Qué requisitos debo cumplir para el tratamiento de aguas residuales?",
-    "¿Qué tipo de calidad de agua se necesita para el descuento?",
-    "¿Dónde puedo obtener un laboratorio acreditado para mis resultados de agua?",
-    "¿Cuál es el porcentaje de descuento en los derechos de agua?"
+    "¿Qué descuentos hay en los derechos de uso de agua para plantas de tratamiento?",
+    "¿Cómo puedo obtener un descuento en la tarifa del agua?",
+    "¿Qué requisitos debo cumplir para aplicar el descuento en derechos de agua?",
+    "¿Qué es la NOM-127 y cómo afecta mis costos de agua?",
+    "¿Dónde puedo obtener un comprobante de calidad del agua?",
+    "¿Qué es el derecho por uso o aprovechamiento de aguas nacionales?"
   ]
 }

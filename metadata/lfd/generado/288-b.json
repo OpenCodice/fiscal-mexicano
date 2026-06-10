@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f10b390d24ed6d29",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho sobre monumentos artísticos",
   "temas": [
-    "derecho",
+    "derechos",
     "monumentos artísticos",
     "reproducción",
-    "cuotas",
-    "fines comerciales"
+    "fines comerciales",
+    "cuotas"
   ],
   "terminos_coloquiales": [
-    "derecho de uso de monumentos",
-    "costo por reproducir arte",
-    "cuota de reproducción artística",
-    "pago por monumentos culturales"
+    "derecho de reproducción de monumentos",
+    "derechos de autor sobre monumentos",
+    "reproducción de obras",
+    "derecho sobre monumentos",
+    "monumentos culturales"
   ],
-  "resumen": "Se establece un derecho que se debe pagar por el uso y reproducción de monumentos artísticos con fines comerciales. Las cuotas varían dependiendo del tipo de reproducción que se realice.",
+  "resumen": "Este artículo establece el derecho que se debe pagar por la reproducción de monumentos artísticos con fines comerciales, especificando las cuotas correspondientes según el tipo de reproducción. Incluye tanto reproducciones fotográficas como moldes.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por reproducir un monumento artístico?",
-    "¿Qué derechos son necesarios para usar imágenes de monumentos?",
-    "¿Cómo se cobra el derecho por reproducciones artísticas?",
-    "¿Qué tipos de reproducciones tienen diferentes cuotas?",
-    "¿Cuál es el costo de hacer un molde de un monumento?"
+    "¿Cuánto debo pagar por reproducir una imagen de un monumento?",
+    "¿Qué derechos se requieren para comercializar reproducciones de monumentos artísticos?",
+    "¿Cuáles son las tarifas para reproducir obras artísticas?",
+    "¿Hay un costo por hacer un molde de un monumento artístico?",
+    "¿Necesito un permiso para reproducir un monumento con fines comerciales?"
   ]
 }

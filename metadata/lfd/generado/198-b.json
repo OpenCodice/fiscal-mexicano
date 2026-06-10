@@ -6,23 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5975fd7b42f61380",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pesca",
-  "temas": [
-    "pesca",
-    "regulación",
-    "derogación"
-  ],
-  "terminos_coloquiales": [
-    "ley de pesca",
-    "reglas de pesca",
-    "normas para pescar"
-  ],
-  "resumen": "Este artículo de la ley de pesca ha sido derogado, lo que significa que ya no está en vigor. Antes regulaba ciertos aspectos relacionados con la actividad pesquera.",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "El artículo ha sido derogado, por lo que ya no establece regulaciones sobre el tema de la pesca.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las leyes actuales sobre pesca?",
-    "¿Qué pasó con la ley de pesca anterior?",
-    "¿Existen regulaciones para la pesca en México?"
+    "¿Qué dice la ley sobre la pesca?",
+    "¿Existen disposiciones fiscales para el sector pesquero?",
+    "¿Cuáles son las regulaciones actuales sobre pesca?"
   ]
 }

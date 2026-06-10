@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4d483e762a81428",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones del derecho federal por descargas de aguas",
+  "denominacion_comun": "Exenciones en derechos por aguas residuales",
   "temas": [
-    "derecho federal",
-    "descargas de aguas",
-    "exenciones",
-    "calidad del agua"
+    "descarga de aguas residuales",
+    "exención de derechos",
+    "calidad de agua",
+    "mediciones de volumen",
+    "contribuyentes",
+    "laboratorio acreditado",
+    "informes de descarga"
   ],
   "terminos_coloquiales": [
-    "no pagar derecho por aguas residuales",
-    "exenciones en descargas de agua",
-    "dinero que se ahorra por aguas residuales",
-    "aguas residuales sin costo"
+    "descargas de agua",
+    "derechos de agua",
+    "contaminación",
+    "medir agua",
+    "aguas residuales",
+    "gente que no paga por agua"
   ],
-  "resumen": "El artículo establece quiénes no están obligados a pagar un derecho federal por sus descargas de aguas residuales, basándose en límites de calidad y población. También menciona las condiciones bajo las cuales se debe pagar este derecho.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales los contribuyentes no están obligados a pagar el derecho federal por la descarga de aguas residuales, siempre que se cumplan ciertos límites de calidad y cantidad. También se requiere la medición y reporte de dichos volúmenes por un laboratorio acreditado.",
   "preguntas_ejemplo": [
-    "¿Quiénes no tienen que pagar por sus descargas de aguas?",
-    "¿Qué límites de calidad debo cumplir para estar exento?",
-    "¿Hay grupos que no pagan derecho por aguas residuales?",
-    "¿Qué pasa si no mido mis descargas de agua?",
-    "¿Existen excepciones para poblaciones pequeñas en el pago de derechos?"
+    "¿Quiénes no tienen que pagar derechos por descargar aguas residuales?",
+    "¿Cuáles son los límites de calidad para las descargas de aguas?",
+    "¿Qué requisitos debo cumplir para estar exento del pago por mis descargas?",
+    "¿Necesito un reporte de laboratorio para mis descargas de agua?",
+    "¿Qué pasa si no mido mis descargas de aguas residuales?"
   ]
 }

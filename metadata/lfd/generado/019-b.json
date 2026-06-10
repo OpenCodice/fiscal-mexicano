@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be2001cf3f1ad4ce",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Publicación en el Diario Oficial",
@@ -14,22 +15,24 @@
     "Diario Oficial de la Federación",
     "actos administrativos",
     "licitaciones públicas",
-    "convocatorias",
-    "organismos públicos",
-    "servicios públicos"
+    "convocatorias públicas",
+    "publicaciones obligatorias",
+    "edictos",
+    "notificaciones"
   ],
   "terminos_coloquiales": [
-    "publicación DOF",
-    "derechos de publicación",
+    "publicar en el DOF",
+    "pago por publicación",
+    "convocatorias del gobierno",
     "licitaciones",
-    "convocatorias públicas"
+    "avisos en el DOF"
   ],
-  "resumen": "El artículo establece que no se pagará derecho por la publicación de actos que sean obligatorios según la ley. También menciona que ciertos organismos deben pagar derechos por publicaciones específicas en el Diario Oficial de la Federación.",
+  "resumen": "Este artículo establece que no se pagará el derecho por la publicación de ciertos actos administrativos en el Diario Oficial de la Federación cuando dicha publicación sea obligatoria. Además, menciona que las entidades gubernamentales deberán pagar derechos para la publicación de convocatorias y otros documentos que no cumplan con las características especificadas.",
   "preguntas_ejemplo": [
-    "¿Qué actos no requieren pago por publicación en el DOF?",
-    "¿Qué organismos deben pagar derechos por publicaciones?",
-    "¿Qué tipos de publicaciones están exentas de derechos?",
-    "¿Cuándo se considera obligatoria la publicación en el DOF?",
-    "¿Qué son las convocatorias públicas y cómo se publican?"
+    "¿Cuándo se paga por publicar en el Diario Oficial?",
+    "¿Qué tipos de publicaciones no generan derechos en el DOF?",
+    "¿Qué entidades deben pagar derechos por publicaciones?",
+    "¿Qué son las convocatorias públicas y cómo se publican?",
+    "¿Qué actos requieren publicación obligatoria en el Diario Oficial?"
   ]
 }

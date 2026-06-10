@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28f2f93684855a51",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por trámites relacionados con concesiones y fideicomisos",
+  "denominacion_comun": "Derechos por trámites y permisos",
   "temas": [
     "trámites",
     "permisos",
     "concesiones",
     "fideicomisos",
-    "bienes inmuebles"
+    "bienes inmuebles",
+    "admisión de extranjeros",
+    "exploración y explotación"
   ],
   "terminos_coloquiales": [
-    "derechos por trámites",
-    "permisos de concesiones",
+    "trámites de permisos",
+    "concesiones del Gobierno",
     "constitución de fideicomisos",
-    "avisos de adquisición de bienes",
-    "Ley de Inversión Extranjera"
+    "inmuebles",
+    "comprar propiedades",
+    "avisos de adquisición"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por trámites relacionados con permisos y concesiones, así como por la constitución y modificación de fideicomisos. También menciona derechos por la adquisición de bienes inmuebles en ciertas condiciones.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por realizar trámites relacionados con concesiones, fiducias y la adquisición de bienes por sociedades con cláusulas de admisión de extranjeros. Incluye costos por permisos y la presentación de avisos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cuánto hay que pagar por un permiso de concesión?",
-    "¿Qué costos tienen los trámites de fideicomisos?",
-    "¿Cuáles son los derechos por adquirir bienes inmuebles como empresa?",
-    "¿Qué artículos de la Ley de Inversión Extranjera debo considerar?",
-    "¿Qué sucede si realizo un trámite de manera extemporánea?"
+    "¿Cuánto cuesta obtener un permiso de concesión?",
+    "¿Qué tarifas debo pagar por constituir un fideicomiso?",
+    "¿Qué derechos se aplican al adquirir un inmueble con cláusula de extranjeros?",
+    "¿Cuáles son los costos por presentar un aviso de adquisición?",
+    "¿Existen tarifas para modificaciones de fideicomisos?"
   ]
 }

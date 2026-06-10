@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:863ef5dd62d6de00",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por uso de playas y zonas marítimas",
   "temas": [
     "derechos",
-    "playas",
-    "zona federal marítimo terrestre",
-    "concesiones",
     "permisos",
-    "agricultura",
-    "ganadería",
-    "acuacultura",
-    "pesca"
+    "autorizaciones",
+    "zonas federales",
+    "playas",
+    "terrenos ganados al mar",
+    "verificación",
+    "concesiones"
   ],
   "terminos_coloquiales": [
-    "derechos de uso de playas",
-    "tarifas de concesiones",
-    "costo por permisos en playa",
-    "cuotas por uso de áreas marítimas"
+    "derechos por playas",
+    "permisos de uso de playas",
+    "autorizaciones marítimas",
+    "concesiones de playas",
+    "uso de playas"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la utilización de playas y zonas marítimas, incluyendo permisos y concesiones. También menciona reducciones en los derechos si estas áreas se utilizan para actividades agrícolas o pesqueras.",
+  "resumen": "Este artículo establece las cuotas a pagar por la recepción y estudio de solicitudes relacionadas con permisos y concesiones para el uso de playas y zonas marítimas, así como por la verificación de levantamientos topográficos. También se indica una reducción en las cuotas si estas áreas se utilizan para actividades agrícolas, ganaderas o pesqueras.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta pedir un permiso para usar una playa?",
-    "¿Qué derechos tengo sobre la zona federal marítimo terrestre?",
-    "¿Hay descuentos si uso la playa para agricultura o pesca?",
-    "¿Cómo se calcula el costo por el uso de terrenos ganados al mar?",
-    "¿Qué debo pagar si quiero ceder una concesión a otra persona?"
+    "¿Cuánto se paga por un permiso para usar la playa?",
+    "¿Qué cuota debo pagar por la verificación de mi concesión marítima?",
+    "¿Hay descuentos si utilizo la playa para actividades de pesca?",
+    "¿Cómo se determina el costo de la cesión de concesiones?",
+    "¿Qué derechos debo pagar si tengo un puesto fijo en la playa?"
   ]
 }

@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12d42651861937d4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Almacenaje de Mercancías",
+  "denominacion_comun": "Derechos de aduana",
   "temas": [
-    "derechos aduanales",
-    "almacenaje",
     "mercancías de importación",
     "mercancías de exportación",
-    "depósitos aduaneros",
-    "plazos de pago",
-    "tráfico marítimo",
+    "derechos de almacenaje",
+    "plazos de custodia",
+    "depósito aduanero",
     "embargos",
     "secuestros"
   ],
   "terminos_coloquiales": [
-    "costo de almacenar mercancías",
-    "cuánto hay que pagar por guardar cosas en la aduana",
-    "derechos por deposito en aduana",
-    "tarifas de almacenaje aduanal",
-    "plazos para pagar derechos de aduanas"
+    "derechos aduanales",
+    "almacenaje",
+    "mercancías",
+    "aduanas",
+    "plazos de depósito"
   ],
-  "resumen": "Este artículo establece que se deben pagar derechos por el manejo y almacenaje de mercancías en aduanas después de ciertos plazos. Los plazos varían según si las mercancías son de importación o exportación y el tipo de recinto fiscal.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por el manejo y almacenaje de mercancías que están en depósito ante la aduana. Se definen plazos específicos para el pago según si las mercancías son de importación o exportación, y también se mencionan los casos de embargos o secuestros.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para pagar el almacenaje de mercancías en la aduana?",
-    "¿Qué derechos se pagan por la custodia de mercancías en depósito?",
-    "¿Qué sucede si no reclamo mis mercancías a tiempo en la aduana?",
-    "¿Cuál es el plazo para mercancías embarcadas?",
-    "¿Hay diferencia en plazos entre importación y exportación?"
+    "¿Cuánto debo pagar por el almacenaje de mercancías en la aduana?",
+    "¿Cuáles son los plazos para el manejo de mercancías de importación?",
+    "¿Qué pasa si mis mercancías no se exportan?",
+    "¿Cuándo se consideran embargadas las mercancías en deposito?",
+    "¿Cuánto tiempo tengo para recoger mis mercancías antes de que me cobren derechos de almacenaje?"
   ]
 }

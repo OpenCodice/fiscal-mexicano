@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c81b587463de123",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Certificados de Sanidad",
+  "denominacion_comun": "Derechos de certificación fitosanitaria y zoosanitaria",
   "temas": [
-    "certificados zoosanitarios",
     "certificados fitosanitarios",
-    "sanidad acuícola",
-    "derechos por certificación",
-    "cuotas de certificación",
-    "importación y exportación",
-    "regulación fitosanitaria",
-    "regulación zoosanitaria"
+    "certificados zoosanitarios",
+    "movilización nacional",
+    "exportación e importación",
+    "derechos de certificación",
+    "Tipo Inspección Federal (TIF)",
+    "sanidad agropecuaria",
+    "sanidad acuícola"
   ],
   "terminos_coloquiales": [
-    "cuánto cuesta un certificado de salud",
-    "derechos por certificados sanitarios",
-    "certificados fitosanitarios y zoosanitarios",
-    "costos de certificados para importar",
-    "tarifas por sanidad agropecuaria"
+    "certificados para plantas",
+    "certificados de animales",
+    "derechos por certificados",
+    "certificados TIF",
+    "sanidad agropecuaria",
+    "sanidad acuícola"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición de certificados zoosanitarios y fitosanitarios relacionados con la movilización de productos y subproductos de origen animal y vegetal. También se menciona que hay exenciones en ciertos casos y reducción de tarifas en situaciones específicas.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición de certificados fitosanitarios y zoosanitarios para la movilización, importación y exportación de productos y subproductos de origen vegetal y animal. También se precisan excepciones donde no se cobrarán estos derechos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un certificado fitosanitario?",
-    "¿Qué certificados necesitan los productos de sanidad animal?",
-    "¿Hay exenciones para el pago de derechos por certificados?",
-    "¿Cómo se paga por la renovación de un certificado?",
-    "¿Cuál es la tarifa por un certificado de sanidad acuícola?"
+    "¿Cuánto se paga por un certificado fitosanitario?",
+    "¿Qué certificados necesito para exportar animales?",
+    "¿Existen excepciones para los derechos de certificación?",
+    "¿Cuál es la cuota por un certificado zoosanitario de importación?",
+    "¿Qué es un establecimiento Tipo Inspección Federal (TIF)?"
   ]
 }

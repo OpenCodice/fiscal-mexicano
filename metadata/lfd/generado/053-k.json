@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:790fcd306305eecb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por marbetes en bebidas alcohólicas",
+  "denominacion_comun": "Derechos de marbetes para bebidas alcohólicas",
   "temas": [
-    "derechos",
     "marbetes",
     "bebidas alcohólicas",
-    "impuesto especial"
+    "derechos",
+    "cuotas",
+    "impuestos especiales"
   ],
   "terminos_coloquiales": [
-    "costos de marbetes",
-    "pago de marbetes",
-    "derechos de marbetes"
+    "derechos de marbetes",
+    "marbetes de bebidas",
+    "cuota por marbetes",
+    "marbetes físicos",
+    "marbetes electrónicos"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por los marbetes que se adhieran a los envases de bebidas alcohólicas. Existen cuotas diferentes para marbetes físicos y electrónicos, y parte de estos ingresos se destina al fisco.",
+  "resumen": "Este artículo establece los derechos que deben pagarse por la obtención de marbetes que se colocan en los envases de bebidas alcohólicas. Se especifican las cuotas a pagar para marbetes físicos y electrónicos.",
   "preguntas_ejemplo": [
     "¿Cuánto cuesta un marbete para bebidas alcohólicas?",
-    "¿Qué derechos debo pagar por marbetes?",
-    "¿Cuál es la cuota de los marbetes electrónicos?",
+    "¿Qué son los derechos de marbetes?",
+    "¿Cuáles son las cuotas para marbetes físicos y electrónicos?",
     "¿A dónde va el dinero de los derechos de marbetes?",
-    "¿Qué son los marbetes en bebidas alcohólicas?"
+    "¿Cómo se obtienen los marbetes para bebidas alcohólicas?"
   ]
 }

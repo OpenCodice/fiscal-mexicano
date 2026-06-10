@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e39ef36ad3a47808",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de dictaminación",
+  "denominacion_comun": "Derechos por servicios relacionados con concesiones mineras",
   "temas": [
-    "servicios de dictaminación",
+    "servicios",
     "concesiones mineras",
+    "solicitudes",
     "expropiación",
     "ocupación temporal",
     "servidumbre",
     "nulidad de derechos"
   ],
   "terminos_coloquiales": [
-    "derechos por dictaminación",
-    "costo de servicios mineros",
-    "cargos por expropiaciones",
-    "servicios de concesiones"
+    "derechos por servicios mineros",
+    "solicitudes de concesiones",
+    "expropiación de tierras",
+    "ocupación temporal",
+    "servidumbre"
   ],
-  "resumen": "Se establece que se deberán cubrir derechos por la prestación de servicios relacionados con la dictaminación sobre solicitudes de concesiones mineras y expropiaciones. Esto incluye la identificación de superficie y la resolución de nulidades de derechos.",
+  "resumen": "Este artículo establece que se deben pagar derechos por la prestación de servicios relacionados con concesiones mineras, así como por solicitudes de expropiación y otros aspectos relacionados con los derechos de superficie. Estos pagos se deben hacer conforme a lo que señala otra fracción de la ley.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por la dictaminación de una concesión minera?",
-    "¿Qué derechos se deben cubrir para una solicitud de expropiación?",
-    "¿Qué pasa si quiero cambiar el punto de origen de un lote minero?",
-    "¿Cómo se determina el costo de los servicios de dictaminación?",
-    "¿Qué implica la nulidad de derechos en concesiones mineras?"
+    "¿Cuánto debo pagar por servicios de concesiones mineras?",
+    "¿Qué derechos se necesitan para hacer modificaciones en una concesión?",
+    "¿Cómo se solicita una expropiación?",
+    "¿Qué es la ocupación temporal en el contexto de concesiones mineras?",
+    "¿Qué sucede si hay nulidad en los derechos de concesión?"
   ]
 }

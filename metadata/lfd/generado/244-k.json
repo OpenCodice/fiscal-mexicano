@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4090d8d82c308025",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de concesiones",
+  "denominacion_comun": "Derechos por concesiones",
   "temas": [
-    "pagos de derechos",
+    "derechos de concesión",
     "obligaciones fiscales",
     "títulos de concesión",
-    "telecomunicaciones",
-    "radiodifusión"
+    "contraprestaciones",
+    "servicios adicionales"
   ],
   "terminos_coloquiales": [
-    "pagos de concesiones",
-    "derechos de telecomunicaciones",
-    "obligaciones de radiodifusión",
-    "cargos por concesiones"
+    "pago de derechos",
+    "títulos de concesión",
+    "servicios de telecomunicaciones",
+    "concesiones"
   ],
-  "resumen": "Este artículo establece que el pago de ciertos derechos relacionados con concesiones debe hacerse sin afectar otras obligaciones fiscales. También menciona las contraprestaciones asociadas a la obtención o renovación de concesiones.",
+  "resumen": "Este artículo establece que el pago de derechos por títulos de concesión debe hacerse sin afectar el cumplimiento de otras obligaciones fiscales. También menciona que las contraprestaciones deben ser consideradas.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los derechos que debo pagar por mi concesión?",
-    "¿Tengo otras obligaciones fiscales al pagar mis derechos?",
-    "¿Qué pasa si no pago los derechos de concesión?",
-    "¿Cuándo debo pagar los derechos de telecomunicaciones?",
-    "¿Qué son las contraprestaciones en los títulos de concesión?"
+    "¿Qué derechos se deben pagar por concesiones?",
+    "¿Debo cumplir con otras obligaciones fiscales además de pagar derechos de concesión?",
+    "¿Qué son las contraprestaciones en la Ley de Telecomunicaciones?",
+    "¿Cómo afectan los títulos de concesión mis obligaciones fiscales?",
+    "¿Qué servicios adicionales están relacionados con los pagos de derechos?"
   ]
 }

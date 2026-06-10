@@ -6,24 +6,17 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación Artículo",
-  "temas": [
-    "derogación",
-    "legislación",
-    "fiscal",
-    "artículos"
-  ],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "qué pasó con este artículo?",
-    "ley que ya no existe"
-  ],
-  "resumen": "Este artículo ha sido derogado y ya no tiene validez en la ley.",
+  "denominacion_comun": "Derogación",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado y ya no tiene validez legal.",
   "preguntas_ejemplo": [
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Este artículo sigue en vigor?",
-    "¿Cuáles son las consecuencias de la derogación de un artículo?"
+    "¿Qué pasó con el artículo 133 de la ley?",
+    "¿Este artículo todavía es aplicable?",
+    "¿Hay alguna ley relacionada con la derogación del artículo 133?",
+    "¿Dónde puedo encontrar información sobre artículos derogados?"
   ]
 }

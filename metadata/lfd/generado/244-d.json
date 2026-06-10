@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1027e4d0c57026f5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de uso del espectro radioeléctrico",
+  "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
   "temas": [
-    "concesiones",
-    "permisos",
-    "bandas de frecuencia",
+    "concesionarios",
+    "permisionarios",
+    "bandas de frecuencias",
     "espectro radioeléctrico",
-    "cuotas",
+    "derechos anuales",
+    "cuotas por kilohertz",
     "cobertura",
-    "regiones"
+    "población"
   ],
   "terminos_coloquiales": [
-    "derechos de frecuencias",
-    "pago por espectro",
-    "uso de bandas",
-    "cuota por radiofrecuencia"
+    "derechos de frecuencia",
+    "uso de frecuencias",
+    "concesiones de espectro",
+    "permisos de espectro",
+    "cuota por frecuencia",
+    "frecuencias radioeléctricas"
   ],
-  "resumen": "Los concesionarios y permisionarios deben pagar anualmente derechos por el uso de bandas de frecuencia del espectro radioeléctrico según su región y la cantidad de frecuencia que posean. Las cuotas varían dependiendo de la ubicación y el rango de frecuencia especificado.",
+  "resumen": "Los concesionarios y permisionarios del espectro radioeléctrico deben pagar un derecho anual por el uso de las bandas de frecuencia según su región y kilohertz concedido. La cuota varía dependiendo de la ubicación y el área de cobertura de la concesión o permiso.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por mi concesión de espectro?",
-    "¿Qué tarifas aplican para el uso de frecuencias en mi estado?",
-    "¿Cómo se calcula la cuota por el uso del espectro radioeléctrico?",
-    "¿Qué debo hacer si mi cobertura es menor a la región indicada?",
-    "¿Dónde encuentro las tablas de tarifas para frecuencias?",
-    "¿Las tarifas son iguales en todas las regiones?"
+    "¿Cuánto debo pagar por una concesión de espectro radioeléctrico?",
+    "¿Cómo se determina la cuota del derecho por uso de frecuencias?",
+    "¿Qué factores influyen en el pago de derechos por bandas de frecuencia?",
+    "¿Dónde puedo encontrar la tabla de cuotas para el uso del espectro?",
+    "¿Qué es un permisionario de espectro radioeléctrico?",
+    "¿Cómo afecta la población del área a las cuotas de concesión?"
   ]
 }

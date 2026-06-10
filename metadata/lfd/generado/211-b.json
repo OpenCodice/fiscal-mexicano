@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51df2098b7578a8b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de uso de la zona federal marítimo terrestre para la explotación de salinas",
+  "denominacion_comun": "Derecho de uso de salinas",
   "temas": [
-    "derecho annual",
-    "zona federal",
+    "derecho de uso",
     "salinas",
+    "zona federal marítimo terrestre",
+    "declaraciones fiscales",
     "pagos provisionales",
-    "declaraciones",
-    "ejercicios fiscales"
+    "saldo a favor"
   ],
   "terminos_coloquiales": [
-    "derecho de salinas",
-    "pago por uso de salinas",
+    "pago por salinas",
+    "derecho de uso de la zona federal",
+    "pago provisional",
     "declaración de derechos",
-    "zona marítimo terrestre"
+    "derecho anual"
   ],
-  "resumen": "Las personas físicas o morales que utilicen la zona federal marítimo terrestre para la explotación de salinas deben pagar un derecho anual, calculado en base a la superficie utilizada. Este derecho se determina anualmente y puede incluir pagos provisionales bimestrales.",
+  "resumen": "Este artículo establece que las personas que aprovechan la zona federal marítimo terrestre para explotar salinas deben pagar un derecho anual por el uso de esta área. Los pagos deben hacerse mediante declaraciones y se permite el uso de pagos provisionales bimestrales.",
   "preguntas_ejemplo": [
     "¿Cuánto tengo que pagar por el uso de salinas?",
-    "¿Cómo se calcula el derecho de uso de la zona federal marítimo terrestre?",
-    "¿Cuándo debo presentar la declaración del derecho anual?",
-    "¿Puedo hacer pagos provisionales por el derecho de uso de salinas?",
-    "¿Qué sucede si me queda un saldo a favor en el pago de derechos?"
+    "¿Cómo se determina el derecho de uso de la zona federal marítimo terrestre?",
+    "¿Qué debo hacer si tengo saldo a favor en mi declaración de derechos?",
+    "¿Cuáles son las fechas límites para los pagos provisionales?",
+    "¿Puedo presentar la declaración anual después de hacer un pago anticipado?"
   ]
 }

@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0fec1e9a8a220eea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos migratorios",
+  "denominacion_comun": "Derechos de regularización migratoria",
   "temas": [
-    "solicitud migratoria",
-    "regularización",
     "derechos",
-    "cuotas"
+    "regularización",
+    "situación migratoria",
+    "extranjeros",
+    "disposiciones migratorias"
   ],
   "terminos_coloquiales": [
-    "derechos migratorios",
-    "regularización migratoria"
+    "pago de derechos migratorios",
+    "regularización migratoria",
+    "cambio de estatus",
+    "solicitud de residencia"
   ],
-  "resumen": "Este artículo establece que se debe pagar un derecho por la recepción y estudio de la solicitud de regularización de la situación migratoria. Sin embargo, ciertos extranjeros no tendrán que pagar si solicitan la regularización bajo condiciones específicas.",
+  "resumen": "Este artículo establece el pago de derechos por la solicitud y el estudio de la regularización de la situación migratoria. Los extranjeros que soliciten la regularización bajo ciertas condiciones no tendrán que pagar estos derechos.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo que pagar para regularizar mi situación migratoria?",
+    "¿Cuánto tengo que pagar para regularizar mi situación migratoria?",
     "¿Quiénes están exentos del pago de derechos migratorios?",
-    "¿Cómo se realiza el pago de derechos para la regularización migratoria?",
-    "¿Qué es la cuota por solicitud migratoria?",
-    "¿Qué condiciones aplican para no pagar derechos migratorios?"
+    "¿Qué se necesita para solicitar la regularización de mi estatus?",
+    "¿Cómo se determina el costo de la regularización migratoria?",
+    "¿Cuáles son las condiciones para no pagar los derechos migratorios?"
   ]
 }

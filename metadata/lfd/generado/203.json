@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1173e1d89c800a92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de puerto para embarcaciones",
+  "denominacion_comun": "Derechos de puerto",
   "temas": [
-    "derechos de puerto",
-    "puertos",
     "embarcaciones",
-    "tráfico de cabotaje",
-    "autorizaciones",
+    "puertos",
+    "derecho de puerto de altura",
+    "derecho de cabotaje",
+    "trafico de cabotaje",
+    "autoridades portuarias",
     "despacho de salida"
   ],
   "terminos_coloquiales": [
-    "derecho de puerto",
-    "costo de entrada al puerto",
-    "tarifa portuaria",
-    "pago por uso de puerto",
+    "derechos de puerto",
     "cabotaje",
-    "puerto de altura"
+    "puerto de altura",
+    "regreso al mismo puerto"
   ],
-  "resumen": "Las embarcaciones que usen varios puertos dentro de una misma unidad solo pagarán el derecho de puerto al primer puerto que ingresen. No se cobrará este derecho si una embarcación regresa al mismo puerto sin haber ingresado a otro. Las embarcaciones extranjeras autorizadas para cabotaje deben pagar el derecho correspondiente.",
+  "resumen": "Las embarcaciones solo pagarán el derecho de puerto al entrar al primer puerto de una unidad portuaria. No se cobra si regresan al mismo puerto sin haber entrado a otro. Las embarcaciones extranjeras autorizadas deben pagar el derecho de puerto de cabotaje según cuotas específicas.",
   "preguntas_ejemplo": [
-    "¿Cuándo se paga el derecho de puerto?",
-    "¿Las embarcaciones que regresan al mismo puerto pagan derechos?",
-    "¿Qué embarcaciones pagan el derecho de cabotaje?",
-    "¿Cómo se verifica el pago de derechos de puerto?",
-    "¿Qué ocurre si una embarcación usa varios puertos?"
+    "¿Cuándo se paga el derecho de puerto de altura?",
+    "¿Qué sucede si una embarcación regresa al mismo puerto?",
+    "¿Las embarcaciones extranjeras tienen que pagar algún derecho?",
+    "¿Quién verifica el pago de los derechos de puerto?",
+    "¿Qué es el tráfico de cabotaje?"
   ]
 }

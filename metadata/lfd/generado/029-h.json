@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e0fe8e63eb716345",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Inspección y Vigilancia en Fusión",
+  "denominacion_comun": "Derechos por Inspección y Vigilancia",
   "temas": [
-    "fusiones de entidades financieras",
-    "derechos de inspección",
-    "vigilancia fiscal",
-    "entidades fusionantes",
+    "fusión de entidades financieras",
+    "filiales de entidades financieras",
+    "derechos por inspección",
+    "derechos por vigilancia",
+    "autorización de fusión",
+    "transformación de entidades",
     "cuota máxima",
-    "transformaciones de entidades",
-    "cuota mínima"
+    "cuota fija"
   ],
   "terminos_coloquiales": [
-    "derechos fiscales de fusión",
-    "inspección y vigilancia en fusiones",
+    "derechos de inspección",
+    "derechos de vigilancia",
     "fusión de bancos",
-    "DVF",
-    "derechos por fusión"
+    "transformación de bancos"
   ],
-  "resumen": "El artículo establece cómo se determinan los derechos por inspección y vigilancia que deben pagar las entidades financieras al fusionarse. La cuota a pagar se calcula sumando las cuotas de las entidades involucradas, sin exceder un monto máximo. Además, detalla el procedimiento para entidades que se transforman durante el ejercicio fiscal.",
+  "resumen": "El artículo establece que cuando se produce una fusión de entidades financieras, los derechos por inspección y vigilancia que deben pagar las entidades fusionantes serán la suma de las cuotas de las entidades participantes, sin exceder la cuota máxima. Además, si una entidad se transforma durante el ejercicio fiscal, pagará la cuota mayor entre la que venía pagando o la mínima correspondiente a la nueva entidad.",
   "preguntas_ejemplo": [
-    "¿Qué debo pagar si fusiono dos entidades financieras?",
-    "¿Cómo se calculan los derechos por inspección en una fusión?",
-    "¿Qué pasa si una entidad se transforma durante el ejercicio fiscal?",
-    "¿Cuál es el límite de los derechos por fusión?",
-    "¿Debo pagar derechos al fusionar filiales de entidades financieras?"
+    "¿Cuánto debo pagar por derechos de inspección si fusiono bancos?",
+    "¿Qué sucede con los derechos de vigilancia al transformar una entidad financiera?",
+    "¿Dónde se regula la cuota máxima de derechos por fusión de entidades?",
+    "¿Es necesario una autorización para pagar derechos por fusión?",
+    "¿Cómo se determina el importe de derechos tras una transformación de entidad financiera?"
   ]
 }

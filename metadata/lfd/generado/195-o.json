@@ -6,26 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:edad1ec33d5ce822",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro Nacional de Turismo",
   "temas": [
-    "Secretaría de Turismo",
-    "Registro de Turismo",
-    "Derogación",
-    "Normatividad turística"
+    "turismo",
+    "registro",
+    "Secretaría de Turismo"
   ],
   "terminos_coloquiales": [
-    "registro de turismo",
-    "secretaría de turismo",
-    "normativa de turismo",
-    "turismo en México"
+    "registrar un negocio turístico",
+    "registro de empresas turísticas",
+    "RNT"
   ],
-  "resumen": "El artículo establece que se deroga la disposición relacionada con el Registro Nacional de Turismo, que estaba bajo la Secretaría de Turismo.",
+  "resumen": "El artículo señala que el Registro Nacional de Turismo ha sido derogado, lo que significa que ya no existe esta obligación de registro para los negocios turísticos ante la Secretaría de Turismo.",
   "preguntas_ejemplo": [
     "¿Qué pasó con el Registro Nacional de Turismo?",
-    "¿La Secretaría de Turismo tiene algún registro actual?",
-    "¿Qué implica la derogación del Registro Nacional de Turismo?",
-    "¿Cuál es la situación actual de la normatividad turística?"
+    "¿Debo seguir registrando mi negocio turístico?",
+    "¿Qué significa la derogación del registro turístico?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9784f4aac7c231a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios ambientales",
+  "denominacion_comun": "Derechos por servicios forestales",
   "temas": [
     "certificados de inscripción",
-    "constancias del Registro Forestal",
+    "constancias del Registro Forestal Nacional",
     "sanidad forestal",
+    "certificados fitosanitarios",
+    "centros de almacenamiento",
     "colecta de recursos biológicos",
-    "autorización de centros de almacenamiento",
-    "cuotas por servicios",
-    "evaluación de solicitudes"
+    "uso de recursos genéticos"
   ],
   "terminos_coloquiales": [
-    "derechos por certificados",
-    "costo de autorización forestal",
-    "tarifas de sanidad ambiental",
-    "cobros por recursos naturales"
+    "derechos por servicios forestales",
+    "certificados forestales",
+    "autorizaciones de colecta",
+    "autorizaciones fitosanitarias",
+    "certificados fitosanitarios"
   ],
-  "resumen": "Esta disposición establece las tarifas que se deben pagar por diversos servicios relacionados con la sanidad y el uso de recursos forestales, incluyendo la inscripción en el Registro Forestal y la colecta de recursos biológicos. Los pagos varían dependiendo del tipo de servicio requerido.",
+  "resumen": "Este artículo regula los derechos que se deben pagar por diversos servicios relacionados con el registro y la sanidad en el ámbito forestal. Incluye costos por la obtención de certificados, autorizaciones y servicios específicos de evaluación por parte de la Secretaría de Medio Ambiente.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por un certificado de inscripción forestal?",
-    "¿Qué costo tiene la autorización para usar recursos naturales?",
-    "¿Cuáles son los derechos por servicios de sanidad forestal?",
-    "¿Qué tarifas se aplican para la colecta de recursos genéticos?",
-    "¿Cómo se calculan los costos por el funcionamiento de centros de transformación forestal?"
+    "¿Cuánto cuesta obtener un certificado de inscripción del Registro Forestal Nacional?",
+    "¿Qué derechos se pagan por la expedición de certificados fitosanitarios?",
+    "¿Qué tarifas aplican para la evaluación de solicitudes de colecta de recursos biológicos?",
+    "¿Cuáles son los costos por la autorización de centros de almacenamiento de productos forestales?",
+    "¿Qué pagos se deben realizar para usar recursos genéticos forestales?"
   ]
 }

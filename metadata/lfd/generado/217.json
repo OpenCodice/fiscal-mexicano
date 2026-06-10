@@ -6,19 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
+  "denominacion_comun": "Derogación",
   "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "ley eliminada",
-    "norma ya no aplica"
-  ],
-  "resumen": "Este artículo ha sido derogado y ya no tiene validez en la legislación fiscal.",
+  "terminos_coloquiales": [],
+  "resumen": "El artículo ha sido derogado y ya no está en vigor.",
   "preguntas_ejemplo": [
-    "¿Cuál es el artículo que ya no está vigente?",
-    "¿Qué leyes se han derogadas recientemente?",
-    "¿Hay algún artículo que ya no se aplique?"
+    "¿Qué significa que un artículo fiscal esté derogado?",
+    "¿Cuáles son los efectos de la derogación de este artículo?",
+    "¿Qué sucede con las obligaciones anteriores al derogar un artículo?",
+    "¿Este artículo ya no aplica en el contexto fiscal actual?",
+    "¿Dónde puedo encontrar la legislación actual después de la derogación?"
   ]
 }

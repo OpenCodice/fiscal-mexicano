@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c85cae42dffde6cc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de Televisión",
+  "denominacion_comun": "Derecho de televisión",
   "temas": [
-    "concesionarios",
-    "permisionarios",
-    "derecho de televisión",
+    "concesionario",
+    "permisionario",
+    "servicios de televisión",
     "programas de concurso",
-    "autorización de transmisión",
-    "programación extranjera",
+    "autorización anual",
+    "transmisiones en idioma extranjero",
     "materiales grabados"
   ],
   "terminos_coloquiales": [
-    "derechos de televisión",
-    "cuotas de televisión"
+    "derecho de televisión",
+    "canales de televisión",
+    "programas de televisión",
+    "programas de concurso",
+    "licencia de televisión"
   ],
-  "resumen": "Este artículo establece las cuotas que deben pagar los concesionarios o permisionarios por servicios en materia de televisión, incluyendo autorizaciones para sistemas de televisión y programas de concurso. Las tarifas varían según el tipo de servicio y la duración de los materiales.",
+  "resumen": "El artículo establece las cuotas que deben pagar los concesionarios y permisionarios por el derecho de televisión, incluyendo tarifas por autorización anual y supervisión de programas de concurso. También incluye derechos por materiales grabados y transmisiones en idioma extranjero.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por la autorización de un canal de televisión?",
-    "¿Cuáles son las cuotas por programas de concurso?",
-    "¿Qué tarifas aplican para la transmisión de programas en idioma extranjero?",
-    "¿Cuáles son los costos para los materiales grabados en televisión?",
-    "¿Existen tarifas distintas para horarios ordinarios y extraordinarios en programas de concurso?"
+    "¿Cuánto debo pagar por una licencia de televisión?",
+    "¿Cuáles son las tarifas por programas de concurso?",
+    "¿Qué costos hay para transmitir programas en otro idioma?",
+    "¿Qué derechos se deben pagar por materiales grabados?",
+    "¿Cómo se realiza la autorización para un canal de televisión?"
   ]
 }

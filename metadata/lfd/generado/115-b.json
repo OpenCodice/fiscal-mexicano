@@ -6,19 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 115-B",
-  "temas": [],
-  "terminos_coloquiales": [
+  "denominacion_comun": "Derogación de Artículo 115-B",
+  "temas": [
     "derogación",
-    "artículo eliminado",
-    "ya no existe"
+    "artículo",
+    "legislación fiscal",
+    "LFD"
   ],
-  "resumen": "El Artículo 115-B ha sido derogado, lo que significa que ya no tiene validez legal.",
+  "terminos_coloquiales": [
+    "se deroga",
+    "derogación"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor ni tiene efecto legal.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 115-B?",
-    "¿Está vigente el Artículo 115-B?",
-    "¿Qué significa que un artículo esté derogado?"
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Cuáles son las implicaciones de la derogación del artículo 115-B?",
+    "¿Por qué se deroga un artículo en la legislación fiscal?"
   ]
 }

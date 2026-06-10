@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:55a12d0e5f26395f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por visas",
   "temas": [
     "visas",
-    "derechos",
     "unidad familiar",
-    "oferta de empleo",
+    "empleo",
+    "derechos",
     "Instituto Nacional de Migración"
   ],
   "terminos_coloquiales": [
-    "derecho de visas",
-    "cuota de visas",
-    "INM"
+    "pago de visa",
+    "visas familiares",
+    "oferta de trabajo",
+    "cuota de visa"
   ],
-  "resumen": "Se establece un derecho que se debe pagar por la recepción y estudio de solicitudes de visas por unidad familiar o oferta de empleo ante el Instituto Nacional de Migración.",
+  "resumen": "Este artículo establece que se debe pagar un derecho por la recepción y estudio de solicitudes de visas por unidad familiar o por oferta de empleo ante el Instituto Nacional de Migración.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta tramitar una visa?",
-    "¿Qué derechos tengo al solicitar una visa?",
-    "¿Qué tipo de visas se tramitan por unidad familiar?",
-    "¿Dónde pago el derecho por la visa?",
-    "¿Qué es la cuota de visas del INM?"
+    "¿Cuánto tengo que pagar por la visa de mi familia?",
+    "¿Qué derechos se pagan al solicitar una visa de empleo?",
+    "¿Dónde puedo consultar la cuota de visa?",
+    "¿Qué trámites requieren el pago de derechos ante el INM?",
+    "¿Cuál es el costo de la visa para unidad familiar?"
   ]
 }

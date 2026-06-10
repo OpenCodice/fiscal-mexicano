@@ -6,18 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del artículo",
-  "temas": [],
-  "terminos_coloquiales": [
-    "se eliminó un artículo",
-    "artículo derogado"
+  "denominacion_comun": "Derogación de Artículo 112-A",
+  "temas": [
+    "derogación",
+    "artículo",
+    "legislación fiscal"
   ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor y no se aplica.",
+  "terminos_coloquiales": [
+    "se cayó",
+    "ya no existe",
+    "fuera de la ley"
+  ],
+  "resumen": "El artículo 112-A ya no está vigente. Esto significa que no se aplica ninguna de sus disposiciones. Las normativas anteriores referidas a este artículo han quedado sin efecto.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 112-A?",
-    "¿Por qué se eliminó este artículo?",
-    "¿Qué significa que un artículo esté derogado?"
+    "¿Qué pasó con el artículo 112-A de la LFD?",
+    "¿Por qué ya no se aplica el artículo 112-A?",
+    "¿El artículo 112-A sigue vigente?",
+    "¿Cuáles son las implicaciones de la deroga del artículo 112-A?",
+    "¿Dónde puedo encontrar información sobre el artículo 112-A?"
   ]
 }

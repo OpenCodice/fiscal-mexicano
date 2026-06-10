@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ce520a0aff59db7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción de valores en bolsas",
+  "denominacion_comun": "Inscripción de Valores en Bolsas",
   "temas": [
     "bolsas de valores",
-    "inscripción de valores",
+    "emisores",
     "documentación requerida",
-    "cumplimiento de obligaciones"
+    "obligaciones de pago"
   ],
   "terminos_coloquiales": [
-    "inscripción de valores",
-    "documentos de bolsa",
-    "cumplimiento de pagos"
+    "no inscribir valores",
+    "documentación de emisores",
+    "requisitos para valores"
   ],
-  "resumen": "Las bolsas de valores no podrán inscribir valores si el emisor no presenta la documentación que demuestre que ha cumplido con sus obligaciones de pago. Esto asegura que solo se admitan emisores que estén al corriente con sus obligaciones financieras.",
+  "resumen": "Las bolsas de valores no podrán inscribir ningún valor si el emisor no presenta la documentación que demuestre que ha cumplido con sus obligaciones de pago. Es un requisito previo para la inscripción.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un emisor no presenta su documentación a tiempo?",
-    "¿Cuáles son los requisitos para inscribir valores en la bolsa?",
-    "¿Qué implica el cumplimiento de la obligación de pago en la bolsa?",
-    "¿Las bolsas de valores aceptan documentos incompletos?",
-    "¿Qué tipo de documentación es necesaria para la inscripción de valores?"
+    "¿Qué necesita un emisor para inscribir valores en la bolsa?",
+    "¿Por qué no se pueden inscribir valores en la bolsa?",
+    "¿Qué documentación debe presentar un emisor?",
+    "¿Cuáles son las obligaciones de pago de los emisores de valores?",
+    "¿Qué sucede si un emisor no cumple con sus obligaciones?"
   ]
 }

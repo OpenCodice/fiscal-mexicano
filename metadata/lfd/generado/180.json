@@ -6,22 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de normas",
-  "temas": [
-    "derogación",
-    "normas fiscales"
-  ],
-  "terminos_coloquiales": [
-    "se eliminó una regla",
-    "ya no existe esta ley",
-    "cancelación de disposiciones"
-  ],
-  "resumen": "Este artículo indica que las normas mencionadas han sido derogadas y ya no están en vigor.",
+  "denominacion_comun": "Derogación de Artículo",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado, por lo que ya no es aplicable.",
   "preguntas_ejemplo": [
-    "¿Qué significa que una norma esté derogada?",
-    "¿Qué reglas fiscales ya no existen?",
-    "¿Cómo saber si una ley ha sido eliminada?"
+    "¿Qué significa que se haya derogado un artículo?",
+    "¿Qué artículos han sido derogados en la legislación fiscal?",
+    "¿Dónde puedo encontrar información sobre artículos derogados?"
   ]
 }

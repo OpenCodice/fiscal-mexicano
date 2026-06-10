@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b1a93edf159b5fa9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos marítimos",
+  "denominacion_comun": "Derechos por trámites marítimos",
   "temas": [
     "abanderamiento de embarcaciones",
     "certificados de matrícula",
-    "derechos por servicios",
-    "embarcaciones pescadoras",
-    "certificados de seguridad",
-    "autorizaciones para embarcaciones",
+    "permisos de navegación",
+    "derechos de explotación marítima",
     "inspecciones marítimas"
   ],
   "terminos_coloquiales": [
-    "cuotas de embarcaciones",
-    "costos de permisos marítimos",
-    "tarifas de abanderamiento",
-    "derechos de navegación",
-    "certificados navales"
+    "abanderamiento",
+    "certificado de matrícula",
+    "permiso de navegación",
+    "trámites de barcos",
+    "autorizaciones marítimas"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por diversos trámites relacionados con embarcaciones, incluyendo el abanderamiento, la expedición de certificados de matrícula y otros servicios ofrecidos por la Secretaría de Marina. También menciona las tarifas para permisos y análisis pertinentes a la operación de embarcaciones. Algunas embarcaciones están exentas de estos derechos.",
+  "resumen": "Este artículo establece los derechos que deben pagarse por diversos trámites relacionados con embarcaciones y artefactos navales, como el abanderamiento, la obtención de certificados, y la autorización para la extracción o modificación de características. Abarca distintos tipos de embarcaciones y sus respectivos costos según su arqueo bruto o características.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta el abanderamiento de una embarcación?",
-    "¿Qué derechos tengo que pagar por un certificado de matrícula?",
-    "¿Existen tarifas para la inspección de embarcaciones?",
-    "¿Qué embarcaciones están exentas de pagar derechos?",
-    "¿Cuáles son los costos para permisos de navegación?"
+    "¿Cuánto cuesta el abanderamiento de mi embarcación?",
+    "¿Qué derechos tengo que pagar para obtener un certificado de matrícula?",
+    "¿Cómo puedo obtener un permiso de navegación?",
+    "¿Cuáles son los costos de los trámites para mi barco?",
+    "¿Qué tarifas aplican para la autorización de pesca con mi embarcación?"
   ]
 }

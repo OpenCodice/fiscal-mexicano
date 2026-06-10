@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd3028e6981ccb8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de derechos",
+  "denominacion_comun": "Exenciones de Derechos",
   "temas": [
-    "exenciones",
-    "derechos",
+    "derechos a pagar",
     "asistencia pública",
-    "gobiernos extranjeros"
+    "seguridad pública",
+    "gobiernos extranjeros",
+    "reciprocidad",
+    "servicios de salud"
   ],
   "terminos_coloquiales": [
-    "no pago de derechos",
-    "exención de tarifas",
-    "servicios gratuitos",
-    "derechos no aplicables"
+    "no pagar derechos",
+    "exenciones de derechos",
+    "servicios públicos",
+    "asistencias gubernamentales"
   ],
-  "resumen": "Este artículo establece que no se pagarán derechos en ciertos casos, como en servicios del sector público para la asistencia o seguridad pública y en servicios para gobiernos extranjeros bajo reciprocidad. Los ingresos por derechos recaudados se destinarán a la Secretaría de Salud.",
+  "resumen": "Este artículo establece que no se pagarán ciertos derechos en casos de servicios dedicados a la asistencia o seguridad pública y en beneficios para gobiernos extranjeros por reciprocidad. Se menciona también la recaudación de derechos para la Secretaría de Salud.",
   "preguntas_ejemplo": [
     "¿Cuándo no tengo que pagar derechos?",
-    "¿Qué exenciones hay para el sector público?",
-    "¿Se pagan derechos por servicios a gobiernos extranjeros?",
-    "¿A dónde van los ingresos de los derechos que se recaudan?",
-    "¿Qué servicios están exentos de derechos?"
+    "¿Qué derechos no se pagan en servicios públicos?",
+    "¿Cómo funcionan las exenciones de derechos para gobiernos extranjeros?",
+    "¿A qué se destinan los derechos que se recaudan?",
+    "¿Qué establece el artículo sobre asistencia pública?"
   ]
 }

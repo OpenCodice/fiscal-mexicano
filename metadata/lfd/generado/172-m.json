@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0249690c01ecbf32",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por solicitudes de servicios de transporte",
+  "denominacion_comun": "Derechos por servicios de transporte",
   "temas": [
-    "servicios de transporte ferroviario",
-    "servicios aeroportuarios",
+    "transporte ferroviario",
     "autotransporte",
-    "derechos de solicitud",
+    "transporte aéreo",
+    "servicios aeroportuarios",
     "tarifas",
-    "reglas de aplicación"
+    "reglas de aplicación",
+    "maniobras en zonas federales"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de transporte",
-    "tarifas de servicios de transporte",
-    "derechos de solicitud de servicios",
-    "pago por servicios de transporte"
+    "tarifas de transporte",
+    "derechos de transporte",
+    "servicios de autotransporte",
+    "servicios ferroviarios",
+    "servicios aeroportuarios"
   ],
-  "resumen": "Este artículo establece que los concesionarios y permisionarios deben pagar derechos por la solicitud y registro de tarifas o reglas de servicio en diferentes modalidades de transporte. El pago es independiente del número de tarifas incluidas en la solicitud.",
+  "resumen": "Esta disposición establece que los concesionarios y permisionarios de diversos servicios de transporte deben pagar derechos por la solicitud y registro de tarifas o reglas de aplicación. Esto se aplica a servicios como el transporte ferroviario, autotransporte y transporte aéreo, entre otros.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por solicitar tarifas de transporte?",
-    "¿Qué derechos se deben pagar para los servicios de transporte?",
-    "¿Cómo se registran las tarifas de transporte ferroviario?",
-    "¿Qué se necesita para implementar reglas en el transporte aéreo?",
-    "¿Hay algún costo por solicitar permisos de autotransporte?"
+    "¿Cuánto se paga por tramitar tarifas de transporte?",
+    "¿Qué servicios de transporte requieren el pago de derechos?",
+    "¿Quiénes deben pagar derechos por servicios auxiliares ferroviarios?",
+    "¿Es necesario pagar derechos por las reglas de aplicación en transporte?",
+    "¿Qué incluye el derecho por servicios de transporte?"
   ]
 }

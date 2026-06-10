@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ccf57f5f06ee3ebf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuota Transporte Multimodal",
+  "denominacion_comun": "Transporte Multimodal",
   "temas": [
-    "transporte multimodal",
     "autorización",
-    "cuotas",
-    "operación"
+    "cuota",
+    "transporte",
+    "multimodal"
   ],
   "terminos_coloquiales": [
+    "pago por transporte",
     "cuota de transporte",
-    "pago por autorización de transporte",
-    "tarifa para transporte multimodal"
+    "transporte multimodal"
   ],
-  "resumen": "Se establece que se debe pagar una cuota por la autorización para operar el transporte multimodal. Esta cantidad está especificada en la legislación.",
+  "resumen": "Se establece un pago por la autorización para operar el transporte multimodal. Este pago es una cuota específica que se debe cubrir.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por la autorización de transporte multimodal?",
-    "¿Qué cuota se aplica para operar transporte multimodal?",
-    "¿Cómo se realiza el pago por la autorización de transporte?",
-    "¿Qué es la cuota de transporte multimodal?"
+    "¿Cuánto tengo que pagar por la autorización de transporte multimodal?",
+    "¿Qué cuota se cobra por operar transporte multimodal?",
+    "¿Qué requisitos hay para el transporte multimodal?",
+    "¿Cómo obtengo la autorización para el transporte multimodal?",
+    "¿Cuál es el costo de operar un servicio de transporte multimodal?"
   ]
 }

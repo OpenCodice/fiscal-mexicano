@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:718f15ff673a28c5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por estaciones terrenas",
+  "denominacion_comun": "Derechos por autorización de señales satelitales",
   "temas": [
     "derechos",
     "autorización",
     "prórroga",
     "estaciones terrenas",
-    "señales satelitales"
+    "transmitir señales",
+    "servicios satelitales"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de estaciones",
-    "derechos por estaciones satelitales",
-    "tarifas de autorización",
-    "cuotas de prórroga"
+    "cobro por permiso satelital",
+    "derechos de autorización",
+    "estaciones de transmisión"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por la autorización y la prórroga para operar estaciones que transmiten señales satelitales. Se detallan los costos específicos para cada proceso.",
+  "resumen": "Se establecen derechos que deben pagarse por la solicitud y, si aplica, por la autorización o prórroga para operar estaciones terrenas que transmiten señales satelitales. Las cuotas son específicas para cada tipo de trámite.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso para una estación terrena?",
-    "¿Qué derechos debo pagar para operar una estación satelital?",
-    "¿Cuál es el costo de la prórroga para una estación de señales?",
-    "¿Qué tarifas se aplican al operar estaciones terrenas?"
+    "¿Cuánto cuesta obtener una autorización para una estación satelital?",
+    "¿Qué derechos se tienen que pagar por la prórroga de una estación de señales?",
+    "¿Cómo se solicita una licencia para operar señales satelitales?",
+    "¿Qué tarifas aplican para los servicios de estaciones terrenas?",
+    "¿Hay un costo por la autorización de transmisión satelital?"
   ]
 }

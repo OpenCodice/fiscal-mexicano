@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be4e27c9f605000e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Destino de ingresos por derechos",
+  "denominacion_comun": "Derechos de servicios de ahorro",
   "temas": [
-    "derechos",
-    "servicios",
-    "ingresos",
-    "Comisión Nacional del Sistema de Ahorro para el Retiro"
+    "recaudación de derechos",
+    "servicios de ahorro",
+    "Comisión Nacional del Sistema de Ahorro para el Retiro",
+    "destino de ingresos"
   ],
   "terminos_coloquiales": [
-    "dónde va el dinero de los derechos",
-    "ingresos por servicios",
-    "fondos para el retiro",
-    "recaudación de derechos"
+    "derechos de servicios",
+    "ahorro para el retiro",
+    "Comisión del Ahorro"
   ],
-  "resumen": "Los ingresos obtenidos por la recaudación de derechos por servicios se destinarán a la Comisión Nacional del Sistema de Ahorro para el Retiro.",
+  "resumen": "Los ingresos obtenidos por la recaudación de derechos por servicios se destinarán a la Comisión Nacional del Sistema de Ahorro para el Retiro. Esto indica cómo se manejarán los ingresos respecto a estos derechos.",
   "preguntas_ejemplo": [
-    "¿Qué se hace con el dinero de los derechos recaudados?",
-    "¿A dónde va el ingreso por servicios?",
-    "¿Quién recibe el dinero de la recaudación de derechos?",
-    "¿Qué es la Comisión Nacional del Sistema de Ahorro para el Retiro?"
+    "¿A dónde van los ingresos por derechos de servicios de ahorro?",
+    "¿Qué es lo que se recauda en derechos de servicios?",
+    "¿Quién recibe el dinero de la recaudación de derechos por ahorro?",
+    "¿Cuáles son los derechos por servicios de ahorro?",
+    "¿Qué ingresos se generan por la recaudación de derechos?"
   ]
 }

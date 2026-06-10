@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f8481655a74961f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de radio",
+  "denominacion_comun": "Derechos de Radio",
   "temas": [
-    "trámite de concesiones",
+    "concesionarios",
+    "permisionarios",
     "programas de concurso",
-    "autorizaciones anuales",
-    "transmisiones internacionales",
+    "transmisiones en idioma extranjero",
     "materiales grabados"
   ],
   "terminos_coloquiales": [
-    "derechos de radio",
-    "autorizaciones de radio",
-    "programas de concurso",
-    "concursos en televisión"
+    "derecho de radio",
+    "cuotas de radio",
+    "autorización para programas de concurso",
+    "supervisión de programas de concurso"
   ],
-  "resumen": "Los concesionarios y permisionarios de servicios de radio deben pagar ciertos derechos por trámites y autorizaciones relacionadas con la transmisión de programación. Esto incluye tarifas específicas para programas de concurso y supervisión de contenidos.",
+  "resumen": "Los concesionarios y permisionarios deben pagar derechos por servicios de radio, relacionados con autorizaciones y supervisiones de programas y transmisiones. Las cuotas varían dependiendo del trámite y tipo de programación.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por la autorización de un programa de concurso?",
-    "¿Cuáles son los derechos que se generan por la transmisión de contenido en radio?",
-    "¿Qué tarifas se aplican para el estudio y autorización de programas de radio?",
-    "¿Cómo se determinan las cuotas por materiales grabados?",
-    "¿Qué pagos debo hacer para transmitir programación extranjera?"
+    "¿Cuánto tengo que pagar por el derecho de radio?",
+    "¿Qué cuota se aplica para autorizar un programa de concurso?",
+    "¿Cuáles son los costos por transmisión en idioma extranjero?",
+    "¿Qué derechos debo pagar por materiales grabados?",
+    "¿Cómo se calcula la cuota para la supervisión de un programa de concurso?"
   ]
 }

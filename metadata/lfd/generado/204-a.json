@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:18310482fd19c3a0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Desarrollo de la Marina Mercante",
   "temas": [
-    "ingresos",
-    "recaudación",
     "derechos",
-    "Fondo de Desarrollo",
-    "marina mercante"
+    "ingresos",
+    "fondo",
+    "marina mercante",
+    "recaudación"
   ],
   "terminos_coloquiales": [
-    "dinero para la marina",
-    "recursos para la marina",
-    "fondos para la marina mercante",
-    "derechos de la marina"
+    "derechos de marina",
+    "fondo de marina mercante",
+    "ingresos de la marina",
+    "recaudación marina"
   ],
-  "resumen": "Todos los ingresos que se reciban por conceptos de derechos en este capítulo se enviarán al Fondo de Desarrollo de la Marina Mercante Mexicana.",
+  "resumen": "Los ingresos recaudados por los derechos mencionados se destinarán al fondo para el desarrollo de la marina mercante en México.",
   "preguntas_ejemplo": [
-    "¿A dónde van los ingresos por derechos de la marina?",
-    "¿Qué se hace con el dinero recaudado de la marina mercante?",
-    "¿Cómo se utiliza el fondo de la marina mercante?",
-    "¿Qué derechos se recaudan para el fondo de la marina?"
+    "¿Qué se hace con los ingresos por derechos de marina?",
+    "¿Cómo se financia el desarrollo de la marina mercante?",
+    "¿Qué es el fondo de desarrollo de la marina mercante?",
+    "¿Qué derechos se están recaudando para la marina mercante?",
+    "¿De dónde provienen los ingresos del fondo de marina mercante?"
   ]
 }

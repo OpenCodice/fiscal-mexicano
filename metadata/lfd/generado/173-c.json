@@ -6,29 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:00bcdfa4d8e0ae17",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
+  "denominacion_comun": "Derechos por uso de frecuencias",
   "temas": [
-    "autorización de uso",
-    "bandas de frecuencias",
+    "autorización",
+    "uso de frecuencias",
     "espectro radioeléctrico",
     "modificaciones técnicas",
-    "cobertura",
-    "derechos"
+    "cuotas"
   ],
   "terminos_coloquiales": [
-    "costos por usar frecuencias",
-    "derechos espectro",
-    "cuotas espectro radioeléctrico",
-    "tarifas de uso de bandas"
+    "derechos por banda de frecuencias",
+    "uso de espectro",
+    "autorización de frecuencias"
   ],
-  "resumen": "Se establecen derechos que se deben pagar por la autorización de uso del espectro radioeléctrico y por modificaciones técnicas relacionadas. Existen cuotas específicas para el otorgamiento y para ciertas modificaciones.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por la autorización del uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico, así como por modificaciones técnicas. Se especifican cuotas para ambos conceptos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener una autorización para usar el espectro?",
-    "¿Qué derechos tengo que pagar por modificar el uso de frecuencias?",
-    "¿Hay tarifas diferentes para cambios en la ubicación geográfica?",
-    "¿Qué son las bandas de frecuencias del espectro radioeléctrico?",
-    "¿Cuáles son los costos por usar el espectro radioeléctrico?"
+    "¿Cuánto se paga por la autorización para usar frecuencias?",
+    "¿Qué derechos debo pagar por modificaciones en el uso del espectro radioeléctrico?",
+    "¿Cuáles son las cuotas por el uso de bandas de frecuencias?"
   ]
 }

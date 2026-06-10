@@ -6,32 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74e48566924b0137",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de muelle",
+  "denominacion_comun": "Derechos de muelle",
   "temas": [
-    "Propietarios",
-    "Remitentes",
-    "Destinatarios",
-    "Mercancías de exportación",
-    "Mercancías de importación",
-    "Mercancías de cabotaje",
-    "Cuotas",
-    "Plazos de pago"
+    "derechos de muelle",
+    "mercancías de exportación",
+    "mercancías de importación",
+    "trafico de cabotaje",
+    "agentes aduanales"
   ],
   "terminos_coloquiales": [
-    "Costo de uso de muelles",
-    "Tarifa de muelle",
-    "Pago por mercancías en muelles",
-    "Derechos aduanales",
-    "Cuota de muelle"
+    "derechos de muelle",
+    "carga de exportación",
+    "carga de importación",
+    "cabotaje"
   ],
-  "resumen": "Los propietarios, remitentes o destinatarios de mercancías que usen muelles de la Federación deben pagar un derecho de muelle según el tipo de carga. Este pago tiene plazos específicos que deben cumplirse para cada tipo de mercancía.",
+  "resumen": "Este artículo establece que los propietarios o agentes aduanales deberán pagar derechos de muelle por las mercancías que utilizan los muelles de la Federación, especificando las cuotas correspondientes para exportación, importación y tráfico de cabotaje, así como los plazos para su pago.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por usar un muelle?",
-    "¿Qué tarifas hay para exportar o importar mercancías?",
-    "¿Cuándo debo pagar el derecho de muelle?",
-    "¿Qué es el derecho de muelle?",
-    "¿Cómo se calcula el costo de uso de muelles de la Federación?"
+    "¿Cuánto se paga por los derechos de muelle?",
+    "¿Qué plazos tengo para pagar el derecho de muelle?",
+    "¿Qué tipos de mercancías están sujetas al derecho de muelle?",
+    "¿Qué es el tráfico de cabotaje en relación a los derechos de muelle?",
+    "¿Quién es responsable de pagar los derechos de muelle?"
   ]
 }

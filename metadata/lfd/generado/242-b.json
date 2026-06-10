@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:73cbf45c0759715a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
@@ -13,23 +14,24 @@
     "espectro radioeléctrico",
     "estaciones de radiodifusión",
     "frecuencias",
-    "derechos anuales",
-    "radiocomunicación",
+    "enlaces radioeléctricos",
+    "servicios públicos de radio",
     "televisión restringida",
-    "servicios públicos"
+    "televisión por cable"
   ],
   "terminos_coloquiales": [
-    "pagos por frecuencias",
-    "cuotas de espectro",
+    "uso de frecuencias",
+    "costo de espectro",
     "derechos de radiodifusión",
-    "costos de radio y televisión"
+    "frecuencias de radio",
+    "televisión de alta definición"
   ],
-  "resumen": "Se deben pagar derechos anuales por el uso del espectro radioeléctrico, dependiendo de la frecuencia y el tipo de estación. Estos derechos aplican para radios y televisión, así como para servicios de radiocomunicación y televisión restringida.",
+  "resumen": "Este artículo establece las cuotas anuales que se deben pagar por el uso de frecuencias para estaciones de radiodifusión y enlaces de radiocomunicación. Las tarifas varían dependiendo del tipo de estación y servicio que se ofrece.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por usar una frecuencia de radio?",
-    "¿Qué derechos se necesitan para transmitir televisión?",
-    "¿Cómo se calculan las cuotas del espectro radioeléctrico?",
-    "¿Qué tarifas aplican para estaciones móviles remotas?",
-    "¿Qué tipos de servicios requieren pago por uso de frecuencias?"
+    "¿Cuánto se paga por el uso de frecuencias de radio?",
+    "¿Qué costos están asociados a las estaciones de radiodifusión?",
+    "¿Cómo se calculan los derechos por el espectro radioeléctrico?",
+    "¿Cuáles son las tarifas para enlaces de televisión?",
+    "¿Qué se requiere para reutilizar frecuencias en radiocomunicación?"
   ]
 }

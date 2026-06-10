@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:796c004c42513864",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
+  "denominacion_comun": "Derechos por el uso del espectro radioeléctrico",
   "temas": [
-    "derechos",
-    "espectro radioeléctrico",
-    "radiocomunicación",
-    "cuotas",
-    "frecuencias",
-    "redes de radiocomunicaciones",
-    "autorizaciones"
+    "cuotas anuales",
+    "redes de radiocomunicación",
+    "estaciones base",
+    "frecuencias asignadas",
+    "sistemas de alta frecuencia",
+    "autorizaciones provisionales",
+    "pruebas de tecnologías",
+    "servicio móvil de radiocomunicación"
   ],
   "terminos_coloquiales": [
-    "pago por frecuencias",
+    "uso del espectro",
+    "frecuencias de radio",
+    "redes de comunicación",
+    "estaciones repetidoras",
     "derechos de espectro",
-    "tarifas de radiocomunicación",
-    "cuotas por estaciones",
-    "tarifas de uso de radio"
+    "pruebas de radiocomunicación"
   ],
-  "resumen": "Este artículo establece las cuotas anuales que se deben pagar por el uso del espectro radioeléctrico, dependiendo del tipo de red y frecuencia asignada. Incluye tarifas para estaciones base, repetidoras y equipos móviles, entre otros.",
+  "resumen": "Se establecen las cuotas que se deben pagar anualmente por el uso del espectro radioeléctrico y los sistemas de radiocomunicación. Las cuotas varían dependiendo del tipo de equipo y frecuencia asignada, así como si se trata de pruebas o servicios especializados.",
   "preguntas_ejemplo": [
     "¿Cuánto se paga por usar una frecuencia de radio?",
-    "¿Qué tarifas hay para estaciones de radiocomunicación?",
-    "¿Cuáles son los derechos por el uso del espectro radioeléctrico?",
-    "¿Qué costos están asociados a equipos móviles de comunicación?",
-    "¿Cómo se calculan las cuotas por uso de radio?"
+    "¿Cuáles son las cuotas para estaciones base y repetidoras?",
+    "¿Qué derechos debo pagar si solo tengo equipos móviles?",
+    "¿Hay costos para pruebas de tecnologías en el espectro radioeléctrico?",
+    "¿Qué se necesita para usar espectro radioeléctrico para un servicio privado?"
   ]
 }

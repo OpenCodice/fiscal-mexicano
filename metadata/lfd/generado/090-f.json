@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f0660d4db0b3b57",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por organismos genéticamente modificados",
   "temas": [
     "organismos genéticamente modificados",
-    "permisos de liberación",
-    "derechos",
-    "importación",
-    "cuotas"
+    "permisos",
+    "liberación al ambiente",
+    "cuotas",
+    "importación"
   ],
   "terminos_coloquiales": [
-    "costos de permisos para organismos modificados",
-    "cobros por liberar organismos genéticamente modificados",
-    "tarifas por permisos ambientales",
-    "cuotas para organismos modificados"
+    "OGM",
+    "permisos de OGM",
+    "liberación de OGM",
+    "derechos por OGM",
+    "permisos ambientales"
   ],
-  "resumen": "Se establecen derechos que se deben pagar por la recepción y análisis de solicitudes de permisos para la liberación de organismos genéticamente modificados en el ambiente. Las cuotas varían según el tipo de permiso solicitado.",
+  "resumen": "Se establecen derechos a pagar por los permisos relacionados con la liberación al ambiente de organismos genéticamente modificados, incluyendo la importación. Existen diferentes cuotas para liberación experimental, en programa piloto y comercial.",
   "preguntas_ejemplo": [
     "¿Cuánto cuesta el permiso para liberar organismos genéticamente modificados?",
-    "¿Qué tarifas debo pagar por permisos de organismos modificados?",
-    "¿Cuáles son los costos de importación de organismos genéticamente modificados?",
-    "¿Qué espero pagar por un permiso comercial de liberación ambiental?",
-    "¿Hay cobros por reconsideración de permisos para organismos modificados?"
+    "¿Qué tipos de permisos se requieren para OGM?",
+    "¿Qué cuota debo pagar por la liberación comercial de OGM?",
+    "¿Hay un costo diferente para la liberación experimental de OGM?",
+    "¿Cómo se gestionan los permisos para organismos genéticamente modificados?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7565316387990efb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de derechos por agua",
+  "denominacion_comun": "Exenciones por uso de aguas nacionales",
   "temas": [
-    "derechos de agua",
     "exenciones fiscales",
-    "calidad del agua",
-    "aguas residuales",
-    "actividad agrícola",
-    "actividades pecuarias",
-    "explotación minera",
+    "derechos de agua",
+    "medición de calidad de agua",
+    "uso de aguas residuales",
+    "aguas salobres",
+    "extracción de aguas",
     "poblaciones rurales"
   ],
   "terminos_coloquiales": [
-    "no pago por derechos de agua",
-    "exención de derechos",
-    "uso de agua sin cargo",
-    "aguas nacionales gratis"
+    "no pagar por agua",
+    "agua para riego",
+    "agua para consumo",
+    "medidor de agua",
+    "análisis de agua",
+    "exenciones de derecho",
+    "Comisión Nacional del Agua (CNA)"
   ],
-  "resumen": "Este artículo detalla las circunstancias bajo las cuales no se deben pagar derechos por el uso o aprovechamiento de aguas nacionales, incluyendo actividades agrícolas, aguas residuales y el uso en poblaciones pequeñas. También establece requisitos para medir y validar la calidad del agua utilizada.",
+  "resumen": "El artículo establece que no se pagarán derechos por el uso de aguas nacionales en ciertas circunstancias, como el uso por agricultores para necesidades domésticas o el aprovechamiento de aguas residuales. También describe las obligaciones de los contribuyentes para medir y reportar la calidad y volumen de agua utilizada.",
   "preguntas_ejemplo": [
-    "¿Quiénes están exentos de pagar derechos por el uso de agua?",
-    "¿Qué requisitos hay para no pagar derechos de agua?",
-    "¿Cómo se mide la calidad del agua para exenciones?",
-    "¿Qué hacer si mi medidor de agua se descompone?",
-    "¿Puedo usar aguas residuales sin pagar derechos?"
+    "¿Cuándo no tengo que pagar por el uso de agua?",
+    "¿Qué condiciones debo cumplir para estar exento de pagar derechos de agua?",
+    "¿Cómo mido la calidad del agua que extraigo?",
+    "¿Qué hago si tengo aguas salobres?",
+    "¿Quiénes están exentos del pago de derechos por el uso de agua?"
   ]
 }

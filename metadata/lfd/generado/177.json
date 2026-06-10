@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9966e2e26ea05b83",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de cédula y permisos",
+  "denominacion_comun": "Derechos por expedición de cédulas y permisos",
   "temas": [
-    "cédula individual",
-    "permisos de exportación",
-    "dictámenes",
+    "cédula individual de registro",
+    "derechos",
+    "permiso de exportación",
     "monumentos",
-    "zonas arqueológicas"
+    "zonas arqueológicas",
+    "dictámenes"
   ],
   "terminos_coloquiales": [
-    "cuotas por cédula",
-    "derechos por permisos",
-    "costos de dictámenes",
-    "pago por exportación de reproducciones"
+    "cédula",
+    "permiso para exportar",
+    "monumento",
+    "zona arqueológica",
+    "dictamen"
   ],
-  "resumen": "Se establecen los derechos a pagar por la expedición de cédulas individuales, permisos de exportación y dictámenes relacionados con monumentos y zonas arqueológicas. Algunas organizaciones están exentas del pago de ciertos derechos.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por la expedición de cédulas individuales de registro de objetos, así como por los permisos y dictámenes relacionados con monumentos y zonas arqueológicas. Se especifican las cuotas correspondientes y algunas excepciones al pago de derechos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta sacar una cédula individual?",
-    "¿Qué necesito para exportar reproducciones de monumentos?",
-    "¿A quién debo pagar por un dictamen de delimitación?",
-    "¿Qué organizaciones no tienen que pagar derechos?",
-    "¿Qué derechos se aplican a la exportación de reproducciones?"
+    "¿Cuánto cuesta sacar una cédula para un objeto arqueológico?",
+    "¿Qué derechos se deben pagar por exportar reproducciones de monumentos?",
+    "¿Hay excepciones al pago de derechos por cédulas en ciertas entidades?",
+    "¿Cuánto se paga por un permiso de exportación de reproducciones?",
+    "¿Qué se necesita para obtener un dictamen sobre un inmueble privado cerca de una zona arqueológica?"
   ]
 }

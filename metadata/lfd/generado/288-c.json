@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f291e3ec04d6f012",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por reproducción de monumentos",
   "temas": [
-    "derechos",
-    "reproducción",
+    "derechos de autor",
     "monumentos arqueológicos",
     "monumentos históricos",
-    "excepciones",
-    "autorizaciones",
-    "instituciones públicas"
+    "reproducción de monumentos",
+    "excepciones al pago"
   ],
   "terminos_coloquiales": [
-    "cuánto cuesta reproducir un monumento",
-    "derechos de reproducción",
     "reproducción de monumentos",
-    "exenciones para artesanos",
-    "pagos por uso de monumentos"
+    "derechos por reproducción",
+    "arte",
+    "monumentos",
+    "cuotas de derechos"
   ],
-  "resumen": "Se deben pagar derechos por el uso y reproducción de monumentos arqueológicos e históricos, dependiendo del tipo de reproducción. Sin embargo, hay excepciones para la producción artesanal y para autoridades públicas que trabajan en conservación.",
+  "resumen": "Se establecen derechos que deben pagarse por la reproducción de monumentos arqueológicos e históricos, ya sean muebles o inmuebles. Asimismo, se indica que ciertos casos, como la producción artesanal con reconocimiento, están exentos de este pago.",
   "preguntas_ejemplo": [
     "¿Cuánto tengo que pagar por reproducir un monumento?",
-    "¿Qué tipos de reproducciones existen?",
-    "¿Quiénes están exentos de pagar derechos por reproducción?",
-    "¿Qué se necesita para reproducir un monumento de manera artesanal?",
-    "¿Cómo se establece el costo de reproducción?"
+    "¿Existen excepciones para no pagar derechos por reproducciones?",
+    "¿Quiénes están exentos de pagar derechos por monumentos?",
+    "¿Qué tipos de reproducciones tienen cuotas diferentes?",
+    "¿Qué se considera una reproducción fiel de un monumento?"
   ]
 }

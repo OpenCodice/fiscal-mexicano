@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d1315d031461cca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por Pasaportes",
   "temas": [
-    "costos de pasaportes",
-    "documentos de identidad",
-    "reducción de tarifas",
-    "servicios consulares"
+    "expedición de pasaportes",
+    "cuotas por pasaporte",
+    "descuentos a adultos mayores",
+    "pasaporte oficial",
+    "emergencia en pasaportes",
+    "trabajadores agrícolas",
+    "destino de derechos recaudados"
   ],
   "terminos_coloquiales": [
-    "cuota de pasaporte",
-    "precio de documentos",
-    "descuento para mayores",
-    "pasaporte de emergencia"
+    "costo del pasaporte",
+    "pago de pasaporte",
+    "pasaporte de emergencia",
+    "descuento por discapacidad",
+    "pasaporte para trabajadores agrícolas"
   ],
-  "resumen": "Este artículo establece las cuotas por la expedición de diferentes tipos de pasaportes y documentos de identidad y viaje. Además, menciona incentivos de reducción de tarifas para mayores de 60 años y personas con discapacidad.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición de pasaportes y documentos de viaje, según su validez. También menciona descuentos para personas mayores de 60 años y aquellos con discapacidad, así como un monto adicional para pasaportes de emergencia.",
   "preguntas_ejemplo": [
     "¿Cuánto cuesta un pasaporte ordinario?",
-    "¿Hay descuentos para personas mayores al sacar un pasaporte?",
-    "¿Cuál es el costo de un pasaporte de emergencia?",
-    "¿Se puede obtener un descuento si soy trabajador agrícola?",
-    "¿A dónde van los derechos recaudados por los pasaportes?"
+    "¿Hay descuento por edad para obtener un pasaporte?",
+    "¿Qué pasa si necesito un pasaporte de emergencia?",
+    "¿Cuánto debo pagar si soy trabajador agrícola?",
+    "¿Dónde se destina el dinero recaudado por el pasaporte?"
   ]
 }

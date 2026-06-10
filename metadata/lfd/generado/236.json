@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12a99a61bcedd43c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho por extracción de materiales",
   "temas": [
-    "extracción de materiales",
-    "derecho",
-    "personas físicas",
-    "personas morales",
-    "cuotas",
-    "registro diario",
-    "desazolve",
-    "Comisión Nacional del Agua"
+    "derecho de extracción",
+    "materiales pétreos",
+    "grava",
+    "arena",
+    "piedra",
+    "registro de extracción",
+    "declaración ante SAT"
   ],
   "terminos_coloquiales": [
-    "pago por extraer material",
-    "derecho de extracción",
-    "costo de extracción de materiales",
-    "cuota de materiales",
-    "registro de extracción de materiales"
+    "pago por extracción de materiales",
+    "derecho por sacar piedras",
+    "cuotas de extracción",
+    "SAT",
+    "desazolve"
   ],
-  "resumen": "Las personas que extraen materiales de lugares específicos deben pagar un derecho según cuotas establecidas. Este pago se hace mensualmente y se debe llevar un registro de lo que se extrae, a menos que se trate de desazolve aprobado.",
+  "resumen": "Las personas que extraigan materiales de cauces y zonas nacionales deben pagar un derecho basado en cuotas por metro cúbico. Este derecho se paga mensualmente y se requiere llevar un registro diario de los volúmenes extraídos.",
   "preguntas_ejemplo": [
-    "¿Cuánto hay que pagar por extraer grava?",
-    "¿Quiénes deben pagar el derecho por extracción de materiales?",
-    "¿Cómo se registra la extracción de materiales?",
-    "¿Existen excepciones al pago de este derecho?",
-    "¿Dónde se presentan las declaraciones para este derecho?"
+    "¿Cuánto debo pagar por extraer grava?",
+    "¿Cómo se paga el derecho por extracción de materiales?",
+    "¿Qué registro debo llevar si extraigo arena?",
+    "¿Cuándo se paga el derecho de extracción?",
+    "¿Puedo extraer materiales sin pagar si es para desazolve?",
+    "¿Qué materiales tienen cuotas diferentes?"
   ]
 }

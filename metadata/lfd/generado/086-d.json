@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e0a87789bbdd53d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de aprobación en sanidad agropecuaria",
+  "denominacion_comun": "Derechos de sanidad agropecuaria",
   "temas": [
-    "Órganos de coadyuvancia",
-    "Derechos de autorización",
-    "Sanidad agropecuaria",
-    "Cuotas",
-    "Laboratorios zoosanitarios",
-    "Puntos de verificación e inspección"
+    "órganos de coadyuvancia",
+    "autorización sanitaria",
+    "laboratorios zoosanitarios",
+    "puntos de inspección",
+    "verificación zoosanitaria",
+    "cuotas",
+    "derechos"
   ],
   "terminos_coloquiales": [
-    "costos para laboratorios de sanidad",
-    "cuotas para verificación sanitaria",
-    "pagos por autorización en sanidad",
-    "derechos por certificado de salud agropecuaria"
+    "cobro por autorizaciones",
+    "cobro por certificar",
+    "derechos de sanidad",
+    "laboratorios de sanidad",
+    "puntos de verificación",
+    "inspección de sanidad"
   ],
-  "resumen": "Este artículo establece las cuotas que deben pagarse por la aprobación y autorización de diferentes órganos e instalaciones relacionadas con la sanidad agropecuaria, incluyendo laboratorios y puntos de verificación. Las tarifas varían dependiendo del tipo de servicio solicitado.",
+  "resumen": "El artículo establece a quiénes se les cobrarán derechos por la aprobación o autorización de órganos de coadyuvancia en materia de sanidad agropecuaria. Incluye cuotas específicas para personas físicas, organismos de certificación y laboratorios.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta la autorización para un laboratorio zoosanitario?",
-    "¿Qué derecho debo pagar para operar un punto de inspección?",
-    "¿Cuáles son las cuotas para los organismos de certificación?",
-    "¿Qué montos se aplican a personas físicas en sanidad agropecuaria?",
-    "¿Cómo se determina el costo de las autorizaciones en sanidad?"
+    "¿Cuánto se paga por la autorización de un laboratorio zoosanitario?",
+    "¿Qué derechos se deben pagar para operar un punto de verificación sanitaria?",
+    "¿Cuáles son las cuotas para las personas físicas que solicitan permiso de sanidad?",
+    "¿Qué costos hay por la inspección de sanidad vegetal?",
+    "¿Qué se requiere para certificar un organismo en sanidad agropecuaria?"
   ]
 }

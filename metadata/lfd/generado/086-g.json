@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23cc7e1620cbea00",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho por inspección veterinaria",
+  "denominacion_comun": "Inspección veterinaria para exportación de carne",
   "temas": [
+    "derechos de inspección",
     "exportación de carne",
+    "productos cárnicos",
     "inspección veterinaria",
-    "establecimientos Tipo Inspección Federal",
-    "cuota",
-    "derechos"
+    "establecimientos Tipo Inspección Federal"
   ],
   "terminos_coloquiales": [
-    "costo de inspección",
-    "tarifa veterinaria",
-    "derecho por inspección de carne",
-    "pago por revisión veterinaria"
+    "derecho de inspección veterinaria",
+    "exportar carne",
+    "inspección para exportación",
+    "productos cárnicos"
   ],
-  "resumen": "Se debe pagar un derecho cada vez que se realice una inspección veterinaria en los establecimientos que quieren exportar carne. Este derecho es por la autorización necesaria para exportar productos cárnicos.",
+  "resumen": "Se establece que por cada visita de inspección veterinaria oficial a los establecimientos Tipo Inspección Federal que busquen autorizar la exportación de carne y productos cárnicos, es necesario pagar un derecho por dicha inspección.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por la inspección veterinaria para exportar carne?",
-    "¿Qué es el derecho por inspección veterinaria?",
-    "¿Necesito pagar por la inspección de productos cárnicos?",
-    "¿Cómo se obtiene la autorización de exportación de carne?",
-    "¿Qué establecimientos deben pasar por inspección veterinaria?"
+    "¿Cuánto debo pagar por la inspección veterinaria para exportar carne?",
+    "¿Qué es el derecho de inspección veterinaria?",
+    "¿Qué requisitos necesito para exportar productos cárnicos?",
+    "¿Dónde se realiza la inspección para la exportación de carne?",
+    "¿Qué tipos de establecimientos requieren inspección veterinaria para exportar carne?"
   ]
 }

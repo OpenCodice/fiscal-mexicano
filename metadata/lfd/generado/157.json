@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c879cbfee9979e94",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Certificados de Capacidad",
+  "denominacion_comun": "Derechos por servicios aeronáuticos",
   "temas": [
     "certificados de capacidad",
-    "licencias",
-    "personal técnico aeronáutico",
+    "licencias aeronáuticas",
+    "personal técnico",
     "derechos",
     "revalidación de licencia",
-    "reposiciones"
+    "reposiciones",
+    "exención de derechos"
   ],
   "terminos_coloquiales": [
-    "costo de licencias",
-    "cuotas de certificados",
-    "derechos por certificados",
-    "precios de permisos"
+    "licencias de piloto",
+    "licencias de tierra",
+    "certificados de vuelo",
+    "revalidar licencia",
+    "reposición de licencia"
   ],
-  "resumen": "Se establecen las cuotas que se deben pagar por servicios relacionados con la expedición de certificados de capacidad y licencias para el personal técnico aeronáutico. También se mencionan las tarifas para la revalidación y reposición de estas licencias.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición de certificados de capacidad y licencias para el personal técnico aeronáutico, así como por su revalidación y reposición. También indica exenciones de pago en ciertos casos.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por una licencia de piloto?",
-    "¿Qué derechos debo pagar para obtener un certificado de capacidad?",
-    "¿Hay algún costo para la revalidación de licencias?",
-    "¿Cuánto cuesta reponer una licencia de personal de tierra?"
+    "¿Cuánto cuesta obtener una licencia de piloto?",
+    "¿Cuáles son las tarifas para revalidar una licencia aeronáutica?",
+    "¿Se paga algo por reposición de licencia de tierra?",
+    "¿Quién está exento del pago de derechos por servicios aeronáuticos?",
+    "¿Qué servicios requieren el pago de derechos según el artículo 157?"
   ]
 }

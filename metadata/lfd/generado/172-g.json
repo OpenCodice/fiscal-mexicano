@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f8421d20364f1f01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Verificación en el Servicio Ferroviario",
+  "denominacion_comun": "Derechos por servicios de verificación ferroviaria",
   "temas": [
+    "verificación ferroviaria",
     "derechos",
-    "verificación",
-    "servicio ferroviario",
-    "concesionarios",
-    "permisionarios",
-    "cuotas"
+    "servicios auxiliares",
+    "condiciones físicas del equipo",
+    "construcción de obras ferroviarias",
+    "constancia de aprobación"
   ],
   "terminos_coloquiales": [
-    "cobro por verificación ferroviaria",
-    "costos de verificación de trenes",
-    "tarifas de verificación ferroviaria"
+    "verificación de trenes",
+    "verificación ferroviaria",
+    "derechos por verificación",
+    "cuotas de verificación",
+    "servicios ferroviarios"
   ],
-  "resumen": "Los concesionarios y permisionarios del servicio ferroviario deben pagar derechos por varios tipos de verificación. Esto incluye inspecciones técnicas y la expedición de constancias relacionadas con su equipo e instalaciones.",
+  "resumen": "Este artículo establece las cuotas que deben pagar los concesionarios y permisionarios por los servicios de verificación ferroviaria, incluyendo la verificación técnica de equipos y la construcción de obras. También se incluyen costos por la expedición de constancias de aprobación.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por la verificación de mi tren?",
-    "¿Qué derechos se cobran a los concesionarios del servicio ferroviario?",
-    "¿Cuáles son las tarifas para la verificación de servicios ferroviarios?",
-    "¿Qué tipo de verificaciones requieren un pago?",
-    "¿Cómo se determinan los costos de verificación en las vías férreas?"
+    "¿Cuánto tengo que pagar por la verificación de trenes?",
+    "¿Qué costos hay por la verificación de instalaciones auxiliares ferroviarias?",
+    "¿Qué incluye la verificación técnica de equipos ferroviarios?",
+    "¿Cuáles son las cuotas por la verificación de obras ferroviarias?",
+    "¿Qué es la constancia de aprobación y cuánto cuesta?"
   ]
 }

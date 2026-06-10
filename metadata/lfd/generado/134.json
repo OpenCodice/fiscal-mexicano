@@ -6,18 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del artículo",
+  "denominacion_comun": "Artículo Derogado",
   "temas": [],
-  "terminos_coloquiales": [
-    "se eliminó un artículo",
-    "artículo derogado"
-  ],
-  "resumen": "Este artículo ha sido eliminado y ya no tiene validez en la legislación fiscal.",
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene validez legal.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 134 de la LFD?",
-    "¿Este artículo ya no existe?",
-    "¿Qué significa que un artículo esté derogado?"
+    "¿Qué pasó con el Artículo 134 de la LFD?",
+    "¿Está vigente el Artículo 134 de la ley fiscal?",
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Dónde encuentro los artículos que todavía son válidos de la LFD?",
+    "¿Qué artículos han sido derogadas en la legislación fiscal?"
   ]
 }

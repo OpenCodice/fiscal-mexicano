@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2ae0926ecdd74797",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso de bienes públicos",
+  "denominacion_comun": "Exenciones de derechos por uso de bienes públicos",
   "temas": [
-    "derechos de explotación",
-    "exenciones de pago",
+    "derechos de uso",
     "bienes de dominio público",
+    "exenciones",
     "investigación científica",
-    "conservación del medio ambiente",
-    "concesiones",
-    "monumentos históricos",
+    "conservación ambiental",
+    "monumentos arqueológicos",
     "seguridad nacional",
-    "capitanías de puerto"
+    "capitanías de puerto",
+    "salinas",
+    "beneficencia pública"
   ],
   "terminos_coloquiales": [
-    "derechos por usar bienes públicos",
-    "exenciones de derechos",
-    "uso de playas",
-    "exención por investigación",
-    "derechos en zona federal"
+    "derechos por uso de terrenos",
+    "zonas federales",
+    "playas",
+    "investigación científica",
+    "salinas"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales no se debe pagar derechos por el uso de bienes de dominio público. Incluye exenciones por actividades como investigación científica, conservación ambiental y actividades de seguridad nacional.",
+  "resumen": "Este artículo establece que no se deben pagar derechos por el uso de bienes de dominio público en ciertas circunstancias, como para investigaciones científicas o conservación del medio ambiente. También menciona exenciones para monumentos y actividades relacionadas con la seguridad nacional.",
   "preguntas_ejemplo": [
-    "¿Cuándo no tengo que pagar derechos por usar la playa?",
-    "¿Qué exenciones hay para los derechos de uso de bienes públicos?",
-    "¿Los investigadores científicos pagan por usar terrenos públicos?",
-    "¿Qué pasa si uso terrenos cerca de monumentos históricos?",
-    "¿Las organizaciones sin fines de lucro pagan derechos por las playas?"
+    "¿Cuándo no tengo que pagar derechos por usar bienes públicos?",
+    "¿Qué exenciones existen para derechos en zonas federales?",
+    "¿Las investigaciones científicas están exentas de derechos por uso de terrenos?",
+    "¿Se pagan derechos por usar playas en la zona federal?",
+    "¿Qué condiciones eximen del pago de derechos para salinas?"
   ]
 }

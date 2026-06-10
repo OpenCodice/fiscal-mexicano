@@ -6,34 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f818d9cffd260f92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos de riesgo sanitario",
   "temas": [
-    "autorizaciones",
-    "permisos",
-    "solicitudes",
-    "registros",
-    "medicamentos",
-    "equipos médicos",
-    "plaguicidas",
-    "licencias sanitarias",
-    "suplementos alimenticios",
-    "organismos genéticamente modificados"
+    "Medicamentos",
+    "Equipos médicos",
+    "Plaguicidas",
+    "Nutrientes vegetales",
+    "Sustancias tóxicas",
+    "Licencias sanitarias",
+    "Tarjeta de control sanitario",
+    "Organismos genéticamente modificados"
   ],
   "terminos_coloquiales": [
-    "cuotas por permisos sanitarios",
-    "costo de registros saludables",
-    "precios de licencias",
-    "impuestos por medicamentos",
-    "cargos por insumos médicos"
+    "derecho de riesgo sanitario",
+    "cuota por registro de medicamentos",
+    "licencia sanitaria",
+    "registro de equipos médicos",
+    "importación de plaguicidas",
+    "suplementos alimenticios"
   ],
-  "resumen": "Este artículo establece los derechos que se deben pagar por autorizaciones y registros relacionados con productos que afectan la salud pública, como medicamentos, equipos médicos y plaguicidas. También menciona las cuotas específicas a pagar dependiendo del tipo de producto o modificación solicitada.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por diversas solicitudes y registros relacionados con la salud pública, incluyendo medicamentos, equipos médicos, plaguicidas y licencias sanitarias. Además, menciona las reducciones en las cuotas por modificaciones a estos registros o licencias.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta registrar un medicamento?",
-    "¿Qué derechos se pagan por productos médicos?",
-    "¿Hay costos para la importación de plaguicidas?",
-    "¿Cuánto debo pagar por una licencia sanitaria?",
-    "¿Cuáles son las tarifas por organismos genéticamente modificados?"
+    "¿Cuánto tengo que pagar por registrar un medicamento?",
+    "¿Qué costos hay para obtener una licencia sanitaria?",
+    "¿Cómo se determinan las cuotas para plaguicidas?",
+    "¿Hay descuentos si cambio la razón social de un registro?",
+    "¿Qué derechos se pagan por la importación de nutrientes vegetales?"
   ]
 }

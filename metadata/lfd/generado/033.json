@@ -6,19 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposición",
-  "temas": [],
-  "terminos_coloquiales": [
-    "se eliminó",
-    "ya no está vigente",
-    "arte derogado"
+  "denominacion_comun": "Derogación de artículo",
+  "temas": [
+    "derogación",
+    "legislación fiscal"
   ],
-  "resumen": "Esta disposición ya no está en vigor, lo que significa que se ha eliminado del marco legal actual.",
+  "terminos_coloquiales": [
+    "se eliminó un artículo",
+    "no aplica"
+  ],
+  "resumen": "Este artículo ha sido derogado, por lo que ya no está en vigor.",
   "preguntas_ejemplo": [
-    "¿Qué disposiciones han sido eliminadas?",
-    "¿Qué significa que algo esté derogado?",
-    "¿Desde cuándo ya no aplica esta ley?"
+    "¿Qué artículos han sido derogados en la legislación fiscal?",
+    "¿Qué significa la derogación de un artículo?",
+    "¿Hay nuevas normativas relacionadas con los artículos derogados?",
+    "¿Cuáles son las implicaciones de que se haya derogado un artículo?",
+    "¿Dónde puedo encontrar la lista de artículos derogados?"
   ]
 }

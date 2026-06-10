@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:50cb87b5f786823c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho por extracción de materiales",
   "temas": [
     "determinación presuntiva",
-    "extracción de materiales",
-    "autoridad fiscal",
-    "pago de derechos",
-    "concesión",
-    "facultades de comprobación"
+    "derecho de extracción",
+    "comprobación fiscal",
+    "título de concesión"
   ],
   "terminos_coloquiales": [
-    "derecho por extracción",
-    "cómo se calcula el derecho de extracción",
-    "qué pasa si no pago el derecho",
-    "ausencia de libros diarios",
-    "obstaculizar la verificación"
+    "extraer materiales",
+    "derechos por extracción",
+    "Concesiones",
+    "volúmenes de extracción"
   ],
-  "resumen": "La autoridad fiscal puede calcular el derecho por extracción de materiales de manera presuntiva si hay irregularidades, como no tener libros diarios o no pagar el derecho. Se pueden usar diferentes métodos para determinar el volumen de material extraído.",
+  "resumen": "La autoridad fiscal puede determinar de manera presuntiva el derecho por extracción de materiales si el contribuyente no presenta la información requerida, no tiene libros de contabilidad o no cuenta con un título de concesión. Se calculará el derecho considerando varios volúmenes de extracción y la información disponible.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si no tengo libros de extracción?",
-    "¿Cómo determina la autoridad el derecho que debo pagar?",
-    "¿Qué pasa si me opongo a la verificación?",
-    "¿Necesito un título de concesión para extraer materiales?",
-    "¿Cuáles son las consecuencias de no pagar el derecho de extracción?"
+    "¿Qué pasa si no tengo libros diarios de extracción?",
+    "¿Cómo se calcula el derecho por extracción de materiales?",
+    "¿Qué sucede si me niegan información durante una verificación?",
+    "¿Qué requisitos necesito para tener un título de concesión?",
+    "¿Qué pasa si no pago el derecho de extracción a tiempo?"
   ]
 }

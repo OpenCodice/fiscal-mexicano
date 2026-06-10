@@ -6,26 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:32337c53202905fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro Federal de Armas y Explosivos",
+  "denominacion_comun": "Registro Federal de Armas",
   "temas": [
-    "derogación",
     "servicios",
     "registro de armas",
-    "control de explosivos"
+    "control de explosivos",
+    "derogación"
   ],
   "terminos_coloquiales": [
     "registro de armas",
-    "control de explosivos",
-    "servicios de armas",
-    "qué pasó con el registro de armas"
+    "control de explosivos"
   ],
-  "resumen": "Este artículo ha sido derogado y ya no está en vigor. Antes trataba sobre el registro de armas de fuego y el control de explosivos.",
+  "resumen": "Este artículo se refiere a los servicios relacionados con el registro de armas de fuego y el control de explosivos, pero ha sido derogado.",
   "preguntas_ejemplo": [
-    "¿Qué significa que se haya derogado el artículo sobre el registro de armas?",
-    "¿Qué servicios estaban relacionados con el control de explosivos?",
-    "¿Qué debo saber sobre el registro de armas de fuego?",
-    "¿Hay algún tipo de control sobre explosivos actualmente?"
+    "¿Qué dice la ley sobre el registro de armas?",
+    "¿Existen servicios para el control de explosivos?",
+    "¿Qué pasó con el artículo que regulaba el registro de armas?"
   ]
 }

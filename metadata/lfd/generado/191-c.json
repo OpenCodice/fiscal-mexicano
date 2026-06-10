@@ -6,28 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3efde8c07a96013",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de pesca",
+  "denominacion_comun": "Derecho de pesca",
   "temas": [
-    "permisos de excepción",
     "pesca",
-    "embarcaciones extranjeras",
-    "derechos de pesca",
+    "embarcaciones",
+    "permisos de excepción",
+    "derechos",
     "cuotas"
   ],
   "terminos_coloquiales": [
-    "cuota de pesca",
-    "derecho por pesca",
-    "tarifa de pesca",
-    "costo de permisos de pesca"
+    "pago por pesca",
+    "derecho de pesca",
+    "permiso de pesca"
   ],
-  "resumen": "Se establece una cuota que se debe pagar por los derechos de pesca para embarcaciones extranjeras por cada viaje. Esta cuota aplica para viajes de hasta 60 días.",
+  "resumen": "Se establece la obligación de pagar un derecho por los permisos de excepción para pesca por embarcaciones extranjeras, aplicable por cada viaje de hasta 60 días. La cuota específica a pagar es fijada en el texto.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por pescar con una embarcación extranjera?",
-    "¿Qué costo tiene el permiso de pesca para extranjeros?",
-    "¿Cuáles son las cuotas por derecho de pesca?",
-    "¿Qué se necesita para obtener un permiso de pesca en México?",
-    "¿Hay alguna tarifa por pesca en alta mar?"
+    "¿Cuánto se paga por el derecho de pesca para embarcaciones extranjeras?",
+    "¿Qué necesito para pescar con una embarcación extranjera?",
+    "¿Cuáles son las cuotas por pesca para embarcaciones?"
   ]
 }

@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d612af0428326ed9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho extraordinario sobre minería",
   "temas": [
     "concesiones mineras",
     "asignaciones mineras",
-    "derecho extraordinario",
-    "pagos anuales",
     "ingresos por enajenación",
-    "contabilidad separada",
-    "Ley del Impuesto sobre la Renta",
-    "Servicio de Administración Tributaria"
+    "oro",
+    "plata",
+    "platino",
+    "declaración anual",
+    "contabilidad separada"
   ],
   "terminos_coloquiales": [
-    "pago de derechos mineros",
-    "impuesto sobre minería",
-    "cuota sobre oro y plata",
-    "declaración de ingresos mineros",
-    "derecho de extracción"
+    "derecho minero",
+    "pago por minería",
+    "ingresos por venta de metales",
+    "SAT",
+    "1% de ingresos"
   ],
-  "resumen": "Los titulares de concesiones mineras deben pagar anualmente un derecho extraordinario del 1% sobre los ingresos por la venta de oro, plata y platino. Este pago se debe declarar en marzo del año siguiente y requiere llevar una contabilidad separada de dichos ingresos.",
+  "resumen": "Los titulares de concesiones mineras deben pagar anualmente un derecho extraordinario del 1% sobre los ingresos por la venta de oro, plata y platino. Este pago se declara ante el SAT y requiere llevar contabilidad separada de los ingresos derivados de esas ventas.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por mis concesiones mineras?",
-    "¿Cómo declaro mis ingresos de oro y plata?",
+    "¿Cuánto tengo que pagar por las ventas de mis metales preciosos?",
     "¿Qué es el derecho extraordinario sobre minería?",
-    "¿Cuándo debo presentar mi declaración de ingresos mineros?",
-    "¿Necesito llevar contabilidad específica para mis ingresos de minería?"
+    "¿Cómo se calcula el derecho a pagar por la enajenación de metales?",
+    "¿Debo presentar una declaración para el pago del derecho minero?",
+    "¿Qué tipo de contabilidad necesito llevar si vendo oro y plata?",
+    "¿Cuándo se vence el pago del derecho extraordinario sobre minería?"
   ]
 }

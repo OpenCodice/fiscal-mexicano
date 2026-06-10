@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5812c61a5b045cd2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas por descarga de aguas residuales",
+  "denominacion_comun": "Derechos por descargas de agua",
   "temas": [
     "derechos de agua",
-    "cuotas",
-    "descarga de aguas residuales",
-    "cuerpos receptores",
+    "cuerpo receptor",
+    "cuota por descarga",
+    "descargas biodegradables",
+    "descargas no biodegradables",
     "contribuyentes",
     "actividades generadoras",
-    "tipos de descarga"
+    "comisión nacional del agua"
   ],
   "terminos_coloquiales": [
-    "cuánto tengo que pagar por descargar agua",
-    "tarifas de descarga de aguas",
-    "cuotas por aguas residuales",
-    "cómo se calculan las tarifas de descarga",
-    "pago por aguas residuales"
+    "cuota de agua",
+    "pago por descargas",
+    "cuerpo receptor tipo A/B/C",
+    "derecho de descarga"
   ],
-  "resumen": "El artículo establece cómo se determina el monto a pagar por la descarga de aguas residuales, aplicando diferentes cuotas según el tipo de cuerpo receptor y la actividad generadora. Las cuotas varían para entidades y para personas físicas y morales, dependiendo de si la descarga es biodegradable o no biodegradable.",
+  "resumen": "Este artículo establece las cuotas que deben pagar los contribuyentes por las descargas de agua en diferentes cuerpos receptores. Dependiendo del tipo de descarga y la actividad que la originó, se aplican diferentes tarifas por metro cúbico de agua descargada.",
   "preguntas_ejemplo": [
-    "¿Qué cuotas debo pagar por la descarga de aguas residuales?",
-    "¿Cuáles son las tarifas según el tipo de cuerpo receptor?",
-    "¿Qué actividades generan diferentes tarifas de descarga?",
-    "¿Cómo se determina el monto a pagar si no estoy en la lista de tarifas?",
-    "¿Qué deben hacer los contribuyentes antes de aplicar las cuotas?"
+    "¿Cuánto tengo que pagar por descargas de agua?",
+    "¿Qué cuotas aplican para descargas biodegradables?",
+    "¿Cómo se determina el pago por descargar agua en el alcantarillado?",
+    "¿Qué tipo de cuerpo receptor afecta el costo de la descarga?",
+    "¿Necesito presentar información para pagar mis derechos de descarga?",
+    "¿Qué tarifas hay para empresas que descargan agua?"
   ]
 }

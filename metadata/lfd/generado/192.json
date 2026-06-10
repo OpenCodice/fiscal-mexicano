@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d500ef469d34c6db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios relacionados con el agua",
+  "denominacion_comun": "Derechos de servicios relacionados con el agua",
   "temas": [
     "títulos de asignación",
-    "concesiones de agua",
+    "concesiones",
     "permisos de descarga",
-    "inscripción en el registro"
+    "transmisión de permisos",
+    "inscripción de derechos de agua",
+    "cuotas por servicios"
   ],
   "terminos_coloquiales": [
-    "costo de permisos de agua",
-    "cuotas de concesión de agua",
-    "derechos por uso de aguas",
-    "pago por descargas"
+    "derechos de agua",
+    "concesiones de agua",
+    "permisos para descargar aguas",
+    "registro de derechos de agua"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición, prórroga y transmisión de títulos de asignación o concesiones de agua, así como permisos de descarga. Incluye las tarifas para la inscripción de estos derechos en el registro correspondiente.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición, prórroga o modificación de títulos de asignación o concesión para el uso de aguas nacionales y por permisos de descarga de aguas residuales. También se menciona la inscripción de estos derechos en el Registro Público de Derechos de Agua.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso de agua?",
-    "¿Qué tarifas hay por concesiones de agua?",
-    "¿Cómo se paga por la prórroga de títulos de agua?",
-    "¿Cuáles son los costos para descargas de aguas residuales?",
-    "¿Qué derechos se tienen que pagar por transmisión de permisos de agua?"
+    "¿Cuánto cuesta obtener un título de concesión de aguas?",
+    "¿Qué se necesita para solicitar un permiso de descarga de aguas residuales?",
+    "¿Cómo se prorroga un título de concesión de agua?",
+    "¿Qué derechos de agua se deben registrar?",
+    "¿Cuál es el costo por transmitir un permiso de descarga?"
   ]
 }

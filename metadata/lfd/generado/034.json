@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:239b7a6a2a3caf7d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de Administradoras de Fondos para el Retiro",
+  "denominacion_comun": "Administradoras de Fondos para el Retiro",
   "temas": [
     "derechos",
-    "administradoras de fondos",
-    "fondos para el retiro",
-    "sociedades de inversión",
     "autorización",
-    "cuotas"
+    "fondos para el retiro",
+    "sociedades de inversión"
   ],
   "terminos_coloquiales": [
-    "cuánto se paga por administradora",
-    "derechos para fondos de retiro",
-    "costos de sociedades de inversión"
+    "Afores",
+    "fondos de pensiones",
+    "sociedad de inversión",
+    "pagar derechos"
   ],
-  "resumen": "Este artículo establece que las administradoras de fondos para el retiro deben pagar derechos por la autorización y operación como tales. El monto de los derechos es específico y se relaciona con la solicitud para organizarse.",
+  "resumen": "Este artículo establece que las Administradoras de Fondos para el Retiro y las Sociedades de Inversión Especializadas deben pagar derechos al solicitar autorización para operar. También menciona el monto de la cuota a pagar.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener la autorización para un fondo de retiro?",
-    "¿Qué derechos debo pagar si quiero manejar un fondo de pensiones?",
-    "¿Qué son las cuotas para sociedades de inversión de fondos para el retiro?",
-    "¿Cuál es el procedimiento para operar un fondo de retiro?"
+    "¿Cuánto tengo que pagar si quiero operar una Afore?",
+    "¿Qué derechos se pagan al solicitar la autorización de una sociedad de inversión?",
+    "¿Qué es una Sociedad de Inversión Especializada de Fondos para el Retiro?",
+    "¿Necesito pagar algo para que mi Afore tenga autorización?",
+    "¿Cómo se organiza una Administradora de Fondos para el Retiro?"
   ]
 }

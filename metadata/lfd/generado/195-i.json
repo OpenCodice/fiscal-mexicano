@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9bf5aa87e6be5446",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por servicios sanitarios",
   "temas": [
-    "trámites sanitarios",
-    "permiso de adquisición",
-    "liberación de medicamentos",
-    "reposición de licencias"
+    "permisos sanitarios",
+    "materia prima",
+    "fármacos",
+    "medicamentos",
+    "productos biológicos",
+    "licencias sanitarias",
+    "protocolos de investigación",
+    "remedios herbolarios"
   ],
   "terminos_coloquiales": [
-    "costos de servicios sanitarios",
-    "derechos de trámite sanitario",
-    "cuotas para permisos médicos",
-    "costo de licencias sanitarias"
+    "derechos de permisos",
+    "derechos sanitarios",
+    "reposiciones de licencias",
+    "servicios de salud",
+    "productos médicos"
   ],
-  "resumen": "Este artículo establece los derechos que deben pagarse por diversos servicios relacionados con trámites sanitarios, como permisos para la adquisición y liberación de medicamentos, así como la reposición de licencias y registros sanitarios. También se mencionan tarifas específicas para estos servicios.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por diferentes servicios relacionados con permisos y autorizaciones sanitarias, como la adquisición de medicamentos, el registro de productos y la reposición de licencias. También especifica cargos relacionados con la autorización de protocolos de investigación y productos herbolarios.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso sanitario?",
-    "¿Qué derechos debo pagar para liberar un medicamento?",
-    "¿Cuánto se cobra por reponer una licencia sanitaria?",
-    "¿Qué tarifas hay por trámites en materia sanitaria?",
-    "¿Hay costos por autorizaciones de protocolos de investigación?"
+    "¿Cuánto tengo que pagar por un permiso sanitario?",
+    "¿Cuáles son las tarifas para la reposición de licencias sanitarias?",
+    "¿Qué costos hay por productos biológicos?",
+    "¿Qué derechos debo pagar por medicamentos psicotrópicos?",
+    "¿Cuánto cuesta solicitar una autorización de investigación médica?"
   ]
 }

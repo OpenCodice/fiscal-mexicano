@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88507f96c7cbd0c6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por certificado de libre venta",
+  "denominacion_comun": "Derechos por Certificados de Libre Venta",
   "temas": [
     "certificado de libre venta",
-    "derechos",
+    "certificado de origen",
+    "derechos administrativos",
     "productos regulados",
     "especies acuáticas",
-    "subproductos",
     "productos biológicos",
-    "productos químicos"
+    "químicos",
+    "farmacéuticos",
+    "alimentos"
   ],
   "terminos_coloquiales": [
-    "costo del certificado",
-    "derechos para certificado",
-    "cuota por certificado",
-    "certificado para productos",
-    "documentación para especies acuáticas"
+    "certificado de libre venta",
+    "certificado de origen",
+    "pago de derechos"
   ],
-  "resumen": "Se deben pagar derechos por la solicitud y expedición de certificados relacionados con empresas y productos regulados, especialmente para especies acuáticas y sus derivados. La cuota aplicable es de $797.52 por cada certificado.",
+  "resumen": "Se establecen derechos que deben pagarse por la expedición de certificados relacionados con productos específicos, incluyendo aquellos de origen acuático, biológicos, químicos y alimenticios. Estos certificados son necesarios para la regulación y venta de dichos productos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta el certificado de libre venta?",
-    "¿Qué derechos se pagan para obtener un certificado de origen?",
-    "¿Qué certificados necesito para productos acuáticos?",
-    "¿Dónde puedo solicitar el certificado de libre venta?",
-    "¿Qué tipo de productos requieren un certificado de regulación?"
+    "¿Cuánto se paga por un certificado de libre venta?",
+    "¿Qué derechos se deben cubrir al solicitar un certificado de origen?",
+    "¿Qué productos requieren un certificado de libre venta?",
+    "¿Hay derechos por productos biológicos o farmacéuticos?",
+    "¿Qué se considera un producto regulado?"
   ]
 }

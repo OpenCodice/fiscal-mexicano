@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f4f6f7816e26f5da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disminución de derechos por aparatos de medición",
+  "denominacion_comun": "Disminución de derechos por costos de medición",
   "temas": [
-    "contribuyentes",
-    "derechos",
-    "aparatos de medición",
+    "derecho",
+    "declaraciones",
+    "costo de aparatos de medición",
     "gastos de instalación",
-    "comprobantes fiscales",
-    "declaraciones trimestrales"
+    "Comisión Nacional del Agua",
+    "comprobante fiscal",
+    "declaración trimestral"
   ],
   "terminos_coloquiales": [
-    "descuentos en derechos",
-    "gastos de medición",
-    "instalación de aparatos",
-    "comprobantes de compra",
-    "declaración de impuestos"
+    "disminución de derechos",
+    "costo de medidores",
+    "gastos de instalación de medidores",
+    "comprobante fiscal",
+    "CNAP",
+    "declaración trimestral"
   ],
-  "resumen": "Los contribuyentes pueden restar del pago de derechos el costo de aparatos de medición y su instalación si cumplen ciertos requisitos. Deben presentar comprobantes fiscales para validar esta disminución y los detalles en sus declaraciones trimestrales.",
+  "resumen": "Los contribuyentes pueden disminuir el pago de derechos presentando el costo de los aparatos de medición y su instalación al hacer sus declaraciones. Deben conservar el comprobante fiscal y presentarlo para verificación por la Comisión Nacional del Agua.",
   "preguntas_ejemplo": [
-    "¿Puedo descontar el costo de los aparatos de medición en mis impuestos?",
-    "¿Qué comprobantes necesito para disminuir el pago de derechos?",
-    "¿Cómo se reporta el costo de instalación en la declaración?",
-    "¿Qué sucede si el monto a acreditar es mayor que el derecho a cargo?",
-    "¿Dónde presento mis comprobantes para obtener la disminución?"
+    "¿Cómo puedo disminuir mis derechos por los costos de medidores?",
+    "¿Qué necesito para acreditar mis gastos de instalación de medidores?",
+    "¿Dónde presento el comprobante fiscal para los aparatos de medición?",
+    "¿Qué pasa si el monto a acreditar es mayor que el derecho a pagar?",
+    "¿Cuándo debo hacer mi declaración trimestral para incluir las disminuciones?"
   ]
 }

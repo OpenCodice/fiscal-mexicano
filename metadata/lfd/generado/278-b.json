@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:05f4b35d29ea50c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Muestreo de descargas de agua",
+  "denominacion_comun": "Muestreo y análisis de descargas de agua",
   "temas": [
-    "contaminantes",
     "calidad del agua",
-    "muestras compuestas",
+    "muestreo",
+    "análisis de contaminantes",
     "laboratorios acreditados",
-    "análisis de agua",
-    "reportes de muestreo",
-    "promedios de concentraciones"
+    "reportes trimestrales"
   ],
   "terminos_coloquiales": [
-    "muestreo de aguas",
-    "análisis de aguas residuales",
+    "descargas de aguas residuales",
+    "análisis de agua",
+    "muestreo de agua",
     "calidad del agua",
-    "contaminación del agua",
-    "reportes de descarga"
+    "Comisión Nacional del Agua",
+    "CNA"
   ],
-  "resumen": "El artículo establece las reglas para muestrear y analizar la calidad del agua descargada, así como la forma en que se deben reportar los resultados. También detalla el uso de muestras compuestas y simples, y la importancia de los laboratorios acreditados para garantizar la precisión de los análisis.",
+  "resumen": "El artículo establece cómo se debe muestrear y analizar la calidad del agua en las descargas, especificando el uso de muestras compuestas y simples. Además, determina la frecuencia de los informes y los laboratorios que deben realizar estos análisis.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza el muestreo de las descargas de agua?",
-    "¿Qué establece la Ley sobre la calidad del agua que se descarga?",
-    "¿Qué debo hacer si mi laboratorio no cumple con las normas?",
-    "¿Cuáles son los parámetros a considerar en el análisis de aguas residuales?",
-    "¿Con qué frecuencia debo reportar los resultados de muestreo?"
+    "¿Cómo se realiza el muestreo de aguas residuales?",
+    "¿Con qué frecuencia debo reportar los resultados de los análisis de agua?",
+    "¿Qué laboratorios están acreditados para analizar la calidad del agua?",
+    "¿Qué parámetros se analizan en las descargas de agua?",
+    "¿Cuál es el procedimiento para calcular la concentración de contaminantes en el agua?"
   ]
 }

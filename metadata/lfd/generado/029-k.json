@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d76de28783e61445",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas Anuales de Entidades Financieras",
+  "denominacion_comun": "Cuotas Anuales para Entidades Financieras",
   "temas": [
     "cuotas anuales",
     "entidades financieras",
-    "derechos de inscripción",
-    "autorizaciones",
-    "capital contable",
-    "Registro Nacional de Valores",
-    "inscripciones",
-    "grava tributaria"
+    "derechos",
+    "inscripción en Registro Nacional de Valores",
+    "certificación",
+    "autorización",
+    "filiales",
+    "capital contable"
   ],
   "terminos_coloquiales": [
-    "cuotas anuales",
+    "cuotas",
+    "pago de cuotas",
     "derechos de inscripción",
-    "entidades financieras",
-    "CNBV"
+    "Registro Nacional de Valores",
+    "entidades financieras"
   ],
-  "resumen": "El artículo establece cómo y cuándo deben pagar las cuotas anuales las entidades financieras y personas morales. Indica que pueden pagarlas en doce parcialidades y qué condiciones aplican para nuevos organismos y para los derechos relacionados con autorizaciones e inscripciones en el Registro Nacional de Valores.",
+  "resumen": "Este artículo regula el pago de cuotas anuales por parte de entidades financieras y personas morales, así como los derechos por certificación y autorización. Se establecen plazos y condiciones para realizar estos pagos, incluyendo descuentos si se pagan anticipadamente.",
   "preguntas_ejemplo": [
-    "¿Cómo se pagan las cuotas anuales de las entidades financieras?",
-    "¿Qué es el capital contable según el artículo 29-K?",
-    "¿Qué derechos se deben pagar por autorizaciones y registros?",
-    "¿Cuáles son las fechas límite para el pago de derechos por inscripciones?",
-    "¿Quiénes están exentos del pago de derechos bajo este artículo?"
+    "¿Cómo se deben pagar las cuotas anuales para las entidades financieras?",
+    "¿Qué sucede si no pago los derechos de inscripción a tiempo?",
+    "¿Están exentos de pagar derechos los organismos financieros multilaterales?",
+    "¿Qué se considera como capital contable al momento de calcular cuotas?",
+    "¿Cuándo se deben pagar los derechos por autorización y certificación?"
   ]
 }

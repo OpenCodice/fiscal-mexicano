@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33a4fa8227d5c5c6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por uso de Áreas Naturales Protegidas",
   "temas": [
-    "cuotas",
     "derechos",
     "Áreas Naturales Protegidas",
     "actividades recreativas",
+    "turismo",
+    "pesca deportiva",
     "descuentos",
     "exenciones"
   ],
   "terminos_coloquiales": [
-    "costo por visitar parques",
-    "pago por actividades al aire libre",
-    "derechos de entrada a áreas naturales",
-    "tarifas por uso de áreas protegidas"
+    "pago de derechos",
+    "visitas a parques",
+    "turismo en la naturaleza",
+    "zona marina",
+    "Zonas de Atención Prioritaria"
   ],
-  "resumen": "Este artículo establece los derechos que deben pagarse por el uso de diferentes Áreas Naturales Protegidas en México, dependiendo del tipo de actividad y la capacidad de carga de cada área. También menciona quiénes están exentos de estos pagos y los descuentos disponibles para ciertos grupos.",
+  "resumen": "Este artículo establece los derechos que deben pagarse por el uso y aprovechamiento de las Áreas Naturales Protegidas en México, que varían según la capacidad de carga de cada área. También menciona las exenciones y descuentos aplicables a ciertos grupos de personas.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta entrar a un parque nacional?",
-    "¿Hay descuento para estudiantes en las entradas a áreas protegidas?",
-    "¿Quiénes están exentos de pagar derechos en las áreas naturales?",
-    "¿Qué actividades requieren un pago por el uso de áreas naturales?",
-    "¿Puedo acceder a varias áreas naturales con un solo pago?"
+    "¿Cuánto tengo que pagar por visitar un parque nacional?",
+    "¿Quiénes están exentos del pago de derechos en áreas naturales?",
+    "¿Qué actividades recreativas requieren un pago de derechos?",
+    "¿Hay descuentos para estudiantes en el acceso a áreas naturales?",
+    "¿Qué pasa si accedo a dos áreas naturales en un mismo día?"
   ]
 }

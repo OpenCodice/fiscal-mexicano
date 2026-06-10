@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f3e9db95f05ef14",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso de frecuencias",
+  "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
   "temas": [
     "concesiones",
     "permisos",
-    "frecuencias",
     "espectro radioeléctrico",
-    "derechos anuales",
+    "bandas de frecuencia",
+    "cuotas anuales",
     "regiones",
-    "cuotas"
+    "población",
+    "cálculo de derechos"
   ],
   "terminos_coloquiales": [
-    "derechos de frecuencias",
-    "cuota por espectro",
-    "concesiones de radio",
-    "permitidos de bandas",
-    "pago de frecuencias"
+    "derechos espectro",
+    "uso de frecuencias",
+    "cuota de espectro",
+    "bandas de frecuencia",
+    "cobertura de frecuencias"
   ],
-  "resumen": "Los concesionarios y permisionarios de bandas del espectro radioeléctrico deben pagar anualmente un derecho por el uso de estas frecuencias. La cuota depende de la región y del número de kilohertz concesionados.",
+  "resumen": "Este artículo establece los derechos anuales que deben pagar los concesionarios y permisionarios por el uso de bandas de frecuencias del espectro radioeléctrico. Las cuotas varían según la región y el rango de frecuencias concesionado o permisionado.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por el uso de frecuencias?",
-    "¿Cómo se calcula la cuota por espectro radioeléctrico?",
-    "¿Qué derechos debo considerar al concesionar frecuencias?",
-    "¿Existen diferentes tarifas según la región?",
-    "¿Qué pasa si mi cobertura es menor a la región indicada?"
+    "¿Cuánto tengo que pagar por el uso de mi banda de frecuencia?",
+    "¿Qué cuotas aplican a mi concesión de espectro?",
+    "¿Cómo se calcula el derecho por uso de frecuencias?",
+    "¿Qué sucede si mi área de cobertura es menor a la región indicada?",
+    "¿Qué tablas se utilizan para determinar los derechos anuales de espectro?"
   ]
 }

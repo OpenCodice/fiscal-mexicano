@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca2d7ec0615b8997",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por descargas de aguas residuales",
   "temas": [
-    "derecho federal",
+    "cálculo de derechos",
     "declaración trimestral",
     "descargas permanentes",
     "descargas fortuitas",
-    "documentación de pago",
-    "cuerpo receptor",
-    "contaminantes"
+    "contaminantes",
+    "documentación comprobatoria"
   ],
   "terminos_coloquiales": [
-    "declaración de aguas residuales",
-    "pago de derechos de descarga",
-    "cuando hay que declarar descargas",
-    "declaración trimestral de aguas",
-    "descarga de aguas residuales"
+    "pago de derechos",
+    "declaración de derechos de aguas",
+    "descargas de aguas",
+    "aguas residuales"
   ],
-  "resumen": "Los usuarios deben calcular y pagar trimestralmente el derecho federal por descargas de aguas residuales, presentando una declaración en oficinas del SAT. También deben reportar detalles sobre sus descargas, incluyendo la cantidad y tipo de contaminantes.",
+  "resumen": "Los contribuyentes deben calcular y pagar trimestralmente derechos por descargas de aguas residuales, presentando una declaración en las oficinas del SAT. Además, deben documentar sus descargas, incluyendo información sobre contaminantes y cuerpos receptores.",
   "preguntas_ejemplo": [
-    "¿Cómo hago la declaración por descargas de aguas?",
-    "¿Cuándo tengo que pagar los derechos por descargas?",
-    "¿Qué documentación necesito para las descargas de aguas residuales?",
-    "¿Qué pasa si no tengo que pagar nada por mi descarga?",
-    "¿Qué información debo incluir en mi declaración de descargas?"
+    "¿Cómo calculo los derechos por descargas de aguas residuales?",
+    "¿Cuándo debo presentar la declaración de derechos de aguas?",
+    "¿Qué información debo incluir en la declaración de descargas?",
+    "¿Qué hago si realizo descargas fortuitas?",
+    "¿Necesito comprobantes de pago para las descargas de aguas?"
   ]
 }

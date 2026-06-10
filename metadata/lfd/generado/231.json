@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4803f3fa7ae77e07",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Zonas de Disponibilidad de Agua",
+  "denominacion_comun": "Disponibilidad de aguas",
   "temas": [
     "aguas superficiales",
     "aguas subterráneas",
-    "zona de disponibilidad",
-    "fórmulas de cálculo"
+    "cuencas hidrológicas",
+    "acuíferos",
+    "fórmulas de disponibilidad",
+    "publicaciones de la CONAGUA",
+    "variables de agua"
   ],
   "terminos_coloquiales": [
     "disponibilidad de agua",
-    "zonas de agua",
-    "cálculo de agua disponible",
-    "aguas en cuencas"
+    "agua de la cuenca",
+    "agua residual",
+    "acuífero",
+    "escurrimiento",
+    "NOM-011-CONAGUA-2000"
   ],
-  "resumen": "El artículo describe cómo se determina la disponibilidad de agua en diferentes zonas, tanto superficiales como subterráneas, utilizando fórmulas específicas y datos de la Comisión Nacional del Agua. También se menciona la publicación anual de estos datos para facilitar su consulta.",
+  "resumen": "Este artículo establece cómo se determina la disponibilidad de agua superficial y subterránea mediante fórmulas específicas y la publicación de datos por parte de la CONAGUA. La disponibilidad se clasifica en diferentes zonas según el resultado de estas fórmulas.",
   "preguntas_ejemplo": [
-    "¿Cómo se mide la disponibilidad de agua en una cuenca?",
-    "¿Qué es una zona de disponibilidad de aguas?",
-    "¿Qué fórmulas se utilizan para calcular el agua disponible?",
-    "¿Dónde se publican los resultados de disponibilidad de agua?",
-    "¿Cuál es la diferencia entre aguas superficiales y subterráneas en este contexto?"
+    "¿Cómo se determina la disponibilidad de agua en mi cuenca?",
+    "¿Cuáles son las zonas de disponibilidad de aguas?",
+    "¿Qué fórmula se usa para calcular la disponibilidad de aguas subterráneas?",
+    "¿Dónde puedo encontrar los valores de disponibilidad de agua publicados por la CONAGUA?",
+    "¿Qué es la NOM-011-CONAGUA-2000 y cómo afecta la disponibilidad de agua?"
   ]
 }

@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b38aace05daf63d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por permisos de armas y municiones",
   "temas": [
-    "permisos de armas",
-    "derechos de importación",
-    "licencias de portación",
-    "trámites para coleccionistas",
-    "registros de armas",
-    "cuotas por servicios",
-    "modificación de permisos"
+    "permisos de fabricación de armas",
+    "importación y exportación de armas",
+    "compra de cartuchos",
+    "licencias de portación de armas",
+    "servicios a coleccionistas de armas",
+    "registro de armas",
+    "derechos de revalidación y modificación de permisos"
   ],
   "terminos_coloquiales": [
-    "costos de permisos para armas",
-    "derechos de armas",
-    "licencias para portar armas",
-    "tramites de armas",
-    "precio de permisos de cacería"
+    "licencia de armas",
+    "permisos para armas",
+    "derechos por armas",
+    "comprar armas",
+    "cartuchos",
+    "armamento",
+    "donación de armas",
+    "permuta de armas"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición o revalidación de permisos relacionados con la fabricación, importación, exportación y portación de armas y municiones. Además incluye tarifas para coleccionistas y registros de armas.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la obtención y revalidación de permisos relacionados con la fabricación, compra, importación y exportación de armas y municiones, así como por licencias de portación de armas y otros trámites específicos. Incluye tarifas detalladas para distintos tipos de permisos y registros.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta sacar un permiso para armas?",
-    "¿Qué tarifas debo pagar para importar armas?",
-    "¿Cuáles son los costos para las licencias de portación de armas?",
-    "¿Qué permisos necesito para ser coleccionista de armas?",
-    "¿Cuánto vale el registro de un arma?",
-    "¿Qué pasa si quiero modificar un permiso de armas?"
+    "¿Cuánto tengo que pagar por una licencia de portación de armas?",
+    "¿Qué permisos necesito para importar armas?",
+    "¿Cuáles son los costos de los permisos para la fabricación de armas?",
+    "¿Cómo puedo obtener un permiso para coleccionar armas?",
+    "¿Qué derechos se aplican para la compra de cartuchos?",
+    "¿Qué trámites son necesarios para la revalidación de mi licencia de armas?"
   ]
 }

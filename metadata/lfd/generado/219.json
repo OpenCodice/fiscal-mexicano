@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0250b10e3dfbfd15",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por uso de aeropuertos",
+  "denominacion_comun": "Derechos por el uso de aeropuertos",
   "temas": [
     "derechos",
     "aeropuertos",
-    "concesiones",
     "asignaciones",
-    "administración",
-    "explotación"
+    "concesiones",
+    "explotación",
+    "conservación",
+    "administración"
   ],
   "terminos_coloquiales": [
-    "pago por usar aeropuertos",
-    "derechos de uso en aeropuertos",
-    "costos de concesión de aeropuertos",
-    "tarifas de aeropuertos"
+    "pago de derechos",
+    "uso de aeropuertos",
+    "concesiones de aeropuertos",
+    "explotación de aeropuertos"
   ],
-  "resumen": "Las personas y organismos que gestionan aeropuertos federales deben pagar derechos por su uso y explotación. Esto incluye a quienes tienen asignaciones y concesiones según la Ley de Aeropuertos.",
+  "resumen": "Las personas y organismos que manejan aeropuertos federales deben pagar derechos por su uso y explotación. Esto incluye tanto a concesionarios como a organismos descentralizados asociados con la administración de aeropuertos.",
   "preguntas_ejemplo": [
-    "¿Qué derechos debo pagar por usar un aeropuerto?",
-    "¿Las concesiones de aeropuertos tienen tarifas?",
-    "¿Quiénes están obligados a pagar por la explotación de aeropuertos?",
-    "¿Qué dice la ley sobre el pago por uso de aeropuertos federales?",
-    "¿Cuáles son los costos asociados a la operación de un aeropuerto?"
+    "¿Quién debe pagar derechos por el uso de los aeropuertos?",
+    "¿Qué es lo que se regula sobre los derechos en aeropuertos federales?",
+    "¿Cómo se manejan las concesiones de aeropuertos en relación a los derechos?",
+    "¿Qué obligaciones tienen los organismos que administran aeropuertos federales?",
+    "¿Qué implica el pago de derechos por la explotación de un aeropuerto?"
   ]
 }

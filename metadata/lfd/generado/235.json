@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9617daeed090cca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valuación Fiscal",
+  "denominacion_comun": "Valuaciones fiscales",
   "temas": [
     "valor mínimo del suelo",
     "valor catastral",
     "materiales extraídos",
-    "avalúo fiscal"
+    "avalúos",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
     "valor del terreno",
-    "aumento de valor catastral",
-    "evaluación de materiales",
-    "avalúo de impuestos"
+    "valor de la propiedad",
+    "avaluo fiscal"
   ],
-  "resumen": "Este artículo regula cómo las autoridades fiscales pueden determinar el valor del suelo y el valor catastral, así como la cantidad de materiales extraídos de propiedades nacionales. Además, los contribuyentes recibirán un resumen de los avalúos realizados.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden determinar el valor mínimo del suelo y ajustar el valor catastral, así como medir la cantidad de materiales extraídos de corrientes y depósitos. Además, deben proporcionar un extracto del avalúo al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor de mi terreno?",
-    "¿Qué sucede si el valor que declare es menor al valor mínimo?",
-    "¿Cuál es el proceso para el aumento del valor catastral?",
-    "¿Qué materiales se pueden evaluar bajo esta ley?",
-    "¿Recibiré un informe del avalúo que hagan de mi propiedad?"
+    "¿Cómo se determina el valor mínimo del suelo?",
+    "¿Qué es el valor catastral y cómo se ajusta?",
+    "¿Qué deben hacer las autoridades fiscales cuando hacen una valuación?",
+    "¿Cómo sé si el valor declarado de mi propiedad es correcto?",
+    "¿Recibiré un informe tras el avalúo fiscal?"
   ]
 }

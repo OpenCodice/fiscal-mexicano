@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2e3f125c1a52872",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Verificación en Aviación",
+  "denominacion_comun": "Derechos por verificación en aviación",
   "temas": [
     "derechos",
-    "verificación",
+    "verificación aérea",
     "concesionarios",
+    "permisionarios",
     "servicios aéreos",
-    "Ley de Aviación Civil",
-    "Ley de Aeropuertos"
+    "aeronaves",
+    "centros de formación"
   ],
   "terminos_coloquiales": [
-    "pagos por verificación",
-    "derechos de verificación aérea",
-    "cuotas de verificación",
-    "cobros por inspección"
+    "derechos de verificación",
+    "verificación de aeronaves",
+    "verificación menor",
+    "verificación mayor",
+    "SENEAM"
   ],
-  "resumen": "Los concesionarios y operadores de servicios aéreos deben pagar derechos por hora de verificación según diferentes categorías. Existen exenciones para ciertos servicios y entidades relacionadas con la navegación aérea.",
+  "resumen": "Este artículo establece los derechos que deben pagar los concesionarios y permisionarios por los servicios de verificación en el ámbito de la aviación civil. Se especifican diferentes cuotas según el tipo de verificación realizada.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por una verificación de aeronave?",
-    "¿Qué derechos debo pagar como concesionario en aviación?",
-    "¿Hay exenciones para las verificaciones de capacitación?",
-    "¿Cuáles son las tarifas por verificación menor en aviación?",
-    "¿Quiénes están obligados a pagar estos derechos?"
+    "¿Cuánto tengo que pagar por la verificación de mi aeronave?",
+    "¿Qué derechos debo cubrir si soy concesionario de servicios aéreos?",
+    "¿Existen exenciones para la verificación de los centros de formación?",
+    "¿Cuál es la cuota por la verificación menor?",
+    "¿Los servicios de SENEAM también tienen que pagar derechos de verificación?"
   ]
 }

@@ -6,26 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
-  "temas": [
-    "derogación",
-    "legislación",
-    "artículos",
-    "fiscal"
-  ],
-  "terminos_coloquiales": [
-    "se eliminó un artículo",
-    "anular un artículo",
-    "quitar una ley"
-  ],
-  "resumen": "El artículo ha sido eliminado de la ley, lo que significa que ya no es aplicable.",
+  "denominacion_comun": "Artículo derogado",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado y ya no está vigente.",
   "preguntas_ejemplo": [
-    "¿Qué artículos han sido derogados?",
-    "¿Qué significa que un artículo se haya eliminado?",
-    "¿Cómo afecta la derogación de este artículo?",
-    "¿Qué pasa con las leyes cuando un artículo se deroga?",
-    "¿Cuáles son las implicaciones de la derogación en la legislación fiscal?"
+    "¿Qué pasó con el Artículo 77 de la LFD?",
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Dónde puedo encontrar información actualizada sobre la LFD?"
   ]
 }

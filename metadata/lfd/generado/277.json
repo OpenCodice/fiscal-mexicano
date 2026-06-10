@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12229236cdc8538b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Definiciones sobre aguas residuales",
@@ -13,22 +14,22 @@
     "aguas nacionales",
     "contaminantes",
     "descargas",
-    "cuerpos receptores",
-    "reglamento",
-    "norma oficial mexicana"
+    "aguas residuales",
+    "limites permisibles"
   ],
   "terminos_coloquiales": [
     "aguas residuales",
-    "contaminación de agua",
-    "reglas de descargas",
-    "límites de contaminantes"
+    "contaminación del agua",
+    "descargar aguas",
+    "norma de contaminantes",
+    "Ley de Aguas Nacionales"
   ],
-  "resumen": "Este artículo establece que se deben usar las definiciones de la Ley de Aguas Nacionales y las normas relacionadas para entender cómo tratar las aguas residuales y sus contaminantes. Se refiere a los límites permisibles que deben seguir las descargas en cuerpos de agua propiedad de la Nación.",
+  "resumen": "Este artículo establece que se deben considerar las definiciones de la Ley de Aguas Nacionales y sus normas relacionadas para regular las descargas de aguas residuales. Así, se busca establecer límites permisibles de contaminantes en cuerpos de agua propiedad de la Nación.",
   "preguntas_ejemplo": [
-    "¿Qué se considera como aguas residuales según la ley?",
-    "¿Cuáles son los límites de contaminantes para las descargas de agua?",
-    "¿Dónde encuentro las reglas para las descargas de aguas en el país?",
-    "¿Qué es la Ley de Aguas Nacionales?",
-    "¿Cómo afecta la norma oficial mexicana a las descargas de contaminantes?"
+    "¿Qué se considera como aguas residuales?",
+    "¿Cuáles son los límites permisibles de contaminantes en el agua?",
+    "¿Qué normativa regula las descargas de aguas residuales?",
+    "¿Cómo afecta la Ley de Aguas Nacionales a las descargas en cuerpos de agua?",
+    "¿Qué define la Norma Oficial Mexicana sobre aguas residuales?"
   ]
 }

@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e9d70ed9fc09644b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho de Cinematografía",
   "temas": [
-    "Derechos de autor",
-    "Cinematografía",
-    "Servicios cinematográficos",
-    "Cuotas",
-    "Promoción de la industria"
+    "cuotas",
+    "servicios cinematográficos",
+    "clasificación de películas",
+    "exhibición pública",
+    "fomento a la cinematografía"
   ],
   "terminos_coloquiales": [
-    "Derecho de Cinematografía",
-    "Cuotas cinematográficas",
-    "Cine",
-    "Exhibición pública"
+    "pago por películas",
+    "costo de exhibición",
+    "cobro de derechos de cine"
   ],
-  "resumen": "Los servicios en materia de cinematografía están sujetos al pago de un derecho específico, el cual varía según el tipo de material y su uso. Este derecho se utiliza para fomentar y promover la industria cinematográfica nacional.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por servicios relacionados con la cinematografía, como la supervisión y clasificación de materiales cinematográficos. Estas cuotas ayudarán a promover la industria cinematográfica nacional.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por exhibir una película?",
-    "¿Qué cuotas hay que pagar para material cinematográfico?",
-    "¿Las instituciones públicas deben pagar derechos por exhibir cine?",
-    "¿Cómo se determina el costo de los derechos cinematográficos?",
-    "¿Qué servicios están sujetos al derecho de cinematografía?"
+    "¿Cuánto tengo que pagar por exhibir una película?",
+    "¿Qué tarifas se aplican para la clasificación de un video?",
+    "¿Existen exenciones en el pago de derechos de cinematografía?",
+    "¿Dónde se destinan los pagos de derechos por servicios cinematográficos?"
   ]
 }

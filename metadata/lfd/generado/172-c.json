@@ -6,12 +6,14 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:002b096039e27295",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos de vías ferroviarias",
   "temas": [
     "autorizaciones",
     "derechos",
+    "vías ferroviarias",
     "arrendamientos",
     "enajenaciones",
     "donaciones",
@@ -19,17 +21,17 @@
     "construcciones"
   ],
   "terminos_coloquiales": [
-    "cuotas de derechos",
-    "pagos por vías de tren",
-    "costo de autorizaciones",
-    "derechos ferroviarios"
+    "derechos de vías",
+    "uso de vías",
+    "alquiler de vías",
+    "venta de vías"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por las autorizaciones relacionadas con los derechos de vías ferroviarias, que incluyen arrendamientos, enajenaciones, donaciones, permutas y construcciones de edificios.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por las autorizaciones relacionadas con los derechos de vías ferroviarias. Estas cuotas varían según el tipo de operación, como arrendamientos, enajenaciones, donaciones, permutas y construcciones de edificios.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por arrendar vías ferroviarias?",
-    "¿Qué costos hay para enajenar derechos de vías?",
-    "¿Cuáles son las tarifas por donaciones de vías ferroviarias?",
-    "¿Qué cuota se aplica para las construcciones en vías de tren?",
-    "¿Cuánto cuesta la permuta de derechos ferroviarios?"
+    "¿Cuánto tengo que pagar por arrendar una vía ferroviaria?",
+    "¿Qué cuota se aplica si enajeno derechos de vías?",
+    "¿Cuál es el costo de las donaciones de vías ferroviarias?",
+    "¿Qué se cobra por permutar derechos de vía?",
+    "¿Cuánto cuesta construir en terrenos de vía ferroviaria?"
   ]
 }

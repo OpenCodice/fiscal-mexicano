@@ -6,20 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposición",
-  "temas": [],
-  "terminos_coloquiales": [
-    "ya no existe este artículo",
+  "denominacion_comun": "Derogación",
+  "temas": [
     "derogación",
-    "eliminar ley",
-    "artículo derogado"
+    "normatividad",
+    "legislación"
   ],
-  "resumen": "Este artículo ya no está en vigor y ha sido eliminado de la ley fiscal.",
+  "terminos_coloquiales": [
+    "se derogó",
+    "nueva ley",
+    "cambio de ley"
+  ],
+  "resumen": "El artículo indica que ha sido derogado y ya no es aplicable. Esto significa que la norma correspondiente ha dejado de tener efectos legales.",
   "preguntas_ejemplo": [
-    "¿Qué artículos de la ley fiscal han sido derogados?",
-    "¿Este artículo todavía está vigente?",
-    "¿Qué significa que un artículo esté derogado?"
+    "¿Qué significa que un artículo se haya derogado?",
+    "¿Qué debe hacer si un artículo de la ley ya no es válido?",
+    "¿Cuáles son las implicaciones de la derogación de una norma?",
+    "¿Cómo afecta la derogación a los contribuyentes?",
+    "¿Dónde puedo encontrar la nueva normativa tras la derogación?"
   ]
 }

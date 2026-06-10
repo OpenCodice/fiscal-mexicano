@@ -6,19 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 143",
-  "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "anulación de leyes",
-    "tema sin vigencia"
+  "denominacion_comun": "Derogación de artículo",
+  "temas": [
+    "derogación",
+    "normativa",
+    "legislación",
+    "fiscal"
   ],
-  "resumen": "El artículo 143 ha sido derogado, por lo que ya no tiene validez legal. Esto significa que las disposiciones que contenía ya no son aplicables.",
+  "terminos_coloquiales": [
+    "se derogó",
+    "no aplica",
+    "artículo eliminado"
+  ],
+  "resumen": "Este artículo ha sido derogado, por lo que ya no está en vigor y no tiene efectos legales.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 143 de la ley?",
-    "¿Está vigente el artículo 143?",
-    "¿Cuáles son las consecuencias de la derogación del artículo 143?"
+    "¿Qué pasa con el artículo 143?",
+    "¿Está vigente el artículo 143 de la LFD?",
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Cuáles son las implicaciones de la derogación de un artículo?",
+    "¿Hay un artículo que lo reemplace?"
   ]
 }

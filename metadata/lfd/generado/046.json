@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d72f604270a67d01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de almacenaje en aduana",
+  "denominacion_comun": "Derechos de almacenaje en aduanas",
   "temas": [
+    "deuda aduanera",
+    "depósito de mercancías",
     "almacenaje",
-    "aduana",
-    "derechos",
-    "mercancías",
-    "depósito"
+    "recintos fiscales"
   ],
   "terminos_coloquiales": [
-    "costo de almacenamiento",
-    "pago de derechos aduanales",
-    "tarifa de depósito",
-    "mercancías en aduana"
+    "derechos de almacenaje",
+    "mercancías en aduana",
+    "fianza aduanera"
   ],
-  "resumen": "No se puede retirar mercancía del depósito aduanero si no se han pagado los derechos de almacenaje correspondientes. Esto asegura que las mercancías no se entreguen sin los pagos necesarios.",
+  "resumen": "Las mercancías que están en depósito ante la aduana no se pueden entregar a menos que se paguen los derechos de almacenaje correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta almacenar mercancías en aduana?",
-    "¿Qué pasa si no pago los derechos de almacenaje?",
-    "¿Puedo retirar mi mercancía sin pagar?",
-    "¿Qué son los derechos de almacenaje en aduana?"
+    "¿Qué pasa si mis mercancías están en aduana?",
+    "¿Tengo que pagar algo para recoger mis mercancías en aduana?",
+    "¿Qué son los derechos de almacenaje en aduanas?",
+    "¿Dónde se guardan las mercancías que no he recogido?",
+    "¿Cuánto tiempo puedo dejar mis mercancías en un recinto fiscal?"
   ]
 }

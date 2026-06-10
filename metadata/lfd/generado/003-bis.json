@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74365118b3527446",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Modificaciones a ingresos y deducciones",
+  "denominacion_comun": "Modificación de Ingresos y Deducciones",
   "temas": [
     "ingresos acumulables",
     "deducciones autorizadas",
-    "derechos omitidos",
+    "derechos fiscales",
     "facultades de comprobación"
   ],
   "terminos_coloquiales": [
-    "modificaciones fiscales",
-    "ingresos y deducciones",
+    "modificación de ingresos",
+    "deducciones",
     "derechos omitidos"
   ],
-  "resumen": "Las autoridades fiscales deben considerar las modificaciones a los ingresos acumulables y deducciones autorizadas al calcular los derechos relacionados. También se determinarán los derechos omitidos en caso de ser necesario.",
+  "resumen": "Las autoridades fiscales deben tomar en cuenta los cambios en los ingresos y deducciones al calcular los derechos fiscales. Esto implica ajustar los ingresos acumulados o las deducciones autorizadas y determinar cualquier derecho que se haya omitido.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si se modifican mis ingresos acumulables?",
-    "¿Cómo afectan las deducciones autorizadas a mis derechos?",
-    "¿Qué son los derechos omitidos en la Ley del Impuesto sobre la Renta?",
-    "¿Qué facultades tienen las autoridades fiscales para comprobar ingresos?",
-    "¿Cómo se calculan los derechos basados en mis deducciones?"
+    "¿Qué pasa si las autoridades cambian mis ingresos acumulables?",
+    "¿Cómo afectan las modificaciones en deducciones a mis derechos fiscales?",
+    "¿Qué son los derechos omitidos y cómo se determinan?",
+    "¿Qué debo considerar si me revisan mis deducciones autorizadas?",
+    "¿Qué responsabilidades tienen las autoridades fiscales al modificar mis ingresos?"
   ]
 }

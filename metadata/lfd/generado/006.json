@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76eb8f341a4e20be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas de derechos",
+  "denominacion_comun": "Determinación de cuotas de derechos",
   "temas": [
-    "determinación de cuotas",
-    "ajuste de montos",
-    "pagos en moneda nacional",
-    "pagos en moneda extranjera",
-    "derechos establecidos"
+    "cuotas",
+    "derechos",
+    "moneda nacional",
+    "moneda extranjera",
+    "ajuste de pago",
+    "residentes en el extranjero"
   ],
   "terminos_coloquiales": [
-    "cuotas",
-    "ajustes de cuota",
     "pagos de derechos",
-    "derechos fiscales"
+    "cuotas de derechos",
+    "ajuste de cuotas",
+    "pago en el extranjero",
+    "moneda extranjera",
+    "derechos de vida silvestre"
   ],
-  "resumen": "Este artículo establece cómo se deben determinar y ajustar las cuotas de los derechos que se deben pagar. Los pagos se pueden realizar en moneda nacional o extranjera, dependiendo de la situación del contribuyente.",
+  "resumen": "Este artículo establece cómo se deben determinar las cuotas de los derechos y los ajustes que deben hacerse según las centavos. Indica también las condiciones para el pago de derechos en moneda nacional y extranjera, especialmente para residentes en el extranjero.",
   "preguntas_ejemplo": [
-    "¿Cómo se ajustan las cuotas de derechos?",
-    "¿Se pueden pagar derechos en moneda extranjera?",
-    "¿Qué pasa si tengo que pagar varios derechos a la vez?",
-    "¿Cómo debo pagar los derechos como residente en el extranjero?",
-    "¿Cuáles son las reglas para el ajuste de montos?"
+    "¿Cómo se ajustan las cuotas de los derechos al pagar?",
+    "¿Qué monedas se pueden usar para pagar derechos en el extranjero?",
+    "¿Los residentes en el extranjero pueden pagar derechos en moneda extranjera?",
+    "¿Qué ocurre si debo pagar varios derechos al mismo tiempo?",
+    "¿Se pueden pagar derechos en otra moneda además de la nacional?"
   ]
 }

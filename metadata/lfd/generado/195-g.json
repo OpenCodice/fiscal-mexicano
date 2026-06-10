@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2821fb70593972c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de permiso sanitario",
+  "denominacion_comun": "Permisos Sanitarios",
   "temas": [
+    "derechos de permisos",
     "importación",
     "exportación",
-    "permisos sanitarios",
-    "servicios de salud",
-    "cuotas",
-    "trámites"
+    "productos sanitarios",
+    "medicamentos",
+    "insumos para la salud"
   ],
   "terminos_coloquiales": [
-    "cuánto cuesta un permiso sanitario",
-    "derechos por permisos de importación",
-    "precios de permisos sanitarios",
-    "tarifas para permisos de medicamentos",
-    "costos de trámites sanitarios"
+    "permiso sanitario",
+    "derecho de permiso",
+    "importación de productos sanitarios",
+    "exportación de medicamentos",
+    "licencia sanitaria"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la solicitud de permisos sanitarios para la importación y exportación de ciertos productos, incluyendo alimentos, medicamentos y equipos médicos. También incluye tarifas para modificaciones y prórrogas de dichos permisos.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la solicitud y modificación de permisos sanitarios para importar y exportar productos como alimentos, medicamentos y equipos médicos. También detalla las tarifas específicas según el tipo de producto y el trámite requerido.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por un permiso sanitario para importar alimentos?",
-    "¿Qué tarifas existen para los permisos de exportación de medicamentos?",
-    "¿Cuáles son los costos por la prórroga de un permiso sanitario?",
-    "¿Qué se cobra por un permiso sanitario para productos de aseo?",
-    "¿Cómo se determina el costo del permiso sanitario para donación de equipos médicos?"
+    "¿Cuánto cuesta un permiso sanitario para importar medicamentos?",
+    "¿Qué tarifas hay para solicitar un permiso sanitario de exportación?",
+    "¿Cómo se modifica un permiso sanitario previamente solicitado?",
+    "¿Qué se necesita para obtener un permiso de importación de productos de aseo?",
+    "¿Cuánto se paga por un permiso sanitario de donación?"
   ]
 }

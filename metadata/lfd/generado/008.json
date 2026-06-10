@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c75bd3b2e928ac75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de servicios migratorios",
+  "denominacion_comun": "Derechos por estancia migratoria",
   "temas": [
-    "Cuotas migratorias",
-    "Derechos de estancia",
-    "Visitantes",
-    "Residentes temporales",
-    "Residentes permanentes",
-    "Requisitos migratorios"
+    "visitantes",
+    "residentes temporales",
+    "residentes permanentes",
+    "cuotas migratorias",
+    "documentos migratorios",
+    "renovación de documentos",
+    "exoneraciones",
+    "transporte aéreo"
   ],
   "terminos_coloquiales": [
-    "Cuota migratoria",
-    "Derechos de estancia",
-    "Visitantes sin permiso",
-    "Visitante Trabajador Fronterizo",
-    "Residente Temporal",
-    "Residente Permanente"
+    "carta migratoria",
+    "visitante",
+    "residente temporal",
+    "residente permanente",
+    "pago de derechos",
+    "cuotas de migración"
   ],
-  "resumen": "El artículo establece las cuotas que se deben pagar por la recepción y estudio de solicitudes para documentos migratorios que acrediten la condición de estancia en el país. También menciona exenciones y procedimientos relacionados con estas cuotas.",
+  "resumen": "Este artículo establece las cuotas que deben pagarse por la recepción y expedición de documentos migratorios, dependiendo del tipo de estancia del visitante o residente en el país. También menciona exenciones y condiciones para ciertos grupos de personas.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta el derecho de estancia para un visitante?",
-    "¿Qué se necesita para obtener un documento migratorio?",
-    "¿Cuáles son las cuotas para residentes temporales y permanentes?",
-    "¿Existen exenciones de pago de derechos migratorios?",
-    "¿Cómo se debe pagar el derecho por servicios migratorios?"
+    "¿Cuánto tengo que pagar por ser visitante sin permiso de trabajo?",
+    "¿Cuánto cuesta renovar mi documento de residente temporal?",
+    "¿Qué derechos no tengo que pagar si soy chofer de carga?",
+    "¿Cuál es la cuota para un residente permanente?",
+    "¿Cómo se paga el derecho si llego por vía aérea?"
   ]
 }

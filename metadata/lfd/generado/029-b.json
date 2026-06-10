@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e1c7491dfb2284de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por inscripción de valores",
+  "denominacion_comun": "Derechos de inscripción en el Registro Nacional de Valores",
   "temas": [
-    "Registro Nacional de Valores",
-    "inscripción de acciones",
+    "derechos de inscripción",
+    "valores",
+    "acciones",
     "títulos de crédito",
-    "cuotas por inscripción",
-    "valores fiduciarios",
+    "certificados",
+    "bonos",
+    "valores fiduciarios"
+  ],
+  "terminos_coloquiales": [
+    "inscripción de valores",
+    "derecho de inscripción",
+    "Registro Nacional de Valores",
+    "acciones",
+    "títulos de crédito",
     "bonos",
     "certificados"
   ],
-  "terminos_coloquiales": [
-    "derechos de inscripción",
-    "costo de registro",
-    "cuota por valores",
-    "Registro Nacional",
-    "inscripción de acciones",
-    "RNV"
-  ],
-  "resumen": "El artículo establece las cuotas que se deben pagar por la inscripción inicial o ampliación de valores en el Registro Nacional de Valores, dependiendo del tipo de valor emitido y su capital contable. También menciona que ciertos canjes no causarán derecho alguno por registro.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por la inscripción de diferentes tipos de valores en el Registro Nacional de Valores, incluyendo acciones, títulos de crédito y otros valores, detallando las tarifas y límites aplicables según el tipo de valor y su plazo.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por inscribir acciones en el RNV?",
-    "¿Cuáles son las cuotas por inscripción de títulos de crédito?",
-    "¿Existen costos por canjear acciones?",
-    "¿Qué pasa si aumenta mi capital social después de inscribirlo?",
-    "¿Qué cuotas se aplican a los bonos emitidos?",
-    "¿Hay descuentos si estoy traspasando valores?"
+    "¿Cuánto tengo que pagar por inscribir acciones en el Registro Nacional de Valores?",
+    "¿Qué derechos se deben cubrir para inscribir títulos de crédito?",
+    "¿Hay alguna cuota para la inscripción de bonos emitidos por el Gobierno?",
+    "¿Cómo se calcula el derecho de inscripción de valores fiduciarios?",
+    "¿Qué sucede si actualizo mis datos de inscripción de acciones?"
   ]
 }

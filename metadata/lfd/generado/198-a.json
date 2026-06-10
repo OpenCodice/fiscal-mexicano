@@ -6,19 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del artículo",
+  "denominacion_comun": "Derogación de Artículo",
   "temas": [],
-  "terminos_coloquiales": [
-    "ya no está en la ley",
-    "artículo derogado",
-    "no aplica ya"
-  ],
-  "resumen": "Este artículo ya no forma parte de la legislación fiscal, por lo que no tiene vigencia.",
+  "terminos_coloquiales": [],
+  "resumen": "El artículo en cuestión ha sido derogado, lo que significa que ya no está vigente y no tiene efecto legal.",
   "preguntas_ejemplo": [
-    "¿Qué artículos están derogados?",
-    "¿Qué significa que un artículo ya no está en la ley?",
-    "¿Cómo afecta la derogación de un artículo?"
+    "¿Qué significa que un artículo de la ley haya sido derogado?",
+    "¿Qué efectos tiene la derogación de un artículo en la legislación fiscal?",
+    "¿Puedo seguir aplicando lo que decía el Artículo 198-A si fue derogado?"
   ]
 }

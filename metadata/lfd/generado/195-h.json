@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:752ed0461e4ea49d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de certificación sanitaria",
+  "denominacion_comun": "Derechos por certificación sanitaria",
   "temas": [
-    "trámite de solicitudes",
-    "certificados para exportación",
-    "servicios de certificación",
+    "trámites de certificación",
+    "exportación de alimentos",
+    "certificados de salud",
     "análisis de laboratorio",
-    "productos alimenticios",
-    "materias primas",
-    "modificación de certificados"
+    "cobros de derechos",
+    "productos de consumo",
+    "corrección de certificados"
   ],
   "terminos_coloquiales": [
-    "derechos de exportación",
-    "certificados de salud",
-    "trámites de certificación",
-    "costo de análisis de productos"
+    "certificación sanitaria",
+    "derechos de certificación",
+    "análisis de laboratorio",
+    "certificado de salud"
   ],
-  "resumen": "Se establece el pago de derechos por los trámites y certificados necesarios para exportar alimentos y productos relacionados. Incluye costos específicos para diferentes tipos de certificados y análisis.",
+  "resumen": "Este artículo establece los derechos que se pagan por los servicios relacionados con la certificación sanitaria de alimentos, bebidas y otros productos. Incluye cobros específicos por trámites de certificados, análisis de laboratorio y modificaciones a certificados vigentes.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un certificado para exportar alimentos?",
-    "¿Qué derechos se pagan para hacer trámites de certificación sanitaria?",
-    "¿Hay un costo extra por análisis de laboratorio?",
-    "¿Cómo se corrige un certificado sanitario ya expedido?",
-    "¿Qué productos requieren certificación sanitaria para exportación?"
+    "¿Cuánto se paga por un certificado sanitario para exportar alimentos?",
+    "¿Qué costos hay por análisis de laboratorio para certificados?",
+    "¿Hay alguna tarifa por corregir un certificado sanitario?",
+    "¿Se puede evitar pagar derecho si el análisis es en un laboratorio privado?",
+    "¿Qué productos requieren certificación sanitaria?"
   ]
 }

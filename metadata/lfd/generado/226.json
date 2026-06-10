@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:403b02f95033c8b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos sobre agua",
   "temas": [
     "cálculo de derechos",
-    "declaración trimestral",
-    "pago de derechos",
+    "pago trimestral",
+    "declaración definitiva",
     "lectura de medidores",
-    "aprovechamiento de agua"
+    "aprovechamiento de agua",
+    "documentación comprobatoria"
   ],
   "terminos_coloquiales": [
-    "cómo pagar derechos de agua",
+    "derechos de agua",
+    "pago de agua",
     "declaración de agua",
-    "calcular derecho por agua",
-    "lectura de medidor de agua"
+    "medidor de agua",
+    "aguas nacionales"
   ],
-  "resumen": "El contribuyente debe calcular y pagar trimestralmente los derechos por el agua utilizada. Esto implica presentar una declaración y realizar lecturas del medidor al final de cada trimestre para determinar el volumen de agua aprovechado.",
+  "resumen": "El contribuyente debe calcular y pagar los derechos sobre el agua trimestralmente, presentando una declaración definitiva. También debe llevar un control de las lecturas del medidor y reportar sus aprovechamientos de agua a la Comisión Nacional del Agua.",
   "preguntas_ejemplo": [
-    "¿Cómo hago para pagar los derechos de agua?",
-    "¿Qué debo incluir en mi declaración de derechos sobre agua?",
-    "¿Cuándo tengo que presentar la declaración de derechos de agua?",
-    "¿Cómo se calcula el derecho por el agua que usé?",
-    "¿Qué documentos necesito para comprobar el pago de derechos de agua?"
+    "¿Cómo se calcula el derecho sobre el agua?",
+    "¿Cuándo debo pagar los derechos de agua?",
+    "¿Qué información debo incluir en la declaración de agua?",
+    "¿Qué documentación necesito para comprobar el pago de derechos de agua?",
+    "¿Cómo hago la lectura del medidor de agua?"
   ]
 }

@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:56ba71c11b92b932",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho por uso de inmuebles federales",
+  "denominacion_comun": "Derechos por uso de bienes del dominio público",
   "temas": [
-    "obligaciones fiscales",
-    "derechos por uso de inmuebles",
-    "tasas y cuotas",
-    "avaluos",
+    "derechos",
+    "inmuebles",
+    "bienes nacionales",
+    "concesiones",
+    "permisionados",
+    "avalúos",
+    "actividades económicas",
     "exenciones"
   ],
   "terminos_coloquiales": [
-    "pago por uso de propiedades federales",
-    "tasas de derecho por inmuebles",
-    "derechos por aprovecho de bienes federales",
-    "cuotas por terrenos federales"
+    "derechos por uso de inmuebles",
+    "cuotas por concesión",
+    "derechos de uso",
+    "avalúo inmobiliario",
+    "espacios en bienes federales"
   ],
-  "resumen": "Las personas físicas y morales que usan o gozan bienes del dominio público federal deben pagar un derecho que varía según el tipo de inmueble y su uso. Existen diferentes tasas anuales y un sistema de avalúos para determinar el valor de los inmuebles.",
+  "resumen": "Este artículo establece las obligaciones de pago de derechos por el uso y aprovechamiento de inmuebles del dominio público federal, incluyendo diferentes tasas según el tipo de actividad que se realice. También determina quiénes están exentos de estos pagos.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por el uso de un inmueble federal?",
-    "¿Qué tipo de inmuebles están sujetos al derecho de uso?",
-    "¿Existen exenciones al pago por uso de bienes federales?",
-    "¿Cómo se determina el valor de un inmueble concesionado?",
-    "¿Qué tasas se aplican según el uso del inmueble?"
+    "¿Cuánto tengo que pagar por usar un inmueble federal?",
+    "¿Qué derechos se aplican para la concesión de tierras?",
+    "¿Quiénes están exentos de pagar derechos por uso de inmuebles?",
+    "¿Cómo se determina el valor de un inmueble para el derecho a pagar?",
+    "¿Qué porcentaje se paga por actividades agropecuarias en inmuebles federales?"
   ]
 }

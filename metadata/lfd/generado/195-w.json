@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b37b3216ffd5756b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios militares",
+  "denominacion_comun": "Derechos por Servicio Militar",
   "temas": [
-    "servicio militar nacional",
-    "permisos",
-    "duplicados de cartilla",
-    "corrección de datos"
+    "servicio militar",
+    "permisos de salida",
+    "cartilla militar",
+    "corrección de datos",
+    "duplicado de cartilla",
+    "oficios para mayores de 40"
   ],
   "terminos_coloquiales": [
-    "derechos servicio militar",
-    "pago permiso para salir del país",
-    "corrección de cartilla militar",
-    "duplicado de cartilla"
+    "servicio militar",
+    "permisos para salir del país",
+    "cartilla",
+    "duplicado de cartilla",
+    "oficio para el servicio militar"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por ciertos servicios relacionados con el servicio militar nacional, como permisos para salir del país y la expedición de duplicados de cartilla. También se incluye el costo por corregir datos en la cartilla militar.",
+  "resumen": "Se establecen derechos que se deben pagar por diversas gestiones relacionadas con el servicio militar nacional, como permisos para salir del país y la corrección de datos en la cartilla. También se indica el costo por la expedición de duplicados de la cartilla y la elaboración de oficios para quienes no obtuvieron la cartilla a pesar de ser mayores de 40 años.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta el permiso para salir del país?",
+    "¿Cuánto cuesta el permiso para salir del país relacionado con el servicio militar?",
     "¿Qué debo pagar si necesito un duplicado de mi cartilla militar?",
-    "¿Cuánto sale corregir los datos en mi cartilla del servicio militar?",
-    "¿Qué servicios están relacionados con el servicio militar que requieren pago?"
+    "¿Cómo puedo corregir mis datos de la cartilla militar y cuánto cuesta?",
+    "¿Qué tarifas hay para mayores de 40 años que no obtuvieron la cartilla?",
+    "¿Qué servicios militares requieren un pago adicional?"
   ]
 }

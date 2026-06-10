@@ -6,35 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0bfd9943b7b686e8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medición de aguas residuales",
+  "denominacion_comun": "Descarga de Aguas Residuales",
   "temas": [
-    "cálculo volumen de agua",
-    "lecturas de medidor",
-    "medidores de agua",
-    "descarga de aguas residuales",
-    "responsabilidades del contribuyente",
-    "conexiones de drenaje",
-    "promedio de descarga",
-    "acceso a información",
-    "Comisión Nacional del Agua"
+    "medición de aguas residuales",
+    "aparatología de medición",
+    "informes a la Comisión Nacional del Agua",
+    "promedio de volumen descargado",
+    "drenaje y alcantarillado",
+    "consultas en línea",
+    "responsabilidad del contribuyente"
   ],
   "terminos_coloquiales": [
-    "cómo medir aguas residuales",
-    "lectura de medidor de agua",
-    "descarga de agua",
-    "reglas de aguas residuales",
-    "problemas con medidores",
-    "agua no residual"
+    "descarga de aguas",
+    "medidor de agua",
+    "volumen de agua",
+    "aguas residuales",
+    "Comisión Nacional del Agua",
+    "CNA"
   ],
-  "resumen": "Este artículo establece cómo los contribuyentes deben calcular el volumen de agua residual descargada y qué responsabilidades tienen en cuanto a la medición y reportes. También se menciona qué hacer si no se puede medir el volumen debido a problemas con el medidor.",
+  "resumen": "Este artículo establece que los contribuyentes deben medir el volumen de agua residual descargada y mantener en funcionamiento un aparato de medición. Además, detalla las responsabilidades sobre el acceso y mantenimiento del medidor, así como las consecuencias de no poder medir las descargas.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el volumen de aguas residuales?",
-    "¿Qué hacer si mi medidor de agua no funciona?",
-    "¿Cómo se reporta una descompostura del medidor?",
-    "¿Qué responsabilidades tengo al descargar aguas residuales?",
-    "¿Puedo ver mis lecturas de agua por Internet?",
-    "¿Cómo determinar el volumen de descarga si estoy conectado a otros contribuyentes?"
+    "¿Cómo se mide el volumen de aguas residuales que descargo?",
+    "¿Qué debo hacer si mi medidor de agua no funciona?",
+    "¿Puedo consultar mis descargas de agua en línea?",
+    "¿Qué pasa si no separe el agua no residual en la descarga?",
+    "¿Cómo se calcula el volumen de aguas residuales si estoy conectado a otro contribuyente?",
+    "¿Qué información debo informar a la Comisión Nacional del Agua?"
   ]
 }

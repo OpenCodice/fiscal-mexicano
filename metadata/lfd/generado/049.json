@@ -6,34 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:99158508d22c417b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos de trámite aduanero",
   "temas": [
-    "derechos aduaneros",
+    "trámite aduanero",
     "importación",
     "exportación",
+    "cuotas aduaneras",
     "pedimentos",
-    "cuotas",
     "mercancías exentas",
-    "recintos fiscalizados",
-    "rectificación de pedimentos"
+    "maquiladoras",
+    "programas de exportación",
+    "depósitos fiscales"
   ],
   "terminos_coloquiales": [
-    "tarifa de aduana",
-    "costo de importación",
-    "cargo aduanero",
-    "derechos de aduana",
-    "cuota de importación",
-    "impuestos de exportación"
+    "derechos aduaneros",
+    "pedimento",
+    "cuotas aduaneras",
+    "importar",
+    "exportar",
+    "maquiladora",
+    "IMMEX"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por los trámites aduaneros relacionados con importaciones y exportaciones, dependiendo del tipo de mercancía y operación. También menciona los casos en que no se aplican dichos derechos.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por los derechos de trámite aduanero en importaciones y exportaciones, incluyendo diferentes tasas dependiendo del tipo de mercancía y el régimen aplicable. También se mencionan las condiciones bajo las cuales se deben pagar estos derechos y la destinción de los mismos.",
   "preguntas_ejemplo": [
-    "¿Cuál es la tarifa para importar mercancías?",
-    "¿Cuánto se paga por un pedimento de exportación?",
-    "¿Qué se considera mercancía exenta de derechos aduaneros?",
-    "¿Cómo se determinan los derechos aduaneros para maquiladoras?",
-    "¿Qué cargos se aplican al rectificar un pedimento?",
-    "¿Qué cuota se aplica si exporto a un país extranjero?"
+    "¿Cuánto tengo que pagar por el trámite aduanero al importar?",
+    "¿Qué tasas aplican para exportar mercancías?",
+    "¿Qué tipos de pedimentos existen y cuánto cuestan?",
+    "¿Hay cuotas especiales para maquiladoras?",
+    "¿Cómo se determina el derecho de trámite para mercancías exentas?"
   ]
 }

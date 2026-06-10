@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4320e722411b7ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de inscripción y permisos sanitarios",
+  "denominacion_comun": "Derechos por Inscripciones y Certificaciones Sanitarias",
   "temas": [
-    "Derechos de inscripción",
-    "Permisos sanitarios",
-    "Servicios de salud",
-    "Trámites sanitarios",
-    "Licencias de funcionamiento",
-    "Inspección y vigilancia"
+    "inscripciones sanitarias",
+    "derechos por dictámenes",
+    "licencias sanitarias",
+    "certificados de bacteriología",
+    "control de plagas",
+    "fuentes de radiación",
+    "sustancias tóxicas"
   ],
   "terminos_coloquiales": [
-    "costos de permisos de salud",
-    "tarifas por inscripciones sanitarias",
-    "cuotas para licencias sanitarias",
-    "precios de trámites de salud"
+    "inscripción de actos médicos",
+    "dictámenes de seguros de salud",
+    "licencia sanitaria",
+    "certificado de efectividad bacteriológica",
+    "servicios de fumigación",
+    "licencia para plaguicidas",
+    "fuentes de radiación médica"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la inscripción de actos jurídicos relacionados con la salud, así como los derechos por la emisión de dictámenes y permisos en materia sanitaria. Se especifican varias tarifas para diferentes tipos de trámites y servicios.",
+  "resumen": "Este artículo establece las cuotas que deben pagarse por la inscripción de actos jurídicos, emisión de dictámenes para instituciones de seguros, licencias sanitarias y certificaciones relacionadas con sanidad. Se especifican distintas tarifas según el tipo de trámite o servicio requerido.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un permiso sanitario?",
-    "¿Qué tarifas hay para inscripciones en salud?",
-    "¿Cómo se determinan los costos de licencias sanitarias?",
-    "¿Qué derechos se tienen que pagar por servicios de salud?",
-    "¿Cuáles son las cuotas por dictámenes para instituciones de salud?"
+    "¿Cuánto tengo que pagar por la inscripción de una licencia sanitaria?",
+    "¿Qué tarifas se aplican para obtener un dictamen de seguro especializado en salud?",
+    "¿Cuáles son los costos por una licencia para fumigación?",
+    "¿Qué derechos debo pagar por un certificado de efectividad bacteriológica?"
   ]
 }

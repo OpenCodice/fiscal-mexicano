@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd7f5e7971639fbc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Concesiones y permisos",
+  "denominacion_comun": "Concesiones y Permisos",
   "temas": [
     "concesiones",
     "permisos",
@@ -16,17 +17,16 @@
     "inspecciones"
   ],
   "terminos_coloquiales": [
-    "permisos fiscales",
-    "concesiones fiscales",
-    "tipos de permisos",
-    "inspecciones fiscales"
+    "permisos administrativos",
+    "concesiones gubernamentales",
+    "autorizaciones fiscales"
   ],
-  "resumen": "Esta disposición trataba sobre concesiones, permisos y autorizaciones, pero ha sido derogada.",
+  "resumen": "La disposición sobre concesiones, permisos y autorizaciones ha sido derogada, por lo que ya no se regulan estos temas en este contexto. Los usuarios deben buscar otros artículos vigentes para sus consultas.",
   "preguntas_ejemplo": [
-    "¿Qué son las concesiones fiscales?",
-    "¿Cómo se obtienen los permisos fiscales?",
-    "¿Qué implica una inspección fiscal?",
-    "¿Qué pasó con la regulación de permisos?",
-    "¿Qué son las autorizaciones fiscales?"
+    "¿Qué son las concesiones y cómo se obtienen?",
+    "¿Qué permisos necesito para operar un negocio?",
+    "¿Cómo funciona el proceso de autorizaciones fiscales?",
+    "¿Cuáles son las inspecciones a las que estoy sujeto?",
+    "¿Dónde puedo encontrar información sobre concesiones vigentes?"
   ]
 }

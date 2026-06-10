@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:604b1ee81c7f7b74",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por estaciones terrenas",
+  "denominacion_comun": "Modificaciones de autorizaciones de estaciones terrenas",
   "temas": [
-    "modificaciones técnicas",
-    "permisos",
     "derechos",
+    "autorizaciones",
     "estaciones terrenas",
-    "señales satelitales"
+    "transmisiones satelitales",
+    "modificaciones técnicas",
+    "cambio de titularidad",
+    "ampliación de plazos"
   ],
   "terminos_coloquiales": [
-    "costo por permisos de satélite",
-    "cuotas para estaciones de transmisión",
+    "pago de derechos",
     "cambio de titularidad",
-    "derechos de operación satelital"
+    "modificaciones de permisos",
+    "estaciones satelitales",
+    "estaciones terrenas"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la modificación y obtención de permisos para estaciones terrenas que transmiten señales satelitales. Las tarifas varían según el tipo de solicitud que se realice.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por las solicitudes de modificaciones a las autorizaciones de estaciones terrenas que transmiten señales satelitales. Incluye pagos por cambios de titularidad, ampliaciones de plazos y modificaciones técnicas.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta modificar un permiso de estación terrena?",
-    "¿Qué derechos se tienen que pagar para operar estaciones satelitales?",
-    "¿Cómo puedo cambiar la titularidad de un permiso de estación terrena?",
-    "¿Qué tarifas hay por ampliación de plazos en permisos satelitales?",
-    "¿Cuáles son las modificaciones que se pueden solicitar para estaciones de transmisión?"
+    "¿Cuánto tengo que pagar por cambiar la titularidad de mi estación terrena?",
+    "¿Qué derechos debo cubrir para modificar mi autorización de estación satelital?",
+    "¿Cuáles son las cuotas por ampliar el plazo de mi permiso de transmisión?",
+    "¿Qué se necesita para realizar modificaciones en mi estación terrena?",
+    "¿Hay algún costo por modificaciones técnicas en estaciones de transmisión?"
   ]
 }

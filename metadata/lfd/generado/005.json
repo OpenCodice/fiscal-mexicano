@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14f9f48258bfedb2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios públicos",
+  "denominacion_comun": "Derechos por servicios de Secretarías de Estado",
   "temas": [
-    "expedición de copias certificadas",
-    "reposiciones de documentos",
+    "copias certificadas",
+    "constancias",
+    "duplicados",
     "compulsa de documentos",
-    "legalización de firmas",
-    "servicios fuera de la localidad"
+    "legalización de firmas"
   ],
   "terminos_coloquiales": [
-    "derechos por documentos",
-    "cobros por servicios públicos",
-    "expedición de documentos",
-    "copias certificadas",
-    "certificación de documentos"
+    "copia certificada",
+    "constancia",
+    "duplicado",
+    "compulsa",
+    "documentos oficiales"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por la expedición de diversos documentos y servicios prestados por las Secretarías de Estado. Algunos servicios tienen exenciones de pago en ciertos casos, como aquellos relacionados con asuntos oficiales o solicitudes de Partidos Políticos.",
+  "resumen": "Este artículo establece las tarifas por derechos de servicios prestados por las Secretarías de Estado, como la expedición de copias certificadas y otros documentos. También menciona exenciones en ciertos casos, como solicitudes de documentos por partes oficiales o por la relación laboral.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener una copia certificada de un documento?",
-    "¿Hay algún costo por reponer un documento perdido?",
-    "¿Se cobran derechos por copias solicitadas por un partido político?",
-    "¿Qué tarifas aplican para la legalización de firmas?",
-    "¿Cuáles son los costos de los servicios ofrecidos fuera de la localidad?"
+    "¿Cuánto cuesta una copia certificada?",
+    "¿Qué derechos se pagan por documentos oficiales?",
+    "¿Hay exenciones en los derechos por servicios de las Secretarías?",
+    "¿Cómo se paga por la reposición de un documento?",
+    "¿Qué ocurre si no se pueden pagar los derechos por causas ajenas?"
   ]
 }

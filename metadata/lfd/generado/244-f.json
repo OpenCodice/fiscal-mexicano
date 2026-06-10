@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0c4204e42bd4fad7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por bandas de frecuencias",
+  "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
   "temas": [
     "concesiones",
     "permisos",
-    "frecuencias",
+    "bandas de frecuencia",
     "espectro radioeléctrico",
     "cuotas",
-    "área de cobertura",
-    "población"
+    "derechos anuales",
+    "cálculo de derechos"
   ],
   "terminos_coloquiales": [
-    "derechos de uso de frecuencias",
-    "costos de espectro radioeléctrico",
-    "concesiones de radio",
-    "pago de permisos de frecuencias"
+    "uso del espectro",
+    "derechos del espectro",
+    "frecuencias",
+    "concesiones de frecuencias"
   ],
-  "resumen": "Los concesionarios y permisionarios de bandas de frecuencias deben pagar derechos anuales por su uso, dependiendo de la región y los rangos de frecuencia. El monto se calcula según tablas que determinan las cuotas por cada kilohertz concesionado.",
+  "resumen": "Los concesionarios y permisionarios de bandas del espectro radioeléctrico deben pagar anualmente derechos por el uso de estas bandas. Las cuotas varían según la región y el rango de frecuencias asignado.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por mi concesión de frecuencia?",
-    "¿Qué cuotas aplican para las frecuencias en mi estado?",
-    "¿Cómo se calcula el derecho por uso de frecuencias?",
-    "¿Qué pasa si mi concesión abarca varias regiones?",
-    "¿Cómo influye la población en el cálculo de derechos?"
+    "¿Cuánto debo pagar por el uso de una frecuencia del espectro radioeléctrico?",
+    "¿Cómo se calcula la cuota por concesión de frecuencias?",
+    "¿Qué regiones tienen diferentes tarifas para el uso del espectro?",
+    "¿Qué sucede si mi concesión cubre varias regiones?",
+    "¿Qué criterios se utilizan para determinar la cuota de derechos anuales?"
   ]
 }

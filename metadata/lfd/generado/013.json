@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:63ebbe10766af2f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por certificaciones y permisos",
+  "denominacion_comun": "Derechos por Certificados y Autorizaciones",
   "temas": [
     "derechos",
     "certificados",
     "permisos",
-    "constancias",
     "autorizaciones",
     "situación migratoria",
-    "residente temporal",
-    "actividades remuneradas"
+    "Residencia Temporal",
+    "empleador",
+    "visitas a embarcaciones"
   ],
   "terminos_coloquiales": [
-    "derechos migratorios",
     "certificados migratorios",
     "permisos de salida",
-    "constancias de inscripción",
-    "autorización de salida",
-    "RT (Residente Temporal)"
+    "constancias",
+    "autorizaciones laborales",
+    "residencia temporal",
+    "exención de cuotas",
+    "visitas a barcos"
   ],
-  "resumen": "Se establecen las tarifas que deben pagarse por la recepción de solicitudes y la expedición de ciertos documentos migratorios. Estos incluyen certificados sobre situación migratoria, permisos de salida y autorizaciones para actividades laborales de residentes temporales.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por la expedición de diversos certificados, permisos, constancias y autorizaciones relacionadas con la situación migratoria de personas. Además, menciona exenciones para ciertos extranjeros bajo convenios internacionales.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un certificado de situación migratoria?",
-    "¿Cuáles son los derechos por un permiso de salida?",
-    "¿Qué autorizaciones necesita un residente temporal para trabajar?",
-    "¿Existen exenciones para pagar derechos de permisos?",
-    "¿Cómo se obtienen constancias de inscripción de empleador?"
+    "¿Cuánto cuesta obtener un certificado de situación migratoria?",
+    "¿Qué tarifas hay para permisos de salida y regreso al país?",
+    "¿Hay alguna cuota por autorización para realizar actividades laborales?",
+    "¿Existen exenciones de cuotas para residentes temporales?",
+    "¿Cuánto debo pagar por una constancia de inscripción de empleador?",
+    "¿Cuál es el costo para visitas a embarcaciones en navegación?"
   ]
 }

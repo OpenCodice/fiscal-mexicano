@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3170f08e64a892e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas por Evaluación Ambiental",
+  "denominacion_comun": "Cuotas por autorizaciones ambientales",
   "temas": [
     "Documento Técnico Unificado",
     "Impacto Ambiental",
-    "Recursos Forestales",
-    "Autorización Sanitaria"
+    "Recursos forestales",
+    "Autorizaciones",
+    "Cuotas"
   ],
   "terminos_coloquiales": [
-    "cuota por impacto ambiental",
-    "pago por evaluación ambiental",
-    "costos de permisos ambientales",
-    "recursos forestales"
+    "cuota de impacto ambiental",
+    "pago por recursos forestales",
+    "modificación de documento técnico",
+    "autorización ambiental"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la evaluación y autorización del Documento Técnico Unificado en cuestiones de impacto ambiental y el aprovechamiento de recursos forestales. También menciona el costo de modificar dicho documento.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la recepción y evaluación del Documento Técnico Unificado relacionado con el impacto ambiental y el aprovechamiento de recursos forestales. También se menciona un costo adicional por la modificación de dicho documento.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por la evaluación de impacto ambiental?",
-    "¿Qué es el Documento Técnico Unificado?",
-    "¿Cuáles son las cuotas por autorización ambiental?",
-    "¿Cómo se modifica un Documento Técnico Unificado?",
-    "¿Qué permisos se necesitan para usar recursos forestales?"
+    "¿Cuánto se paga por un Documento Técnico Unificado?",
+    "¿Qué cuota se aplica para modificar una autorización ambiental?",
+    "¿Qué incluye la cuota por impacto ambiental?",
+    "¿Cómo se solicita el aprovechamiento de recursos forestales?"
   ]
 }

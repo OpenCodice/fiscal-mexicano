@@ -6,17 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo derogado",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado y ya no está en vigor.",
+  "denominacion_comun": "Derogación del Artículo 29-C",
+  "temas": [
+    "derogación",
+    "normativa fiscal",
+    "legislación",
+    "cumplimiento fiscal"
+  ],
+  "terminos_coloquiales": [
+    "se eliminó",
+    "ya no aplica",
+    "artículo derogado"
+  ],
+  "resumen": "El artículo 29-C ha sido derogado, lo que significa que ya no forma parte de la legislación vigente. Por lo tanto, las disposiciones que contenía ya no son aplicables.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 29-C?",
-    "¿Está vigente el Artículo 29-C de la LFD?",
-    "¿Por qué se derogó el Artículo 29-C?",
-    "¿Qué implica la derogación del Artículo 29-C?",
-    "¿Cuáles son las consecuencias de la derogación del Artículo 29-C?"
+    "¿Qué significa que el Artículo 29-C esté derogado?",
+    "¿Cuáles son las implicaciones de la derogación del Artículo 29-C?",
+    "¿Hay algún documento que reemplace lo que decía el Artículo 29-C?",
+    "¿Qué disposiciones ya no están vigentes después de la derogación del Artículo 29-C?"
   ]
 }

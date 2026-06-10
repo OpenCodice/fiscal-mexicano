@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:782a50bc199f8904",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de uso de espectro radioeléctrico",
+  "denominacion_comun": "Derechos por uso de espectro radioeléctrico",
   "temas": [
-    "concesionarios",
-    "posiciones orbitales",
+    "concesiones",
     "espectro radioeléctrico",
-    "megahertz",
+    "telecomunicaciones",
     "cuotas",
-    "pago de derechos",
-    "telecomunicaciones"
+    "megahercios",
+    "pago de derechos"
   ],
   "terminos_coloquiales": [
-    "pago por megahertz",
-    "cuotas de espectro",
-    "derechos de concesionarios",
-    "uso de banda C y Ku",
-    "cobro de frecuencias"
+    "uso de frecuencias",
+    "telecomunicaciones satelitales",
+    "concesionarios",
+    "derechos de uso",
+    "espectro",
+    "megahercios"
   ],
-  "resumen": "El artículo establece que los concesionarios que usan posiciones orbitales y frecuencias satelitales deben pagar por el uso del espectro radioeléctrico. Las cuotas dependen de la banda utilizada y se deben pagar en plazos específicos.",
+  "resumen": "Los concesionarios de posiciones orbitales deben pagar derechos por el uso del espectro radioeléctrico en México, calculados según los megahercios utilizados. Los pagos se hacen en dos periodos al año y deben cumplir con los requisitos establecidos por la Comisión Reguladora de Telecomunicaciones.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por usar frecuencias satelitales?",
-    "¿Qué cuotas aplican para las bandas C y Ku?",
-    "¿Cómo se calcula el pago de derechos por megahertz?",
-    "¿Cuándo tengo que realizar el pago de derechos?",
+    "¿Cuánto debo pagar por el uso de megahercios?",
+    "¿Cómo se calculan los derechos por el uso de frecuencias?",
+    "¿Cuándo tengo que pagar los derechos de uso del espectro?",
+    "¿Qué requisitos debo cumplir para pagar los derechos por megahercios?",
     "¿Puedo acreditar los pagos por uso de frecuencias?"
   ]
 }

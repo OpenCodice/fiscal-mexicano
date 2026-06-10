@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d5edf349af5b056b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de derechos de pesca",
+  "denominacion_comun": "Exenciones de Derechos de Pesca",
   "temas": [
     "derechos de pesca",
-    "consumo doméstico",
+    "pesca de consumo",
     "pesca de fomento",
-    "investigación pesquera",
     "introducción de especies",
     "pesca didáctica"
   ],
   "terminos_coloquiales": [
-    "no pagar por pescar",
-    "pesca gratuita",
-    "pesca en escuelas",
+    "derechos de pesca",
     "pesca para consumo",
-    "pesca de investigación"
+    "pesca fomento",
+    "pesca educativa"
   ],
-  "resumen": "No se deben pagar derechos de pesca en ciertos casos como el consumo doméstico, la pesca para enseñanza e investigación, y la introducción de especies nativas en cuerpos de agua. También se incluye la pesca didáctica realizada por instituciones educativas.",
+  "resumen": "El artículo establece que no se pagarán derechos de pesca en casos como la pesca de consumo doméstico, la pesca de fomento para centros de enseñanza y la pesca didáctica en instituciones educativas. También se exime por la introducción de especies nativas en cuerpos de agua.",
   "preguntas_ejemplo": [
-    "¿Cuándo no se pagan derechos de pesca?",
-    "¿Hay exenciones para la pesca en escuelas?",
-    "¿Puedo pescar sin pagar si es para mi consumo?",
-    "¿Qué tipos de pesca no requieren el pago de derechos?",
-    "¿Qué entidades están exentas de pagar derechos por pesca?"
+    "¿Cuándo no se tienen que pagar derechos de pesca?",
+    "¿Qué tipos de pesca están exentos de derechos?",
+    "¿Las escuelas tienen que pagar derechos de pesca?",
+    "¿Se eximen derechos de pesca por la introducción de especies en cuerpos de agua?",
+    "¿Qué es la pesca didáctica y quiénes la realizan?"
   ]
 }

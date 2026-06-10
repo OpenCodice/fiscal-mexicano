@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2d19411baf39790",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de Registro Público de la Propiedad",
+  "denominacion_comun": "Derechos de Registro Público de la Propiedad Federal",
   "temas": [
-    "derechos",
-    "registro público",
+    "certificados de libertad",
+    "certificados de inscripción",
+    "gravámenes",
     "bienes inmuebles",
-    "certificados",
-    "copia certificada"
+    "derechos registrales",
+    "copia certificada",
+    "asientos registrales"
   ],
   "terminos_coloquiales": [
-    "costo de registro",
-    "tarifas de propiedad",
-    "certificados de libertad",
+    "registro de propiedad",
+    "certificado de propiedad",
     "copia de documentos",
-    "cuotas de registro público"
+    "libertad de gravámenes"
   ],
-  "resumen": "Se establecen las cuotas que se deben pagar por los servicios relacionados con el registro de bienes inmuebles de la Federación y entidades públicas. Este artículo detalla los costos para la expedición de diferentes certificados y copias relacionadas con el registro.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por servicios relacionados con el Registro Público de la Propiedad Federal, incluyendo la expedición de certificados y copias certificadas. Existen exenciones para ciertas autoridades en funciones de justicia.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta registrar un bien inmueble?",
-    "¿Qué tarifas hay para certificados de propiedad?",
-    "¿Qué documentos requieren pago en el Registro Público?",
-    "¿Existen exenciones para el poder legislativo en registro?",
-    "¿Cuánto se paga por copias certificadas en el registro?"
+    "¿Cuánto cuesta obtener un certificado de libertad?",
+    "¿Qué derechos se pagan por la inscripción de propiedad?",
+    "¿Hay exenciones de pago para autoridades judiciales?",
+    "¿Qué es un asiento registral en folio real?",
+    "¿Cómo se obtiene una copia certificada de un documento inscrito?"
   ]
 }

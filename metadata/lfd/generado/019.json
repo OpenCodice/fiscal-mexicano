@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:336e43f50c72e729",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificados de licitud de publicaciones",
+  "denominacion_comun": "Derechos por certificados de publicaciones",
   "temas": [
-    "derechos",
     "certificados de licitud",
+    "derechos",
     "publicaciones",
     "revistas",
-    "duplicado"
+    "duplicados",
+    "registro de editor responsable"
   ],
   "terminos_coloquiales": [
-    "costos de certificados",
-    "licitud de títulos",
     "derechos de publicación",
-    "certificados de contenido",
-    "duplicados de certificado",
-    "artículo 19"
+    "certificado de licitud de título",
+    "certificado de licitud de contenido",
+    "duplicado de certificado",
+    "cambio de editor responsable"
   ],
-  "resumen": "Se deben pagar derechos por la expedición de certificados de licitud para títulos y contenidos de publicaciones y revistas, así como por sus duplicados. Las cuotas varían según el tipo de certificado solicitado.",
+  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición de certificados de licitud de título y contenido para publicaciones y revistas, así como por el duplicado de dichos certificados y el registro de cambios de editor responsable.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta un certificado de licitud de título?",
-    "¿Qué derechos debo pagar para un duplicado de certificado?",
-    "¿Cuáles son las tarifas para certificados de licitud de contenido?",
-    "¿Hay algún pago por el registro de cambio de editor responsable?",
-    "¿Qué implica el artículo 19 sobre publicaciones?"
+    "¿Cuánto cuesta obtener un certificado de licitud de título?",
+    "¿Cuáles son los derechos que debo pagar por un duplicado de certificado?",
+    "¿Qué pago debo hacer para cambiar el editor responsable de una revista?",
+    "¿Dónde puedo ver las cuotas por certificados de licitud de contenido?",
+    "¿Qué se necesita para expedir un certificado de licitud de título?"
   ]
 }

@@ -6,24 +6,16 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
-  "temas": [
-    "derogación",
-    "ley fiscal",
-    "disposición",
-    "LFD"
-  ],
-  "terminos_coloquiales": [
-    "se quitó un artículo",
-    "artículo derogado",
-    "cambio en la ley"
-  ],
-  "resumen": "El artículo ha sido derogado, lo que significa que ya no está en vigencia. No hay obligaciones ni derechos establecidos en este artículo.",
+  "denominacion_comun": "Derogación",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor y no tiene efectos legales.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 65-A?",
-    "¿Está vigente el artículo 65-A de la ley?",
-    "¿Qué significa que un artículo sea derogado?"
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Este artículo todavía se aplica a los casos actuales?",
+    "¿Dónde puedo encontrar información sobre artículos que han sido derogados?"
   ]
 }

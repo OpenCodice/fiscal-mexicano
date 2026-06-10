@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da47e01f2304fe4c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación Presuntiva de Agua",
+  "denominacion_comun": "Determinación presuntiva de agua",
   "temas": [
-    "Derecho de Agua",
-    "Determinación Presuntiva",
-    "Volumen de Agua",
-    "Cálculo de Energía",
-    "Comprobación Fiscal"
+    "volumen de agua",
+    "derecho de agua",
+    "facturación de energía",
+    "eficacia de medición",
+    "órganos fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo se calcula el agua que uso",
-    "determinación de agua para contribuyentes",
-    "cálculo de derechos de agua",
+    "agua",
     "volumen de agua estimado",
-    "medición de agua en agricultura"
+    "facturación eléctrica",
+    "comisión de agua",
+    "SAT",
+    "agua nacional"
   ],
-  "resumen": "Este artículo establece cómo se calcula el volumen de agua estimado que un contribuyente puede extraer, tomando en cuenta diferentes métodos de medición y documentación presentada ante las autoridades. Se incluyen fórmulas y promedios para determinar el consumo de energía que influye en el cálculo del agua utilizada.",
+  "resumen": "El artículo establece cómo se calculará el derecho de agua a través de diferentes métodos, incluyendo la revisión de registros de lecturas de medidores y el promedio de consumo de energía facturada. Se determina el volumen de agua estimado extraído en base a fórmulas específicas y se consideran datos de la Comisión Nacional del Agua o del Servicio de Administración Tributaria.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el volumen de agua que puedo extraer?",
-    "¿Qué información necesito para calcular mis derechos de agua?",
-    "Si no tengo el consumo de energía, ¿cómo calculo el uso de agua?",
-    "¿Qué pasa si el volumen de agua de mi permiso es menor que el que tiene la autoridad?",
-    "¿Qué métodos tiene la autoridad fiscal para comprobar mi uso de agua?"
+    "¿Cómo se calcula el volumen de agua que puedo usar según mi permiso?",
+    "¿Qué datos se consideran para la determinación presuntiva de agua?",
+    "¿Qué pasa si no tengo información de mi consumo de energía para el cálculo?",
+    "¿Cómo afecta mi título de asignación al cálculo del volumen de agua?",
+    "¿Qué hace la autoridad fiscal si duda de la información que proporciono?"
   ]
 }

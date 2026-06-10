@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:647df920440138ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de autor y sus tarifas",
+  "denominacion_comun": "Derechos de Autor",
   "temas": [
-    "derechos de autor",
-    "cuotas",
-    "registro de obras",
-    "inscripción",
-    "contratos",
-    "certificados",
-    "títulos",
-    "personajes ficticios"
+    "cuotas por registro",
+    "obras literarias",
+    "obras artísticas",
+    "fonogramas",
+    "videogramas",
+    "sociedades de gestión colectiva",
+    "ISBN",
+    "certificados de derechos"
   ],
   "terminos_coloquiales": [
-    "pagos por derechos de autor",
-    "tarifas de registro de obras",
-    "costos de inscripción de contratos",
-    "derechos de autor en México",
-    "cuotas por servicios de derecho de autor"
+    "registro de derechos de autor",
+    "cobros por derechos de autor",
+    "obras literarias o artísticas",
+    "registros de ISBN",
+    "sociedades de gestión",
+    "certificados de derechos",
+    "constancias",
+    "contratos de derechos"
   ],
-  "resumen": "Este artículo establece las tarifas que se deben pagar por diferentes servicios relacionados con los derechos de autor, como el registro de obras literarias y artísticas, y la inscripción de contratos. También menciona excepciones y reducciones de tarifas en ciertos casos.",
+  "resumen": "Este artículo establece las cuotas a pagar por el registro y gestión de derechos de autor, incluyendo obras literarias y artísticas, así como diversos trámites relacionados con sociedades de gestión colectiva. También se menciona que ciertos registros están exentos de pago si se trata de libros de texto editados por entidades públicas.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta registrar una obra?",
-    "¿Qué tarifas se aplican para inscribir un contrato de derechos de autor?",
-    "¿Hay descuentos si registro varios contratos similares?",
-    "¿Qué servicios están sujetos a pago de derechos de autor?",
-    "¿Existen tarifas diferentes para personajes ficticios?"
+    "¿Cuánto cuesta registrar una obra de arte?",
+    "¿Qué servicios están incluidos en el registro de derechos de autor?",
+    "¿Hay una cuota por registrar un fonograma?",
+    "¿Cuáles son los costos de inscripción de contratos de derechos?",
+    "¿Se paga algo por registrar libros de texto?",
+    "¿Qué derechos se pueden gestionar a través de sociedades de gestión?"
   ]
 }

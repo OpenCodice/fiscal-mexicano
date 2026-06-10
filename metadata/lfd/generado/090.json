@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ab7c596a1a6b4d0a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de certificación de semillas",
+  "denominacion_comun": "Certificación de Semillas",
   "temas": [
-    "certificación de semillas",
-    "certificados de origen",
+    "derechos de certificación",
+    "certificado de origen",
     "certificados de calidad",
     "organismos de certificación",
-    "derechos de expedición"
+    "identidad varietal",
+    "inscripción en catálogo",
+    "certificado internacional"
   ],
   "terminos_coloquiales": [
-    "costo de certificar semillas",
-    "derechos de semillas",
-    "certificados para exportación de semillas",
-    "pago por certificación"
+    "certificación de semillas",
+    "certificado de origen",
+    "certificado de calidad",
+    "derecho de certificación",
+    "organismos de certificación"
   ],
-  "resumen": "Se establecen los pagos que se deben realizar por los servicios de certificación de semillas, como la expedición de certificados de origen y calidad, así como la autorización de organismos que certifiquen semillas. Cada servicio tiene un costo específico.",
+  "resumen": "Se establecen los derechos de certificación que se deben pagar por los servicios de certificación de semillas, incluyendo certificados de origen y calidad, así como autorizaciones para organismos de certificación. También se menciona el costo por estudios de solicitud para inclusión en un catálogo de variedades.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta certificar semillas?",
-    "¿Qué hay que pagar para obtener un certificado de calidad de semillas?",
-    "¿Cuáles son los derechos para la certificación de semillas?",
-    "¿Cómo se autoriza a un organismo para certificar semillas?",
-    "¿Qué pagos se requieren para exportar semillas certificadas?"
+    "¿Cuánto cuesta un certificado de origen para exportación de semillas?",
+    "¿Qué derechos tengo que pagar para obtener un certificado de calidad de semillas?",
+    "¿Cuánto se cobra por la autorización de un organismo certificador de semillas?",
+    "¿Qué significa el refrendo anual para certificados de semillas?",
+    "¿Cuáles son los costos para inscribir una variedad de semilla en el catálogo?"
   ]
 }

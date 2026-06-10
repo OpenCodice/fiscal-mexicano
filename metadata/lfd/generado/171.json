@@ -6,25 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de Artículos",
-  "temas": [
-    "derogación",
-    "artículos",
-    "legislación",
-    "fiscal"
-  ],
-  "terminos_coloquiales": [
-    "quitar un artículo",
-    "cancelar una norma",
-    "eliminar leyes",
-    "artículo derogado"
-  ],
-  "resumen": "Este artículo establece que se deroga una disposición. No se aplican más las normas previamente vigentes.",
+  "denominacion_comun": "Derogación de Disposición",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "La disposición ha sido derogada y ya no tiene vigencia.",
   "preguntas_ejemplo": [
     "¿Qué significa que un artículo esté derogado?",
-    "¿Cómo afecta la derogación de un artículo a la legislación vigente?",
-    "¿Se puede volver a aplicar un artículo que ha sido derogado?"
+    "¿Cuáles son las consecuencias de la derogación de una ley?",
+    "¿Cómo afecta la derogación de un artículo a los contribuyentes?",
+    "¿Qué leyes han sido derogadas recientemente?",
+    "¿Dónde puedo encontrar información sobre artículos derogados?"
   ]
 }

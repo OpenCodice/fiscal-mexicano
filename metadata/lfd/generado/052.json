@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0d77ab7afd45f4f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuotas por análisis de laboratorios",
@@ -13,23 +14,20 @@
     "servicios de análisis",
     "laboratorios",
     "obligaciones aduaneras",
-    "mercancías estériles",
-    "mercancías radioactivas",
     "mercancías peligrosas",
     "clasificación arancelaria"
   ],
   "terminos_coloquiales": [
-    "cuotas de análisis",
-    "análisis de laboratorios aduaneros",
-    "costos de análisis de mercancías",
-    "servicios de laboratorio aduanero"
+    "análisis de mercancías",
+    "laboratorio",
+    "cuota aduanera"
   ],
-  "resumen": "Se deben pagar cuotas por los servicios de análisis de laboratorios relacionados con mercancías que son estériles, radioactivas o peligrosas, así como por consultas de clasificación arancelaria. Estas cuotas se aplican por cada muestra analizada.",
+  "resumen": "Se establecen cuotas que se deben pagar por los servicios de análisis de laboratorios relacionados con mercancías estériles, radioactivas o peligrosas, así como por consultas sobre clasificación arancelaria según lo dispuesto en la Ley Aduanera.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta analizar mercancías peligrosas?",
-    "¿Qué se paga por servicios de análisis en aduanas?",
-    "¿Qué tipos de mercancías requieren análisis en laboratorios?",
-    "¿Cuál es la cuota por análisis de laboratorios?",
-    "¿Dónde se regula el costo de análisis de mercancías?"
+    "¿Cuál es la cuota por análisis de mercancías peligrosas?",
+    "¿Qué servicios se brindan en los laboratorios aduaneros?",
+    "¿Cómo se determina la clasificación arancelaria?",
+    "¿Qué tipo de mercancías requieren análisis específicos?",
+    "¿Qué costos están asociados al cumplimiento de obligaciones aduaneras?"
   ]
 }

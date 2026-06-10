@@ -6,15 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo 123-A",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado y ya no tiene aplicación legal.",
+  "denominacion_comun": "Derogación del Artículo 123-A",
+  "temas": [
+    "derogación",
+    "legislación fiscal",
+    "cambios normativos"
+  ],
+  "terminos_coloquiales": [
+    "se eliminó",
+    "ya no existe",
+    "anulación"
+  ],
+  "resumen": "El Artículo 123-A ha sido derogado, por lo que ya no tiene efecto dentro de la legislación fiscal mexicana.",
   "preguntas_ejemplo": [
-    "¿Qué dice el Artículo 123-A?",
-    "¿Está vigente el Artículo 123-A?",
-    "¿Qué pasó con el Artículo 123-A?"
+    "¿Qué pasó con el Artículo 123-A?",
+    "¿El Artículo 123-A todavía está en vigencia?",
+    "¿Qué significa la derogación del Artículo 123-A?",
+    "¿Qué cambios hubo en la legislación fiscal con la derogación del Artículo 123-A?"
   ]
 }

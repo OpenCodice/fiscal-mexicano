@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c96a12c204cb18dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho de pesca",
   "temas": [
     "pesca",
+    "embarcaciones extranjeras",
+    "zona económica exclusiva",
     "derechos",
-    "embarcamientos extranjeros",
-    "zona económica exclusiva"
+    "permisos excepcionales"
   ],
   "terminos_coloquiales": [
-    "cuota de pesca",
-    "pago por pesca",
-    "derecho por pesca extranjera",
+    "derecho de pesca",
+    "pesca comercial",
     "pesca con barcos extranjeros"
   ],
-  "resumen": "Las personas que pescan con embarcaciones de matrícula extranjera deben pagar un derecho de pesca por cada viaje. Si se requiere carnada, hay un cargo adicional del 25% sobre el derecho de pesca.",
+  "resumen": "Este artículo establece que las personas físicas y morales que realicen pesca con embarcaciones de matrícula extranjera en la zona económica exclusiva deben pagar un derecho de pesca por tonelada, además de un cargo adicional para la captura de carnada. El pago deberá hacerse antes de la extracción de las especies.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar por la pesca con un barco extranjero?",
-    "¿Hay un costo adicional si uso carnada?",
-    "¿Dónde se paga el derecho de pesca?",
-    "¿Qué es la zona económica exclusiva en términos de pesca?",
-    "¿Los acuerdos con otros países afectan el pago del derecho de pesca?"
+    "¿Cuánto debo pagar por el derecho de pesca con embarcaciones extranjeras?",
+    "¿Qué requisitos debo cumplir para pescar en la zona económica exclusiva?",
+    "¿Hay un costo adicional si capturo carnada?",
+    "¿Dónde debo hacer el pago del derecho de pesca?",
+    "¿Las normas de pesca en México cambian con otros países?"
   ]
 }

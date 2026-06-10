@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85cd0c5887cb9cd6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho y pagos provisionales",
+  "denominacion_comun": "Derechos y pagos provisionales",
   "temas": [
-    "derechos del ejercicio",
+    "derecho",
     "pagos provisionales",
     "declaración anual",
     "saldo a favor",
-    "compensación de saldos"
+    "compensación"
   ],
   "terminos_coloquiales": [
-    "derechos a pagar",
-    "pagué de más",
-    "declaración de impuestos",
-    "saldo a favor en impuestos",
-    "compensar impuestos"
+    "impuesto",
+    "declarar impuesto",
+    "saldo a favor"
   ],
-  "resumen": "Este artículo establece cómo se determina el monto a pagar por derechos tras restar los pagos provisionales hechos durante el ejercicio. Si hay un saldo a favor, se puede utilizar para pagar futuros impuestos en el próximo ejercicio.",
+  "resumen": "Este artículo establece cómo se debe calcular el monto a pagar por derechos fiscales al restar los pagos provisionales realizados. Si hay un saldo a favor, se puede usar para compensar pagos futuros.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el monto que debo pagar por derechos?",
-    "¿Qué pasa si pagué más de lo que debo?",
-    "¿Puedo usar un saldo a favor para mis impuestos del siguiente año?",
-    "¿Cuándo debo hacer mi declaración anual de derechos?",
-    "¿Qué son los pagos provisionales y cómo afectan mi declaración?"
+    "¿Cómo se calcula el monto a pagar por derechos en la declaración?",
+    "¿Qué pasa si tengo saldo a favor en el ejercicio anterior?",
+    "¿Puedo usar mi saldo a favor para el siguiente ejercicio?",
+    "¿Cuándo debo presentar la declaración anual de derechos?",
+    "¿Qué son los pagos provisionales y cómo se relacionan con la declaración?"
   ]
 }

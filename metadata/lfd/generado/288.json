@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0c4059734e09c7c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de acceso a museos y sitios arqueológicos",
+  "denominacion_comun": "Derechos de acceso a museos y sitios históricos",
   "temas": [
-    "derechos de acceso",
-    "museos",
-    "sitios arqueológicos",
-    "monumentos",
-    "cuotas",
+    "cuotas de acceso",
     "exenciones",
-    "reducciones",
-    "categorías de acceso"
+    "categorías de sitios",
+    "derechos de acceso",
+    "reducción de tarifas",
+    "condiciones de pago",
+    "acceso a comunidades indígenas",
+    "grupo etario exento"
   ],
   "terminos_coloquiales": [
-    "cuotas de entrada a museos",
-    "costo de acceso a zonas arqueológicas",
-    "tarifas para museos",
-    "pago por entrar a sitios históricos",
-    "acceso a monumentos nacionales"
+    "entrada a museos",
+    "pago por acceso a zonas arqueológicas",
+    "derecho de entrada",
+    "tarifas de museos",
+    "pago de entradas",
+    "excepción para mayores de 60",
+    "exención para estudiantes",
+    "acceso gratuito los domingos"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar para acceder a museos, monumentos y zonas arqueológicas de la Federación, así como las exenciones y reducciones aplicables a ciertos grupos de personas. También establece que el pago debe realizarse antes de entrar a estos lugares.",
+  "resumen": "El artículo establece las cuotas que deben pagar las personas para acceder a museos, monumentos y zonas arqueológicas de la Federación. También detalla las exenciones y reducciones en las tarifas para ciertos grupos, así como las condiciones para el acceso gratuito.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta entrar a los museos en México?",
-    "¿Quiénes están exentos de pagar por acceso a sitios arqueológicos?",
-    "¿Hay descuentos para estudiantes en museos?",
-    "¿Qué museos tienen cuotas diferentes?",
-    "¿Cómo se ajustan las tarifas de acceso?",
-    "¿Puedo entrar gratis a los museos los domingos?"
+    "¿Cuánto cuesta la entrada a los museos?",
+    "¿Quiénes están exentos de pagar por el acceso a zonas arqueológicas?",
+    "¿Hay descuentos para estudiantes al entrar a los museos?",
+    "¿Pueden las personas mayores entrar gratis a los museos?",
+    "¿Qué categorías de sitios tienen distintas tarifas?",
+    "¿Los domingos hay entrada gratuita a los museos?"
   ]
 }

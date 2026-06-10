@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c842de03192ca92d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de certificación",
+  "denominacion_comun": "Derechos por certificación digital",
   "temas": [
     "acreditación",
+    "prestadores de servicios",
     "certificados digitales",
-    "prestador de servicios",
-    "derechos",
-    "trámites"
+    "firma electrónica",
+    "sellado digital"
   ],
   "terminos_coloquiales": [
-    "cuánto cuesta la acreditación",
-    "precios por servicios de certificación",
-    "derechos por certificados digitales",
-    "tarifas de certificación"
+    "pago de derechos por certificados digitales",
+    "acreditación de servicios de certificación",
+    "firma electrónica",
+    "conservación de mensajes",
+    "sellado digital de tiempo"
   ],
-  "resumen": "Se establecen los derechos que se deben pagar por distintos trámites relacionados con la acreditación de prestadores de servicios de certificación para la emisión de certificados digitales, así como otros servicios adicionales. Las cuotas varían según el tipo de trámite solicitado.",
+  "resumen": "Se establecen las cuotas que se deben pagar por los servicios relacionados con la acreditación de prestadores de servicios de certificación para la emisión de certificados digitales y otros servicios vinculados a la firma electrónica.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar para acreditarme como prestador de certificados digitales?",
-    "¿Qué costos están asociados con la certificación digital?",
-    "¿Cuáles son las tarifas para la acreditación en servicios de firma electrónica?",
-    "¿Qué derechos se cobran por el cese voluntario de certificación?"
+    "¿Cuánto cuesta acreditar a un prestador de servicios de certificación?",
+    "¿Qué derechos debo pagar por la emisión de certificados digitales?",
+    "¿Cuáles son las tarifas por el cese voluntario de prestadores de servicios de certificación?",
+    "¿Qué servicios adicionales están relacionados con la firma electrónica y sus costos?",
+    "¿Qué implica la acreditación como prestador de servicio de certificación?"
   ]
 }

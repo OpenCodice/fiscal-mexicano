@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14d57e6c0a60d4b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios de SENEAM",
+  "denominacion_comun": "Derechos por servicios de navegación aérea",
   "temas": [
     "derechos",
+    "servicios de navegación",
+    "control de tránsito aéreo",
     "SENEAM",
-    "aeronaves",
-    "horario de operaciones",
-    "control de tránsito aéreo"
+    "copia de pago",
+    "desglose de operaciones"
   ],
   "terminos_coloquiales": [
-    "pagos a SENEAM",
-    "derechos de navegación aérea",
-    "cargos por servicios aéreos",
-    "cobro por despegue",
-    "extensión de horario aeroportuario"
+    "pago de derechos de SENEAM",
+    "derechos de navegación",
+    "pago por servicios aéreos"
   ],
-  "resumen": "Se deben pagar derechos por los servicios que brinda SENEAM fuera del horario oficial de operaciones. Los derechos se calculan por cada aeronave y deben ser pagados inmediatamente después de su llegada o antes de su despegue.",
+  "resumen": "Este artículo establece que se deben pagar derechos por los servicios de control de tránsito aéreo proporcionados por el SENEAM fuera del horario oficial de operaciones. Los contribuyentes pueden pagar mensualmente y deben presentar un comprobante de pago junto con un desglose de actividades relacionadas.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por los servicios de SENEAM fuera del horario oficial?",
-    "¿Cómo se calculan los derechos por control de tránsito aéreo?",
-    "¿Qué requisitos necesito para pagar los derechos de SENEAM?",
+    "¿Cuánto tengo que pagar por los servicios de SENEAM fuera del horario oficial?",
+    "¿Cómo se calcula el derecho por los servicios de control de tránsito aéreo?",
+    "¿Cuándo debo presentar el comprobante de pago al SENEAM?",
+    "¿Qué requisitos debo cumplir para el pago de derechos de navegación aérea?",
     "¿Puedo pagar los derechos de SENEAM mensualmente?",
-    "¿Qué debo presentar al SENEAM después de realizar el pago?"
+    "¿Qué información necesito incluir en el archivo electrónico para el SENEAM?"
   ]
 }

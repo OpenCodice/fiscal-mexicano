@@ -6,27 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eb279013651df0fb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuota de verificación de terminales",
+  "denominacion_comun": "Verificación de terminales interiores de carga",
   "temas": [
-    "terminales interiores de carga",
-    "cuotas",
+    "cuota",
     "verificación",
-    "operación"
+    "terminales interiores",
+    "carga"
   ],
   "terminos_coloquiales": [
-    "cuota de verificación",
-    "costo de operación de terminales",
-    "pago por terminales interiores",
-    "precio por iniciar operación"
+    "pago de verificación",
+    "cuota de operación"
   ],
-  "resumen": "Se establece una cuota que debe pagarse por la verificación para iniciar la operación de terminales interiores de carga. Esta cuota está determinada en un monto específico.",
+  "resumen": "Se establece una cuota a pagar por la verificación para el inicio de la operación de terminales interiores de carga.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta verificar una terminal interior de carga?",
-    "¿Qué debo pagar para iniciar la operación de mi terminal?",
-    "¿Cuál es la cuota por la verificación de terminales?",
-    "¿Cómo se determina el costo de la verificación de terminales?",
-    "¿Qué es la verificación de terminales interiores?"
+    "¿Cuánto debo pagar por la verificación de terminales?",
+    "¿Cuál es la cuota para iniciar la operación de terminales interiores?",
+    "¿Qué es la verificación de terminales interiores de carga?"
   ]
 }

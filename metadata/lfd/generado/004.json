@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7aaca30e016d383d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de Derechos",
+  "denominacion_comun": "Pagos de derechos por servicios públicos",
   "temas": [
     "mensualidades",
     "anualidades",
-    "prestación de servicios",
     "comprobantes de pago",
-    "cálculo de cuotas",
-    "dominio público",
-    "penalizaciones"
+    "prestación de servicios",
+    "cuotas",
+    "dependencias",
+    "derechos",
+    "bienes de dominio público"
   ],
   "terminos_coloquiales": [
-    "derechos",
-    "pagos por servicios",
-    "cuotas",
-    "pago anticipado",
-    "cálculo de derechos"
+    "pago de derechos",
+    "comprobante",
+    "cuotas mensuales",
+    "cuotas anuales",
+    "servicios públicos",
+    "bien público",
+    "pago anticipado"
   ],
-  "resumen": "Este artículo establece las condiciones para el pago de derechos por mensualidades o anualidades antes de la prestación de un servicio. Se detallan los plazos para realizar los pagos y presentar los comprobantes, así como disposiciones sobre el cálculo de cuotas cuando los servicios se inician después del periodo correspondiente.",
+  "resumen": "Este artículo establece cómo deben pagarse los derechos correspondientes a la prestación de servicios, ya sea de forma mensual o anual. Define los plazos y formas para realizar estos pagos y presentar los comprobantes correspondientes a las autoridades.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan los pagos de derechos?",
-    "¿Qué plazos tengo para pagar derechos por servicios?",
-    "¿Qué sucede si solicito el servicio después de la fecha límite?",
-    "¿Cómo se calcula la cuota si inicio el servicio a mitad de mes?",
-    "¿Qué pasa si no cumplen los requisitos legales para prestar el servicio?"
+    "¿Cómo se pagan los derechos por servicios públicos?",
+    "¿Cuándo debo presentar el comprobante de pago?",
+    "¿Qué pasa si solicito un servicio después de los primeros días del mes?",
+    "¿Cómo se calcula el pago si el servicio inicia a mitad del periodo?",
+    "¿Cuáles son las consecuencias si no se cumplen los requisitos legales para la prestación del servicio?"
   ]
 }

@@ -6,31 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be10b4bfae5aa6a0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por uso del espectro radioeléctrico",
   "temas": [
-    "derechos anuales",
     "espectro radioeléctrico",
     "telefonía rural",
-    "servicios de voz",
-    "servicios de datos",
-    "cuotas",
-    "estaciones base",
-    "repetidores"
+    "sistemas punto a punto",
+    "cuotas anuales"
   ],
   "terminos_coloquiales": [
-    "cuánto se paga por el espectro",
-    "derecho de uso de frecuencias",
-    "costo del espectro radioeléctrico",
-    "tarifas de telefonía rural"
+    "derechos de espectro",
+    "telefonía rural",
+    "servicios de voz",
+    "servicios de datos"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar anualmente por el uso del espectro radioeléctrico para diversos sistemas de comunicación. Incluye tarifas específicas para telefonía rural y servicios de voz y datos.",
+  "resumen": "Este artículo establece las cuotas anuales que se deben pagar por el uso del espectro radioeléctrico para diferentes tipos de servicios, como la telefonía rural y sistemas de voz o datos. Se especifican montos para estaciones base, nodos y frecuencias asignadas.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga por cada estación base en telefonía rural?",
-    "¿Qué derechos anuales tengo que pagar por usar frecuencias?",
-    "¿Hay tarifas diferentes para estaciones fijas y nodos?",
-    "¿Los gobiernos estatales tienen que pagar por estos derechos?",
-    "¿Cuáles son las cuotas para servicios de voz o datos?"
+    "¿Cuánto se paga por el uso del espectro radioeléctrico?",
+    "¿Qué tarifas hay para la telefonía rural?",
+    "¿Existen exenciones para los gobiernos estatales en el pago de derechos?",
+    "¿Cuáles son las cuotas por estación fija y nodos en sistemas de voz?"
   ]
 }

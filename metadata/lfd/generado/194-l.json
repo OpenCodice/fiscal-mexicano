@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0c515e24519a55f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por Aprovechamiento Forestal",
+  "denominacion_comun": "Derechos por aprovechamiento forestal",
   "temas": [
     "derechos",
     "aprovechamiento forestal",
-    "programa de manejo",
-    "recursos forestales",
     "especies maderables",
+    "programa de manejo",
+    "modificación de programas",
+    "recursos forestales",
     "clima árido",
-    "modificación de programas"
+    "clima semiárido"
   ],
   "terminos_coloquiales": [
+    "derechos por árboles",
+    "aprovechamiento de madera",
     "cuotas por madera",
-    "costo por aprovechamiento de árboles",
-    "derechos forestales",
-    "pagos por recursos naturales",
-    "tarifas de manejo forestal"
+    "programa de manejo forestal",
+    "autorización de aprovechamiento",
+    "modificación de permisos"
   ],
-  "resumen": "Este artículo establece los derechos a pagar por la recepción, evaluación y dictamen de programas de manejo forestal, así como por la autorización de aprovechamiento de recursos forestales maderables. Se detallan las cuotas correspondientes según el volumen de madera a aprovechar y los supuestos en los que no se pagarán derechos.",
+  "resumen": "Este artículo establece los derechos a pagar por la evaluación y autorización de programas de manejo forestal de especies maderables en climas áridos y semiáridos, además de las excepciones aplicables al pago de estas cuotas. También se menciona la modificación de programas de manejo y situaciones en las que no se deben pagar derechos.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por aprovechar cierta cantidad de madera?",
-    "¿Cuáles son los requisitos para modificar un programa de manejo forestal?",
-    "¿Qué ocurrirá si la modificación del programa es solo para recursos no maderables?",
-    "¿Existen exenciones de pago en el aprovechamiento forestal?",
-    "¿Qué cuotas se aplican según el volumen de madera que quiero aprovechar?"
+    "¿Cuánto tengo que pagar por el aprovechamiento de madera?",
+    "¿Qué se necesita para modificar un programa de manejo forestal?",
+    "¿Qué excepciones existen para no pagar derechos por aprovechamiento forestal?",
+    "¿Cuáles son las cuotas por la evaluación de programas de manejo de recursos forestales?",
+    "¿Cómo se determina el costo del aprovechamiento de madera en climas áridos?"
   ]
 }

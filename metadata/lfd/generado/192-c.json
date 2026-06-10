@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9039faf07892c175",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos del Registro Público de Derechos de Agua",
+  "denominacion_comun": "Derechos de Agua",
   "temas": [
-    "derechos",
-    "registro público",
-    "agua",
-    "costos de servicios",
-    "comisión nacional del agua"
+    "Registro Público de Derechos de Agua",
+    "Constancias de búsqueda",
+    "Certificados de inscripciones",
+    "Mapas registrales",
+    "Comisión Nacional del Agua"
   ],
   "terminos_coloquiales": [
-    "costos de servicios de agua",
     "derechos de agua",
-    "registro de agua",
-    "certificados de agua"
+    "certificados de agua",
+    "constancias registrales",
+    "información de registros",
+    "consultar antecedentes registrales"
   ],
-  "resumen": "Este artículo establece los pagos que se deben realizar por los servicios del Registro Público de Derechos de Agua. Se mencionan cuotas para constancias, certificados y mapas relacionados con los derechos de agua.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por ciertos servicios del Registro Público de Derechos de Agua, como la búsqueda de información y la expedición de certificados y mapas. Además, se menciona que no se cobrará el derecho por el uso de la página electrónica para consultar información.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta solicitar un certificado del Registro Público de Derechos de Agua?",
-    "¿Hay algún costo por buscar información sobre los derechos de agua?",
-    "¿Qué tipos de servicios ofrece el Registro Público de Derechos de Agua?",
-    "¿Puedo acceder a la información del registro sin pagar?",
-    "¿Cuánto debo pagar por un mapa de derechos de agua?"
+    "¿Cuánto cuesta obtener una constancia de búsqueda en el Registro Público de Derechos de Agua?",
+    "¿Tengo que pagar por consultar información en la página de la Comisión Nacional del Agua?",
+    "¿Qué tarifas hay para obtener certificados de inscripciones de derechos de agua?",
+    "¿Qué servicios ofrece el Registro Público de Derechos de Agua?",
+    "¿Cuánto cuesta un mapa registral de derechos de agua?"
   ]
 }

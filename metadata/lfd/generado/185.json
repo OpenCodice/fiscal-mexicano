@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:134b6d6a5e092887",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por registro y ejercicio profesional",
+  "denominacion_comun": "Derechos de registro y ejercicio profesional",
   "temas": [
-    "registro de profesionistas",
-    "establecimientos educativos",
-    "títulos profesionales",
-    "autorizaciones",
-    "duplicados de cédula",
-    "consultas de archivo",
-    "constancias de antecedentes"
+    "Registro de profesionistas",
+    "Registro de colegios",
+    "Cédula profesional",
+    "Revalidación de títulos",
+    "Autorizaciones profesionales",
+    "Consultas de archivo",
+    "Constancias de antecedentes"
   ],
   "terminos_coloquiales": [
-    "costos de títulos",
-    "derechos por registro profesional",
-    "cuotas para profesionistas",
-    "pagos de cédula profesional",
-    "registro de escuelas"
+    "derechos de registro",
+    "cédula profesional",
+    "título profesional",
+    "colegio de profesionistas",
+    "especialidad",
+    "licencia de ejercicio profesional"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por diversos servicios relacionados con el registro y ejercicio profesional ante la Secretaría de Educación Pública. Incluye costos por el registro de títulos, colegios de profesionistas, y expediciones de autorizaciones.",
+  "resumen": "El artículo establece las cuotas que se deben pagar por diversos servicios relacionados con el registro y ejercicio profesional proporcionados por la Secretaría de Educación Pública. Esto incluye el registro de colegios, cédulas profesionales y revalidación de títulos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta el registro de un título profesional?",
-    "¿Qué cuotas hay para los colegios de profesionistas?",
-    "¿Cuáles son los derechos por expedición de cédulas?",
-    "¿Qué tarifas hay para la revalidación de títulos?",
-    "¿Cómo registrarse como profesionista en México?"
+    "¿Cuánto cuesta registrar un colegio de profesionistas?",
+    "¿Qué cuotas debo pagar para obtener mi cédula profesional?",
+    "¿Cómo puedo revalidar mi título profesional?",
+    "¿Qué gastos hay para ejercer una especialidad?",
+    "¿Qué tarifas se aplican para las constancias de antecedentes profesionales?"
   ]
 }

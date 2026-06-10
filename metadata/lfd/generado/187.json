@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3de618b8379eadeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios del Registro Agrario Nacional",
+  "denominacion_comun": "Derechos del Registro Agrario Nacional",
   "temas": [
+    "expedición de documentos",
+    "derechos sobre tierras",
     "certificados de propiedad",
     "títulos de dominio",
-    "derechos agrarios",
-    "servicios registrales",
-    "expedición de documentos"
+    "constancias",
+    "oficios informativos",
+    "listados de ejidatarios",
+    "anotaciones preventivas"
   ],
   "terminos_coloquiales": [
-    "costo de certificados agrarios",
-    "derechos para documentos de tierras",
-    "cuotas del Registro Agrario",
-    "títulos de propiedad ejidal"
+    "registro agrario",
+    "certificados de propiedad",
+    "títulos de propiedad",
+    "constancias agrarias",
+    "derechos agrarios",
+    "ejidatarios"
   ],
-  "resumen": "El artículo establece las cuotas que se deben pagar por diversos servicios prestados por el Registro Agrario Nacional relacionados con la expedición de documentos sobre propiedades ejidales y comunales, así como otros certificados y constancias. También menciona exenciones de pago en ciertos casos específicos.",
+  "resumen": "Este artículo establece los derechos que se deben pagar por diversos servicios del Registro Agrario Nacional relacionados con la propiedad ejidal y comunal, así como la expedición de documentos como certificados y títulos de propiedad. También menciona las condiciones bajo las cuales no se pagarán dichos derechos.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener un certificado de propiedad ejidal?",
-    "¿Qué documentos puedo solicitar al Registro Agrario Nacional?",
-    "¿Hay derechos que no se tienen que pagar por servicios del Registro Agrario?",
-    "¿Qué son los títulos de dominio pleno de colonias?",
-    "¿Cuáles son las tarifas por servicios del Registro Agrario?"
+    "¿Cuánto cuesta obtener un certificado de propiedad agraria?",
+    "¿Qué derechos se deben pagar por los títulos de dominio pleno?",
+    "¿Se puede obtener una constancia sin pagar derechos?",
+    "¿Qué documentos expide el Registro Agrario Nacional?",
+    "¿Cómo obtener un listado de ejidatarios?"
   ]
 }

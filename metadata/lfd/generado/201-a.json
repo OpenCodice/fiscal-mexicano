@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4270cf38b06bd0dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de derechos de embarcaciones",
+  "denominacion_comun": "Derechos de embarcaciones",
   "temas": [
-    "derechos a pagar",
+    "derechos",
     "embarcaciones",
+    "pagos",
     "puerto",
-    "plazo de pago"
+    "salida"
   ],
   "terminos_coloquiales": [
-    "pago de derechos de barcos",
-    "cuánto se paga por un barco",
-    "derechos marítimos",
-    "plazo de derechos de embarcaciones"
+    "tarifa de embarcaciones",
+    "derechos portuarios"
   ],
-  "resumen": "Los dueños de embarcaciones deben pagar ciertos derechos dentro de los cinco días siguientes a la llegada de la embarcación al puerto o antes de su salida, lo que ocurra primero.",
+  "resumen": "Este artículo establece que los derechos relacionados con embarcaciones deben pagarse dentro de los cinco días posteriores a su llegada al puerto o antes de su salida, lo que ocurra primero.",
   "preguntas_ejemplo": [
-    "¿Cuándo tengo que pagar los derechos de mi embarcación?",
-    "¿Qué pasa si no pago los derechos de mi barco a tiempo?",
-    "¿Cuánto tiempo tengo para pagar al llegar al puerto?",
-    "¿Qué derechos se pagan cuando un barco entra a puerto?",
-    "¿Hay alguna excepción en el plazo de pago de derechos de embarcaciones?"
+    "¿Cuándo debo pagar los derechos de una embarcación?",
+    "¿Qué plazo tengo para pagar derechos al llegar a un puerto?",
+    "¿Qué sucede si no pago los derechos de mi embarcación a tiempo?",
+    "¿Cuáles son los derechos que se deben pagar al puerto?",
+    "¿Los derechos cambian si la embarcación sale antes o llega después?"
   ]
 }

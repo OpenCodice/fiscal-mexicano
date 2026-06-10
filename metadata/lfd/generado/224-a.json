@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e09f64f1f4d7ba64",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Disminución de derechos por aparatos de medición",
@@ -13,24 +14,24 @@
     "derechos",
     "declaraciones",
     "aparatos de medición",
+    "verificación",
     "Comisión Nacional del Agua",
-    "comprobantes fiscales",
     "gastos de instalación",
-    "volumen de agua"
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "descuento en derechos",
-    "pago de derechos de agua",
-    "ahorro en derechos",
-    "costos de medición de agua",
-    "declaraciones de agua"
+    "disminución de derechos",
+    "costo de aparatos de medición",
+    "gastos de instalación",
+    "Comisión Nacional del Agua",
+    "factura"
   ],
-  "resumen": "Los contribuyentes pueden restar del pago de derechos las cantidades correspondientes al costo de los aparatos de medición y su instalación. Deben conservar los comprobantes fiscales para hacer esta disminución.",
+  "resumen": "Los contribuyentes pueden restar del pago de derechos el costo de los aparatos de medición y su instalación, siempre que cumplan con especificaciones. Deben conservar la factura para verificar la disminución ante la Comisión Nacional del Agua.",
   "preguntas_ejemplo": [
-    "¿Puedo descontar el costo de mi medidor de agua en mis declaraciones?",
-    "¿Qué necesito para disminuir los derechos por el uso de agua?",
-    "¿Cómo se presentan los gastos de instalación de un medidor ante la Comisión Nacional del Agua?",
-    "¿Qué comprobantes fiscales debo conservar para hacer la disminución?",
-    "¿Qué pasa si mi descuento es mayor que el derecho a cargo?"
+    "¿Cómo puedo disminuir el pago de derechos por el uso de agua?",
+    "¿Qué comprobantes necesito para justificar la disminución de derechos?",
+    "¿Puedo restar los costos de instalación de aparatos de medición de mis declaraciones?",
+    "¿Qué requisitos deben cumplir los aparatos de medición para aplicar la disminución?",
+    "¿Qué pasa si el monto a disminuir es mayor que el derecho a mi cargo?"
   ]
 }

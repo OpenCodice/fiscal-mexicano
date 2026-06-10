@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c32525298eb5135c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por servicios relacionados con el agua",
+  "denominacion_comun": "Convenios de Colaboración Administrativa",
   "temas": [
-    "coveno de colaboración",
     "administración fiscal",
-    "derechos por servicios",
-    "entidades federativas"
+    "ingresos",
+    "cobro de derechos",
+    "colaboración administrativa",
+    "Secretaría de Hacienda",
+    "servicios relacionados con el agua"
   ],
   "terminos_coloquiales": [
-    "cobro de derechos por servicios del agua",
-    "ingresos por servicios de agua",
     "convenios fiscales",
-    "administración del agua"
+    "cobro de derechos",
+    "ingresos por servicios",
+    "Secretaría de Hacienda"
   ],
-  "resumen": "Las entidades federativas que firman un convenio con la Secretaría de Hacienda pueden gestionar directamente el cobro de ciertos derechos sobre servicios del agua y recibir todos los ingresos generados por ello.",
+  "resumen": "Este artículo establece que las Entidades Federativas que tengan un convenio de colaboración con la Secretaría de Hacienda pueden administrar los ingresos por derechos relacionados con el agua. Estas entidades recibirán todos los ingresos generados por dichos servicios.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos reciben las entidades federativas por servicios del agua?",
-    "¿Cómo funcionan los convenios de colaboración en materia fiscal con la SHCP?",
-    "¿Qué derechos se cobran por servicios relacionados con el agua?",
-    "¿Quién administra los ingresos por el cobro de derechos del agua?"
+    "¿Qué son los convenios de colaboración administrativa en materia fiscal?",
+    "¿Qué ingresos reciben las entidades federativas por el cobro de derechos?",
+    "¿Qué funciones pueden ejercer las entidades federativas en la administración fiscal?",
+    "¿Cómo se gestionan los ingresos por servicios relacionados con el agua?",
+    "¿Quién regula los convenios de colaboración en materia fiscal?"
   ]
 }

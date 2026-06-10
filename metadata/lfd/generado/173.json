@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e10ba688a2908ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por concesiones en telecomunicaciones",
   "temas": [
-    "derechos",
     "concesiones",
     "telecomunicaciones",
     "radiodifusión",
     "bandas de frecuencias",
     "recursos orbitales",
-    "uso comercial",
-    "uso privado",
-    "uso público",
-    "cuotas"
+    "derechos"
   ],
   "terminos_coloquiales": [
-    "costo de concesiones",
-    "tarifas por uso de frecuencias",
-    "derechos de telecomunicaciones",
-    "preguntas sobre concesiones"
+    "concesión de telecomunicaciones",
+    "concesión de radiodifusión",
+    "derechos por concesión",
+    "título de concesión",
+    "prórroga de concesión"
   ],
-  "resumen": "Este artículo establece las cuotas que se deben pagar por la expedición y prórroga de concesiones en telecomunicaciones y radiodifusión, así como por el uso de bandas de frecuencias y recursos orbitales. Se menciona el costo para diferentes tipos de uso: comercial, privado y público.",
+  "resumen": "El artículo establece el pago de derechos por la expedición y prórroga de concesiones en telecomunicaciones y radiodifusión, así como por el uso de bandas de frecuencias y recursos orbitales. Los derechos varían según el tipo de uso: comercial, privado o público.",
   "preguntas_ejemplo": [
-    "¿Cuánto cuesta obtener una concesión de telecomunicaciones?",
-    "¿Qué derechos debo pagar por usar bandas de frecuencias?",
-    "¿Hay una tarifa diferente para uso privado y público?",
-    "¿Qué pasos sigo para prorrogar mi concesión?",
-    "¿Cómo se calculan las cuotas por concesiones?"
+    "¿Cuánto se paga por obtener una concesión en telecomunicaciones?",
+    "¿Cuáles son los derechos que debo pagar para una prórroga de concesión?",
+    "¿Qué tipos de concesiones existen en materia de telecomunicaciones?",
+    "¿Cuáles son los costos por concesiones de radiodifusión?",
+    "¿Qué se requiere para el uso de frecuencias del espectro radioeléctrico?"
   ]
 }
