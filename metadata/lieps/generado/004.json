@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e3d36f00c0c4bb0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de impuestos",
+  "denominacion_comun": "Acreditamiento del Impuesto Especial sobre Producción y Servicios",
   "temas": [
-    "impuesto especial",
+    "impuesto",
     "acreditamiento",
     "contribuyentes",
-    "bien y servicio",
+    "bienes",
     "importación",
     "exportación",
-    "requisitos",
-    "cobro de impuesto"
+    "cobro"
   ],
   "terminos_coloquiales": [
+    "pagar impuestos",
     "acreditamiento de impuestos",
-    "impuesto acreditable",
-    "LIEPS",
-    "impuesto sobre producción y servicios"
+    "bien importado",
+    "bien exportado",
+    "impuesto especial",
+    "IESPS"
   ],
-  "resumen": "Este artículo establece las condiciones para el acreditamiento del impuesto especial sobre producción y servicios que deben cumplir los contribuyentes al pagar su impuesto. Se requieren ciertos requisitos y condiciones para poder acreditar el impuesto trasladado en la adquisición de bienes y servicios.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales los contribuyentes pueden acreditar el impuesto especial sobre producción y servicios. Se debe cumplir con ciertos requisitos relacionados con la enajenación de bienes y el traslado del impuesto para que el acreditamiento sea válido.",
   "preguntas_ejemplo": [
     "¿Cómo puedo acreditar el impuesto especial que pagué?",
     "¿Qué requisitos debo cumplir para el acreditamiento de impuestos?",
-    "¿Puedo perder el derecho al acreditamiento si no lo hago a tiempo?",
-    "¿Qué bienes son considerados para el acreditamiento según la Ley?",
-    "¿Qué pasa si no soy contribuyente del impuesto a mi cargo?"
+    "¿Puedo acreditar impuestos por bienes importados?",
+    "¿Qué significa que un impuesto esté trasladado al contribuyente?",
+    "¿Qué pasa si no acredite el impuesto en el plazo establecido?"
   ]
 }

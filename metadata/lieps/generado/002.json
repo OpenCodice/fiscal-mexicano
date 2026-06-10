@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2c57a255e7e1d7d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre Productos y Servicios (LIEPS)",
+  "denominacion_comun": "Impuestos Especiales sobre Producción y Servicios",
   "temas": [
-    "Tasas y cuotas",
-    "Bebidas alcohólicas",
-    "Tabacos",
-    "Combustibles",
-    "Plaguicidas",
-    "Alimentos no básicos",
-    "Videojuegos"
+    "tasa de impuestos",
+    "bebidas alcohólicas",
+    "tabacos",
+    "combustibles",
+    "plaguicidas",
+    "alimentación",
+    "videojuegos"
   ],
   "terminos_coloquiales": [
-    "LIEPS",
-    "impuesto a bebidas",
+    "impuestos sobre bebidas",
+    "impuesto a la cerveza",
     "impuesto a tabacos",
-    "impuesto a combustibles",
+    "impuesto a gasolina",
     "impuesto a alimentos",
-    "impuesto a videojuegos"
+    "impuesto a videojuegos",
+    "IEPS"
   ],
-  "resumen": "Este artículo establece las tasas y cuotas aplicables a la enajenación o importación de ciertos bienes, como bebidas alcohólicas, tabacos, combustibles y algunos alimentos. También incluye tasas por servicios relacionados y considera actualizaciones anuales de cuotas.",
+  "resumen": "Este artículo establece las tasas y cuotas aplicables a la enajenación e importación de distintos bienes y servicios, incluidos los impuestos sobre bebidas alcohólicas, tabacos, combustibles, plaguicidas, alimentos con alta densidad calórica y videojuegos para adultos. También detalla cómo se calcularán estas cuotas y su actualización anual.",
   "preguntas_ejemplo": [
-    "¿Cuánto se paga de impuesto por una cerveza?",
-    "¿Cuál es la tasa de impuesto para los cigarros?",
-    "¿Qué cuota se aplica a la gasolina?",
-    "¿Cómo se calcula el impuesto a los plaguicidas?",
-    "¿Existen impuestos para los alimentos no básicos?",
-    "¿Qué tipos de videojuegos tienen impuesto?"
+    "¿Cuál es el impuesto que se paga por la cerveza?",
+    "¿Qué tasas se aplican a los productos de tabaco?",
+    "¿Cómo se calcula el impuesto a la gasolina?",
+    "¿Qué alimentos están gravados con IEPS?",
+    "¿Existen impuestos para los videojuegos?",
+    "¿Cómo se actualizan las tasas de impuestos?"
   ]
 }

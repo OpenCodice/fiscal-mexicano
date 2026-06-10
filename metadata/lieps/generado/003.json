@@ -6,34 +6,42 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09da24bbb83cab9b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Definiciones de la Ley de Impuestos Especiales sobre Producción y Servicios (LIEPS)",
+  "denominacion_comun": "Definiciones de productos y bebidas",
   "temas": [
     "bebidas alcohólicas",
-    "bebidas refrescantes",
+    "cerveza",
     "tabacos labrados",
-    "combustibles automotrices",
-    "contraprestación",
-    "plaguicidas",
-    "bonos de carbono",
-    "productos de confitería",
-    "establescimientos de consumo"
-  ],
-  "terminos_coloquiales": [
-    "definiciones LIEPS",
-    "bebidas alcohólicas",
-    "tabacos",
     "combustibles",
     "contraprestación",
-    "bonos de carbono"
+    "bebidas energetizantes",
+    "botanas",
+    "confitería",
+    "alimentos preparados"
   ],
-  "resumen": "El artículo 3o. de la LIEPS detalla definiciones clave relacionadas con el impuesto sobre producción y servicios, incluyendo categorías como bebidas alcohólicas, tabacos y combustibles, así como conceptos de contraprestación y otros productos regulados.",
+  "terminos_coloquiales": [
+    "chelas",
+    "cerveza",
+    "licor",
+    "cigarros",
+    "puros",
+    "gasolina",
+    "diesel",
+    "alcohol",
+    "miel",
+    "botanas",
+    "dulces",
+    "helados",
+    "snacks"
+  ],
+  "resumen": "Este artículo define distintos tipos de bebidas, tabacos y combustibles, incluyendo las características y clasificaciones de cada uno. También se establecen las condiciones para la contraprestación en la venta de estos productos.",
   "preguntas_ejemplo": [
-    "¿Qué son las bebidas alcohólicas según la LIEPS?",
-    "¿Cómo se define el término contraprestación en la LIEPS?",
-    "¿Qué incluye el concepto de tabacos labrados?",
-    "¿Cuáles son los combustibles automotrices mencionados en la ley?",
-    "¿Qué define la LIEPS sobre los bonos de carbono?"
+    "¿Qué se considera como bebidas alcohólicas?",
+    "¿Cuál es la diferencia entre cerveza y otras bebidas?",
+    "¿Qué son los tabacos labrados?",
+    "¿Qué se entiende por combustibles en esta ley?",
+    "¿Cómo se define la contraprestación en la venta de productos?"
   ]
 }

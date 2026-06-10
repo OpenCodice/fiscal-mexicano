@@ -6,23 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e9370f9879b54868",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Importación ocasional de bienes",
   "temas": [
     "impuesto",
     "importación",
-    "bienes",
+    "bien",
     "prestación de servicios"
   ],
   "terminos_coloquiales": [
-    "importación ocasional",
-    "pago de impuesto"
+    "impuesto de importación",
+    "traer cosas del extranjero",
+    "servicios importados"
   ],
-  "resumen": "El artículo establece que si se importa un bien ocasionalmente, se deberá pagar el impuesto correspondiente, siguiendo lo que indica el artículo 15 de la ley.",
+  "resumen": "Este artículo señala que cuando se importen bienes de manera ocasional, se debe pagar el impuesto correspondiente conforme a lo que indica otro artículo de la ley. También menciona servicios relacionados con estas importaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por la importación ocasional de bienes?",
-    "¿Qué se considera una importación ocasional?",
-    "¿A qué artículo me debo referir para el pago de impuestos por importación?"
+    "¿Cómo se paga el impuesto por importar bienes ocasionalmente?",
+    "¿Qué impuestos debo considerar al traer productos del extranjero?",
+    "¿Qué se entiende por importación ocasional de bienes?",
+    "¿Cómo afecta el impuesto de importación a los servicios que ofrezco?",
+    "¿Dónde se regula el pago de impuestos por importaciones ocasionales?"
   ]
 }

@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:38b7807838818c01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación Presuntiva del Impuesto",
+  "denominacion_comun": "Determinación presuntiva de litros de alcohol",
   "temas": [
-    "determinación presuntiva",
     "impuesto sobre alcohol",
-    "cumplimiento fiscal",
-    "equipos de destilación",
-    "reportes de producción"
+    "determinación presuntiva",
+    "incumplimiento fiscal",
+    "producción de alcohol"
   ],
   "terminos_coloquiales": [
-    "impuesto de alcohol",
-    "determinación de litros",
-    "cumplimiento de alcohol",
-    "impuesto presuntivo"
+    "litros de alcohol",
+    "inspección fiscal",
+    "autoridades fiscales"
   ],
-  "resumen": "Las autoridades fiscales pueden estimar la cantidad de litros de alcohol producidos por los contribuyentes si no cumplen con ciertas obligaciones. Esto incluye considerar la capacidad máxima de producción de sus equipos de destilación y ajustar los impuestos en consecuencia.",
+  "resumen": "Las autoridades fiscales pueden estimar la cantidad de litros de alcohol producidos si los contribuyentes no cumplen con ciertos requerimientos. Esta estimación se basa en los equipos utilizados por los contribuyentes y los litros reportados previamente.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el impuesto en base a la producción de alcohol?",
-    "¿Qué puede pasar si no reporto mis litros de producción de alcohol?",
-    "¿Qué consideran las autoridades al calcular mi impuesto presuntivo?",
-    "¿Qué obligaciones tengo en relación a mis equipos de destilación?",
-    "¿Cómo afecta el incumplimiento a mi impuesto sobre alcohol?"
+    "¿Qué pasa si no reporto correctamente los litros de alcohol que produzco?",
+    "¿Cómo determinan las autoridades fiscales cuántos litros de alcohol he producido?",
+    "¿Qué implica la determinación presuntiva del impuesto sobre alcohol?",
+    "¿Qué consecuencias hay por incumplir con el reporte de litros de alcohol?",
+    "¿Qué se considera incumplimiento en la producción de alcohol?"
   ]
 }

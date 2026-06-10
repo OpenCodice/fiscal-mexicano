@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a6edcf333d4bd642",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes",
   "temas": [
     "definición de enajenación",
-    "faltantes en inventarios",
+    "faltante de inventarios",
     "retiro de bienes",
+    "pago de impuestos",
     "autoconsumo",
-    "no enajenación por donación",
-    "ventas de bebidas alcohólicas"
+    "exenciones",
+    "venta de bebidas alcohólicas"
   ],
   "terminos_coloquiales": [
-    "enajenación",
-    "impuesto por enajenación",
-    "bienes enajenados"
+    "ventas",
+    "bienes en inventarios",
+    "retirar mercancía",
+    "autoconsumo",
+    "donación",
+    "bebidas alcohólicas"
   ],
-  "resumen": "El artículo define qué se entiende por enajenación en el contexto fiscal, incluyendo el faltante de bienes en inventarios y el retiro de bienes que no se comercializan. También menciona situaciones en las que no se considera enajenación, como la donación y las ventas de bebidas alcohólicas al público.",
+  "resumen": "El artículo define qué se entiende por enajenación y detalla situaciones específicas como faltantes en inventarios, retiros de bienes no destinados a su venta, autoconsumo y excepciones como donaciones y ventas de bebidas alcohólicas. También menciona plazos para el pago de impuestos relacionados.",
   "preguntas_ejemplo": [
     "¿Qué se considera enajenación de bienes?",
-    "¿Cuándo debo pagar el impuesto por enajenación?",
-    "¿Qué bienes no se consideran enajenados?",
-    "¿Cómo se trata el autoconsumo de bienes?",
-    "¿Las donaciones se consideran enajenación?"
+    "¿Qué pasa si tengo faltantes en mi inventario?",
+    "¿Cómo se paga el impuesto por retiro de mercancía?",
+    "¿El autoconsumo se considera enajenación?",
+    "¿Las donaciones están exentas de impuestos por enajenación?",
+    "¿Puedo vender bebidas alcohólicas sin que se considere enajenación?"
   ]
 }

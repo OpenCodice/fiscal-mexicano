@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:73a7f576976bd6e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación de bienes",
+  "denominacion_comun": "Impuesto Especial sobre Producción y Servicios",
   "temas": [
-    "impuesto sobre producción y servicios",
-    "impuesto general de importación",
-    "regímenes aduaneros",
+    "importación de bienes",
+    "pago de impuestos",
     "depósito fiscal",
+    "regímenes aduaneros",
     "devolución de impuestos"
   ],
   "terminos_coloquiales": [
-    "impuesto a la importación",
-    "régimen de maquila",
-    "devolución de impuestos",
-    "pago de impuestos en aduana"
+    "impuesto especial",
+    "productos importados",
+    "aduana",
+    "declaración aduanera",
+    "regímenes de maquila",
+    "devolución de impuestos"
   ],
-  "resumen": "El pago de impuestos al importar bienes se realiza junto con el impuesto general de importación. Para ciertos regímenes de importación temporal, el pago debe hacerse al presentar el pedimento, y se puede solicitar la devolución del impuesto pagado al regresar los bienes al extranjero.",
+  "resumen": "Este artículo establece las reglas sobre el pago del impuesto especial sobre producción y servicios en la importación de bienes. Detalla los regímenes aduaneros aplicables y las condiciones para solicitar la devolución del impuesto cuando los bienes se destinen a esos regímenes.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto al importar mercancías?",
-    "¿Qué pasa con el impuesto si mis bienes están en depósito fiscal?",
-    "¿Cuándo se realiza el pago de impuestos para programas de maquila?",
-    "¿Puedo solicitar la devolución de impuestos por mercancías importadas?",
-    "¿Qué requisitos hay para importar bienes sin pagar el impuesto general?"
+    "¿Cuándo tengo que pagar el impuesto especial en la importación de bienes?",
+    "¿Qué pasa si mis bienes están en depósito fiscal?",
+    "¿Puedo recuperar el impuesto especial si exporto los bienes después?",
+    "¿Cómo se hace el pago del impuesto en aduanas?",
+    "¿Qué son los regímenes de maquila y cómo afectan mis impuestos?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbab9b94faeae845",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación de Enajenación de Bienes",
+  "denominacion_comun": "Mermas en producción",
   "temas": [
+    "enajenación de bienes",
+    "presunción fiscal",
     "mermas",
-    "producción",
-    "envasamiento",
-    "bebidas alcohólicas",
-    "valor de enajenación"
+    "productores",
+    "envasadores",
+    "bebidas alcohólicas"
   ],
   "terminos_coloquiales": [
-    "margen de mermas",
-    "enajenación de productos",
-    "ventas presuntivas"
+    "mermas",
+    "determinación presuntiva",
+    "cerveza",
+    "bebidas alcohólicas",
+    "enajenación de productos"
   ],
-  "resumen": "Las autoridades fiscales pueden establecer que los bienes declarados como mermas por los contribuyentes se han enajenado cuando superan ciertos porcentajes. Esto aplica a fabricantes y envasadores de ciertos productos, y se determina el valor considerando el precio de venta más alto.",
+  "resumen": "Las autoridades fiscales pueden asumir que se enajenaron las mermas que un contribuyente reporta en su producción si superan ciertos porcentajes. Se considera que los bienes se enajenan al precio más alto al que el contribuyente los vende.",
   "preguntas_ejemplo": [
-    "¿Qué consideraciones hay para las mermas en la producción?",
-    "¿Cómo se determina el valor de venta de productos mermados?",
-    "¿Qué porcentajes se aplican a las mermas en bebidas alcohólicas?",
-    "¿A quiénes les afecta la determinación de enajenación de bienes por mermas?",
-    "¿Hay un límite de mermas que puedo reportar sin consecuencias?"
+    "¿Cómo se determinan las mermas en la producción de cerveza?",
+    "¿Qué sucede si mis mermas superan el porcentaje establecido?",
+    "¿Qué porcentaje se aplica a las bebidas alcohólicas añejadas?",
+    "¿Las mermas afectan el valor de mis productos en venta?",
+    "¿Qué significa que la autoridad fiscal presuma que hubo enajenación?"
   ]
 }

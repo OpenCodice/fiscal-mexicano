@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:418235e66c106608",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales",
   "temas": [
-    "prestación de servicios",
+    "impuestos",
+    "servicios digitales",
     "residentes en el extranjero",
-    "territorio nacional",
-    "obligaciones fiscales"
+    "obligaciones de contribuyentes"
   ],
   "terminos_coloquiales": [
     "servicios digitales",
-    "residentes en el extranjero",
-    "LIEPS"
+    "impuesto sobre servicios digitales",
+    "residentes extranjeros"
   ],
-  "resumen": "Los servicios digitales prestados por residentes en el extranjero se consideran prestados en México si el receptor está en territorio nacional. Esto se relaciona con las obligaciones de los contribuyentes según la ley fiscal.",
+  "resumen": "El artículo establece que los servicios digitales prestados por residentes en el extranjero se consideran prestados en México si el receptor del servicio está en territorio nacional. También menciona las obligaciones de los contribuyentes relacionados con estos servicios.",
   "preguntas_ejemplo": [
     "¿Qué son los servicios digitales según la ley?",
-    "¿Cuáles son las obligaciones de los contribuyentes en México?",
-    "¿Cómo se consideran los servicios digitales prestados desde el extranjero?",
-    "¿Qué requisitos deben cumplir los servicios digitales para ser gravados?",
-    "¿Dónde se presta un servicio digital si el receptor está en México?",
-    "¿Qué dice la Ley del Impuesto al Valor Agregado sobre los servicios digitales?"
+    "¿Cómo se gravan los servicios digitales de empresas extranjeras?",
+    "¿Qué obligaciones tienen los contribuyentes por servicios digitales?",
+    "¿Dónde se considera que se presta el servicio digital?",
+    "¿Quiénes son considerados residentes en el extranjero para este tema?"
   ]
 }

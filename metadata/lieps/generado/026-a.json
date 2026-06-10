@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:294c286aa7ad11f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requerimiento de Información sobre Marbetes",
+  "denominacion_comun": "Requerimiento de información sobre marbetes",
   "temas": [
     "marbetes",
     "precintos",
-    "autoridades fiscales",
-    "contribuyentes",
-    "plazo para entregar información"
+    "requerimiento de información",
+    "plazo de entrega",
+    "desistimiento"
   ],
   "terminos_coloquiales": [
     "marbetes",
     "precintos",
-    "requerimiento de información",
+    "papeles",
     "documentación fiscal"
   ],
-  "resumen": "Las autoridades fiscales pueden solicitar a los contribuyentes información sobre el uso de marbetes o precintos. Si no entregan la información en un plazo de 10 días, se considerará que han desistido de su solicitud para obtenerlos.",
+  "resumen": "Las autoridades fiscales pueden solicitar a los contribuyentes información o documentos para verificar el uso correcto de los marbetes o precintos entregados. Los contribuyentes tienen un plazo de 10 días para cumplir con esta solicitud, de lo contrario, se considerará que desisten de su solicitud.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no entrego la información sobre mis marbetes?",
-    "¿Cuánto tiempo tengo para proporcionar la documentación requerida sobre precintos?",
-    "¿Pueden las autoridades fiscales pedirme más información sobre mis marbetes?",
-    "¿Qué sucede si no respondo al requerimiento de información sobre marbetes?",
-    "¿Qué son los marbetes y cómo los debo utilizar?"
+    "¿Qué son los marbetes y cómo los uso?",
+    "¿Qué pasa si no entrego la información sobre los marbetes en 10 días?",
+    "¿Qué documentos debo presentar para comprobar el uso de los marbetes?",
+    "¿Puedo solicitar nuevamente marbetes si me desisto?",
+    "¿Qué sucede si no tengo los precintos requeridos?"
   ]
 }

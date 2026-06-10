@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ec9dd0d2ce76d86",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto en juegos y sorteos",
+  "denominacion_comun": "Impuesto sobre juegos y sorteos",
   "temas": [
-    "impuesto",
+    "cálculo del impuesto",
     "juegos",
     "sorteos",
-    "apuestas",
     "premios",
+    "cantidades percibidas",
     "devoluciones",
-    "valores considerados"
+    "registro contable",
+    "valor de participación"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre sorteos",
     "juegos de azar",
-    "valor de apuestas",
+    "sorteos",
     "premios",
-    "devoluciones de apuestas"
+    "apuestas",
+    "devoluciones",
+    "ganancias"
   ],
-  "resumen": "Este artículo establece cómo se calcula el impuesto por actividades relacionadas con juegos y sorteos, considerando el total de las cantidades percibidas como valor. También detalla las deducciones permitidas por premios y devoluciones a los participantes.",
+  "resumen": "Este artículo establece cómo se debe calcular el impuesto en los juegos y sorteos, considerando el total de las cantidades percibidas por los participantes. También menciona situaciones específicas sobre premios y devoluciones que pueden afectar el monto del impuesto.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto en un sorteo?",
-    "¿Qué se considera como valor en juegos de sorteos?",
-    "¿Se pueden deducir premios entregados al calcular el impuesto?",
-    "¿Qué pasa si las devoluciones son mayores que las apuestas?",
+    "¿Cómo se calcula el impuesto en sorteos?",
+    "¿Qué se considera como valor en un juego de apuestas?",
+    "¿Puedo reducir el monto del impuesto con los premios entregados?",
+    "¿Qué pasa si devuelvo dinero a los participantes?",
     "¿Cómo afectan las devoluciones al cálculo del impuesto en juegos?"
   ]
 }

@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9ae05d731ba46464",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuotas de Impuestos en Gasolinas y Diésel",
+  "denominacion_comun": "Impuesto a Gasolinas y Diésel",
   "temas": [
-    "cuotas",
-    "gasolina",
-    "diésel",
-    "impuesto",
-    "actualización"
+    "cuotas de gasolinas",
+    "cuotas de diésel",
+    "actualización de cuotas",
+    "impuesto al valor agregado",
+    "declaraciones informativas",
+    "destino de recursos",
+    "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
-    "impuesto a las gasolinas",
-    "impuesto al diésel",
-    "LIEPS",
-    "cuotas de combustibles"
+    "gasolina",
+    "diésel",
+    "precio de gasolina",
+    "precio de diésel",
+    "impuesto sobre gasolinas",
+    "Hacienda",
+    "cuota de gasolina",
+    "cuota de diésel"
   ],
-  "resumen": "Este artículo establece las cuotas aplicables a la enajenación de gasolinas y diésel en México. Las cuotas se actualizarán anualmente y los contribuyentes deben incluirlas en el precio de venta, pero no como un cargo separado.",
+  "resumen": "El artículo detalla las cuotas que se aplican a la enajenación de gasolinas y diésel en México. Además, establece que las cuotas se actualizarán anualmente y que los contribuyentes deben informar sobre los litros enajenados para el cálculo de impuestos.",
   "preguntas_ejemplo": [
-    "¿Cuánto es el impuesto por litro de gasolina?",
-    "¿Cómo se actualizan las cuotas de las gasolinas?",
-    "¿Qué impuestos se aplican al diésel?",
-    "¿Las cuotas de gasolina se suman al IVA?",
-    "¿Dónde se consulta el monto del impuesto a las gasolinas?"
+    "¿Cuánto es el impuesto a la gasolina?",
+    "¿Cómo se actualizan las cuotas de gasolinas y diésel?",
+    "¿Qué debo reportar si vendo gasolina?",
+    "¿A dónde va el impuesto que se cobra por diésel?",
+    "¿Cómo afecta el impuesto al precio final de la gasolina?"
   ]
 }

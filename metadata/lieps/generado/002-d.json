@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b0b357ba1711668",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Metodología para cuotas de combustibles fósiles",
+  "denominacion_comun": "Cuota de Combustibles Fósiles",
   "temas": [
-    "cuotas",
+    "metodología de cálculo",
+    "cuota por litro",
     "combustibles fósiles",
-    "emisiones de CO2",
-    "densidad del combustible",
+    "emisiones de carbono",
     "poder calorífico",
-    "factor de emisión"
+    "densidad del combustible"
   ],
   "terminos_coloquiales": [
-    "metodología de cuotas",
-    "cuota por litro",
-    "combustibles",
-    "emisiones de carbono",
-    "LIEPS"
+    "cuota de gasolina",
+    "cuota de diésel",
+    "calor de combustión",
+    "gasolina",
+    "diesel"
   ],
-  "resumen": "El artículo establece una metodología para calcular la cuota por litro de combustibles fósiles no incluidos en varios numerales previos. Se deben considerar la densidad, el poder calorífico y el factor de emisión de carbono del combustible para realizar el cálculo adecuado.",
+  "resumen": "Este artículo establece la metodología para calcular la cuota por litro de un combustible fósil no especificado, tomando en cuenta su densidad, poder calorífico y factor de emisión de carbono. Los resultados se aplican a los litros del combustible en cuestión para determinar la cuota correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la cuota por litro de un combustible fósil?",
-    "¿Qué factores necesito considerar para calcular la cuota de emisiones?",
-    "¿Cuál es la metodología para calcular las cuotas en combustibles fósiles?",
-    "¿Qué información necesito del combustible para saber cuánto debo pagar?",
-    "¿Cómo afectará el poder calorífico en el cálculo de mi cuota?"
+    "¿Cómo se calcula la cuota de gasolina?",
+    "¿Qué metodología se utiliza para determinar la cuota de combustibles fósiles?",
+    "¿Qué factores se consideran para calcular la cuota por litro de combustible?",
+    "¿Cómo influye la densidad del combustible en la cuota?",
+    "¿Qué es el poder calorífico y cómo se aplica en el cálculo de cuotas?"
   ]
 }

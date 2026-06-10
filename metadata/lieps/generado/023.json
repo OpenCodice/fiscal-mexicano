@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9eb84e91631a795f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presunciones fiscales sobre adquisiciones",
+  "denominacion_comun": "Presunciones de uso de materia prima",
   "temas": [
-    "registro de adquisiciones",
     "materia prima",
-    "empaques y envases",
-    "control de marbetes",
-    "diferencias volumétricas",
-    "valor de enajenación"
+    "impuestos",
+    "empaques",
+    "envases",
+    "marbetes",
+    "control volumétrico",
+    "diferencias en control",
+    "declaración de impuestos"
   ],
   "terminos_coloquiales": [
-    "presunciones de impuesto",
-    "registro de materias",
-    "falta de registro de empaques",
-    "diferencias de volumen"
+    "uso de materia prima",
+    "impuesto por enajenación",
+    "omisión de registro",
+    "empaques y envases",
+    "control de producción"
   ],
-  "resumen": "El artículo establece que si un contribuyente no registra ciertas adquisiciones, se presumirá que se usaron para productos sujetos al pago de impuestos, y que dichos impuestos no fueron declarados. También se mencionan las presunciones ante diferencias en el volumen registrado y el volumen declarado.",
+  "resumen": "El artículo establece que si un contribuyente no registra la adquisición de materia prima o empaques, se presume que estos bienes se utilizaron para producir y vender productos sujetos a impuestos. También se menciona que si hay diferencias en el control del volumen envasado, se considerarán como ventas efectivas no declaradas.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no registro la compra de materia prima?",
-    "¿Qué implicaciones tiene no informar sobre mis empaques?",
-    "¿Cómo afectan las diferencias de volumen en mi declaración fiscal?",
-    "¿Qué significa que se presuma el uso de bienes no registrados?",
-    "¿Qué valor se considera para el pago de impuestos en estos casos?"
+    "¿Se puede presumir el uso de empaques si no los reporto?",
+    "¿Cómo se manejan las diferencias en el control de producción?",
+    "¿Qué se considera como venta no declarada en este contexto?",
+    "¿Cuál es el precio promedio que se toma en cuenta para el impuesto?"
   ]
 }

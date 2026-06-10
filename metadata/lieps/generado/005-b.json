@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8edd8db25913f395",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre Juegos y Sorteos",
+  "denominacion_comun": "Deducción de impuestos por juegos y sorteos",
   "temas": [
-    "disminución de impuestos",
-    "impuesto federal",
-    "juegos con apuestas",
-    "sorteos",
-    "pagos a entidades federativas"
+    "impuestos",
+    "juegos y sorteos",
+    "deducciones fiscales",
+    "contribuyentes",
+    "entidades federativas"
   ],
   "terminos_coloquiales": [
-    "impuesto de juegos",
-    "disminución de juego",
-    "juegos y sorteos",
-    "LIEPS"
+    "deducción de impuestos",
+    "impuestos de juegos",
+    "pago de impuestos de sorteos",
+    "participación al Gobierno Federal",
+    "juegos con apuestas"
   ],
-  "resumen": "Los contribuyentes que realicen actividades relacionadas con juegos y sorteos pueden restar ciertos impuestos pagados al Gobierno Federal de su impuesto correspondiente. Si la disminución es mayor que el impuesto a pagar, se puede aplicar en los meses siguientes sin generar acreditamiento o devolución.",
+  "resumen": "Las personas que realizan actividades relacionadas con juegos y sorteos pueden disminuir ciertos impuestos del monto a pagar al Gobierno Federal en el mes correspondiente. Si la disminución excede el impuesto, la diferencia se puede aplicar en meses siguientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo disminuir el impuesto por juegos de azar?",
-    "¿Qué impuestos se pueden restar en la declaración de juegos y sorteos?",
-    "¿Puedo aplicar un saldo a favor de ejercicios anteriores en juegos?",
-    "¿Cómo afecta el impuesto estatal en mis pagos de impuestos federales?",
-    "¿Qué requisitos debo cumplir para disminuir impuestos en juegos y sorteos?"
+    "¿Puedo deducir los impuestos que pago por juegos y sorteos?",
+    "¿Cómo afectan los impuestos de las entidades federativas a mis impuestos de juegos?",
+    "¿Qué debo hacer si mi deducción es mayor que el impuesto a pagar?",
+    "¿Hay un límite en la deducción de impuestos por juegos y sorteos?",
+    "¿Cómo realizo la disminución de impuestos en mi declaración?"
   ]
 }

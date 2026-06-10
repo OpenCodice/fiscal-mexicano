@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:405a6e32f89df10b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Causación del Impuesto en Importaciones",
+  "denominacion_comun": "Impuesto en la importación de bienes",
   "temas": [
-    "importación de bienes",
+    "importación",
     "impuesto",
     "pedimento aduanero",
     "importación temporal",
-    "bien embargado"
+    "bien embargado",
+    "mercancías",
+    "legislación aduanera"
   ],
   "terminos_coloquiales": [
     "impuesto de importación",
-    "reglas de importación",
-    "importación definitiva"
+    "aduanas",
+    "bien ilegal",
+    "pedimento"
   ],
-  "resumen": "El impuesto se causa en el momento de presentar el pedimento aduanero. También se causa al convertir una importación temporal en definitiva y cuando se descubren bienes introducidos ilegalmente al país.",
+  "resumen": "El impuesto se genera en la importación de bienes cuando se presenta el pedimento aduanero. También se aplica al convertir bienes de importación temporal en definitiva o cuando se descubre la internación ilegal de mercancías.",
   "preguntas_ejemplo": [
     "¿Cuándo se causa el impuesto al importar bienes?",
-    "¿Qué pasa con los bienes importados temporalmente?",
-    "¿Cómo se aplica el impuesto a mercancías embargadas?",
-    "¿Qué ocurre si importo bienes de manera ilegal?",
-    "¿Cuál es el proceso para declarar el impuesto de importación?"
+    "¿Qué sucede con el impuesto si importo temporalmente un bien?",
+    "¿Cuándo tengo que pagar impuesto si se descubre que introduje un bien ilegalmente?",
+    "¿Qué es un pedimento en la importación?",
+    "¿Cómo afecta la legislación aduanera a mis impuestos al importar?"
   ]
 }

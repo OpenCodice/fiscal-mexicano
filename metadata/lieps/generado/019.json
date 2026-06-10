@@ -6,36 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:365b5c7622e4330a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de los contribuyentes",
+  "denominacion_comun": "Obligaciones de contribuyentes",
   "temas": [
-    "Contabilidad",
-    "Comprobantes fiscales",
-    "Declaraciones",
-    "Registro de precios",
-    "Marbetes",
-    "Información sobre producción",
-    "Control volumétrico",
-    "Código de seguridad"
+    "contabilidad",
+    "comprobantes fiscales",
+    "información a autoridades fiscales",
+    "productos con nicotina",
+    "bebidas alcohólicas",
+    "tabacos labrados",
+    "marbetes"
   ],
   "terminos_coloquiales": [
-    "Obligaciones fiscales",
-    "Contabilidad fiscal",
-    "Comprobantes",
-    "Declaraciones de impuestos",
-    "Marbetes de bebidas",
-    "Código de seguridad de tabacos",
-    "ISR",
-    "IEPS"
+    "contabilidad",
+    "facturas",
+    "declaraciones fiscales",
+    "cigarros",
+    "tabacos",
+    "codigos de seguridad",
+    "marbetes para bebidas",
+    "bebidas alcohólicas"
   ],
-  "resumen": "Este artículo detalla las obligaciones que tienen los contribuyentes en relación con la contabilidad, la emisión de comprobantes fiscales, la presentación de declaraciones, así como el registro y control de precios de productos gravados, entre otros aspectos específicos para diferentes bienes como bebidas alcohólicas y tabacos. También menciona la necesidad de inclusión de códigos de seguridad en ciertos productos.",
+  "resumen": "Este artículo establece las obligaciones de los contribuyentes respecto a la contabilidad, la expedición de comprobantes fiscales, y la presentación de información sobre productos como bebidas alcohólicas y tabacos labrados. También se mencionan requisitos específicos como el uso de marbetes y códigos de seguridad.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones debo cumplir como contribuyente según la ley?",
-    "¿Cómo debo llevar mi contabilidad de acuerdo a la ley fiscal?",
-    "¿Qué comprobantes fiscales debo expedir en mis ventas?",
-    "¿Cuándo tengo que presentar mis declaraciones fiscales?",
-    "¿Qué es un marbete y cómo debo usarlo?",
-    "¿Cuáles son las penalizaciones si no cumplo con mis obligaciones fiscales?"
+    "¿Qué obligaciones tengo si vendo bebidas alcohólicas?",
+    "¿Cómo debo llevar mi contabilidad como contribuyente?",
+    "¿Qué información debo proporcionar al SAT sobre mis productos con nicotina?",
+    "¿Qué son los marbetes y cuándo los debo utilizar?",
+    "¿Cómo expido un comprobante fiscal correcto?",
+    "¿Qué sanciones puedo enfrentar por no cumplir con mis obligaciones fiscales?"
   ]
 }

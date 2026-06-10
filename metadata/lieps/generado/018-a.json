@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f520efdace5bf29",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios de telecomunicaciones",
+  "denominacion_comun": "Servicios de telecomunicaciones en territorio nacional",
   "temas": [
     "territorio nacional",
     "servicios",
     "redes públicas",
-    "telecomunicaciones",
-    "prestación de servicios"
+    "telecomunicaciones"
   ],
   "terminos_coloquiales": [
-    "servicios de telecom",
-    "telecomunicaciones en México"
+    "servicios de telecomunicaciones",
+    "telecomunicaciones",
+    "internet",
+    "redes de comunicación"
   ],
-  "resumen": "Los servicios se consideran prestados en México cuando se utilizan redes públicas de telecomunicaciones, ya sea total o parcialmente. Esto se refiere al lugar donde se llevan a cabo dichos servicios.",
+  "resumen": "Se establece que los servicios de telecomunicaciones se consideran prestados en territorio nacional si se realizan a través de redes públicas de telecomunicaciones, ya sea en su totalidad o en parte.",
   "preguntas_ejemplo": [
     "¿Cuándo se consideran prestados los servicios de telecomunicaciones en México?",
-    "¿Qué significa que los servicios se presten a través de redes públicas?",
-    "¿Cómo se determina la ubicación de la prestación de servicios de telecom?",
-    "¿Qué dice la ley sobre servicios de telecomunicaciones y su territorio?",
-    "¿Qué criterios se utilizan para definir la prestación de servicios en el país?"
+    "¿Qué se entiende por servicios en territorio nacional en telecomunicaciones?",
+    "¿Cómo se definen las redes públicas de telecomunicaciones en la ley?",
+    "¿Los servicios parciales también cuentan como prestados en territorio nacional?",
+    "¿Qué significa prestar servicios de telecomunicaciones en territorio nacional?"
   ]
 }

@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:984f66fc766961c0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto por enajenaciones",
+  "denominacion_comun": "Impuesto por Enajenaciones",
   "temas": [
-    "impuesto por enajenación",
-    "valor de venta",
     "cigarros",
-    "tabacos",
+    "tabacos labrados",
     "productos con nicotina",
-    "bebidas saborizadas"
+    "bebidas saborizadas",
+    "impuesto sobre enajenaciones",
+    "valor de enajenaciones",
+    "importación de bienes"
   ],
   "terminos_coloquiales": [
-    "impuesto a cigarros",
-    "cálculo de impuestos por tabacos",
-    "enajenación de productos con nicotina",
-    "valor contra prestación",
-    "Ley del Impuesto Especial sobre Producción y Servicios (LIEPS)"
+    "impuesto sobre cigarros",
+    "impuesto a tabacos",
+    "precio de venta",
+    "bebidas azucaradas",
+    "contraprestación",
+    "nicotina",
+    "litros enajenados"
   ],
-  "resumen": "El artículo establece cómo se debe calcular el impuesto por la enajenación de cigarros, tabacos y otros productos que contengan nicotina, considerando su valor de venta y la contraprestación pactada. Además, se aclara que no se pagará impuesto por enajenaciones subsecuentes de estos bienes.",
+  "resumen": "Este artículo establece cómo calcular el impuesto por la enajenación de productos como cigarros y tabacos, considerando su precio de venta al detallista o la contraprestación pactada. También indica que no se pagará este impuesto por enajenaciones subsecuentes de estos productos.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el impuesto por la venta de cigarros?",
-    "¿Qué valor se considera para el impuesto de tabacos?",
-    "¿El impuesto se paga varias veces por el mismo producto?",
-    "¿Qué cantidad se necesita para calcular el impuesto de bebidas azucaradas?",
-    "¿Se puede acreditar el impuesto en las enajenaciones subsecuentes?"
+    "¿Se paga impuesto por la reventa de tabacos labrados?",
+    "¿Qué valor se considera para el impuesto de productos que contienen nicotina?",
+    "¿Cómo se determinan las unidades a gravar por bebidas saborizadas?",
+    "¿Se paga impuesto por la venta de productos con nicotina en territorio nacional?"
   ]
 }

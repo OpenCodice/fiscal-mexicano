@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4115631e57abfada",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Distribución de impuestos por entidades",
+  "denominacion_comun": "Recaudación Fiscal Estatal",
   "temas": [
-    "impuestos sobre cerveza",
-    "impuestos sobre gasolina",
-    "impuestos sobre tabacos",
-    "Sistema Nacional de Coordinación Fiscal",
-    "distribución de recursos",
-    "gasto municipal"
+    "recaudación",
+    "cerveza",
+    "gasolina",
+    "tabacos",
+    "impuestos locales",
+    "municipios",
+    "participación fiscal"
   ],
   "terminos_coloquiales": [
-    "recaudación de impuestos",
-    "impuestos estatales",
-    "impuestos municipales",
-    "SNFC"
+    "impuestos sobre cerveza",
+    "impuestos sobre gasolina",
+    "impuestos sobre tabaco",
+    "recaudación estatal",
+    "gastos municipales"
   ],
-  "resumen": "Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal participarán en la recaudación de impuestos sobre cerveza, gasolina y tabacos, con porcentajes determinados para cada entidad y sus municipios. También podrán imponer impuestos locales sobre tabacos cultivados en sus territorios.",
+  "resumen": "El artículo establece cómo se distribuyen los impuestos recaudados sobre la cerveza, gasolina y tabacos entre las entidades y municipios que producen y consumen estos productos. También menciona que los estados que no se adhieran al Sistema Nacional de Coordinación Fiscal podrán gravar la producción y venta de tabaco con impuestos locales.",
   "preguntas_ejemplo": [
-    "¿Cuánto reciben los Estados por impuestos sobre cerveza?",
-    "¿Cómo se distribuyen los impuestos sobre gasolina entre las entidades?",
-    "¿Qué porcentaje de impuestos sobre tabacos se queda cada entidad?",
-    "¿Qué pasa si un Estado no se adhiere al Sistema Nacional de Coordinación Fiscal?",
-    "¿Puede un Estado cobrar impuestos adicionales sobre tabacos?"
+    "¿Cómo se reparte el impuesto sobre la cerveza?",
+    "¿Qué porcentaje de impuestos recibe mi municipio por la venta de gasolina?",
+    "¿Los estados que no están en el sistema de coordinación fiscal pueden cobrar impuestos sobre tabaco?",
+    "¿El gobierno municipal recibe alguna parte de la recaudación fiscal por tabacos?",
+    "¿Qué impuestos se aplican a la cerveza en mi estado?"
   ]
 }

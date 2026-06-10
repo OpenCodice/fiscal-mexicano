@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:929530a06eed1326",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de Impuestos",
+  "denominacion_comun": "Retención de impuestos",
   "temas": [
     "retención de impuestos",
     "contraprestaciones",
     "declaraciones fiscales",
-    "obligaciones de los contribuyentes"
+    "contribuyentes",
+    "actividades de enajenación"
   ],
   "terminos_coloquiales": [
-    "retención de impuestos",
+    "impuesto retenido",
     "declaración de impuestos",
-    "contribuyentes sin obligación",
-    "impuesto sobre contraprestaciones"
+    "contribuyentes",
+    "pagos de impuestos"
   ],
-  "resumen": "Los fabricantes, productores, envasadores o importadores deben retener impuestos sobre las contraprestaciones cuando enajenan bienes a través de diversos intermediarios. Si las contraprestaciones están incluidas en el valor de la enajenación, no se realizarán estas retenciones y algunos contribuyentes no necesitarán presentar declaraciones mensuales.",
+  "resumen": "Este artículo establece que los fabricantes, productores e importadores que enajenen ciertos bienes deben retener un impuesto sobre la contraprestación y presentarlo en una declaración. Aquellos que solo realicen estas actividades y tengan impuestos retenidos no tienen que presentar declaraciones mensuales.",
   "preguntas_ejemplo": [
-    "¿Qué es la retención de impuestos sobre contraprestaciones?",
-    "¿Los importadores deben presentar declaraciones de impuestos?",
-    "¿Qué obligaciones tienen los productores al vender sus bienes?",
-    "¿Cómo se calcula la retención de impuestos?",
-    "¿Quiénes son los contribuyentes sin obligación de declarar?",
-    "¿Qué pasa si la contraprestación está incluida en el valor de enajenación?"
+    "¿Qué es la retención de impuestos sobre la contraprestación?",
+    "¿Quiénes están obligados a retener impuestos según este artículo?",
+    "¿Qué deben hacer los fabricantes que enajenan bienes?",
+    "¿Cuándo no hay obligación de presentar declaraciones mensuales?",
+    "¿Qué actividades están sujetas a retención de impuestos?"
   ]
 }

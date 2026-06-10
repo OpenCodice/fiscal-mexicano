@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10fcd0438f59d9d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación presuntiva del impuesto",
+  "denominacion_comun": "Determinación presuntiva del valor",
   "temas": [
-    "valor de actos",
-    "actividades gravadas",
     "impuesto",
-    "tasa del impuesto",
+    "determinación presuntiva",
+    "valor de actos",
     "cantidades acreditables"
   ],
   "terminos_coloquiales": [
-    "determinación presuntiva",
-    "impuesto",
-    "tasa",
-    "acreditables"
+    "impuesto sobre actos",
+    "valor presuntivo",
+    "deducciones acreditables"
   ],
-  "resumen": "Se refiere al cálculo del impuesto basado en una determinación presuntiva del valor de actividades o actos. Se aplica una tasa del impuesto y se permite reducir el monto con las cantidades que se puedan acreditar.",
+  "resumen": "Este artículo establece que el valor de ciertas actividades o actos se determinará de forma presuntiva para calcular el impuesto que se debe pagar. El resultado podrá disminuirse con las cantidades que se puedan comprobar como acreditables.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor para el impuesto?",
-    "¿Qué significa la determinación presuntiva?",
-    "¿Puedo acreditar alguna cantidad en el impuesto?",
-    "¿Qué tasa de impuesto se aplica a mis actividades?",
-    "¿Cómo se reduce el impuesto que debo pagar?"
+    "¿Cómo se determina el valor de mis actividades para el impuesto?",
+    "¿Qué es la determinación presuntiva del valor?",
+    "¿Puedo reducir mi impuesto con cantidades acreditables?",
+    "¿Cómo funcionan las deducciones acreditables en el impuesto?",
+    "¿Qué tasa de impuesto se aplica a las actividades gravadas?"
   ]
 }

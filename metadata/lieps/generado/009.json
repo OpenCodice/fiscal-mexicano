@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e2d6bed681d7d774",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes",
   "temas": [
     "territorio nacional",
-    "enajenación",
-    "bien",
-    "envío",
+    "bien enajenado",
+    "envío al adquirente",
     "entrega material"
   ],
   "terminos_coloquiales": [
     "venta de bienes",
     "enajenación",
-    "entrega en el país"
+    "productos en venta"
   ],
-  "resumen": "Se considera que la enajenación de un bien ocurre dentro del territorio nacional si el bien está en el país al momento del envío o si se realiza la entrega material en el país sin envío.",
+  "resumen": "La ley define cómo se considera que una enajenación de bienes se realiza dentro del territorio nacional, ya sea por envío del bien al comprador o por entrega directa en el país. Esto establece las condiciones bajo las cuales se determina la ubicación de la.Transacción.",
   "preguntas_ejemplo": [
-    "¿Qué significa enajenación de bienes en México?",
-    "¿Dónde se considera que se realiza la venta de un bien?",
-    "¿Qué pasa si el bien se envía desde el extranjero?",
-    "¿Cómo se determina la enajenación en territorio nacional?",
-    "¿Qué condiciones se requieren para la entrega de bienes?"
+    "¿Qué significa que una venta se realice en territorio nacional?",
+    "¿Cómo se determina la ubicación de una enajenación?",
+    "¿Qué sucede si un bien es enviado desde el extranjero?",
+    "¿Qué se considera entrega material de un bien?",
+    "¿Cuándo se considera que se cumple con la enajenación en México?"
   ]
 }

@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1855f3f9d37a8ca6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de impuestos en importaciones",
+  "denominacion_comun": "Exenciones de Impuestos a Importaciones",
   "temas": [
-    "importaciones",
-    "exenciones fiscales",
-    "legislación aduanera",
-    "regímenes aduaneros",
-    "bienestar social",
-    "productos específicos",
-    "control de importaciones"
-  ],
-  "terminos_coloquiales": [
-    "exenciones de importación",
     "importaciones exentas",
     "regímenes aduaneros",
-    "importaciones temporales",
-    "impuesto de importación"
+    "bienes temporales",
+    "productos alimenticios",
+    "mieles",
+    "alcohol",
+    "plaguicidas",
+    "petróleo crudo"
   ],
-  "resumen": "El artículo establece las importaciones que no están sujetas al impuesto mencionado en la ley, incluyendo importaciones temporales, ciertas mercancías para misiones diplomáticas y determinados productos como aguamiel y plaguicidas. También se especifican condiciones para las importaciones definitivas en ciertos regímenes aduaneros.",
+  "terminos_coloquiales": [
+    "importaciones sin impuestos",
+    "productos que no pagan impuestos",
+    "importaciones temporales",
+    "aguamiel",
+    "bebidas alcohólicas",
+    "alcohol desnaturalizado",
+    "plaguicidas",
+    "gas natural"
+  ],
+  "resumen": "El artículo establece las situaciones en las que no se pagará el impuesto sobre importaciones, incluyendo bienes temporales, productos alimenticios y ciertas importaciones realizadas por pasajeros o misiones diplomáticas. También se mencionan exenciones para bebidas y plaguicidas específicos.",
   "preguntas_ejemplo": [
     "¿Qué importaciones están exentas de impuestos?",
-    "¿Cuáles son los requisitos para las importaciones temporales?",
-    "¿Qué bienes no pagan impuesto en la importación?",
-    "¿Cómo afectan las misiones diplomáticas a las importaciones?",
-    "¿Qué condiciones se aplican a las importaciones de productos específicos?"
+    "¿Hay impuestos para el alcohol desnaturalizado en importaciones?",
+    "¿Cuáles son las importaciones temporales y sus requisitos?",
+    "¿Las mercancías de misiones diplomáticas pagan impuestos?",
+    "¿Qué productos alimenticios no pagan impuestos al entrar al país?"
   ]
 }

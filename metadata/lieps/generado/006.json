@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c07c1da7abaf1564",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devoluciones y descuentos",
+  "denominacion_comun": "Devoluciones y Descuentos",
   "temas": [
     "devolución de bienes",
     "descuentos",
@@ -17,15 +18,17 @@
   ],
   "terminos_coloquiales": [
     "devoluciones",
-    "descuentos fiscales",
-    "bonificaciones fiscales"
+    "descuentos",
+    "bonificaciones",
+    "pagar menos de impuestos"
   ],
-  "resumen": "Los contribuyentes pueden disminuir el impuesto a pagar si reciben devoluciones, descuentos o bonificaciones relacionadas con bienes enajenados. Si el monto del impuesto causado es menor al que deben disminuir, pueden usar la diferencia en declaraciones futuras.",
+  "resumen": "Este artículo establece que los contribuyentes pueden disminuir el impuesto a pagar cuando reciben devoluciones, descuentos o bonificaciones relacionadas con bienes enajenados. Si la reducción del impuesto es mayor al impuesto causado, se puede llevar la diferencia a declaraciones futuras.",
   "preguntas_ejemplo": [
-    "¿Cómo afectan las devoluciones al impuesto que debo pagar?",
-    "¿Qué debo hacer si recibo un descuento en mis operaciones?",
-    "¿Puedo disminuir impuestos por bonificaciones recibidas?",
-    "¿Qué hago si mi impuesto a pagar es menor que el descuento que recibí?",
-    "¿Cómo registro una devolución de bienes en mi declaración?"
+    "¿Cómo puedo disminuir mis impuestos si me devuelven un bien?",
+    "¿Puedo usar descuentos para pagar menos impuestos en mi declaración?",
+    "¿Qué hago si el monto del descuento es mayor al impuesto que debo?",
+    "¿Cómo se manejan las bonificaciones en las declaraciones de impuestos?",
+    "¿Qué pasa si recibo un descuento y mi impuesto acreditable es menor?",
+    "¿Cómo afecta una devolución a mi impuesto a pagar?"
   ]
 }

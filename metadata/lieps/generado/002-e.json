@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:254dee8abfd4c7af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Otros combustibles fósiles",
@@ -20,18 +21,20 @@
     "Propileno"
   ],
   "terminos_coloquiales": [
-    "combustibles no convencionales",
     "combustibles fósiles",
     "parafina",
-    "negro de humo"
+    "negro de humo",
+    "asfaltos",
+    "aceites lubricantes",
+    "propileno"
   ],
-  "resumen": "Este artículo define y establece que ciertos productos como parafinas, negro de humo y asfaltos no se consideran dentro de la categoría de 'otros combustibles fósiles' si no se destinan a procesos de combustión. Se describen sus características y usos en diversas industrias.",
+  "resumen": "Este artículo define y clasifica ciertos productos como 'otros combustibles fósiles' y aclara que algunos no se consideran dentro de esta categoría si no son destinados a un proceso de combustión. Incluye ejemplos como parafinas y asfaltos, junto con sus usos industriales.",
   "preguntas_ejemplo": [
-    "¿Qué productos se consideran otros combustibles fósiles?",
-    "¿Cómo se utilizan las parafinas en la industria?",
-    "¿Qué es el negro de humo y para qué se usa?",
-    "¿Cuáles son los componentes del residuo largo?",
-    "¿Qué aplicaciones tienen los asfaltos?",
-    "¿Qué se entiende por aceites básicos y lubricantes?"
+    "¿Qué son los otros combustibles fósiles?",
+    "¿Qué productos entran en la categoría de otros combustibles fósiles?",
+    "¿Para qué se utilizan las parafinas?",
+    "¿Qué es el negro de humo y para qué sirve?",
+    "¿Qué aplicaciones tienen los asfaltos en la industria?",
+    "¿Cómo se clasifica el propileno en los combustibles?"
   ]
 }

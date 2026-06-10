@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:121135db50d37d75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Crédito Fiscal en Regímenes Aduaneros",
+  "denominacion_comun": "Créditos fiscales en regímenes aduaneros",
   "temas": [
-    "crédito fiscal",
     "importación temporal",
     "maquila",
+    "exportación",
     "depósito fiscal",
-    "recintos fiscalizados",
+    "vehículos",
     "certificación",
-    "impuesto especial sobre producción y servicios",
-    "interés fiscal"
+    "crédito fiscal",
+    "impuesto especial sobre producción y servicios"
   ],
   "terminos_coloquiales": [
-    "crédito fiscal aduanero",
+    "crédito fiscal",
     "certificación SAT",
-    "regímenes aduaneros",
     "impuesto especial",
-    "fianza fiscal"
+    "maquila",
+    "no pagar impuesto",
+    "fianza para garantía"
   ],
-  "resumen": "Este artículo permite a las empresas que importan bienes bajo ciertos regímenes aduaneros aplicar un crédito fiscal del 100% del impuesto especial sobre producción y servicios. Para esto, deben obtener una certificación del SAT que asegure el cumplimiento de requisitos específicos.",
+  "resumen": "Este artículo establece que las empresas pueden obtener un crédito fiscal del 100% del impuesto especial sobre producción y servicios al introducir bienes en ciertos regímenes aduaneros, siempre que cuenten con una certificación del SAT. Si no se certifican, pueden evitar pagar el impuesto con una garantía de fianza.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener el crédito fiscal por importaciones temporales?",
-    "¿Qué requisitos debo cumplir para la certificación del SAT?",
-    "¿Qué impuestos están exentos con el crédito fiscal en maquilas?",
-    "¿Qué sucede si no me certifico?",
-    "¿Qué es el interés fiscal en las importaciones?"
+    "¿Cómo puedo obtener el crédito fiscal por importación temporal?",
+    "¿Qué requisitos necesito para la certificación del SAT?",
+    "¿Qué pasa si no me certifico para los regímenes aduaneros?",
+    "¿El crédito fiscal se considera ingreso acumulable?",
+    "¿Cómo garantizo el interés fiscal si no pago el impuesto especial?"
   ]
 }

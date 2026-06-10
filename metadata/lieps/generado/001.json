@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:08a925be4eb2b75d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto Especial sobre Producción y Servicios",
+  "denominacion_comun": "Impuesto Especial sobre Producción y Servicios (IEPS)",
   "temas": [
     "obligaciones fiscales",
     "enajenación de bienes",
@@ -19,16 +20,20 @@
     "exenciones fiscales"
   ],
   "terminos_coloquiales": [
+    "impuesto sobre productos y servicios",
+    "impuesto especial",
     "IEPS",
-    "impuesto sobre producción y servicios",
-    "impuesto especial"
+    "importar bienes",
+    "vender productos",
+    "cobrar impuestos"
   ],
-  "resumen": "Las personas físicas y morales deben pagar el Impuesto Especial sobre Producción y Servicios por la venta o importación de ciertos bienes y la prestación de servicios específicos. Este impuesto se calcula según las tarifas establecidas y debe ser trasladado, incluso por entidades que normalmente están exentas.",
+  "resumen": "Esta ley establece que tanto personas físicas como morales deben pagar un impuesto por la venta o importación de ciertos bienes y por la prestación de servicios. También se menciona cómo se debe calcular este impuesto y las obligaciones de las distintas entidades al respecto.",
   "preguntas_ejemplo": [
-    "¿Quiénes están obligados a pagar el IEPS?",
-    "¿Cómo se calcula el Impuesto Especial sobre Producción y Servicios?",
+    "¿Quiénes deben pagar el IEPS?",
     "¿Qué bienes están sujetos a este impuesto?",
-    "¿Pueden las entidades exentas de impuestos federales cobrar IEPS?",
-    "¿Qué pasa con la traslación del impuesto en la ciudad de México?"
+    "¿Cómo se calcula el impuesto especial sobre producción y servicios?",
+    "¿Qué pasa si importo bienes al país?",
+    "¿Este impuesto aplica a los servicios que ofrezco?",
+    "¿Las entidades exentas también tienen que pagar este impuesto?"
   ]
 }

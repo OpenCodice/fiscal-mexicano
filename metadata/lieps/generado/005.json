@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4dbe28910373d33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago mensual del impuesto",
+  "denominacion_comun": "Pago mensual de impuestos",
   "temas": [
-    "cálculo del impuesto",
-    "pago mensual",
+    "cálculo mensual",
     "saldo a favor",
     "compensación de impuestos",
-    "impuesto a la importación",
+    "importaciones",
+    "exportaciones",
     "bonos de carbono",
-    "exportaciones"
+    "devolución de impuestos",
+    "contraprestaciones"
   ],
   "terminos_coloquiales": [
-    "pago del impuesto",
+    "pago de impuestos",
+    "declaración mensual",
     "saldo a favor",
-    "devolución de impuestos",
-    "compensar impuestos"
+    "compensar impuestos",
+    "impuesto por importar",
+    "devolución de saldo",
+    "bonos de carbono"
   ],
-  "resumen": "Este artículo establece cómo se calcula y se paga el impuesto de manera mensual, así como las condiciones para compensar saldos a favor y las disposiciones sobre el pago con bonos de carbono. También menciona tratamientos específicos para la importación y exportación de bienes.",
+  "resumen": "El artículo establece cómo se calcula y paga mensualmente el impuesto, así como las condiciones para compensar saldos a favor. También menciona la posibilidad de pagar ciertos impuestos con bonos de carbono y las normas aplicables en caso de omisión en el pago.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el pago del impuesto mensual?",
-    "¿Qué hacer si tengo un saldo a favor en mi declaración de impuestos?",
-    "¿Puedo pagar mis impuestos con bonos de carbono?",
-    "¿Cuáles son las fechas límite para el pago mensual del impuesto?",
-    "¿Qué sucede si no compenso mi saldo a favor?"
+    "¿Cómo se calcula el pago mensual de impuestos?",
+    "¿Qué hago si tengo un saldo a favor?",
+    "¿Puedo compensar mi saldo a favor en los siguientes meses?",
+    "¿Qué impuestos puedo pagar con bonos de carbono?",
+    "¿Qué sucede si no compenso el saldo a favor a tiempo?",
+    "¿Cómo se manejan los impuestos por importaciones y exportaciones?"
   ]
 }

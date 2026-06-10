@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c526530cb3095eb3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de servicios digitales",
+  "denominacion_comun": "Impuesto Especial sobre Producción y Servicios",
   "temas": [
-    "impuesto especial sobre producción y servicios",
     "servicios digitales",
-    "residencia fiscal",
-    "plataformas digitales",
-    "cumplimiento de obligaciones fiscales"
+    "impuesto especial",
+    "residentes en el extranjero",
+    "obligaciones fiscales",
+    "plataformas digitales"
   ],
   "terminos_coloquiales": [
+    "impuesto sobre servicios digitales",
+    "impuesto especial",
     "servicios digitales",
-    "ISEPS",
-    "obligaciones fiscales para plataformas",
-    "servicios de streaming",
-    "impuesto digital"
+    "plataformas digitales",
+    "IVA",
+    "obligaciones fiscales"
   ],
-  "resumen": "El artículo establece las obligaciones fiscales que deben cumplir las personas físicas y morales que ofrezcan servicios digitales, así como las plataformas que actúan como intermediarias. Estas obligaciones incluyen incluir el impuesto especial sobre producción y servicios en el precio y presentar información al SAT.",
+  "resumen": "Este artículo establece las obligaciones fiscales para personas físicas y morales que ofrecen servicios digitales, así como las responsabilidades de las plataformas digitales que actúan como intermediarias. Deben incluir el impuesto especial sobre producción y servicios en el precio de los servicios y presentar información al SAT.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo incluir en mis servicios digitales?",
-    "¿Cuáles son mis obligaciones fiscales como prestador de servicios digitales?",
-    "¿Cómo debo reportar mis ingresos por servicios digitales al SAT?",
-    "¿Qué pasa si no cumplo con mis obligaciones fiscales en servicios digitales?",
-    "¿Las plataformas digitales también tienen responsabilidades fiscales?"
+    "¿Qué obligaciones tienen los que ofrecen servicios digitales en México?",
+    "¿Cómo se aplica el impuesto especial sobre producción y servicios a plataformas digitales?",
+    "¿Qué debe hacer un residente en el extranjero al ofrecer servicios digitales en México?",
+    "¿Cuáles son las sanciones por no pagar el impuesto sobre servicios digitales?",
+    "¿Cómo se reportan las operaciones de servicios digitales al SAT?"
   ]
 }

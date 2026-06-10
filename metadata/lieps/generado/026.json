@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e170f2b4479df783",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Regulación de Marbetes y Precintos",
+  "denominacion_comun": "Marbetes y Precintos",
   "temas": [
+    "declaraciones fiscales",
+    "omisión en declaraciones",
+    "adeudos fiscales",
+    "convencio con autoridades fiscales",
     "marbetes",
     "precintos",
-    "adeudos fiscales",
-    "declaraciones omisas",
-    "convenios de pago",
     "uso incorrecto",
-    "volumen producido"
+    "relación producción-solicitud"
   ],
   "terminos_coloquiales": [
     "marbetes",
     "precintos",
-    "deudas fiscales",
-    "convenios con el fisco"
+    "declaraciones fiscales",
+    "deuda con el fisco"
   ],
-  "resumen": "Si un contribuyente no presenta sus declaraciones más de tres veces y tiene adeudos, las autoridades fiscales pueden negarle los marbetes o precintos. Esto también sucede si hay irregularidades en el uso de estos elementos o no hay correspondencia con el volumen autorizado.",
+  "resumen": "Este artículo establece que si un contribuyente no presenta sus declaraciones fiscales más de tres veces en un mismo ejercicio, tiene deudas fiscales y no puede comprobar el uso adecuado de marbetes o precintos, la autoridad fiscal puede negar la entrega de estos. También se menciona la posibilidad de convenios para pagos a plazos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mis declaraciones a tiempo?",
-    "¿Cómo puedo obtener mis marbetes si tengo deudas fiscales?",
-    "¿Qué son los marbetes y por qué son importantes?",
-    "¿Qué ocurre si uso incorrectamente un marbete?",
-    "¿Puedo hacer un convenio de pago para mis adeudos?"
+    "¿Qué pasa si no presento mis declaraciones fiscales?",
+    "¿Me pueden negar los marbetes si tengo deudas fiscales?",
+    "¿Cuántas veces puedo omitir las declaraciones sin consecuencias?",
+    "¿Qué son los marbetes y precintos en el contexto fiscal?",
+    "¿Puedo pagar mis deudas fiscales a plazos?"
   ]
 }

@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:455127c255e58af0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogaciones de Artículos",
+  "denominacion_comun": "Derogación de disposiciones fiscales",
   "temas": [
     "derogación",
-    "normativa",
-    "fiscal",
-    "legislación",
-    "artículo"
+    "leyes fiscales",
+    "regulaciones",
+    "disposiciones",
+    "artículos"
   ],
   "terminos_coloquiales": [
-    "artículo derogado",
     "derogación",
-    "LIEPS"
+    "se eliminó",
+    "ya no está vigente"
   ],
-  "resumen": "El artículo mencionado ha sido derogado, lo que significa que ya no está en vigor y no se aplica más en la legislación fiscal.",
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene validez legal. Las disposiciones que anteriormente contenía ya no se aplican.",
   "preguntas_ejemplo": [
-    "¿Qué artículos de la LIEPS han sido derogados?",
+    "¿Qué disposiciones fueron derogadas en la ley?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Cuáles son las consecuencias de la derogación de un artículo fiscal?"
+    "¿Cuáles son las consecuencias de la derogación de un artículo fiscal?",
+    "¿Hay artículos que ya no están vigentes en la ley fiscal?",
+    "¿Qué pasa con los derechos adquiridos antes de la derogación?"
   ]
 }

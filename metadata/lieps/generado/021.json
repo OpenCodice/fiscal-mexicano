@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e4c24200b3a8baa6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración Semestral de Combustibles",
+  "denominacion_comun": "Declaración de combustibles",
   "temas": [
-    "Impuesto sobre combustibles",
-    "Declaración semestral",
-    "Volúmenes de combustibles",
-    "Autoconsumo",
-    "Plazos de presentación",
-    "Servicio de Administración Tributaria"
+    "impuesto",
+    "declaraciones semestrales",
+    "combustibles automotrices",
+    "volúmenes enajenados",
+    "autoconsumo"
   ],
   "terminos_coloquiales": [
-    "Declaración de combustibles",
-    "Declaración semestral",
-    "SAT",
-    "Impuesto de combustibles"
+    "declaración de combustibles",
+    "declaración semestral",
+    "combustibles",
+    "tipo de gasolina"
   ],
-  "resumen": "Los contribuyentes del impuesto sobre combustibles deben presentar una declaración semestral informando sobre los volúmenes y tipos de combustibles automotrices que han vendido o consumido. Esta declaración se debe entregar en dos fechas específicas durante el año.",
+  "resumen": "Los contribuyentes deben presentar dos declaraciones semestrales sobre los combustibles automotrices que hayan vendido o consumido. Una se entrega en septiembre y la otra en marzo del año siguiente.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar la declaración de combustibles?",
-    "¿Qué información necesito para la declaración semestral de combustibles?",
-    "¿Qué pasa si no presento la declaración de combustibles a tiempo?",
-    "¿Qué tipos de combustibles debo reportar en mi declaración?",
-    "¿Dónde puedo encontrar las reglas del SAT para la declaración semestral?"
+    "¿Cuándo debo presentar mi declaración de combustibles?",
+    "¿Qué información debo incluir en mi declaración semestral de gasolina?",
+    "¿Qué tipos de combustibles automotrices debo reportar?",
+    "¿Cuál es la fecha límite para la declaración de combustibles?",
+    "¿Qué pasa si no presento la declaración semestral?",
+    "¿Cómo se reporta el autoconsumo de combustibles?"
   ]
 }

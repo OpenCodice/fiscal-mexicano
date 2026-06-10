@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:95c0980961559a11",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones de impuestos",
+  "denominacion_comun": "Exenciones del impuesto",
   "temas": [
+    "impuesto",
+    "exenciones",
     "enajenaciones",
     "exportaciones",
-    "actividades sin fines de lucro",
     "sorteos",
-    "servicios de telecomunicaciones",
-    "bebidas y tabacos",
-    "productos derivados",
-    "alcohol"
+    "servicios de telecomunicaciones"
   ],
   "terminos_coloquiales": [
-    "exenciones fiscales",
-    "impuesto sobre productos",
-    "LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS (LIEPS)",
-    "sorteos exentos"
+    "exenciones de impuestos",
+    "no pagar impuesto",
+    "sorteos gratuitos",
+    "servicios de telefonía",
+    "internet libre de impuestos"
   ],
-  "resumen": "El artículo establece los casos en los que no se pagará el impuesto, incluyendo ciertas enajenaciones de productos como aguamiel, bebidas alcohólicas y productos derivados del tabaco, así como actividades sin fines de lucro y servicios de telecomunicaciones. Se detallan las condiciones específicas para cada tipo de actividad o producto.",
+  "resumen": "Este artículo establece las situaciones en las que no se pagará el impuesto, incluyendo enajenaciones de ciertos productos, exportaciones, actividades de organizaciones sin fines de lucro, sorteos y servicios de telecomunicaciones específicos. También se mencionan las condiciones para estas exenciones.",
   "preguntas_ejemplo": [
-    "¿Qué productos están exentos del impuesto especial sobre producción y servicios?",
-    "¿Cuáles son las condiciones para no pagar impuestos en sorteos?",
-    "¿Qué actividades no generan obligación fiscal según la LIEPS?",
-    "¿Las exportaciones están libres de impuestos según este artículo?",
-    "¿Qué servicios de telecomunicaciones están exentos de impuestos?"
+    "¿Qué productos están exentos del impuesto?",
+    "¿Hay exenciones para sorteos?",
+    "¿Qué servicios de telecomunicaciones no pagan impuestos?",
+    "¿Quiénes no tienen que pagar impuestos por enajenaciones?",
+    "¿Cómo funcionan las exenciones para organizaciones sin fines de lucro?"
   ]
 }

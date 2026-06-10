@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:474df3364a3142fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto por Enajenación de Bienes",
+  "denominacion_comun": "Impuesto por enajenación de bienes",
   "temas": [
-    "enajenación",
     "impuesto",
+    "enajenación",
     "contraprestaciones",
-    "bien donado",
+    "donaciones",
+    "bienes",
     "cigarros",
     "tabacos",
-    "consumo",
     "autoconsumo"
   ],
   "terminos_coloquiales": [
-    "impuesto de enajenación",
-    "impuesto por venta",
-    "donaciones",
-    "cobro de impuestos",
-    "IEPS"
+    "impuesto por vender cosas",
+    "cuando se cobra un bien",
+    "donaciones con impuesto",
+    "impuesto por bebidas alcohólicas",
+    "impuesto por cigarrillos",
+    "autoconsumo",
+    "informe de venta"
   ],
-  "resumen": "El impuesto por la enajenación de bienes se causa cuando se cobran las contraprestaciones. También se considera la enajenación en casos de faltante en inventarios y en donaciones cuando se entrega el bien o se extiende el comprobante.",
+  "resumen": "El impuesto se paga cuando se reciben los pagos por la venta de bienes. También se considera una venta en caso de faltantes o donaciones cuando se entrega el bien. Se especifican bien los cálculos para productos como cigarros y tabacos.",
   "preguntas_ejemplo": [
-    "¿Cuándo se causa el impuesto por enajenación de bienes?",
-    "¿Cómo se calcula el impuesto por la venta de cigarros?",
-    "¿En qué momento se debe pagar el impuesto por donaciones?",
-    "¿Qué pasa si hay faltante de bienes en inventarios?",
-    "¿Qué se considera en la enajenación de tabacos?"
+    "¿Cuándo tengo que pagar el impuesto por vender algo?",
+    "¿Qué pasa si sólo cobro parte del precio de venta?",
+    "¿Cómo se aplica el impuesto en las donaciones?",
+    "¿Qué debo considerar si me falta un bien en el inventario?",
+    "¿El impuesto se paga en el momento de la venta o cuando cobro?"
   ]
 }

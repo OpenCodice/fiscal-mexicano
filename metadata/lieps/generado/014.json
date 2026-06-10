@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d141fee66b7056c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto por importación",
+  "denominacion_comun": "Impuesto por importación de bienes",
   "temas": [
-    "impuesto general de importación",
-    "valor en aduana",
-    "importación temporal",
-    "maquila",
-    "depósito fiscal",
+    "cálculo del impuesto",
+    "importación de bienes",
+    "regímenes aduaneros",
     "impuesto especial sobre producción y servicios",
-    "importación de cigarros",
     "productos con nicotina",
     "bebidas saborizadas"
   ],
   "terminos_coloquiales": [
     "impuesto de importación",
-    "calculadora de impuestos de importación",
-    "valor aduanero",
-    "ISE",
-    "impuesto a la importación"
+    "valor en aduana",
+    "importación temporal",
+    "maquila",
+    "cigarros",
+    "tabacos",
+    "bebidas saborizadas",
+    "litros importados",
+    "ISAN"
   ],
-  "resumen": "Este artículo establece cómo se calcula el impuesto en la importación de bienes, considerando el valor aduanero y otros impuestos aplicables. También menciona reglas específicas para productos como cigarros y bebidas saborizadas.",
+  "resumen": "Este artículo establece cómo calcular el impuesto asociado a la importación de bienes, considerando el valor aduanero y otras contribuciones. Se especifican también los métodos para bienes como cigarros y bebidas saborizadas.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto al importar bienes?",
-    "¿Qué se incluye en el valor de importación para pagar impuestos?",
-    "¿Cuál es el procedimiento para importar cigarros?",
-    "¿Cómo se determina el impuesto en importaciones temporales?",
-    "¿Qué impuestos se aplican a productos que contienen nicotina?",
-    "¿Cómo se calcula el impuesto para bebidas saborizadas importadas?"
+    "¿Cómo se calcula el impuesto de importación de mercancías?",
+    "¿Qué se considera en el valor aduanero para el cálculo de impuestos?",
+    "¿Cómo se determina el impuesto de cigarros importados?",
+    "¿Qué son los regímenes aduaneros para importación temporal?",
+    "¿Cómo se calcula el impuesto sobre bebidas saborizadas importadas?"
   ]
 }
