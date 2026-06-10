@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed261226596a4668",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos para Contadores Públicos",
+  "denominacion_comun": "Constancias de contadores públicos",
   "temas": [
     "constancias",
-    "educación continua",
+    "certificación",
+    "refrendo",
     "recertificación",
     "dictámenes fiscales",
     "inscripción",
-    "baja por fallecimiento"
+    "baja de inscripción"
   ],
   "terminos_coloquiales": [
-    "papeles del contador",
-    "renovación de licencia de contador",
-    "constancia del contador",
-    "darlo de baja",
-    "volverse a inscribir"
+    "constancias de contadores",
+    "recertificación de contadores",
+    "dictámenes",
+    "contadores públicos",
+    "SAT"
   ],
-  "resumen": "El contador público inscrito debe obtener constancias que lo acrediten como miembro activo de un colegio profesional y cumplir con la Norma de Educación Continua. También debe presentar avisos a la Autoridad Fiscal si deja de formular dictámenes o si quiere reactivar su inscripción.",
+  "resumen": "El artículo establece que los contadores públicos inscritos deben obtener y presentar anualmente ciertas constancias relacionadas con su certificación y actividad profesional. También se detalla el proceso para dejar de formular dictámenes y cómo reactivarse, así como las consecuencias de fallecimiento de un contador público inscrito.",
   "preguntas_ejemplo": [
-    "¿Qué constancias necesita un contador público?",
-    "¿Cómo renueva su registro un contador público?",
+    "¿Qué constancias necesita un contador público cada año?",
+    "¿Cómo se realiza la recertificación de un contador?",
     "¿Qué pasa si un contador deja de hacer dictámenes?",
-    "¿Qué hacer si fallece un contador público?",
-    "¿Cómo se reactiva la inscripción de un contador?"
+    "¿Qué ocurre si fallece un contador público inscrito?",
+    "¿Quién debe presentar la información al SAT sobre contadores?"
   ]
 }

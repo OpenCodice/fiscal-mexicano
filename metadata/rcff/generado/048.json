@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0535e0666ee603fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información por parte de Autoridades Fiscales",
+  "denominacion_comun": "Notificación de hechos u omisiones",
   "temas": [
-    "notificaciones",
+    "autoridades fiscales",
     "contribuyentes",
-    "hechos u omisiones",
-    "facultades fiscales"
+    "personas morales",
+    "representante legal",
+    "hechos u omisiones"
   ],
   "terminos_coloquiales": [
-    "avisos del SAT",
-    "notificaciones fiscales",
-    "alertas de impuestos"
+    "notificación",
+    "comunicado fiscal"
   ],
-  "resumen": "Las Autoridades Fiscales deben informar a los contribuyentes y a sus representantes sobre hechos u omisiones que se detecten durante el ejercicio de sus facultades. Esto incluye a personas morales y sus directivos.",
+  "resumen": "Este artículo establece que las autoridades fiscales deben informar a los contribuyentes y sus representantes sobre los hechos u omisiones que se detecten durante el ejercicio de sus facultades. También aplica para personas morales, notificando a sus órganos de dirección.",
   "preguntas_ejemplo": [
-    "¿Qué me deben avisar las autoridades fiscales?",
-    "¿Cómo me notifican si detectan un error en mis impuestos?",
-    "¿A quién le avisan si soy una empresa y hay un problema fiscal?",
-    "¿Qué información recibo si hay alguna irregularidad en mis declaraciones?",
-    "¿Las autoridades fiscales informan sobre todos los hallazgos?",
-    "¿Qué pasa si no me notifican sobre un hecho relevante?"
+    "¿Qué pasa si la autoridad fiscal encuentra un problema en mi declaración?",
+    "¿Cómo me notifica la autoridad fiscal sobre una omisión?",
+    "¿A quién se le informa si se detectan hechos en una empresa?",
+    "¿Qué deben hacer las autoridades fiscales al conocer una inconsistencia?",
+    "¿Se notifica a mi representante legal sobre irregularidades fiscales?"
   ]
 }

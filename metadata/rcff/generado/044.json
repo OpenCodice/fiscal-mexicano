@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b390f676213b3b6b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaraciones complementarias",
+  "denominacion_comun": "Declaraciones Complementarias",
   "temas": [
     "declaraciones fiscales",
     "resoluciones definitivas",
-    "modificación de declaraciones",
-    "obligaciones fiscales"
+    "tribunales fiscales",
+    "cambio de declaración",
+    "modificación de datos"
   ],
   "terminos_coloquiales": [
-    "declaraciones adicionales",
-    "cambiar declaración",
-    "corregir impuestos",
-    "declaración de impuestos"
+    "declaración corregida",
+    "declaración complementaria",
+    "cambio de declaración",
+    "folio de declaración"
   ],
-  "resumen": "El artículo establece que algunas declaraciones complementarias no serán consideradas como tales si son resultado de una resolución de tribunales. También señala que al presentar una declaración complementaria debe indicarse claramente que se está modificando una declaración anterior.",
+  "resumen": "Este artículo establece que las declaraciones complementarias no se computarán si son resultado de resoluciones definitivas. También señala que al presentar una declaración complementaria que sustituya a otra, se debe identificar que es una corrección e incluir datos necesarios.",
   "preguntas_ejemplo": [
-    "¿Qué es una declaración complementaria?",
-    "¿Cuándo no se considera una declaración complementaria?",
-    "¿Cómo se corrige una declaración de impuestos?",
-    "¿Qué debo incluir al modificar una declaración fiscal?",
-    "¿Se puede cambiar una declaración ya presentada?"
+    "¿Qué son las declaraciones complementarias en impuestos?",
+    "¿Cómo se corrige una declaración fiscal?",
+    "¿Qué hacer si recibo una resolución de la autoridad sobre mi declaración?",
+    "¿Qué datos debo incluir en una declaración complementaria?",
+    "¿Cómo afecta una resolución judicial a mis declaraciones de impuestos?"
   ]
 }

@@ -6,24 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f174836fe5ececff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Clausura preventiva de establecimientos",
+  "denominacion_comun": "Plazo de clausura preventiva",
   "temas": [
     "clausura preventiva",
-    "plazo",
-    "sellos",
-    "establecimientos"
+    "establecimientos",
+    "notificaciones",
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
     "cerrar un negocio",
     "sellos de clausura",
-    "plazos de clausura"
+    "sanciones a establecimientos"
   ],
-  "resumen": "El artículo establece que el plazo para la clausura preventiva de establecimientos comienza a contar desde el día en que se colocan los sellos, sin importar si ese día es completo o no.",
+  "resumen": "El artículo establece que el plazo para la clausura preventiva de establecimientos comienza desde el día en que se colocan los sellos, sin importar si el día está completo o no. Esto se relaciona con el interés fiscal y los procedimientos administrativos.",
   "preguntas_ejemplo": [
-    "¿Desde cuándo empieza a contar el plazo de clausura de un establecimiento?",
-    "¿Qué significa colocar sellos en un negocio?",
-    "¿Puede un establecimiento estar clausurado por un día incompleto?"
+    "¿Cuándo inicia el plazo de clausura para mi negocio?",
+    "¿Qué significa que se coloquen sellos de clausura?",
+    "¿Cómo afecta la clausura preventiva a mi establecimiento?",
+    "¿Qué procedimientos se siguen después de poner sellos de clausura?",
+    "¿Qué es el interés fiscal en este contexto?"
   ]
 }

@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:21af08c95fa56f3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Participación en subastas electrónicas",
+  "denominacion_comun": "Subasta electrónica de bienes",
   "temas": [
-    "subastas públicas",
+    "enajenación de bienes",
+    "subasta pública",
     "medios electrónicos",
-    "clave de identificación",
-    "ofertas de contado"
+    "clave de identificación de usuario",
+    "postura de compra"
   ],
   "terminos_coloquiales": [
-    "cómo participar en subastas",
-    "subasta electrónica de bienes",
-    "hacer una oferta en subasta",
-    "requisitos para subasta pública"
+    "subasta electrónica",
+    "participar en subasta",
+    "remate en línea",
+    "hacer una oferta",
+    "SAT",
+    "oferta de contado"
   ],
-  "resumen": "Este artículo establece los requisitos para participar en subastas públicas de bienes a través de medios electrónicos, incluyendo la obtención de una clave de identificación y el envío de ofertas de contado. También aclara que ciertos requisitos se consideran cumplidos si los postores siguen estas reglas.",
+  "resumen": "Este artículo establece los requisitos para participar en la enajenación de bienes en subasta pública de manera electrónica. Los interesados deben obtener una clave de identificación de usuario y enviar su oferta dentro del plazo indicado.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para participar en una subasta electrónica?",
-    "¿Cómo hago mi oferta en una subasta pública?",
-    "¿Dónde obtengo la clave de identificación para subastas?",
-    "¿Cuáles son los requisitos para postores en subastas electrónicas?"
+    "¿Cómo participo en una subasta electrónica?",
+    "¿Qué requisitos necesito para hacer una oferta en una subasta pública?",
+    "¿Dónde obtengo mi clave de identificación para la subasta?",
+    "¿Qué tengo que enviar para participar en un remate en línea?",
+    "¿Cómo hago mi postura en la subasta?",
+    "¿Qué hace falta para cumplir con los requisitos del SAT en una subasta electrónica?"
   ]
 }

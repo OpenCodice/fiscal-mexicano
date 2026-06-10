@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:724225361a34cfa5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
+    "garantía",
     "interés fiscal",
-    "garantías",
-    "cobro coactivo",
+    "créditos fiscales",
     "requisitos",
-    "aceptación de garantías"
+    "aceptación",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
     "garantía fiscal",
-    "cobrar deudas fiscales",
-    "requisitos de garantía",
-    "aceptación de garantía",
-    "proceso de aceptación fiscal"
+    "interés fiscal",
+    "créditos fiscales",
+    "requisitos de garantía"
   ],
-  "resumen": "La garantía del interés fiscal debe ser calificada y aceptada por la Autoridad Fiscal. Esta verificación incluye comprobar que se cumplen ciertos requisitos y que la garantía cubre los conceptos establecidos por el Código.",
+  "resumen": "El artículo establece que la garantía del interés fiscal ofrecida debe ser calificada y aceptada por la Autoridad Fiscal, cumpliendo con ciertos requisitos. Si no se cumplen, se requerirá al promovente para subsanar la omisión en un plazo determinado. La autoridad puede aceptar garantías insuficientes y proceder con la ejecución administrativa por el monto no garantizado.",
   "preguntas_ejemplo": [
-    "¿Qué es una garantía del interés fiscal?",
-    "¿Cómo se califica la garantía fiscal?",
+    "¿Cómo se califica una garantía del interés fiscal?",
     "¿Qué pasa si no cumplo con los requisitos de la garantía?",
-    "¿La Autoridad Fiscal puede aceptar garantías insuficientes?",
-    "¿Qué ocurre si no aceptan mi garantía?"
+    "¿Qué hace la autoridad si la garantía no es suficiente?",
+    "¿Cuánto tiempo tengo para subsanar una omisión en la garantía fiscal?",
+    "¿Qué establece el artículo 141 del Código sobre garantías fiscales?"
   ]
 }

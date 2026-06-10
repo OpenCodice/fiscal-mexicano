@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4043c4bc3c7e6323",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasa de recargos e intereses",
+  "denominacion_comun": "Recargos e Intereses",
   "temas": [
-    "recargos",
-    "intereses",
-    "tasa aplicable",
+    "tasa de recargos",
+    "intereses fiscales",
     "periodo mensual",
-    "Autoridades Fiscales"
+    "Autoridades Fiscales",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "cuánto se paga de recargos",
-    "intereses que cobran",
-    "tasa de interés del mes",
-    "monto de recargos",
-    "cómo se calculan intereses"
+    "recargos",
+    "intereses",
+    "cobro de recargos",
+    "cobro de intereses"
   ],
-  "resumen": "El artículo establece que la tasa de recargos o intereses que deben pagar los contribuyentes se determina con la tasa vigente al inicio del mes, sin importar cambios en la tasa durante ese periodo.",
+  "resumen": "Este artículo establece que la tasa de recargos o intereses a aplicar será la vigente al inicio del mes, sin importar cambios en la tasa durante dicho periodo. Esto aplica tanto para las obligaciones de los contribuyentes como para las autoras fiscales.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula la tasa de recargos?",
-    "¿Qué interés se aplica si pago tarde?",
-    "¿Siempre se utiliza la misma tasa de interés durante el mes?",
-    "¿Qué pasa si cambian las tasas a mitad del mes?",
-    "¿Cuál es la tasa de recargos vigente?"
+    "¿Qué pasa si la tasa de interés cambia durante el mes?",
+    "¿Cuándo se aplican los recargos en mis pagos?",
+    "¿Los intereses se calculan de la misma manera que los recargos?",
+    "¿Qué tasas deben aplicar las Autoridades Fiscales?"
   ]
 }

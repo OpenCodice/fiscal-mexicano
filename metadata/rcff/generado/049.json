@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9ae2388122a28d64",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Identificación de visitadores",
+  "denominacion_comun": "Visitas Domiciliarias",
   "temas": [
-    "visitas domiciliarias",
-    "credenciales de identificación",
-    "actas",
+    "identificación de visitadores",
+    "credenciales",
+    "actas de visita",
     "personal autorizado"
   ],
   "terminos_coloquiales": [
-    "identificación de inspectores",
-    "acta de visita",
-    "credenciales de fiscalizadores",
-    "quién es el visitador",
-    "visitas fiscales"
+    "visitas",
+    "visitas domiciliarias",
+    "identificación de funcionarios"
   ],
-  "resumen": "Se establecen los requisitos que deben contener las actas cuando un visitador se presenta para realizar una visita. Se debe incluir la identificación del visitador y del funcionario que emite las credenciales.",
+  "resumen": "El artículo establece que durante las visitas domiciliarias se deben levantar actas que incluyan la identificación del visitador y su autorización para realizar la visita. Se especifica la información que debe contener la credencial del visitador y quién la emite.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir un acta de visita de un inspector?",
-    "¿Cómo puedo comprobar que el visitador es legítimo?",
-    "¿Qué información tiene que tener la credencial de un visitador?",
-    "¿Qué fundamentos legales respaldan a los visitadores?",
-    "¿Qué datos se requieren sobre el funcionario que emite las credenciales?"
+    "¿Qué información debe incluir el acta de una visita domiciliaria?",
+    "¿Cómo se identifican los visitadores durante una visita?",
+    "¿Quién emite las credenciales para los visitadores?",
+    "¿Qué requisitos tiene que cumplir el documento de identificación del visitador?",
+    "¿Qué datos debe tener la credencial de un visitador?"
   ]
 }

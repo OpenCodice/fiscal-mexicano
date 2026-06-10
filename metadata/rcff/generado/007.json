@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dbbf3f703b50e5bd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inicio de plazos fiscales",
+  "denominacion_comun": "Cómputo de plazos",
   "temas": [
-    "cómputo de plazos",
-    "notificación de actos",
+    "plazos legales",
+    "notificación",
+    "buzón tributario",
     "horario de recepción",
-    "documentación tributaria"
+    "documentos tributarios"
   ],
   "terminos_coloquiales": [
-    "¿Cuándo empieza el plazo?",
-    "¿Qué pasa después de la notificación?",
-    "horarios del SAT",
-    "plazos para entregar documentos"
+    "cómputo de plazos",
+    "notificación administrativa",
+    "buzón tributario",
+    "entrega de documentos",
+    "plazos hábiles"
   ],
-  "resumen": "Este artículo establece que los plazos fiscales comienzan a contarse desde el día siguiente a la notificación de un acto administrativo. También especifica los horarios de recepción de documentos en el SAT, tanto para el buzón tributario como para la entrega física de documentos.",
+  "resumen": "El artículo establece que los plazos comienzan a contarse desde el día siguiente a la notificación del acto administrativo. También se especifica el horario en que se deben presentar los documentos, tanto en el buzón tributario como de forma impresa.",
   "preguntas_ejemplo": [
-    "¿Cómo se cuentan los plazos después de una notificación?",
-    "¿Qué horario tiene el SAT para recibir documentos?",
-    "¿Puedo entregar documentos al SAT en cualquier momento?",
-    "¿Cómo funcionan los plazos en el buzón tributario?",
-    "¿Qué pasa si entrego un documento después del plazo?"
+    "¿Cuándo empieza a contarse un plazo después de recibir una notificación?",
+    "¿A qué hora puedo presentar documentos en el buzón tributario?",
+    "¿Qué horarios son válidos para la entrega de documentos en la administración tributaria?",
+    "¿Qué pasa si entrego un documento un día después del vencimiento?",
+    "¿Dentro de qué horario se consideran hábiles los plazos para presentar documentos?"
   ]
 }

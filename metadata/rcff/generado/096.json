@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:08b506b843f0f26e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe de liquidación",
+  "denominacion_comun": "Liquidador y dictamen",
   "temas": [
     "liquidación",
     "extinción",
     "dictamen",
-    "responsabilidad del liquidador"
+    "Servicio de Administración y Enajenación de Bienes"
   ],
   "terminos_coloquiales": [
-    "informe de liquidación",
-    "cómo se hace la liquidación",
-    "qué es un dictamen",
-    "responsabilidad del liquidador"
+    "liquidar",
+    "liquidación de bienes",
+    "dictamen",
+    "SABE"
   ],
-  "resumen": "Cuando hay sujetos que no son administrados por el Servicio de Administración y Enajenación de Bienes, el liquidador debe informar sobre la existencia del dictamen relacionado con su liquidación o extinción.",
+  "resumen": "El liquidador debe informar sobre la existencia de un dictamen cuando la liquidación o extinción no sea responsabilidad del Servicio de Administración y Enajenación de Bienes.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si liquidaré un sujeto que no está bajo el SAT?",
-    "¿Cuál es el procedimiento para informar sobre una liquidación?",
-    "¿Qué tipo de dictamen necesito para la liquidación?",
-    "¿Qué responsabilidades tiene el liquidador en la extinción de bienes?",
-    "¿Cómo se informa sobre el dictamen del artículo 146-C?"
+    "¿Qué hace un liquidador?",
+    "¿Cuándo se requiere un dictamen en una liquidación?",
+    "¿Qué es el artículo 146-C del Código?",
+    "¿Quién se encarga de la liquidación si no es la SABE?",
+    "¿Cuáles son las obligaciones del liquidador según la ley?"
   ]
 }

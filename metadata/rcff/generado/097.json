@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9b64dc8c435d00cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Identificación del ejecutor",
+  "denominacion_comun": "Identificación del Ejecutor",
   "temas": [
     "acta de diligencia",
-    "nombre del ejecutor",
-    "credencial de identificación",
-    "funcionario competente",
+    "identificación del ejecutor",
     "requerimientos de pago",
     "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
     "identificación del ejecutor",
-    "acta de ejecución"
+    "acta de ejecución",
+    "credencial de identificación"
   ],
-  "resumen": "Se debe documentar la identificación del ejecutor en el acta de diligencia, incluyendo su nombre completo, datos de la credencial y la firma del funcionario. También se requiere que el documento contenga fotografía y firma del ejecutor.",
+  "resumen": "El artículo establece que para identificar al ejecutor en una diligencia, se debe incluir información específica en el acta que se levante durante el procedimiento. Esto incluye el nombre, número de credencial, funcionario que emite la credencial y el fundamento jurídico correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué información debe incluir el acta de diligencia?",
-    "¿Cómo se identifica al ejecutor en un embargo?",
-    "¿Qué datos se requieren de la credencial del ejecutor?",
-    "¿Quién emite la credencial de identificación del ejecutor?",
-    "¿Qué fundamentos legales deben mencionarse en el acta?"
+    "¿Qué debe incluir el acta de diligencia sobre el ejecutor?",
+    "¿Cómo se identifica al ejecutor en el proceso administrativo?",
+    "¿Qué información necesita la credencial del ejecutor?",
+    "¿Qué datos debe aportar el funcionario que emite la credencial?",
+    "¿Cómo se acredita un ejecutor para requerimientos de pago?"
   ]
 }

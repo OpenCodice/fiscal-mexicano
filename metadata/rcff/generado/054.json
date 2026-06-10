@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e74eebe4855db44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de Sociedades Civiles",
+  "denominacion_comun": "Registro de Sociedades y Asociaciones Civiles",
   "temas": [
-    "Registro Federal de Contribuyentes",
-    "Firma Electrónica Avanzada",
-    "Contadores Públicos Autorizados",
-    "Aviso de Incorporación",
-    "Sanciones a Contadores Públicos"
+    "inscripción",
+    "registro federal de contribuyentes",
+    "certificado de firma electrónica",
+    "contadores públicos autorizados",
+    "representante legal",
+    "avisos de incorporación",
+    "sanciones"
   ],
   "terminos_coloquiales": [
-    "Registro de Sociedades",
-    "RFC",
-    "Fiel",
-    "Contador Público",
-    "Sanciones a Contadores"
+    "registro de sociedades",
+    "asociaciones civiles",
+    "e.firma",
+    "avisos fiscales"
   ],
-  "resumen": "Las sociedades o asociaciones civiles deben utilizar un sistema informático del SAT para su registro, cumpliendo con ciertos requisitos como estar inscritas en el RFC y contar con una firma electrónica. Además, deben avisar sobre cambios en su representación o la incorporación de contadores públicos.",
+  "resumen": "Este artículo regula el proceso que deben seguir las sociedades y asociaciones civiles para inscribirse ante las Autoridades Fiscales. Establece requisitos como estar en el registro federal de contribuyentes, contar con un certificado de firma electrónica, y la obligación de presentar avisos relacionados con contadores públicos inscritos.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para registrar una sociedad civil?",
-    "¿Cómo obtengo la firma electrónica avanzada para mi sociedad?",
-    "¿Cuándo debo avisar al SAT sobre un nuevo contador público en mi asociación civil?",
-    "¿Qué pasa si un contador público se desincorpora de mi sociedad?",
-    "¿Cuáles son las consecuencias si no aviso al SAT sobre cambios en mi sociedad?"
+    "¿Qué requisitos necesito para registrar una sociedad civil?",
+    "¿Cómo obtengo el certificado de firma electrónica para mi asociación civil?",
+    "¿Qué debo hacer si se incorpora un nuevo contador a mi sociedad?",
+    "¿Cuándo tengo que presentar avisos ante la Autoridad Fiscal?",
+    "¿Qué sanciones hay para los contadores públicos inscritos?"
   ]
 }

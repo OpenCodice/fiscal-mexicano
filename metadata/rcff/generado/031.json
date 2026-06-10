@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30e931ba4e981d88",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Clave del RFC",
+  "denominacion_comun": "Cambio de nombre o denominación en el RFC",
   "temas": [
+    "registro federal de contribuyentes",
     "cambio de nombre",
-    "razón social",
     "denominación",
+    "razón social",
     "corrección de errores",
-    "Registro Federal de Contribuyentes"
+    "omisiones"
   ],
   "terminos_coloquiales": [
-    "cambiar el nombre del RFC",
-    "cómo actualizar mi razón social",
-    "clave del RFC nueva",
-    "cambio de denominación"
+    "cambio de nombre en el RFC",
+    "cambiar razón social",
+    "nuevo RFC",
+    "RFC",
+    "corregir errores en el RFC"
   ],
-  "resumen": "El artículo establece que el Servicio de Administración Tributaria puede asignar una nueva clave del RFC cuando se cambia el nombre, la razón social o por correcciones de errores en estos datos.",
+  "resumen": "Este artículo establece que el Servicio de Administración Tributaria asignará una nueva clave del RFC cuando haya un cambio de nombre, denominación o razón social, o por corrección de errores u omisiones. Es importante para quienes necesiten actualizar su información fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué hago si cambio el nombre de mi empresa?",
-    "¿Cómo puedo actualizar mi RFC después de un error?",
-    "¿Necesito un nuevo RFC si cambio la razón social?",
-    "¿Qué pasa con el RFC si corrigen un error en mi nombre?",
-    "¿Cuáles son los pasos para cambiar la denominación en el RFC?"
+    "¿Cómo puedo cambiar el nombre de mi empresa en el RFC?",
+    "¿Qué hago si tengo errores en mi RFC?",
+    "¿Necesito un nuevo RFC si cambio mi razón social?",
+    "¿El SAT puede ayudarme con mi cambio de denominación?",
+    "¿Qué pasos seguir para corregir mi RFC?"
   ]
 }

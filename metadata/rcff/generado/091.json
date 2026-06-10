@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e2d3da15a0b88692",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dispensa de garantía del interés fiscal",
+  "denominacion_comun": "Disposiciones Generales del Procedimiento Administrativo de Ejecución",
   "temas": [
     "garantía del interés fiscal",
     "ejecutores de gasto",
@@ -17,16 +18,17 @@
     "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
-    "dispensa de garantía",
-    "interés fiscal",
-    "defensa contra créditos fiscales"
+    "intereses fiscales",
+    "defensa fiscal",
+    "suspensión de procesos",
+    "ejecución fiscal"
   ],
-  "resumen": "Las autoridades fiscales pueden eximir a los ejecutores de gasto de la garantía del interés fiscal según la ley. Si los contribuyentes presentan medios de defensa contra créditos fiscales, se suspende el procedimiento administrativo de ejecución.",
+  "resumen": "Las autoridades fiscales pueden eximir a los ejecutores de gasto de garantizar el interés fiscal. Si estos contribuyentes presentan algún medio de defensa contra un crédito fiscal, se suspende el procedimiento administrativo correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué es la dispensa de garantía del interés fiscal?",
-    "¿Quiénes son los ejecutores de gasto?",
-    "¿Qué pasa si interpongo un medio de defensa contra un crédito fiscal?",
-    "¿Cómo se suspende el procedimiento administrativo de ejecución?",
-    "¿Qué dice el artículo 141 del Código Fiscal?"
+    "¿Qué es la garantía del interés fiscal?",
+    "¿Cómo puedo defenderme de un crédito fiscal?",
+    "¿Qué sucede si interpongo un medio de defensa contra una deuda?",
+    "¿Se puede suspender un proceso administrativo si hago una defensa?",
+    "¿Quiénes son los ejecutores de gasto en términos fiscales?"
   ]
 }

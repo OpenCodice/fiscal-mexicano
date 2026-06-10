@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d22a70c2a185ac41",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción al RFC de personas morales",
+  "denominacion_comun": "Inscripción al RFC",
   "temas": [
     "personas morales",
-    "inscripción RFC",
+    "inscripción",
+    "registro federal de contribuyentes",
     "acta constitutiva",
-    "fedatario público",
-    "fusión y escisión",
-    "contratos",
-    "decretos",
-    "condiciones suspensivas"
+    "contrato",
+    "fusión",
+    "escisión",
+    "declaraciones periódicas"
   ],
   "terminos_coloquiales": [
-    "cómo registrar una empresa",
-    "inscripción de sociedades",
-    "registro de personas morales",
-    "acta de constitución",
-    "por qué hacer RFC"
+    "inscripción al RFC",
+    "registro de contribuyentes",
+    "acta constitutiva",
+    "sociedades",
+    "documento constitutivo"
   ],
-  "resumen": "Las personas morales en México deben inscribirse en el registro federal de contribuyentes al firmar su acta constitutiva. Si no se constituyen ante fedatario público, tienen un mes para hacerlo desde la firma del contrato o la publicación del acto que les dé origen.",
+  "resumen": "El artículo regula cómo las personas morales deben presentar su solicitud de inscripción en el registro federal de contribuyentes al momento de firmar su acta constitutiva. También establece plazos específicos para inscripciones en caso de diferentes situaciones legales, como fusiones o escisiones.",
   "preguntas_ejemplo": [
     "¿Cuándo debo inscribir mi empresa en el RFC?",
-    "¿Qué es el registro federal de contribuyentes para personas morales?",
-    "¿Qué pasa si no se inscribe una sociedad en tiempo?",
-    "¿Necesito un fedatario público para registrar mi empresa?",
-    "¿Cómo se inscriben las empresas que se fusiones o escisiones?"
+    "¿Qué se necesita para registrar una sociedad?",
+    "¿Qué pasa si no tengo fedatario público para mi acta constitutiva?",
+    "¿Cuáles son los plazos para la inscripción al RFC?",
+    "¿Cómo funciona la inscripción al RFC para una fusión de empresas?"
   ]
 }

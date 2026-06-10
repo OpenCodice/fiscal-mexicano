@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dab42fc3637127f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cartas de crédito como garantía fiscal",
   "temas": [
-    "cartas de crédito",
     "garantía fiscal",
+    "cartas de crédito",
     "interés fiscal",
-    "modificaciones",
-    "procedimientos del SAT",
-    "instituciones de crédito"
+    "instituciones de crédito",
+    "modificaciones de garantía"
   ],
   "terminos_coloquiales": [
-    "cartas de crédito del SAT",
-    "garantías fiscales",
-    "interés fiscal",
-    "modificar cartas de crédito",
-    "requisitos de cartas de crédito"
+    "carta de crédito",
+    "garantía fiscal",
+    "instituciones bancarias"
   ],
-  "resumen": "El artículo establece que las cartas de crédito utilizadas como garantía del interés fiscal deben ser emitidas por instituciones registradas ante el SAT. Además, cualquier modificación a estas cartas debe seguir el procedimiento que el SAT defina, y sólo se aceptarán aquellas que cumplan con requisitos específicos.",
+  "resumen": "Las cartas de crédito que se usan como garantía del interés fiscal deben ser emitidas por bancos registrados ante el SAT. Cualquier cambio en estas cartas debe seguir el procedimiento que indique el SAT, y no se aceptarán si no cumplen con los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de cartas de crédito puedo usar como garantía fiscal?",
-    "¿Cómo puedo modificar una carta de crédito?",
+    "¿Qué es una carta de crédito como garantía fiscal?",
+    "¿Quién puede emitir cartas de crédito para el interés fiscal?",
     "¿Cuáles son los requisitos para que una carta de crédito sea aceptada?",
-    "¿Qué sucede si la carta de crédito no cumple con los formatos del SAT?",
-    "¿Quién puede emitir las cartas de crédito para el interés fiscal?"
+    "¿Qué modificaciones se pueden hacer a una carta de crédito?",
+    "¿Qué sucede si la carta de crédito no sigue las normas del SAT?"
   ]
 }

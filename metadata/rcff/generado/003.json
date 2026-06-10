@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b6bd8b0846e7b87c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avalúos Fiscales",
+  "denominacion_comun": "Avalúos fiscales",
   "temas": [
     "avalúos",
-    "vigencia",
     "peritos valuadores",
-    "valor de bienes",
-    "segundo avalúo",
-    "ajustes de valor",
-    "construcciones",
-    "valores sin efecto"
+    "bien inmueble",
+    "interés fiscal",
+    "valor determinado",
+    "mejoras permanentes",
+    "Índice Nacional de Precios al Consumidor"
   ],
   "terminos_coloquiales": [
-    "avalúos para impuestos",
-    "avalúo de propiedades",
-    "cómo se evalúa un bien",
-    "precio de un inmueble",
-    "avalúo por el SAT"
+    "avalúos",
+    "aumento de valor",
+    "peritos",
+    "avaluar un bien",
+    "avalúo de casa",
+    "avalúo fiscal"
   ],
-  "resumen": "Los avalúos fiscales son válidos por un año y deben ser hechos por peritos autorizados. Si hay mejoras en el inmueble, el avalúo pierde validez. También se pueden solicitar segundos avalúos para determinar el valor final.",
+  "resumen": "Los avalúos fiscales tienen una vigencia de un año y deben ser realizados por peritos autorizados. Si hay mejoras al bien, el avalúo pierde validez. Además, se pueden hacer ajustes al valor del avalúo en base a cambios en el índice de precios.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo es válido un avalúo fiscal?",
-    "¿Quién puede hacer un avalúo para la autoridad fiscal?",
-    "¿Qué pasa si hago mejoras a mi propiedad después de un avalúo?",
-    "¿Cómo se ajusta el valor de un avalúo?",
-    "¿Qué es un segundo avalúo y cuándo se solicita?"
+    "¿Cuánto tiempo son válidos los avalúos fiscales?",
+    "¿Quiénes pueden hacer avalúos para efectos fiscales?",
+    "¿Qué sucede si realizo mejoras a un inmueble después de un avalúo?",
+    "¿Cómo se determina el valor de un bien en un avalúo?",
+    "¿Puedo solicitar un segundo avalúo?"
   ]
 }

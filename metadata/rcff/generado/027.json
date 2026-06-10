@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85b55147170f7b4f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Firma de escritura pública",
+  "denominacion_comun": "Firma y autorización de escritura pública",
   "temas": [
+    "escritura pública",
     "inscripción",
+    "aviso de liquidación",
+    "cancelación",
     "registro federal de contribuyentes",
-    "personas morales",
-    "cancelaiones",
-    "cumplimiento de plazos"
+    "omisión",
+    "notificación al SAT"
   ],
   "terminos_coloquiales": [
-    "firmar escritura",
-    "plazo para inscribir",
-    "cancelación de persona moral",
-    "informar al SAT"
+    "firma de escritura",
+    "publicación de escritura",
+    "inscribir en el RFC",
+    "dar de baja una empresa",
+    "avisar al SAT"
   ],
-  "resumen": "Este artículo establece que los contribuyentes tienen un mes para presentar la solicitud de inscripción o aviso de liquidación después de firmar una escritura pública. Si no lo hacen, el fedatario debe informar al SAT de esa omisión.",
+  "resumen": "Este artículo establece que los contribuyentes tienen un mes para presentar la solicitud de inscripción o aviso de liquidación tras firmar y autorizar una escritura pública. Si no lo hacen, el notario debe informar al SAT sobre la omisión.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para inscribir una escritura pública?",
-    "¿Qué pasa si no presento mi solicitud de inscripción a tiempo?",
-    "¿Qué hace el fedatario si no cumplo con el plazo?",
-    "¿Qué es un aviso de liquidación para personas morales?",
-    "¿Cómo se maneja la cancelación de una persona moral?"
+    "¿Cuánto tiempo tengo para inscribir mi escritura pública?",
+    "¿Qué pasa si no aviso al SAT después de firmar la escritura?",
+    "¿El notario informa al SAT si no cumplo con mi obligación?",
+    "¿Cómo puedo dar de baja una empresa después de firmar la escritura?",
+    "¿Qué debo hacer para inscribirme en el registro federal de contribuyentes?"
   ]
 }

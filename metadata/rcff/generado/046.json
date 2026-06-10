@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:910a9fdb8d39a9ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de requerimientos y multas",
   "temas": [
-    "cancelación de multas",
-    "requerimientos fiscales",
-    "declaraciones omitidas",
-    "presentación de avisos"
+    "Autoridades Fiscales",
+    "requerimientos",
+    "multas",
+    "declaraciones",
+    "avisos"
   ],
   "terminos_coloquiales": [
-    "cómo cancelar una multa",
-    "requerimiento fiscal",
-    "avisos que no presenté",
-    "multas que me pusieron"
+    "cancelar multas",
+    "requerimientos fiscales",
+    "avisos presentados",
+    "declaraciones omitidas"
   ],
-  "resumen": "Las autoridades fiscales pueden cancelar requerimientos y multas si los contribuyentes muestran los avisos o declaraciones que se suponía no habían presentado antes de la notificación. Si se presenta el documento correcto durante la notificación, se suspende el proceso para revisar la cancelación.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden cancelar requerimientos y multas a los contribuyentes si presentan los documentos omitidos antes de la notificación. Si los documentos se presentan durante la notificación, se suspende el proceso hasta que se evalúe la validez de los mismos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar una multa que me pusieron?",
-    "¿Qué debo hacer si me llegó un requerimiento fiscal?",
-    "¿Qué documentos necesito para cancelar un requerimiento?",
-    "¿Pueden cancelar una multa si presento mis declaraciones?",
-    "¿Qué pasa si no tengo el aviso que me piden?"
+    "¿Cómo puedo cancelar una multa fiscal?",
+    "¿Qué debo hacer si recibo un requerimiento de la autoridad fiscal?",
+    "¿Qué documentos necesito para evitar multas por declaraciones omitidas?",
+    "¿Puede la autoridad fiscal cancelar un requerimiento si muestro mis documentos?",
+    "¿Cuál es el procedimiento si presento mis avisos después de recibir una multa?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c80b5470b69f9074",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embargo administrativo",
   "temas": [
     "embargo",
-    "contribuyentes",
-    "bienes",
+    "vía administrativa",
+    "bienes del contribuyente",
     "interés fiscal",
-    "autoridad fiscal"
+    "depósito de bienes",
+    "gastos de ejecución",
+    "responsabilidad del depositario",
+    "inscripción en registro público"
   ],
   "terminos_coloquiales": [
-    "embargo de bienes",
-    "cómo funciona un embargo",
-    "proceso de embargo",
-    "requisitos para embargo"
+    "embargo",
+    "bien embargado",
+    "gastos de ejecución",
+    "responsable de los bienes"
   ],
-  "resumen": "El artículo establece las reglas que deben seguirse para realizar un embargo administrativo a solicitud del contribuyente, incluyendo la identificación de bienes y responsabilidades del depositario. Además, menciona la necesidad de cubrir ciertos gastos y el registro público del embargo.",
+  "resumen": "El artículo establece las reglas que deben seguirse para realizar un embargo administrativo a solicitud del contribuyente. Se detallan los requisitos para el embargo, la responsabilidad del depositario y la inscripción en el registro público.",
   "preguntas_ejemplo": [
     "¿Cómo puedo solicitar un embargo administrativo?",
-    "¿Qué bienes puedo embargar?",
-    "¿Cuáles son los requisitos para un embargo?",
-    "¿Qué pasa si el depositario de los bienes se ausenta?",
-    "¿Es necesario registrar el embargo en algún lugar?"
+    "¿Qué bienes pueden ser embargados?",
+    "¿Quién es responsable de los bienes embargados?",
+    "¿Qué gastos debo cubrir antes de un embargo?",
+    "¿Cómo se inscribe un embargo en el registro público?"
   ]
 }

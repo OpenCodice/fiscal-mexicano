@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:753340c1ae864e34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
-    "garantía fiscal",
+    "interés fiscal",
     "Tesorería de la Federación",
-    "créditos fiscales",
     "fianza",
     "carta de crédito",
-    "billete de depósito"
+    "billete de depósito",
+    "cancelación",
+    "ofrecimiento de garantía",
+    "gastos de garantía"
   ],
   "terminos_coloquiales": [
-    "garantía de impuestos",
-    "aval fiscal",
-    "seguridad para impuestos",
-    "pago de deudas fiscales"
+    "garantía fiscal",
+    "cobro de deudas fiscales",
+    "fianza para impuestos",
+    "carta de crédito fiscal",
+    "gastos por garantía"
   ],
-  "resumen": "Este artículo establece que la garantía del interés fiscal debe otorgarse a la Tesorería de la Federación y detalla las formas en que puede hacerse, como fianza o carta de crédito. Además, menciona que los costos relacionados con estas garantías deben ser cubiertos por la persona interesada.",
+  "resumen": "Este artículo establece que la garantía del interés fiscal protege a la Tesorería de la Federación y a otros organismos en el cobro de créditos fiscales. La garantía puede ser en forma de fianza, carta de crédito o billete de depósito y tiene procedimientos específicos para su ofrecimiento y cancelación.",
   "preguntas_ejemplo": [
     "¿Qué es la garantía del interés fiscal?",
-    "¿Cómo se otorgan las garantías para los créditos fiscales?",
-    "¿Quién se beneficia de la garantía del interés fiscal?",
-    "¿Qué formas de garantía se pueden usar para impuestos?",
-    "¿Quién paga los gastos de las garantías fiscales?"
+    "¿Cómo se otorga una fianza para impuestos?",
+    "¿Qué gastos debo cubrir al ofrecer una garantía fiscal?",
+    "¿Dónde presento la garantía del interés fiscal?",
+    "¿Qué pasa si quiero cancelar mi garantía del interés fiscal?"
   ]
 }

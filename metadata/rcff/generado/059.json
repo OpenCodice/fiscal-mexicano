@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:faccc71da7df6920",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictámenes de estados financieros",
   "temas": [
     "dictámenes",
+    "estados financieros",
     "contadores públicos",
-    "estado financiero",
-    "personas físicas",
-    "opciones de dictaminación"
+    "opciones de dictaminación",
+    "presentación del dictamen",
+    "renuncia al dictamen"
   ],
   "terminos_coloquiales": [
-    "dictamen contable",
+    "dictámenes contables",
     "estados financieros",
-    "renuncia a dictamen",
-    "plazos de dictamen"
+    "auditoría",
+    "renuncia al dictamen",
+    "contadores"
   ],
-  "resumen": "Los dictámenes de estados financieros solo son válidos si son presentados por contadores públicos y bajo ciertas condiciones. Si no se cumplen estos requisitos, no tendrán efecto jurídico. Los contribuyentes pueden renunciar a presentar un dictamen cumpliendo con ciertas formalidades.",
+  "resumen": "Los dictámenes de estados financieros que presenten personas físicas con ingresos distintos a actividades empresariales no tendrán efecto jurídico. Además, los contribuyentes que opten por dictaminar sus estados pueden renunciar a la presentación del dictamen si cumplen con ciertos requisitos y lo comunican a la autoridad fiscal. Los documentos presentados fuera de tiempo no serán considerados válidos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mi dictamen de estados financieros a tiempo?",
-    "¿Quién puede hacer el dictamen de mis estados financieros?",
-    "¿Qué condiciones debo cumplir para que mi dictamen tenga validez?",
-    "¿Puedo renunciar a presentar el dictamen? ¿Cómo?",
-    "¿Qué son los dictámenes inválidos según la ley?"
+    "¿Qué pasa si no presento mi dictamen de estados financieros?",
+    "¿Cómo puedo renunciar a mi dictamen contable?",
+    "¿Qué dictámenes no tienen efecto jurídico según la ley?",
+    "¿Cuáles son los plazos para presentar un dictamen de estados financieros?",
+    "¿Qué requisitos debo cumplir para optar por dictaminar mis estados financieros?"
   ]
 }

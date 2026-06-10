@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62700609b9a8af40",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Apertura de cerraduras de bienes muebles",
+  "denominacion_comun": "Apertura de bienes muebles",
   "temas": [
-    "autoridad fiscal",
-    "bienes muebles",
-    "deudor",
-    "testigos",
-    "acta de inventario"
+    "autoridades fiscales",
+    "deudores",
+    "bien inmueble",
+    "apertura de cerraduras",
+    "acta de inventario",
+    "testigos"
   ],
   "terminos_coloquiales": [
-    "abrir cerraduras",
-    "bien mueble",
-    "intervención fiscal",
+    "abrir bienes muebles",
     "acta de bienes",
-    "perito"
+    "autoridades fiscales",
+    "deudor"
   ],
-  "resumen": "Cuando el deudor no se presenta para abrir las cerraduras de sus bienes, la autoridad puede mandar a un experto a hacerlo en presencia de testigos. Se levantará un acta con el inventario de los bienes que será firmada por los presentes.",
+  "resumen": "Este artículo establece que si el deudor o su representante no abren las cerraduras de los bienes muebles, la autoridad fiscal puede encargar a un experto abrirlas en presencia de testigos. Se levantará un acta con el inventario del contenido de los bienes abiertos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me presento a abrir las cerraduras de mis bienes?",
-    "¿Quién puede abrir las cerraduras de mis bienes muebles?",
-    "¿Qué se necesita para levantar un acta de inventario?",
-    "¿Qué ocurre si me niego a abrir las cerraduras?",
-    "¿Quiénes son los testigos en este procedimiento?"
+    "¿Qué pasa si no abro las cerraduras de mis bienes muebles?",
+    "¿Quién puede abrir mis bienes si no estoy presente?",
+    "¿Cómo se levanta el inventario de los bienes muebles?",
+    "¿Qué sucede si me niego a abrir las cerraduras?",
+    "¿Quiénes son los testigos en este proceso?"
   ]
 }

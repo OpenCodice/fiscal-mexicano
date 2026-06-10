@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3b83b87e3fdc4d7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avisos de situación fiscal",
+  "denominacion_comun": "Avisos para el Registro Federal de Contribuyentes",
   "temas": [
-    "cambio de denominación",
-    "cambio de régimen de capital",
-    "cambio de domicilio fiscal",
+    "cambio de nombre",
+    "cambio de domicilio",
     "suspensión de actividades",
     "reanudación de actividades",
-    "cancelación de RFC",
     "apertura de establecimientos",
-    "cierre de establecimientos"
+    "cierre de establecimientos",
+    "cancelación en el RFC",
+    "cambio de residencia fiscal",
+    "inicio de liquidación"
   ],
   "terminos_coloquiales": [
-    "aviso de cambio de nombre",
-    "cambio de domicilio",
-    "suspensión de operaciones",
-    "cancelar RFC",
-    "dar de baja un negocio"
+    "avisos al SAT",
+    "cambio de razón social",
+    "cancelar el RFC",
+    "suspender actividades",
+    "dar de alta un establecimiento",
+    "cierre de negocio"
   ],
-  "resumen": "Este artículo establece qué avisos deben presentar las personas físicas y morales ante el fisco para varios cambios en su situación fiscal, como cambios de nombre, domicilio o actividades económicas. Los avisos deben presentarse dentro del mes siguiente a la actualización de la situación correspondiente.",
+  "resumen": "Este artículo establece los avisos que deben presentar las personas físicas y morales ante el SAT para diversas situaciones como cambios de nombre, domicilio, suspensión o reanudación de actividades, y cancelación en el registro federal de contribuyentes. Los avisos deben presentarse dentro del mes siguiente a que ocurra el supuesto que los motive.",
   "preguntas_ejemplo": [
-    "¿Qué avisos debo presentar si cambio de domicilio?",
-    "¿Cómo cancelo mi registro en el RFC?",
-    "¿Qué hacer si suspendo mis actividades económicas?",
-    "¿Cómo informar sobre el cierre de un establecimiento?",
-    "¿Qué tipos de avisos fiscales existen?"
+    "¿Cómo cambio mi nombre en el RFC?",
+    "¿Qué debo hacer para cancelar mi RFC?",
+    "¿Cuál es el procedimiento para suspender actividades?",
+    "¿Necesito avisar al SAT si cambio de domicilio?",
+    "¿Cómo doy de alta un nuevo establecimiento?",
+    "¿Qué avisos debo presentar si inicio una liquidación?"
   ]
 }

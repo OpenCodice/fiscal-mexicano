@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f1a8d102b97a9f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recargos por pagos de contribuciones",
+  "denominacion_comun": "Recargos en contribuciones",
   "temas": [
     "recargos",
-    "contribuciones",
     "compensación",
     "saldo a favor",
     "pago indebido",
     "declaraciones"
   ],
   "terminos_coloquiales": [
-    "cuándo se generan recargos",
-    "pago a tiempo de impuestos",
-    "compensar con saldo a favor",
-    "cómo evitar recargos",
-    "declarar saldo a favor"
+    "recargos",
+    "pago de impuestos",
+    "saldo a favor",
+    "pago de lo indebido"
   ],
-  "resumen": "El artículo establece que se considerará que un pago de contribuciones se hizo a tiempo si se compensa con un saldo a favor o un pago indebido, siempre que se haya presentado la declaración correspondiente. Si la declaración o el pago se realizan después de la fecha límite, se generarán recargos desde la fecha en que debió pagarse hasta cuando se compense.",
+  "resumen": "Este artículo establece que el pago de contribuciones se considera oportuno si se realiza mediante compensación con un saldo a favor o un pago indebido, siempre y cuando se haya presentado la declaración correspondiente o se haya hecho el pago antes de la fecha límite. Si la declaración o el pago se hacen después de la fecha límite, se generan recargos por el tiempo transcurrido hasta que se originó el saldo o el pago a compensar.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si pago mis impuestos tarde?",
-    "¿Puedo usar mi saldo a favor para evitar recargos?",
-    "¿Qué debo hacer si hice un pago indebido?",
-    "¿Cómo funciona la compensación de impuestos?",
-    "¿Cuándo se generan recargos en mi declaración?",
-    "¿Qué se considera pago oportuno?"
+    "¿Cómo se aplican los recargos si tengo un saldo a favor?",
+    "¿Es posible compensar un pago indebido en mis contribuciones?",
+    "¿Qué pasa si no presenté mi declaración a tiempo?",
+    "¿Cuándo se consideran oportunos los pagos de impuestos?",
+    "¿Qué recargos se generan si pago después de la fecha límite?"
   ]
 }

@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d815be86f93a0e66",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bienes inembargables e inalienables",
+  "denominacion_comun": "Bienes inembargables",
   "temas": [
     "embargo",
-    "bienes",
-    "inembargables",
-    "inalienables",
+    "bien inembargable",
+    "bien inalienable",
     "autoridad fiscal"
   ],
   "terminos_coloquiales": [
     "bienes que no se pueden embargar",
-    "cosas inembargables",
-    "bienes que no se pueden quitar",
-    "bienes de protección fiscal"
+    "bienes protegidos",
+    "bien inembargable",
+    "bien inalienable"
   ],
-  "resumen": "El artículo establece que si la ley dice que un bien no se puede embargar o vender, la autoridad fiscal no podrá hacer esas acciones sobre él.",
+  "resumen": "Este artículo establece que la Autoridad Fiscal no puede embargar bienes que la ley considere inembargables o inalienables. Esto implica que ciertos bienes están protegidos de cualquier tipo de embargo por parte de la autoridad fiscal.",
   "preguntas_ejemplo": [
     "¿Qué bienes no se pueden embargar?",
-    "¿La autoridad fiscal puede embargar mis bienes?",
+    "¿Cuáles son los bienes inalienables?",
+    "¿La autoridad fiscal puede embargar mi casa?",
     "¿Qué significa que un bien sea inembargable?",
-    "¿Hay bienes que la ley protege de embargos?",
-    "¿Cuáles son los bienes inalienables?"
+    "¿Existen excepciones a los bienes inembargables?"
   ]
 }

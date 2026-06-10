@@ -6,26 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e7496b282d10923a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción y cancelación en el RFC",
+  "denominacion_comun": "Inscripción en el RFC",
   "temas": [
+    "inscripción",
+    "cancelación",
     "fusión de sociedades",
-    "escisión total de sociedades",
-    "escisión parcial de sociedades",
-    "residentes en el extranjero"
+    "escisión total",
+    "escisión parcial",
+    "residentes en el extranjero",
+    "avisos fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo inscribirse en el RFC",
-    "cancelación del RFC por fusión",
-    "escisión y el RFC",
-    "RFC para extranjeros"
+    "inscripción en el RFC",
+    "cancelar el RFC",
+    "fusión de empresas",
+    "escisión de empresas",
+    "residentes en el extranjero",
+    "RFC",
+    "SAT"
   ],
-  "resumen": "Este artículo establece cómo las sociedades deben realizar su inscripción y cancelación en el registro federal de contribuyentes tras procesos de fusión o escisión. También menciona el procedimiento para residentes en el extranjero que no tengan representante legal en México.",
+  "resumen": "Este artículo establece cómo deben inscribirse y cancelar su registro en el RFC las sociedades que surjan por fusiones y escisiones, así como los procedimientos aplicables para los residentes en el extranjero sin representante legal en México.",
   "preguntas_ejemplo": [
-    "¿Cómo hago la inscripción en el RFC si mi sociedad se fusiona?",
-    "¿Qué pasos sigue una sociedad que se escinde para estar en el RFC?",
-    "¿Los extranjeros necesitan hacer algo especial para inscribirse en el RFC?",
-    "¿Quién presenta el aviso de cancelación en el RFC tras una fusión?"
+    "¿Cómo me inscribo en el RFC si fusiono mi empresa?",
+    "¿Qué debo hacer para cancelar el RFC de una sociedad después de una fusión?",
+    "¿Cómo se inscriben las sociedades escindidas en el RFC?",
+    "¿Cuáles son los pasos para que un residente en el extranjero obtenga su RFC?",
+    "¿Qué avisos debo presentar al SAT tras una escisión de empresas?"
   ]
 }

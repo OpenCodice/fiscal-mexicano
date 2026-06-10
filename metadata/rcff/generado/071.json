@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6729f56b48f91597",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acuerdo conclusivo",
+  "denominacion_comun": "Acuerdo Conclusivo",
   "temas": [
-    "acuerdo conclusivo",
     "contribuyentes",
+    "acuerdo conclusivo",
     "acta parcial",
     "oficio de observaciones",
     "resolución provisional",
-    "Autoridad Fiscal"
+    "calificación"
   ],
   "terminos_coloquiales": [
-    "acuerdo con la autoridad",
-    "solicitar acuerdo",
-    "acuerdo para evitar problemas",
-    "conclusión fiscal"
+    "acuerdo para arreglar problemas fiscales",
+    "acuerdo conclusivo",
+    "observaciones fiscales"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden solicitar un acuerdo conclusivo antes de que se emita la última acta parcial o un oficio de observaciones, siempre que la Autoridad Fiscal califique adecuadamente en la documentación correspondiente.",
+  "resumen": "El artículo establece que los contribuyentes pueden solicitar un acuerdo conclusivo antes de que se emita el último acta parcial u oficio de observaciones. Esto es posible siempre que la Autoridad Fiscal califique previamente las actas y oficios relacionados.",
   "preguntas_ejemplo": [
     "¿Qué es un acuerdo conclusivo?",
-    "¿Cuándo puedo solicitar un acuerdo con la autoridad fiscal?",
-    "¿Qué pasos debo seguir para obtener un acuerdo conclusivo?",
-    "¿Qué documentos necesito para solicitar un acuerdo?",
-    "¿Qué sucede si no solicito un acuerdo conclusivo?"
+    "¿En qué momento puedo solicitar un acuerdo conclusivo?",
+    "¿Qué pasa antes del levantamiento del acta parcial?",
+    "¿Cómo afecta un oficio de observaciones a mi situación fiscal?",
+    "¿Qué es la calificación en el contexto de un acuerdo conclusivo?"
   ]
 }

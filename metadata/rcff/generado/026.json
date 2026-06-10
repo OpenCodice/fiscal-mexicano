@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:55fa8146ab051511",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción al RFC",
+  "denominacion_comun": "Inscripción en el RFC",
   "temas": [
     "registro federal de contribuyentes",
+    "inscripción",
+    "comprobantes",
     "empleadores",
-    "comprobantes de inscripción",
-    "ingresos",
-    "obligaciones fiscales"
+    "ingresos"
   ],
   "terminos_coloquiales": [
-    "¿Cómo me registro en el RFC?",
-    "comprobante de registro",
-    "¿Qué hago si no tengo mi RFC?",
-    "inscripción al RFC",
-    "papeles del RFC"
+    "RFC",
+    "inscripción en el RFC",
+    "comprobante de inscripción",
+    "mi RFC",
+    "datos para el RFC"
   ],
-  "resumen": "Los contribuyentes que reciben ingresos deben inscribirse en el RFC y proporcionar a sus empleadores la información requerida. Si ya están inscritos, deben confirmar su inscripción; en caso contrario, pueden solicitar el comprobante correspondiente a la autoridad fiscal.",
+  "resumen": "El artículo establece que las personas que obtienen ciertos ingresos deben proporcionar a sus empleadores los datos necesarios para su inscripción en el registro federal de contribuyentes. Además, si ya están inscritas, deben comprobarlo y, si no tienen su comprobante, ellos o sus empleadores pueden solicitarlo a la Autoridad Fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para inscribirme en el RFC?",
-    "¿Cómo compruebo que estoy inscrito en el RFC?",
-    "¿Qué informar a mi empleador sobre mi inscripción?",
-    "¿Qué sucede si no tengo el comprobante de mi registro?",
-    "¿Cuánto tiempo tiene el empleador para darme el comprobante?"
+    "¿Cómo me inscribo en el RFC?",
+    "¿Qué datos necesito para registrarme en el RFC?",
+    "¿Qué hago si no tengo el comprobante de inscripción en el RFC?",
+    "¿Cuánto tiempo tiene el empleador para darme el comprobante de inscripción?",
+    "¿Qué ingresos requieren que me inscriba en el RFC?"
   ]
 }

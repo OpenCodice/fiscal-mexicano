@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d0e9b7eae8d70af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inscripción en el RFC",
   "temas": [
-    "Inscripción de personas morales",
-    "Cancelación en el RFC",
-    "Fusión de sociedades",
-    "Escisión de sociedades",
-    "Inscripción de personas físicas",
-    "Asociación en participación",
-    "Fideicomisos"
+    "inscripción de personas morales",
+    "inscripción de personas físicas",
+    "cancelación en el RFC",
+    "fusión de sociedades",
+    "escisión de sociedades",
+    "inscripción de fideicomisos"
   ],
   "terminos_coloquiales": [
-    "Cómo inscribirme en el RFC",
-    "Registro federal de contribuyentes",
-    "RFC para empresas",
-    "Inscripción al RFC",
-    "Requisitos para el RFC"
+    "RFC",
+    "Registro Federal de Contribuyentes",
+    "inscripción de empresas",
+    "inscripción de personas",
+    "dar de alta en el RFC",
+    "cancelar en el RFC"
   ],
-  "resumen": "Este artículo establece los tipos de solicitudes necesarias para la inscripción en el registro federal de contribuyentes en México, tanto para personas morales como físicas. También menciona las condiciones bajo las cuales deben realizarse estas inscripciones, como fusiones y escisiones de sociedades.",
+  "resumen": "El artículo establece los diferentes tipos de inscripciones que deben realizar las personas morales y físicas en el Registro Federal de Contribuyentes, así como las cancelaciones por situaciones como fusión o escisión de sociedades. También se mencionan casos específicos de inscripción para personas físicas y fideicomisos.",
   "preguntas_ejemplo": [
-    "¿Cómo inscribo a mi empresa en el RFC?",
-    "¿Qué necesito para dar de alta a una sociedad en el RFC?",
-    "¿Cuál es el proceso para la inscripción de un fideicomiso?",
-    "¿Qué es la escisión y cómo afecta la inscripción en el RFC?",
-    "¿Puedo inscribir a una persona física sin actividad económica en el RFC?"
+    "¿Cómo me inscribo en el RFC?",
+    "¿Qué pasos sigo para inscribir una empresa en el RFC?",
+    "¿Qué debo hacer si una sociedad se fusiona?",
+    "¿Cómo dar de baja a una persona en el RFC?",
+    "¿Necesito inscribirme en el RFC si no tengo actividad económica?",
+    "¿Qué es la inscripción de un fideicomiso en el RFC?"
   ]
 }

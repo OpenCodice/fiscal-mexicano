@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d70d94dce66e40b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro Federal de Contribuyentes",
@@ -15,24 +16,26 @@
     "personas morales",
     "cédula de identificación fiscal",
     "constancia de registro fiscal",
-    "inscripción en el RFC",
-    "protocolización",
-    "organismos no lucrativos"
+    "inscripción al RFC",
+    "objeto social",
+    "personas no lucrativas"
   ],
   "terminos_coloquiales": [
     "RFC",
+    "clave del RFC",
     "cédula fiscal",
-    "registro fiscal",
-    "actas de asamblea",
+    "constancia fiscal",
+    "actas",
+    "inscripción de socios",
     "personas morales",
-    "inscripción al RFC"
+    "actas de personas morales"
   ],
-  "resumen": "El artículo establece que los fedatarios públicos deben verificar y asentarse la clave del registro federal de contribuyentes de los socios o accionistas al protocolizar actas de asamblea de personas morales. También detalla cómo deben proceder si la clave o la cédula no es proporcionada.",
+  "resumen": "Este artículo establece cómo los fedatarios públicos deben manejar la clave del Registro Federal de Contribuyentes y la documentación relacionada al inscribir a socios o accionistas de personas morales. Específicamente, señala que deben verificar y asentar la información fiscal necesaria para la protocolización de actas de asamblea.",
   "preguntas_ejemplo": [
-    "¿Cómo deben los fedatarios públicos manejar el registro de la clave del RFC?",
-    "¿Qué requisitos hay para la protocolización de actas de asamblea de personas morales?",
-    "¿Qué pasa si no me dan mi cédula de identificación fiscal al protocolizar?",
-    "¿Los fedatarios públicos pueden protocolizar actas sin el RFC de los socios?",
-    "¿Qué información debo presentar al solicitar mi inscripción en el RFC?"
+    "¿Qué documentos necesita un fedatario para inscribir a un socio en el RFC?",
+    "¿Cómo se verifica la clave del RFC de una persona moral?",
+    "¿Qué ocurre si no se proporciona la cédula de identificación fiscal?",
+    "¿Qué debe asentar un fedatario en actas de personas no lucrativas?",
+    "¿Cuáles son los requisitos para la protocolización de actas de asamblea?"
   ]
 }

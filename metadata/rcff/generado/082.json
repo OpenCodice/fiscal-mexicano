@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b0b32e214e17fcab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fianza en póliza",
+  "denominacion_comun": "Fianza en materia fiscal",
   "temas": [
-    "fianza",
-    "póliza",
+    "póliza de fianza",
     "crédito fiscal",
-    "autoridad fiscal",
-    "cobro coactivo"
+    "SAT",
+    "reglas de carácter general",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
-    "fianza para impuestos",
+    "fianza",
     "póliza de fianza",
-    "cobro de impuestos",
-    "garantía fiscal"
+    "cobro de deudas fiscales",
+    "crédito fiscal",
+    "SAT"
   ],
-  "resumen": "La póliza que documenta la fianza debe incluir textos específicos establecidos por el Servicio de Administración Tributaria. Esta póliza debe ser resguardada por la autoridad fiscal que se encargue de cobrar el crédito fiscal correspondiente.",
+  "resumen": "Este artículo establece que la póliza de fianza relacionada con el crédito fiscal debe contener ciertos textos que serán determinados por el SAT. Además, dicha póliza será custodiada por la autoridad fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir una póliza de fianza para impuestos?",
-    "¿Quién guarda la póliza de fianza?",
-    "¿Qué es una fianza en el contexto fiscal?",
-    "¿Cómo funciona el cobro coactivo de créditos fiscales?",
-    "¿Qué autoridad se encarga de la fianza?"
+    "¿Qué debe contener una póliza de fianza para el SAT?",
+    "¿Quién guarda la póliza de fianza para créditos fiscales?",
+    "¿Qué es la póliza de fianza en temas fiscales?",
+    "¿Cómo se cobra una deuda fiscal con fianza?",
+    "¿Cuáles son las reglas generales que emite el SAT sobre fianzas?"
   ]
 }

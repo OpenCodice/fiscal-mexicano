@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e738824b5849a987",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avisos de obligaciones fiscales",
+  "denominacion_comun": "Avisos Fiscales",
   "temas": [
     "cambio de régimen de capital",
     "cambio de nombre",
@@ -16,27 +17,28 @@
     "suspensión de actividades",
     "reanudación de actividades",
     "actualización de actividades económicas",
-    "cancelación en el registro federal de contribuyentes",
-    "apertura de sucesión",
-    "inicio de liquidación",
-    "concursos mercantiles"
+    "cancelación en el RFC",
+    "liquidación de sucesiones",
+    "concurso mercantil"
   ],
   "terminos_coloquiales": [
     "avisos fiscales",
-    "cambio de capital",
-    "cambio de nombre en el SAT",
-    "cambiar domicilio en el SAT",
-    "suspender actividades",
-    "dar de baja en el registro federal",
-    "inicio de sucesión",
-    "liquidar una sociedad"
+    "cambio de nombre",
+    "cambio de domicilio",
+    "suspensión de actividades",
+    "reanudación de actividades",
+    "actualización de actividades",
+    "cancelación del RFC",
+    "pensión",
+    "concursos mercantiles"
   ],
-  "resumen": "El artículo establece los diferentes avisos que deben presentar personas físicas y morales ante el SAT, como cambios en su régimen, nombre, domicilio fiscal, y situaciones de suspensión o reanudación de actividades. También trata sobre la cancelación en el registro federal de contribuyentes por diversas razones, incluyendo defunción y liquidación de sociedades.",
+  "resumen": "El artículo establece los diferentes avisos que deben presentar contribuyentes ante el cambio de su régimen fiscal. Esto incluye avisos por cambio de nombre, domicilio fiscal, suspensión o reanudación de actividades, así como actualizaciones y cancelaciones en el Registro Federal de Contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Cómo cambio mi domicilio fiscal?",
-    "¿Qué debo hacer si suspendí mis actividades?",
-    "¿Cómo actualizo mis datos en el SAT?",
-    "¿Qué avisos tengo que presentar si muero?",
-    "¿Cómo cancelo mi registro federal de contribuyentes?"
+    "¿Cómo notifico un cambio de nombre en mi RFC?",
+    "¿Qué debo hacer si cambio de domicilio fiscal?",
+    "¿Cómo presento un aviso de suspensión de actividades?",
+    "¿Qué tipo de avisos necesito si inicio un concurso mercantil?",
+    "¿Cómo cancelo mi RFC por defunción de un contribuyente?",
+    "¿Qué avisos debo presentar si cambio de régimen de capital?"
   ]
 }

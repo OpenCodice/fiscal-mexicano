@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2a2c309a3b69049d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Control efectivo en sociedades",
   "temas": [
-    "control de administración",
-    "estrategia corporativa",
-    "obligaciones fiscales",
-    "documentación para socios",
-    "comprobación de retenciones"
+    "personas morales",
+    "administración",
+    "estrategia",
+    "políticas",
+    "comprobación",
+    "impuesto sobre la renta",
+    "acciones",
+    "documentación",
+    "retención"
   ],
   "terminos_coloquiales": [
-    "quién manda en la empresa",
-    "documentos de socios",
-    "retención de impuestos",
-    "comprobación fiscal"
+    "sociedades",
+    "accionistas",
+    "documentos fiscales",
+    "retención de impuestos"
   ],
-  "resumen": "El artículo establece cómo se puede otorgar el control de una empresa y aclara que no se incluyen ciertas sociedades en el artículo 26 si no cumplen con requisitos de documentación fiscal. Se resalta la importancia de la constancia del Servicio de Administración Tributaria en el proceso.",
+  "resumen": "El artículo establece que el control efectivo de una sociedad puede ser otorgado de forma expresa o tácita. También aclara que las sociedades no podrán inscribir a socios o accionistas sin la documentación necesaria para comprobar el cumplimiento de obligaciones fiscales, como la retención del impuesto sobre la renta.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina quién dirige una empresa?",
-    "¿Qué pasa si un socio no presenta la documentación requerida?",
-    "¿Qué es la constancia del SAT?",
-    "¿Las sociedades necesitan cumplir con requisitos fiscales específicos?",
-    "¿Cómo afecta la documentación a los accionistas?",
-    "¿Qué obligaciones tienen las sociedades respecto a la retención de impuestos?"
+    "¿Qué se entiende por control efectivo en las sociedades?",
+    "¿Qué documentos se requieren para inscribir a socios en una sociedad?",
+    "¿Cuáles son las obligaciones fiscales de los accionistas?",
+    "¿Qué pasa si un socio no proporciona la documentación necesaria?",
+    "¿Cómo se comprueba el cumplimiento de la retención de impuestos?"
   ]
 }

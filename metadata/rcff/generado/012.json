@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23de4c0cfe087c3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Identificación fiscal de residentes en el extranjero",
+  "denominacion_comun": "Número de identificación fiscal para residentes en el extranjero",
   "temas": [
-    "Residentes en el extranjero",
-    "Número de identificación fiscal",
-    "Promociones fiscales",
-    "Autoridades fiscales"
+    "residencia fiscal",
+    "número de identificación fiscal",
+    "promociones fiscales",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "identificación fiscal para extranjeros",
-    "número fiscal extranjero",
-    "promociones fiscales para no residentes",
-    "cómo declaran extranjeros"
+    "número de identificación fiscal",
+    "promociones ante la autoridad",
+    "residencia en el extranjero"
   ],
-  "resumen": "Los residentes en el extranjero que no necesitan un número de identificación fiscal según su país no tienen que incluirlo en sus trámites fiscales en México.",
+  "resumen": "Este artículo establece que los residentes en el extranjero, que no están obligados a tener un número de identificación fiscal según su país, no deben incluirlo en las promociones que presenten a las autoridades fiscales en México.",
   "preguntas_ejemplo": [
-    "¿Los extranjeros necesitan un número fiscal en México?",
-    "¿Qué pasa si un extranjero no tiene número de identificación fiscal?",
-    "¿Cómo deben presentar sus promociones fiscales los residentes en el extranjero?",
-    "¿Cuándo un extranjero puede omitir su número fiscal en México?"
+    "¿Necesito un número de identificación fiscal si vivo en el extranjero?",
+    "¿Qué hago si mi país no me exige un número de identificación fiscal?",
+    "¿Debo incluir mi número de identificación fiscal en mis trámites fiscales en México?",
+    "¿Los residentes en el extranjero deben presentar promociones fiscales sin un número de identificación?",
+    "¿Qué ocurre si no tengo un número de identificación fiscal y soy residente en el extranjero?"
   ]
 }

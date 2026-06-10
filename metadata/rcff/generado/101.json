@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c289dd34b1c22932",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intervención administrativa",
+  "denominacion_comun": "Intervención Administrativa",
   "temas": [
     "obligaciones del interventor",
     "pago de sueldos",
-    "créditos preferentes",
-    "contribuciones",
-    "informes a la autoridad",
-    "situación de la negociación",
-    "movimientos mensuales"
+    "informe inicial",
+    "informe mensual",
+    "conservación del negocio",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
-    "responsabilidades del administrador",
-    "pago de sueldos durante intervención",
-    "informes fiscales mensuales",
-    "intervención de negocios",
-    "qué hace el interventor"
+    "intervención administrativa",
+    "informes al SAT",
+    "pago de deudas",
+    "sueldos",
+    "créditos preferentes",
+    "obligaciones fiscales"
   ],
-  "resumen": "El artículo establece las obligaciones del interventor administrador durante la intervención, incluyendo el pago de sueldos y contribuciones, y la elaboración de informes a la Autoridad Fiscal sobre la situación del negocio y sus movimientos mensuales.",
+  "resumen": "El artículo establece que el interventor administrador debe realizar ciertos pagos y elaborar informes de la situación del negocio durante la intervención administrativa. También requiere la entrega de informes mensuales a la Autoridad Fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué tareas tiene el interventor en una intervención administrativa?",
-    "¿Cómo se manejan los pagos durante la intervención?",
-    "¿Qué informes debe presentar el interventor a la autoridad?",
-    "¿Qué información debe incluir el informe inicial?",
-    "¿Con qué frecuencia debe entregar informes el interventor?"
+    "¿Cuáles son las obligaciones del interventor en una intervención administrativa?",
+    "¿Qué informes debe presentar el interventor a la Autoridad Fiscal?",
+    "¿Cómo se manejan los pagos de sueldos durante la intervención administrativa?",
+    "¿Cuándo se debe entregar el informe inicial y mensual?",
+    "¿Qué acciones debe realizar el interventor para conservar el negocio?"
   ]
 }

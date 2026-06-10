@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a01895cd0dc838c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rectificación de Inscripciones",
+  "denominacion_comun": "Corrección de solicitudes",
   "temas": [
     "inscripción",
-    "avisos",
+    "avisos complementarios",
     "errores",
-    "corrrecciones",
-    "formatos",
-    "Servicio de Administración Tributaria"
+    "omisiones",
+    "formatos electrónicos"
   ],
   "terminos_coloquiales": [
-    "corregir inscripciones",
-    "avisos corregidos",
-    "errores en formatos",
-    "rectificar avisos",
-    "inscripción errónea"
+    "corrección de inscripciones",
+    "avisos rectificativos",
+    "errores en documentos",
+    "SAT"
   ],
-  "resumen": "El artículo establece que cuando se cometen errores en solicitudes de inscripción o avisos, se pueden corregir mediante solicitudes complementarias. Es necesario incluir todos los datos, incluso los que no se modifican, y señalar la relación con la solicitud original.",
+  "resumen": "Este artículo establece que si se presentan solicitudes de inscripción o avisos con errores o de forma incorrecta, se pueden rectificar mediante solicitudes o avisos complementarios. Es necesario incluir todos los datos, incluso aquellos que no se modifican, y especificar que se trata de una corrección.",
   "preguntas_ejemplo": [
-    "¿Cómo corrigo un error en mi inscripción?",
-    "¿Qué hacer si presenté mal un aviso?",
-    "¿Necesito presentar todos los datos cuando rectifico?",
-    "¿Qué información debo incluir en una solicitud complementaria?",
-    "¿Cómo indico que es una corrección?"
+    "¿Cómo corrijo un error en mi inscripción ante el SAT?",
+    "¿Qué debo hacer si presenté un aviso incorrecto?",
+    "¿Cómo se presentan solicitudes de avisos complementarios?",
+    "¿Es necesario incluir todos mis datos al corregir un aviso?",
+    "¿Qué información tengo que dar al corregir mi inscripción?"
   ]
 }

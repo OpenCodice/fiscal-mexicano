@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9ab28fc7b36d2d78",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazo para proporcionar información en revisiones electrónicas",
+  "denominacion_comun": "Información solicitada en revisiones electrónicas",
   "temas": [
     "revisión electrónica",
-    "plazo para informar",
-    "notificación",
-    "tercero",
-    "buzón tributario",
-    "derechos del contribuyente"
+    "notificación de requerimientos",
+    "plazos de respuesta",
+    "documentación de terceros"
   ],
   "terminos_coloquiales": [
-    "cuánto tiempo tengo para dar información",
     "revisión fiscal",
-    "plazo de respuesta",
-    "notificación al contribuyente"
+    "buzón tributario",
+    "plazo para entregar información"
   ],
-  "resumen": "Cuando las autoridades fiscales piden información a un tercero, este tiene que entregarla en un plazo específico. Si la información afecta al contribuyente, será notificado a través del buzón tributario.",
+  "resumen": "Si las autoridades fiscales piden información a un tercero durante una revisión electrónica, este debe entregarla en un plazo de 15 días. Si esa información necesita ser comunicada al contribuyente, se hará a través del buzón tributario en un plazo de 4 días.",
   "preguntas_ejemplo": [
-    "¿Qué debe hacer un tercero si recibe un requerimiento de información?",
-    "¿Cuánto tiempo tiene para responder una solicitud de información fiscal?",
-    "¿Cómo se notifica a un contribuyente sobre la información que presentó un tercero?",
-    "¿Qué ocurre después de que un tercero proporciona la información requerida?"
+    "¿Cuánto tiempo tiene un tercero para entregar información en una revisión fiscal?",
+    "¿Cómo se notifica al contribuyente sobre la información que se le entrega?",
+    "¿Qué sucede si el tercero no entrega la información solicitada?",
+    "¿Qué es el buzón tributario?",
+    "¿Cuánto tiempo tiene el contribuyente para responder después de la notificación?"
   ]
 }

@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:710864e8e9776591",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reposición de Contabilidad",
+  "denominacion_comun": "Reposición de Asientos Contables",
   "temas": [
     "contabilidad",
     "libros contables",
     "asientos contables",
-    "inutilización de libros",
-    "reposición de registros",
-    "destrucción de documentos",
-    "comprobación fiscal"
+    "documentación fiscal",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "libros contables dañados",
-    "cómo repongo mis registros contables",
-    "qué hacer si pierdo mis libros",
+    "libros contables",
     "asientos ilegibles",
-    "reemplazo de contabilidad"
+    "comprobantes fiscales",
+    "CFDI"
   ],
-  "resumen": "Este artículo establece que si los libros o registros de contabilidad se dañan o pierden, deben reponerse los asientos ilegibles. Además, si hay destrucción total, los nuevos registros deben contener la información del ejercicio afectado.",
+  "resumen": "Si los libros contables de un contribuyente se dañan, deben reponerse los asientos ilegibles. En caso de destrucción total, se tienen que registrar los asientos del ejercicio afectado en nuevos libros. Además, el contribuyente debe conservar un documento que muestre lo sucedido hasta que las autoridades fiscales tengan sus facultades de comprobación.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si mis libros contables se dañan?",
-    "¿Cómo repongo los asientos ilegibles?",
-    "¿Necesito un documento para probar la pérdida de mis libros?",
-    "¿Qué registros debo incluir si perdí mis documentos contables?",
-    "¿Qué pasa si destruyen todos mis libros contables?"
+    "¿Qué hago si mis libros contables se dañaron?",
+    "¿Cómo repongo asientos ilegibles en mis registros contables?",
+    "¿Qué debo hacer si pierdo mis libros contables?",
+    "¿Necesito conservar algún documento si mis asientos contables se destruyeron?",
+    "¿Cómo afecta la destrucción de libros contables a mis obligaciones fiscales?"
   ]
 }

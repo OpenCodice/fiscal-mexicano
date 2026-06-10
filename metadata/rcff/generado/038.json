@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5153918ffee9221b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representante legal en sucesiones",
+  "denominacion_comun": "Comprobantes fiscales tras fallecimiento",
   "temas": [
     "comprobantes fiscales",
-    "sucesión",
-    "fallecimiento del contribuyente",
-    "representante legal"
+    "sucesiones",
+    "representante legal",
+    "fallecimiento del contribuyente"
   ],
   "terminos_coloquiales": [
-    "quién emite los recibos después de una muerte",
-    "comprobantes fiscales tras un fallecimiento",
-    "sucesiones y facturación",
-    "responsable de los recibos de un fallecido"
+    "facturas",
+    "CFDI",
+    "comprobantes digitales",
+    "herencia"
   ],
-  "resumen": "Cuando un contribuyente fallece, su representante legal es el único que puede seguir emitiendo los comprobantes fiscales digitales. Esto se aplica a las sucesiones de los contribuyentes que han muerto.",
+  "resumen": "El representante legal de una sucesión es el único que puede seguir emitiendo facturas en caso de que el contribuyente fallezca. Esto se aplica a los comprobantes fiscales digitales por Internet que correspondan al fallecido.",
   "preguntas_ejemplo": [
-    "¿Quién puede emitir facturas si alguien falleció?",
-    "¿Qué pasa con los comprobantes fiscales de un fallecido?",
-    "¿El representante legal puede seguir facturando tras la muerte del contribuyente?",
-    "¿Cómo se manejan las facturas de un contribuyente que ha muerto?",
-    "¿Qué autoridad tiene el representante legal en cuestiones fiscales tras un fallecimiento?"
+    "¿Quién puede emitir las facturas si el contribuyente falleció?",
+    "¿Qué pasa con los comprobantes fiscales después de una muerte?",
+    "¿El representante legal puede seguir con el uso de CFDI tras un fallecimiento?",
+    "¿Cómo se manejan las facturas en una herencia?",
+    "¿Qué se debe hacer con los comprobantes fiscales si el dueño ya no está?"
   ]
 }

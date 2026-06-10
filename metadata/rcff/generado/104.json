@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc32d513849eb5c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subasta de bienes fiscales",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "remate",
     "subasta pública",
-    "bienes fiscales",
-    "Servicio de Administración Tributaria"
+    "bienes objeto de remate",
+    "requisitos de participación",
+    "valor de los bienes"
   ],
   "terminos_coloquiales": [
-    "subasta de bienes",
-    "remate de bienes del SAT",
-    "comprar en subasta",
-    "bienes a la venta del gobierno"
+    "remate",
+    "subasta",
+    "compra en subasta",
+    "bienes en subasta"
   ],
-  "resumen": "El artículo establece que en la página del SAT se pueden consultar los bienes en remate, su valor y los requisitos para participar. Los bienes estarán disponibles para el público en lugares y horarios determinados.",
+  "resumen": "Este artículo establece que los bienes que se rematan se pueden consultar en la página del SAT. También se indican los requisitos para participar en las subastas de esos bienes.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo ver los bienes en remate del SAT?",
-    "¿Cuáles son los requisitos para participar en una subasta pública?",
-    "¿Cómo se determina el valor de los bienes a subastar?",
-    "¿A qué horas puedo ir a la subasta de bienes del gobierno?",
-    "¿Qué bienes están disponibles para remate actualmente?"
+    "¿Dónde puedo ver los bienes en remate?",
+    "¿Cuáles son los requisitos para participar en una subasta del SAT?",
+    "¿Qué valor tienen los bienes que se rematan?",
+    "¿A qué hora son las subastas de bienes del SAT?",
+    "¿Cómo puedo comprar un bien en remate?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d320aa46bb2ebdd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Plazo para presentar documentos fiscales",
@@ -13,22 +14,20 @@
     "plazo de presentación",
     "documentos fiscales",
     "corrección de situación fiscal",
-    "actas parciales",
+    "acta parcial",
     "acta final"
   ],
   "terminos_coloquiales": [
-    "tiempo para entregar papeles",
-    "plazo para regularizarse",
-    "fechas para corregir errores",
-    "documentos a presentar"
+    "presentar papeles",
+    "corregir impuestos",
+    "acta de revisión"
   ],
-  "resumen": "Este artículo establece un plazo de veinte días para que los contribuyentes presenten documentos que prueben su situación fiscal o corrijan errores. Este plazo comienza al día siguiente de que se levanta la última acta parcial y termina un día antes del acta final.",
+  "resumen": "Este artículo establece un plazo de veinte días para que el contribuyente presente documentos que desvirtúen omisiones o hechos fiscales, comenzando al día siguiente de levantar un acta parcial y concluyendo un día antes del acta final.",
   "preguntas_ejemplo": [
     "¿Cuánto tiempo tengo para presentar mis documentos fiscales?",
-    "¿Desde cuándo empiezo a contar el plazo para corregir mi situación?",
-    "¿Qué sucede si no entrego mis documentos en el plazo establecido?",
-    "¿Qué son las actas parciales y cómo afectan mi plazo?",
-    "¿Qué debo hacer si quiero corregir un error en mi declaración?",
-    "¿Cuándo se considera que terminó el plazo para regularizarme?"
+    "¿Cómo puedo corregir mi situación fiscal?",
+    "¿Qué pasa después de un acta parcial?",
+    "¿Cuándo se considera que termina el plazo de presentación?",
+    "¿Qué documentos debo presentar para desvirtuar mis omisiones?"
   ]
 }

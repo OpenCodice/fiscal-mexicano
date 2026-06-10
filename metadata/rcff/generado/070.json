@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd4cae3b4d0795ed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requerimientos de información",
+  "denominacion_comun": "Acuerdos Conclusivos",
   "temas": [
-    "Autoridad Fiscal",
-    "Contribuyente",
-    "Requerimientos",
-    "Plazos",
-    "Acuerdos Conclusivos"
+    "requerimiento de información",
+    "plazo para cumplir",
+    "valoración de pruebas",
+    "notificación",
+    "contribuyente"
   ],
   "terminos_coloquiales": [
-    "requerimiento de información",
-    "plazo para responder",
-    "datos adicionales",
-    "notificación fiscal"
+    "plazo para responder requerimiento",
+    "información adicional",
+    "notificación de requerimiento"
   ],
-  "resumen": "La Autoridad Fiscal puede solicitar información adicional a un contribuyente y este tiene diez días para proporcionarla tras la notificación del requerimiento. El tiempo para evaluar las pruebas empieza a contar cuando se cumple con el requerimiento.",
+  "resumen": "Este artículo establece que la Autoridad Fiscal puede pedir información adicional a los contribuyentes y que deben proporcionarla en un plazo específico. Además, señala que el tiempo para valorar pruebas empieza una vez que se cumple con el requerimiento.",
   "preguntas_ejemplo": [
+    "¿Qué debo hacer si recibo un requerimiento de información de la Autoridad Fiscal?",
     "¿Cuánto tiempo tengo para responder a un requerimiento de información?",
-    "¿Qué pasa si no entrego la información solicitada por la autoridad?",
-    "¿Cómo se cuentan los días para el plazo de respuesta a un requerimiento?",
-    "¿Qué es un acuerdo conclusivo en el contexto fiscal?",
-    "¿Qué información puede solicitar la Autoridad Fiscal?"
+    "¿Qué pasa si no cumplo con el requerimiento de información adicional?",
+    "¿Cuándo inicia el plazo para que se valoren mis pruebas después de cumplir con el requerimiento?",
+    "¿Qué son los Acuerdos Conclusivos en materia fiscal?"
   ]
 }

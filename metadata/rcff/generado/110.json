@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cc89d633a092143e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación a plazos de bienes embargados",
+  "denominacion_comun": "Enajenación a Plazos de Bienes Embargados",
   "temas": [
-    "enajenación",
+    "embargo",
+    "enajenación a plazos",
     "bienes embargados",
     "intereses",
     "recargos",
-    "créditos fiscales"
+    "créditos fiscales",
+    "garantías"
   ],
   "terminos_coloquiales": [
-    "pagar a plazos",
     "comprar bienes embargados",
-    "intereses y recargos",
-    "venta de bienes embargados"
+    "pago a plazos",
+    "intereses sobre deudas",
+    "enajenación de bienes",
+    "SAT"
   ],
-  "resumen": "La Autoridad Fiscal puede vender bienes que han sido embargados en plazos, siempre que el comprador garantice el pago de lo que debe más los intereses. Los intereses son similares a los recargos que se aplican para el pago a plazos de deudas fiscales.",
+  "resumen": "La Autoridad Fiscal puede vender bienes embargados a plazos, siempre y cuando el comprador garantice el saldo de la deuda más los intereses. Los intereses serán iguales a los recargos en caso de pagos a plazo, y el SAT emitirá reglas para regular este proceso.",
   "preguntas_ejemplo": [
-    "¿Puedo comprar bienes embargados pagando a plazos?",
-    "¿Qué pasa con los intereses si compro algo embargado?",
-    "¿Cuáles son las reglas para comprar bienes embargados?",
-    "¿Cómo funcionan los recargos en la compra de bienes embargados?",
-    "¿Qué garantías necesito para comprar a plazos los bienes embargados?"
+    "¿Cómo puedo comprar bienes embargados?",
+    "¿Qué pasa si quiero pagar a plazos por un bien embargado?",
+    "¿Cuáles son los intereses que se aplican al comprar un bien embargado?",
+    "¿Qué reglas aplica el SAT para la enajenación a plazos?",
+    "¿Qué significa que los intereses sean iguales a los recargos?",
+    "¿Qué garantías debo presentar para comprar un bien embargado a plazos?"
   ]
 }

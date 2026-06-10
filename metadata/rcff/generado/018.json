@@ -6,30 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:abca3f25c720848b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses a pagar y retenciones",
+  "denominacion_comun": "Retención de intereses",
   "temas": [
     "intereses",
-    "retenciones",
-    "método de cálculo",
-    "procedimiento",
-    "reglas generales",
+    "retención",
+    "cálculo mensual",
     "Servicio de Administración Tributaria"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan los intereses",
-    "retenciones de intereses",
-    "intereses de impuestos",
-    "qué es la retención",
-    "cómo se paga la retención"
+    "intereses",
+    "retención de impuestos",
+    "SAT"
   ],
-  "resumen": "Este artículo establece que los intereses a pagar se calcularán mensualmente y se realizará la retención correspondiente siguiendo las reglas que defina el SAT. Se busca asegurar el cumplimiento en el cálculo de los intereses y las retenciones aplicables.",
+  "resumen": "Este artículo establece que los intereses a pagar se calcularán mensualmente y se realizará la retención correspondiente conforme a las reglas del SAT. Se trata del procedimiento que deben seguir los contribuyentes para cumplir con esta obligación fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses que debo pagar?",
-    "¿Qué es la retención de intereses?",
-    "¿Qué reglas sigue el SAT para el cálculo de intereses?",
-    "¿Cada cuánto tiempo se calculan los intereses?",
-    "¿Cómo afecta la retención a mis pagos?"
+    "¿Cómo se calcula la retención de intereses?",
+    "¿Qué procedimiento debo seguir para retener intereses?",
+    "¿El SAT tiene reglas sobre la retención de intereses?",
+    "¿Cuándo debo realizar la retención de intereses?"
   ]
 }

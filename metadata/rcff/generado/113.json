@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e1f6dc76839fb654",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Excedentes del remate",
+  "denominacion_comun": "Excedentes del Remate o Adjudicación",
   "temas": [
-    "excedentes",
     "remate",
     "adjudicación",
-    "actualización",
+    "excedentes",
     "intereses",
-    "plazos",
-    "Servicio de Administración Tributaria"
+    "actualización"
   ],
   "terminos_coloquiales": [
-    "dinero extra del remate",
-    "excedentes no actualizables",
-    "intereses no aplicables",
-    "plazos de entrega de excedentes"
+    "excedentes del remate",
+    "remate de bienes",
+    "intereses no pagados",
+    "plazos de entrega"
   ],
-  "resumen": "Los excedentes que se obtienen en un remate no tienen actualización ni generan intereses si se entregan en los plazos establecidos por el Servicio de Administración Tributaria. Es importante cumplir con estos plazos para evitar costos adicionales.",
+  "resumen": "El artículo establece que los excedentes obtenidos del remate o adjudicación no se actualizarán ni generarán intereses, siempre que se entreguen dentro de los plazos que determine el SAT a través de reglas generales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con el dinero adicional que obtuve de un remate?",
-    "¿Los excedentes del remate generan intereses?",
-    "¿Qué plazos debo seguir para la entrega de excedentes?",
-    "¿Cómo se manejan los excedentes en el proceso de adjudicación?",
-    "¿Qué dice la ley sobre los remates y sus excedentes?"
+    "¿Qué pasa con los excedentes del remate?",
+    "¿Se pagan intereses sobre los excedentes de un remate?",
+    "¿Cuáles son los plazos para entregar los excedentes del remate?",
+    "¿Cómo se actualizan los excedentes del remate?",
+    "¿Qué dice la ley sobre los excedentes de un remate o adjudicación?"
   ]
 }

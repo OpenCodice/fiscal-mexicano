@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:61e650e9c8e8a3e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones del interventor fiscal",
+  "denominacion_comun": "Intervención de Negocios",
   "temas": [
-    "intervención fiscal",
-    "activo fijo embargado",
+    "obligaciones del interventor",
+    "verificación de activos",
     "informes financieros",
     "reserva de información",
-    "gastos de negociación",
-    "relación de acreedores"
+    "situación financiera",
+    "informes mensuales",
+    "gastos necesarios"
   ],
   "terminos_coloquiales": [
-    "deberes del interventor",
-    "funciones del interventor",
-    "responsabilidades en una intervención",
-    "qué hace un interventor fiscal",
-    "informe del interventor"
+    "interventor",
+    "embargo",
+    "activos",
+    "estado de resultados",
+    "nómina",
+    "saldo bancario"
   ],
-  "resumen": "El artículo establece las obligaciones del interventor fiscal durante una intervención, que incluyen verificar activos, analizar estados financieros, y elaborar informes sobre la situación de la negociación. También se requiere guardar reserva sobre la información obtenida.",
+  "resumen": "El artículo establece las obligaciones que debe cumplir el interventor designado en un negocio intervenido, incluyendo verificar activos, elaborar informes financieros y mantener reserva sobre la información obtenida. También se requiere que el interventor informe sobre los movimientos de la negociación y los gastos necesarios.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las tareas del interventor en una intervención fiscal?",
-    "¿Qué debe hacer un interventor con el activo fijado?",
-    "¿Cómo se reporta la situación financiera de una empresa intervenida?",
-    "¿Qué información debe manejar un interventor en secreto?",
-    "¿Qué informes tiene que elaborar el interventor durante la intervención?"
+    "¿Cuáles son las obligaciones del interventor en un negocio?",
+    "¿Qué debe hacer el interventor al iniciar su trabajo?",
+    "¿Cómo se verifica el estado de los activos en una intervención?",
+    "¿Qué informes debe elaborar el interventor?",
+    "¿Qué información debe mantener en reserva el interventor?",
+    "¿Cómo se reportan los ingresos durante la intervención?"
   ]
 }

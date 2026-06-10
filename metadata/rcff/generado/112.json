@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee63fca47c9c7009",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recuperación de Bienes Embargados",
+  "denominacion_comun": "Recuperación de bienes embargados",
   "temas": [
     "embargo",
-    "bienes",
     "crédito fiscal",
-    "remate",
-    "pago"
+    "recuperación de bienes",
+    "remate"
   ],
   "terminos_coloquiales": [
-    "cómo recuperar bienes embargados",
-    "pago para liberar bienes",
-    "remate de bienes",
-    "créditos fiscales embargados"
+    "recuperar bienes",
+    "crédito fiscal",
+    "embargo"
   ],
-  "resumen": "El artículo establece que una persona cuyos bienes han sido embargados puede recuperarlos si paga total o parcialmente el crédito fiscal antes de que se lleve a cabo el remate o adjudicación. Esto permite a los embargados actuar para retener sus propiedades.",
+  "resumen": "El artículo establece que una persona que ha sufrido un embargo puede recuperar sus bienes si paga el crédito fiscal antes de que se realice el remate o enajenación. Esto se puede hacer total o parcialmente hasta un día antes del procedimiento.",
   "preguntas_ejemplo": [
     "¿Cómo puedo recuperar mis bienes embargados?",
-    "¿Cuánto tiempo tengo para pagar un crédito fiscal y evitar el remate?",
-    "¿Puedo pagar solo una parte del crédito y recuperar mis bienes?",
-    "¿Qué debo hacer si mis bienes han sido embargados?",
-    "¿Qué pasa si no pago el crédito fiscal de mis bienes embargados?"
+    "¿Qué debo hacer para evitar el remate de mis bienes?",
+    "¿Puedo pagar parte de mi deuda para recuperar mis bienes?",
+    "¿Cuánto tiempo tengo para recuperar mis bienes después de un embargo?",
+    "¿Qué es un crédito fiscal y cómo afecta mis bienes embargados?"
   ]
 }

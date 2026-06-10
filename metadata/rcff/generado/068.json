@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dcdd6befc55b7efa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud de pago a plazos",
+  "denominacion_comun": "Pago a Plazos",
   "temas": [
-    "Pago a plazos",
-    "Contribuyentes",
-    "Documentos",
-    "Operaciones inexistentes"
+    "solicitud de pago",
+    "plazos",
+    "documentación",
+    "hechos u omisiones",
+    "presunción de operaciones"
   ],
   "terminos_coloquiales": [
-    "Cómo pagar a plazos",
-    "Pago a plazos de impuestos",
-    "Solicitar pago a plazos",
-    "Documentación para pagar a plazos"
+    "pagar en partes",
+    "pago a plazos",
+    "revisión de documentos"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden solicitar el pago a plazos y presentar documentos para defenderse de hechos u omisiones en sus registros. Esta solicitud es independiente a las observaciones previas que se hayan realizado.",
+  "resumen": "El artículo establece que un contribuyente que solicite el pago a plazos puede presentar documentos para contrarrestar cualquier hecho u omisión que se presente en su solicitud, independientemente del estado de la revisión fiscal. También se menciona el tema de las operaciones inexistentes.",
   "preguntas_ejemplo": [
-    "¿Puedo pagar mis impuestos en plazos?",
-    "¿Qué documentos necesito para solicitar un pago a plazos?",
-    "¿Cómo puedo desvirtuar las observaciones de mi acta?",
-    "¿Qué pasa si ya tengo una notificación de observaciones?",
-    "¿Qué debo hacer para solicitar el pago a plazos?"
+    "¿Cómo puedo solicitar el pago a plazos de mis impuestos?",
+    "¿Qué documentos necesito presentar para pagar en partes?",
+    "¿Puedo desvirtuar observaciones fiscales al pedir un pago a plazos?",
+    "¿Qué significa la presunción de operaciones inexistentes?",
+    "¿Qué ocurre si me notifican observaciones en mi solicitud de pago a plazos?"
   ]
 }

@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f6845b5f70319244",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representación de personas en trámites fiscales",
+  "denominacion_comun": "Poder para actos fiscales",
   "temas": [
-    "poderes",
     "representación legal",
-    "actos administrativos",
-    "ratificación de firmas",
-    "trámites fiscales",
-    "devolución de contribuciones",
-    "compensación de contribuciones"
+    "poderes fiscales",
+    "facultades de representación",
+    "firmas ratificadas"
   ],
   "terminos_coloquiales": [
-    "quién puede actuar en mi nombre",
-    "firmas ratificadas",
-    "poder para trámites",
-    "representante fiscal",
-    "poder notarial"
+    "poder notarial",
+    "poder general",
+    "poder para pleitos",
+    "firmas ante notario"
   ],
-  "resumen": "Este artículo establece que la representación de personas para trámites fiscales es válida cuando se tiene un poder general ratificado. También menciona que pueden existir requisitos específicos según la ley para ciertos trámites.",
+  "resumen": "El artículo establece que la representación de una persona para actos fiscales se considera válida si tiene un poder general debidamente ratificado. Este poder debe otorgar facultades específicas según lo que requieran las disposiciones fiscales aplicables.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de poder necesito para que alguien actúe por mí ante el fisco?",
-    "¿Cómo se ratifican las firmas para un trámite fiscal?",
-    "¿Puedo usar un poder general para cualquier trámite?",
-    "¿Qué requisitos tienen que tener los poderes para ser válidos?",
-    "¿Qué pasa si no tengo un poder específico para un trámite fiscal?"
+    "¿Qué se necesita para representar a alguien en temas fiscales?",
+    "¿Cómo se valida un poder notarial ante la autoridad fiscal?",
+    "¿Qué tipo de poderes se requieren para realizar trámites fiscales?",
+    "¿Quién puede firmar documentos fiscales en nombre de otra persona?",
+    "¿Qué es un poder general y cómo se usa en el ámbito fiscal?"
   ]
 }

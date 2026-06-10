@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c7e37673b44f112",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sanciones a contadores públicos",
@@ -14,21 +15,24 @@
     "contadores públicos",
     "dictámenes",
     "auditoría",
-    "infracciones fiscales",
-    "servicio de administración tributaria"
+    "inscripción",
+    "informe",
+    "suspensión"
   ],
   "terminos_coloquiales": [
-    "multas para contadores",
-    "castigos a contadores",
-    "sanciones contables",
-    "problemas fiscales de contadores"
+    "sanciones a contadores",
+    "amonestaciones",
+    "suspensión de registro",
+    "auditoría fiscal",
+    "dictamen",
+    "informar cambio de domicilio"
   ],
-  "resumen": "Este artículo establece las sanciones que pueden aplicarse a los contadores públicos por no cumplir con las normativas fiscales, las cuales incluyen amonestaciones y suspensiones de su inscripción, dependiendo de la gravedad de la falta. Las sanciones se acumulan por cada dictamen que contravenga las disposiciones aplicables.",
+  "resumen": "El artículo establece las sanciones que el Servicio de Administración Tributaria puede aplicar a los contadores públicos inscritos por incumplimientos en la presentación de información y dictámenes. Las sanciones incluyen amonestaciones y suspensión de inscripción por diversas faltas relacionadas con la normativa fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un contador no cumple con las normas fiscales?",
-    "¿Cuáles son las sanciones para contadores públicos que hacen dictámenes incorrectos?",
-    "¿Cuánto tiempo puede suspenderse a un contador por infracciones?",
-    "¿Qué tipo de amonestaciones puede recibir un contador público?",
-    "¿Qué consecuencias tiene un contador por no presentar información completa?"
+    "¿Qué sanciones puede recibir un contador público por no presentar un dictamen completo?",
+    "¿Cuánto tiempo puede ser suspendido un contador público por acumulación de amonestaciones?",
+    "¿Qué pasa si un contador no exhibe los papeles de trabajo requeridos por la autoridad fiscal?",
+    "¿Qué incumplimientos llevan a la suspensión de la inscripción de un contador público?",
+    "¿Cuáles son las consecuencias de emitir un dictamen sin certificación?"
   ]
 }

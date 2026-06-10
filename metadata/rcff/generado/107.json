@@ -6,24 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a36952ed7a183b0e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entrega de bien rematado",
+  "denominacion_comun": "Entrega de bienes rematados",
   "temas": [
-    "pago de bienes",
+    "bien rematado",
     "postor ganador",
+    "pago total",
     "entrega de bienes",
     "Autoridad Fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo recoger un bien rematado",
-    "qué hacer después de ganar un remate",
-    "entrega de bienes en remates"
+    "remate",
+    "subasta",
+    "bienes adjudicados"
   ],
-  "resumen": "Cuando se paga un bien en remate, el ganador debe pedir a la Autoridad Fiscal la fecha y hora para recogerlo. Si no puede ir en la fecha indicada, puede solicitar otra.",
+  "resumen": "Cuando alguien gana un remate, debe solicitar a la Autoridad Fiscal la fecha y hora de entrega del bien. También puede pedir una nueva fecha si no puede acudir a la inicialmente programada.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer después de pagar por un remate?",
-    "¿Cómo puedo cambiar la fecha de entrega de un bien rematado?",
-    "¿Qué pasa si no puedo recoger el bien en la fecha que me dieron?"
+    "¿Cómo solicito la entrega de un bien que gané en un remate?",
+    "¿Qué hago si no puedo ir a la entrega de un bien rematado?",
+    "¿Quién me dice cuándo puedo recoger el bien que compré en un remate?"
   ]
 }

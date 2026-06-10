@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de60b9f352ce66e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Publicación de resoluciones favorables",
+  "denominacion_comun": "Publicación de resoluciones fiscales",
   "temas": [
-    "resoluciones",
+    "resoluciones fiscales",
+    "publicación",
     "contribuyentes",
-    "SAT",
-    "publicación"
+    "derechos"
   ],
   "terminos_coloquiales": [
-    "resoluciones del SAT",
-    "decisiones favorables",
-    "extractos de resoluciones",
-    "publicación de resoluciones",
-    "información del SAT"
+    "páginas del SAT",
+    "resoluciones a favor",
+    "extracto de resoluciones"
   ],
-  "resumen": "El artículo establece que se publicarán extractos de las resoluciones favorables a los contribuyentes en la página del SAT. Estos extractos no generan derechos para los contribuyentes.",
+  "resumen": "El artículo establece que se publicarán extractos de las resoluciones favorables a los contribuyentes en el sitio web del SAT, pero estos extractos no otorgarán derechos a los contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo encontrar las resoluciones favorables del SAT?",
-    "¿Qué dice el SAT sobre las decisiones favorables?",
-    "¿Los extractos publicados generan derechos?",
-    "¿Cómo se publican las resoluciones del SAT?",
-    "¿Qué tipo de información se encuentra en los extractos del SAT?"
+    "¿Dónde puedo ver las resoluciones favorables del SAT?",
+    "¿Las resoluciones publicadas en la página del SAT me dan derechos?",
+    "¿Qué son los extractos de resoluciones fiscales?",
+    "¿Cómo afectan las resoluciones publicadas a los contribuyentes?",
+    "¿El SAT publica resoluciones fiscales?"
   ]
 }

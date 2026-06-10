@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8060f6839cec738b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de Documentos Digitales",
+  "denominacion_comun": "Notificación Electrónica",
   "temas": [
     "buzón tributario",
+    "notificación de documentos",
     "acuse de recibo electrónico",
-    "notificación",
-    "días hábiles",
-    "contribuyentes",
-    "derechos y obligaciones"
+    "obligaciones de contribuyentes",
+    "derechos de contribuyentes"
   ],
   "terminos_coloquiales": [
-    "checar el buzón tributario",
-    "notificaciones electrónicas",
-    "recibir documentos fiscales",
-    "cuando llega la notificación",
-    "día inhábil"
+    "notificación por internet",
+    "documentos fiscales",
+    "buzón del SAT",
+    "notas de notificación"
   ],
-  "resumen": "Si un contribuyente consulta su buzón tributario en un día o hora inhábil y genera un acuse de recibo, se considera que la notificación se realizó el día hábil siguiente. Esto establece reglas sobre cómo y cuándo se reciben documentos fiscales.",
+  "resumen": "Este artículo establece que si un contribuyente revisa su buzón tributario en un día u hora inhábil y genera un acuse de recibo electrónico, la notificación se considera realizada al día hábil siguiente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si reviso mi buzón tributario en un día que no es hábil?",
-    "¿Cómo se considera la notificación si genero un acuse de recibo fuera del horario normal?",
-    "¿Qué días son considerados inhábiles para recibir notificaciones?",
-    "¿Los documentos en el buzón tributario son válidos si los checo en un día no laborable?",
-    "¿Cuándo se considera que se ha realizado una notificación fiscal?"
+    "¿Cómo funciona la notificación electrónica del SAT?",
+    "¿Qué pasa si reviso mi buzón tributario en un fin de semana?",
+    "¿Qué es un acuse de recibo electrónico?",
+    "¿Cuándo se considera que se ha realizado una notificación?",
+    "¿Cuáles son mis derechos y obligaciones al recibir notificaciones fiscales?"
   ]
 }

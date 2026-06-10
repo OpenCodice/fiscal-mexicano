@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cdc5ec92f88b7d52",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de Plazos de Pago",
+  "denominacion_comun": "Plazos de pago de créditos fiscales",
   "temas": [
-    "crédito fiscal",
+    "créditos fiscales",
     "solicitud de autorización",
     "plazos de pago",
-    "disminución de crédito"
+    "disminución de créditos"
   ],
   "terminos_coloquiales": [
+    "crédito fiscal",
     "pago a plazos",
-    "crédito fiscal sin adelanto",
-    "plazos para pagar",
-    "autorización de plazos"
+    "plazos de pago",
+    "disminución de créditos"
   ],
-  "resumen": "Este artículo establece que al solicitar cierta autorización no se necesita pagar un porcentaje del crédito fiscal, y la Autoridad Fiscal puede decidir un plazo diferente al que se solicita para pagar en parcialidades.",
+  "resumen": "Este artículo establece que al presentar la solicitud de autorización de un crédito fiscal, no se pagará un porcentaje del monto total. Además, la Autoridad Fiscal puede autorizar un plazo menor al solicitado para el pago en parcialidades.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si pido un plazo para pagar mi crédito fiscal?",
-    "¿Necesito pagar algo al solicitar la autorización de plazos?",
-    "¿La Autoridad Fiscal puede cambiar el plazo que pido?",
-    "¿Cómo funciona la solicitud de autorización para plazos de pago?"
+    "¿Qué pasa si solicito un crédito fiscal?",
+    "¿Cuánto debo pagar al solicitar un crédito fiscal?",
+    "¿Puedo pedir un plazo mayor para pagar mi crédito fiscal?",
+    "¿La Autoridad Fiscal puede cambiar mis plazos de pago?"
   ]
 }

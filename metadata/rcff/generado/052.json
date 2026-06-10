@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dcd2c4b3c6de721",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción de contadores públicos",
+  "denominacion_comun": "Inscripción de Contadores Públicos",
   "temas": [
     "Registro de contadores",
+    "Solicitud de inscripción",
     "Requisitos de inscripción",
-    "Certificación de contadores",
-    "Experiencia profesional"
+    "Servicios profesionales"
   ],
   "terminos_coloquiales": [
-    "cómo inscribirse como contador",
-    "requisitos para contadores",
-    "certificación contador público",
-    "registro de contadores públicos"
+    "contador",
+    "inscripción de contadores",
+    "registro federal de contribuyentes",
+    "certificado de e.firma",
+    "cédula profesional",
+    "certificación de contadores"
   ],
-  "resumen": "Este artículo establece los requisitos que debe cumplir un contador público para inscribirse en el registro correspondiente ante el Servicio de Administración Tributaria. Incluye condiciones sobre su situación en el registro de contribuyentes, certificaciones y experiencia profesional.",
+  "resumen": "El artículo establece los requisitos que debe cumplir un contador público para poder inscribirse en el registro del Servicio de Administración Tributaria. Esto incluye estar inscrito en el registro federal de contribuyentes, contar con una cédula profesional y tener la certificación vigente, entre otros.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para inscribirme como contador público?",
-    "¿Cuáles son los requisitos para registrarme en el SAT como contador?",
-    "¿Cómo obtengo la certificación para contadores?",
-    "¿Qué experiencia es necesaria para ser contador registrado?",
-    "¿Qué documentos debo presentar para la inscripción como contador público?"
+    "¿Qué necesito para inscribirme como contador público en el SAT?",
+    "¿Cuáles son los requisitos para la inscripción de contadores públicos?",
+    "¿Necesito un certificado de e.firma para inscribirme como contador?",
+    "¿Cuánto tiempo de experiencia se requiere para registrarse como contador?",
+    "¿Dónde debo solicitar la inscripción como contador público?"
   ]
 }

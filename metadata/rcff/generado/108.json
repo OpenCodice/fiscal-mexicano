@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:965d04c6b4639d3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reintegro de depósitos en remates",
   "temas": [
-    "Autoridad Fiscal",
-    "Reintegro",
-    "Depósitos",
-    "Remates",
-    "Garantías"
+    "remate",
+    "depósito",
+    "garantía",
+    "obligación de pago",
+    "precio de venta"
   ],
   "terminos_coloquiales": [
-    "devolución del depósito",
-    "garantía de remate",
-    "reembolso de garantía",
-    "dinero del remate",
-    "pago por remate"
+    "remate",
+    "depósito de garantía",
+    "reintegro de depósito"
   ],
-  "resumen": "La Autoridad Fiscal devolverá el depósito que hicieron los postores en un remate, excepto el del ganador, que se usará como garantía del pago. La devolución se hará dentro de dos días después del remate.",
+  "resumen": "La Autoridad Fiscal devuelve el depósito de garantía a los postores en un remate, salvo al ganador, cuyo depósito se utiliza para asegurar el pago del precio de venta.",
   "preguntas_ejemplo": [
-    "¿Cuándo me devuelven mi depósito de un remate?",
-    "¿Qué pasa con el depósito si no gano el remate?",
-    "¿El ganador también recibe de vuelta su depósito?",
-    "¿La Autoridad Fiscal tiene un plazo para regresar el dinero?",
-    "¿Qué es el depósito de garantía en un remate?"
+    "¿Cuándo me regresan el depósito si no gano el remate?",
+    "¿Qué sucede con el depósito de garantía si soy el ganador del remate?",
+    "¿Qué es el reintegro de un depósito en un remate?",
+    "¿Cuánto tiempo tarda la Autoridad Fiscal en devolver el depósito?",
+    "¿El ganador del remate recibe su depósito de vuelta?"
   ]
 }

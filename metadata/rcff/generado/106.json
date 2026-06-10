@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2e9b79b3a4503f4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación de posturas",
+  "denominacion_comun": "Posturas y subastas en el SAT",
   "temas": [
-    "posturas",
-    "Servicio de Administración Tributaria",
-    "ofrecimientos",
-    "bienes"
+    "posturas en subastas",
+    "SAT",
+    "recepción de posturas",
+    "bien subastado",
+    "confirmación de posturas"
   ],
   "terminos_coloquiales": [
-    "cómo saber las ofertas",
-    "consultar posturas",
-    "ver las ofertas",
-    "seguimiento de posturas"
+    "subasta",
+    "postura",
+    "oferta",
+    "bien a subastar",
+    "SAT",
+    "Servicio de Administración Tributaria"
   ],
-  "resumen": "Los postores pueden revisar en la página del SAT las ofertas que hacen otros postores durante el proceso. Además, el SAT envía un mensaje a los postores cada vez que una nueva oferta mejora a las anteriores, informando los detalles de la misma.",
+  "resumen": "El artículo establece que los postores pueden verificar en la página del SAT las posturas de otros postores durante el periodo de subasta. Además, el SAT notificará a los postores cada vez que se registre una nueva postura mejorada.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo ver las ofertas de otros postores?",
-    "¿Qué información me envía el SAT cuando hago una nueva oferta?",
-    "¿Dónde consulto las posturas en un proceso de subasta?"
+    "¿Cómo verifico las posturas en una subasta del SAT?",
+    "¿Qué información recibe un postor al hacer una nueva oferta?",
+    "¿Cuándo se confirma una postura en las subastas del SAT?",
+    "¿Dónde puedo ver las ofertas de otros postores en el SAT?",
+    "¿Qué datos incluye el mensaje de confirmación del SAT?"
   ]
 }

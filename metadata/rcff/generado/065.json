@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8da9030d9b5b3764",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud de pago a plazos",
+  "denominacion_comun": "Pago a Plazos",
   "temas": [
-    "contribuyente",
-    "autorización de pago",
-    "plazos",
+    "autorización de pagos",
     "parcialidades",
     "recargos",
-    "interés fiscal",
     "saldo insoluto",
-    "contribuciones omitidas"
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo pedir pago a plazos",
+    "pago a plazos",
     "pago en parcialidades",
-    "recargos por pago atrasado",
-    "qué pasa si no pago a tiempo",
-    "interés fiscal en pagos",
-    "saldo de impuestos"
+    "recargos",
+    "saldo de impuestos",
+    "intereses",
+    "Código Fiscal",
+    "artículo 66"
   ],
-  "resumen": "El artículo establece que si un contribuyente solicita pagar sus impuestos en parcialidades o a plazos, debe seguir realizando pagos mensuales mientras se evalúa su solicitud. Si no cumple con los pagos a tiempo o no presenta las garantías necesarias, se considera que ha desistido de su solicitud y debe pagar el total de sus deudas fiscales con recargos.",
+  "resumen": "Este artículo establece que los contribuyentes que soliciten pago a plazos deben realizar pagos mensuales mientras se procesa su solicitud. Si no cumplen con los pagos, se considerará que desistieron de la solicitud y deberán cubrir el saldo de impuestos adeudados con recargos.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si quiero pagar mis impuestos a plazos?",
-    "¿Cuáles son las consecuencias si no pago a tiempo?",
-    "¿Cómo se calculan los recargos por pagos atrasados?",
-    "¿Qué sucede si no garantizo mi interés fiscal?",
-    "¿Qué es el saldo insoluto y cómo se calcula?"
+    "¿Cómo puedo solicitar un pago a plazos?",
+    "¿Qué pasa si no pago a tiempo las parcialidades?",
+    "¿Qué recargos puedo esperar si no cumplo con el pago a plazos?",
+    "¿Qué debo hacer si me desisto de mi solicitud de pago a plazos?",
+    "¿Cuáles son mis obligaciones mientras espero la autorización del pago a plazos?"
   ]
 }

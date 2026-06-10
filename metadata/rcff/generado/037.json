@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:42169c3d6589bdfc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes fiscales digitales",
+  "denominacion_comun": "Comprobantes Fiscales Digitales",
   "temas": [
-    "impuestos",
-    "comprobantes fiscales",
+    "comprobante fiscal digital",
+    "impuesto",
     "tasa",
     "cuota",
+    "operaciones gravadas",
+    "operaciones exentas",
     "traslado de impuestos"
   ],
   "terminos_coloquiales": [
-    "comprobante digital",
     "factura electrónica",
-    "recibo de impuestos",
-    "impuesto desglosado"
+    "comprobante digital",
+    "impuesto separado",
+    "diferenciar tasas",
+    "comprobante por tasa",
+    "CFDI"
   ],
-  "resumen": "El artículo detalla cómo deben desglosarse los impuestos en los comprobantes fiscales digitales, dependiendo de la tasa o cuota aplicable a las operaciones. Esto incluye instrucciones para cuando hay tasas distintas o operaciones exentas.",
+  "resumen": "Este artículo establece cómo los contribuyentes deben desglozar los impuestos en los comprobantes fiscales digitales, dependiendo de si las operaciones tienen la misma tasa, tasas distintas, o si son gravadas y exentas. También se indican las pautas para el traslado de múltiples impuestos en un mismo comprobante.",
   "preguntas_ejemplo": [
-    "¿Cómo debo desglosar los impuestos en mi factura electrónica?",
-    "¿Qué información debe llevar un comprobante fiscal digital?",
-    "¿Qué hago si mis operaciones tienen tasas de impuestos distintas?",
-    "¿Cómo se señala en un comprobante el impuesto del 0%?",
-    "¿Qué pasa si mis actividades están gravadas y exentas?"
+    "¿Cómo debo desglosar los impuestos en mis facturas electrónicas?",
+    "¿Qué significa trasladar impuestos en el CFDI?",
+    "¿Qué tengo que indicar si mis operaciones tienen diferentes tasas de impuesto?",
+    "¿Cómo se manejan los impuestos gravados y exentos en las facturas electrónicas?",
+    "¿Se pueden separar los impuestos en diferentes CFDI?"
   ]
 }

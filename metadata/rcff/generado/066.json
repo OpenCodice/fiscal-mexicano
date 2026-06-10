@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:293473f921098dc7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Corrección de adeudos fiscales",
   "temas": [
-    "adeudo",
-    "corrección fiscal",
-    "solicitud de pago",
-    "plazos",
+    "adeudos fiscales",
+    "declaración fiscal",
+    "solicitud de corrección",
     "documentación",
+    "plazos",
     "facultades de comprobación"
   ],
   "terminos_coloquiales": [
-    "cómo corregir un adeudo",
-    "declaración de adeudos",
-    "plazos para pagar impuestos",
-    "solicitar corrección fiscal",
-    "documentos para corregir adeudos"
+    "deuda fiscal",
+    "hacer correcciones",
+    "solicitar ayuda a la Autoridad Fiscal",
+    "papeles de la declaración",
+    "plazo para corregir",
+    "días para presentar documentos"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden solicitar la corrección de un adeudo fiscal y que la Autoridad Fiscal les informará del monto correcto una vez que tenga la información necesaria. También detalla los plazos para presentar solicitudes y documentación necesaria.",
+  "resumen": "El artículo establece que los contribuyentes pueden corregir su situación fiscal presentando una solicitud a la Autoridad Fiscal. Se especifica que deben exponer su situación y proporcionar documentación que justifique su petición, y la Autoridad tiene plazos para requerir información adicional.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo corregir un adeudo de impuestos?",
-    "¿Qué documentos necesito para solicitar una corrección fiscal?",
+    "¿Cómo puedo corregir un adeudo fiscal?",
+    "¿Qué documentación necesito para solicitar una corrección?",
     "¿Cuánto tiempo tengo para presentar mi solicitud de corrección?",
-    "¿Qué sucede si no entrego la documentación a tiempo?",
-    "¿La Autoridad Fiscal me informará sobre el monto correcto de mi adeudo?"
+    "¿La Autoridad Fiscal me avisa sobre el monto de mi adeudo?",
+    "¿Qué información debo incluir en mi solicitud?"
   ]
 }

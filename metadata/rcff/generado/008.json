@@ -6,28 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e1ff4184606375ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medios Electrónicos de Certificación",
+  "denominacion_comun": "Certificados del SAT",
   "temas": [
-    "certificados",
-    "Servicio de Administración Tributaria",
     "medios electrónicos",
-    "almacenamiento electrónico",
+    "certificados",
+    "SAT",
     "claves privadas"
   ],
   "terminos_coloquiales": [
-    "certificados digitales",
-    "cómo funciona la certificación electrónica",
-    "almacenamiento de certificados",
-    "tipos de medios para certificados"
+    "certificados del SAT",
+    "dispositivos de almacenamiento",
+    "certificados fiscales"
   ],
-  "resumen": "El artículo explica qué se entiende por medios electrónicos en los que se guardan los certificados emitidos por el Servicio de Administración Tributaria. Incluye cualquier dispositivo que almacene estos certificados y sus claves privadas.",
+  "resumen": "Se define el concepto de medio electrónico que contiene los certificados emitidos por el SAT, así como el tipo de dispositivos donde se pueden almacenar y su relación con las claves privadas.",
   "preguntas_ejemplo": [
-    "¿Qué son los medios electrónicos para los certificados del SAT?",
-    "¿Dónde se almacenan los certificados digitales?",
-    "¿Qué dispositivos se pueden usar para guardar los certificados del SAT?",
-    "¿Cómo se relacionan los certificados con las claves privadas?",
-    "¿Qué tecnología se utiliza para la certificación electrónica en México?"
+    "¿Qué son los certificados del SAT?",
+    "¿Dónde se almacenan los certificados del SAT?",
+    "¿Qué dispositivos se consideran medios electrónicos para certificados?",
+    "¿Cuál es la relación entre los certificados y las claves privadas?"
   ]
 }

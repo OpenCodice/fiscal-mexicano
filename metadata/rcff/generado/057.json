@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9d0e6d6533c41a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen fiscal",
+  "denominacion_comun": "Dictamen Fiscal",
   "temas": [
-    "dictamen",
-    "informe",
     "situación fiscal",
+    "informe",
     "contribuyente",
     "contador público",
-    "revisión fiscal",
-    "evidencia",
-    "SAT"
+    "SAT",
+    "reglas generales"
   ],
   "terminos_coloquiales": [
-    "dictamen de impuestos",
-    "informe fiscal",
-    "revisión de impuestos",
-    "situación fiscal del contribuyente",
-    "auditoría fiscal"
+    "dictamen fiscal",
+    "informe de situación fiscal",
+    "revisión fiscal",
+    "SAT",
+    "contador",
+    "prueba de cumplimiento"
   ],
-  "resumen": "El artículo establece que se debe elaborar un dictamen e informe sobre la situación fiscal del contribuyente basado en la información del SAT. Además, se detallan los datos que debe contener el informe y la obligación del contador público de presentar evidencia de la revisión fiscal.",
+  "resumen": "El dictamen fiscal es un documento elaborado por un contador público que revisa la situación fiscal de un contribuyente. Debe incluir datos generales, declaraciones y evidencia de la revisión realizada, conforme a las reglas del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué información debe incluir el dictamen fiscal?",
-    "¿Quién elabora el informe sobre la situación fiscal?",
-    "¿Qué documentos necesita el contador para el dictamen?",
-    "¿Cómo se debe presentar la evidencia de la revisión fiscal?",
-    "¿Qué reglas aplica el SAT en el dictamen fiscal?"
+    "¿Qué es un dictamen fiscal?",
+    "¿Cómo se elabora el informe sobre la situación fiscal?",
+    "¿Qué datos necesita el contador para el dictamen fiscal?",
+    "¿Qué debe incluir el informe de revisión fiscal?",
+    "¿Cuánto tiempo tiene el contador para presentar la evidencia del dictamen?",
+    "¿Qué dice el SAT sobre los dictámenes fiscales?"
   ]
 }

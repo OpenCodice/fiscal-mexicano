@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e0163a722031afb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de instituciones de crédito",
+  "denominacion_comun": "Registro de Instituciones de Crédito",
   "temas": [
+    "registros fiscales",
     "cartas de crédito",
-    "interés fiscal",
     "instituciones de crédito",
-    "Servicio de Administración Tributaria",
-    "información",
-    "funcionarios autorizados"
+    "interés fiscal",
+    "autorización",
+    "cambios en funcionarios"
   ],
   "terminos_coloquiales": [
-    "cómo registrar una carta de crédito",
-    "qué necesito para emitir cartas de crédito",
-    "informar cambios en cartas de crédito"
+    "registro de bancos",
+    "cartas de crédito",
+    "SAT",
+    "instituciones bancarias",
+    "cambio de firmantes"
   ],
-  "resumen": "Este artículo establece que las instituciones de crédito deben registrarse para emitir cartas de crédito como garantía del interés fiscal. También deben informar cambios en funcionarios autorizados a la autoridad fiscal.",
+  "resumen": "El artículo establece que las instituciones de crédito deben obtener un registro para emitir cartas de crédito como garantía del interés fiscal. También indica que deben informar al SAT sobre cambios en sus funcionarios autorizados para firmar estas cartas.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para que mi banco emita cartas de crédito?",
-    "¿Qué cambios debo reportar al SAT sobre cartas de crédito?",
-    "¿Dónde puedo ver las instituciones de crédito registradas?"
+    "¿Cómo puede un banco obtener el registro para emitir cartas de crédito?",
+    "¿Qué sucede si un banco cambia a sus funcionarios autorizados para firmar?",
+    "¿Dónde puedo ver la lista de instituciones de crédito registradas?",
+    "¿Qué requisitos tiene un banco para operar en territorio nacional?",
+    "¿Quién establece las reglas para el registro de cartas de crédito?"
   ]
 }

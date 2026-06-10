@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12c72e8977a99dd9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compensación de contribuciones",
+  "denominacion_comun": "Compensación de Contribuciones",
   "temas": [
     "compensación de impuestos",
     "saldo a favor",
-    "devolución de contribuciones",
+    "devolución de impuestos",
+    "contribuciones",
     "pagos futuros"
   ],
   "terminos_coloquiales": [
-    "cómo compensar impuestos",
-    "saldo a favor",
     "devolución de impuestos",
-    "¿qué hacer con mi saldo a favor?"
+    "saldo a favor",
+    "compensar impuestos"
   ],
-  "resumen": "Si un contribuyente no compensa por completo sus impuestos, puede seguir compensando el saldo a favor en el futuro o pedir que le devuelvan ese saldo.",
+  "resumen": "Si un contribuyente no compensa la totalidad de sus contribuciones, puede seguir usando el saldo a favor en pagos futuros o pedir la devolución del mismo.",
   "preguntas_ejemplo": [
-    "¿Qué hago si no puedo compensar todos mis impuestos?",
-    "¿Puedo usar mi saldo a favor en el próximo año?",
-    "¿Cómo pido la devolución de mis contribuciones?",
-    "¿Qué es un saldo a favor y cómo se usa?"
+    "¿Qué pasa si no compenso todos mis impuestos?",
+    "¿Puedo pedir la devolución de mi saldo a favor?",
+    "¿Cómo uso el saldo a favor en el siguiente año?",
+    "¿Qué debo hacer si no compenso el total de mis contribuciones?",
+    "¿Es posible compensar impuestos en el futuro?"
   ]
 }

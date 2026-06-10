@@ -6,25 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d7cf640c9d731ed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Establecimientos Agrícolas y Ganaderos",
+  "denominacion_comun": "Establecimiento para actividades agrícolas, ganaderas, silvícolas y de pesca",
   "temas": [
-    "establecimientos",
+    "establecimiento",
     "actividades agrícolas",
     "actividades ganaderas",
     "actividades silvícolas",
-    "pesca"
+    "actividades de pesca",
+    "contabilidad",
+    "predio",
+    "rancho"
   ],
   "terminos_coloquiales": [
-    "dónde debo registrar mi negocio agrícola",
-    "establecimiento ganadero",
-    "dónde se considera un lugar de pesca"
+    "establo",
+    "granja",
+    "apicultura",
+    "almacenamiento de pescado"
   ],
-  "resumen": "Este artículo define qué se considera un establecimiento para personas que realizan actividades agrícolas, ganaderas, silvícolas o de pesca, incluyendo la identificación de los lugares específicos relacionados con estas actividades.",
+  "resumen": "Se define lo que se considera como establecimiento para personas físicas involucradas en actividades agrícolas, ganaderas, silvícolas o de pesca, especificando los tipos de lugares según la actividad. Esto incluye predios, ranchos y lugares de almacenamiento.",
   "preguntas_ejemplo": [
-    "¿Qué lugares se consideran establecimientos para actividades agrícolas?",
-    "¿Cómo se identifica un rancho o granja para actividades ganaderas?",
-    "¿Dónde debo almacenar el pescado si hago pesca?"
+    "¿Qué se considera un establecimiento para actividades agrícolas?",
+    "¿Dónde debe almacenarse el pescado para actividades de pesca?",
+    "¿Qué lugares se consideran establecimientos para ganaderos?",
+    "¿Qué información necesito para identificar mi predio agrícola?",
+    "¿Cuáles son los tipos de establecimientos para actividades silvícolas?"
   ]
 }

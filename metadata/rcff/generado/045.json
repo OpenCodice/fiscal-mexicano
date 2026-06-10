@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ee7e5b87b165640",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actividad Preponderante",
   "temas": [
     "actividad económica",
-    "ingresos",
+    "ingreso",
     "contribuyentes",
     "registro federal de contribuyentes",
-    "catálogo de actividades"
+    "catálogo de actividades",
+    "SAT"
   ],
   "terminos_coloquiales": [
     "actividad principal",
-    "ingresos más altos",
-    "qué negocio es el más rentable",
-    "registro de contribuyentes"
+    "ingreso más alto",
+    "registro fiscal",
+    "SAT",
+    "qué actividad declarar"
   ],
-  "resumen": "El artículo define la actividad preponderante como la actividad económica que genera el mayor ingreso para un contribuyente en un ejercicio determinado. Los contribuyentes deben registrar esta actividad al inscribirse en el registro federal de contribuyentes.",
+  "resumen": "Este artículo establece que la actividad preponderante es aquella por la cual un contribuyente espera obtener el mayor ingreso. Los contribuyentes deben declararla al inscribirse en el registro federal de contribuyentes, y el SAT publicará un catálogo de actividades económicas.",
   "preguntas_ejemplo": [
-    "¿Cómo sé cuál es mi actividad preponderante?",
-    "¿Qué significa tener una actividad económica preponderante?",
-    "¿Dónde puedo consultar el catálogo de actividades económicas?",
-    "¿Qué tengo que hacer para inscribirme en el registro federal de contribuyentes?",
-    "¿Qué pasa si tengo varias actividades económicas?"
+    "¿Qué es la actividad preponderante para el SAT?",
+    "¿Cómo declaro mi actividad principal?",
+    "¿Qué actividades económicas incluye el catálogo del SAT?",
+    "¿Por qué es importante definir mi actividad preponderante?",
+    "¿Qué sucede si mi actividad preponderante cambia?"
   ]
 }

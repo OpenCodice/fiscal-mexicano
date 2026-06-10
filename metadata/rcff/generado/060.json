@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f744e6653ca6028b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impedimentos para contadores públicos",
+  "denominacion_comun": "Impedimentos del Contador Público para Dictaminar",
   "temas": [
     "independencia del contador",
-    "impedimentos",
-    "dictámenes fiscales",
     "auditoría",
-    "conflicto de intereses"
+    "dictámenes fiscales",
+    "relaciones familiares",
+    "vinculación económica",
+    "funciones del contador",
+    "imparcialidad",
+    "servicios adicionales"
   ],
   "terminos_coloquiales": [
-    "problemas del contador",
-    "cuándo un contador no puede dictaminar",
-    "límites para contadores",
-    "conflictos para auditores"
+    "dictamen de auditoría",
+    "contador limpio",
+    "auditoría externa",
+    "independencia del auditor"
   ],
-  "resumen": "El artículo establece condiciones bajo las cuales un contador público no puede emitir dictámenes sobre estados financieros de contribuyentes, para asegurar su independencia e imparcialidad. Esto incluye relaciones familiares, laborales o económicas con los contribuyentes.",
+  "resumen": "El artículo establece las restricciones que un contador público inscrito debe observar para mantener su independencia e imparcialidad al realizar dictámenes fiscales. Se enumeran diversas situaciones que incumben la capacidad del contador para emitir dictámenes, incluyendo relaciones familiares y conflictos de interés.",
   "preguntas_ejemplo": [
-    "¿Cuándo un contador no puede hacer auditorías?",
-    "¿Qué relaciones pueden impedir a un contador dictaminar?",
-    "¿Cuáles son los impedimentos para contadores públicos?",
-    "¿Qué conflictos de intereses afectan a un auditor?",
-    "¿Un contador puede dictaminar si trabaja para el contribuyente?"
+    "¿Qué situaciones pueden impedir a un contador realizar un dictamen fiscal?",
+    "¿Cuáles son los impedimentos para un contador público según la ley?",
+    "¿Qué vínculos afectan la imparcialidad de un contador en su trabajo?",
+    "¿Un contador puede dictaminar si es pariente del dueño de la empresa?",
+    "¿Qué servicios adicionales no puede ofrecer un contador al dictaminar?"
   ]
 }

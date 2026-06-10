@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d415dbc73e1f548a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Residencia fiscal de personas físicas",
+  "denominacion_comun": "Residencia Fiscal",
   "temas": [
-    "residencia fiscal",
     "personas físicas",
     "casa habitación",
-    "intereses vitales",
-    "inmuebles",
-    "fines turísticos"
+    "inmuebles con fines turísticos",
+    "centro de intereses vitales"
   ],
   "terminos_coloquiales": [
-    "dónde vivo para impuestos",
-    "residencia para contribuciones",
-    "casa en México y taxes",
-    "impuestos por vivir en el extranjero"
+    "residencia fiscal",
+    "vivir en México",
+    "alojamiento turístico"
   ],
-  "resumen": "Se determina que las personas físicas no tienen su casa habitación en México si viven temporalmente en propiedades con fines turísticos y su vida principal no está en el país. Esto afecta su situación fiscal.",
+  "resumen": "Este artículo establece que las personas físicas no se consideran residentes fiscales en México si habitan temporalmente en inmuebles turísticos y su vida principal está fuera del país.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que no vivo en México para el pago de impuestos?",
-    "¿Qué significa tener intereses vitales fuera de México?",
-    "¿Cómo afectan mis propiedades turísticas a mi residencia fiscal?",
-    "¿Los turistas pagan impuestos si no viven permanentemente en México?",
-    "¿Qué requisitos necesito para no ser residente fiscal en México?"
+    "¿Qué se considera residencia fiscal en México?",
+    "Si vivo en un hotel por turismo, ¿soy residente fiscal?",
+    "¿Cuáles son las reglas para las personas que viven temporalmente en México?",
+    "¿Qué significa tener un centro de intereses vitales fuera de México?",
+    "¿Cómo me afecta mi estancia en un inmueble turístico para la residencia fiscal?"
   ]
 }

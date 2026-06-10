@@ -6,32 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b73c11c9904b4b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de remate de bienes",
+  "denominacion_comun": "Cancelación de Remate",
   "temas": [
-    "remate",
-    "bienes",
+    "remate de bienes",
     "cancelación",
     "suspensión",
-    "Autoridad Fiscal",
     "garantía",
-    "notificación"
+    "reintegro"
   ],
   "terminos_coloquiales": [
-    "que pasa si cancelan un remate",
-    "devolución de garantía de remate",
-    "suspensión de remate",
-    "notificación de remate cancelado",
-    "remate cancelado",
-    "cancelar remate bienes"
+    "venta de bienes embargados",
+    "cancelación de remate",
+    "devolución de garantía"
   ],
-  "resumen": "Si un remate de bienes es cancelado o suspendido, la Autoridad Fiscal informa a los postores por correo electrónico. Además, el monto depositado como garantía se devuelve en un plazo de dos días después de la notificación.",
+  "resumen": "Si un remate de bienes es cancelado o suspendido, la autoridad fiscal notificará a los postores por correo electrónico y devolverá el dinero depositado como garantía en dos días.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si se cancela un remate?",
-    "¿Cómo me notifican si un remate se suspende?",
-    "¿Cuánto tiempo tardan en devolver mi garantía de remate?",
-    "¿Qué hago si mi remate fue cancelado?",
-    "¿Puedo recibir mi dinero si se suspendió el remate?"
+    "¿Qué pasa si se cancela un remate de bienes?",
+    "¿Cuánto tiempo tarda la devolución de la garantía después de un remate cancelado?",
+    "¿Cómo me enteraré si mi remate ha sido suspendido?",
+    "¿Puedo recuperar mi dinero si el remate es cancelado?",
+    "¿La autoridad fiscal me notificará la cancelación del remate?"
   ]
 }

@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:acaf75790df1df77",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Prenda e Hipoteca",
   "temas": [
+    "garantías",
     "bienes muebles",
     "bienes inmuebles",
-    "garantías",
-    "registro",
+    "registro público",
     "gravámenes",
     "prenda bursátil",
-    "certificado de propiedad"
+    "instituciones financieras"
   ],
   "terminos_coloquiales": [
-    "garantía con prenda",
-    "prenda de bienes",
+    "prenda",
     "hipoteca",
-    "préstamo con garantía",
-    "bienes en prenda"
+    "garantía",
+    "bien inmueble",
+    "bien mueble",
+    "dinero prestado",
+    "crédito fiscal"
   ],
-  "resumen": "El artículo establece cómo constituir prenda sobre bienes muebles y hipoteca sobre bienes inmuebles. Se especifica el porcentaje de valor sobre el que se puede garantizar y los requisitos para su inscripción en el registro correspondiente.",
+  "resumen": "El artículo establece cómo se deben constituir las garantías de prenda e hipoteca sobre bienes muebles e inmuebles, especificando los requisitos necesarios y las limitaciones en cuanto a los bienes que pueden ser objeto de estas garantías. También menciona el rol del Servicio de Administración Tributaria en relación a la prenda bursátil.",
   "preguntas_ejemplo": [
     "¿Cómo se constituye una prenda?",
-    "¿Qué bienes se pueden dar en prenda?",
-    "¿Qué requisitos necesito para hipotecar una propiedad?",
-    "¿Cuánto es el porcentaje de valor que se puede garantizar?",
-    "¿Qué documentos debo tener para inscribir una prenda o hipoteca?"
+    "¿Qué bienes pueden ser dados en hipoteca?",
+    "¿Cuáles son los requisitos para una prenda bursátil?",
+    "¿Qué porcentaje del valor se puede garantizar con prenda?",
+    "¿Qué tipo de bienes no se aceptan en prenda?",
+    "¿Cómo se inscribe una hipoteca en el registro público?"
   ]
 }

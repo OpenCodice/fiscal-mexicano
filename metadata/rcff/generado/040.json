@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b93cb3bd89d2d554",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Descripción de bienes y donativos",
+  "denominacion_comun": "Bienes y Donativos Deducibles",
   "temas": [
-    "bienes",
-    "mercancías",
+    "descripción de bienes",
     "comprobantes fiscales",
     "donativos deducibles",
-    "especificaciones",
-    "declaraciones"
+    "especificaciones técnicas",
+    "mercancías"
   ],
   "terminos_coloquiales": [
-    "cómo describo mis bienes",
-    "bienes para donativos",
-    "comprobantes de donativos",
-    "qué es un donativo deducible"
+    "detallar bienes",
+    "donativos",
+    "facturas",
+    "comprobantes digitales",
+    "donar"
   ],
-  "resumen": "El artículo establece que los bienes o mercancías deben ser descritos detalladamente para diferenciarlos de otros. Además, los comprobantes de donativos deducibles deben incluir la cantidad y valor de los bienes donados.",
+  "resumen": "El artículo establece que los bienes y mercancías deben ser descritos detalladamente para diferenciarlos de otros similares. Además, los comprobantes fiscales digitales que respalden donativos deducibles deben incluir información específica sobre el valor y descripción de los bienes donados.",
   "preguntas_ejemplo": [
-    "¿Cómo debo describir mis bienes para deducir impuestos?",
-    "¿Qué información debe llevar un comprobante de donativo?",
+    "¿Cómo debo describir los bienes que estoy donando?",
+    "¿Qué información debe tener un comprobante de donativo?",
     "¿Qué son los donativos deducibles?",
-    "¿Cómo distingo mis mercancías para la declaración?",
-    "¿Qué detalles necesito para mis comprobantes fiscales?"
+    "¿Cómo se especifican las mercancías en un comprobante fiscal?",
+    "¿Cuáles son las características que debo incluir en la descripción de los bienes?"
   ]
 }

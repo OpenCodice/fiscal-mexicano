@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51ef52345543f30f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Gastos Extraordinarios",
@@ -14,23 +15,23 @@
     "honorarios",
     "depositarios",
     "interventores",
-    "bienes raíces",
+    "bien raíz",
     "reembolsos",
-    "vigilancia fiscal"
+    "conservación"
   ],
   "terminos_coloquiales": [
-    "gastos que no son comunes",
-    "pagos extras",
-    "costos de administración",
-    "honorarios por servicios",
-    "gastos de mantenimiento"
+    "gastos inesperados",
+    "honorarios de administradores",
+    "costo de mantenimiento",
+    "gastos de conservación",
+    "gastos de guarda"
   ],
-  "resumen": "La Autoridad Fiscal determina cuánto debe pagar el contribuyente por gastos extraordinarios y establece que los honorarios para depositarios y administradores de bienes raíces se fijarán según reglas emitidas por el SAT. Además, se asegurará de que estos gastos sean realmente necesarios.",
+  "resumen": "El artículo establece que la Autoridad Fiscal podrá determinar los gastos extraordinarios que un contribuyente debe pagar y que se deben presentar documentos que respalden dichos gastos. También menciona que los honorarios de depositarios y administradores se fijarán según reglas del Servicio de Administración Tributaria e incluirán reembolsos por costos de mantenimiento.",
   "preguntas_ejemplo": [
-    "¿Qué son los gastos extraordinarios y cómo se determinan?",
-    "¿Cuáles son los honorarios de los depositarios de bienes raíces?",
-    "¿Puede la Autoridad Fiscal rechazar algunos gastos extraordinarios?",
-    "¿Qué tipo de gastos se consideran extraordinarios?",
-    "¿Cómo se fijan los costos por administración de bienes?"
+    "¿Qué son los gastos extraordinarios en el artículo 150?",
+    "¿Cómo se determinan los honorarios de los administradores de bienes?",
+    "¿Qué documentos necesito para justificar mis gastos extraordinarios?",
+    "¿Los honorarios incluyen gastos de mantenimiento?",
+    "¿Quién establece las reglas para los honorarios de depositarios?"
   ]
 }

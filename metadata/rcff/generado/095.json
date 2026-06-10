@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:633cb222267864d6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Gastos de ejecución fiscal",
+  "denominacion_comun": "Gastos de Ejecución",
   "temas": [
-    "cobro de gastos",
     "créditos fiscales",
     "procedimiento administrativo",
-    "resolución definitiva"
+    "embargo",
+    "diligencias fiscales"
   ],
   "terminos_coloquiales": [
-    "cobro de deudas fiscales",
-    "gastos por embargos",
     "gastos de ejecución",
-    "cobranza fiscal"
+    "embargo",
+    "cobro de deudas fiscales"
   ],
-  "resumen": "Se establece que no se cobrarán gastos de ejecución si los créditos fiscales han sido cancelados por una autoridad. También se señala que cuando se realice un requerimiento y embargo en la misma diligencia, solo se cobrará un gasto de ejecución.",
+  "resumen": "El artículo establece que no se cobrarán los gastos de ejecución si los créditos fiscales quedan insubsistentes por una resolución. Además, se debe cobrar solo una vez por los gastos de ejecución cuando se realice un requerimiento y un embargo en la misma visita.",
   "preguntas_ejemplo": [
-    "¿Cuándo se cobran gastos de ejecución en casos fiscales?",
-    "¿Qué pasa si mis créditos fiscales son cancelados?",
-    "¿Se pueden cobrar gastos de ejecución si no debo nada?",
-    "¿Cómo se determina el monto de gastos de ejecución?",
-    "¿Qué ocurre si se hace un embargo y requerimiento al mismo tiempo?"
+    "¿Cuándo no se cobran los gastos de ejecución por créditos fiscales?",
+    "¿Qué pasa si se embargan varios créditos fiscales en una sola diligencia?",
+    "¿Cómo se determina el monto de los gastos de ejecución?",
+    "¿Se puede cobrar más de una vez por gastos de ejecución?",
+    "¿Qué sucede si los créditos fiscales son considerados insubsistentes?"
   ]
 }

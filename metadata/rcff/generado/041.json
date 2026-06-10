@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:53cc2bb9f849a651",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos provisionales y definitivos",
+  "denominacion_comun": "Pagos Provisionales",
   "temas": [
-    "obligaciones fiscales",
-    "pagos provisionales",
     "contribuciones federales",
-    "formatos electrónicos",
+    "pagos provisionales",
+    "declaraciones complementarias",
     "retenciones",
-    "declaraciones complementarias"
+    "formatos electrónicos",
+    "corrección fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo hacer pagos de impuestos",
     "declaraciones de impuestos",
+    "pagos de impuestos",
     "retenciones de impuestos",
-    "pagos electrónicos",
-    "obligaciones fiscales",
-    "declaraciones extemporáneas"
+    "SAT",
+    "reglas del SAT"
   ],
-  "resumen": "Este artículo establece que las personas deben presentar sus pagos de impuestos de manera electrónica, agrupando obligaciones que tengan la misma fecha de vencimiento. El Servicio de Administración Tributaria determinará los grupos de obligaciones.",
+  "resumen": "Este artículo establece que las personas que deben presentar pagos de impuestos deben hacerlo a través de medios electrónicos, agrupando obligaciones fiscales similares. El SAT determinará cómo agrupar estas obligaciones para facilitar el proceso.",
   "preguntas_ejemplo": [
-    "¿Cómo debo hacer mis pagos de impuestos?",
-    "¿Qué son los pagos provisionales?",
-    "¿Cómo presentar declaratorias electrónicas?",
-    "¿Qué obligaciones fiscales tengo que cumplir?",
-    "¿Qué pasa si hago una declaración extemporánea?",
-    "¿Dónde encuentro las reglas sobre retenciones de impuestos?"
+    "¿Cómo tengo que presentar mis pagos provisionales?",
+    "¿Qué tipos de declaraciones debo enviar al SAT?",
+    "¿Cuándo debo presentar mis retenciones fiscales?",
+    "¿Qué son las obligaciones fiscales y cómo se agrupan?",
+    "¿Qué formatos electrónicos necesito para mis declaraciones?",
+    "¿Qué pasa si presento mis declaraciones extemporáneamente?"
   ]
 }

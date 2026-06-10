@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7cbab9ba998de20b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción al RFC",
+  "denominacion_comun": "Inscripción al RFC de Entidades Públicas",
   "temas": [
     "registro federal de contribuyentes",
+    "entidades públicas",
+    "retención",
     "obligaciones fiscales",
-    "entes públicos",
-    "retención de impuestos"
+    "inscripción"
   ],
   "terminos_coloquiales": [
-    "cómo registrarse en el RFC",
-    "inscripción de entes públicos",
-    "obligaciones de retención",
-    "qué es el RFC para entes públicos"
+    "inscripción al RFC",
+    "entidades gubernamentales",
+    "retener impuestos",
+    "obligaciones fiscales"
   ],
-  "resumen": "Las unidades administrativas y órganos desconcentrados deben inscribirse en el registro federal de contribuyentes para cumplir con sus obligaciones fiscales. La inscripción debe iniciarse con el nombre del ente al que pertenecen y seguir con su identificación específica.",
+  "resumen": "Este artículo establece que las entidades públicas deben inscribirse en el registro federal de contribuyentes para cumplir con sus obligaciones fiscales. La inscripción se hará de manera separada del ente público al que pertenecen y debe incluir información específica sobre su denominación y fecha de inicio de operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se inscribe un ente público en el RFC?",
-    "¿Qué obligaciones fiscales tienen las entidades gubernamentales?",
-    "¿Qué información se necesita para registrarse en el RFC?",
-    "¿Los organismos descentralizados deben registrarse en el RFC?"
+    "¿Cómo se inscriben las entidades públicas en el RFC?",
+    "¿Qué requisitos tienen las entidades gubernamentales para registrarse como contribuyentes?",
+    "¿Las entidades públicas deben cumplir con obligaciones fiscales?",
+    "¿Qué información debe tener la inscripción al RFC de una entidad pública?",
+    "¿Es necesario que una entidad pública se registre de forma separada en el RFC?"
   ]
 }

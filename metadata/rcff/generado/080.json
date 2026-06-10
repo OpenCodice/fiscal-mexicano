@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5578cfd96befd2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requerimiento de Carta de Crédito",
+  "denominacion_comun": "Carta de Crédito",
   "temas": [
-    "Autoridad Fiscal",
-    "Carta de Crédito",
-    "Pago de Créditos Fiscales",
-    "Instituciones de Crédito",
-    "Transferencia Electrónica",
-    "Recargos"
+    "requerimiento de pago",
+    "instituciones de crédito",
+    "transferencia electrónica",
+    "créditos fiscales",
+    "actualización de montos",
+    "recargos e indemnización"
   ],
   "terminos_coloquiales": [
+    "pago de carta de crédito",
     "carta de crédito",
-    "requerimiento de pago",
-    "pago de impuestos",
-    "indemnización al fisco",
-    "plazos para pago"
+    "requerimiento de la autoridad",
+    "créditos fiscales"
   ],
-  "resumen": "La Autoridad Fiscal puede requerir el pago garantizado por una carta de crédito, y este debe realizarse en un plazo determinado por parte de las instituciones de crédito. Si no se efectúa el pago a tiempo, se aplicarán recargos y el pago debe ser actualizado.",
+  "resumen": "La autoridad fiscal puede requerir el pago de una carta de crédito en la fecha y hora de su presentación. Las instituciones de crédito tienen un plazo para realizar el pago, y si no lo hacen, deberá actualizarse el monto y generarse recargos. Una vez pagado, deben enviar un comprobante a la Tesorería de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué es una carta de crédito en términos fiscales?",
-    "¿Cómo se realiza el pago de una carta de crédito?",
-    "¿Qué pasa si no se paga a tiempo la carta de crédito?",
-    "¿Qué recargos se aplican si se retrasa el pago?",
-    "¿Qué debe hacer la institución de crédito después de realizar el pago?"
+    "¿Cómo se realiza el requerimiento de la carta de crédito?",
+    "¿Qué sucede si las instituciones de crédito no pagan a tiempo?",
+    "¿Qué deben hacer las instituciones de crédito después del pago de la carta de crédito?",
+    "¿Cuáles son los recargos por no pagar en la fecha establecida?",
+    "¿Cómo se actualiza el monto de una carta de crédito?"
   ]
 }

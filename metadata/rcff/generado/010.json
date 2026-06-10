@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c7a1157628368870",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de Solicitudes Fiscales",
+  "denominacion_comun": "Requisitos de solicitud ante la Autoridad Fiscal",
   "temas": [
-    "Solicitud de información",
-    "Requisitos fiscales",
-    "Plazos",
-    "Notificación",
-    "Autoridad Fiscal"
+    "requisitos de solicitud",
+    "plazo para presentación",
+    "requerimiento de información",
+    "solicitudes no presentadas"
   ],
   "terminos_coloquiales": [
-    "¿Qué pasa si no presento los documentos a tiempo?",
-    "Plazos para cumplir con el SAT",
-    "Requisitos para hacer una solicitud",
-    "¿Cómo sé si cumplí con todo para mi solicitud?",
-    "Requerimiento de información del SAT"
+    "requisitos para pedir algo",
+    "plazo de 10 días",
+    "requerimiento de documentos",
+    "solicitud no aprobada"
   ],
-  "resumen": "El artículo establece que si una solicitud no cumple con los requisitos del SAT, la Autoridad Fiscal puede pedir más información al contribuyente y le otorga un plazo para presentarla. Si no se presenta la información dentro de ese plazo, la solicitud se considera no presentada.",
+  "resumen": "Este artículo establece que si una solicitud no cumple con los requisitos establecidos, la Autoridad Fiscal puede pedir más información y otorgar un plazo de 10 días para su entrega. Si no se presenta la documentación requerida, la solicitud se considera no presentada.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si mi solicitud no está completa?",
-    "¿Cuánto tiempo tengo para entregar la información al SAT?",
-    "¿Qué hace la Autoridad Fiscal si no entrego lo que me piden?",
-    "¿Desde cuándo empieza a contar el plazo para cumplir con el requerimiento?",
-    "¿Qué pasa si no respondo al requerimiento del SAT?"
+    "¿Qué pasa si no cumplo con los requisitos de mi solicitud?",
+    "¿Cuánto tiempo tengo para presentar documentos cuando me lo piden?",
+    "¿Qué significa que mi solicitud está no presentada?",
+    "¿La Autoridad Fiscal me puede pedir más información después de hacer una solicitud?",
+    "¿Desde cuándo empieza el plazo para presentar la información requerida?"
   ]
 }

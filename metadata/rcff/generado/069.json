@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:122fa7058f30776d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones fiscales",
+  "denominacion_comun": "Notificación tributaria",
   "temas": [
-    "notificación",
     "buzón tributario",
+    "notificación",
     "SAT",
-    "Diario Oficial de la Federación",
-    "publicación",
-    "gestión de notificación"
+    "publicaciones oficiales"
   ],
   "terminos_coloquiales": [
-    "cómo me avisan de mis impuestos",
-    "notificaciones del SAT",
-    "avisos fiscales",
-    "notas de impuestos"
+    "notificación por internet",
+    "notificación del SAT",
+    "buzón del SAT",
+    "Diario Oficial",
+    "notificación oficial"
   ],
-  "resumen": "El artículo establece el orden en que se deben realizar las notificaciones fiscales, comenzando por el buzón tributario, seguido de la publicación en la página del SAT y en el Diario Oficial de la Federación. Esto garantiza que la notificación se considere válida solo después de la primera gestión a través del buzón tributario.",
+  "resumen": "El artículo establece el orden en que debe realizarse la notificación tributaria, comenzando por el buzón tributario, seguido de la publicación en la página del SAT y en el Diario Oficial de la Federación. La publicación en línea y en el Diario Oficial solo se hará después de que se haya realizado la primera gestión de notificación por buzón tributario.",
   "preguntas_ejemplo": [
-    "¿Cómo se me notifica sobre mis obligaciones fiscales?",
-    "¿Qué métodos usa el SAT para avisarme?",
-    "¿Qué pasa si no veo la notificación en el buzón tributario?",
-    "¿Dónde publican las notificaciones fiscales?",
-    "¿Es válida la notificación si solo se publica en el Diario Oficial?"
+    "¿Cómo se realiza la notificación por parte del SAT?",
+    "¿Qué es el buzón tributario?",
+    "¿Dónde se publican las notificaciones del SAT?",
+    "¿En qué orden se hacen las notificaciones fiscales?",
+    "¿Qué sucede si no reviso mi buzón tributario?"
   ]
 }

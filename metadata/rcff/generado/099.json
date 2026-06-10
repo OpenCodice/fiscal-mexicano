@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee7c9970a355337d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facultades del interventor",
   "temas": [
-    "intervención",
-    "facultades del interventor",
+    "interventor",
     "información contable",
-    "acceso a cuentas bancarias",
-    "obligaciones del contribuyente"
+    "información fiscal",
+    "cuentas bancarias",
+    "negociaciones intervenidas",
+    "facilidades a interventor"
   ],
   "terminos_coloquiales": [
-    "facultades del interventor",
-    "intervención de la negociación",
-    "poder del interventor",
-    "obligaciones de los contribuyentes",
-    "revisión de cuentas"
+    "interventor",
+    "revisión fiscal",
+    "auditoría",
+    "documentación contable"
   ],
-  "resumen": "El artículo detalla las facultades del interventor durante una intervención fiscal, incluyendo el acceso a información contable y estados de cuentas bancarias. Los contribuyentes deben facilitar el acceso a su información y locales para que el interventor pueda llevar a cabo sus actividades.",
+  "resumen": "El artículo establece las facultades del interventor, quien puede acceder a la información contable y financiera de la negociación intervenida, así como exigir la presencia del titular de la negociación. Los contribuyentes deben permitir el acceso a su información y lugares de negocio.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer un interventor durante una intervención?",
-    "¿Qué información debe proporcionar el contribuyente al interventor?",
-    "¿El interventor tiene acceso a mis cuentas bancarias?",
-    "¿Qué sucede si no dejo que el interventor revise mis documentos?",
-    "¿Cuánto tiempo tiene el interventor para acceder a la información requerida?"
+    "¿Qué facultades tiene el interventor fiscal?",
+    "¿Qué tipo de información puede revisar el interventor?",
+    "¿Los contribuyentes tienen que cooperar con el interventor?",
+    "¿Qué pasa si el interventor necesita ver las cuentas bancarias?",
+    "¿Tiene el interventor acceso a los documentos contables de la empresa?"
   ]
 }
