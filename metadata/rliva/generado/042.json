@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89219f5e515e4726",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reembolso de contribuciones",
   "temas": [
-    "reembolso",
-    "contribuciones",
     "servicios",
+    "contribuciones",
+    "reembolso",
     "impuesto trasladado"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos por otros",
-    "cobro de contribuciones",
     "reembolso de impuestos",
-    "servicios y contribuciones"
+    "impuesto trasladado",
+    "servicios profesionales"
   ],
-  "resumen": "Cuando alguien paga impuestos en nombre de otra persona por servicios, ese reembolso no cuenta como parte del valor de los servicios. Además, el impuesto que se traslada no se considera entre las contribuciones mencionadas.",
+  "resumen": "Este artículo establece que el reembolso de contribuciones pagadas por servicios no se considera parte del valor de esos servicios. También aclara que el impuesto trasladado no cuenta como contribución en este contexto.",
   "preguntas_ejemplo": [
-    "¿El reembolso de impuestos afecta el costo del servicio?",
-    "¿Qué pasa si pago impuestos por alguien más?",
-    "¿El impuesto trasladado se cuenta como contribución?",
-    "¿Cómo afecta el reembolso al valor total de un servicio?",
-    "¿Hay diferencias entre contribuciones y reembolsos?"
+    "¿Qué pasa si me reembolsan impuestos pagados por servicios?",
+    "¿El impuesto trasladado forma parte de mis honorarios?",
+    "¿Los reembolsos de contribuciones afectan el valor de mis servicios?",
+    "¿Cómo se tratan los reembolsos en servicios profesionales?",
+    "¿Qué incluye el término 'contribuciones' en este artículo?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d7373b08c0b4d92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del Impuesto en Defensa Aduanera",
+  "denominacion_comun": "Impuesto General de Importación",
   "temas": [
-    "Impuesto General de Importación",
-    "Contribuciones",
-    "Aprovechamientos",
-    "Medios de Defensa",
-    "Controversias Aduaneras",
-    "Interés Fiscal"
+    "medios de defensa",
+    "resoluciones aduaneras",
+    "cálculo de impuesto",
+    "contribuciones",
+    "recargos",
+    "interés fiscal",
+    "Código Fiscal de la Federación",
+    "garantía de interés fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo calcular el impuesto en aduanas",
-    "defensa de impuestos aduaneros",
-    "pago de impuestos después de una controversia",
-    "actualización y recargos de impuestos",
-    "garantizar el interés fiscal"
+    "impuesto de importación",
+    "medio de defensa",
+    "recurso fiscal",
+    "pago de impuestos",
+    "controversia aduanera"
   ],
-  "resumen": "El artículo establece que si un contribuyente presenta un medio de defensa contra resoluciones aduaneras, el Impuesto se calculará considerando varios montos y se podrá pagar al resolver la controversia, incluyendo actualizaciones y recargos. También se debe garantizar el interés fiscal correspondiente.",
+  "resumen": "Este artículo detalla cómo se debe calcular el impuesto en casos donde el contribuyente impugna decisiones de autoridades aduaneras. También establece que el pago de cualquier diferencia en impuesto puede realizarse una vez que se resuelva la controversia, junto con los recargos correspondientes.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el impuesto si impugno una resolución aduanera?",
-    "¿Puedo pagar el impuesto después de resolver mi controversia?",
-    "¿Qué pasa con los recargos si me retraso en el pago de impuestos aduaneros?",
-    "¿Qué es garantizar el interés fiscal?",
-    "¿Cuándo debo pagar el impuesto si hago una defensa?"
+    "¿Qué pasa si debo pagar un impuesto de importación después de una controversia?",
+    "¿Puedo retrasar el pago de impuestos durante un recurso fiscal?",
+    "¿Qué son los recargos en el contexto del impuesto de importación?",
+    "¿Cómo garantizo el interés fiscal en mi caso?"
   ]
 }

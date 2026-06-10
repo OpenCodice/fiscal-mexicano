@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4430a37693b69d34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuestos",
+  "denominacion_comun": "Retención del impuesto",
   "temas": [
-    "Retención",
-    "Servicios",
-    "Impuesto",
-    "Federación",
-    "Organismos descentralizados"
+    "servicios",
+    "impuesto",
+    "retención",
+    "organismos descentralizados"
   ],
   "terminos_coloquiales": [
-    "cómo se retiene el impuesto",
-    "retenciones fiscales",
-    "impuestos sobre servicios"
+    "retención de impuestos",
+    "servicios que generan impuesto",
+    "impuesto sobre servicios",
+    "Federación",
+    "organismos públicos"
   ],
-  "resumen": "Este artículo establece que la Federación y sus organismos descentralizados deben retener un impuesto cuando reciben ciertos servicios. La retención se realiza de acuerdo a lo que indica otro artículo de la Ley.",
+  "resumen": "El artículo establece que la Federación y sus organismos descentralizados deben hacer la retención de impuestos al recibir ciertos servicios. Esta retención se realiza según lo dispuesto en el reglamento correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué es la retención de impuestos para servicios?",
-    "¿Quién hace la retención del impuesto?",
-    "¿Cómo se aplica la retención en la Federación?",
-    "¿Qué servicios están sujetos a retención de impuestos?"
+    "¿Cómo se hace la retención de impuestos por servicios?",
+    "¿Quiénes deben retener impuestos en la Federación?",
+    "¿Qué servicios están sujetos a retención de impuestos?",
+    "¿A qué se refiere el artículo 1o.-A en relación con la retención del impuesto?",
+    "¿Cómo se aplica la retención de impuestos para organismos descentralizados?"
   ]
 }

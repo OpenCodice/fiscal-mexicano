@@ -6,19 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f7c9f239f267017",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del artículo",
+  "denominacion_comun": "Artículo Derogado",
   "temas": [],
-  "terminos_coloquiales": [
-    "artículo derogado",
-    "norma eliminada",
-    "disposición fuera de vigor"
-  ],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene validez. La normativa que antes trataba ya no es aplicable.",
+  "terminos_coloquiales": [],
+  "resumen": "Este artículo ha sido derogado y ya no tiene validez legal.",
   "preguntas_ejemplo": [
-    "¿Cuál es el estado actual del artículo 5o. en la RLIVA?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Dónde puedo encontrar las normas vigentes relacionadas?"
+    "¿Dónde puedo encontrar el texto del Artículo 5o. del RLIVA?",
+    "¿Qué artículos reemplazan al Artículo 5o. que fue derogado?",
+    "¿Cuáles son las implicaciones de la derogación de un artículo legal?",
+    "¿Se siguen aplicando las disposiciones del Artículo 5o. del RLIVA?"
   ]
 }

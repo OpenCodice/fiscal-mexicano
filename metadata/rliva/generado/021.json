@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a2a6926f514ff8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de Impuestos",
+  "denominacion_comun": "Acreditamiento por combustible",
   "temas": [
     "impuesto trasladado",
     "gastos erogados",
     "combustible",
-    "automóviles",
-    "servicios subordinados",
-    "deducción"
+    "automóvil",
+    "servicios personales subordinados"
   ],
   "terminos_coloquiales": [
-    "poder deducir impuestos",
-    "acreditar gastos",
-    "uso de auto para trabajo",
-    "gastos de gasolina",
-    "deducción de servicios"
+    "gasto en gasolina",
+    "deducción de gastos",
+    "acreditamiento de impuestos",
+    "auto de trabajo"
   ],
-  "resumen": "Los contribuyentes pueden acreditar el impuesto que pagaron al comprar combustibles y otros gastos relacionados con el uso de su automóvil, siempre y cuando estos gastos estén relacionados con su trabajo. El acreditamiento se hace en base a la parte de los gastos que se puede deducir según la ley.",
+  "resumen": "Los contribuyentes pueden acreditar el impuesto trasladado por los gastos relacionados con el uso de un automóvil, siempre y cuando esos gastos sean por motivos laborales. El acreditamiento se hace en función de la parte que sea deducible de esos gastos.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mis gastos de gasolina si uso mi carro para trabajar?",
-    "¿Qué gastos puedo acreditar bajo la ley del impuesto sobre la renta?",
-    "¿Cómo se calcula el acreditamiento de impuestos por uso de auto?",
-    "¿Qué tipo de servicios puedo incluir para acreditar impuestos?",
-    "¿Necesito un comprobante para acreditar mis gastos de combustible?"
+    "¿Puedo deducir el gasto de gasolina de mi auto de trabajo?",
+    "¿Qué gastos se pueden acreditar por el uso de mi automóvil?",
+    "¿Cómo se calcula el acreditamiento de impuestos por gastos de combustible?",
+    "¿Qué significa acreditamiento por impuesto trasladado?",
+    "¿Puedo acreditar servicios de mi auto si uso un chofer?"
   ]
 }

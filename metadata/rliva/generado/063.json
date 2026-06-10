@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:45c9fd2e90898af2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de exportación de servicios",
+  "denominacion_comun": "Requisitos para la exportación de servicios de filmación",
   "temas": [
-    "exportación de servicios",
-    "contrato de prestación",
-    "filmación",
-    "grabación",
-    "requisitos fiscales"
+    "contrato de prestación de servicios",
+    "aviso de exportación",
+    "servicios de filmación",
+    "pago de servicios"
   ],
   "terminos_coloquiales": [
-    "cómo exportar servicios",
-    "contrato de filmación",
-    "avisos para películas",
-    "pago de servicios de grabación",
-    "requisitos para grabar"
+    "exportación de servicios",
+    "contracto de filmación",
+    "avisos al SAT"
   ],
-  "resumen": "Los contribuyentes deben tener un contrato por escrito para los servicios de filmación o grabación y presentar un aviso de exportación ante el SAT antes de prestar los servicios. El pago debe recibirlo en cheque nominativo o transferencia bancaria.",
+  "resumen": "Los contribuyentes que presten servicios de filmación deben firmar un contrato, presentar un aviso al SAT antes de realizar los servicios y recibir el pago a través de métodos específicos como cheque o transferencia. La falta de presentación del aviso a tiempo no tendrá efecto.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesito para exportar servicios de filmación?",
-    "¿Cómo hacer el aviso de exportación para servicios de grabación?",
-    "¿Qué información debe contener el contrato de filmación?",
-    "¿Cómo recibir el pago por servicios de grabación?",
+    "¿Qué requisitos debo cumplir para exportar servicios de filmación?",
+    "¿Cómo presento el aviso de exportación al SAT?",
+    "¿Qué tipo de contrato necesito para mis servicios de filmación?",
+    "¿Cuáles son las formas aceptadas para recibir el pago por servicios de filmación?",
     "¿Qué sucede si no presento el aviso a tiempo?"
   ]
 }

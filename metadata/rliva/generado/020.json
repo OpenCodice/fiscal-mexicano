@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:db5c0f6c96f0ce62",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de gastos comunes en condominios",
+  "denominacion_comun": "Acreditamiento de impuestos en condominios",
   "temas": [
     "impuesto en inmuebles",
+    "régimen de propiedad en condominio",
     "gastos comunes",
-    "condominios",
-    "administrador",
     "comprobantes fiscales",
-    "asamblea de condóminos",
-    "conservación y mantenimiento"
+    "administrador de condominio",
+    "cuotas de mantenimiento"
   ],
   "terminos_coloquiales": [
-    "acreditamiento de impuestos en condominios",
-    "gastos comunes en condóminos",
-    "pago de cuotas de mantenimiento",
-    "comprobantes de gastos comunes"
+    "acreditar impuestos",
+    "gastos de condominio",
+    "administrador de condominios",
+    "comprobantes fiscales",
+    "cuotas de conservación",
+    "asamblea de condóminos"
   ],
-  "resumen": "Este artículo establece las condiciones para que los condóminos acrediten el impuesto trasladado en gastos comunes de conservación y mantenimiento. Requiere que los gastos se realicen por un administrador con facultades y que se expidan comprobantes fiscales a nombre de la asamblea.",
+  "resumen": "El artículo establece las condiciones bajo las cuales los condóminos pueden acreditar impuestos por gastos comunes en un régimen de propiedad en condominio. Requiere que se realicen ciertas actividades y que los comprobantes fiscales sean generados adecuadamente por un administrador autorizado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar mis gastos comunes en un condominio?",
-    "¿Qué requisitos debo cumplir para el acreditamiento de impuestos?",
-    "¿Quién debe emitir los comprobantes fiscales de los gastos comunes?",
-    "¿Qué pasa si el administrador no tiene facultades para actuar?",
-    "¿Cómo se dividen los gastos entre los condóminos?"
+    "¿Cómo puedo acreditar impuestos por los gastos de mantenimiento en mi condominio?",
+    "¿Qué requisitos debo cumplir para que el administrador acrediten los impuestos en nombre de la asamblea?",
+    "¿Qué tipo de comprobantes debo tener para los gastos comunes del condominio?",
+    "¿Quién puede actuar como administrador en un condominio?",
+    "¿Cómo se dividen los gastos comunes entre los condóminos?"
   ]
 }

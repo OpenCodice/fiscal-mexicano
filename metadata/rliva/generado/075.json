@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef4d493548960696",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de impuestos",
+  "denominacion_comun": "Retenciones regulares",
   "temas": [
     "retenciones",
     "contribuyentes",
     "efectos fiscales",
-    "regulación",
-    "impuestos"
+    "mes",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "retenciones de impuestos",
-    "cómo se hacen las retenciones",
-    "impuestos que retengo",
-    "retenciones regulares"
+    "retenciones fiscales",
+    "pagar impuestos",
+    "contribuyentes"
   ],
-  "resumen": "El artículo explica que los contribuyentes realizan retenciones de manera regular cuando efectúan dos o más en un mes. Esto establece un criterio sobre la frecuencia de las retenciones fiscales.",
+  "resumen": "Se considera que los contribuyentes hacen retenciones de manera regular cuando realizan dos o más en un mes. Esto tiene implicaciones fiscales según la ley.",
   "preguntas_ejemplo": [
+    "¿Cuándo se considera que una retención es regular?",
     "¿Qué significa hacer retenciones de manera regular?",
-    "¿Cuántas retenciones debo hacer al mes?",
-    "¿Cómo saber si estoy haciendo retenciones correctas?",
-    "¿Qué pasa si realizo una retención en un mes?",
-    "¿Qué se considera una retención regular?"
+    "¿Cuántas retenciones debo hacer para que sean consideradas regulares?",
+    "¿Qué obligaciones tengo si hago varias retenciones al mes?",
+    "¿Cómo afecta a mis impuestos hacer retenciones regulares?"
   ]
 }

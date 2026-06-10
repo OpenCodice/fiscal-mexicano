@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a721b663b92d80cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Introducción de bienes",
   "temas": [
     "introducción de bienes",
     "exportación",
-    "retorno de mercancías",
+    "reincorporación de mercancías",
     "depósito fiscal",
-    "recinto fiscalizado"
+    "régimen de recinto fiscalizado estratégico",
+    "legislación aduanera",
+    "impuesto"
   ],
   "terminos_coloquiales": [
-    "traer cosas a México",
-    "regresar mercancías",
-    "mercancías en depósito",
-    "reincorporar productos",
-    "impuestos de importación"
+    "traer cosas de vuelta a México",
+    "devolución de mercancías",
+    "mercancías en depósito fiscal",
+    "recinto fiscalizado",
+    "aduana"
   ],
-  "resumen": "Este artículo habla sobre cómo se consideran los bienes que regresan a México después de haber sido exportados o aquellos que se sacan de ciertos regímenes fiscales. También menciona cuándo se debe pagar impuestos por estas acciones.",
+  "resumen": "Este artículo establece qué se considera como introducción al país de bienes, incluyendo el retorno de bienes exportados y la reincorporación de mercancías extraídas de ciertos regímenes. Se menciona también la legislación aduanera aplicada.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para traer mercancías a México?",
-    "¿Qué pasa con los bienes que ya estaban fuera del país?",
-    "¿Hay impuestos al regresar productos al país?",
-    "¿Cómo funciona el depósito fiscal para mercancías?",
-    "¿Qué es un recinto fiscalizado?"
+    "¿Qué se entiende por introducción de bienes al país?",
+    "¿Qué pasa con las mercancías que regresan a México?",
+    "¿Cómo funciona el régimen de depósito fiscal?",
+    "¿Qué es el recinto fiscalizado estratégico?",
+    "¿Se paga impuesto al traer de nuevo mercancías al país?"
   ]
 }

@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6151fed70e4fb13e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del Impuesto para Personas Morales",
+  "denominacion_comun": "Retenciones del impuesto",
   "temas": [
     "retención de impuestos",
     "personas morales",
-    "servicios personales",
+    "servicios personales independientes",
     "autotransporte terrestre",
-    "contraprestación",
     "documentación comprobatoria"
   ],
   "terminos_coloquiales": [
-    "¿Cómo se retiene el impuesto?",
-    "retención de IVA",
-    "impuesto para empresas",
-    "cuánto retener a personas físicas",
-    "servicios que requieren retención"
+    "retención de impuestos",
+    "impuesto",
+    "servicios de transporte",
+    "pago de retenciones"
   ],
-  "resumen": "El artículo establece que las personas morales deben retener una parte del impuesto que se les traslade dependiendo del tipo de servicio que reciban, ya sea por servicios personales o autotransporte. Además, deben documentar los costos adicionales cobrados por estos servicios ante el SAT.",
+  "resumen": "Este artículo establece cómo las personas morales deben realizar la retención del impuesto al recibir servicios, especificando las condiciones bajo las cuales se aplica una retención menor. También menciona la obligación de presentar documentación comprobatoria relacionada con los servicios de autotransporte de bienes.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo retener de impuestos a un proveedor?",
-    "¿Qué servicios requieren retención de impuesto?",
-    "¿Qué pasa si no documento bien mis retenciones?",
-    "¿Cómo se calcula la retención para autotransporte?",
-    "¿Qué es la contraprestación para fines fiscales?"
+    "¿Cómo se calcula la retención de impuestos en servicios prestados?",
+    "¿Qué porcentaje se retiene por servicios de autotransporte?",
+    "¿Qué documentos necesito para comprobar mis servicios de autotransporte?",
+    "¿Las personas morales pueden hacer menos retención en ciertos casos?",
+    "¿Qué servicios requieren retención de impuestos por parte de personas morales?"
   ]
 }

@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6110e566470711e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidades administrativas",
+  "denominacion_comun": "Facilidades administrativas en impuestos",
   "temas": [
-    "impuesto sobre la renta",
     "facilidades administrativas",
-    "contribuyentes",
-    "obligaciones fiscales"
+    "impuesto sobre la renta",
+    "obligaciones fiscales",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "rebajas en impuestos",
-    "ayuda para pagar impuestos",
     "facilidades fiscales",
-    "beneficios fiscales"
+    "más tiempo para pagar impuestos",
+    "impuesto a la renta",
+    "SAT"
   ],
-  "resumen": "El SAT puede dar facilidades administrativas a ciertos contribuyentes para ayudarles a cumplir con sus obligaciones fiscales relacionadas con el impuesto sobre la renta. Esto se hace a través de reglas generales.",
+  "resumen": "El Servicio de Administración Tributaria puede ofrecer facilidades administrativas a los contribuyentes para ayudarles a cumplir con sus obligaciones relacionadas con el impuesto sobre la renta. Estas facilidades se otorgan a ciertos sectores de contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Qué son las facilidades administrativas en impuestos?",
-    "¿Cómo me pueden ayudar con el impuesto sobre la renta?",
-    "¿Qué tipos de contribuyentes reciben ayudas fiscales?",
-    "¿Qué obligaciones fiscales puedo simplificar?",
-    "¿Cómo funcionan las reglas de carácter general del SAT?"
+    "¿Qué son las facilidades administrativas que ofrece el SAT?",
+    "¿Cómo puedo obtener más tiempo para pagar mi impuesto sobre la renta?",
+    "¿Quiénes son los contribuyentes que pueden acceder a las facilidades fiscales?",
+    "¿El SAT otorga ayuda para el cumplimiento de obligaciones fiscales?",
+    "¿Qué implican las obligaciones fiscales para los contribuyentes?"
   ]
 }

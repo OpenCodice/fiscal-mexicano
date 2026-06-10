@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f786b2a88d545e41",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reintegro y Acreditamiento de Impuestos",
+  "denominacion_comun": "Acreditamiento del IVA",
   "temas": [
-    "acreditamiento",
     "reintegro",
+    "acreditamiento",
     "impuesto acreditable",
-    "ajuste fiscal"
+    "declaración de pago"
   ],
   "terminos_coloquiales": [
-    "cómo reintegrar impuestos",
-    "acreditamiento de impuestos",
-    "ajuste de impuestos",
-    "cuánto debo pagar de impuestos"
+    "devolución de IVA",
+    "ajuste de IVA",
+    "pago de diferencia de IVA",
+    "acreditar IVA"
   ],
-  "resumen": "Este artículo establece cómo debe hacerse el reintegro o el aumento del acreditamiento de impuestos. Si un contribuyente reintegra una cantidad, debe ajustar su impuesto acreditable en el mes correspondiente.",
+  "resumen": "El artículo establece cómo debe llevarse a cabo el reintegro y el acreditamiento del IVA por parte del contribuyente en diferentes situaciones. Se especifican las condiciones bajo las cuales se debe ajustar el monto del impuesto acreditable y cómo se realiza el pago si hay diferencia.",
   "preguntas_ejemplo": [
-    "¿Cómo reintegro un impuesto acreditable?",
-    "¿Qué hago si tengo que pagar diferencia en mis impuestos?",
-    "¿Cómo se ajusta el monto del impuesto acreditable?",
-    "¿Cuándo debo hacer el ajuste fiscal?",
-    "¿Qué significa el incremento del acreditamiento?"
+    "¿Cómo realizo el reintegro del IVA?",
+    "¿Qué debo hacer si mi impuesto acreditable es menor que el monto a reintegrar?",
+    "¿Cómo se acredita el IVA en mi declaración?",
+    "¿Qué ajustes debo considerar en el IVA acreditable?",
+    "¿Cuál es el proceso para presentar la declaración de pago del IVA?"
   ]
 }

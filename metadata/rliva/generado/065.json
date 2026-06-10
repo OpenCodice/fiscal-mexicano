@@ -6,19 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f7c9f239f267017",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo Derogado",
-  "temas": [],
-  "terminos_coloquiales": [
-    "artículo eliminado",
-    "norma derogada",
-    "ley sin efecto"
+  "denominacion_comun": "Derogación del Artículo 65",
+  "temas": [
+    "derogación",
+    "fiscal",
+    "legislación"
   ],
-  "resumen": "Este artículo ya no tiene validez y ha sido eliminado del marco legal.",
+  "terminos_coloquiales": [
+    "artículo derogado",
+    "regulación fiscal eliminada"
+  ],
+  "resumen": "El Artículo 65 ha sido derogado, lo que significa que ya no forma parte de la legislación fiscal vigente.",
   "preguntas_ejemplo": [
-    "¿Este artículo aún está en vigor?",
-    "¿Qué pasó con el artículo 65?",
-    "¿Dónde puedo encontrar información actualizada sobre esta norma?"
+    "¿Qué dice el Artículo 65?",
+    "¿Está vigente el Artículo 65 de la RLIVA?",
+    "¿Qué artículos están derogados en la ley fiscal?",
+    "¿Cuáles son las implicaciones de la derogación del Artículo 65?"
   ]
 }

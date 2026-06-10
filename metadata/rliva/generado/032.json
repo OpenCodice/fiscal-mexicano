@@ -6,29 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e66aab9bff58955c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transporte aéreo y obligaciones fiscales",
+  "denominacion_comun": "Impuesto al transporte aéreo",
   "temas": [
     "transporte aéreo",
-    "servicio de transporte",
-    "impuesto al valor agregado",
-    "boleto",
-    "líneas aéreas"
+    "impuesto",
+    "servicios de transporte",
+    "boleto de avión"
   ],
   "terminos_coloquiales": [
-    "impuesto en el transporte aéreo",
     "boleto de avión",
-    "cargo por servicio de otra línea",
-    "servicio de transporte entre líneas aéreas"
+    "servicio de transporte aéreo"
   ],
-  "resumen": "Se establece que el servicio de transporte proporcionado por una línea aérea con un boleto de otra línea no genera un nuevo impuesto, ya que el impuesto se pagó al momento de emitir el boleto original.",
+  "resumen": "El artículo establece que el impuesto por el servicio de transporte aéreo ya se pagó al expedirse el boleto, por lo que no se vuelve a cobrar cuando una línea aérea factura a otra por el servicio prestado con base en un boleto emitido por esta última.",
   "preguntas_ejemplo": [
-    "¿Tengo que pagar impuestos si uso un boleto de otra línea aérea?",
-    "¿Qué sucede con los cargos de servicio entre líneas aéreas?",
-    "¿Se recauda impuesto por un transporte aéreo si el boleto es de otra compañía?",
-    "¿Cómo se manejan los impuestos en el servicio de transporte aéreo?",
-    "¿Qué implica el artículo 32 de la RLIVA para los boletos de avión?",
-    "¿Las líneas aéreas deben cobrar impuestos por el servicio prestado a través de un boleto antiguo?"
+    "¿Se tiene que pagar impuesto por un boleto de avión si la línea aérea solo presta el servicio?",
+    "¿Cómo funciona el impuesto al transporte aéreo entre líneas aéreas?",
+    "¿Qué pasa con el impuesto si el boleto fue emitido por otra línea?",
+    "¿El cargo entre líneas aéreas está sujeto a impuestos?",
+    "¿Hay que pagar impuesto al usar un boleto de otra línea aérea?"
   ]
 }

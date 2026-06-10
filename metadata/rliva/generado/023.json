@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9d7d26008f3a755",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devoluciones y compensaciones",
+  "denominacion_comun": "Declaraciones complementarias",
   "temas": [
-    "declaraciones complementarias",
-    "saldos a favor",
-    "devolución",
-    "compensación",
-    "acreditamiento"
+    "devoluciones",
+    "compensaciones",
+    "acreditamientos",
+    "saldos a favor"
   ],
   "terminos_coloquiales": [
-    "cómo pedir una devolución",
+    "devolución de impuestos",
     "compensar impuestos",
-    "saldos a favor en impuestos",
-    "declaración complementaria"
+    "acreditar impuestos",
+    "declaraciones complementarias"
   ],
-  "resumen": "Este artículo establece que los contribuyentes pueden presentar declaraciones complementarias si tienen saldos a favor. Pueden optar por solicitar una devolución, compensar los saldos o continuar acreditando en declaraciones futuras.",
+  "resumen": "El artículo establece que al presentar declaraciones complementarias, los contribuyentes pueden optar por solicitar la devolución de saldos a favor, compensar esos saldos o continuar con el acreditamiento en la siguiente declaración. Esto brinda flexibilidad al contribuyente en la gestión de sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar mi devolución de impuestos?",
-    "¿Qué hago si tengo un saldo a favor en mi declaración?",
-    "¿Puedo compensar saldos de declaraciones anteriores?",
-    "¿Qué es una declaración complementaria?",
-    "¿Cómo se acredita un saldo a favor en el siguiente pago?"
+    "¿Cómo puedo solicitar la devolución de un saldo a favor?",
+    "¿Qué opciones tengo si presento una declaración complementaria?",
+    "¿Puedo compensar mis impuestos con un saldo a favor?",
+    "¿Qué es el acreditamiento en declaraciones fiscales?",
+    "¿Qué debo hacer si tengo un saldo a favor en mi declaración?"
   ]
 }

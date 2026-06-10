@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b671715154fac77",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto en enajenación de vehículos usados",
+  "denominacion_comun": "Enajenación de automóviles y camiones usados",
   "temas": [
     "impuesto",
-    "enajenación",
-    "vehículos",
-    "automóviles",
-    "camiones",
-    "requisitos",
-    "valor de enajenación"
+    "automóviles usados",
+    "camiones usados",
+    "costo de adquisición",
+    "requisitos de compra",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
-    "cómo se calcula el impuesto por un auto usado",
-    "requisitos para comprar un carro usado",
-    "impuesto sobre autos de segunda mano",
-    "cómo vender un coche usado",
-    "qué documentos necesito para comprar un camión usado"
+    "comprar un coche",
+    "venta de autos usados",
+    "factura",
+    "cheque nominativo",
+    "identificación oficial"
   ],
-  "resumen": "Este artículo habla sobre cómo se calcula el impuesto al vender automóviles y camiones usados. Se establece que se debe considerar un valor específico y cumplir con ciertos requisitos al momento de la compra.",
+  "resumen": "El artículo establece que para calcular el impuesto en la compra de automóviles y camiones usados de personas físicas, se considera un valor específico. También menciona los requisitos que debe cumplir el comprador al realizar la transacción.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto al vender un coche usado?",
-    "¿Qué documentos necesito para la compra de un auto usado?",
-    "¿Puede acreditarse el impuesto de reparaciones al vender un camión?",
-    "¿Cuáles son los requisitos para la enajenación de vehículos usados?",
-    "¿Qué valor se considera al calcular el impuesto por un auto usado?"
+    "¿Cómo se calcula el impuesto al comprar un coche usado?",
+    "¿Qué documentos necesito para comprar un automóvil de segunda mano?",
+    "¿Puedo acreditar el impuesto por reparaciones en un camión usado?",
+    "¿Qué requisitos debo cumplir al adquirir un automóvil usado?",
+    "¿Es necesario pagar con cheque nominativo al comprar un auto usado?"
   ]
 }

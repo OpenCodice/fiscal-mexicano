@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:604d1d2ff1ba4c85",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exportación de bienes tangibles",
@@ -13,21 +14,19 @@
     "exportación",
     "bienes tangibles",
     "legislación aduanera",
-    "formalidades de exportación"
+    "formalidades aduaneras"
   ],
   "terminos_coloquiales": [
-    "cómo se exportan productos",
-    "proceso de exportación",
-    "requisitos para exportar",
-    "exportar bienes",
-    "exportación definitiva"
+    "exportación",
+    "bienes físicos",
+    "adicción de aduanas"
   ],
-  "resumen": "La exportación de bienes tangibles se considera consumada cuando se cumplen todos los trámites y requisitos legales para su exportación definitiva. Esto se rige por las normativas aduaneras.",
+  "resumen": "La exportación de bienes tangibles se considera consumada cuando se han cumplido todos los actos y formalidades necesarias para su exportación definitiva, según la legislación aduanera.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que una exportación está completa?",
-    "¿Qué se necesita para exportar productos tangibles?",
-    "¿Cuáles son los requisitos para la exportación definitiva?",
-    "¿Qué dice la ley sobre la exportación de bienes?",
-    "¿Qué formalidades hay que cumplir para exportar?"
+    "¿Cuándo se considera que se ha exportado un bien?",
+    "¿Qué se necesita para exportar bienes tangibles?",
+    "¿Cuáles son las formalidades para la exportación?",
+    "¿Qué dice la legislación aduanera sobre la exportación?",
+    "¿Qué documentos se requieren para exportar bienes físicos?"
   ]
 }

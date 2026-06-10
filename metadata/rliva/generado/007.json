@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bcb39a1854ef0646",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medicinas de Patente",
+  "denominacion_comun": "Medicinas de patente",
   "temas": [
-    "medicinas",
+    "medicamentos",
     "especialidades farmacéuticas",
     "estupefacientes",
     "substancias psicotrópicas",
     "antígenos",
     "vacunas",
-    "medicamentos magistrales",
-    "medicamentos oficinales"
+    "medicamentos homeopáticos",
+    "medicamentos veterinarios"
   ],
   "terminos_coloquiales": [
-    "medicinas patentadas",
-    "medicamentos de marca",
-    "fármacos con patente",
-    "medicinas especiales",
-    "vacunas patentadas"
+    "medicinas",
+    "medicamentos de patente"
   ],
-  "resumen": "Las medicinas de patente incluyen especialidades farmacéuticas, estupefacientes, substancias psicotrópicas y ciertas vacunas. También se consideran medicinas de patente algunos medicamentos magistrales y oficinales equivalentes a las especialidades farmacéuticas.",
+  "resumen": "El artículo define qué se considera como medicinas de patente, incluyendo medicamentos especiales, estupefacientes, sustancias psicotrópicas, y varios tipos de vacunas y antígenos. También menciona que los medicamentos magistrales y oficinales se consideran medicinas de patente si son equivalentes a las especialidades farmacéuticas.",
   "preguntas_ejemplo": [
     "¿Qué son las medicinas de patente?",
-    "¿Cuáles son los medicamentos incluidos en las medicinas de patente?",
-    "¿Las vacunas cuentan como medicinas de patente?",
-    "¿Qué tipo de medicamentos son considerados medicinas de patente?",
-    "¿Qué condiciones deben cumplir los medicamentos magistrales para ser de patente?"
+    "¿Cuáles son los medicamentos considerados de patente?",
+    "¿Las vacunas se incluyen como medicinas de patente?",
+    "¿Qué medicamentos se consideran equivalentes a las especialidades farmacéuticas?",
+    "¿Qué tipos de substancias entran en la categoría de medicinas de patente?"
   ]
 }

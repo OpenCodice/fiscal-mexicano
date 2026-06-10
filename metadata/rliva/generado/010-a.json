@@ -6,29 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b86a5c5880db3961",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Alimentos preparados y su imposición",
+  "denominacion_comun": "Alimentos preparados",
   "temas": [
-    "tipos de alimentos",
-    "tasa del IVA",
-    "exclusiones de impuestos",
-    "establecimientos de venta",
-    "preparaciones cárnicas"
+    "exención fiscal",
+    "alimentos envasados",
+    "alimentos congelados",
+    "productos cárnicos",
+    "tasa del 16%",
+    "enajenación",
+    "preparaciones de carne",
+    "tortillas",
+    "panadería"
   ],
   "terminos_coloquiales": [
-    "alimentos no preparados",
-    "impuesto sobre alimentos",
-    "comida en restaurants",
-    "cómputo del IVA",
-    "tipos de alimentos vendidos"
+    "comida preparada",
+    "alimentos envasados",
+    "tasa del IVA",
+    "productos cárnicos crudos",
+    "tortillas",
+    "pan",
+    "galletas",
+    "comida en restaurantes"
   ],
-  "resumen": "Este artículo define qué alimentos no se consideran preparados para el consumo inmediato y, por lo tanto, no están sujetos a una tasa del 16% de IVA cuando se venden en ciertos lugares. Incluye alimentos envasados, crudos o que requieren cocción por parte del comprador.",
+  "resumen": "Este artículo establece qué alimentos no se consideran preparados para consumo en el lugar donde se venden, definiendo productos como envasados al vacío, congelados o que requieren cocción. También especifica que la tasa del IVA aplicable en restaurantes es del 16%.",
   "preguntas_ejemplo": [
-    "¿Qué alimentos no pagan IVA al comprarlos?",
-    "¿Cuáles son las excluciones de impuestos para alimentos?",
-    "¿Dónde se aplica la tasa del 16% en alimentos?",
-    "¿Qué tipos de alimentos se consideran preparados?",
-    "¿Los productos de panadería siempre tienen IVA?"
+    "¿Qué alimentos no llevan IVA si los compro en un restaurante?",
+    "¿Cuáles son los alimentos que se consideran preparados?",
+    "¿Qué productos cárnicos están exentos de IVA?",
+    "¿Cuál es la tasa de IVA en restaurantes?",
+    "¿Los productos de panadería tienen IVA?",
+    "¿Qué alimentos congelados tienen una regulación especial?"
   ]
 }

@@ -6,34 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df9bfc467dcd62ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto por desperdicios de bienes importados",
+  "denominacion_comun": "Desperdicios en bienes importados temporalmente",
   "temas": [
-    "desperdicios",
-    "importación temporal",
     "impuesto",
-    "maquila",
-    "exportación",
+    "bien importado temporalmente",
+    "desperdicios",
+    "importación definitiva",
     "regímenes aduaneros",
-    "elaboración",
-    "transformación",
-    "reparación",
-    "vehículos"
+    "maquila",
+    "depósito fiscal"
   ],
   "terminos_coloquiales": [
     "impuesto por desperdicios",
-    "qué pasa con los desperdicios de importación",
-    "impuesto en procesos de maquila",
-    "desperdicios de bienes importados",
-    "costo de desperdicios en importaciones"
+    "desperdicios de importación",
+    "regímenes aduaneros",
+    "programas de maquila",
+    "vehículos ensamblados",
+    "importación temporal"
   ],
-  "resumen": "Si en la transformación o reparación de bienes importados hay desperdicios que se importan de forma definitiva, se debe pagar un impuesto, a menos que esos desperdicios ya hayan pagado impuesto previamente en ciertos regímenes aduaneros.",
+  "resumen": "El artículo establece que si durante la transformación de bienes importados temporalmente se generan desperdicios que se importan de forma definitiva, se debe pagar un impuesto. Sin embargo, esto no se aplica si los desperdicios provienen de bienes ya gravados y están en programas aduaneros específicos.",
   "preguntas_ejemplo": [
-    "¿Tengo que pagar impuestos por los desperdicios de bienes importados?",
-    "¿Qué pasa con los desperdicios de la maquila?",
-    "¿Los desperdicios de importación temporal generan impuestos?",
-    "¿Cuándo no se paga impuesto por desperdicios de importación?",
-    "¿Qué son los regímenes aduaneros de importación temporal?"
+    "¿Cuándo se debe pagar impuesto por desperdicios de bienes importados?",
+    "¿Qué pasa con los desperdicios que provienen de bienes ya gravados?",
+    "¿Cuál es el tratamiento fiscal para desperdicios en programas de maquila?",
+    "¿Qué significa importar residuos de bienes temporalmente?",
+    "¿Cómo se regula la importación definitiva de desperdicios?",
+    "¿Los desperdicios generados en un recinto fiscalizado deben tributar?"
   ]
 }

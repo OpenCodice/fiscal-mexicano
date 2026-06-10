@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e915542a51a546c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de impuestos en servicios médicos",
+  "denominacion_comun": "Servicios profesionales de medicina",
   "temas": [
-    "exención de impuestos",
+    "impuesto sobre la renta",
+    "exenciones fiscales",
     "servicios médicos",
     "médicos",
-    "médicos veterinarios",
+    "veterinarios",
     "cirujanos dentistas"
   ],
   "terminos_coloquiales": [
-    "impuestos sobre médicos",
-    "servicios médicos sin impuestos",
-    "exenciones fiscales para doctores"
+    "médico",
+    "veterinario",
+    "dentista",
+    "servicios médicos gratis",
+    "exenciones de impuestos"
   ],
-  "resumen": "Algunos servicios profesionales de medicina no están sujetos al pago de impuestos si cumplen con ciertos requisitos establecidos por la ley. Esto incluye a médicos, veterinarios y dentistas.",
+  "resumen": "El artículo establece que ciertos servicios profesionales de medicina, como los de médicos, veterinarios y dentistas, están exentos del pago de impuestos si cumplen con requisitos específicos de la ley.",
   "preguntas_ejemplo": [
-    "¿Qué servicios médicos están exentos de impuestos?",
-    "¿Los dentistas tienen que pagar impuestos por sus servicios?",
-    "¿Cuáles son los requisitos para no pagar impuestos en servicios médicos?",
-    "¿Los veterinarios pueden ofrecer servicios sin carga fiscal?",
-    "¿Qué dice la ley sobre impuestos a los médicos?"
+    "¿Qué servicios médicos no pagan impuestos?",
+    "¿Los dentistas tienen exenciones fiscales?",
+    "¿Qué requisitos deben cumplir los médicos para no pagar impuestos?",
+    "¿Los veterinarios están exentos de pagar impuestos?",
+    "¿Qué dice la ley sobre impuestos para cirujanos dentistas?"
   ]
 }

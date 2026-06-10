@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fa800933359290b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Uso de bien inmueble amueblado",
+  "denominacion_comun": "Uso de bienes inmuebles",
   "temas": [
     "impuesto",
     "bien inmueble",
     "casa habitación",
     "contraprestaciones",
-    "amueblado",
-    "bien adherido",
-    "importación"
+    "bienes amueblados",
+    "importación de bienes"
   ],
   "terminos_coloquiales": [
-    "alquiler de casa amueblada",
-    "renta de casa",
-    "casa en alquiler",
-    "pago de impuestos alquiler",
-    "casa con muebles incluidos"
+    "impuesto por alquiler",
+    "alquiler de casas",
+    "casa amueblada",
+    "uso temporal de bienes",
+    "bienes inmuebles",
+    "casa de renta"
   ],
-  "resumen": "Cuando se renta una casa habitación amueblada, se debe pagar impuesto sobre el total de lo que se cobra, incluso si hay contratos separados por los muebles. No se considera amueblada si tiene bienes que están permanentemente fijados a la casa.",
+  "resumen": "Cuando se renta una casa amueblada, se debe pagar el impuesto sobre el total de lo que se cobra, sin importar si hay contratos diferentes para los muebles y la casa. No se considera amueblada si se incluyen ciertos bienes permanentes en la casa.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar si alquilo mi casa amueblada?",
-    "¿Qué incluye una casa al ser considerada amueblada?",
-    "¿Los muebles fijos cuentan como parte de la casa amueblada?",
-    "¿Se pagan impuestos diferentes por muebles y por la casa?",
-    "¿Qué se considera como bien adherido a la construcción en una renta?"
+    "¿Qué impuesto debo pagar si alquilo una casa amueblada?",
+    "¿Qué se considera una casa amueblada para el tema fiscal?",
+    "Si tengo un contrato separado para los muebles, ¿debo pagar el impuesto sobre ellos?",
+    "¿Cuáles son los bienes que no hacen que una casa sea considerada amueblada?",
+    "¿Cómo afecta la renta de una casa a mi declaración de impuestos?",
+    "¿Qué significa el término 'uso temporal de bienes' en la ley?"
   ]
 }

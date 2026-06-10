@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5d44ed5d51733406",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asociaciones Civiles y Cuotas",
+  "denominacion_comun": "Asociaciones Civiles y Cámaras de Comercio",
   "temas": [
     "asociaciones civiles",
     "cámaras de comercio",
-    "cuotas anuales",
     "servicios a miembros",
-    "objeto social"
+    "cuotas anuales",
+    "servicios específicos"
   ],
   "terminos_coloquiales": [
-    "cuotas de asociaciones",
+    "asociaciones civiles",
     "cámaras de comercio",
-    "servicios de asociaciones",
-    "cuotas anuales de cámaras"
+    "servicios a socios",
+    "cuotas de membresía"
   ],
-  "resumen": "El artículo aclara que ciertas asociaciones civiles, que tengan el mismo objetivo que las cámaras de comercio, están sujetas a ciertas condiciones para sus cuotas. Solo pueden ofrecer servicios relacionados con sus fines específicos a cambio de estas cuotas.",
+  "resumen": "Este artículo establece que las asociaciones civiles con un objeto social similar a las cámaras de comercio e industria pueden considerarse dentro de lo mencionado en el artículo 15 de la Ley, siempre que ofrezcan servicios relacionados con su objetivo social a cambio de cuotas anuales.",
   "preguntas_ejemplo": [
-    "¿Qué asociaciones civiles pueden recaudar cuotas?",
-    "¿Qué servicios pueden ofrecer las asociaciones a sus miembros?",
-    "¿Cómo se definen las cuotas anuales de las asociaciones?",
-    "¿Las asociaciones civiles pueden hacer lo mismo que las cámaras de comercio?",
-    "¿Qué especificaciones tienen que seguir las asociaciones con sus cuotas?"
+    "¿Qué son las asociaciones civiles según la ley?",
+    "¿Las cámaras de comercio pueden cobrar cuotas anuales?",
+    "¿Qué servicios pueden ofrecer las asociaciones civiles a sus miembros?",
+    "¿Las cuotas extraordinarias son permitidas en las asociaciones civiles?",
+    "¿Qué requisitos deben cumplir las asociaciones para ser consideradas bajo ese artículo?"
   ]
 }

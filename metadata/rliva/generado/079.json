@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eb504c229c1547ca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de cantidades",
+  "denominacion_comun": "Cantidades Acreditables",
   "temas": [
-    "cantidad acreditable",
-    "documentación requerida",
+    "comprobación fiscal",
     "valores presuntivos",
-    "artículo 39",
-    "Código Fiscal"
+    "documentación fiscal",
+    "requisitos legales"
   ],
   "terminos_coloquiales": [
-    "cómo comprobar acreditaciones",
-    "requisitos para papeles fiscales",
-    "cantidades que puedo acreditar",
-    "documentos necesarios para el SAT"
+    "gastos deducibles",
+    "comprabar gastos",
+    "valores estimados",
+    "reglamento de la ley",
+    "documentos fiscales"
   ],
-  "resumen": "Este artículo establece que las cantidades que se pueden acreditar deben comprobarse en función de los meses en que se determina su valor de manera presuntiva y que la documentación debe cumplir con los requisitos legales correspondientes.",
+  "resumen": "El artículo establece que las cantidades que se pueden acreditar deben ser comprobadas según lo que indique la ley y el código fiscal, en relación a los valores presuntivos. Además, la documentación necesaria debe cumplir con ciertos requisitos legales.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para acreditar cantidades?",
-    "¿Cómo se determina el valor presuntivo de mis ingresos?",
-    "¿Cuáles son los requisitos establecidos por la ley para mis acreditamientos?",
-    "¿Qué dice el artículo 39 sobre las cantidades acreditables?"
+    "¿Qué son las cantidades acreditables?",
+    "¿Cómo se comprueban mis gastos deducibles?",
+    "¿Qué documentos necesito para respaldar mis valores presuntivos?",
+    "¿Cuáles son los requisitos para la comprobación de gastos?",
+    "¿Qué dice el reglamento sobre las cantidades acreditables?"
   ]
 }

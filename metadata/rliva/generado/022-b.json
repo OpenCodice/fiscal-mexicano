@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51dc69535dd9a82f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento del Impuesto",
+  "denominacion_comun": "Acreditamiento de Impuestos",
   "temas": [
     "impuesto trasladado",
     "contribuyentes",
-    "retención",
-    "declaración bimestral",
-    "requisitos",
+    "retenciones",
+    "declaración de pago",
     "acreditamiento"
   ],
   "terminos_coloquiales": [
-    "cómo acreditar el impuesto",
-    "impuesto que me retuvieron",
-    "acreditamiento fiscal",
-    "declaración bimestral de impuestos"
+    "acreditar impuestos",
+    "pago de impuestos",
+    "declaración bimestral"
   ],
-  "resumen": "Este artículo explica que el impuesto que los contribuyentes han retenido puede ser acreditado en su declaración de pago bimestral siguiente, siempre que se cumplan ciertos requisitos establecidos por la ley.",
+  "resumen": "El artículo establece que los contribuyentes pueden acreditar el impuesto trasladado y retenido en su declaración de pago bimestral, siempre que cumplan con los requisitos establecidos por la Ley.",
   "preguntas_ejemplo": [
     "¿Puedo acreditar el impuesto que me retuvieron?",
-    "¿Cuándo puedo hacer el acreditamiento del impuesto?",
-    "¿Qué requisitos debo cumplir para acreditar el impuesto?",
-    "¿En qué declaración debo acreditar el impuesto trasladado?"
+    "¿Cómo funciona el acreditamiento de impuestos?",
+    "¿Cuándo debo hacer la declaración bimestral?",
+    "¿Qué requisitos debo cumplir para acreditar impuestos?",
+    "¿Qué es el impuesto trasladado?",
+    "¿Cómo afecta la retención en mis pagos de impuestos?"
   ]
 }

@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:155e8b5696bd9b6a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de impuestos por importación de servicios",
+  "denominacion_comun": "Acreditamiento de impuestos por importación",
   "temas": [
-    "importación de bienes intangibles",
+    "importación de bienes",
+    "bienes intangibles",
     "servicios",
-    "impuesto",
-    "acreditamiento",
+    "acreditamiento de impuestos",
     "declaración mensual"
   ],
   "terminos_coloquiales": [
-    "cómo acreditar impuestos importando",
-    "declaración de impuestos por servicios importados",
-    "pagar impuestos por bienes intangibles"
+    "importar servicios",
+    "bien intangible",
+    "acreditar impuestos",
+    "declaración de impuestos"
   ],
-  "resumen": "Los contribuyentes que importan bienes intangibles o servicios pueden acreditar el impuesto que deben pagar directamente en su declaración mensual. Esto aplica en la misma declaración de pago correspondiente a esas importaciones.",
+  "resumen": "Los contribuyentes que importan bienes intangibles o servicios pueden acreditar el impuesto que deben pagar en la misma declaración mensual correspondiente. Esto les permite reducir el monto a pagar al fisco por sus importaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el impuesto por mis importaciones?",
-    "¿Debo incluir el impuesto de bienes intangibles en mi declaración mensual?",
-    "¿Qué debo hacer al importar servicios en relación con mis impuestos?"
+    "¿Cómo puedo acreditar los impuestos por servicios que importo?",
+    "¿Puedo declarar el impuesto por bienes intangibles junto a mi declaración mensual?",
+    "¿Qué debo hacer para acreditar un impuesto por importación?",
+    "¿Qué son los bienes intangibles en términos fiscales?",
+    "¿Cómo se relaciona el acreditamiento de impuestos con la importación de servicios?"
   ]
 }

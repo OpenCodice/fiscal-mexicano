@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d8591b4a73e9617",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Casas habitación",
   "temas": [
+    "definición de casa habitación",
     "asilos",
     "orfanatorios",
     "construcciones nuevas",
-    "especificaciones del inmueble",
-    "licencias de construcción",
-    "garantía tributaria"
+    "enajenación de inmuebles",
+    "garantías fiscales"
   ],
   "terminos_coloquiales": [
-    "casas de asilo",
-    "hogares para niños",
-    "edificaciones nuevas",
     "casa habitación",
-    "impuesto sobre la propiedad"
+    "asilos",
+    "orfanatos",
+    "viviendas",
+    "comprar una casa",
+    "inmuebles"
   ],
-  "resumen": "El artículo establece que los asilos y orfanatorios se consideran casas habitación. También menciona que las construcciones nuevas deben ser evaluadas según su destino y se permite que una construcción no destinada a casa habitación sea considerada como tal, siempre que se cumplan ciertas condiciones legales.",
+  "resumen": "El artículo establece que se consideran casas habitación los asilos y orfanatorios. Para construcciones nuevas, se toma en cuenta el destino para el cual fueron construidas, y al vender un inmueble no destinado a casa habitación, se le puede considerar como tal bajo ciertas condiciones. Además, se mencionan las instalaciones y áreas dedicadas exclusivamente a los moradores con fines no lucrativos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera una casa habitación?",
-    "¿Los asilos cuentan como casas habitación?",
-    "¿Qué requisitos hay para que un inmueble sea considerado casa habitación?",
-    "¿Cómo se determina el uso de una construcción nueva?",
-    "¿Qué pasa si compro un inmueble que no es casa habitación?",
-    "¿Qué es la garantía que se menciona en relación a las casas habitación?"
+    "¿Qué se considera como casa habitación según la ley?",
+    "¿Los asilos se consideran casas habitación?",
+    "¿Qué ocurre si vendo una casa que no era para habitar?",
+    "¿Cómo puedo garantizar el impuesto al vender un inmueble?",
+    "¿Se pueden destinar áreas específicas de un edificio como casa habitación?"
   ]
 }

@@ -6,25 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd8eaa08fae9b7d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Incremento de valor de mercancías",
   "temas": [
-    "incremento de valor",
+    "valor de mercancías",
     "materias primas",
-    "mercancías extranjeras",
+    "procedencia extranjera",
     "legislación aduanera"
   ],
   "terminos_coloquiales": [
-    "aumento de valor en productos",
-    "valores de mercancías importadas",
-    "valor de materias extranjeras"
+    "incremento de valor",
+    "valores aduaneros"
   ],
-  "resumen": "Se establece cómo determinar el incremento de valor en productos, considerando el valor de las materias primas o mercancías extranjeras que se incluyen en ellos, según la legislación aduanera.",
+  "resumen": "Este artículo establece cómo se determina el incremento de valor de las mercancías, considerando el valor de las materias primas de procedencia extranjera. Se refiere a la legislación aduanera para este cálculo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el aumento de valor de un producto?",
-    "¿Qué se considera en el valor de mercancías importadas?",
-    "¿Qué dice la ley sobre las materias primas extranjeras?",
-    "¿Cómo afecta la legislación aduanera al valor de un producto?"
+    "¿Cómo se determina el incremento de valor de las mercancías?",
+    "¿Qué se considera en el cálculo del valor aduanero?",
+    "¿Qué papel tienen las materias primas extranjeras en el valor de los productos?",
+    "¿Cómo influye la legislación aduanera en el incremento de valor?",
+    "¿Qué es el valor de las materias primas en el contexto aduanero?"
   ]
 }

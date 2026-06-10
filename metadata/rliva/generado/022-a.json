@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec9c40670c2eedc2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaraciones complementarias",
+  "denominacion_comun": "Tratamiento de Declaraciones Complementarias",
   "temas": [
-    "opciones de contribuyentes",
-    "declaraciones fiscales",
-    "impuesto",
-    "actualizaciones y recargos"
+    "declaraciones complementarias",
+    "opción de tratamiento",
+    "Impuesto",
+    "actualizaciones",
+    "recargos"
   ],
   "terminos_coloquiales": [
-    "declaraciones extra",
-    "declaraciones corregidas",
-    "opciones fiscales",
-    "ajustes de impuestos"
+    "declaraciones de impuestos",
+    "diferencias del Impuesto",
+    "hacer una declaración complementaria"
   ],
-  "resumen": "Este artículo permite a los contribuyentes que usaron ciertas reglas optar por presentar declaraciones complementarias y pagar diferencias del impuesto, así como actualizaciones y recargos. Estas declaraciones no cuentan dentro de un límite específico que se establece en otra ley.",
+  "resumen": "Este artículo permite a los contribuyentes que han aplicado ciertas disposiciones optar por un tratamiento específico para sus declaraciones complementarias. Deberán presentar dichas declaraciones y pagar las diferencias del Impuesto, así como los recargos y actualizaciones correspondientes.",
   "preguntas_ejemplo": [
     "¿Qué son las declaraciones complementarias?",
-    "¿Puedo hacer ajustes a mis declaraciones de impuestos?",
-    "¿Qué sucede si elijo el tratamiento del artículo 5o.-B?",
-    "¿Las declaraciones complementarias cuentan para el límite de declaraciones?",
-    "¿Qué debo pagar si presento una declaración complementaria?"
+    "¿Cómo puedo optar por el tratamiento del artículo 5o.-B?",
+    "¿Qué implicaciones tiene presentar declaraciones complementarias?",
+    "¿Debo pagar recargos si presento una declaración complementaria?",
+    "¿Las declaraciones complementarias cuentan para el límite establecido?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8cc7cb20bac5ce71",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Separación de servicios turísticos",
+  "denominacion_comun": "Servicios turísticos",
   "temas": [
+    "contratos",
     "servicios turísticos",
-    "cuota individual",
-    "valor de servicios",
+    "valuación",
+    "separación de servicios",
     "servicios en el país",
     "servicios en el extranjero"
   ],
   "terminos_coloquiales": [
-    "servicios turísticos en México",
-    "cobro de servicios turísticos",
-    "separar servicios nacionales e internacionales",
-    "contrato de servicios turísticos"
+    "servicios turísticos",
+    "costo de servicios",
+    "tarifas",
+    "contratos de viaje"
   ],
-  "resumen": "Los contribuyentes que ofrezcan varios servicios turísticos en un solo contrato deben separar los servicios prestados en México de los que se brindan en el extranjero.",
+  "resumen": "Los contribuyentes que ofrezcan diferentes servicios turísticos bajo un mismo contrato deben detallar los valores de los servicios prestados en México y en el extranjero. Esto significa que deben separar estos costos en su facturación.",
   "preguntas_ejemplo": [
-    "¿Cómo debo clasificar mis servicios turísticos?",
-    "¿Qué diferencia hay entre servicios turísticos nacionales e internacionales?",
-    "¿Qué obligaciones tengo al ofrecer servicios en el extranjero?",
-    "¿Qué es una cuota individual en servicios turísticos?",
-    "¿Tengo que separar la facturación de servicios turísticos nacionales y extranjeros?"
+    "¿Cómo debo separar los costos de mis servicios turísticos en México y en el extranjero?",
+    "¿Qué sucede si ofrezco servicios de turismo en diferentes países?",
+    "¿Necesito desglosar el precio de los servicios turísticos en mi contrato?",
+    "¿Qué implica ofrecer varios servicios turísticos en un solo contrato?",
+    "¿A qué se refiere la Ley sobre la separación de servicios turísticos?"
   ]
 }

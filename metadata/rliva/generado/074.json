@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ec9e6ecb4533ed1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos y pago de impuestos",
   "temas": [
+    "fideicomisos",
+    "impuesto",
     "comprobantes fiscales",
-    "impuesto a fideicomisos",
     "responsabilidad solidaria",
-    "acreditamiento de impuestos",
+    "acreditamiento",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo funciona un fideicomiso",
-    "impuestos sobre fideicomisos",
-    "comprobantes de fideicomiso",
-    "responsabilidad del fiduciario"
+    "fideicomisos",
+    "comprobantes",
+    "impuesto",
+    "acreditamiento",
+    "contabilidad",
+    "saldo a favor"
   ],
-  "resumen": "El artículo trata sobre las obligaciones que tienen las instituciones fiduciarias y los fideicomisarios al pagar impuestos a través de fideicomisos. Establece condiciones para la emisión de comprobantes fiscales y el acreditamiento de impuestos.",
+  "resumen": "El artículo establece que las instituciones fiduciarias pueden expedir comprobantes fiscales por el impuesto que se deba pagar a través de fideicomisos, siempre que se cumplan ciertas condiciones. También se señala que los fideicomisarios pueden acreditar impuestos y que hay limitaciones sobre lo que se puede considerar como impuestos acreditables.",
   "preguntas_ejemplo": [
     "¿Cómo se manejan los impuestos en un fideicomiso?",
-    "¿Qué debo hacer si soy fideicomisario y necesito pagar impuestos?",
-    "¿Cuáles son las responsabilidades del fiduciario en cuanto a impuestos?",
-    "¿Puedo acreditar impuestos si tengo un fideicomiso?",
-    "¿Qué comprobantes fiscales necesito como fideicomisario?"
+    "¿Qué comprobantes debo emitir si tengo un fideicomiso?",
+    "¿Puedo acreditar impuestos si soy fideicomisario?",
+    "¿Qué responsabilidades tiene la institución fiduciaria con respecto a los impuestos?",
+    "¿Cuándo se puede ejercer la opción de pagar impuestos a través de un fideicomiso?"
   ]
 }

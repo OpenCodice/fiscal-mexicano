@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d73053ac2ba9b62",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de impuesto por intereses",
+  "denominacion_comun": "Exención de impuestos por financiamiento",
   "temas": [
-    "impuesto",
     "intereses",
-    "operaciones de financiamiento",
-    "contrato de préstamo",
-    "adquisición de inmueble",
+    "impuesto",
+    "financiamiento",
+    "inmuebles",
     "casa habitación"
   ],
   "terminos_coloquiales": [
-    "no pago de impuesto por intereses",
-    "exención de intereses",
+    "no pago de impuestos",
     "intereses de préstamos",
-    "préstamo para casa",
-    "intereses de financiamiento"
+    "casa habitación"
   ],
-  "resumen": "No se pagará impuesto por los intereses de financiamiento si el préstamo está condicionado a la compra de un inmueble destinado a casa habitación, aunque la persona que financia no sea la misma que vende el bien.",
+  "resumen": "Se establece que no se paga impuesto por los intereses de financiamiento si el préstamo está condicionado a la compra de un inmueble destinado a casa habitación. Esto aplica incluso si el prestamista no es el vendedor del bien.",
   "preguntas_ejemplo": [
-    "¿Cuándo no debo pagar impuestos por intereses de un préstamo?",
-    "¿Qué condiciones tiene que tener un préstamo para casa para no pagar impuestos?",
-    "¿Los intereses de financiamiento siempre generan impuestos?",
-    "¿Puedo evitar impuestos si el préstamo es para comprar una casa?",
-    "¿Qué dice la ley sobre los intereses de los préstamos para vivienda?"
+    "¿Tengo que pagar impuestos por los intereses de un préstamo para comprar mi casa?",
+    "¿Qué pasa si el prestamista no es el vendedor de la casa?",
+    "¿Se pueden exentar impuestos si el préstamo es para financiar un inmueble?",
+    "¿Qué requisitos debo cumplir para no pagar impuestos sobre intereses de financiamiento?",
+    "¿Aplica esta exención solo para casas habitación?"
   ]
 }

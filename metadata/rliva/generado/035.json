@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3407e797201fce20",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto de comisionistas",
+  "denominacion_comun": "Comisionista y comitente",
   "temas": [
-    "comisión",
     "impuesto",
-    "comitente",
     "comisionista",
-    "retención",
-    "gastos"
+    "comitente",
+    "retención de impuestos",
+    "gastos",
+    "comisión"
   ],
   "terminos_coloquiales": [
-    "impuesto del comisionista",
-    "comisión de impuestos",
-    "impuesto que paga el comitente",
-    "cómo se calcula el impuesto de la comisión"
+    "impuesto",
+    "comisión",
+    "gastos",
+    "retención"
   ],
-  "resumen": "El comisionista debe trasladar el impuesto al comitente según el valor de los actos, y el comitente asume el impuesto correspondiente. Además, se establecen reglas sobre la retención del impuesto cuando el comisionista es persona física y el comitente es persona moral.",
+  "resumen": "El artículo establece que el comisionista debe trasladar el impuesto por cuenta del comitente, aplicando las tasas correspondientes. El comitente debe considerar el impuesto correspondiente a lo realizado por su comisionista y realizar las retenciones necesarias si corresponde.",
   "preguntas_ejemplo": [
-    "¿Quién paga el impuesto en una comisión?",
-    "¿Cómo se calcula el impuesto cuando interviene un comisionista?",
-    "¿Qué debe hacer un comitente respecto al impuesto del comisionista?",
-    "¿La comisión incluye gastos adicionales al impuesto?",
-    "¿Qué pasa si el comisionista es persona física y el comitente es persona moral?"
+    "¿Qué hace el comisionista con el impuesto?",
+    "¿Cómo se aplica la retención del impuesto por parte del comitente?",
+    "¿Cuándo el comisionista debe trasladar el impuesto al comitente?",
+    "¿Qué gastos se pueden incluir en la comisión?",
+    "¿Qué obligaciones tiene el comitente en relación al impuesto del comisionista?"
   ]
 }

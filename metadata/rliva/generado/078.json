@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6180184424f6b788",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo y Entero del Impuesto",
+  "denominacion_comun": "Enajenación de inmuebles",
   "temas": [
-    "enajenación de inmuebles",
-    "impuesto",
+    "impuesto sobre enajenación",
     "declaraciones mensuales",
-    "contribuyentes",
-    "copia sellada",
+    "exhibición de copias",
+    "inicio de actividades",
+    "inmuebles",
     "documentos digitales"
   ],
   "terminos_coloquiales": [
-    "cálculo del impuesto",
-    "declaraciones de impuestos",
     "venta de propiedades",
-    "pago de impuestos",
-    "exención de impuestos"
+    "impuesto por venta de casa",
+    "copia de declaraciones",
+    "RCF (Registro Federal de Contribuyentes)",
+    "sello digital"
   ],
-  "resumen": "El artículo establece que ciertos contribuyentes quedan exentos de calcular y pagar el impuesto al vender inmuebles si presentan las declaraciones mensuales correspondientes. Además, deben mostrar copias selladas de estas declaraciones o del aviso de inscripción al registro de contribuyentes. Si las declaraciones son digitales, hay que mostrar el acuse de recibo.",
+  "resumen": "Este artículo detalla que ciertos contribuyentes no están obligados a calcular y pagar el impuesto sobre la enajenación de inmuebles si presentan copias selladas de sus declaraciones mensuales. También establece requerimientos adicionales para quienes hayan iniciado actividades recientemente.",
   "preguntas_ejemplo": [
-    "¿Qué debo presentar para no pagar el impuesto de una venta de inmueble?",
-    "¿Cuáles son los requisitos para estar exento del cálculo del impuesto?",
-    "¿Qué documentos necesito si vendo una propiedad?",
-    "¿Puedo enviar mis declaraciones de impuestos de manera digital?",
-    "¿Qué pasa si compré mi inmueble hace menos de tres meses?"
+    "¿Qué documentos necesito para vender un inmueble sin pagar impuestos?",
+    "¿Cómo presento mis declaraciones para no calcular el impuesto por enajenación?",
+    "¿Cuánto tiempo tengo que estar dado de alta para no pagar impuestos al vender mi propiedad?",
+    "¿Puedo usar documentos digitales para cumplir con mis obligaciones fiscales al vender un inmueble?",
+    "¿Qué se considera una enajenación accidental de propiedades?"
   ]
 }

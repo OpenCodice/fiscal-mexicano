@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c8423f9de1774f95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios de filmación",
+  "denominacion_comun": "Servicios de filmación y grabación",
   "temas": [
     "filmación",
     "grabación",
-    "proyección",
-    "televisión",
-    "venta",
-    "renta",
+    "servicios cinematográficos",
+    "rentas comerciales",
+    "servicios personales",
+    "transporte",
+    "hospedaje",
     "exportación de servicios"
   ],
   "terminos_coloquiales": [
-    "producción de películas",
-    "servicios de grabación",
-    "filmación para cine",
-    "filmaciones comerciales"
+    "películas",
+    "grabaciones",
+    "filmaciones",
+    "servicios de cine",
+    "renta de películas",
+    "exportar filmación"
   ],
-  "resumen": "Se consideran servicios de filmación o grabación aquellos destinados a la proyección en cines o televisión, así como a su venta o renta comercial. Estos servicios pueden incluir diversos elementos como vestuario, locaciones y transporte, entre otros.",
+  "resumen": "Este artículo define los servicios de filmación y grabación que se consideran para fines fiscales, indicando qué se incluye en estos servicios y cómo se consideran cuando son prestados a residentes en el extranjero. También se mencionan aspectos como vestuario, transporte y hospedaje relacionados con estas actividades.",
   "preguntas_ejemplo": [
-    "¿Qué se incluye en los servicios de filmación?",
-    "¿Cómo se consideran los servicios de grabación para exportación?",
-    "¿Qué tipos de filmaciones se regulan?",
-    "¿Qué requisitos hay para los servicios de filmación en el país?",
-    "¿Qué implica la filmación para fines comerciales?"
+    "¿Qué se considera un servicio de filmación para efectos fiscales?",
+    "¿La renta de equipos de grabación entra dentro de estos servicios?",
+    "¿Cómo se considera la exportación de servicios de filmación?",
+    "¿Qué gastos se pueden incluir en los servicios de grabación?",
+    "¿Los servicios de filmación en el extranjero están gravados?",
+    "¿Qué elementos se consideran en la filmación o grabación?"
   ]
 }

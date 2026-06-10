@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6405025d06f59af4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto en importaciones",
+  "denominacion_comun": "Pago de Impuesto en Importación de Bienes",
   "temas": [
     "impuesto de importación",
-    "bienes tangibles",
-    "pago de impuestos",
-    "obligaciones fiscales"
+    "bien tangible",
+    "pagos de impuestos",
+    "formulario",
+    "gravamientos"
   ],
   "terminos_coloquiales": [
-    "costo de importar",
-    "impuesto al importar",
-    "cómo se paga el impuesto",
-    "impuestos en aduanas"
+    "pago de impuestos al importar",
+    "impuesto de importación",
+    "bienes de importación",
+    "pago por importación"
   ],
-  "resumen": "Este artículo establece que el impuesto por la importación de bienes tangibles debe pagarse de una manera específica, incluso si no se debe el impuesto general de importación. Es una regulación sobre cómo realizar el pago de impuestos al importar.",
+  "resumen": "Este artículo establece que el impuesto que se paga al importar bienes tangibles debe ser enterado de acuerdo con el método de pago del impuesto general de importación, incluso si no se debe pagar este último. Se trata de una disposición sobre el procedimiento de pago en la importación.",
   "preguntas_ejemplo": [
-    "¿Cómo debo pagar el impuesto al importar productos?",
-    "¿Qué impuestos aplican al importar bienes tangibles?",
-    "¿Es necesario pagar un impuesto si no hay impuesto general de importación?",
-    "¿Qué dice la ley sobre impuestos en importaciones?",
-    "¿Cómo se determina el monto del impuesto en importaciones?"
+    "¿Cómo se paga el impuesto al importar bienes?",
+    "¿Qué impuesto debo pagar al traer mercancía del extranjero?",
+    "¿Cuál es el procedimiento para el pago de impuestos en la importación?",
+    "¿Qué pasa si solo importo bienes tangibles?",
+    "¿Debo usar el mismo método de pago para el impuesto de importación?"
   ]
 }

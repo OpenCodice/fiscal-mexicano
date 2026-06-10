@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40ee0ad6aeecb31f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución de impuestos para misiones diplomáticas",
   "temas": [
+    "impuesto",
     "misiones diplomáticas",
     "devolución de impuestos",
-    "traslación del impuesto",
     "reciprocidad",
-    "requisitos del SAT"
+    "requisitos"
   ],
   "terminos_coloquiales": [
-    "devolución de impuestos para embajadas",
-    "impuestos de misiones diplomáticas",
-    "embajadas y el SAT",
-    "recuperar impuestos para misiones",
-    "impuesto que pagué como embajada"
+    "devolución de impuestos",
+    "misiones diplomáticas",
+    "SAT"
   ],
-  "resumen": "Las misiones diplomáticas tienen que aceptar el pago del impuesto, pero pueden pedir la devolución si se cumplen ciertas condiciones de reciprocidad. El SAT establece los requisitos para este proceso.",
+  "resumen": "Las misiones diplomáticas deben aceptar el impuesto trasladado y pueden solicitar su devolución en caso de reciprocidad, cumpliendo con ciertos requisitos que establezca el SAT.",
   "preguntas_ejemplo": [
-    "¿Las embajadas pueden recuperar impuestos?",
-    "¿Qué requisitos deben cumplir las misiones diplomáticas para obtener la devolución de impuestos?",
-    "¿Por qué tengo que pagar impuestos si tengo una misión diplomática?",
-    "¿Qué es la traslación del impuesto para las embajadas?",
-    "¿Cómo funciona la reciprocidad en la devolución de impuestos a misiones diplomáticas?"
+    "¿Pueden las misiones diplomáticas recibir devoluciones de impuestos?",
+    "¿Qué requisitos necesita cumplir una misión diplomática para solicitar la devolución de impuestos?",
+    "¿Qué significa la reciprocidad en relación a los impuestos para misiones diplomáticas?",
+    "¿Cómo afecta el impuesto traslado a las misiones diplomáticas?",
+    "¿Qué dice el SAT sobre la devolución de impuestos a misiones diplomáticas?"
   ]
 }

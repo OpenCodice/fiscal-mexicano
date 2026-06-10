@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8bcd002461060136",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de impuestos",
+  "denominacion_comun": "Acreditamiento de impuesto",
   "temas": [
     "impuesto acreditable",
     "casas de bolsa",
     "instituciones de crédito",
-    "premios de reporto",
-    "compraventa de valores",
+    "seguros",
+    "fianzas",
+    "depósito de valores",
+    "casas de cambio",
     "sociedades de inversión"
   ],
   "terminos_coloquiales": [
-    "cómo acreditar impuestos",
-    "impuestos en casas de bolsa",
+    "acreditamiento",
     "premios de reporto",
-    "compraventa de acciones"
+    "compraventa de valores"
   ],
-  "resumen": "Este artículo trata sobre cómo ciertas instituciones pueden calcular el impuesto acreditable considerando los ingresos y pagos relacionados con premios de reporto y compraventa de valores. Establece que estas entidades pueden optar por incluir esta diferencia en su valor de actividades.",
+  "resumen": "Este artículo establece que varias instituciones financieras pueden optar por considerar ciertos ingresos y pagos para determinar el impuesto acreditable del mes. Esto incluye las diferencias entre los ingresos que reciben por premios de reporto y los pagos que realizan por esos mismos conceptos.",
   "preguntas_ejemplo": [
-    "¿Cómo se acreditan los impuestos en las casas de bolsa?",
-    "¿Qué ingresos se consideran para el impuesto acreditable?",
-    "¿Qué son los premios de reporto?",
-    "¿Cómo afecta la compraventa de valores en el impuesto?",
-    "¿Quiénes pueden optar por usar esta disposición?"
+    "¿Cómo se determina el impuesto acreditable para casas de bolsa?",
+    "¿Qué ingresos se pueden considerar para el acreditamiento de impuestos?",
+    "¿Las instituciones de crédito pueden optar por acreditar impuestos?",
+    "¿Cómo se consideran los premios de reporto para el impuesto?",
+    "¿Qué rol juegan las sociedades de inversión en el acreditamiento?"
   ]
 }

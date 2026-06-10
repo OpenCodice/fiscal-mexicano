@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2415ab76f286f58e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasa del 0% en enajenación de maquinaria",
+  "denominacion_comun": "Tasa del 0% para maquinaria y equipo",
   "temas": [
-    "tasa del 0%",
     "enajenación",
     "maquinaria",
     "equipo",
-    "exenciones fiscales"
+    "tasa del 0%",
+    "carácter esencial",
+    "fines específicos"
   ],
   "terminos_coloquiales": [
-    "maquinaria con tasa cero",
-    "venta de equipo sin IVA",
-    "exención de impuestos en maquinaria"
+    "tasa del 0%",
+    "venta de maquinaria",
+    "venta de equipo"
   ],
-  "resumen": "Se aplica una tasa del 0% al vender maquinaria y equipo que no sean de la misma categoría indicada en otro artículo, siempre que se usen únicamente para los fines establecidos y mantengan su carácter esencial.",
+  "resumen": "Este artículo establece que se aplicará una tasa del 0% a la venta de maquinaria y equipo que cumplan con ciertos requisitos específicos. La maquinaria y equipo deben conservar su carácter esencial y no pueden ser usados para otros fines.",
   "preguntas_ejemplo": [
-    "¿Qué maquinaria puede venderse con tasa del 0%?",
-    "¿Cuáles son los requisitos para la exención de IVA en maquinaria?",
-    "¿Se puede aplicar IVA a la venta de equipo si cumple ciertas condiciones?",
-    "¿Qué significa tener carácter esencial para el equipo vendido?",
-    "¿Qué tipo de enajenación se aplica a la maquinaria según la ley?"
+    "¿Cuándo se aplica la tasa del 0% a la venta de maquinaria?",
+    "¿Qué tipo de equipo puede venderse con tasa del 0%?",
+    "¿Qué requisitos deben cumplir los equipos para aplicar la tasa del 0%?",
+    "¿Puedo vender maquinaria usada con tasa del 0%?",
+    "¿Qué significa que un equipo conserve su carácter esencial?"
   ]
 }

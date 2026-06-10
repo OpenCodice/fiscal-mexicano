@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9afc65324583c0ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por Devoluciones y Descuentos",
+  "denominacion_comun": "Deducción de devoluciones, descuentos y bonificaciones",
   "temas": [
     "devoluciones",
     "descuentos",
     "bonificaciones",
     "anticipos",
-    "deducciones",
-    "impuesto"
+    "depósitos",
+    "deducciones"
   ],
   "terminos_coloquiales": [
-    "cómo deduzco devoluciones",
-    "descuentos en la declaración",
-    "bonificaciones y deducciones",
-    "deducción de anticipos"
+    "devolución de bienes",
+    "descuentos",
+    "bonificaciones",
+    "devolución de anticipos",
+    "deducción de impuestos"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales los contribuyentes pueden deducir devoluciones, descuentos y bonificaciones en sus declaraciones. Solo se pueden deducir hasta el valor de las actividades gravadas, y las deducciones deben ser realizadas cuando se cumplan ciertos requisitos.",
+  "resumen": "El artículo establece que los contribuyentes solo pueden deducir devoluciones, descuentos y bonificaciones hasta el monto de las actividades gravadas por las que se deba pagar impuestos. Si quedan remanentes, se podrán deducir en declaraciones siguientes hasta agotarlos.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir una devolución de un bien vendido?",
-    "¿Cómo se aplican los descuentos en la declaración fiscal?",
-    "¿Qué requisitos debo cumplir para deducir bonificaciones?",
-    "¿Qué pasa con los anticipos que recibí?",
-    "¿Los remanentes se pueden deducir en futuros pagos?",
-    "¿Cuándo puedo hacer la deducción de la devolución?"
+    "¿Cómo puedo deducir las devoluciones que hago a mis clientes?",
+    "¿Qué requisitos debo cumplir para aplicar descuentos y bonificaciones en mis deducciones?",
+    "¿Puedo deducir anticipos que he recibido de mis clientes?",
+    "¿Cómo se manejan las deducciones de montos remanentes?",
+    "¿En qué casos se pueden aplicar las deducciones por bonificaciones?"
   ]
 }

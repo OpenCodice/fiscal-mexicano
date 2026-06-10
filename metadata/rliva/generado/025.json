@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da44a65dde327d3f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Faltantes de bienes",
+  "denominacion_comun": "Faltantes de bienes en inventarios",
   "temas": [
+    "faltantes de bienes",
     "inventarios",
-    "bien deducible",
-    "mérmas",
+    "deducciones",
+    "mermas",
     "destrucción de mercancías",
-    "fuerza mayor",
-    "caso fortuito"
+    "caso fortuito",
+    "fuerza mayor"
   ],
   "terminos_coloquiales": [
-    "faltantes de inventario",
-    "mérmas en el inventario",
-    "destrucción de productos",
-    "caso fortuito en negocio",
-    "mercancía dañada"
+    "faltantes",
+    "mermas",
+    "destrucción de mercancías",
+    "deducciones de inventario"
   ],
-  "resumen": "El artículo establece que no se consideran faltantes en los inventarios de las empresas aquellos casos causados por eventos fuera de control, como la fuerza mayor, así como mermas y mercancías destruidas, si son deducibles según la Ley del Impuesto sobre la Renta.",
+  "resumen": "El artículo establece que no se consideran faltantes de bienes aquellos que se deben a caso fortuito o fuerza mayor, así como las mermas y la destrucción de mercancías, siempre que sean deducibles según la Ley del Impuesto sobre la Renta.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si se pierde mercancía por fuerza mayor?",
-    "¿Las mermas en inventarios son deducibles?",
-    "¿Qué se considera faltante en un inventario de empresa?",
-    "¿La destrucción de mercancías afecta mis cuentas?",
-    "¿Cómo se manejan los faltantes por caso fortuito?"
+    "¿Qué es un faltante de bienes en inventarios?",
+    "¿Se puede deducir una merma en mi inventario?",
+    "¿Qué pasa si se destruyen mercancías por fuerza mayor?",
+    "¿Los faltantes se pueden justificar por caso fortuito?",
+    "¿Qué tipos de mermas son deducibles?"
   ]
 }
