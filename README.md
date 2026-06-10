@@ -45,6 +45,8 @@ vigente:
 | Reglamento de la Ley del Impuesto sobre la Renta | 2016-05-06 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf) |
 | Reglamento del Código Fiscal de la Federación | 2014-04-02 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf) |
 | Resolución Miscelánea Fiscal para 2026 | 2025-12-28 | [Descargar PDF](https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/rmf/RMF_2026-DOF-28122025.pdf) |
+| Reglas Generales de Comercio Exterior para 2026 | 2025-12-27 | [Descargar PDF](https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rgce/rgce/ReglasGeneralesComercioExteriorpara2026.pdf) |
+| Resolución de Facilidades Administrativas para 2026 | 2026-02-17 | [Descargar PDF](https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rfa/rfa/RFA2026_17022026.pdf) |
 | Compilación de criterios normativos fiscales (Anexo 7 RMF 2026) | 2026-01-09 | [Descargar PDF](https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo_7_RMF2026-09012026.pdf) |
 | Compilación de criterios sobre prácticas fiscales indebidas (Anexo 3 RMF 2026) | 2026-01-09 | [Descargar PDF](https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo_3_RMF2026-09012026.pdf) |
 

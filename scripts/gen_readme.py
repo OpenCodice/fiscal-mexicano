@@ -19,7 +19,7 @@ INICIO = "<!-- DOCUMENTOS:INICIO -->"
 FIN = "<!-- DOCUMENTOS:FIN -->"
 
 # Orden de presentación (más legible que el alfabético de documentos.json).
-ORDEN_TIPO = {"ley": 0, "reglamento": 1, "rmf": 2, "criterios": 3}
+ORDEN_TIPO = {"ley": 0, "reglamento": 1, "rmf": 2, "rgce": 3, "rfa": 4, "criterios": 5}
 
 
 def url_pdf(clave: str) -> str | None:
