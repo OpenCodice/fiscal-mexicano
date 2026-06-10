@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d1adc81dcc8657ef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación de servicios",
+  "denominacion_comun": "Exportación de Servicios por Comisionistas",
   "temas": [
-    "Comisionista mercantil",
-    "Exportación de servicios",
+    "exportación de servicios",
+    "comisiones",
+    "mediaciones",
+    "práctica fiscal indebida",
     "IVA",
-    "Servicios prestados en territorio nacional",
-    "Práctica fiscal indebida"
+    "residentes en el país",
+    "territorio nacional"
   ],
   "terminos_coloquiales": [
-    "Comisiones",
-    "Mediaciones",
-    "Exportación de servicios",
-    "IVA 0%"
+    "comisionistas",
+    "comisiones",
+    "servicios prestados en el extranjero",
+    "IVA del 0%",
+    "servicios en México",
+    "cobro de comisiones"
   ],
-  "resumen": "El criterio establece que solo se consideran exportaciones de servicios las comisiones y mediaciones de residentes en el país. Los demás servicios realizados en territorio nacional no califican para tasa del 0% de IVA solo por ser gestionados por un comisionista mercantil.",
+  "resumen": "El criterio establece que solo se considera exportación de servicios aquellos prestados por residentes en el país a través de comisiones y mediaciones, no así otros servicios. A su vez, enfatiza que clasificar erróneamente ciertos servicios como exportaciones para aplicar el IVA del 0% es indebido.",
   "preguntas_ejemplo": [
-    "¿Qué servicios se consideran exportados si son realizados en México?",
-    "¿Qué dice la Ley del IVA sobre comisiones y mediaciones?",
-    "¿Qué prácticas se consideran indebidas respecto a la exportación de servicios?",
-    "¿Cuál es la tasa del IVA para servicios ofrecidos por comisionistas mercantiles?",
-    "¿Los servicios portuarios cuentan como exportación de servicios?"
+    "¿Bajo qué condiciones se considera que un servicio es exportado?",
+    "¿Qué tipos de servicios no se consideran exportación para efectos del IVA?",
+    "¿Qué implica ser comisionista mercantil en relación al IVA?",
+    "¿Cómo se aplican las tasas del IVA en servicios prestados a extranjeros?",
+    "¿Qué riesgos fiscales hay al clasificar servicios como exportaciones?"
   ]
 }

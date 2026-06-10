@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76b3ba17cf684b2a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversiones en automóviles",
+  "denominacion_comun": "Deducción de automóviles en comodato",
   "temas": [
-    "deducciones",
+    "deducción fiscal",
+    "inversiones en automóviles",
     "comodato",
-    "IVA",
+    "gastos de mantenimiento",
+    "acreditamiento del IVA",
     "actividades del contribuyente",
-    "gastos no deducibles",
-    "bienes indispensables"
+    "bienes estrictamente indispensables"
   ],
   "terminos_coloquiales": [
-    "deducción de autos",
-    "gastos de automóvil",
-    "inversiones en vehículos",
-    "IVA de autos",
-    "prácticas fiscales indebidas"
+    "comprar un coche",
+    "auto en comodato",
+    "deducción de gastos de auto",
+    "gastos de mantenimiento de auto",
+    "IVA de auto",
+    "deducción automóviles"
   ],
-  "resumen": "Los automóviles otorgados en comodato y que no se utilizan para las actividades del contribuyente no son deducibles. Las inversiones deben ser estrictamente indispensables para la realización de estas actividades para poder ser consideradas deducibles.",
+  "resumen": "No se pueden deducir las inversiones en automóviles otorgados en comodato si no se utilizan para las actividades del contribuyente. Además, no se permite acreditar el IVA relacionado si el vehículo no es necesario para la actividad del negocio.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el costo de un automóvil si lo tengo en comodato?",
-    "¿Qué pasa si un auto no lo uso para mis actividades fiscales?",
-    "¿Cuándo puedo deducir gastos de mantenimiento de un vehículo?",
-    "¿Es posible acreditar el IVA de un auto que no uso para mis actividades?",
-    "¿Qué requisitos debe cumplir un automóvil para ser deducible?"
+    "¿Puedo deducir el costo de un auto que tengo en comodato?",
+    "¿Los gastos de mantenimiento de un auto son deducibles si lo presto a otra persona?",
+    "¿Cómo afecta el comodato a la deducción de impuestos en vehículos?",
+    "¿Es posible acreditar el IVA de un automóvil que no uso en mi negocio?",
+    "¿Qué condiciones deben cumplir los automóviles para ser deducibles?"
   ]
 }

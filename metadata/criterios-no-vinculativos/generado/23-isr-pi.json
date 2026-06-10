@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e24371e81e54faf1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medios de pago en gastos médicos y dentales",
+  "denominacion_comun": "Gastos médicos y dentales",
   "temas": [
     "deducciones personales",
     "gastos médicos",
-    "honorarios dentales",
-    "servicios de salud",
-    "medios de pago",
-    "transferencias electrónicas",
-    "práctica fiscal indebida"
+    "gastos dentales",
+    "servicios profesionales",
+    "medios de pago"
   ],
   "terminos_coloquiales": [
-    "deducciones por consultas médicas",
-    "gastos en salud",
-    "pago de psicólogos",
-    "gastos por nutrición",
-    "cheque nominativo",
-    "transferencia bancaria",
-    "tarjetas de crédito"
+    "gastos médicos",
+    "honorarios médicos",
+    "psicología",
+    "nutrición",
+    "cheque",
+    "transferencias electrónicas",
+    "tarjeta de crédito",
+    "tarjeta de débito"
   ],
-  "resumen": "El artículo establece que las personas físicas pueden deducir gastos en honorarios médicos, dentales y de otros servicios de salud, siempre que se paguen mediante ciertos medios como cheques nominativos o transferencias bancarias. También se establece que los prestadores de estos servicios deben aceptar estos métodos de pago para no incurrir en prácticas fiscales indebidas.",
+  "resumen": "Los contribuyentes pueden deducir gastos por servicios médicos y dentales siempre que se realicen mediante ciertos métodos de pago. Los prestadores de estos servicios deben aceptar dichos métodos para evitar prácticas fiscales indebidas.",
   "preguntas_ejemplo": [
     "¿Qué gastos médicos puedo deducir en mi declaración?",
-    "¿Cuáles son los medios de pago aceptados para deducciones fiscales?",
-    "¿Puedo deducir consultas psicológicas?",
-    "¿Qué requisitos debo cumplir para deducir gastos en salud?",
-    "¿Cuáles son las consecuencias de no aceptar cheques nominativos?"
+    "¿Qué medios de pago son aceptables para deducir gastos médicos?",
+    "¿Puedo deducir honorarios de un psicólogo?",
+    "¿Qué tipo de gastos dentales se pueden restar de mis impuestos?",
+    "¿Qué pasa si mi médico no acepta pagos electrónicos?"
   ]
 }

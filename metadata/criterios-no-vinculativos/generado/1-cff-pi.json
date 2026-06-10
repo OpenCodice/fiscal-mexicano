@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fc654b8d4a7a51d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entrega de CFDI",
+  "denominacion_comun": "Entrega del CFDI",
   "temas": [
     "CFDI",
     "obligaciones fiscales",
-    "SAT",
-    "remisión de CFDI",
-    "certificación de CFDI",
-    "datos del cliente"
+    "certificación",
+    "datos del cliente",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "comprobante fiscal digital",
+    "factura",
+    "comprobante fiscal",
     "CFDI",
-    "actos y actividades fiscales",
-    "validación de CFDI"
+    "sello digital",
+    "RFC",
+    "clave RFC"
   ],
-  "resumen": "Los contribuyentes deben expedir y entregar el CFDI a sus clientes en el mismo acto y lugar. Si no lo hacen o trasladan la obligación al cliente, están incurriendo en prácticas fiscales indebidas.",
+  "resumen": "Los contribuyentes deben entregar el CFDI a sus clientes y permitirles proporcionar sus datos para su generación. No cumplir con estas obligaciones se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para entregar un CFDI?",
-    "¿Es obligatorio entregar el CFDI en el mismo lugar de la venta?",
-    "¿Cuáles son las obligaciones al expedir un CFDI?",
-    "¿Qué pasa si no entrego el CFDI correctamente?",
-    "¿Qué datos necesita el cliente para el CFDI?"
+    "¿Qué pasa si no entrego mi CFDI al cliente?",
+    "¿Cuáles son mis obligaciones al expedir un CFDI?",
+    "¿Qué datos necesita el cliente para recibir un CFDI?",
+    "¿Qué es una práctica fiscal indebida con respecto al CFDI?",
+    "¿Cómo se valida un CFDI antes de su entrega?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cbe51dce2f3b7b9b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asociaciones Deportivas e ISR",
+  "denominacion_comun": "Asociaciones Deportivas",
   "temas": [
-    "Asociaciones Deportivas",
     "ISR",
-    "Registro en CONADE",
+    "Impuesto sobre la Renta",
+    "Asociaciones Deportivas",
+    "Comisión Nacional del Deporte",
     "Sistema Nacional del Deporte",
-    "Ingresos acumulables",
-    "Actos de comercio"
+    "Actos de Comercio",
+    "Obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "Asociaciones Deportivas",
-    "ISR para deportes",
+    "ISR para asociaciones",
+    "impuestos de clubes deportivos",
     "CONADE",
-    "impuesto a actividades deportivas"
+    "ingresos acumulables"
   ],
-  "resumen": "Las Asociaciones Deportivas reconocidas por la CONADE no son contribuyentes del ISR, pero deben pagar este impuesto si generan ingresos por actividades comerciales que superen el 5% de sus ingresos totales. Esto incluye ingresos por contratos de patrocinio y otros servicios que se ofrezcan a terceros.",
+  "resumen": "Las Asociaciones Deportivas reconocidas por la CONADE no se consideran contribuyentes del ISR, pero deben pagar impuestos si obtienen ingresos de actividades comerciales en ciertos casos. Además, hay obligaciones fiscales que deben cumplir incluso si sus fines no son económicos.",
   "preguntas_ejemplo": [
-    "¿Las Asociaciones Deportivas tienen que pagar ISR?",
-    "¿Qué ingresos deben considerar las Asociaciones Deportivas para el ISR?",
-    "¿Qué dice la Ley del ISR sobre las Asociaciones Deportivas?",
-    "¿Qué ocurre si una Asociación Deportiva no paga ISR?",
-    "¿Cuáles son las obligaciones fiscales de las Asociaciones Deportivas?"
+    "¿Las asociaciones deportivas tienen que pagar ISR?",
+    "¿Qué ingresos deben considerar las asociaciones deportivas para el ISR?",
+    "¿Cuál es el papel de la CONADE en las asociaciones deportivas y su cumplimiento fiscal?",
+    "¿Qué es una práctica fiscal indebida para las asociaciones deportivas?",
+    "¿En qué condiciones las asociaciones deportivas son contribuyentes del ISR?"
   ]
 }

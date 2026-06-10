@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:422184c10ee812b8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso exento por pensiones",
+  "denominacion_comun": "Tratamiento fiscal de pensiones y previsión social",
   "temas": [
-    "jubilaciones",
-    "pensiones",
     "ingresos exentos",
+    "pensiones",
+    "previsión social",
+    "deducciones",
+    "aguinaldo",
     "relación laboral",
-    "deducciones fiscales",
-    "previsión social"
+    "plan de pensiones"
   ],
   "terminos_coloquiales": [
-    "pensiones exentas",
-    "tratamiento fiscal de pensiones",
-    "tipos de pensiones",
-    "ISRE",
-    "ingreso por previsión social"
+    "jubilaciones",
+    "pensiones",
+    "impuestos sobre la renta",
+    "ISR",
+    "plan de bienestar social",
+    "beneficios múltiples",
+    "previsión social"
   ],
-  "resumen": "Las cantidades otorgadas a trabajadores bajo planes de pensiones pueden no tener tratamiento de ingreso exento si no cumplen con las disposiciones legales correspondientes. Solo las pensiones concedidas de acuerdo con la seguridad social son exentas, mientras que otros pagos a trabajadores activos constituyen ingresos acumulables.",
+  "resumen": "Este criterio establece que solo los ingresos por pensiones que cumplen con la normativa de seguridad social son exentos de ISR. Los pagos a trabajadores activos bajo la apariencia de pensiones, pero que no cumplen con estas normas, son considerados ingresos acumulables y sujetos a impuesto. Además, solo se pueden deducir las aportaciones a planes de pensiones que cumplan con la legislación correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué pensiones están exentas de ISR?",
-    "¿Cómo se consideran los pagos a trabajadores bajo planes de pensiones?",
-    "¿Las aportaciones a pensiones son deducibles para el patrón?",
-    "¿Qué requisitos deben cumplirse para que una pensión sea exenta?",
-    "¿Cuáles son las implicaciones fiscales de las cantidades pagadas bajo el concepto de pensiones?"
+    "¿Qué ingresos están exentos de ISR en el caso de pensiones?",
+    "¿Puedo deducir aportaciones a un plan de pensiones?",
+    "¿Los pagos que recibo como pensión son ingresos acumulables?",
+    "¿Qué requisitos debo cumplir para que mis pensiones sean consideradas exentas?",
+    "¿Cómo se considera a los pagos por pensiones en la relación laboral?"
   ]
 }

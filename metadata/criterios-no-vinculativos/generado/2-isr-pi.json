@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9aceca6872e4444",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes de activo fijo",
   "temas": [
     "ganancia acumulable",
-    "deducciones fiscales",
-    "activo fijo",
-    "doble deducción",
-    "contabilidad",
-    "régimen de arrendamiento"
+    "deducción de inversiones",
+    "prácticas fiscales indebidas",
+    "depreciación"
   ],
   "terminos_coloquiales": [
     "venta de activos fijos",
     "ganancia por venta de bienes",
-    "deducción de depreciación",
-    "ISR sobre enajenación",
-    "RIF"
+    "doble deducción",
+    "activo fijo",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes que vendan bienes de activo fijo deben acumular la ganancia de la venta, calculándola como la diferencia entre el precio de venta y la inversión original menos deducciones previas. Además, no pueden deducir el saldo de depreciación de esos bienes si ya se ha considerado dicha deducción anteriormente.",
+  "resumen": "La ley establece que los contribuyentes que venden bienes de activo fijo deben acumular la ganancia de esa venta. La ganancia se calcula como la diferencia entre el precio de venta y la inversión original, restando las deducciones ya aplicadas. También se consideran prácticas fiscales indebidas la doble deducción de inversiones en estos bienes.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula la ganancia por la venta de un activo fijo?",
-    "¿Qué deducciones puedo aplicar al vender mis bienes?",
-    "¿Qué se considera una doble deducción en la venta de activos?",
-    "¿Cómo afecta el arrendamiento a mis deducciones fiscales?",
-    "¿Qué requisitos debo cumplir para deducir la venta de bienes de activo fijo?"
+    "¿Qué sucede si hago una doble deducción en la venta de mis bienes?",
+    "¿Qué bienes se consideran activos fijos para el ISR?",
+    "¿Cuáles son las obligaciones fiscales al vender activos fijos?",
+    "¿Puedo deducir la depreciación de un activo que ya vendí?"
   ]
 }

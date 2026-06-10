@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f81747922a6703e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento indebido de IVA",
   "temas": [
-    "Ley del IVA",
-    "Acreditamiento",
-    "Tasa del 16%",
-    "Exenciones",
-    "Prácticas fiscales indebidas"
+    "IVA",
+    "acreditamiento",
+    "exentos",
+    "tasa del 0%",
+    "obligación fiscal",
+    "práctica fiscal indebida"
   ],
   "terminos_coloquiales": [
-    "IVA indebido",
-    "mal acreditamiento",
-    "prácticas indebidas",
-    "exceso de IVA"
+    "devolución de IVA",
+    "cobro indebido de IVA",
+    "tasa del 16%",
+    "exención de IVA"
   ],
-  "resumen": "La norma establece que los contribuyentes no pueden acreditar el IVA pagado cuando se cobra un monto adicional que no corresponde a la contraprestación acordada. Esto se considera una práctica fiscal indebida y es objeto de sanción.",
+  "resumen": "El criterio establece que ciertos contribuyentes que aplican el IVA sobre operaciones que deberían estar exentas o con tasa del 0% están realizando una práctica fiscal indebida. Se considera indebido acreditar el IVA que excede la contraprestación pactada en estos casos.",
   "preguntas_ejemplo": [
     "¿Qué es el acreditamiento indebido de IVA?",
-    "¿Puedes cobrar IVA en operaciones exentas?",
-    "¿Cómo se define el acreditamiento en la Ley del IVA?",
-    "¿Qué pasa si cobro más IVA del debido?",
-    "¿Quiénes son responsables de malas prácticas en el acreditamiento de IVA?"
+    "¿Cómo se aplica la tasa del 0% en el IVA?",
+    "¿Qué prácticas fiscales son consideradas indebidas en el IVA?",
+    "¿Qué actividades están exentas del pago de IVA?",
+    "¿Qué implica la tasa del 16% en la Ley del IVA?"
   ]
 }

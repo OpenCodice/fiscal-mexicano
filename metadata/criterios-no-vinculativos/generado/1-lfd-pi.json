@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9128f627251bd6fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho Extraordinario sobre Minería",
   "temas": [
-    "enajenación de minerales",
-    "derecho extraordinario",
-    "concesiones mineras",
-    "ingresos de la minería",
-    "pago de derechos",
+    "minería",
+    "derechos fiscales",
+    "enajenación",
+    "ingresos",
+    "oro",
+    "plata",
+    "platino",
     "contraprestaciones"
   ],
   "terminos_coloquiales": [
-    "derecho de minería",
-    "derecho sobre oro y plata",
-    "DEM",
-    "impuesto sobre minería"
+    "derecho sobre minería",
+    "impuesto por venta de minerales",
+    "venta de oro",
+    "venta de plata",
+    "venta de platino",
+    "pago de derechos mineros"
   ],
-  "resumen": "El derecho extraordinario sobre minería se paga al momento de la enajenación del oro, plata y platino, independientemente de cuándo se reciban los pagos. Este derecho se aplica a los titulares de concesiones mineras y debe ser pagado anualmente.",
+  "resumen": "El derecho extraordinario sobre minería se paga al momento de la venta de oro, plata y platino, independientemente de cuándo se reciba el pago. Este impuesto corresponde a un 1% de los ingresos de la enajenación y debe pagarse anualmente por los titulares de concesiones mineras.",
   "preguntas_ejemplo": [
     "¿Cuándo debo pagar el derecho extraordinario sobre minería?",
-    "¿Qué minerales están sujetos a este derecho?",
+    "¿Qué se considera enajenación de oro, plata o platino?",
     "¿Cuál es la tasa del derecho extraordinario sobre minería?",
-    "¿Qué pasa si no pago el derecho a tiempo?",
-    "¿El pago se realiza al momento de la venta o al recibir el dinero?"
+    "¿Qué pasa si difiero el pago hasta que reciba el dinero de la venta?",
+    "¿Qué obligaciones tengo como contribuyente de derechos mineros?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a0bd34b8600438cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Alimentos preparados y su IVA",
   "temas": [
-    "tasa del IVA",
+    "IVA",
     "alimentos preparados",
+    "tasa del 0%",
+    "tasa del 16%",
     "tiendas de conveniencia",
-    "impuesto sobre la alimentación",
-    "venta de alimentos",
-    "consumo en el establecimiento"
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "IVA alimentos preparados",
-    "alimentos para llevar",
+    "IVA alimentos",
+    "comida rápida",
+    "tiendas de conveniencia",
     "comida para llevar",
-    "16% IVA en alimentos",
-    "tiendas de conveniencia"
+    "servicio a domicilio"
   ],
-  "resumen": "Los alimentos preparados para su consumo en el lugar de su venta están sujetos a un IVA del 16%. Esto incluye los alimentos que se pueden consumir sin necesidad de ser elaborados adicionalmente, incluso si son para llevar o entrega a domicilio.",
+  "resumen": "La ley establece que la enajenación de alimentos preparados para consumo en el lugar de su venta está sujeta a una tasa del 16% de IVA. Las tiendas de conveniencia no pueden aplicar la tasa del 0% en estas ventas y hacerlo se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Cuál es la tasa de IVA para los alimentos preparados?",
-    "¿Los alimentos para llevar tienen IVA del 0%?",
-    "¿Las tiendas de conveniencia pueden cobrar IVA del 0% por comida preparada?",
-    "¿Qué alimentos se consideran preparados para el consumo?",
-    "¿Qué implica la tasa del 16% en la venta de alimentos?"
+    "¿Qué tasa de IVA se aplica a la comida rápida?",
+    "¿Puedo cobrar el 0% de IVA por alimentos preparados en una tienda?",
+    "¿Cuáles son los alimentos que tienen IVA del 16%?",
+    "¿Qué prácticas fiscales son indebidas en la venta de alimentos preparados?",
+    "¿Las tiendas de conveniencia pueden vender comidas para llevar con IVA del 0%?"
   ]
 }

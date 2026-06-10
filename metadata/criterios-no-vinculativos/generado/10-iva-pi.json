@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7f50e86f038bde69",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "IVA en hospedaje por plataformas",
+  "denominacion_comun": "Impuesto al hospedaje por plataformas tecnológicas",
   "temas": [
-    "impuesto al valor agregado",
+    "IVA",
     "hospedaje",
+    "plataformas tecnológicas",
     "arrendamiento",
-    "plataformas tecnológicas"
+    "exención",
+    "contraprestación"
   ],
   "terminos_coloquiales": [
-    "IVA hospedaje",
+    "pago de IVA por hospedaje",
     "hospedaje en línea",
-    "impuesto plataformas",
-    "IVA 16%",
-    "plataformas de hospedaje"
+    "alojamiento por apps",
+    "hoteles en plataformas",
+    "Régimen del IVA"
   ],
-  "resumen": "Las personas que ofrecen hospedaje a través de plataformas tecnológicas están obligadas a pagar el IVA sobre el monto de la contraprestación. Esto se debe a que el hospedaje no está exento del impuesto, a diferencia de otras formas de uso de inmuebles que sí podrían estarlo.",
+  "resumen": "Las personas que ofrecen hospedaje a través de plataformas tecnológicas deben pagar el IVA del 16% sobre el monto de la contraprestación. Esta actividad no está exenta del impuesto, ya que el hospedaje no se considera casa habitación.",
   "preguntas_ejemplo": [
-    "¿Debo pagar IVA si ofrezco un cuarto en mi casa por plataformas?",
-    "¿Qué impuestos debo considerar si alquilo un departamento en línea?",
-    "¿El hospedaje por Airbnb tiene IVA?",
-    "¿Cómo se calcula el IVA para el servicio de hospedaje?",
-    "¿Estoy obligado a pagar IVA si alquilo mi casa amueblada?"
+    "¿Debo pagar IVA si alquilo una habitación por plataformas?",
+    "¿Qué impuesto se aplica al hospedaje ofrecido en apps?",
+    "¿Cuáles son las obligaciones fiscales al usar plataformas para hospedaje?",
+    "¿Los arrendamientos temporales están sujetos a IVA?",
+    "¿Se exime de IVA el hospedaje en bienes amueblados?",
+    "¿Qué pasa si no pago el IVA por hospedaje en línea?"
   ]
 }

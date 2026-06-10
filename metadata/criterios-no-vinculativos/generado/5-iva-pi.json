@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea06ffaf7dba5217",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de efectos salvados",
   "temas": [
-    "IVA",
-    "CFDI",
-    "Prácticas fiscales indebidas",
     "Contratos de seguro",
-    "Deducción",
-    "Créditos fiscales"
+    "CFDI",
+    "IVA",
+    "Prácticas fiscales indebidas",
+    "Efectos salvados",
+    "Costo de adquisición"
   ],
   "terminos_coloquiales": [
-    "venta de efectos salvados",
-    "costo de adquisición",
-    "iva en seguros",
-    "efectos dañados"
+    "efectos salvados",
+    "poliza de seguro",
+    "CFDI de seguros",
+    "cobro de seguros"
   ],
-  "resumen": "Las empresas aseguradoras no pueden considerar como costo de adquisición el monto pagado por el resarcimiento de daños según los contratos de seguro. Existen prácticas fiscales indebidas relacionadas con la emisión de CFDIs y el cálculo del IVA para la enajenación de efectos salvados.",
+  "resumen": "Se prohíbe expedir CFDIs que indiquen como precio la cantidad resarcida por aseguradoras por efectos salvados. Además, no se puede deducir el IVA de estos CFDIs ni considerar el monto como costo de adquisición.",
   "preguntas_ejemplo": [
-    "¿Puedo cobrar IVA por la venta de un bien salvado tras un seguro?",
-    "¿Qué pasa si emito un CFDI por el monto asegurado?",
-    "¿Cómo se determina el costo de adquisición de lo salvado?",
-    "¿Qué prácticas fiscales son criticadas en este criterio?",
-    "¿Puedo deducir el IVA si se basa en una indemnización?"
+    "¿Qué hacer si mi aseguradora me paga por un daño?",
+    "¿Puedo facturar el dinero que recibí de mi seguro?",
+    "¿Es correcto cobrar IVA por una venta de efectos salvados?",
+    "¿Qué implicaciones fiscales tienen los contratos de seguro?",
+    "¿Cómo afecta el IVA a la enajenación de efectos salvados?"
   ]
 }

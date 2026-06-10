@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e1710819644afd4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de servicios",
   "temas": [
-    "deducción de erogaciones",
+    "deducciones",
     "prestación de servicios",
-    "requisitos de deducción",
-    "comprobantes fiscales",
-    "prácticas fiscales indebidas"
+    "comprobante fiscal",
+    "actividad del contribuyente",
+    "gastos no deducibles"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "gastos deducibles",
-    "servicios profesionales"
+    "deducibles",
+    "gastos de servicios",
+    "comprobantes",
+    "gastos que no se pueden deducir"
   ],
-  "resumen": "El criterio establece que las erogaciones por servicios no son deducibles si no se acredita que el servicio fue efectivamente prestado. Además, se detalla que deben cumplir con requisitos específicos para ser consideradas deducibles para el ISR.",
+  "resumen": "Las erogaciones por prestación de servicios solo son deducibles si se acredita que el servicio fue efectivamente prestado. Si no hay evidencia de la prestación, aunque exista un comprobante fiscal, la erogación no se considera deducible para el ISR.",
   "preguntas_ejemplo": [
-    "¿Qué gastos se pueden deducir por servicios?",
-    "¿Necesito comprobar la prestación de un servicio para deducirlo?",
-    "¿Qué requisitos tienen que cumplir las deducciones por servicios?"
+    "¿Qué servicios puedo deducir en mi declaración de impuestos?",
+    "¿Qué requisitos debe cumplir un gasto para ser deducible?",
+    "¿Qué pasa si no tengo comprobante de un servicio que pagué?",
+    "¿Cómo demostrar que efectivamente recibí un servicio para que sea deducible?",
+    "¿Cuáles son las consecuencias de deducir un gasto sin comprobar su prestación?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2fd8f0bb99f3c8e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del IVA por adquisición de bienes de residentes en el extranjero",
+  "denominacion_comun": "Retención de IVA por adquisición de bienes",
   "temas": [
-    "retención del impuesto",
     "IVA",
+    "retención de impuestos",
     "adquisición de bienes",
     "residentes en el extranjero",
-    "obligaciones fiscales"
+    "obligaciones fiscales",
+    "importación",
+    "práctica fiscal indebida"
   ],
   "terminos_coloquiales": [
     "retención de IVA",
-    "IVA por compras a extranjeros",
-    "obligaciones de retención",
-    "Ley del IVA",
-    "Art. 1o.-A"
+    "comprar a un extranjero",
+    "bien propiedad de extranjero"
   ],
-  "resumen": "Las personas físicas y morales que compran bienes en México de un residente en el extranjero sin establecimiento en el país están obligadas a retener el IVA, a menos que solo importen bienes. Quienes no realicen esta retención, estando obligados, cometen una práctica fiscal indebida.",
+  "resumen": "Los contribuyentes que compran bienes en México de un residente extranjero sin establecimiento en el país deben retener el IVA cuando realizan actividades gravadas. Si no lo hacen, están incurriendo en una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Qué es la retención del IVA por bienes de extranjeros?",
-    "¿Cuándo debo retener IVA si compro a un extranjero?",
-    "¿Qué pasa si no retengo el IVA en estas compras?",
-    "¿Quién está obligado a retener el impuesto al comprar a residentes en el extranjero?",
-    "¿Qué dice la Ley del IVA sobre la retención del impuesto?"
+    "¿Tengo que retener IVA si compro bienes de un extranjero?",
+    "¿Qué pasa si no retengo el IVA al adquirir bienes en México de un residente extranjero?",
+    "¿Quiénes están obligados a retener IVA en estas compras?",
+    "¿Se aplica el IVA si solo importo bienes?",
+    "¿Qué se considera actividad gravada para retener el IVA?"
   ]
 }

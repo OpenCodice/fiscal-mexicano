@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e2f1909dd0010a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donataria Autorizada y Modificación de Estatutos",
+  "denominacion_comun": "Donatarias Autorizadas",
   "temas": [
     "donativos deducibles",
-    "personas morales",
-    "fines no lucrativos",
-    "modificación de estatutos",
+    "estatutos sociales",
+    "contrato de fideicomiso",
     "patrimonio",
+    "actividades no lucrativas",
     "liquidación",
-    "fideicomisos",
-    "actividades autorizadas"
+    "revocación de autorización",
+    "modificación de estatutos"
   ],
   "terminos_coloquiales": [
-    "donataria autorizada",
-    "estatutos de fideicomiso",
-    "modificación de estatutos",
-    "donativos deducibles de impuestos"
+    "donatarias",
+    "fideicomisos",
+    "donativos",
+    "modificar estatutos",
+    "deducibles"
   ],
-  "resumen": "Las personas morales autorizadas para recibir donativos deducibles deben ajustar sus estatutos y contratos de fideicomiso para no realizar actividades no relacionadas con su objeto social. Además, deben destinar sus activos a instituciones autorizadas en caso de liquidación o cancelación de su autorización.",
+  "resumen": "Las donatarias autorizadas deben destinar sus activos exclusivamente a los fines para los cuales fueron autorizadas. No pueden modificar sus estatutos para incluir actividades no relacionadas o transferir su patrimonio a personas no autorizadas. Al liquidarse, deberán destinar su patrimonio a otras entidades con la misma autorización.",
   "preguntas_ejemplo": [
-    "¿Qué es una donataria autorizada?",
-    "¿Cómo deben ser los estatutos de una institución que recibe donativos deducibles?",
-    "¿Qué pasa si modifican sus estatutos y afectan su autorización de donativos?",
-    "¿Qué obligaciones tienen las organizaciones civiles con fines no lucrativos?",
-    "¿Pueden las donatarias otorgar beneficios a sus integrantes?",
-    "¿Qué ocurre si una donataria se liquida?"
+    "¿Qué son las donatarias autorizadas?",
+    "¿Cómo puedo modificar los estatutos de una donataria?",
+    "¿Qué pasa si una donataria no destina su patrimonio correctamente?",
+    "¿Cuáles son los requisitos para recibir donativos deducibles?",
+    "¿Qué ocurre con el patrimonio al liquidar una donataria?"
   ]
 }

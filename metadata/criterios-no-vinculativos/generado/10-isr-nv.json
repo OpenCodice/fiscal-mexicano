@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80d020f76259f798",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inversiones de organizaciones civiles y fideicomisos",
   "temas": [
     "donativos deducibles",
-    "personas morales no lucrativas",
+    "organizaciones civiles",
+    "fideicomisos",
     "prácticas fiscales indebidas",
-    "destino de ingresos y activos"
+    "objetivo social"
   ],
   "terminos_coloquiales": [
-    "organizaciones civiles",
-    "fideicomisos autorizados",
-    "donativos deducibles"
+    "donativos deducibles",
+    "fideicomisos",
+    "ONG",
+    "asociaciones civiles"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles deben destinar sus ingresos y activos solo a sus fines sociales. No pueden distribuir beneficios a personas físicas a menos que se trate de otras entidades autorizadas.",
+  "resumen": "Las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles deben destinar sus ingresos y activos a sus fines propios. No pueden distribuir remanentes a personas físicas ni destinar su patrimonio a ciertas inversiones no autorizadas.",
   "preguntas_ejemplo": [
-    "¿Qué pueden hacer las organizaciones civiles con los donativos que reciben?",
-    "¿Pueden las organizaciones civiles invertir en acciones?",
-    "¿Qué significa que un donativo sea deducible?",
-    "¿Cuáles son las prácticas fiscales indebidas para organizaciones sin fines de lucro?",
-    "¿Qué requisitos deben cumplir los fideicomisos para recibir donativos deducibles?"
+    "¿Qué organizaciones pueden recibir donativos deducibles?",
+    "¿Qué pueden hacer con los ingresos que reciben?",
+    "¿Qué inversiones están prohibidas para organizaciones civiles?",
+    "¿Qué es una práctica fiscal indebida para una ONG?",
+    "¿Cómo se regulan las inversiones de fideicomisos?"
   ]
 }

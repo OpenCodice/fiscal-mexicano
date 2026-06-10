@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7a82475fb8f32b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento del IVA",
   "temas": [
-    "IVA",
-    "ISR",
-    "Compensación de impuestos",
-    "Saldos a favor"
+    "impuesto al valor agregado",
+    "retenciones de ISR",
+    "saldos a favor",
+    "compensación de impuestos",
+    "actividades exentas",
+    "documentación fiscal",
+    "obligaciones fiscales",
+    "entes públicos",
+    "contabilidad"
   ],
   "terminos_coloquiales": [
-    "acreditar IVA",
-    "saldos a favor",
-    "compensar IVA con ISR",
-    "Ley del IVA",
-    "IVA improcedente"
+    "acreditar el IVA",
+    "compensar impuestos",
+    "saldos a favor de IVA",
+    "retenciones de ISR",
+    "Federación",
+    "CDMX",
+    "estados y municipios"
   ],
-  "resumen": "Los entes públicos no pueden acreditar el IVA sin cumplir con los requisitos establecidos en la ley. Solo podrán hacerlo en actividades que generen la obligación de pagar el impuesto y no a través de la compensación de saldos a favor del IVA con retenciones del ISR.",
+  "resumen": "El criterio establece que los entes públicos no pueden acreditar el IVA que les ha sido trasladado si no cumplen con los requisitos de la ley. Solo puede acreditarse el IVA relacionado con actividades gravadas y se prohíbe compensar saldos a favor del IVA contra retenciones de ISR.",
   "preguntas_ejemplo": [
-    "¿Puedo acreditar el IVA si no cumplo con los requisitos de la ley?",
-    "¿Es posible compensar saldos a favor de IVA contra el ISR?",
-    "¿Qué sucede si un ente público obtiene un saldo a favor de IVA?",
+    "¿Puedo usar mi saldo a favor de IVA para pagar retenciones de ISR?",
     "¿Cuáles son los requisitos para acreditar el IVA?",
-    "¿Qué prácticas son consideradas indebidas en relación al IVA?",
-    "¿Cómo afecta el acreditamiento del IVA a las retenciones del ISR?"
+    "¿Qué pasa si un ente público no cumple con las obligaciones fiscales para acreditar el IVA?",
+    "¿Cómo se determina un saldo a favor del IVA?",
+    "¿Qué actividades permiten el acreditamiento del IVA?"
   ]
 }

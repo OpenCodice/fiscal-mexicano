@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e19630d01b435915",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención a residentes en el extranjero",
+  "denominacion_comun": "Retención de IVA a residentes en el extranjero",
   "temas": [
     "Ley del IVA",
-    "Retención de impuestos",
-    "Residentes en el extranjero",
-    "Establecimiento permanente",
-    "Bienes tangibles",
-    "Práctica fiscal indebida"
+    "retención de impuestos",
+    "residentes en el extranjero",
+    "establecimiento permanente",
+    "bien tangible",
+    "enajenación",
+    "uso o goce temporal"
   ],
   "terminos_coloquiales": [
-    "retención a extranjeros",
-    "IVA a extranjeros",
-    "residente en el extranjero",
-    "práctica fiscal indebida"
+    "retención de IVA",
+    "residencias fiscales",
+    "compras en el extranjero",
+    "residentes extranjeros",
+    "IVA de bienes",
+    "retención a extranjeros"
   ],
-  "resumen": "Las personas que compran bienes tangibles a residentes en el extranjero sin establecimiento en el país deben retener el IVA correspondiente. Se considera práctica fiscal indebida no realizar esta retención si se confunde al residente en el extranjero con un residente nacional.",
+  "resumen": "El criterio establece que las personas que compren bienes a residentes en el extranjero sin establecimiento permanente en México deben retener el IVA correspondiente. Si no cumplen con esta obligación, se considera que están realizando una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Qué es la retención del IVA a residentes en el extranjero?",
-    "¿Cuándo debo retener IVA a un extranjero?",
-    "¿Qué sucede si no retengo el IVA a un residente en el extranjero?",
-    "¿Qué significa establecimiento permanente en el país?",
-    "¿Qué implica la práctica fiscal indebida en este contexto?"
+    "¿Qué es la retención de IVA a residentes en el extranjero?",
+    "¿Cuándo debo retener IVA al comprar bienes de extranjeros?",
+    "¿Qué pasa si no retengo el IVA a un residente en el extranjero?",
+    "¿Qué se considera establecimiento permanente en México?",
+    "¿Cómo afecta la residencia fiscal al pagar IVA?",
+    "¿Qué bienes tangibles están sujetos a retención de IVA?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fbc8746fa83c6975",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Mercancía deteriorada o que perdió valor",
+  "denominacion_comun": "Deducción de mercancías deterioradas",
   "temas": [
-    "deducción de mercancías",
+    "deducción fiscal",
+    "mercancías deterioradas",
     "donativos deducibles",
-    "ley del ISR",
-    "bienes deteriorados",
-    "prácticas fiscales indebidas"
+    "costo de lo vendido",
+    "base gravable"
   ],
   "terminos_coloquiales": [
     "mercancías dañadas",
-    "mercancías en mal estado",
-    "donaciones no deducibles"
+    "donaciones no deducibles",
+    "deducir inventarios",
+    "donar mercancías",
+    "Ley del ISR"
   ],
-  "resumen": "La ley permite deducir mercancías que han sufrido deterioro, pero establece que no se puede deducir una donación de esos bienes si ya fueron deducidos de los inventarios. Además, prohíbe hacer una doble deducción por donativos de mercancías deterioradas.",
+  "resumen": "El criterio establece que las mercancías que se deterioran y que se donan no pueden ser deducidas dos veces, es decir, no se puede deducir su costo y además deducir la donación. Las donaciones deben hacerse a instituciones autorizadas y no pueden ser deducidas si ya fueron registradas como pérdidas en los inventarios.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mercancías que se dañaron?",
-    "¿Es posible donar mercancías deterioradas y deducir esa donación?",
-    "¿Qué dice la ley sobre bienes que perdieron su valor?",
-    "¿Cuáles son las implicaciones fiscales de donar bienes dañados?",
-    "¿Qué tipos de donativos son deducibles según la Ley del ISR?"
+    "¿Puedo deducir mercancías que se han dañado y que voy a donar?",
+    "¿Qué pasa si dono mercancías deterioradas?",
+    "¿Las donaciones a instituciones benéficas son deducibles?",
+    "¿Cómo afecta la deducción de inventarios en mis donaciones?",
+    "¿Puedo deducir una mercancía que ya doné?",
+    "¿Qué requisitos debo cumplir para donar mercancías y deducirlas?"
   ]
 }

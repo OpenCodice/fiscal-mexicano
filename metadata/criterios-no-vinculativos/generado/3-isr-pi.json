@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fdd2b6a971576f3d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reservas para pensiones y jubilaciones",
+  "denominacion_comun": "Reservas para pensiones o jubilaciones",
   "temas": [
     "deducción de intereses",
     "fideicomisos",
-    "fondos de pensiones",
+    "reservas",
+    "pensiones",
     "jubilaciones",
+    "complementarias LSS",
     "primas de antigüedad"
   ],
   "terminos_coloquiales": [
-    "deducción de intereses en pensiones",
-    "reservas para pensiones",
-    "fideicomiso de pensiones",
-    "ISR pensiones"
+    "fondos de pensiones",
+    "fideicomitente",
+    "fideicomiso",
+    "no deducibles",
+    "LSS",
+    "intereses no deducibles",
+    "reservas para jubilación"
   ],
-  "resumen": "Los intereses generados por la inversión de los fondos para reservas de pensiones o jubilaciones no son deducibles para el contribuyente, ya que se considera una práctica fiscal indebida. Esto se debe a que esos fondos, al estar en un fideicomiso, ya no pertenecen al fideicomitente.",
+  "resumen": "Los intereses generados por los fondos destinados a reservas para pensiones o jubilaciones no se pueden deducir para el contribuyente que hace la inversión. Esto se considera una práctica fiscal indebida para el fideicomitente.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los intereses generados por mis fondos de pensiones?",
-    "¿Qué dice la Ley del ISR sobre las reservas de jubilaciones?",
-    "¿Es posible deducir inversiones en fideicomisos para pensiones?",
-    "¿Qué implica la no deducibilidad de intereses para mi fondo de jubilación?",
-    "¿Qué pasa si deduzco intereses de fondos de pensiones?"
+    "¿Puedo deducir los intereses de mis fondos de pensiones?",
+    "¿Qué son las reservas para jubilaciones?",
+    "¿Por qué no se pueden deducir los intereses de los fideicomisos para pensiones?",
+    "¿Qué implica ser fideicomitente en este contexto?",
+    "¿Cuáles son las consecuencias de deducir intereses no permitidos?",
+    "¿Qué tipo de fondos son considerados para jubilación?"
   ]
 }

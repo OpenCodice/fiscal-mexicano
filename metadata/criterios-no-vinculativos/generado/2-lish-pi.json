@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c4552cadb32950f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Establecimiento Permanente según la LISH",
+  "denominacion_comun": "Establecimiento permanente",
   "temas": [
-    "establecimiento permanente",
-    "residente en el extranjero",
-    "actividades de hidrocarburos",
+    "Establecimiento permanente",
     "Ley de Hidrocarburos",
-    "actividades en territorio nacional",
-    "zonas económicas exclusivas"
+    "Actividades fiscales",
+    "Residente en el extranjero",
+    "Territorio nacional",
+    "Práctica fiscal indebida"
   ],
   "terminos_coloquiales": [
     "establecimiento permanente",
-    "LISH",
-    "actividades hidrocarburíferas"
+    "actividades de hidrocarburos",
+    "residente extranjero",
+    "Ley LISH",
+    "Ley de Hidrocarburos"
   ],
-  "resumen": "La LISH establece que se considera un establecimiento permanente al residente en el extranjero que realice actividades relacionadas con la Ley de Hidrocarburos en territorio nacional o en zonas económicas exclusivas por más de 30 días en un periodo de 12 meses. Esto incluye diversas actividades como la exploración y extracción de hidrocarburos.",
+  "resumen": "El establecimiento permanente se constituye cuando un residente en el extranjero realiza actividades relacionadas con la Ley de Hidrocarburos en México, si estas actividades suman más de 30 días en un periodo de 12 meses. Se considera incorrecto limitar estas actividades solo a las de contratistas o asignatarios.",
   "preguntas_ejemplo": [
     "¿Qué es un establecimiento permanente según la LISH?",
-    "¿Cuándo se considera que un extranjero tiene un establecimiento permanente en México?",
-    "¿Qué actividades se consideran para establecer un establecimiento permanente en la Ley de Hidrocarburos?",
-    "¿Cuál es el impacto fiscal del establecimiento permanente en la LISH?",
-    "¿Qué dice la Ley de Hidrocarburos sobre el establecimiento permanente?",
-    "¿Cuáles son las prácticas fiscales indebidas relacionadas con el establecimiento permanente?"
+    "¿Cuáles son las actividades que se consideran para un establecimiento permanente?",
+    "¿Cómo se determina si un residente en el extranjero tiene un establecimiento permanente en México?",
+    "¿Qué actividades de hidrocarburos se regulan en la LISH?",
+    "¿Qué prácticas fiscales son indebidas en relación con el establecimiento permanente?"
   ]
 }

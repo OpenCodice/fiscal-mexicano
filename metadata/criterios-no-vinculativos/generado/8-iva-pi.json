@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0236881c1473dc57",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Traslado indebido de IVA",
@@ -14,22 +15,22 @@
     "cosecha",
     "recolección",
     "transporte de bienes",
-    "impuesto",
+    "servicios",
     "actividades agropecuarias"
   ],
   "terminos_coloquiales": [
-    "traslado indebido de IVA",
-    "cosecha y recolección",
-    "transportes agrícolas",
     "IVA del 0%",
-    "IVA del 16%"
+    "IVA del 16%",
+    "servicios de transporte",
+    "cosecha de frutos",
+    "recolección de cosechas"
   ],
-  "resumen": "El transporte de bienes no se considera parte de la cosecha y recolección, y por lo tanto, no puede aplicar la tasa del 0% del IVA. Aquellos que lo hagan están incurriendo en una práctica fiscal indebida.",
+  "resumen": "El criterio establece que el servicio de transporte de bienes no debe confundirse con los servicios de cosecha y recolección, los cuales están sujetos a un IVA del 0%. Si un contribuyente incurre en esta confusión y aplica el IVA del 0% en el transporte, está incurriendo en una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Se puede trasladar mercancía a tasa del 0% si es para actividades agropecuarias?",
-    "¿Qué significa cosecha y recolección en términos fiscales?",
-    "¿Qué pasa si aplico el IVA del 0% al transporte de bienes?",
-    "¿Cuál es la tasa correcta de IVA para el transporte de mercancías?",
-    "¿Qué actividades gravan el IVA al 16%?"
+    "¿Se puede aplicar el IVA del 0% al transporte de bienes para actividades agropecuarias?",
+    "¿Cuáles son las diferencias entre cosecha, recolección y transporte de bienes?",
+    "¿Qué tasa de IVA se debe aplicar en la recolección de productos agrícolas?",
+    "¿Qué sucede si un contribuyente aplica el IVA del 0% en un servicio de transporte?",
+    "¿Cuáles son las consecuencias de considerar erróneamente el servicio de transporte como cosecha?"
   ]
 }

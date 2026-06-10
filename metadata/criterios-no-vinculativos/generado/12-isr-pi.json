@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:624e50d5dc5d9c8e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de certificados inmobiliarios",
   "temas": [
     "ISR",
     "IVA",
-    "enajenación",
     "casa habitación",
     "certificados inmobiliarios",
-    "práctica fiscal indebida",
-    "membresías de tiempo compartido"
+    "prácticas fiscales indebidas",
+    "tiempo compartido",
+    "derechos sobre inmuebles"
   ],
   "terminos_coloquiales": [
-    "certificados inmobiliarios",
-    "enajenación de propiedades",
-    "no pago de ISR por casas",
     "certificados de participación inmobiliaria",
-    "membresías de tiempo compartido"
+    "certificados inmobiliarios",
+    "casa habitación",
+    "tiempo compartido",
+    "vacaciones",
+    "viajes"
   ],
-  "resumen": "La ley establece que no se paga ISR por la venta de casas habitación, pero no aplica para la enajenación de certificados inmobiliarios que representan membresías de tiempo compartido. Se considera indebido considerar estos certificados como casa habitación para fines fiscales.",
+  "resumen": "La ley establece que no se paga ISR por la venta de casa habitación, pero prohíbe considerar ciertos certificados inmobiliarios como enajenación de casa. También se detalla que algunas prácticas fiscales en relación a esos certificados son indebidas.",
   "preguntas_ejemplo": [
-    "¿Se paga ISR por la venta de una casa habitación?",
-    "¿Qué pasa con los certificados de participación inmobiliaria?",
-    "¿Es legal vender membresías de tiempo compartido sin pagar impuestos?",
-    "¿Qué es una práctica fiscal indebida en este contexto?",
-    "¿Puedo evitar el IVA al vender un certificado inmobiliario?",
-    "¿Qué dice la ley sobre la enajenación de bienes inmuebles?"
+    "¿Qué pasa si vendo un certificado de tiempo compartido?",
+    "¿No tengo que pagar impuestos si vendo mi casa?",
+    "¿Se considera enajenación de casa habitación la venta de un certificado inmobiliario?",
+    "¿Qué son las prácticas fiscales indebidas en la enajenación de certificados inmobiliarios?",
+    "¿Cuáles son las excepciones del ISR e IVA en la venta de certificados inmobiliarios?"
   ]
 }

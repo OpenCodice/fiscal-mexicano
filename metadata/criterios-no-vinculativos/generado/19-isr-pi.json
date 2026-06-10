@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:677afe42fd7830d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de pagos a sindicatos",
   "temas": [
-    "deducciones autorizadas",
+    "deducción de impuestos",
     "sindicatos",
-    "IVA acreditable",
-    "práctica fiscal indebida",
-    "comprobantes fiscales",
-    "requisitos de deducción"
+    "gastos no deducibles",
+    "requisitos fiscales"
   ],
   "terminos_coloquiales": [
-    "deducciones a sindicatos",
     "pagos a sindicatos",
-    "deducción ISR sindicatos",
-    "ISR sindicatos",
-    "IVA sindicatos"
+    "deducción de sindicato",
+    "gastos sindicales",
+    "no deducible",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "Las aportaciones a sindicatos para cubrir gastos no son deducibles para el ISR, ya que no son indispensables para la actividad del contribuyente. Además, los sindicatos no expiden comprobantes fiscales para dichos pagos, incumpliendo así con los requisitos legales.",
+  "resumen": "Los pagos realizados a sindicatos no son deducibles para efectos del ISR, ya que no son considerados gastos indispensables para la actividad del contribuyente. Además, los sindicatos no expiden comprobantes fiscales por estas erogaciones, lo que afecta el acreditamiento del IVA.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los pagos que le hago a los sindicatos?",
-    "¿Son deducibles las aportaciones a sindicatos para ISR?",
-    "¿Cómo afecta el pago a sindicatos en mis impuestos?",
-    "¿Qué requisitos deben cumplir las deducciones para ser válidas?",
-    "¿Por qué los pagos a sindicatos no son acreditables en el IVA?",
-    "¿Los sindicatos deben expedir comprobantes fiscales por sus servicios?"
+    "¿Puedo deducir los pagos que hago a mi sindicato?",
+    "¿Los pagos al sindicato son deducibles de impuestos?",
+    "¿Qué gastos no son deducibles en el ISR?",
+    "¿Los sindicatos tienen que dar recibos por aportaciones?",
+    "¿La aportación a sindicatos afecta mi IVA?"
   ]
 }

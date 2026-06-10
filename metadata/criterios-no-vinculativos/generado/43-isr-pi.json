@@ -6,34 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:56ca8b979ca56b44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos a trabajadores y socios",
+  "denominacion_comun": "Incentivos laborales y su tratamiento fiscal",
   "temas": [
     "ISR",
     "incentivos laborales",
     "bonos",
     "comisiones",
     "compensaciones",
+    "impuestos retenidos",
     "deducciones",
-    "retenciones",
-    "ingresos acumulables"
+    "IVA",
+    "ingresos gravados"
   ],
   "terminos_coloquiales": [
-    "pagos a empleados",
-    "bonos laborales",
+    "incentivos laborales",
+    "bonos",
     "comisiones",
     "compensaciones",
-    "ingresos exentos",
-    "ISR",
-    "CFDI"
+    "aguinaldo",
+    "impuesto sobre la renta",
+    "ISR"
   ],
-  "resumen": "Las cantidades pagadas a trabajadores, socios o accionistas bajo conceptos como incentivos laborales o bonos se consideran ingresos gravados y están sujetas a retención del ISR. Esto significa que no pueden considerarse como ingresos exentos, y los pagos realizados deben ser reportados adecuadamente.",
+  "resumen": "Las cantidades pagadas a trabajadores, socios o accionistas bajo conceptos como incentivos laborales, bonos o comisiones son consideradas ingresos sujetos al ISR y no exentos. Los patrones están obligados a retener y enterar el ISR correspondiente. Además, los pagos realizados a través de terceros no cambian esta obligación fiscal.",
   "preguntas_ejemplo": [
-    "¿Los bonos y comisiones que reciben mis empleados están gravados por ISR?",
-    "¿Puedo deducir los pagos a socios por concepto de incentivos laborales?",
-    "¿Qué debo hacer si no retuve ISR sobre los pagos a mis trabajadores?",
-    "¿Son los pagos por compensaciones laborales considerados ingresos acumulables?",
-    "¿Cómo se reportan los ingresos por bonos y comisiones para efectos del ISR?"
+    "¿Los bonos que se les dan a los empleados están sujetos a ISR?",
+    "¿Puedo considerar las compensaciones laborales como ingresos exentos?",
+    "¿Qué debo hacer si pago comisiones a través de una asociación?",
+    "¿Es correcto no retener ISR por incentivos laborales?",
+    "¿Los pagos por compensaciones por invención generan ISR?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b6eb44954fd4d87f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Indebida deducción de pérdidas por enajenación de nuda propiedad",
   "temas": [
-    "úsufructo",
+    "usufructo",
     "nuda propiedad",
-    "deducciones fiscales",
     "pérdidas fiscales",
     "enajenación de bienes",
+    "Ley del ISR",
+    "deducciones",
     "personas morales",
     "personas físicas"
   ],
   "terminos_coloquiales": [
     "deducción de pérdidas",
-    "pérdidas por enajenación",
-    "nuda propiedad",
-    "ISR",
-    "usufructo"
+    "venta de propiedades",
+    "perdida fiscal",
+    "bienes inmuebles",
+    "USO",
+    "nudo propietario"
   ],
-  "resumen": "El criterio señala que no se pueden deducir pérdidas fiscales por la enajenación de la nuda propiedad de un bien inmueble si se considera el costo de adquisición sin tener en cuenta que dicho bien está sujeto a un usufructo. Esto se considera una práctica fiscal indebida.",
+  "resumen": "El criterio establece que no se pueden determinar pérdidas fiscales en la enajenación de la nuda propiedad de bienes inmuebles si estos están sujetos a usufructo. Es una práctica indebida hacerlo al comparar el precio de enajenación con el costo de adquisición sin considerar el usufructo.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir pérdidas por vender la nuda propiedad de un inmueble que tiene usufructo?",
-    "¿Qué pasa si vendo la nuda propiedad y declaro una pérdida fiscal?",
-    "¿Es correcto deducir pérdidas por bienes en usufructo?",
-    "¿Qué dice la Ley del ISR sobre la enajenación de nuda propiedad?",
-    "¿Cómo afecta el usufructo la deducción de pérdidas fiscales?"
+    "¿Puedo deducir pérdidas si vendo la nuda propiedad de un inmueble con usufructo?",
+    "¿Qué ocurre si enajeno un bien con usufructo?",
+    "¿Cómo afecta el usufructo a mis deducciones fiscales?",
+    "¿Qué es la nuda propiedad en términos fiscales?",
+    "¿Qué debo considerar al vender bienes inmuebles con usufructo?"
   ]
 }

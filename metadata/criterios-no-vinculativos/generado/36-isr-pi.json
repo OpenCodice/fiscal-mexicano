@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5827313ce6dcada7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de impuesto sobre dividendos",
+  "denominacion_comun": "Impuesto sobre dividendos distribuidos",
   "temas": [
-    "dividendos",
     "impuesto adicional",
-    "retención",
-    "comprobante fiscal",
+    "dividendos",
+    "retención de impuestos",
+    "comprobantes fiscales",
+    "utilidades",
     "personas morales",
     "mercados reconocidos",
-    "utilidades"
+    "cuentas de utilidad",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos sobre dividendos",
-    "retención de ISR",
-    "dividendos en mercados extranjeros",
-    "ISD",
-    "impuesto sobre dividendos"
+    "impuesto sobre dividendos",
+    "retención de 10%",
+    "comprobante fiscal CFDI",
+    "dividendos de empresas",
+    "utilidades para extranjeros"
   ],
-  "resumen": "Las personas morales en México deben retener un impuesto del 10% sobre los dividendos que distribuyen, incluyendo aquellos que provienen de acciones en mercados extranjeros. Deben proporcionar un comprobante fiscal que indique el monto del dividendo y el impuesto retenido.",
+  "resumen": "La disposición establece que las personas morales que distribuyen dividendos deben retener un 10% de este impuesto y emitir comprobantes fiscales. Si las utilidades provienen de acciones en mercados extranjeros, deben cumplir con estas obligaciones, y en caso de no hacerlo, se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto sobre los dividendos?",
-    "¿Qué antecedentes hay sobre el pago de ISR por dividendos en mercados extranjeros?",
-    "¿Qué pasa si no retengo el impuesto sobre dividendos?",
-    "¿Cuándo se debe emitir el comprobante fiscal por dividendos?",
-    "¿Quiénes están obligados a retener el ISR sobre dividendos?",
-    "¿Qué es el impuesto adicional sobre dividendos?"
+    "¿Cuánto impuesto debo retener al pagar dividendos?",
+    "¿Qué comprobante debo emitir al distribuir utilidades?",
+    "¿La retención del 10% se aplica a dividendos de acciones extranjeras?",
+    "¿Qué pasa si no retengo el impuesto sobre los dividendos?",
+    "¿Cómo se manejan las cuentas de utilidad fiscal neta?"
   ]
 }

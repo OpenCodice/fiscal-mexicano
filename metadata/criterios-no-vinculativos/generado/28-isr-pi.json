@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f1fb0074b37f713",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos federativos de los deportistas",
   "temas": [
-    "derechos federativos",
-    "gastos diferidos",
+    "deducciones fiscales",
     "inversiones",
-    "deducciones",
-    "asociaciones deportivas",
+    "gastos diferidos",
+    "derechos federativos",
     "clubes deportivos",
-    "derecho de exclusividad"
+    "asociaciones deportivas",
+    "activos intangibles",
+    "relación laboral",
+    "exclusividad"
   ],
   "terminos_coloquiales": [
+    "derechos federativos",
     "carta de derechos",
-    "derechos de exclusividad"
+    "gastos diferidos",
+    "deducción de gastos",
+    "clubes deportivos",
+    "asociaciones deportivas"
   ],
-  "resumen": "Los derechos federativos de los deportistas, adquiridos por clubes deportivos, se consideran inversiones bajo la modalidad de gastos diferidos, permitiendo su uso y disfrute por un periodo limitado. Las deducciones de estas erogaciones son consideradas prácticas fiscales indebidas bajo ciertas condiciones.",
+  "resumen": "Los clubes deportivos pueden adquirir derechos federativos, que son considerados inversiones bajo la modalidad de gastos diferidos. Sin embargo, no pueden deducir los pagos realizados para terminar la relación laboral con el atleta ni las erogaciones relacionadas con la adquisición de dichos derechos.",
   "preguntas_ejemplo": [
-    "¿Qué son los derechos federativos de un deportista?",
-    "¿Cómo se consideran los gastos en derechos federativos para fines fiscales?",
-    "¿Cuáles son las deducciones permitidas por la Ley del ISR en relación a derechos federativos?",
-    "¿Pueden los clubes deportivos deducir los gastos de adquisición de derechos federativos?",
-    "¿Qué significa un derecho de exclusividad en el deporte?"
+    "¿Qué son los derechos federativos en el deporte?",
+    "¿Puedo deducir los gastos de compra de derechos federativos?",
+    "¿Qué se considera una inversión en la Ley del ISR?",
+    "¿Qué implica la carta de derechos en los clubes deportivos?",
+    "¿Las deducciones de derechos federativos son legales?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ada3f3f7600f5a99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Itinerancia internacional de servicios",
+  "denominacion_comun": "Servicio de itinerancia internacional",
   "temas": [
-    "servicios de itinerancia",
-    "Ley del IVA",
-    "exportación de servicios",
+    "servicios exportados",
+    "telefonía celular",
     "tasa del IVA",
-    "telefonía celular"
+    "práctica fiscal indebida"
   ],
   "terminos_coloquiales": [
-    "itinerancia",
+    "itinerancia internacional",
+    "roaming",
     "servicio de roaming",
-    "roaming internacional",
-    "IVA en itinerancia",
-    "tasa del 16%"
+    "Servicios de telefonía en el extranjero"
   ],
-  "resumen": "La prestación de servicios de itinerancia internacional por operadores de telefonía celular en México no se considera exportación de servicios y, por lo tanto, está sujeta a una tasa del IVA del 16%. Los operadores que apliquen incorrectamente la tasa del 0% están incurriendo en una práctica fiscal indebida.",
+  "resumen": "El servicio de itinerancia internacional prestado por operadores de telefonía celular en México no se considera como exportación de servicios, por lo que se deberá aplicar la tasa del 16% de IVA en lugar del 0%.",
   "preguntas_ejemplo": [
-    "¿Cuál es la tasa de IVA aplicable a los servicios de itinerancia internacional?",
-    "¿Los servicios de roaming se consideran exportación de servicios?",
-    "¿Qué deben hacer los operadores de telefonía que facturan itinerancia internacional?",
-    "¿A quién se le aplica la tasa del 0% en la Ley del IVA?",
-    "¿Qué implica la prestación de servicios de itinerancia por operadores en México?"
+    "¿Qué tasa de IVA se aplica a la itinerancia internacional?",
+    "¿Por qué no es considerado un servicio exportado el roaming?",
+    "¿Los operadores de telefonía pueden cobrar IVA del 0% por servicio de itinerancia?",
+    "¿Qué implica la práctica fiscal indebida en el servicio de roaming?",
+    "¿Qué se considera como exportación de servicios en la Ley del IVA?"
   ]
 }

@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2070fd6c6285e584",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inventarios negativos",
   "temas": [
-    "inventarios acumulables",
-    "disminución de inventarios",
+    "inventarios",
     "ingresos acumulables",
+    "deducciones",
     "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
     "inventarios negativos",
-    "inventario acumulable"
+    "inventario acumulable",
+    "no deducible"
   ],
-  "resumen": "Este criterio establece que si un contribuyente tiene un inventario negativo en su ajuste de ingresos acumulables, no puede disminuir sus ingresos por esa cantidad negativa, ya que se considera una práctica fiscal indebida. Esta regla también aplica para ejercicios posteriores.",
+  "resumen": "Este criterio establece que si un contribuyente tiene un ajuste negativo en su inventario, no puede disminuir sus ingresos acumulables por esa cantidad negativa, ya que se considera un inventario acumulable y no una deducción. Esto aplica también a ejercicios posteriores.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si tengo un inventario negativo?",
-    "¿Puedo restar un inventario negativo de mis ingresos acumulables?",
-    "¿Qué es una práctica fiscal indebida en relación a inventarios?",
-    "¿Cómo afecta la disminución de inventarios a mis impuestos?",
-    "¿Esto aplica para años posteriores también?"
+    "¿Puedo restar los inventarios negativos de mis ingresos?",
+    "¿Qué pasa si mi inventario baja de un año a otro?",
+    "¿Las pérdidas de inventario son deducibles?",
+    "¿Cómo afectarán los inventarios negativos mis declaraciones fiscales?",
+    "¿Este criterio se aplica en ejercicios futuros?"
   ]
 }

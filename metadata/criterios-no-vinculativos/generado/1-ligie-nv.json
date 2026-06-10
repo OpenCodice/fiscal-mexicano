@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:197a33d51aac1069",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación de mercancía sin montar",
+  "denominacion_comun": "Clasificación de mercancías desmontadas",
   "temas": [
-    "prácticas fiscales",
     "importación",
-    "mercancías desmontadas",
     "clasificación arancelaria",
+    "mercancías desmontadas",
+    "evitación de prácticas fiscales",
     "comercio exterior",
-    "reglas generales"
+    "acuerdos comerciales"
   ],
   "terminos_coloquiales": [
-    "importación de mercancías",
-    "mercancías desmontadas",
-    "artículo 2o., fracción I",
-    "IGI",
-    "Regla General 2 a)"
+    "importar mercancías sin montar",
+    "exportación",
+    "regla general 2 a)",
+    "Tratados de Libre Comercio",
+    "impuesto general de importación"
   ],
-  "resumen": "La normativa establece que las mercancías que se importan desmontadas deben clasificarse como si estuvieran completas para evitar la evasión de impuestos y regulaciones. Esto incluye equipos electrónicos cuyas partes se traen por separado.",
+  "resumen": "La disposición establece que las mercancías que se importen desmontadas deben clasificarse como si estuvieran completas para evitar la evasión de impuestos y cumplimiento de normativas. Las empresas no pueden clasificar los componentes individualmente para el pago de aranceles.",
   "preguntas_ejemplo": [
-    "¿Cómo debo clasificar las mercancías que importo si están desensambladas?",
-    "¿Qué dice la ley sobre la importación de bienes sin montar?",
-    "¿Cuáles son las consecuencias de clasificar incorrectamente mercancías importadas?",
-    "¿Qué se considera mercancía completa para efectos de importación?",
-    "¿Existen beneficios fiscales si importo un producto en partes?",
-    "¿Cómo afectan los Tratados de Libre Comercio a la importación de mercancías desmontadas?"
+    "¿Cómo se clasifica una televisión importada por partes?",
+    "¿Qué regla se aplica a las mercancías traídas sin montar?",
+    "¿Qué consecuencias fiscales hay por importar mercancías desmontadas?",
+    "¿Es legal importar componentes de un equipo de forma separada?",
+    "¿Cómo afecta el Tratado de Libre Comercio a la importación de mercancías incompletas?"
   ]
 }

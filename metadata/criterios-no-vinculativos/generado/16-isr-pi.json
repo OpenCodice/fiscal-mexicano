@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0c6baeb6e7f0d67",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancias de residentes en el extranjero",
+  "denominacion_comun": "Ganancias por enajenación de acciones",
   "temas": [
-    "enajenación de acciones",
-    "doble imposición",
     "ganancias de capital",
-    "participaciones accionarias"
+    "acciones",
+    "participaciones",
+    "doble imposición",
+    "imposición fiscal",
+    "sociedades",
+    "participación en capital"
   ],
   "terminos_coloquiales": [
-    "ganancias de extranjeros",
-    "acciones en el extranjero",
-    "impuesto sobre la renta",
-    "ISR",
-    "convenio para evitar la doble imposición"
+    "ganancias por vender acciones",
+    "impuestos por enajenación de acciones",
+    "ISR ganancias",
+    "acciones de empresas",
+    "vender participaciones",
+    "impuesto sobre la renta (ISR)"
   ],
-  "resumen": "Se establecen condiciones bajo las cuales las ganancias obtenidas por residentes en el extranjero de la enajenación de acciones pueden ser gravadas en México. Esto sucede cuando el residente ha tenido una participación significativa en la sociedad de al menos el 25 por ciento durante un periodo específico previo a la enajenación.",
+  "resumen": "La disposición establece que México puede gravar las ganancias obtenidas por residentes en el extranjero al vender acciones de una sociedad mexicana si han tenido una participación significativa en esta. También menciona prácticas indebidas relacionadas con la doble imposición y la asesoría sobre este tema.",
   "preguntas_ejemplo": [
-    "¿Cuándo se gravan las ganancias de capital de residentes en el extranjero?",
-    "¿Qué condiciones deben cumplirse para que se imponga ISR a las enajenaciones?",
-    "¿Cómo funciona el convenio para evitar la doble imposición?",
-    "¿Qué participación se requiere para gravar ganancias de extranjeros?"
+    "¿Cuándo debo pagar impuestos por vender acciones en México?",
+    "¿Qué pasa si un extranjero vende acciones de una empresa mexicana?",
+    "¿Qué significa la doble imposición en el contexto de ganancias de capital?",
+    "¿Qué requisitos debo cumplir para que se grave la venta de mis acciones?",
+    "¿Puedo evitar impuestos si no soy residente en México?"
   ]
 }

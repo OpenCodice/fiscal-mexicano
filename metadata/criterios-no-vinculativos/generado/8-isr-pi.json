@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07a36207d77c7867",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de ISR por intereses",
+  "denominacion_comun": "Retención del ISR por intereses",
   "temas": [
-    "instituciones del sistema financiero",
-    "pago de intereses",
-    "retención del ISR",
-    "impuesto provisional"
+    "retención de impuestos",
+    "intereses",
+    "instituciones financieras",
+    "Banco de México",
+    "sociedades de inversión",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "ISR sobre intereses",
-    "retención de impuestos",
-    "pago de ISR",
-    "intereses bancarios"
+    "retención de ISR",
+    "intereses bancarios",
+    "Banco de México",
+    "sociedades de inversión",
+    "prácticas fiscales"
   ],
-  "resumen": "Las instituciones del sistema financiero deben retener el ISR sobre los intereses que pagan, salvo en ciertos casos específicos. No se retiene cuando los intereses son entre instituciones del sistema financiero o cuando actúan por cuenta de terceros.",
+  "resumen": "Las instituciones del sistema financiero deben retener el ISR sobre los intereses pagados, salvo en ciertos casos específicos. Si no realizan la retención adecuada, se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ISR sobre intereses bancarios?",
-    "¿Qué instituciones deben retener ISR por intereses?",
-    "¿Cuándo no se retiene ISR en pagos por intereses?",
-    "¿Cuáles son las excepciones a la retención de ISR?",
-    "¿Qué pasa si una institución no realiza la retención correspondiente?"
+    "¿Cómo afecta la ley a los intereses que pago en mi banco?",
+    "¿Cuándo debe retener el ISR mi institución financiera?",
+    "¿Qué pasa si no me retienen el ISR por intereses?",
+    "¿Qué instituciones están exentas de retener ISR por intereses?",
+    "¿Quiénes están involucrados en la retención de ISR por intereses?",
+    "¿Qué se considera una práctica fiscal indebida en este contexto?"
   ]
 }

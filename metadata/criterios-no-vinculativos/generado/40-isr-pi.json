@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30f22d103d7883e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "ISR participable",
+  "denominacion_comun": "ISR Participable",
   "temas": [
+    "ISR",
     "Sistema Nacional de Coordinación Fiscal",
-    "ISR retenido",
-    "Efectividad en el pago",
-    "Dependencias estatales",
-    "Compensaciones fiscales",
-    "Prácticas fiscales indebidas"
+    "salarios",
+    "entidades federativas",
+    "retenciones",
+    "entrega de impuestos"
   ],
   "terminos_coloquiales": [
-    "ISR participable",
-    "retención de ISR",
-    "pago efectivo de ISR",
-    "compensación de saldos a favor"
+    "Impuesto Sobre la Renta",
+    "ISR",
+    "pago de impuestos",
+    "salarios",
+    "entregar el ISR"
   ],
-  "resumen": "El ISR participable se refiere al impuesto sobre la renta que las entidades adheridas al Sistema Nacional de Coordinación Fiscal deben enterar a la Federación, siempre que sea efectivamente pagado. La falta de este pago en efectivo, cheque o traspaso se considera una práctica fiscal indebida.",
+  "resumen": "El Criterio establece que las entidades deben participar al 100% del ISR que se entere a la Federación, siempre que el impuesto sea efectivamente pagado en efectivo, cheque o traspaso. Se considera indebido el entero de ISR mediante compensaciones de saldos a favor.",
   "preguntas_ejemplo": [
-    "¿Qué es el ISR participable?",
-    "¿Cómo se debe enterar el ISR retenido a los trabajadores?",
-    "¿Qué prácticas son consideradas indebidas respecto al ISR?",
-    "¿Qué implica el artículo 3-B de la LCF sobre el ISR?",
-    "¿Cuáles son las condiciones para el entero del ISR en las entidades federativas?"
+    "¿Qué es el ISR participable para las entidades federativas?",
+    "¿Cómo deben enterar las entidades el ISR retenido a sus trabajadores?",
+    "¿Qué prácticas son consideradas indebidas en el pago del ISR?",
+    "¿Qué condiciones deben cumplir los municipios para participar del ISR?",
+    "¿Qué significa 'efectivamente pagado' en el contexto del ISR?"
   ]
 }

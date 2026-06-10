@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:629829902e573555",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Productos Gravados por IEPS",
+  "denominacion_comun": "Chocolate y productos derivados del cacao",
   "temas": [
-    "chocolate",
-    "productos derivados del cacao",
-    "tasa del IEPS",
+    "IEPS",
+    "tasa del 8%",
+    "cacao",
     "densidad calórica",
-    "denominación comercial",
+    "productos gravados",
     "enajenación",
     "importación"
   ],
   "terminos_coloquiales": [
-    "IEPS chocolate",
-    "productos de chocolate",
-    "impuesto a chocolate",
-    "chocolate gravado"
+    "chocolate",
+    "productos de cacao",
+    "alimentos con chocolate"
   ],
-  "resumen": "Los productos derivados del cacao, incluyendo el chocolate, están gravados por el IEPS si contienen una densidad calórica de 275 kilocalorías o más por cada 100 gramos. Independientemente de su nombre comercial, estos productos deben pagar el impuesto al ser enajenados o importados.",
+  "resumen": "Los productos derivados del cacao, como el chocolate, están sujetos a una tasa del 8% del IEPS si tienen una densidad calórica de 275 kilocalorías o más por cada 100 gramos. Se consideran gravados independientemente de su denominación comercial.",
   "preguntas_ejemplo": [
-    "¿Qué productos de chocolate tienen que pagar IEPS?",
-    "¿Cuál es la densidad calórica mínima para que un chocolate esté gravado por el IEPS?",
-    "¿Cómo se considera un producto si su nombre no incluye 'chocolate'?",
-    "¿Qué pasa si mezclo chocolate y el producto resultante tiene menos calorías?",
-    "¿Qué tipo de asesoría es indebida en relación al IEPS de chocolate?",
-    "¿Qué se entiende por productos derivados del cacao según la Ley del IEPS?"
+    "¿Qué productos de chocolate están gravados por el IEPS?",
+    "¿Cuál es la tasa del IEPS para el chocolate?",
+    "¿Qué significa que un producto tenga una densidad calórica de 275 kilocalorías?",
+    "¿Se pueden enajenar productos de chocolate sin pagar el IEPS?",
+    "¿Qué pasa si un producto de chocolate se mezcla para bajar su densidad calórica?"
   ]
 }

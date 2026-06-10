@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec51afd7089a1270",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de arrendamiento financiero",
   "temas": [
     "arrendamiento financiero",
-    "deducción fiscal",
-    "ingreso del ejercicio",
+    "deducción de impuestos",
+    "ingresos exigibles",
     "costo de lo vendido",
-    "opciones terminales"
+    "contratos de arrendamiento"
   ],
   "terminos_coloquiales": [
-    "deducción de arrendamiento",
-    "deducción por bienes arrendados",
-    "arrendamiento a largo plazo",
-    "ISR arrendamiento",
-    "contrato de leasing"
+    "deducción por arrendar",
+    "ingreso por arrendamiento",
+    "deducción de bienes arrendados",
+    "opción de arrendamiento",
+    "ISR",
+    "Ley de ISR"
   ],
-  "resumen": "Los contribuyentes que utilicen contratos de arrendamiento financiero deben deducir el costo de lo vendido proporcionalmente al ingreso que acumulan en su ejercicio fiscal, en lugar de deducir el total al momento de enajenar. Esta deducción es obligatoria si se opta por acumular solo la parte exigible del ingreso.",
+  "resumen": "Este criterio establece que los contribuyentes que celebren contratos de arrendamiento financiero deben deducir el costo de lo vendido en proporción al ingreso exigible, en lugar de hacerlo total al enajenar. Si se aplica un procedimiento diferente, se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco los bienes de un arrendamiento financiero?",
+    "¿Cómo deduzco el costo de un bien arrendado?",
     "¿Qué opciones tengo al arrendar un bien financiero?",
-    "¿Es obligatorio deducir solo la parte del ingreso exigible?",
-    "¿Qué consecuencias hay si no deduzco correctamente un arrendamiento financiero?",
-    "¿Puedo deducir el total del costo de un bien arrendado?"
+    "¿Qué es la deducción de ingresos exigibles en arrendamiento?",
+    "¿Puedo deducir todo el costo de un bien al arrendarlo?",
+    "¿Qué consecuencias tiene no seguir el procedimiento de deducción correcto?"
   ]
 }

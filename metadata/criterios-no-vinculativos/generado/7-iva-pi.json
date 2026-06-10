@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7250c4f785c8026",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "IVA en transportación aérea desde la franja fronteriza",
+  "denominacion_comun": "IVA en transportación aérea franja fronteriza",
   "temas": [
-    "IVA",
     "transportación aérea",
+    "IVA",
     "franja fronteriza",
-    "servicio independiente",
-    "impuesto",
-    "tasa del IVA"
+    "servicios independientes"
   ],
   "terminos_coloquiales": [
-    "IVA transportación aérea",
-    "IVA frontera",
-    "IVA aéreo",
-    "25% IVA"
+    "IVA en vuelos",
+    "impuesto sobre transporte aéreo",
+    "aerolíneas y IVA",
+    "transportación aérea nacional",
+    "vuelos desde la frontera"
   ],
-  "resumen": "El IVA en la transportación aérea desde la franja fronteriza se grava solo al 25% del servicio cuando se realiza hacia destinos dentro de la franja. Si el servicio va hacia otros destinos nacionales, se grava en su totalidad a la tasa del IVA.",
+  "resumen": "El IVA para la transportación aérea a poblaciones en la franja fronteriza es del 25% del servicio, mientras que si se transporta hacia cualquier otro destino nacional se grava el total. Se considera indebido no gravar el servicio completo si se realiza hacia fuera de la franja.",
   "preguntas_ejemplo": [
-    "¿Cómo se aplica el IVA en transporte aéreo desde la frontera?",
-    "¿Qué porcentaje de IVA se paga por vuelos desde la franja fronteriza?",
-    "¿Qué pasa si un vuelo de la franja fronteriza va a otra ciudad en México?",
-    "¿Es correcto pagar solo el 25% de IVA por vuelos desde la frontera?",
-    "¿Cuándo se considera que hay una práctica fiscal indebida en la transportación aérea?"
+    "¿Qué IVA se aplica a los vuelos desde la franja fronteriza?",
+    "¿Cómo se calcula el IVA en servicios de transportación aérea?",
+    "¿Se aplica IVA completo si vuelo sale de la franja fronteriza?",
+    "¿Qué pasa si me asesoran sobre el IVA en vuelos desde la frontera?",
+    "¿Cuánto se paga de IVA por volar a la frontera?"
   ]
 }

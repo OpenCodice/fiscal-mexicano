@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3847af1046a2b84e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resultado fiscal distribuido a tenedores de certificados",
+  "denominacion_comun": "Resultado fiscal distribuido a tenedores de certificados de fideicomiso",
   "temas": [
-    "Fideicomisos",
-    "Certificados de participación",
-    "Resultado fiscal",
-    "Deducción ISR",
-    "Impuesto sobre la renta",
-    "Ganancias de capital"
+    "ISR",
+    "fideicomiso",
+    "certificados de participación",
+    "deducción",
+    "ingresos",
+    "diferencias fiscales"
   ],
   "terminos_coloquiales": [
-    "Certificados inmobiliarios",
-    "ISR fideicomisos",
-    "Deducción doble",
-    "Renta de bienes",
-    "Ingresos por fideicomiso"
+    "resultado fiscal",
+    "certificados de fideicomiso",
+    "deducción del 35%",
+    "ingresos por fideicomiso",
+    "fideicomisos inmobiliarios"
   ],
-  "resumen": "Este criterio establece que los tenedores de certificados de participación deben acumular el resultado fiscal distribuido por el fiduciario, sin poder aplicar deducciones adicionales por dicho resultado. La deducción prevista en la ley no es aplicable a este caso, ya que se consideraría un beneficio indebido.",
+  "resumen": "Los tenedores de certificados de participación en un fideicomiso deben acumular el resultado fiscal que se les distribuye sin aplicar la deducción del 35%. Esta deducción solo es válida en ciertos casos y no aplica al resultado fiscal que ya fue determinado por el fiduciario del fideicomiso.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los ingresos de los certificados de participación inmobiliaria?",
-    "¿Puedo deducir el resultado fiscal distribuido que recibo de un fideicomiso?",
-    "¿Qué impuestos debo considerar al recibir ingresos de un fideicomiso?",
-    "¿Qué riesgos fiscales hay al aplicar deducciones sobre resultados de fideicomisos?",
-    "¿Quién puede asesorarme sobre la fiscalidad de los certificados de participación?"
+    "¿Cómo afectan los resultados fiscales de un fideicomiso a los tenedores de certificados?",
+    "¿Se puede deducir el resultado distribuido de un fideicomiso?",
+    "¿Qué ingresos se consideran al hablar de certificados de participación?",
+    "¿Qué implica la deducción del 35% para los tenedores de certificados?",
+    "¿Qué es un certificado de participación en un fideicomiso inmobiliario?"
   ]
 }

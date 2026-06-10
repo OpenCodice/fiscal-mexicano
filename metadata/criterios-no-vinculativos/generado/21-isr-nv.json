@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e6a0459e9f3009d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "donativos deducibles",
+    "donativos",
+    "deducción fiscal",
     "prestación de servicios",
     "organizaciones civiles",
-    "fideicomisos",
-    "Ley del ISR",
-    "prácticas fiscales"
+    "fideicomisos"
   ],
   "terminos_coloquiales": [
-    "donativos",
-    "donativos a ONGs",
-    "donativos a fideicomisos",
-    "deducibilidad de donativos"
+    "donativos deducibles",
+    "prestación gratuita de servicios",
+    "organizaciones sin fines de lucro",
+    "donaciones",
+    "ISR"
   ],
-  "resumen": "La prestación gratuita de servicios a organizaciones civiles o fideicomisos no se considera un donativo deducible para efectos del ISR. Para que un donativo sea deducible, debe cumplir con ciertos requisitos establecidos en la Ley del ISR.",
+  "resumen": "Se establece que no se pueden deducir las donaciones de servicios a organizaciones civiles o fideicomisos que son autorizados para recibir donativos deducibles. Solo se consideran deducibles los donativos en efectivo u otros bienes que cumplan con ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Se puede deducir la donación de servicios a una ONG?",
-    "¿Cuáles son los requisitos para que un donativo sea deducible?",
-    "¿Qué pasa si hago un servicio gratuito a una organización civil?",
-    "¿Los donativos en efectivo son los únicos deducibles?",
-    "¿Qué se considera un donativo deducible según la Ley del ISR?"
+    "¿Puedo deducir la prestación de un servicio a una organización civil?",
+    "¿Qué requisitos deben cumplir los donativos para ser deducibles?",
+    "¿Qué tipo de donativos se pueden considerar deducibles en el ISR?",
+    "¿Cómo se define un donativo en la Ley del ISR?",
+    "¿Cuáles son las organizaciones autorizadas para recibir donativos deducibles?"
   ]
 }

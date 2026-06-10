@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a4ae207d5a22dc5b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Simulación de constancias",
   "temas": [
     "prácticas fiscales indebidas",
+    "retenedores",
     "retención de ISR",
-    "documentación fiscal",
-    "beneficios indebidos",
-    "asesoría en materia fiscal"
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
     "simulación de constancias",
-    "prácticas fiscales",
+    "omisión de pagos",
     "retención de impuestos",
+    "fiscalización",
     "ISR"
   ],
-  "resumen": "El criterio establece que es considerado una práctica fiscal indebida contratar a ciertos terceros para evadir el pago de contribuciones o no obtener la documentación adecuada sobre la retención del ISR. Esto incluye asesorar o participar en la ejecución de estas prácticas.",
+  "resumen": "Se considera práctica fiscal indebida contratar a ciertas entidades como retenedores y omitir el pago de contribuciones. También se penaliza no recabar la documentación necesaria sobre la retención de ISR y asesorar sobre prácticas indebidas.",
   "preguntas_ejemplo": [
-    "¿Qué es una práctica fiscal indebida?",
-    "¿Qué pasa si no tengo la documentación de retención de ISR?",
-    "¿Quiénes pueden ser considerados retenedores en estas prácticas?",
-    "¿Qué consecuencias tiene la simulación de constancias?",
-    "¿Cómo puedo evitar participar en prácticas fiscales indebidas?"
+    "¿Qué es la simulación de constancias en la normativa fiscal?",
+    "¿Cuáles son las prácticas fiscales indebidas relacionadas con el ISR?",
+    "¿Qué pasa si no se recaba la documentación de la retención de ISR?",
+    "¿Quién puede ser considerado un retenedor según la ley?",
+    "¿Cuáles son las consecuencias de asesorar en prácticas fiscales indebidas?"
   ]
 }

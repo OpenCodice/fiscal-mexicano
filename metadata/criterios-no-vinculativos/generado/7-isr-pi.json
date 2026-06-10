@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bb36d83f23ffb644",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de inversiones en activos fijos",
   "temas": [
+    "Ley del ISR",
     "Deducción de inversiones",
     "Activos fijos",
-    "Tratamiento fiscal",
+    "Mantenimiento",
+    "Tratamiento fiscal de gastos",
     "Prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "Deducción de activos fijos",
-    "Deducción de inversiones",
-    "Ley del ISR",
-    "ISR"
+    "deducción de inversiones",
+    "inversiones en activos fijos",
+    "gastos deducibles",
+    "mantenimiento de equipos",
+    "gastos de reparación"
   ],
-  "resumen": "Los contribuyentes pueden deducir inversiones en activos fijos, pero deben seguir los porcentajes máximos autorizados por la Ley del ISR. Se considera indebido deducir ciertos activos como si fueran gastos operativos.",
+  "resumen": "Los contribuyentes pueden deducir inversiones en activos fijos siguiendo ciertos porcentajes máximos autorizados. No se permite deducir ciertos gastos como si fueran inversiones, por lo que hay que tener cuidado con la clasificación de las adquisiciones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir mis inversiones en activos fijos?",
-    "¿Qué activos fijos puedo deducir según la Ley del ISR?",
-    "¿Qué se considera una práctica fiscal indebida al deducir inversiones?",
-    "¿Cuáles son los porcentajes máximos para la deducción de inversiones?",
-    "¿Hay restricciones en la deducción de ciertos tipos de inversiones?"
+    "¿Qué se puede deducir como inversión en activos fijos?",
+    "¿Cuáles son las prácticas indebidas en la deducción de inversiones?",
+    "¿Cómo se manejan las deducciones para mantenimiento y reparación?",
+    "¿Puedo deducir gastos de adquisición de equipos como inversiones?",
+    "¿Qué dice la Ley del ISR sobre la deducción de activos fijos?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7e6a5130cf90cc6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas por enajenación de acciones",
   "temas": [
-    "Impuesto Sobre la Renta (ISR)",
-    "Sociedades controladoras",
-    "Pérdidas fiscales",
-    "Consolidación fiscal",
-    "Registro de pérdidas y ganancias",
-    "Diferimiento del ISR"
+    "ISR",
+    "sociedades controladoras",
+    "resultados fiscales consolidados",
+    "deducción de pérdidas",
+    "diferimiento de impuestos",
+    "registro de pérdidas y ganancias"
   ],
   "terminos_coloquiales": [
     "pérdidas en acciones",
-    "ISR diferido",
-    "sociedades controladoras",
-    "consolidación fiscal"
+    "impuesto diferido",
+    "consolidación fiscal",
+    "pérdidas fiscales",
+    "ISR",
+    "ganancias y pérdidas en acciones"
   ],
-  "resumen": "Las sociedades controladoras pueden disminuir las pérdidas por enajenación de acciones en la determinación de su resultado fiscal consolidado, siempre cumpliendo ciertos requisitos. Sin embargo, deben revertir el ISR diferido cuando se desincorporan o desconsolidan.",
+  "resumen": "El criterio establece cómo las sociedades controladoras deben manejar las pérdidas por enajenación de acciones en su resultado fiscal consolidado. Se señala la obligación de revisar y potencialmente revertir el ISR diferido al desincorporar sociedades. También se considera indebido no revertir las pérdidas disminuidas cuando sea necesario.",
   "preguntas_ejemplo": [
-    "¿Cómo afecta el ISR a las pérdidas por venta de acciones?",
-    "¿Qué deben hacer las sociedades controladoras con sus pérdidas fiscales?",
-    "¿Se puede deducir el ISR diferido de las pérdidas en acciones?",
-    "¿Cuándo deben las sociedades controlar el ISR por enajenación de acciones?",
-    "¿Qué significa la consolidación fiscal en pérdidas por enajenación de acciones?"
+    "¿Cómo se manejan las pérdidas por venta de acciones en consolidación fiscal?",
+    "¿Qué obligaciones tienen las sociedades controladoras respecto al ISR por enajenación de acciones?",
+    "¿Qué pasa con el ISR diferido al desincorporar una sociedad?",
+    "¿Es correcto no revertir pérdidas fiscales en ciertas circunstancias?",
+    "¿Qué se considera una práctica fiscal indebida en relación con las pérdidas por acciones?"
   ]
 }

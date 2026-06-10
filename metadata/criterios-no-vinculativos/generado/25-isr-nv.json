@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4ecb1c998685824",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Gastos de sindicatos y ley del ISR",
+  "denominacion_comun": "Gastos de sindicatos en actividades comerciales",
   "temas": [
-    "deducción de gastos",
+    "deducción de ISR",
+    "obligaciones fiscales",
     "sindicatos",
-    "ISR",
     "comprobantes fiscales",
-    "prácticas fiscales",
-    "impuesto al valor agregado",
-    "obligaciones fiscales"
+    "IVA",
+    "actos de comercio"
   ],
   "terminos_coloquiales": [
     "gastos de sindicatos",
-    "deducción ISR sindicatos",
-    "comprobantes fiscales de sindicatos",
-    "ISR sindicato",
-    "IVA sindicato"
+    "deducción de impuestos",
+    "comprobantes de sindicatos",
+    "servicios de sindicatos",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "Los sindicatos no pueden ser considerados comerciantes y, por lo tanto, los gastos derivados de actividades comerciales contratadas a ellos no son deducibles para efectos del ISR. Además, no se puede acreditar el IVA relacionado con estos gastos.",
+  "resumen": "Los sindicatos no pueden deducir gastos relacionados con actividades comerciales, ya que no tienen capacidad legal para ejercer el comercio. Esto incluye no aceptar comprobantes fiscales de sindicatos para deducciones de ISR y acreditamientos de IVA, excepto en casos específicos donde se cumplan ciertas obligaciones fiscales.",
   "preguntas_ejemplo": [
     "¿Puedo deducir gastos si contrato a un sindicato?",
-    "¿Los comprobantes fiscales de un sindicato son válidos para deducir ISR?",
-    "¿Es posible acreditar IVA por gastos a un sindicato?",
-    "¿Qué dice la ley sobre los sindicatos y comerciantes?",
-    "¿Cuáles son las restricciones fiscales al contratar con sindicatos?",
-    "¿Los sindicatos pueden emitir comprobantes fiscales válidos?"
+    "¿Los comprobantes fiscales de sindicatos son válidos para el ISR?",
+    "¿Qué gastos no puedo deducir si son de un sindicato?",
+    "¿Los sindicatos pueden ofrecer servicios que se puedan deducir?",
+    "¿Cómo afectan las deducciones de sindicatos a mi IVA?",
+    "¿Qué dice la ley sobre sindicatos y comercio?"
   ]
 }

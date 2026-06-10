@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cb3463baf877acd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Regalías por activos intangibles",
   "temas": [
-    "Deducciones autorizadas",
-    "Regalías",
-    "Activos intangibles",
-    "Residentes en el extranjero",
-    "Prácticas fiscales indebidas"
+    "regalías",
+    "activos intangibles",
+    "deducciones autorizadas",
+    "partes relacionadas",
+    "residencia fiscal",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "Deducción de regalías",
-    "Regalías intangibles",
-    "Activos intangibles",
-    "ISR"
+    "regalías",
+    "activos intangibles",
+    "deducciones",
+    "gastos deducibles"
   ],
-  "resumen": "Las regalías pagadas a partes relacionadas en el extranjero por el uso de activos intangibles originados en México no son deducibles en ciertas condiciones. Esto es considerado una práctica fiscal indebida si no se justifica el pago o si se adquieren de partes relacionadas sin cumplir requisitos específicos.",
+  "resumen": "Este criterio establece que no se pueden deducir regalías pagadas a partes relacionadas en el extranjero por el uso de activos intangibles originados en México bajo ciertas condiciones. También se limita la deducción de inversiones en activos intangibles en circunstancias específicas relacionadas con partes vinculadas.",
   "preguntas_ejemplo": [
-    "¿Se pueden deducir las regalías pagadas a partes extranjeras?",
-    "¿Qué condiciones deben cumplirse para deducir regalías?",
-    "¿Cuáles son las prácticas fiscales indebidas en regalías?",
-    "¿Los activos intangibles originados en México son deducibles?",
-    "¿Qué requisitos debo cumplir para deducir regalías de partes relacionadas?"
+    "¿Puedo deducir regalías pagadas a empresas en el extranjero?",
+    "¿Qué inversiones en activos intangibles se pueden deducir?",
+    "¿Cuáles son las condiciones para deducir regalías por activos intangibles?",
+    "¿Qué significa que las regalías sean una práctica fiscal indebida?",
+    "¿Cómo afecta la residencia fiscal de las partes relacionadas a las deducciones?",
+    "¿Qué requisitos debo cumplir para deducir regalías?"
   ]
 }

@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ab4deb7ac31dfc19",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subcontratación y retención de salarios",
+  "denominacion_comun": "Subcontratación y Retención de ISR",
   "temas": [
-    "prácticas fiscales indebidas",
     "subcontratación",
     "retención de ISR",
-    "deducción de comprobantes",
-    "IVA",
-    "relación laboral"
+    "prestación de servicios",
+    "comprobantes fiscales",
+    "intermediarios laborales",
+    "relación laboral",
+    "beneficio indebido",
+    "práctica fiscal indebida",
+    "IVA"
   ],
   "terminos_coloquiales": [
     "subcontratación",
-    "ISR",
-    "IVA",
-    "retención de impuestos"
+    "retención de impuestos",
+    "intermediarios",
+    "salarios",
+    "deducción de ISR",
+    "deducción de IVA"
   ],
-  "resumen": "Se considera indebido contratar a terceros para realizar servicios similares a los de los propios trabajadores y omitir la retención de ISR. También se prohíbe deducir comprobantes de un intermediario sin los requisitos necesarios.",
+  "resumen": "El criterio establece que se considera una práctica fiscal indebida omitir la retención del ISR a trabajadores mediante el uso de intermediarios o subcontratistas. Además, se prohíbe deducir o acreditar impuestos a través de comprobantes fiscales emitidos por estos intermediarios si no se cumplen con los requisitos establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por subcontratación en el contexto fiscal?",
-    "¿Es posible evitar la retención de ISR si se subcontratan servicios?",
-    "¿Cuáles son las implicaciones fiscales de utilizar intermediarios laborales?",
-    "¿Qué comprobantes son deducibles si se contrata a un subcontratista?",
-    "¿Cómo afecta la subcontratación a los trabajadores en cuanto a sus impuestos?"
+    "¿Qué pasa si le pago a un subcontratista y no retengo ISR?",
+    "¿Puedo deducir los pagos realizados a un intermediario laboral?",
+    "¿Cuáles son las consecuencias de usar un intermediario para pagar salarios?",
+    "¿Qué requisitos debe cumplir un comprobante fiscal de un subcontratista?",
+    "¿Cómo afecta la subcontratación a la retención de impuestos?"
   ]
 }

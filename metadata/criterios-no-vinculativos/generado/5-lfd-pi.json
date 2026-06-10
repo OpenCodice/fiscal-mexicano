@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e9aff72362a62bb8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho Especial sobre Minería",
   "temas": [
     "deducción de inversiones",
-    "derecho especial",
-    "minería",
     "gastos diferidos",
     "cargos diferidos",
-    "Ley de Hidrocarburos",
-    "ISR"
+    "concesiones mineras",
+    "base gravable",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "derecho minero",
-    "Derecho Especial sobre Minería",
-    "deducciones en minería"
+    "derecho especial sobre minería",
+    "minería",
+    "deducción de inversiones en minería",
+    "gastos en minería"
   ],
-  "resumen": "El derecho especial sobre minería requiere que se pague una tasa sobre los ingresos derivados de la actividad extractiva, restando solo ciertas deducciones. No se pueden deducir las inversiones en activo fijo, gastos diferidos o cargos diferidos, a menos que sean para prospección o exploración minera.",
+  "resumen": "El derecho especial sobre minería se calcula aplicando una tasa del 8.5% a los ingresos de la actividad minera, permitiendo deducciones solamente para inversiones en prospección y exploración minera. Las deducciones de inversiones en activos fijos y otros gastos no son válidas para este cálculo.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las deducciones permitidas para el derecho especial sobre minería?",
-    "¿Puede un contribuyente deducir inversiones en activo fijo para calcular el derecho especial minero?",
-    "¿Qué erogaciones no se pueden considerar para el derecho especial sobre minería?",
-    "¿Cómo se determina la base del derecho especial sobre minería?",
-    "¿Qué pasa si se hacen deducciones indebidas en minería?"
+    "¿Qué se puede deducir para el derecho especial sobre minería?",
+    "¿Cuáles son las inversiones no deducibles en minería?",
+    "¿Cuál es la tasa del derecho especial sobre minería?",
+    "¿Qué es el derecho especial sobre minería?",
+    "¿Puedo deducir gastos diferidos en minería?"
   ]
 }

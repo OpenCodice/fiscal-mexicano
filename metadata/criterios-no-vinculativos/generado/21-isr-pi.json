@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:95f5768d9deaa559",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Previsión social en el ISR",
+  "denominacion_comun": "Previsión social y deducciones fiscales",
   "temas": [
-    "Previsión social",
-    "Deducción de gastos",
-    "Ingresos exentos",
-    "Vales de despensa",
-    "Pagos en efectivo",
-    "Naturaleza de las prestaciones",
-    "Cumplimiento fiscal"
+    "ISR",
+    "previsión social",
+    "gastos deducibles",
+    "ingresos exentos",
+    "vales de despensa",
+    "prestaciones laborales"
   ],
   "terminos_coloquiales": [
-    "prestaciones sociales",
-    "gastos deducibles",
-    "exención de ingresos",
+    "ayudas a trabajadores",
+    "gastos de previsión",
+    "deducción de impuestos",
     "vales de despensa",
-    "previsión social"
+    "prestaciones sociales",
+    "subsidios por incapacidad"
   ],
-  "resumen": "La previsión social incluye erogaciones que mejoran la calidad de vida de los trabajadores, pero no puede otorgarse en efectivo. Las prestaciones deben cumplir requisitos específicos para ser consideradas deducibles en el ISR y no se deben confundir con pagos en efectivo que no tienen un destino claro.",
+  "resumen": "El criterio establece que las erogaciones por previsión social no pueden entregarse en efectivo, ya que no se pueden deducir como gastos ni se consideran ingresos exentos para los trabajadores. Se especifica que ciertas prestaciones como los vales de despensa, si son entregadas en ciertas condiciones, sí pueden ser deducibles para el empleador.",
   "preguntas_ejemplo": [
-    "¿Qué se considera previsión social para el ISR?",
-    "¿Puedo deducir los vales de despensa en el ISR?",
-    "¿Por qué no se puede otorgar previsión social en efectivo?",
-    "¿Cuáles son las prestaciones exentas de ISR?",
-    "¿Cómo se determina si una erogación es previsión social?"
+    "¿Qué es considerado como previsión social para el ISR?",
+    "¿Puedo deducir los vales de despensa que entrego a mis empleados?",
+    "¿Se pueden entregar las prestaciones de previsión social en efectivo?",
+    "¿Qué beneficios se pueden otorgar a los trabajadores sin afectar el ISR?",
+    "¿Cuáles son las restricciones para la entrega de subsidios e incentivos a empleados?"
   ]
 }

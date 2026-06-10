@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4713aafda7627d32",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de sueldos a través de sindicatos",
   "temas": [
-    "sueldos",
-    "sindicatos",
-    "deducciones fiscales",
-    "ISR",
     "cuotas sindicales",
-    "prestación de servicios",
-    "subcontratación laboral"
+    "deducción de impuestos",
+    "ingresos exentos",
+    "subcontratación laboral",
+    "retención de ISR",
+    "comprobantes fiscales",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "sueldo a través de sindicato",
-    "cuotas sindicales",
-    "deducción de salarios",
-    "pago por sindicato",
-    "ISR de sueldos",
-    "subcontratación"
+    "sueldo a través del sindicato",
+    "cuotas del sindicato",
+    "deducciones fiscales",
+    "subcontratación",
+    "retención de impuestos",
+    "ISR",
+    "pago de salario"
   ],
-  "resumen": "El criterio establece que pagar sueldos a los trabajadores a través de sindicatos puede generar prácticas fiscales indebidas, como no retener el ISR correctamente o deducir gastos inadecuadamente. Además, los sindicatos no son contribuyentes del ISR si cumplen ciertos requisitos.",
+  "resumen": "El criterio establece que los empleadores no deben pagar sueldos, salarios o asimilados a través de sindicatos utilizando cuotas, ya que eso puede implicar una práctica fiscal indebida. También aclara que las deducciones no son válidas si se tratan de ingresos exentos para los trabajadores.",
   "preguntas_ejemplo": [
-    "¿Se puede pagar el sueldo a través del sindicato?",
-    "¿Qué pasa si no se retiene el ISR de los pagos a trabajadores?",
-    "¿Son deducibles los pagos hechos a través de sindicatos?",
-    "¿Qué requisitos deben cumplir los sindicatos para no pagar ISR?",
-    "¿Qué consideraciones hay sobre las cuotas sindicales?"
+    "¿Es legal pagar sueldos a través de un sindicato?",
+    "¿Qué son las cuotas sindicales?",
+    "¿Cómo afectan las deducciones fiscales al salario de los trabajadores?",
+    "¿Qué se considera una práctica fiscal indebida en el pago de sueldos?",
+    "¿Los sindicatos tienen que pagar impuestos?",
+    "¿Qué pasa si no se retiene el ISR correctamente?"
   ]
 }

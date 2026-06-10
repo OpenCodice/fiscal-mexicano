@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fc458d151e785fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Gastos a favor de tercero",
   "temas": [
-    "deducciones autorizadas",
+    "deducciones",
     "gastos de previsión social",
     "viáticos",
     "relación laboral",
-    "gastos no deducibles"
+    "prestación de servicios",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "gastos no deducibles",
-    "deducciones de viáticos",
-    "gastos a terceros",
+    "gastos deducibles",
+    "gastos para trabajadores",
     "gastos de viaje",
-    "Ley del ISR"
+    "gastos de viáticos",
+    "gastos a terceros"
   ],
-  "resumen": "No se pueden deducir los gastos realizados a favor de personas con las cuales no existe una relación laboral o no prestan servicios profesionales. Esto incluye gastos como viáticos y previsión social que no beneficien a todos los trabajadores de manera general.",
+  "resumen": "No son deducibles los gastos realizados a favor de personas con las que no exista relación laboral o que no presten servicios profesionales. Esto incluye gastos de previsión social y viáticos que no cumplan con estos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los gastos que no puedo deducir si no tengo relación laboral?",
-    "¿Los viáticos son deducibles si se pagan a un tercero?",
-    "¿Puedo deducir gastos de previsión social para empleados si no se otorgan a todos?",
-    "¿Qué requisitos debo cumplir para deducir gastos de viaje?",
-    "¿Qué pasa si deduzco gastos que no son estrictamente indispensables?"
+    "¿Puedo deducir gastos de viaje de un proveedor?",
+    "¿Son deducibles los gastos para empleados que no tienen relación laboral?",
+    "¿Qué gastos son considerados deducibles según la Ley del ISR?",
+    "¿Se pueden deducir los gastos de previsión social para contratistas?",
+    "¿Qué comprobantes necesito para deducir viáticos?"
   ]
 }

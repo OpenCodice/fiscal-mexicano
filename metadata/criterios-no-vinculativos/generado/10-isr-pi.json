@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6ca59105a72e6941",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rendimientos de fideicomiso para educación",
+  "denominacion_comun": "Rendimientos de fideicomisos para educación",
   "temas": [
-    "Rendimientos de fideicomisos",
-    "ISR",
+    "Rendimientos",
+    "Fideicomisos",
     "Educación",
-    "Fideicomitente",
-    "Contribuyentes",
-    "Descendientes"
+    "ISR",
+    "Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "Rendimientos de fideicomisos",
-    "Fideicomiso educativo",
-    "ISR en fideicomisos",
-    "Fideicomisario"
+    "rendimientos de fideicomiso",
+    "fideicomiso para educación",
+    "ISR",
+    "financiar estudios",
+    "descendientes"
   ],
-  "resumen": "Los rendimientos generados por bienes entregados en fideicomiso no se consideran ingresos sujetos al ISR si se utilizan para financiar la educación de los descendientes del fideicomitente. Esto aplica cuando el fideicomitente es ascendiente directo del beneficiario de la educación.",
+  "resumen": "Los rendimientos de bienes entregados en fideicomiso no se consideran ingresos sujetos a ISR si se utilizan para financiar la educación de los descendientes en línea recta. Este fideicomiso debe ser constituido por un ascendiente en línea recta que transmita la propiedad de los bienes a la fiduciaria.",
   "preguntas_ejemplo": [
-    "¿Los rendimientos de un fideicomiso se consideran ingresos para el ISR?",
-    "¿Puedo usar un fideicomiso para financiar la educación de mis hijos sin pagar impuestos?",
-    "¿Qué requisitos debo cumplir para que un fideicomiso educativo no genere ISR?",
-    "¿Quién puede ser fideicomitente en un fideicomiso educativo?",
-    "¿Qué tipo de educación cubre el fideicomiso para no pagar ISR?",
-    "¿Hay penalizaciones por no declarar rendimientos de fideicomisos educativos?"
+    "¿Los rendimientos de un fideicomiso para educación están gravados por el ISR?",
+    "¿Qué requisitos debe cumplir un fideicomiso para no pagar ISR?",
+    "¿Quién puede crear un fideicomiso para financiar la educación de sus hijos?",
+    "¿Qué significa que los rendimientos de un fideicomiso no se consideren ingresos?",
+    "¿Cómo se determina si un fideicomiso puede financiar estudios sin pagar impuestos?"
   ]
 }

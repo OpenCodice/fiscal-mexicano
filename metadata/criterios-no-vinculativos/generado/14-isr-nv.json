@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed679b7df136dcb5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sociedades civiles universales e ingresos por alimentos",
+  "denominacion_comun": "Ingresos por alimentos y sociedades civiles",
   "temas": [
     "ISR",
-    "Acreedores alimentarios",
-    "Deudores alimentarios",
-    "Sociedades civiles universales",
-    "Prácticas fiscales indebidas",
-    "Obligación alimentaria"
+    "acreedores alimentarios",
+    "deudores alimentarios",
+    "sociedades civiles universales",
+    "obligaciones alimentarias",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "Sociedad civil",
-    "ISR alimentos",
-    "Acreedores y deudores alimentarios"
+    "no pagar impuestos por alimentos",
+    "sociedades civiles",
+    "deudores y acreedores de alimentos",
+    "prácticas fiscales",
+    "sociedad civil universal"
   ],
-  "resumen": "El criterio establece que las sociedades civiles universales no pueden ser deudores alimentarios y, por lo tanto, sus socios no pueden considerar ingresos por alimentos que no están sujetos a ISR. También se consideran prácticas fiscales indebidas ciertos actos relacionados con esto.",
+  "resumen": "El artículo señala que las personas físicas que son acreedores alimentarios no deben pagar ISR por los ingresos recibidos en ese concepto. Sin embargo, una sociedad civil universal no puede tener el carácter de deudor alimentario, y sus socios no pueden considerarse acreedores alimentarios de la misma.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una sociedad civil universal recibe ingresos por alimentos?",
-    "¿Los socios de una sociedad civil pueden ser acreedores alimentarios?",
-    "¿Qué se considera una práctica fiscal indebida en sociedades civiles?",
-    "¿Cómo afecta el ISR a los ingresos por alimentos en sociedades civiles?"
+    "¿Qué impuestos debo pagar por recibir alimentos?",
+    "¿Qué es una sociedad civil universal en relación a los alimentos?",
+    "¿Puedo omitir el ISR si soy acreedor alimentario?",
+    "¿Qué significa ser deudor alimentario?",
+    "¿Cuáles son las prácticas fiscales indebidas relacionadas con alimentos?"
   ]
 }

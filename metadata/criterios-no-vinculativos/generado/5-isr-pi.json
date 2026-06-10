@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1d7a4277e874c709",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones en instituciones de fianzas",
+  "denominacion_comun": "Pagos por reclamaciones de instituciones de fianzas",
   "temas": [
-    "deducciones fiscales",
-    "instituciones de fianzas",
-    "pérdidas por créditos incobrables",
+    "deducciones",
+    "fianzas",
+    "créditos incobrables",
     "reclamaciones",
-    "obligaciones garantizadas",
-    "imposición de responsabilidades"
+    "Ley del ISR",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "deducciones de fianzas",
-    "pérdidas incobrables",
-    "fianzas",
-    "instituciones afianzadoras",
-    "Ley del ISR"
+    "deducciones fiscales",
+    "fianza",
+    "pago de fianza",
+    "créditos incobrables",
+    "pérdidas por reclamaciones",
+    "ISR"
   ],
-  "resumen": "Las instituciones de fianzas no pueden deducir los pagos por reclamaciones de fianzas si no cumplen con los requisitos establecidos por la ley. También se considera indebido deducir pérdidas por créditos incobrables derivadas de estas reclamaciones sin cumplir las normas necesarias.",
+  "resumen": "Las instituciones de fianzas no pueden deducir los pagos por reclamaciones derivados de obligaciones amparadas con fianza. Solo se permiten las deducciones de pérdidas por créditos incobrables que cumplan con requisitos específicos de la ley. La falta de cumplimiento en la garantía de la fianza puede llevar a gastos no deducibles.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los pagos que hago por reclamaciones de fianzas?",
-    "¿Qué requisitos necesito para deducir créditos incobrables de fianzas?",
-    "¿Cuándo es correcto deducir una pérdida por una reclamación de fianza?",
-    "¿Qué sucede si la institución de fianzas no garantiza adecuadamente la fianza?",
-    "¿Las pérdidas por créditos incobrables de fianzas son deducibles?"
+    "¿Se pueden deducir los pagos por reclamaciones de fianzas?",
+    "¿Qué requisitos debo cumplir para deducir créditos incobrables?",
+    "¿Cuándo se consideran gastos estrictamente indispensables en el ISR?",
+    "¿Las instituciones de fianzas pueden deducir sus pérdidas?",
+    "¿Qué dice la Ley del ISR sobre las fianzas?",
+    "¿Cuáles son las implicaciones fiscales de no garantizar una fianza?"
   ]
 }

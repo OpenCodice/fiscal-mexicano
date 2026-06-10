@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca4e7a85ef01fa0a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de lo vendido para comerciantes",
+  "denominacion_comun": "Costo de lo vendido",
   "temas": [
-    "costo de lo vendido",
+    "determinación del costo",
+    "enajenación de mercancías",
+    "inventarios",
     "deducción fiscal",
-    "merchandising",
-    "actividades comerciales"
+    "gastos de adquisición"
   ],
   "terminos_coloquiales": [
-    "costo de venta",
-    "deducción de mercancías",
-    "actividades comerciales",
-    "ISR"
+    "cómo calcular el costo de lo vendido",
+    "costo de mercancías",
+    "deducción de inventarios",
+    "ingresos por ventas",
+    "costo de productos vendidos"
   ],
-  "resumen": "El costo de lo vendido para contribuyentes que compran y venden mercancías se determinará considerando el costo de las adquisiciones, menos devoluciones y gastos, así como los inventarios inicial y final. Este costo se deduce en el ejercicio donde se acumulan los ingresos de la venta.",
+  "resumen": "El criterio establece cómo deben los contribuyentes deducir el costo de lo vendido al enajenar mercancías, considerando inventarios y gastos relacionados. Solo se puede deducir el costo de mercancías que se han vendido en el ejercicio fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el costo de lo vendido en actividades comerciales?",
-    "¿Qué gastos puedo deducir al vender mercancías?",
-    "¿Debo considerar los inventarios inicial y final para deducir el costo de venta?",
-    "¿Qué sucede si no contabilizo correctamente el costo de lo vendido?"
+    "¿Cómo se determina el costo de lo vendido?",
+    "¿Qué gastos son deducibles al vender mercancías?",
+    "¿Qué se debe considerar al calcular mis inventarios?",
+    "¿Puedo deducir el costo de mercancías no vendidas?",
+    "¿Qué pasa si no sigo las reglas para el costo de lo vendido?"
   ]
 }

@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b80012deead8c2ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Indemnizaciones por riesgos de trabajo o enfermedades",
+  "denominacion_comun": "Indemnizaciones por riesgos de trabajo",
   "temas": [
-    "Indemnizaciones",
-    "Riesgos de trabajo",
-    "Enfermedades laborales",
-    "Ley del ISR",
-    "Salarios",
-    "Certificados de incapacidad",
-    "Deducciones fiscales",
-    "Relaciones laborales"
+    "ISR",
+    "indemnizaciones",
+    "riesgos de trabajo",
+    "enfermedades laborales",
+    "salarios",
+    "certificados de incapacidad",
+    "deducciones",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "Indemnizaciones laborales",
-    "ISR en indemnizaciones",
-    "Riesgos de trabajo",
-    "Enfermedades ocupacionales",
-    "SRN (Sistema Nacional de Salud)"
+    "indemnización",
+    "riesgos de trabajo",
+    "certificado médico",
+    "enfermedades de trabajo"
   ],
-  "resumen": "Las indemnizaciones recibidas por accidentes o enfermedades laborales no generan el pago del ISR, siempre y cuando se otorguen conforme a la ley. Se requiere un certificado de incapacidad o enfermedad para que se consideren indemnizaciones válidas y no como ingresos gravables.",
+  "resumen": "Las indemnizaciones por riesgos de trabajo o enfermedades no están sujetas al pago del ISR si se otorgan conforme a la ley. Sin embargo, se debe contar con un certificado de incapacidad para evitar prácticas fiscales indebidas, como tratar pagos como indemnizaciones sin la debida justificación. Esto incluye deducciones incorrectas y no retener el ISR correspondiente.",
   "preguntas_ejemplo": [
-    "¿Las indemnizaciones por accidentes de trabajo están gravadas por el ISR?",
-    "¿Qué requisitos necesito para que una indemnización no sea considerada ingreso?",
-    "¿Cómo se determina una indemnización por enfermedad laboral?",
-    "¿Qué pasa si recibo un pago sin el certificado de incapacidad?",
-    "¿Puede el patrón deducir pagos si no tiene el certificado correspondiente?"
+    "¿No se paga ISR por indemnizaciones por accidentes en el trabajo?",
+    "¿Qué se necesita para que una indemnización no pague ISR?",
+    "¿Cuáles son las prácticas fiscales indebidas relacionadas con indemnizaciones?",
+    "¿Qué debe tener un certificado de incapacidad para evitar problemas con el ISR?",
+    "¿Cómo se determina si un pago es una indemnización o salario?"
   ]
 }

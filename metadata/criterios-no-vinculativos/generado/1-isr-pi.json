@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b22085c81b45e5a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Establecimiento permanente",
   "temas": [
     "ISR",
     "residentes en el extranjero",
-    "ingresos",
-    "contratos",
+    "obligaciones fiscales",
+    "práctica fiscal indebida",
     "doble tributación"
   ],
   "terminos_coloquiales": [
-    "establecimiento permanente",
-    "ISR extranjeros",
-    "residentes extranjeros",
-    "Renta y Patrimonio"
+    "establishment en México",
+    "obligaciones de extranjeros",
+    "pago de impuestos",
+    "prácticas fiscales",
+    "ISR extranjero"
   ],
-  "resumen": "Las personas físicas y morales residentes en el extranjero deben pagar ISR en México si tienen un establecimiento permanente en el país relacionado con ingresos atribuibles a dicho establecimiento. Esto incluye situaciones donde exista un vínculo con residentes en México.",
+  "resumen": "Las personas físicas y morales residentes en el extranjero deben pagar el ISR en México si tienen un establecimiento permanente en el país. Se considera que hay un establecimiento permanente cuando hay conexiones comerciales donde se realizan actividades habituales con residentes en México.",
   "preguntas_ejemplo": [
     "¿Qué es un establecimiento permanente?",
-    "¿Los residentes extranjeros deben pagar ISR en México?",
-    "¿Cómo se determina un establecimiento permanente?",
-    "¿Qué ingresos son atribuibles a un establecimiento permanente?",
-    "¿Qué implica la doble tributación para los extranjeros?"
+    "¿Los extranjeros deben pagar ISR en México?",
+    "¿Cómo se relaciona el establecimiento permanente con el ISR?",
+    "¿Qué pasa si un residente extranjero no paga ISR en México?",
+    "¿Cuándo se considera que hay un establecimiento permanente en México?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d8396fc08707e35",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Alimentos preparados",
+  "denominacion_comun": "Alimentos preparados y el IVA",
   "temas": [
-    "IVA",
-    "tasa del 16%",
+    "tasa del IVA",
     "enajenación",
+    "alimentos preparados",
     "servicio de comidas",
     "establecimientos",
-    "compras a granel"
+    "prácticas fiscales"
   ],
   "terminos_coloquiales": [
-    "IVA alimentos preparados",
-    "comidas a domicilio",
-    "alimentos para llevar",
-    "servicio de comidas",
-    "COMIDAS"
+    "comida para llevar",
+    "comida a domicilio",
+    "restaurantes",
+    "tafetanes",
+    "pizzerías",
+    "comida rápida"
   ],
-  "resumen": "Se aplica una tasa del 16% al vender alimentos preparados, ya sea en un establecimiento o para llevar. Esto incluye distintos tipos de negocios que ofrecen comidas, como restaurantes y cafeterías.",
+  "resumen": "Se aplica la tasa del 16% del IVA a la venta de alimentos preparados que se consumen en el lugar o se entregan a domicilio. Esto incluye alimentos vendidos en diversos tipos de establecimientos que ofrecen servicio de comidas.",
   "preguntas_ejemplo": [
-    "¿Cuánto es el IVA de los alimentos preparados?",
-    "¿Qué negocios tienen que cobrar IVA por las comidas?",
-    "¿Se aplica IVA si compro alimentos para llevar?",
-    "¿Qué tipo de alimentos se consideran preparados para la tasa del IVA?",
-    "¿Por qué se cobra IVA en servicios de comidas?"
+    "¿Qué tipos de alimentos están sujetos al IVA?",
+    "¿Cuándo se aplica el IVA a los alimentos preparados?",
+    "¿Qué tasa de IVA se aplica a la comida a domicilio?",
+    "¿Los restaurantes deben cobrar IVA por la comida que venden?",
+    "¿Las tiendas de autoservicio cobran IVA por alimentos preparados?"
   ]
 }

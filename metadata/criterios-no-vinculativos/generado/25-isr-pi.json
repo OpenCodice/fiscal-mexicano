@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d23ad2f662a9ab2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de lo vendido en servicios de obra",
+  "denominacion_comun": "Costo de lo vendido en contratos de obra",
   "temas": [
-    "contratos de obra",
-    "servicios",
-    "deducciones",
+    "deducción de costos",
     "ingresos acumulables",
-    "prácticas fiscales"
+    "contratos de obra",
+    "prácticas fiscales indebidas"
   ],
   "terminos_coloquiales": [
-    "costo de vendidas",
-    "deducción de obra",
-    "obras inmobiliarias",
-    "ISRL",
-    "Ley del ISR"
+    "costo de lo vendido",
+    "obra inmueble",
+    "deducciones",
+    "servicios de construcción"
   ],
-  "resumen": "Los prestadores de servicios derivados de contratos de obra inmueble solo pueden deducir el costo correspondiente a los ingresos que han acumulado en el ejercicio. No se pueden deducir costos relacionados con ingresos no acumulados en el mismo periodo.",
+  "resumen": "Este criterio establece que los prestadores de servicios por contratos de obra inmueble solo pueden deducir el costo de lo vendido correspondiente a los ingresos que acumulen en el ejercicio. No se permite deducir costos de ingresos no acumulados en el mismo periodo, lo que se considera una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo deducir costos de obras inmobiliarias?",
-    "¿Qué sucede si mis ingresos por servicios de obra no están acumulados?",
-    "¿Qué costos puedo deducir si trabajo en contratos de obra?",
-    "¿Es legal deducir costos de ingresos no acumulados?",
-    "¿Qué dice la Ley del ISR sobre el costo de lo vendido en obras?"
+    "¿Puedo deducir los costos de una obra si no he acumulado los ingresos?",
+    "¿Qué ingresos puedo considerar para deducir costos en contratos de obra?",
+    "¿Cuáles son las consecuencias de deducir costos no acumulados?",
+    "¿Qué dice la ley sobre el costo de lo vendido en contratos de obra?",
+    "¿Es correcto aconsejar sobre deducciones de costos en ingresos no acumulados?"
   ]
 }

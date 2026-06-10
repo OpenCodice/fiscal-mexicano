@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb8f3cd8b5ca0abc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajustes de Precios de Transferencia",
+  "denominacion_comun": "Ajuste de Precios de Transferencia",
   "temas": [
-    "operaciones con partes relacionadas",
+    "partes relacionadas",
     "ingresos acumulables",
     "deducciones autorizadas",
     "método intercuartil",
     "rango de precios",
     "márgenes de utilidad",
-    "beneficio fiscal indebido",
-    "consulta a autoridades fiscales"
+    "práctica fiscal indebida"
   ],
   "terminos_coloquiales": [
     "precios de transferencia",
     "ajuste de precios",
-    "método intercuartil",
-    "ISR",
-    "Ley del ISR"
+    "rango intercuartil",
+    "deducciones",
+    "ingresos",
+    "modificación de precios"
   ],
-  "resumen": "El criterio establece que los contribuyentes deben ajustar los precios de sus operaciones con partes relacionadas si están fuera de un rango determinado, utilizando el método intercuartil. Si están dentro del rango, no se permite modificación para evitar beneficios fiscales indebidos.",
+  "resumen": "El ajuste de precios de transferencia es aplicable solo si los precios o márgenes de utilidad están fuera de un rango ajustado según el método intercuartil. Modificar precios ya dentro de este rango se considera una práctica fiscal indebida para obtener beneficios fiscales no permitidos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo ajustar los precios en operaciones con partes relacionadas?",
-    "¿Qué es el método intercuartil en la Ley del ISR?",
-    "¿Qué pasa si mis precios están dentro del rango ajustado?",
-    "¿Qué sanciones hay por ajustar precios indebido?",
-    "¿Cómo se determina un precio de transferencia correcto?",
-    "¿Qué hacer si quiero modificar precios de operaciones con partes relacionadas?"
+    "¿Cuándo se debe hacer un ajuste de precios de transferencia?",
+    "¿Qué es el método intercuartil en el contexto de precios de transferencia?",
+    "¿Es correcto modificar precios que ya están ajustados?",
+    "¿Qué ocurre si mis precios están dentro del rango intercuartil?",
+    "¿Qué implica una práctica fiscal indebida en este contexto?"
   ]
 }

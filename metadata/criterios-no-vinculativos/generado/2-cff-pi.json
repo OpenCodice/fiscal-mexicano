@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:01ef1a10bebfcab5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas reportables generalizados",
   "temas": [
     "revelación de esquemas",
     "esquemas reportables",
-    "asesoría fiscal",
     "beneficio fiscal",
-    "prácticas fiscales indebidas"
+    "prácticas fiscales indebidas",
+    "asesores fiscales",
+    "declaración informativa"
   ],
   "terminos_coloquiales": [
-    "esquemas fiscales",
-    "reportes fiscales",
-    "CFF",
-    "esquemas reportables"
+    "plan de evasión",
+    "asesoría fiscal",
+    "beneficio fiscal",
+    "esquemas de impuestos",
+    "esquemas generales",
+    "CFF"
   ],
-  "resumen": "Se establece que los asesores fiscales deben revelar esquemas reportables generalizados y personalizados. Un esquema reportable generalizado es aquel que se comercializa masivamente y no necesita adaptación específica, mientras que el personalizado se adapta a un contribuyente específico. Presentar información incorrecta para evitar la revelación del esquema puede considerarse una práctica fiscal indebida.",
+  "resumen": "La disposición establece que los asesores fiscales deben revelar esquemas reportables generalizados, que son aquellos diseñados para comercializarse a un gran número de contribuyentes. También señala que hacer pasar un esquema generalizado como personalizado para evitar su revelación es considerado una práctica fiscal indebida.",
   "preguntas_ejemplo": [
-    "¿Qué son los esquemas reportables generalizados?",
-    "¿Cómo se diferencian los esquemas reportables generalizados de los personalizados?",
-    "¿Qué responsabilidades tienen los asesores fiscales respecto a la revelación de esquemas?",
-    "¿Cuáles son las consecuencias de no reportar un esquema reportable generalizado?",
-    "¿Qué medidas se toman contra las prácticas fiscales indebidas?"
+    "¿Qué es un esquema reportable generalizado?",
+    "¿Cómo se determina si un esquema es reportable?",
+    "¿Qué obligaciones tienen los asesores fiscales respecto a esquemas reportables?",
+    "¿Qué prácticas fiscales son consideradas indebidas en relación a esquemas reportables?",
+    "¿Cuándo se necesita hacer una declaración informativa sobre esquemas reportables?"
   ]
 }
