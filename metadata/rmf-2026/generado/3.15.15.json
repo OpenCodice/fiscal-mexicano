@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9c95d2e552d5119",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes inmuebles",
   "temas": [
-    "Impuesto sobre la renta",
+    "Impuesto sobre la Renta",
     "Pago provisional",
     "Bienes inmuebles",
     "Formato R46",
+    "Declaración provisional",
     "Ficha de trámite 86/ISR"
   ],
   "terminos_coloquiales": [
-    "ISR por enajenación de inmuebles",
-    "Pago de ISR por venta de propiedades",
-    "Formato R46",
-    "Bienes raíces"
+    "venta de propiedades",
+    "impuesto por vender casa",
+    "ISR inmueble",
+    "pago de impuestos por enajenación",
+    "R46"
   ],
-  "resumen": "La regla establece que el pago provisional del impuesto sobre la renta por la enajenación de bienes inmuebles se debe realizar utilizando el formato R46. Esta obligación se basa en los artículos específicos de la Ley del ISR.",
+  "resumen": "Esta disposición establece cómo se debe realizar el pago provisional del impuesto sobre la renta por la enajenación de bienes inmuebles, utilizando el formato R46 y siguiendo las instrucciones de la ficha de trámite 86/ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el ISR por la venta de un inmueble?",
-    "¿Qué es el formato R46?",
-    "¿Qué trámites necesito para declarar la enajenación de mi propiedad?",
-    "¿Cuáles artículos de la Ley del ISR son relevantes para la enajenación de bienes?",
-    "¿Qué es la ficha de trámite 86/ISR?"
+    "¿Cómo se paga el impuesto por la venta de una propiedad?",
+    "¿Qué formato se necesita para declarar el ISR por enajenación de inmuebles?",
+    "¿Cuáles son los pasos para hacer el pago provisional de ISR por vender un inmueble?",
+    "¿Dónde encuentro la ficha de trámite para la declaración de ISR por enajenación de bienes inmuebles?",
+    "¿Qué requisitos debo cumplir para pagar el impuesto por venta de una casa?"
   ]
 }

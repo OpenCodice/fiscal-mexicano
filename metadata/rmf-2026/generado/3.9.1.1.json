@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee5f3bd95717e99a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajustes de precios de transferencia",
   "temas": [
-    "obligaciones fiscales",
     "precios de transferencia",
-    "partes relacionadas",
-    "ajustes reales",
-    "ajustes virtuales",
-    "ajustes primarios",
-    "ajustes secundarios"
+    "ajustes fiscales",
+    "operaciones con partes relacionadas",
+    "deducciones autorizadas",
+    "ingresos acumulables",
+    "facultades de comprobación",
+    "ajuste primario",
+    "ajuste correlativo",
+    "ajuste secundario"
   ],
   "terminos_coloquiales": [
-    "ajustes de precios",
+    "ajustes fiscales",
     "precios de transferencia",
-    "APT",
-    "ajustes APT",
-    "modificaciones de precios",
-    "operaciones entre partes relacionadas"
+    "ajustes primarios",
+    "ajustes secundarios",
+    "ajustes reales",
+    "ajustes virtuales"
   ],
-  "resumen": "Los ajustes de precios de transferencia son modificaciones a los precios o márgenes de utilidad en transacciones entre partes relacionadas, para alinearlos con los que tendrían con partes independientes. Pueden ser reales o virtuales, y se afectan por la forma en la que se determinan los ingresos y deducciones.",
+  "resumen": "La regla establece que los ajustes de precios de transferencia son modificaciones a los precios o márgenes establecidos en operaciones entre partes relacionadas para alinearlos con los precios de operaciones comparables entre partes independientes. Además, clasifica los ajustes en reales o virtuales según su impacto fiscal y contable, y detalla las variantes de ajustes posibles, como primarios y correlativos.",
   "preguntas_ejemplo": [
     "¿Qué son los ajustes de precios de transferencia?",
-    "¿Cómo se determinan los precios de transferencia en México?",
-    "¿Cuáles son las diferencias entre ajustes reales y virtuales?",
-    "¿Qué implicaciones fiscales tienen los ajustes de precios de transferencia?",
-    "¿Cómo se hacen los ajustes primarios y secundarios?",
-    "¿Qué significa que un ajuste sea correlativo?"
+    "¿Cómo se clasifican los ajustes de precios de transferencia?",
+    "¿Qué es un ajuste primario en precios de transferencia?",
+    "¿Qué debo considerar al hacer un ajuste de precios de transferencia?",
+    "¿Cómo afectan los ajustes de precios de transferencia mis impuestos?",
+    "¿Qué son los ajustes correlativos?"
   ]
 }

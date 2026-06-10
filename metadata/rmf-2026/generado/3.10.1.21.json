@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5aa96cffa8df84e4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversiones de personas morales autorizadas para recibir donativos deducibles",
+  "denominacion_comun": "Inversiones de personas morales autorizadas para recibir donativos",
   "temas": [
-    "Donativos deducibles",
-    "Personas morales",
     "Instituciones de asistencia",
+    "Beneficencia privada",
     "Acciones de entidades financieras",
+    "Deducibilidad de donativos",
     "Utilidad fiscal neta"
   ],
   "terminos_coloquiales": [
-    "Inversiones de donatarias",
-    "Donatarias autorizadas",
-    "Instituciones de beneficencia",
-    "LISR",
-    "RMF"
+    "donativos deducibles",
+    "entidades financieras",
+    "acciones",
+    "asociaciones",
+    "beneficencia",
+    "ISR"
   ],
-  "resumen": "Las instituciones de asistencia o beneficencia privada que reciben donativos deducibles pueden invertir en acciones de entidades financieras bajo ciertas condiciones. Deben cumplir con requisitos específicos sobre la participación accionaria y el destino de la utilidad fiscal neta.",
+  "resumen": "Las instituciones de asistencia o beneficencia privada autorizadas para recibir donativos deducibles pueden invertir en acciones de entidades financieras bajo ciertas condiciones para asegurar que sus activos se destinen a sus fines sociales. También se establece cómo se manejan las utilidades fiscales en caso de que la entidad financiera pierda su autorización.",
   "preguntas_ejemplo": [
-    "¿Qué se puede hacer con donativos deducibles?",
-    "¿Cómo pueden invertir las donatarias autorizadas?",
-    "¿Cuáles son las reglas para que una donataria reciba acciones de una entidad financiera?",
-    "¿Qué pasa si la entidad financiera pierde su autorización?",
-    "¿Qué requisitos deben cumplir las instituciones de beneficencia para recibir donativos deducibles?"
+    "¿Qué inversiones pueden hacer las instituciones de beneficencia?",
+    "¿Las acciones de entidades financieras se pueden adquirir si son deducibles?",
+    "¿Cómo se manejan las utilidades fiscales en caso de no renovación de la autorización?",
+    "¿Qué requisitos hay para participar en acciones de entidades financieras?",
+    "¿Qué pasa si una entidad financiera entra en liquidación?"
   ]
 }

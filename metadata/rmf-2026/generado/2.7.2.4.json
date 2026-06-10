@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:00f13b119b051524",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Renovación de autorización de proveedores de CFDI",
+  "denominacion_comun": "Renovación de Proveedores de CFDI",
   "temas": [
-    "renovación de autorización",
-    "proveedores de certificación",
-    "CFDI",
-    "plazos",
+    "autorización",
+    "renovación",
+    "proveedores de CFDI",
     "obligaciones",
-    "avisos a clientes",
-    "controles tecnológicos"
+    "avisos",
+    "calendario de renovación",
+    "vigencia"
   ],
   "terminos_coloquiales": [
-    "proveedores de certificación",
-    "renovación de CFDI",
+    "proveedores de facturación",
+    "renovación de autorización",
     "PCCFDI",
-    "autorización de CFDI"
+    "certificación de CFDI",
+    "aplicación de requisitos",
+    "avisos a clientes"
   ],
-  "resumen": "Los proveedores de certificación de CFDI pueden solicitar la renovación de su autorización por dos años más, siempre y cuando cumplan con ciertos requisitos y plazos. Si no lo hacen, la autorización no será renovada y deberán cumplir con varias obligaciones informativas.",
+  "resumen": "La regla establece el procedimiento que deben seguir los proveedores de certificación de CFDI para renovar su autorización. Incluye plazos, requisitos y obligaciones que deben cumplir si no renuevan su autorización a tiempo.",
   "preguntas_ejemplo": [
     "¿Cómo renuevo mi autorización como proveedor de CFDI?",
-    "¿Cuáles son las obligaciones si no renuevo mi autorización de CFDI?",
-    "¿Qué sucede si no cumplo con el aviso de renovación de autorización?",
-    "¿En qué plazos debo realizar la renovación de mi autorización como PCCFDI?",
-    "¿Qué información debo enviar a mis clientes si no renuevo la autorización?"
+    "¿Qué requisitos debo cumplir para la renovación de proveedores de CFDI?",
+    "¿Qué sucede si no renuevo mi autorización de CFDI?",
+    "¿Cuáles son las obligaciones de un proveedor de CFDI al no renovar su autorización?",
+    "¿Qué avisos debo enviar a mis clientes si dejo de ser proveedor de CFDI?"
   ]
 }

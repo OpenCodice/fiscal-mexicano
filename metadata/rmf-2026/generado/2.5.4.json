@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8374e16a310f4ca9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Modificación de clave en el RFC",
   "temas": [
     "RFC",
-    "SAT",
-    "Cambio de denominación",
-    "Cambio de régimen",
-    "Personas morales",
-    "Personas físicas",
+    "cambio de denominación",
+    "razón social",
+    "cambio de régimen de capital",
+    "cambio de nombre",
     "CURP",
-    "Error u omisión"
+    "modificación de datos",
+    "personas físicas",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "cambio de clave en el RFC",
-    "modificación de RFC",
-    "actualización de RFC",
-    "RFC personas físicas",
-    "RFC personas morales",
-    "SAT"
+    "cambiar la clave del RFC",
+    "actualizar RFC",
+    "cambio de nombre en el RFC",
+    "cambio de razón social",
+    "cambio de CURP",
+    "RFC para asalariados"
   ],
-  "resumen": "El SAT puede modificar la clave en el RFC si los contribuyentes presentan ciertos avisos o si hay errores u omisiones. También se considera el cambio en la CURP de las personas físicas. Estas modificaciones están sujetas a verificación por parte del SAT.",
+  "resumen": "Esta disposición regula los casos en los que el SAT puede modificar la clave en el RFC cuando un contribuyente presenta ciertos avisos, como cambio de nombre o de régimen. También estipula la necesidad de cumplir con ciertos requisitos para que dicha modificación sea posible.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo modificar mi clave en el RFC?",
-    "¿Qué avisos debo presentar para cambiar mi RFC?",
-    "¿El cambio de mi CURP afecta mi RFC?",
-    "¿Qué pasa si tengo errores en mi RFC?",
-    "¿El SAT verifica si mi clave está asignada a otro contribuyente?"
+    "¿Cómo actualizo mi clave del RFC si cambié de razón social?",
+    "¿Qué debo hacer si mi CURP ha cambiado y necesito modificar mi RFC?",
+    "¿Cuándo el SAT puede modificar la clave en el RFC?",
+    "¿Qué avisos debo presentar para cambiar mi clave del RFC?",
+    "¿Las personas físicas deben avisar al SAT si cambian de nombre?"
   ]
 }

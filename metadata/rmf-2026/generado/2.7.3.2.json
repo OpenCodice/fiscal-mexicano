@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:740ae9b078f160ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Expedición de CFDI por uso temporal de inmuebles",
   "temas": [
     "CFDI",
-    "uso temporal de inmuebles",
-    "retención del ISR",
-    "retención del IVA",
-    "procedimiento de restricción temporal"
+    "bien inmueble",
+    "ISR",
+    "IVA",
+    "retenciones",
+    "pago provisional",
+    "contribuyentes",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
-    "factura electrónica",
-    "CFDI por arrendamiento",
-    "CSD",
-    "ISR",
-    "IVA"
+    "factura",
+    "uso de casa",
+    "alquiler",
+    "retención de ISR",
+    "retención de IVA",
+    "CFDI",
+    "RIF"
   ],
-  "resumen": "La regla establece que los contribuyentes pueden expedir CFDI al otorgar el uso temporal de inmuebles, cumpliendo con ciertos requisitos. También señala que deben retener el 20% del ISR y el IVA correspondiente, además de informar adecuadamente sobre las retenciones realizadas.",
+  "resumen": "Esta regla establece que los contribuyentes que otorgan el uso temporal de inmuebles pueden expedir CFDI cumpliendo con ciertos requisitos. Además, se especifica la retención de impuestos sobre la renta (ISR) y el valor agregado (IVA) que deben realizarse en estas transacciones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo emitir una factura por el uso temporal de un inmueble?",
-    "¿Qué debo retener si arriendo un inmueble?",
-    "¿Cómo se aplica la restricción temporal en la emisión de CFDI?",
-    "¿Cuáles son los requisitos para expedir un CFDI por bienes inmuebles?",
-    "¿Qué impuestos debo retener al arrendar un inmueble?"
+    "¿Cómo expido un CFDI por alquiler de un inmueble?",
+    "¿Qué impuestos debo retener si alquilo un bien inmueble?",
+    "¿Qué pasa si no subsano irregularidades al emitir un CFDI?",
+    "¿Cuánto debo retener por concepto de ISR al arrendar un inmueble?",
+    "¿Qué requisitos debo cumplir para emitir un CFDI por uso de bienes inmuebles?",
+    "¿Cómo afecta la restricción temporal en la emisión de CFDI?"
   ]
 }

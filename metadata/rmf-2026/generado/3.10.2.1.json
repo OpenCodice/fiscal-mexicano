@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e9bcb5e4070970e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancia acumulable en traspasos de fondos para el retiro",
+  "denominacion_comun": "Ganancia acumulable por traspaso de activos financieros",
   "temas": [
-    "ganancia acumulable",
-    "acciones",
-    "transferencia de activos financieros",
+    "fondos para el retiro",
     "sociedades de inversión",
-    "pérdida deducible",
-    "costo comprobado de adquisición"
+    "transferencia de activos",
+    "ganancia acumulable",
+    "pérdida no deducible"
   ],
   "terminos_coloquiales": [
-    "ganancia acumulable",
-    "traspaso de fondos",
-    "acciones de AFORE",
-    "LISR",
-    "CONSAR"
+    "acciones",
+    "traspaso de fondos de retiro",
+    "ganancia por venta de acciones",
+    "pérdida por liquidación de acciones"
   ],
-  "resumen": "Las administradoras de fondos para el retiro no tienen que determinar la ganancia acumulable de acciones cuando hay un traspaso de activos financieros entre sociedades. Si hay una pérdida por esta liquidación, no se puede deducir. Además, se establecen reglas para calcular el costo comprobado de adquisición de las acciones adquiridas.",
+  "resumen": "Las administradoras de fondos para el retiro pueden no considerar como ganancia acumulable la liquidación de acciones en ciertas transferencias de activos financieros. Si se genera una pérdida en este proceso, no será deducible. El costo comprobado de adquisición de las nuevas acciones se determina con base en el costo de las acciones liquidadas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si traspaso activos entre AFORES?",
-    "¿Es deducible la pérdida por liquidación de acciones en fondos de retiro?",
-    "¿Cómo se calcula el costo de las acciones adquiridas en un traspaso?",
-    "¿Qué dice la LISR sobre las ganancias acumulables de fondos de retiro?",
-    "¿Qué beneficios fiscales hay en los traspasos de AFORE?"
+    "¿Qué pasa si liquido acciones en un traspaso de fondos de retiro?",
+    "¿Puedo deducir pérdidas por acciones liquidadas en fondos de retiro?",
+    "¿Cómo se determina el costo de adquisición de acciones en un traspaso?",
+    "¿Qué es una ganancia acumulable por transferencia de activos financieros?",
+    "¿Qué reglas siguen las administradoras de fondos para el retiro en estos casos?"
   ]
 }

@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35a8cb64ee33b584",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del ISR por cuentas globales",
+  "denominacion_comun": "Obligaciones de retención de ISR por cuentas globales",
   "temas": [
-    "Cuentas globales",
-    "Retención de ISR",
-    "Intereses",
-    "Ganancias",
-    "Operaciones financieras",
-    "Obligaciones solidarias"
+    "retención de ISR",
+    "cuentas globales",
+    "intereses",
+    "ganancias",
+    "operaciones financieras",
+    "constancia de retención",
+    "obligación solidaria"
   ],
   "terminos_coloquiales": [
-    "Retención de impuestos",
-    "ISR cuentas globales",
-    "Cuentas globales",
-    "Régimen de retención"
+    "retención de impuestos",
+    "ISR",
+    "cuentas globales",
+    "intereses",
+    "ganancias de inversión",
+    "constancia de retención"
   ],
-  "resumen": "El operador de cuentas globales puede asumir la obligación de retener el ISR sobre intereses y ganancias de operaciones financieras. Además, debe expedir una constancia de la retención al contribuyente y enterar el impuesto retenido oportunamente.",
+  "resumen": "El operador de cuentas globales puede asumir la obligación de retener el ISR sobre intereses o ganancias de operaciones realizadas a través de estas cuentas. Además, debe expedir una constancia de la retención y enviar el impuesto retenido dentro de un plazo establecido.",
   "preguntas_ejemplo": [
-    "¿Cómo se retiene el ISR de las cuentas globales?",
-    "¿Qué obligaciones tiene el operador de cuentas globales respecto al ISR?",
-    "¿Qué constancia debo recibir al retener ISR por cuentas globales?",
-    "¿Hasta cuándo se debe enterar el ISR retenido de cuentas globales?",
-    "¿Qué operaciones financieras están sujetas a retención de ISR?"
+    "¿Cuándo debo retener el ISR por cuentas globales?",
+    "¿Qué es la constancia de retención?",
+    "¿Quién asume la obligación de retener el ISR en cuentas globales?",
+    "¿Cuáles son los plazos para enterar el ISR retenido?",
+    "¿Qué operaciones están sujetas a retención de ISR?"
   ]
 }

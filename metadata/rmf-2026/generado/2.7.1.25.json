@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d39082fcd3205f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Unidad de medida en CFDI",
   "temas": [
     "CFDI",
     "unidad de medida",
-    "uso mercantil",
-    "Clave Unidad",
-    "Anexo 20"
+    "usos mercantiles",
+    "clave unidad",
+    "Catálogo Anexo 20"
   ],
   "terminos_coloquiales": [
-    "factura electrónica",
-    "unidad de medida CFDI",
-    "Clave Unidad",
-    "uso comercial"
+    "factura",
+    "unidad de medida",
+    "clave unidad",
+    "CFDI"
   ],
-  "resumen": "Los contribuyentes deben indicar la unidad de medida en los CFDI según los usos mercantiles. Si no hay una clave específica en el catálogo, pueden elegir la más cercana.",
+  "resumen": "Los contribuyentes deben indicar la unidad de medida utilizada en los CFDI que emiten, de acuerdo a los usos mercantiles. Si no existe una clave específica en el catálogo, se puede usar la que más se asemeje.",
   "preguntas_ejemplo": [
-    "¿Cómo indico la unidad de medida en un CFDI?",
-    "¿Qué hago si mi unidad de medida no está en el catálogo?",
-    "¿Qué es la Clave Unidad en un CFDI?",
-    "¿Dónde encuentro el Anexo 20 para las claves de unidad?",
-    "¿Qué se considera uso mercantil al emitir un CFDI?"
+    "¿Qué es la unidad de medida en un CFDI?",
+    "¿Cómo registro la unidad de medida en mis facturas?",
+    "¿Qué hacer si mi unidad de medida no está en el catálogo?",
+    "¿Cuál es la clave unidad que debo usar en el CFDI?",
+    "¿Qué es el Catálogo Anexo 20 para CFDI?"
   ]
 }

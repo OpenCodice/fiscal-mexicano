@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ecd2c433a65b231a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción de Cuentahabientes en el RFC",
+  "denominacion_comun": "Inscripción al RFC",
   "temas": [
-    "Registro Federal de Contribuyentes",
-    "Instituciones del sistema financiero",
-    "SOCAP",
-    "Facilidad administrativa",
-    "Identificación de contribuyentes"
-  ],
-  "terminos_coloquiales": [
-    "Inscripción en el RFC",
-    "Claves en el RFC",
     "Cuentahabientes",
     "RFC",
-    "Sociedades de Ahorro y Préstamo (SOCAP)"
+    "Instituciones financieras",
+    "SOCAP",
+    "Clave en el RFC"
   ],
-  "resumen": "El SAT puede inscribir a los cuentahabientes en el RFC sin que tengan clave, siempre que las instituciones financieras y SOCAP proporcionen información adecuada. Esta inscripción se realiza sin la asignación de obligaciones periódicas o un régimen específico.",
+  "terminos_coloquiales": [
+    "inscripción al RFC",
+    "darme de alta en el RFC",
+    "clave del RFC",
+    "sociedades de ahorro",
+    "SAT"
+  ],
+  "resumen": "El SAT puede inscribir a cuentahabientes sin clave en el RFC si las instituciones financieras y SOCAP proporcionan los datos necesarios. La inscripción no implica obligaciones periódicas o un régimen específico para los contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Cómo se inscribe a un cuentahabiente en el RFC?",
-    "¿Qué hacer si no tengo clave en el RFC?",
-    "¿Qué datos necesito para que el SAT me inscriba en el RFC?",
-    "¿Las instituciones financieras pueden ayudarme con mi inscripción en el RFC?",
-    "¿Qué es la SOCAP y cómo se relaciona con el RFC?"
+    "¿Cómo me inscribo en el RFC si no tengo clave?",
+    "¿Las instituciones financieras pueden ayudarme a obtener mi RFC?",
+    "¿Qué datos necesita el SAT para darme de alta en el RFC?",
+    "¿La inscripción en el RFC implica pagar impuestos?",
+    "¿Cómo actualizo mi situación fiscal en el RFC?"
   ]
 }

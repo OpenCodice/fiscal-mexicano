@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6170f9f5340fba2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen opcional para grupos de sociedades",
   "temas": [
-    "incorporación de sociedades",
-    "desincorporación de sociedades",
-    "formulario 93",
-    "avisos fiscales",
-    "acciones con derecho a voto"
+    "avisos",
+    "sociedades",
+    "incorporación",
+    "desincorporación",
+    "acciones",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
     "aviso de incorporación",
-    "Régimen Grupos",
     "Régimen Opcional",
-    "ROGS"
+    "grupo de sociedades",
+    "sociedades integradoras",
+    "AVISO DEL RÉGIMEN OPCIONAL"
   ],
-  "resumen": "Este régimen permite a una sociedad integradora presentar un aviso para incorporar sociedades cuando adquiere más del 80% de las acciones con derecho a voto de otra sociedad. Se debe utilizar la forma oficial designada para ello.",
+  "resumen": "Esta disposición establece que las sociedades integradoras deben presentar un aviso de incorporación al régimen opcional al adquirir más del 80% de las acciones con derecho a voto de otra sociedad. El aviso se realiza a través de un formato oficial específico.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el aviso de incorporación al régimen opcional para grupos de sociedades?",
-    "¿Qué formulario necesito para la incorporación de sociedades?",
-    "¿Qué pasa si quiero desincorporar una sociedad del régimen opcional?",
-    "¿Cuáles son los requisitos para el aviso de incorporación?",
-    "¿Qué acciones se consideran para este régimen?"
+    "¿Qué es el aviso de incorporación al régimen opcional para grupos de sociedades?",
+    "¿Cómo se presenta el aviso de desincorporación?",
+    "¿Qué requisitos debo cumplir para incorporar una sociedad al régimen opcional?",
+    "¿Qué formulario debo usar para el aviso de incorporación?",
+    "¿Qué porcentaje de acciones se necesita para la incorporación al régimen?"
   ]
 }

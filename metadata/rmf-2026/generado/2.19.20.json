@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88971d600a748fec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas Reportables",
   "temas": [
     "declaraciones informativas",
-    "esquemas reportables",
-    "documentación",
-    "operaciones jurídicas",
+    "documentación requerida",
+    "esquemas reportables generalizados",
+    "esquemas reportables personalizados",
     "tasa adicional del 10%",
-    "contribuyentes beneficiados",
+    "antecedentes y conclusiones",
     "razón de negocios"
   ],
   "terminos_coloquiales": [
-    "reportes de esquemas",
+    "reportar esquemas",
     "informes fiscales",
-    "esquemas fiscales",
-    "ER"
+    "consultoría fiscal",
+    "evitar tasas",
+    "CFF",
+    "LISR"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben adjuntar documentación que detalla los esquemas reportables, incluyendo diagramas y operaciones que eviten la aplicación de una tasa adicional del 10% en ciertos casos. Se requiere información del contexto y actores involucrados en las operaciones.",
+  "resumen": "Esta regla establece las obligaciones de los asesores fiscales y contribuyentes para presentar información sobre esquemas reportables, que pueden ser generalizados o personalizados. Se requiere detallar las operaciones y justificaciones que permitan evitar la aplicación de una tasa adicional del 10% en ciertos casos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un esquema reportable?",
-    "¿Cuáles son las obligaciones para reportar esquemas fiscales?",
-    "¿Cómo puedo evitar la tasa adicional del 10%?",
-    "¿Qué es un esquema reportable personalizado?",
-    "¿Qué sucede si no tengo toda la documentación requerida?"
+    "¿Qué información debo incluir al reportar un esquema fiscal?",
+    "¿Cómo se identifican los esquemas reportables personalizados?",
+    "¿Qué es la tasa adicional del 10% y cómo puedo evitarla?",
+    "¿Qué documentos necesito para declarar un esquema reportable?",
+    "¿Cuáles son las consecuencias de no reportar un esquema fiscal?"
   ]
 }

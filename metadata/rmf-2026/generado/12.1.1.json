@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:16e4de2554b6148f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de residentes en el extranjero",
   "temas": [
-    "Inscripción en el RFC",
-    "Servicios digitales",
-    "Intermediación digital",
-    "Impuestos aplicables"
+    "inscripción en el RFC",
+    "servicios digitales",
+    "residentes en el extranjero",
+    "intermediación",
+    "impuestos aplicables"
   ],
   "terminos_coloquiales": [
-    "Registro de servicios digitales",
-    "Residentes en el extranjero",
-    "RFC para extranjeros",
-    "Inscripción y retenciones IVA/EIAPS"
+    "RFC",
+    "servicios digitales",
+    "inscripción en el RFC",
+    "residentes extranjeros",
+    "plataformas digitales",
+    "intermediación digital"
   ],
-  "resumen": "Los residentes en el extranjero que proporcionan servicios digitales deben inscribirse en el RFC si están sujetos a ciertos impuestos en México. Esto incluye servicios prestados a través de plataformas digitales de intermediación.",
+  "resumen": "Los residentes en el extranjero que proporcionen servicios digitales deben inscribirse en el RFC. Esta obligación no aplica si no tienen un establecimiento en México y utilizan plataformas digitales que retienen impuestos.",
   "preguntas_ejemplo": [
-    "¿Cómo se inscriben los extranjeros que dan servicios digitales en México?",
-    "¿Qué impuestos aplican a los residentes en el extranjero por servicios digitales?",
-    "¿Los servicios de intermediación digital requieren inscripción en el RFC?",
-    "¿Qué pasa si un extranjero presta servicios digitales sin establecimiento en México?",
-    "¿Cuáles son los trámites para que un residente en el extranjero ofrezca servicios digitales?"
+    "¿Cómo me inscribo en el RFC si soy residente en el extranjero?",
+    "¿Qué impuesto debo pagar si ofrezco servicios digitales desde el extranjero?",
+    "¿Los residentes extranjeros necesitan un RFC para prestar servicios digitales en México?",
+    "¿Qué pasa si uso una plataforma digital para mis servicios desde el extranjero?",
+    "¿Existen excepciones para los residentes en el extranjero que ofrecen servicios digitales?",
+    "¿Cómo afecta la intermediación digital a los impuestos de los residentes extranjeros?"
   ]
 }

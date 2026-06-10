@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:006b6378352f4e47",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones por terceros",
   "temas": [
-    "notificaciones fiscales",
+    "notificaciones personales",
     "terceros habilitados",
     "confidencialidad",
     "identificación del notificador",
-    "reservas de datos"
+    "formalidades",
+    "reserva de datos",
+    "convenios de confidencialidad"
   ],
   "terminos_coloquiales": [
     "notificaciones del SAT",
-    "terceros para notificaciones",
-    "notificador",
-    "CFF"
+    "notificaciones a contribuyentes",
+    "notificaciones fiscales"
   ],
-  "resumen": "Los terceros habilitados por el SAT pueden realizar notificaciones fiscales siguiendo ciertas formalidades y deben guardar confidencialidad sobre la información de los contribuyentes. Además, los notificadores deben identificarse correctamente en el acto de la notificación.",
+  "resumen": "Se establece que el SAT puede habilitar a terceros para realizar notificaciones a contribuyentes, quienes deben cumplir con formalidades específicas y mantener la confidencialidad de la información recibida. Además, los notificadores deben identificarse adecuadamente durante el proceso.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden hacer las notificaciones por el SAT?",
-    "¿Qué debo saber sobre la confidencialidad en las notificaciones fiscales?",
-    "¿Cómo se identifican los notificados por terceros?",
-    "¿Qué reglas siguen los terceros para notificar?",
-    "¿Cuáles son las formalidades para las notificaciones del SAT?"
+    "¿Quién puede hacer notificaciones personales del SAT?",
+    "¿Qué responsabilidad tienen los terceros que notifican?",
+    "¿Cómo se garantiza la confidencialidad de los datos de los contribuyentes?",
+    "¿Qué formalidades deben seguir los notificadores del SAT?",
+    "¿Cómo me identifico cuando un tercero me notifica?",
+    "¿Dónde puedo saber quiénes son los terceros habilitados por el SAT?"
   ]
 }

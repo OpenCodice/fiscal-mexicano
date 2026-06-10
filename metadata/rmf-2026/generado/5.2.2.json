@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e9d4cf0f229fdf3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de contribuyentes IEPS",
+  "denominacion_comun": "Obligaciones de contribuyentes del IEPS",
   "temas": [
-    "obligaciones fiscales",
-    "declaración informativa",
+    "declaraciones informativas",
     "impuesto especial sobre producción y servicios",
     "MULTI-IEPS",
-    "traslado de impuesto",
-    "periodos de declaración"
+    "relaciones con terceros",
+    "cigarros",
+    "productos con nicotina"
   ],
   "terminos_coloquiales": [
-    "declaración trimestral IEPS",
-    "declaración semestral IEPS",
-    "programa MULTI-IEPS",
-    "impuesto IEPS"
+    "declaración de IEPS",
+    "declaración informativa",
+    "MULTI-IEPS",
+    "impuesto sobre cigarros",
+    "impuesto sobre productos con nicotina"
   ],
-  "resumen": "Los contribuyentes deben presentar trimestral o semestralmente una relación de las personas a las que se les trasladó el impuesto de manera expresa. Esta información se envía a través del programa MULTI-IEPS del SAT.",
+  "resumen": "Los contribuyentes del IEPS deben presentar trimestral o semestralmente una relación de las personas a las que se les trasladó el impuesto de forma expresa. Esta información se presenta a través del programa MULTI-IEPS del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la declaración informativa del IEPS?",
+    "¿Cuándo debo presentar la declaración del IEPS?",
+    "¿Qué información debo incluir en la declaración informativa de MULTI-IEPS?",
+    "¿Quiénes son los contribuyentes obligados a presentar la información del IEPS?",
     "¿Qué es el programa MULTI-IEPS?",
-    "¿Qué información debo incluir en el MULTI-IEPS?",
-    "¿Cada cuánto debo declarar el IEPS?",
-    "¿A quiénes se les aplica el impuesto especial sobre producción y servicios?",
-    "¿Dónde puedo encontrar el programa para declarar el IEPS?"
+    "¿Cómo declarar los impuestos sobre productos con nicotina?"
   ]
 }

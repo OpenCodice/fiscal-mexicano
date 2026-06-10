@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e155982d0e7cf82",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuotas de recuperación",
   "temas": [
-    "impuesto sobre la renta",
-    "donativos deducibles",
-    "instituciones autorizadas",
-    "enajenación de bienes",
-    "prestación de servicios"
+    "Impuesto sobre la renta",
+    "Cuotas de recuperación",
+    "Donativos deducibles",
+    "Instituciones autorizadas",
+    "Objeto social"
   ],
   "terminos_coloquiales": [
     "cuotas de recuperación",
-    "donativos autorizados",
-    "ISR",
-    "LISR",
-    "reglamento del ISR"
+    "donativos",
+    "instituciones de beneficencia",
+    "deducibles",
+    "Ley del ISR",
+    "LISR"
   ],
-  "resumen": "Las cuotas de recuperación son los montos que pueden cobrar las instituciones autorizadas por la venta de bienes o servicios relacionados con su objeto social, siempre que no superen los costos que incurrieron. No se consideran cuotas las cantidades cobradas a personas fuera de su objeto social autorizado.",
+  "resumen": "Las cuotas de recuperación son los montos que las instituciones autorizadas para recibir donativos pueden cobrar por la venta de bienes o servicios relacionados con su objeto social. Estas cuotas deben ser menores o iguales a los costos generados para su obtención y no aplican si se cobran a personas fuera de su objeto social autorizado.",
   "preguntas_ejemplo": [
-    "¿Qué son las cuotas de recuperación?",
-    "¿Qué pueden cobrar las organizaciones con donativos deducibles?",
-    "¿Cuáles son las condiciones para las cuotas de recuperación en donatarias?",
-    "¿Se pueden cobrar montos por servicios a personas no autorizadas?",
-    "¿Cómo se relaciona la LISR con las cuotas de recuperación?"
+    "¿Qué son las cuotas de recuperación en donativos?",
+    "¿Las instituciones pueden cobrar por servicios relacionados con su objeto social?",
+    "¿Cuáles son los montos aplicables para las cuotas de recuperación?",
+    "¿Se pueden deducir las cuotas de recuperación?",
+    "¿Qué leyes regulan las cuotas de recuperación en donativos?"
   ]
 }

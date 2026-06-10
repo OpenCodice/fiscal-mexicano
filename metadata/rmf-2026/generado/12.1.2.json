@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:65c87b5e4daf2647",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales para residentes en el extranjero",
   "temas": [
-    "certificado de e.firma",
     "inscripción",
-    "representante legal",
-    "domicilio en territorio"
-  ],
-  "terminos_coloquiales": [
+    "certificado de e.firma",
     "servicios digitales",
     "residentes en el extranjero",
-    "e.firma"
+    "trámites fiscales"
   ],
-  "resumen": "Los residentes en el extranjero que ofrecen servicios digitales pueden tramitar un certificado de e.firma para cumplir con ciertas obligaciones fiscales, siguiendo el procedimiento establecido en la regla 12.1.1. Además, deben designar a un representante legal y proporcionar un domicilio en territorio nacional.",
+  "terminos_coloquiales": [
+    "e.firma",
+    "certificado de e.firma",
+    "servicios digitales",
+    "residentes en el extranjero",
+    "trámites para extranjeros"
+  ],
+  "resumen": "La disposición permite a los residentes en el extranjero que ofrecen servicios digitales tramitar su certificado de e.firma realizando una inscripción previa. También se señala la necesidad de designar a un representante legal y un domicilio en el territorio nacional.",
   "preguntas_ejemplo": [
-    "¿Cómo obtengo un certificado de e.firma si soy residente en el extranjero?",
-    "¿Qué necesito para inscribirme como proveedor de servicios digitales?",
-    "¿Cuáles son las obligaciones fiscales para quienes ofrecen servicios digitales desde el extranjero?",
-    "¿Cómo designo un representante legal para mis servicios digitales?",
-    "¿Qué datos debo proporcionar para el domicilio en territorio?"
+    "¿Cómo tramito mi e.firma si soy residente en el extranjero?",
+    "¿Qué requisitos necesito para ofrecer servicios digitales desde el extranjero?",
+    "¿Es obligatorio tener un representante legal en México para servicios digitales?",
+    "¿Dónde encuentro la ficha de trámite para la e.firma?",
+    "¿Qué debo hacer para inscribirme como proveedor de servicios digitales desde el extranjero?"
   ]
 }

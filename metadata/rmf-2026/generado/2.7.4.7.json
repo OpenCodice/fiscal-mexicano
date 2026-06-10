@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:685dc1c18b93caec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Certificación y Generación de CFDI",
+  "denominacion_comun": "Proveedores de Certificación de CFDI",
   "temas": [
-    "Autorización para operar",
-    "Revocación de autorización",
-    "Plazos de vigencia",
-    "Requisitos de renovación"
+    "autorización de PCGCFDISP",
+    "vigencia de autorización",
+    "revocación de autorización",
+    "requisitos para solicitar autorización",
+    "incumplimiento y consecuencias"
   ],
   "terminos_coloquiales": [
-    "PCGCFDISP",
-    "Proveedores de CFDI",
-    "certificadores",
-    "generación de CFDI"
+    "proveedor de CFDI",
+    "certificación de facturas electrónicas",
+    "PCGCFDISP"
   ],
-  "resumen": "La regla establece los plazos y condiciones para que los proveedores de certificación y generación de CFDI, conocidos como PCGCFDISP, puedan operar y renovar su autorización. Detalla lo que sucede si un proveedor tiene la autorización revocada y los requisitos a cumplir para solicitarla nuevamente.",
+  "resumen": "Esta disposición establece los plazos y condiciones para la autorización y revocación de los proveedores de certificación de CFDI. También indica las consecuencias de incumplir con estas reglas y los requisitos para volver a solicitar la autorización.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo dura la autorización para operar como PCGCFDISP?",
-    "¿Qué sucede si me revocan la autorización como proveedor de CFDI?",
-    "¿Puedo volver a solicitar la autorización si me la revocaron?",
-    "¿Qué requisitos debo cumplir para renovar mi autorización como PCGCFDISP?",
-    "¿Cuándo puedo solicitar de nuevo la autorización si no la renové a tiempo?"
+    "¿Cómo puedo ser proveedor de CFDI?",
+    "¿Cuánto tiempo dura la autorización para operar como proveedor de CFDI?",
+    "¿Qué pasa si me revocan la autorización como proveedor de CFDI?",
+    "¿Puedo volver a solicitar mi autorización de proveedor de CFDI después de que me la revocaron?",
+    "¿Qué requisitos debo cumplir para obtener la autorización de proveedor de CFDI?"
   ]
 }

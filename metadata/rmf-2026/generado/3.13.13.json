@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:db1f732c59537b61",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opción de no proporcionar CFDI de retenciones",
+  "denominacion_comun": "Opción de No Proporcionar CFDI de Retenciones",
   "temas": [
-    "retención de impuestos",
-    "comprobantes fiscales",
     "CFDI",
+    "retenciones",
+    "impuesto",
     "personas morales",
     "personas físicas",
-    "Régimen Simplificado de Confianza",
-    "impuesto sobre la renta"
+    "acreditamiento",
+    "Ley del ISR",
+    "Regimen Simplificado de Confianza"
   ],
   "terminos_coloquiales": [
+    "no dar comprobante fiscal",
+    "comprobante de retención",
+    "retención de impuesto",
     "CFDI de retenciones",
-    "opción de retenciones",
-    "regla de retenciones",
-    "Régimen Simplificado de Confianza",
     "RESICO"
   ],
-  "resumen": "Las personas morales pueden optar por no proporcionar el CFDI de retenciones si la persona física emite un CFDI que cumpla con ciertos requisitos. Este CFDI será considerado como comprobante de retención del impuesto, aunque no exime a las personas morales de sus obligaciones de retener y enterar el impuesto.",
+  "resumen": "Las personas morales pueden optar por no proporcionar un CFDI de retenciones si la persona física emite un CFDI con el monto del impuesto retenido. Sin embargo, esto no exime a las personas morales de su obligación de realizar la retención y el entero del impuesto en tiempo y forma.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo no dar el CFDI de retenciones?",
-    "¿Qué requisitos debe tener el CFDI de la persona física?",
-    "¿Las personas morales están exentas de sus obligaciones fiscales?",
-    "¿Cómo afecta esto al Régimen Simplificado de Confianza?",
-    "¿Qué pasa si no cumplo con los requisitos del CFDI?"
+    "¿Puedo no dar un CFDI de retenciones?",
+    "¿Qué debo hacer si no quiero dar comprobante fiscal?",
+    "¿Cómo acreditarlo si emito un CFDI?",
+    "¿Qué requisitos debe tener el CFDI de retención?",
+    "¿Qué obliga la Ley del ISR sobre retenciones?"
   ]
 }

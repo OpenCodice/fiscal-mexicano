@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8b13659c3a66de5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Efectos fiscales de los planes personales de retiro",
+  "denominacion_comun": "Plan Personal de Retiro",
   "temas": [
-    "planes personales de retiro",
     "efectos fiscales",
     "aportaciones",
     "rendimientos",
     "retiros",
-    "deducciones",
-    "exenciones"
+    "requisitos de permanencia"
   ],
   "terminos_coloquiales": [
-    "plan de retiro",
-    "retiro de fondos",
+    "cuenta de retiro",
+    "retiro de ahorros para el retiro",
+    "plan de pensiones",
     "ISR",
-    "deducción de aportaciones",
-    "exención de ISR",
     "LISR"
   ],
-  "resumen": "La regla establece los efectos fiscales de los planes personales de retiro, incluyendo las condiciones para el retiro de aportaciones y rendimientos, así como las deducciones y exenciones aplicables. También se refiere a las retenciones que deben realizar las personas autorizadas para administrar estos planes.",
+  "resumen": "La disposición establece las condiciones y efectos fiscales de los planes personales de retiro, incluyendo las aportaciones, los rendimientos generados y los retiros. Define los requisitos de permanencia y los tratamientos fiscales tanto para retiros anticipados como para aquellos que cumplen con los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si retiro mi dinero de un plan personal de retiro?",
-    "¿Cuáles son los efectos fiscales al retirar fondos de un plan de retiro?",
-    "¿Puedo deducir las aportaciones a mi plan personal de retiro?",
-    "¿Qué ocurre si no cumplo con los requisitos de permanencia en mi plan de retiro?",
-    "¿Cómo se calculan los impuestos en un retiro de un plan personal de retiro?"
+    "¿Qué pasa si retiro dinero de mi plan personal de retiro antes de tiempo?",
+    "¿Cómo se gravan los rendimientos de mi cuenta de retiro?",
+    "¿Qué requisitos debo cumplir para retirar fondos de mi plan de pensiones?",
+    "¿Cómo afectan las aportaciones a mi declaración anual de ISR?",
+    "¿Qué implicaciones fiscales tiene retirar dinero de un plan de retiro?"
   ]
 }

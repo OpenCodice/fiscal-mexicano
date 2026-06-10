@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eee62aedb9e0c2ef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Firma internacional",
   "temas": [
     "servicios independientes",
     "certificación fiscal",
-    "personas morales",
-    "actividades económicas",
-    "residencia fiscal"
+    "residencia fiscal",
+    "requisitos de firma"
   ],
   "terminos_coloquiales": [
+    "certificación de firma internacional",
     "firma internacional",
-    "certificación fiscal",
-    "opinion fiscal"
+    "firma fiscal",
+    "servicios fiscales"
   ],
-  "resumen": "La regla establece qué se entiende por firma internacional y los requisitos que debe cumplir una persona moral para ser considerada como tal en términos fiscales. Incluye condiciones relacionadas con la residencia y la emisión de certificaciones fiscales por profesionales habilitados.",
+  "resumen": "La firma internacional es una persona moral que brinda servicios independientes en materia fiscal y que cumple con ciertos requisitos de residencia y certificación. Debe ser representada por un abogado o contador que haya ejercido la profesión en los últimos tres años.",
   "preguntas_ejemplo": [
-    "¿Qué es una firma internacional según la regla 3.1.17?",
+    "¿Qué es una firma internacional en materia fiscal?",
     "¿Cuáles son los requisitos para ser considerado una firma internacional?",
-    "¿Qué actividades económicas debe tener una firma internacional?",
-    "¿Quién puede emitir la certificación correspondiente de una firma internacional?",
-    "¿Cómo se define la residencia fiscal para las firmas internacionales?"
+    "¿Quién puede emitir la certificación de una firma internacional?",
+    "¿Qué actividades deben realizar las firmas internacionales?",
+    "¿Cómo se relacionan las firmas internacionales con las personas morales en México?"
   ]
 }

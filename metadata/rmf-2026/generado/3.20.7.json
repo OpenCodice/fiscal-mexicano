@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0a9c3a18f04d61ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Albergue para empresas maquiladoras",
+  "denominacion_comun": "Operaciones de maquila en albergue",
   "temas": [
-    "Inscripción al RFC",
+    "inscripción al RFC",
+    "obligaciones fiscales",
     "DIEMSE",
-    "Declaración informativa anual",
-    "Aviso al SAT",
-    "Operaciones de maquila",
-    "Residentes en el extranjero"
+    "declaración informativa anual",
+    "aviso ante el SAT"
   ],
   "terminos_coloquiales": [
-    "maquiladoras de albergue",
-    "RFC sin obligaciones",
-    "avisos ante el SAT",
-    "DIEMSE"
+    "maquila",
+    "albergue",
+    "inscripción en el RFC",
+    "SAT",
+    "declaración anual"
   ],
-  "resumen": "Las empresas maquiladoras bajo la modalidad de albergue que operan con residentes en el extranjero deben registrarse en el RFC, presentar la DIEMSE y notificar al SAT si dejan de operar. Esto les permite cumplir con su obligación de declarar anualmente.",
+  "resumen": "Las empresas que operan bajo el régimen de albergue deben inscribirse en el RFC sin obligaciones fiscales y cumplir con la presentación de la DIEMSE. También deben notificar al SAT si dejan de realizar actividades de maquila.",
   "preguntas_ejemplo": [
-    "¿Cómo se inscriben las empresas maquiladoras en el RFC?",
+    "¿Qué debo hacer para inscribirme al RFC si soy una empresa en albergue?",
+    "¿Cuáles son mis obligaciones fiscales como empresa maquiladora?",
     "¿Qué es la DIEMSE y cómo se presenta?",
-    "¿Qué aviso debo presentar al SAT si dejo de realizar actividades de maquila?",
-    "¿Cuáles son las obligaciones fiscales de las empresas de albergue?",
-    "¿Qué es la modalidad de albergue en maquilas?"
+    "¿Cómo informo al SAT si dejo de operar como empresa de albergue?",
+    "¿Cuándo debo presentar la declaración informativa anual?",
+    "¿Qué requisitos tengo que cumplir si soy residente en el extranjero y hago maquila?"
   ]
 }

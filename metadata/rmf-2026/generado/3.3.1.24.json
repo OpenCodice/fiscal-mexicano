@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:86dfa0ec0f0a2c11",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de actividades agrícolas, ganaderas, silvícolas y pesqueras",
+  "denominacion_comun": "Deducciones para actividades agrícolas, ganaderas, silvícolas y pesqueras",
   "temas": [
     "deducciones",
+    "actividades agrícolas",
+    "actividades ganaderas",
+    "actividades silvícolas",
+    "actividades pesqueras",
+    "IVA",
     "gastos e inversiones",
     "ingresos exentos",
-    "cuenta de utilidad fiscal neta",
-    "acreditamiento del IVA",
-    "SAT",
-    "normatividad fiscal"
+    "cuenta de utilidad fiscal neta"
   ],
   "terminos_coloquiales": [
-    "deducciones para AGAPES",
     "deducciones agrícolas",
-    "régimen AGAPES",
-    "Regla 3.3.1.24"
+    "deducciones ganaderas",
+    "deducciones silvícolas",
+    "deducciones pesqueras",
+    "la opción de deducción",
+    "deducciones AGAPES",
+    "avisos de deducción"
   ],
-  "resumen": "Las personas morales dedicadas a actividades agrícolas, ganaderas, silvícolas o pesqueras pueden deducir gastos e inversiones que cumplan con requisitos fiscales sin considerar la proporción de ingresos exentos. También pueden acreditar el IVA de esos gastos en términos de la Ley del IVA.",
+  "resumen": "Las personas morales dedicadas a actividades agrícolas, ganaderas, silvícolas o pesqueras pueden deducir sus gastos e inversiones cumpliendo ciertos requisitos. También se permite el acreditamiento del IVA sobre estos gastos, ofreciendo beneficios fiscales específicos para estas actividades.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco mis gastos si tengo un negocio agrícola?",
-    "¿Qué requisitos debo cumplir para deducir mis inversiones en actividades ganaderas?",
-    "¿Puedo acreditar el IVA de mis gastos en el régimen de AGAPES?",
-    "¿Qué ingresos debo considerar al presentar mis declaraciones si estoy bajo este régimen?",
-    "¿Cómo afecta la deducción de ingresos exentos en la utilidad fiscal neta?"
+    "¿Qué gastos puedo deducir si tengo una actividad agrícola?",
+    "¿Cómo puedo deducir mis inversiones ganaderas?",
+    "¿Qué requisitos debo cumplir para las deducciones pesqueras?",
+    "¿Cómo se determina la cuenta de utilidad fiscal neta para actividades silvícolas?",
+    "¿Qué es el aviso de deducción AGAPES?"
   ]
 }

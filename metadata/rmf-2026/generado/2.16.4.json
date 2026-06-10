@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:497f188be2575014",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información sobre la Situación Fiscal por fusión de sociedades",
+  "denominacion_comun": "Información sobre la Situación Fiscal (ISSIF)",
   "temas": [
     "fusión de sociedades",
-    "información fiscal",
-    "declaración de impuestos",
-    "registro federal de contribuyentes"
+    "RFC",
+    "e.firma",
+    "declaración del ejercicio",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "ISSIF",
-    "fusión de sociedades",
-    "avisos al RFC",
-    "información fiscal"
+    "fusión de empresas",
+    "cancelación de RFC",
+    "e-firma",
+    "documento fiscal",
+    "declara"
   ],
-  "resumen": "Los contribuyentes que cancelaron su RFC por fusión deben presentar información sobre la situación fiscal de la sociedad fusionada. La sociedad que subsiste deberá capturar y firmar esta información para enviarla junto con su declaración de impuestos.",
+  "resumen": "Las sociedades que se fusionan deben presentar información sobre su situación fiscal usando el aplicativo ISSIF. La sociedad fusionante debe capturar y firmar la información de la sociedad fusionada y enviarla junto con su declaración anual.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si fusioné mi sociedad y cancelé el RFC?",
-    "¿Cómo presento la información de una sociedad que se fusionó?",
-    "¿Qué es el aplicativo ISSIF?",
-    "¿Cuándo se considera que se presenta la información fiscal por fusión?",
-    "¿Qué archivo debo adjuntar a la declaración después de una fusión de sociedades?"
+    "¿Cómo presento la información fiscal después de una fusión de sociedades?",
+    "¿Qué pasos debo seguir para cancelar el RFC tras una fusión?",
+    "¿Qué es el ISSIF y cómo lo uso?",
+    "¿Necesito e.firma para presentar la información de una sociedad fusionada?",
+    "¿Qué archivo debo adjuntar a la declaración después de una fusión?"
   ]
 }

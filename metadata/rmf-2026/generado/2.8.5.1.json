@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:54893448551c49f5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de DPA's",
   "temas": [
-    "DPA",
-    "pago de contribuciones",
-    "línea de captura",
-    "comprobante de pago",
-    "banca electrónica",
-    "recibo bancario"
+    "DPA's",
+    "Pago de impuestos",
+    "Recibo bancario",
+    "Línea de captura",
+    "Transferencia electrónica",
+    "Ventanilla bancaria",
+    "Instituciones de crédito"
   ],
   "terminos_coloquiales": [
-    "pago de DPA's",
+    "pago de impuestos",
+    "DPA's",
+    "recibo de pago",
     "línea de captura",
-    "comprobante de pago",
-    "TESOFE",
-    "transferencia electrónica"
+    "pago por Internet",
+    "pagos en banco"
   ],
-  "resumen": "Las personas físicas y morales deben pagar los DPA's siguiendo un procedimiento específico que incluye obtener una línea de captura y realizar el pago en instituciones de crédito autorizadas. El recibo bancario obtenido es el comprobante de pago.",
+  "resumen": "La regla establece el procedimiento para que las personas físicas y morales realicen el pago de los DPA's. Los contribuyentes deben obtener un recibo de pago que autentique el monto a pagar y realizarlo a través de las instituciones de crédito autorizadas, ya sea en ventanilla o por Internet.",
   "preguntas_ejemplo": [
-    "¿Cómo realizo el pago de mis DPA's?",
-    "¿Qué es la línea de captura para el pago de DPA's?",
-    "¿Dónde puedo obtener el FPCPA para mis DPA's?",
-    "¿Qué hago si no pago antes de la fecha de vigencia de la línea de captura?",
-    "¿Puedo pagar mis DPA's en efectivo en el banco?"
+    "¿Cómo puedo pagar mis DPA's?",
+    "¿Qué es la línea de captura para el pago de impuestos?",
+    "¿Dónde obtengo el recibo bancario de mis pagos de DPA's?",
+    "¿Puedo pagar mis DPA's por Internet?",
+    "¿Qué hacer si no realizo el pago a tiempo?"
   ]
 }

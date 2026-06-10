@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3fac61fc7c3ba6e9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducibilidad de pérdidas por venta de cartera",
   "temas": [
-    "pérdida deducible",
-    "venta de cartera",
+    "pérdida por venta",
+    "cartera",
     "partes relacionadas",
     "documentación comprobatoria",
     "razones de negocio",
-    "subasta pública"
+    "subasta"
   ],
   "terminos_coloquiales": [
-    "pérdida por venta de cartera",
+    "pérdida por venta",
     "cartera",
-    "deducción de pérdidas",
-    "LISR",
-    "RMF"
+    "entidades relacionadas",
+    "ventas de cartera"
   ],
-  "resumen": "Esta disposición establece que la venta de cartera entre partes relacionadas no se considerará una enajenación sujeta a pérdidas deducibles si se cumplen ciertas condiciones, como demostrar que los precios son comparables a los de partes independientes y que la operación se realiza por razones de negocio.",
+  "resumen": "Esta disposición establece que la pérdida por la venta de cartera entre partes relacionadas puede ser deducible si se cumplen ciertas condiciones, como demostrar que los precios y margenes son comparables a los de operaciones entre partes independientes, que la operación tiene razones de negocio, y que la cartera sea ofrecida públicamente mediante subasta.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para deducir pérdidas por venta de cartera?",
-    "¿Cuáles son las condiciones para la venta de cartera entre partes relacionadas?",
-    "¿Qué se considera una operación de cartera válida?",
-    "¿Cómo debo documentar la venta de cartera para que sea deducible?",
-    "¿Qué requisitos hay para realizar una subasta pública de cartera?"
+    "¿Cuándo puedo deducir una pérdida por la venta de cartera?",
+    "¿Qué debo demostrar para que la venta de cartera entre partes relacionadas sea deducible?",
+    "¿Es necesario hacer una subasta para deducir la venta de cartera?",
+    "¿Qué se entiende por razones de negocio en la venta de cartera?",
+    "¿Cómo se comparan los precios en la venta de cartera?"
   ]
 }

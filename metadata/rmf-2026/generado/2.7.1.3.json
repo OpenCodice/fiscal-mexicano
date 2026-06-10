@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8efb79c48063f6a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Expedición de CFDI por comisionistas y prestadores de servicios de cobranza",
+  "denominacion_comun": "CFDI para comisionistas y servicios de cobranza",
   "temas": [
     "CFDI",
     "comisionistas",
     "servicios de cobranza",
-    "impuestos",
-    "requisitos de comprobantes fiscales",
-    "contratos",
+    "obligaciones fiscales",
+    "comprobantes fiscales",
     "clave en el RFC",
-    "tasa de impuesto"
+    "impuesto retenido",
+    "información en CFDI"
   ],
   "terminos_coloquiales": [
-    "facturas por comisionistas",
-    "CFDI de cobranza",
-    "comprobantes fiscales",
+    "factura",
     "CFDI",
-    "CFF"
+    "comisionista",
+    "cobranza",
+    "recibo",
+    "servicio de cobranza"
   ],
-  "resumen": "Los comisionistas y prestadores de servicios de cobranza pueden emitir CFDI en nombre de sus comitentes o prestatarios. Deben incluir información sobre la operación y cumplir ciertos requisitos fiscales establecidos en la ley.",
+  "resumen": "Los comisionistas y prestadores de servicios de cobranza pueden emitir CFDI a nombre de sus comitentes o prestatarios. Deben cumplir ciertos requisitos adicionales en los comprobantes, como incluir el RFC del comitente y los montos correspondientes a las operaciones realizadas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo expedir un CFDI si soy comisionista?",
-    "¿Cuáles son los requisitos para emitir facturas de servicios de cobranza?",
-    "¿Qué información debo poner en un CFDI emitido por cuenta de otro?",
-    "¿Qué pasa si no cumplo con lo establecido al emitir un CFDI?",
-    "¿Necesito un contrato para expedir un CFDI como comisionista?"
+    "¿Cómo expido un CFDI si soy comisionista?",
+    "¿Qué información debe tener un CFDI de cobranza?",
+    "¿Qué pasa si no cumplo con los requisitos para CFDI como comisionista?",
+    "¿Es obligatorio emitir CFDI por servicios de cobranza?",
+    "¿Qué es el nodo ‘ACuentaTerceros’ en el CFDI?",
+    "¿Cuáles son mis obligaciones fiscales como comisionista?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:db3c4d30ea5e6603",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Administración de planes personales de retiro",
+  "denominacion_comun": "Administración de Planes Personales de Retiro",
   "temas": [
-    "Instituciones autorizadas",
-    "Planes personales de retiro",
-    "Trámites ante el SAT",
-    "Listado de instituciones",
-    "Avisos requeridos",
-    "Cumplimiento de disposiciones"
+    "planes personales de retiro",
+    "instituciones autorizadas",
+    "SAT",
+    "avisos de trámite",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
-    "Planes de retiro",
-    "Instituciones de retiro",
-    "Listado SAT",
-    "Avisos de administración",
-    "Aviso 93/ISR",
-    "Aviso 94/ISR"
+    "plan de retiro",
+    "instituciones de retiro",
+    "avisos para el SAT",
+    "ficha de trámite 93",
+    "ficha de trámite 94"
   ],
-  "resumen": "Esta regla establece qué instituciones están autorizadas para administrar planes personales de retiro y los trámites que deben realizar para ser incluidas en el listado del SAT. También señala que el SAT puede requerir información adicional en caso de errores o falta de documentación en los avisos presentados.",
+  "resumen": "Se establecen las condiciones y requisitos para que las instituciones administren los planes personales de retiro y permanezcan en el listado del SAT. Además, se especifica que deben presentar información anualmente y que el SAT puede requerir información adicional si hay errores.",
   "preguntas_ejemplo": [
-    "¿Qué instituciones pueden administrar mis planes personales de retiro?",
-    "¿Cómo me aseguro de que una institución esté en el listado del SAT?",
-    "¿Qué avisos debo presentar para los planes de retiro?",
-    "¿El SAT verifica la información de las instituciones de retiro?",
-    "¿Cuáles son los trámites para incluirme en el listado de administradores de planes de retiro?"
+    "¿Cómo puedo saber si mi institución está autorizada para administrar mi plan de retiro?",
+    "¿Qué requisitos necesita presentar una institución para estar en el listado del SAT?",
+    "¿Con qué frecuencia deben presentar las instituciones la información para mantenerse autorizadas?",
+    "¿Qué ocurre si la documentación presentada tiene errores?",
+    "¿Qué tipos de instituciones pueden administrar planes personales de retiro?"
   ]
 }

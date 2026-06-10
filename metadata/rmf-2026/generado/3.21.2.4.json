@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de20cb1f2ba933a9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para adquisición o construcción de inmuebles",
+  "denominacion_comun": "Valor de Inversiones en Fideicomisos",
   "temas": [
-    "Impuesto sobre la renta",
-    "Fideicomisos",
-    "Bienes inmuebles",
-    "Valor de inversión",
-    "Cálculo de valores",
-    "Arrendamiento",
-    "Préstamos",
-    "Certificados bursátiles"
+    "fideicomisos",
+    "valor promedio anual",
+    "bienes inmuebles",
+    "derechos de arrendamiento",
+    "costo de construcción",
+    "ingresos por arrendamiento",
+    "certificados bursátiles fiduciarios",
+    "inversiones no inmobiliarias"
   ],
   "terminos_coloquiales": [
-    "Fideicomisos inmobiliarios",
-    "ISR fideicomisos",
-    "Certificados de participación",
-    "Certificados bursátiles fiduciarios"
+    "fideicomisos de inversión",
+    "valor de inmuebles",
+    "arrendamientos",
+    "costos de construcción",
+    "certificados de participación",
+    "certificados bursátiles"
   ],
-  "resumen": "Esta regla establece cómo calcular el valor promedio anual de los bienes inmuebles y derechos en fideicomisos para la inversión en bienes. Incluye pautas sobre arrendamientos y la consideración de préstamos otorgados por el fideicomiso.",
+  "resumen": "Esta regla establece cómo calcular el valor promedio anual de las inversiones en fideicomisos, teniendo en cuenta bienes inmuebles, derechos y créditos. También se detalla cómo determinar el valor de los arrendamientos y otros derechos relacionados, así como el tratamiento de inversiones no inmobiliarias.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el valor de un fideicomiso de bienes inmuebles?",
-    "¿Qué requisitos deben cumplir los fideicomisos para el ISR?",
-    "¿Cómo se determina el valor de los derechos de arrendamiento en un fideicomiso?",
-    "¿Qué es el valor promedio anual en un fideicomiso?",
-    "¿De qué forma se actualiza el costo de construcción de bienes inmuebles en fideicomisos?"
+    "¿Cómo se calcula el valor de los inmuebles en un fideicomiso?",
+    "¿Qué debo considerar para el valor de los ingresos por arrendamiento?",
+    "¿Cuál es el procedimiento para actualizar el costo de construcción de un inmueble?",
+    "¿Qué son los certificados bursátiles fiduciarios y cómo afectan el fideicomiso?",
+    "¿Cómo se determina el valor promedio anual de los bienes fideicomitidos?"
   ]
 }

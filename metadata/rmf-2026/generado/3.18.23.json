@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1bf650f58bc3740d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retenciones en operaciones con partes relacionadas",
   "temas": [
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero",
-    "Operaciones con partes relacionadas",
-    "Intercambio de información"
+    "Impuesto sobre la Renta",
+    "Partes relacionadas",
+    "Retenciones",
+    "Acuerdo de intercambio de información"
   ],
   "terminos_coloquiales": [
-    "Retenciones a partes relacionadas",
-    "ISR partes relacionadas",
-    "Retención LISR 171",
-    "RMF 2026"
+    "retención de impuestos",
+    "operaciones con partes relacionadas",
+    "LISR",
+    "implicaciones fiscales",
+    "información fiscal internacional"
   ],
-  "resumen": "Esta regla trata sobre las retenciones que se deben aplicar cuando se realizan operaciones con partes relacionadas. Si estas operaciones se realizan con entidades en países que tienen acuerdos de intercambio de información con México, no se aplicará la retención del artículo 171 de la Ley del ISR.",
+  "resumen": "La disposición establece que las retenciones solo son aplicables en operaciones con partes relacionadas según la Ley del ISR. Si no hay operaciones con partes relacionadas, se aplicarán otras retenciones según lo indicado en la ley. También menciona que si los pagos son a partes relacionadas en países con acuerdos de intercambio de información, no se aplicará la retención específica del artículo mencionado.",
   "preguntas_ejemplo": [
-    "¿Cuándo se aplican retenciones a partes relacionadas?",
-    "¿Qué pasa si pago a una empresa en el extranjero?",
-    "¿Cómo afecta el intercambio de información a las retenciones fiscales?",
-    "¿Qué artículos de la Ley del ISR se deben considerar para retenciones?",
-    "¿Hay excepciones para las retenciones en operaciones con partes relacionadas?"
+    "¿Qué se considera una operación con partes relacionadas?",
+    "¿Cómo se calcula la retención para partes relacionadas?",
+    "¿Qué pasa si no hay operaciones con partes relacionadas?",
+    "¿Los acuerdos de intercambio de información afectan las retenciones?",
+    "¿Cuáles artículo de la LISR se aplican para retenciones en partes relacionadas?"
   ]
 }

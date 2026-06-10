@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d883597d30e63a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Incentivos Fiscales POINBI",
+  "denominacion_comun": "Régimen POINBI",
   "temas": [
-    "pagos provisionales",
-    "coeficiente de utilidad",
     "personas morales",
+    "pagos provisionales",
+    "ingresos económicos",
+    "coeficiente de utilidad",
     "constancia",
-    "actividades económicas",
-    "Ley del ISR"
+    "Decreto POINBI"
   ],
   "terminos_coloquiales": [
     "régimen POINBI",
-    "incentivos fiscales POINBI",
-    "Pagos Provisionales POINBI"
+    "pago provisional",
+    "ingresos de POINBI",
+    "constancia de POINBI"
   ],
-  "resumen": "Las personas morales que tributen conforme al Título II de la Ley del ISR y operen en los POINBI determinarán sus pagos provisionales basados en un coeficiente de utilidad de cero, desde el mes en que obtienen una constancia. El primer pago provisional del siguiente ejercicio incluirá los primeros tres meses del mismo.",
+  "resumen": "El régimen POINBI establece que las personas morales que tributen bajo el Título II de la Ley del ISR deben calcular sus pagos provisionales solo sobre los ingresos generados en los POINBI. Estos pagos se determinan utilizando un coeficiente de utilidad de cero durante el ejercicio fiscal correspondiente y considerando la constancia obtenida.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los pagos provisionales en el régimen POINBI?",
-    "¿Qué es el coeficiente de utilidad en el régimen de incentivos POINBI?",
-    "¿Cuándo se debe presentar el primer pago provisional en el régimen POINBI?",
-    "¿Qué deben hacer las personas morales que obtienen la constancia en POINBI?",
-    "¿Qué ingresos se consideran para los pagos provisionales en POINBI?"
+    "¿Cómo se determinan los pagos provisionales en el régimen POINBI?",
+    "¿Qué coeficiente de utilidad aplico si tengo constancia en POINBI?",
+    "¿Qué ingresos se consideran para el régimen POINBI?",
+    "¿Cuándo debo hacer el primer pago provisional después de obtener la constancia?"
   ]
 }

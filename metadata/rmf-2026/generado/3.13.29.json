@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:67203eafe158626f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de CFDI global en el RESICO",
+  "denominacion_comun": "Cancelación de CFDI global",
   "temas": [
-    "CFDI global",
-    "cancelación de CFDI",
     "Régimen Simplificado de Confianza",
-    "plazos de cancelación",
-    "obligaciones fiscales"
+    "CFDI",
+    "cancelación de comprobantes",
+    "ejercicio fiscal",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "cancelar CFDI global",
+    "factura global",
     "RESICO",
-    "Régimen Simplificado de Confianza",
-    "CFDI"
+    "cancelar CFDI",
+    "comprobantes fiscales",
+    "contribuyentes en el RESICO"
   ],
-  "resumen": "Los contribuyentes en el Régimen Simplificado de Confianza pueden cancelar los CFDI globales que hayan emitido, hasta el último día de abril del ejercicio fiscal siguiente. Esto les permite mantener sus obligaciones fiscales al día.",
+  "resumen": "Los contribuyentes que están en el Régimen Simplificado de Confianza pueden cancelar los CFDI globales que hayan emitido hasta el último día de abril del ejercicio fiscal siguiente al que correspondan. Esto les permite regularizar sus comprobantes fiscales.",
   "preguntas_ejemplo": [
     "¿Cómo puedo cancelar un CFDI global en el RESICO?",
-    "¿Cuál es el plazo para cancelar un CFDI global?",
-    "¿Qué implica la cancelación de CFDI en el Régimen Simplificado de Confianza?",
-    "¿Puedo cancelar todos mis CFDI emitidos en un año?",
-    "¿Qué artículos regulan la cancelación de CFDI global en el RESICO?"
+    "¿Hasta cuándo puedo cancelar mis facturas globales?",
+    "¿Qué requisitos tengo que cumplir para cancelar un CFDI?",
+    "¿Qué pasa si no cancelé mi CFDI global a tiempo?",
+    "¿Los contribuyentes en el RESICO pueden hacer cancelaciones de comprobantes?"
   ]
 }

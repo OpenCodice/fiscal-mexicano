@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:20bc03230827107f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retención de Impuesto sobre la Renta",
   "temas": [
-    "intermediarios",
     "retención de impuestos",
-    "tratados de doble tributación",
+    "tratados para evitar doble tributación",
     "residencia fiscal",
-    "ganancias",
-    "cuentas"
+    "intermediarios financieros"
   ],
   "terminos_coloquiales": [
     "escrito de residencia",
-    "retención ISR",
-    "LISR 161",
-    "intermediario fiscal"
+    "trato con inversionistas extranjeros",
+    "papel firmado",
+    "LISR"
   ],
-  "resumen": "La regla establece que un intermediario no tiene que retener el impuesto sobre la renta si obtiene un escrito firmado por el titular de la cuenta, donde declare ser residente de un país con tratado fiscal con México. Esto facilita el manejo fiscal para operaciones en contextos internacionales.",
+  "resumen": "La norma establece que los intermediarios no tienen que retener el impuesto si reciben un escrito firmado por el titular de la cuenta, donde este confirma ser residente de un país con un tratado fiscal con México.",
   "preguntas_ejemplo": [
-    "¿Cuándo un intermediario no tiene que retener ISR?",
-    "¿Qué necesito para evitar la retención de impuestos si soy residente en otro país?",
-    "¿Qué requisitos deben cumplirse para que un intermediario esté relevado de la retención?",
-    "¿Qué dice la LISR sobre la retención y la residencia fiscal?",
-    "¿Cómo funciona el tratado de doble tributación en estos casos?"
+    "¿Cuándo debe un intermediario retener el ISR?",
+    "¿Qué requisitos necesito para no pagar retención?",
+    "¿Cómo puedo comprobar que soy residente en otro país?",
+    "¿Qué es el tratado para evitar la doble tributación?",
+    "¿Qué documento necesito entregar para no tener retención de impuestos?"
   ]
 }

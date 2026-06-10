@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e0ea95989341f5b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI para consorcios en hidrocarburos",
+  "denominacion_comun": "Comprobantes fiscales de consorcios",
   "temas": [
-    "comprobantes fiscales",
-    "consorcios",
-    "contraprestaciones",
     "CFDI",
-    "SAT",
-    "ingresos hidrocarburos",
-    "operador del consorcio"
+    "contraprestaciones",
+    "consorcios",
+    "operador",
+    "Complemento para Ingresos"
   ],
   "terminos_coloquiales": [
-    "CFDI consorcio",
-    "comprobantes de consorcio",
-    "ingresos por hidrocarburos",
-    "Complemento para Ingresos de Consorcios",
+    "factura",
+    "comprobante fiscal",
+    "contrato de hidrocarburos",
+    "ingreso del consorcio",
     "LISH"
   ],
-  "resumen": "Los integrantes de un consorcio deben emitir un CFDI al operador por las contraprestaciones recibidas, señalando la parte que les corresponde. Este CFDI debe incluir un complemento específico publicado por el SAT con información relevante sobre el contrato y las contraprestaciones.",
+  "resumen": "Cada integrante de un consorcio debe expedir un CFDI al operador que indique su parte de las contraprestaciones. Este CFDI debe incluir un complemento específico con información relevante sobre el contrato y las contraprestaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo debo emitir un CFDI si soy parte de un consorcio?",
-    "¿Qué información necesito incluir en el CFDI para un consorcio?",
-    "¿Qué es el Complemento para Ingresos de Consorcios?",
-    "¿Cuáles son los requisitos para las contraprestaciones en hidrocarburos?",
-    "¿Qué obligaciones tengo como integrante de un consorcio para reportar ingresos?"
+    "¿Qué es un CFDI para un consorcio?",
+    "¿Cómo se deben reportar las contraprestaciones en el consorcio?",
+    "¿Qué información debe tener el CFDI de un consorcio?",
+    "¿Cuál es el papel del operador en la distribución de las contraprestaciones?",
+    "¿Qué es el Complemento para Ingresos de Consorcios?"
   ]
 }

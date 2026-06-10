@@ -6,35 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c80bb63bda46921c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operaciones financieras derivadas",
   "temas": [
+    "capital",
+    "deuda",
     "cobertura cambiaria",
-    "futuros de divisas",
-    "títulos opcionales",
+    "futuros",
     "warrants",
-    "futuros extrabursátiles",
-    "operaciones de deuda",
+    "INPC",
     "tasas de interés",
-    "INPC"
+    "forwards"
   ],
   "terminos_coloquiales": [
-    "operaciones derivadas",
     "derivados financieros",
-    "cobertura cambiaria",
+    "cobertura de divisas",
+    "futuros de divisas",
     "warrants",
-    "forwards",
-    "futuros",
-    "CFF",
-    "LISR"
+    "cubiertas cambiarias",
+    "derivados de deuda",
+    "operaciones con forwards"
   ],
-  "resumen": "Las operaciones financieras derivadas incluyen actividades como coberturas cambiarias y contratos de futuros, así como operaciones con títulos opcionales. Estas pueden clasificarse en derivadas de capital o de deuda, dependiendo de las condiciones específicas y de los instrumentos utilizados.",
+  "resumen": "Esta regla define las operaciones financieras derivadas de capital y de deuda, incluyendo aspectos como coberturas cambiarias, futuros de divisas y títulos opcionales, así como las operaciones cuyas normativas son emitidas por el Banco de México y la CNBV.",
   "preguntas_ejemplo": [
-    "¿Qué son las operaciones financieras derivadas?",
-    "¿Cómo se clasifican las operaciones con warrants?",
-    "¿Qué condiciones se requieren para hacer un contrato de futuros sobre tasas de interés?",
-    "¿Qué son los forwards y cómo se utilizan en operaciones cambiarias?",
-    "¿Qué incluye la cobertura cambiaria de corto plazo?"
+    "¿Qué son las operaciones financieras derivadas de capital?",
+    "¿Cómo se clasifican las operaciones financieras derivadas de deuda?",
+    "¿Qué son los warrants en el contexto de las operaciones financieras?",
+    "¿Cuáles son las diferencias entre futuros y forwards?",
+    "¿Qué regulaciones siguen las operaciones con derivados financieros?"
   ]
 }

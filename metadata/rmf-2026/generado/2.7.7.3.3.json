@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df3738215f02c2cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios de fletamento por viaje",
+  "denominacion_comun": "CFDI con complemento Carta Porte",
   "temas": [
-    "CFDI",
+    "fletamento por viaje",
+    "CFDI de ingreso",
     "complemento Carta Porte",
-    "fletamento",
-    "transporte marítimo",
+    "transporte de mercancías",
     "gestión náutica",
-    "responsabilidad de transporte"
+    "responsabilidad de carga"
   ],
   "terminos_coloquiales": [
-    "fletamento por viaje",
-    "CFDI Carta Porte",
-    "servicios de transporte marítimo"
+    "factura",
+    "carta porte",
+    "fletamento",
+    "transporte marítimo"
   ],
-  "resumen": "Cuando un contribuyente fletante conserva la gestión de la embarcación en un fletamento por viaje, debe emitir un CFDI de tipo ingreso con complemento Carta Porte por cada servicio de transporte realizado. Esto se aplica a la carga entre puertos mexicanos.",
+  "resumen": "Cuando un contribuyente fletante realiza un servicio de fletamento por viaje y mantiene la gestión de la embarcación, debe emitir un CFDI de tipo ingreso con el complemento Carta Porte. Esto es necesario para el transporte de bienes entre puertos mexicanos.",
   "preguntas_ejemplo": [
-    "¿Qué es un CFDI de fletamento por viaje?",
-    "¿Cómo se emite un CFDI con complemento Carta Porte?",
-    "¿Cuándo debo usar el complemento Carta Porte?",
-    "¿Quién es responsable del transporte en un contrato de fletamento?",
-    "¿Qué obligaciones tengo como fletante en transporte marítimo?"
+    "¿Qué es un CFDI con complemento Carta Porte?",
+    "¿Cuándo debo emitir un CFDI por fletamento?",
+    "¿Qué requisitos tiene el fletamento por viaje?",
+    "¿Qué información debe contener un CFDI de ingreso por transporte marítimo?",
+    "¿Cómo se gestiona la responsabilidad de carga en el fletamento?",
+    "¿Qué es la gestión náutica en el fletamento?"
   ]
 }

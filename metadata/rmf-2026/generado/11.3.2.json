@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:45f19186ed614a66",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo a productos lácteos",
+  "denominacion_comun": "Estimulo a productos lácteos",
   "temas": [
+    "beneficios fiscales",
     "productos lácteos",
-    "productos lácteos combinados",
-    "especificaciones normativas",
+    "especificaciones sanitarias",
     "Normas Oficiales Mexicanas",
-    "beneficios fiscales"
+    "decreto fiscal"
   ],
   "terminos_coloquiales": [
-    "estímulo lácteo",
-    "productos lácteos con estímulo",
-    "NOM-183",
-    "NOM-243"
+    "productos lácteos",
+    "leche",
+    "beneficios fiscales",
+    "NOM-183-SCFI-2012",
+    "NOM-243-SSA1-2010"
   ],
-  "resumen": "Esta disposición establece que los productos lácteos y combinados que cumplan con ciertas especificaciones normativas están incluidos en un estímulo fiscal. Se refieren a normativas específicas para asegurar la calidad y composición de estos productos.",
+  "resumen": "Esta disposición establece un estímulo fiscal para los productos lácteos y productos lácteos combinados que cumplan con ciertas normativas. Se detalla la necesidad de cumplir con las especificaciones establecidas en las Normas Oficiales Mexicanas correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué productos lácteos tienen estímulo fiscal?",
-    "¿Cuáles son las Normas Oficiales que regulan los productos lácteos?",
-    "¿Qué especificaciones necesitan cumplir los productos lácteos para acceder al estímulo?",
-    "¿Qué se considera un producto lácteo combinado?",
-    "¿Qué beneficios fiscales existen para los productos lácteos?"
+    "¿Cuáles son los beneficios fiscales para productos lácteos?",
+    "¿Qué productos lácteos están incluidos en el decreto?",
+    "¿Qué normas debo cumplir para obtener el estímulo fiscal en productos lácteos?",
+    "¿Qué especificaciones se requieren para los productos lácteos combinados?",
+    "¿Dónde puedo encontrar las Normas Oficiales Mexicanas para productos lácteos?"
   ]
 }

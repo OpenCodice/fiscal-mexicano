@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:96830c8e482c461d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Vigencia de autorización de proveedores de certificación de CFDI",
+  "denominacion_comun": "Vigencia de autorización de PCCFDI",
   "temas": [
-    "autorización de PCCFDI",
-    "vigencia de autorización",
-    "renovación de autorización",
-    "revocación de autorización",
-    "periodos de espera",
-    "requisitos para solicitar autorización"
+    "Proveedores de Certificación",
+    "CFDI",
+    "Renovación de autorización",
+    "Revocación de autorización",
+    "Vigencia fiscal",
+    "Inhabilitación"
   ],
   "terminos_coloquiales": [
-    "proveedor de CFDI",
     "PCCFDI",
-    "certificación de facturas electrónicas",
-    "autorización de proveedores"
+    "Proveedores de CFDI",
+    "Factura digital",
+    "Certificación de CFDI"
   ],
-  "resumen": "La autorización para operar como proveedor de certificación de CFDI es válida por dos años. Si es revocada, no se puede solicitar nuevamente en un año. Además, hay periodos específicos que deben cumplirse para volver a solicitar la autorización.",
+  "resumen": "La autorización para operar como Proveedor de Certificación de CFDI tiene una vigencia de dos años. Si se revoca la autorización, no se puede volver a solicitar en un año. Además, hay un periodo de espera de diez años para ciertas situaciones específicas antes de volver a solicitar la autorización.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo dura la autorización de un proveedor de CFDI?",
-    "¿Qué pasa si se revoca la autorización de un PCCFDI?",
-    "¿Cuándo puede volver a solicitar autorización un proveedor de CFDI?",
-    "¿Qué requisitos debo cumplir para renovar la autorización de PCCFDI?",
-    "¿Hay un periodo de espera después de que me revocan la autorización?",
-    "¿Qué sucede si no renuevo mi autorización a tiempo?"
+    "¿Cuánto tiempo dura la autorización de un PCCFDI?",
+    "¿Qué pasa si me revocan la autorización de PCCFDI?",
+    "¿Cuándo puedo volver a solicitar la autorización de PCCFDI?",
+    "¿Qué requisitos debo cumplir para renovar mi autorización como PCCFDI?",
+    "¿Qué sucede si no renuevo mi autorización como PCCFDI?"
   ]
 }

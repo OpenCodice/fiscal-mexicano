@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d57ef4b31aec1443",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI para dividendos",
+  "denominacion_comun": "Expedición de CFDI por dividendos",
   "temas": [
-    "expedición de CFDI",
+    "CFDI",
     "dividendos",
     "residentes en el extranjero",
-    "ISR retenido",
-    "información de acciones",
-    "beneficiarios efectivos"
+    "impuesto retenido",
+    "beneficiarios efectivos",
+    "información fiscal",
+    "tasa de impuesto"
   ],
   "terminos_coloquiales": [
-    "CFDI de dividendos",
-    "CFDI para residentes en el extranjero",
-    "retención de impuestos",
-    "impuesto sobre dividendos"
+    "factura",
+    "comprobante fiscal",
+    "CFDI",
+    "dividendos",
+    "ISR",
+    "residentes en el extranjero"
   ],
-  "resumen": "Las personas morales en México que distribuyan dividendos deben expedir CFDI solo si los titulares de las acciones lo solicitan y deben proporcionar ciertos datos para su emisión. También es necesario indicar el ISR retenido y el origen de los dividendos.",
+  "resumen": "Esta regla establece los requisitos para que las personas morales que distribuyan dividendos a los titulares de acciones expidan CFDI. Los beneficiarios deben acreditar su calidad de beneficiario efectivo y proporcionar información necesaria para su expedición.",
   "preguntas_ejemplo": [
-    "¿Cómo se expide un CFDI por dividendos?",
+    "¿Cómo se expiden los CFDI por dividendos a residentes en el extranjero?",
     "¿Qué información necesito para solicitar un CFDI de dividendos?",
-    "¿Qué pasa si soy residente en el extranjero y recibo dividendos?",
-    "¿Qué datos debe contener un CFDI de dividendos?",
-    "¿Cómo se calcula el ISR retenido en dividendos?"
+    "¿Qué requisitos deben cumplir los CFDI por dividendos?",
+    "¿Quién es considerado beneficiario efectivo de los dividendos?",
+    "¿Qué tasa de impuesto se aplica a los dividendos distribuidos?"
   ]
 }

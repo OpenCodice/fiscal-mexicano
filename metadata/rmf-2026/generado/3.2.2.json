@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa76319318241cef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Momentos de ingresos por guarda y custodia",
+  "denominacion_comun": "Momento de obtención de ingresos por guarda y custodia",
   "temas": [
-    "Impuesto sobre la renta",
-    "Servicios de guarda y custodia",
-    "Acumulación de ingresos",
-    "Concesiones y autorizaciones",
-    "Bienes embargados",
-    "Fisco federal"
+    "impuesto sobre la renta",
+    "ingresos",
+    "prestación de servicios",
+    "guarda y custodia",
+    "bienes embargados",
+    "concesiones",
+    "autorizaciones"
   ],
   "terminos_coloquiales": [
-    "ingresos por servicios de guarda",
-    "momento de ingresos",
-    "servicios de custodia",
-    "concesiones aduaneras"
+    "ingresos por servicios de guarda y custodia",
+    "bienes embargados",
+    "concesiones",
+    "custodia de bienes",
+    "servicios aduaneros"
   ],
-  "resumen": "Esta regla establece que los contribuyentes que tienen concesiones para prestar servicios de guarda y custodia de bienes embargados pueden acumular sus ingresos cuando los compensen con el aprovechamiento que deben pagar al Estado por dicha concesión.",
+  "resumen": "Los contribuyentes con concesión o autorización pueden acumular ingresos por servicios de guarda y custodia de bienes embargados en el momento que se compensen con el aprovechamiento que debe recibir el Estado. Esto aplica especialmente a bienes que han pasado a propiedad del fisco federal.",
   "preguntas_ejemplo": [
-    "¿Cuándo se deben acumular los ingresos por servicios de custodia?",
-    "¿Qué condiciones debo cumplir para registrar ingresos por bienes embargados?",
-    "¿Cómo funciona la compensación de ingresos por concesiones?",
-    "¿Qué es la autorización para servicios de guarda y custodia?",
-    "¿Qué dice la ley sobre el momento de acumulación de ingresos?",
-    "¿Cuál es el impuesto aplicable para servicios de guarda de bienes embargados?"
+    "¿Cuándo se consideran ingresos los servicios de guarda y custodia?",
+    "¿Qué significa acumular ingresos por guarda y custodia?",
+    "¿Cómo se compensan los ingresos de custodia con lo que debo al Estado?",
+    "¿Qué bienes embargados están sujetos a este régimen?",
+    "¿Qué requisitos hay para acumular estos ingresos?"
   ]
 }

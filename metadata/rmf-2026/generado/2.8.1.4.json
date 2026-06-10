@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b560d2cc631f3bf0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de ingresos y gastos en Mis Cuentas",
+  "denominacion_comun": "Registro de ingresos y gastos en Mis cuentas",
   "temas": [
-    "Registro de ingresos",
-    "Registro de gastos",
-    "Mis Cuentas",
+    "ingresos",
+    "gastos",
     "CFDI",
+    "contribuyentes",
+    "Asociaciones Religiosas",
     "SAT",
-    "Contribuyentes",
-    "Asociaciones Religiosas"
+    "aplicación electrónica"
   ],
   "terminos_coloquiales": [
-    "Registro en Mis Cuentas",
-    "Ingresos y gastos SAT",
-    "CFDI no registrado",
-    "Registro fiscal",
-    "Aplicación del SAT"
+    "Mis cuentas",
+    "registro de ingresos y gastos",
+    "gastos no amparados por CFDI",
+    "app del SAT"
   ],
-  "resumen": "Los contribuyentes con ingresos menores a 2 millones de pesos deben usar la aplicación 'Mis Cuentas' del SAT para registrar sus ingresos y gastos, exceptuando aquellos amparados por CFDI. También pueden consultar la información registrada en la misma aplicación.",
+  "resumen": "Los contribuyentes con ingresos específicos deben usar la aplicación 'Mis cuentas' del SAT para registrar sus ingresos y gastos. No es necesario registrar ingresos y gastos que estén respaldados con CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo registro mis ingresos en Mis Cuentas?",
-    "¿Qué gastos debo registrar si tengo un CFDI?",
-    "¿Quiénes deben usar la aplicación Mis Cuentas?",
-    "¿Puedo ver mis ingresos y gastos en Mis Cuentas?",
-    "¿Qué ingresos no necesito registrar en Mis Cuentas?"
+    "¿Cómo registro mis ingresos y gastos en Mis cuentas?",
+    "¿Qué ingresos no necesito registrar si tengo CFDI?",
+    "¿Quiénes deben usar la aplicación Mis cuentas del SAT?",
+    "¿Qué gastos puedo capturar en Mis cuentas?",
+    "¿Qué es el registro de ingresos y gastos en Mis cuentas?"
   ]
 }

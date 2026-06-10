@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa5eae147e639866",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificados Productivos",
+  "denominacion_comun": "Certificados productivos",
   "temas": [
     "firma electrónica avanzada",
-    "efectos legales",
-    "documentos probatorios",
+    "valor probatorio",
     "instituciones financieras",
-    "trámites ante el SAT"
+    "efectos legales",
+    "presentación de información"
   ],
   "terminos_coloquiales": [
     "certificados productivos",
     "firma electrónica",
-    "SAT"
+    "documentos con validez",
+    "anexos del SAT"
   ],
-  "resumen": "Los certificados productivos son una forma de firma electrónica avanzada que reemplaza la firma autógrafa y tiene el mismo valor probatorio ante las autoridades fiscales. Existen condiciones bajo las cuales estos certificados pueden perder su validez.",
+  "resumen": "Los certificados productivos son considerados como una firma electrónica avanzada que reemplaza la firma autógrafa y tienen el mismo valor probatorio que los documentos legales. Si una institución financiera cae en ciertos supuestos, estos certificados pueden perder su validez.",
   "preguntas_ejemplo": [
-    "¿Qué son los certificados productivos en la legislación fiscal?",
-    "¿Cómo funciona la firma electrónica avanzada?",
-    "¿Qué sucede si mi institución financiera no cumple con los requisitos para los certificados?",
-    "¿Qué trámites debo seguir para obtener un certificado productivo?",
-    "¿Qué consecuencias hay si se detecta un incumplimiento relacionado con los certificados productivos?"
+    "¿Qué son los certificados productivos?",
+    "¿Cómo se obtienen certificados productivos?",
+    "¿Qué efectos legales tienen los certificados productivos?",
+    "¿Qué pasa si una institución financiera no cumple con los requisitos?",
+    "¿Dónde puedo encontrar más información sobre certificados productivos?"
   ]
 }

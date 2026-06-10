@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d15edee05e537990",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas Reportables",
   "temas": [
-    "documentación requerida",
-    "esquemas reportables generalizados",
-    "esquemas reportables personalizados",
     "declaraciones informativas",
-    "información financiera",
-    "operaciones interconectadas",
-    "razones de negocios"
+    "esquemas reportables",
+    "diagrama de operaciones",
+    "retorno de pagos",
+    "antecedentes jurídicos",
+    "personas involucradas"
   ],
   "terminos_coloquiales": [
-    "reportes de esquemas fiscales",
-    "informes de esquemas",
-    "esquemas fiscales",
-    "CFF",
-    "RMF",
-    "información fiscal"
+    "esquemas reportables",
+    "información fiscal",
+    "declaraciones fiscales",
+    "retorno de dinero",
+    "asesor fiscal"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben adjuntar un documento en formato PDF con información detallada sobre esquemas reportables, que incluye operaciones, antecedentes y datos de los participantes. Además, se requiere revelar información específica en el caso de esquemas personalizados.",
+  "resumen": "La regla detalla la información que los asesores fiscales o contribuyentes deben presentar en las declaraciones informativas sobre esquemas reportables, tanto generalizados como personalizados. Esto incluye la descripción de las operaciones involucradas, antecedentes legales, y la documentación pertinente.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en el reporte de esquemas fiscales?",
-    "¿Qué son los esquemas reportables personalizados?",
-    "¿Cómo se documentan las operaciones interconectadas en un esquema reportable?",
-    "¿Qué consecuencias hay por no cumplir con la revelación de esquemas reportables?",
-    "¿Cuáles son los requisitos para los asesores fiscales en cuanto a esquemas reportables?"
+    "¿Qué información debo incluir en un esquema reportable?",
+    "¿Cómo se documentan los esquemas reportables?",
+    "¿Qué se considera un esquema reportable personalizado?",
+    "¿Quiénes deben presentar esquemas reportables?",
+    "¿Qué ocurre si no tengo la información requerida para un esquema reportable?"
   ]
 }

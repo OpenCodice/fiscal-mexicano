@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd89d559e8673f5d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Validación de requisitos RESICO",
   "temas": [
     "Régimen Simplificado de Confianza",
-    "Requisitos fiscales",
-    "Autoridad fiscal",
-    "Cumplimiento de obligaciones",
-    "Ubicación en régimen fiscal",
+    "verificación de requisitos",
+    "actualización de obligaciones fiscales",
+    "ingresos por actividades empresariales",
     "CFDI"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
-    "RESICO",
     "validación de requisitos",
-    "cumplimiento fiscal",
-    "obligaciones fiscales"
+    "RESICO",
+    "obligaciones fiscales",
+    "ingresos de empresas",
+    "factura"
   ],
-  "resumen": "La autoridad fiscal verifica que los contribuyentes que eligen el Régimen Simplificado de Confianza cumplan con los requisitos establecidos. Si no cumplen, pueden ser actualizados a un régimen diferente según su situación fiscal.",
+  "resumen": "La autoridad fiscal revisará que los contribuyentes que elijan el Régimen Simplificado de Confianza cumplan con los requisitos establecidos. Si no cumplen, serán ubicados en otros regímenes fiscales, como el de actividades empresariales o profesionales.",
   "preguntas_ejemplo": [
-    "¿Cómo verifica la autoridad mis requisitos para el RESICO?",
-    "¿Qué pasa si no cumplo con los requisitos del régimen simplificado?",
-    "¿Pueden cambiarme a otro régimen si no cumplo con el RESICO?",
-    "¿Qué obligaciones tengo bajo el Régimen Simplificado de Confianza?",
-    "¿Qué dice la ley sobre la validación de requisitos para el RESICO?"
+    "¿Qué requisitos necesito para el Régimen Simplificado de Confianza?",
+    "¿Qué pasa si no cumplo con los requisitos del RESICO?",
+    "¿Cómo actualizan mi régimen fiscal la autoridad?",
+    "¿Pueden cambiarme a otro régimen si no cumplo con RESICO?",
+    "¿Qué impuestos pago si estoy en el régimen de ingresos por actividades empresariales?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2b0df99d6a80fb7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opinión de Cumplimiento Fiscal para Donatarios",
+  "denominacion_comun": "Opinión de Cumplimiento Fiscal",
   "temas": [
     "donativos",
-    "cumplimiento fiscal",
-    "opinión del SAT",
-    "ejecutores del gasto",
-    "donatarios"
+    "obligaciones fiscales",
+    "donatarios",
+    "ejecutores del gasto"
   ],
   "terminos_coloquiales": [
-    "opinión fiscal",
-    "donativos deducibles",
-    "SAT",
-    "obligaciones fiscales"
+    "opinión de cumplimiento",
+    "papeleta del SAT",
+    "donativos",
+    "donatario"
   ],
-  "resumen": "Los donatarios que quieran recibir donativos deben presentar un documento vigente del SAT que muestre que cumplen con sus obligaciones fiscales. Los ejecutores del gasto deben pedir este documento antes de otorgar donativos.",
+  "resumen": "Antes de otorgar un donativo, los ejecutores del gasto deben asegurarse de que los donatarios presenten un documento del SAT que acredite que están al corriente con sus obligaciones fiscales. Los donatarios deben solicitar esta opinión para ser elegibles para recibir donativos.",
   "preguntas_ejemplo": [
     "¿Qué es la opinión de cumplimiento fiscal?",
-    "¿Cómo puedo obtener la opinión del SAT?",
-    "¿Qué documentos necesito para recibir donativos?",
-    "¿Qué requisitos deben cumplir los donatarios?",
-    "¿Qué pasa si no tengo la opinión de cumplimiento?",
-    "¿Cuáles son los pasos para solicitar la opinión de cumplimiento?"
+    "¿Cómo puedo obtener la opinión de cumplimiento del SAT?",
+    "¿Qué deben presentar los donatarios para recibir donativos?",
+    "¿Qué obligaciones fiscales deben cumplir los donatarios?",
+    "¿Qué documentos necesito para solicitar un donativo?"
   ]
 }

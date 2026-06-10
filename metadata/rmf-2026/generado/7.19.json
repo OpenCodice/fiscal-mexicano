@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8cdea4940c1eb8fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Descuento por medidor de agua",
+  "denominacion_comun": "Conservación de comprobantes para descuentos de agua",
   "temas": [
     "comprobante fiscal",
     "descuento",
     "declaración trimestral",
-    "aparato de medición",
-    "plazos fiscales"
+    "derecho de agua",
+    "aporte por instalación",
+    "artículo 224-A",
+    "artículo 281-A"
   ],
   "terminos_coloquiales": [
-    "descuento de agua",
-    "comprobante de medidor",
+    "factura de medidor",
+    "comprobante de instalación",
+    "pago por agua",
+    "descuentos de agua",
     "LFD",
-    "artículos 224-A y 281-A"
+    "Leyes de Derecho de Agua"
   ],
-  "resumen": "Los contribuyentes deben guardar el comprobante de compra e instalación del medidor de agua para poder aplicar un descuento en su declaración trimestral. Si el costo del medidor supera el derecho a cargo, el excedente se puede utilizar en declaraciones posteriores.",
+  "resumen": "El contribuyente debe guardar el comprobante de la compra e instalación del medidor de agua para poder aplicar descuentos en sus declaraciones trimestrales. Si el costo del medidor es mayor al derecho a pagar, el excedente se puede usar en declaraciones futuras.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un descuento por el medidor de agua?",
-    "¿Qué comprobante necesito para el descuento de agua?",
-    "¿Cuándo puedo aplicar el descuento en mi declaración?",
-    "¿Qué pasa si mi medidor costó más de lo que debo?",
-    "¿Por cuánto tiempo debo guardar el comprobante del medidor?"
+    "¿Necesito guardar la factura del medidor de agua?",
+    "¿Cómo puedo aplicar un descuento en mi pago de agua?",
+    "¿Qué hacer si el costo del medidor es mayor que lo que debo pagar?",
+    "¿Cuánto tiempo debo conservar mis comprobantes de pago de agua?",
+    "¿Puedo descontar compras anteriores en mi declaración de agua?",
+    "¿Qué documentos necesito para reclamar un descuento por la instalación del medidor?"
   ]
 }

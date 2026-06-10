@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:506accda5b064171",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
+    "impuesto sobre la renta",
     "personas físicas",
     "actividades agrícolas",
-    "actividades ganaderas",
-    "actividades silvícolas",
-    "actividades pesqueras",
     "ingresos",
+    "deducciones",
     "retenciones"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "simplificado",
-    "régimen de confianza"
+    "régimen simplificado",
+    "impuesto sobre la renta",
+    "ingresos agrícolas",
+    "deducciones fiscales"
   ],
-  "resumen": "Este régimen permite a las personas físicas dedicadas a ciertas actividades aplicar disposiciones específicas si también obtienen ingresos de fuentes señaladas en la ley. Está diseñado para simplificar las obligaciones fiscales de quienes operan en estos sectores.",
+  "resumen": "El Régimen Simplificado de Confianza permite a las personas físicas dedicadas a actividades agrícolas, ganaderas, silvícolas o pesqueras aplicar deducciones específicas si también obtienen ciertos ingresos. Esto facilita su regulación fiscal y simplifica el cálculo de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué actividades están incluidas en el Régimen Simplificado de Confianza?",
-    "¿Cómo puedo aplicar los beneficios del RESICO?",
-    "¿Qué ingresos debo considerar bajo este régimen?",
-    "¿Estoy obligado a retener impuestos si estoy en el Régimen Simplificado?",
-    "¿Qué requisitos debo cumplir para pertenecer al régimen simplificado?"
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Quiénes pueden beneficiarse del RESICO?",
+    "¿Qué actividades económicas están incluidas en este régimen?",
+    "¿Cómo afectan mis ingresos agrícolas al impuesto sobre la renta?",
+    "¿Qué deducciones puedo aplicar en este régimen?"
   ]
 }

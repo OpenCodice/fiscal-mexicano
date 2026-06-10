@@ -6,26 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a8b419976034f53f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reducción de multas por autocorrección",
   "temas": [
     "facultades de comprobación",
     "autocorrección",
-    "reducir multas",
-    "obligaciones fiscales"
+    "reducción de multas",
+    "obligaciones fiscales",
+    "contribuciones",
+    "multas",
+    "impuestos"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
-    "autocorrección",
-    "multas fiscales"
+    "reducir multas",
+    "autocorrección fiscal",
+    "multas fiscales",
+    "CFF",
+    "artículo 74",
+    "facultades de comprobación"
   ],
-  "resumen": "Los contribuyentes bajo facultades de comprobación que elijan autocorregirse pueden solicitar reducción de multas si cumplen con ciertas condiciones. Si se autocorrigen de manera satisfactoria, pueden obtener una reducción total o parcial de las multas generadas por obligaciones no cubiertas.",
+  "resumen": "Los contribuyentes sujetos a auditoría pueden solicitar una reducción de multas si se autocorrigen antes de que termine el plazo establecido. La reducción puede ser del 100% si se cumplen ciertas condiciones, incluidas las de pago de contribuciones atrasadas.",
   "preguntas_ejemplo": [
     "¿Cómo puedo reducir mis multas fiscales?",
-    "¿Qué es la autocorrección en materia fiscal?",
-    "¿Cuáles son las condiciones para pedir reducción de multas?",
-    "¿Qué porcentaje de reducción puedo obtener en mis multas?",
-    "¿Dónde puedo solicitar la reducción de multas fiscales?"
+    "¿Qué debo hacer para autocorregirme ante el SAT?",
+    "¿Cuáles son los plazos para solicitar la reducción de multas?",
+    "¿Qué significa facultades de comprobación?",
+    "¿Puedo pagar mis contribuciones en parcialidades y pedir reducción de multas?",
+    "¿Qué multas son elegibles para reducción según el artículo 74 del CFF?"
   ]
 }

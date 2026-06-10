@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a0f36868befb08d6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Información sobre la Situación Fiscal",
   "temas": [
     "obligaciones fiscales",
-    "presentación de información",
+    "contribuyentes",
     "operaciones con partes relacionadas",
-    "umbral de montos"
+    "montos mínimos",
+    "actividades empresariales",
+    "prestación de servicios profesionales"
   ],
   "terminos_coloquiales": [
+    "declaración de impuestos",
     "situación fiscal",
+    "partes relacionadas",
     "CFF 32-H",
     "CFF 32-A"
   ],
-  "resumen": "Los contribuyentes deben presentar información sobre su situación fiscal si realizan operaciones con ciertas partes relacionadas y si estas superan montos específicos. Este requisito aplica solo en casos específicos de actividades empresariales o servicios profesionales.",
+  "resumen": "Los contribuyentes que deben presentar información sobre su situación fiscal lo harán solo si han realizado operaciones significativas con partes relacionadas. Los montos de estas operaciones deben exceder ciertos límites establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar la información sobre mi situación fiscal?",
-    "¿A qué se refiere el artículo 32-H del CFF?",
-    "¿Qué operaciones son consideradas para la presentación de información fiscal?",
-    "¿Cuáles son los montos que debo considerar para presentar mi información fiscal?"
+    "¿Cuándo tengo que presentar mi situación fiscal?",
+    "¿Qué son las operaciones con partes relacionadas?",
+    "¿Qué monto debo superar para tener que declarar?",
+    "¿A qué artículos del CFF me debo referir?",
+    "¿Qué sucede si mis operaciones son menores a los montos establecidos?"
   ]
 }

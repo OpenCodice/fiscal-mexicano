@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a40b6f0d0dd07a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución del IVA por Fiduciarias",
+  "denominacion_comun": "Devolución del IVA por fideicomiso",
   "temas": [
     "devolución del IVA",
-    "institución fiduciaria",
     "fideicomiso",
     "responsabilidad solidaria",
-    "solicitud de devolución",
+    "obligaciones fiscales",
     "impuesto acreditable"
   ],
   "terminos_coloquiales": [
-    "devolución de IVA",
-    "IVA fiduciario",
-    "fideicomisos y IVA"
+    "devolución del IVA",
+    "fideicomiso",
+    "IVA",
+    "compensar IVA"
   ],
-  "resumen": "Esta regla establece que las instituciones fiduciarias pueden solicitar la devolución del IVA por cuenta de quienes realizan actividades que generan este impuesto a través de un fideicomiso, siempre que asuman la responsabilidad solidaria. Sin embargo, no se permite que los fideicomisos consideren como acreditable el IVA que se les haya trasladado o pagado.",
+  "resumen": "La regla establece que una institución fiduciaria puede solicitar la devolución del IVA a través del Portal del SAT en nombre de las personas que operan un fideicomiso, siempre y cuando se cumplan ciertos requisitos. Además, aclara que no se puede considerar el IVA acreditado por el fideicomiso como impuesto acreditable ni solicitar la devolución de saldos a favor generados por este.",
   "preguntas_ejemplo": [
-    "¿Cómo solicita una fiduciaria la devolución del IVA?",
-    "¿Qué responsabilidades tiene una institución fiduciaria en la devolución del IVA?",
-    "¿El IVA acreditado por un fideicomiso es deducible?",
-    "¿Puede un fideicomiso solicitar la devolución del IVA que ha pagado?",
-    "¿Qué requisitos debe cumplir una fiduciaria para devolver el IVA?"
+    "¿Cómo puedo solicitar la devolución del IVA por medio de un fideicomiso?",
+    "¿Qué requisitos debo cumplir para que un fideicomiso devuelva IVA?",
+    "¿Puedo acreditar el IVA pagado por el fideicomiso?",
+    "¿Qué implica la responsabilidad solidaria en la devolución del IVA?",
+    "¿El IVA del fideicomiso es acreditable?"
   ]
 }

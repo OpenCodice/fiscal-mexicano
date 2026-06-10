@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c43b74004f43b465",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Información de pagos en efectivo entre instituciones financieras",
   "temas": [
-    "Impuesto sobre la renta",
-    "Instituciones de crédito",
-    "Pagos en efectivo",
-    "Tarjetas de crédito",
-    "Identificación de pagos"
-  ],
-  "terminos_coloquiales": [
-    "pagos en efectivo entre bancos",
     "información de pagos",
     "tarjetas de crédito",
-    "ISR",
-    "Regla 3.5.17"
+    "instituciones financieras",
+    "depósitos",
+    "identificación de pagos"
   ],
-  "resumen": "Las instituciones financieras deben informar sobre los pagos en efectivo realizados a tarjetas de crédito a otras instituciones. Esto incluye datos que permitan identificar los pagos para asegurar su correcta contabilización.",
+  "terminos_coloquiales": [
+    "pago en efectivo",
+    "transferencia entre bancos",
+    "tarjeta de crédito",
+    "instituciones financieras",
+    "LISR"
+  ],
+  "resumen": "La regla establece que las instituciones financieras deben informar sobre los pagos en efectivo recibidos a tarjetas de crédito cuando estos se efectúan a través de otra institución. Esto incluye datos para identificar los pagos y la entidad destino del depósito.",
   "preguntas_ejemplo": [
-    "¿Qué información debe proporcionar un banco al recibir pagos en efectivo?",
-    "¿Cómo se manejan los pagos de tarjetas de crédito entre diferentes bancos?",
-    "¿Qué obligacion tienen las instituciones financieras sobre los pagos en efectivo?",
-    "¿Qué datos se requieren para identificar los pagos entre instituciones?",
-    "¿Cuándo se tiene que informar sobre los pagos en efectivo de tarjetas de crédito?"
+    "¿Qué información deben compartir los bancos sobre pagos en efectivo?",
+    "¿Cómo se reportan los pagos en efectivo entre instituciones financieras?",
+    "¿Qué se necesita para identificar un pago en efectivo recibido?",
+    "¿Qué implica el artículo 55 de la Ley del ISR sobre pagos en tarjetas de crédito?",
+    "¿Cuándo se considera un pago en efectivo a una tarjeta de crédito?"
   ]
 }

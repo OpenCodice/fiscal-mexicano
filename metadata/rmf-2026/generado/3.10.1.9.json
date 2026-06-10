@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:684e64a5bc661a5f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Otorgamiento de becas",
   "temas": [
-    "becas",
     "organizaciones civiles",
     "fideicomisos",
+    "becas",
     "investigación científica",
-    "documentación",
-    "obligaciones fiscales"
+    "documentación requerida",
+    "transparencia",
+    "donativos deducibles"
   ],
   "terminos_coloquiales": [
-    "becas",
-    "otorgamiento de becas",
-    "donativos deducibles",
-    "OC",
-    "fideicomisos"
+    "dar becas",
+    "fundación que otorga becas",
+    "apoyo educativo",
+    "ayuda económica para estudios",
+    "SAT",
+    "ISR"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que otorguen becas deben documentar adecuadamente el proceso, publicar convocatorias y resultados, y conservar información sobre los beneficiarios. Además, deben tener estos documentos en su contabilidad.",
+  "resumen": "La regla establece los requisitos que deben cumplir las organizaciones civiles y fideicomisos que otorgan becas, incluyendo la documentación y la transparencia en la publicación de convocatorias y resultados. Además, se requiere conservar información detallada sobre los beneficiarios y las becas otorgadas.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para otorgar becas?",
-    "¿Cómo debo documentar las becas que otorgan las organizaciones civiles?",
-    "¿Qué información necesito conservar al otorgar becas?",
-    "¿El SAT puede pedir información sobre las becas otorgadas?",
-    "¿Qué datos debo recopilar de los beneficiarios de las becas?"
+    "¿Cómo se deben documentar las becas otorgadas por una organización civil?",
+    "¿Qué requisitos tiene una fundación para dar becas?",
+    "¿El SAT requiere información sobre becas otorgadas por fideicomisos?",
+    "¿Qué informes debo presentar si otorgo becas?",
+    "¿Cuáles son los documentos necesarios para acreditarse como organización que otorga becas?"
   ]
 }

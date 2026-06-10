@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a230b70801a70c9a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo del IVA en motocicletas usadas",
@@ -16,22 +17,21 @@
     "personas físicas",
     "impuesto",
     "reglamento",
-    "regla 4.2.7"
+    "RMF"
   ],
   "terminos_coloquiales": [
-    "cómo calcular el IVA en motos usadas",
-    "IVA en enajenación de motos",
-    "motocicletas usadas IVA",
-    "RMF",
-    "LIVA"
+    "IVA en motos usadas",
+    "impuesto a la venta de motocicletas",
+    "comprar una moto usada",
+    "motocicleta de segunda mano",
+    "personas que venden motos"
   ],
-  "resumen": "Esta disposición establece cómo calcular el IVA cuando se venden motocicletas usadas que fueron adquiridas de personas físicas. Se deben seguir las normas del artículo 27 del Reglamento de la Ley del IVA y la regla 4.2.7.",
+  "resumen": "Esta disposición establece cómo calcular el IVA cuando se venden motocicletas usadas, específicamente cuando el vendedor es una persona física y no indica por separado el impuesto. Se deben seguir ciertas reglas y artículos de la ley y su reglamento.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el IVA en la venta de una moto usada?",
-    "¿Cuál es el tratamiento del IVA para motocicletas usadas?",
-    "¿Qué dice la regla 4.2.8 sobre el IVA en motos?",
-    "¿Qué artículos debo revisar para calcular el IVA en enajenación de motos?",
-    "¿Cómo afecta la adquisición de motos usadas al IVA?",
-    "¿Qué hacer si la persona física no traslada el IVA por separado?"
+    "¿Qué pasa si compré una motocicleta a una persona física?",
+    "¿Quién debe pagar el IVA al vender una moto usada?",
+    "¿Qué reglas aplican para el impuesto de las motocicletas usadas?",
+    "¿Cómo se aplica la ley del IVA en la enajenación de motos?"
   ]
 }

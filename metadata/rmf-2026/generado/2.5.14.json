@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ffd44bfc5cb98b55",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Personas relevadas de presentar aviso de cambio de Régimen",
+  "denominacion_comun": "Aviso de cambio de Régimen",
   "temas": [
     "Régimen fiscal",
-    "Aviso de cambio de régimen",
-    "Actualización de datos",
     "RFC",
-    "Obligaciones fiscales"
+    "obligaciones fiscales",
+    "aumento de obligaciones"
   ],
   "terminos_coloquiales": [
-    "Cambio de régimen",
-    "No presentar aviso",
-    "Actualización del RFC",
-    "Régimen sin obligaciones"
+    "cambio de régimen",
+    "RFC",
+    "aumento de obligaciones",
+    "avisos",
+    "obligaciones fiscales"
   ],
-  "resumen": "Se establece que algunas personas físicas no necesitan presentar un aviso para cambiar de régimen fiscal si cumplen con ciertos supuestos. La autoridad fiscal puede actualizar automáticamente sus obligaciones en el RFC sin requerir un aviso del contribuyente.",
+  "resumen": "La autoridad fiscal puede aumentar las obligaciones de un contribuyente sin que este deba presentar un aviso, si se encuentra en ciertos supuestos establecidos en el CFF. El contribuyente tiene la opción de aclarar esta información aportando pruebas.",
   "preguntas_ejemplo": [
-    "¿Qué es el aviso de cambio de régimen?",
-    "¿Quiénes no necesitan presentar el aviso?",
-    "¿Cómo se actualizan mis obligaciones fiscales?",
-    "¿Qué hago si no estoy de acuerdo con la actualización del RFC?"
+    "¿Cuándo no necesito presentar un aviso de cambio de régimen?",
+    "¿Qué sucede si la autoridad aumenta mis obligaciones en el RFC?",
+    "¿Cómo puedo aclarar un cambio en mis datos fiscales?",
+    "¿Qué supuestos permiten que la autoridad actúe sin mi aviso?",
+    "¿Qué debo hacer si no estoy de acuerdo con un aumento de mis obligaciones fiscales?"
   ]
 }

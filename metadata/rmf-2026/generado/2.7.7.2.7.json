@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a51afe1d2d4b6fe4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Complemento Carta Porte",
   "temas": [
     "CFDI de tipo traslado",
-    "Exportación definitiva",
-    "Transporte de mercancías",
-    "Folios fiscales",
-    "Cambio de medio de transporte",
-    "Reglas Generales de Comercio Exterior"
+    "CFDI de tipo ingreso",
+    "exportación definitiva",
+    "transporte de mercancías",
+    "cruce fronterizo"
   ],
   "terminos_coloquiales": [
-    "Carta Porte",
-    "CFDI Carta Porte",
-    "traslado de mercancías",
-    "complemento para exportación",
-    "importación y exportación"
+    "complemento Carta Porte",
+    "factura de traslado",
+    "factura de ingreso",
+    "transportar bienes",
+    "exportar mercancías"
   ],
-  "resumen": "Los propietarios de bienes y mercancías pueden acreditar su transporte para exportación mediante un CFDI de tipo traslado que incluya el complemento Carta Porte. Si cambian de medio de transporte en la frontera, deben seguir ciertas reglas para documentar el cambio.",
+  "resumen": "Esta regla establece cómo los propietarios de mercancías pueden acreditar el transporte de las mismas para su exportación. Se permite el uso de un CFDI de tipo traslado o ingreso con el complemento Carta Porte según el medio de transporte usado, ya sea propio o contratado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo documentar el traslado de mis mercancías para exportación?",
-    "¿Qué es el complemento Carta Porte y cómo se utiliza?",
-    "¿Qué CFDI necesito si cambio de transporte al exportar?",
-    "¿Cuáles son las reglas para el transporte de mercancías por mis propios medios?",
-    "¿Cómo relaciono un CFDI de traslado con un CFDI de ingreso?"
+    "¿Cómo puedo acreditar el transporte de mis mercancías para exportación?",
+    "¿Qué es el complemento Carta Porte y cómo se usa?",
+    "¿Qué tipo de CFDI necesito para transportar mercancías?",
+    "Si cambio de transportista, ¿necesito otro CFDI?",
+    "¿Puedo usar mis propios medios para transportar mercancías al extranjero?"
   ]
 }

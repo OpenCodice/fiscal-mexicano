@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd9ae680476d4a82",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para torres de telecomunicaciones móviles",
+  "denominacion_comun": "Inversiones en torres de telecomunicaciones móviles",
   "temas": [
-    "impuesto sobre la renta",
     "fideicomisos",
     "torres de telecomunicaciones",
-    "requisitos fiscales",
-    "ingresos",
-    "arrendamiento",
-    "valor de aportación",
-    "diferimiento de impuesto"
+    "ISR",
+    "contratos de arrendamiento",
+    "inversiones inmobiliarias",
+    "certificados de participación",
+    "diferimiento de impuestos"
   ],
   "terminos_coloquiales": [
-    "fideicomiso inmobiliario",
-    "torres de telecomunicaciones",
-    "Ley del ISR",
-    "incidencia fiscal",
-    "ISR diferido"
+    "inversión en torres",
+    "fideicomisos de telecomunicaciones",
+    "arrendamiento de torres",
+    "ISR de torres",
+    "contrato de arrendamiento",
+    "Fideicomiso de Telecomunicaciones (FT)"
   ],
-  "resumen": "Los fideicomisos que invierten en torres de telecomunicaciones móviles deben cumplir con ciertos requisitos para ser considerados como tales y gozar de beneficios fiscales. Esto incluye la colocación de certificados, la explotación comercial de las torres y el manejo adecuado de ingresos relacionados.",
+  "resumen": "Esta regla establece los requisitos que deben cumplir los fideicomisos que invierten en torres de telecomunicaciones móviles para ser considerados como fideicomisos inmobiliarios. Además, detalla las condiciones sobre la inversión, el contrato de arrendamiento y el tratamiento fiscal aplicable. Si dejan de cumplir alguno de estos requisitos, el fideicomiso cambiará su tratamiento fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los fideicomisos que invierten en torres de telecomunicaciones móviles?",
+    "¿Cuáles son los requisitos para que un fideicomiso invierta en torres de telecomunicaciones?",
+    "¿Qué condiciones debe tener el contrato de arrendamiento de torres de telecomunicaciones?",
     "¿Cómo se determina el valor de las torres en un fideicomiso?",
-    "¿Qué pasa si un fideicomiso deja de cumplir los requisitos fiscales?",
-    "¿Qué impuestos aplican a los ingresos de las torres de telecomunicaciones?",
-    "¿Cómo afecta el arrendamiento al tratamiento fiscal de las torres móviles?"
+    "¿Qué sucede si el fideicomiso deja de cumplir con los requisitos establecidos?",
+    "¿Qué tratamiento fiscal tiene un fideicomiso de telecomunicaciones?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2086f97dfafe6441",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Uso o Goce Temporal de Bienes Inmuebles",
   "temas": [
-    "obligaciones fiscales",
     "Régimen de Personas Físicas",
-    "arrendamiento",
-    "información del contribuyente",
-    "actualización de datos",
-    "RFC"
+    "Actividades Empresariales",
+    "Arrendamiento",
+    "Aviso en el RFC",
+    "Obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "uso de inmuebles",
-    "goce temporal",
-    "arrendamiento",
-    "Régimen de Personas Físicas",
-    "RFC"
+    "alquilar propiedades",
+    "arrendar",
+    "aviso en el RFC",
+    "Régimen de Arrendamiento",
+    "CFF",
+    "ISR"
   ],
-  "resumen": "La autoridad fiscal puede aumentar las obligaciones de contribuyentes que otorgan el uso o goce temporal de inmuebles, sin necesidad de aviso por parte del contribuyente, si dejan de tributar conforme a ciertas condiciones. El contribuyente puede aclarar esta actualización de datos si tiene pruebas en contrario.",
+  "resumen": "La autoridad fiscal puede aumentar las obligaciones de los contribuyentes que otorgan el uso o goce temporal de bienes inmuebles sin que estos presenten un aviso, si dejan de tributar según ciertas condiciones. Los contribuyentes pueden aclarar este aumento con pruebas necesarias.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo reportar el uso de un inmueble?",
-    "¿Qué pasa si dejo de tributar por el arrendamiento?",
-    "¿La autoridad puede cambiar mis obligaciones sin previo aviso?",
-    "¿Cómo puedo aclarar mis datos en el RFC?",
-    "¿Cuáles son mis obligaciones si otorgo el uso temporal de un inmueble?"
+    "¿Qué pasa si dejo de tributar y alquilo un inmueble?",
+    "¿Necesito hacer un aviso si cambio mis ingresos por arrendamiento?",
+    "¿Cómo puedo desmentir la información que tiene la autoridad sobre mis ingresos?",
+    "¿Cuáles son las obligaciones fiscales si arrendo un bien inmueble?",
+    "¿Qué es el Régimen de Arrendamiento en el RFC?"
   ]
 }

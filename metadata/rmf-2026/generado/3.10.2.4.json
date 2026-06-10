@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df4ed620c0400ecc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondos de inversión de renta variable",
+  "denominacion_comun": "Fondos de inversión y ISR",
   "temas": [
+    "fondos de inversión",
     "ISR",
-    "resultados fiscales",
-    "fideicomisos",
-    "retenciones",
-    "acciones"
+    "ingresos gravables",
+    "acción de fideicomisos"
   ],
   "terminos_coloquiales": [
     "fondos de inversión",
-    "ISR sobre fondos de inversión",
-    "retención de impuestos",
-    "Renta variable",
-    "LISR"
+    "impuesto sobre la renta",
+    "ISR",
+    "distribución de ganancias",
+    "accionistas"
   ],
-  "resumen": "Los fondos de inversión de renta variable deben calcular el ISR correspondiente a los ingresos que reciben de fideicomisos, siguiendo un procedimiento específico para determinar el ingreso gravable de sus accionistas. Este cálculo debe realizarse diariamente y el impuesto debe ser retenido y enterado a más tardar el día 17 del mes siguiente.",
+  "resumen": "Esta regla establece cómo los fondos de inversión de renta variable deben determinar el ingreso gravable de sus accionistas a partir del resultado fiscal de los fideicomisos. Además, especifica el procedimiento para calcular el ISR causado y los plazos para su retención y entero.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo el ISR de un fondo de inversión?",
-    "¿Qué pasos siguen los fondos de inversión para determinar ingresos gravables?",
-    "¿Cuándo deben los fondos de inversión retener el ISR?",
-    "¿Qué es el resultado fiscal de los fideicomisos?",
-    "¿Cómo afectan los fideicomisos a los fondos de inversión de renta variable?"
+    "¿Cómo calculo el ISR por las ganancias de un fondo de inversión?",
+    "¿Qué ingresos se consideran gravables para los accionistas de un fondo de inversión?",
+    "¿Qué fecha debo considerar para retener el ISR de mis ingresos como accionista?",
+    "¿Cómo se determina el resultado fiscal de un fideicomiso para un fondo de inversión?",
+    "¿Qué pasos seguir para cumplir con el pago del ISR de mis ganancias en un fondo de inversión?"
   ]
 }

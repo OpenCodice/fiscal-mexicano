@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff70546b4bd8c8b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reservas de riesgos en curso",
@@ -13,22 +14,23 @@
     "Impuesto sobre la renta",
     "Reservas de riesgos",
     "Seguros de largo plazo",
-    "Valuación de reservas",
-    "Tasa de interés"
+    "Variaciones en la tasa de interés",
+    "Resultados de valuación"
   ],
   "terminos_coloquiales": [
-    "Reservas de riesgos",
-    "Seguros de largo plazo",
-    "IR",
-    "LISR"
+    "reservas de seguros",
+    "riesgos en curso",
+    "valores de reserva",
+    "ISR",
+    "LISR",
+    "resultado de valuación"
   ],
-  "resumen": "Esta regla establece que las variaciones en el valor de las reservas de riesgos en curso de los seguros de largo plazo no se considerarán como un incremento o disminución para los efectos fiscales. Estas variaciones se deben registrar en un rubro específico relacionado con la valuación de la reserva.",
+  "resumen": "Esta disposición establece que las variaciones en el valor de las reservas de riesgos en curso de seguros de largo plazo no se consideran como incremento o disminución para efectos fiscales. Esto aplica según lo dispuesto en el artículo 50 de la Ley del ISR y la Circular Única de Seguros y Fianzas.",
   "preguntas_ejemplo": [
-    "¿Cómo se manejan las reservas de riesgos en curso para el ISR?",
-    "¿Qué variaciones se consideran en las reservas de seguros de largo plazo?",
-    "¿Cómo afecta la tasa de interés a las reservas en la valuación?",
-    "¿Qué dice la Ley del ISR sobre las reservas de riesgos?",
-    "¿Dónde puedo encontrar información sobre seguros de largo plazo y su valuación?",
-    "¿Cuáles son las implicaciones fiscales de las reservas de riesgos?"
+    "¿Cómo se tratan las reservas de riesgos en curso para el ISR?",
+    "¿Se consideran las variaciones en las reservas de seguros como ingresos?",
+    "¿Qué dice la ley sobre la valuación de reservas de riesgos en curso?",
+    "¿Qué efectos fiscales tienen las reservas de seguros de largo plazo?",
+    "¿Cómo afecta la tasa de interés a las reservas de riesgos?"
   ]
 }

@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:56af86bb2d07b4f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación de Órganos Certificadores",
+  "denominacion_comun": "Órganos Certificadores",
   "temas": [
+    "verificación",
+    "cumplimiento de requisitos",
+    "obligaciones fiscales",
     "procedimiento de verificación",
-    "requisitos y obligaciones",
-    "incumplimientos",
-    "opción de defensa",
-    "opinión técnica final"
+    "revocación de autorización",
+    "SAT",
+    "documentación",
+    "opinión técnica"
   ],
   "terminos_coloquiales": [
-    "verificación de certificadores",
-    "SAT",
-    "órganos certificadores"
+    "órganos certificadores",
+    "verificación del SAT",
+    "cumplimiento de obligaciones",
+    "requisitos del SAT"
   ],
-  "resumen": "El SAT puede verificar que los órganos certificadores cumplan con los requisitos y obligaciones establecidas. Si se detectan incumplimientos, se les otorgará un plazo para subsanarlos y, si no lo hacen, se comunicará a la autoridad correspondiente.",
+  "resumen": "Esta regla establece el procedimiento que el SAT debe seguir para verificar que los órganos certificadores cumplan con los requisitos y obligaciones fiscales. Si un órgano certificador no cumple, se le puede otorgar un plazo para corregir su situación antes de revocar su autorización.",
   "preguntas_ejemplo": [
+    "¿Cómo verifica el SAT a los órganos certificadores?",
     "¿Qué pasa si un órgano certificador no cumple con sus obligaciones?",
-    "¿Cómo se realiza la verificación de los órganos certificadores?",
-    "¿Qué plazo tiene un certificador para solventar incumplimientos?",
-    "¿Qué documento emite el SAT al finalizar la verificación?",
-    "¿Cuánto tiempo dura el proceso de verificación?"
+    "¿Cuál es el procedimiento para la revocación de un órgano certificador?",
+    "¿Qué plazos tiene un órgano certificador para solventar incumplimientos?",
+    "¿Qué documentos debo presentar si me verifica el SAT?",
+    "¿Cómo se da por finalizada una verificación del SAT?"
   ]
 }

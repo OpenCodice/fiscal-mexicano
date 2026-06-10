@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b3f5894f75798d3b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios digitales de intermediación",
+  "denominacion_comun": "Plataformas digitales de intermediación",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios (IEPS)",
-    "Impuesto al Valor Agregado (IVA)",
-    "Servicios por juegos con apuesta",
-    "Sorteos",
-    "Plataformas digitales"
+    "impuesto",
+    "juegos con apuesta",
+    "sorteos",
+    "declaración",
+    "plataformas digitales",
+    "retenciones"
   ],
   "terminos_coloquiales": [
-    "servicios digitales de intermediación",
-    "impuesto por juegos en línea",
+    "impuesto por juegos",
     "declaración de retenciones",
-    "IEPS por juegos",
-    "IVA por sorteos"
+    "juegos de azar",
+    "sorteos en línea",
+    "plataformas de apuesta"
   ],
-  "resumen": "Los prestadores de servicios por juegos con apuesta y sorteos a través de plataformas digitales deben presentar una declaración específica para el IEPS y el IVA, correspondiente a las retenciones que realicen. Esto debe hacerse en un plazo determinado después de efectuar la retención.",
+  "resumen": "Los sujetos que presten servicios por juegos con apuesta y sorteos a través de plataformas digitales deben pagar un impuesto específico mediante una declaración. Esta declaración debe realizarse cada mes, a más tardar el día 17 del mes siguiente a la retención.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la declaración de retenciones por juegos en plataformas digitales?",
-    "¿Qué impuestos aplican para los sorteos en línea?",
-    "¿Cuándo debo enterar el IEPS por servicios digitales?",
-    "¿Qué es la declaración de 'IEPS retenciones por juegos con apuesta'?",
-    "¿Qué plataformas están sujetas a este régimen fiscal?"
+    "¿Cómo se declara el impuesto por juegos de azar en plataformas digitales?",
+    "¿Cuándo debo presentar la declaración de retenciones por sorteos?",
+    "¿Qué impuestos aplican para plataformas de apuestas?",
+    "¿Qué es la declaración de IEPS por juegos con apuesta?",
+    "¿Qué plazos tengo para pagar impuestos de sorteos en línea?"
   ]
 }

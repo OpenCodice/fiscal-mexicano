@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:282ce5b6e046f675",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de aprovechamientos por premios no reclamados",
+  "denominacion_comun": "Premios no reclamados",
   "temas": [
     "aprovechamientos",
-    "premios no reclamados",
-    "Sorteo El Buen Fin",
-    "pago a la Secretaría de Gobernación",
-    "Decreto estímulos fiscales"
+    "premios",
+    "Sorteo 'El Buen Fin'",
+    "Secretaría de Gobernación",
+    "SAT",
+    "Decreto estímulos fiscales",
+    "Juegos y Sorteos"
   ],
   "terminos_coloquiales": [
     "premios no reclamados",
-    "aprovechamientos",
-    "Sorteo El Buen Fin",
+    "pago a Gobernación",
+    "Sorteo",
     "SAT",
-    "Secretaría de Gobernación"
+    "Decreto estímulos fiscales"
   ],
-  "resumen": "La disposición establece que el SAT determinará los premios no reclamados y comunicará el monto a cada entidad para que realicen un pago de aprovechamientos a la Secretaría de Gobernación. Este pago puede acreditarse siempre que se cumplan ciertos requisitos y plazos establecidos.",
+  "resumen": "La regla establece el procedimiento para que las entidades financieras y otras entidades informen al SAT sobre los premios no reclamados en el Sorteo 'El Buen Fin'. También describe cómo se debe realizar el pago de aprovechamientos a la Secretaría de Gobernación por dichos premios y las condiciones bajo las cuales no se requiere hacer este pago.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza el pago de aprovechamientos por premios no reclamados?",
-    "¿Qué es el Sorteo El Buen Fin y cómo afecta a los premios no reclamados?",
-    "¿Qué sucede si no hay premios en un sorteo?",
-    "¿Cómo acreditar el pago de aprovechamientos a la Secretaría de Gobernación?",
-    "¿Cuáles son los requisitos para el pago de aprovechamientos por premios no reclamados?"
+    "¿Cómo se paga por los premios no reclamados en el Sorteo 'El Buen Fin'?",
+    "¿Qué hacer si no hay ganadores en el sorteo?",
+    "¿Qué información debe enviar mi entidad al SAT?",
+    "¿Dónde encuentro el comprobante de pago para la Secretaría de Gobernación?",
+    "¿Qué son los aprovechamientos por premios no reclamados?"
   ]
 }

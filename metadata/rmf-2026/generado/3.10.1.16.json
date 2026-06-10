@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c55ca4c1c83e7406",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revocación de autorización para donativos deducibles",
   "temas": [
-    "revocación de autorización",
+    "revocación",
     "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "incumplimiento de obligaciones",
-    "SAT",
-    "plazo de cumplimiento"
+    "requisitos fiscales",
+    "plazos",
+    "prórrogas"
   ],
   "terminos_coloquiales": [
     "revocación de donativos",
-    "organización civil",
-    "fideicomiso",
+    "autorización de donativos",
+    "organizaciones sin fines de lucro",
     "SAT",
-    "donativos deducibles"
+    "prórroga"
   ],
-  "resumen": "La autoridad fiscal puede revocar la autorización para que organizaciones civiles y fideicomisos reciban donativos deducibles si no cumplen con las obligaciones establecidas. Si se inicia el procedimiento, la entidad tiene la oportunidad de subsanar el incumplimiento dentro de un plazo establecido.",
+  "resumen": "La autoridad fiscal puede revocar la autorización de organizaciones civiles y fideicomisos para recibir donativos deducibles si incumplen con los requisitos fiscales. Se notificará a la organización sobre la revocación y tiene la oportunidad de subsanar las causas en un plazo determinado, con opción a prórroga.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una organización pierde su autorización para recibir donativos deducibles?",
-    "¿Cómo puede un fideicomiso subsanar un incumplimiento ante el SAT?",
-    "¿Qué requerimientos deben cumplir las organizaciones civiles para mantener sus donativos deducibles?",
-    "¿Cuánto tiempo tiene una organización para reaccionar ante una revocación del SAT?",
-    "¿Se pueden prorrogar los plazos para subsanar la revocación de donativos?"
+    "¿Qué pasa si no cumplo con los requisitos para recibir donativos deducibles?",
+    "¿Cómo puedo prorrogar el plazo para subsanar la revocación de autorización?",
+    "¿Qué debo hacer si me notifican de una revocación de autorización de donativos?",
+    "¿Qué significa que mi autorización para recibir donativos se está revocando?",
+    "¿Cuáles son las causas comunes de revocación para donativos deducibles?",
+    "¿Cómo verifica el SAT que cumplo con los requisitos para donativos deducibles?"
   ]
 }

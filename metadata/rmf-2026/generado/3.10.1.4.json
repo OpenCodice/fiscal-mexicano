@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2cf3360e77a48b9e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "Organizaciones civiles",
-    "Fideicomisos",
-    "Avisos ante el RFC",
-    "Cambios de domicilio",
-    "Cambio de denominación",
-    "Suspensión de actividades",
-    "Fusión y escisión",
-    "Cambio de residencia fiscal",
-    "Nombramiento de representante legal"
+    "organizaciones civiles",
+    "fideicomisos",
+    "donativos",
+    "autorización",
+    "cambio de domicilio",
+    "suspensión de actividades",
+    "modificación de estatutos"
   ],
   "terminos_coloquiales": [
-    "Donatarias autorizadas",
-    "Deducción de donativos",
-    "RFC",
-    "Donativos deducibles"
+    "donativos deducibles",
+    "donatarias autorizadas",
+    "organizaciones sin fines de lucro",
+    "cambio de dirección",
+    "representante legal nuevo"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que reciben donativos deducibles deben informar ciertos cambios al RFC para mantener su autorización. Esto incluye cambios de domicilio, denominación, actividades y otros requisitos que afectan su estatus.",
+  "resumen": "Las organizaciones civiles y fideicomisos que desean recibir donativos deducibles deben cumplir con ciertos avisos ante el RFC, informando cambios en su situación, como domicilio, denominación o cierre de operaciones. También deben actualizar información sobre su representante legal y actividades.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si cambia la razón social de mi organización?",
-    "¿Cómo informar al RFC sobre el cambio de domicilio de una donataria?",
-    "¿Cuáles son los requisitos para que una organización reciba donativos deducibles?",
-    "¿Qué sucede si mi donataria suspende actividades?",
-    "¿Qué cambios debo reportar para mantener la autorización de donativos deducibles?"
+    "¿Qué debo hacer si cambio de domicilio y soy donataria?",
+    "¿Cómo actualizo mis datos si cambio mi razón social?",
+    "¿Qué pasa si mi organización cierra o suspende actividades?",
+    "¿Necesito avisar al RFC si cambio de representante legal?",
+    "¿Cuáles son los requisitos para mantener la autorización de donativos deducibles?"
   ]
 }

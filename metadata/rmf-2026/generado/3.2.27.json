@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52af7b790fd8388c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones a costo fiscal",
   "temas": [
-    "Impuesto sobre la renta",
-    "Enajenación de acciones",
-    "Autorización fiscal",
-    "Costo fiscal",
+    "autorización",
+    "enajenación de acciones",
+    "costo fiscal",
+    "avisos fiscales",
+    "requisitos de autorización",
     "SAT",
-    "Cumplimiento de requisitos"
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
     "venta de acciones",
-    "costo promedio por acción",
-    "autorización de acciones",
-    "Ley del ISR",
-    "ACNII",
-    "AGJ"
+    "costo fiscal",
+    "autorización del SAT",
+    "AGJ",
+    "ACNII"
   ],
-  "resumen": "La regla regula la aplicación de la autorización para enajenar acciones a costo fiscal, que debe usarse de acuerdo con el requerimiento de notificación y manteniendo condiciones específicas de autorización. El SAT puede verificar el cumplimiento de estos requisitos.",
+  "resumen": "La regla establece que la autorización para vender acciones a costo fiscal emitida por la autoridad fiscal puede aplicarse desde el día siguiente a la notificación y hasta que se realice la enajenación, siempre que se mantengan las condiciones originales de la autorización y se cumplan ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico la autorización para vender acciones?",
-    "¿Qué requisitos debo cumplir para enajenar acciones a costo fiscal?",
-    "¿Desde cuándo puedo enajenar acciones con costo fiscal?",
-    "¿Qué pasa si cambian las condiciones de la autorización de mis acciones?",
-    "¿Quién emite la autorización para la enajenación de acciones?"
+    "¿Cómo aplico la autorización para vender acciones a costo fiscal?",
+    "¿Qué requisitos debo cumplir para la enajenación de acciones?",
+    "¿Desde cuándo puedo usar la autorización del SAT para vender acciones?",
+    "¿Qué pasa si las condiciones de la autorización cambian?",
+    "¿Qué es el costo promedio por acción según la autorización?",
+    "¿Quién emite la autorización para enajenar acciones?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12c6d24470402654",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Desastres naturales y Donatarias Autorizadas",
+  "denominacion_comun": "Desastres Naturales y Donatarias Autorizadas",
   "temas": [
     "desastres naturales",
     "donatarias autorizadas",
+    "zonas afectadas",
     "organizaciones civiles",
     "fideicomisos",
-    "donativos deducibles",
-    "zonas afectadas"
+    "donativos deducibles"
   ],
   "terminos_coloquiales": [
     "desastres naturales",
     "donatarias",
-    "organizaciones autorizadas",
-    "LIF"
+    "organizaciones sin fines de lucro",
+    "fideicomisos",
+    "donativos"
   ],
-  "resumen": "La regla establece que solo se consideran desastres naturales aquellos decretados por la Secretaría de Gobernación. Además, define qué organizaciones pueden recibir donativos deducibles.",
+  "resumen": "La ley establece que un desastre natural debe ser declarado por la Secretaría de Gobernación y define qué organizaciones pueden recibir donativos deducibles. Solo las organizaciones y fideicomisos autorizados para actividades asistenciales pueden recibir donativos deducibles.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un desastre natural para efectos fiscales?",
+    "¿Qué se considera un desastre natural?",
     "¿Qué organizaciones pueden recibir donativos deducibles?",
-    "¿Cómo se determina si una zona fue afectada por un desastre natural?",
-    "¿Qué requisitos deben cumplir las donatarias para recibir donativos?",
-    "¿Qué dice la LIF sobre donativos a organizaciones civiles?"
+    "¿Cómo se determina si un área fue afectada por un desastre natural?",
+    "¿Qué requisitos deben cumplir las donatarias autorizadas?",
+    "¿Qué significa que una organización sea autorizada para recibir donativos?"
   ]
 }

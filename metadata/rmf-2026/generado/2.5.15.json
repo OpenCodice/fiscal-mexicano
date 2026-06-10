@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ea63530d510407d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión o disminución de obligaciones",
+  "denominacion_comun": "Suspensión o disminución de obligaciones fiscales",
   "temas": [
-    "contribuyentes",
+    "RFC",
     "RIF",
-    "suspensión de obligaciones",
-    "disminución de obligaciones",
+    "derechos de los contribuyentes",
     "CFDI",
-    "declaraciones periódicas",
-    "caso de aclaración",
-    "Portal del SAT"
+    "declaraciones fiscales",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "suspensión de obligaciones",
-    "bajar obligaciones fiscales",
+    "disminución de obligaciones",
     "RIF",
-    "SAT"
+    "declaraciones no presentadas",
+    "aviso al SAT"
   ],
-  "resumen": "Los contribuyentes personas físicas que ya no realizan ciertas actividades pueden solicitar la suspensión o disminución de sus obligaciones fiscales de manera retroactiva. Esto implica que deben presentar un caso de aclaración en el portal del SAT, confirmando que dejaron de emitir CFDI y no han presentado declaraciones relacionadas.",
+  "resumen": "Los contribuyentes personas físicas que ya no realizan actividades económicas pueden solicitar la suspensión o disminución de sus obligaciones fiscales de manera retroactiva. Esto se hace a través del Portal del SAT, siempre que cumplan con ciertos requisitos relacionados con la falta de emisión de CFDI y declaraciones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo suspender mis obligaciones fiscales?",
-    "¿Qué necesito para disminuir mis obligaciones del RIF?",
-    "¿Puedo hacer una solicitud de suspensión de obligaciones en línea?",
-    "¿Qué requisitos debo cumplir para solicitar una disminución de obligaciones?",
-    "¿Qué sucede si no presenté mis declaraciones mientras tuve actividades?"
+    "¿Cómo puedo suspender mis obligaciones fiscales si ya no opero?",
+    "¿Qué debo hacer si dejé de emitir CFDI desde hace años?",
+    "¿Puedo disminuir mis obligaciones fiscales retroactivamente?",
+    "¿Qué información necesito para solicitar la suspensión de obligaciones?",
+    "¿Esta solicitud me libera de las multas pendientes?",
+    "¿El RIF permite solicitar la suspensión de obligaciones fiscales?"
   ]
 }

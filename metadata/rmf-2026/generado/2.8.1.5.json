@@ -6,34 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8684f820acc0f78a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Contabilidad en medios electrónicos",
   "temas": [
-    "obligación de llevar contabilidad",
-    "ingreso de información contable",
+    "obligaciones de contabilidad",
+    "sistemas electrónicos",
     "catálogo de cuentas",
     "balanza de comprobación",
     "pólizas contables",
-    "auxiliares de cuenta",
-    "marco contable aplicable",
-    "información financiera"
+    "información contable",
+    "marcos contables",
+    "RFC"
   ],
   "terminos_coloquiales": [
-    "contabilidad electrónica",
-    "envío de contabilidad al SAT",
-    "catálogo de cuentas SAT",
+    "contabilidad digital",
+    "enviar contabilidad al SAT",
+    "catálogo de cuentas",
     "balanza de comprobación",
-    "pólizas fiscales",
+    "pólizas",
     "NIF",
+    "USGAAP",
     "IFRS"
   ],
-  "resumen": "Los contribuyentes deben llevar su contabilidad de forma electrónica, usando sistemas que generen archivos en formato XML. Esto incluye un catálogo de cuentas, una balanza de comprobación y pólizas contables que cumplan con las normativas del SAT.",
+  "resumen": "Esta regla establece que los contribuyentes que deben llevar contabilidad deben hacerlo en sistemas electrónicos y enviar su información a través del Portal del SAT. Incluye la elaboración de un catálogo de cuentas y una balanza de comprobación que refleje todos los saldos y movimientos de las cuentas contables.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en mi catálogo de cuentas para el SAT?",
-    "¿Cómo debo generar mi balanza de comprobación electrónica?",
-    "¿Qué son las pólizas contables y cómo se utilizan?",
-    "¿Qué normativa debo seguir para llevar mi contabilidad electrónica?",
-    "¿Qué información necesito para mis registros contables?"
+    "¿Cómo debo llevar mi contabilidad de manera electrónica?",
+    "¿Qué es el catálogo de cuentas y cómo lo uso?",
+    "¿Qué información debo incluir en mi balanza de comprobación?",
+    "¿Cuáles son mis obligaciones contables ante el SAT?",
+    "¿Qué documentos necesito para mis pólizas contables?"
   ]
 }

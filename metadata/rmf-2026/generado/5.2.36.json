@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:00755552aa2f028b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Servicio Autorizado",
+  "denominacion_comun": "Proveedores de Servicio Autorizado (PSA)",
   "temas": [
-    "renovación de autorización",
-    "obligaciones fiscales",
-    "juegos con apuestas",
-    "sorteos",
-    "SAT",
+    "autorizaciones",
+    "renovación",
+    "obligaciones",
+    "juegos y sorteos",
+    "garantías",
     "fianza",
-    "certificación",
-    "buzón tributario"
+    "certificación"
   ],
   "terminos_coloquiales": [
-    "Proveedores de Servicio Autorizado",
+    "proveedor autorizado",
     "PSA",
-    "renovación de PSA",
-    "SAT",
-    "juegos de azar"
+    "juegos de apuestas",
+    "sorteos",
+    "renovar autorización"
   ],
-  "resumen": "Los Proveedores de Servicio Autorizado deben renovar sus autorizaciones cada año en octubre mediante un aviso a través del buzón tributario. Deben declarar que cumplen con los requisitos y presentar una garantía ante el SAT.",
+  "resumen": "Los Proveedores de Servicio Autorizado son aquellos que han sido autorizados por el SAT. Para renovar su autorización, deben presentar un aviso y cumplir con ciertos requisitos, como exhibir garantías y certificaciones.",
   "preguntas_ejemplo": [
     "¿Cómo renuevo mi autorización como Proveedor de Servicio Autorizado?",
-    "¿Qué requisitos debo cumplir para ser Proveedor de Servicio Autorizado?",
-    "¿Dónde envío el aviso de renovación para PSA?",
-    "¿Qué pasa si no presento la fianza como Proveedor de Servicio Autorizado?",
-    "¿Qué es el buzón tributario del SAT?"
+    "¿Qué requisitos debo cumplir para ser un PSA?",
+    "¿Dónde presento el aviso para renovar mi autorización?",
+    "¿Qué garantías necesito para operar como Proveedor de Servicio Autorizado?",
+    "¿Qué pasa si no cumplo con mis obligaciones como PSA?"
   ]
 }

@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b937d76834d04982",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Abanderamiento y matrícula de embarcaciones",
+  "denominacion_comun": "Abanderamiento de embarcaciones",
   "temas": [
     "abanderamiento",
     "matrícula",
     "embarcaciones",
     "artefactos navales",
     "autoridad marítima",
-    "avisos",
-    "trámites"
+    "avisos"
   ],
   "terminos_coloquiales": [
-    "abanderamiento de barcos",
-    "matrícula marítima",
-    "aviso de abanderamiento",
-    "CFF 31",
+    "abanderar un barco",
+    "matrícula de embarcaciones",
+    "avisos de abanderamiento",
+    "CFF",
     "Ley de Navegación"
   ],
-  "resumen": "La autoridad marítima debe presentar un aviso para el abanderamiento y matrícula de embarcaciones y artefactos navales mexicanos, de acuerdo con la Ley de Navegación y el Código Fiscal de la Federación.",
+  "resumen": "Se establece que la autoridad marítima competente debe presentar un aviso para el abanderamiento y matrícula de embarcaciones y artefactos navales mexicanos, conforme a la normativa específica. Este aviso debe seguir la ficha de trámite designada.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo abanderar una embarcación en México?",
-    "¿Qué trámite necesito para la matrícula de un barco?",
-    "¿Qué avisos debo presentar para el abanderamiento de un artefacto naval?",
-    "¿Quién es la autoridad competente para la matrícula de embarcaciones?",
-    "¿Cuál es la ficha de trámite para el abanderamiento de embarcaciones?"
+    "¿Cómo se abanderan las embarcaciones en México?",
+    "¿Qué requisitos se necesitan para la matrícula de un barco?",
+    "¿Dónde se presenta el aviso de abanderamiento?",
+    "¿Quién tiene la autoridad para abanderar embarcaciones?",
+    "¿Qué dice la Ley de Navegación sobre el abanderamiento de embarcaciones?",
+    "¿Cuáles son los pasos para matricular un artefacto naval?"
   ]
 }

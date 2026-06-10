@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b8c47f413cd1980d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación o revocación de la constancia",
+  "denominacion_comun": "Cancelación o revocación de constancia",
   "temas": [
-    "estímulos fiscales",
+    "estimulos fiscales",
     "constancia",
     "cancelación",
     "revocación",
+    "contribuyentes",
+    "beneficios fiscales",
     "Polos de Desarrollo",
-    "beneficios fiscales"
+    "Ley de Inversión"
   ],
   "terminos_coloquiales": [
     "cancelación de constancia",
-    "revocación de beneficios",
-    "estímulos del PODEBI",
-    "constancia de beneficios fiscales"
+    "revocación de constancia",
+    "estimulos fiscales",
+    "DOF"
   ],
-  "resumen": "Esta disposición establece que si se cancela o revoca la constancia relacionada con los estímulos fiscales, el contribuyente dejará de aplicar esos beneficios desde una fecha específica, ya sea por cancelación o revocación. Los criterios para estas acciones se basan en lineamientos publicados recientemente.",
+  "resumen": "Si se cancela o revoca la constancia de un contribuyente, este no podrá seguir aplicando los estímulos fiscales. La cancelación y la revocación tienen diferentes implicaciones en cuanto a la aplicación de dichos estímulos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si cancelan mi constancia?",
-    "¿Cómo se revoca la constancia de beneficios fiscales?",
-    "¿Cuándo dejo de recibir estímulos fiscales por cancelación?",
-    "¿Qué es el PODEBI y cómo afecta a mi constancia?",
-    "¿Cuáles son los motivos para la cancelación de la constancia?"
+    "¿Qué pasa si me cancelan la constancia de beneficios fiscales?",
+    "¿Cómo afecta la revocación de constancia a los estímulos fiscales?",
+    "¿Cuáles son los supuestos para la cancelación de la constancia?",
+    "¿Desde cuándo dejo de aplicar los beneficios fiscales tras la revocación?",
+    "¿Qué requisitos debo cumplir para no perder mis estímulos fiscales?"
   ]
 }

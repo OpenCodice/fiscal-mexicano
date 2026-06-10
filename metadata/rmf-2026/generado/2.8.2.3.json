@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9748c1c7de7011a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Clave en el RFC y CURP en la DIM",
   "temas": [
-    "Declaraciones informativas",
     "CURP",
-    "DIM vía Internet",
-    "Contraseña del SAT",
+    "DIM",
+    "Contraseña",
+    "declaraciones informativas",
     "Código Fiscal de la Federación"
   ],
   "terminos_coloquiales": [
+    "declaraciones",
     "DIM",
-    "Declaración Informativa",
     "CURP",
-    "Contraseña SAT"
+    "Contraseña SAT",
+    "SAT"
   ],
-  "resumen": "Las personas físicas que presenten sus declaraciones informativas deben incluir su CURP. Además, al presentar la DIM por Internet, deben usar la contraseña generada por el SAT.",
+  "resumen": "Los contribuyentes deben incluir su CURP en las declaraciones informativas y utilizar una Contraseña generada por ellos mismos al presentar la DIM por Internet. Esta obligación es específica para personas físicas.",
   "preguntas_ejemplo": [
-    "¿Qué es la DIM y cómo se presenta?",
-    "¿Por qué necesito mi CURP para la declaración informativa?",
-    "¿Cómo obtengo la contraseña para presentar la DIM en línea?",
-    "¿Qué debo incluir en mis declaraciones informativas?",
-    "¿Quiénes deben presentar la DIM?"
+    "¿Cómo presento mi DIM por Internet?",
+    "¿Qué información debo incluir en mis declaraciones informativas?",
+    "¿Dónde obtengo la Contraseña del SAT?",
+    "¿Es necesario mi CURP para la DIM?",
+    "¿Quiénes deben presentar declaraciones informativas?"
   ]
 }

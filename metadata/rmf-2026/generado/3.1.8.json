@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0df9ffb0afff2385",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Determinación del setenta por ciento en ISR",
   "temas": [
-    "Impuesto sobre la Renta",
+    "Impuesto sobre la renta",
     "Activos totales",
     "Ingresos totales",
     "Cuentas por cobrar",
-    "Ejercicio fiscal"
+    "Ejercicio fiscal",
+    "LGOAAC"
   ],
   "terminos_coloquiales": [
-    "setenta por ciento ISR",
-    "determinación de ingresos",
-    "activos en ISR",
-    "LISR",
-    "Ley del ISR"
+    "ISR",
+    "setenta por ciento",
+    "activos",
+    "ingresos",
+    "cuentas por cobrar",
+    "primer ejercicio fiscal"
   ],
-  "resumen": "La disposición establece cómo se debe calcular el setenta por ciento de los activos o ingresos de una sociedad para efectos fiscales, considerando el último día del ejercicio fiscal anterior o durante el ejercicio actual. Se contempla una fórmula específica para el primer ejercicio fiscal de la sociedad.",
+  "resumen": "Esta regla establece cómo determinar el setenta por ciento de los activos totales o ingresos totales para fines del impuesto sobre la renta. Se refiere específicamente a la forma en que se deben dividir las cuentas y documentos por cobrar en relación con el activo total o los ingresos totales, dependiendo del ejercicio fiscal en cuestión.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el setenta por ciento en el Impuesto sobre la Renta?",
-    "¿Qué activos se consideran para el cálculo del setenta por ciento en ISR?",
-    "¿Cómo se deben contabilizar los ingresos para el setenta por ciento en ISR?",
-    "¿Qué se considera como ingresos totales en la determinación del ISR?",
-    "¿Qué pasa en el primer ejercicio fiscal con el setenta por ciento en ISR?"
+    "¿Cómo se determina el setenta por ciento en el impuesto sobre la renta?",
+    "¿Qué son los activos totales y cómo se cuentan?",
+    "¿Cómo se calculan los ingresos totales para el ISR?",
+    "¿Qué dice la regla sobre cuentas por cobrar en el ISR?",
+    "¿Qué consideración tengo que hacer para el primer ejercicio fiscal?"
   ]
 }

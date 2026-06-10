@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3731bc69a349d37a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Papeles de trabajo y asientos contables",
+  "denominacion_comun": "Papeles de trabajo y registro de asientos contables",
   "temas": [
-    "papeles de trabajo",
+    "contabilidad",
     "deducción de inversiones",
+    "documentación comprobatoria",
     "asientos contables",
-    "registro contable",
-    "CFDI",
-    "medios de pago"
+    "forma de pago",
+    "CFDI"
   ],
   "terminos_coloquiales": [
     "papeles de trabajo",
-    "asientos contables",
-    "deducción de inversiones",
-    "CFDI",
-    "Reglamento del CFF"
+    "registros contables",
+    "deducciones",
+    "forma de pago",
+    "constitución de pólizas",
+    "CFDI"
   ],
-  "resumen": "Los contribuyentes que deben llevar contabilidad deben realizar registros de sus asientos contables y mantener papeles de trabajo relacionados con la deducción de inversiones, además de especificar medios de pago si la información está disponible.",
+  "resumen": "Los contribuyentes que llevan contabilidad deben conservar los papeles de trabajo que demuestren las deducciones de inversiones y hacer registros contables oportunos. Si no hay información sobre el medio de pago, se puede anotar 'NA'. Si la fecha del CFDI y la póliza contable son diferentes, se puede cumplir la obligación siempre que la diferencia no exceda el plazo permitido.",
   "preguntas_ejemplo": [
-    "¿Qué son los papeles de trabajo en contabilidad?",
-    "¿Cómo se registran los asientos contables?",
-    "¿Qué información se necesita para la deducción de inversiones?",
-    "¿Qué hacer si no tengo el medio de pago para mis registros?",
-    "¿Qué pasa si hay una diferencia en la fecha del CFDI y la póliza contable?"
+    "¿Qué documentos necesito para deducir inversiones?",
+    "¿Cómo registro mis asientos contables?",
+    "¿Qué hago si no tengo la forma de pago para mis registros?",
+    "¿Qué pasa si la fecha del CFDI no coincide con mi póliza contable?",
+    "¿Cuándo debo hacer mis registros contables?"
   ]
 }

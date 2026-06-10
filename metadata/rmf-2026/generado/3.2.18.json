@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0d392f0f3dde6ed8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Préstamo de Valores",
+  "denominacion_comun": "Préstamo de títulos o valores",
   "temas": [
-    "ingresos por enajenación de acciones",
-    "restitución de acciones",
-    "costo comprobado de acciones",
+    "ingreso por enajenación de acciones",
+    "costo comprobado de adquisición",
+    "dividendos",
+    "ajuste anual por inflación",
     "intereses a favor",
-    "ajuste anual por inflación"
+    "reglas de operación"
   ],
   "terminos_coloquiales": [
     "préstamo de acciones",
-    "valores en préstamo",
-    "ingresos por valores",
-    "acciones no restituidas"
+    "ingreso por acciones no devueltas",
+    "acciones prestadas",
+    "rendimiento por acciones",
+    "intereses cobrados",
+    "RMF 2026"
   ],
-  "resumen": "La regla establece el tratamiento fiscal para las acciones que no son devueltas en un préstamo, considerando como ingreso por enajenación el precio promedio de las acciones y determinando el costo de las acciones obtenidas en exceso. También se trata el tratamiento de los intereses y el ajuste anual por inflación en cuanto a las deudas derivadas de este tipo de operaciones.",
+  "resumen": "Esta regla establece cómo se consideran los ingresos y costos relacionados con las acciones en operaciones de préstamo de títulos o valores. Si el prestatario no devuelve las acciones en el tiempo acordado, se considera un ingreso por enajenación para el prestamista. También aclara cómo se manejan los dividendos y otros conceptos en estas transacciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me devuelven las acciones que presté?",
-    "¿Cómo se calculan los ingresos por préstamos de valores?",
-    "¿Qué acciones se consideran con costo comprobado en un préstamo?",
-    "¿Cómo se manejan los intereses en un contrato de préstamo de títulos?",
-    "¿Qué se debe considerar para el ajuste anual por inflación en este tipo de préstamos?"
+    "¿Qué sucede si no devuelvo las acciones prestadas?",
+    "¿Cómo se determina el ingreso por la enajenación de acciones prestadas?",
+    "¿Los dividendos recibidos cuentan como ingreso?",
+    "¿Qué acciones no tienen costo comprobado?",
+    "¿Cómo afecta el ajuste anual por inflación a este tipo de préstamos?",
+    "¿Cuál es el tratamiento fiscal para los intereses recibidos?"
   ]
 }

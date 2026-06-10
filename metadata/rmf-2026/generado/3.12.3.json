@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1fb1393a13520f09",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales por ingresos por salarios",
+  "denominacion_comun": "ISR por salarios y servicios del extranjero",
   "temas": [
-    "Retención de impuestos",
-    "Servicios personales subordinados",
-    "Ingresos del extranjero",
-    "Pago provisional",
-    "ISR personas físicas"
+    "retenciones",
+    "servicios personales subordinados",
+    "ingresos del extranjero",
+    "pago provisional",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "retenciones de ISR",
-    "ingresos por salarios",
-    "ISR extranjeros",
+    "impuesto sobre la renta",
+    "ISR",
+    "retenciones de sueldo",
     "pago de impuestos",
-    "ISR personas físicas",
-    "LISR"
+    "servicios personales",
+    "ingresos en el extranjero"
   ],
-  "resumen": "Los contribuyentes que brindan servicios personales subordinados a personas que no retienen impuestos, así como aquellos que obtienen ingresos del extranjero, deben cumplir con ciertas obligaciones fiscales, incluyendo el pago provisional de ISR de acuerdo a lo indicado en la ley.",
+  "resumen": "Esta disposición establece que los contribuyentes que reciben ingresos por servicios personales subordinados a personas no obligadas a retener, así como aquellos que obtienen ingresos del extranjero, deben realizar un pago provisional conforme a lo indicado en la ley.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben presentar retenciones de ISR por salarios?",
-    "¿Qué debo hacer si recibo ingresos del extranjero?",
-    "¿Cómo se calcula el pago provisional de ISR por salarios?",
-    "¿Qué pasa si mi patrón no retiene impuestos?",
-    "¿Dónde encuentro información sobre ISR para personas físicas?",
-    "¿Qué incluye la sección 2.8.3. de la RMF?"
+    "¿Qué hago si mi patrón no me retiene el ISR?",
+    "¿Cómo debo reportar ingresos que recibí del extranjero?",
+    "¿Cuáles son mis obligaciones fiscales si trabajo como empleado?",
+    "¿Qué es el pago provisional de ISR?",
+    "¿A quiénes se les aplica la retención de impuestos por sueldos?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f1aaee4464d9214f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la renta para residentes en el extranjero",
+  "denominacion_comun": "Impuesto a intereses de residentes en el extranjero",
   "temas": [
-    "intereses pagados",
-    "clientes residentes en el extranjero",
-    "tasa de retención",
+    "impuesto sobre la renta",
+    "intereses",
+    "residentes en el extranjero",
+    "retención de impuestos",
     "mercado de derivados"
   ],
   "terminos_coloquiales": [
-    "impuesto a intereses para extranjeros",
-    "retención de ISR para no residentes",
-    "LISR 166",
-    "RMF 3.1.12",
-    "tasa de 4.9%"
+    "impuesto a intereses",
+    "retención de 4.9%",
+    "intereses pagados",
+    "clientes en el extranjero",
+    "derivados",
+    "LISR"
   ],
-  "resumen": "Esta disposición establece que se podrá aplicar una retención del 4.9% sobre los intereses pagados a clientes residentes en el extranjero, siempre que se cumplan ciertas condiciones relacionadas con el costo de fondeo y operaciones derivadas estandarizadas.",
+  "resumen": "Esta regla establece que se puede retener un impuesto del 4.9% sobre los intereses que se paguen a clientes que son residentes en el extranjero y que no tienen un establecimiento permanente en México. Este impuesto aplica si los intereses compensan el costo de fondeo de ciertas operaciones derivadas.",
   "preguntas_ejemplo": [
-    "¿Qué tasa se aplica a los intereses pagados a clientes extranjeros?",
-    "¿Cómo se retiene el impuesto a intereses para residentes en el extranjero?",
-    "¿Quiénes son considerados clientes según las reglas de derivados?",
-    "¿Qué es el costo de fondeo mencionado en la regla?",
-    "¿Qué operaciones se consideran bajo esta disposición?",
-    "¿Dónde encuentro más información sobre la LISR y esta regla específica?"
+    "¿Cuánto es el impuesto a los intereses pagados a extranjeros?",
+    "¿A qué clientes se les puede retener este impuesto?",
+    "¿Qué tasa se aplica a los intereses para residentes en el extranjero?",
+    "¿Qué son las operaciones derivadas en este contexto?",
+    "¿Cómo se determina el costo de fondeo?",
+    "¿Qué reglas aplican a los mercados de derivados?"
   ]
 }

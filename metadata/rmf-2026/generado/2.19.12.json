@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd20209855ebe1c8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas reportables",
+  "denominacion_comun": "Esquemas Reportables",
   "temas": [
-    "revelación de esquemas",
+    "información fiscal",
+    "declaraciones informativas",
+    "esquemas reportables",
     "documentación requerida",
-    "operaciones entre partes relacionadas",
-    "beneficios fiscales",
-    "imposición de contraprestaciones"
+    "transacciones sin contraprestación",
+    "partes relacionadas",
+    "valor de bienes",
+    "prestación de servicios"
   ],
   "terminos_coloquiales": [
-    "informes fiscales",
-    "reportes de esquemas",
-    "REREPORT",
+    "reportar esquemas",
     "esquemas fiscales",
-    "reportes de beneficios"
+    "asesoría fiscal",
+    "CFF",
+    "documentos fiscales"
   ],
-  "resumen": "La disposición establece que los asesores fiscales y contribuyentes deben presentar documentación específica sobre esquemas reportables, incluyendo la descripción de operaciones y partes involucradas. Es importante que esta información sea clara para evaluar el cumplimiento fiscal.",
+  "resumen": "La regla establece los requisitos para la revelación de esquemas reportables en las declaraciones informativas. Los asesores fiscales y contribuyentes deben incluir información detallada sobre las operaciones involucradas, los beneficiarios y las condiciones bajo las cuales se otorgan servicios o bienes sin contraprestación.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un esquema reportable?",
-    "¿Cuáles son los requisitos para reportar un esquema fiscal?",
-    "¿Cómo se determina si un esquema es reportable?",
-    "¿Qué pasa si no tengo toda la documentación requerida?",
-    "¿Quiénes son los contribuyentes beneficiados en un esquema reportable?"
+    "¿Qué es un esquema reportable?",
+    "¿Qué información debo incluir en las declaraciones informativas?",
+    "¿Cómo se reportan las transacciones sin pago?",
+    "¿Quiénes son considerados beneficiarios en un esquema reportable?",
+    "¿Qué documentación es necesaria para un esquema fiscal?",
+    "¿Qué implica revelar un esquema reportable?"
   ]
 }

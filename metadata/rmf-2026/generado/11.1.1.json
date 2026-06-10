@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8a27674f634b13f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donaciones de obras a museos",
+  "denominacion_comun": "Conservación de obras a museos",
   "temas": [
     "donaciones",
     "museos",
     "obras de arte",
     "exhibición",
-    "conservación"
+    "conservación",
+    "deducción de impuestos",
+    "trámites",
+    "espacios de exposición"
   ],
   "terminos_coloquiales": [
     "donaciones a museos",
-    "donativos deducibles",
-    "regla de donaciones",
-    "ficha de trámite 2/DEC-2"
+    "donar obras de arte",
+    "exhibición de arte",
+    "conservación de obras",
+    "trámite de donaciones",
+    "museos de arte contemporáneo"
   ],
-  "resumen": "Esta disposición establece los requisitos para que las donaciones de obras a museos sean consideradas deducibles. Los museos deben presentar un trámite específico para registrar estas donaciones y las obras deben estar expuestas permanentemente al público en museos que cumplan con ciertas condiciones.",
+  "resumen": "La regla establece que los museos deben presentar un trámite para recibir obras de arte en donación, que deben ser exhibidas permanentemente. También se especifican las condiciones museográficas y curatoriales para la adecuada conservación y exposición de las obras.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para donar una obra a un museo?",
-    "¿Cuáles son los requisitos para deducir donativos a museos?",
-    "¿Qué trámites son necesarios para registrar una donación a un museo?",
-    "¿Dónde debe exhibirse la obra donada a un museo?",
-    "¿Los donativos a museos son deducibles de impuestos?"
+    "¿Cómo dono una obra de arte a un museo?",
+    "¿Qué requisitos necesita un museo para recibir donaciones de obras?",
+    "¿Puedo deducir impuestos por donar obras de arte?",
+    "¿Cuáles son las condiciones para la exhibición de obras en un museo?",
+    "¿Qué trámites debo realizar para donar a un museo?",
+    "¿Qué tipos de obras pueden ser donadas a museos?"
   ]
 }

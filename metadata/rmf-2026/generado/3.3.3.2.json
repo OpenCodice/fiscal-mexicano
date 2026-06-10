@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76b96ea6ec5eb772",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción del costo de lo vendido",
   "temas": [
-    "Deducción",
+    "Impuesto sobre la renta",
+    "Deducciones",
     "Costo de lo vendido",
     "Servicios de hospedaje",
-    "Servicios de salones de belleza",
-    "Venta de pan",
+    "Servicios de belleza",
+    "Elaboración de pan",
     "Venta de pasteles",
     "Venta de canapés"
   ],
   "terminos_coloquiales": [
-    "Deducción de costos",
-    "Costo de lo vendido",
-    "RLISR",
-    "LISR"
+    "deducción de impuestos",
+    "costo de bienes vendidos",
+    "servicios de hotel",
+    "salones de belleza",
+    "venta de pan",
+    "pasteles",
+    "canapés"
   ],
-  "resumen": "Los contribuyentes que presten servicios de hospedaje, salones de belleza o vendan pan, pasteles y canapés pueden deducir el costo de lo vendido si cumplen con las condiciones establecidas en la Ley del ISR.",
+  "resumen": "Esta disposición permite a ciertos contribuyentes deducir el costo de lo vendido, siempre que proporcionen bienes junto con sus servicios. Se aplica a quienes ofrecen hospedaje, servicios de belleza, y a los que elaboran o venden productos de panadería.",
   "preguntas_ejemplo": [
-    "¿Qué costos puedo deducir si vendo pasteles?",
-    "¿Se puede deducir el costo de productos en servicios de hospedaje?",
-    "¿Qué requisitos hay para deducir el costo de lo vendido en un salón de belleza?",
-    "¿Quiénes pueden aplicar las deducciones de costos según la LISR?",
-    "¿Cómo funciona la deducción del costo de lo vendido para vendedores de pan?"
+    "¿Qué puedo deducir si tengo un hotel?",
+    "¿Puedo deducir el costo de productos que vendo en mi salón de belleza?",
+    "¿Qué requisitos debo cumplir para deducir el costo de lo vendido?",
+    "¿Cómo afectan mis ventas de pan a mi declaración de impuestos?",
+    "¿Qué servicios son elegibles para la deducción del costo de lo vendido?"
   ]
 }

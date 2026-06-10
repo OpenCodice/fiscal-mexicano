@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d3aff675d5f81a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Alimentos preparados para consumo",
   "temas": [
-    "Impuesto al valor agregado",
-    "Alimentos preparados",
-    "Ejecución en establecimientos",
-    "Productos en refrigeración",
-    "Tiendas de conveniencia"
+    "IVA",
+    "alimentos",
+    "comida rápida",
+    "establecimientos",
+    "enajenación"
   ],
   "terminos_coloquiales": [
-    "comida rápida",
     "alimentos listos para comer",
     "comida para llevar",
-    "LIVA",
-    "IVA"
+    "sándwiches",
+    "tacos",
+    "hamburguesas",
+    "fast food",
+    "tiendas de conveniencia"
   ],
-  "resumen": "La regla especifica qué productos se consideran alimentos preparados para el consumo inmediato en los establecimientos de venta. Esto incluye sándwiches, tacos, pizzas, hamburguesas, y más, que deben estar disponibles para el consumidor sin necesidad de cocción adicional.",
+  "resumen": "La regla establece qué alimentos se consideran preparados para su consumo en el lugar donde se venden, incluyendo productos como sándwiches, tacos, y hamburguesas, entre otros. También menciona los tipos de establecimientos donde se pueden vender estos productos.",
   "preguntas_ejemplo": [
-    "¿Qué alimentos están sujetos al IVA en tiendas de conveniencia?",
-    "¿Qué se considera comida rápida para la ley del IVA?",
-    "¿Cuáles son los productos permitidos bajo la regla de alimentos preparados?",
-    "¿Cómo se clasifica la comida para llevar según el IVA?",
-    "¿Qué tipos de alimentos se pueden vender sin necesidad de ser cocinados?",
-    "¿Qué es lo que incluye el artículo 2o.-A de la Ley del IVA?"
+    "¿Qué alimentos se consideran listos para comer según la ley?",
+    "¿Dónde se pueden vender alimentos preparados?",
+    "¿Los sándwiches están incluidos en el IVA?",
+    "¿Qué productos de comida rápida están sujetos a esta regla?",
+    "¿Qué tipo de establecimientos son considerados tiendas de conveniencia?"
   ]
 }

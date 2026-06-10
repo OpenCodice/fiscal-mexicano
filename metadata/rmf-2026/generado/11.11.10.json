@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d79b0fcfe09c1f99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Control de salida y traslado de bienes",
+  "denominacion_comun": "Control de bienes en PODEBI",
   "temas": [
     "CFDI",
     "Complemento Carta Porte",
+    "Complemento Leyendas Fiscales",
     "PODEBI",
-    "Leyendas Fiscales",
-    "Traslado de bienes"
+    "traslado de bienes",
+    "enajenación",
+    "adquisición"
   ],
   "terminos_coloquiales": [
-    "control de bienes",
-    "movimiento de mercancías",
-    "traslado de productos",
-    "COMPLEMENTO Carta Porte"
+    "factura",
+    "complemento Carta Porte",
+    "PODEBI",
+    "traslado de mercancías",
+    "CFDI con complementos"
   ],
-  "resumen": "Esta disposición establece el control sobre la salida, entrada y traslado de bienes entre Polos de Desarrollo Económico del país, a través de la emisión del CFDI con el Complemento Carta Porte, que debe identificar el origen y destino de los bienes. Además, se deben incluir leyendas fiscales en los CFDI para evidenciar operaciones realizadas dentro de estos Polos.",
+  "resumen": "Se establece que para el control de la salida, entrada y traslado de bienes dentro de los PODEBI se debe emitir un CFDI con el Complemento Carta Porte. Además, se requiere incluir la leyenda correspondiente en el CFDI que indique que la operación se realizó al interior de los PODEBI.",
   "preguntas_ejemplo": [
     "¿Qué es el Complemento Carta Porte?",
-    "¿Cómo se controla el traslado de bienes en los PODEBI?",
-    "¿Qué requisitos debo cumplir para emitir un CFDI por traslado de mercancías?",
-    "¿Qué información se necesita para el CFDI en los PODEBI?",
-    "¿Las leyendas fiscales son obligatorias en los CFDI?"
+    "¿Cómo se controla el traslado de bienes en PODEBI?",
+    "¿Qué información debo incluir en un CFDI para bienes en PODEBI?",
+    "¿Qué leyendas fiscales se requieren para el traslado de mercancías en PODEBI?",
+    "¿Cuáles son las obligaciones para enajenar bienes en PODEBI?"
   ]
 }

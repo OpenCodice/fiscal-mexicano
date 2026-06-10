@@ -6,34 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dfe7bb39efdcab7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Códigos de seguridad para impresión",
   "temas": [
-    "Código de seguridad",
-    "Impuesto Especial sobre Producción y Servicios",
-    "Solicitud de códigos",
-    "Productores de tabacos",
-    "Fabricantes de tabacos",
-    "Importadores de tabacos",
-    "Trámites en el SAT",
-    "Conexión con terceros"
+    "IEPS",
+    "códigos de seguridad",
+    "solicitudes",
+    "producción de tabacos"
   ],
   "terminos_coloquiales": [
     "códigos de seguridad",
-    "IEPS",
-    "Solicitud de Códigos de Seguridad para impresión",
-    "ficha de trámite 12/IEPS",
-    "ficha de trámite 13/IEPS",
-    "trámites del SAT"
+    "solicitud de códigos",
+    "ficha de trámite IEPS 12",
+    "ficha de trámite IEPS 13",
+    "cigarros",
+    "tabacos"
   ],
-  "resumen": "La regla establece que los productores, fabricantes e importadores de cigarros y otros tabacos labrados deben solicitar códigos de seguridad a través del Portal del SAT. La autoridad autorizará estas solicitudes siempre que se cumplan los requisitos establecidos.",
+  "resumen": "Los productores, fabricantes e importadores de cigarros y otros tabacos labrados deben solicitar códigos de seguridad a través del SAT, cumpliendo con ciertos requisitos. Si no presentan la solicitud en un año, perderán su incorporación para obtenerlos.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito un código de seguridad para la impresión de mis productos?",
-    "¿Qué trámites necesito para obtener códigos de seguridad en el SAT?",
-    "¿Cuáles son las consecuencias de no solicitar códigos de seguridad?",
-    "¿Qué requisitos debo cumplir para que el SAT me autorice los códigos de seguridad?",
-    "¿Qué es la ficha de trámite 12/IEPS?",
-    "¿Cómo funciona la conexión con entidades externas para solicitar códigos de seguridad?"
+    "¿Cómo puedo solicitar códigos de seguridad para imprimir mis productos de tabaco?",
+    "¿Qué requisitos debo cumplir para obtener códigos de seguridad en el SAT?",
+    "¿Qué pasa si no solicito los códigos de seguridad en un año?",
+    "¿Cuáles son las fichas de trámite para los códigos de seguridad de tabacos?",
+    "¿Dónde presento mi solicitud para códigos de seguridad?"
   ]
 }

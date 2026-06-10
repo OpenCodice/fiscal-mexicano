@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:801392111db16ddb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes por Administradoras de Fondos para el Retiro",
+  "denominacion_comun": "Comprobantes de Administradoras de Fondos para el Retiro",
   "temas": [
-    "Comprobantes Fiscales Digitales",
-    "Administradoras de Fondos para el Retiro",
-    "CFDI globales",
-    "Comisiones",
-    "Estados de cuenta"
+    "CFDI",
+    "fondos para el retiro",
+    "comisiones",
+    "estados de cuenta",
+    "RFC"
   ],
   "terminos_coloquiales": [
-    "CFDI de AFORE",
-    "Comprobantes AFORE",
-    "Factura AFORE",
-    "CFDI global",
+    "factura de fondos de retiro",
+    "CFDI de comisiones",
+    "estados de cuenta de AFORE",
     "AFORE"
   ],
-  "resumen": "Las administradoras de fondos para el retiro pueden emitir CFDI globales por las comisiones cobradas a sus clientes. Estos comprobantes deben cumplir con lo que establece la Ley de los Sistemas de Ahorro para el Retiro y señalar adecuadamente el RFC del receptor.",
+  "resumen": "Las administradoras de fondos para el retiro pueden expedir CFDI globales que incluyan los montos totales de comisiones cobradas a sus clientes. Estos comprobantes deben emitirse en la periodicidad que establezca la ley correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo funcionan los CFDI de AFORE?",
-    "¿Qué son los comprobantes fiscales de fondos para el retiro?",
-    "¿Debe mi AFORE emitir una factura por las comisiones?",
-    "¿Qué información contiene el CFDI global de mi AFORE?",
-    "¿Cada cuánto tiempo emiten los CFDI las AFORE?",
-    "¿Qué claves debo incluir en el CFDI de mi AFORE?"
+    "¿Cómo se emiten las facturas de las AFORE?",
+    "¿Qué son los CFDI globales de comisiones?",
+    "¿Qué información debe tener el CFDI de una AFORE?",
+    "¿Con qué frecuencia se deben emitir los estados de cuenta de las AFORE?",
+    "¿Qué clave en el RFC se utiliza para los comprobantes de las AFORE?"
   ]
 }

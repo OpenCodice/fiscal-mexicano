@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:59c104c4fb58ed8e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de estados financieros",
   "temas": [
     "SIPRED 2025",
     "dictamen fiscal",
-    "contabilidad",
-    "contador público inscrito",
-    "información fiscal"
+    "contador público",
+    "anexos del dictamen",
+    "opinión fiscal",
+    "situación fiscal del contribuyente",
+    "cuestionarios diagnóstico fiscal"
   ],
   "terminos_coloquiales": [
-    "dictamen de contabilidad",
     "dictamen fiscal",
-    "SIPRED"
+    "SIPRED",
+    "revisión fiscal",
+    "dictamen de contabilidad",
+    "opinión del contador"
   ],
-  "resumen": "El dictamen de estados financieros debe presentarse a través del programa SIPRED 2025 y debe incluir varios anexos y documentos importantes elaborados por el contador público inscrito. El envío se realiza por Internet desde cualquier equipo con conexión.",
+  "resumen": "El dictamen de estados financieros debe presentarse a través del SIPRED 2025, que se puede obtener en el Portal del SAT. Este dictamen debe incluir la opinión del contador público inscrito y otros documentos relevantes que serán enviados al SAT por Internet.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el dictamen fiscal?",
-    "¿Qué información debe incluir el SIPRED?",
-    "¿Quién puede elaborar el dictamen de estados financieros?",
-    "¿Dónde consigo el SIPRED 2025?",
-    "¿Qué documentos acompañan al dictamen fiscal?"
+    "¿Cómo se presenta el dictamen de estados financieros?",
+    "¿Qué información debe incluir el dictamen fiscal?",
+    "¿Dónde puedo obtener el SIPRED 2025?",
+    "¿Quién elabora el dictamen de estados financieros?",
+    "¿Qué documentos se envían junto con el dictamen fiscal?"
   ]
 }

@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e4670884e2f20a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Formato de pago para fianzas fiscales",
+  "denominacion_comun": "Pago de fianzas fiscales",
   "temas": [
     "fianzas fiscales",
     "pago",
@@ -17,16 +18,15 @@
   ],
   "terminos_coloquiales": [
     "pago de fianzas",
-    "fianza fiscal",
-    "FCF",
-    "línea de captura"
+    "línea de captura",
+    "FCF"
   ],
-  "resumen": "Esta disposición establece que el pago requerido a las instituciones autorizadas para emitir fianzas fiscales se debe realizar utilizando un formato de línea de captura que se acompaña a la notificación del requerimiento de pago.",
+  "resumen": "Las instituciones autorizadas para emitir fianzas fiscales deben realizar el pago requerido por la autoridad mediante una línea de captura. Este pago se debe acompañar al requerimiento de pago notificado.",
   "preguntas_ejemplo": [
-    "¿Cómo debo realizar el pago de una fianza fiscal?",
-    "¿Qué es el FCF y cómo se usa?",
-    "¿Qué debo hacer al recibir un requerimiento de pago de fianza?",
-    "¿Dónde encuentro la línea de captura para pagar fianzas fiscales?",
-    "¿Qué notificaciones necesito para el pago de fianzas fiscales?"
+    "¿Cómo debo realizar el pago de fianzas fiscales?",
+    "¿Qué es la línea de captura para el pago de fianzas?",
+    "¿Qué ocurre si no acompaño la línea de captura al pago?",
+    "¿Quién requiere el pago de las fianzas fiscales?",
+    "¿Qué información necesito para pagar fianzas fiscales?"
   ]
 }

@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19d3a4d52f36890f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revelación de esquemas reportables",
+  "denominacion_comun": "Revelación de Esquemas Reportables",
   "temas": [
     "esquemas reportables",
-    "documentación requerida",
+    "documentación fiscal",
+    "información contable",
     "diferencias contables",
+    "registros fiscales",
     "operaciones jurídicas",
-    "due diligence fiscal"
+    "personas relacionadas",
+    "razón de negocios"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
-    "documentación de esquemas",
-    "esquemas personalizados",
-    "CFF",
-    "RMF"
+    "esquemas reportables",
+    "documentación de impuestos",
+    "información fiscal",
+    "diferencias mayores al 20%",
+    "personas físicas en el extranjero",
+    "RFC",
+    "CFF"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben presentar un documento en formato .pdf con información detallada sobre esquemas reportables, incluyendo operaciones jurídicas y diferencias fiscales. Se requiere información adicional si el esquema es personalizado.",
+  "resumen": "Esta disposición establece los requisitos que deben cumplir los asesores fiscales y contribuyentes para revelar información sobre esquemas reportables, incluyendo la presentación de un documento que contenga detalles sobre las operaciones y las partes involucradas. Se requiere información específica sobre las diferencias contables y fiscales que superen el 20%.",
   "preguntas_ejemplo": [
-    "¿Qué es un esquema reportable?",
-    "¿Qué información se debe presentar para un esquema reportable?",
-    "¿Cómo se reportan las diferencias contables mayores al 20%?",
-    "¿Qué documentación necesito para revelar un esquema personalizado?",
-    "¿Qué sucede si no tengo la información requerida para el reporte?"
+    "¿Qué información necesitan revelar los asesores fiscales sobre esquemas reportables?",
+    "¿Cuáles son las obligaciones para los contribuyentes en relación con los esquemas reportables?",
+    "¿Qué se considera una diferencia contable mayor al 20%?",
+    "¿Cómo se informa sobre las personas relacionadas en un esquema reportable?",
+    "¿Qué pasos deben seguir los contribuyentes para cumplir con la revelación de esquemas reportables?"
   ]
 }

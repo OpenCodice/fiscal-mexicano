@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b9fc1aa9d0a431e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Proveedores de Certificación de CFDI",
   "temas": [
-    "Garantía para PCCFDI",
-    "Validación de CSD",
-    "Recepción de CFDI por el SAT",
-    "Requisitos de autorización"
+    "autorización de PCCFDI",
+    "garantía de cumplimiento",
+    "validación de CSD",
+    "envío de CFDI al SAT",
+    "requisitos de garantía",
+    "devolución de garantía"
   ],
   "terminos_coloquiales": [
+    "proveedores de facturas",
     "PCCFDI",
-    "Proveedores de CFDI",
-    "Garantía para proveedores",
-    "Devolución de garantía"
+    "garantía para proveedores",
+    "devolución de garantía de facturas",
+    "validar CFDI"
   ],
-  "resumen": "Las personas morales autorizadas como proveedores de certificación de CFDI deben presentar una garantía que asegure el cumplimiento de sus obligaciones. Esta garantía deberá amparar ciertos periodos y su rechazo conllevará la necesidad de presentar una nueva solicitud de autorización.",
+  "resumen": "La regla establece las condiciones y requisitos que deben cumplir los proveedores de certificación de CFDI para presentar la garantía que asegura el cumplimiento de sus obligaciones. También detalla el proceso de aceptación y rechazo de la garantía, así como las condiciones para su devolución.",
   "preguntas_ejemplo": [
-    "¿Qué es un proveedor de certificación de CFDI?",
-    "¿Cómo se presenta la garantía para un PCCFDI?",
-    "¿Qué sucede si la garantía del proveedor es rechazada?",
-    "¿Cuándo se puede solicitar la devolución de la garantía como PCCFDI?",
-    "¿Qué requisitos se deben cumplir para ser un proveedor de CFDI?"
+    "¿Cómo puedo ser un proveedor de certificación de CFDI?",
+    "¿Qué requisitos necesito para presentar la garantía como PCCFDI?",
+    "¿Qué pasa si mi garantía es rechazada?",
+    "¿Cómo solicito la devolución de la garantía presentada?",
+    "¿Cuánto tiempo debo esperar para la devolución de mi garantía?"
   ]
 }

@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:526004d131657bde",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios de grúas de arrastre y salvamento",
   "temas": [
-    "CFDI de ingreso",
-    "CFDI de traslado",
-    "jurisdicción local",
-    "servicio de grúas",
-    "comprobantes fiscales"
+    "CFDI",
+    "grúas de arrastre",
+    "transporte de bienes",
+    "jurisdicción federal",
+    "comprobantes fiscales",
+    "servicios de salvamento",
+    "depósito de vehículos"
   ],
   "terminos_coloquiales": [
-    "grúas de arrastre",
-    "grúas de salvamento",
-    "CFDI sin Carta Porte"
+    "factura",
+    "CFDI de ingreso",
+    "CFDI de traslado",
+    "grúa",
+    "servicio de grúas",
+    "grúas de arrastre"
   ],
-  "resumen": "Los prestadores de servicios de grúas de arrastre y salvamento a nivel local pueden emitir un CFDI de ingreso sin complemento Carta Porte si no transitan por jurisdicción federal. Pueden usar un CFDI de traslado para amparar el movimiento de bienes relacionado con el servicio prestado.",
+  "resumen": "Esta disposición permite a quienes presten servicios de grúas de arrastre y salvamento emitir un CFDI de tipo ingreso sin complemento Carta Porte, siempre que no transiten por jurisdicción federal. Además, pueden amparar el traslado de bienes con un CFDI de tipo traslado si está relacionado con el CFDI de ingreso.",
   "preguntas_ejemplo": [
-    "¿Puedo emitir un CFDI sin Carta Porte si solo opero a nivel local?",
-    "¿Qué requisitos debo cumplir para emitir un CFDI de ingreso por servicio de grúas?",
-    "¿Qué ocurre si transito por jurisdicción federal durante el servicio?",
-    "¿Cómo debo documentar el traslado de bienes en estos casos?",
-    "¿Qué es un CFDI de tipo ingreso y un CFDI de tipo traslado?"
+    "¿Cómo emito una factura por el servicio de grúas de arrastre?",
+    "¿Qué requisitos debo cumplir para emitir un CFDI de ingreso por servicios de grúas?",
+    "¿Puedo usar un CFDI de traslado si no paso por jurisdicción federal?",
+    "¿Cuándo necesito un CFDI con complemento Carta Porte?",
+    "¿Qué implica prestar un servicio de salvamento de vehículos?",
+    "¿Qué tipo de CFDI se necesita para el transporte de bienes con grúas?"
   ]
 }

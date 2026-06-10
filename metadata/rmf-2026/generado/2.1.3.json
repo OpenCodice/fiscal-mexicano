@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:22a1d079fd9b4938",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Constancia de residencia fiscal",
   "temas": [
     "residencia fiscal",
     "contribuyentes",
-    "autoridad fiscal",
-    "domicilio fiscal"
+    "domicilio fiscal",
+    "solicitud",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
     "constancia de residencia",
-    "certificado de residencia fiscal",
-    "CFF 9o",
-    "ficha de trámite 24/CFF"
+    "residencia en México",
+    "domicilio fiscal",
+    "solicitud de constancia",
+    "CFF"
   ],
-  "resumen": "La constancia de residencia fiscal es un documento que verifica que un contribuyente es residente en México. Esta constancia se solicita siguiendo un procedimiento específico establecido por la autoridad fiscal.",
+  "resumen": "La constancia de residencia fiscal es un documento que emite la autoridad fiscal para confirmar que un contribuyente es residente en México. Se debe solicitar mediante una ficha de trámite específica.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener la constancia de residencia fiscal?",
-    "¿Qué es la constancia de residencia para efectos fiscales?",
-    "¿Dónde encuentro el trámite para la constancia de residencia en México?",
-    "¿Qué documentos necesito para solicitar la constancia de residencia fiscal?",
-    "¿Cuál es el proceso para verificar mi residencia fiscal en el país?"
+    "¿Cómo puedo obtener mi constancia de residencia fiscal?",
+    "¿Qué es una constancia de residencia en México?",
+    "¿Qué requisitos se necesitan para la solicitud de constancia de residencia?",
+    "¿Quién emite la constancia de residencia fiscal?",
+    "¿Es necesario tener una constancia de residencia para cumplir con mis obligaciones fiscales?"
   ]
 }

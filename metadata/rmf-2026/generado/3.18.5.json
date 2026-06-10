@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d785ed2d66e6bac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "ISR para residentes en EE.UU. por uso de inmuebles",
+  "denominacion_comun": "Uso temporal de bienes inmuebles por residentes en EUA",
   "temas": [
-    "retención de ISR",
-    "bienes inmuebles",
+    "ISR",
     "residentes en el extranjero",
+    "bienes inmuebles",
+    "retención de impuestos",
     "listado del SAT",
-    "opción de impuestos",
     "doble imposición"
   ],
   "terminos_coloquiales": [
-    "ISR a extranjeros",
-    "retención de impuestos extranjeros",
-    "impresión de uso de inmuebles",
-    "convenio México-EE.UU."
+    "alquiler de propiedades",
+    "renta de inmuebles",
+    "exención de retención de ISR",
+    "no retención de impuestos",
+    "optar por base neta"
   ],
-  "resumen": "Los residentes en EE.UU. que obtienen ingresos por el uso temporal de inmuebles en México pueden optar por no retener el ISR si cumplen ciertos requisitos y se inscriben en un listado del SAT. Deben verificar su inclusión en el listado cada vez que realicen un pago de este tipo.",
+  "resumen": "La regla establece que los residentes en el extranjero, específicamente en los Estados Unidos, pueden evitar la retención del ISR si cumplen ciertos requisitos y se registran en un listado del SAT. Estos residentes deben acreditar su condición fiscal y seguir un proceso a través de fichas de trámite para mantener su estatus.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo evitar la retención de ISR si soy residente en EE.UU. y tengo inmuebles en México?",
-    "¿Qué requisitos debo cumplir para que no me retengan ISR por ingresos de inmuebles?",
-    "¿Cómo me inscribo en el listado del SAT como residente extranjero?",
-    "¿Qué debo hacer si no aparezco en el listado del SAT para no retener ISR?",
-    "¿Cuáles son las implicaciones del convenio entre México y EE.UU. sobre impuestos?"
+    "¿Cómo pueden los residentes en EUA evitar la retención de ISR por alquiler de inmuebles en México?",
+    "¿Qué requisitos deben cumplir los residentes en el extranjero para no pagar ISR?",
+    "¿Dónde puedo encontrar el listado del SAT para residentes en EUA?",
+    "¿Qué es el aviso para optar por la base neta en el impuesto sobre la renta?",
+    "¿Cómo se acreditan los residentes en el extranjero ante el SAT?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a4beffd9c1732f84",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos",
   "temas": [
     "embargo de bienes",
-    "garantía del interés fiscal",
-    "contribuyentes",
+    "interés fiscal",
+    "garantía fiscal",
     "solicitud de liberación",
-    "procedimiento administrativo de ejecución"
+    "procedimiento administrativo",
+    "avalúo"
   ],
   "terminos_coloquiales": [
     "pago a plazos",
-    "solicitud de liberación de bienes",
-    "interés fiscal",
+    "embargo",
+    "garantía del interés fiscal",
+    "solicitud para liberar bienes",
     "CFF"
   ],
-  "resumen": "Los contribuyentes a quienes se les hayan embargado bienes pueden solicitar la liberación de estos si garantizan el interés fiscal. Esta solicitud debe hacerse conforme a un trámite específico establecido por la autoridad fiscal.",
+  "resumen": "Esta regla permite a los contribuyentes solicitar la liberación de bienes embargados siempre que garanticen el interés fiscal. Para ello, deben cumplir con ciertos requisitos establecidos por la autoridad fiscal.",
   "preguntas_ejemplo": [
     "¿Cómo puedo liberar mis bienes embargados?",
-    "¿Qué necesito para solicitar un pago a plazos?",
+    "¿Qué debo hacer para solicitar el pago a plazos?",
     "¿Qué es la garantía del interés fiscal?",
-    "¿Cuál es el procedimiento administrativo de ejecución?",
-    "¿Qué requisitos tengo que cumplir para el pago a plazos?"
+    "¿Cuáles son los requisitos para liberar un embargo?",
+    "¿Dónde encuentro la solicitud para ofrecer garantía?",
+    "¿Qué procedimientos debo seguir ante un embargo?"
   ]
 }

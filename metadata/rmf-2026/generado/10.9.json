@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07a067b59d9d32dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación de la cuota del IAEEH por fracción de mes",
+  "denominacion_comun": "Cuota del IAEEH por fracción de mes",
   "temas": [
     "IAEEH",
-    "cuota",
     "fracción de mes",
-    "impuesto",
-    "cálculo",
-    "área contractual",
-    "modificaciones al contrato"
+    "cálculo de cuotas",
+    "modificaciones contractuales",
+    "área contractual"
   ],
   "terminos_coloquiales": [
-    "cálculo de impuestos por fracciones",
-    "IAEEH fraccional",
-    "impuesto por área de asignación"
+    "impuesto sobre hidrocarburos",
+    "IAEEH",
+    "cuota mensual",
+    "modificación de contrato",
+    "pago de impuesto"
   ],
-  "resumen": "Esta regla establece cómo calcular la cuota del Impuesto Especial sobre Producción y Servicios para la Exploración y Extracción de Hidrocarburos (IAEEH) cuando se paga por fracción de mes. Se deben considerar las modificaciones al contrato que afecten el área de asignación para ajustar el importe del impuesto.",
+  "resumen": "La regla establece cómo calcular la cuota del IAEEH cuando se determina por fracción de mes. Se deben considerar tanto el número de días del mes como las modificaciones en el área contractual para calcular el impuesto a pagar.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la cuota del IAEEH si solo ha pasado parte del mes?",
-    "¿Qué debo hacer si hay cambios en los kilómetros cuadrados de mi contrato?",
-    "¿Cómo afectan las modificaciones a mi pago del IAEEH?",
-    "¿Cuál es el procedimiento para calcular el IAEEH por fracción de mes?"
+    "¿Cómo se calcula la cuota del IAEEH si solo se trabaja parte del mes?",
+    "¿Qué se debe hacer si hay cambios en el contrato de asignación?",
+    "¿Cuáles son los pasos para calcular el impuesto cuando hay modificaciones en el área de asignación?",
+    "¿Cómo se determina el impuesto si el área contractual cambia durante el mes?",
+    "¿Qué factores se consideran para el cálculo de la cuota por fracción de mes del IAEEH?"
   ]
 }

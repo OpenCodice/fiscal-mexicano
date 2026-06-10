@@ -6,31 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51fd56e1eb4e14ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de IVA por enajenación",
+  "denominacion_comun": "Enajenación en IVA",
   "temas": [
     "Impuesto al Valor Agregado",
     "Enajenación",
-    "Transferencia electrónica de fondos",
-    "Requisitos de pago",
-    "Sistema financiero",
-    "Ley del IVA",
-    "Reglamento de la Ley del IVA"
+    "Transferencia electrónica",
+    "Sistema financiero"
   ],
   "terminos_coloquiales": [
-    "Pago de IVA",
-    "IVA por enajenación",
-    "Transferencia electrónica",
-    "LIVA",
-    "RLIVA"
+    "IVA",
+    "pago electrónico",
+    "transferencia bancaria"
   ],
-  "resumen": "Se considera que se cumple con el requisito de pago del IVA cuando se realiza mediante transferencia electrónica desde cuentas del comprador al vendedor. Estas cuentas deben estar abiertas en instituciones financieras autorizadas.",
+  "resumen": "Se considera que se cumple con el requisito de pago para la enajenación en el IVA cuando se realizan mediante transferencia electrónica desde cuentas del comprador a cuentas del vendedor, siempre que estas sean autorizadas por el Banco de México.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar el IVA por enajenación?",
-    "¿Qué requisitos debo cumplir para el pago de IVA?",
-    "¿Se puede pagar el IVA con transferencia electrónica?",
-    "¿Cuándo se considera cumplido el pago del IVA?",
-    "¿Qué dice la ley sobre el pago de IVA en transferencias?"
+    "¿Cómo puedo pagar una venta de bienes de forma correcta según la ley del IVA?",
+    "¿Qué tipo de pagos son válidos para la enajenación en IVA?",
+    "¿Se puede usar una transferencia bancaria para pagar el IVA en una venta?",
+    "¿Cuáles son las cuentas válidas para hacer un pago de enajenación?",
+    "¿Está permitido el pago electrónico para la enajenación de bienes en IVA?"
   ]
 }

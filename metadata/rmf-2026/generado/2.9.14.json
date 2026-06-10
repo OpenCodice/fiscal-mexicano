@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad0c794a050411bd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Procedimiento para desvirtuar hechos notificables",
+  "denominacion_comun": "Desvirtuación de hechos notificados",
   "temas": [
     "documentación",
     "información",
-    "hechos notificables",
+    "hechos notificados",
     "transmisión indebida",
-    "bajas fiscales"
+    "pérdidas fiscales"
   ],
   "terminos_coloquiales": [
-    "desvirtuar hechos",
+    "cómo desvirtuar hechos",
+    "documentación para desvirtuar",
+    "información para la autoridad",
     "CFF 69-B Bis",
-    "documentación para desvirtuar"
+    "ficha de trámite 84/CFF"
   ],
-  "resumen": "Los contribuyentes deben aportar información y documentación para refutar los hechos que han sido notificados relacionados con la transmisión indebida de pérdidas fiscales según el artículo 69-B Bis del CFF.",
+  "resumen": "Los contribuyentes deben aportar la documentación e información necesaria para desvirtuar los hechos que la autoridad fiscal les ha notificado. Esto se debe hacer siguiendo lo establecido en la ficha de trámite correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para desvirtuar un hecho notificado?",
-    "¿Qué documentación necesito para el CFF 69-B Bis?",
-    "¿Cómo puedo refutar la transmisión indebida de pérdidas fiscales?",
+    "¿Qué debo hacer si la autoridad me notifica un hecho?",
+    "¿Qué documentos necesito para desvirtuar una notificación?",
+    "¿Cómo puedo probar que no se hizo una transmisión indebida?",
     "¿Qué es la ficha de trámite 84/CFF?",
-    "¿Cuáles son mis derechos al desvirtuar hechos notificables?"
+    "¿Cómo se relaciona el artículo 69-B Bis del CFF con mi situación fiscal?"
   ]
 }

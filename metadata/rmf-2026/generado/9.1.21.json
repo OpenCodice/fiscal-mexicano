@@ -6,34 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d97b846c1863db8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de retención por intereses nominales",
+  "denominacion_comun": "CFDI de retención por intereses",
   "temas": [
     "CFDI",
-    "retenciones",
+    "retención de ISR",
     "intereses nominales",
-    "ISR",
+    "instituciones de financiamiento colectivo",
     "IVA",
-    "financiamiento colectivo",
-    "impuestos",
-    "complemento de intereses"
+    "complemento de intereses",
+    "pagos"
   ],
   "terminos_coloquiales": [
-    "CFDI de retenciones",
-    "intereses nominales",
-    "retenciones de ISR e IVA",
+    "factura de retención",
+    "recibo de intereses",
     "CFDI de intereses",
-    "LIF",
-    "CFF"
+    "intereses ganados"
   ],
-  "resumen": "Las instituciones de financiamiento colectivo que pagan intereses nominales deben emitir un CFDI de retenciones a las personas a quienes les realizaron la retención del ISR e IVA, incluyendo el monto de los intereses y el impuesto retenido, junto con un complemento específico.",
+  "resumen": "Las instituciones de financiamiento colectivo que paguen intereses nominales deben expedir un CFDI que contenga la retención de ISR e IVA. Este CFDI debe incluir un complemento que detalle los intereses pagados.",
   "preguntas_ejemplo": [
-    "¿Qué es un CFDI de retención por intereses nominales?",
-    "¿Cómo se emite un CFDI de retenciones?",
-    "¿Qué información debe incluir el CFDI de retenciones?",
-    "¿Quiénes están obligados a emitir CFDI por intereses nominales?",
-    "¿Qué implica el complemento de intereses en el CFDI?",
-    "¿Qué impuestos se retienen al emitir un CFDI de retenciones?"
+    "¿Qué es un CFDI de retención por intereses?",
+    "¿Cómo se reportan los intereses pagados en un CFDI?",
+    "¿Qué información debe llevar un CFDI de retención por intereses?",
+    "¿Las instituciones de financiamiento colectivo tienen que emitir CFDI por intereses?",
+    "¿Qué es el complemento de intereses en el CFDI?",
+    "¿Qué implicaciones fiscales tienen los intereses nominales?"
   ]
 }

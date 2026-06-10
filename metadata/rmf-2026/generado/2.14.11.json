@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:24ec1426da0f410c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas fiscales indebidas",
@@ -13,21 +14,20 @@
     "multas fiscales",
     "reducción de multas",
     "contribuciones omitidas",
-    "plazo de pago",
     "declaraciones complementarias"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
+    "multas",
     "pérdidas fiscales",
-    "CFF",
-    "RMF"
+    "reducir multas",
+    "pago de impuestos"
   ],
-  "resumen": "La regla establece que los contribuyentes pueden recibir una reducción del 90% en las multas si pagan todas las contribuciones omitidas y accesorios en un plazo determinado. Si optan por pagar en parcialidades, la reducción será del 50%.",
+  "resumen": "Esta regla establece cómo se puede reducir el monto de las multas fiscales si se pagan las contribuciones omitidas junto con sus accesorios. Dependiendo de la forma de pago, la reducción puede ser del 90% o del 50%.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir la multa que debo?",
-    "¿Qué porcentaje de la multa puedo dejar de pagar?",
-    "¿Cuánto tiempo tengo para pagar mis contribuciones sin perder la reducción de multa?",
-    "¿Qué hago si quiero pagar en partes?",
-    "¿Qué son las pérdidas fiscales indebidas?"
+    "¿Cómo puedo reducir mis multas fiscales?",
+    "¿Qué porcentaje se puede reducir si pago mis impuestos a tiempo?",
+    "¿Cuánto tengo que pagar para que me reduzcan la multa?",
+    "¿Qué es una declaración complementaria y cómo afecta mis multas?",
+    "¿Puedo pagar mis contribuciones en parcialidades para reducir la multa?"
   ]
 }

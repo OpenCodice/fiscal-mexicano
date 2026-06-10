@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0122222b7ac97a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retiro de recursos SAR ISSSTE",
   "temas": [
-    "retiro de recursos",
-    "SAR ISSSTE",
     "pensión",
-    "años de cotización",
+    "retiro de ahorros",
+    "cotización",
     "ISR",
-    "pensión privada",
-    "exenciones"
+    "subcuenta de ahorro para el retiro",
+    "PENSIONISSSTE",
+    "semana de cotización"
   ],
   "terminos_coloquiales": [
-    "retiro de fondos ISSSTE",
+    "retiro de recursos de pensiones",
+    "pensión del ISSSTE",
+    "ahorros para el retiro",
+    "SAR ISSSTE",
     "PENSIONISSSTE",
-    "subcuenta de retiro",
-    "exención de ISR",
-    "negativa de pensión"
+    "años de cotización"
   ],
-  "resumen": "La regla establece cómo las administradoras de fondos para el retiro deben manejar el retiro de recursos de la subcuenta SAR ISSSTE, considerando la cotización y requisitos relacionados con pensiones. También detalla cómo calcular los ingresos gravados y las exenciones aplicables al retiro.",
+  "resumen": "Esta regla establece los requisitos para retirar recursos de la subcuenta de ahorro para el retiro del ISSSTE, incluyendo la necesidad de demostrar años de cotización y las disposiciones para el cálculo del ISR sobre el monto retirado. También se regulan las condiciones bajo las cuales se puede obtener la negativa de pensión y cómo se deben aplicar las exenciones fiscales pertinentes.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para retirar mis fondos de SAR ISSSTE?",
-    "¿Cómo se calcula el ISR al retirar recursos de mi cuenta individual?",
-    "¿Qué pasa si no tengo la negativa de pensión del ISSSTE?",
-    "¿Puedo sumar mi subcuenta RCV a un pago de pensión privada?",
-    "¿Cómo se determina el número de años de cotización para el retiro?"
+    "¿Cómo me retiro mis ahorros del SAR ISSSTE?",
+    "¿Qué requisitos necesito para obtener mi pensión del ISSSTE?",
+    "¿Cómo se calcula el ISR al retirar mis fondos de pensión?",
+    "¿Qué pasa si mi constancia del ISSSTE no indica mis años de cotización?",
+    "¿Cuáles son los límites de semanas para el retiro de mi subcuenta?",
+    "¿Qué debo hacer si tengo una pensión privada y quiero retirar mis ahorros?"
   ]
 }

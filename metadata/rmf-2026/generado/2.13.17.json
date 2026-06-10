@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:225468152a143826",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Honorarios por notificaciones",
+  "denominacion_comun": "Honorarios por Notificaciones",
   "temas": [
-    "cantidad actualizada",
+    "actualización de cantidades",
     "honorarios",
     "notificaciones",
-    "actualización INPC",
-    "reglamento CFF"
-  ],
-  "terminos_coloquiales": [
-    "honorarios de notificaciones",
-    "CFF",
+    "Código Fiscal de la Federación",
     "Reglamento del CFF"
   ],
-  "resumen": "Esta regla establece la cantidad actualizada para los honorarios por notificaciones que entrará en vigor en 2026. Se basa en un cálculo realizado conforme al incremento del INPC en un periodo específico.",
+  "terminos_coloquiales": [
+    "cuánto se paga por notificaciones",
+    "costo de notificaciones",
+    "honorarios de notificaciones",
+    "CFF",
+    "Reglamento CFF"
+  ],
+  "resumen": "Esta disposición establece la cantidad actualizada que se debe considerar para los honorarios por notificaciones a partir de 2026. La cantidad se determina tomando en cuenta el incremento porcentual del Índice Nacional de Precios al Consumidor (INPC) en un periodo específico.",
   "preguntas_ejemplo": [
-    "¿Cuánto son los honorarios por notificaciones para 2026?",
-    "¿Qué cantidad se actualizará para honorarios en el CFF?",
-    "¿Cómo se calcula la cantidad para honorarios por notificaciones?",
-    "¿Qué es el artículo 92 del Reglamento del CFF?",
-    "¿Qué significa la actualización de honorarios en el CFF?"
+    "¿Cuánto se paga por las notificaciones en 2026?",
+    "¿Cuál es el monto actualizado para honorarios de notificaciones?",
+    "¿Cómo se determina el costo de las notificaciones?",
+    "¿Qué método se utiliza para actualizar los honorarios por notificaciones?",
+    "¿Qué artículo del CFF regula los honorarios de notificaciones?"
   ]
 }

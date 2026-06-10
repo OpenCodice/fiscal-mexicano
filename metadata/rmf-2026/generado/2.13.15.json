@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca9b427050906fc2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago a plazos de bienes embargados",
+  "denominacion_comun": "Enajenación a plazos de bienes embargados",
   "temas": [
     "pago a plazos",
     "bienes embargados",
+    "requisitos",
     "convenio",
-    "cumplimiento de requisitos",
-    "revocación de autorización",
     "garantía",
-    "orden de aplicación de pagos"
+    "revocación"
   ],
   "terminos_coloquiales": [
-    "pago a plazos bienes embargados",
-    "convenio de pago",
-    "requisito CFF",
-    "revolcación de pagos"
+    "comprar bienes embargados a plazos",
+    "pago a plazos de embargos",
+    "pagar a plazos",
+    "embargo",
+    "CFF"
   ],
-  "resumen": "La formalización del pago a plazos de bienes embargados requiere que se cumplan ciertos requisitos y se realice un convenio entre la autoridad y el comprador. Este convenio debe detallar el monto y las fechas de los pagos. Si hay incumplimiento, se puede aplicar la garantía ofrecida.",
+  "resumen": "Se establece que el pago a plazos de bienes embargados se formaliza mediante un convenio con la autoridad, se especifican los montos y fechas de pago. Además, hay condiciones para la revocación de la autorización y efectos en caso de incumplimiento.",
   "preguntas_ejemplo": [
-    "¿Cómo se formaliza el pago a plazos de bienes embargados?",
-    "¿Cuáles son los requisitos para el pago a plazos?",
-    "¿Qué pasa si no cumplo con los pagos a plazos?",
-    "¿Cómo se calcula el monto de los pagos a plazos?",
-    "¿Qué implica la revocación de la autorización de plazos?"
+    "¿Cómo puedo comprar bienes embargados a plazos?",
+    "¿Qué requisitos necesito para pagar a plazos bienes embargados?",
+    "¿Qué pasa si no cumplo con los pagos de bienes embargados?",
+    "¿Qué condiciones revocan el pago a plazos de bienes embargados?",
+    "¿Cómo se formaliza el pago a plazos de un embargo?"
   ]
 }

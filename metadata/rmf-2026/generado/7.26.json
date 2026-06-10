@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbe7676a1098b05e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de inversiones mineras",
+  "denominacion_comun": "Deducción de inversiones en minería",
   "temas": [
-    "deducción de inversiones",
+    "inversiones",
     "minería",
+    "deducción",
     "depreciación",
     "prospectación",
-    "exploración",
-    "Ley del ISR"
+    "exploración"
   ],
   "terminos_coloquiales": [
-    "deducción minera",
     "inversiones en minería",
-    "LFD",
-    "LISR"
+    "deducción de inversiones",
+    "prospección minera",
+    "exploración minera"
   ],
-  "resumen": "Las inversiones para la prospección y exploración minera pueden ser deducidas según el porcentaje de depreciación establecido en la Ley del ISR.",
+  "resumen": "Las inversiones realizadas para la prospección y exploración minera se pueden deducir fiscalmente, aplicando el porcentaje de depreciación que establece la ley. Esto está regulado por la Ley del Impuesto sobre la Renta (ISR).",
   "preguntas_ejemplo": [
-    "¿Cómo se deducen las inversiones en minería?",
-    "¿Qué porcentaje de depreciación aplica para la minería?",
-    "¿Qué dice la Ley del ISR sobre inversiones mineras?",
-    "¿Puedo deducir mis gastos de exploración minera?",
-    "¿Cuáles son los requisitos para la deducción de inversiones en minería?"
+    "¿Puedo deducir inversiones que hice en minería?",
+    "¿Cómo se aplica la deducción para exploración minera?",
+    "¿Qué inversiones en minería son deducibles?",
+    "¿Qué porcentaje de depreciación se aplica a las inversiones mineras?",
+    "¿Qué dice la ley sobre la prospección en minería?"
   ]
 }

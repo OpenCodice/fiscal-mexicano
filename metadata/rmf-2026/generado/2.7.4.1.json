@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1bd78d19ec19bc97",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Generación de CFDI a través de PCGCFDISP",
+  "denominacion_comun": "Generación de CFDI por PCGCFDISP",
   "temas": [
     "CFDI",
     "PCGCFDISP",
-    "Contribuyentes",
-    "Inscripción en el RFC",
-    "Restricciones en emisión de CFDI",
     "Actividades agrícolas",
-    "Actividades ganaderas",
-    "Actividades silvícolas",
-    "Actividades pesqueras"
+    "Inscripción en el RFC",
+    "Régimen fiscal",
+    "Validación de CFDI"
   ],
   "terminos_coloquiales": [
-    "Factura digital",
-    "Comprobantes fiscales",
-    "Proveedores de CFDI",
-    "PCGCFDISP"
+    "factura",
+    "comprobante fiscal",
+    "CFDI",
+    "proveedor de CFDI",
+    "servicios de PCGCFDISP"
   ],
-  "resumen": "Las personas físicas dedicadas a actividades agrícolas, ganaderas, silvícolas o pesqueras pueden generar y expedir CFDI a través de un proveedor de certificación. Deben estar inscritas en el RFC y proporcionar información necesaria para la emisión de los CFDI.",
+  "resumen": "Los contribuyentes que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras y cuyos ingresos no superen 900,000 pesos pueden optar por generar y expedir CFDI a través de un PCGCFDISP. Deben proporcionar información a la persona moral que emitirá el CFDI y estar inscritos en el RFC.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo expedir CFDI si soy agricultor?",
-    "¿Qué es un PCGCFDISP?",
-    "¿Necesito estar inscrito en el RFC para generar CFDI?",
-    "¿Qué requisitos debo cumplir para generar facturas digitales?",
-    "¿Qué pasa si tengo irregularidades en mi CFDI?",
-    "¿Puedo usar un proveedor de CFDI si no estoy en el RFC?"
+    "¿Cómo puedo generar un CFDI mediante un PCGCFDISP?",
+    "¿Qué requisitos tengo que cumplir para expedir CFDI en actividades agrícolas?",
+    "¿Qué información necesito para que un proveedor de CFDI emita mi factura?",
+    "¿Qué hago si no estoy inscrito en el RFC pero quiero utilizar un PCGCFDISP?",
+    "¿Existen restricciones para emitir CFDI a través de un PCGCFDISP?"
   ]
 }

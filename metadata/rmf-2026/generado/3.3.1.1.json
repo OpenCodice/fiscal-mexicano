@@ -6,34 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b0c72ecaf7db994b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de indemnizaciones de seguros",
   "temas": [
-    "impuesto sobre la renta",
-    "deducciones",
-    "indemnizaciones",
-    "seguros",
-    "primas vencidas",
-    "ramo de daños",
-    "asegurados",
-    "reaseguro",
-    "seguros de grupo",
-    "seguros colectivos"
+    "Indemnizaciones",
+    "Seguros",
+    "Deducciones fiscales",
+    "Primas de seguros",
+    "Riesgos amparados",
+    "Reaseguro facultativo",
+    "Seguros de grupo"
   ],
   "terminos_coloquiales": [
-    "deducción de seguros",
     "indemnizaciones de seguros",
-    "aseguradoras",
-    "LISR",
-    "deducción por primas no pagadas"
+    "deducción de seguros",
+    "pólizas de seguro",
+    "primas vencidas",
+    "asegurados",
+    "seguro colectivo"
   ],
-  "resumen": "Las instituciones de seguros pueden deducir las indemnizaciones que paguen a los asegurados, incluso si las primas no fueron pagadas, siempre que cumplan ciertos requisitos. Esto incluye condiciones específicas para el reaseguro y pagos de primas dentro de plazos establecidos.",
+  "resumen": "Las instituciones de seguros pueden deducir las indemnizaciones que paguen a los asegurados, incluso si las primas no han sido pagadas, siempre que cumplan con ciertos requisitos. Estas deducciones son aplicables en varios contextos, incluyendo seguros colectivos y reaseguro facultativo.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir indemnizaciones de seguros aunque la prima no esté pagada?",
-    "¿Qué requisitos debo cumplir para deducir indemnizaciones por seguros?",
-    "¿Cómo afecta el reaseguro en la deducción de seguros?",
-    "¿Qué condiciones aplican para las deducciones de seguros colectivos?",
-    "¿Qué es considerado una empresa global en términos de deducción de seguros?"
+    "¿Puedo deducir primas de seguros no pagadas?",
+    "¿Qué requisitos debo cumplir para deducir indemnizaciones de seguros?",
+    "¿Las instituciones de seguros pueden deducir indemnizaciones si la prima está vencida?",
+    "¿Qué es el reaseguro facultativo en el contexto de las deducciones fiscales?",
+    "¿Cómo se manejan las deducciones en seguros de grupo?"
   ]
 }

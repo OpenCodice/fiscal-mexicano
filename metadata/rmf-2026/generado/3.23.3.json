@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:777f6481e885c04f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Pérdida por Enajenación de Cartera Vencida",
+  "denominacion_comun": "Deducción de pérdidas por venta de cartera vencida",
   "temas": [
     "cartera vencida",
     "deducción de pérdidas",
     "reservas preventivas",
+    "instituciones de crédito",
     "enajenación de créditos",
-    "instituciones de crédito"
+    "informes analíticos"
   ],
   "terminos_coloquiales": [
+    "pérdida en la venta de cartera",
+    "créditos morosos",
+    "reservas de cartera",
     "deducción de cartera vencida",
-    "pérdida por venta de cartera",
-    "créditos vencidos",
-    "enajenación de cartera",
-    "LISR"
+    "informe de créditos vencidos"
   ],
-  "resumen": "Las instituciones de crédito pueden deducir la pérdida por la venta de cartera vencida, siempre y cuando cumplan con ciertos requisitos relacionados con reservas y registros de créditos. Esto se aplica a créditos vencidos que tengan un porcentaje de reserva del 80% o más.",
+  "resumen": "Las instituciones de crédito pueden deducir pérdidas por la venta de cartera vencida si cumplen con ciertas condiciones. Esto incluye tener reservas preventivas y llevar un registro detallado de los créditos enajenados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir la pérdida por la venta de cartera vencida?",
-    "¿Qué requisitos debo cumplir para enajenar créditos vencidos?",
-    "¿Qué información debo llevar para deducir la pérdida de cartera?",
-    "¿Cómo afecta la enajenación de cartera a las reservas preventivas?",
-    "¿Puedo deducir la pérdida si mis créditos vencidos son de un 80% de reserva?"
+    "¿Cómo puedo deducir pérdidas por créditos morosos?",
+    "¿Qué requisitos debo cumplir para enajenar cartera vencida?",
+    "¿Qué es un informe de relación analítica de créditos vencidos?",
+    "¿Puedo aplicar reservas preventivas al vender cartera vencida?",
+    "¿Qué tasas de interés se consideran para la deducción de cartera?"
   ]
 }

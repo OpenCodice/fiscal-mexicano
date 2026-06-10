@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3e660eaa5112be7b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Remate de automóviles extranjeros usados",
   "temas": [
     "remates",
-    "vehículos automotores",
+    "automóviles usados",
     "procedencia extranjera",
     "Franja Fronteriza Norte",
-    "subastas",
-    "residencia"
+    "Baja California",
+    "Baja California Sur",
+    "Sonora"
   ],
   "terminos_coloquiales": [
-    "remate de autos extranjeros",
-    "subasta de vehículos usados",
-    "auto usado de extranjero",
-    "subasta fronteriza"
+    "subasta de coches extranjeros",
+    "comprar autos de remate",
+    "remate de autos usados",
+    "autos de procedencia extranjera"
   ],
-  "resumen": "Se establece que los automóviles usados de procedencia extranjera que fueron importados a ciertas regiones de México solo pueden ser subastados a personas que comprueben su residencia en esos lugares específicos.",
+  "resumen": "Los vehículos automotores usados importados a ciertas áreas del norte de México solo pueden ser subastados a personas que demuestren ser residentes de esas áreas. Estos vehículos deben permanecer en la región designada.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo participar en un remate de autos extranjeros?",
-    "¿Quiénes pueden comprar automóviles en los remates en la frontera?",
-    "¿Qué requisitos necesito para participar en la subasta de vehículos usados?",
-    "¿Qué autos están disponibles en los remates de la Franja Fronteriza Norte?",
-    "¿Puedo comprar un auto usado extranjero si no vivo en Baja California?"
+    "¿Dónde puedo comprar un auto usado extranjero?",
+    "¿Quién puede participar en el remate de automóviles en la frontera?",
+    "¿Qué requisitos necesito para participar en la subasta de coches?",
+    "¿Puedo comprar un vehículo de remate si no vivo en la Franja Fronteriza?",
+    "¿Qué tipos de autos se rematan en Baja California?"
   ]
 }

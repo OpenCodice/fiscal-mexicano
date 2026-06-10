@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:287ff096e740c2e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos de personas físicas no sujetos a regímenes fiscales preferentes",
   "temas": [
-    "Impuesto sobre la renta",
-    "Personas físicas",
-    "Regímenes fiscales",
-    "Entidades extranjeras",
-    "Control efectivo",
-    "Ingresos exentos"
+    "personas físicas",
+    "ingresos",
+    "regímenes fiscales",
+    "entidades extranjeras",
+    "control efectivo"
   ],
   "terminos_coloquiales": [
-    "ingresos exentos",
-    "régimen de entidades extranjeras",
-    "ISR",
-    "regímenes fiscales preferentes"
+    "ingresos no sujetos",
+    "ingresos de personas físicas",
+    "regíme fiscal preferente",
+    "RFP"
   ],
-  "resumen": "Las personas físicas pueden excluir ciertos ingresos de sus consideraciones fiscales si provienen de entidades extranjeras que controlan, siempre que no superen una cantidad específica. Esto aplica a ingresos generados en un ejercicio fiscal determinado.",
+  "resumen": "Las personas físicas pueden no considerar ciertos ingresos como sujetos a regímenes fiscales preferentes si provienen de entidades extranjeras que controlan. Estos ingresos no deben exceder de 160,000 pesos.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos no se consideran sujetos a regímenes fiscales preferentes?",
-    "¿Cómo funciona el régimen para personas físicas con control sobre entidades extranjeras?",
-    "¿Qué límites de ingresos debo tener en cuenta para no pagar impuestos?",
-    "¿Cuáles son los artículos relevantes de la Ley del ISR sobre este tema?",
-    "¿Los ingresos de entidades extranjeras cuentan para el ISR?"
+    "¿Qué ingresos no se consideran sujetos a regímenes fiscales preferentes para personas físicas?",
+    "¿Cuánto es el límite de ingresos que pueden considerar las personas físicas sin estar en un régimen fiscal preferente?",
+    "¿Qué dice la ley sobre los ingresos de personas físicas y entidades extranjeras?",
+    "¿Qué significa control efectivo en el contexto de ingresos fiscales?",
+    "¿Qué regímenes fiscales preferentes afectan a las personas físicas?"
   ]
 }

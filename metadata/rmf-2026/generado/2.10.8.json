@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea6f8e394927b7b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso al Colegio Profesional",
+  "denominacion_comun": "Aviso al Colegio de Contadores",
   "temas": [
-    "contadores públicos",
-    "sanciones",
-    "notificaciones",
-    "padrón de contadores",
-    "colegios profesionales"
+    "sanciones a contadores",
+    "notificaciones electrónicas",
+    "colegios profesionales",
+    "padrón de contadores"
   ],
   "terminos_coloquiales": [
-    "aviso Colegio Profesional",
-    "notificación a colegiados",
-    "CFF 52"
+    "aviso a colegios de contadores",
+    "notificación de baja",
+    "Colegio Profesional",
+    "Federación de Colegios",
+    "CFF"
   ],
-  "resumen": "Se establece que la autoridad fiscal puede enviar un aviso al Colegio Profesional correspondiente cuando un contador público es sancionado o dado de baja. Este aviso será enviado de manera electrónica y el colegio confirmará su recepción.",
+  "resumen": "Esta disposición establece el procedimiento para que la autoridad fiscal notifique a los colegios profesionales sobre sanciones o bajas de contadores públicos. La notificación puede hacerse de manera electrónica y debe ser confirmada por el colegio correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifica a un colegio profesional sobre sanciones a contadores?",
-    "¿El aviso al colegio se puede enviar por email?",
-    "¿Qué sucede si un contador es dado de baja del padrón?",
-    "¿Qué información debe contener el aviso a los colegios profesionales?",
+    "¿Cómo se notifica a los colegios de contadores sobre sanciones?",
+    "¿Qué pasa si un contador es dado de baja del padrón?",
+    "¿Se puede enviar el aviso de manera electrónica?",
+    "¿Qué información envía la autoridad fiscal a los colegios profesionales?",
     "¿Cómo confirma el colegio la recepción del aviso?"
   ]
 }

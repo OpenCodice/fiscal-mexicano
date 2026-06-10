@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbfee1ceac6675b7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración Informativa de Atributos de Propiedad",
+  "denominacion_comun": "Declaración Informativa Notarial",
   "temas": [
-    "desmembramiento de atributos de propiedad",
+    "desmembramiento de propiedad",
+    "atributos de propiedad",
     "usufructo",
     "nuda propiedad",
-    "actos jurídicos",
-    "transmisión de usufructo",
-    "consolidación de derechos"
+    "declaración informativa",
+    "notarios",
+    "corredores",
+    "fedatarios"
   ],
   "terminos_coloquiales": [
+    "declaración notarial",
     "declaración de notarios",
-    "declaración de fedatarios",
-    "ficha de trámite 92/ISR"
+    "información de bienes",
+    "usufructo",
+    "consumición de derechos"
   ],
-  "resumen": "Los notarios y demás fedatarios deben presentar una declaración informativa sobre el desmembramiento y consolidación de los atributos de la propiedad de bienes. Esto incluye informar sobre actos jurídicos relacionados con el usufructo y la nuda propiedad.",
+  "resumen": "La regla establece que notarios y otros fedatarios deben presentar una declaración informativa sobre los actos que afectan la propiedad de un bien, incluyendo el desmembramiento y consolidación de derechos como el usufructo. Esta información se presenta mediante una ficha de trámite específica.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración informativa de atributos de propiedad?",
-    "¿Cuándo deben los notarios presentar la declaración informativa?",
-    "¿Qué información incluye la declaración sobre el usufructo?",
-    "¿Cuál es la ficha de trámite para la declaración de notarios?",
-    "¿Qué actos jurídicos deben reportar los fedatarios?"
+    "¿Qué deben informar los notarios sobre los atributos de propiedad?",
+    "¿Cómo se presenta la declaración informativa para notarios?",
+    "¿Qué es el desmembramiento de atributos de propiedad?",
+    "¿Qué es la nuda propiedad y cómo se declara?",
+    "¿Quiénes son considerados fedatarios en esta disposición?"
   ]
 }

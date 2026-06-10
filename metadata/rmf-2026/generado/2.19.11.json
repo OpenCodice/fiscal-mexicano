@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4060dd850ad3abdb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "documentación requerida",
-    "reestructuraciones empresariales",
-    "esquemas reportables",
-    "operaciones jurídicas",
+    "documentación fiscal",
+    "restructuración empresarial",
+    "operaciones reportables",
+    "información a presentar",
+    "diagrama de operaciones",
+    "antecedentes jurídicos",
     "contribuyentes beneficiados",
-    "formatos de presentación",
-    "antecedentes y conclusiones",
-    "razones de negocio"
+    "razones de negocio",
+    "transferencia de activos"
   ],
   "terminos_coloquiales": [
-    "reportar esquemas",
-    "documentación de esquemas",
-    "CFF 199",
-    "esquemas fiscales",
-    "reportes de reestructuración"
+    "información fiscal",
+    "plan de reestructuración",
+    "asesoría fiscal",
+    "documentación PDF",
+    "esquema reportable",
+    "CFF"
   ],
-  "resumen": "Los contribuyentes y asesores fiscales deben adjuntar un documento en formato PDF que contenga información detallada sobre esquemas reportables, incluyendo operaciones, antecedentes y quiénes se beneficiarán. Esto se aplica a esquemas generales y personalizados.",
+  "resumen": "Esta disposición establece la información y documentación que deben presentar los asesores fiscales y contribuyentes sobre esquemas reportables generalizados y personalizados. Incluye detalles sobre operaciones, antecedentes jurídicos, contribuyentes beneficiados y razones de negocio relacionadas con reestructuraciones empresariales.",
   "preguntas_ejemplo": [
-    "¿Qué información necesito para reportar un esquema fiscal?",
-    "¿Cómo se documentan las reestructuraciones empresariales?",
-    "¿Qué deben incluir los asesores fiscales en sus reportes?",
-    "¿Quiénes son considerados contribuyentes beneficiados en un esquema reportable?",
-    "¿Cuáles son los pasos para reportar un esquema personalizado?"
+    "¿Qué información debo presentar sobre un esquema reportable?",
+    "¿Cuáles son los requisitos para documentar una reestructuración empresarial?",
+    "¿Qué detalles necesito para reportar un esquema fiscal?",
+    "¿Cómo se determina si un esquema es reportable?",
+    "¿Qué tipo de operaciones entran en la categoría de esquemas reportables?"
   ]
 }

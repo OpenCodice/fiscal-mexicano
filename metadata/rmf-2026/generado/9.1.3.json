@@ -6,30 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:32cba0f32db2919f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Biodiésel y sus mezclas para agricultores o silvicultores",
   "temas": [
-    "Enajenación de biodiésel",
-    "Información fiscal",
-    "Comprobantes fiscales",
-    "Estimulo fiscal",
-    "Tarjeta inteligente",
-    "Acreditamiento del IEPS",
-    "Operaciones con combustibles"
+    "diésel",
+    "biodiésel",
+    "mezclas",
+    "comprobantes fiscales",
+    "información fiscal",
+    "estímulos fiscales",
+    "tarjeta inteligente",
+    "operaciones de enajenación",
+    "recopilación de datos"
   ],
   "terminos_coloquiales": [
-    "Biodiésel",
-    "Mezclas de biodiésel",
-    "Comprobantes de biodiésel",
-    "IEPS de biodiésel"
+    "biodiésel",
+    "diésel",
+    "combustibles",
+    "comprobante",
+    "curp",
+    "RFC",
+    "tarjeta inteligente",
+    "estímulos fiscales",
+    "LIF"
   ],
-  "resumen": "Las personas que vendan o importen biodiésel deben guardar información específica para las autoridades fiscales, incluyendo pagos y comprobantes. También se requiere que ciertos comprobantes contengan leyendas sobre estímulos fiscales.",
+  "resumen": "Se establece que los agricultores y silvicultores que enajenen o importen diésel o biodiésel deben conservar y proporcionar a las autoridades fiscales información sobre las operaciones, incluyendo comprobantes de pago y detalles de la transacción. También se indican requisitos específicos para los comprobantes fiscales emitidos en estas transacciones.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones fiscales para la enajenación de biodiésel?",
-    "¿Qué información debo conservar si vendo biodiésel?",
-    "¿Cómo se debe emitir un comprobante fiscal para biodiésel?",
-    "¿Qué leyenda debe tener un comprobante de biodiésel?",
-    "¿Qué datos debo proporcionar a la autoridad fiscal sobre mis ventas de biodiésel?"
+    "¿Qué documentos necesito para enajenar biodiésel?",
+    "¿Cómo deben registrarse las operaciones de diésel para agricultores?",
+    "¿Qué información debo proporcionar a las autoridades fiscales si vendo biodiésel?",
+    "¿Cuál es la leyenda que debe llevar un comprobante de biodiésel?",
+    "¿Qué requisitos fiscales tengo como agricultor al utilizar tarjeta inteligente?"
   ]
 }

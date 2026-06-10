@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1878fe53408b2ec3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consulta de claves en el RFC para IVA",
+  "denominacion_comun": "Consulta de claves en el RFC",
   "temas": [
-    "exención de IVA",
-    "servicios personales independientes",
-    "instituciones financieras",
-    "comprobación de RFC",
-    "actividades empresariales"
+    "Exentos del IVA",
+    "Créditos",
+    "Instituciones financieras",
+    "RFC",
+    "Servicios personales independientes",
+    "Bienes inmuebles"
   ],
   "terminos_coloquiales": [
-    "consulta de RFC para IVA",
+    "clave del RFC",
     "exención de IVA",
-    "servicios exentos",
-    "SAT",
-    "LIVA"
+    "consultar RFC",
+    "créditos refaccionarios",
+    "créditos de habilitación",
+    "organismos cooperativos"
   ],
-  "resumen": "Las instituciones financieras deben verificar que las claves del RFC de sus clientes correspondan a contribuyentes que realizan actividades empresariales o prestan servicios, para efectos de exención del IVA. Se pueden establecer procedimientos para esta verificación.",
+  "resumen": "Esta regla establece que las instituciones financieras deben verificar la clave en el RFC de sus clientes para asegurar que son contribuyentes que pueden estar exentos del IVA, especialmente cuando se trata de créditos para la adquisición de bienes de inversión o créditos refaccionarios. También se menciona que estas instituciones pueden definir sus propios procedimientos para esta verificación.",
   "preguntas_ejemplo": [
-    "¿Cómo verifico si mi RFC es correcto para exención de IVA?",
-    "¿Cuáles son los servicios que están exentos del IVA?",
-    "¿Qué documentación necesito para comprobar mi RFC ante una institución financiera?",
-    "¿Qué es la consulta de claves en el RFC?",
-    "¿Cómo afecta el RFC en la obtención de créditos?"
+    "¿Cómo puedo consultar si mi RFC está exento de IVA?",
+    "¿Qué créditos requieren que se verifique la clave del RFC?",
+    "¿Qué procedimiento siguen los bancos para verificar el RFC de sus clientes?",
+    "¿Cuáles son los requisitos para obtener una exención de IVA?",
+    "¿Qué pasa si no tengo una clave de RFC adecuada para el crédito?"
   ]
 }

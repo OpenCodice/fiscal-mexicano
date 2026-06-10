@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:507d0a1f291818e6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
+  "denominacion_comun": "Régimen opcional para grupos de sociedades",
   "temas": [
     "impuesto sobre la renta",
+    "autorización",
+    "solicitud",
     "grupos de sociedades",
-    "solicitud de autorización",
-    "información requerida"
+    "ficha de trámite",
+    "anexo"
   ],
   "terminos_coloquiales": [
     "régimen opcional",
-    "ROGS"
+    "Régimen Opcional para Grupos de Sociedades",
+    "autorización de régimen",
+    "solicitud de régimen"
   ],
-  "resumen": "Este régimen permite a las sociedades formar un grupo y obtener autorización para aplicar un tratamiento fiscal especial. La solicitud de autorización debe incluir información específica según lo dispuesto en la ley.",
+  "resumen": "Este régimen permite a grupos de sociedades aplicar un tratamiento fiscal específico bajo ciertas condiciones. Se requiere una solicitud de autorización con información determinada para participar en este régimen.",
   "preguntas_ejemplo": [
-    "¿Qué es el Régimen Opcional para Grupos de Sociedades?",
-    "¿Cómo puedo solicitar autorización para aplicar este régimen?",
-    "¿Qué información necesito para la solicitud?",
-    "¿Cuáles son los beneficios de este régimen?",
-    "¿Dónde encuentro la ficha de trámite correspondiente?"
+    "¿Cómo puedo solicitar el régimen opcional para grupos de sociedades?",
+    "¿Qué información necesito para la solicitud de autorización?",
+    "¿Cuáles son los beneficios del régimen para grupos de sociedades?",
+    "¿Dónde encuentro la ficha de trámite para este régimen?",
+    "¿Qué dice la Ley del ISR sobre el régimen opcional?"
   ]
 }

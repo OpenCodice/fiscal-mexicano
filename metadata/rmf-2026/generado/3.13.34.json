@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:24832af2909b5348",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de saldos a favor en el RESICO",
+  "denominacion_comun": "Devolución de Saldos a Favor (RESICO)",
   "temas": [
-    "Devolución de impuestos",
-    "Saldo a favor",
-    "Declaración mensual",
-    "Solicitud de devolución",
+    "devolución de impuestos",
+    "saldo a favor",
     "Régimen Simplificado de Confianza",
-    "FED",
-    "Documentación requerida"
+    "declaraciones mensuales",
+    "trámites fiscales",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
-    "RESICO",
-    "devoluciones",
+    "devolución de impuestos",
     "saldo a favor",
-    "solicitar devolución",
-    "devolución de impuestos"
+    "RESICO",
+    "declaración mensual",
+    "solicitud de devolución",
+    "trámite ante el SAT"
   ],
-  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza pueden solicitar la devolución de saldos a favor en su declaración mensual. Esta solicitud puede hacerse de manera conjunta y debe usarse el formulario FED disponible en el portal del SAT.",
+  "resumen": "Los contribuyentes en el Régimen Simplificado de Confianza pueden pedir la devolución de saldos a favor que tengan tras su declaración mensual. Esta solicitud debe hacerse el mes siguiente y puede incluir todos los saldos a favor del ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución de mi saldo a favor en el RESICO?",
-    "¿Qué documentos necesito para pedir la devolución de impuestos?",
-    "¿Puedo solicitar la devolución de saldos a favor de forma conjunta?",
-    "¿Cuándo puedo pedir la devolución de mi saldo a favor?",
-    "¿Qué es el formulario FED y cómo lo uso?",
-    "¿Qué requisitos debo cumplir para solicitar la devolución?"
+    "¿Cómo puedo solicitar la devolución de mi saldo a favor en el RESICO?",
+    "¿Qué documentos necesito para hacer una solicitud de devolución en el SAT?",
+    "¿Cuándo puedo pedir mi devolución de impuestos si tengo saldo a favor?",
+    "¿Se puede solicitar la devolución conjunta de saldos a favor?",
+    "¿Qué es la ficha de trámite 70/CFF?"
   ]
 }

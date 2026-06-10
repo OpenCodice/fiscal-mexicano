@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c01c16a8f1c1d099",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
-    "avisos",
-    "desincorporación",
-    "sociedades",
-    "tributación"
+    "Aviso de desincorporación",
+    "Sociedad integradora",
+    "Requisitos",
+    "Forma oficial 92"
   ],
   "terminos_coloquiales": [
+    "régimen de sociedades",
+    "aviso de baja",
     "Régimen Opcional",
-    "Régimen de Grupos",
-    "Aviso 92"
+    "ROP",
+    "desincorporación de sociedades"
   ],
-  "resumen": "Este régimen permite que las sociedades integradoras presenten un aviso oficial para dejar de tributar en el régimen, cuando ya no cumplen con los requisitos establecidos.",
+  "resumen": "Esta disposición establece que la sociedad integradora debe presentar un aviso mediante la forma oficial 92 para dejar de tributar en el Régimen Opcional para Grupos de Sociedades cuando ya no cumpla con los requisitos para ser considerada como tal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo desincorporarme del Régimen Opcional para Grupos de Sociedades?",
-    "¿Qué es el aviso 92 para dejar de tributar?",
-    "¿Cuáles son los requisitos para seguir en el Régimen Opcional?",
-    "¿Qué ocurre si una sociedad integradora ya no puede ser considerada como tal?",
-    "¿Dónde encuentro la forma 92 para presentar el aviso?"
+    "¿Cómo puedo dejar de tributar en el Régimen Opcional para Grupos de Sociedades?",
+    "¿Qué requisitos debo cumplir para seguir en el régimen de sociedades?",
+    "¿Dónde encuentro la forma oficial 92 para desincorporarme?",
+    "¿Qué es la sociedad integradora en el Régimen Opcional?",
+    "¿Qué pasa si ya no puedo ser considerada como sociedad integradora?"
   ]
 }

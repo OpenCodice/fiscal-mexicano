@@ -6,29 +6,23 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6df484011f4ea7d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de declaraciones por liquidación de personas morales",
+  "denominacion_comun": "Declaraciones de Liquidación de Personas Morales",
   "temas": [
+    "liquidación",
     "declaraciones anuales",
-    "liquidación de empresas",
     "personas morales",
-    "aplicativo de declaración"
+    "aplicativo de declaraciones"
   ],
-  "terminos_coloquiales": [
-    "declaración por liquidación",
-    "personas morales en liquidación",
-    "declaraciones anuales de liquidación",
-    "CFF",
-    "LISR"
-  ],
-  "resumen": "Los contribuyentes que están en proceso de liquidación deben presentar sus declaraciones anuales y finales a través del aplicativo específico. También se aplican normas para las personas morales que se disuelven.",
+  "terminos_coloquiales": [],
+  "resumen": "Los contribuyentes que se encuentren en proceso de liquidación deben presentar la declaración del ejercicio por terminación anticipada y las declaraciones anuales correspondientes. Estas deben hacerse mediante un aplicativo específico para estas declaraciones.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la declaración si mi empresa está en liquidación?",
-    "¿Qué debo incluir en la declaración anual de una persona moral en liquidación?",
-    "¿Dónde encuentro el aplicativo para presentar mi declaración de liquidación?",
-    "¿Qué artículos del CFF y LISR se aplican a la liquidación de personas morales?",
-    "¿Qué pasa si no presento la declaración durante la liquidación?",
-    "¿Cuáles son las obligaciones fiscales de una empresa en liquidación?"
+    "¿Qué debo hacer si mi empresa está en liquidación?",
+    "¿Cómo presento la declaración anual de una persona moral en liquidación?",
+    "¿Qué aplicativo necesito para hacer la declaración de liquidación?",
+    "¿Cuáles son las obligaciones fiscales al disolver una empresa?",
+    "¿Qué es la declaración por terminación anticipada?"
   ]
 }

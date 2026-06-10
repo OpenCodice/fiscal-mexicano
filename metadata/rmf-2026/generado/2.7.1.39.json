@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:865c5c4ac5a2fee0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago en una sola exhibición",
+  "denominacion_comun": "Exhibición de CFDI",
   "temas": [
     "CFDI",
-    "Método de pago",
-    "Facturación",
-    "Cancelación de CFDI",
-    "Pagos Parciales",
-    "Acreditamiento de IVA",
-    "Sector financiero"
+    "método de pago",
+    "pago en una sola exhibición",
+    "cancela y emite nuevo CFDI",
+    "pago en parcialidades",
+    "sector financiero",
+    "acreditamiento de IVA",
+    "acreditamiento de IEPS"
   ],
   "terminos_coloquiales": [
-    "Pago único",
-    "PUE",
+    "factura",
+    "pago de factura",
+    "pago en una sola exhibición",
     "CFDI",
-    "Pago en parcialidades",
-    "PPD"
+    "pago en parcialidades",
+    "comprobante fiscal"
   ],
-  "resumen": "La regla establece que los contribuyentes pueden registrar un CFDI como pagado en una sola exhibición aunque no reciban el total del pago al momento de la emisión, siempre que se cumplan ciertas condiciones. Si no se realiza el pago total a tiempo, deben cancelar y emitir un nuevo CFDI con la forma de pago adecuada.",
+  "resumen": "Los contribuyentes pueden considerar un CFDI como pagado en una sola exhibición si el pago total se espera recibir en el mes en que se expide. Si el pago se realiza de forma distinta a la indicada, el CFDI debe ser cancelado y emitido uno nuevo. También se permite a ciertos integrantes del sector financiero recibir pagos hasta el día 17 del mes siguiente.",
   "preguntas_ejemplo": [
-    "¿Qué es el pago en una sola exhibición?",
-    "¿Cómo debo registrar un CFDI si no recibí el pago total?",
-    "¿Qué pasa si no realizo el pago total del CFDI a tiempo?",
-    "¿Qué significa PUE en el CFDI?",
-    "¿Qué debo hacer si cambio la forma de pago indicada en el CFDI?"
+    "¿Cómo se puede considerar un CFDI como pagado en una sola exhibición?",
+    "¿Qué hacer si el pago de la factura se realiza de una forma diferente a la señalada?",
+    "¿Qué plazo tengo para cancelar un CFDI?",
+    "¿Los integrantes del sector financiero tienen algún beneficio especial con respecto a los CFDI?",
+    "¿Qué pasa si no recibo el pago completo para la fecha límite?"
   ]
 }

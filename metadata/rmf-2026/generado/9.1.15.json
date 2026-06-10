@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:937d03da6c4e1d23",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Rescate y reconstrucción en desastres naturales",
@@ -13,25 +14,24 @@
     "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "desastres naturales",
-    "RFC",
-    "atención de emergencias",
-    "zonas afectadas",
-    "documentación requerida"
+    "atención a desastres",
+    "validación RFC",
+    "zonas afectadas"
   ],
   "terminos_coloquiales": [
-    "donativos para desastres",
-    "donativos deducibles",
+    "donativos",
+    "donatarias",
     "ayuda en desastres",
-    "RFC organizaciones",
-    "LIF 25"
+    "apoyo a damnificados",
+    "LIF",
+    "ISR"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que otorgan donativos para rescate o reconstrucción en desastres naturales deben asegurarse de que los beneficiarios estén inscritos en el RFC y cumplan con ciertos requisitos de documentación. Esto incluye comprobar su actividad en atención a desastres y que no hayan tenido revocaciones en sus autorizaciones.",
+  "resumen": "Las organizaciones civiles y fideicomisos autorizados pueden otorgar donativos a otras organizaciones que realizan labores de rescate o reconstrucción en desastres naturales, siempre que cumplan con ciertos requisitos de validación y documentación. Esto incluye verificar que las organizaciones beneficiarias estén inscritas en el RFC y hayan trabajado en atención a desastres por al menos tres años.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir las organizaciones para recibir donativos?",
-    "¿Cómo se aseguran las donatarias de que los donativos son deducibles?",
-    "¿Qué documentación se necesita para otorgar donativos en casos de desastres?",
-    "¿Dónde se deben realizar las donaciones para ser consideradas válidas?",
-    "¿Qué es lo que se valida al otorgar un donativo para desastres naturales?"
+    "¿Qué requisitos debo cumplir para donar a organizaciones que ayudan en desastres?",
+    "¿Cómo puedo asegurarme de que mi donativo sea deducible de impuestos?",
+    "¿Qué documentación necesita una organización para recibir donativos en casos de desastres?",
+    "¿Qué debe cumplir una organización civil para que su donativo sea válido?",
+    "¿Cómo se valida la inscripción de una organización en el RFC?"
   ]
 }

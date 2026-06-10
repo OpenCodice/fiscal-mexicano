@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2e5ae4b209cc2a12",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Accionistas personas físicas",
+  "denominacion_comun": "Accionistas Personas Físicas",
   "temas": [
-    "pago de contribuciones",
-    "transferencias electrónicas",
+    "pagos de contribuciones",
     "centros cambiarios",
     "transmisores de dinero",
-    "sociedades financieras",
-    "contrato de mandato",
-    "comprobación fiscal"
+    "sociedades financieras de objeto múltiple",
+    "transferencias electrónicas",
+    "contabilidad",
+    "CFDI"
   ],
   "terminos_coloquiales": [
-    "accionistas personas físicas",
-    "pago de impuestos con tarjeta",
-    "transferencias para contribuciones",
-    "centros cambiarios",
-    "sociedades financieras",
-    "CFDI para pagos"
+    "accionistas",
+    "pago de impuestos",
+    "cobros",
+    "transferencia bancaria",
+    "edificios",
+    "sociedades financieras"
   ],
-  "resumen": "Los centros cambiarios, transmisores de dinero y sociedades financieras pueden pagar sus contribuciones mediante cuentas a nombre de accionistas personas físicas, siempre que haya un contrato de mandato y se respeten ciertas condiciones. Si la cuenta se usa para operaciones personales, pierden esta facilidad.",
+  "resumen": "La disposición establece que ciertos entidades pueden realizar pagos de contribuciones a través de cuentas a nombre de accionistas personas físicas, con ciertas condiciones. Si el titular de la cuenta realiza operaciones personales, se pierde la facilidad de pago.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar mis impuestos si soy accionista persona física?",
-    "¿Qué requisitos debo cumplir para hacer pagos electrónicos de contribuciones?",
-    "¿Puedo usar la cuenta de un accionista para pagar impuestos?",
-    "¿Qué pasa si utilizo la cuenta para mis propias operaciones?",
-    "¿Qué es un contrato de mandato en este contexto?"
+    "¿Cómo pueden los accionistas pagar sus contribuciones?",
+    "¿Qué requisitos deben cumplir los centros cambiarios para hacer pagos?",
+    "¿Qué pasa si uso la cuenta para operaciones personales?",
+    "¿Cuáles son las obligaciones contables de las sociedades financieras?",
+    "¿Se puede usar una tarjeta de crédito para el pago de impuestos?"
   ]
 }

@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:061a459ff4b5e690",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aclaración por actualización de actividades en el RFC",
+  "denominacion_comun": "Aclaraciones sobre actualización de actividades en el RFC",
   "temas": [
-    "actualización de actividades",
-    "avisos en el RFC",
-    "información fiscal",
-    "portal del SAT"
+    "RFC",
+    "actividades económicas",
+    "obligaciones fiscales",
+    "aclaraciones",
+    "Portal del SAT"
   ],
   "terminos_coloquiales": [
-    "aclaración activ.",
-    "actualización de RFC",
-    "SAT",
-    "CFF"
+    "actualización de actividades",
+    "aviso en el RFC",
+    "caso de aclaración",
+    "inconformidad"
   ],
-  "resumen": "Los contribuyentes que no estén de acuerdo con la actualización de sus actividades económicas y obligaciones fiscales pueden presentar una aclaración mediante el Portal del SAT, de acuerdo a las reglas establecidas.",
+  "resumen": "Los contribuyentes pueden presentar un caso de aclaración si no están de acuerdo con la actualización de sus actividades económicas y obligaciones fiscales a través del Portal del SAT. Esto se rige por las disposiciones del CFF y la RMF.",
   "preguntas_ejemplo": [
-    "¿Cómo hago una aclaración en el RFC?",
-    "¿Qué hago si no estoy de acuerdo con mi actividad económica en el SAT?",
-    "¿Puedo corregir mis actividades fiscales a través del portal del SAT?",
-    "¿Qué reglas debo seguir para una aclaración en mi RFC?",
-    "¿Qué es la regla 2.5.23 del RMF?"
+    "¿Cómo puedo presentar una aclaración sobre mis actividades en el RFC?",
+    "¿Qué hago si no estoy de acuerdo con la actualización de mis obligaciones fiscales?",
+    "¿Dónde se presenta el caso de aclaración en el SAT?",
+    "¿Qué requisitos necesito para hacer una aclaración en el RFC?"
   ]
 }

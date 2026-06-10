@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6529c9003068d5f8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del IVA en áreas unificadas",
+  "denominacion_comun": "Determinación del IVA para operadores petroleros",
   "temas": [
     "IVA",
     "operador petrolero",
     "área unificada",
-    "gastos por cuenta",
     "CFDI",
-    "SENER"
+    "gastos",
+    "contratista"
   ],
   "terminos_coloquiales": [
-    "IVA en hidrocarburos",
-    "operador petrolero",
-    "área unificada",
-    "gastos de operación",
-    "IVA acreditable"
+    "impuesto al valor agregado",
+    "gastos de servicios",
+    "factura",
+    "SENER"
   ],
-  "resumen": "La regla establece cómo un operador petrolero asignado en un área unificada debe calcular el IVA. No podrá incluir ciertas cantidades como valor para el IVA y podrá acreditar solo una parte proporcional del IVA acreditable que le corresponda.",
+  "resumen": "Esta disposición establece las reglas para que un operador petrolero determine el IVA que puede acreditar en un área unificada. Se indica que no se considerarán ciertos gastos como valor para el cálculo del IVA, y se delimita el acreditamiento del IVA basado en la participación del operador en el consorcio.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el IVA para un operador petrolero?",
-    "¿Qué gastos no se consideran para el cálculo del IVA?",
-    "¿Cómo se acredita el IVA en un área unificada?",
-    "¿Qué es un CFDI en el contexto del IVA petrolero?",
-    "¿Qué dice la regla 10.25 sobre el IVA acreditable?"
+    "¿Cómo se determina el IVA que puedo acreditar si soy operador petrolero?",
+    "¿Qué gastos no se consideran para el cálculo del IVA en un área unificada?",
+    "¿Qué son las áreas unificadas en el contexto del IVA?",
+    "¿Cuál es la relación entre el CFDI y el IVA para los operadores petroleros?",
+    "¿Qué reglas debo seguir para acreditar el IVA como operador de un consorcio?",
+    "¿Cómo afecta la SENER en el acreditamiento del IVA?"
   ]
 }

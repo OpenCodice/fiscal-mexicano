@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0377ba1d3eaeddeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representante autorizado para recoger marbetes o precintos",
+  "denominacion_comun": "Representante autorizado para marbetes o precintos",
   "temas": [
     "marbetes",
     "precintos",
-    "representante legal",
-    "Padrón de Contribuyentes",
+    "representante autorizado",
+    "contribuyentes",
     "RFC",
     "CURP",
-    "documentación requerida",
-    "cambio de representantes"
+    "solicitud de registro"
   ],
   "terminos_coloquiales": [
-    "marbetes",
-    "precintos",
-    "representante autorizado",
-    "RE-1",
-    "Padrón de Bebidas Alcohólicas"
+    "recoger marbetes",
+    "recoger precintos",
+    "representante legal",
+    "IEPS",
+    "padrón de contribuyentes"
   ],
-  "resumen": "Los contribuyentes que necesiten designar a un representante autorizado para recoger marbetes o precintos deberán proporcionar información del representante en una solicitud oficial. Además, se deben cumplir ciertos requisitos si se quiere cambiar a los representantes autorizados.",
+  "resumen": "La regla establece que los contribuyentes deben designar un representante para recoger marbetes o precintos, registrándolo adecuadamente en el formato oficial. También se especifican los requisitos para cambiar a los representantes autorizados.",
   "preguntas_ejemplo": [
-    "¿Cómo designo un representante autorizado para recoger marbetes?",
-    "¿Qué documentos necesito para el representante que recogerá los precintos?",
-    "¿Qué hacer si quiero cambiar a mi representante legal?",
-    "¿Dónde encuentro la forma RE-1 para registrar a un representante?",
-    "¿Cuáles son los requisitos para la documentación del representante autorizado?"
+    "¿Cómo designo a un representante para recoger marbetes?",
+    "¿Qué documentos necesito para registrar a un representante autorizado?",
+    "¿Qué hacer si quiero cambiar mi representante para recoger precintos?",
+    "¿Qué es el padrón de contribuyentes de bebidas alcohólicas?",
+    "¿Cuáles son los requisitos para recoger marbetes?"
   ]
 }

@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:435e9a028f028a53",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para compra de certificados bursátiles",
+  "denominacion_comun": "Fideicomisos y certificados bursátiles",
   "temas": [
     "fideicomisos",
     "certificados bursátiles",
     "inversión",
-    "rendimientos",
-    "patrimonio"
+    "rendimientos fiscales"
   ],
   "terminos_coloquiales": [
     "fideicomisos",
     "certificados bursátiles",
-    "fideicomisos de inversión",
-    "LISR"
+    "inversión en fideicomisos"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir los fideicomisos que adquieren sus propios certificados bursátiles, incluyendo límites de adquisición y condiciones para su cancelación o recolocación. También se especifican las reglas para el reconocimiento de rendimientos fiscales.",
+  "resumen": "Los fideicomisos que emiten certificados bursátiles pueden adquirir los mismos siempre que cumplan con ciertos requisitos, como no exceder un porcentaje específico de compra y reconocer los rendimientos generados para su declaración fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los fideicomisos para adquirir sus certificados bursátiles?",
-    "¿Cuánto puede invertir un fideicomiso en certificados propios?",
-    "¿Qué pasa si un fideicomiso no cancela o recoloca sus certificados a tiempo?",
-    "¿Cómo se determinan los rendimientos fiscales de los certificados bursátiles en fielicomisos?",
-    "¿Qué limitaciones tienen los fideicomisos en su inversión?"
+    "¿Qué requisitos deben cumplir los fideicomisos para adquirir sus propios certificados bursátiles?",
+    "¿Cuánto pueden comprar los fideicomisos de sus propios certificados bursátiles?",
+    "¿Qué sucede si un fideicomiso no cumple con los requisitos al adquirir certificados bursátiles?",
+    "¿Cómo se reconocen los rendimientos de los certificados bursátiles en el fideicomiso?",
+    "¿Qué porcentajes limitan la inversión de un fideicomiso en certificados bursátiles?"
   ]
 }

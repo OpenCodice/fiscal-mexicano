@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5614e123bebaeaae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de billetes de lotería",
   "temas": [
-    "loterías",
-    "quinielas deportivas",
-    "IVA",
-    "enajenación",
+    "Impuesto al Valor Agregado",
+    "Enajenación",
+    "Loterías",
+    "Quinielas deportivas",
+    "Comprobantes",
     "Lotería Nacional"
   ],
   "terminos_coloquiales": [
     "billetes de lotería",
     "quinielas",
-    "LNF",
-    "enajenación de lotería"
+    "loterías",
+    "LNA",
+    "comprobantes de lotería"
   ],
-  "resumen": "La enajenación de billetes y comprobantes para participar en loterías o quinielas deportivas, realizada por la Lotería Nacional y sus representantes, se regula por la Ley del IVA.",
+  "resumen": "La regla establece que la venta de billetes y otros comprobantes para participar en loterías o quinielas deportivas está sujeta a lo dispuesto en la Ley del IVA. Esto incluye a la Lotería Nacional y sus representantes.",
   "preguntas_ejemplo": [
-    "¿Cómo se grava la venta de billetes de lotería?",
-    "¿Qué impuestos aplican a las quinielas deportivas?",
-    "¿Qué establece la LIVA sobre la enajenación de lotería?",
-    "¿Quiénes son los responsables del IVA en la venta de loterías?",
-    "¿Qué artículos de la ley regulan las loterías?",
-    "¿Hay impuestos para los comisionistas de loterías?"
+    "¿Qué pasa con la venta de billetes de lotería desde el punto de vista fiscal?",
+    "¿Las quinielas deportivas generan IVA?",
+    "¿Quiénes son responsables de pagar el IVA en la enajenación de comprobantes de lotería?",
+    "¿La Lotería Nacional debe cobrar IVA por la venta de sus billetes?",
+    "¿Qué dice la ley sobre los comprobantes de lotería y su fiscalidad?"
   ]
 }

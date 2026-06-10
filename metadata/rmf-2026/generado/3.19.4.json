@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd1b06f52ae34112",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Autorización para no aplicar disposiciones del ISR",
   "temas": [
-    "Solicitud de autorización",
-    "Financiamientos",
-    "Vigencia de autorización",
-    "Reglamento de manejo fiscal"
+    "autorización",
+    "Ley del ISR",
+    "financiamientos",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
-    "Solicitud autorización ISR",
-    "Ficha 61/ISR",
-    "Ficha 62/ISR"
+    "solicitud de autorización",
+    "nueva vigencia",
+    "financiamiento nuevo",
+    "ficha 61/ISR",
+    "ficha 62/ISR"
   ],
-  "resumen": "Los contribuyentes que necesiten una autorización para no aplicar ciertas disposiciones del ISR deben solicitarla mediante la ficha de trámite 61/ISR. Si tienen la autorización y quieren seguir usándola o contratar nuevos financiamientos, deben presentar un aviso según la ficha 62/ISR.",
+  "resumen": "Esta disposición habla sobre cómo los contribuyentes pueden solicitar una autorización para no aplicar ciertas reglas del Impuesto sobre la Renta, y cómo deben proceder si quieren continuar con esa autorización o contratar nuevos financiamientos. Se deben utilizar fichas de trámite específicas para estos procesos.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la autorización del ISR?",
-    "¿Qué es la ficha 61/ISR?",
-    "¿Qué debo hacer si quiero continuar con mi autorización del ISR?",
-    "¿Cómo contrato nuevos financiamientos después de obtener la autorización?",
-    "¿Qué información necesito para la ficha 62/ISR?"
+    "¿Cómo solicito la autorización para no aplicar las disposiciones del ISR?",
+    "¿Qué necesito para renovar mi autorización de no aplicar disposiciones fiscales?",
+    "¿Dónde encuentro la ficha de trámite para el financiamiento nuevo?",
+    "¿Cuál es el procedimiento después de obtener la autorización del ISR?",
+    "¿Qué dice la ficha 61/ISR?",
+    "¿Qué debo hacer si quiero contratar nuevos financiamientos tras obtener autorización?"
   ]
 }

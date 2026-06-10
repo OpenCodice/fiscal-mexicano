@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d8cec4613afe3166",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Solicitud de conciliación de facturación",
   "temas": [
     "CFDI",
-    "cancelación de CFDI",
+    "conciliación",
     "facturación",
-    "intervención de la autoridad fiscal",
-    "conciliación y orientación",
-    "errores en comprobantes",
-    "relación comercial"
+    "autoridad fiscal",
+    "comprobantes fiscales",
+    "cancelación de CFDI"
   ],
   "terminos_coloquiales": [
     "conciliación de facturas",
-    "errores en CFDI",
-    "CFDI no recibido",
-    "autoridad fiscal de conciliación",
-    "firma de CFDI",
-    "RMF 2.7.1.44"
+    "no recibí mi factura",
+    "problemas con CFDI",
+    "me cancelaron la factura",
+    "CFDI de nómina",
+    "notificación de CFDI"
   ],
-  "resumen": "Los contribuyentes pueden pedir ayuda a la autoridad fiscal si no les entregan sus CFDI, si se cancelan sin razón, si pagan una factura sin recibir el CFDI correspondiente, o si hay problemas con la relación laboral o comercial. La autoridad actuará como conciliadora y orientadora, y su intervención es voluntaria.",
+  "resumen": "Esta regla permite a los contribuyentes solicitar la intervención de la autoridad fiscal para resolver problemas relacionados con la falta de expedición o cancelación de CFDI. La autoridad actúa como conciliadora y orientadora en situaciones específicas donde se presenten inconvenientes con los comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué hago si no me expiden el CFDI de mi compra?",
+    "¿Qué hago si no me llega mi CFDI?",
+    "¿Puedo solicitar ayuda si mi factura fue cancelada sin razón?",
+    "¿Qué puedo hacer si no recibí el CFDI de pagos?",
     "¿Cómo solicito la cancelación de una factura que no aceptan?",
-    "¿Puedo obtener ayuda de la autoridad fiscal si tengo errores en mis CFDI?",
-    "¿Qué hacer si me cancelan un CFDI sin motivo?",
-    "¿Cómo actúa la autoridad fiscal en la conciliación de facturas?",
-    "¿Qué es la ficha de trámite 46/CFF?"
+    "¿Qué pasa si me emiten un CFDI sin relación comercial?"
   ]
 }

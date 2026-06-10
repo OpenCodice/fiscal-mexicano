@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f96ba64508b3d3ec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas Reportables",
   "temas": [
+    "esquemas reportables",
+    "depreciación de activos",
     "documentación fiscal",
-    "operaciones reportables",
-    "activos depreciados",
-    "declaraciones informativas",
-    "asesoría fiscal",
-    "raíz de negocio",
-    "protesta de verdad"
+    "información a revelar"
   ],
   "terminos_coloquiales": [
-    "esquemas fiscales",
-    "información reportable",
-    "asesoría fiscal",
-    "ER",
-    "CFF"
+    "declaraciones informativas",
+    "activos depreciados",
+    "esquemas personalizados",
+    "CFF",
+    "declaraciones fiscales"
   ],
-  "resumen": "Los contribuyentes y asesores fiscales deben adjuntar información detallada sobre esquemas reportables en sus declaraciones informativas, incluyendo diagramas, antecedentes y características de los activos involucrados. Esto es para asegurar la transparencia en operaciones que incluyen activos depreciados.",
+  "resumen": "La norma establece que los asesores fiscales y contribuyentes deben adjuntar un documento que incluya un diagrama de las operaciones, antecedentes jurídicos y detalles sobre activos depreciados en esquemas reportables. Esto aplica tanto a esquemas generalizados como personalizados.",
   "preguntas_ejemplo": [
-    "¿Qué información se debe adjuntar para un esquema reportable?",
-    "¿Cómo se documenta la depreciación de un activo en un esquema reportable?",
-    "¿Qué es un esquema reportable y cómo afecta mi declaración?",
-    "¿Qué sucede si no tengo la información requerida para un esquema reportable?",
-    "¿Qué documentación se necesita para cumplir con el CFF sobre esquemas reportables?"
+    "¿Qué información debo incluir en un esquema reportable?",
+    "¿Cómo se documentan las operaciones de activos depreciados?",
+    "¿Qué es un esquema reportable personalizado?",
+    "¿Cuáles son las obligaciones de los asesores fiscales respecto a esquemas reportables?",
+    "¿Qué documentos necesito para reportar un esquema fiscal?"
   ]
 }

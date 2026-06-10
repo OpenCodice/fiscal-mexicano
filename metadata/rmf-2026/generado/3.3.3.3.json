@@ -6,32 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:87e85adfe43f1eb0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción del costo de obra inmueble",
+  "denominacion_comun": "Deducción de costos en obra inmueble",
   "temas": [
-    "deducción fiscal",
-    "costo de lo vendido",
     "contratos de obra",
-    "ingresos acumulables",
-    "avances de obra",
-    "pagos autorizados",
-    "impuesto sobre la renta"
+    "deducciones",
+    "costo de lo vendido",
+    "avance de obra",
+    "ingresos acumulables"
   ],
   "terminos_coloquiales": [
-    "deducción de obra",
-    "costo de obra",
+    "gastos de obra",
+    "deducción de costos",
     "obra inmueble",
-    "ISR",
-    "deductor de obra"
+    "costo de lo vendido"
   ],
-  "resumen": "Los contribuyentes que realizan contratos de obra inmueble solo pueden deducir el costo de lo vendido si los pagos correspondientes a los avances de obra han sido realizados dentro de un plazo específico. Si no se cumplen estas condiciones, la deducción se hará en el ejercicio correspondiente al ingreso acumulado.",
+  "resumen": "Los contribuyentes que realizan contratos de obra inmueble pueden deducir el costo de lo vendido solo si los avances de obra han sido aprobados y pagados dentro de un plazo específico. Si no se cumplen estas condiciones, la deducción se realizará en el ejercicio en que se acumulen los ingresos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo deducir el costo de obra que contraté?",
+    "¿Cómo puedo deducir costos por trabajos de construcción?",
+    "¿Qué requisitos debo cumplir para deducir gastos en obra?",
+    "¿Cuándo se pueden deducir los avances de obra en mi declaración?",
     "¿Qué pasa si no pago los avances de obra a tiempo?",
-    "¿Puedo deducir los costos si no están pagados?",
-    "¿Cómo se manejan los ingresos acumulables por contratos de obra?",
-    "¿Qué requisitos debo cumplir para deducir el costo de obra?",
-    "¿Cuáles son las facilidades para presentar deducciones de obras?"
+    "¿Qué dice la ley sobre el costo de lo vendido en contratos de obra?"
   ]
 }

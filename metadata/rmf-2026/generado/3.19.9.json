@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62a3942b3da16da5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Participación promedio diaria",
+  "denominacion_comun": "Determinación de la participación promedio diaria",
   "temas": [
     "impuesto sobre la renta",
     "entidades extranjeras",
-    "participación promedio",
-    "inversiones",
-    "regímenes fiscales"
+    "participación promedio diaria",
+    "inversiones"
   ],
   "terminos_coloquiales": [
-    "participación promedio diaria",
+    "participación diaria",
+    "promedio diario",
+    "invertir en el extranjero",
     "ISR",
-    "inversiones en el extranjero"
+    "Ley del ISR"
   ],
-  "resumen": "La disposición establece cómo calcular la participación promedio diaria de un integrante en una entidad extranjera para efectos fiscales, basándose en la inversión diaria y el tiempo que esta permanezca en la entidad.",
+  "resumen": "Esta disposición explica cómo calcular la participación promedio diaria de inversiones en entidades extranjeras. Se basa en la suma del monto diario invertido multiplicado por los días que se mantiene la inversión, dividido por el total de días del ejercicio fiscal.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula la participación promedio diaria de mis inversiones en el extranjero?",
-    "¿Qué debo considerar para determinar la participación promedio diaria según el ISR?",
-    "¿Cuál es el procedimiento para la participación promedio en entidades extranjeras?",
-    "¿Qué implica la regla sobre participación promedio diaria en el ISR?",
-    "¿Cómo afecta mi inversión en el extranjero a mi declaración de impuestos?"
+    "¿Qué es la participación promedio diaria en el contexto del ISR?",
+    "¿Qué fórmula se utiliza para determinar la participación diaria de una inversión?",
+    "¿Cuántos días se consideran para el cálculo de la participación promedio diaria?",
+    "¿Qué requisitos debo cumplir para calcular la participación promedio diaria?"
   ]
 }

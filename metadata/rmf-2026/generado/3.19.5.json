@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3879e4cf9d82c2ca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación espontánea de declaración informativa",
+  "denominacion_comun": "Presentación de declaración informativa espontánea",
   "temas": [
     "declaración informativa",
     "plazos de presentación",
     "obligación legal",
-    "reglas de presentación"
+    "cumplimiento espontáneo"
   ],
   "terminos_coloquiales": [
-    "declaración espontánea",
+    "declaración de impuestos",
     "declaración informativa",
-    "ISR",
-    "RMF"
+    "cumplimiento de la declaración",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes pueden presentar su declaración informativa de manera espontánea dentro de un plazo de tres meses si cumplen con los requisitos establecidos. Este procedimiento no es válido si la declaración se presenta incompleta.",
+  "resumen": "La regla establece que los contribuyentes pueden presentar su declaración informativa de forma espontánea, dentro de un plazo específico posterior a la fecha en que tenían la obligación de hacerlo. Sin embargo, esta presentación no es válida si la declaración está incompleta o no se entrega según las normas establecidas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo presentar mi declaración informativa de manera espontánea?",
-    "¿Cuánto tiempo tengo para presentar la declaración informativa?",
-    "¿Qué pasa si presento la declaración incompleta?",
-    "¿Qué artículos de la Ley del ISR se refieren a la declaración informativa?",
-    "¿Qué es la regla 3.19.5 de la RMF?"
+    "¿Cómo puedo presentar mi declaración informativa de forma espontánea?",
+    "¿Cuál es el plazo para presentar la declaración después de la fecha límite?",
+    "¿Qué pasa si mi declaración informativa está incompleta?",
+    "¿Qué significa cumplir de forma espontánea con la declaración?",
+    "¿Qué requisitos debo seguir para que mi declaración sea válida?"
   ]
 }

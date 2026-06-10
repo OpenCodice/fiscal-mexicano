@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52da13bd1309aded",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "e.firma para promoción de consulta fiscal",
+  "denominacion_comun": "e.firma de funcionario público",
   "temas": [
+    "promociones fiscales",
     "buzón tributario",
-    "e.firma",
+    "consultas fiscales",
     "funcionario público",
-    "consulta fiscal",
-    "Administración Pública",
     "interpretación de disposiciones fiscales"
   ],
   "terminos_coloquiales": [
-    "consultas fiscales",
-    "promoción ante autoridades fiscales",
+    "firma electrónica",
     "e.firma",
+    "consultas en línea",
+    "promoción ante autoridades fiscales",
     "buzón tributario"
   ],
-  "resumen": "Las dependencias y entidades de la administración pública pueden presentar promociones a través del buzón tributario usando la e.firma de un funcionario público competente para consultas sobre disposiciones fiscales.",
+  "resumen": "Esta disposición permite a las dependencias y entidades de la Administración Pública presentar promociones fiscales a través del buzón tributario usando la e.firma de un funcionario público. Esto es para cuestiones de interpretación y aplicación de la ley fiscal en casos específicos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo hacer una consulta fiscal?",
-    "¿Qué es el buzón tributario?",
+    "¿Cómo puedo presentar una consulta fiscal?",
+    "¿Qué es el buzón tributario y cómo se usa?",
+    "¿Qué significa e.firma en el contexto fiscal?",
     "¿Quién puede usar la e.firma para promociones fiscales?",
-    "¿Cuál es el procedimiento para presentar una promoción fiscal?",
-    "¿Qué entidades pueden solicitar la interpretación de la ley fiscal?"
+    "¿Puedo realizar consultas fiscales en línea?"
   ]
 }

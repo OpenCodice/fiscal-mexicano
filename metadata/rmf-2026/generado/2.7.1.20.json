@@ -6,35 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d410b97f5565d523",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notarios públicos y CFDI",
+  "denominacion_comun": "Comprobantes fiscales de notarios",
   "temas": [
-    "comprobantes fiscales",
+    "CFDI",
     "notarios públicos",
-    "deducibilidad",
-    "acreditamiento",
-    "bienes inmuebles",
+    "diferencia de propiedad",
+    "deducción de costos",
     "indemnización",
-    "contraprestación",
-    "retenciones de impuestos"
+    "impuestos retenidos",
+    "escrituras notariales"
   ],
   "terminos_coloquiales": [
-    "comprobantes de notario",
-    "CFDI notarial",
-    "deducción de inmuebles",
-    "retención de impuestos",
-    "impuesto sobre la renta",
-    "ISR",
-    "IVA"
+    "factura de notario",
+    "costo de adquisición",
+    "complemento SAT",
+    "retenciones ISR",
+    "factura por compra de inmueble",
+    "compromiso de deducción"
   ],
-  "resumen": "Los adquirentes de bienes inmuebles deben comprobar el costo de adquisición con el CFDI que expidan los notarios públicos. Esto incluye información específica y complementos para efectos de deducibilidad y acreditamiento, así como reglas para la retención de impuestos.",
+  "resumen": "Esta regla establece que para deducir el costo de adquisición de bienes inmuebles a través de un notario público, se debe expedir un CFDI que incluya un complemento específico. También se especifican las condiciones bajo las cuales no se debe expedir dicho complemento y los procedimientos para las retenciones de impuestos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo compruebo el costo de un inmueble comprado ante notario?",
-    "¿Qué es el CFDI que debe emitir un notario?",
-    "¿Cuáles son las retenciones que debo hacer al comprar un bien inmueble?",
-    "¿Qué pasa si el notario no emite el complemento necesario?",
-    "¿Cuándo no se debe expedir el complemento en operaciones notariales?",
-    "¿Cómo afecta la deducción de impuestos la compra de bienes inmuebles?"
+    "¿Cómo puedo deducir el costo de un inmueble comprado a través de un notario?",
+    "¿Qué comprobante fiscal necesito para la compra de un bien inmueble?",
+    "¿Cuáles son las retenciones que debo pagar al notario por la compra de un inmueble?",
+    "¿Qué pasa si el notario no emite el complemento correspondiente?",
+    "¿En qué casos no se necesita el complemento del notario?"
   ]
 }

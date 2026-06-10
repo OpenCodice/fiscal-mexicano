@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae15bfd7b4f23902",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción en el RFC para IEPS",
+  "denominacion_comun": "Inscripción y aumento de obligaciones del IEPS",
   "temas": [
-    "Inscripción en el RFC",
-    "Obligaciones del IEPS",
-    "Actividades económicas",
-    "Clasificación de productos",
-    "Edulcorantes",
-    "Bebidas y refrescos"
+    "RFC",
+    "IEPS",
+    "inscripción",
+    "actividades económicas"
   ],
   "terminos_coloquiales": [
-    "Inscripción al RFC",
-    "Pago de IEPS",
-    "Obligaciones fiscales IEPS",
-    "Actividades económicas RFC"
+    "pago del IEPS",
+    "inscripción en el RFC",
+    "refrescos",
+    "bebidas hidratantes",
+    "concentrados",
+    "jarabes",
+    "azúcares añadidos"
   ],
-  "resumen": "Los contribuyentes que se inscriben en el RFC y están obligados a pagar el IEPS deben declarar su actividad económica. Esto incluye la producción y envasado de diferentes tipos de bebidas y refrescos, considerando los edulcorantes utilizados.",
+  "resumen": "Los contribuyentes que se inscriben en el RFC y están obligados al pago del IEPS deben manifestar su actividad económica específica. Esto incluye a productores y envasadores de diferentes tipos de bebidas y concentrados.",
   "preguntas_ejemplo": [
-    "¿Qué tengo que declarar al inscribirme en el RFC si pago IEPS?",
-    "¿Cuáles son mis obligaciones si fabrico refrescos?",
-    "¿Cómo se clasifica mi actividad económica para el IEPS?",
-    "¿Qué productos están sujetos al IEPS en el RFC?"
+    "¿Qué debo hacer para inscribirme en el RFC si pago IEPS?",
+    "¿Cuáles son las actividades económicas que debo declarar al inscribirme en el RFC?",
+    "¿Qué tipo de productos están sujetos al pago del IEPS?",
+    "¿Cómo informo mi actividad económica al solicitar el RFC?",
+    "¿Qué pasa si soy productor de refrescos y tengo que pagar IEPS?",
+    "¿Cuáles son las obligaciones fiscales de los productores de bebidas hidratantes?"
   ]
 }

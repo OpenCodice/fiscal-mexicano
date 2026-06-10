@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:46add92e9a3d8aa1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "CFDI con complemento Carta Porte",
   "temas": [
     "transporte internacional",
     "exportación de mercancías",
-    "CFDI de ingreso",
-    "CFDI de traslado",
-    "registro de transporte",
+    "CFDI de tipo ingreso",
+    "CFDI de tipo traslado",
     "cruce fronterizo"
   ],
   "terminos_coloquiales": [
-    "Factura de transporte",
+    "factura de transporte",
     "complemento Carta Porte",
-    "CFDI de exportación",
-    "CFDI para aduanas"
+    "CFDI",
+    "transporte de carga",
+    "exportar mercancías"
   ],
-  "resumen": "Las empresas que brindan transporte internacional de carga para exportación deben emitir un CFDI con complemento Carta Porte. Si hay un cambio de medio de transporte por parte del mismo transportista, se debe emitir un CFDI de traslado relacionado.",
+  "resumen": "Las empresas que transportan carga para exportación deben emitir un CFDI de tipo ingreso cuando el servicio inicia en México y termina en el extranjero. Si hay un cambio de medio de transporte por parte del mismo transportista, se debe emitir un CFDI de tipo traslado con el complemento Carta Porte.",
   "preguntas_ejemplo": [
-    "¿Qué es el complemento Carta Porte?",
-    "¿Cómo se emite un CFDI de transporte para exportación?",
-    "¿Qué pasa si cambio el medio de transporte durante el cruce fronterizo?",
-    "¿Qué tipo de CFDI necesito para el despacho aduanero?",
-    "¿Cuáles son los requisitos para el CFDI de ingreso en transporte internacional?"
+    "¿Cómo emito un CFDI de tipo ingreso para mercancías que exporto?",
+    "¿Qué complemento necesito para transportar mercancías al extranjero?",
+    "¿Qué hacer si cambia el medio de transporte en la frontera?",
+    "¿Cuál CFDI se utiliza para el despacho aduanero de la mercancía?",
+    "¿Qué datos debo incluir en el complemento Carta Porte?"
   ]
 }

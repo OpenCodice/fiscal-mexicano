@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:412c2d79d082740c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificados de fideicomisos e índices bursátiles",
+  "denominacion_comun": "Fideicomisos y certificaciones bursátiles",
   "temas": [
-    "ISR",
-    "fideicomisos",
-    "certificados bursátiles",
-    "ganancia de capital",
-    "retención de impuestos",
-    "valor de cotización",
-    "canje de certificados"
+    "Impuesto sobre la renta",
+    "Fideicomisos",
+    "Índices bursátiles",
+    "Retención de impuestos",
+    "Ganancias por enajenación",
+    "Valor de cotización",
+    "Costo comprobado de adquisición"
   ],
   "terminos_coloquiales": [
-    "certificados de fideicomisos",
-    "fideicomisos bursátiles",
+    "dinero de fideicomisos",
     "certificados bursátiles",
-    "ISR fideicomisos"
+    "ISR por certificados",
+    "retención de impuestos",
+    "ganancias de acciones"
   ],
-  "resumen": "Los propietarios de certificados de fideicomisos que replican índices bursátiles deben pagar el ISR por los ingresos que generan al enajenar dichos certificados. La institución fiduciaria retendrá el impuesto correspondiente a los intereses generados por estos fideicomisos.",
+  "resumen": "Esta regla establece la manera en que los fideicomisos que replican índices bursátiles deben calcular el ISR por ingresos provenientes de la enajenación de sus certificados. También detalla la retención del impuesto sobre los intereses obtenidos y cómo determinar la ganancia en el canje de certificados y acciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se causa el ISR por los certificados de fideicomisos?",
-    "¿Qué impuestos se retienen de los intereses de fideicomisos bursátiles?",
-    "¿Cuál es el procedimiento para determinar la ganancia por canje de certificados?",
-    "¿Qué valor se considera para la enajenación de certificados de fideicomisos?",
-    "¿Cómo se calcula el patrimonio de un fideicomiso para los fines fiscales?"
+    "¿Cómo se calcula el ISR de los fideicomisos bursátiles?",
+    "¿Qué impuestos retiene la institución fiduciaria?",
+    "¿Cuál es el valor de cotización para el canje de certificados?",
+    "¿Cómo se determina la ganancia por enajenación de certificados?",
+    "¿Qué se considera como costo comprobado de adquisición?"
   ]
 }

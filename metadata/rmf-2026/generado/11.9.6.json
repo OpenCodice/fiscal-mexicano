@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c0831fd94eb7d6b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdida de estímulo fiscal ISR",
+  "denominacion_comun": "Pérdida de derecho a estímulo fiscal ISR",
   "temas": [
     "estímulo fiscal",
-    "ISR",
-    "región fronteriza",
     "crédito fiscal",
-    "declaración anual"
+    "declaraciones anuales",
+    "pagos provisionales",
+    "región fronteriza"
   ],
   "terminos_coloquiales": [
-    "perdí mi estímulo fiscal",
-    "crédito fiscal frontera",
-    "estímulos frontera",
-    "estímulos ISR"
+    "pérdida de estímulo fiscal",
+    "ISR",
+    "créditos fiscales",
+    "declaración anual",
+    "pagos de impuestos"
   ],
-  "resumen": "Se pierde el derecho a aplicar el estímulo fiscal en ISR si no se utiliza el crédito fiscal en los pagos provisionales o en la declaración anual. Esto aplica para todos los pagos del ejercicio en cuestión.",
+  "resumen": "Se pierde el derecho a aplicar un estímulo fiscal si no se utiliza el crédito fiscal en los pagos provisionales o en la declaración anual, cuando hay impuesto causado. Esta pérdida afecta todos los pagos provisionales y la declaración anual del mismo ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cuándo pierdo el derecho al estímulo fiscal para la frontera?",
-    "¿Qué pasa si no uso el crédito fiscal en mis pagos provisionales?",
-    "¿El estímulo fiscal se pierde si no lo aplico en la declaración anual?",
-    "¿Cómo puedo perder el derecho al crédito fiscal en la región fronteriza?",
-    "¿Qué deben hacer los contribuyentes para mantener su estímulo fiscal?"
+    "¿Qué significa perder el derecho al estímulo fiscal en ISR?",
+    "¿Qué pasa si no aplico el crédito fiscal en mis pagos de impuestos?",
+    "¿Cómo se afecta mi declaración anual si no uso el estímulo fiscal?",
+    "¿Cuándo se pierde el derecho a un crédito fiscal?",
+    "¿Qué debo hacer si no apliqué el estímulo fiscal en el ejercicio?"
   ]
 }

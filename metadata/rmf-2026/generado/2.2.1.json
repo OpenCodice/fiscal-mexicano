@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb253ac3d56792d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor probatorio de la Contraseña",
+  "denominacion_comun": "Valor Probatorio de la Contraseña",
   "temas": [
-    "Firma electrónica",
-    "SAT",
-    "Contraseña",
-    "RFC",
-    "Vigencia",
-    "Trámites fiscales",
-    "Identificación",
-    "e.firma"
+    "firma electrónica",
+    "acceso a servicios del SAT",
+    "vigencia de la Contraseña",
+    "actualización de Contraseña",
+    "trámites ante el SAT",
+    "identificación fiscal"
   ],
   "terminos_coloquiales": [
     "Contraseña del SAT",
-    "Firma digital",
-    "Acceso a servicios del SAT",
-    "Identificación electrónica"
+    "firma del SAT",
+    "SAT ID",
+    "renovación de Contraseña"
   ],
-  "resumen": "La Contraseña del SAT es una firma electrónica que sustituye la firma autógrafa y tiene el mismo valor probatorio. Debe ser renovada cada cuatro años y su uso es necesario para acceder a los servicios del SAT de manera electrónica.",
+  "resumen": "La Contraseña del SAT se considera una firma electrónica válida que sustituye la firma autógrafa y tiene el mismo valor probatorio. Debe ser renovada cada cuatro años y los contribuyentes pueden solicitar su generación, actualización o renovación a través de medios electrónicos.",
   "preguntas_ejemplo": [
     "¿Qué es la Contraseña del SAT?",
-    "¿Cómo se renueva la Contraseña para acceder a mis trámites fiscales?",
-    "¿La Contraseña es igual a una firma autógrafa?",
-    "¿Cuánto tiempo dura la vigencia de la Contraseña del SAT?",
-    "¿Qué debo hacer si me piden información adicional para mi Contraseña?",
-    "¿Qué pasa si no actualizo mi Contraseña a tiempo?"
+    "¿Cómo genero o renuevo mi Contraseña del SAT?",
+    "¿Qué debo hacer si el SAT me pide más información para mi Contraseña?",
+    "¿Cuál es la vigencia de la Contraseña del SAT?",
+    "¿La Contraseña del SAT es lo mismo que la e.firma?"
   ]
 }

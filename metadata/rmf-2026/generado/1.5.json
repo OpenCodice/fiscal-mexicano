@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8dd208db8e181c2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Referencias a la Ciudad de México y alcaldías",
+  "denominacion_comun": "Referencias a la Ciudad de México y a las alcaldías",
   "temas": [
     "Ciudad de México",
-    "alcaldías",
+    "delegaciones",
     "comprobantes fiscales",
-    "promociones",
     "declaraciones",
+    "promociones",
     "avisos",
     "informes"
   ],
   "terminos_coloquiales": [
-    "referencias al DF",
-    "cambios a Distrito Federal",
-    "cambios a delegaciones",
     "CDMX",
-    "CFF"
+    "delegaciones",
+    "comprobante fiscal digital",
+    "declaración de impuestos"
   ],
-  "resumen": "La disposición establece que las referencias al Distrito Federal y sus Delegaciones hechas por los contribuyentes se entienden como referencias a la Ciudad de México y sus alcaldías, sin que esto sea considerado una infracción fiscal.",
+  "resumen": "Esta disposición aclara que las referencias al Distrito Federal y a las delegaciones en documentos fiscales se entenderán como referencias a la Ciudad de México y a las alcaldías. Esto no será considerado una infracción fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si pongo Distrito Federal en mis declaraciones?",
-    "¿Cómo se trata la mención de delegaciones en mis informes fiscales?",
-    "¿Se considera una infracción si menciono el DF en un comprobante?",
-    "¿Qué significa que las referencias a alcaldías se sustituyan por CDMX?",
-    "¿Las autoridades fiscales aceptan el uso de Distrito Federal en documentos?",
-    "¿Qué debo saber sobre la Ciudad de México y las alcaldías en fiscalización?"
+    "¿Qué pasa si menciono el Distrito Federal en mis documentos fiscales?",
+    "¿Las delegaciones se llaman ahora alcaldías?",
+    "¿Puedo seguir usando comprobantes fiscales digitales de antes?",
+    "¿Qué significan las referencias a la Ciudad de México en mi declaración?",
+    "¿Esto afecta mis promociones ante el SAT?"
   ]
 }

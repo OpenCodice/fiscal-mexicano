@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a8aa0d8afbc40d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de retención por servicios digitales",
+  "denominacion_comun": "CFDI de retención por servicios digitales de intermediación",
   "temas": [
-    "CFDI de retenciones",
-    "Servicios digitales",
-    "Intermediación entre terceros",
-    "Retención de impuestos",
-    "Complemento de Servicios Plataformas Tecnológicas",
-    "Impuestos retenidos"
+    "CFDI de retención",
+    "servicios digitales",
+    "intermediación",
+    "retenciones de impuestos",
+    "ISR",
+    "IVA",
+    "IEPS",
+    "complemento de servicios plataformas tecnológicas"
   ],
   "terminos_coloquiales": [
-    "CFDI de retenciones",
-    "CFDI por servicios digitales",
-    "retención de ISR",
-    "retención de IVA",
-    "retención de IEPS",
-    "plataformas tecnológicas"
+    "factura de retención",
+    "CFDI",
+    "retención de impuestos",
+    "servicios digitales de intermediación",
+    "ISR",
+    "IVA",
+    "IEPS"
   ],
-  "resumen": "Los prestadores de servicios digitales de intermediación deben emitir un CFDI que detalle los impuestos retenidos a los usuarios. Este CFDI debe llevar un complemento específico que publique el SAT.",
+  "resumen": "Las empresas que ofrecen servicios digitales de intermediación deben emitir un CFDI de retención por los impuestos que retienen de los pagos realizados a personas físicas o morales. Este CFDI debe incluir un complemento específico publicado por el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué es el CFDI de retención por servicios digitales?",
-    "¿Cómo se emite un CFDI para servicios de intermediación?",
+    "¿Qué es un CFDI de retención por servicios digitales?",
+    "¿Cómo se emite un CFDI de retención por servicios de intermediación?",
     "¿Qué impuestos se retienen en los servicios digitales?",
-    "¿Qué datos deben incluir los CFDI de retención?",
-    "¿Dónde encuentro el complemento de servicios plataformas tecnológicas?"
+    "¿Dónde encuentro el complemento para el CFDI de servicios digitales?",
+    "¿Qué información debe contener el CFDI de retención?"
   ]
 }

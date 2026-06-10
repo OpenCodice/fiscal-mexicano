@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:357e8dfca59d1b86",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de destrucción de envases",
   "temas": [
     "IEPS",
-    "Registro de destrucción",
-    "Envases",
-    "Contabilidad fiscal",
-    "Bebidas"
+    "registro contable",
+    "destrucción de envases",
+    "bebidas",
+    "marbetes"
   ],
   "terminos_coloquiales": [
-    "Registro IEPS8",
-    "Destrucción de envases",
-    "Registro de envases"
+    "registro de destrucción",
+    "envases",
+    "IEPS8",
+    "registro oficial"
   ],
-  "resumen": "Los contribuyentes del IEPS deben llevar un registro de la destrucción de envases, incluyéndose detalles como la fecha, el tipo de bebida y el folio del marbete. Este registro es parte de su contabilidad.",
+  "resumen": "Los contribuyentes del IEPS deben llevar un registro oficial de la destrucción de envases, el cual debe incluir información sobre la fecha, tipo de bebida y número de folio del marbete. Este registro es parte de su contabilidad.",
   "preguntas_ejemplo": [
-    "¿Cómo llevo el registro de destrucción de envases según el IEPS?",
-    "¿Qué información necesito para registrar la destrucción de un envase?",
-    "¿Cuál es la forma oficial para el registro de destruccción de envases?",
-    "¿Qué datos se incluyen en el registro de destrucción de envases de bebidas?",
-    "¿Es obligatorio el registro de destrucción de envases para el IEPS?"
+    "¿Qué debe incluir el registro de destrucción de envases?",
+    "¿Cómo se registra la destrucción de envases en el IEPS?",
+    "¿Qué formulario se utiliza para el registro de destrucción de envases?",
+    "¿Es obligatorio llevar un registro de envases destruidos?",
+    "¿Qué es el IEPS8?"
   ]
 }

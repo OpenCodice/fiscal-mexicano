@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6cd21b90de3663bb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificación electrónica",
   "temas": [
     "buzón tributario",
     "notificaciones",
-    "horarios",
+    "horario de notificación",
+    "acusación de recibo",
     "contribuyentes",
-    "actos fiscales",
-    "comunicaciones electrónicas"
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "notificación por buzón",
+    "notificación por internet",
+    "buzón del SAT",
     "notificaciones del SAT",
-    "horario de notificaciones",
-    "notificación electrónica"
+    "notificación electrónica",
+    "horario del buzón tributario"
   ],
-  "resumen": "El SAT realiza notificaciones a través del buzón tributario en horarios específicos. Si se genera un acuse de recibo fuera de horario, se considera realizado al siguiente día hábil a las 9:30 horas. Para contribuyentes sin buzón o con suspensión en su uso, se seguirán otras modalidades de notificación.",
+  "resumen": "El SAT notifica a través del buzón tributario en un horario específico. Si el acuse de recibo se genera fuera de ese horario, se considera realizado al día siguiente a las 9:30 horas. Los contribuyentes sin buzón tributario tendrán notificaciones por otros medios.",
   "preguntas_ejemplo": [
-    "¿Cómo funcionan las notificaciones por buzón tributario?",
-    "¿Qué horarios tiene el SAT para las notificaciones electrónicas?",
+    "¿Cómo funciona el buzón tributario del SAT?",
+    "¿A qué hora se realizan las notificaciones electrónicas?",
+    "¿Qué sucede si recibo un acuse de recibo fuera de horario?",
     "¿Qué pasa si no tengo buzón tributario?",
-    "¿Cómo se realizan las notificaciones fuera de horario?",
-    "¿Qué debo hacer si me notificaron fuera del horario establecido?"
+    "¿Qué alternativas hay si no puedo usar el buzón tributario?"
   ]
 }

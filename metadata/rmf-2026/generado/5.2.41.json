@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aeae830183aa34ff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Destrucción de envases vacíos de bebidas alcohólicas",
+  "denominacion_comun": "Destrucción de envases de bebidas alcohólicas",
   "temas": [
     "envases vacíos",
     "bebidas alcohólicas",
-    "destrucción de envases",
-    "cumplimiento fiscal",
-    "registro de envases"
+    "obligaciones fiscales",
+    "registros contables",
+    "etiquetado de envases"
   ],
   "terminos_coloquiales": [
-    "destrucción de envases",
     "envases de alcohol",
-    "registro de marbetes"
+    "destrucción de botellas",
+    "marbetes",
+    "reciclaje de botellas",
+    "conservación de envases"
   ],
-  "resumen": "No se considera infracción fiscal si los contribuyentes mantienen envases vacíos de bebidas alcohólicas en el establecimiento donde se vendieron, siempre y cuando cumplan con ciertos requisitos como el registro y etiquetado de los envases.",
+  "resumen": "Esta regla establece que no es infracción omitir la destrucción de envases vacíos de bebidas alcohólicas si se cumplen ciertos requisitos, como conservarlos en el lugar de venta y llevar un registro. También se especifican detalles sobre el etiquetado y el raspado del marbete.",
   "preguntas_ejemplo": [
-    "¿Qué hacer con los envases vacíos de bebidas alcohólicas?",
-    "¿Cómo cumplir con la normativa sobre envases de alcohol?",
-    "¿Qué requisitos debo seguir para conservar los envases vacíos?",
-    "¿Es necesario destruir todos los envases de bebidas alcohólicas?",
-    "¿Qué registro debo llevar para los envases vacíos?"
+    "¿Qué debo hacer con los envases vacíos de bebidas alcohólicas?",
+    "¿Cuáles son las obligaciones fiscales sobre envases de alcohol?",
+    "¿Puedo vender envases vacíos de bebidas alcohólicas?",
+    "¿Qué información debo registrar sobre los envases vacíos?",
+    "¿Cuál es el procedimiento para destruir envases vacíos de alcohol?",
+    "¿Es necesario etiquetar los envases vacíos de bebidas alcohólicas?"
   ]
 }

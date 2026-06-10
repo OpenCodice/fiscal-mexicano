@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:61bc55e0554ee81c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de CFDI sin aceptación del receptor",
   "temas": [
-    "cancelación de CFDI",
-    "CFDI sin aceptación del receptor",
-    "supuestos para cancelación",
-    "CFDI de nómina",
-    "ingresos del RIF",
-    "retenciones e información de pagos",
-    "CFDI emitidos al público en general",
-    "CFDI para residentes en el extranjero",
-    "operaciones con hidrocarburos"
+    "CFDI",
+    "cancelación",
+    "recepción",
+    "nómina",
+    "egresos",
+    "traslado",
+    "ingresos",
+    "retenciones",
+    "complementos"
   ],
   "terminos_coloquiales": [
-    "cancelar CFDI",
+    "cancelar factura",
     "CFDI",
-    "cancelación deFactura",
-    "regla 2.7.1.35"
+    "factura sin aceptación",
+    "recibo",
+    "nómina",
+    "egresos",
+    "traslado de mercancías",
+    "ingresos"
   ],
-  "resumen": "La regla establece que los contribuyentes pueden cancelar un CFDI sin necesidad de que el receptor lo acepte en ciertos casos, como montos bajos, por nómina o egresos. También incluye condiciones específicas para distintos tipos de ingresos y situaciones fiscales.",
+  "resumen": "La regla establece que los contribuyentes pueden cancelar un CFDI sin necesidad de que el receptor acepte la cancelación en ciertos casos, como cuando el monto es menor a mil pesos, por nómina, egresos, o por ingresos a contribuyentes del RIF, entre otros. Sin embargo, hay restricciones para ciertos tipos de operaciones, especialmente las relacionadas con hidrocarburos.",
   "preguntas_ejemplo": [
-    "¿Puedo cancelar un CFDI sin que el receptor lo acepte?",
-    "¿Cuáles son los casos en los que puedo cancelar un CFDI?",
-    "¿Qué requisitos necesito para cancelar un CFDI de nómina?",
-    "¿Cómo cancelo un CFDI emitido a un residente en el extranjero?",
-    "¿Existen limitaciones para cancelar CFDIs de hidrocarburos?"
+    "¿Puedo cancelar una factura sin que el receptor lo acepte?",
+    "¿Cuáles son las condiciones para cancelar un CFDI?",
+    "¿Qué facturas puedo cancelar directamente?",
+    "¿Hay restricciones para cancelar ciertas facturas?",
+    "¿Qué debo hacer si quiero cancelar un CFDI por concepto de nómina?"
   ]
 }

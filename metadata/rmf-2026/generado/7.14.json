@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:caf6861e131a564f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por servicios de vida silvestre",
   "temas": [
-    "Derechos",
-    "Servicios de vida silvestre",
-    "Pagos de derechos",
-    "Flora y fauna silvestre",
-    "Convenio de Colaboración Administrativa"
+    "derechos",
+    "vida silvestre",
+    "flora",
+    "fauna",
+    "servicios",
+    "pagos",
+    "entidades federativas",
+    "oficinas recaudadoras"
   ],
   "terminos_coloquiales": [
-    "Derechos de vida silvestre",
-    "Pago de derechos silvestres",
-    "LFD",
-    "Servicios silvestres"
+    "derechos de vida silvestre",
+    "pago de derechos",
+    "servicios de flora y fauna",
+    "pago ante municipios",
+    "pago ante entidades"
   ],
-  "resumen": "Se establece que el pago de derechos por servicios de vida silvestre y estudios de flora y fauna debe realizarse ante oficinas de recaudación o instituciones bancarias autorizadas. También es posible pagarlo en municipios si hay un acuerdo expreso publicado.",
+  "resumen": "Se establece que los derechos por los servicios de vida silvestre y los estudios de flora y fauna silvestre deben pagarse en las oficinas recaudadoras de las entidades federativas o en bancos autorizados. También se permite el pago en oficinas de municipios si hay un acuerdo explícito.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo pagar los derechos por servicios de vida silvestre?",
-    "¿Qué son los derechos por estudios de flora y fauna silvestre?",
-    "¿Qué dice la LFD sobre los pagos de derechos para vida silvestre?",
-    "¿Puedo pagar mis derechos por vida silvestre en mi municipio?",
-    "¿Qué es el Anexo 16 en el convenio de recaudación?",
-    "¿Cuáles son las obligaciones de las entidades federativas en este tema?"
+    "¿Dónde puedo pagar mis derechos por servicios de vida silvestre?",
+    "¿Cuáles son las entidades donde se pueden realizar estos pagos?",
+    "¿Se puede pagar en municipios los derechos de vida silvestre?",
+    "¿Qué artículos de la LFD regulan el pago de estos derechos?",
+    "¿Qué es el Anexo 16 del Convenio de Colaboración Administrativa?"
   ]
 }

@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89a2b7b4711463a1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Publicación de Proveedores de CFDI",
+  "denominacion_comun": "Publicación de datos de proveedores de CFDI",
   "temas": [
-    "Proveedores de Certificación de CFDI",
     "Portal del SAT",
-    "Datos de contacto",
+    "Proveedores de CFDI",
     "Revocación de autorización",
-    "Liquidación de proveedores"
+    "Actualización de datos",
+    "Datos de contacto"
   ],
   "terminos_coloquiales": [
-    "Proveedores de CFDI",
-    "SAT",
+    "proveedores de certificación",
     "CFDI",
-    "certificadores",
-    "publicación de datos",
-    "revocación de certificación"
+    "SAT"
   ],
-  "resumen": "El SAT publica información sobre los proveedores de certificación de CFDI, incluyendo su nombre, RFC y estado de autorización. También se incluyen datos de proveedores cuya autorización ha sido revocada o que están en proceso de liquidación.",
+  "resumen": "El SAT publica información sobre los proveedores de certificación de CFDI autorizados, incluyendo datos como logotipo, nombre, RFC y número de CSD. También se publica información sobre proveedores cuyo estatus ha cambiado, como revocaciones o liquidaciones.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo ver la lista de proveedores de CFDI?",
-    "¿Qué pasa si un proveedor de CFDI pierde su autorización?",
-    "¿Cómo se actualizan los datos de los proveedores en el SAT?",
-    "¿Qué información publica el SAT sobre los certificadores de CFDI?",
-    "¿Cuánto tiempo tiene el SAT para publicar información sobre la revocación de un proveedor?"
+    "¿Qué datos publica el SAT de los proveedores de CFDI?",
+    "¿Cómo se actualizan los datos de los proveedores en el Portal del SAT?",
+    "¿Qué sucede si un proveedor de CFDI es revocado?",
+    "¿Dónde puedo ver la lista de proveedores de CFDI autorizados?",
+    "¿Cuánto tiempo tiene el SAT para publicar la revocación de un proveedor de CFDI?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:634fb8a75560d687",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración anual de personas morales en liquidación",
+  "denominacion_comun": "Declaraciones anuales de personas morales en liquidación",
   "temas": [
     "declaraciones anuales",
-    "liquidación",
-    "régimen general",
-    "impuesto sobre la renta",
-    "aplicativo",
-    "declaración final"
-  ],
-  "terminos_coloquiales": [
-    "declaración anual",
     "personas morales",
     "liquidación",
-    "Régimen General"
+    "ejercicio fiscal",
+    "régimen general",
+    "aplicativo para declaración"
   ],
-  "resumen": "Los contribuyentes en liquidación deben presentar su declaración anual mediante el aplicativo creado para ello. Esto se aplica a las declaraciones de liquidación que se presenten cada ejercicio.",
+  "terminos_coloquiales": [
+    "declaration annual",
+    "declaración de liquidación",
+    "personas morales en liquidación",
+    "CFF",
+    "LISR"
+  ],
+  "resumen": "Los contribuyentes que tributan bajo el régimen de personas morales y que están en liquidación deben presentar su declaración anual a través del aplicativo correspondiente. Esto es aplicable a quienes finalizan su ejercicio anticipadamente.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la declaración anual si estoy en liquidación?",
-    "¿Qué formato uso para la declaración de liquidación?",
-    "¿Qué plazo tengo para presentar la declaración anual en liquidación?",
-    "¿Qué artículos de la ley aplican a mi declaración si estoy en liquidación?",
-    "¿Dónde encuentro el aplicativo para presentar mi declaración anual?"
+    "¿Cómo presento la declaración anual si mi empresa está en liquidación?",
+    "¿Qué debo hacer si tengo que declarar y estoy en liquidación?",
+    "¿Dónde encuentro el aplicativo para declarar como persona moral en liquidación?",
+    "¿Cuáles son los requisitos para presentar una declaración final de liquidación?",
+    "¿Qué artículos de la ley regulan la declaración anual de personas morales en liquidación?"
   ]
 }

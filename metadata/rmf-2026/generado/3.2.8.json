@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c971cef16250ff8d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos que replican índices bursátiles",
   "temas": [
-    "Impuesto sobre la renta",
-    "Ganancia acumulable",
-    "Pérdida deducible",
-    "Certificados bursátiles fiduciarios",
-    "Valor de cotización",
-    "Costo comprobado de adquisición",
-    "Reembolsos de capital"
+    "ganancia acumulable",
+    "pérdida deducible",
+    "certificados fiduciarios",
+    "enajenación de certificados",
+    "costo promedio ajustado",
+    "canje de certificados"
   ],
   "terminos_coloquiales": [
-    "Fideicomisos",
-    "Certefificados bursátiles",
-    "Inversiones en fideicomisos",
-    "Gastos deducibles",
-    "ISR"
+    "fideicomisos bursátiles",
+    "certificados bursátiles",
+    "ganancias de fideicomisos",
+    "pérdidas fiscales",
+    "LISR",
+    "Regla 3.2.8"
   ],
-  "resumen": "Esta regla establece cómo los propietarios de certificados de fideicomisos que replican índices bursátiles deben calcular la ganancia acumulable o pérdida deducible al enajenar dichos certificados. También se detallan aspectos sobre el costo promedio ajustado y el tratamiento fiscal en caso de canje de certificados.",
+  "resumen": "La regla establece cómo los propietarios de certificados emitidos por fideicomisos bursátiles deben determinar su ganancia o pérdida en la enajenación de estos certificados. Se deben considerar factores como el costo promedio ajustado y el valor de cotización en caso de canje de certificados por acciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la ganancia acumulable en la enajenación de certificados de fideicomisos?",
-    "¿Qué pasa con las pérdidas fiscales al vender certificados bursátiles?",
-    "¿Cómo se determina el costo comprobado de adquisición por certificados fiduciarios?",
-    "¿Qué se considera para el valor de cotización al canjear certificados?",
-    "¿Cómo afectan los reembolsos de capital en las enajenaciones de fideicomisos?"
+    "¿Cómo determino la ganancia acumulable de un fideicomiso bursátil?",
+    "¿Qué elementos debo considerar para calcular la pérdida deducible en la venta de certificados?",
+    "¿Qué sucede si canje mis certificados por acciones?",
+    "¿Cómo afecta el patrimonio del fideicomiso al cálculo de pérdidas fiscales?",
+    "¿Qué es el costo promedio ajustado en fideicomisos bursátiles?"
   ]
 }

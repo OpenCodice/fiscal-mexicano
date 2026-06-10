@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd866e267bb37932",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de créditos en cartera vencida",
   "temas": [
     "IVA",
-    "enajenación de créditos",
+    "créditos",
     "cartera vencida",
-    "cobranza",
-    "condiciones de enajenación"
+    "enajenación",
+    "administración",
+    "cobranza"
   ],
   "terminos_coloquiales": [
-    "venta de créditos",
-    "créditos vencidos",
-    "cobranza de deudas",
+    "vender deudas",
+    "créditos morosos",
+    "cobranza externa",
     "IVA en créditos",
     "LIVA"
   ],
-  "resumen": "La regla establece que el artículo 15 de la Ley del IVA se aplica a los créditos enajenados a terceros para su cobranza, siempre que sean de origen bancario y cumplan con las condiciones para no estar obligados al pago del IVA.",
+  "resumen": "La regla menciona que se puede enajenar créditos en cartera vencida a un tercero que no sea una institución de crédito, siempre que cumplan con ciertas condiciones para no pagar IVA. Esto aplica si los créditos son bancarios y se venden para su administración y cobranza.",
   "preguntas_ejemplo": [
-    "¿Qué es la enajenación de créditos en cartera vencida?",
-    "¿Cómo se aplica el IVA en la venta de créditos?",
-    "¿Qué condiciones debe cumplir un crédito para no pagar IVA al ser enajenado?",
-    "¿Qué establece la regla 4.2.4 sobre créditos en cartera vencida?",
-    "¿A quién se pueden vender los créditos en cartera vencida?"
+    "¿Cómo se venden los créditos morosos?",
+    "¿Qué implica la enajenación de deudas?",
+    "¿Cuándo no se paga IVA por créditos en cartera vencida?",
+    "¿Qué requisitos deben cumplir los créditos para ser enajenados sin IVA?",
+    "¿A quién se pueden vender los créditos vencidos?"
   ]
 }

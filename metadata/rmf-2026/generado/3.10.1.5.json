@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39266a8ed51c3ebe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Autorización para recibir donativos deducibles",
   "temas": [
-    "vigencia de autorización",
-    "renovación de autorización",
-    "donativos deducibles",
+    "vigencia de autorizaciones",
+    "renovación de autorizaciones",
     "organizaciones civiles",
     "fideicomisos",
-    "obligaciones fiscales"
+    "declaraciones informativas",
+    "donativos deducibles",
+    "cumplimiento de requisitos"
   ],
   "terminos_coloquiales": [
-    "recepción de donativos",
-    "deducción de donativos",
-    "ONGs",
-    "autorización de donativos",
-    "RFC",
-    "SAT"
+    "recibir donativos",
+    "donativos deducibles",
+    "organización civil",
+    "fideicomiso",
+    "renovación de autorización"
   ],
-  "resumen": "La autorización para recibir donativos deducibles se concede por un ejercicio fiscal y se renueva automáticamente si se cumplen ciertos requisitos. Las organizaciones deben presentar declaraciones informativas y no tener estatus cancelado en el RFC para mantener su autorización.",
+  "resumen": "La autorización para recibir donativos deducibles es válida solo por el ejercicio fiscal en que se otorga y puede renovarse automáticamente si se cumplen ciertos requisitos. Si no se cumple con estos requisitos, la autorización puede perder su vigencia.",
   "preguntas_ejemplo": [
-    "¿Cómo se renueva la autorización para recibir donativos?",
-    "¿Qué requisitos debo cumplir para mantener la autorización de donativos?",
-    "¿Qué pasa si pierdo la autorización para recibir donativos deducibles?",
-    "¿Cómo se considera un donativo si perdí la autorización?",
-    "¿Qué documentos necesito para solicitar la autorización de donativos?"
+    "¿Cuánto tiempo es válida la autorización para recibir donativos?",
+    "¿Qué requisitos debo cumplir para renovar la autorización?",
+    "¿Qué sucede si pierdo la autorización para recibir donativos?",
+    "¿Qué informes debo presentar para mantener la autorización vigente?",
+    "¿Puedo seguir recibiendo donativos si mi autorización ha perdido vigencia?",
+    "¿Cómo se determina si mi autorización es válida?"
   ]
 }

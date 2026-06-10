@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f9d3d67c4ee0af4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversión en Fondos de Renta Variable",
+  "denominacion_comun": "Inversión en fondos de renta variable",
   "temas": [
-    "ganancia o pérdida",
-    "enajenación de acciones",
-    "comisiones de intermediación",
-    "precio promedio de adquisición",
+    "ganancia",
+    "pérdida",
+    "acción",
+    "fondo de inversión",
+    "comisiones",
+    "intermediación",
+    "precio promedio",
     "actualización de comisiones"
   ],
   "terminos_coloquiales": [
-    "Inversión en fondos",
     "acciones de fondos",
-    "comisiones",
+    "fondos de inversión",
+    "comisiones de venta",
+    "comisiones de compra",
     "LISR",
-    "ISR"
+    "ganancias por inversión"
   ],
-  "resumen": "La disposición regula cómo determinar la ganancia o pérdida al enajenar acciones en fondos de inversión de renta variable, permitiendo restar comisiones y ajustar precios de adquisición. También establece un método para calcular el precio promedio de adquisición en caso de múltiples compras.",
+  "resumen": "La regla establece cómo calcular la ganancia o pérdida por la venta de acciones en fondos de inversión de renta variable, permitiendo restar las comisiones pagadas por la adquisición y venta de estas acciones. También detalla cómo se debe recalcular el precio promedio de adquisición cada vez que se adquieren nuevas acciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la ganancia de mis acciones en un fondo de inversión?",
-    "¿Qué comisiones puedo restar al vender acciones de un fondo?",
-    "¿Cómo determino mi precio promedio de adquisición de acciones?",
-    "¿Qué pasa si solo vendo algunas acciones de un fondo de inversión?",
-    "¿Cómo afectan las comisiones a mis ganancias por enajenación de acciones?"
+    "¿Cómo se calcula la ganancia por la venta de acciones de un fondo de inversión?",
+    "¿Qué comisiones puedo restar al vender mis acciones?",
+    "¿Cómo actualizo el precio de compra de mis acciones?",
+    "¿Qué pasa si no vendo todas mis acciones de un fondo?",
+    "¿Cuál es el procedimiento para determinar el precio promedio de adquisición?",
+    "¿Cómo afecta el INPC a mis inversiones en fondos de renta variable?"
   ]
 }

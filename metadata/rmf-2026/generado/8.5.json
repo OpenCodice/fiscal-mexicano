@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd0b0056baf609c0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Clave vehicular en enajenación de vehículos",
+  "denominacion_comun": "Clave Vehicular",
   "temas": [
-    "ISAN",
-    "enajenación de vehículos",
-    "comprobantes fiscales",
-    "clave vehicular"
+    "comprobante fiscal",
+    "enajenación",
+    "vehículos",
+    "Ley del ISAN"
   ],
   "terminos_coloquiales": [
     "clave vehicular",
-    "ISAN",
-    "impuesto de automóviles nuevos"
+    "comprar un coche",
+    "comprobante fiscal",
+    "ISAN"
   ],
-  "resumen": "Se establece que los contribuyentes que vendan vehículos deben incluir en su comprobante fiscal la clave vehicular, siguiendo lo indicado en la regla correspondiente de la RMF.",
+  "resumen": "Los contribuyentes que vendan vehículos deben incluir una clave vehicular en el comprobante fiscal según lo establece la ley. Esta clave es necesaria para el cumplimiento de las obligaciones fiscales relacionadas con la enajenación de automóviles.",
   "preguntas_ejemplo": [
-    "¿Qué es la clave vehicular y por qué es importante?",
-    "¿Cómo debo incluir la clave vehicular en el comprobante fiscal?",
-    "¿Qué dice la regla sobre la clave vehicular en la enajenación de vehículos?",
-    "¿Dónde encuentro la norma que habla de la clave vehicular?",
-    "¿Qué requisitos tengo que cumplir para enajenar un vehículo?"
+    "¿Qué es la clave vehicular y para qué sirve?",
+    "¿Cómo debo incluir la clave vehicular en mi comprobante fiscal?",
+    "¿Qué pasa si no coloco la clave vehicular al vender un auto?",
+    "¿Dónde encuentro la información sobre la clave vehicular según la Ley del ISAN?",
+    "¿Cuáles son las obligaciones fiscales al vender un coche?"
   ]
 }

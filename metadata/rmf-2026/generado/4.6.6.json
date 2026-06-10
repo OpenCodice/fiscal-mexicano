@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:566830c4f25809d4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aprovechamiento en el extranjero de servicios de TI",
+  "denominacion_comun": "Aprovechamiento en el extranjero de servicios de tecnologías de la información",
   "temas": [
-    "Impuesto al Valor Agregado",
-    "Exportación de servicios",
-    "Comprobantes fiscales",
-    "Infraestructura tecnológica",
-    "Servicios de internet",
-    "Contribuyentes",
-    "Documentación fiscal",
-    "Trazabilidad de conexiones"
+    "IVA",
+    "comprobantes fiscales",
+    "infraestructura tecnológica",
+    "servicios de internet",
+    "documentación fiscal",
+    "dirección IP",
+    "CFDI",
+    "residente en el extranjero"
   ],
   "terminos_coloquiales": [
-    "Servicios tecnológicos en el extranjero",
-    "IVA en exportación de servicios",
-    "Documentación para IVA",
-    "Infracciones fiscales",
-    "CFDI para residentes en el extranjero",
-    "Regla 4.6.6"
+    "factura",
+    "CFDI",
+    "comprobante fiscal",
+    "servicios en el extranjero",
+    "tecnologías de la información",
+    "acreditar IVA",
+    "TIN"
   ],
-  "resumen": "La regla establece las obligaciones para acreditar el IVA en la exportación de servicios de tecnologías de información, incluyendo la documentación que los contribuyentes deben conservar. También se detallan los requisitos relacionados con la localización de los servicios y la obligación del CFDI para residentes en el extranjero.",
+  "resumen": "Esta regla establece cómo los contribuyentes pueden acreditar el IVA por la prestación de servicios de tecnologías de la información utilizados en el extranjero. Se deben cumplir diversas obligaciones documentales, como contar con comprobantes fiscales y demostrar la ubicación de los dispositivos y servicios utilizados.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para acreditar el IVA de mis servicios tecnológicos al extranjero?",
-    "¿Cómo puedo comprobar que mis clientes están en el extranjero?",
-    "¿Qué es el complemento de leyendas fiscales en el CFDI?",
-    "¿Qué requisitos debo cumplir para cumplir con el IVA en servicios exportados?",
-    "¿Cuáles son las obligaciones fiscales para el uso de tecnología en servicios en el extranjero?",
-    "¿Cómo se acredita el IVA para servicios de internet prestados a clientes extranjeros?"
+    "¿Qué documentación necesito para acreditar el IVA por servicios en el extranjero?",
+    "¿Cómo puedo probar que mis servicios de tecnología son utilizados fuera de México?",
+    "¿Qué es el TIN y cómo se incluye en un CFDI?",
+    "¿Qué comprobantes debo tener para mis operaciones con clientes en el extranjero?",
+    "¿Cómo se acredita el IVA en servicios de tecnología para residentes en el extranjero?"
   ]
 }

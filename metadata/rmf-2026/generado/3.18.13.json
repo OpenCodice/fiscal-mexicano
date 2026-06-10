@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c44e807a310bf56",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasas de retención de intereses",
+  "denominacion_comun": "Tasas de retención de intereses no deducibles",
   "temas": [
     "retención de impuestos",
     "intereses",
     "residentes en el extranjero",
     "Ley del ISR",
-    "pagos de intereses"
+    "no deducibles",
+    "contribuyentes",
+    "tasa de retención"
   ],
   "terminos_coloquiales": [
     "tasa de retención",
     "intereses no deducibles",
-    "ISR",
-    "residentes en el extranjero"
+    "impuestos sobre intereses",
+    "Ley de ISR"
   ],
-  "resumen": "Esta regla establece las tasas de retención que deben aplicarse a los pagos de intereses realizados a residentes en el extranjero, según lo dispuesto en la Ley del ISR, siempre que no se consideren intereses no deducibles.",
+  "resumen": "La disposición establece que los contribuyentes pueden aplicar una tasa de retención para los pagos de intereses a residentes en el extranjero, siempre que cumplan con ciertos requisitos. Esta tasa se aplica a los intereses que no se consideran deducibles según la ley.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las tasas de retención para intereses a no residentes?",
-    "¿Qué requisitos debo cumplir para aplicar la tasa de retención en pagos de intereses?",
-    "¿Cómo se determina la retención de impuestos sobre intereses pagados a extranjeros?",
-    "¿Qué significan los artículos 166 y 28 de la Ley del ISR en relación con intereses?",
-    "¿Qué tipo de intereses no son deducibles según la Ley del ISR?"
+    "¿Qué tasa de retención se aplica a los intereses pagados a residentes en el extranjero?",
+    "¿Cuáles son los requisitos para aplicar la tasa de retención en intereses no deducibles?",
+    "¿Qué establece la Ley del ISR sobre los intereses que se pagan a residentes en el extranjero?",
+    "¿Qué intereses no son deducibles según la Ley del ISR?",
+    "¿Cómo se calcula la retención de impuestos por intereses a residentes en el extranjero?",
+    "¿Qué significa intereses no deducibles en el contexto del ISR?"
   ]
 }

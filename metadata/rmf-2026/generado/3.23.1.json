@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4bb254d3015e24f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Pérdidas de Créditos Incobrables",
+  "denominacion_comun": "Deducción de Pérdidas por Créditos Incobrables",
   "temas": [
-    "Deductibilidad de pérdidas",
-    "Instituciones de crédito",
-    "Reservas preventivas globales",
-    "Registro contable",
-    "Excedentes de reservas",
-    "Informe fiscal"
+    "deducción fiscal",
+    "pérdidas de créditos incobrables",
+    "reservas preventivas globales",
+    "instituciones de crédito",
+    "información fiscal",
+    "saldo contable"
   ],
   "terminos_coloquiales": [
-    "deducción de créditos incobrables",
-    "pérdidas fiscales",
+    "deducción de pérdidas",
+    "créditos incobrables",
     "reservas preventivas",
+    "Informe de reservas",
+    "15 de febrero",
     "LISR",
-    "Regla 3.23.1"
+    "artículo Noveno"
   ],
-  "resumen": "Las instituciones de crédito pueden deducir pérdidas de créditos incobrables generadas después de una fecha específica, siempre y cuando se cumplan ciertos requisitos sobre saldo contable y reservas. También se establece un límite en la deducción anual basada en la cartera de créditos promedio.",
+  "resumen": "Las instituciones de crédito podrán deducir pérdidas por créditos incobrables generadas después del 1 de enero de 2014, siempre que se cumplan ciertas condiciones. Además, deberán llevar un registro específico de estas deducciones y presentar informes relacionados a más tardar el 15 de febrero de cada año.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco las pérdidas por créditos incobrables?",
-    "¿Qué requisitos debo cumplir para deducir reservas preventivas?",
-    "¿Qué pasa si mis reservas preventivas no se han aplicado?",
-    "¿Cómo se actualizan los saldos para la deducción?",
-    "¿Cuándo tengo que presentar el informe sobre reservas preventivas?"
+    "¿Cómo puedo deducir pérdidas por créditos incobrables?",
+    "¿Qué información debo presentar sobre reservas preventivas globales?",
+    "¿Cuándo se deben presentar los informes fiscales relacionados?",
+    "¿Qué requisitos debo cumplir para deducir pérdidas en mi institución de crédito?",
+    "¿Qué pasa con las pérdidas anteriores al 1 de enero de 2014?",
+    "¿Cómo se actualizan los saldos de reservas preventivas?"
   ]
 }

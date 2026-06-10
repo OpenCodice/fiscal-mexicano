@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:34fe52e5fbf41d59",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Liquidación anticipada de adeudos",
+  "denominacion_comun": "Liquidación anticipada del adeudo",
   "temas": [
-    "pago anticipado",
-    "adeudo",
-    "convenio de pago",
+    "pago a plazos",
+    "adeudo fiscal",
     "recargos",
-    "prórroga",
-    "saldo insoluto",
-    "línea de captura"
+    "prórrogas",
+    "línea de captura",
+    "solicitud de autorización"
   ],
   "terminos_coloquiales": [
-    "pago anticipado de impuestos",
-    "adeudo fiscal",
-    "CFD (línea de captura)",
-    "pago a plazos"
+    "pago anticipado de deudas",
+    "liquidar deudas",
+    "pagar en plazos",
+    "FCF",
+    "solicitud de pago a plazos"
   ],
-  "resumen": "Los contribuyentes pueden pagar anticipadamente sus adeudos en convenio de pago a plazos. Para ello, necesitan obtener una línea de captura y podrían incurrir en recargos si no están al corriente en sus pagos.",
+  "resumen": "Los contribuyentes pueden pagar de forma anticipada un adeudo que están pagando en plazos. Para esto, deben solicitar una línea de captura y seguir un procedimiento que incluye el cálculo de los saldos y recargos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo liquidar mi adeudo de manera anticipada?",
-    "¿Qué debo hacer para pagar mis impuestos a plazos?",
-    "¿Qué recargos aplican si no pago a tiempo?",
-    "¿Dónde obtengo la línea de captura para el pago anticipado?",
-    "¿Qué pasa si no realizo el pago en la fecha señalada?"
+    "¿Cómo puedo pagar mi adeudo antes de tiempo?",
+    "¿Qué pasa si no pago el adeudo anticipado en la fecha señalada?",
+    "¿Qué es el FCF y cómo lo obtengo?",
+    "¿Cuáles son los recargos por pagar a plazos?",
+    "¿Qué pasos debo seguir para solicitar la liquidación anticipada?"
   ]
 }

@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d002934de383f16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Envío mensual de contabilidad electrónica",
   "temas": [
-    "contabilidad electrónica",
-    "plazos de envío",
-    "catálogo de cuentas",
-    "balanza de comprobación",
-    "errores informáticos",
-    "obligaciones fiscales",
+    "contabilidad",
+    "declaraciones",
+    "envío de archivos",
+    "buzón tributario",
     "personas morales",
-    "personas físicas"
+    "personas físicas",
+    "plazos",
+    "correcciones"
   ],
   "terminos_coloquiales": [
     "enviar contabilidad",
-    "contabilidad SAT",
+    "información contable mensual",
+    "archivos contables",
     "CFF",
-    "balanza de comprobación",
-    "contabilidad mensual"
+    "contabilidad electrónica"
   ],
-  "resumen": "Los contribuyentes deben enviar su información contable de forma mensual a través del Portal del SAT, excepto aquellos que utilizan la aplicación 'Mis cuentas'. Existen plazos específicos para enviar el catálogo de cuentas, la balanza de comprobación y cumplir con otras obligaciones fiscales.",
+  "resumen": "Los contribuyentes deben enviar su información contable mensualmente a través del Portal del SAT, salvo excepciones. El envío incluye un catálogo de cuentas y archivos específicos, con plazos y procedimientos definidos para cumplir con las obligaciones fiscales.",
   "preguntas_ejemplo": [
     "¿Cuándo debo enviar mi contabilidad electrónica?",
-    "¿Qué información necesito para cumplir con el envío mensual?",
-    "¿Qué hago si mi archivo de contabilidad fue rechazado?",
-    "¿Puedo enviar mi contabilidad si no tengo Internet?",
-    "¿Qué es el catálogo de cuentas y cuándo lo tengo que enviar?"
+    "¿Qué archivos necesito enviar al SAT cada mes?",
+    "¿Cómo corrijo errores en mis archivos contables enviados?",
+    "¿Quiénes están obligados a enviar su contabilidad mensualmente?",
+    "¿Qué hacer si no tengo Internet para enviar mis archivos?",
+    "¿Qué es el buzón tributario y cómo se usa para el envío de contabilidad?"
   ]
 }

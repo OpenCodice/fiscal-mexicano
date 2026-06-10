@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e5a1a67f7008e9c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes",
   "temas": [
     "Impuesto sobre la renta",
-    "Ganancias por enajenación",
-    "Terrenos",
+    "Enajenación de terrenos",
     "Construcciones",
-    "Pagos fiscales",
-    "Entidad federativa"
+    "Bienes inmuebles",
+    "Pagos a entidades federativas",
+    "Cálculo de pagos",
+    "Escrituras públicas",
+    "Fedatarios públicos"
   ],
   "terminos_coloquiales": [
-    "Impuesto por venta de propiedades",
+    "venta de terrenos",
+    "venta de propiedades",
+    "pago de impuestos por enajenación",
     "ISR por enajenación",
-    "Pago de impuesto por casa",
-    "LISR 127"
+    "cálculo de impuestos",
+    "notaría"
   ],
-  "resumen": "Las personas físicas que vendan terrenos o construcciones deben pagar un impuesto en oficinas autorizadas por las entidades donde se encuentren los bienes. Los notarios calcularán y realizarán el pago según lo establecido en la ley.",
+  "resumen": "La regla establece que las personas físicas que vendan terrenos o construcciones deben hacer sus pagos en las oficinas autorizadas por las entidades federativas. También se menciona que los fedatarios públicos calcularán el pago correspondiente si la operación se realiza mediante escritura pública.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por la venta de un terreno?",
-    "¿Dónde tengo que declarar la venta de mi propiedad?",
-    "¿Qué debo hacer si vendo una construcción?",
-    "¿Quién calcula el impuesto de la enajenación de bienes?",
-    "¿Cuáles son las oficinas donde debo realizar el pago del ISR por enajenación?"
+    "¿Cómo se calculan los impuestos al vender un terreno?",
+    "¿Dónde debo pagar el impuesto por la venta de mi propiedad?",
+    "¿Qué deben hacer los notarios en las enajenaciones de bienes?",
+    "¿Qué información necesito para realizar el pago por enajenación?",
+    "¿Cuáles son los trámites para vender un inmueble?"
   ]
 }

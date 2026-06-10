@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9786902b9a6c151",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización del domicilio fiscal",
+  "denominacion_comun": "Actualización del Domicilio Fiscal por el SAT",
   "temas": [
     "domicilio fiscal",
     "RFC",
+    "actualización",
     "SAT",
-    "contribuyentes",
+    "facultades de comprobación",
+    "entidades financieras",
     "notificación"
   ],
   "terminos_coloquiales": [
-    "cambio de domicilio",
-    "actualizar RFC",
-    "domicilio falso",
+    "cambio de domicilio fiscal",
+    "actualizar domicilio en el SAT",
+    "RFC actualizado",
     "SAT",
-    "CFF"
+    "no encontré mi domicilio"
   ],
-  "resumen": "El SAT puede actualizar el domicilio fiscal de los contribuyentes si no han proporcionado uno, si el que dieron es incorrecto o si no se pueden localizar en dicho domicilio. Tras la actualización, se debe notificar a los contribuyentes.",
+  "resumen": "El SAT puede actualizar el domicilio fiscal de los contribuyentes en el RFC en casos de no haber manifestado uno, haber indicado uno incorrecto, no ser localizados en el domicilio proporcionado, o tener un domicilio ficticio. Después de la actualización, se deben notificar a los contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Cómo actualizo mi domicilio fiscal en el RFC?",
-    "¿Qué pasa si mi domicilio fiscal es incorrecto?",
-    "¿El SAT puede cambiar mi domicilio fiscal sin avisarme?",
-    "¿Qué hacer si no vivo en el domicilio que registré?",
-    "¿Cómo sé si mi domicilio fiscal está actualizado?"
+    "¿Cómo puedo actualizar mi domicilio fiscal en el RFC?",
+    "¿Qué pasa si no he manifestado un domicilio fiscal?",
+    "¿El SAT puede cambiar mi domicilio fiscal sin mi permiso?",
+    "¿Qué debo hacer si el SAT actualiza mi domicilio y no estoy de acuerdo?",
+    "¿Cuándo se considera que un domicilio fiscal es ficticio?",
+    "¿Cómo se determina el domicilio correcto por parte del SAT?"
   ]
 }

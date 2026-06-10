@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39556b9cde417ae9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducibilidad de reservas de seguros y fianzas",
+  "denominacion_comun": "Deducibilidad de reservas de instituciones de seguros y fianzas",
   "temas": [
-    "reservas de riesgos en curso",
-    "reservas de obligaciones pendientes",
-    "reservas de riesgos catastróficos",
+    "impuesto sobre la renta",
+    "reservas de riesgos",
+    "obligaciones pendientes",
+    "riesgos catastróficos",
     "reservas matemáticas",
     "seguros de pensiones",
-    "deducción de reservas",
-    "fideicomisario Gobierno Federal"
+    "fideicomisario"
   ],
   "terminos_coloquiales": [
-    "deducción de reservas",
     "reservas de seguros",
+    "deducción de reservas",
+    "seguros de pensiones",
     "LISR",
     "LISF"
   ],
-  "resumen": "Esta disposición establece que ciertas reservas de instituciones de seguros y fianzas son deducibles para el cálculo del impuesto sobre la renta. Se especifican las condiciones bajo las cuales se puede hacer esta deducción, especialmente en relación a seguros de pensiones y riesgos catastróficos.",
+  "resumen": "Esta disposición establece que las instituciones de seguros pueden deducir diferentes tipos de reservas, como las de riesgos en curso y las obligaciones pendientes, bajo ciertas condiciones. Además, las reservas relacionadas con seguros de pensiones también son deducibles si cumplen con las regulaciones pertinentes.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las reservas que puedo deducir en mis impuestos?",
-    "¿Cómo se deducen las reservas de seguros de pensiones?",
-    "¿Qué condiciones deben cumplirse para la deducción de reservas de riesgo catastrófico?",
-    "¿Qué es la reserva de contingencia y cómo se deduce?",
-    "¿Las instituciones de seguros pueden deducir todas sus reservas?",
-    "¿Qué dice la ley sobre la deducción de reservas en seguros?"
+    "¿Qué reservas son deducibles para instituciones de seguros?",
+    "¿Pueden las aseguradoras deducir reservas de obligaciones pendientes?",
+    "¿Cuáles son las condiciones para deducir reservas matemáticas?",
+    "¿Qué hace una reserva de contingencia deducible?",
+    "¿Cómo se relacionan las reservas de seguros con el ISR?"
   ]
 }

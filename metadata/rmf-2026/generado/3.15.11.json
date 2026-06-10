@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:240fb6e89a632036",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo promedio de adquisición de acciones",
+  "denominacion_comun": "Costo promedio de acciones",
   "temas": [
-    "Impuesto sobre la renta",
-    "Personas morales",
-    "Enajenación de bienes",
-    "Costo promedio de adquisición",
-    "Acciones y títulos",
-    "Planes de acción en beneficio de empleados",
-    "Documentación comprobatoria"
+    "acciones",
+    "títulos",
+    "opción de compra",
+    "empleados",
+    "personas morales",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "Costo de acciones",
-    "Cálculo de acciones",
-    "Plan de acciones para empleados",
-    "ISR",
-    "LISR"
+    "costo promedio de adquisición",
+    "acciones de empresa",
+    "opción de acciones",
+    "plan de acciones",
+    "ISR"
   ],
-  "resumen": "Las personas físicas que obtienen acciones o títulos de su empleador deben considerar el costo promedio de adquisición al momento de ejercer la opción. Además, deben pagar el impuesto correspondiente y conservar la documentación necesaria.",
+  "resumen": "Esta regla establece cómo las personas físicas deben calcular el costo promedio de adquisición de acciones o títulos cuando ejercen una opción otorgada por su empleador. Deben considerar el valor de las acciones o títulos al momento de ejercer la opción y conservar la documentación necesaria para las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de acciones que tengo?",
-    "¿Qué debo hacer si ejerzo opciones de acciones?",
-    "¿Qué impuestos debo pagar al vender acciones recibidas de mi empleo?",
-    "¿Qué documentos necesito para comprobar el costo de mis acciones?",
-    "¿Las acciones de un plan de opción se consideran ingreso?"
+    "¿Cómo se calcula el costo de mis acciones cuando las compro a través de mi empleador?",
+    "¿Cuál es el procedimiento para determinar el valor de adquisición de títulos?",
+    "¿Qué debo hacer si ejerzo la opción de compra de acciones en mi trabajo?",
+    "¿Necesito guardar algún papel si compro acciones a través de un plan de acciones?",
+    "¿Qué impuestos debo pagar cuando ejerzo una opción de acciones?"
   ]
 }

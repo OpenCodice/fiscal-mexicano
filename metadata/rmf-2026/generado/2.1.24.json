@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b09d8f52c42ca72",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opinión del cumplimiento de obligaciones fiscales",
+  "denominacion_comun": "Opinión del cumplimiento fiscal",
   "temas": [
-    "autorización de opiniones",
-    "resultados públicos",
-    "Portal del SAT",
-    "procedimiento de autorización",
-    "cancelación de autorización",
-    "consulta de resultados",
-    "obligaciones fiscales"
+    "cumplimiento de obligaciones fiscales",
+    "autorización al SAT",
+    "resultado público",
+    "consulta en línea",
+    "cancelación de autorización"
   ],
   "terminos_coloquiales": [
-    "opinión fiscal",
-    "autorización de opinión",
-    "SAT público",
-    "CFF 32-D",
-    "RMF 2.1.24"
+    "opinión del cumplimiento",
+    "resultados fiscales públicos",
+    "SAT",
+    "consultar cumplimiento fiscal"
   ],
-  "resumen": "Los contribuyentes pueden autorizar al SAT para hacer pública su opinión sobre el cumplimiento de obligaciones fiscales, siguiendo un procedimiento específico. También pueden cancelar esta autorización a través del mismo portal.",
+  "resumen": "Establece el procedimiento para que los contribuyentes autoricen al SAT a hacer público el resultado de su opinión sobre el cumplimiento de sus obligaciones fiscales. También describe cómo cancelar esta autorización y cómo consultar dichos resultados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo autorizar al SAT a hacer pública mi opinión fiscal?",
-    "¿Qué pasos debo seguir para cancelar la autorización de mi opinión de cumplimiento?",
-    "¿Dónde puedo consultar la opinión del cumplimiento de otros contribuyentes?",
-    "¿Quiénes deben hacer pública su opinión de cumplimiento de obligaciones fiscales?",
-    "¿Qué es la opinión del cumplimiento de obligaciones fiscales?"
+    "¿Cómo puedo hacer pública mi opinión del cumplimiento fiscal?",
+    "¿Qué debo hacer para cancelar la autorización de mi opinión fiscal?",
+    "¿Dónde puedo consultar la opinión de cumplimiento de otros contribuyentes?",
+    "¿Qué pasos sigo para autorizar al SAT?",
+    "¿Quiénes están obligados a hacer pública su opinión del cumplimiento fiscal?"
   ]
 }

@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bc728cb8a5354453",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Incumplimiento del estímulo fiscal IVA",
+  "denominacion_comun": "Incumplimiento de requisitos estímulo IVA",
   "temas": [
-    "estímulo fiscal",
+    "estímulos fiscales",
     "IVA",
-    "región fronteriza norte",
-    "región fronteriza sur",
-    "requisitos",
-    "notificación",
+    "incumplimiento",
+    "región fronteriza",
+    "contribuyentes",
+    "notificaciones",
     "Padrón de beneficiarios"
   ],
   "terminos_coloquiales": [
-    "incumplimiento estímulo IVA",
-    "no puedo continuar con el estímulo",
-    "estímulo fiscal región frontera",
-    "Decreto región frontera norte",
-    "Decreto región frontera sur"
+    "estímulo fiscal",
+    "IVA",
+    "decreto región fronteriza",
+    "incumplir requisitos"
   ],
-  "resumen": "Si la autoridad fiscal notifica que no cumpliste con los requisitos del estímulo fiscal, no podrás seguir aplicándolo al IVA. Además, no podrás volver a presentar el aviso correspondiente.",
+  "resumen": "Si un contribuyente no cumple con los requisitos para aplicar el estímulo fiscal en materia de IVA, no podrá seguir aplicándolo y no podrá presentar nuevamente el aviso correspondiente. La autoridad fiscal notificará al contribuyente sobre este incumplimiento.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si incumplo con los requisitos del estímulo fiscal?",
-    "¿Puedo seguir aplicando el estímulo fiscal IVA si me notifican que incumplí?",
-    "¿Qué debo hacer si me dicen que no cumplí con los requisitos?",
+    "¿Qué pasa si no cumplo con los requisitos del estímulo IVA?",
+    "¿Cómo me notifica la autoridad si incumplo el estímulo fiscal?",
+    "¿Puedo volver a presentar el aviso del estímulo IVA si me notifican un incumplimiento?",
     "¿Qué es el Padrón de beneficiarios del estímulo fiscal?",
-    "¿Cuáles son los requisitos para aplicar el estímulo fiscal en la región fronteriza?"
+    "¿Cuáles son los requisitos para el estímulo fiscal en la frontera?"
   ]
 }

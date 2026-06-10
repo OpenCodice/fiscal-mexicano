@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1a4061f6a091c9f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas Reportables",
   "temas": [
-    "revelación de esquemas",
-    "información fiscal",
-    "documentación requerida",
-    "reglamento de la OCDE",
+    "documentación fiscal",
+    "asistencia fiscal",
+    "esquemas reportables",
     "precio de transferencia",
-    "protección unilateral",
-    "operaciones entre partes relacionadas"
+    "operaciones jurídicas",
+    "protegidos fiscales",
+    "jurisdicciones extranjeras",
+    "datos de contribuyentes",
+    "razón de negocios"
   ],
   "terminos_coloquiales": [
-    "información sobre esquemas reportables",
-    "revelación de esquemas",
+    "reportes fiscales",
+    "esquemas de planificación",
     "esquemas fiscales",
-    "precios de transferencia"
+    "conceptos de protección",
+    "CFF",
+    "asesor fiscal"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben presentar un documento detallado sobre esquemas reportables, incluyendo diagramas de operaciones y datos de las partes involucradas. Esto aplica tanto a esquemas generalizados como personalizados, y debe incluir información sobre regímenes de protección unilateral y precios de transferencia.",
+  "resumen": "Esta disposición describe la información que deben presentar los asesores fiscales y contribuyentes sobre esquemas reportables, incluyendo detalles de las operaciones, antecedentes, y la participación de entidades locales o extranjeras. Se enfatiza la necesidad de revelar información sobre el uso de regímenes de protección unilateral y la metodología de precios de transferencia.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir para reportar un esquema fiscal?",
-    "¿Cómo se maneja la revelación de esquemas reportables?",
-    "¿Qué son los regímenes de protección unilateral?",
-    "¿Qué documentación necesito para mis esquemas reportables?",
-    "¿Cuándo debo presentar la información sobre esquemas reportables?"
+    "¿Qué información debo presentar sobre un esquema reportable?",
+    "¿Cómo documento las operaciones de un esquema reportable?",
+    "¿Qué es un régimen de protección unilateral en esquemas fiscales?",
+    "¿Qué datos necesito de las partes relacionadas en un esquema reportable?",
+    "¿Qué pasa si no tengo la información requerida para un esquema reportable?"
   ]
 }

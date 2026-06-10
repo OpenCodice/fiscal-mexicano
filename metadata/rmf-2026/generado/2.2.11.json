@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3c44f5fd8edb6af5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Verificación y autenticación de e.firma",
   "temas": [
     "e.firma",
-    "verificación de certificados",
-    "autenticación electrónica",
     "SAT",
-    "documentos digitales",
-    "servicios públicos",
-    "consulta de e.firma"
+    "certificados de firma electrónica",
+    "verificación",
+    "autenticación de documentos digitales"
   ],
   "terminos_coloquiales": [
     "firma electrónica",
+    "firma digital",
     "e.firma",
-    "verificación de e.firma",
-    "autenticación SAT"
+    "certificado de e.firma"
   ],
-  "resumen": "El SAT ofrece un servicio para verificar y autenticar los certificados de firmas electrónicas avanzadas de los contribuyentes que utilicen la e.firma. Esto permite comprobar la validez de los certificados digitales usados para firmar documentos electrónicos.",
+  "resumen": "El SAT ofrece un servicio para verificar y autenticar los certificados de firmas electrónicas avanzadas. Los contribuyentes que utilizan la e.firma como medio de autenticación deben presentar la documentación requerida para acceder a este servicio.",
   "preguntas_ejemplo": [
     "¿Cómo puedo verificar mi e.firma?",
-    "¿Qué necesito para autenticar mi firma electrónica con el SAT?",
-    "¿Cuál es el proceso para consultar la validez de mi e.firma?",
+    "¿Qué requisitos necesito para autenticar mi certificado de firma electrónica?",
+    "¿Dónde puedo consultar la validación de mi e.firma?",
     "¿Qué es el servicio de verificación de e.firma del SAT?",
-    "¿Dónde encuentro la ficha de trámite para la e.firma?"
+    "¿Cómo funciona la autenticación de documentos digitales con e.firma?"
   ]
 }

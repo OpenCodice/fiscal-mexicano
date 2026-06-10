@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09c5a74decb000ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimulos fiscales Plan México",
+  "denominacion_comun": "Estímulos fiscales y deducciones",
   "temas": [
-    "estimulos fiscales",
-    "deducción de impuestos",
-    "obligaciones fiscales",
+    "estímulos fiscales",
     "declaraciones complementarias",
-    "incumplimiento",
-    "Ley del ISR"
+    "impuesto",
+    "deducciones",
+    "Lineamientos para aplicar el Plan México",
+    "incumplimiento"
   ],
   "terminos_coloquiales": [
-    "estimulos del Plan México",
+    "ahorro de impuestos",
+    "deducción de gastos",
+    "declaración de impuestos",
     "declaraciones de impuestos",
-    "incumplimiento de requisitos",
-    "LISR",
-    "declaraciones complementarias"
+    "Plan México"
   ],
-  "resumen": "Los contribuyentes que optaron por los estímulos fiscales deben cumplir con ciertos requisitos. Si no los cumplen, deben pagar la diferencia del impuesto y presentar declaraciones complementarias.",
+  "resumen": "Esta disposición establece que los contribuyentes que hayan optado por estímulos fiscales y que no cumplan con los requisitos deberán pagar el impuesto correspondiente y presentar declaraciones complementarias. Esto se aplica cuando se deja de cumplir con dichos requisitos o se revoca la aplicación de los estímulos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no cumplo con los requisitos de los estímulos fiscales?",
-    "¿Cómo debo calcular el impuesto que debo pagar si incumplo?",
-    "¿Cuándo debo presentar las declaraciones complementarias?",
-    "¿Qué es el Plan México en relación a los estímulos fiscales?",
-    "¿Qué artículos de la ley aplican si incumplo con los estímulos fiscales?"
+    "¿Qué pasa si no cumplo con los requisitos para los estímulos fiscales?",
+    "¿Cómo realizo el pago de impuestos si usé deducciones indebidas?",
+    "¿Qué son las declaraciones complementarias?",
+    "¿Qué debo hacer si me notifican la revocación de estímulos fiscales?",
+    "¿Cómo determino la deducción adicional de gastos de capacitación?"
   ]
 }

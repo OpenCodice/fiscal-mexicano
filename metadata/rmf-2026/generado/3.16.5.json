@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1741116d42d1f1a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la Renta para Fondos de Inversión en Deuda",
+  "denominacion_comun": "ISR Fondos de Inversión en Deuda",
   "temas": [
-    "Fondos de inversión",
-    "Instrumentos de deuda",
-    "Exenciones fiscales",
-    "Retenciones de impuestos",
-    "Acciones de fondos",
-    "Inversionistas extranjeros",
-    "Acreditamiento de impuestos"
+    "fondos de inversión",
+    "instrumentos de deuda",
+    "retención de ISR",
+    "acciones",
+    "inversionistas extranjeros",
+    "exenciones",
+    "acreditamiento",
+    "reembolsos"
   ],
   "terminos_coloquiales": [
-    "ISR para fondos de inversión",
-    "Fondos de inversión en deuda",
-    "Acciones de fondos de inversión",
-    "Retención de ISR",
-    "ISR exento extranjeros",
-    "RMF 3.16.5"
+    "fondos de inversión",
+    "ISR",
+    "impuesto sobre la renta",
+    "inversores extranjeros",
+    "deuda",
+    "acciones de fondos"
   ],
-  "resumen": "Esta regla establece las condiciones bajo las cuales los fondos de inversión en instrumentos de deuda pueden no enterar el impuesto sobre la renta por ingresos obtenidos por accionistas extranjeros. También se detalla cómo se debe calcular la retención y el acreditamiento del impuesto sobre la renta para los inversionistas extranjeros.",
+  "resumen": "Los fondos de inversión en instrumentos de deuda con accionistas extranjeros pueden no enterar el ISR por ciertos títulos exentos. Sin embargo, deben retener el impuesto solo sobre los intereses gravados. Si hay una diferencia a favor del contribuyente, el fondo debe reembolsarla.",
   "preguntas_ejemplo": [
-    "¿Cuándo deben los fondos de inversión en deuda enterar el ISR?",
-    "¿Qué exenciones fiscales aplican para los inversionistas extranjeros en fondos de inversión?",
-    "¿Cómo se calcula la retención de ISR para acciones de fondos de inversión?",
-    "¿Qué sucede si un fondo de inversión tiene títulos exentos?",
-    "¿Cómo se acredita la retención de ISR para inversionistas extranjeros?",
-    "¿Qué obligaciones fiscales tienen los fondos de inversión en deuda con accionistas extranjeros?"
+    "¿Cuándo deben los fondos de inversión en deuda retener el ISR?",
+    "¿Qué sucede con los títulos exentos para los inversionistas extranjeros?",
+    "¿Cómo se acredita la retención de ISR que realizaron los fondos?",
+    "¿Qué deben hacer los fondos de inversión si tienen accionistas residentes en el extranjero?",
+    "¿Cuándo se reembolsa la diferencia de ISR al inversionista?"
   ]
 }

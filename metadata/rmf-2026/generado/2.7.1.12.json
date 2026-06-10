@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eeeb517f4532ef64",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de erogaciones a través de terceros",
   "temas": [
-    "Comprobantes Fiscales Digitales",
-    "Reintegro de erogaciones",
-    "IVA",
-    "Erogaciones en el extranjero",
     "CFDI",
-    "Obligaciones del tercero"
+    "IVA",
+    "reintegro",
+    "terceros",
+    "cuenta de erogaciones",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "Pago a terceros",
-    "Reintegro de pagos",
-    "CFDI de ingresos",
-    "Complemento de identificación de recursos",
-    "CFF",
-    "LISR"
+    "factura",
+    "comprobante fiscal",
+    "pago a terceros",
+    "gastos por cuenta de terceros",
+    "CFDI de ingreso"
   ],
-  "resumen": "Esta regla establece cómo los contribuyentes pueden realizar pagos a través de terceros y los requisitos para documentar estas erogaciones con CFDIs. Incluye disposiciones sobre el reintegro de fondos y la obligación de los terceros de emitir comprobantes fiscales.",
+  "resumen": "Esta regla establece las condiciones bajo las cuales los contribuyentes pueden hacer erogaciones a través de terceros. Incluye requisitos para la emisión de CFDI y el acreditamiento del IVA, así como la forma de reintegrar cantidades no utilizadas.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen los pagos a terceros?",
-    "¿Qué requisitos tiene el CFDI para erogaciones?",
-    "¿Cómo se reintegra el dinero a un contribuyente?",
-    "¿Qué hacer si el dinero proporcionado no se utiliza?",
-    "¿Cuándo se debe emitir un CFDI de ingreso por erogaciones?"
+    "¿Cómo puedo pagar gastos a través de un tercero?",
+    "¿Qué requisitos debo cumplir para hacer erogaciones a terceros?",
+    "¿Qué es el CFDI de ingreso por pagos a terceros?",
+    "¿Cómo se reintegran las cantidades no utilizadas a un contribuyente?",
+    "¿Puedo acreditar IVA si realizo erogaciones a través de terceros?"
   ]
 }

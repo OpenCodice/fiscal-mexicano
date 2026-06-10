@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7130b679231be8aa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Laboratorios acreditados",
+  "denominacion_comun": "Obligaciones de Laboratorios frente a la CONAGUA",
   "temas": [
-    "análisis de laboratorio",
+    "laboratorios",
     "informes trimestrales",
+    "análisis",
     "CONAGUA",
-    "Secretaría de Economía",
     "SIRALAB"
   ],
   "terminos_coloquiales": [
-    "laboratorios autorizados",
-    "análisis trimestrales",
-    "informe CONAGUA",
-    "SIRALAB"
+    "informar a la CONAGUA",
+    "resultados de análisis",
+    "laboratorios acreditados"
   ],
-  "resumen": "Los laboratorios acreditados deberán informar a la CONAGUA sobre los resultados de los análisis realizados durante el trimestre. Esta información se enviará a través del sistema SIRALAB a más tardar el séptimo día hábil después de concluir el trimestre.",
+  "resumen": "Los laboratorios acreditados deben informar a la CONAGUA los resultados de los análisis realizados durante cada trimestre. Este informe debe presentarse veraz y exactamente a través del SIRALAB en la página de la CONAGUA.",
   "preguntas_ejemplo": [
-    "¿Qué información deben enviar los laboratorios acreditados a la CONAGUA?",
-    "¿Cuál es el plazo para entregar los resultados de los análisis de laboratorio?",
-    "¿Qué es el SIRALAB y cómo se utiliza?",
-    "¿Quién autoriza a los laboratorios para realizar análisis?",
-    "¿Cómo se verifica la acreditación de los laboratorios?"
+    "¿Qué deben hacer los laboratorios acreditados ante la CONAGUA?",
+    "¿Cómo se presentan los resultados de los análisis a la CONAGUA?",
+    "¿Cuándo deben enviar los informes los laboratorios?",
+    "¿Qué es el SIRALAB?",
+    "¿Quién aprueba a los laboratorios acreditados?",
+    "¿Qué información se requiere para el informe trimestral?"
   ]
 }

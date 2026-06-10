@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5886013749b10b91",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transporte marítimo en modalidad ferri",
   "temas": [
     "CFDI",
     "complemento Carta Porte",
-    "transporte marítimo",
-    "bienes y mercancías",
-    "emisión de comprobantes"
+    "transporte de mercancías",
+    "trayecto de ida y vuelta",
+    "bienes adicionales"
   ],
   "terminos_coloquiales": [
-    "CFDI ferri",
-    "Carta Porte",
-    "transporte por ferri"
+    "factura",
+    "transporte marítimo",
+    "ferri",
+    "CFDI con Carta Porte"
   ],
-  "resumen": "Los contribuyentes que usen el ferri para transportar bienes pueden emitir un solo CFDI con complemento Carta Porte para todo el trayecto de ida y vuelta. Si en el regreso transportan mercancías adicionales, deben emitir más CFDI.",
+  "resumen": "Los contribuyentes que ofrecen transporte marítimo en ferris pueden emitir un solo CFDI con complemento Carta Porte para todo el trayecto de ida y vuelta, siempre que el ferri regrese vacío o con los mismos bienes. Si transportan mercancías adicionales en el regreso, necesitarán emitir CFDIs de ingreso para esos bienes.",
   "preguntas_ejemplo": [
-    "¿Cómo se emite un CFDI para transporte en ferri?",
-    "¿Qué es el complemento Carta Porte para ferris?",
-    "¿Debo emitir un CFDI si el ferri transporta más bienes en el regreso?",
-    "¿Puedo utilizar un solo CFDI para todo el viaje en ferri?",
-    "¿Qué pasa si el ferri regresa con mercancías adicionales?"
+    "¿Cómo se emite un CFDI para el transporte en ferri?",
+    "¿Qué pasa si transporto mercancías adicionales en el regreso?",
+    "¿Puedo usar un solo CFDI para el trayecto de ida y vuelta?",
+    "¿Qué es el complemento Carta Porte?",
+    "¿Cuáles son las reglas para el transporte marítimo en ferri?"
   ]
 }

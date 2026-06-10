@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:148140c3978e7b86",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Certificación y generación de CFDI para el sector primario",
   "temas": [
-    "PCGCFDISP",
     "liquidación",
     "concurso mercantil",
     "extinción de persona moral",
-    "avisos al SAT",
-    "CFDI pendientes"
+    "avisos de proveedores",
+    "CFDI",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "proveedor de CFDI",
-    "facturación primaria",
-    "liquidación de proveedor",
-    "PCGCFDISP"
+    "factura",
+    "CFDI",
+    "liquidación de proveedores",
+    "avisos del SAT"
   ],
-  "resumen": "La regla establece que un proveedor de certificación y generación de CFDI debe notificar sobre su liquidación o extinción y cumplir con ciertos plazos para informar al SAT sobre los CFDI generados. Esto asegura que los prestatarios puedan buscar otros proveedores para su facturación.",
+  "resumen": "Esta norma establece que los proveedores de certificación y generación de CFDI para el sector primario deben notificar su liquidación o extinción al SAT y a sus clientes. Además, deben entregar los CFDI generados en caso de liquidación dentro de un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si mi proveedor de CFDI está en liquidación?",
-    "¿Cómo notificar al SAT la extinción de un proveedor de CFDI?",
-    "¿Cuáles son los plazos para enviar CFDI pendientes al SAT?",
-    "¿Qué es el PCGCFDISP en el sector primario?",
-    "¿Qué aviso debo presentar si mi proveedor de CFDI se extingue?"
+    "¿Qué pasa si un proveedor de CFDI está en liquidación?",
+    "¿Cómo debo notificar la extinción de un proveedor de certificación?",
+    "¿Qué plazos tengo para entregar los CFDI al SAT en caso de liquidación?",
+    "¿Cuándo debo avisar a mis prestatarios si mi proveedor de CFDI se extingue?",
+    "¿Cuáles son mis opciones de facturación si mi proveedor ya no opera?"
   ]
 }

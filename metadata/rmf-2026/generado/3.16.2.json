@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4e61b5b73720055",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses exentos de ISR para SOCAP",
+  "denominacion_comun": "Intereses exentos del ISR para SOCAP",
   "temas": [
     "ISR",
+    "sociedades cooperativas",
     "intereses",
-    "SOCAP",
-    "retenciones",
-    "sistema financiero",
-    "ley de sociedades cooperativas"
+    "retención de impuestos",
+    "sistema financiero"
   ],
   "terminos_coloquiales": [
     "intereses exentos",
+    "pagos de intereses",
     "SOCAP",
-    "intereses sin retención",
-    "ley de ISR"
+    "sociedades cooperativas de ahorro",
+    "impuesto sobre la renta"
   ],
-  "resumen": "Las instituciones financieras no tienen que retener ISR sobre los intereses pagados a las SOCAP que cumplen con ciertos requisitos. Esta exención no aplica para intereses asociados a pasivos que no sean de estas sociedades.",
+  "resumen": "Esta disposición establece que las instituciones financieras no deben retener el ISR sobre los intereses pagados a las SOCAP que cumplen con ciertos requisitos. Sin embargo, esta exención no aplica si los intereses provienen de pasivos que no son de estas sociedades.",
   "preguntas_ejemplo": [
-    "¿Qué intereses están exentos de ISR para SOCAP?",
-    "¿Las SOCAP deben pagar ISR sobre los intereses que reciben?",
-    "¿Cuándo no se aplica la retención de ISR en intereses a las SOCAP?",
-    "¿Qué instituciones están involucradas en la retención del ISR por intereses?",
-    "¿Qué requisitos deben cumplir las SOCAP para no pagar ISR sobre intereses?"
+    "¿Qué son las SOCAP y cómo afectan mis impuestos?",
+    "¿Están exentos los intereses que recibe una SOCAP del ISR?",
+    "¿Qué condiciones debe cumplir una SOCAP para no pagar retención de ISR?",
+    "¿Los intereses que recibo son sujetos a retención de impuestos?",
+    "¿Cómo funciona la retención del ISR en pagos de intereses?"
   ]
 }

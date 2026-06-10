@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:06faf4809279631a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estímulo fiscal en comercio exterior",
   "temas": [
-    "Estimulo fiscal",
-    "Comercio exterior",
-    "Solicitud de FCF",
-    "Procedimiento administrativo",
-    "Cuotas compensatorias",
-    "Adeudos SAT"
+    "adeudos",
+    "SAT",
+    "estimulo fiscal",
+    "comercio exterior",
+    "línea de captura",
+    "pedimento",
+    "cuotas compensatorias",
+    "auditoría aduanera"
   ],
   "terminos_coloquiales": [
-    "estimulo fiscal",
-    "FCF",
-    "cuota compensatoria",
-    "comercio exterior",
-    "regla 9.2.13"
+    "deuda con el SAT",
+    "ayuda fiscal",
+    "pago de impuestos",
+    "línea de captura",
+    "solicitud de estímulo",
+    "CFDIs",
+    "cuotas aduaneras"
   ],
-  "resumen": "El estímulo fiscal permite a los contribuyentes en comercio exterior aplicar un procedimiento para regularizar adeudos ante el SAT. Esto incluye la presentación de documentos específicos y el cumplimiento de requisitos establecidos en la Ley de Ingresos de la Federación.",
+  "resumen": "La regla detalla el procedimiento que deben seguir los contribuyentes para solicitar un estímulo fiscal por adeudos en comercio exterior. Incluye la presentación de documentación y la autorización de la autoridad fiscal para aplicar el estímulo.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aplicar el estímulo fiscal en comercio exterior?",
-    "¿Qué debo hacer para regularizar mis adeudos con el SAT?",
-    "¿Cuáles son los requisitos para solicitar el FCF?",
-    "¿Qué información necesito para el procedimiento de estímulo fiscal?",
-    "¿Qué pasa si no atiendo el requerimiento del SAT?",
-    "¿Cuál es el plazo para presentar la solicitud de estímulo fiscal?"
+    "¿Cómo puedo solicitar el estímulo fiscal para mis adeudos?",
+    "¿Qué documentos necesito presentar para obtener la línea de captura?",
+    "¿Cuánto tiempo tarda el SAT en responder mi solicitud de estímulo?",
+    "¿Qué hacer si tengo problemas con el pedimento en aduana?",
+    "¿Puedo solicitar el estímulo fiscal durante una revisión del SAT?"
   ]
 }

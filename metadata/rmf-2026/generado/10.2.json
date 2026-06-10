@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a6e341e9c7afd55c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdida fiscal en actividades de aguas profundas",
+  "denominacion_comun": "Pérdida fiscal en aguas profundas",
   "temas": [
-    "Pérdida fiscal",
-    "Actividades en aguas profundas",
-    "Ingresos acumulables",
-    "Deducciones autorizadas",
-    "Regiones marinas"
+    "actividades en aguas profundas",
+    "utilidad y pérdida fiscal",
+    "ingresos acumulables",
+    "deducciones autorizadas"
   ],
   "terminos_coloquiales": [
-    "Pérdida fiscal en aguas profundas",
-    "Actividades marinas",
-    "Regla 10.2",
+    "pérdida fiscal en el mar profundo",
+    "deducciones en actividades marítimas",
+    "ingresos en aguas profundas",
+    "región marina",
     "LISH"
   ],
-  "resumen": "Esta regla establece cómo los contribuyentes deben calcular la utilidad o pérdida fiscal derivada de actividades realizadas en aguas profundas y en regiones distintas. Los ingresos y deducciones se deben determinar por separado para cada tipo de actividad.",
+  "resumen": "Esta disposición establece cómo los contribuyentes deben determinar la pérdida o utilidad fiscal de sus actividades en áreas marinas con tirante de agua superior a quinientos metros, separando estos cálculos de los realizados en otras regiones. Aclara el tratamiento de ingresos y deducciones en función de la localización de las actividades.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la pérdida fiscal en actividades en aguas profundas?",
-    "¿Qué ingresos y deducciones se consideran para las actividades marinas?",
-    "¿Cuáles son las obligaciones contables para actividades en aguas profundas?",
-    "¿Cómo se registran los ingresos acumulables en aguas profundas?",
-    "¿Qué hacer si no tengo ingresos acumulables en aguas profundas?"
+    "¿Cómo se determina la pérdida fiscal en aguas profundas?",
+    "¿Qué hago si tengo ingresos de actividades en mar y en tierra?",
+    "¿Mis deducciones en aguas profundas cuentan igual que en tierra?",
+    "¿Qué significa tener ingresos acumulables en regiones distintas?",
+    "¿Cómo registro mis ingresos de actividades marítimas?"
   ]
 }

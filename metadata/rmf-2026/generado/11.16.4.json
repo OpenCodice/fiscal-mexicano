@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3bfcfa685102d91d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobación de bienes de activo fijo nuevos",
+  "denominacion_comun": "Documentación para bienes de activo fijo nuevos",
   "temas": [
-    "documentación comprobatoria",
-    "bienes de activo fijo",
     "CFDI",
-    "estado de cuenta",
-    "póliza contable",
-    "contratos de adquisición",
-    "importación de bienes",
-    "deducción de inversiones"
+    "bienes de activo fijo",
+    "comprobación de adquisiciones",
+    "deducción de inversiones",
+    "documentación contable"
   ],
   "terminos_coloquiales": [
-    "comprobantes de adquisición",
-    "bienes nuevos",
-    "CFDI para activos",
-    "documentación para adquisiciones"
+    "factura",
+    "comprar equipo nuevo",
+    "compras de activos",
+    "comprobantes fiscales",
+    "CFDI de compra",
+    "documentación para deducción"
   ],
-  "resumen": "Los contribuyentes deben presentar ciertos documentos para comprobar que los bienes de activo fijo adquiridos son nuevos. Esto incluye CFDI, estados de cuenta y pólizas contables, entre otros, y se exige que los bienes no tengan más de dos años de vida útil si son usados por primera vez en México.",
+  "resumen": "Esta regla establece la documentación necesaria para comprobar que los bienes de activo fijo adquiridos son nuevos, incluyendo CFDI, estados de cuenta bancarios y pólizas contables. Además, se requiere que los bienes sean utilizados en la actividad económica del contribuyente y que no tengan más de dos años de antigüedad.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para comprobar que mis bienes son nuevos?",
-    "¿Cómo justifico la compra de un activo fijo?",
-    "¿Qué pasa si un bien tiene más de dos años de antigüedad?",
-    "¿Cuáles son los requisitos para la deducción de inversiones en activos?",
-    "¿Qué es un CFDI y cómo afecta mis comprobaciones?"
+    "¿Qué documentos necesito para comprobar la compra de un equipo nuevo?",
+    "¿Cómo puedo deducir inversiones en bienes de activo fijo?",
+    "¿Qué es un CFDI y cómo se usa para activos fijos?",
+    "¿Qué requisitos debo cumplir para que mis adquisiciones sean deducibles?",
+    "¿Qué tipo de documentos contables son necesarios para activos nuevos?",
+    "¿Cómo sé si un bien es considerado nuevo para deducción fiscal?"
   ]
 }

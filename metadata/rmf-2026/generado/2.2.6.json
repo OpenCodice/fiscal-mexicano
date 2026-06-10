@@ -6,28 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8473d85f17d71dda",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Buzón Tributario",
+  "denominacion_comun": "Información del Buzón Tributario",
   "temas": [
+    "buzón tributario",
     "promociones",
     "solicitudes",
     "avisos",
     "información tributaria"
   ],
   "terminos_coloquiales": [
-    "buzón del SAT",
     "buzón tributario",
-    "CFF 17-K",
-    "CFF 18",
-    "CFF 18-A"
+    "información fiscal",
+    "solicitudes al SAT"
   ],
-  "resumen": "El SAT publicará en su portal la lista de las promociones, solicitudes, avisos y otra información que los contribuyentes deben presentar a través del buzón tributario.",
+  "resumen": "El SAT publicará en su portal la información sobre las promociones, solicitudes y avisos que los contribuyentes deben presentar a través del Buzón Tributario. Esto se realiza conforme a varios artículos del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué información debo enviar por el buzón tributario?",
-    "¿Dónde puedo encontrar las solicitudes que debo presentar al SAT?",
-    "¿El buzón tributario incluye las promociones y avisos?",
-    "¿Qué artículos del CFF están relacionados con el buzón tributario?",
-    "¿Cómo funciona el buzón del SAT?"
+    "¿Qué información debo presentar en el Buzón Tributario?",
+    "¿Dónde puedo ver las promociones y solicitudes en el SAT?",
+    "¿Cómo utilizo el Buzón Tributario para mis trámites fiscales?"
   ]
 }

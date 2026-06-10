@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e1c6a59b4943aba8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Factor de acumulación por depósitos en el extranjero",
+  "denominacion_comun": "Factor de acumulación por inversiones en el extranjero",
   "temas": [
-    "Impuesto sobre la Renta",
+    "Impuesto sobre la renta",
     "Intereses",
-    "Depósitos en el extranjero",
     "Inversiones",
+    "Depósitos",
     "Retención de ISR"
   ],
   "terminos_coloquiales": [
     "factor de acumulación",
-    "depósitos en el extranjero",
-    "inversiones extranjeras",
-    "ISR"
+    "inversiones en el extranjero",
+    "retención de ISR",
+    "intereses generados"
   ],
-  "resumen": "El factor de acumulación para depósitos o inversiones en el extranjero se establece para calcular el monto del impuesto sobre la renta correspondiente. Este factor se aplica al inicio del ejercicio fiscal.",
+  "resumen": "Esta disposición establece el factor de acumulación que se aplicará al monto de los depósitos o inversiones al inicio del ejercicio fiscal relacionado con el impuesto sobre la renta. Este factor será utilizado para calcular las retenciones correspondientes de ISR por instituciones de crédito o casas de bolsa.",
   "preguntas_ejemplo": [
-    "¿Cuál es el factor de acumulación para inversiones en el extranjero?",
-    "¿Cómo se calcula el ISR por depósitos en el extranjero?",
-    "¿Qué debo saber sobre el tratamiento fiscal de mis inversiones fuera del país?",
-    "¿Qué implica el factor de acumulación en el impuesto sobre la renta?",
-    "¿Cómo afecta el interés de mis depósitos en el extranjero a mis impuestos?"
+    "¿Cuánto es el factor de acumulación para el ISR en inversiones en el extranjero?",
+    "¿Cómo se calcula el ISR sobre mis depósitos en el extranjero?",
+    "¿Qué se entiende por factor de acumulación en la ley del ISR?",
+    "¿Qué porcentaje se aplica para la retención de ISR en intereses?",
+    "¿Cómo afecta el factor de acumulación a mis inversiones en el extranjero?"
   ]
 }

@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:54e5abf3d8b31379",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de multas por presentación de declaraciones",
+  "denominacion_comun": "Reducción de Multas por Declaraciones",
   "temas": [
     "multas fiscales",
+    "procedimientos administrativos",
     "declaraciones",
-    "cumplimiento de obligaciones",
-    "procedimiento administrativo",
-    "líneas de captura",
-    "buzón tributario",
-    "porcentajes de reducción"
+    "reducción de multas"
   ],
   "terminos_coloquiales": [
     "reducción de multas",
-    "CFF 74",
     "multas por declaraciones",
     "FCF",
-    "RMF"
+    "líneas de captura",
+    "cumplimiento de obligaciones"
   ],
-  "resumen": "Esta disposición establece cómo se aplican las reducciones de multas por el cumplimiento en la presentación de declaraciones. Si se cumplen ciertas condiciones, las multas pueden reducirse al 100%, y se contemplan diferentes porcentajes de reducción según la antigüedad de la multa.",
+  "resumen": "Esta regla establece beneficios para los contribuyentes en caso de multas por la presentación de declaraciones, permitiendo su reducción si se cumple con la obligación antes de un procedimiento administrativo de ejecución. La reducción se aplica según la antigüedad de la multa y se realiza a través de un procedimiento en el portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir mis multas por no presentar declaraciones?",
-    "¿Qué beneficios tengo si pago mis multas a tiempo?",
-    "¿Qué porcentaje de reducción aplican las multas según el tiempo?",
-    "¿Qué es el FCF y cómo lo obtengo?",
-    "¿Necesito hacer una solicitud para que me reduzcan las multas?",
-    "¿Qué pasa si tengo un medio de defensa contra una multa?"
+    "¿Cómo puedo reducir mis multas por declaraciones?",
+    "¿Qué es un FCF y cómo lo obtengo?",
+    "Si tengo multas por declaraciones, ¿qué requisitos debo cumplir para reducirlas?",
+    "¿Puedo solicitar la reducción de multas en el portal del SAT?",
+    "¿Cuánto se puede reducir una multa y en qué plazos?",
+    "¿Es necesario presentar una solicitud para la reducción de multas?"
   ]
 }

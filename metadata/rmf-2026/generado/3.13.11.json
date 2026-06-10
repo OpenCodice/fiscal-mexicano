@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4f935fcb03337fd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen Simplificado de Confianza para Silvícolas o Pesqueras",
+  "denominacion_comun": "Régimen Simplificado de Confianza para silvícolas o pesqueras",
   "temas": [
-    "impuesto sobre la renta",
-    "ingresos",
+    "Impuesto sobre la renta",
+    "Reglamento facultativo",
     "CFDI",
-    "límite de ingresos"
+    "Límite de ingresos",
+    "Personas físicas"
   ],
   "terminos_coloquiales": [
+    "ISR",
+    "Régimen Simplificado de Confianza",
     "RESICO",
-    "Régimen de Confianza",
-    "silvícolas",
-    "pesqueras"
+    "ingresos",
+    "CFDI",
+    "factura"
   ],
-  "resumen": "Las personas físicas que superen $900,000.00 de ingresos deben pagar el ISR sobre la parte que supere este límite, basado en los ingresos amparados por CFDI cobrados en el mes correspondiente.",
+  "resumen": "Esta disposición establece que las personas físicas que superen un límite de ingresos deben pagar el ISR por lo que sobrepase dicho límite, solo considerando los ingresos amparados por CFDI cobrados en el mes correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si mis ingresos sobrepasan $900,000 en el Régimen Simplificado de Confianza?",
-    "¿Cómo se calcula el ISR si estoy en el régimen silvícola o pesquero?",
-    "¿Qué ingresos se consideran para el ISR en el RESICO?",
-    "¿Cuándo debo pagar el ISR si mis ingresos exceden el límite establecido?"
+    "¿Cuándo debo pagar el ISR si mis ingresos son mayores a 900,000 pesos?",
+    "¿Qué pasa si recibo un ingreso que excede el límite permitido?",
+    "¿Debo considerar todos mis ingresos para el pago del ISR?",
+    "¿Qué tipo de comprobantes debo tener para calcular mi ISR?",
+    "¿A partir de qué momento tengo que empezar a pagar el ISR?"
   ]
 }

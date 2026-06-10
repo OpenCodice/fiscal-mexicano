@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d5211a4671346ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de contribuyentes en juegos y sorteos",
+  "denominacion_comun": "Obligaciones de contribuyentes de juegos y sorteos",
   "temas": [
     "sorteos",
+    "juegos",
     "concursos",
-    "juegos con apuestas",
+    "apuestas",
     "sistemas de cómputo",
-    "características técnicas",
-    "seguridad de información",
-    "envío de información"
+    "información",
+    "requerimientos técnicos"
   ],
   "terminos_coloquiales": [
-    "obligaciones de sorteos",
-    "requisitos de juegos",
-    "anexo 17",
+    "sorteos",
+    "concursos",
+    "juegos de azar",
+    "apuestas",
+    "programas de concursos",
     "IEPS"
   ],
-  "resumen": "Los contribuyentes que realicen sorteos o juegos con apuestas deben cumplir con ciertas características técnicas y de seguridad para su sistema de cómputo, así como enviar la información requerida. Esto incluye requisitos específicos si los sorteos son comerciales o transmitidos por medios masivos.",
+  "resumen": "Esta regla establece que los contribuyentes que realicen sorteos y juegos de azar deben cumplir con especificaciones técnicas y de seguridad en sus sistemas de cómputo. También permite el envío de información requerida alternativa bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones para realizar sorteos?",
-    "¿Qué requisitos tienen los sistemas de cómputo para juegos de azar?",
-    "¿Cómo se debe enviar la información de los concursos?",
-    "¿Qué características debe tener el sistema de cómputo para apuestas?",
-    "¿Qué es el anexo 17 en el contexto de los juegos y sorteos?"
+    "¿Qué requisitos debo cumplir si quiero hacer un sorteo?",
+    "¿Cómo debo llevar el sistema de cómputo para juegos de apuestas?",
+    "¿Qué tipo de información se tiene que enviar para concursos?",
+    "¿Existen reglas específicas para sorteos promocionales?",
+    "¿Qué menciona la ley sobre las características técnicas de los sistemas de juegos?"
   ]
 }

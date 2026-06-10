@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbdb6b9f024372a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de intermediación",
   "temas": [
     "CFDI",
     "IVA",
-    "intermediación",
-    "residentes en el extranjero",
-    "retención de impuestos"
+    "Servicios digitales",
+    "Intermediación",
+    "Contribuyentes",
+    "RFC",
+    "Plataformas digitales",
+    "Retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "CFDI a terceros",
-    "retenedor de IVA",
-    "servicios digitales",
-    "plataformas digitales",
-    "intermediación digital"
+    "recibo electrónico",
+    "facturación electrónica",
+    "impuesto al valor agregado",
+    "servicios en línea",
+    "plataformas de intermediación",
+    "retener IVA"
   ],
-  "resumen": "Los contribuyentes en México que ofrezcan servicios digitales pueden emitir un CFDI a nombre de oferentes en el extranjero, aplicando retenciones de IVA. El CFDI debe incluir información específica sobre el tercero y el monto del impuesto trasladado.",
+  "resumen": "La regla establece que los contribuyentes en México que ofrezcan servicios digitales pueden emitir un CFDI en nombre de proveedores extranjeros. Estos CFDI deben incluir cierta información específica, incluyendo el RFC genérico y los montos de impuestos. Además, el intermediario debe expedir CFDI a los terceros proveedores de bienes y servicios.",
   "preguntas_ejemplo": [
-    "¿Cómo emito un CFDI para un servicio digital a nombre de un extranjero?",
-    "¿Qué información debe contener el CFDI a cuenta de terceros?",
-    "¿Qué es la retención de IVA en servicios digitales?",
-    "¿Qué requisitos tengo que cumplir para la intermediación de servicios digitales?",
-    "¿Cuál es el RFC que se usa para CFDI a terceros?"
+    "¿Cómo puedo emitir un CFDI para servicios digitales que ofrezco a extranjeros?",
+    "¿Qué información debo incluir en el CFDI si soy intermediario?",
+    "¿Cuál es el RFC que debo usar para los CFDI de terceros?",
+    "¿Cómo se retiene el IVA en las ventas a través de plataformas digitales?",
+    "¿Qué requisitos tienen que cumplir los CFDI para servicios digitales?"
   ]
 }

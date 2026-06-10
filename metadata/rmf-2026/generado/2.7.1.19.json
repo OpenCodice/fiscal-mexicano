@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eabf89443639df92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Complemento de CFDI en exportación definitiva",
   "temas": [
     "CFDI",
     "exportación definitiva",
-    "clave de pedimento",
-    "identificador fiscal",
-    "mercancías",
-    "Reglas Generales de Comercio Exterior"
+    "complemento",
+    "identificador fiscal"
   ],
   "terminos_coloquiales": [
-    "complemento CFDI exportación",
-    "CFDI para exportar",
-    "clave de pedimento A1",
-    "exportación definitiva",
-    "RGCE",
-    "CFF"
+    "factura de exportación",
+    "CFDI de exportación",
+    "complemento de CFDI",
+    "exportar mercancías"
   ],
-  "resumen": "Este complemento es necesario para los CFDI emitidos en operaciones de exportación definitiva de mercancías. Incluye el identificador fiscal del país del receptor y, si aplica, del destinatario de la mercancía.",
+  "resumen": "Esta regla establece que al emitir un CFDI para una exportación definitiva de mercancías, se debe incluir un complemento específico que debe publicarse en el Portal del SAT. Este complemento debe incluir el identificador fiscal del país del receptor y, si aplica, del destinatario de la mercancía.",
   "preguntas_ejemplo": [
-    "¿Qué es el complemento de CFDI para exportación?",
-    "¿Cómo se emite un CFDI para exportación definitiva?",
-    "¿Qué información debo incluir en el complemento de exportación?",
-    "¿Qué clave de pedimento se usa en la exportación definitiva?",
-    "¿A dónde debo consultar el complemento para exportación en el SAT?"
+    "¿Qué complemento debo agregar a un CFDI de exportación?",
+    "¿Cómo se incluye el identificador fiscal en un CFDI de exportación?",
+    "¿Dónde encuentro el complemento para la exportación definitiva?",
+    "¿Qué clave de pedimento necesito para exportar mercancías?",
+    "¿Qué información debe tener el CFDI en operaciones de exportación?"
   ]
 }

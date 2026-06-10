@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5dc6196fd7b42da8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aprovechamientos en materia de agua",
   "temas": [
     "contribuciones",
-    "aprovechamientos",
-    "Declar@gua",
     "pago electrónico",
+    "Sistema de Declaraciones",
+    "Declar@gua",
     "RFC",
-    "FCF",
-    "recibo bancario",
-    "declaraciones complementarias"
+    "comprobante de pago",
+    "recibo bancario"
   ],
   "terminos_coloquiales": [
-    "declaración de agua",
     "pago de agua",
-    "Declar@gua",
-    "aporte hídrico",
-    "contribución por agua"
+    "declaración de agua",
+    "pagar agua",
+    "CONAGUA",
+    "declaración complementaria"
   ],
-  "resumen": "Los contribuyentes deben utilizar el sistema Declar@gua para hacer sus declaraciones y pagos por aprovechamientos en aguas nacionales. Deben estar inscritos en el RFC y seguir un proceso específico para enviar su declaración y realizar el pago correspondiente.",
+  "resumen": "Los contribuyentes que deben pagar contribuciones por el uso de aguas nacionales deben utilizar el sistema Declar@gua para realizar sus declaraciones y pagos. También deben estar inscritos en el RFC y seguir procesos específicos para la declaración y pago, incluyendo la obtención de un recibo bancario como comprobante.",
   "preguntas_ejemplo": [
-    "¿Cómo hago el pago de aprovechamientos por agua?",
+    "¿Cómo hago mi declaración de aprovechamientos por uso de agua?",
     "¿Qué es el sistema Declar@gua?",
-    "¿Qué debo incluir en mi declaración de agua?",
-    "¿Dónde encuentro el recibo del pago de contribuciones federales?",
-    "¿Es necesario presentar declaración si no tengo pago a cargo?",
-    "¿Qué información necesito para usar Declar@gua?"
+    "¿Necesito estar inscrito en el RFC para pagar por el uso de agua?",
+    "¿Qué información necesito para completar mi declaración de agua?",
+    "¿Cómo obtengo mi recibo de pago de agua?",
+    "¿Cuáles son las opciones de pago para las contribuciones de agua?"
   ]
 }

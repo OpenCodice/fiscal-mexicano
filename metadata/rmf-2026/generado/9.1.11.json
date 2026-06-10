@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8a0b1a7485b76a68",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal diésel o biodiésel",
+  "denominacion_comun": "Estimulo fiscal diésel o biodiésel",
   "temas": [
     "maquinaria",
     "vehículos de baja velocidad",
     "vehículos de bajo perfil",
-    "estímulos fiscales",
     "diésel",
-    "biodiésel"
+    "biodiésel",
+    "mezcclas",
+    "requisitos fiscales"
   ],
   "terminos_coloquiales": [
-    "estímulo fiscal diésel",
-    "estímulo fiscal biodiésel",
-    "LIF 20"
+    "estimulo fiscal diésel",
+    "diésel",
+    "biodiésel",
+    "maquinaria pesada",
+    "vehículos de construcción"
   ],
-  "resumen": "Esta regla establece los requisitos para aplicar un estímulo fiscal al uso de diésel o biodiésel y sus mezclas en maquinaria general y ciertos medios de transporte específicos que no pueden circular en carreteras federales.",
+  "resumen": "Esta regla establece los requisitos para considerar ciertos vehículos como maquinaria en general para aplicar un estímulo fiscal por el uso de diésel o biodiésel. Define las características que deben cumplir los vehículos de baja velocidad y de bajo perfil para ser elegibles.",
   "preguntas_ejemplo": [
-    "¿Qué es el estímulo fiscal para diésel o biodiésel?",
-    "¿Cómo puedo aplicar el estímulo fiscal para maquinaria?",
-    "¿Qué tipo de vehículos son considerados de baja velocidad?",
-    "¿Cuáles son los requisitos para beneficiarse del estímulo fiscal?",
-    "¿Qué significa LIF 20 en relación a los estímulos fiscales?"
+    "¿Qué vehículos pueden beneficiarse del estímulo fiscal por diésel?",
+    "¿Cuáles son las características de los vehículos de baja velocidad?",
+    "¿Qué se considera como maquinaria en general para efectos fiscales?",
+    "¿Cómo se aplica el estímulo fiscal para biodiésel?",
+    "¿Qué requisitos debo cumplir para usar ese estímulo fiscal?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:888ce6117ad81250",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de Autorización de Proveedores de CFDI",
+  "denominacion_comun": "Revocación de autorización de PCGCFDISP",
   "temas": [
-    "Revocación de autorización",
-    "Proveedores de certificación",
-    "CFDI",
-    "Obligaciones fiscales",
-    "Procedimiento de revocación",
-    "Transición tras revocación",
-    "Amonestaciones"
+    "Proceso de revocación",
+    "Cumplimiento de obligaciones",
+    "Verificación del SAT",
+    "Período de transición",
+    "Notificación de revocación",
+    "Publicación de aviso urgente"
   ],
   "terminos_coloquiales": [
-    "Revocación de proveedores de CFDI",
+    "revocación de proveedor de CFDI",
     "PCGCFDISP",
-    "Certificación de CFDI"
+    "certificación de CFDI",
+    "generación de CFDI",
+    "notificación de revocación"
   ],
-  "resumen": "La regla establece las causas por las cuales el SAT puede revocar la autorización a un proveedor de certificación y generación de CFDI, así como el procedimiento que se seguirá en caso de revocación. Además, se detalla el periodo de transición que debe observar el proveedor tras la revocación.",
+  "resumen": "La disposición establece los motivos por los cuales el SAT puede revocar la autorización de los proveedores de certificación y generación de CFDI para el sector primario, así como el procedimiento que se debe seguir para esta revocación. Incluye un período de transición en el que el proveedor debe cumplir con ciertas obligaciones tras la revocación.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las razones por las que el SAT puede revocar la autorización de un proveedor de CFDI?",
-    "¿Qué sucede si un proveedor es revocado como PCGCFDISP?",
-    "¿Cuál es el procedimiento que sigue el SAT al revocar la autorización de un proveedor de CFDI?",
-    "¿Qué debo hacer si mi proveedor de CFDI pierde su autorización?",
-    "¿Cuánto tiempo dura el periodo de transición tras la revocación de un proveedor de CFDI?"
+    "¿Cuáles son las causas para que el SAT revoque mi autorización como proveedor de CFDI?",
+    "¿Qué debo hacer si mi autorización de PCGCFDISP ha sido revocada?",
+    "¿Cuánto tiempo tengo para realizar la transición después de la revocación?",
+    "¿Qué obligaciones tengo que cumplir tras la revocación de mi autorización?",
+    "¿Cómo se notifica la revocación de la autorización de un proveedor de CFDI?"
   ]
 }

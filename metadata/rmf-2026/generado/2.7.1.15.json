@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef08b9be04f89050",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compra y venta de divisas",
+  "denominacion_comun": "CFDI para compra y venta de divisas",
   "temas": [
     "CFDI",
+    "compra de divisas",
+    "venta de divisas",
+    "complemento SAT",
     "centros cambiarios",
-    "instituciones financieras",
-    "SOCAP",
-    "operaciones de divisas"
+    "sistema financiero",
+    "SOCAP"
   ],
   "terminos_coloquiales": [
-    "venta de divisas",
-    "compra de divisas",
-    "CFDI de divisas",
+    "factura de divisas",
+    "comprobante fiscal de divisas",
+    "CFDI para divisas",
+    "compra de moneda extranjera",
+    "venta de moneda extranjera",
     "centros cambiarios",
     "SOCAP"
   ],
-  "resumen": "Los centros cambiarios, las instituciones financieras y las SOCAP deben identificar y reportar las operaciones de compra y venta de divisas mediante CFDI, mencionando explícitamente el tipo de operación. Se requiere el uso de un complemento específico publicado por el SAT.",
+  "resumen": "Los centros cambiarios y las instituciones financieras tienen que identificar las operaciones de compra y venta de divisas. Deben expedir CFDI ya sea por la compra o venta de estas divisas, utilizando el complemento específico del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se emite un CFDI para la compra de divisas?",
-    "¿Qué requisitos tienen los centros cambiarios para reportar operaciones de divisas?",
-    "¿Qué menciones deben incluirse en los CFDI de venta de divisas?",
-    "¿Cuál es el complemento que utilizan las SOCAP para las operaciones de divisas?",
-    "¿Qué instituciones deben identificar las operaciones de divisas?"
+    "¿Qué se necesita para expedir un CFDI por compra de divisas?",
+    "¿Cómo se manejan los CFDI en la venta de divisas?",
+    "¿Qué documentos requiero para operar en un centro cambiario?",
+    "¿Qué es un complemento del SAT para divisas?",
+    "¿Qué obligaciones tienen las SOCAP en relación con las divisas?"
   ]
 }

@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b286e7d18d6cf9a9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Factor de actualización ISAN",
+  "denominacion_comun": "Impuesto sobre automóviles nuevos",
   "temas": [
-    "impuesto sobre automóviles nuevos",
-    "actualización de cantidades",
-    "INPC",
-    "regla de actualización",
+    "factor de actualización",
     "Ley Federal del ISAN",
-    "artículo 17-A del CFF"
+    "INPC",
+    "actualización de cantidades",
+    "anexo de la RMF",
+    "diciembre",
+    "autoevaluación"
   ],
   "terminos_coloquiales": [
-    "actualización ISAN",
+    "comprar un coche",
+    "precio de autos nuevos",
+    "exenciones de ISAN",
     "ISAN",
     "factor de actualización",
-    "impuesto automóviles nuevos"
+    "Ley del ISAN"
   ],
-  "resumen": "Esta disposición establece cómo se debe actualizar el precio de los automóviles nuevos exentos del ISAN, utilizando el INPC para determinar el factor de actualización anualmente. Específicamente, se refiere a la metodología de cálculo del factor que se aplica para ajustes en las cantidades a considerar.",
+  "resumen": "La regla establece cómo se debe actualizar el precio de los automóviles nuevos para determinar aquellos que están exentos del Impuesto sobre Automóviles Nuevos (ISAN). Esto se realiza anualmente utilizando el Índice Nacional de Precios al Consumidor (INPC) para calcular el factor de actualización.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan los precios de los automóviles para el ISAN?",
+    "¿Cómo se actualizan los precios de los automóviles nuevos para el ISAN?",
     "¿Qué es el factor de actualización del ISAN?",
-    "¿Cómo se obtiene el factor de actualización según el INPC?",
-    "¿Cada cuánto se actualizan los precios de los automóviles nuevos?",
-    "¿Qué artículos de la ley afectan la actualización del ISAN?"
+    "¿Cuándo se aplican las actualizaciones de precios de autos?",
+    "¿Dónde puedo encontrar el factor de actualización para el ISAN?",
+    "¿Qué significa el INPC en relación al precio de los coches nuevos?"
   ]
 }

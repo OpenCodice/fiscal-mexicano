@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2683d5bdb2c01ede",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Certificación de CFDI",
+  "denominacion_comun": "Proveedor de Certificación de CFDI",
   "temas": [
-    "autorización de PCCFDI",
-    "certificado de sello digital",
-    "responsabilidad del proveedor",
-    "confidencialidad del CSD",
-    "revocación del CSD"
+    "Certificación de CFDI",
+    "CSD",
+    "Responsabilidad del proveedor",
+    "Confidencialidad"
   ],
   "terminos_coloquiales": [
+    "firma digital",
+    "certificado de sello digital",
     "PCCFDI",
-    "proveedores de certificación",
-    "certificado digital",
-    "CSD"
+    "comprobantes fiscales digitales",
+    "CFDI"
   ],
-  "resumen": "Los proveedores de certificación de CFDI deben obtener un certificado de sello digital para operar, que no pueden permitir su uso a terceros. Además, están obligados a informar al SAT si hay riesgos de confidencialidad con dicho certificado.",
+  "resumen": "Los proveedores de certificación de CFDI deben obtener un certificado de sello digital del SAT y son responsables de su uso. Está prohibido ceder este certificado a terceros y deben notificar al SAT si hay riesgo en su uso o confidencialidad.",
   "preguntas_ejemplo": [
     "¿Qué es un proveedor de certificación de CFDI?",
-    "¿Cómo solicito el certificado de sello digital?",
-    "¿Qué debo hacer si creo que mi certificado está en riesgo?",
-    "¿Está permitido el uso del CSD por otras personas?",
-    "¿Qué responsabilidades tiene un PCCFDI?"
+    "¿Cómo puedo obtener un certificado de sello digital?",
+    "¿Cuáles son mis responsabilidades como proveedor de CFDI?",
+    "¿Qué debo hacer si sospecho que mi certificado de sello digital ha sido comprometido?"
   ]
 }

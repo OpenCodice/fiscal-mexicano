@@ -6,15 +6,15 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4aa44ff09cda5fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Informe sobre la situación fiscal del contribuyente",
   "temas": [
-    "Dictamen de contador público",
-    "Situación fiscal",
-    "Información financiera",
-    "Anexos de integración",
-    "Reglamento del CFF"
+    "dictamen de contador público",
+    "información fiscal",
+    "estados financieros",
+    "anexos"
   ],
   "terminos_coloquiales": [
     "informe fiscal",
@@ -23,12 +23,12 @@
     "CFF",
     "RCFF"
   ],
-  "resumen": "Este texto establece que el dictamen sobre los estados financieros y el informe sobre la situación fiscal del contribuyente deben incluir información específica según los Anexos 18 y 19. Esta información debe cumplir con los instructivos y formatos guía mencionados.",
+  "resumen": "Se establece que el informe sobre la situación fiscal del contribuyente debe incluir información específica que se detalla en los Anexos 18 y 19, además de cumplir con los instructivos y formatos requeridos. Esto es parte de los requisitos para el dictamen de los estados financieros.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir el dictamen de un contador público?",
-    "¿Cómo se elabora el informe sobre la situación fiscal?",
-    "¿Qué información se requiere según los Anexos 18 y 19?",
-    "¿Cuáles son los artículos del CFF que regulan esta información?",
-    "¿Qué características deben tener los formatos guía en el informe fiscal?"
+    "¿Qué información debo incluir en el informe fiscal?",
+    "¿Cómo se elabora un dictamen de contador público?",
+    "¿Qué son los Anexos 18 y 19 en el contexto fiscal?",
+    "¿Cuáles son los requisitos para el informe sobre la situación fiscal?",
+    "¿Dónde se encuentra la normativa sobre el dictamen contable?"
   ]
 }

@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:24be27d70cc3cda8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre automóviles nuevos",
   "temas": [
-    "ISAN",
+    "asignación de número de empresa",
     "clave vehicular",
-    "solicitud de empresa",
-    "documentación requerida"
+    "documentación requerida",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "impuesto a vehículos nuevos",
-    "ISAN",
-    "clave de auto",
-    "número de empresa"
+    "comprar un coche",
+    "número de empresa ISAN",
+    "clave vehicular",
+    "documentos para ISAN"
   ],
-  "resumen": "Los fabricantes, ensambladores y distribuidores de automóviles deben solicitar un número de empresa para integrar la clave vehicular. Esto implica presentar ciertos documentos para validar su operación en el mercado de vehículos nuevos en México.",
+  "resumen": "Los fabricantes, ensambladores o distribuidores de automóviles deben solicitar un número de empresa para poder integrar la clave vehicular. Deben presentar ciertos documentos como la identificación oficial y la constancia de situación fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener la clave vehicular para mi negocio de autos?",
-    "¿Qué documentos necesito para solicitar el número de empresa para el ISAN?",
-    "¿Quiénes están obligados a registrarse para el impuesto sobre automóviles nuevos?",
-    "¿Dónde se solicita la asignación del número de empresa para automóviles?",
-    "¿Qué es el ISAN y cómo me afecta?",
-    "¿La clave vehicular es obligatoria para todos los vendedores de autos?"
+    "¿Cómo solicito el número de empresa para el ISAN?",
+    "¿Qué documentos necesito para obtener la clave vehicular?",
+    "¿Dónde debo presentar mi solicitud para el impuesto sobre automóviles nuevos?",
+    "¿Qué es la clave vehicular en el ISAN?",
+    "¿Cuáles son mis obligaciones fiscales si vendo automóviles?"
   ]
 }

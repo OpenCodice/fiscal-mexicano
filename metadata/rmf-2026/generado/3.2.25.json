@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bdc47a4cb8e8f6a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Adquisición o construcción de inmuebles",
@@ -13,21 +14,23 @@
     "fideicomisos",
     "certificados bursátiles",
     "distribución de resultados fiscales",
-    "reembolsos de capital"
+    "reembolsos de capital",
+    "administración fiduciaria"
   ],
   "terminos_coloquiales": [
-    "fideicomiso de inmuebles",
-    "certificados inmobiliarios",
-    "distribuciones fiscales",
-    "LISR",
-    "RMF"
+    "fideicomisos de inmuebles",
+    "certificados bursátiles fiduciarios",
+    "distribución fiscal",
+    "reembolso de capital",
+    "administración de fideicomisos"
   ],
-  "resumen": "Esta regla establece cómo deben manejar las instituciones fiduciarias los fideicomisos dedicados a la adquisición o construcción de inmuebles, incluyendo la creación de cuentas fiduciarias para distribuir resultados fiscales y reembolsos de capital a los propietarios de certificados. Además, se especifican los métodos de cálculo para estas distribuciones.",
+  "resumen": "La regla establece cómo los fideicomisos dedicados a la adquisición o construcción de inmuebles deben manejar las distribuciones del resultado fiscal y los reembolsos de capital. Además, se especifica el procedimiento para calcular y distribuir estos montos a los propietarios de los certificados de los fideicomisos que replican índices bursátiles.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuyen los ingresos de un fideicomiso de inmuebles?",
+    "¿Cómo se distribuye el resultado fiscal en un fideicomiso de inmuebles?",
     "¿Qué es un fideicomiso que replica índices bursátiles?",
-    "¿Cómo se calculan los reembolsos de capital en un fideicomiso?",
-    "¿Qué reglas siguen los fideicomisos para determinar el resultado fiscal?",
-    "¿Qué pasos debe seguir una institución fiduciaria para la distribución fiscal?"
+    "¿Cómo se calcula el reembolso de capital en fideicomisos de inmuebles?",
+    "¿Qué debo hacer si soy propietario de certificados de un fideicomiso de inmuebles?",
+    "¿Cuál es el plazo para la distribución de resultados fiscales en fideicomisos?",
+    "¿Cómo se registran las distribuciones fiscales de los fideicomisos?"
   ]
 }

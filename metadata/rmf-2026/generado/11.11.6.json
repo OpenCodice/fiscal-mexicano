@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:99aaca2b340a28bf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdida de derechos a estímulos fiscales",
+  "denominacion_comun": "Pérdida de estímulos fiscales",
   "temas": [
-    "pérdida de derechos",
-    "estímulos fiscales",
     "ISR",
     "IVA",
-    "declaraciones fiscales",
-    "créditos fiscales"
+    "estímulos fiscales",
+    "créditos fiscales",
+    "declaraciones",
+    "obligación no presentada"
   ],
   "terminos_coloquiales": [
-    "pérdida de estímulos",
-    "no aplicar créditos",
-    "créditos perdidos",
-    "estímulos Fiscales ISR e IVA"
+    "pérdida de beneficios fiscales",
+    "estímulos fiscales ISR",
+    "créditos de impuestos",
+    "declaraciones no presentadas"
   ],
-  "resumen": "Esta regla establece que los contribuyentes pierden el derecho a aplicar estímulos fiscales si no los utilizan en sus declaraciones correspondientes. Esta pérdida de derechos es por ejercicio fiscal o mes específico, y no se podrá aplicar posteriormente.",
+  "resumen": "Se pierde el derecho a aplicar los estímulos fiscales si no se utilizan los créditos fiscales en las declaraciones correspondientes. Esta pérdida solo afecta al ejercicio fiscal o mes donde no se aplicaron, sin posibilidad de aplicarlos más adelante.",
   "preguntas_ejemplo": [
+    "¿Qué pasa si no presento mi declaración y tengo un estímulo fiscal?",
+    "¿Puedo aplicar un crédito fiscal si no lo usé en mi declaración anterior?",
     "¿Cuándo se pierde el derecho a los estímulos fiscales?",
-    "¿Qué pasa si no uso mis créditos fiscales en la declaración?",
-    "¿Se puede aplicar el estímulo fiscal después de perderlo?",
-    "¿Cómo afecta a mi declaración la pérdida del estímulo fiscal?",
-    "¿Qué debo hacer si no presenté la obligación a tiempo?"
+    "¿Qué ocurre si no aplico el estímulo fiscal en mi declaración normal?",
+    "¿Los estímulos fiscales se pueden recuperar si se olvidaron aplicarlos en el mes correspondiente?"
   ]
 }

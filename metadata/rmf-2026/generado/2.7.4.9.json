@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8a14bf658c86e241",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Certificación y generación de CFDI para el sector primario",
   "temas": [
-    "verificación de requisitos",
-    "incumplimientos",
-    "proveedores de certificación",
+    "verificación de proveedores",
     "tecnologías de la información",
-    "seguridad de la información",
-    "plazos de respuesta",
-    "oficio de opinión técnica"
+    "requisitos y obligaciones",
+    "confidencialidad",
+    "autenticidad",
+    "trazabilidad",
+    "sanciones"
   ],
   "terminos_coloquiales": [
-    "verificación de CFDI",
+    "CFDI",
+    "factura electrónica",
     "proveedores de CFDI",
-    "PCGCFDISP",
-    "CATI",
-    "cumplimiento de requisitos"
+    "incumplimientos",
+    "verificación de CFDI"
   ],
-  "resumen": "Esta regla establece el procedimiento para verificar que los proveedores de certificación y generación de CFDI para el sector primario cumplan con los requisitos en materia de tecnologías de la información y seguridad. Los proveedores que no cumplan recibirán un oficio de requerimiento y tendrán un plazo para solventar sus incumplimientos.",
+  "resumen": "La regla establece cómo el SAT puede verificar que los proveedores de certificación y generación de CFDI cumplan con sus obligaciones relacionadas con la seguridad de la información. Si encuentran incumplimientos, deberán notificar al proveedor y otorgarle un plazo para solventarlos, de lo contrario, podrían enfrentar sanciones.",
   "preguntas_ejemplo": [
-    "¿Cómo verifican el cumplimiento de los proveedores de CFDI?",
-    "¿Qué sucede si un proveedor no cumple con los requisitos?",
-    "¿Cuánto tiempo tiene un proveedor para resolver incumplimientos?",
-    "¿Qué implica un oficio de opinión técnica para un proveedor de CFDI?",
-    "¿Qué es la matriz de control publicada por el SAT?"
+    "¿Cómo se verifica a los proveedores de CFDI?",
+    "¿Qué pasa si un proveedor no cumple con los requisitos para certificar CFDI?",
+    "¿Cuál es el plazo que tienen los proveedores para solventar incumplimientos?",
+    "¿Qué sanciones pueden enfrentar los proveedores de CFDI?",
+    "¿Qué documentos necesito para aclarar incumplimientos como proveedor de CFDI?",
+    "¿Qué es la opinión técnica final de la verificación del SAT?"
   ]
 }

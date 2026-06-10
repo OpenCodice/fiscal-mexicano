@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:367d13bceeeac7e8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución del IVA a turistas",
+  "denominacion_comun": "Devolución de IVA a turistas",
   "temas": [
-    "IVA",
-    "devoluciones",
+    "devolución de IVA",
     "turistas",
-    "mercancías",
     "concesión",
     "administración",
-    "contadores"
+    "adquisición de mercancías",
+    "estados financieros",
+    "contador público",
+    "buzón tributario"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA a turistas",
-    "devolución de IVA a extranjeros",
+    "devolución de impuestos a turistas",
+    "Reembolso del IVA",
+    "IVA para extranjeros",
     "concesión de IVA",
-    "IVA para visitantes",
-    "LIVA",
-    "CFF"
+    "IVA a turistas"
   ],
-  "resumen": "Esta disposición regula la posibilidad de que ciertas personas morales administren las devoluciones del IVA a favor de turistas extranjeros que regresan a su país. Para ello, deben obtener una concesión y dictaminar sus estados financieros por un contador público inscrito.",
+  "resumen": "Las personas morales pueden administrar devoluciones del IVA a turistas que regresan al extranjero si obtienen una concesión. Deben dictaminar sus estados financieros por un contador público inscrito y notificar esto a través del buzón tributario.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener la devolución del IVA si soy turista?",
-    "¿Qué requisitos debo cumplir para administrar las devoluciones de IVA a extranjeros?",
-    "¿Qué es la concesión para la administración del IVA a turistas?",
-    "¿Quién puede dictaminar los estados financieros para las devoluciones de IVA?",
-    "¿Dónde encuentro información sobre las reglas de operación para la devolución de IVA?",
-    "¿Qué tipo de mercancías califican para la devolución del IVA?"
+    "¿Cómo puedo devolver el IVA a un turista?",
+    "¿Qué requisitos debo cumplir para administrar devoluciones del IVA?",
+    "¿Necesito un contador para volver a los turistas el IVA?",
+    "¿Dónde encuentro las reglas para la concesión de devolución de IVA?",
+    "¿Qué debo hacer si quiero obtener una concesión para manejar devoluciones de IVA a extranjeros?",
+    "¿Cuáles son los beneficios de tener la concesión de IVA para turistas?"
   ]
 }

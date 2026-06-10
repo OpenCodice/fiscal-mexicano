@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c64837927ca2aeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuenta fiduciaria de dividendos netos",
   "temas": [
     "fideicomisos",
-    "dividendos",
-    "ingresos acumulables",
-    "personas físicas",
-    "personas morales",
-    "dividendos fiduciarios"
+    "dividendos fiduciarios",
+    "certificados emitidos",
+    "ingresos acumulables"
   ],
   "terminos_coloquiales": [
-    "cuenta de dividendos",
+    "ganancias de fideicomisos",
     "dividendos de fideicomisos",
-    "dividendos fiduciarios"
+    "certificados de fideicomisos"
   ],
-  "resumen": "La regla establece cómo las instituciones fiduciarias deben manejar las cuentas fiduciarias de dividendos netos, detallando la integración y cálculo de los dividendos fiduciarios que corresponden a los propietarios de los certificados. Además, especifica cómo estos ingresos deben ser considerados para fines fiscales por personas físicas y morales.",
+  "resumen": "La regla establece cómo deben llevar las instituciones fiduciarias la cuenta de los dividendos netos de los fideicomisos, incluyendo el cálculo de los dividendos fiduciarios para los propietarios de los certificados. Los dividendos no serán considerados ingresos acumulables si se integran a la cuenta fiduciaria correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los dividendos fiduciarios en un fideicomiso?",
-    "¿Qué se incluye en la cuenta fiduciaria de dividendos netos?",
-    "¿Los dividendos de fideicomisos son considerados ingresos acumulables?",
-    "¿Cómo se deben declarar los dividendos fiduciarios para personas físicas?",
-    "¿Qué deben hacer las personas morales con los dividendos fiduciarios que reciben?"
+    "¿Cómo se calculan los dividendos en un fideicomiso?",
+    "¿Qué son los dividendos fiduciarios?",
+    "¿Los dividendos de fideicomisos son ingresos acumulables?",
+    "¿Cómo se registran los dividendos en la cuenta fiduciaria?",
+    "¿Qué efecto fiscal tienen los certificados de fideicomisos?"
   ]
 }

@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7beb087925c470db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Confirmación de recepción de posturas",
   "temas": [
+    "subastas",
     "posturas",
-    "recepción de posturas",
     "SAT",
-    "comunicaciones electrónicas",
-    "bienes",
-    "ofertas",
-    "importe ofrecido",
-    "fecha y hora"
+    "notificaciones",
+    "bienes"
   ],
   "terminos_coloquiales": [
     "confirmación de posturas",
-    "recepción de ofertas",
-    "correo del SAT"
+    "correo del SAT",
+    "ofrecimientos en subasta",
+    "bien subastado"
   ],
-  "resumen": "El SAT enviará un correo electrónico a los postores para confirmar la recepción de sus ofertas. Este mensaje incluirá el importe ofrecido, la fecha y hora de la oferta, y el bien relacionado.",
+  "resumen": "El SAT enviará un correo electrónico a los postores para confirmar la recepción de sus ofertas en subastas. Este mensaje incluirá el importe ofrecido, así como la fecha y hora del ofrecimiento y el bien relacionado.",
   "preguntas_ejemplo": [
-    "¿Cómo me confirma el SAT mi postura?",
-    "¿Qué información contiene el correo de confirmación de posturas?",
-    "¿Qué hace el SAT con mis posturas?",
-    "¿Cuándo recibo la confirmación de mi oferta?",
-    "¿Qué bienes están involucrados en las posturas?",
-    "¿Qué datos me envía el SAT sobre mi oferta?"
+    "¿Cómo recibo la confirmación de mi postura en una subasta?",
+    "¿Qué información contiene el correo del SAT sobre mi ofrecimiento?",
+    "¿Puedo saber el bien del que hice una oferta?",
+    "¿Qué pasa si no recibo el correo de confirmación de mi postura?",
+    "¿Cuándo se envía la confirmación de posturas?"
   ]
 }

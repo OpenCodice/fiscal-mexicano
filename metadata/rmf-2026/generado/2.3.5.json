@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f025e55bb1b27aa7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transferencias electrónicas",
   "temas": [
+    "cuenta bancaria",
     "CLABE",
     "transferencias",
-    "Sistema de Pagos Electrónicos Interbancarios",
+    "SPEI",
     "Banco de México",
-    "CFF",
-    "disposiciones",
-    "cuenta bancaria"
+    "artículo 22",
+    "artículo 22-B"
   ],
   "terminos_coloquiales": [
-    "transferencias de dinero",
     "transferencias electrónicas",
+    "número de cuenta",
     "CLABE",
+    "Banco de México",
     "SPEI"
   ],
-  "resumen": "Esta disposición establece que para realizar transferencias electrónicas, se debe usar la CLABE de 18 dígitos otorgada por las instituciones de crédito dentro del Sistema de Pagos Electrónicos Interbancarios, según las normas del Banco de México.",
+  "resumen": "Se establece que para las transferencias electrónicas se debe proporcionar un número de cuenta bancaria activo, específicamente la CLABE de 18 dígitos, según las disposiciones del Banco de México. Esta información es necesaria para cumplir con lo establecido en los artículos 22 y 22-B del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
     "¿Qué es la CLABE para transferencias electrónicas?",
-    "¿Cómo se hacen las transferencias electrónicas en México?",
-    "¿Qué información necesito para realizar una transferencia electrónica?",
-    "¿Qué es el SPEI?",
-    "¿Qué documentos debo presentar para transferencias electrónicas?",
-    "¿Qué dice el Código Fiscal sobre transferencias electrónicas?"
+    "¿Cómo debo proporcionar mi número de cuenta para hacer transferencias?",
+    "¿Qué disposiciones del Banco de México se aplican a las transferencias electrónicas?",
+    "¿Qué artículos del CFF regulan las transferencias electrónicas?",
+    "¿Qué es el SPEI y cómo se relaciona con las transferencias electrónicas?"
   ]
 }

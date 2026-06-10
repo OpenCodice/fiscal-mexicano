@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ccefc49231f5fbb7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Traspaso de aportaciones y rendimientos de planes personales de retiro",
   "temas": [
     "planes personales de retiro",
-    "traspaso de recursos",
-    "rendimientos de inversiones",
-    "obligaciones de instituciones financieras",
-    "requisitos de permanencia"
+    "traspaso de fondos",
+    "rendimientos",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "traspaso de retiro",
+    "traspaso de AFORE",
     "planes de retiro",
-    "ISR por traspaso",
-    "PPR",
-    "aportaciones a PPR"
+    "fondos de pensiones",
+    "ISR",
+    "Ley del ISR"
   ],
-  "resumen": "El traspaso de recursos y rendimientos de un plan personal de retiro a otro no se considera un retiro si se realiza entre instituciones autorizadas, siempre y cuando se cumplan con ciertas obligaciones y requisitos de permanencia. Esto incluye la responsabilidad de las instituciones en la información proporcionada durante el traspaso.",
+  "resumen": "Esta regla establece que los recursos y rendimientos de planes personales de retiro pueden ser traspasados entre instituciones del sistema financiero sin considerarse un retiro, siempre que se cumplan ciertas condiciones. Además, la institución que cede deberá proporcionar la información necesaria a la receptora para cumplir con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona el traspaso de un plan personal de retiro?",
-    "¿Qué debo hacer si quiero cambiar de institución mi plan de retiro?",
-    "¿Cuáles son los requisitos para traspasar mis aportaciones de retiro?",
-    "¿Qué pasa con mis rendimientos al hacer un traspaso de PPR?",
-    "¿Las instituciones son responsables si el traspaso tiene errores?",
-    "¿Qué significa no retirarse antes de cumplir los requisitos de permanencia?"
+    "¿Cómo puedo traspasar mis aportaciones de AFORE?",
+    "¿Qué requisitos necesito para el traspaso de mi plan de retiro?",
+    "¿Cuáles son las obligaciones de las instituciones en el traspaso de fondos de pensiones?",
+    "¿Qué pasa con los rendimientos al traspasar mi plan personal de retiro?",
+    "¿Hay impuestos al traspasar mi dinero de un AFORE a otro?"
   ]
 }

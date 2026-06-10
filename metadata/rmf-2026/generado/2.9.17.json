@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:916d2275280f3dd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de presunción de inexistencia de operaciones",
+  "denominacion_comun": "Presunciones de inexistencia de operaciones",
   "temas": [
     "notificación",
-    "presunción",
+    "buzón tributario",
+    "simulación de operaciones",
     "comprobantes fiscales",
-    "inexistencia de operaciones",
-    "SAT",
     "derechos del contribuyente",
-    "oficios individuales",
-    "documentación fiscal"
-  ],
-  "terminos_coloquiales": [
-    "notificación por buzón tributario",
-    "presunción de inexistencia",
-    "CFF 69-B",
+    "documentación para desvirtuar",
+    "oficio individual",
     "oficios globales"
   ],
-  "resumen": "Cuando las autoridades fiscales sospechan que hay inexistencia o simulación de operaciones con comprobantes fiscales, notifican a los contribuyentes. Estos tienen el derecho de presentar información para desvirtuar dicha presunción en un plazo específico.",
+  "terminos_coloquiales": [
+    "presunción de operaciones",
+    "comprobantes",
+    "SAT",
+    "buzón del SAT",
+    "oficios",
+    "artículo 69-B",
+    "operaciones inexistentes"
+  ],
+  "resumen": "La disposición establece el procedimiento que deben seguir las autoridades fiscales cuando presumen la inexistencia de operaciones amparadas en comprobantes fiscales. Se notificarán los contribuyentes afectados y se les dará la oportunidad de presentar información para desvirtuar dicha presunción en un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué significa la notificación de inexistencia de operaciones?",
-    "¿Cómo puedo desvirtuar una presunción de inexistencia que me notificaron?",
-    "¿Qué plazo tengo para responder a la notificación del SAT?",
-    "¿Qué sucede si me notifican un oficio sobre presunción de operaciones simuladas?",
-    "¿Cuáles son mis derechos al recibir un oficio de la autoridad fiscal?",
-    "¿Qué documentos debo presentar para defenderme de una presunción del CFF 69-B?"
+    "¿Qué pasa si el SAT presume que no realicé una operación?",
+    "¿Cómo puedo defenderme de la presunción de inexistencia de operaciones?",
+    "¿Qué información debo presentar si me notifican por buzón tributario?",
+    "¿Cuál es el plazo para desvirtuar una presunción de operaciones?",
+    "¿Dónde puedo encontrar la relación de contribuyentes presuntos?"
   ]
 }

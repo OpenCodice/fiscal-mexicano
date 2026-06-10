@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ebddcd1e780eec82",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Programa de regularización fiscal",
+  "denominacion_comun": "Estímulos fiscales aduaneros",
   "temas": [
-    "estimulos fiscales",
-    "multas",
-    "verificación de mercancías",
-    "procedimientos aduaneros",
-    "Agencia Nacional de Aduanas"
+    "Agencia Nacional de Aduanas",
+    "infracciones fiscales",
+    "multas aduaneras",
+    "comprobación aduanera",
+    "procedimientos fiscales"
   ],
   "terminos_coloquiales": [
-    "regularización fiscal",
     "estímulos fiscales",
-    "multas aduaneras",
-    "ANAM"
+    "agencia de aduanas",
+    "multas",
+    "infracciones",
+    "cumplimiento fiscal"
   ],
-  "resumen": "Este programa permite a los interesados solicitar un estímulo fiscal para las multas derivadas de infracciones aduaneras, siempre que cumplan con ciertos requisitos. Se debe presentar un escrito dentro de los procedimientos establecidos y verificar la información con autoridades competentes.",
+  "resumen": "Este texto establece que los interesados pueden presentar un escrito para solicitar la aplicación de un estímulo fiscal en relación con multas por infracciones fiscales y aduaneras, siempre que cumplan con ciertos requisitos. El procedimiento se relaciona con la verificación de mercancías y el reconocimiento aduanero.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo regularizar multas aduaneras?",
-    "¿Qué es el estímulo fiscal en el programa de regularización?",
-    "¿Qué procedimientos debo seguir para solicitar un estímulo fiscal?",
-    "¿Qué requisitos hay que cumplir para la verificación de mercancías?",
-    "¿Quién puede solicitar la regularización fiscal en aduanas?"
+    "¿Cómo puedo solicitar un estímulo fiscal por multas aduaneras?",
+    "¿Qué requisitos debo cumplir para la aplicación de estímulos fiscales?",
+    "¿Qué procedimiento sigo si tengo una infracción aduanera?",
+    "¿Dónde encuentro la información sobre multas fiscales y aduaneras?",
+    "¿Qué debo hacer si me multaron en la aduana?"
   ]
 }

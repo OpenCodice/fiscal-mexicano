@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:604e176c350165f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos para adquisición o construcción de inmuebles",
   "temas": [
-    "impuesto sobre la renta",
     "fideicomisos",
-    "distribuciones de resultados",
-    "fondos de inversión"
+    "impuesto sobre la renta",
+    "fondos de inversión",
+    "retenciones",
+    "distribución de resultados"
   ],
   "terminos_coloquiales": [
     "fideicomisos",
-    "ISR fideicomisos",
-    "Fideicomisos para inmuebles",
-    "fondos de inversión de renta variable"
+    "ISR",
+    "fondos de inversión",
+    "impuestos sobre fideicomisos",
+    "distribución de resultados fiscales"
   ],
-  "resumen": "Esta disposición establece que las instituciones financieras pueden no retener el ISR sobre las distribuciones de resultados de ciertos fideicomisos, siempre que los fondos de inversión calculen y retengan el impuesto correspondiente a sus accionistas. Los fondos deben informar a las instituciones sobre este proceso.",
+  "resumen": "La disposición regula que las instituciones del sistema financiero no deben retener el ISR por las distribuciones fiscales de ciertos fideicomisos, siempre que los fondos de inversión realicen el cálculo y entero del impuesto correspondiente. Se requiere que dichos fondos informen a las instituciones sobre el cumplimiento de esta obligación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con el ISR de los fideicomisos de inversión en inmuebles?",
-    "¿Las instituciones financieras retienen ISR por fideicomisos?",
-    "¿Cómo se manejan las distribuciones de resultados de los fideicomisos?",
-    "¿Qué requisitos tienen los fondos de inversión de renta variable respecto a los fideicomisos?",
-    "¿Qué dice la ley sobre el ISR de fideicomisos en la construcción de inmuebles?"
+    "¿Qué pasa con el ISR de las distribuciones de fideicomisos?",
+    "¿Los fondos de inversión deben retener impuestos de fideicomisos?",
+    "¿Qué obligaciones tienen los fondos de inversión de renta variable con respecto a fideicomisos?",
+    "¿Cómo se calculan las retenciones del ISR en fideicomisos?",
+    "¿Qué dice la ley sobre las distribuciones fiscales de fideicomisos?"
   ]
 }

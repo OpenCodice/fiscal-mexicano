@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c034f6e1047b4849",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe sobre revisión fiscal",
+  "denominacion_comun": "Informe de Revisión Fiscal por Contador Público",
   "temas": [
-    "Dictamen de contador público",
-    "Revisión de situación fiscal",
-    "Cumplimiento de obligaciones fiscales",
-    "Auditoría de estados financieros",
+    "Dictamen fiscal",
+    "Contador público inscrito",
+    "Auditoría",
+    "Situación fiscal",
     "Contribuciones federales",
     "Declaraciones complementarias",
-    "Precios de transferencia"
+    "Precios de transferencia",
+    "Obligaciones fiscales",
+    "Partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "Dictamen fiscal",
-    "Informe del contador",
-    "Revisión fiscal",
-    "RCFF",
-    "CFF"
+    "informe fiscal",
+    "dictamen fiscal",
+    "revisión fiscal",
+    "CFF",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "Este informe es elaborado por un contador público inscrito y debe incluir detalles sobre la revisión de la situación fiscal del contribuyente y el cumplimiento de sus obligaciones fiscales. Se deben mencionar hallazgos, omisiones y cualquier diferencia encontrada en los cálculos de contribuciones.",
+  "resumen": "Este documento establece cómo debe elaborarse el informe de un contador público inscrito sobre la revisión de la situación fiscal de un contribuyente. Incluye revisiones a sus estados financieros, cumplimiento de obligaciones fiscales y detalles sobre contribuciones federales.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir un dictamen fiscal?",
-    "¿Cómo se elabora el informe de revisión fiscal?",
-    "¿Qué obligaciones fiscales se revisan en el dictamen?",
-    "¿Qué sucede si hay omisiones en el informe del contador?",
-    "¿El dictamen incluye revisión de contribuciones federales?",
-    "¿Qué información sobre precios de transferencia se debe proporcionar?"
+    "¿Qué incluye un dictamen fiscal?",
+    "¿Cómo se revisa la situación fiscal de un contribuyente?",
+    "¿Qué responsabilidad tiene el contador público en la auditoría fiscal?",
+    "¿Qué se menciona sobre las obligaciones fiscales en el informe?",
+    "¿Cómo se trata el tema de las declaraciones complementarias en el informe?"
   ]
 }

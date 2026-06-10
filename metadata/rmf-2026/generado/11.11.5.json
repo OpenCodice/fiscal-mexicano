@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d6ce98fcfaf9a934",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "personas morales",
+    "declaraciones fiscales",
     "pagos provisionales",
-    "declaración ISR",
+    "ISR",
+    "personas morales",
     "estímulos fiscales"
   ],
   "terminos_coloquiales": [
+    "pago de ISR",
+    "declara ISR",
     "Régimen Simplificado de Confianza",
     "RESICO",
     "declaración PODEBI"
   ],
-  "resumen": "Las personas morales en el Régimen Simplificado de Confianza deben presentar sus pagos provisionales mensuales a través de una declaración específica. Esta declaración incluye los estímulos fiscales establecidos en el decreto correspondiente.",
+  "resumen": "Las personas morales en el Régimen Simplificado de Confianza deben presentar sus pagos provisionales de ISR mensualmente, utilizando el formato específico de la declaración PODEBI. Esta obligación se cumple a más tardar el día 17 del mes siguiente al que se realiza el pago.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mis pagos provisionales como persona moral?",
-    "¿Qué es la declaración ISR Personas Morales PODEBI?",
-    "¿Cuándo debo presentar la declaración del Régimen Simplificado de Confianza?",
-    "¿Qué estímulos fiscales aplican para el Régimen Simplificado de Confianza?",
-    "¿Qué son los pagos provisionales en el contexto del ISR?"
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Cómo presento mis pagos provisionales de ISR?",
+    "¿Cuándo debo hacer mi declaración PODEBI?",
+    "¿Qué estímulos fiscales aplican para personas morales?",
+    "¿Qué documentos necesito para declarar en el RESICO?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09ff2eb25917084e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho por uso de elementos marinos",
   "temas": [
-    "derechos por uso",
+    "derechos de uso",
     "elementos naturales marinos",
     "áreas naturales protegidas",
-    "pago por concesiones",
-    "uso y goce de recursos"
+    "pago por uso",
+    "concesiones"
   ],
   "terminos_coloquiales": [
+    "pago por usar el mar",
     "derecho marino",
-    "pago por uso marino",
-    "cobro de derecho marino"
+    "concesiones de mar",
+    "uso de playas"
   ],
-  "resumen": "Este reglamento establece el monto que se debe pagar por el uso, goce o aprovechamiento de elementos naturales marinos en áreas protegidas. El pago es diario y por cada área, y no se puede fraccionar por horas.",
+  "resumen": "Se establece el monto a pagar por el uso, goce o aprovechamiento de elementos naturales marinos en áreas protegidas. Este pago es diario y por persona y no se puede fraccionar por horas de uso.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por usar áreas naturales protegidas?",
-    "¿Qué incluye el derecho por uso de elementos marinos?",
-    "¿Se puede pagar por horas el uso de elementos marinos?",
-    "¿Cómo afecta esto a las áreas naturales protegidas?",
-    "¿Qué son los derechos de explotación marina?"
+    "¿Cuánto tengo que pagar por usar una playa?",
+    "¿Qué incluye el pago por el uso de elementos marinos?",
+    "¿Puedo fraccionar el pago por horas de uso de áreas protegidas?",
+    "¿Quién regula los derechos de uso de áreas naturales marinas?",
+    "¿Existen tarifas por el aprovechamiento de los recursos marinos?"
   ]
 }

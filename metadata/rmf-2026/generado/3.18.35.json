@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9883dda204c935a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Establecimiento permanente en el país",
+  "denominacion_comun": "Establecimiento permanente en México",
   "temas": [
-    "impuestos a residentes en el extranjero",
-    "ingresos por fuente en México",
-    "declaración de impuestos",
     "inscripción al RFC",
-    "pagos provisionales"
+    "declaración de impuestos",
+    "pagos provisionales",
+    "regalías",
+    "contribuyentes extranjeros"
   ],
   "terminos_coloquiales": [
-    "establecimiento permanente",
-    "inscripción al RFC",
-    "declaración de ISR",
-    "regalías",
-    "LISR"
+    "registrarse en el RFC",
+    "declaración de impuestos",
+    "pagar impuestos",
+    "ganancia por regalías",
+    "ingresos de empresas extranjeras"
   ],
-  "resumen": "Los contribuyentes que generen ingresos con un establecimiento permanente en México pueden no presentar ciertas declaraciones si se inscriben al RFC y cumplen con otros requisitos fiscales. Esto incluye pagos provisionales y presentación de avisos.",
+  "resumen": "Los contribuyentes que tengan ingresos por actividades que constituyan un establecimiento permanente en México pueden no presentar la declaración correspondiente si se inscriben al RFC y cumplen con ciertas obligaciones fiscales. Esto incluye hacer pagos provisionales y presentar una declaración al final del ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué es un establecimiento permanente en México?",
-    "¿Cómo me inscribo al RFC si tengo ingresos en México?",
-    "¿Qué obligaciones fiscales tengo si soy residente en el extranjero?",
-    "¿Necesito presentar declaración si tengo regalías por uso de motores de aviones?",
-    "¿Cuándo debo hacer los pagos provisionales como establecimiento permanente?"
+    "¿Necesito registrarme en el RFC si tengo un establecimiento permanente en México?",
+    "¿Cuándo debo presentar la declaración de impuestos si tengo ingresos por regalías?",
+    "¿Qué obligaciones fiscales tengo si soy un contribuyente extranjero con actividad en México?",
+    "¿Puedo omitir la declaración si mis ingresos son por el uso de motores de avión?",
+    "¿Qué son los pagos provisionales y cuándo los debo realizar?"
   ]
 }

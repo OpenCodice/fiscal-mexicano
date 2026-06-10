@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:81e40d5c4366bd5b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de activos para maquila",
+  "denominacion_comun": "Cálculo de activos en operaciones de maquila",
   "temas": [
     "activos financieros",
-    "promedios de activos",
-    "acciones",
-    "cuentas por cobrar",
     "activos fijos",
-    "inventarios"
+    "inventarios",
+    "gastos y cargos diferidos",
+    "cambio de método de valuación",
+    "actualización de inversiones"
   ],
   "terminos_coloquiales": [
-    "cálculo de activos",
-    "activos en maquila",
-    "activos financieros en ISR",
-    "LISR 182"
+    "valores de activos",
+    "calculadora de activos",
+    "valores de inventario",
+    "gastos diferidos",
+    "ISR",
+    "Ley del ISR"
   ],
-  "resumen": "Esta regla explica cómo calcular el valor de los activos utilizados en operaciones de maquila, incluyendo activos financieros y fijos, así como los métodos de valuación de inventarios. Es importante considerar promedios mensuales y actualizaciones en base a ciertas normativas.",
+  "resumen": "Esta regla establece cómo calcular el valor de los activos utilizados en las operaciones de maquila, incluyendo activos financieros, fijos e inventarios. También especifica cómo se deben actualizar y valorar estos activos a lo largo del ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los activos utilizados en maquila?",
-    "¿Qué son los activos financieros en el marco de la maquila?",
-    "¿Cómo debo valorar mis inventarios para el ISR?",
-    "¿Qué promedios debo considerar para calcular mis activos?"
+    "¿Cómo se valoran mis activos en la maquila?",
+    "¿Qué métodos hay para calcular el valor de los inventarios?",
+    "¿Cómo actualizo mis activos fijos para el ISR?",
+    "¿Qué es el valor de reposición en mis inventarios?",
+    "¿Cuándo debo cambiar mi método de valuación de inventarios?",
+    "¿Qué incluye el cálculo de activos financieros?"
   ]
 }

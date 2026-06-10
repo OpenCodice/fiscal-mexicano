@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eaaf8293cc9faadb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos ISR plataformas tecnológicas",
+  "denominacion_comun": "Servicios digitales e ISR",
   "temas": [
-    "ISR",
     "personas físicas",
     "plataformas tecnológicas",
-    "declaración de pago",
-    "retenciones",
-    "ingresos por Internet",
-    "enajenación de bienes"
+    "retención de ISR",
+    "declaración de pago"
   ],
   "terminos_coloquiales": [
-    "ISR plataformas",
-    "declaración ISR",
-    "pago ISR",
-    "ingresos digitales",
-    "personas físicas con negocios"
+    "ingresos por Internet",
+    "pago de impuestos en línea",
+    "declaración de ISR",
+    "ISR",
+    "plataformas digitales"
   ],
-  "resumen": "Las personas físicas que venden bienes o prestan servicios por Internet deben acumular todos sus ingresos para calcular el ISR. Deben pagar provisionalmente el ISR utilizando una declaración específica a más tardar el día 17 del mes siguiente al pago.",
+  "resumen": "Las personas físicas que venden bienes o prestan servicios a través de Internet deben acumular todos sus ingresos para calcular el ISR. Deben aplicar las mismas tasas de retención que utilizan las plataformas tecnológicas y presentar una declaración de pago del ISR correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo declaro el ISR si vendo por Internet?",
-    "¿Qué ingresos debo incluir para el ISR en plataformas digitales?",
-    "¿Cómo hago mi pago provisional de ISR como persona física?",
-    "¿Qué tasas de retención aplica mi plataforma?",
-    "¿Qué es la declaración de pago del ISR para plataformas tecnológicas?"
+    "¿Cómo debo declarar mis ingresos si vendo por Internet?",
+    "¿Qué tasas de ISR debo aplicar si uso plataformas digitales?",
+    "¿Cómo calculo el ISR si recibo ingresos directamente de mis clientes en línea?",
+    "¿Qué debo hacer para pagar mis impuestos por ventas en línea?",
+    "¿Cómo funciona la retención de ISR en plataformas digitales?"
   ]
 }

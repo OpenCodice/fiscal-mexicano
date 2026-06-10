@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:791a3f7be3a48dc0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cumplimiento de obligaciones de transparencia",
@@ -13,22 +14,21 @@
     "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "transparencia patrimonial",
-    "declaraciones informativas"
+    "transparencia",
+    "declaración informativa"
   ],
   "terminos_coloquiales": [
     "obligaciones de transparencia",
-    "donativos",
-    "organizaciones sin fines de lucro",
-    "LISR",
-    "RMF"
+    "nueva autorización para donativos",
+    "declaración para donativos",
+    "obligaciones omitidas",
+    "documentos de transparencia"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que hayan perdido su autorización para recibir donativos deducibles pueden recuperarla cumpliendo con sus obligaciones de transparencia. Deben presentar ciertas declaraciones informativas y conservar documentos relacionados en su domicilio fiscal.",
+  "resumen": "Las organizaciones civiles o fideicomisos que hayan perdido su autorización para recibir donativos deducibles pueden volver a obtenerla si cumplen con las obligaciones de transparencia que omitieron. Deben presentar la información requerida y mantener disponible la documentación relacionada.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si perdí la autorización para recibir donativos?",
-    "¿Cuáles son las obligaciones de transparencia que tengo que cumplir?",
-    "¿Dónde debo guardar la documentación relacionada con donativos?",
-    "¿Qué declaraciones informativas se requieren para recuperar la autorización?",
-    "¿Qué pasa si no presenté las declaraciones informativas a tiempo?"
+    "¿Cómo puedo recuperar la autorización para recibir donativos deducibles?",
+    "¿Qué debo hacer si no presenté la declaración de transparencia?",
+    "¿Cuáles son las obligaciones de transparencia que se deben cumplir?",
+    "¿Dónde debo mantener los documentos de transparencia?"
   ]
 }

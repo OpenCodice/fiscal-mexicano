@@ -6,28 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7cc35a1a982b766b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazo para dictamen en reestructuraciones",
+  "denominacion_comun": "Plazo de presentación del dictamen",
   "temas": [
-    "plazo de presentación",
-    "dictamen",
+    "dictamen fiscal",
     "contador público",
-    "autoridades fiscales",
-    "restructuraciones"
+    "plazo de presentación",
+    "reglamento de ISR"
   ],
   "terminos_coloquiales": [
-    "dictamen contable",
-    "plazos fiscales",
-    "LISR",
-    "RLISR"
+    "dictamen de contador",
+    "presentación de dictamen",
+    "plazo para dictamen"
   ],
-  "resumen": "Esta disposición establece el plazo para presentar el dictamen elaborado por un contador público inscrito ante las autoridades fiscales en el contexto de reestructuraciones. El plazo específico se determina de acuerdo con las reglas del Reglamento de la Ley del ISR.",
+  "resumen": "Esta disposición establece el plazo que tienen los contribuyentes para presentar el dictamen formulado por un contador público inscrito ante las autoridades fiscales, de acuerdo a lo que estipula el Reglamento de la Ley del ISR.",
   "preguntas_ejemplo": [
     "¿Cuál es el plazo para presentar el dictamen fiscal?",
-    "¿Qué se necesita para el dictamen de reestructuración?",
-    "¿Quién puede elaborar el dictamen para la reestructuración?",
-    "¿Qué tiempo tengo para presentar el dictamen contable?",
-    "¿Cuáles son las reglas que rigen el dictamen fiscal en reestructuraciones?"
+    "¿Qué dice la ley sobre el dictamen de contador público?",
+    "¿Cómo se determina el tiempo para entregar el dictamen?"
   ]
 }

@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5b2d7a13000b7433",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobación de erogaciones por servidumbres de paso",
+  "denominacion_comun": "Retención de impuestos por servidumbres de paso",
   "temas": [
     "CFDI",
     "ISR",
     "IVA",
     "retenciones",
-    "personas físicas",
-    "personas morales",
-    "obligaciones fiscales"
+    "declaraciones mensuales",
+    "CSD",
+    "procedimiento de restricción"
   ],
   "terminos_coloquiales": [
-    "servidumbres de paso",
-    "retención de impuestos",
-    "CFDI por servidumbres",
-    "obligaciones de pago",
+    "factura",
+    "impuestos",
+    "retenciones de ISR",
+    "pago definitivo",
+    "IVA",
+    "DIOT",
     "CSD"
   ],
-  "resumen": "Esta regla establece que las personas físicas que otorguen servidumbres de paso pueden expedir CFDI cumpliendo con ciertos requisitos, y que las personas morales deben retener un porcentaje del ISR y el IVA en estas operaciones. Además, brinda liberaciones de declaración y establece restricciones para la emisión de CFDI si hay irregularidades.",
+  "resumen": "Las personas físicas que otorgan el uso de bienes deberán expedir CFDI siguiendo ciertos requisitos y los contribuyentes que usan esos bienes deben retener impuestos. Las personas que reciben estas retenciones quedan liberadas de presentar sus declaraciones mensuales de IVA.",
   "preguntas_ejemplo": [
-    "¿Cómo expido un CFDI por servidumbres de paso?",
-    "¿Qué impuestos debo retener por el uso de servidumbres?",
-    "¿Qué pasa si tengo irregularidades en la emisión de CFDI?",
-    "¿Están exentas las personas físicas de presentar declaraciones de IVA en estas operaciones?",
-    "¿Qué requisitos debo cumplir para expedir CFDI en servidumbres de paso?"
+    "¿Cómo se expide un CFDI por una servidumbre de paso?",
+    "¿Qué impuestos debo retener al otorgar el uso de un terreno?",
+    "¿Qué pasa si me retienen el ISR de una operación?",
+    "¿Las personas físicas deben presentar declaraciones de IVA si se les retiene?",
+    "¿Qué es el CSD en relación a la expedición de CFDI?",
+    "¿Cómo se aplica el procedimiento de restricción temporal?"
   ]
 }

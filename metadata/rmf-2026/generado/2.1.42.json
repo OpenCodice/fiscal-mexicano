@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c9c668e937c1cd3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión de plazo para procedimiento amistoso",
+  "denominacion_comun": "Suspensión del plazo para procedimiento amistoso",
   "temas": [
-    "suspensión de plazos",
-    "procedimiento amistoso",
     "doble imposición",
-    "imposición no conforme",
-    "solicitud ante ACAJNI",
-    "requisitos de solicitud",
-    "ficha de trámite 103/CFF"
+    "evasión fiscal",
+    "procedimiento amistoso",
+    "solicitud de suspensión",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "suspensión de plazos",
+    "suspensión del plazo",
     "procedimiento amistoso",
+    "solicitud de suspensión",
     "doble imposición",
-    "solicitud de suspensión"
+    "evasión fiscal",
+    "ACAJNI",
+    "ACFPT",
+    "ACAJNH"
   ],
-  "resumen": "Esta disposición permite que una persona solicite la suspensión del plazo para notificar el inicio de un procedimiento amistoso, si considera que hay medidas de un estado que podrían resultar en una imposición irregular. La solicitud debe presentarse de acuerdo a la ficha de trámite 103/CFF.",
+  "resumen": "Esta regla establece que una persona puede solicitar la suspensión del plazo para notificar el inicio de un procedimiento amistoso si considera que hay medidas que no cumplen con un convenio para evitar la doble imposición. La solicitud debe presentarse a las autoridades fiscales correspondientes y se suspenderá hasta que se notifique la iniciación del procedimiento amistoso.",
   "preguntas_ejemplo": [
     "¿Cómo puedo suspender el plazo para un procedimiento amistoso?",
-    "¿Qué requisitos debo seguir para solicitar la suspensión de plazos?",
-    "¿Qué es la ficha de trámite 103/CFF?",
-    "¿Cuánto tiempo se suspende el plazo para notificar un procedimiento amistoso?",
-    "¿A quién debo dirigirme para solicitar la suspensión del plazo?"
+    "¿Qué es la solicitud de suspensión del plazo en temas fiscales?",
+    "¿Cuánto tiempo tengo para iniciar un procedimiento amistoso?",
+    "¿Cuáles son las autoridades a las que debo dirigir mi solicitud de suspensión?",
+    "¿Qué ocurre si me requieren información adicional para mi solicitud?"
   ]
 }

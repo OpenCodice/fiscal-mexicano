@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a494202150895028",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de gastos por adquisición de cartera vencida",
   "temas": [
-    "deducciones fiscales",
     "cartera vencida",
+    "deducciones fiscales",
     "personas morales",
-    "contratos de enajenación",
     "instituciones de crédito",
-    "registros contables",
+    "administración y cobro de cartera",
+    "contratos de enajenación",
+    "régimen de deducción",
     "ISR"
   ],
   "terminos_coloquiales": [
-    "deducción de cartera vencida",
-    "deducción de créditos vencidos",
-    "deducción fiscal cartera",
-    "RMF 2026"
+    "comprar cartera vencida",
+    "deducción de cartera",
+    "gastos por cartera",
+    "deducción fiscal",
+    "cartera incobrable",
+    "IPAB",
+    "FIDELIQ",
+    "FIDERCA"
   ],
-  "resumen": "Las personas morales que compren cartera vencida de instituciones de crédito pueden deducir los gastos de adquisición siempre que sigan reglas específicas. Esto incluye llevar registros contables por cada contrato y asegurarse de que la cartera esté clasificada como vencida en la contabilidad de la institución de crédito.",
+  "resumen": "Las personas morales pueden deducir los gastos por la adquisición de cartera vencida siempre que cumplan con ciertos requisitos, como celebrarlo con instituciones de crédito y llevar registros contables adecuados. La deducción se realiza en el ISR y tiene reglas específicas sobre cuánto se puede deducir cada ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir gastos por la compra de cartera vencida?",
-    "¿Qué requisitos debo cumplir para deducir cartera vencida en el ISR?",
-    "¿Puedo deducir créditos que no están registrados como vencidos?",
-    "¿Qué pasa si la cartera vencida se considera incobrable?",
-    "¿Cómo se registra contablemente la adquisición de cartera vencida?"
+    "¿Qué gastos puedo deducir si compro cartera vencida?",
+    "¿Cuáles son los requisitos para deducir la cartera vencida?",
+    "¿Puedo deducir la compra de créditos que no están registrados como vencidos?",
+    "¿Cómo se determina la deducción de cartera vencida en el ISR?",
+    "¿Qué obligaciones tengo al comprar cartera vencida?"
   ]
 }

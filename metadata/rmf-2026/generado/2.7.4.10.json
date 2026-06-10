@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b7dd74dff4994dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Amonestaciones a Proveedores de CFDI",
+  "denominacion_comun": "Proveedores de Certificación de CFDI",
   "temas": [
     "amonestaciones",
-    "proveedores de CFDI",
-    "incumplimiento",
+    "incumplimientos",
     "verificación",
-    "operación tecnológica",
-    "evaluaciones de conocimiento"
+    "autorización",
+    "CFDI"
   ],
   "terminos_coloquiales": [
-    "amonestaciones",
-    "proveedores de certificación de CFDI",
-    "PCGCFDISP"
+    "proveedores de CFDI",
+    "certificación de facturas",
+    "amonestación al proveedor",
+    "incumplimiento de requisitos"
   ],
-  "resumen": "Se establecen las causas por las que un proveedor de certificación y generación de CFDI puede recibir una amonestación por parte de la autoridad fiscal. Estos supuestos incluyen el incumplimiento de notificaciones y la falta de acreditación de evaluaciones por parte del personal responsable.",
+  "resumen": "Esta disposición establece las causas y procedimientos para aplicar amonestaciones a los proveedores de certificación y generación de CFDI en caso de incumplimiento de sus obligaciones. Se detallan los supuestos que pueden llevar a una amonestación y el proceso de verificación correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las causas de amonestación para un proveedor de CFDI?",
-    "¿Qué sucede si un proveedor de CFDI no cumple con sus obligaciones?",
-    "¿Cómo se verifica el cumplimiento de un proveedor de CFDI?",
-    "¿Qué pasa si el personal responsable no acredita las evaluaciones?",
-    "¿Qué papel juega la ACSMC en la supervisión de los proveedores de CFDI?"
+    "¿Qué pasa si un proveedor de CFDI no cumple con sus obligaciones?",
+    "¿Cuáles son las causas de amonestación para proveedores de certificados?",
+    "¿Cómo se verifica si un proveedor de CFDI está cumpliendo con la normatividad?",
+    "¿Qué sucede si un proveedor reincide en sus incumplimientos?",
+    "¿Cuánto tiempo tiene un proveedor para aclarar un incumplimiento detectado?"
   ]
 }

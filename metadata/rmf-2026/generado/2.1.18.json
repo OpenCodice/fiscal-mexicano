@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:41fa108487593fd4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de impuestos con tarjeta de crédito o débito",
+  "denominacion_comun": "Pago de impuestos con tarjeta",
   "temas": [
-    "Pago de impuestos",
-    "Tarjetas de crédito",
-    "Tarjetas de débito",
-    "Instituciones de crédito",
-    "Contribuyentes"
+    "tarjeta de crédito",
+    "tarjeta de débito",
+    "pago de impuestos",
+    "personas físicas",
+    "instituciones de crédito",
+    "SAT",
+    "TESOFE"
   ],
   "terminos_coloquiales": [
-    "Pago de impuestos con tarjeta",
-    "Impuestos con tarjeta",
-    "Pago con tarjeta",
-    "DPA con tarjeta",
-    "CFF 20"
+    "pagar impuestos con tarjeta",
+    "impuestos con tarjeta de crédito",
+    "impuestos con tarjeta de débito",
+    "pago de impuestos en línea",
+    "SAT",
+    "TESOFE"
   ],
-  "resumen": "Las personas físicas pueden pagar impuestos federales utilizando tarjetas de crédito o débito emitidas por instituciones del sistema financiero. Estos pagos se consideran realizados en la fecha en que son recibidos por la institución de crédito autorizada.",
+  "resumen": "Las personas físicas pueden pagar sus impuestos federales utilizando tarjetas de crédito o débito en instituciones de crédito autorizadas. Los pagos se consideran efectuados en el momento en que son recibidos por estas instituciones.",
   "preguntas_ejemplo": [
     "¿Puedo pagar mis impuestos con tarjeta de crédito?",
-    "¿Cómo hago el pago de mis impuestos con tarjeta de débito?",
-    "¿Dónde puedo usar mi tarjeta para pagar impuestos?",
-    "¿Qué instituciones aceptan pagos de impuestos con tarjeta?",
-    "¿Los pagos con tarjeta cuentan como pagados inmediatamente?"
+    "¿Cómo uso mi tarjeta de débito para pagar impuestos?",
+    "¿Qué instituciones pueden recibir mis pagos de impuestos?",
+    "¿Cuándo se considera que efectué el pago con tarjeta?",
+    "¿Qué debo hacer para pagar mis impuestos en el portal del SAT?"
   ]
 }

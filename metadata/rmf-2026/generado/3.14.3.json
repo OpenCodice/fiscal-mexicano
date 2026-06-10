@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:603ed1ad6103ec3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos y pagos provisionales ISR",
+  "denominacion_comun": "Fideicomisos y pagos provisionales del ISR",
   "temas": [
     "fideicomisos",
-    "uso temporal de bienes inmuebles",
+    "uso temporal de bienes",
     "pagos provisionales",
-    "ISR"
+    "ISR",
+    "fideicomitente",
+    "fiduciaria"
   ],
   "terminos_coloquiales": [
     "fideicomiso",
+    "pago de impuesto sobre la renta",
     "ISR",
-    "pagos provisionales de ISR"
+    "pago provisional"
   ],
-  "resumen": "Los fideicomisos que otorguen el uso o goce temporal de bienes inmuebles no tienen la obligación de hacer pagos provisionales de ISR si el fideicomitente tributa bajo el Título III de la Ley del ISR.",
+  "resumen": "La disposición establece que en las operaciones de fideicomisos donde se otorgue el uso temporal de bienes inmuebles, la fiduciaria no tiene que hacer pagos provisionales de ISR si el fideicomitente tributa bajo ciertas condiciones. Esto está relacionado con las reglas del artículo 117 de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Los fideicomisos tienen que pagar ISR por el uso de inmuebles?",
-    "¿Qué obligaciones fiscales tienen los fideicomisos?",
-    "¿Los fideicomitentes deben hacer pagos provisionales del ISR?",
-    "¿Qué dice la Ley del ISR sobre pagos de fideicomisos?",
-    "¿Los pagos provisionales son necesarios en todos los fideicomisos?"
+    "¿Los fideicomisos tienen que pagar impuestos provisionales?",
+    "¿Qué condiciones debe cumplir un fideicomitente para no pagar ISR?",
+    "¿Qué es un fideicomiso en relación al ISR?",
+    "¿Quién es responsable de pagar el ISR en un fideicomiso?",
+    "¿Cómo se aplica el artículo 117 de la Ley del ISR en fideicomisos?"
   ]
 }

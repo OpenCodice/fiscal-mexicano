@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f695eca781af09d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cómputo de días de duración de actividades",
+  "denominacion_comun": "Cómputo de días de actividades",
   "temas": [
-    "actividades hidrocarburíferas",
-    "interrupciones temporales",
-    "interrupciones estacionales",
-    "cómputo de periodos",
+    "interrupción de actividades",
+    "actividades continuas",
+    "duración de actividades",
+    "dificultades laborales",
     "obligaciones fiscales",
-    "Ley de Ingresos sobre Hidrocarburos"
+    "Ley de Ingresos sobre Hidrocarburos",
+    "Reglamento de la LISH",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "cómputo de días",
-    "actividades en hidrocarburos",
-    "LISH",
-    "interrupciones en actividades"
+    "días de trabajo",
+    "interrupciones de actividades",
+    "obligaciones fiscales LISH",
+    "duración de actividades hidrocarburíferas"
   ],
-  "resumen": "Las actividades relacionadas con hidrocarburos se consideran en curso hasta que finalizan por completo, incluyendo interrupciones temporales y estacionales en el conteo de días. Si se espera que las actividades duren más de treinta días dentro de un año, el contribuyente debe cumplir con regulaciones fiscales específicas desde el inicio.",
+  "resumen": "Esta disposición aclara que las actividades relacionadas con hidrocarburos se consideran continuas a menos que terminen definitivamente. Se deben contabilizar las interrupciones temporales, y si las actividades durarán más de treinta días en un periodo de doce meses, los contribuyentes deben cumplir con ciertas obligaciones fiscales desde el inicio de estas actividades.",
   "preguntas_ejemplo": [
-    "¿Cómo se cuentan los días de actividades en hidrocarburos?",
-    "¿Qué pasa si interrumpo mis actividades temporalmente?",
-    "¿Cómo afectan las interrupciones estacionales el cómputo de días?",
-    "¿Cuándo debo cumplir con mis obligaciones fiscales si mis actividades duran más de treinta días?",
-    "¿Qué establece la LISH sobre la duración de actividades?"
+    "¿Qué pasa si las actividades de hidrocarburos se interrumpen temporalmente?",
+    "¿Cómo se calcula la duración de las actividades en el sector hidrocarburos?",
+    "¿Qué obligaciones fiscales tengo si mis actividades superan los treinta días?",
+    "¿Qué considera la LISH como una interrupción de actividades?",
+    "¿Cuándo se considera que las actividades de hidrocarburos han terminado?",
+    "¿Qué debo hacer si tengo dificultades laborales en mis actividades?"
   ]
 }

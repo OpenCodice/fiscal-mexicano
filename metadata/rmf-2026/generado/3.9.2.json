@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e29cd9e0c6413726",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Precios de Transferencia",
+  "denominacion_comun": "Precios de transferencia",
   "temas": [
-    "Obligaciones fiscales",
-    "Personas morales",
-    "Operaciones con partes relacionadas",
-    "Documentación comprobatoria",
-    "Ingresos acumulables",
-    "Deducciones autorizadas",
-    "Métodos de precios de transferencia"
+    "personas morales",
+    "obligaciones fiscales",
+    "documentación comprobatoria",
+    "operaciones con partes relacionadas",
+    "ingresos acumulables",
+    "deducciones autorizadas",
+    "métodos de valoración"
   ],
   "terminos_coloquiales": [
-    "Precios de transferencia",
-    "PT",
-    "Regla de precios de transferencia"
+    "precios de transferencia",
+    "operaciones entre empresas",
+    "documentos fiscales",
+    "LISR",
+    "ISR"
   ],
-  "resumen": "Esta disposición permite a ciertas personas morales, con ingresos limitados, no obtener y conservar documentación que demuestre las condiciones de sus operaciones con partes relacionadas. Esto aplica solo si se cumplen ciertos ingresos establecidos en la ley.",
+  "resumen": "Esta regla establece que las personas morales con ingresos menores a ciertos montos no necesitan conservar la documentación que demuestre el cumplimiento de las obligaciones relacionadas con precios de transferencia en sus operaciones con partes relacionadas. Esto incluye que sus ingresos y deducciones consideren precios de operaciones comparables.",
   "preguntas_ejemplo": [
     "¿Qué es la regla de precios de transferencia para personas morales?",
-    "¿Quiénes pueden omitir la documentación de precios de transferencia?",
-    "¿Cuáles son los límites de ingresos para no presentar comprobantes de precios de transferencia?",
-    "¿Qué operaciones están exentas de la documentación comprobatoria en precios de transferencia?",
-    "¿Qué métodos debo aplicar para precios de transferencia según la Ley del ISR?"
+    "¿Necesito documentación si mis ingresos son bajos en operaciones con partes relacionadas?",
+    "¿Cuáles son los requisitos para no conservar documentación en precios de transferencia?",
+    "¿Cómo se comparan mis operaciones con partes independientes?",
+    "¿Qué dice la LISR sobre precios de transferencia?",
+    "¿Qué ingresos son considerados para las obligaciones de precios de transferencia?"
   ]
 }

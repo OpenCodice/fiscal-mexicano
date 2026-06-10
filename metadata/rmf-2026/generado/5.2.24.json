@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:879837912c207355",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe del uso de marbetes y precintos en bebidas alcohólicas",
+  "denominacion_comun": "Informe de marbetes de bebidas alcohólicas",
   "temas": [
-    "marbetes físicos",
-    "marbetes electrónicos",
+    "uso de marbetes",
+    "beber alcohol",
+    "reportes electrónicos",
     "precintos",
-    "bebidas alcohólicas",
-    "obligaciones de reportar",
-    "categoría SKU",
+    "importación de bebidas",
     "sanciones por incumplimiento",
-    "plazos de reporte"
+    "identificación de productos",
+    "obligaciones de contribuyentes"
   ],
   "terminos_coloquiales": [
+    "marbetes",
+    "reportar marbetes",
+    "precintos de alcohol",
+    "marca de bebida",
+    "SKU de bebidas",
     "informe de marbetes",
-    "reportes de marbetes",
-    "marbetes de bebidas",
-    "marbetes y precintos",
     "FEMYP"
   ],
-  "resumen": "Los fabricantes, productores y comercializadores de bebidas alcohólicas deben reportar el uso de marbetes y precintos a la autoridad fiscal. Este reporte incluye información sobre los productos y se debe hacer dentro de un plazo específico tras el envasamiento o importación.",
+  "resumen": "Los productores y comercializadores de bebidas alcohólicas deben reportar el uso de marbetes físicos y electrónicos a la autoridad fiscal. Este reporte debe hacerse en un plazo específico, y se requiere información sobre el producto, como tipo de bebida y detalles del marbete.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en el informe de marbetes?",
-    "¿Cuándo tengo que reportar el uso de marbetes y precintos?",
+    "¿Cómo reporto los marbetes de mis bebidas alcohólicas?",
+    "¿Qué información debo incluir en el informe de marbetes?",
+    "¿Cuál es el plazo para reportar los marbetes y precintos?",
     "¿Qué pasa si no reporto los marbetes a tiempo?",
-    "¿Cómo se utilizan los SKU en el reporte de marbetes?",
-    "¿Qué es el formato FEMYP?"
+    "¿Cómo puedo obtener el formato para reportar mis marbetes?"
   ]
 }

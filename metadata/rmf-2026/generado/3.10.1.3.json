@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3bd2488838e88283",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Organizaciones Autorizadas para Donativos",
+  "denominacion_comun": "Organizaciones civiles y fideicomisos autorizados",
   "temas": [
     "donativos deducibles",
-    "organizaciones civiles",
-    "fideicomisos",
     "autorizaciones",
     "revocaciones",
     "cancelaciones",
-    "información del RFC"
+    "listados del SAT",
+    "regulación fiscal"
   ],
   "terminos_coloquiales": [
-    "organismos autorizados",
+    "organizaciones autorizadas para donativos",
+    "fideicomisos",
     "donativos deducibles",
-    "lista de organizaciones",
-    "SAT donativos",
-    "autorizaciones para donativos"
+    "revocación de autorizaciones",
+    "cancelación de donativos",
+    "SAT",
+    "ISR"
   ],
-  "resumen": "Esta disposición establece que el SAT publicará un listado de organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles, así como aquellos que han perdido dicha autorización. Incluye detalles como razón social, clave en el RFC, y situación ante el fisco.",
+  "resumen": "El SAT publica un listado de organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles, así como aquellos que han perdido dicha autorización. Este listado incluye información detallada sobre la autorización y sobre las que fueron revocadas o canceladas.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo ver la lista de organizaciones que pueden recibir donativos deducibles?",
-    "¿Qué pasa si una organización pierde su autorización para recibir donativos?",
-    "¿Cómo verifico si un fideicomiso está autorizado para donativos?",
-    "¿Qué información incluye el listado del SAT sobre organizaciones civiles?",
-    "¿Hay alguna forma de saber si mi donativo es deducible?"
+    "¿Dónde puedo encontrar organizaciones civiles que pueden recibir donativos deducibles?",
+    "¿Qué organizaciones han perdido su autorización para recibir donativos?",
+    "¿Cómo sé si un fideicomiso está autorizado para recibir donativos deducibles?",
+    "¿Qué información publica el SAT sobre las organizaciones autorizadas para donativos?",
+    "¿Hay un listado de organizaciones cuya autorización fue cancelada?"
   ]
 }

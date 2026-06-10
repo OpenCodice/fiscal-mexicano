@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ea2e3df75558271",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por Servicios No Pasivos",
+  "denominacion_comun": "Ingresos de servicios no pasivos",
   "temas": [
-    "Servicios a extranjeros",
-    "Beneficio fiscal",
-    "Requisitos de ingresos",
-    "Entidades extranjeras",
-    "Sociedades intermediarias"
+    "impuesto sobre la renta",
+    "entidades extranjeras",
+    "regímenes fiscales",
+    "servicios prestados al extranjero",
+    "ingresos pasivos",
+    "beneficio fiscal",
+    "sociedad intermediaria",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
+    "ingresos por servicios",
     "ingresos no pasivos",
-    "servicios a no residentes",
-    "LISR 176",
-    "regla de ingresos extranjeros"
+    "entidades extranjeras",
+    "sociedades intermediarias",
+    "fiscalidad de servicios",
+    "avisos ISR",
+    "LISR"
   ],
-  "resumen": "Los ingresos provenientes de servicios prestados a personas no residentes pueden considerarse no pasivos si no generan un beneficio fiscal en México y la entidad extranjera cumple con ciertos requisitos. Esto incluye que no sea una sociedad intermediaria y que tenga la capacidad adecuada para prestar dichos servicios.",
+  "resumen": "Esta regla establece que los ingresos provenientes de servicios prestados por entidades extranjeras no se consideran ingresos pasivos si se cumplen ciertos requisitos relacionados con beneficios fiscales y la capacidad de la entidad para prestar servicios. También se menciona la necesidad de que la entidad no sea considerada una sociedad intermediaria y que se cuente con la documentación pertinente.",
   "preguntas_ejemplo": [
-    "¿Qué son los ingresos no pasivos según la LISR?",
-    "¿Cuáles son los requisitos para que un ingreso no se considere pasivo?",
-    "¿Cómo se determina si un servicio prestado a un extranjero genera beneficio fiscal?",
-    "¿Qué es una sociedad intermediaria en este contexto?",
-    "¿Qué documento debo presentar para calificar mis ingresos como no pasivos?"
+    "¿Cuándo un ingreso por servicio se considera no pasivo?",
+    "¿Qué requisitos debo cumplir para clasificar ingresos de servicios como no pasivos?",
+    "¿Qué es una sociedad intermediaria según la regla 3.19.8?",
+    "¿Qué tipo de documentación necesito para justificar servicios prestados por una entidad extranjera?",
+    "¿Cómo se determina si hay un beneficio fiscal en los servicios prestados al extranjero?"
   ]
 }

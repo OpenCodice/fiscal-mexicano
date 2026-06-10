@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:efb637c8436039de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo del porcentaje de maquinaria y equipo",
@@ -14,23 +15,23 @@
     "maquinaria",
     "equipo",
     "valor en aduana",
+    "arrendamiento",
     "operación de maquila",
     "monto pendiente por depreciar"
   ],
   "terminos_coloquiales": [
-    "depreciación de maquinaria",
-    "cálculo de equipo",
-    "operación de maquila",
-    "ISR",
-    "Ley del ISR"
+    "porcentaje de maquinaria",
+    "cálculo de depreciación",
+    "maquinaria en maquila",
+    "equipo en maquila",
+    "maquinaria arrendada"
   ],
-  "resumen": "Esta regla establece cómo calcular el porcentaje de maquinaria y equipo que no ha sido depreciado al cierre del ejercicio fiscal en operaciones de maquila. Incluye consideraciones sobre el monto original de la inversión y la depreciación aplicable a diferentes tipos de propiedad de maquinaria y equipo.",
+  "resumen": "La regla establece cómo calcular el porcentaje de maquinaria y equipo que se puede depreciar en operaciones de maquila, considerando el valor en aduana y la duración de su uso en el ejercicio fiscal. También se detalla cómo se establece el monto original de la inversión y el cálculo de la depreciación dependiendo del tipo de adquisición de la maquinaria.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el monto pendiente por depreciar de la maquinaria en maquila?",
-    "¿Cuál es el valor en aduana considerado para la depreciación de equipo?",
-    "¿Qué normas debo seguir para depreciar maquinaria arrendada?",
-    "¿Qué sucede si el monto pendiente por depreciar es menor al 10%?",
-    "¿Cómo afecta la operación de maquila el cálculo de depreciación?",
-    "¿Qué datos necesito para calcular la depreciación de maquinaria importada?"
+    "¿Cómo se calcula el porcentaje de depreciación de mi maquinaria en maquila?",
+    "¿Qué requisitos tengo que seguir para determinar el monto pendiente por depreciar?",
+    "¿Qué pasa si arrendo maquinaria para mi operación de maquila?",
+    "¿Cómo influye el valor en aduana en el cálculo de depreciación?",
+    "¿Se puede depreciar cualquier tipo de maquinaria usada en maquila?"
   ]
 }

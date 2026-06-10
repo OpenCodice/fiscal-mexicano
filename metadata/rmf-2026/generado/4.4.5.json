@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:438d73b6bbe08d9d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de IVA en importación de mercancía donada",
+  "denominacion_comun": "Exención de IVA por importación de mercancía donada",
   "temas": [
     "IVA",
     "importación",
-    "donativos",
     "mercancía donada",
+    "donativos deducibles",
     "residentes en el extranjero"
   ],
   "terminos_coloquiales": [
+    "no pago de IVA en donaciones",
     "exención de IVA",
-    "IVA en donaciones",
-    "certificados de donación"
+    "donaciones importadas",
+    "donativos extranjeros"
   ],
-  "resumen": "Las organizaciones autorizadas a recibir donativos deducibles no tienen que pagar IVA por las importaciones de bienes donados por personas en el extranjero, siempre que cumplan con ciertos requisitos establecidos en la ley.",
+  "resumen": "Las personas que reciben donativos deducibles no tendrán que pagar IVA por las importaciones de bienes donados que provengan de residentes en el extranjero. Esto se aplica bajo ciertas condiciones establecidas en la ley.",
   "preguntas_ejemplo": [
-    "¿Quiénes no pagan IVA al importar mercancías donadas?",
-    "¿Qué se necesita para obtener la exención de IVA en importaciones?",
-    "¿Las donaciones de residentes en el extranjero están exentas de IVA?",
-    "¿Cómo funciona la exención de IVA para importaciones de donativos?",
-    "¿Cuáles son los requisitos para no pagar IVA por mercancía donada?"
+    "¿Tengo que pagar IVA si recibo donaciones de mercancías del extranjero?",
+    "¿Qué requisito debo cumplir para no pagar IVA en importaciones de mercancías donadas?",
+    "¿Quiénes están exentos del pago de IVA por importaciones de bienes donados?",
+    "¿Cómo afectan las donaciones internacionales al IVA que debo pagar?",
+    "¿Qué artículos de la ley regulan la exención de IVA en mercancías donadas?"
   ]
 }

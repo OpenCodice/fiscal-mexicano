@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:764d7ef08b7d164f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Préstamo de títulos o valores",
   "temas": [
-    "retención de impuestos",
-    "intereses por préstamos",
+    "impuesto sobre la renta",
+    "intereses",
+    "retención de impuesto",
+    "instituciones de crédito",
+    "casas de bolsa",
     "intermediarios financieros",
-    "operaciones de crédito",
-    "ley del ISR"
+    "contratos de préstamo"
   ],
   "terminos_coloquiales": [
     "préstamo de valores",
-    "retención del ISR",
-    "intermediarios de crédito",
+    "intereses generados",
+    "retención de impuestos",
+    "casas de bolsa",
     "LISR",
-    "LIF"
+    "regla 2.1.8."
   ],
-  "resumen": "Las instituciones de crédito o casas de bolsa que actúan como intermediarias en el préstamo de títulos o valores deben retener el impuesto sobre los intereses generados, pero se liberan de esta obligación los prestatarios. Este tratamiento fiscal se aplica en ciertas operaciones mencionadas en la ley.",
+  "resumen": "Esta regla establece que las instituciones de crédito y casas de bolsa que actúan como intermediarias en el préstamo de títulos o valores son responsables de la retención del impuesto sobre los intereses generados. Los prestatarios quedan exentos de esta retención cuando las instituciones intervienen en la operación.",
   "preguntas_ejemplo": [
-    "¿Cómo se manejan los impuestos en un préstamo de títulos?",
-    "¿Quién retiene el impuesto sobre intereses en operaciones de préstamo de valores?",
-    "¿Qué exenciones tengo al prestar títulos o valores?",
-    "¿Cuáles son las obligaciones fiscales para las casas de bolsa en préstamos de títulos?",
-    "¿Qué dice la LISR sobre el préstamo de títulos?",
-    "¿Qué rol tienen las instituciones de crédito en la retención de impuestos en préstamos?"
+    "¿Qué impuestos se deben retener en un préstamo de valores?",
+    "¿Quién retiene el impuesto sobre los intereses en un préstamo de títulos?",
+    "¿Cuándo están exentos los prestatarios de la retención del impuesto?",
+    "¿Qué entidades pueden actuar como intermediarios en un préstamo de valores?",
+    "¿Qué artículos de la Ley del ISR son relevantes para el préstamo de títulos?",
+    "¿Cómo se determina la retención en los préstamos de valores?"
   ]
 }

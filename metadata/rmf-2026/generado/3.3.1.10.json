@@ -6,35 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5add881fd75683f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adquisición de combustibles con monederos electrónicos",
+  "denominacion_comun": "Monederos electrónicos de combustibles",
   "temas": [
-    "monederos electrónicos",
     "combustibles",
     "vehículos marítimos",
     "vehículos aéreos",
     "vehículos terrestres",
     "CFDI",
-    "obligaciones fiscales",
-    "servicios de emisor",
+    "emisor autorizado",
+    "obligaciones de información",
     "estaciones de servicio"
   ],
   "terminos_coloquiales": [
-    "monederos de combustible",
-    "compra de gasolina con tarjeta electrónica",
+    "monederos electrónicos",
+    "comprar combustible",
+    "combustible para autos",
     "CFDI de combustibles",
-    "monederos electrónicos SAT",
-    "ME",
-    "monedero electrónico"
+    "estaciones de servicio",
+    "SAT",
+    "comprobantes"
   ],
-  "resumen": "Esta regla establece las obligaciones que deben cumplir los emisores autorizados de monederos electrónicos para la adquisición de combustibles en vehículos de diferentes tipos. Se requiere el registro de datos, la emisión de CFDIs y el mantenimiento de información a disposición de las autoridades fiscales.",
+  "resumen": "Esta regla establece las obligaciones de los emisores autorizados de monederos electrónicos para la adquisición de combustibles para diferentes tipos de vehículos. Incluye la necesidad de emitir CFDI y mantener registros de las operaciones, así como cumplir con requisitos de verificación e información ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los emisores de monederos electrónicos para la compra de combustibles?",
-    "¿Cómo debo emitir el CFDI por la compra de combustible con monedero electrónico?",
-    "¿Qué información debo guardar si uso un monedero electrónico para combustible?",
-    "¿Qué requisitos tiene un emisor de monederos para cumplir con el SAT?",
-    "¿Se puede usar un mismo monedero para diferentes estaciones de servicio?",
-    "¿Qué hacer si cambio mi monedero electrónico autorizado?"
+    "¿Qué obligaciones tienen los emisores de monederos electrónicos para comprar combustibles?",
+    "¿Cómo se debe emitir un CFDI para la compra de combustible?",
+    "¿Qué información debo guardar al usar un monedero electrónico para combustible?",
+    "¿Cuáles son los requisitos para las estaciones de servicio que aceptan monederos electrónicos?",
+    "¿Qué pasa si el emisor y la estación de servicio son la misma entidad?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff0d293736a9b445",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actualización de información en el RFC",
   "temas": [
     "buzón tributario",
-    "registro de correo electrónico",
+    "correo electrónico",
     "número telefónico",
-    "obligaciones fiscales",
-    "trámites ante el SAT"
+    "inscripción en el RFC",
+    "cambio de domicilio fiscal",
+    "reanudación de actividades"
   ],
   "terminos_coloquiales": [
-    "registro RFC",
-    "actualización de datos",
-    "buzón del SAT",
+    "registro de datos en el RFC",
+    "buzón tributario",
     "cambio de domicilio",
-    "inscripción en el RFC"
+    "inscripción en el RFC",
+    "avisos al SAT"
   ],
-  "resumen": "Los contribuyentes deben mantener actualizada una dirección de correo electrónico o un número telefónico, cumpliendo con la habilitación del buzón tributario o por medio de ciertos trámites ante el SAT. Esto asegura que tienen un medio de contacto registrado.",
+  "resumen": "Los contribuyentes deben registrar y mantener actualizada su dirección de correo electrónico o número telefónico a través del buzón tributario. Si no están obligados a habilitarlo, pueden cumplir con la obligación mediante la presentación de ciertos trámites ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo actualizo mi información en el RFC?",
-    "¿Qué es el buzón tributario?",
+    "¿Cómo actualizo mi correo electrónico en el RFC?",
     "¿Qué trámites necesito para cambiar mi domicilio fiscal?",
-    "¿Es obligatorio tener un correo electrónico en el RFC?",
-    "¿Cómo sé si tengo habilitado mi buzón tributario?"
+    "¿Qué es el buzón tributario y cómo lo habilito?",
+    "¿Cómo reinscribo mis actividades en el RFC?",
+    "¿Qué debo hacer si no tengo buzón tributario?",
+    "¿Qué información debo registrar en el RFC?"
   ]
 }

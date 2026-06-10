@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd1211b9049800eb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "FCF para pago de créditos fiscales",
+  "denominacion_comun": "Pago de créditos fiscales administrados por entidades federativas",
   "temas": [
     "créditos fiscales",
     "entidades federativas",
-    "pago FCF",
-    "solicitudes de contribuyentes",
-    "estímulo fiscal"
+    "SAT",
+    "estímulo fiscal",
+    "línea de captura",
+    "contribuyentes",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "pago de créditos fiscales",
+    "pago de impuestos",
+    "créditos fiscales del SAT",
+    "estímulo fiscal",
     "FCF",
     "línea de captura"
   ],
-  "resumen": "Esta disposición establece cómo los contribuyentes deben pagar los créditos fiscales que son administrados por las entidades federativas, utilizando el formato FCF. Se refiere a solicitudes presentadas en base a un estímulo fiscal específico.",
+  "resumen": "Esta disposición establece que los contribuyentes deben pagar créditos fiscales delegados al cobro por entidades federativas mediante una línea de captura, de acuerdo con un procedimiento específico. Se menciona un formulario para solicitar un estímulo fiscal relacionado con estos pagos.",
   "preguntas_ejemplo": [
-    "¿Cómo pago mis créditos fiscales a través del FCF?",
+    "¿Cómo puedo pagar un crédito fiscal que me asignaron?",
     "¿Qué es la línea de captura para créditos fiscales?",
-    "¿Dónde encuentro la ficha de trámite para el estímulo fiscal?",
-    "¿Qué créditos fiscales administra el SAT en las entidades federativas?",
-    "¿Qué necesito para solicitar el estímulo fiscal del Vigésimo Segundo Transitorio?"
+    "¿Dónde encuentro el formulario para aplicar el estímulo fiscal?",
+    "¿Qué créditos fiscales maneja el SAT a través de las entidades federativas?",
+    "¿Qué debo hacer para regularizar mis créditos fiscales?",
+    "¿Cuáles son los pasos para solicitar un estímulo fiscal del SAT?"
   ]
 }

@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9495ee55962c445",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitudes de marbetes y precintos",
+  "denominacion_comun": "Solicitud y entrega de marbetes o precintos",
   "temas": [
     "marbetes",
     "precintos",
-    "solicitud de marbetes",
-    "recogida de precintos",
-    "plazos de entrega",
-    "procedimiento de recogida",
-    "trámites del SAT"
+    "solicitud",
+    "entrega",
+    "ADSC",
+    "plazos",
+    "buzón tributario"
   ],
   "terminos_coloquiales": [
-    "pedir marbetes",
-    "recoger precintos",
-    "trámites de marbetes",
-    "SAT marbetes",
-    "LIEPS",
-    "RMF"
+    "marbetes",
+    "precintos",
+    "cómo recoger marbetes",
+    "plazos para marbetes",
+    "consulta de marbetes",
+    "SAT",
+    "LIEPS"
   ],
-  "resumen": "Los contribuyentes que necesiten marbetes o precintos deben solicitarlos a través del Portal del SAT y recogerlos en lugares específicos según su domicilio fiscal. Hay plazos y requisitos para la recogida y quienes no cumplen perderán su autorización.",
+  "resumen": "Los contribuyentes deben solicitar marbetes o precintos a través del Portal del SAT y recogerlos en lugares específicos según su domicilio fiscal. Si no recogen los marbetes en un plazo determinado, la autorización quedará sin efectos.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito marbetes para mi negocio?",
+    "¿Cómo solicito marbetes o precintos?",
     "¿Dónde puedo recoger mis marbetes?",
     "¿Qué pasa si no recojo mis marbetes a tiempo?",
-    "¿Cuándo me entregarán los precintos que solicité?",
-    "¿Qué pasa si necesito más de 500,000 marbetes?",
-    "¿Cómo registro una cita para recoger mis marbetes?"
+    "¿Cuál es el proceso para registrar una cita para marbetes?",
+    "¿Qué debo hacer si tengo dudas sobre mi solicitud de marbetes?"
   ]
 }

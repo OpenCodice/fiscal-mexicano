@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3ac550f8ca4e459",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidades de pago y reducción de multas",
+  "denominacion_comun": "Facilidades de Pago y Reducción de Multas",
   "temas": [
     "pago a plazos",
     "reducción de multas",
     "recargos por prórroga",
-    "solicitud de autorización",
-    "contribuciones retenidas",
-    "notificación de resoluciones",
-    "cobro de saldos insolutos"
+    "contribuciones omitidas",
+    "fichas de trámite",
+    "solicitud de autorización"
   ],
   "terminos_coloquiales": [
     "pago a plazos",
-    "reducción de multas",
+    "deuda fiscal",
+    "redención de multas",
     "recargos",
-    "solicitudes CFF",
-    "fichas de trámite"
+    "solicitud de reducción"
   ],
-  "resumen": "Esta regla establece cómo los contribuyentes pueden solicitar pagar sus adeudos fiscales a plazos y cómo pueden reducir multas y recargos si cumplen con ciertos requisitos. Además, indica que las contribuciones deben pagarse con los recursos propios del contribuyente y no ser cobradas a otros sujetos obligados.",
+  "resumen": "Esta disposición establece los requisitos que deben cumplir los contribuyentes que desean solicitar el pago a plazos de sus adeudos fiscales o la reducción de multas. Los pagos deben realizarse de acuerdo con los plazos y condiciones que la autoridad fiscal indique.",
   "preguntas_ejemplo": [
     "¿Cómo puedo pagar mis impuestos a plazos?",
-    "¿Qué debo hacer para solicitar una reducción de multas?",
-    "¿Cuáles son los requisitos para pagarlos en parcialidades?",
-    "¿Qué pasa si no pago la totalidad del crédito a tiempo?",
-    "¿Cómo se aplican los recargos por prórroga?",
-    "¿Dónde encuentro las fichas de trámite para solicitar facilidades?"
+    "¿Qué requisitos necesito para reducir mis multas fiscales?",
+    "¿Puedo solicitar una prórroga para mis contribuciones?",
+    "¿Qué sucede si no pago a tiempo mi adeudo fiscal?",
+    "¿Dónde encuentro la ficha de trámite para pagar en parcialidades?"
   ]
 }

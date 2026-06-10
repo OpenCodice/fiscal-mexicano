@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:947b9dbaecc388a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimulos fiscales cuentas personales del ahorro",
+  "denominacion_comun": "Cuentas personales del ahorro",
   "temas": [
-    "Registro de instituciones",
-    "Inscripción de instituciones",
-    "Estímulos fiscales",
-    "Cuentas personales del ahorro",
-    "Requisitos de información",
-    "Documentación necesaria",
-    "Aviso de actualización"
+    "inscripción de instituciones",
+    "estímulos fiscales",
+    "registro de instituciones",
+    "documentación requerida",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
-    "Estimulos fiscales",
-    "Cuentas de ahorro",
-    "Registro de estímulos",
-    "Ficha de trámite 95/ISR",
-    "Ficha de trámite 96/ISR"
+    "cuentas de ahorro",
+    "estímulos fiscales",
+    "inscripción en el registro",
+    "fichas 95/ISR y 96/ISR"
   ],
-  "resumen": "Las instituciones financieras deben inscribirse en un registro para administrar estímulos fiscales relacionados con cuentas personales de ahorro. Deben presentar documentación anual para continuar en el registro y el SAT puede solicitar información adicional si es necesario.",
+  "resumen": "Las instituciones que administran cuentas personales del ahorro deben inscribirse en un registro específico y presentar documentación anualmente para mantener su inscripción. El SAT puede requerir información adicional si la presentada es incompleta o errónea.",
   "preguntas_ejemplo": [
-    "¿Qué son las cuentas personales del ahorro?",
-    "¿Cómo me inscribo en el registro de estímulos fiscales?",
-    "¿Qué documentos necesito para el trámite de inscripción?",
-    "¿Qué pasa si mi inscripción tiene errores?",
-    "¿Dónde puedo consultar el registro de instituciones inscritas?"
+    "¿Cómo me inscribo en el registro de cuentas personales del ahorro?",
+    "¿Qué documentos necesito para la inscripción de instituciones?",
+    "¿Cuál es el procedimiento para continuar inscrito en el registro?",
+    "¿Qué son las fichas de trámite 95/ISR y 96/ISR?",
+    "¿Dónde puedo consultar el registro de instituciones que gestionan cuentas de ahorro?"
   ]
 }

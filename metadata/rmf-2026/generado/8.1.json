@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:783f1410f23f8371",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Factor de actualización del ISAN",
   "temas": [
+    "actualización de tarifas",
     "ISAN",
-    "tarifa",
-    "actualización",
     "Ley Federal del ISAN",
+    "CFF",
     "INPC",
-    "CFF"
+    "tramos de tarifa",
+    "montos de cantidades",
+    "periodos de actualización"
   ],
   "terminos_coloquiales": [
+    "impuesto sobre automóviles nuevos",
     "actualización del ISAN",
+    "tarifas de impuestos de coches",
+    "costo de automóvil",
     "factor de actualización",
-    "tarifa ISAN",
-    "ISAN"
+    "LFISAN"
   ],
-  "resumen": "Se actualizan las cantidades correspondientes a la tarifa del ISAN en enero de cada año, calculando un factor basado en el INPC. Este factor se obtiene de dividir el INPC más reciente entre el INPC más antiguo del periodo correspondiente.",
+  "resumen": "Esta regla establece cómo se actualizarán las cantidades y tarifas del Impuesto sobre Automóviles Nuevos (ISAN) utilizando el Indice Nacional de Precios al Consumidor (INPC). La actualización se realizará anualmente en enero, considerando un periodo específico.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualiza la tarifa del ISAN?",
-    "¿Qué es el factor de actualización del ISAN?",
-    "¿Qué montos se actualizan en el ISAN cada año?",
-    "¿Cuál es el procedimiento para actualizar el ISAN?",
-    "¿Qué índices se utilizan para calcular la actualización del ISAN?"
+    "¿Cómo se actualiza el impuesto sobre automóviles nuevos?",
+    "¿Qué factor se utiliza para la actualización del ISAN?",
+    "¿Cada cuándo se revisan las tarifas del ISAN?",
+    "¿Qué artículo de la ley federal del ISAN habla sobre la actualización de tarifas?",
+    "¿Cuáles son los montos a considerar para el ISAN?",
+    "¿Qué es el INPC y cómo afecta al ISAN?"
   ]
 }

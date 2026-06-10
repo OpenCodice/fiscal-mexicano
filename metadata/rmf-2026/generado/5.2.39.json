@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f1841df145fc19dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contribución del IEPS",
+  "denominacion_comun": "Contribuyente del IEPS",
   "temas": [
     "Constancia de Situación Fiscal",
-    "obligaciones del IEPS",
-    "impuesto especial",
-    "documentación fiscal"
+    "Obligaciones fiscales",
+    "Impuesto Especial sobre Producción y Servicios",
+    "Reglamento del IEPS"
   ],
   "terminos_coloquiales": [
+    "certificado de contribuyente del IEPS",
     "constancia fiscal",
-    "contribuyente del IEPS",
     "IEPS"
   ],
-  "resumen": "Se considera que se es contribuyente del IEPS si se cuenta con la Constancia de Situación Fiscal, la cual debe indicar las obligaciones de este impuesto.",
+  "resumen": "La Constancia de Situación Fiscal sirve para demostrar que alguien es contribuyente del IEPS. Este documento debe mostrar las obligaciones relacionadas con este impuesto.",
   "preguntas_ejemplo": [
-    "¿Qué es la Constancia de Situación Fiscal para el IEPS?",
+    "¿Qué es la Constancia de Situación Fiscal del IEPS?",
     "¿Cómo puedo saber si soy contribuyente del IEPS?",
-    "¿Qué obligaciones se mencionan en la constancia del IEPS?",
-    "¿Necesito un documento especial para el IEPS?",
-    "¿Qué implica ser contribuyente del IEPS?"
+    "¿Qué obligaciones fiscales se deben incluir en la constancia del IEPS?",
+    "¿Dónde puedo obtener mi constancia de contribuyente del IEPS?",
+    "¿Qué documentos necesito para acreditar mis obligaciones del IEPS?"
   ]
 }

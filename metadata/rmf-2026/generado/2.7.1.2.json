@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a75823acccddf16b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Generación del CFDI",
   "temas": [
     "CFDI",
+    "comprobantes fiscales",
     "validación",
-    "sello digital",
-    "especificaciones técnicas",
+    "certificación",
     "addenda",
-    "sistemas informáticos",
+    "sistema informático",
     "proveedores de certificación"
   ],
   "terminos_coloquiales": [
-    "comprobante fiscal digital",
+    "factura",
+    "comprobante fiscal",
     "CFDI",
+    "validar mi CFDI",
     "certificación de CFDI",
-    "sello del SAT",
-    "validación de CFDI"
+    "addenda CFDI"
   ],
-  "resumen": "Los contribuyentes deben generar CFDI siguiendo ciertas especificaciones técnicas y enviarlos a un PCCFDI para validación y certificación. También pueden incorporar addendas y usar sistemas propios o servicios de terceros para generarlos.",
+  "resumen": "Esta disposición establece los requisitos que deben cumplir los CFDI generados por los contribuyentes para su validación y certificación. Los contribuyentes pueden utilizar diferentes métodos para generar sus CFDI, incluyendo sistemas propios o servicios de terceros.",
   "preguntas_ejemplo": [
-    "¿Cómo genero un CFDI válido?",
-    "¿Qué pasos debo seguir para certificar mi CFDI?",
-    "¿Qué es el PCCFDI y qué función tiene?",
-    "¿Puedo usar un software para crear mis CFDI?",
-    "¿Qué es una addenda y cómo la incorporo al CFDI?"
+    "¿Cómo genero mi CFDI?",
+    "¿Qué necesito para validar un CFDI?",
+    "¿Qué es una addenda y cómo la incorporo en mi CFDI?",
+    "¿Puedo usar un sistema de terceros para mi CFDI?",
+    "¿Dónde encuentro aplicaciones gratuitas para generar CFDI?"
   ]
 }

@@ -6,34 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0da413772f4b7df6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Navieros y Comprobantes Fiscales",
+  "denominacion_comun": "Navieros y CFDI",
   "temas": [
     "CFDI",
-    "Contribuciones",
-    "Erogaciones",
-    "Agentes navieros",
-    "Requisitos fiscales",
-    "Deducciones",
-    "Acreditamientos",
-    "Gastos por cuenta de terceros"
+    "ingresos acumulables",
+    "gastos por cuenta de terceros",
+    "acreditamiento de deducciones",
+    "complemento informativo",
+    "documentación comprobatoria"
   ],
   "terminos_coloquiales": [
-    "CFDI de ingresos",
-    "Papeles de trabajo",
-    "Deducciones con navieros",
-    "Gastos de terceros",
-    "Agentes aduanales",
-    "Fedatarios públicos"
+    "factura",
+    "navieros",
+    "gastos",
+    "deducciones",
+    "CFDI con complemento",
+    "documentos para deducción"
   ],
-  "resumen": "Esta regla establece que los fedatarios públicos, agentes aduanales y navieros pueden acreditar determinadas cantidades recibidas de contribuyentes como no ingresos acumulables, siempre que expidan el CFDI correspondiente y cumplan con ciertos requisitos. También se especifica que ciertos gastos no son aplicables a esta disposición.",
+  "resumen": "Esta regla permite a los fedatarios públicos, agentes aduanales y navieros no considerar como ingresos acumulables las cantidades que reciben de los contribuyentes, siempre que expidan un CFDI correspondiente y cumplan con una serie de requisitos de documentación. También indica que el complemento informativo no se puede usar para deducciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se manejan las erogaciones a través de navieros?",
-    "¿Qué requisitos deben cumplir los CFDI emitidos por navieros?",
-    "¿En qué casos se puede considerar un gasto como no ingreso acumulable?",
-    "¿Qué pasa si no reintegro las cantidades a tiempo?",
-    "¿Qué documentación necesito para deducir gastos con navieros?",
-    "¿La regla aplica para gastos de viaje?"
+    "¿Cómo puedo acreditar mis gastos si uso un naviero?",
+    "¿Qué hacer si no reintegro las cantidades a tiempo a un contribuyente?",
+    "¿Se puede utilizar un CFDI con complemento para deducir impuestos?",
+    "¿Qué requisitos deben cumplir los navieros para la emisión de CFDI?",
+    "¿Los gastos por viáticos son deducibles si uso un agente aduanal?"
   ]
 }

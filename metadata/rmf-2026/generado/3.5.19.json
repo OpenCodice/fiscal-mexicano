@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:43800dd09ec5d287",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de depósitos en efectivo",
   "temas": [
-    "Instituciones del sistema financiero",
+    "Impuesto sobre la Renta",
+    "Instituciones Financieras",
     "Depósitos en efectivo",
-    "Información del contribuyente",
     "Cheques de caja",
-    "Identificación fiscal"
+    "Identificación del contribuyente"
   ],
   "terminos_coloquiales": [
-    "Registro de depósitos",
-    "Depósitos en efectivo",
-    "Datos del contribuyente",
-    "Cheques de caja",
-    "LISR 55"
+    "depósitos en efectivo",
+    "registro de depósitos",
+    "cheques de caja",
+    "SAT",
+    "LISR",
+    "Ley del ISR"
   ],
-  "resumen": "Las instituciones financieras deben llevar un registro de los depósitos en efectivo de los contribuyentes y las compras de cheques de caja. Este registro incluye datos como la identificación del contribuyente, la información de la cuenta y detalles de cada operación.",
+  "resumen": "Las instituciones del sistema financiero deben llevar un registro de los depósitos en efectivo realizados por los contribuyentes, así como de las adquisiciones de cheques de caja. Este registro debe incluir información detallada tanto del contribuyente como de los depósitos y las cuentas involucradas.",
   "preguntas_ejemplo": [
-    "¿Cómo debo registrar los depósitos en efectivo?",
-    "¿Qué información necesita la institución financiera para registrar depósitos?",
-    "¿Qué datos debo proporcionar para adquirir un cheque de caja?",
-    "¿Qué es el registro de depósitos en efectivo?",
-    "¿Qué información debe contener el registro de cheques de caja?"
+    "¿Qué información deben registrar las instituciones financieras sobre depósitos en efectivo?",
+    "¿Cómo se llevan los registros de cheques de caja en efectivo?",
+    "¿Qué datos necesita el SAT para el registro de depósitos?",
+    "¿Los datos del contribuyente son obligatorios en el registro de depósitos?",
+    "¿Qué pasa si la institución no tiene todos los datos del registro?",
+    "¿Qué información se requiere para registrar un cheque de caja?"
   ]
 }

@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:942545294817f730",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cédula de Datos Fiscales",
   "temas": [
-    "Cédula de Datos Fiscales",
     "datos fiscales",
+    "ficha de trámite",
     "SAT",
-    "trámites fiscales",
-    "comprobantes fiscales"
+    "correo electrónico"
   ],
   "terminos_coloquiales": [
-    "Cédula Fiscal",
-    "datos del SAT",
-    "datos tributarios"
+    "cédula fiscal",
+    "datos fiscales en el SAT",
+    "sacar cédula",
+    "Cédula de Datos Fiscales (CDF)"
   ],
-  "resumen": "Las personas físicas pueden obtener su Cédula de Datos Fiscales a través de un trámite específico, que se envía a su correo registrado en el SAT.",
+  "resumen": "Las personas físicas pueden obtener su Cédula de Datos Fiscales siguiendo el trámite especificado en la ficha correspondiente. Esta cédula será enviada al correo electrónico registrado en el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener mi Cédula de Datos Fiscales?",
-    "¿Dónde se envía la Cédula de Datos Fiscales?",
-    "¿Qué necesito para tramitar la Cédula de Datos Fiscales?",
-    "¿Qué artículos del CFF regulan la Cédula de Datos Fiscales?"
+    "¿Cómo obtengo mi Cédula de Datos Fiscales?",
+    "¿Qué debo hacer para recibir mis datos fiscales por correo?",
+    "¿Qué es la Cédula de Datos Fiscales?",
+    "¿Dónde encuentro la ficha de trámite para la cédula fiscal?",
+    "¿Puede enviarse la cédula a mi correo?",
+    "¿Qué información contiene la Cédula de Datos Fiscales?"
   ]
 }

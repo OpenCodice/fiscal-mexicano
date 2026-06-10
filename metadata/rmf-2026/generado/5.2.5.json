@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d8b01881a986e75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de marbetes",
+  "denominacion_comun": "Marbetes de Bebidas Alcohólicas",
   "temas": [
+    "autorización de marbetes",
     "marbetes físicos",
     "marbetes electrónicos",
-    "Código QR",
     "Padrón de Contribuyentes",
-    "bebidas alcohólicas"
+    "Código QR",
+    "etiquetado de envases"
   ],
   "terminos_coloquiales": [
-    "marbetes",
     "etiquetas de bebidas",
-    "autorización de marbetes",
-    "Solicitud de inscripción al Padrón",
-    "IEPS"
+    "marbetes",
+    "códigos QR",
+    "inscripción al padrón",
+    "donde pegar el marbete"
   ],
-  "resumen": "La regla establece las condiciones para autorizar la adhesión de marbetes físicos y electrónicos en el envase de bebidas alcohólicas. También menciona que se debe garantizar la legibilidad del Código QR y que esta adhesión no contravenga otras disposiciones legales.",
+  "resumen": "La regla establece cómo los contribuyentes deben solicitar autorización para adherir marbetes en el envase de bebidas alcohólicas. Se permite la colocación de marbetes físicos y electrónicos, siempre que cumplan con ciertas condiciones para garantizar su visibilidad y legalidad.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la autorización para usar marbetes en mis productos?",
-    "¿Dónde puedo pegar el marbete en el envase?",
-    "¿Qué requisitos debo cumplir para la adhesión de marbetes?",
-    "¿Qué hacer si quiero utilizar un marbete electrónico?",
-    "¿Cómo garantizo la lectura del Código QR en el envase?"
+    "¿Cómo puedo solicitar la autorización para el marbete de mis bebidas alcohólicas?",
+    "¿Dónde debo colocar el marbete en el envase?",
+    "¿Qué debo hacer para cumplir con la regla de marbetes?",
+    "¿Puedo usar un código QR en el marbete?",
+    "¿Qué requisitos debo seguir para adherir marbetes electrónicos?"
   ]
 }

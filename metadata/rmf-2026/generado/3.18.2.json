@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4da0a80775cc48f4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Jubilaciones de extranjeros",
+  "denominacion_comun": "Jubilaciones de residentes en el extranjero",
   "temas": [
-    "Fondos de pensiones",
-    "Participación accionaria",
-    "Proporción de tenencia",
-    "Exenciones fiscales"
+    "fondos de pensiones",
+    "tenencia accionaria",
+    "asociación en participación",
+    "exención de impuestos"
   ],
   "terminos_coloquiales": [
-    "Jubilaciones extranjeras",
-    "Fondos de pensiones en el extranjero",
-    "ISR 153"
+    "jubilaciones extranjeras",
+    "fondos de pensiones extranjeros",
+    "participación de fondos en empresas",
+    "ISR",
+    "exención por jubilaciones"
   ],
-  "resumen": "Se establece cómo las personas morales en México deben calcular la proporción de participación de fondos de pensiones y jubilaciones extranjeros en su tenencia accionaria. Esto afecta la exención fiscal que pueden recibir de acuerdo con la Ley del ISR.",
+  "resumen": "Se establecen los lineamientos para que las personas morales en México calculen la participación de fondos de pensiones y jubilaciones del extranjero en sus acciones. Se detalla cómo se determina la proporción diaria, mensual y anual de dicha participación, y se especifica la exención aplicable conforme al ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la participación de fondos de pensiones extranjeros en una empresa mexicana?",
-    "¿Qué método se usa para calcular la proporción de tenencia accionaria de jubilaciones extranjeras?",
-    "¿Cómo se aplican las exenciones fiscales para jubilaciones de extranjeros?",
-    "¿Qué significa la proporción promedio anual para fondos de pensiones extranjeros?",
-    "¿Cómo afecta el convenio de utilidades a la participación de fondos de pensiones en México?"
+    "¿Cómo calculo la participación de un fondo de pensiones extranjero en mi empresa?",
+    "¿Qué exenciones fiscales aplican a los fondos de jubilaciones del extranjero?",
+    "¿Cuáles son las reglas para calcular la tenencia accionaria de fondos extranjeros?",
+    "¿Qué es una asociación en participación con fondos extranjeros?"
   ]
 }

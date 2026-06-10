@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c083a934522daf76",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones para sociedades transparentes fiscales",
+  "denominacion_comun": "Deduciones para sociedades transparentes",
   "temas": [
-    "Deducciones",
-    "Sociedades transparentes",
-    "Legislación extranjera",
-    "Cumplimiento fiscal",
-    "Tratados para evitar doble tributación"
+    "deducciones",
+    "sociedades transparentes",
+    "legislación extranjera",
+    "tratados para evitar doble tributación",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "Deducciones para sociedades",
-    "Sociedades transparentes",
-    "Tratados fiscales"
+    "deducciones fiscales",
+    "sociedades transparentes",
+    "sociedades con transparencia",
+    "impuestos",
+    "ISR"
   ],
-  "resumen": "Las sociedades mexicanas consideradas transparentes fiscales pueden deducir montos no deducibles si sus socios o accionistas acumulan los ingresos el año siguiente y están en un país con tratado de doble tributación con México. Deben conservar la documentación correspondiente.",
+  "resumen": "Esta regla establece que las sociedades mexicanas consideradas transparentes para efectos fiscales pueden deducir montos no deducibles en ciertos casos, siempre que sus socios sean residentes de países con tratados fiscales con México. También se requiere conservar la documentación que respalde esta deducción.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir montos no deducibles en sociedades transparentes?",
     "¿Qué son las sociedades transparentes fiscales?",
-    "¿Qué necesito para aprovechar los tratados de doble tributación?",
-    "¿Cuáles son los requisitos para las deducciones en sociedades?",
-    "¿Qué documentación debo conservar para las deducciones fiscales?"
+    "¿Cómo se deducen costos para sociedades en tratados fiscales?",
+    "¿Qué documentación necesito para aplicar deducciones fiscales?",
+    "¿Cuándo puedo deducir montos no deducibles por transparencia fiscal?",
+    "¿Qué requisitos deben cumplir mis socios para que yo pueda deducir gastos?"
   ]
 }

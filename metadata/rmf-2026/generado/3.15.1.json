@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e78e9204c454b4ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización de deducciones por enajenación de bienes",
+  "denominacion_comun": "Opción para la actualización de deducciones",
   "temas": [
-    "Impuesto sobre la renta",
-    "Enajenación de bienes",
-    "Deducciones",
-    "Ingresos",
-    "Personas físicas"
+    "impuesto sobre la renta",
+    "ingresos por enajenación",
+    "actualización de deducciones",
+    "inmuebles",
+    "vehículos usados"
   ],
   "terminos_coloquiales": [
-    "actualización de deducciones",
-    "enajenación de inmuebles",
-    "ISR",
-    "LISR 121"
+    "actualizar deducciones",
+    "enajenación de bienes",
+    "ventas de propiedades",
+    "ingresos por venta de casas",
+    "ISR por enajenación"
   ],
-  "resumen": "Los contribuyentes que vendan inmuebles pueden elegir actualizar sus deducciones según lo establecido en la ley o usar una tabla específica del Anexo 9 para calcularlas.",
+  "resumen": "Esta disposición permite a las personas físicas que venden inmuebles elegir entre actualizar sus deducciones conforme a la Ley del ISR o aplicar una tabla específica. También se menciona la enajenación de vehículos usados con ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Cómo actualizo mis deducciones por la venta de un inmueble?",
-    "¿Cuáles son las opciones para deducir ingresos por enajenación de bienes?",
-    "¿Qué dice la LISR sobre la enajenación de inmuebles?",
-    "¿Puedo aplicar una tabla para la deducción de bienes vendidos?",
-    "¿Qué debo hacer si vendo un inmueble en el futuro?"
+    "¿Cómo puedo actualizar mis deducciones por la venta de un inmueble?",
+    "¿Qué opciones tengo para deducir la venta de mi casa?",
+    "¿Se puede aplicar actualización de deducciones para vehículos usados?",
+    "¿Qué dice la ley sobre deducciones en la enajenación de propiedades?",
+    "¿Qué debo considerar si vendo un inmueble?"
   ]
 }

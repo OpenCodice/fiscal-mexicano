@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc994cfadb30dd99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de los proveedores de certificación de CFDI",
+  "denominacion_comun": "Obligaciones de proveedores de certificación de CFDI",
   "temas": [
-    "Proveedores de certificación",
-    "CFDI",
-    "Obligaciones fiscales",
-    "Verificación y supervisión",
-    "Protección de datos personales",
-    "Validación de CFDI",
-    "Emisión de CFDI",
-    "Matriz de control"
+    "Cumplimiento fiscal",
+    "Capital social",
+    "Garantías",
+    "Verificaciones del SAT",
+    "Confidencialidad de datos",
+    "Certificación de CFDI",
+    "Plazo de conservación",
+    "Cambio tecnológico"
   ],
   "terminos_coloquiales": [
-    "PCCFDI",
-    "proveedores de CFDI",
-    "certificación de CFDI",
-    "obligaciones del PCCFDI"
+    "proveedores de certificación",
+    "CFDI",
+    "certificación de facturas",
+    "SAT",
+    "servicios de CFDI"
   ],
-  "resumen": "Los proveedores de certificación de CFDI deben cumplir con diversas obligaciones, como estar al corriente en sus obligaciones fiscales, mantener un capital mínimo y garantizar la confidencialidad de los datos de los contribuyentes. También deben facilitar la verificación del SAT sobre sus procesos y asegurar la correcta validación de los CFDI.",
+  "resumen": "Los proveedores de certificación de CFDI deben cumplir con diversas obligaciones, como estar al corriente con sus obligaciones fiscales, mantener un capital social mínimo y garantizar la confidencialidad de los datos de los contribuyentes. También deben validar y certificar los CFDI de manera gratuita y permitir verificaciones por parte del SAT.",
   "preguntas_ejemplo": [
     "¿Qué obligaciones tienen los proveedores de CFDI?",
-    "¿Cómo se verifica a un proveedor de certificación de CFDI?",
-    "¿Cuáles son los requisitos para operar como PCCFDI?",
-    "¿Qué sucede si un proveedor de CFDI no cumple con las obligaciones?",
-    "¿Cómo se protege la información de los contribuyentes en la certificación de CFDI?",
-    "¿Qué es el PCCFDI y cuáles son sus responsabilidades?"
+    "¿Cuánto capital social deben tener los proveedores de certificación?",
+    "¿Cómo se garantiza la seguridad de los datos en los CFDI?",
+    "¿Qué verifica el SAT en los proveedores de certificación de CFDI?",
+    "¿Qué ocurre si un proveedor no cumple con sus obligaciones?"
   ]
 }

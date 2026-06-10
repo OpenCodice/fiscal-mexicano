@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:817e3a865640c3c9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago del IVA por servicios digitales",
   "temas": [
-    "IVA",
     "servicios digitales",
+    "IVA",
     "residentes en el extranjero",
     "importación de servicios",
     "declaración de impuestos"
   ],
   "terminos_coloquiales": [
-    "IVA por servicios digitales",
-    "pago de IVA extranjero",
-    "declaración IVA actos accidentales"
+    "pago del IVA",
+    "servicios digitales desde el extranjero",
+    "declaración IVA actos accidentales",
+    "importar servicios",
+    "IVA por servicios de internet"
   ],
-  "resumen": "Los receptores de servicios digitales en México, proporcionados por residentes en el extranjero, deben pagar el IVA mediante una declaración específica si no están en un listado particular. Este pago se realiza dentro de los quince días posteriores a la contraprestación recibida.",
+  "resumen": "Los receptores de servicios digitales en México, que son prestados por residentes en el extranjero, deben pagar el IVA correspondiente a través de una declaración específica en el Portal del SAT. Este pago debe realizarse dentro de un plazo de quince días después de recibir el servicio.",
   "preguntas_ejemplo": [
-    "¿Cómo pago el IVA por servicios digitales de extranjeros?",
-    "¿Qué declaración debo presentar para servicios digitales importados?",
-    "¿Cuándo debo efectuar el pago del IVA por servicios digitales?",
-    "¿Qué servicios digitales están exentos del IVA?"
+    "¿Cómo pago el IVA por servicios digitales que compré en el extranjero?",
+    "¿Qué es la declaración IVA actos accidentales?",
+    "¿Qué tengo que hacer si recibo un servicio digital de un extranjero?",
+    "¿Cuánto tiempo tengo para pagar el IVA por servicios digitales?",
+    "¿Qué servicios digitales están sujetos a IVA en México?"
   ]
 }

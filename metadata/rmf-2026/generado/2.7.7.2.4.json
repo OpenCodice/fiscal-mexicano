@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b0ec11d7d46651a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transporte de hidrocarburos",
+  "denominacion_comun": "CFDI Carta Porte transporte hidrocarburos",
   "temas": [
-    "CFDI de traslado",
-    "Comprobante Fiscal Digital por Internet",
-    "Carta Porte",
-    "Transporte de petrolíferos",
-    "Jurisdicción local"
+    "CFDI",
+    "complemento Carta Porte",
+    "hidrocarburos",
+    "transportes",
+    "emisión de comprobantes fiscales",
+    "exenciones",
+    "jurisdicción federal"
   ],
   "terminos_coloquiales": [
-    "traslado de hidrocarburos",
-    "CFDI Carta Porte",
-    "transportista de hidrocarburos",
-    "CFDI ingreso"
+    "factura de transporte",
+    "comprobante de traslado",
+    "CFDI de movimiento",
+    "traslado de gasolina",
+    "hidrocarburos",
+    "petrolíferos"
   ],
-  "resumen": "Los sujetos que transportan hidrocarburos por medios propios deben emitir un CFDI de tipo traslado con complementos específicos. Si contratan servicios de transporte, el transportista expide un CFDI de tipo ingreso.",
+  "resumen": "Se establece que los sujetos que transporten hidrocarburos o petrolíferos deben emitir un CFDI de tipo traslado con complemento Carta Porte, salvo que se trate de un servicio de transporte, en cuyo caso el transportista debe emitir un CFDI de tipo ingreso. Esto aplica únicamente para traslados a nivel local sin jurisdicción federal.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de CFDI debo emitir para el traslado de hidrocarburos?",
-    "¿Cuándo se necesita un CFDI con complemento Carta Porte?",
-    "¿Qué documentos se requieren para transportar petrolíferos a nivel local?",
-    "¿Quién emite el CFDI cuando se contratan servicios de transporte de hidrocarburos?",
-    "¿Bajo qué condiciones se utiliza el CFDI de traslado en hidrocarburos?"
+    "¿Qué tipo de factura necesito para trasladar hidrocarburos?",
+    "¿Cuándo debo emitir un CFDI con complemento Carta Porte?",
+    "¿Qué requisitos tiene el CFDI de traslado de hidrocarburos?",
+    "¿El transportista necesita emitir un CFDI si contrato el servicio de transporte?",
+    "¿Qué pasa si el traslado de hidrocarburos es por ducto?"
   ]
 }

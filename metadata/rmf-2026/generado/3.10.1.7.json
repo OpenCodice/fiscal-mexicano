@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3f5d34e2691409a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para recibir donativos deducibles en el extranjero",
+  "denominacion_comun": "Donativos Deducibles en el Extranjero",
   "temas": [
     "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "convenciones fiscales"
+    "autorización de donativos",
+    "doble imposición",
+    "evasión fiscal"
   ],
   "terminos_coloquiales": [
-    "donativos en el extranjero",
-    "autorización de donativos",
-    "deducción de donativos",
+    "donativos deducibles en el extranjero",
+    "donativos",
     "LISR",
-    "RMF"
+    "fideicomisos autorizados"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos autorizados en México pueden pedir una autorización para recibir donativos deducibles provenientes del extranjero, siempre que cumplan con ciertos requisitos establecidos en la ley. Esto es parte de las regulaciones para evitar la doble imposición fiscal.",
+  "resumen": "Las organizaciones civiles y fideicomisos que están autorizados para recibir donativos deducibles en México también pueden solicitar autorización para recibir donativos deducibles en el extranjero, bajo ciertos supuestos establecidos en la ley. Esto se realiza a través de una solicitud ante la autoridad competente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo recibir donativos deducibles del extranjero?",
-    "¿Qué requisitos tengo que cumplir para solicitar donativos deducibles?",
-    "¿Qué es la autorización para recibir donativos en el extranjero?",
-    "¿Cómo afecta la doble imposición a los donativos que recibo?",
-    "¿Dónde encuentro la ficha de trámite para donativos deducibles?",
-    "¿Qué leyes regulan los donativos deducibles en México?"
+    "¿Qué organizaciones pueden recibir donativos deducibles en el extranjero?",
+    "¿Cómo puedo solicitar autorización para recibir donativos deducibles en el extranjero?",
+    "¿Qué requisitos debo cumplir para recibir donativos deducibles desde otros países?",
+    "¿Qué es el convenio para evitar la doble imposición?",
+    "¿A qué actividades se pueden destinar los donativos recibidos?"
   ]
 }

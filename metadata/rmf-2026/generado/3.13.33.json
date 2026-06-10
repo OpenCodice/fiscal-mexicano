@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c8d9258d33d6ca7c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "e.firma en el RESICO",
+  "denominacion_comun": "Plazo para la e.firma en el RESICO",
   "temas": [
-    "Impuesto sobre la renta",
+    "Impuesto sobre la Renta",
     "Régimen Simplificado de Confianza",
     "e.firma",
     "avisos en el RFC",
-    "trámites fiscales"
+    "requisitos y condiciones"
   ],
   "terminos_coloquiales": [
     "firma electrónica",
     "e.firma",
     "RESICO",
-    "cómo obtener la e.firma",
-    "renovación de e.firma"
+    "RFC"
   ],
-  "resumen": "Las personas físicas que eligen el Régimen Simplificado de Confianza deben tener su e.firma generada o renovada en un plazo específico después de presentar su aviso en el RFC. Para ello, deben seguir ciertas condiciones y requisitos establecidos en las fichas de trámite correspondientes.",
+  "resumen": "Las personas que elijan el Régimen Simplificado de Confianza deben obtener su e.firma dentro de un plazo específico después de presentar su aviso en el RFC. También deben cumplir con ciertos requisitos para generarla o renovarla.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo tener mi e.firma si estoy en el RESICO?",
-    "¿Qué necesito para solicitar la e.firma?",
-    "¿Cómo renuevo mi e.firma para el Régimen Simplificado de Confianza?",
-    "¿Cuáles son los plazos para generar la e.firma en el RESICO?",
-    "¿Dónde encuentro los requisitos para la e.firma de personas físicas?"
+    "¿Cuánto tiempo tengo para obtener mi e.firma si estoy en el RESICO?",
+    "¿Qué requisitos debo cumplir para tener mi e.firma?",
+    "¿Dónde puedo solicitar la generación de mi e.firma?",
+    "¿Cuándo debo presentar mi aviso en el RFC para el RESICO?",
+    "¿Qué ocurre si no tengo mi e.firma a tiempo?"
   ]
 }

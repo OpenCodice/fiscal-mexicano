@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c5762e5b6ac5fcb0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones financieras derivadas y residentes en el extranjero",
+  "denominacion_comun": "Retención ISR residenten en el extranjero",
   "temas": [
-    "retención de ISR",
+    "operaciones financieras",
     "residentes en el extranjero",
+    "retención de impuestos",
     "cuentas de margen",
-    "operaciones financieras derivadas",
-    "liquidaciones diarias",
-    "ganancia acumulable",
-    "pérdida deducible"
+    "ganancias y pérdidas",
+    "ley del ISR"
   ],
   "terminos_coloquiales": [
     "retención ISR",
+    "impuesto para extranjeros",
     "cuentas de margen",
-    "no retención a extranjeros"
+    "residentes fuera de México",
+    "ganancias por fluctuaciones"
   ],
-  "resumen": "La regla establece que no se realizará retención de ISR por pagos parciales a residentes en el extranjero por operaciones financieras derivadas, siempre que se cumplan ciertos requisitos relacionados con cuentas de margen y la identificación de las operaciones. Además, los pagos no serán deducibles para determinar ganancias o pérdidas.",
+  "resumen": "Esta regla establece que no se realizará retención de ISR en pagos parciales a residentes en el extranjero sin establecimiento permanente en México, siempre que se cumplan ciertos requisitos relacionados con cuentas de margen y operaciones financieras. Además, se requiere mantener fondos suficientes en estas cuentas para cubrir obligaciones derivadas de las operaciones.",
   "preguntas_ejemplo": [
-    "¿Cuándo no se retiene ISR a residentes en el extranjero?",
-    "¿Qué requisitos deben cumplirse para no retener ISR en operaciones con extranjeros?",
-    "¿Qué son las cuentas de margen en el contexto de operaciones financieras?",
-    "¿Cómo se determinan las ganancias acumulables en estas operaciones?",
-    "¿Se pueden deducir las pérdidas de este tipo de operaciones?"
+    "¿Cuándo se hace la retención de ISR a residentes en el extranjero?",
+    "¿Qué requisitos hay para no retener impuestos a extranjeros?",
+    "¿Qué son las cuentas de margen en operaciones financieras?",
+    "¿Cómo se reportan las ganancias y pérdidas en este contexto?",
+    "¿Qué significa estar sin establecimiento permanente en México?"
   ]
 }

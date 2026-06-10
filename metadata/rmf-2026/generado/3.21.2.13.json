@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:38e98c91dfa16550",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para construcción de inmuebles",
+  "denominacion_comun": "Fideicomisos de Construcción de Inmuebles",
   "temas": [
-    "fideicomisos",
-    "adquisición de inmuebles",
-    "construcción de inmuebles",
-    "declaración informativa",
-    "Ley del ISR"
+    "Impuesto sobre la Renta",
+    "Fideicomisos",
+    "Adquisición de inmuebles",
+    "Construcción de inmuebles",
+    "Declaración informativa"
   ],
   "terminos_coloquiales": [
-    "fideicomisos inmobiliarios",
-    "declaración de fideicomisos",
-    "ISR fideicomisos"
+    "fideicomisos de construcción",
+    "fideicomisos de adquisición",
+    "declaración informativa de fideicomisos",
+    "ISR",
+    "inmuebles"
   ],
-  "resumen": "Esta disposición establece que los fideicomisos dedicados a la adquisición o construcción de inmuebles deben presentar cierta información y documentación conforme a la Ley del ISR. Se menciona una ficha de trámite específica para realizar esta declaración informativa anual.",
+  "resumen": "Esta disposición establece que se debe presentar información y documentación específica para los fideicomisos dedicados a adquirir o construir inmuebles, conforme a la normativa del Impuesto sobre la Renta.",
   "preguntas_ejemplo": [
-    "¿Qué información debo presentar como fideicomiso para construcción de inmuebles?",
-    "¿Cómo hago la declaración informativa de un fideicomiso inmobiliario?",
-    "¿Cuáles son los requisitos para fideicomisos de adquisición de inmuebles?"
+    "¿Qué documentos necesito para el fideicomiso de construcción de inmuebles?",
+    "¿Cómo presentar la declaración de fideicomisos en el ISR?",
+    "¿Qué es la ficha de trámite 71/ISR?",
+    "¿Cuáles son los requisitos para los fideicomisos de adquisición de inmuebles?",
+    "¿Qué información se requiere para los fideicomisos en el ISR?"
   ]
 }

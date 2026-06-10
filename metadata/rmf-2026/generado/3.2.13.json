@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b59a8fac767e390d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos que replican índices bursátiles",
+  "denominacion_comun": "Requisitos de fideicomisos que replican índices bursátiles",
   "temas": [
     "fideicomisos",
-    "índices bursátiles",
-    "retención de ISR",
     "certificados bursátiles",
-    "administración de patrimonio",
+    "indexación",
+    "rendimiento",
+    "retención de ISR",
+    "instituciones fiduciarias",
     "inversiones",
-    "ganancias y pérdidas",
-    "operaciones financieras"
+    "operaciones financieras",
+    "regulación"
   ],
   "terminos_coloquiales": [
     "fideicomisos bursátiles",
-    "replicadores de índices",
-    "ISR fideicomisos",
-    "Fideicomisos que replican índices"
+    "fideicomisos que replican índices",
+    "certificados",
+    "ISR",
+    "inversiones en acciones",
+    "fideicomisos de inversión"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir los fideicomisos que tienen el objetivo de replicar el rendimiento de índices bursátiles. Los fideicomisos deben invertir predominantemente en acciones y certificados bursátiles, y la institución fiduciaria tiene obligaciones de retención de ISR sobre los ingresos generados.",
+  "resumen": "Esta regla establece las condiciones que deben cumplir los fideicomisos que tienen como objetivo replicar el rendimiento de índices bursátiles. Los fideicomisos deben estar debidamente constituidos, invertir mayormente en acciones y cumplir con requisitos de información y retención fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los fideicomisos bursátiles?",
-    "¿Cómo se calcula la retención de ISR para fideicomisos que replican índices?",
-    "¿Qué acciones pueden incluirse en un fideicomiso que replica un índice?",
-    "¿Cómo se distribuyen las ganancias a los propietarios de los certificados del fideicomiso?",
-    "¿Qué pasa con las pérdidas cambiarias en las operaciones del fideicomiso?"
+    "¿Cuáles son los requisitos para un fideicomiso que replica un índice bursátil?",
+    "¿Qué tipo de inversiones pueden hacer los fideicomisos según esta regla?",
+    "¿Cómo se realiza la retención de ISR en los fideicomisos bursátiles?",
+    "¿Qué información debe proporcionar la institución fiduciaria sobre los fideicomisos?",
+    "¿Cuáles son las obligaciones de un fideicomiso que invierte en certificados bursátiles?"
   ]
 }

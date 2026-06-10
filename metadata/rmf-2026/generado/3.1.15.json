@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7d12eaa0e78621e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos y actividades empresariales",
+  "denominacion_comun": "Fideicomisos y Actividades Empresariales",
   "temas": [
     "fideicomisos",
-    "actividades empresariales",
     "certificados de participación",
     "certificados bursátiles fiduciarios",
-    "inversionistas"
+    "actividad empresarial",
+    "inversionistas",
+    "fideicomisarios"
   ],
   "terminos_coloquiales": [
-    "fideicomisos empresariales",
-    "certificados fiduciarios",
-    "ISR fideicomisos"
+    "certificados de participación",
+    "certificados bursátiles",
+    "fideicomiso",
+    "inversionistas",
+    "actividad empresarial"
   ],
-  "resumen": "Esta disposición regula cómo se debe interpretar la proporción de beneficios en fideicomisos que realizan actividades empresariales, basándose en el contrato de fideicomiso y los investigadores que los poseen al final del ejercicio fiscal.",
+  "resumen": "La disposición establece que, en el caso de fideicomisos que realicen actividades empresariales y emitan certificados, la proporción de ingresos a considerar dependerá del contrato de fideicomiso y de los tenedores al final del ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué son los fideicomisos empresariales?",
-    "¿Cómo se calculan los beneficios de los certificados bursátiles fiduciarios?",
-    "¿Quiénes son los tenedores de certificados en los fideicomisos?",
-    "¿Qué establece la Ley del ISR sobre fideicomisos?",
-    "¿Cómo afecta el ISR a los fideicomisos con actividades empresariales?"
+    "¿Cómo se calculan los ingresos de un fideicomiso que emite certificados?",
+    "¿Qué deben tener en cuenta los fideicomisarios al final del ejercicio fiscal?",
+    "¿Qué son los certificados bursátiles fiduciarios?",
+    "¿Cómo afecta la actividad empresarial a los fideicomisos?",
+    "¿Cuáles son los derechos de los tenedores de certificados en un fideicomiso?"
   ]
 }

@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:446e0457ae8a2e33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de ISR sobre Certificados de Fideicomisos",
+  "denominacion_comun": "Retención del ISR sobre intereses de fideicomisos",
   "temas": [
-    "Retención de impuestos",
-    "Intereses",
-    "Fideicomisos",
-    "Títulos de crédito",
-    "Residentes en el extranjero",
-    "Costo promedio ponderado",
-    "Fondos de inversión",
-    "Patrimonio fideicomitido"
+    "intereses",
+    "fideicomisos",
+    "retención del ISR",
+    "residentes en el extranjero",
+    "títulos de crédito",
+    "costo promedio ponderado",
+    "inversiones",
+    "fondos de inversión"
   ],
   "terminos_coloquiales": [
-    "ISR sobre fideicomisos",
-    "retención de ISR",
-    "certificados de fideicomisos",
-    "títulos de crédito",
-    "inversiones en fideicomisos",
-    "LISR"
+    "pago de impuestos sobre intereses",
+    "fideicomisos",
+    "ISR",
+    "intereses en fideicomisos",
+    "retención de impuestos",
+    "inversiones en títulos de crédito"
   ],
-  "resumen": "Los intermediarios financieros deben retener el ISR sobre los intereses de certificados emitidos por fideicomisos, dependiendo de si los beneficiarios son residentes en México o en el extranjero. La retención se calcula considerando el costo promedio ponderado de adquisición de los certificados y hay disposiciones específicas para fondos de inversión.",
+  "resumen": "La regla establece cómo deben los intermediarios financieros retener el impuesto sobre la renta (ISR) de los intereses derivados de certificados de fideicomisos, tanto para residentes en México como para residentes en el extranjero. También indica cómo calcular el costo promedio de adquisición de los certificados y las condiciones bajo las cuales se aplica la retención.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la retención de ISR sobre intereses de fideicomisos?",
-    "¿Qué pasa si soy residente en el extranjero y tengo certificados de fideicomiso?",
-    "¿Qué es el costo promedio ponderado de adquisición de certificados?",
-    "¿Los fondos de inversión también deben retener ISR sobre fideicomisos?",
-    "¿Qué tasas aplican para la retención de impuestos en fideicomisos?"
+    "¿Cómo se calcula la retención del ISR sobre intereses de fideicomisos?",
+    "¿Qué pasa si soy residente en el extranjero y tengo certificados de un fideicomiso?",
+    "¿Los fondos de inversión también tienen que retener impuestos sobre intereses?",
+    "¿Cuándo se aplica el costo promedio ponderado en los certificados de fideicomisos?",
+    "¿Qué tasas se aplican a los intereses obtenidos de fideicomisos?"
   ]
 }

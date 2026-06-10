@@ -6,24 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ad04e06f5872a7b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Preparaciones alimenticias con proceso adicional",
+  "denominacion_comun": "Preparaciones alimenticias que requieren proceso adicional",
   "temas": [
-    "alimentos preparados",
-    "cereales",
-    "IEPS",
-    "proceso adicional"
+    "impuesto especial sobre producción y servicios",
+    "preparaciones alimenticias",
+    "proceso adicional",
+    "alimentos preparados a base de cereales"
   ],
   "terminos_coloquiales": [
-    "alimentos con proceso adicional",
-    "IEPS",
-    "preparaciones alimenticias"
+    "alimentos preparados",
+    "comida lista",
+    "preparaciones alimenticias",
+    "IEPS"
   ],
-  "resumen": "No se consideran como alimentos preparados a base de cereales aquellos que requieren un proceso adicional antes de consumirse directamente.",
+  "resumen": "El texto establece que algunas preparaciones alimenticias a base de cereales no se consideran alimentos preparados si requieren un proceso adicional para poder consumirse. Esto afecta su clasificación para el impuesto especial sobre producción y servicios.",
   "preguntas_ejemplo": [
     "¿Qué son las preparaciones alimenticias que requieren un proceso adicional?",
-    "¿Cómo se definen los alimentos preparados en el IEPS?",
-    "¿Qué alimentos a base de cereales no están considerados como preparados?"
+    "¿Cómo se clasifican los alimentos preparados a base de cereales para el IEPS?",
+    "¿Qué significa que un alimento requiera un proceso adicional para consumirse?",
+    "¿Qué disposiciones hay sobre el IEPS y alimentos preparados?"
   ]
 }

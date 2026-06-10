@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9f1385730bbb417",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Crédito por intereses de títulos de crédito",
+  "denominacion_comun": "Crédito por Intereses de Títulos",
   "temas": [
-    "ISR",
-    "retención de impuestos",
+    "impuesto sobre la renta",
+    "residentes en el extranjero",
     "títulos de crédito",
+    "retención de ISR",
     "intereses",
-    "residentes en el extranjero"
+    "observaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "retención de ISR",
-    "títulos de crédito",
-    "intereses exentos",
-    "ISR en el extranjero",
-    "LISR 166"
+    "retención de impuestos",
+    "ISR",
+    "intereses por inversiones",
+    "títulos de inversión"
   ],
-  "resumen": "Esta regla establece que, en los casos de títulos de crédito que cumplan con ciertos requisitos, el emisor no está obligado a retener ISR sobre los intereses que se generen. Esto aplica según lo establecido en la Ley del ISR.",
+  "resumen": "La regla establece que, bajo ciertas condiciones, los emisores de títulos de crédito no están obligados a retener el impuesto sobre la renta por los intereses generados. Esto se refiere específicamente a los residentes en el extranjero y sus ingresos derivados de estos títulos.",
   "preguntas_ejemplo": [
-    "¿Cómo se aplica la retención del ISR sobre los intereses de títulos de crédito?",
-    "¿El emisor de títulos de crédito debe retener ISR en ciertos casos?",
-    "¿Qué requisitos deben cumplir los títulos de crédito para estar exentos de la retención?",
-    "¿Qué dice la Ley del ISR sobre los intereses de títulos de crédito?",
-    "¿Residentes en el extranjero deben preocuparse por la retención de ISR en estos casos?"
+    "¿Cómo se aplica la retención del ISR en los intereses de títulos de crédito?",
+    "¿Los emisores de títulos de crédito tienen que retener impuestos por intereses para residentes en el extranjero?",
+    "¿Qué condiciones deben cumplir los títulos de crédito para estar exentos de retención de ISR?",
+    "¿Qué dice la ley sobre la retención de impuestos al invertir en títulos de crédito?",
+    "¿Qué es la regla 3.18.22 y cómo afecta a los intereses de títulos de crédito?"
   ]
 }

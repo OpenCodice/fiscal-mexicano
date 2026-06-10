@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e04c873987e1a16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación del RFC por defunción",
   "temas": [
     "RFC",
     "defunción",
-    "cancelación",
+    "cancelación de oficio",
     "obligaciones fiscales",
-    "regímenes fiscales",
-    "notifications"
+    "RIF",
+    "RESICO",
+    "ingresos por intereses",
+    "ingresos por dividendos"
   ],
   "terminos_coloquiales": [
-    "cancelación del RFC",
-    "cancelar RFC por muerte",
-    "RFC fallecido",
-    "defunción en RFC"
+    "cancelar el RFC",
+    "baja en el RFC",
+    "fallecimiento de contribuyente",
+    "cancelación por muerte",
+    "cancelación de RFC por defunción"
   ],
-  "resumen": "La autoridad fiscal puede cancelar el RFC de una persona fallecida sin necesidad de un aviso si constan pruebas de su defunción y cumple con ciertos criterios, como no tener obligaciones fiscales. También se puede cancelar si hubo un aviso de suspensión de actividades antes de su fallecimiento.",
+  "resumen": "La autoridad fiscal puede cancelar de oficio el RFC cuando un contribuyente fallece, sin necesidad de que se presente un aviso, siempre que esté activo y cumpla con ciertas condiciones. Esto incluye no tener obligaciones fiscales o estar en regímenes específicos de tributación.",
   "preguntas_ejemplo": [
-    "¿Cómo cancelo el RFC de alguien que ha fallecido?",
-    "¿Qué pasa con el RFC si una persona muere?",
-    "¿Se puede cancelar el RFC sin aviso tras una defunción?",
-    "¿Qué requisitos se necesitan para cancelar el RFC de una persona fallecida?",
-    "¿Qué regímenes fiscales son considerados para la cancelación del RFC por defunción?"
+    "¿Cómo se cancela el RFC si una persona fallece?",
+    "¿Qué pasa con el RFC de alguien que ya no tiene obligaciones fiscales?",
+    "¿Qué documentos se necesitan para cancelar el RFC por defunción?",
+    "¿La autoridad puede cancelar el RFC sin aviso si hay un fallecimiento?",
+    "¿Qué regímenes fiscales permiten la cancelación del RFC por muerte?"
   ]
 }

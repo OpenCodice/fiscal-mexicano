@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:771bc2ef1200028c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revocación de autorización para emisores de monederos electrónicos de vales de despensa",
@@ -15,23 +16,25 @@
     "revocación de autorización",
     "procedimiento administrativo",
     "SAT",
+    "notificaciones",
     "avisos a clientes",
-    "plazos de respuesta",
     "obligaciones del emisor"
   ],
   "terminos_coloquiales": [
-    "revocación de monederos",
-    "emisor de vales",
+    "vales de despensa",
+    "monederos",
     "SAT",
-    "amonestación para emisores",
-    "AVISO URGENTE"
+    "revocación de permisos",
+    "emisor autorizado",
+    "procedimiento de revocación"
   ],
-  "resumen": "La disposición establece el procedimiento que se seguirá cuando se revoca la autorización a un emisor de monederos electrónicos de vales de despensa. Incluye la notificación al emisor, la presentación de documentos para defenderse y las obligaciones que debe cumplir durante el periodo de transición.",
+  "resumen": "La regla establece el procedimiento para revocar la autorización de emisores de monederos electrónicos de vales de despensa. Incluye los requisitos que deben cumplir y las notificaciones que deben realizar tanto el emisor como la autoridad fiscal en caso de revocación de la autorización.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si revocan la autorización a un emisor de vales de despensa?",
-    "¿Cuáles son los plazos para responder a la revocación de un monedero electrónico?",
-    "¿Qué avisos debo enviar a mis clientes si se revoca mi autorización?",
-    "¿Qué debo hacer si recibo un oficio de revocación de mi autorización como emisor?",
-    "¿Cuánto tiempo tengo para dejar de emitir monederos electrónicos tras una revocación?"
+    "¿Qué pasa si se revoca la autorización de un emisor de vales de despensa?",
+    "¿Cuáles son los pasos que debo seguir si me revocan la autorización para emitir monederos?",
+    "¿Qué notificaciones debo hacer si se me revoca la autorización?",
+    "¿Cuánto tiempo tengo para cumplir con las obligaciones tras la revocación?",
+    "¿Qué debo informar a mis clientes si se me revoca el permiso?",
+    "¿Qué documentos necesito presentar para desvirtuar la revocación?"
   ]
 }

@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:676fdd116c869dfb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Verificación de clave en el RFC",
   "temas": [
     "RFC",
-    "socio",
-    "accionista",
-    "representante legal",
-    "clave en el RFC",
+    "socios",
+    "accionistas",
+    "representantes legales",
+    "SAT",
     "cédula de identificación fiscal",
     "constancia de situación fiscal",
-    "SAT"
+    "cumplimiento"
   ],
   "terminos_coloquiales": [
-    "verificación RFC",
     "clave RFC",
-    "Comprobación de RFC",
+    "verificación de RFC",
     "cédula fiscal",
-    "sat",
-    "CFF"
+    "SAT",
+    "validación de socios",
+    "constancia fiscal"
   ],
-  "resumen": "Los fedatarios públicos deben asegurarse de que la clave en el RFC de cada socio, accionista o representante legal coincida con la información en la cédula de identificación fiscal o la constancia de situación fiscal del SAT.",
+  "resumen": "Esta disposición establece que los fedatarios públicos deben verificar que la clave en el RFC de socios, accionistas o representantes legales coincida con la que aparece en su cédula de identificación fiscal o constancia de situación fiscal emitida por el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se verifica la clave en el RFC de un socio?",
-    "¿Qué deben hacer los fedatarios públicos con respecto al RFC?",
-    "¿Qué documentos necesito para corroborar la clave RFC de un accionista?",
-    "¿Cuál es la relación entre la cédula fiscal y el RFC?",
-    "¿Qué información proporciona el SAT sobre el RFC?"
+    "¿Cómo puedo verificar la clave RFC de un socio?",
+    "¿Qué documentos necesito para validar el RFC de un accionista?",
+    "¿El fedatario público tiene que checar el RFC de los representantes legales?",
+    "¿Qué pasa si la clave en el RFC no coincide con la cédula fiscal?",
+    "¿Qué obligaciones tiene un fedatario público en relación al RFC?",
+    "¿Dónde puedo encontrar la constancia de situación fiscal?"
   ]
 }

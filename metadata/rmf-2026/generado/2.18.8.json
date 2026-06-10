@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd2fdd3a887aaf2a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revocación de autorización de órganos certificadores",
   "temas": [
-    "revocación de autorización",
-    "órganos certificadores",
-    "requisitos de operación",
-    "obligaciones fiscales",
-    "verificación de cumplimiento",
-    "incumplimiento",
-    "delitos",
-    "concursos mercantiles"
+    "requisitos de autorización",
+    "obligaciones de órganos certificadores",
+    "verificación fiscal",
+    "incumplimiento de obligaciones",
+    "delitos relacionados",
+    "concursos mercantiles",
+    "certificación",
+    "falsos comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "revocación de permiso",
-    "órganos autorizados",
-    "certificadores",
+    "órgano certificador",
+    "revocación",
     "SAT",
-    "revocación ONG"
+    "certificación",
+    "comprobantes fiscales",
+    "requisitos",
+    "obligaciones",
+    "incumplimientos"
   ],
-  "resumen": "El SAT puede revocar la autorización de un órgano certificador si no cumple con los requisitos y obligaciones establecidos, obstruye las verificaciones fiscales o está relacionado con delitos. También se contempla la revocación por incumplimientos de terceros autorizados y otras causas como quiebra o falta de actividad.",
+  "resumen": "La regla establece las causas por las cuales el SAT puede revocar la autorización para que un órgano opere como certificador. Incluye incumplimientos, obstáculos a la verificación y vínculos con terceros no cumplidores, entre otros motivos.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede el SAT revocar la autorización de un órgano certificador?",
-    "¿Qué requisitos deben cumplir los órganos certificadores para mantener su autorización?",
-    "¿Qué pasa si un órgano certificador no permite la verificación del SAT?",
-    "¿Cuáles son las causas de revocación de un órgano certificador?",
-    "¿Qué sucede si un órgano certificador está en concurso mercantil?"
+    "¿Cuáles son las causas para que el SAT revoque la autorización de un órgano certificador?",
+    "¿Qué obligaciones deben cumplir los órganos certificadores para mantener su autorización?",
+    "¿Qué pasa si un órgano certificador no verifica correctamente a terceros?",
+    "¿Se puede revocar la autorización de un órgano certificador por delitos?",
+    "¿Cuáles son los requisitos que deben cumplir los órganos certificadores según la ley?"
   ]
 }

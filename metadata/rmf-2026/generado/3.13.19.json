@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:20228cfd45dc849f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de IVA del Régimen Simplificado de Confianza",
   "temas": [
     "IVA",
     "Régimen Simplificado de Confianza",
-    "declaración",
-    "personas físicas y morales",
+    "declaración IVA simplificada",
+    "comprobantes fiscales",
     "e.firma",
-    "comprobantes fiscales"
+    "personas físicas",
+    "personas morales",
+    "SAT"
   ],
   "terminos_coloquiales": [
     "pago de IVA",
-    "declaración de IVA simplificado",
+    "declaración simplificada",
     "RESICO",
-    "IVA simplificado",
-    "declaración prellenada"
+    "comprobante",
+    "factura"
   ],
-  "resumen": "Las personas físicas y morales que tributen bajo el Régimen Simplificado de Confianza pueden presentar el pago del IVA mediante una declaración simplificada que incluye información de sus comprobantes fiscales. Esta declaración debe presentarse a más tardar el día 17 del mes siguiente al periodo correspondiente.",
+  "resumen": "Las personas físicas y morales en el Régimen Simplificado de Confianza pueden presentar su pago definitivo de IVA mediante una declaración simplificada. Esta declaración se prellenará con la información de los comprobantes fiscales del periodo correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se presenta el pago de IVA en el RESICO?",
-    "¿Qué es la declaración de IVA simplificado?",
-    "¿Cuándo debo presentar la declaración de IVA?",
-    "¿Qué información contiene la declaración prellenada?",
-    "¿Pueden las personas morales usar la e.firma para su declaración?"
+    "¿Cómo hago el pago de IVA en el Régimen Simplificado de Confianza?",
+    "¿Qué es la declaración IVA simplificada?",
+    "¿Puedo usar mi e.firma para enviar la declaración de IVA?",
+    "¿Cuándo debo presentar la declaración de IVA simplificada?",
+    "¿Qué información se incluye en la declaración de IVA simplificada?"
   ]
 }

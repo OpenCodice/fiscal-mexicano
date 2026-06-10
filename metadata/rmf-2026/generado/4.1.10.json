@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7b703de850ce65dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajustes de IVA para inicio de actividades",
+  "denominacion_comun": "Ajuste en el IVA por inicio de actividades",
   "temas": [
-    "Impuesto al Valor Agregado",
-    "Inicio de actividades",
-    "Ajustes de IVA",
-    "Informe de inicio de actividades"
+    "IVA",
+    "inicio de actividades",
+    "ajuste de IVA",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "ajustes de IVA",
-    "IVA inicio de actividades",
-    "informe IVA",
-    "LIVA"
+    "iva",
+    "ajuste de IVA",
+    "inicio de actividades",
+    "ficha de trámite 1/IVA"
   ],
-  "resumen": "Los contribuyentes deben informar a la autoridad el mes en el que inician sus actividades para realizar el ajuste de IVA correspondiente. Esto se hace mediante una ficha de trámite específica.",
+  "resumen": "Los contribuyentes deben informar a la autoridad el mes en que comienzan sus actividades para realizar un ajuste en el IVA. Esto se hace a través de una ficha de trámite específica.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer el ajuste de IVA al iniciar mis actividades?",
-    "¿Qué trámite debo presentar para informar el inicio de actividades?",
-    "¿Dónde encuentro la ficha para el informe de inicio de actividades?",
-    "¿Qué artículos de la ley del IVA mencionan el ajuste de inicio de actividades?"
+    "¿Cómo informo el inicio de mis actividades para el IVA?",
+    "¿Qué debo hacer si empiezo mis actividades en el mes de enero?",
+    "¿Qué es la ficha de trámite 1/IVA?",
+    "¿Cuándo debo presentar el aviso de inicio de actividades?",
+    "¿Qué ajustes debo considerar al iniciar actividades en relación al IVA?"
   ]
 }

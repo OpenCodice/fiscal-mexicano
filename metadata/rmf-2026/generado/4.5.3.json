@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52356c389047986c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración informativa del IVA",
   "temas": [
     "obligaciones de contribuyentes",
     "declaración anual",
-    "información del IVA",
-    "personas físicas"
+    "información fiscal",
+    "Ley del IVA"
   ],
   "terminos_coloquiales": [
-    "declaración de IVA",
-    "informativa del IVA",
-    "LIVA 32",
-    "RMF 2.8.3."
+    "declarar IVA",
+    "informar sobre IVA",
+    "IVA",
+    "declara anualmente"
   ],
-  "resumen": "Las personas físicas que deben presentar información específica del IVA la proporcionarán en su declaración anual, conforme a lo establecido en la regulación correspondiente.",
+  "resumen": "Las personas físicas que solo deben presentar información específica sobre el IVA deberán hacerlo en su declaración anual correspondiente. Esto se refiere a las obligaciones estipuladas en la Ley del IVA.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en la declaración anual del IVA?",
-    "¿Cuáles son mis obligaciones si solo presento información del IVA?",
-    "¿Qué dice la Ley del IVA sobre la declaración informativa?",
-    "¿Cómo se presenta la información del IVA para personas físicas?",
-    "¿Qué indica la RMF 2.8.3. sobre las declaraciones de IVA?"
+    "¿Cómo presento mi declaración anual de IVA?",
+    "¿Qué información debo incluir en la declaración del IVA?",
+    "¿Quiénes están obligados a declarar IVA?",
+    "¿Qué dice la Ley del IVA sobre la declaración anual?",
+    "¿Cuál es el procedimiento para informar sobre el IVA?"
   ]
 }

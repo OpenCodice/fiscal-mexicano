@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5ad2a33ab32ccf4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas reportables",
@@ -14,21 +15,20 @@
     "esquemas reportables",
     "asesores fiscales",
     "contribuyentes",
-    "esquemas generalizados",
-    "esquemas personalizados"
+    "comercialización"
   ],
   "terminos_coloquiales": [
     "esquemas reportables",
     "declaración de esquemas",
-    "REPOR",
-    "CFF 197"
+    "informativa de esquemas",
+    "CFF"
   ],
-  "resumen": "Los asesores fiscales deben informar sobre esquemas reportables que se comercializan a contribuyentes. Esto incluye esquemas tanto generalizados como personalizados y requiere una declaración específica.",
+  "resumen": "Los asesores fiscales deben presentar una declaración informativa sobre los esquemas reportables que han comercializado a los contribuyentes. Esta declaración proporciona datos específicos acerca de dichos esquemas, ya sean generalizados o personalizados.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar la declaración de esquemas reportables?",
-    "¿Qué es un esquema reportable generalizado?",
-    "¿Quiénes son los responsables de informar sobre los esquemas?",
-    "¿Qué información se necesita para reportar un esquema personalizado?",
-    "¿Cuáles son las consecuencias de no declarar un esquema reportable?"
+    "¿Qué debo hacer si vendí un esquema reportable a un contribuyente?",
+    "¿Cómo presento la declaración informativa de esquemas reportables?",
+    "¿Quiénes están obligados a revelar esquemas reportables?",
+    "¿Qué es un esquema reportable generalizado o personalizado?",
+    "¿Qué información debo incluir en la declaración de esquemas reportables?"
   ]
 }

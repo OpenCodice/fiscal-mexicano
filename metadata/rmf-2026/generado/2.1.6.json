@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2bfd916d9bf70eeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Días inhábiles para el SAT",
+  "denominacion_comun": "Días inhábiles (RMF 2026)",
   "temas": [
-    "vacaciones",
     "días inhábiles",
     "plazos legales",
-    "trámites ante el SAT",
+    "vacaciones",
+    "SAT",
     "autoridades fiscales"
   ],
   "terminos_coloquiales": [
     "días no hábiles",
-    "días de descanso del SAT",
-    "periodo vacacional SAT"
+    "vacaciones del SAT",
+    "días sin actividad",
+    "plazos del SAT"
   ],
-  "resumen": "La regla establece los días inhábiles para el SAT, incluyendo un periodo de vacaciones y fechas específicas en las que no se computarán plazos y términos legales. También se menciona que las autoridades fiscales locales pueden seguir estas disposiciones.",
+  "resumen": "Esta regla establece los días inhábiles para el SAT y las vacaciones en un periodo específico. Durante estos días, no se computarán plazos y términos legales en los trámites ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los días inhábiles del SAT?",
-    "¿Cuándo son las vacaciones del SAT?",
-    "¿Qué días no cuentan para trámites en el SAT?",
-    "¿Las autoridades locales deben seguir los días inhábiles del SAT?",
-    "¿Cómo afectan los días inhábiles a los plazos legales?"
+    "¿Cuáles son los días inhábiles para el SAT?",
+    "¿Qué días se consideran vacantes en el SAT?",
+    "¿Cómo afectan los días inhábiles a los trámites fiscales?",
+    "¿Qué pasa durante las vacaciones del SAT?"
   ]
 }

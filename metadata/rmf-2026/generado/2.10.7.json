@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:81a0666301d7a38f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de estados financieros",
   "temas": [
-    "Presentación de dictamen",
-    "Contador público inscrito",
-    "Validación de información",
-    "SIPRED 2025",
-    "Envío de dictamen",
-    "Acuse de aceptación"
+    "dictamen fiscal",
+    "contadores públicos",
+    "SIPRED",
+    "información fiscal",
+    "validaciones de dictamen",
+    "aceptación de dictamen"
   ],
   "terminos_coloquiales": [
-    "Dictamen fiscal",
-    "Informe contable",
+    "dictamen de impuestos",
+    "dictamen fiscal",
     "SIPRED",
-    "CFF",
-    "RMF"
+    "revisión contable"
   ],
-  "resumen": "El dictamen de estados financieros debe presentarse a través de Internet y cumplir con ciertas validaciones, incluyendo el uso del SIPRED 2025. Si es rechazado, puede reenviarse hasta que sea aceptado.",
+  "resumen": "El contribuyente debe presentar el dictamen de estados financieros vía Internet de acuerdo a ciertas fichas de trámite. La autoridad revisará que cumpla con los requisitos establecidos, y en caso de rechazo, podrá ser enviado nuevamente hasta que sea aceptado.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el dictamen de mis estados financieros?",
-    "¿Qué requisitos debe cumplir el dictamen para ser aceptado?",
-    "¿Qué hago si mi dictamen fue rechazado?",
-    "¿Qué es el SIPRED?",
-    "¿Cómo obtengo el acuse de aceptación del dictamen?",
-    "¿Cuáles son las fechas límite para enviar el dictamen?"
+    "¿Qué debo hacer para presentar el dictamen de estados financieros?",
+    "¿Cuáles son los requisitos para el SIPRED?",
+    "¿Qué pasa si mi dictamen es rechazado?",
+    "¿Cómo sé si el dictamen fue aceptado?",
+    "¿Qué son las fichas de trámite 76/CFF y 77/CFF?"
   ]
 }

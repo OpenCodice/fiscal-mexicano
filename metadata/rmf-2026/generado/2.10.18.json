@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3af45fe3c8d30fc7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de contador público",
   "temas": [
-    "obligaciones del contador público",
     "papeles de trabajo",
-    "revisión fiscal",
-    "impuesto sobre la renta",
-    "auditoría fiscal"
+    "auditoría",
+    "ISR",
+    "deducciones",
+    "vencimientos fiscales",
+    "conciliación fiscal"
   ],
   "terminos_coloquiales": [
     "dictamen fiscal",
-    "papeles de trabajo del contador",
-    "CFF",
-    "auditoría",
-    "ISR",
-    "revisión de situación fiscal"
+    "contador certificado",
+    "papeles de trabajo",
+    "auditoría fiscal",
+    "informe de auditoría"
   ],
-  "resumen": "El dictamen de un contador público inscrito se considera cumplido cuando se envían electrónicamente los papeles de trabajo que demuestran la revisión de la situación fiscal del contribuyente. Estos documentos deben mostrar los procedimientos y evidencias de la auditoría realizada.",
+  "resumen": "Esta regla establece que el contador público debe enviar electrónicamente los papeles de trabajo que demuestren la revisión de la situación fiscal del contribuyente. Estos documentos deben incluir los procedimientos de auditoría aplicados y las conclusiones alcanzadas.",
   "preguntas_ejemplo": [
     "¿Qué es un dictamen de contador público inscrito?",
-    "¿Cuáles son los papeles de trabajo que debo presentar?",
-    "¿Qué evidencia necesita el contador para el dictamen?",
+    "¿Qué incluyen los papeles de trabajo para la auditoría fiscal?",
     "¿Cómo se envían los papeles de trabajo a la autoridad?",
-    "¿Qué procedimientos de auditoría se deben cumplir?",
-    "¿Qué conceptos fiscales deben ser revisados por el contador?"
+    "¿Cuáles son las obligaciones del contador público respecto al ISR?",
+    "¿Qué información debe contener un informe de auditoría fiscal?"
   ]
 }

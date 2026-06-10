@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b293f06f5654d39e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Préstamo de acciones",
+  "denominacion_comun": "Préstamos de acciones",
   "temas": [
     "ganancia por enajenación",
     "acciones en préstamo",
-    "costo comprobado",
+    "costo de adquisición",
     "dividendos",
     "intereses",
     "sanciones",
     "deducciones"
   ],
   "terminos_coloquiales": [
-    "préstamo de acciones",
-    "acciones prestadas",
-    "ganancia por venta de acciones",
-    "ISR préstamo de acciones",
-    "LISR",
-    "RMF"
+    "préstamos acciones",
+    "ganancias por venta de acciones",
+    "declarar acciones prestadas",
+    "costos de acciones",
+    "dividendos cobrados",
+    "intereses de préstamos",
+    "sanciones fiscales"
   ],
-  "resumen": "La regla establece cómo determinar la ganancia por la venta de acciones obtenidas en préstamo, considerando costos y dividendos. Se especifican las condiciones bajo las cuales se aplica y cómo se tratan las acciones no adquiridas por el prestatario.",
+  "resumen": "La regla establece cómo determinar la ganancia al vender acciones que han sido prestadas. Permite restar el costo de adquisición y los dividendos pagados de los ingresos obtenidos por la venta. También menciona que ciertos pagos y sanciones no son deducibles fiscalmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la ganancia por la venta de acciones prestadas?",
-    "¿Qué costos son deducibles en la enajenación de acciones en préstamo?",
+    "¿Cómo se calculan las ganancias por vender acciones prestadas?",
+    "¿Qué costos debo considerar al enajenar acciones prestadas?",
+    "¿Los dividendos de acciones prestadas son deducibles?",
     "¿Qué pasa si no devuelvo las acciones a tiempo?",
-    "¿Los dividendos de acciones prestadas afectan mi declaración de impuestos?",
-    "¿Las sanciones por no cumplir el contrato son deducibles?"
+    "¿Las sanciones por no cumplir un contrato de préstamo de acciones son deducibles?",
+    "¿Cómo trato fiscalmente los intereses por préstamos de acciones?"
   ]
 }

@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2bd28899eab82df9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditación de entidades de financiamiento",
+  "denominacion_comun": "Acreditación de bancos extranjeros y entidades de financiamiento",
   "temas": [
-    "entidades de financiamiento",
-    "bancos extranjeros",
+    "documentación necesaria",
+    "entidades financieras",
     "retención de ISR",
-    "documentación requerida",
-    "entidades financieras de objeto limitado"
+    "operaciones activas",
+    "operaciones pasivas",
+    "calidad de entidad financiera",
+    "financiamiento",
+    "bancos extranjeros"
   ],
   "terminos_coloquiales": [
-    "calidad de banco extranjero",
-    "acreditación de financiamiento",
-    "Nonbank bank",
-    "documentos para retención de ISR"
+    "entidad financiera",
+    "banco extranjero",
+    "financiamiento",
+    "retención de impuestos",
+    "Nonbank bank"
   ],
-  "resumen": "La regla establece la documentación que deben presentar las entidades de financiamiento extranjeras para acreditar su calidad y que permite a las personas obligadas a retener ISR cumplir con sus obligaciones. Se detallan requisitos específicos para diferentes tipos de entidades financieras.",
+  "resumen": "Esta regla establece los documentos que deben proporcionar los bancos extranjeros o entidades de financiamiento para acreditar su calidad ante las personas obligadas a retener el ISR. Incluye requisitos específicos para diferentes tipos de entidades financieras y establece criterios mínimos y máximos para sus operaciones activas y pasivas.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesita un banco extranjero para acreditarse?",
-    "¿Cómo se comprueba la calidad de una entidad de financiamiento?",
-    "¿Qué requisitos hay para los Nonbank banks?",
-    "¿Qué porcentaje de operaciones debe tener una entidad para cumplir con el ISR?",
-    "¿Qué es una entidad financiera de objeto limitado?"
+    "¿Qué documentos necesito para acreditar un banco extranjero?",
+    "¿Cómo puedo comprobar que una entidad es una financiera autorizada?",
+    "¿Cuáles son los requisitos para que una entidad de financiamiento retenga ISR?",
+    "¿Qué es un Nonbank bank y cómo se acredita?",
+    "¿Qué operaciones se consideran activas para un banco extranjero?"
   ]
 }

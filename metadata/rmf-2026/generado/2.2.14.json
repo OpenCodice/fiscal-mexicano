@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f6996638d6beb71f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificado de e.firma",
+  "denominacion_comun": "Solicitud de e.firma",
   "temas": [
-    "Solicitud de generación",
-    "Renovación de e.firma",
-    "Requisitos",
-    "Identificación ante el SAT",
-    "Trámite en línea",
-    "Documentación adicional"
+    "certificado de e.firma",
+    "renovación de e.firma",
+    "requisitos de solicitud",
+    "identificación del contribuyente",
+    "información adicional"
   ],
   "terminos_coloquiales": [
     "e.firma",
-    "certificado de firma electrónica",
-    "CSD",
+    "firma electrónica",
     "certificado digital",
     "renovación de e.firma"
   ],
-  "resumen": "El SAT proporciona el Certificado de e.firma a quienes lo soliciten, siempre y cuando cumplan con los requisitos establecidos. Si hay algún problema con la situación fiscal del solicitante, el SAT podrá negar la generación o renovación del certificado.",
+  "resumen": "La regla establece los requisitos que deben cumplirse para solicitar la generación o renovación del certificado de e.firma ante el SAT. Además, se indica que en caso de no cumplir con la documentación requerida, la solicitud podrá ser negada o considerada no presentada.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito mi certificado de e.firma?",
-    "¿Cuáles son los requisitos para renovar la e.firma?",
-    "¿Qué hago si mi solicitud de e.firma fue negada?",
-    "¿Qué información necesita el SAT para generar mi e.firma?",
-    "¿Cómo aclaro información adicional requerida por el SAT?"
+    "¿Qué necesito para obtener mi e.firma?",
+    "¿Cómo renuevo mi certificado de e.firma?",
+    "¿Qué pasa si no presento la información requerida para la e.firma?",
+    "¿Dónde puedo solicitar la generación de mi e.firma?",
+    "¿Cuánto tiempo tengo para aclarar la información requerida para mi e.firma?"
   ]
 }

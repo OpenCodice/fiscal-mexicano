@@ -6,27 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6764d79c119650a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Certificación de CFDI para el Sector Primario",
+  "denominacion_comun": "Proveedores de Certificación y Generación de CFDI para el Sector Primario",
   "temas": [
-    "Autorización para ser proveedor",
-    "Requisitos para operación",
-    "Cumplimiento fiscal",
-    "Certificados digitales"
+    "Solicitud de autorización",
+    "Requisitos para PCGCFDISP",
+    "Certificación de CFDI",
+    "Obligaciones fiscales",
+    "Ley de Desarrollo Rural Sustentable",
+    "Opinión de cumplimiento",
+    "CSD y CESD",
+    "Registro ante el RFC"
   ],
   "terminos_coloquiales": [
-    "PCGCFDISP",
-    "Proveedores de CFDI",
-    "Certificadores de CFDI",
-    "Autorización de proveedores"
+    "proveedores de CFDI",
+    "certificación de documentos fiscales",
+    "autorización de PCGCFDISP",
+    "facturas electrónicas",
+    "Ley de Desarrollo Rural",
+    "CSD",
+    "CESD"
   ],
-  "resumen": "Las personas morales que sean asociaciones agrícolas o productores agropecuarios pueden solicitar autorización para operar como proveedores de certificación de CFDI, cumpliendo con una serie de requisitos establecidos por el SAT. Esto incluye presentar documentación legal y fiscal y cumplir con estándares de cumplimiento.",
+  "resumen": "Esta regla establece los requisitos y procedimientos que deben seguir las personas morales que desean obtener autorización para operar como proveedores de certificación y generación de CFDI en el sector primario. Incluye aspectos como la presentación de documentos, cumplimiento fiscal y validaciones por parte del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesito para ser proveedor de CFDI en el sector primario?",
-    "¿Cómo solicito la autorización como PCGCFDISP?",
-    "¿Cuáles son las obligaciones de los proveedores de certificación de CFDI?",
-    "¿Qué documentación se requiere para operar como certificador de CFDI?",
-    "¿Cómo puedo renovar mi certificado digital como proveedor de CFDI?"
+    "¿Cómo puedo ser proveedor de CFDI para el sector primario?",
+    "¿Cuáles son los requisitos para obtener autorización como PCGCFDISP?",
+    "¿Qué documentos necesito para certificar facturas electrónicas?",
+    "¿Cómo verificar si cumplo con las obligaciones fiscales para ser proveedor de CFDI?",
+    "¿Qué es un CSD y cómo lo obtengo como proveedor?",
+    "¿Qué pasa si no cumplo con los requerimientos del SAT para ser proveedor de CFDI?"
   ]
 }

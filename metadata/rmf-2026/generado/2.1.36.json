@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4c0b722555f03a7f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opinión del cumplimiento de obligaciones fiscales",
   "temas": [
-    "obligaciones fiscales",
-    "opinión de cumplimiento",
-    "Portal del SAT",
-    "situación fiscal",
-    "contribuyentes",
-    "RFC",
-    "constancias",
-    "aclaraciones"
+    "procedimiento para obtener opinión",
+    "opinión positiva y negativa",
+    "situación fiscal del contribuyente",
+    "consultas por terceros",
+    "inconsistencias en la opinión",
+    "vigencia de la opinión"
   ],
   "terminos_coloquiales": [
     "opinión fiscal",
-    "opinión de cumplimiento",
-    "OCoF",
-    "trámite de opinión",
-    "SAT"
+    "opinión del SAT",
+    "RFC",
+    "cumplimiento de obligaciones",
+    "aclaración de inconsistencias"
   ],
-  "resumen": "Los contribuyentes pueden obtener una opinión sobre el cumplimiento de sus obligaciones fiscales accediendo al Portal del SAT. Esta opinión puede ser positiva, negativa o de suspensión, dependiendo de la situación fiscal del contribuyente.",
+  "resumen": "Esta regla establece el procedimiento que deben seguir los contribuyentes para obtener una opinión sobre su cumplimiento de obligaciones fiscales ante el SAT. Esta opinión puede ser positiva, negativa, o indicar suspensión de actividades, y tiene una vigencia de treinta días naturales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener mi opinión de cumplimiento fiscal?",
-    "¿Qué significa tener una opinión fiscal positiva?",
-    "¿Qué hago si mi opinión de cumplimiento es negativa?",
-    "¿Cuál es el procedimiento para aclarar inconsistencias en mi opinión fiscal?",
-    "¿Dónde encuentro la opinión del cumplimiento en el SAT?"
+    "¿Cómo puedo obtener mi opinión del cumplimiento de obligaciones fiscales?",
+    "¿Qué pasos debo seguir para consultar mi opinión fiscal?",
+    "¿Cuánto tiempo es válida la opinión del SAT?",
+    "¿Qué hacer si no estoy de acuerdo con las inconsistencias en mi opinión?",
+    "¿Pueden otros consultar mi opinión de cumplimiento?"
   ]
 }

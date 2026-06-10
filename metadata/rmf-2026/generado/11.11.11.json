@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f9aafa11d682afee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimulo fiscal IVA PODEBI",
+  "denominacion_comun": "Estimulo fiscal en IVA PODEBI",
   "temas": [
-    "estímulo fiscal",
     "IVA",
     "CFDI",
     "PODEBI",
-    "operaciones dentro de PODEBI",
-    "clave 05",
-    "Complemento Leyendas Fiscales"
+    "acreditamiento",
+    "complemento leyendas fiscales",
+    "contribuyentes",
+    "operaciones",
+    "reglamento"
   ],
   "terminos_coloquiales": [
-    "estimulo IVA",
-    "IVA PODEBI",
-    "CFDI PODEBI",
-    "clave 05",
-    "Leyendas Fiscales"
+    "estimulo fiscal IVA",
+    "reflejar IVA en CFDI",
+    "PODEBI",
+    "factura",
+    "leyendas fiscales"
   ],
-  "resumen": "Esta regla permite a los contribuyentes que aplican el estímulo fiscal en IVA para operaciones dentro de los PODEBI reflejar dicha aplicación en sus CFDI. Además, requieren usar una clave específica y un complemento con la leyenda correspondiente para el correcto acreditamiento del estímulo fiscal.",
+  "resumen": "Esta regla establece cómo los contribuyentes pueden aplicar un estímulo fiscal en el IVA por operaciones dentro de los PODEBI, reflejándolo en los CFDI. También se requiere incluir un complemento con la leyenda correspondiente para el correcto acreditamiento del estímulo fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico el estímulo fiscal en el IVA para mis operaciones en PODEBI?",
-    "¿Qué clave debo usar en el CFDI para reflejar el estímulo fiscal de IVA?",
-    "¿Necesito un complemento especial para mis CFDI si trabajo en PODEBI?",
-    "¿Qué pasa si no tengo la constancia requerida para aplicar el estímulo fiscal?",
-    "¿Se puede aplicar el estímulo fiscal en operaciones con el público en general?"
+    "¿Cómo aplico el estímulo fiscal en el IVA por operaciones en PODEBI?",
+    "¿Qué debo incluir en el CFDI para reflejar el estímulo fiscal?",
+    "¿Cuáles son las operaciones que permiten el acreditamiento del IVA en PODEBI?",
+    "¿Qué es el complemento leyendas fiscales en el CFDI?",
+    "¿Quiénes son los contribuyentes que pueden aplicar este estímulo fiscal?"
   ]
 }

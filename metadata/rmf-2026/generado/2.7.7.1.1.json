@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c6773bc029068bfe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "CFDI con Complemento Carta Porte",
   "temas": [
     "CFDI de tipo ingreso",
-    "Complemento Carta Porte",
     "Transporte de mercancías",
+    "Complemento Carta Porte",
     "Servicios de paquetería",
-    "Legal tenencia de bienes",
-    "Datos necesarios para identificación",
-    "Responsabilidad en transporte"
+    "Acreditamiento de tenencia",
+    "Requisitos fiscales"
   ],
   "terminos_coloquiales": [
     "factura de transporte",
-    "complemento carta porte",
-    "CFDI carta porte",
-    "carta porte",
-    "factura de ingresos"
+    "comprobante de carga",
+    "CFDI",
+    "Carta Porte"
   ],
-  "resumen": "Los contribuyentes que prestan servicios de transporte de mercancías deben expedir un CFDI de tipo ingreso que incluya el Complemento Carta Porte. Este comprobante acredita el transporte y la legal tenencia de los bienes que se trasladan.",
+  "resumen": "Los transportistas que realicen servicios de transporte de mercancías deben emitir un CFDI de tipo ingreso con el Complemento Carta Porte. Este comprobante acredita el traslado y legal tenencia de los bienes, y es necesario para deducciones y acreditamientos fiscales.",
   "preguntas_ejemplo": [
     "¿Qué es el Complemento Carta Porte?",
     "¿Cómo se emite un CFDI de tipo ingreso para transporte?",
-    "¿Qué pasa si no tengo el CFDI con el complemento carta porte?",
-    "¿Cuáles son los requisitos para el CFDI de transporte?",
-    "¿Qué datos debo proporcionar al transportista para el CFDI?",
-    "¿Quién es responsable si hay errores en el complemento carta porte?"
+    "¿Qué requisitos debe tener el CFDI de transporte?",
+    "¿Qué pasa si no tengo el CFDI con el Complemento Carta Porte?",
+    "¿Quién debe proporcionar los datos para el CFDI de transporte?"
   ]
 }

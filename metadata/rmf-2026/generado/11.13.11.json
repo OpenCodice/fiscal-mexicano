@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d08cd06fee6ea0c8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal en materia del IVA para POINBI",
+  "denominacion_comun": "Estímulo fiscal en IVA para POINBI",
   "temas": [
     "estímulo fiscal",
     "IVA",
     "CFDI",
     "POINBI",
-    "Ley del IVA",
-    "Reglamento de la Ley del IVA",
-    "acreditamiento fiscal"
+    "leyendas fiscales",
+    "acreditamiento",
+    "contribuyentes",
+    "operaciones internas"
   ],
   "terminos_coloquiales": [
-    "estimulo IVA",
+    "estímulo fiscal IVA",
     "POINBI",
-    "CFDI para POINBI"
+    "comprobante fiscal",
+    "CFDI",
+    "clave 06",
+    "legendas fiscales"
   ],
-  "resumen": "Esta regla establece que los contribuyentes que apliquen un estímulo fiscal en materia de IVA por operaciones dentro de los POINBI deben emitir CFDI de manera específica, incluyendo ciertas leyendas y claves para reflejar el estímulo. Esto es necesario para que puedan acreditar el estímulo fiscal correspondiente.",
+  "resumen": "Esta regla establece cómo los contribuyentes que aplican el estímulo fiscal en IVA por operaciones dentro de los POINBI deben reflejarlo en sus CFDI y agregar una leyenda específica. La correcta emisión de estos CFDI es esencial para poder acreditar el estímulo fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico el estímulo fiscal en materia del IVA para las operaciones en POINBI?",
-    "¿Qué es un CFDI para POINBI?",
-    "¿Qué leyendas debo incluir en mis CFDI si realizo operaciones en POINBI?",
-    "¿Cuáles son las claves del catálogo c_ObjetoImp que debo usar?",
-    "¿Qué requisitos debo cumplir para acreditar el estímulo fiscal en IVA?"
+    "¿Cómo aplico el estímulo fiscal en IVA para POINBI?",
+    "¿Qué clave debo usar en el CFDI para reflejar el estímulo fiscal?",
+    "¿Es obligatorio incluir leyendas en el CFDI para operaciones en POINBI?",
+    "¿Qué pasa si no tengo la constancia requerida para aplicar el estímulo fiscal?",
+    "¿Cuál es el procedimiento para acreditar el estímulo fiscal en IVA?"
   ]
 }

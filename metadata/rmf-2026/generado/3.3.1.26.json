@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:760e07d8b460fd13",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Autorización para deducir pérdidas de títulos valor",
   "temas": [
     "deducciones fiscales",
-    "pérdidas deducibles",
-    "enajenación de acciones",
+    "pérdidas en enajenación",
+    "acciones",
     "títulos valor",
     "personas morales"
   ],
   "terminos_coloquiales": [
     "deducción de pérdidas",
-    "pérdidas por venta de acciones",
-    "autorización de deducción de títulos",
+    "pérdidas en acciones",
+    "solicitud de deducción",
+    "LISR",
     "ficha de trámite 52/ISR"
   ],
-  "resumen": "Las personas morales pueden solicitar autorización para deducir pérdidas verificadas en la venta de acciones y otros títulos valor. Este proceso se realiza mediante la ficha de trámite 52/ISR.",
+  "resumen": "Las personas morales pueden solicitar autorización para deducir pérdidas derivadas de la venta de acciones y otros títulos valor, cumpliendo con los requisitos establecidos en la normativa fiscal. Esta deducción se basa en un trámite específico que deben seguir.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir pérdidas de acciones?",
-    "¿Qué requisitos necesito para la deducción de títulos valor?",
-    "¿Dónde encuentro la solicitud para deducir pérdidas por enajenación?",
+    "¿Cómo deduzco pérdidas de acciones en mi declaración?",
+    "¿Qué necesito para solicitar la deducción de pérdidas de títulos valor?",
     "¿Qué es la ficha de trámite 52/ISR?",
-    "¿Puedo reducir pérdidas de otros títulos valor?"
+    "¿Las personas morales pueden deducir pérdidas en la venta de acciones?",
+    "¿Qué dice la LISR sobre deducciones de pérdidas?",
+    "¿Cómo compruebo la pérdida para deducirla?"
   ]
 }

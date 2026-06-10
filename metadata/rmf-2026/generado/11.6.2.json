@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb08ad0bbb41a558",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal para combustibles",
+  "denominacion_comun": "Estímulo fiscal a combustibles",
   "temas": [
-    "Estímulo fiscal",
-    "Combustibles",
-    "Diésel",
+    "estímulo fiscal",
+    "combustibles",
+    "diésel",
     "IVA",
     "IEPS",
-    "Permisionarios",
-    "Beneficiarios",
-    "Reportes fiscales"
+    "reportes tributarios",
+    "CONAPESCA",
+    "SADER"
   ],
   "terminos_coloquiales": [
-    "Estímulo fiscal a combustibles",
-    "Estímulo para diésel",
-    "Renuncia de reportes",
-    "EF",
-    "IEPS reforzado"
+    "estímulo a gasolina",
+    "estímulo a diésel",
+    "reintegro de IVA",
+    "reportes de combustibles",
+    "combustibles a precio preferencial"
   ],
-  "resumen": "La regla establece un procedimiento para que los contribuyentes determinen mensualmente el monto del estímulo fiscal relacionado con la enajenación de combustibles. Se requiere que CONAPESCA y SADER proporcionen reportes semanales con información detallada para facilitar este proceso.",
+  "resumen": "La disposición establece que los contribuyentes deben calcular mensualment el estímulo fiscal sobre los combustibles, basándose en reportes de CONAPESCA y SADER. También se establece el procedimiento para el reintegro del estímulo y el IVA correspondiente a los permisionarios que enajenen combustibles a precio preferencial.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aplicar el estímulo fiscal a los combustibles?",
-    "¿Qué reportes necesito enviar al SAT para el estímulo fiscal?",
-    "¿Qué información debe contener el reporte de CONAPESCA y SADER?",
-    "¿Cuándo debo entregar la información para el estímulo fiscal?",
-    "¿Cómo se compensa el estímulo fiscal con el IEPS?"
+    "¿Cómo aplico el estímulo fiscal a diésel?",
+    "¿Qué requisitos debo cumplir para obtener el estímulo a gasolina?",
+    "¿Qué reportes debo enviar al SAT para el estímulo fiscal?",
+    "¿Cómo se calcula el IVA del estímulo fiscal?",
+    "¿Cuándo debo presentar los reportes de combustibles?"
   ]
 }

@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:840f8765553c0df1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Generación de CFDI para el sector primario",
+  "denominacion_comun": "Generación de CFDI para el Sector Primario",
   "temas": [
-    "Certificación de CFDI",
-    "Proveedores de CFDI",
-    "Datos de contacto del proveedor",
-    "Revocación de autorización"
+    "certificación de CFDI",
+    "proveedores de CFDI",
+    "datos de contacto",
+    "revocación de autorización",
+    "no renovación de autorización"
   ],
   "terminos_coloquiales": [
-    "CFDI sector primario",
-    "Proveedores de CFDI",
-    "SAT",
-    "PCGCFDISP"
+    "factura electrónica",
+    "CFDI",
+    "proveedores de facturas",
+    "código de certificado de sello digital",
+    "cancelación de CFDI"
   ],
-  "resumen": "Esta disposición regula cómo se deben publicar los datos de los proveedores de certificación y generación de CFDI para el sector primario en el Portal del SAT, incluyendo información como nombre, logotipo y datos de contacto. También establece el procedimiento para la revocación o no renovación de autorizaciones de estos proveedores.",
+  "resumen": "Esta disposición establece cómo se deben publicar los datos de los proveedores que certifican y generan CFDI para el sector primario en el Portal del SAT. También indica los plazos para la publicación de información cuando se revoca o no se renueva la autorización de dichos proveedores.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo encontrar proveedores de CFDI para el sector primario?",
-    "¿Qué información publica el SAT sobre los proveedores de CFDI?",
-    "¿Qué pasa si un proveedor de CFDI no renueva su autorización?",
-    "¿Dónde se publican los datos de contacto de los proveedores de CFDI?"
+    "¿Cómo encuentro los datos de los proveedores que generan CFDI?",
+    "¿Qué pasa si un proveedor de CFDI tiene su autorización revocada?",
+    "¿Dónde puedo ver la información actualizada de los proveedores de certificación de CFDI?",
+    "¿Qué requisitos deben cumplir los proveedores de CFID para el sector primario?",
+    "¿Cómo se publica la revocación o la no renovación de un proveedor de CFDI?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d99d59c5f09932bb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Premios pagados y compensación fiscal",
+  "denominacion_comun": "Estímulos fiscales y premios pagados",
   "temas": [
-    "premios",
+    "premios pagados",
     "impuestos locales",
     "compensación de fondos",
-    "entidades federativas",
-    "municipios",
-    "colaboración administrativa"
+    "coordinación fiscal",
+    "entidades federativas"
   ],
   "terminos_coloquiales": [
-    "premios entregados",
-    "impuestos locales",
-    "compensación fiscal",
-    "Sistema Nacional de Coordinación Fiscal"
+    "premios",
+    "impuestos estatales",
+    "compensación de fondos",
+    "fiscalización entre estados",
+    "CFF",
+    "LCF"
   ],
-  "resumen": "La Secretaría informará a las entidades federativas sobre los premios pagados. Esto ayudará a que las entidades determinen sus impuestos locales y soliciten compensación a la Federación.",
+  "resumen": "Este texto establece que la Secretaría informará a las entidades federativas sobre los premios pagados, lo que les permitirá determinar los impuestos locales que deben cobrar y cómo solicitar su compensación a la Federación. Se relaciona con la coordinación fiscal entre niveles de gobierno.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los impuestos locales sobre premios pagados?",
-    "¿Qué información proporciona la Secretaría a las entidades federativas?",
-    "¿Cómo se realiza la compensación de fondos para premios?",
-    "¿Qué implica la colaboración administrativa en materia fiscal?",
-    "¿Dónde se establece el procedimiento de compensación permanente de fondos?"
+    "¿Cómo se determinan los impuestos locales sobre premios?",
+    "¿Qué es la compensación de fondos en materia fiscal?",
+    "¿Qué información recibe mi estado sobre los premios pagados?",
+    "¿Cómo afecta la coordinación fiscal a los municipios?",
+    "¿Qué pasos debo seguir para solicitar la compensación de premios?"
   ]
 }

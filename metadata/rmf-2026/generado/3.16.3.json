@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee71d667b5919aa9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo de intereses en moneda extranjera",
   "temas": [
     "intereses nominales",
     "intereses reales",
+    "moneda extranjera",
     "ganancia cambiaria",
     "pérdida cambiaria",
-    "ajuste por inflación",
-    "cuentas de cheques",
-    "inversiones",
-    "instrumentos financieros"
+    "ajuste anual por inflación",
+    "costo promedio ponderado"
   ],
   "terminos_coloquiales": [
     "intereses en dólares",
-    "ganancia por cambio",
-    "pérdida por cambio",
-    "intereses en moneda extranjera"
+    "rendimientos en moneda extranjera",
+    "ganancia por cambio de divisas",
+    "pérdida por cambio de divisas",
+    "ajuste por inflación"
   ],
-  "resumen": "Esta regla establece cómo calcular los intereses nominales y reales de inversiones o instrumentos financieros en moneda extranjera, considerando también las ganancias o pérdidas cambiarias. Se incluyen detalles sobre cómo se determina el rendimiento y cómo se ajustan los intereses por inflación.",
+  "resumen": "La regla establece cómo calcular los intereses nominales y reales de las cuentas en moneda extranjera, considerando el rendimiento y las variaciones en el tipo de cambio. También se aborda el ajuste anual por inflación, que puede resultar en pérdidas si es mayor que los intereses generados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses en cuentas en dólares?",
-    "¿Qué es la ganancia cambiaria y cómo se calcula?",
-    "¿Cómo afecta la inflación mis intereses en moneda extranjera?",
-    "¿Qué pasa si mis intereses son menores que la inflación?",
-    "¿Cómo se determina el costo promedio de adquisición de divisas?",
-    "¿Se consideran pérdidas cambiarias en el cálculo de intereses?"
+    "¿Cómo se calculan los intereses en mis cuentas en dólares?",
+    "¿Qué es la ganancia cambiaria y cómo afecta mis impuestos?",
+    "¿Se puede deducir una pérdida cambiaria?",
+    "¿Cómo se determina el ajuste por inflación para mis inversiones?",
+    "¿Qué pasa si los intereses generados son menores que el ajuste por inflación?"
   ]
 }

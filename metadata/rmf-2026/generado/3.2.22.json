@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c932d5101eec1aa3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación de ganancias en operaciones financieras derivadas",
+  "denominacion_comun": "Ganancias en operaciones financieras derivadas",
   "temas": [
-    "impuesto sobre la renta",
+    "personas físicas",
+    "personas morales",
     "ganancias",
     "operaciones financieras",
     "acciones",
-    "valores",
-    "fondos de inversión"
+    "índices"
   ],
   "terminos_coloquiales": [
     "ganancias en acciones",
-    "valor de contratos",
-    "operaciones financieras derivadas",
-    "LISR"
+    "valores en bolsa",
+    "operaciones con acciones",
+    "fondos de inversión",
+    "derivados financieros"
   ],
-  "resumen": "Esta disposición permite a las personas físicas y morales considerar el valor del contrato de operaciones financieras derivadas de capital en vez de las cantidades previas pagadas o recibidas, para determinar las ganancias. Esto aplica a contratos referidos a acciones que se contrataron antes de una fecha específica.",
+  "resumen": "La disposición establece que personas físicas y morales pueden determinar ganancias en operaciones financieras derivadas de capital considerando el valor del contrato publicado en una fecha específica. Esto aplica a acciones y valores que no estén listados en ciertos sistemas de cotización.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan las ganancias en operaciones financieras derivadas?",
-    "¿Qué se considera el valor de un contrato en la enajenación de acciones?",
-    "¿Qué artículos de la LISR son relevantes para las operaciones financieras?",
-    "¿Qué ocurre si el contrato no tiene un valor publicado en la fecha correspondiente?",
-    "¿Quiénes pueden aplicar esta regla sobre ganancias en inversiones?"
+    "¿Cómo se determinan las ganancias de mis inversiones en acciones?",
+    "¿Qué valor debo considerar para mi operación financiera derivada?",
+    "¿Qué pasa si mis acciones no están listadas en un sistema de cotización?",
+    "¿Puedo usar el valor de mercado de mis acciones en lugar de las cantidades previas?",
+    "¿Qué artículos de la Ley del ISR se aplican a las operaciones financieras derivadas?"
   ]
 }

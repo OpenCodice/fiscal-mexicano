@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10cba6734c28a87e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Programa de regularización fiscal",
   "temas": [
-    "facultades de comprobación",
     "estímulo fiscal",
-    "recursos de revocación",
-    "juicio contencioso administrativo",
-    "autocorrección fiscal"
+    "facultades de comprobación",
+    "recurso de revocación",
+    "sentencia de juicio contencioso administrativo",
+    "autocorrección fiscal",
+    "irregularidades fiscales"
   ],
   "terminos_coloquiales": [
     "regularización fiscal",
-    "estímulo",
+    "autocorrección",
     "recurso de revocación",
-    "JUICIO CA"
+    "sentencia administrativa"
   ],
-  "resumen": "Los contribuyentes que están bajo facultades de comprobación pueden usar un estímulo fiscal incluso si hay una resolución de revocación o un juicio contencioso, siempre que subsanen las irregularidades y realicen la autocorrección fiscal antes de fin de año.",
+  "resumen": "Los contribuyentes con facultades de comprobación pueden acceder a un estímulo fiscal, incluso si hay una resolución relacionada con un recurso de revocación o sentencia de juicio contencioso, siempre que corrijan las irregularidades antes de la fecha límite.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo regularizarme si tengo una revisión fiscal?",
-    "¿Qué debo hacer si me notifican un juicio contencioso administrativo?",
-    "¿Qué es la autocorrección fiscal y cómo se aplica?",
-    "¿Puedo obtener un estímulo fiscal si hay un recurso de revocación?",
-    "¿Qué plazos debo cumplir para la regularización fiscal?"
+    "¿Cómo puedo regularizar mis impuestos si tengo irregularidades?",
+    "¿Qué es el estímulo fiscal en el programa de regularización?",
+    "¿Puedo aprovechar el estímulo si tengo un juicio contencioso?",
+    "¿Cuáles son las consecuencias de no autocorregir mis irregularidades fiscales?",
+    "¿Hasta cuándo tengo para hacer la autocorrección fiscal?"
   ]
 }

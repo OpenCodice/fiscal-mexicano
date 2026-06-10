@@ -6,32 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:90e9681f9da5d08d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditación de residencia fiscal",
+  "denominacion_comun": "Acreditación de residencia fiscal para residentes en el extranjero",
   "temas": [
     "residencia fiscal",
-    "residente en el extranjero",
-    "tratados para evitar doble imposición",
+    "residentes en el extranjero",
+    "doble imposición",
     "intercambio de información",
-    "intereses",
-    "escrito bajo protesta",
-    "representante legal"
+    "tratados fiscales"
   ],
   "terminos_coloquiales": [
-    "acreditación de residencia fiscal",
-    "residente extranjero",
-    "documentación para pagos",
-    "doble imposición",
-    "LISR",
-    "RMF"
+    "residencia fiscal en el extranjero",
+    "pago de intereses",
+    "acuerdo de doble imposición",
+    "tratado fiscal"
   ],
-  "resumen": "Se requiere que un residente en el extranjero entregue un escrito bajo protesta para acreditar su residencia fiscal antes de recibir pagos de intereses en México. Esto debe hacerse si México tiene un tratado con el país del residente para evitar la doble imposición.",
+  "resumen": "Esta regla establece que los residentes en el extranjero deben presentar un escrito que certifique su residencia en un país con el que México tiene un tratado fiscal antes de recibir el pago de intereses. Esto es para evitar la doble imposición.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para comprobar mi residencia fiscal si soy extranjero?",
-    "¿Qué requisitos debo cumplir para que me paguen intereses en México?",
-    "¿Qué es el tratado de doble imposición?",
-    "¿Cómo acreditan los residentes en el extranjero su situación fiscal?",
-    "¿Qué implica entregar un escrito bajo protesta para pagos en México?"
+    "¿Qué debo hacer para comprobar mi residencia fiscal en el extranjero?",
+    "¿Cómo se evita la doble imposición en los pagos que recibo?",
+    "¿Qué información necesito dar antes de que me paguen intereses si soy residente en el extranjero?",
+    "¿Qué es un tratado de doble imposición?",
+    "¿Qué implicaciones tiene ser residente fiscal en el extranjero?"
   ]
 }

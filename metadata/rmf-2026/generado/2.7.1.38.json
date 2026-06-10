@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0fc468d2466a0e4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "No expedición de CFDI por pago de impuestos federales",
   "temas": [
     "CFDI",
-    "Impuestos Federales",
-    "Declaración",
-    "Pago",
+    "impuestos federales",
+    "declaración de impuestos",
+    "pago de impuestos",
     "SAT"
   ],
   "terminos_coloquiales": [
-    "Factura electrónica",
-    "CFDI no expedido",
-    "Declaración de impuestos",
-    "Pago de impuestos"
+    "factura",
+    "CFDI",
+    "declaraciones",
+    "pago de impuestos",
+    "impuestos federales"
   ],
-  "resumen": "La disposición establece que la Federación cumple con la obligación de expedir y entregar CFDI cuando la declaración y el pago de ciertos impuestos federales se registran en las bases de datos del SAT. Se permite que el CFDI indique un método de pago específico en estos casos.",
+  "resumen": "La disposición establece que, para ciertos impuestos federales cuyos pagos están en las bases de datos del SAT, la obligación de expedir CFDI se considera cumplida con el acuse de la declaración y pago correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cuándo no se necesita un CFDI para pagar impuestos?",
-    "¿Cómo se documenta el pago de impuestos federales?",
-    "¿El SAT emite CFDI por mis pagos de impuestos?",
-    "¿Qué significa que el CFDI no esté expedido?",
-    "¿Qué pasa con mis CFDI si pago mis impuestos a tiempo?"
+    "¿Por qué no necesito un CFDI si ya declaré mis impuestos?",
+    "¿Qué pasa con el CFDI si pago mis impuestos federales?",
+    "¿El SAT me entrega un CFDI por el pago de impuestos?",
+    "¿Cómo es el proceso si no se emite un CFDI por mis impuestos?",
+    "¿Qué requisitos debo cumplir para que el SAT considere cumplida la obligación de expedir CFDI?"
   ]
 }

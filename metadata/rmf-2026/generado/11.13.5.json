@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:72ba9b535dd4c750",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
+    "impuesto sobre la renta",
+    "declaración mensual",
     "pagos provisionales",
-    "declaración ISR",
-    "personas morales",
-    "estímulos fiscales"
+    "estímulos fiscales",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "RESICO",
-    "Régimen Simplificado de Confianza Personas Morales",
-    "declaración ISR POINBI"
+    "ISR",
+    "Régimen Simplificado de Confianza",
+    "pago de impuestos",
+    "declaración de impuestos"
   ],
-  "resumen": "Las personas morales que tributen en el Régimen Simplificado de Confianza deben presentar sus pagos provisionales mensuales de ISR mediante una declaración específica. Esto es parte de un incentivo fiscal según el Decreto POINBI.",
+  "resumen": "Esta disposición establece que las personas morales en el Régimen Simplificado de Confianza deben presentar sus pagos provisionales mensuales del ISR mediante una declaración específica. Esto aplica a aquellos que apliquen los estímulos establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la declaración del Régimen Simplificado de Confianza?",
-    "¿Qué es el POINBI y cómo afecta mis impuestos?",
-    "¿Cuál es el plazo para presentar mis pagos provisionales en el RESICO?",
-    "¿Qué estímulos fiscales hay para las personas morales?",
-    "¿Cuáles son los requisitos para el Régimen Simplificado de Confianza?"
+    "¿Cómo presento mi declaración de ISR en el Régimen Simplificado de Confianza?",
+    "¿Cuál es la fecha límite para los pagos provisionales como persona moral?",
+    "¿Qué estímulos fiscales puedo aplicar en el Régimen Simplificado de Confianza?",
+    "¿Qué significan los pagos provisionales mensuales?",
+    "¿Cómo afecta el Decreto POINBI a mi declaración de impuestos?"
   ]
 }

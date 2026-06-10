@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f292fbda1b020ac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facilidad para pago en parcialidades",
   "temas": [
-    "Pago en parcialidades",
-    "Contribuciones federales",
-    "Recargos",
-    "Quiebra",
-    "Interés fiscal"
+    "contribuciones federales",
+    "retenciones",
+    "cuotas compensatorias",
+    "pagos en parcialidades",
+    "recargos",
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
-    "Pago en parcialidades",
-    "Facilidad de pago",
+    "pago a plazos",
+    "6 parcialidades",
+    "facilidad de pago",
     "LIF",
-    "Regla 9.2.10"
+    "deuda fiscal"
   ],
-  "resumen": "Los contribuyentes pueden pagar sus contribuciones federales en hasta seis parcialidades, siempre que cumplan ciertos requisitos, incluyendo no estar en quiebra. Se aplicarán recargos sobre el saldo insoluto.",
+  "resumen": "Esta disposición permite a ciertos contribuyentes solicitar el pago de sus contribuciones federales en hasta seis parcialidades. La última parcialidad debe pagarse antes de una fecha límite y se establece una tasa de recargos sobre el saldo insoluto.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar mis impuestos en parcialidades?",
-    "¿Qué requisitos tengo que cumplir para acceder a la facilidad de pago?",
-    "¿Cuánto es el recargo por el pago en parcialidades?",
-    "¿Puedo solicitar esta facilidad si estoy en proceso de quiebra?",
-    "¿Hasta cuándo tengo para hacer el último pago en parcialidades?"
+    "¿Puedo pagar mis impuestos en parcialidades?",
+    "¿Qué debo hacer para solicitar el pago en plazos?",
+    "¿Hay una tasa de recargos si pago a plazos?",
+    "¿Hasta cuándo puedo pagar mis contribuciones en parcialidades?",
+    "¿Quiénes pueden acceder a la facilidad de pago?",
+    "¿Qué pasa si tengo un concurso mercantil?"
   ]
 }

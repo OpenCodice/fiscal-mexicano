@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23fd4e73438d6978",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de autorización de monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Revocación de autorización de monederos electrónicos de despensa",
   "temas": [
-    "revocación de autorizaciones",
     "monederos electrónicos",
     "vales de despensa",
+    "revocación de autorización",
+    "cumplimiento de requisitos",
     "obligaciones fiscales",
-    "incumplimientos",
-    "sanciones",
-    "verificación de requisitos"
+    "verificación por el SAT",
+    "incumplimiento"
   ],
   "terminos_coloquiales": [
-    "revocación de monederos",
-    "vales de despensa SAT",
+    "vales de despensa",
     "monederos de despensa",
-    "sat vales de despensa"
+    "revocar autorización",
+    "vales electrónicos",
+    "SAT"
   ],
-  "resumen": "La regla establece las causas por las cuales el SAT puede revocar la autorización para emitir monederos electrónicos de vales de despensa. Esto incluye incumplimientos en los requisitos, situaciones de delitos fiscales, y falta de colaboración con la autoridad fiscal.",
+  "resumen": "La regla establece las causas por las cuales se puede revocar la autorización para emitir monederos electrónicos de vales de despensa. Incluye motivos como el incumplimiento de requisitos o la no colaboración con la verificación del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me revocan la autorización para mis monederos de despensa?",
-    "¿Cuáles son las razones para que el SAT cancele un monedero electrónico?",
-    "¿Cómo sé si mis vales de despensa están autorizados?",
-    "¿Qué debo hacer si se me notifica la revocación de mis vales de despensa?",
-    "¿Cuánto tiempo tengo que esperar para volver a solicitar la autorización de monederos electrónicos?"
+    "¿Cuáles son las razones por las que me pueden quitar la autorización de mis vales de despensa?",
+    "¿Qué pasa si no cumplo con los requisitos para mis monederos electrónicos?",
+    "¿Puedo volver a obtener la autorización después de que me la revoquen?",
+    "¿Qué sucede con los vales de despensa no utilizados tras la revocación?",
+    "¿Cómo verifica el SAT el cumplimiento de mis obligaciones si emito vales de despensa?"
   ]
 }

@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed72ae1e463e275c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaraciones de Pago del DEPEBI",
+  "denominacion_comun": "DEPEBI",
   "temas": [
-    "DEPEBI",
-    "declaraciones normales",
-    "declaraciones complementarias",
-    "declaraciones extemporáneas",
-    "corrección fiscal",
-    "Portal del SAT",
-    "obligaciones fiscales",
-    "comprobante de pago"
+    "declaraciones fiscales",
+    "pago del derecho petrolero",
+    "empresas públicas",
+    "SAT",
+    "complementarias",
+    "correcciones fiscales",
+    "portal del SAT"
   ],
   "terminos_coloquiales": [
-    "declaraciones del DEPEBI",
-    "pago del derecho petrolero",
+    "derecho petrolero",
+    "pago de DEPEBI",
+    "declaraciones de pago",
     "declaraciones complementarias",
-    "declaraciones extemporáneas",
-    "DEPEBI"
+    "comprobante de pago"
   ],
-  "resumen": "Las empresas públicas del Estado deben presentar sus declaraciones de pago relativas al DEPEBI a través del Portal del SAT, incluyendo las normales y complementarias. Deben acompañar estas declaraciones con la forma oficial DEPEBI y el comprobante de pago correspondiente.",
+  "resumen": "Las empresas públicas del Estado que deben pagar el DEPEBI tienen que presentar sus declaraciones normales y complementarias a través del Portal del SAT. Además, deben incluir el comprobante de pago y detalles sobre cualquier corrección realizada en sus declaraciones.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mi declaración del DEPEBI?",
-    "¿Qué debo incluir en las declaraciones complementarias del DEPEBI?",
-    "¿Qué es el pago del derecho petrolero para el bienestar?",
-    "¿Dónde encuentro la forma oficial DEPEBI?",
-    "¿Qué pasa si presento una declaración extemporánea del DEPEBI?"
+    "¿Qué es el DEPEBI?",
+    "¿Cómo presento mi declaración de pago del derecho petrolero?",
+    "¿Qué hago si necesito corregir mi declaración de DEPEBI?",
+    "¿Dónde encuentro la forma oficial para declarar el DEPEBI?",
+    "¿Qué sucede si presento declaraciones extemporáneas del DEPEBI?"
   ]
 }

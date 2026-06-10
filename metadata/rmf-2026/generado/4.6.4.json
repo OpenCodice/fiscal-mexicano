@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3e232dc7463be5fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución del IVA a turistas extranjeros",
   "temas": [
     "IVA",
-    "devolución",
     "turistas extranjeros",
-    "requisitos",
+    "devoluciones",
     "comprobantes fiscales",
-    "calidad migratoria",
-    "medios de pago"
+    "documentación necesaria"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA a turistas",
-    "devolución de impuestos",
-    "reembolso de IVA"
+    "IVA para turistas",
+    "reembolso de IVA",
+    "solicitud de devolución",
+    "comprobante fiscal",
+    "pasaporte"
   ],
-  "resumen": "Los turistas extranjeros que salgan de México pueden solicitar la devolución del IVA si presentan ciertos documentos al concesionario. Deben incluir información como monto de compras y su identificación.",
+  "resumen": "Los turistas extranjeros que deseen recuperar el IVA deben presentar una solicitud con varios requisitos, incluyendo comprobantes de compra y documentación que acredite su calidad de turistas. La devolución se realiza a través del concesionario autorizado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo recuperar el IVA de mis compras en México?",
-    "¿Qué documentos necesito para la devolución de IVA como turista?",
-    "¿Cuánto puedo reclamar de IVA si soy extranjero?",
-    "¿Dónde solicito la devolución de IVA en el aeropuerto?",
-    "¿Qué requisitos debo cumplir para el reembolso de IVA?"
+    "¿Qué documentos necesito para solicitar la devolución del IVA?",
+    "¿Cómo funciona la devolución de IVA para turistas en México?",
+    "¿Cuánto IVA puedo recuperar si soy turista?",
+    "¿Qué requisitos debo cumplir para que me devuelvan el IVA?",
+    "¿Puedo obtener la devolución del IVA si compré en diferentes tiendas?"
   ]
 }

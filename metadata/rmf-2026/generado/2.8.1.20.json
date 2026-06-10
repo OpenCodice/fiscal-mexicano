@@ -6,27 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fcfe3b11f224d26c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Identificación de Beneficiarios Controladores",
+  "denominacion_comun": "Identificación de beneficiarios controladores",
   "temas": [
     "beneficiarios controladores",
+    "personas morales",
     "cadena de titularidad",
     "cadena de control",
-    "personas morales",
-    "verificación de información"
+    "verificación de información",
+    "porcentajes de participación",
+    "administradores"
   ],
   "terminos_coloquiales": [
-    "identificación de beneficiarios",
+    "beneficiarios",
+    "controladores",
+    "personas morales",
+    "administrador único",
+    "miembros del consejo",
     "CFF 32-B Ter",
     "CFF 32-B Quáter"
   ],
-  "resumen": "Las personas morales deben identificar y verificar a sus beneficiarios controladores, aplicando criterios específicos para determinar su identidad. Si no se identifica a una persona física, se considera beneficiario controlador al administrador único o a los miembros del consejo de administración de la persona moral.",
+  "resumen": "Las personas morales deben identificar y verificar a los beneficiarios controladores según los criterios establecidos en la ley. Esto incluye la cadena de titularidad y la cadena de control, así como la identificación de administradores en caso de no encontrar a personas físicas adecuadas.",
   "preguntas_ejemplo": [
-    "¿Cómo identifico a los beneficiarios controladores de mi empresa?",
-    "¿Qué es la cadena de titularidad?",
-    "¿Qué hacer si no puedo identificar a un beneficiario controlador?",
-    "¿Quién se considera el beneficiario controlador si no hay persona física identificable?",
-    "¿Qué información debo validar sobre mis beneficiarios controladores?"
+    "¿Cómo identifico a los beneficiarios controladores en mi empresa?",
+    "¿Qué criterios debo seguir para validar la información de los beneficiarios?",
+    "¿Qué hacer si no hay personas físicas identificables como beneficiarios?",
+    "¿Qué es la cadena de titularidad y cómo se aplica?",
+    "¿Quién se considera beneficiario controlador si no hay un administrador único?",
+    "¿Cuáles son las obligaciones de las personas morales respecto a los beneficiarios controladores?"
   ]
 }

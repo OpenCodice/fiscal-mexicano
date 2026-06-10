@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3e95723625a957b2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de declaraciones complementarias",
+  "denominacion_comun": "Declaraciones Complementarias",
   "temas": [
-    "declaraciones complementarias",
     "pagos provisionales",
+    "declaraciones finales",
     "modificación de obligaciones",
-    "dejar sin efecto obligación",
     "obligación no presentada",
+    "dejar sin efecto obligación",
     "actualización de pagos",
-    "recargos",
-    "plazos de presentación"
+    "recargos"
   ],
   "terminos_coloquiales": [
     "declaraciones complementarias",
-    "declaraciones de modificación",
+    "declaraciones extra",
+    "modificaciones de impuestos",
+    "declarar impuestos de nuevo",
+    "presentar declaración de impuestos",
     "CFF",
     "RMF"
   ],
-  "resumen": "Las declaraciones complementarias permiten a los contribuyentes modificar datos, dejar sin efecto obligaciones o presentar obligaciones que no se habían reportado. Estas declaraciones se deben realizar por Internet y el sistema puede calcular automáticamente actualizaciones y recargos.",
+  "resumen": "Las declaraciones complementarias permiten a los contribuyentes corregir o modificar información presentada en obligaciones fiscales anteriores. Pueden incluir modificaciones de obligaciones, dejar sin efecto obligaciones con errores o presentar obligaciones no presentadas.",
   "preguntas_ejemplo": [
     "¿Qué son las declaraciones complementarias?",
     "¿Cómo presento una declaración complementaria?",
-    "¿Cuándo debo modificar mis declaraciones?",
-    "¿Qué hago si tengo obligaciones no presentadas?",
-    "¿Cómo se calculan los recargos en mi declaración complementaria?"
+    "¿Cuándo debo hacer una modificación en mis declaraciones?",
+    "¿Qué hacer si dejé de presentar una obligación?",
+    "¿Cómo se calculan los recargos en declaraciones complementarias?"
   ]
 }

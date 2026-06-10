@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:93c96fc3a729b164",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compensación de costo de fondeo",
+  "denominacion_comun": "Compensación de costo de fondeo en operaciones derivadas",
   "temas": [
     "IVA",
     "intereses",
-    "compensación",
     "operaciones derivadas",
-    "exenciones"
+    "compensación de costos"
   ],
   "terminos_coloquiales": [
-    "compensación de fondeo",
-    "IVA en intereses",
-    "regla 3.1.12",
-    "RMF 3.1.12"
+    "IVA sobre intereses",
+    "sin IVA en operaciones derivadas",
+    "compensar pérdidas",
+    "costo de fondeo"
   ],
-  "resumen": "No se pagará el IVA por los intereses generados al compensar el costo de fondeo de las pérdidas en operaciones derivadas estandarizadas. Esta disposición se relaciona con la valuación diaria de estas operaciones.",
+  "resumen": "Esta disposición establece que no se pagará IVA por los intereses generados al compensar el costo de fondeo de las pérdidas en el margen de operaciones derivadas estandarizadas. Se relaciona con ciertas reglas de la Ley del IVA.",
   "preguntas_ejemplo": [
-    "¿Se paga IVA por los intereses de compensación de fondeo?",
-    "¿Qué es la regla 3.1.12 del IVA?",
-    "¿Cuándo no se paga IVA por intereses?",
-    "¿Cómo se aplica la compensación en operaciones derivadas?",
-    "¿Qué dice la regla sobre el costo de fondeo?"
+    "¿Debo pagar IVA por los intereses de operaciones derivadas?",
+    "¿Cómo funciona la compensación del costo de fondeo?",
+    "¿Qué exención de IVA existe para intereses en operaciones derivadas?",
+    "¿Qué dice la ley sobre compensar pérdidas en operaciones financieras?",
+    "¿Qué operaciones están exentas de IVA según la regla 3.1.12.?"
   ]
 }

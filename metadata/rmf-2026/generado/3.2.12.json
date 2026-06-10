@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f3325b698a4a939",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Títulos valor entre el gran público inversionista",
+  "denominacion_comun": "Títulos valor para el gran público inversionista",
   "temas": [
-    "Títulos valor",
-    "Gran público inversionista",
+    "títulos valor",
+    "valores",
+    "oferta pública",
     "Registro Nacional de Valores",
     "Bolsa Mexicana de Valores",
-    "Bolsa Institucional de Valores",
+    "acciones",
     "Mercado Integrado Latinoamericano",
-    "Oferta pública",
-    "Acciones"
+    "valores del exterior"
   ],
   "terminos_coloquiales": [
-    "Títulos valor",
-    "Acciones en bolsa",
-    "Inversión pública",
+    "valores en bolsa",
+    "acciones en oferta pública",
+    "títulos en bolsa",
     "RMV",
-    "Bolsa"
+    "títulos de inversión",
+    "acciones para el público"
   ],
-  "resumen": "Los títulos valor que se colocan entre el gran público inversionista son aquellos que están inscritos en el Registro Nacional de Valores y se listan en diferentes bolsas de valores. También incluye acciones que se ofrecen públicamente, siempre que se cumplan ciertas condiciones establecidas en la legislación.",
+  "resumen": "Se definen los títulos valor que se colocan entre el gran público inversionista, siendo estos aquellos que están inscritos en el Registro Nacional de Valores y los que están listados en bolsas de valores. También se clarifica qué acciones no se consideran colocadas entre el público inversionista.",
   "preguntas_ejemplo": [
-    "¿Qué son los títulos valor para el gran público inversionista?",
-    "¿Cómo se inscriben los títulos en el Registro Nacional de Valores?",
-    "¿Qué acciones se consideran colocadas entre el público inversionista?",
-    "¿Cuáles son los requisitos para que un título valor cotice en bolsa?",
-    "¿Qué diferencia hay entre títulos de bolsa y otros títulos?",
-    "¿Qué son las Disposiciones de Carácter General aplicables a las Bolsas de Valores?"
+    "¿Qué son los títulos valor que se ofrecen al público?",
+    "¿Cómo puedo saber si mis acciones están colocadas entre el gran público inversionista?",
+    "¿Qué requisitos deben cumplir los títulos para ser considerados como tales?",
+    "¿Cuáles son las diferencias entre las acciones ordinarias y las que se colocan para el público?",
+    "¿Qué es el Registro Nacional de Valores?"
   ]
 }

@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5b03f41d3b29eccc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de inventarios en RESICO",
+  "denominacion_comun": "Deducción de inventarios en el RESICO",
   "temas": [
     "Régimen Simplificado de Confianza",
-    "Deducción de inventarios",
-    "Contribuyentes",
-    "Declaración anual",
-    "Ley del ISR"
+    "deducción de inventarios",
+    "mercancías",
+    "materias primas",
+    "productos terminados"
   ],
   "terminos_coloquiales": [
-    "deducir inventarios",
+    "deducción de inventarios",
     "RESICO",
-    "Régimen Simplificado",
-    "inventarios pendientes"
+    "mercancías pendientes de deducir"
   ],
-  "resumen": "Los contribuyentes que cambien de régimen a RESICO y tengan inventarios pendientes podrán deducirlos en su declaración anual aplicando disposiciones específicas. Esto incluye mercancías, materias primas y productos terminados o semiterminados.",
+  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza que tengan inventarios al cierre del ejercicio pueden deducirlos de acuerdo a las reglas generales establecidas en el Título II de la Ley del ISR. Esta deducción se puede realizar en la declaración anual hasta que se agoten los inventarios.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir mis inventarios si estoy en RESICO?",
-    "¿Qué tipo de inventarios puedo deducir en mi declaración anual?",
-    "Si cambio a RESICO, ¿puedo seguir deduciendo mis inventarios?",
-    "¿Qué dice la ley sobre la deducción de mercancías pendientes?",
-    "¿Cuáles son las reglas para deducir inventarios en el Régimen Simplificado de Confianza?"
+    "¿Cómo puedo deducir mis inventarios si estoy en el RESICO?",
+    "¿Qué mercancías puedo deducir en mi declaración anual?",
+    "¿Cuáles son las reglas para deducir materias primas en el Régimen Simplificado de Confianza?",
+    "¿Qué debo hacer si tengo productos terminados pendientes de deducir?",
+    "¿Puedo aplicar las mismas deducciones del Título II en el RESICO?"
   ]
 }

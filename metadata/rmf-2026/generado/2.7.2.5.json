@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:932305b086b83b5d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Certificación de CFDI",
   "temas": [
-    "Proveedores de certificación",
-    "Validación de requisitos",
-    "Folios de CFDI",
-    "Sello digital del SAT",
-    "Servicios complementarios",
-    "Transparencia en contratos"
+    "certificación de CFDI",
+    "requisitos del artículo 29-A del CFF",
+    "validación de CFDI",
+    "sello digital del SAT",
+    "folios de CFDI",
+    "servicios complementarios",
+    "proveedores de certificación"
   ],
   "terminos_coloquiales": [
-    "Certificación de facturas",
-    "Proveedor de CFDI",
-    "PCCFDI",
+    "factura electrónica",
     "CFDI",
-    "SAT"
+    "validación de facturas",
+    "certificación de facturas",
+    "PCCFDI"
   ],
-  "resumen": "La certificación de CFDI es un proceso autorizado por el SAT que implica validar requisitos, asignar folios y aplicar un sello digital. Los proveedores deben certificar directamente y no a través de terceros, además de especificar sus servicios de forma clara.",
+  "resumen": "La certificación de CFDI es un proceso que incluye la validación de requisitos y la asignación de folios, además de la incorporación del sello digital del SAT. Los proveedores de certificación deben certificar directamente los CFDI y no a través de terceros. También deben dejar claro los servicios complementarios que ofrecen a los contribuyentes.",
   "preguntas_ejemplo": [
     "¿Qué es la certificación de CFDI?",
-    "¿Cómo obtengo la certificación de mis facturas?",
-    "¿Qué requisitos deben cumplir los proveedores de CFDI?",
-    "¿Puedo certificar mis CFDI a través de un tercero?",
-    "¿Qué incluye el sello digital del SAT?"
+    "¿Cómo se valida un CFDI?",
+    "¿Qué deben hacer los proveedores de certificación?",
+    "¿Qué requisitos deben cumplir los CFDI?",
+    "¿Qué servicios complementarios pueden ofrecer los proveedores de CFDI?",
+    "¿Qué es el sello digital del SAT?"
   ]
 }

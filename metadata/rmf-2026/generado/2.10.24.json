@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7747e576b791b046",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de Contador Público Inscrito",
   "temas": [
+    "contribuyentes",
+    "personas morales",
+    "actividades agrícolas",
+    "actividades ganaderas",
     "dictamen fiscal",
-    "contribuyentes personas morales",
-    "régimen de actividades agrícolas",
-    "autotransporte terrestre",
     "estados financieros",
     "anexos",
-    "flujo de efectivo"
+    "certificación de estados financieros"
   ],
   "terminos_coloquiales": [
     "dictamen fiscal",
-    "CFF 32-A",
-    "anexos fiscales",
-    "contribuyentes coordinados"
+    "contabilidad",
+    "estados financieros",
+    "análisis comparativo",
+    "CFF 32-A"
   ],
-  "resumen": "Los contribuyentes que elijan dictaminar sus estados financieros para el ejercicio fiscal de 2025 deberán presentar información comparativa de 2024 y 2025, pero estarán exentos de presentar ciertos anexos si cumplen con las condiciones establecidas.",
+  "resumen": "Los contribuyentes morales en ciertos regímenes que opten por dictaminar sus estados financieros deberán presentar información comparativa de sus cifras fiscales para los ejercicios de 2024 y 2025. Aquellos que cumplan con estas disposiciones estarán exentos de presentar otros anexos adicionales.",
   "preguntas_ejemplo": [
-    "¿Qué debo presentar en un dictamen fiscal?",
-    "¿Cuáles son los anexos que no necesito presentar?",
-    "¿Qué requisitos tengo para dictaminar mis estados financieros?",
-    "¿Cómo se determinan los anexos para el dictamen fiscal?",
-    "¿Qué es el CFF 32-A?"
+    "¿Qué es el dictamen de contador público inscrito?",
+    "¿Cuáles son los anexos que debo presentar para el dictamen fiscal?",
+    "¿Qué opciones tienen los contribuyentes para el dictamen de sus estados financieros?",
+    "¿Qué estados financieros son obligatorios para el dictamen fiscal?",
+    "¿Cómo hago un análisis comparativo de mis estados financieros?"
   ]
 }

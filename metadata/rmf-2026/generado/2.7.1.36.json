@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f444dd90c564127e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "CFDI para dependencias públicas sin Internet",
   "temas": [
     "CFDI",
     "dependencias públicas",
-    "facturación electrónica",
-    "acceso a Internet",
-    "servicio de facturación SAT"
+    "facturación",
+    "localidades sin Internet",
+    "SAT",
+    "contribuciones",
+    "productos",
+    "aprovechamientos"
   ],
   "terminos_coloquiales": [
-    "factura electrónica",
+    "factura",
     "CFDI",
-    "facturación SAT",
-    "dependencias sin Internet"
+    "dependencias del gobierno",
+    "sin acceso a Internet",
+    "SAT"
   ],
-  "resumen": "Las dependencias públicas que no tienen acceso a Internet pueden emitir CFDI utilizando el servicio de facturación del SAT, acudiendo a sus oficinas para tener acceso a los recursos necesarios. De esta manera, pueden generar y expedir sus comprobantes fiscales digitales.",
+  "resumen": "Las dependencias públicas en localidades sin acceso a Internet pueden emitir CFDI a través del servicio de facturación del SAT. Deben acudir a una oficina del SAT para obtener acceso a computadoras e Internet para generar las facturas.",
   "preguntas_ejemplo": [
-    "¿Cómo pueden las dependencias públicas emitir CFDI sin Internet?",
-    "¿Dónde pueden acudir las dependencias para obtener ayuda con CFDI?",
-    "¿Qué es el servicio de facturación del SAT para dependencias públicas?",
-    "¿Qué tipo de comprobantes pueden expedir las dependencias sin conexión a Internet?"
+    "¿Cómo emito un CFDI si mi oficina no tiene Internet?",
+    "¿Dónde puedo generar facturas si soy una dependencia pública?",
+    "¿El SAT me ayuda a facturar sin Internet?",
+    "¿Qué debo hacer para emitir facturas desde una localidad sin acceso a Internet?"
   ]
 }

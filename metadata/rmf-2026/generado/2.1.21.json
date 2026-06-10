@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2aba30534dec2b54",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobación de fondos por cheque devuelto",
+  "denominacion_comun": "Cheque devuelto por falta de fondos",
   "temas": [
     "cheque devuelto",
-    "comprobación de fondos",
-    "pago de contribuciones",
-    "documentación requerida",
+    "fondos suficientes",
+    "documentación bancaria",
     "buzón tributario"
   ],
   "terminos_coloquiales": [
     "cheque sin fondos",
-    "comprobar saldo",
-    "documentación de banco",
-    "cheque rechazado"
+    "cheque rebotado",
+    "aclaración de cheque",
+    "CFF 21"
   ],
-  "resumen": "La regla establece que si un cheque para el pago de contribuciones es rechazado por falta de fondos, el contribuyente puede comprobar que tenía los fondos suficientes al momento de presentar el cheque. Debe hacerlo a través del buzón tributario con la documentación adecuada.",
+  "resumen": "La regla establece que el contribuyente puede demostrar que su cheque fue rechazado por falta de fondos por razones ajenas a él, presentando una aclaración en el buzón tributario junto con la documentación que respalde su situación. Esta documentación puede incluir una constancia del saldo emitida por el banco.",
   "preguntas_ejemplo": [
-    "¿Qué hago si mi cheque de impuestos fue rechazado?",
-    "¿Cómo compruebo que tenía fondos en mi cuenta?",
-    "¿Qué documentación necesito presentar si mi cheque fue devuelto?",
-    "¿Dónde presento la aclaración por el cheque devuelto?",
-    "¿Qué dice la ley sobre cheques sin fondos en contribuciones?"
+    "¿Qué hago si mi cheque fue devuelto?",
+    "¿Cómo puedo comprobar que tenía fondos suficientes en mi cheque?",
+    "¿Qué documentos necesito para aclarar un cheque rebotado?",
+    "¿Puedo usar el buzón tributario para aclarar un problema con un cheque?",
+    "¿Qué dice la ley sobre cheques devueltos?"
   ]
 }

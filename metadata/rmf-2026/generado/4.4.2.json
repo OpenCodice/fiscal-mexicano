@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:787e8ed953fbcf92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de IVA en importación de vehículos",
+  "denominacion_comun": "Exención del IVA en importación de vehículos",
   "temas": [
-    "Exención del IVA",
-    "Importación de vehículos",
-    "Pedimento de importación",
-    "Oficio del SAT"
+    "IVA",
+    "importación de vehículos",
+    "exención del IVA",
+    "pedimento de importación",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "IVA exento para vehículos",
-    "Importación sin IVA",
-    "Oficio del SAT",
-    "LIVA",
-    "Artículo 25"
+    "no pago de IVA al importar coches",
+    "importar un auto sin IVA",
+    "exención de IVA",
+    "oficio del SAT",
+    "pedimento"
   ],
-  "resumen": "Para no pagar IVA en la importación de un vehículo, se debe presentar un oficio del SAT que autorice esta exención. Además, es importante incluir este oficio en el pedimento de importación correspondiente.",
+  "resumen": "Para no pagar el IVA al importar un vehículo, es necesario presentar un oficio del SAT que autorice esta exención, que debe ir junto con el pedimento de importación. También se requiere anotar información específica en el pedimento.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo importar un vehículo sin pagar IVA?",
-    "¿Qué necesito para obtener la exención del IVA en vehículos?",
-    "¿Qué es el oficio del SAT para la importación de vehículos?",
-    "¿Dónde se coloca el número de oficio en el pedimento de importación?",
-    "¿Cuáles son los requisitos para la exención de IVA en la importación de autos?"
+    "¿Cómo puedo importar un coche sin pagar IVA?",
+    "¿Qué necesito para que mi auto importado esté exento de IVA?",
+    "¿Dónde puedo obtener el oficio del SAT para la exención del IVA?",
+    "¿Qué información debo incluir en el pedimento de importación?",
+    "¿Cuáles son los requisitos para no pagar IVA en la importación de vehículos?"
   ]
 }

@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:61c4bc5ab03795b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención y Entero del ISR por Fondos de Inversión",
+  "denominacion_comun": "Obligación de retener y enterar ISR por fondos de inversión",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Fondos de Inversión",
-    "Retención de Impuestos",
-    "Información Fiscal",
-    "Acreditamiento de Impuestos"
+    "fondos de inversión",
+    "retención de ISR",
+    "información a accionistas",
+    "impuesto acreditable"
   ],
   "terminos_coloquiales": [
-    "ISR Fondos de Inversión",
-    "Retención de ISR",
-    "Fondos de Inversión y su ISR",
-    "LISR 54",
-    "LIF 25",
-    "RMF 3.16.5"
+    "retención de impuestos en fondos de inversión",
+    "ISR de fondos de inversión",
+    "información fiscal para fondos",
+    "impuesto acreditable",
+    "constancia de impuesto",
+    "LISR"
   ],
-  "resumen": "Los fondos de inversión que tienen otros fondos como accionistas deben retener y declarar el ISR conforme a la ley. Estos fondos deben proporcionar información sobre el impuesto retenido a sus accionistas y detallar el impuesto acreditable.",
+  "resumen": "Los fondos de inversión deberán retener y enterar el ISR correspondiente cuando tienen otros fondos de inversión como accionistas. También deben proporcionar información a estos accionistas sobre el impuesto retenido y acreditable, consignando los detalles en una constancia anual.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ISR que deben retener los fondos de inversión?",
-    "¿Qué información deben proporcionar los fondos de inversión a sus accionistas?",
-    "¿Qué artículos de la ley aplican para la retención de ISR en fondos de inversión?",
-    "¿Qué pasa si un fondo de inversión no retiene ISR en inversiones en otros fondos?",
-    "¿Cómo se acredita el impuesto retenido por los fondos de inversión?"
+    "¿Cuánto ISR deben retener los fondos de inversión?",
+    "¿Qué información deben dar los fondos de inversión a sus accionistas?",
+    "¿Cómo se calcula el impuesto retenido de fondos de inversión?",
+    "¿Qué pasa si un fondo de inversión invierte en otro fondo?",
+    "¿Qué significa el impuesto acreditable para los fondos de inversión?"
   ]
 }

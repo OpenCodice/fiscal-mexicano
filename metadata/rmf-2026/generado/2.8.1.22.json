@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cc2687d4cc7d72ec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Controladores",
+  "denominacion_comun": "Controladores en fideicomisos",
   "temas": [
     "beneficiarios controladores",
-    "información fiscal",
-    "contabilidad",
-    "fideicomisos",
-    "documentación requerida",
+    "identificación de controladores",
+    "contabilidad de fideicomisos",
+    "datos de contacto",
+    "acciones y derechos",
+    "modificaciones en participación",
+    "datos fiscales",
     "cadena de control"
   ],
   "terminos_coloquiales": [
-    "controladores",
-    "información de beneficiarios",
-    "datos de control",
-    "CFF",
-    "RMF"
+    "controlador",
+    "fideicomiso",
+    "persona moral",
+    "datos personales de controladores",
+    "RFC",
+    "CURP"
   ],
-  "resumen": "Las personas morales y fideicomisos deben incluir en su contabilidad información detallada sobre cada beneficiario controlador, como nombre, fecha de nacimiento, nacionalidad y participación en la persona moral. Además, se requiere información sobre la cadena de titularidad si aplica.",
+  "resumen": "La disposición establece que las personas morales y fiduciarias deben documentar información detallada sobre cada beneficiario controlador. Esto incluye datos personales, relación con otras figuras jurídicas y detalles sobre acciones y participación en la entidad.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir sobre los beneficiarios controladores?",
-    "¿Cuáles son los datos fiscales requeridos para un fideicomisario?",
-    "¿Qué es un beneficiario controlador según el CFF?",
-    "¿Cómo se documenta la cadena de control?",
-    "¿Qué datos necesito para registrar a un nuevo controlador?"
+    "¿Qué información necesita un fideicomiso sobre sus beneficiarios controladores?",
+    "¿Cuáles son los datos que se deben registrar para un controlador en un fideicomiso?",
+    "¿Qué tipo de identificaciones se requieren para los beneficiarios controladores?",
+    "¿Cómo se debe llevar la contabilidad de los controladores en las personas morales?",
+    "¿Qué sucede si hay cambios en la participación de un controlador?"
   ]
 }

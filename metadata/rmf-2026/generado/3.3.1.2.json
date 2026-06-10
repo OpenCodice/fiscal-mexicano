@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aba4a4b4e96049ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones para Instituciones de Seguros",
   "temas": [
-    "deducciones",
-    "instituciones de seguros",
-    "pólizas de seguros",
-    "pagos a asegurados",
-    "requisitos de deducción",
-    "Ley del ISR"
+    "Impuesto sobre la Renta",
+    "Deducciones",
+    "Instituciones de seguros",
+    "Pólizas contratadas",
+    "Requisitos de deducción"
   ],
   "terminos_coloquiales": [
     "deducción de seguros",
-    "deducciones de pólizas",
-    "ISRs de seguros",
-    "LISR"
+    "pólizas de seguro",
+    "acreditar deducciones",
+    "ISR seguros"
   ],
-  "resumen": "Las instituciones de seguros pueden deducir los pagos a asegurados o beneficiarios por riesgos amparados en las pólizas, siempre que se cumplan ciertos requisitos relacionados con el pago de las primas. Deben contar con la documentación necesaria para comprobarlo ante las autoridades fiscales.",
+  "resumen": "Las instituciones de seguros pueden deducir los pagos realizados a asegurados o beneficiarios por riesgos cubiertos en pólizas, incluso si no se ha recibido el pago completo de la prima, siempre que se cumplan ciertos requisitos. Esto incluye que la prima se haya pagado y que la documentación correspondiente sea mantenida disponible para las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones pueden hacer las instituciones de seguros?",
-    "¿Cuáles son los requisitos para deducir pagos a asegurados?",
-    "¿Qué dice la Ley del ISR sobre las deducciones de seguros?",
-    "¿Cómo afectan las primas de seguros a mis deducciones?",
-    "¿Qué documentos necesito para comprobar deducciones por seguros?"
+    "¿Qué deducciones pueden hacer las aseguradoras?",
+    "¿Pueden las instituciones de seguros deducir pagos aunque no se haya pagado la prima completa?",
+    "¿Qué requisitos deben cumplirse para deducir pagos a beneficiarios de seguros?",
+    "¿Qué documentación necesito para comprobar mis deducciones en seguros?",
+    "¿Cuánto tiempo debo conservar la documentación relacionada con las deducciones de seguros?"
   ]
 }

@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8edf29af2ff12634",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración informativa de subsidio para el empleo",
   "temas": [
-    "CFDI de nómina",
+    "CFDI",
     "subsidio para el empleo",
-    "declaración informativa",
-    "obligaciones fiscales"
+    "nómina",
+    "obligaciones fiscales",
+    "declaración informativa"
   ],
   "terminos_coloquiales": [
     "declaración de subsidio",
-    "CFDI",
-    "informativa de nómina"
+    "CFDI de nómina",
+    "nómina",
+    "sat",
+    "obligaciones del empleador"
   ],
-  "resumen": "Se considera cumplida la obligación de la declaración informativa sobre el subsidio para el empleo al emitir los CFDI de nómina con la información correspondiente. Se debe seguir la guía del SAT para el llenado adecuado.",
+  "resumen": "La declaración informativa del subsidio para el empleo se cumple con la emisión de los CFDI de nómina que contengan la información del subsidio. Debe seguirse la guía de llenado publicada por el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se declara el subsidio para el empleo?",
-    "¿Qué información debe incluir el CFDI de nómina para el subsidio?",
-    "¿Está obligada mi empresa a presentar la declaración informativa del subsidio?",
-    "¿Dónde encuentro la guía para llenar el CFDI de nómina?",
-    "¿Qué es el subsidio para el empleo en términos fiscales?"
+    "¿Cómo cumplo con la declaración del subsidio para el empleo?",
+    "¿Qué información debo incluir en el CFDI de nómina?",
+    "¿Dónde encuentro la guía para llenar el recibo de nómina?",
+    "¿Es lo mismo el CFDI de nómina y la declaración informativa?",
+    "¿Qué obligaciones tengo con respecto al subsidio para el empleo?"
   ]
 }

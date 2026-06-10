@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bedd0cfab0258903",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaraciones complementarias de la DIM",
   "temas": [
+    "declaraciones fiscales",
+    "DIM",
     "número de operación",
     "fecha de presentación",
     "anexos",
     "información corregida",
-    "datos generales del declarante",
-    "resumen global"
+    "datos generales del declarante"
   ],
   "terminos_coloquiales": [
-    "DIM complementarias",
-    "declaraciones DIM",
-    "complementarias DIM",
-    "DIM"
+    "Declaración complementaria",
+    "DIM",
+    "declaración fiscal",
+    "anexos",
+    "número de operación"
   ],
-  "resumen": "Las declaraciones complementarias de la DIM deben incluir el número de operación y la fecha de presentación de la declaración original, así como los anexos que se modifican y la información del declarante. Es fundamental que contengan tanto la información corregida como la que no se modifica.",
+  "resumen": "Esta disposición establece que al presentar declaraciones complementarias de la DIM, los contribuyentes deben indicar el número de operación y la fecha de la declaración original que están complementando. Además, deben incluir solo los anexos que se modifican, con información tanto corregida como no modificada.",
   "preguntas_ejemplo": [
-    "¿Cómo hago una declaración complementaria de la DIM?",
-    "¿Qué tengo que incluir en las declaraciones complementarias de la DIM?",
-    "¿Qué es el número de operación en la DIM?",
-    "¿Qué datos debo presentar en mi declaración complementaria?",
-    "¿Cómo se corrige una DIM ya presentada?"
+    "¿Qué debo incluir en una declaración complementaria de la DIM?",
+    "¿Cómo indico el número de operación al presentar mi declaración complementaria?",
+    "¿Qué información se requiere para las declaraciones complementarias de la DIM?",
+    "¿Es necesario presentar todos los anexos al hacer una declaración complementaria?",
+    "¿Cómo sé qué datos generales debo incluir en mi declaración complementaria?"
   ]
 }

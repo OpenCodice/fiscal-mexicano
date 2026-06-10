@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:618f12008c619d4b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Desperdicios",
+  "denominacion_comun": "Desperdicios y residuos reciclables",
   "temas": [
-    "insumos industriales",
-    "materiales de reciclaje",
-    "residuos de manejo especial",
-    "comercialización"
+    "materiales reciclables",
+    "metales",
+    "vidrio",
+    "plásticos",
+    "papel",
+    "textiles",
+    "residuos de manejo especial"
   ],
   "terminos_coloquiales": [
     "desperdicios",
-    "materiales reciclables",
-    "residuos",
-    "NOM-161"
+    "residuos reciclables",
+    "materiales de reciclaje",
+    "NOM-161",
+    "residuos especiales"
   ],
-  "resumen": "Se consideran desperdicios todos los materiales reciclables y residuos que pueden ser utilizados en actividades industriales o comercialización. Esto incluye metales, vidrio, plásticos, papel y otros productos desechados que cumplen ciertos criterios.",
+  "resumen": "Se consideran desperdicios los materiales reciclables como metales, vidrio, plásticos, papel, y textiles, que son utilizados como insumos en la industria o su comercialización. Esto incluye residuos que deben seguir criterios específicos para ser clasificados y manejados adecuadamente.",
   "preguntas_ejemplo": [
-    "¿Qué materiales se consideran desperdicios para el IVA?",
-    "¿Cuáles son los criterios para clasificar los desperdicios?",
-    "¿Qué dice la NOM-161 sobre los residuos de manejo especial?",
-    "¿Cómo se pueden utilizar los desperdicios en la industria?",
-    "¿Qué tipos de plásticos pueden ser considerados desperdicios?"
+    "¿Qué se considera un desperdicio para el IVA?",
+    "¿Cuáles son los materiales reciclables que puedo usar en mi actividad?",
+    "¿Qué dice la NOM-161 sobre residuos especiales?",
+    "¿Cómo se clasifican los residuos que generan las empresas?",
+    "¿Qué necesito saber sobre el manejo de desperdicios en mi negocio?"
   ]
 }

@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9490ca33c4dfe5e4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Órganos Certificadores",
   "temas": [
-    "autorización",
-    "cambio de estatus",
-    "avisos a clientes",
+    "autorización de órganos certificadores",
+    "solicitud de efecto",
     "periodo de transición",
-    "incumplimientos",
-    "remisión de documentos"
+    "avisos urgentes",
+    "comunicación con clientes"
   ],
   "terminos_coloquiales": [
-    "órgano certificador",
-    "solicitud de baja",
-    "cambio de autorización",
-    "SAT"
+    "certificadores",
+    "dejar sin efectos",
+    "avisos en el sitio web",
+    "notificación a clientes"
   ],
-  "resumen": "Los órganos certificadores pueden solicitar dejar sin efectos su autorización si no están en revisión por el SAT. Deben informar a sus clientes y publicar un aviso en su página web durante un periodo de transición de noventa días.",
+  "resumen": "Los órganos certificadores pueden solicitar dejar sin efectos su autorización según el artículo 32-I del CFF. Durante un periodo de transición deben notificar a sus clientes y publicar un aviso en su página web.",
   "preguntas_ejemplo": [
     "¿Cómo puedo dejar sin efectos la autorización de un órgano certificador?",
-    "¿Qué debo hacer si un órgano certificador pierde su autorización?",
-    "¿Cuál es el proceso de baja para un órgano certificador?",
-    "¿Qué aviso debe publicar un órgano certificador al perder su autorización?",
-    "¿Cuánto dura el periodo de transición para un órgano certificador?",
-    "¿Qué obligaciones tengo si soy cliente de un órgano certificador que deja de operar?"
+    "¿Qué debo hacer si mi órgano certificador pierde su autorización?",
+    "¿Cuánto tiempo tengo para avisar a mis clientes sobre la cancelación del servicio?",
+    "¿Qué información necesita publicar un órgano certificador al dejar de operar?",
+    "¿Debo seguir ofreciendo servicios si no tengo clientes?"
   ]
 }

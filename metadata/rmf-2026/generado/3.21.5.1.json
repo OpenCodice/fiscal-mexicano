@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3874a4f6ab93da99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuentas personales para el ahorro",
   "temas": [
-    "Impuesto sobre la renta",
-    "Estímulos fiscales",
-    "Fondos de inversión",
-    "Instrumentos de deuda",
-    "Registro de instituciones"
+    "fondos de inversión",
+    "instrumentos de deuda",
+    "inversión pública",
+    "estímulos fiscales"
   ],
   "terminos_coloquiales": [
-    "Cuentas de ahorro",
-    "Fondos de inversión",
+    "cuentas de ahorro",
+    "fondos",
+    "inversiones",
     "ISR",
-    "Estímulos fiscales",
-    "Cuentas personales"
+    "acciones de fondos de inversión"
   ],
-  "resumen": "La disposición establece que las acciones de los fondos de inversión que se consideran para los efectos del impuesto sobre la renta son aquellasemitidas por fondos en instrumentos de deuda dirigidos al público inversionista. Además, menciona el registro de las instituciones que administran estos estímulos fiscales.",
+  "resumen": "Esta disposición regula las acciones de los fondos de inversión emitidas por entidades que administran estímulos fiscales para cuentas personales de ahorro, enfocándose en las colocaciones entre el gran público inversionista.",
   "preguntas_ejemplo": [
     "¿Qué son las cuentas personales para el ahorro?",
-    "¿Cómo funcionan los estímulos fiscales en las cuentas de ahorro?",
-    "¿Qué fondos de inversión se consideran para el ISR?",
-    "¿Qué tipos de instrumentos de deuda se manejan en estas cuentas?",
-    "¿Dónde puedo encontrar el registro de las instituciones que administran estos estímulos?"
+    "¿Qué fondos de inversión están disponibles para el público?",
+    "¿Cómo se regulan los estímulos fiscales para los ahorros?",
+    "¿Qué acciones de fondos de inversión puedo adquirir?",
+    "¿Qué beneficios fiscales ofrecen las cuentas de ahorro?"
   ]
 }

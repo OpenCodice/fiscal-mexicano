@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eb3d603c114a35a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Baja del Padrón de beneficiarios de estímulo fiscal",
+  "denominacion_comun": "Baja del Padrón de beneficiarios del estímulo fiscal frontera norte o sur",
   "temas": [
+    "estímulo fiscal",
     "Padrón de beneficiarios",
-    "Estímulo fiscal",
-    "Región fronteriza norte",
-    "Región fronteriza sur",
-    "Baja de beneficiarios",
-    "Aviso de baja",
-    "Suspensión de actividades",
-    "RFC"
+    "baja",
+    "región fronteriza",
+    "RFC",
+    "avisos de cancelación",
+    "suspensión de actividades"
   ],
   "terminos_coloquiales": [
-    "Baja del Padrón",
-    "Estímulo fiscal fronterizo",
-    "Aviso de baja",
-    "CFF",
+    "baja del padrón",
+    "estímulo de la frontera",
+    "baja del estímulo",
+    "beneficiarios frontera",
+    "estímulo fiscal frontera",
     "RFC"
   ],
-  "resumen": "Los contribuyentes que deseen darse de baja del Padrón de beneficiarios del estímulo fiscal para la región fronteriza norte o sur deben presentar un aviso específico. Si presentan un aviso de suspensión de actividades en el RFC, este se considera también como aviso de baja.",
+  "resumen": "Los contribuyentes que deseen darse de baja del Padrón de beneficiarios del estímulo fiscal para la región fronteriza norte o sur deben presentar un aviso de baja. Si presentan un aviso de suspensión de actividades o cancelación en su RFC, también se considera como aviso de baja.",
   "preguntas_ejemplo": [
-    "¿Cómo me doy de baja del Padrón de beneficiarios del estímulo fiscal?",
-    "¿Qué aviso necesito presentar para darme de baja del Padrón fronterizo?",
-    "¿Qué sucede si presento un aviso de suspensión en mi RFC?",
-    "¿Dónde encuentro el formulario para darme de baja del Padrón?",
-    "¿Cuáles son los requisitos para dejar de ser beneficiario del estímulo fiscal fronterizo?"
+    "¿Cómo me doy de baja del estímulo fiscal en la frontera?",
+    "¿Qué requisitos necesito para darme de baja del Padrón de beneficiarios?",
+    "Si cierro mi negocio, ¿cómo afecta mi estímulo fiscal?",
+    "¿Puedo cancelar mi registro y mi estímulo fiscal al mismo tiempo?",
+    "¿Cuáles son los avisos que tengo que presentar para darme de baja?",
+    "¿Qué es el Padrón de beneficiarios del estímulo fiscal?"
   ]
 }

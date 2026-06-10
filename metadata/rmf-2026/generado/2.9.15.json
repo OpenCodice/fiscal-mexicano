@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e8627a5c6823bb9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aclaración de publicación de datos en el SAT",
+  "denominacion_comun": "Aclaración de datos en el Portal del SAT",
   "temas": [
     "publicación de datos",
-    "portal del SAT",
-    "aclaraciones fiscales",
     "contribuyentes inconformes",
-    "ficha de trámite"
+    "solicitud de aclaración",
+    "Portal del SAT",
+    "actualización de datos"
   ],
   "terminos_coloquiales": [
-    "aclaración de datos SAT",
-    "publicación de datos",
+    "queja sobre datos en el SAT",
+    "aclarar datos del SAT",
+    "inconformidad con el SAT",
     "SAT",
-    "CFF 69"
+    "carta al SAT"
   ],
-  "resumen": "Los contribuyentes que no estén de acuerdo con la publicación de su información en el Portal del SAT pueden solicitar una aclaración y presentar pruebas que consideren necesarias. Además, el SAT actualizará esos datos trimestralmente.",
+  "resumen": "Los contribuyentes que no estén de acuerdo con la publicación de sus datos en el Portal del SAT pueden solicitar una aclaración y presentar pruebas que respalden su inconformidad. Además, el SAT actualizará trimestralmente la información en su portal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aclarar la publicación de mis datos en el SAT?",
-    "¿Qué hacer si no estoy de acuerdo con mis datos en el Portal del SAT?",
-    "¿Con qué pruebas puedo respaldar mi solicitud de aclaración?",
-    "¿Cada cuánto actualiza el SAT los datos publicados?",
-    "¿Dónde encuentro la ficha de trámite para solicitar la aclaración?"
+    "¿Cómo puedo aclarar los datos que el SAT publicó de mí?",
+    "¿Dónde hago una queja sobre mis datos en el Portal del SAT?",
+    "¿Qué hago si no estoy de acuerdo con la información del SAT?",
+    "¿Cada cuánto actualiza el SAT mis datos en su portal?",
+    "¿Qué documentos necesito para solicitar una aclaración al SAT?"
   ]
 }

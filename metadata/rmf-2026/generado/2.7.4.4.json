@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c06af99695d74411",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Generación de CFDI para el sector primario",
   "temas": [
     "CFDI",
     "sector primario",
+    "comprobantes fiscales",
     "sello digital",
-    "representaciones impresas",
-    "proveedor de certificación"
+    "cadena original",
+    "autorización de proveedor",
+    "representación impresa"
   ],
   "terminos_coloquiales": [
-    "CFDI sector primario",
-    "factura del campo",
-    "comprobante fiscal del sector primario",
+    "factura",
+    "CFDI",
+    "comprobante",
+    "representación impresa de CFDI",
+    "sello digital",
     "PCGCFDISP"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir las representaciones impresas de los CFDI del sector primario, incluyendo la información que deben contener, como el sello digital y la firma del productor. También describe cómo deben ser emitidos por los proveedores de certificación.",
+  "resumen": "La regla establece los requisitos que deben cumplir las representaciones impresas de los CFDI del sector primario, incluyendo la inclusión de la cadena original, el sello digital, y la leyenda correspondiente. También menciona la necesidad de un área para la firma y los datos de expedición.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los CFDI del sector primario?",
-    "¿Cómo se debe emitir un CFDI para el sector primario?",
-    "¿Qué información debe contener la representación impresa de un CFDI del campo?",
-    "¿Qué es el PCGCFDISP y qué funciones tiene?",
-    "¿Cómo se genera el sello digital para un CFDI del sector primario?"
+    "¿Qué requisitos debe tener la representación impresa de un CFDI del sector primario?",
+    "¿Cómo se genera el sello digital para un CFDI?",
+    "¿Qué información es necesaria en un CFDI emitido para el sector primario?",
+    "¿Qué es el PCGCFDISP?",
+    "¿Cómo puedo verificar la validez de un CFDI del sector primario?",
+    "¿Qué datos debe incluir el área de firma en un CFDI?"
   ]
 }

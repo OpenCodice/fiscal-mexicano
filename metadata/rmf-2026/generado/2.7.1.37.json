@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e533d69147885b7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Forma de pago con intermediarios",
+  "denominacion_comun": "Forma de pago usando gestores de pagos",
   "temas": [
     "CFDI",
-    "Intermediarios",
-    "Gestores de pagos",
-    "Forma de pago",
-    "Pagos en efectivo"
+    "forma de pago",
+    "intermediarios",
+    "gestores de pagos",
+    "comprobante fiscal",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "Intermediario de pagos",
-    "Gestor de pagos",
-    "CFDI por intermediarios"
+    "factura",
+    "recibo",
+    "comprobante de pago",
+    "intermediarios de pago",
+    "CFDI de pago",
+    "c_FormaPago"
   ],
-  "resumen": "Cuando los contribuyentes utilizan intermediarios para realizar pagos y estos no informan la forma de recepción, se puede usar la opción 'Intermediario pagos' en el CFDI. Esta modalidad se considera como pago en efectivo para ciertos efectos fiscales.",
+  "resumen": "Los contribuyentes pueden indicar como forma de pago 'Intermediario pagos' cuando utilizan servicios de terceros para realizar pagos y estos no informan al emisor del CFDI sobre la forma en que se recibió el pago. Los CFDI con esta forma de pago se consideran pagados en efectivo y los intermediarios deben expedir su propio CFDI por las comisiones que cobren.",
   "preguntas_ejemplo": [
-    "¿Cómo se reporta un pago realizado a través de un intermediario?",
-    "¿Qué significa 'Intermediario pagos' en un CFDI?",
-    "¿Los pagos a intermediarios se consideran pagos en efectivo?",
-    "¿Qué información debe contener el CFDI de un intermediario?",
-    "¿Cómo afecta el uso de intermediarios en la forma de pago del CFDI?"
+    "¿Qué es la forma de pago 'Intermediario pagos'?",
+    "¿Cómo reporto los pagos hechos a través de un gestor de pagos?",
+    "¿Los CFDI con forma de pago 'Intermediario pagos' se consideran en efectivo?",
+    "¿Los terceros que reciben mis pagos deben emitir un CFDI?",
+    "¿Qué significa hacer un pago a través de un intermediario?"
   ]
 }

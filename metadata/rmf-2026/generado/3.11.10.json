@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e794dde77a3e31d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ahorro y seguros para el retiro",
+  "denominacion_comun": "Ahorro y deducciones para el retiro",
   "temas": [
-    "deducción de depósitos",
-    "ingreso acumulable",
-    "cuenta personal especial",
-    "contrato de seguro",
-    "fondo de inversión"
+    "deducción",
+    "intereses",
+    "ahorro",
+    "seguros",
+    "fondos de inversión",
+    "ingreso acumulable"
   ],
   "terminos_coloquiales": [
-    "deducción de ahorro",
     "ahorro para el retiro",
-    "ingresos por seguro",
-    "ISR ahorro",
-    "fondos de inversión"
+    "contratos de seguro",
+    "fondos de inversión",
+    "ISR",
+    "ingresos acumulables"
   ],
-  "resumen": "Esta disposición establece que los contribuyentes deben considerar como ingreso acumulable la cantidad que reciban por depósitos de cuentas especiales para el ahorro, contratos de seguros o fondos de inversión, hasta el monto que previamente dedujeron. Esto aplica al momento de retirar dichos depósitos.",
+  "resumen": "Los contribuyentes que dedujeron depósitos o pagos relacionados con su ahorro para el retiro deben considerar como ingreso acumulable cualquier cantidad que retiren de esas cuentas o contratos hasta el monto que ya dedujeron. Esto aplica a cuentas de ahorro personal, seguros y fondos de inversión.",
   "preguntas_ejemplo": [
-    "¿Cómo se declaran los ingresos por ahorros y seguros para el retiro?",
-    "¿Qué pasa con las deducciones de mis depósitos de ahorro?",
-    "¿Debo reportar ingresos si retiro dinero de un fondo de inversión?",
-    "¿Qué monto debo considerar como ingreso acumulable al retirar de mi cuenta especial?",
-    "¿Los contratos de seguro para el retiro generan ingresos acumulables?"
+    "¿Cómo debo declarar los ahorros de mi seguro de retiro?",
+    "¿Qué deducciones puedo hacer por fondos de inversión?",
+    "¿Los ingresos de mi cuenta de ahorro para el retiro son acumulables?",
+    "¿Qué limites debo considerar al retirar dinero de mi seguro para el retiro?",
+    "¿Qué pasa si ya deduje mis depósitos y ahora retiro dinero?"
   ]
 }

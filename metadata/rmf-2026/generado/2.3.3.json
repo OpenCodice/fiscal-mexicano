@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:611110479c39fdba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para el sector agropecuario",
+  "denominacion_comun": "Devolución de saldos a favor del IVA para el sector agropecuario",
   "temas": [
-    "devolución de IVA",
-    "sector agropecuario",
-    "solicitud de devolución",
-    "requisitos para devolución",
-    "plazo de devolución",
-    "comprobantes fiscales",
-    "obligaciones fiscales"
+    "Devoluciones de IVA",
+    "Sector agropecuario",
+    "Requisitos para devolución",
+    "e.firma",
+    "Comprobantes fiscales",
+    "Plazos de devolución",
+    "Solicitud de devolución"
   ],
   "terminos_coloquiales": [
-    "devolución de IVA agropecuario",
-    "devolución de IVA para agricultores",
-    "IVA sector agropecuario",
-    "CFF",
-    "RMF"
+    "devoluciones de IVA",
+    "devolución para el campo",
+    "IVA en el agro",
+    "e.firma",
+    "buzón tributario"
   ],
-  "resumen": "Los contribuyentes del sector agropecuario pueden obtener la devolución de saldos a favor del IVA si cumplen ciertos requisitos, como tener su e.firma y no haber tenido solicitudes de devolución rechazadas en más del 20%. La devolución se realizará en un plazo máximo de veinte días después de la solicitud.",
+  "resumen": "Los contribuyentes del sector agropecuario pueden solicitar la devolución del IVA en un plazo de veinte días si cumplen con ciertos requisitos, como tener e.firma y no haber tenido solicitudes denegadas en gran parte. Existen limitaciones y condiciones específicas que deben observar para poder acceder a esta devolución.",
   "preguntas_ejemplo": [
     "¿Cómo puedo solicitar la devolución del IVA si soy agricultor?",
-    "¿Qué requisitos necesito para la devolución de IVA en el sector agropecuario?",
-    "¿Cuál es el plazo para la devolución de IVA después de presentar la solicitud?",
-    "¿Qué pasa si he tenido solicitudes de devolución rechazadas?",
-    "¿Qué información debo enviar para obtener la devolución del IVA?"
+    "¿Cuáles son los requisitos para devolver saldos a favor del IVA en el sector agropecuario?",
+    "¿Qué pasa si mi solicitud de devolución es rechazada?",
+    "¿Cuál es el plazo para recibir la devolución del IVA?",
+    "¿Necesito e.firma para solicitar la devolución del IVA?",
+    "¿A quiénes no aplica la devolución del IVA en el sector agropecuario?"
   ]
 }

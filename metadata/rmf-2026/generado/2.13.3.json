@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0612dd9bade5c874",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subastas Administrativas",
+  "denominacion_comun": "Subastas del SAT",
   "temas": [
-    "Clave de Identificación de Usuario",
-    "Registro de postores",
-    "Pagos en subastas",
-    "Transferencia electrónica",
-    "Normativa del SAT"
+    "clave de identificación",
+    "posturas en subastas",
+    "pagos a instituciones de crédito",
+    "garantías en subastas"
   ],
   "terminos_coloquiales": [
-    "subastas",
-    "remates",
-    "SAT",
-    "CFF",
-    "ID de usuario"
+    "subastas del SAT",
+    "bienes rematados",
+    "pagar mediante transferencia",
+    "posturas",
+    "CLABE"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir los postores en las subastas administrativas, incluyendo la obtención de una Clave de Identificación de Usuario y la forma de realizar los pagos correspondientes. Además, se define el proceso de envío de la postura a través del Portal del SAT.",
+  "resumen": "Los postores en subastas del SAT deben registrarse con una clave de identificación y proporcionar información personal. También deben realizar un pago inicial y enviar su oferta a través del portal del SAT, todo mientras cumplen con las reglas de participación.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para participar en una subasta del SAT?",
-    "¿Cómo obtengo mi Clave de Identificación de Usuario?",
-    "¿Qué manera tengo de pagar para participar en una subasta?",
-    "¿Cómo se envía mi oferta en la subasta?",
-    "¿Cuál es el procedimiento para los pagos en las subastas administrativas?"
+    "¿Cómo me registro para participar en una subasta del SAT?",
+    "¿Qué información necesito para obtener mi clave de identificación?",
+    "¿Cuánto debo pagar para participar en la subasta?",
+    "¿Cómo envío mi postura en la subasta?",
+    "¿Qué es la CLABE y por qué la necesito?",
+    "¿Qué pasa si no cumplo con las reglas de la subasta?"
   ]
 }

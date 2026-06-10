@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5d55f7336f7c6a4b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de DPA's vía Internet",
+  "denominacion_comun": "Pago de DPA’s vía Internet",
   "temas": [
-    "DPA's",
-    "pago en línea",
+    "DPA’s",
+    "pago electrónico",
     "ventanilla bancaria",
-    "recibo bancario",
-    "transferencia electrónica",
-    "tarjeta de crédito",
-    "instituciones de crédito",
-    "impuesto al valor agregado"
+    "recibo de pago",
+    "IVA",
+    "procedimiento de pago"
   ],
   "terminos_coloquiales": [
-    "DPA's",
-    "pago de derechos",
+    "Derechos, Productos y Aprovechamientos",
+    "DPA",
+    "pago de contribuciones",
     "pago por Internet",
-    "pago bancario"
+    "recibo bancario"
   ],
-  "resumen": "Esta regla establece el procedimiento para realizar el pago de derechos, productos y aprovechamientos a través de Internet o en ventanillas bancarias. Se debe acceder a las páginas de las dependencias para obtener la hoja de ayuda y realizar el pago de forma electrónica o en efectivo.",
+  "resumen": "Esta regla establece el procedimiento que deben seguir las dependencias y entidades para que los ciudadanos puedan pagar Derechos, Productos y Aprovechamientos (DPA's) a través de Internet o ventanilla bancaria. Incluye la obtención de una hoja de ayuda y la forma en que se genera el recibo de pago.",
   "preguntas_ejemplo": [
     "¿Cómo puedo pagar mis DPA's en línea?",
-    "¿Qué necesito para hacer un pago de derechos por Internet?",
-    "¿Dónde encuentro el recibo bancario para el pago de DPA's?",
-    "¿Puedo usar mi tarjeta de crédito para el pago de desperdicios?",
-    "¿Qué hacer si mi pago de DPA's incluye IVA?"
+    "¿Qué necesito para pagar DPA's en ventanilla bancaria?",
+    "¿Dónde encuentro el recibo de pago de mis DPA's?",
+    "¿El pago de DPA's incluye IVA?",
+    "¿Cuáles son las instituciones autorizadas para el pago de DPA's?"
   ]
 }

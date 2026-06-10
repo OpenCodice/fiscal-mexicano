@@ -6,35 +6,39 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f1779a782c94c14a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Avisos en el RFC",
   "temas": [
-    "Cambio de denominación",
-    "Cambio de régimen de capital",
-    "Corrección de datos de identidad",
-    "Cambio de domicilio fiscal",
-    "Suspensión de actividades",
-    "Reanudación de actividades",
-    "Apertura de establecimientos",
-    "Cancelación en el RFC por defunción",
-    "Inicio de liquidación",
-    "Apertura de sucesión"
+    "cambio de denominación",
+    "cambio de régimen de capital",
+    "corrección de nombre",
+    "cambio de domicilio fiscal",
+    "suspensión de actividades",
+    "reanudación de actividades",
+    "actividades económicas",
+    "apertura de establecimientos",
+    "cancelación en el RFC",
+    "concursos mercantiles"
   ],
   "terminos_coloquiales": [
     "avisos en el RFC",
-    "cambio de nombre en el RFC",
+    "cambio de nombre",
+    "cambio de razón social",
+    "cambio de domicilio",
     "suspensión de actividades",
-    "cambios fiscales",
-    "trámites en el RFC",
-    "RFC"
+    "apertura de negocios",
+    "cancelación del RFC",
+    "fusión de sociedades",
+    "defunción de contribuyentes"
   ],
-  "resumen": "Los avisos en el RFC se presentan para varios cambios administrativos como cambios de nombre, domicilio fiscal, inicio o suspensión de actividades, entre otros. Estos avisos deben seguir las fichas de trámite especificadas por el SAT.",
+  "resumen": "Esta disposición establece los diferentes avisos que deben presentarse ante el RFC, como cambios de denominación, domicilio fiscal, y actividades económicas, entre otros. También detalla qué fichas de trámite corresponden a cada aviso.",
   "preguntas_ejemplo": [
-    "¿Cómo presento un aviso de cambio de razón social?",
-    "¿Qué trámites debo hacer si cierro mi establecimiento?",
-    "¿Qué avisos son necesarios si cambio de domicilio fiscal?",
-    "¿Cómo presentar un aviso de suspensión de actividades?",
-    "¿Qué es un aviso de apertura de sucesión en el RFC?"
+    "¿Qué avisos debo presentar en el RFC?",
+    "¿Cómo hago un cambio de razón social en el RFC?",
+    "¿Qué trámites son necesarios para cerrar un establecimiento?",
+    "¿Cómo se notifica la suspensión de actividades en el RFC?",
+    "¿Qué debo hacer si cambio de domicilio fiscal?"
   ]
 }

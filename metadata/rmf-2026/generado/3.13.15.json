@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:17e5252c76d4012c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "Impuesto sobre la renta",
-    "Inversiones",
-    "Porcientos máximos",
-    "Límites de inversión"
+    "impuesto sobre la renta",
+    "inversiones",
+    "porcientos máximos",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "régimen simplificado",
-    "impuesto a las inversiones",
-    "límites en inversiones"
+    "impuesto",
+    "inversiones en dinero",
+    "deducciones",
+    "gastos fiscales"
   ],
-  "resumen": "Los contribuyentes bajo el Régimen Simplificado de Confianza deben aplicar porcentajes máximos a sus inversiones, siempre que estas no superen los tres millones de pesos en un ejercicio fiscal. Si las inversiones sobrepasan esta cantidad, se aplican los porcentajes establecidos en otras disposiciones de la Ley del ISR.",
+  "resumen": "Esta disposición indica que los contribuyentes deben aplicar los porcentajes máximos a las inversiones que no superen tres millones de pesos en un ejercicio fiscal. Si las inversiones exceden esta cantidad, se aplicarán porcentajes diferentes establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis inversiones superan tres millones de pesos en el RESICO?",
-    "¿Cuáles son los límites de inversión en el régimen simplificado?",
-    "¿Cómo se aplican los porcentajes máximos en el Régimen Simplificado de Confianza?",
-    "¿Qué se considera como inversión en el régimen de RESICO?",
-    "¿Dónde puedo encontrar más información sobre el impuesto a las inversiones?"
+    "¿Qué hago si mis inversiones superan tres millones de pesos?",
+    "¿Cuáles son los porcentajes máximos que puedo aplicar en mis inversiones?",
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Cuándo se aplican deducciones por inversiones en régimen simplificado?",
+    "¿Existen límites en las inversiones que puedo declarar?",
+    "¿Cómo afectan mis inversiones al cálculo del impuesto sobre la renta?"
   ]
 }

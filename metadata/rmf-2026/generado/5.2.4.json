@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da498af0fba15fd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adhesión de Marbetes",
+  "denominacion_comun": "Momento opcional para la adhesión de marbetes",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios",
-    "Marbetes",
-    "Bebidas Alcohólicas",
-    "Graduación de Alcohol"
+    "IEPS",
+    "bebidas alcohólicas",
+    "marbete",
+    "etiqueta",
+    "contraetiqueta"
   ],
   "terminos_coloquiales": [
-    "Marbetes de Bebidas",
-    "IEPS",
-    "Opcionalidad de Marbetes"
+    "marbete",
+    "etiqueta de bebidas",
+    "bebidas alcohólicas",
+    "IEPS"
   ],
-  "resumen": "Los contribuyentes que vendan bebidas alcohólicas con hasta 14° de graduación alcohólica pueden optar por colocar el marbete después de adherir la etiqueta y contraetiqueta, en vez de hacerlo inmediatamente tras el envasamiento.",
+  "resumen": "Los contribuyentes que vendan bebidas alcohólicas con hasta 14° GL. pueden elegir cuándo colocar el marbete, ya que no tienen que hacerlo de inmediato tras envasar el producto. Deben tener la etiqueta y contraetiqueta antes de optar por el marbete.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo poner el marbete en las bebidas alcohólicas?",
-    "¿Puedo esperar a poner el marbete hasta que tenga la etiqueta?",
-    "¿Qué bebidas se ven afectadas por la regla de marbetes?",
-    "¿Cuáles son las condiciones para adherir el marbete?",
-    "¿Qué dice la ley sobre el marbete de bebidas alcohólicas?"
+    "¿Cuándo puedo colocar el marbete en mis bebidas alcohólicas?",
+    "¿Qué requisitos debo cumplir para adherir el marbete?",
+    "¿Puedo esperar para colocar el marbete después del envasado?",
+    "¿Qué significa que el marbete sea opcional?",
+    "¿Qué tipo de bebidas alcohólicas se ven afectadas por esta regla?"
   ]
 }

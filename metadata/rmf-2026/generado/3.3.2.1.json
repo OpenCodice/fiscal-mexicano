@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd6d8821e366e4bb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de inversiones en refrigeradores",
   "temas": [
     "Impuesto sobre la renta",
-    "Deducciones fiscales",
+    "Deducciones",
     "Inversiones",
     "Refrigeradores",
-    "Enfriadores",
-    "Comerciantes al menudeo"
+    "Vida útil",
+    "Documentación comprobatoria"
   ],
   "terminos_coloquiales": [
     "deducción de refrigeradores",
-    "deducción de enfriadores",
-    "inversiones en refrigeradores",
+    "deducir enfriadores",
+    "gastos en refrigeración",
+    "deducción por inversión",
     "ISR",
-    "Ley del ISR"
+    "LISR"
   ],
-  "resumen": "Los contribuyentes pueden deducir la inversión en refrigeradores y enfriadores utilizados por comerciantes al menudeo, siempre y cuando no se transfiera la propiedad de dichos bienes. La deducción se realiza en un plazo de cinco años, considerando su vida útil.",
+  "resumen": "Los contribuyentes pueden deducir el monto original de la inversión en refrigeradores y enfriadores que se ponen a disposición de comerciantes sin transmitir la propiedad de los mismos. Esta deducción se realiza en un período de cinco años, siempre que se compruebe que la vida útil no excede este tiempo.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir la inversión en refrigeradores para mi negocio?",
-    "¿Cuánto tiempo tengo para deducir la compra de enfriadores?",
-    "¿Qué documentos necesito para comprobar la deducción de inversiones en refrigeradores?",
-    "¿Puedo deducir los enfriadores si no son de mi propiedad?",
-    "¿Qué establece el artículo 31 de la Ley del ISR sobre deducciones?"
+    "¿Puedo deducir los refrigeradores que compré para mi tienda?",
+    "¿Cuánto tiempo tengo para deducir la inversión en enfriadores?",
+    "¿Qué documentos necesito para comprobar la deducción de mis inversiones en refrigeradores?",
+    "¿Qué pasa si la vida útil de mis refrigeradores es mayor a cinco años?",
+    "¿Cómo se realiza la deducción de inversiones en enfriadores?",
+    "¿Es posible deducir el costo de los refrigeradores si no los vendo?"
   ]
 }

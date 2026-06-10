@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:339c17b4ac791b27",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Oficial de los Aeropuertos",
+  "denominacion_comun": "Extensión de Horario en Aeropuertos",
   "temas": [
-    "archivos electrónicos",
-    "servicios de navegación",
-    "extensión de horario",
-    "tarifas de operación",
-    "datos requeridos"
+    "Servicio aéreo",
+    "Registro de operaciones",
+    "Datos requeridos",
+    "Tarifas",
+    "Códigos OACI",
+    "Aeropuertos"
   ],
   "terminos_coloquiales": [
-    "registros de operaciones",
-    "extensión de horario",
-    "navegación aérea",
-    "LFD"
+    "Extensión de Horario",
+    "servicio en aeropuertos",
+    "tarifas de vuelo",
+    "registro de vuelo",
+    "datos de operación"
   ],
-  "resumen": "Los contribuyentes deben entregar un archivo electrónico con datos específicos sobre operaciones aéreas en la oficina central correspondiente. Esto incluye información como el número de registro, tipo de servicio y tarifas de extensión de horario.",
+  "resumen": "La regla establece que los contribuyentes deben entregar información sobre la extensión de horario de servicios aeropuertarios a la oficina correspondiente, incluyendo datos específicos como tarifas y códigos de operación. Esta información debe presentarse en un formato electrónico definido por la Secretaría de Infraestructura, Comunicaciones y Transportes.",
   "preguntas_ejemplo": [
-    "¿Qué información debo enviar como oficial de aeropuerto?",
-    "¿Qué datos son necesarios para la extensión de horario?",
-    "¿Cómo reporto mis operaciones aéreas?",
-    "¿Cuáles son las tarifas para extender el horario de operación?",
-    "¿Dónde debo entregar el archivo electrónico?"
+    "¿Qué datos necesito para registrar una extensión de horario en un aeropuerto?",
+    "¿Cómo presento la información de mis operaciones aéreas?",
+    "¿Cuáles son las tarifas que debo reportar para la extensión de horario?",
+    "¿Qué es el código OACI y por qué es importante?",
+    "¿Dónde entrego el archivo electrónico de mis servicios aéreos?"
   ]
 }

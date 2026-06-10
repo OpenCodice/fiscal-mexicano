@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f05223a3ed6fe931",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actualización de cuotas de derechos",
   "temas": [
-    "cuotas de derechos",
-    "actualización anual",
+    "Derechos",
+    "Cuotas",
     "INPC",
-    "servicios prestados en el extranjero",
-    "obligaciones fiscales"
+    "Actualización anual",
+    "Contribuyentes",
+    "Servicios en el extranjero",
+    "Obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "actualización de derechos",
-    "derechos fiscales",
-    "cuotas actualizadas",
+    "derechos",
+    "cuotas de derechos",
+    "aumento de tarifas",
+    "actualización de precios",
     "LFD",
-    "RMF"
+    "Ley Federal de Derechos"
   ],
-  "resumen": "Las cuotas de los derechos se actualizarán cada 1 de enero, utilizando un factor basado en el INPC. Se informan los montos actualizados para que los contribuyentes cumplan con sus obligaciones fiscales.",
+  "resumen": "Esta regla establece que las cuotas de los derechos se actualizarán anualmente el primero de enero, basándose en el INPC de los meses correspondientes. Además, se incluye un factor de actualización específico que se aplicará a partir de 2026.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan las cuotas de derechos?",
-    "¿Qué es el factor de actualización de derechos?",
-    "¿Qué deben hacer los contribuyentes con las cuotas actualizadas?",
-    "¿Cómo se determina el INPC para la actualización de derechos?",
-    "¿Cuál es la fecha de actualización de los derechos fiscales?"
+    "¿Cuándo se actualizan las cuotas de derechos?",
+    "¿Qué es el INPC y cómo se aplica a los derechos?",
+    "¿Cómo se calculan las cuotas de derechos por servicios en el extranjero?",
+    "¿Qué significa la actualización de tarifas de derechos?",
+    "¿Dónde puedo encontrar las cuotas actualizadas de los derechos?",
+    "¿Qué implicaciones tiene la regla 7.1 de la RMF 2026?"
   ]
 }

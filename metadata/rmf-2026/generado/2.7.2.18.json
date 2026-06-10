@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1433e4521a52490f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud para dejar de operar como proveedor de certificación de CFDI",
+  "denominacion_comun": "Solicitud para dejar de operar como proveedor de CFDI",
   "temas": [
-    "Proveedor de Certificación de CFDI",
-    "Aviso de operación",
-    "Generación de CFDI",
-    "Obligaciones fiscales"
+    "proveedor de certificación",
+    "CFDI",
+    "avisos",
+    "SAT",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Dejar de operar como proveedor de CFDI",
-    "Aviso para dejar de operar",
-    "PCCFDI",
+    "dejar de ser proveedor de CFDI",
+    "avisos para proveedores",
     "PCECFDI",
-    "SAT"
+    "PCCFDI"
   ],
-  "resumen": "Los contribuyentes que han sido autorizados como proveedores de certificación de CFDI deben presentar un aviso para dejar de operar y cumplir con ciertas obligaciones antes de hacer efectivo este cambio. El aviso debe ser presentado con al menos treinta días de anticipación y el SAT notificará esta situación a los clientes del proveedor.",
+  "resumen": "Los contribuyentes que dejen de operar como proveedores de certificación de expedición de CFDI deben presentar un aviso al SAT al menos treinta días antes de cesar operaciones. Este aviso informará a los clientes para que busquen otro proveedor.",
   "preguntas_ejemplo": [
-    "¿Cómo dejo de operar como proveedor de certificación de CFDI?",
-    "¿Qué debo hacer para presentar el aviso de suspensión?",
-    "¿Cuáles son mis obligaciones al dejar de operar como proveedor de CFDI?",
-    "¿Qué pasa con los CFDI que ya he emitido?",
-    "¿Cómo notifica el SAT mi cambio de estatus?"
+    "¿Cómo puedo dejar de ser proveedor de CFDI?",
+    "¿Qué aviso debo presentar al SAT si dejo de operar?",
+    "¿Cuánto tiempo antes debo avisar al SAT sobre mi cese como proveedor?",
+    "¿Qué obligaciones tengo al dejar de ser proveedor de certificación?",
+    "¿Quién notifica a mis clientes que ya no operaré como proveedor de CFDI?"
   ]
 }

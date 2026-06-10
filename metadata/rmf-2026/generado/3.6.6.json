@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:623a6723525ea537",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opción para publicar información del ISR diferido",
   "temas": [
     "ISR diferido",
     "Régimen Opcional para Grupos de Sociedades",
-    "publicación de información",
     "sociedad integradora",
-    "avisos y trámites",
-    "declaraciones complementarias"
+    "publicación de información fiscal"
   ],
   "terminos_coloquiales": [
-    "publicar ISR diferido",
+    "impuesto diferido",
+    "opción de publicación de ISR",
+    "sociedades de grupo",
     "información fiscal",
-    "Régimen Opcional",
-    "grupo de sociedades"
+    "LISR"
   ],
-  "resumen": "Las sociedades en el Régimen Opcional para Grupos de Sociedades pueden optar por publicar la información sobre el ISR diferido a través de la sociedad integradora. Esta información debe ser presentada y publicada en fechas específicas y debe incluir detalles como el monto del impuesto diferido y el RFC de la sociedad.",
+  "resumen": "Las sociedades en el Régimen Opcional para Grupos de Sociedades pueden optar por publicar información sobre el ISR diferido a través de una sociedad integradora. Esta información debe ser presentada y publicada en fechas específicas, incluyendo datos como el monto del ISR diferido y el ejercicio fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo publicar la información del ISR diferido?",
-    "¿Qué debo incluir en el aviso para publicar el ISR diferido?",
-    "¿Cuándo es la fecha límite para presentar la información del ISR diferido?",
-    "¿Qué es una sociedad integradora y cuál es su función?",
-    "¿Qué ocurre si hay cambios en el monto del ISR diferido?"
+    "¿Cómo se publica la información del ISR diferido?",
+    "¿Qué debe incluir el aviso para ejercer la opción de publicar?",
+    "¿Cuándo se debe publicar la información del ISR diferido?",
+    "¿Qué es una sociedad integradora en el régimen de grupos?",
+    "¿Cómo se ajusta la información del ISR diferido si hay cambios?"
   ]
 }

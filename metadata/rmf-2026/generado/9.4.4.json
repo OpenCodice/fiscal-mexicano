@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ac63dd5258510885",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Calidad de jugadores en la Copa Mundial",
+  "denominacion_comun": "Ingresos de jugadores de fútbol en México",
   "temas": [
-    "Ingreso de jugadores",
-    "Impuesto sobre la renta",
-    "Partidos en México",
-    "Tratados de doble tributación"
+    "fuente de riqueza",
+    "ingresos por partidos",
+    "ISR",
+    "tratados de doble tributación",
+    "cálculo de impuestos",
+    "representante de jugadores"
   ],
   "terminos_coloquiales": [
-    "ISR jugadores",
-    "Impuesto jugadores",
-    "Régimen fiscal de jugadores",
-    "RMF 2026"
+    "jugadores de fútbol",
+    "impuesto sobre la renta",
+    "pago de impuestos",
+    "partidos en México",
+    "jugadores convocados"
   ],
-  "resumen": "La regla establece que los ingresos de los jugadores se consideran en México solo en la medida en que participen en partidos en territorio nacional. Además, se detalla el procedimiento para el cálculo y pago del ISR correspondiente.",
+  "resumen": "La regla establece cómo se considera la fuente de riqueza de los ingresos obtenidos por los jugadores de fútbol en México. Los jugadores deben calcular y pagar el ISR correspondiente por los ingresos generados en los partidos que se celebren en el país y cumplen con lo dispuesto en la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ISR para jugadores en la Copa Mundial?",
-    "¿Qué proporción de los ingresos de los jugadores se considera en México?",
-    "¿Cuáles son las implicaciones fiscales para un jugador que participa en un partido en México?",
-    "¿Qué deben hacer los jugadores que residen en países con tratado de doble tributación?",
-    "¿Cuáles son los plazos para el pago del ISR de los jugadores?"
+    "¿Cómo se calcula el impuesto sobre la renta para los jugadores de fútbol que juegan en México?",
+    "¿Qué parte de los ingresos de un jugador se considera en México?",
+    "¿Qué opciones de pago existen para el ISR de los jugadores de fútbol?",
+    "¿Los jugadores que residen en otros países pueden beneficiarse de tratados fiscales con México?",
+    "¿Qué sucede si un jugador no cumple con el pago del ISR?"
   ]
 }

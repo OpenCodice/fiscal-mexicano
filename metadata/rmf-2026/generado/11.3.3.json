@@ -6,24 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c807ca14c447b5f8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ejercicio de estímulo fiscal",
+  "denominacion_comun": "Ejercicio del estímulo fiscal",
   "temas": [
     "ISR",
     "declaración anual",
-    "opción por estímulo",
-    "contribuyentes"
+    "estímulo fiscal",
+    "contribuyentes",
+    "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "opción del estímulo",
-    "declaración de ISR",
-    "estímulo fiscal"
+    "declaración de impuestos",
+    "declaración del ISR",
+    "estímulo fiscal",
+    "aplicar beneficios fiscales"
   ],
-  "resumen": "Los contribuyentes ejercen el estímulo al aplicarlo en su declaración del ISR del ejercicio fiscal correspondiente. Esto también aplica para quienes optan por presentar la declaración anual.",
+  "resumen": "Los contribuyentes consideran que ejercen el estímulo fiscal al aplicarlo en su declaración del ISR para el ejercicio fiscal correspondiente. Esto incluye a aquellos que presentan la declaración anual.",
   "preguntas_ejemplo": [
-    "¿Cuándo se ejerce el estímulo fiscal en mi declaración?",
-    "¿Puedo aplicar un estímulo en mi declaración anual?",
-    "¿Qué debo hacer para ejercer la opción del estímulo?"
+    "¿Cuándo se considera que ejerzo el estímulo fiscal?",
+    "¿Puedo aplicar el estímulo en mi declaración anual del ISR?",
+    "¿Qué significa aplicar un estímulo fiscal en la declaración de impuestos?",
+    "¿Cómo afecta el estímulo a mi declaración del ISR?"
   ]
 }

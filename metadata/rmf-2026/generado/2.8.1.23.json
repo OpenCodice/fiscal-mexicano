@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e9820c99c3b7c31e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Beneficiarios controladores",
+  "denominacion_comun": "Beneficiarios Controladores",
   "temas": [
-    "Obligaciones de notarios",
-    "Datos de identificación",
-    "Constitución de personas morales",
-    "Fideicomisos",
-    "Documentación requerida",
-    "Capital social",
-    "Modificaciones de capital",
-    "Consejo de administración"
+    "constitución de personas morales",
+    "celebración de fideicomisos",
+    "notarios",
+    "corredores",
+    "actos jurídicos",
+    "datos de identificación",
+    "capital social",
+    "modificaciones de capital"
   ],
   "terminos_coloquiales": [
-    "Beneficiarios controladores",
-    "Datos de beneficiarios",
-    "Controladores",
-    "CFF 32-B Ter"
+    "beneficiarios controladores",
+    "registro de personas morales",
+    "notarios",
+    "celebración de fideicomisos",
+    "actos jurídicos"
   ],
-  "resumen": "Los notarios y corredores deben obtener y conservar información específica al momento de constituir personas morales o fideicomisos. Esto incluye datos de identificación, capital social y modificaciones relevantes.",
+  "resumen": "La regla establece que notarios y corredores deben obtener y conservar información relevante al constituir personas morales o celebrar fideicomisos, incluyendo datos de identificación, fechas y montos de capital. También deben registrar cambios en el capital o patrimonio de dichas figuras jurídicas.",
   "preguntas_ejemplo": [
-    "¿Qué información deben obtener los notarios al constituir una empresa?",
-    "¿Cuáles son las obligaciones de los corredores en la constitución de fideicomisos?",
-    "¿Qué datos se necesitan para registrar a los beneficiarios controladores?",
-    "¿Cómo se modifica el capital de una persona moral?",
-    "¿Qué documentación es necesaria para constituir una figura jurídica?",
-    "¿Qué datos deben conservarse al celebrar un contrato?"
+    "¿Qué información deben obtener los notarios al constituir una persona moral?",
+    "¿Cuáles son las obligaciones de los corredores en la celebración de un fideicomiso?",
+    "¿Qué datos son necesarios al registrar un acto jurídico?",
+    "¿Cómo se documentan las modificaciones al capital social de una persona moral?",
+    "¿Qué información sobre los beneficiarios controladores se debe conservar?"
   ]
 }

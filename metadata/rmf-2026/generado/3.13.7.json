@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cacf44d2de8e1264",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos mensuales del Régimen Simplificado de Confianza",
+  "denominacion_comun": "Pagos mensuales RESICO",
   "temas": [
     "Régimen Simplificado de Confianza",
-    "Pago mensual",
-    "Declaración anual",
-    "ISR",
+    "declaración mensual",
     "CFDI",
-    "Renta gravable"
+    "pago definitivo",
+    "exención de declaración anual",
+    "renta gravable"
   ],
   "terminos_coloquiales": [
-    "RESICO",
-    "pago de ISR simplificado",
-    "declaración simplificada"
+    "pago mensual RESICO",
+    "declaración ISR simplificada",
+    "declaración anual RESICO",
+    "CFDI de ingresos",
+    "pago de impuesto"
   ],
-  "resumen": "Las personas físicas en el Régimen Simplificado de Confianza deben presentar un pago mensual mediante una declaración prellenada. Este pago es considerado definitivo, eximiéndolos de declarar anualmente por esos ingresos, aunque deben calcular su renta gravable conforme a la ley.",
+  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza deben presentar una declaración mensual para el pago del ISR, que estará prellenada con información de CFDI. Este pago se considera definitivo, por lo que no es necesario presentar declaración anual por esos ingresos, aunque deben determinar la renta gravable cuando sea aplicable.",
   "preguntas_ejemplo": [
-    "¿Cómo hago el pago mensual en el Régimen Simplificado de Confianza?",
-    "¿Qué es el RESICO y cómo afecta mis pagos de impuestos?",
-    "¿Puedo omitir la declaración anual si pago en el Régimen Simplificado de Confianza?",
-    "¿Cómo se determinan los ingresos en el Régimen Simplificado de Confianza?",
-    "¿Qué información contiene la declaración de ISR simplificado de confianza?"
+    "¿Cómo hago mi declaración mensual del RESICO?",
+    "¿Qué es el pago definitivo en el Régimen Simplificado de Confianza?",
+    "¿Necesito presentar declaración anual si estoy en el RESICO?",
+    "¿Qué CFDI debo incluir en mi declaración mensual?",
+    "¿Cómo determino mi renta gravable en el RESICO?"
   ]
 }

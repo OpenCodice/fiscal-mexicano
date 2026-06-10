@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de20f3ca09864365",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación de ingresos totales",
+  "denominacion_comun": "Verificación de ingresos fiscales",
   "temas": [
-    "límite de ingresos",
+    "verificación de ingresos",
+    "límites de ingresos",
     "CFDI",
-    "estímulo fiscal",
     "personas morales",
-    "Ley del ISR",
-    "ingresos no relacionados",
-    "donativos deducibles"
+    "estímulo fiscal",
+    "declaración fiscal"
   ],
   "terminos_coloquiales": [
     "verificación de ingresos",
-    "límite de 300 millones",
-    "ingresos totales",
-    "estímulo fiscal",
-    "LIF",
-    "ISR"
+    "límites de ingresos",
+    "CFDI emitidos",
+    "declaraciones normales",
+    "declaraciones complementarias",
+    "declaraciones de corrección",
+    "30 millones de ingresos",
+    "estímulo fiscal"
   ],
-  "resumen": "La regla establece cómo se verifica que no se excedan los 300 millones de pesos en ingresos totales para el ejercicio fiscal 2024, considerando declaraciones y CFDI. Si se sobrepasa el límite, no se aplica el estímulo fiscal.",
+  "resumen": "Esta regla establece cómo verificar que los contribuyentes no excedan el límite de ingresos establecidos para poder acceder a ciertos estímulos fiscales. Se tomarán en cuenta las declaraciones fiscales y los CFDI emitidos, así como otros datos que tenga la autoridad.",
   "preguntas_ejemplo": [
-    "¿Cómo se verifica que no exceda el límite de ingresos?",
-    "¿Qué pasa si mis ingresos superan los 300 millones?",
-    "¿Qué información necesita la autoridad para verificar mis ingresos?",
-    "¿Qué son los CFDI y cómo afectan la verificación de ingresos?",
-    "¿Qué estímulos fiscales aplican si estoy dentro del límite?"
+    "¿Cómo se verifica si mis ingresos superan el límite establecido?",
+    "¿Qué pasa si no presenté mi declaración y tengo CFDI?",
+    "¿Cuáles son los ingresos que cuentan para el estímulo fiscal?",
+    "¿Qué límites de ingresos se aplican a las personas morales?",
+    "¿Qué sucede si mis ingresos totales son mayores a 300 millones de pesos?",
+    "¿Qué declaraciones se deben presentar para la verificación de ingresos?"
   ]
 }

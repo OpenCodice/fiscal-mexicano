@@ -6,26 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7dacfdd160ad947",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Coeficiente de utilidad y depósitos",
   "temas": [
     "depósitos bancarios",
-    "coeficiente de utilidad",
     "contabilidad",
-    "utilidad presuntiva"
+    "utilidad presuntiva",
+    "devoluciones fiscales",
+    "compensación",
+    "acreditamiento"
   ],
   "terminos_coloquiales": [
-    "depósitos no contables",
-    "coeficiente de utilidad",
+    "depósitos",
+    "cuenta bancaria",
+    "utilidad",
+    "devolución",
     "CFF",
-    "Ley ISR"
+    "ISR"
   ],
-  "resumen": "La regla establece que los depósitos en cuentas bancarias que no se registran en la contabilidad del contribuyente no son sujetos al coeficiente de utilidad. Además, no generarán devolución o saldo a favor.",
+  "resumen": "Esta regla indica que ciertos depósitos en cuentas bancarias no son relevados por las normas fiscales sobre coeficiente de utilidad. Además, aclara que no se pueden obtener devoluciones ni compensaciones por esos depósitos. La utilidad de estos depósitos se determina siguiendo reglas específicas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los depósitos que no están en mi contabilidad?",
-    "¿Se aplica el coeficiente de utilidad a todos los depósitos?",
-    "¿Puedo obtener devolución por depósitos no contables?",
-    "¿Qué artículos del CFF se relacionan con los depósitos y la utilidad presuntiva?"
+    "¿Qué pasa con los depósitos en mi cuenta bancaria que no están registrados?",
+    "¿Puedo obtener una devolución por los depósitos que hice?",
+    "¿Cómo se determina la utilidad en base a mis depósitos?",
+    "¿Qué normas aplican para mis depósitos si no llevo contabilidad?",
+    "¿Es posible compensar o acreditar algún saldo por mis depósitos?",
+    "¿Qué artículos del CFF se refieren a los depósitos y la utilidad presuntiva?"
   ]
 }

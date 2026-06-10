@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:940769c037848442",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Asunción de obligaciones fiscales por entidades federativas",
   "temas": [
-    "créditos fiscales",
+    "creditos fiscales",
     "entes públicos",
-    "pago de deudas",
-    "procedimiento administrativo de ejecución"
+    "procedimiento administrativo de ejecución",
+    "congreso del estado",
+    "recursos estatales",
+    "gaceta legislativa"
   ],
   "terminos_coloquiales": [
-    "pago de créditos fiscales",
-    "asunción de deudas",
-    "CFF",
-    "Ley de Disciplina Financiera"
+    "pago de deudas fiscales",
+    "asumir deudas",
+    "aprobación del congreso",
+    "publicación oficial",
+    "avisos fiscales",
+    "CFF"
   ],
-  "resumen": "Las entidades federativas pueden asumir el pago de créditos fiscales no cubiertos por sus entes públicos si cuentan con la aprobación del congreso estatal y publican la disposición correspondiente. Esto se puede hacer incluso si ya se ha iniciado un procedimiento administrativo de ejecución, que se suspenderá una vez pagada la deuda.",
+  "resumen": "Las entidades federativas pueden asumir la obligación de pago de créditos fiscales no cubiertos por sus entes públicos, siempre que cuenten con la aprobación del congreso local. Este proceso requiere la publicación oficial de la aprobación y debe considerarse el estado de los procedimientos administrativos en curso.",
   "preguntas_ejemplo": [
-    "¿Cómo puede una entidad federativa hacerse cargo de deudas fiscales?",
-    "¿Qué se necesita para que un estado asuma obligaciones fiscales de sus entes?",
-    "¿Qué ocurre con el procedimiento administrativo de ejecución si se asume el pago de una deuda?",
-    "¿Cuáles son los requisitos para que una entidad federativa pague créditos fiscales?",
-    "¿Qué significa asumir obligaciones fiscales en el contexto de la ley?"
+    "¿Cómo puede una entidad federativa asumir el pago de deudas fiscales?",
+    "¿Qué requisitos debe cumplir el congreso del estado para aprobar este tipo de pagos?",
+    "¿Qué pasa si ya se inició un procedimiento administrativo contra el ente público?",
+    "¿Dónde se publica la aprobación para asumir las deudas fiscales?",
+    "¿Qué es el aviso para asumir la obligación de pago del crédito fiscal?"
   ]
 }

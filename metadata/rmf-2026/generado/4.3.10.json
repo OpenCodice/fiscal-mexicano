@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e1b58cb0c6e3c064",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comisiones de agentes de seguros",
   "temas": [
-    "Impuesto al Valor Agregado",
+    "IVA",
     "Comisiones",
-    "Intermediación de seguros",
-    "CFDI",
-    "Registros contables"
+    "Agentes de seguros",
+    "Contratos de adhesión",
+    "CFDI"
   ],
   "terminos_coloquiales": [
-    "Comisiones de seguros",
-    "Intermediación de seguros",
-    "IVA en seguros",
-    "CFDI de comisiones",
-    "LIVA",
-    "LISF"
+    "comisiones de seguros",
+    "comisiones de agentes",
+    "CFDI de servicios de intermedición",
+    "contratos de seguros"
   ],
-  "resumen": "Las comisiones que reciben los agentes de seguros por la intermediación de contratos de seguro se consideran para efectos del IVA. Es necesario que estos contratos estén registrados y que se expidan CFDI correspondientes.",
+  "resumen": "Las comisiones de agentes de seguros se consideran exentas del IVA siempre que se cumplan ciertos requisitos, como estar registradas y contar con CFDI. Las instituciones de seguros y las personas morales deben llevar un control contable de estos servicios.",
   "preguntas_ejemplo": [
-    "¿Qué comisiones se consideran para el IVA en seguros?",
-    "¿Cómo se registran las comisiones de agentes de seguros?",
-    "¿Qué requisitos deben cumplir los contratos de seguros para el IVA?",
-    "¿Qué es un CFDI en el contexto de la intermediación de seguros?",
-    "¿Qué dicen las leyes sobre las comisiones de agentes de seguros?"
+    "¿Las comisiones de agentes de seguros están exentas de IVA?",
+    "¿Qué requisitos deben cumplir los contratos de seguro?",
+    "¿Cómo se expide un CFDI para comisiones de seguros?",
+    "¿Qué registros contables debo llevar para las comisiones de seguros?",
+    "¿Qué es un contrato de adhesión en el contexto de seguros?"
   ]
 }

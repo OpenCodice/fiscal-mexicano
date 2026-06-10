@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2acbfb43ae8cbf31",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos del extranjero",
+  "denominacion_comun": "Retorno de recursos del extranjero",
   "temas": [
     "ISR",
     "recursos retornados",
-    "declaraciones de impuestos",
-    "inversión extranjera",
+    "declaración",
     "SAT",
+    "inversión",
     "aviso de destino"
   ],
   "terminos_coloquiales": [
     "declaración de ISR",
+    "avisos del SAT",
     "recursos del extranjero",
-    "avisos de retorno",
-    "LIF",
-    "Vigésimo Cuarto Transitorio"
+    "dinero del extranjero",
+    "cambio de destino de inversión"
   ],
-  "resumen": "Los contribuyentes que traigan recursos de procedencia lícita al país deben declarar el uso y monto de esos recursos ante el SAT. Si cambian la inversión de esos recursos, tienen que informar dicha modificación dentro de un plazo específico.",
+  "resumen": "Esta disposición establece que los contribuyentes que deseen pagar el ISR por recursos retornados o ingresados al país deben presentar un aviso a través del portal del SAT, informando el monto total y el destino de inversión de los recursos. También se detalla cómo y cuándo deben presentar este aviso.",
   "preguntas_ejemplo": [
-    "¿Cómo declaro los recursos que traigo del extranjero?",
-    "¿Qué avisos debo presentar al SAT por recursos retornados?",
-    "¿Cuáles son las fechas de declaración para los fondos del extranjero?",
-    "¿Qué pasa si cambio el destino de los recursos que regresé?",
-    "¿Qué es el Vigésimo Cuarto Transitorio en la LIF?"
+    "¿Cómo declaro el ISR por recursos que regresé al país?",
+    "¿Qué debo hacer si cambio el destino de inversión de mis recursos del extranjero?",
+    "¿Cuáles son los plazos para presentar el aviso al SAT?",
+    "¿Qué información debo incluir en el aviso de destino de mis recursos?",
+    "¿Dónde presento la declaración de ISR por recursos retornados?"
   ]
 }

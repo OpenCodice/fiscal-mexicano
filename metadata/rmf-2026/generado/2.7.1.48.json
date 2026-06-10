@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:876132259ae3f8a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Complemento para Hidrocarburos y Petrolíferos",
+  "denominacion_comun": "Complemento para facturación de hidrocarburos",
   "temas": [
-    "Comprobantes fiscales",
     "CFDI",
-    "Gasolinas",
-    "Diésel",
-    "Registro de claves"
+    "gasolinas",
+    "diésel",
+    "complemento fiscal",
+    "ClaveProdServ",
+    "Hidrocarburos",
+    "petrolíferos"
   ],
   "terminos_coloquiales": [
+    "factura",
+    "gasolina",
+    "diesel",
     "CFDI de hidrocarburos",
-    "factura de gasolina",
-    "factura de diésel",
-    "Complemento de petrolíferos",
-    "RMF 2.7.1.48"
+    "complemento de gasolina",
+    "complemento de diésel"
   ],
-  "resumen": "Los contribuyentes que venden gasolinas y diésel deben incluir un complemento específico en sus facturas. Este complemento debe estar registrado con ciertas claves dependiendo del tipo de combustible.",
+  "resumen": "Los contribuyentes que vendan gasolinas y diésel deben incluir un complemento específico en el CFDI que emitan. También deben registrar ciertas claves en el campo correspondiente del comprobante fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué es el complemento para hidrocarburos?",
-    "¿Cómo se factura la gasolina?",
-    "¿Qué claves debo usar para el diésel en el CFDI?",
-    "¿A quién aplica la regla 2.7.1.48 de la RMF?",
-    "¿Qué debo incluir en la factura de combustibles?"
+    "¿Qué complementos debo incluir en la factura de gasolina?",
+    "¿Cómo facturo la venta de diésel?",
+    "¿Qué claves debo usar en el CFDI para hidrocarburos?",
+    "¿Dónde encuentro el complemento para hidrocarburos del SAT?",
+    "¿Qué son los CFDI de hidrocarburos?"
   ]
 }

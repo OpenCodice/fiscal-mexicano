@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:53aeb0036342f95c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opinión técnica final de verificación",
+  "denominacion_comun": "Monederos electrónicos y combustibles",
   "temas": [
     "emisores autorizados",
     "monederos electrónicos",
+    "combustibles",
+    "verificación",
     "incumplimientos",
-    "información y documentación",
-    "resolución de cumplimiento",
-    "procedimiento administrativo"
+    "resolución",
+    "documentación",
+    "obligaciones"
   ],
   "terminos_coloquiales": [
-    "opinión técnica",
-    "verificación de monederos",
-    "resolución de la AGJ"
+    "monederos electrónicos",
+    "combustibles",
+    "incumplimientos",
+    "verificación",
+    "emitir oficio"
   ],
-  "resumen": "Esta regla establece el procedimiento que deben seguir los emisores autorizados de monederos electrónicos para subsanar incumplimientos detectados en una verificación. Deben enviar la documentación necesaria a la AGJ en un plazo determinado para acreditar su cumplimiento.",
+  "resumen": "La regla establece el procedimiento que deben seguir los emisores autorizados de monederos electrónicos de combustibles para solventar los incumplimientos detectados en una verificación. Si logran atender los incumplimientos en el plazo determinado, recibirán una resolución que los declare cumplidos en sus obligaciones.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi monedero electrónico recibió una opinión técnica final?",
-    "¿Cuáles son los pasos para subsanar incumplimientos en monederos electrónicos?",
-    "¿Qué información necesito para enviar a la AGJ tras una verificación?",
-    "¿Qué sucede si no cumplo con los requisitos de la verificación?",
-    "¿Qué es un emisor autorizado de monederos electrónicos?"
+    "¿Qué debo hacer si tengo incumplimientos en mi monedero electrónico?",
+    "¿Cómo puedo solventar los incumplimientos detectados en la verificación?",
+    "¿Qué pasa si no cumplo con los requisitos establecidos para los monederos electrónicos?",
+    "¿Cómo se evalúa la documentación que envío para subsanar incumplimientos?",
+    "¿Cuál es el plazo para atender los incumplimientos en la verificación de monederos electrónicos?"
   ]
 }

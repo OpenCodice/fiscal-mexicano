@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c24d076fdd6a8e8b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Corrección de CFDI de nómina",
   "temas": [
     "CFDI de nómina",
-    "errores en CFDI",
-    "corrección de comprobantes",
-    "fecha de pago",
-    "facilidades administrativas"
+    "Errores en comprobantes",
+    "Facilidad para corregir",
+    "Fecha de pago",
+    "Regulación CFF",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "CFDI de nómina",
-    "errores en facturas",
-    "corrección de factura",
-    "comprobante fiscal de nómina"
+    "factura de nómina",
+    "comprobante de nómina",
+    "CFDI",
+    "corregir nómina"
   ],
-  "resumen": "Los contribuyentes pueden corregir errores en sus CFDI de nómina emitidos en el ejercicio fiscal 2025 al emitir un nuevo comprobante antes de una fecha límite. Dicho comprobante debe reflejar la fecha de pago correspondiente a 2025 para ser considerado válido.",
+  "resumen": "Los contribuyentes que hayan emitido CFDI de nómina con errores durante el ejercicio fiscal 2025 pueden corregirlos una sola vez. Los nuevos comprobantes deben emitirse antes del 28 de febrero de 2026 y reflejar la fecha de pago correspondiente a 2025.",
   "preguntas_ejemplo": [
-    "¿Cómo corrijo un CFDI de nómina que tiene errores?",
-    "¿Qué debo hacer si emití mal una factura de nómina?",
-    "¿Hasta cuándo puedo corregir mis CFDI de nómina?",
-    "¿El nuevo CFDI de nómina cuenta como del ejercicio 2025?",
-    "¿Qué pasa si no cancelo el CFDI que estoy corrigiendo?"
+    "¿Cómo corrijo un CFDI de nómina?",
+    "¿Qué hago si tengo errores en mi comprobante de nómina?",
+    "¿Hasta cuándo puedo corregir un CFDI de nómina del 2025?",
+    "¿El nuevo CFDI cuenta como ingreso del 2025?",
+    "¿Qué pasa si no realizo el pago de la diferencia?"
   ]
 }

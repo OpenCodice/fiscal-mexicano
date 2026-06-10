@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6ee141becd965222",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "ISR retenido",
-    "declaración R14",
+    "ISR",
+    "retenciones",
+    "declaración",
     "personas morales",
-    "plazo de presentación",
-    "deducción de inversión"
+    "deducciones",
+    "aportaciones",
+    "servicios profesionales"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
     "RESICO",
-    "ISR",
-    "declaración de retenciones"
+    "declaración R14",
+    "retenciones de ISR",
+    "pago de impuestos"
   ],
-  "resumen": "Las personas morales deben presentar la declaración R14 para el entero del ISR retenido, a más tardar el día 17 del mes siguiente al del pago. Esto también implica la aplicación de límites para las deducciones de inversión.",
+  "resumen": "La regla establece que las personas morales deben presentar la declaración R14 para las retenciones de ISR en un plazo específico. Esto está relacionado con el artículo 113-J de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración R14?",
-    "¿Qué plazos hay para pagar el ISR en el Régimen Simplificado de Confianza?",
-    "¿Cómo se determina la deducción de inversión en este régimen?",
-    "¿Qué obligaciones tienen las personas morales en el RESICO?",
-    "¿Qué afecta el artículo 113-J para las empresas?"
+    "¿Cómo hago la declaración R14 para ISR?",
+    "¿Cuándo se deben pagar las retenciones de ISR?",
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Qué deducciones puedo aplicar en este régimen?",
+    "¿Cuál es el procedimiento para retener ISR en servicios profesionales?",
+    "¿Qué personas morales están obligadas a presentar la declaración R14?"
   ]
 }

@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a627478d2c8e4cce",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Formas oficiales aprobadas por el SAT",
+  "denominacion_comun": "Formas oficiales del SAT",
   "temas": [
-    "cobro de derechos federales",
+    "cobro de derechos",
     "recaudación fiscal",
-    "anexos de colaboración",
-    "instituciones de crédito",
-    "oficinas recaudadoras",
-    "medios electrónicos",
-    "publicación oficial"
+    "entidades federativas",
+    "municipios",
+    "anexos al Convenio de Colaboración",
+    "colecturía",
+    "medios electrónicos"
   ],
   "terminos_coloquiales": [
-    "formularios del SAT",
-    "cobro de derechos",
-    "recaudación municipal",
-    "anexos fiscales",
-    "formas oficiales"
+    "cobro de impuestos",
+    "formas del SAT",
+    "recaudación de derechos federales",
+    "recaudación",
+    "pagos de contribuciones"
   ],
-  "resumen": "Las entidades federativas y sus municipios pueden cobrar derechos federales utilizando formas oficiales que deben ser publicadas. Este proceso se puede llevar a cabo a través de instituciones de crédito o medios electrónicos.",
+  "resumen": "Esta disposición establece que las entidades federativas y sus municipios pueden cobrar derechos federales mediante formas oficiales publicadas en sus órganos de difusión. La recaudación puede realizarse a través de instituciones de crédito o medios electrónicos autorizados.",
   "preguntas_ejemplo": [
-    "¿Cómo se deben cobrar los derechos federales?",
-    "¿Qué formas oficiales debo usar para el pago de derechos?",
-    "¿Dónde encuentro las formas de recaudación publicadas por el SAT?",
-    "¿Puedo pagar contribuciones en línea?",
-    "¿Qué es el Convenio de Colaboración Administrativa en Materia Fiscal?"
+    "¿Cómo se realiza el cobro de derechos federales en mi estado?",
+    "¿Qué son las formas oficiales del SAT?",
+    "¿Dónde puedo encontrar las formas para pagar mis contribuciones?",
+    "¿Qué medios electrónicos puedo utilizar para el pago de derechos fiscales?",
+    "¿Los municipios pueden cobrar impuestos federales?",
+    "¿Qué es el Convenio de Colaboración Administrativa en Materia Fiscal Federal?"
   ]
 }

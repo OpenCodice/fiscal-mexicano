@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c836517471a776e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Adquisición de cartera vencida",
@@ -13,19 +14,20 @@
     "cartera vencida",
     "partes relacionadas",
     "derechos de cobro",
-    "disposiciones fiscales"
+    "impuesto al valor agregado"
   ],
   "terminos_coloquiales": [
-    "cartera deudora",
     "cartera morosa",
+    "deuda de clientes",
+    "cobro de deudas",
     "parte relacionada"
   ],
-  "resumen": "Esta disposición establece que las reglas sobre la adquisición de cartera vencida no aplican cuando las personas morales compran derechos de cobro de partes relacionadas. Se define parte relacionada conforme a los artículos de la Ley del ISR.",
+  "resumen": "Esta disposición establece que ciertas reglas no aplican cuando las personas morales compran derechos de cobro de la cartera vencida de partes relacionadas. Se definen las partes relacionadas según ciertos artículos de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si compro cartera vencida de un socio?",
-    "¿Cuáles son las reglas para adquirir deudas de una parte relacionada?",
-    "¿Se pueden aplicar deducciones por cartera vencida adquirida de partes relacionadas?",
-    "¿Qué significa parte relacionada en términos fiscales?",
-    "¿Existen excepciones para la cartera vencida entre partes relacionadas?"
+    "¿Qué pasa si compro deudas de mis socios?",
+    "¿Las reglas de IVA aplican a la cartera vencida con partes relacionadas?",
+    "¿Qué es una parte relacionada en la ley fiscal?",
+    "¿Cómo se afectan mis impuestos al comprar cartera vencida?",
+    "¿Qué debo considerar al adquirir cartera morosa de una empresa relacionada?"
   ]
 }

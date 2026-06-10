@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af1381b7b23ae3fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos entre partes relacionadas",
+  "denominacion_comun": "Beneficios de los tratados para evitar doble tributación",
   "temas": [
     "ISR",
-    "tratados para evitar la doble tributación",
-    "residencia fiscal",
-    "donde no se requiere acreditar doble tributación"
+    "contribuyentes residentes en el extranjero",
+    "doble tributación",
+    "restructuración de sociedades",
+    "dividendos",
+    "exención fiscal"
   ],
   "terminos_coloquiales": [
-    "exención de doble tributación",
-    "dividendos",
-    "enajenación de acciones",
-    "reglas de reestructuración"
+    "no pago doble",
+    "tratados fiscales",
+    "ISR extranjero"
   ],
-  "resumen": "Esta regla establece que las autoridades fiscales no requerirán a contribuyentes extranjeros que comprueben la existencia de doble tributación en ciertas situaciones, como cuando el país de residencia tiene renta territorial o usa el método de exención en un tratado tributario.",
+  "resumen": "Esta disposición establece que los contribuyentes residentes en el extranjero no deben acreditar la doble tributación en ciertos casos específicos, como cuando son residentes de países con renta territorial o no están sujetos a impuestos en su país. También se menciona la enajenación de acciones y dividendos en situaciones específicas.",
   "preguntas_ejemplo": [
-    "¿Cuándo no necesito comprobar la doble tributación?",
-    "¿Qué pasa si soy residente en un país con renta territorial?",
-    "¿Los dividendos de un residente extranjero están exentos de impuestos?",
-    "¿Necesito presentar documentos para enajenación de acciones?",
-    "¿Qué trata sobre los beneficios de tratados fiscales?"
+    "¿Cuándo no tengo que demostrar que estoy pagando impuestos en mi país?",
+    "¿Qué beneficios tengo si soy residente en el extranjero?",
+    "¿Cómo se aplica la exención fiscal para dividendos?",
+    "¿Qué situaciones me permiten evitar la doble tributación?",
+    "¿Qué es una reestructuración de sociedades en el contexto de tratados fiscales?",
+    "¿Qué significa ser beneficiario efectivo de dividendos?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:513a2e29ace12f46",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embalaje para esculturas",
@@ -13,21 +14,23 @@
     "embalaje",
     "esculturas",
     "conservación",
-    "transporte"
+    "transportación",
+    "madera",
+    "fibropanel",
+    "grandes formatos"
   ],
   "terminos_coloquiales": [
-    "embalaje de esculturas",
-    "cajas para esculturas",
-    "normas de embalaje",
-    "DECRETO",
-    "MDF"
+    "embalaje para esculturas",
+    "cajas de madera",
+    "MDF",
+    "esculturas grandes"
   ],
-  "resumen": "Esta disposición establece que las esculturas deben ser embaladas en cajas de materiales específicos para su adecuada conservación y transporte. Las esculturas de gran formato requieren un embalaje que asegure la protección de la pieza durante su manejo.",
+  "resumen": "Esta regla establece que las esculturas deben ser entregadas en un embalaje adecuado, como cajas de madera o fibropanel, para asegurar su conservación y traslado. Si se trata de pinturas o grabados que no se pueden enmarcar, deben entregarse en un embalaje de madera con las mismas especificaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo debo embalar una escultura?",
-    "¿Qué materiales se recomiendan para el embalaje de esculturas?",
-    "¿Hay normativas sobre el transporte de esculturas?",
-    "¿Cómo conservar una escultura durante el transporte?",
-    "¿Es necesario utilizar madera contrachapada para el embalaje de esculturas?"
+    "¿Cómo debo embalar una escultura para transportarla?",
+    "¿Qué tipo de madera se necesita para el embalaje de esculturas?",
+    "¿Cómo se conserva una escultura durante el traslado?",
+    "¿Qué hacer con pinturas o grabados que no se pueden enmarcar?",
+    "¿Cuáles son las especificaciones del embalaje para esculturas de gran tamaño?"
   ]
 }

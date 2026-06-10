@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3440d7c571b41c87",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Lectura de código QR en marbetes",
+  "denominacion_comun": "Lectura de Código QR en Marbetes",
   "temas": [
     "Código QR",
     "Marbetes",
     "Bebidas alcohólicas",
-    "Obligaciones fiscales",
-    "Datos del producto",
+    "Obligaciones de contribuyentes",
     "Datos del marbete",
-    "Verificación de información"
+    "Producción de bebidas",
+    "Cumplimiento fiscal"
   ],
   "terminos_coloquiales": [
-    "Lectura de código QR",
-    "Marbete de bebidas",
-    "Marbete fiscal",
-    "Código QR en envases"
+    "leer código QR",
+    "marbete",
+    "etiqueta de bebida",
+    "bebidas alcohólicas",
+    "impresión de marbete"
   ],
-  "resumen": "Los contribuyentes deben leer el código QR de los marbetes de bebidas alcohólicas en presencia del consumidor final y al momento de la entrega. Esta lectura debe realizarse con un dispositivo móvil y verificar que la información corresponda a la etiqueta del envase.",
+  "resumen": "Los contribuyentes deben leer el código QR en los marbetes de las bebidas alcohólicas en presencia del consumidor final y en el momento de la entrega. La información visualizada debe coincidir con la etiqueta del envase.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe leer el código QR del marbete?",
-    "¿Qué información debo verificar en el código QR de una bebida alcohólica?",
-    "¿Cuáles son las obligaciones de lectura del marbete para bebidas alcohólicas?",
+    "¿Cómo leo el código QR de una bebida alcohólica?",
+    "¿Qué información debo obtener del marbete al escanear el código QR?",
+    "¿Qué obligaciones tengo al vender bebidas alcohólicas?",
     "¿Qué pasa si no realizo la lectura del código QR?",
-    "¿Se puede leer el código QR de un marbete en cualquier momento?",
-    "¿Qué datos contiene el marbete de una bebida alcohólica?"
+    "¿Dónde encuentro el código QR en el marbete de la bebida?"
   ]
 }

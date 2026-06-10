@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7285abfae1e56530",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios MULTI-IEPS",
+  "denominacion_comun": "Declaración Informativa Múltiple del IEPS",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios",
-    "Declaración Informativa Múltiple",
-    "Información de equipos de destilación",
-    "Modificación de equipos",
-    "Enajenación de equipos"
+    "obligaciones de contribuyentes",
+    "equipos de destilación",
+    "envasamiento",
+    "información fiscal",
+    "enajenación de equipos"
   ],
   "terminos_coloquiales": [
-    "MULTI-IEPS",
-    "declaración de IEPS",
-    "declaración informativa",
-    "servicios de IEPS"
+    "información de equipos",
+    "obligaciones fiscales de destilación",
+    "Múltiples Declaraciones IEPS",
+    "MULTI-IEPS"
   ],
-  "resumen": "Los contribuyentes que adquieran, modifiquen o enajenen equipos de destilación o envasamiento deben presentar información específica a través del programa MULTI-IEPS como lo señala la ley del IEPS.",
+  "resumen": "Los contribuyentes que compran o modifican equipos de destilación o envasamiento deben reportar esa información mediante el programa MULTI-IEPS. Esto incluye la enajenación de equipos reportados anteriormente.",
   "preguntas_ejemplo": [
-    "¿Qué es la MULTI-IEPS y para qué se usa?",
-    "¿Cómo reportar un nuevo equipo de destilación en el SAT?",
-    "¿Cuándo debo presentar la información sobre la enajenación de equipos?",
-    "¿Qué obligación tengo si modifico un equipo de envasamiento?",
-    "¿Dónde encuentro el programa MULTI-IEPS?"
+    "¿Qué debo hacer si compré un nuevo equipo de destilación?",
+    "¿Cómo reporto la venta de un equipo de envasamiento?",
+    "¿Cuáles son mis obligaciones fiscales sobre los equipos que tengo?",
+    "¿Qué información necesito presentar en la MULTI-IEPS?",
+    "¿Dónde encuentro el programa para declarar información del IEPS?"
   ]
 }

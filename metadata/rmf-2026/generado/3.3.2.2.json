@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28e5f13e2e8b708e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por activos intangibles",
+  "denominacion_comun": "Deducciones de inversiones en activos intangibles",
   "temas": [
-    "activos intangibles",
-    "explotación de bienes del dominio público",
-    "prestación de servicios públicos concesionados",
-    "cesión de derechos",
-    "cálculo de deducciones"
+    "Impuesto sobre la renta",
+    "Deducciones",
+    "Inversiones",
+    "Activos intangibles",
+    "Concesiones"
   ],
   "terminos_coloquiales": [
-    "deducciones intangibles",
+    "deducciones fiscales",
+    "inversiones en tecnología",
     "activos intangibles",
+    "servicios públicos",
     "cesión de derechos"
   ],
-  "resumen": "La regla establece cómo calcular el porcentaje máximo de deducción por activos intangibles adquiridos mediante cesión de derechos. Este cálculo se realiza dividiendo el total de la unidad entre el número de años de vigencia de la concesión.",
+  "resumen": "La regla establece cómo calcular el porcentaje máximo de deducción para activos intangibles adquiridos mediante cesión de derechos que se utilizan en el dominio o servicios públicos. Este cálculo se basa en el tiempo de la concesión y se expresa en porcentajes.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las deducciones por activos intangibles?",
-    "¿Qué es la cesión de derechos y cómo afecta mis deducciones?",
-    "¿Cuánto puedo deducir por activos intangibles en una concesión?"
+    "¿Cómo se calculan las deducciones por inversiones en activos intangibles?",
+    "¿Qué es la cesión de derechos en relación con el ISR?",
+    "¿Cuáles son los límites de deducción para activos intangibles?",
+    "¿Qué requisitos necesito cumplir para deducir inversiones en activos intangibles?",
+    "¿Qué dice la ley sobre deducciones de concesiones públicas?"
   ]
 }

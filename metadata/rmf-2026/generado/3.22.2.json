@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85d72c061c365987",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la renta de dividendos",
+  "denominacion_comun": "Impuesto sobre dividendos",
   "temas": [
     "dividendos",
     "utilidades",
-    "exención",
+    "residente en el extranjero",
     "documentación comprobatoria",
-    "personas físicas"
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "ISR de dividendos",
-    "impuesto sobre utilidades",
-    "no pago de ISR",
-    "documentación fiscal"
+    "no pagar impuesto sobre dividendos",
+    "cobrar utilidades",
+    "impuesto adicional",
+    "documentos fiscales",
+    "LISR",
+    "CFF"
   ],
-  "resumen": "La regla indica que no se paga un impuesto adicional si el dividendo distribuido proviene de ejercicios anteriores y se tiene la documentación necesaria a disposición de la autoridad fiscal.",
+  "resumen": "No se debe pagar un impuesto adicional por dividendos si estos provienen de un residente en el extranjero y corresponden a ejercicios anteriores. Es importante conservar la documentación que pruebe esta situación.",
   "preguntas_ejemplo": [
-    "¿Cuándo no tengo que pagar impuesto por dividendos?",
-    "¿Qué documentos necesito para justificar mi no pago de ISR?",
-    "¿Qué pasa si recibo dividendos de un residente en el extranjero?",
-    "¿A qué ejercicios aplica la exención de impuestos sobre los dividendos?",
-    "¿Cuál es la documentación que debo guardar para el ISR?",
-    "¿Cómo afecta el artículo 142 de la Ley del ISR a los dividendos?"
+    "¿Voy a tener que pagar impuestos por los dividendos que recibí de un extranjero?",
+    "¿Qué documentos necesito para comprobar que no debo pagar impuestos sobre estas utilidades?",
+    "¿Se aplica algún impuesto adicional a los dividendos de ejercicios anteriores?",
+    "¿Qué requisitos debo cumplir para no pagar impuestos sobre dividendos?",
+    "¿Cómo afectarán mis dividendos si provienen de un residente en el extranjero?"
   ]
 }

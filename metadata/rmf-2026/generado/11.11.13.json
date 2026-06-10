@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b08140355b196da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo en pagos provisionales del ISR",
+  "denominacion_comun": "Estímulo fiscal en pagos provisionales del ISR",
   "temas": [
-    "declaración de impuestos",
+    "estímulo fiscal",
     "pagos provisionales",
-    "estímulos fiscales",
+    "ISR",
     "CFDI",
+    "leyendas fiscales",
     "PODEBI",
+    "declaración",
     "personas morales"
   ],
   "terminos_coloquiales": [
-    "estímulo fiscal ISR",
-    "declarar estímulo",
-    "CFDI PODEBI",
-    "pagos provisionales",
+    "descuento en impuestos",
+    "declarar impuestos",
+    "CFDI de ingresos",
+    "CFDI de pagos",
+    "ISR",
     "PODEBI"
   ],
-  "resumen": "Los contribuyentes que aplican un estímulo fiscal en sus pagos provisionales del ISR deben declararlo en sus declaraciones utilizando la información de los CFDI correspondientes. Es necesario incluir la leyenda específica para las operaciones realizadas dentro del PODEBI.",
+  "resumen": "Los contribuyentes que apliquen un estímulo fiscal en sus pagos provisionales deberán declararlo usando información específica de sus CFDI. Es importante registrar las leyendas fiscales correspondientes en la declaración.",
   "preguntas_ejemplo": [
-    "¿Cómo declaro el estímulo fiscal en mis pagos provisionales del ISR?",
-    "¿Qué información debo poner en el CFDI para el PODEBI?",
-    "¿Qué leyenda necesito incluir para el estímulo fiscal?",
-    "¿Cómo se calculan los pagos provisionales del ISR en el PODEBI?",
-    "¿Quiénes pueden aplicar el estímulo en el ISR?",
-    "¿Qué es un CFDI con Complemento de Leyendas Fiscales?"
+    "¿Cómo declaro el estímulo fiscal en mis pagos de ISR?",
+    "¿Qué información necesito para mis CFDI en el PODEBI?",
+    "¿Qué leyenda debo incluir en mis CFDI de ingresos?",
+    "¿Cuándo debo aplicar el estímulo fiscal en mis declaraciones?",
+    "¿Qué es el PODEBI y cómo afecta mis impuestos?",
+    "¿Qué son los CFDI de tipo ingreso y pago?"
   ]
 }

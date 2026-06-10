@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:54d8f5713540e981",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de productores e importadores de tabacos y productos con nicotina",
+  "denominacion_comun": "Claves de marcas de productos con nicotina",
   "temas": [
+    "productores de tabacos",
+    "importadores de productos con nicotina",
     "asignación de claves",
-    "nuevas marcas",
-    "aviso de renovación",
+    "renovación de claves",
+    "avisos fiscales",
     "catálogos de marcas",
-    "derechos de comercialización",
-    "actualización de datos"
+    "actualización de datos",
+    "sanciones por incumplimiento"
   ],
   "terminos_coloquiales": [
-    "claves de marcas de tabacos",
-    "aversión de marcas",
-    "disposiciones sobre tabacos",
-    "RMF 2026",
-    "IEPS"
+    "productos de tabaco",
+    "marcas de tabaco",
+    "nicotina",
+    "aviso de marcas",
+    "ficha de trámite IEPS",
+    "MULTI-IEPS"
   ],
-  "resumen": "Los productores e importadores de productos que contengan nicotina deben asignar claves a nuevas marcas y renovar anualmente su registro. También deben actualizar datos relevantes como cambio de razón social o modificación en su actividad económica.",
+  "resumen": "Los productores e importadores de tabacos y productos con nicotina deben asignar claves a nuevas marcas y presentar un aviso. También deben renovar estas claves cada año y actualizar sus datos cuando haya cambios relevantes. Si no cumplen, pueden ser dados de baja de los catálogos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si lanzo una nueva marca de tabacos?",
-    "¿Cómo renuevo la clave de una marca de productos con nicotina?",
-    "¿Cuáles son mis obligaciones si cambio de razón social?",
-    "¿Qué sucede si no presento el aviso de renovación?",
-    "¿Dónde encuentro el catálogo de marcas de tabacos?"
+    "¿Cómo asigno una nueva clave para mi marca de tabaco?",
+    "¿Qué avisos tengo que presentar anualmente para mis productos de nicotina?",
+    "¿Qué pasa si no renuevo la clave de mi marca de tabaco?",
+    "¿Cómo actualizo mis datos en el registro de productos con nicotina?",
+    "¿Cuáles son las consecuencias de no presentar avisos en cinco años?"
   ]
 }

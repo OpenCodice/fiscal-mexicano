@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:130bc9b0b9503c9e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción en el RFC para entidades financieras y SOCAP",
+  "denominacion_comun": "Información de Cuentahabientes y Socios",
   "temas": [
-    "entidades financieras",
-    "SOCAP",
     "RFC",
-    "información de cuentahabientes",
-    "obligaciones del SAT"
+    "Cuentahabientes",
+    "SOCAP",
+    "Informes al SAT",
+    "Domicilio",
+    "Correo electrónico",
+    "Número de teléfono"
   ],
   "terminos_coloquiales": [
     "inscripción en el RFC",
-    "entidades financieras",
+    "banco",
+    "entidad financiera",
     "SOCAP",
-    "SAT",
     "información de clientes"
   ],
-  "resumen": "Las entidades financieras y las SOCAP deben obtener información de sus cuentahabientes que están inscritos en el RFC, incluyendo datos como domicilio, correo electrónico y número de teléfono, para proporcionarla al SAT.",
+  "resumen": "Las entidades financieras y las SOCAP deben obtener y proporcionar al SAT información de sus cuentahabientes o socios que están inscritos en el RFC, incluyendo datos como domicilio, correo electrónico y número de teléfono.",
   "preguntas_ejemplo": [
-    "¿Qué información deben recolectar las entidades financieras de sus clientes?",
-    "¿Qué obligaciones tienen las SOCAP respecto al RFC?",
-    "¿Cómo afecta la inscripción en el RFC a los cuentahabientes de entidades financieras?",
-    "¿Qué datos debe dar un cuentahabiente al SAT a través de su entidad financiera?",
-    "¿Qué artículos del CFF se relacionan con el registro en el RFC?"
+    "¿Qué información deben proporcionar los bancos al SAT sobre sus clientes?",
+    "¿Los SOCAP tienen que dar informes al SAT?",
+    "¿Qué datos se requieren para la inscripción en el RFC?",
+    "¿Cómo se registran los datos de contacto en el RFC?",
+    "¿Qué entidades están obligadas a reportar información al SAT?"
   ]
 }

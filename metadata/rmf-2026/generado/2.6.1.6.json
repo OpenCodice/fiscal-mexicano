@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c961404194fd4e96",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Poder calorífico y octanaje",
+  "denominacion_comun": "Poder calorífico y octanaje de hidrocarburos",
   "temas": [
-    "hidrocarburos",
-    "gas natural",
-    "gasolina",
-    "calidad de combustibles",
-    "dictámenes de laboratorio",
-    "acreditación",
-    "ensayos y muestreo"
-  ],
-  "terminos_coloquiales": [
     "poder calorífico",
     "octanaje",
     "gas natural",
-    "calidad de gas",
-    "dictámenes de hidrocarburos",
-    "Anexo 23"
+    "gasolina",
+    "hidrocarburos",
+    "dictámenes",
+    "laboratorios acreditados"
   ],
-  "resumen": "Los dictámenes para determinar el tipo de hidrocarburo, el poder calorífico del gas natural y el octanaje de la gasolina deben ser emitidos por laboratorios acreditados y cumplir con los procedimientos establecidos en un anexo específico.",
+  "terminos_coloquiales": [
+    "poder calorífico",
+    "octanaje de gasolina",
+    "gas natural",
+    "dictamen de calidad",
+    "CFF",
+    "RMF"
+  ],
+  "resumen": "Esta disposición establece que los dictámenes sobre el tipo de hidrocarburo, el poder calorífico del gas natural y el octanaje en gasolina deben ser emitidos por un laboratorio acreditado. Los dictámenes deben seguir los métodos de ensayo establecidos y pueden requerir aprobación de la Secretaría de Economía o de la SENER.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el poder calorífico del gas natural?",
-    "¿Qué requisitos debe cumplir un laboratorio para emitir dictámenes de calidad en combustibles?",
-    "¿Qué es el octanaje y por qué es importante en la gasolina?",
-    "¿Dónde encuentro los métodos de ensayo para el muestreo de hidrocarburos?",
-    "¿Cuáles son las normativas que regulan la calidad de los hidrocarburos?"
+    "¿Qué es el poder calorífico del gas natural?",
+    "¿Cómo se determina el octanaje de la gasolina?",
+    "¿Qué laboratorios están certificados para hacer dictámenes de hidrocarburos?",
+    "¿Qué se necesita para emitir un dictamen sobre gasolina?",
+    "¿Cuáles son los requisitos para los laboratorios que prueban hidrocarburos?"
   ]
 }

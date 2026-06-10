@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f5af96df3601c456",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de contador público",
   "temas": [
-    "Dictamen fiscal",
-    "Contador público inscrito",
-    "Contribuyentes",
-    "Buzón tributario",
-    "Procedimiento de desacuerdo"
+    "dictamen fiscal",
+    "contador público inscrito",
+    "buzón tributario",
+    "reclamo del contribuyente",
+    "identificación del contribuyente",
+    "razones para no aceptar dictamen"
   ],
   "terminos_coloquiales": [
-    "Dictamen fiscal",
-    "Contador fiscal",
-    "Aviso de desacuerdo"
+    "dictamen",
+    "contador fiscal",
+    "buzón de impuestos",
+    "razones por las que no estoy de acuerdo"
   ],
-  "resumen": "Cuando un contribuyente no acepta el dictamen de su contador público inscrito, este puede presentar un aviso en el buzón tributario explicando las razones del desacuerdo. El aviso debe contener información específica del contribuyente y del contador.",
+  "resumen": "La regla establece que si un contribuyente no acepta el dictamen de su contador público inscrito, este último puede presentar un aviso a través del buzón tributario explicando las razones de la discrepancia. El aviso debe incluir datos de identificación del contribuyente y del contador.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no estoy de acuerdo con el dictamen de mi contador?",
-    "¿Cómo puedo manifestar mi desacuerdo con el dictamen fiscal?",
-    "¿Qué datos debo incluir en el aviso de desacuerdo?",
-    "¿Cuándo debo presentar el aviso en el buzón tributario?"
+    "¿Cómo puedo manifestar mi desacuerdo con un dictamen fiscal?",
+    "¿Qué información debo proporcionar si presento un aviso en el buzón tributario?",
+    "¿Cuándo debo presentar el aviso de desacuerdo con el dictamen?",
+    "¿Qué es un dictamen de contador público inscrito?"
   ]
 }

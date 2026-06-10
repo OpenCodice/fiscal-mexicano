@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e44cfc59c8bf34c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos Provisionales RESICO",
+  "denominacion_comun": "Pagos provisionales del Régimen Simplificado de Confianza",
   "temas": [
-    "Impuesto sobre la renta",
-    "Régimen Simplificado de Confianza",
-    "Personas morales",
-    "Declaración ISR de confianza",
-    "Pagos provisionales",
-    "Información prellenada",
-    "Complementarias"
+    "personas morales",
+    "impuesto sobre la renta",
+    "pagos provisionales",
+    "declaración ISR de confianza",
+    "comprobantes fiscales",
+    "e.firma",
+    "declaraciones complementarias"
   ],
   "terminos_coloquiales": [
-    "Pagos provisionales",
-    "ISR de confianza",
+    "pago de impuestos",
+    "declaración de impuestos",
     "RESICO",
-    "Declaración mensual",
-    "Régimen Simplificado"
+    "cita en el SAT",
+    "declaración prellenada"
   ],
-  "resumen": "Las personas morales en el Régimen Simplificado de Confianza deben presentar mensualmente sus pagos provisionales del impuesto a través de una declaración específica que ya vendrá con información prellenada. Si necesitan modificar algún dato, deben hacer declaraciones complementarias.",
+  "resumen": "Las personas morales del Régimen Simplificado de Confianza deben presentar mensualmente sus pagos provisionales del ISR mediante una declaración prellenada. La declaración incluye información de sus comprobantes fiscales y puede ser corregida si es necesario.",
   "preguntas_ejemplo": [
-    "¿Cómo hago mis pagos provisionales en el RESICO?",
-    "¿Qué es la declaración ISR de confianza?",
-    "¿Qué información necesito para mis pagos provisionales?",
-    "¿Puedo modificar mi declaración prellenada?",
-    "¿Cuándo debo presentar mis pagos provisionales?"
+    "¿Cómo hago mis pagos provisionales si estoy en el RESICO?",
+    "¿Qué necesito para presentar mi declaración ISR de confianza?",
+    "¿Cómo se modifica la información prellenada en la declaración?",
+    "¿Qué es la e.firma y cómo se usa para enviar la declaración?",
+    "¿Dónde puedo hacer mi cita para presentar la declaración en el SAT?"
   ]
 }

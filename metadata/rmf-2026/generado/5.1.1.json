@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8c76916e64522d7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Peso total de tabacos labrados",
+  "denominacion_comun": "Peso de tabacos labrados",
   "temas": [
-    "IEPS",
+    "impuestos",
     "tabacos labrados",
-    "peso específico",
-    "cálculo de impuestos"
+    "cuota específica",
+    "calculo de peso",
+    "enajenación",
+    "importación"
   ],
   "terminos_coloquiales": [
     "peso de tabacos",
-    "IEPS tabacos",
-    "tabacos labrados"
+    "tabacos",
+    "IEPS"
   ],
-  "resumen": "Se establece que el peso total de los tabacos labrados enajenados o importados se debe calcular en gramos y dividirse entre 0.75 para determinar el peso sobre el que se aplicará la cuota específica del IEPS.",
+  "resumen": "La disposición establece que el peso total de los tabacos labrados enajenados o importados se debe calcular en gramos y dividir entre 0.75 para determinar la base sobre la cual se aplicará la cuota específica del impuesto. Es un procedimiento importante para la correcta tributación del IEPS sobre tabacos labrados.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el peso de los tabacos labrados para el IEPS?",
-    "¿Qué fórmula se usa para el peso total de tabacos labrados?",
-    "¿Qué significa dividir el peso de tabacos entre 0.75?",
-    "¿Cuál es la cuota específica para los tabacos labrados?"
+    "¿Qué es el peso total de tabacos labrados?",
+    "¿Cómo se aplica la cuota específica para tabacos?",
+    "¿Qué normas regulan el impuesto sobre tabacos labrados?",
+    "¿Qué debo considerar al importar tabacos labrados?"
   ]
 }

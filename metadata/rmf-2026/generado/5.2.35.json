@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f60a9739629655cf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Servicio Autorizado en IEPS",
+  "denominacion_comun": "Obligaciones de los Contribuyentes del IEPS",
   "temas": [
-    "obligaciones contribuyentes",
     "Proveedor de Servicio Autorizado",
-    "informe en tiempo real",
-    "inicio de actividades",
-    "acceso a instalaciones",
-    "avisos y trámites",
-    "rescisión de contrato"
+    "información en línea",
+    "SAT",
+    "obligaciones fiscales",
+    "sistemas de cómputo",
+    "contratación de servicios"
   ],
   "terminos_coloquiales": [
     "PSA",
-    "figuración de servicios",
-    "informe SAT",
-    "servicios autorizados IEPS"
+    "servicios del SAT",
+    "cumplir con el IEPS",
+    "informar al SAT",
+    "sistemas en tiempo real",
+    "juegos de apuestas"
   ],
-  "resumen": "Los contribuyentes que inicien actividades después de la publicación de esta regla pueden optar por contratar un Proveedor de Servicio Autorizado para enviar información al SAT de forma permanente. Deben presentar un aviso al iniciar actividades y permitir el acceso al Órgano Certificador para garantizar el cumplimiento.",
+  "resumen": "Los contribuyentes que inician actividades pueden usar un Proveedor de Servicio Autorizado para enviar información al SAT. Deben presentar un aviso dentro de los 15 días de inicio de actividades y permitir el acceso a sus instalaciones para verificación. Si no lo hacen, deben seguir los procedimientos del IEPS tradicional.",
   "preguntas_ejemplo": [
-    "¿Qué es un Proveedor de Servicio Autorizado en el contexto del IEPS?",
-    "¿Cómo puedo cumplir mis obligaciones fiscales si inicio actividades después de la publicación de la regla?",
-    "¿Qué debo hacer si decido contratar a un Proveedor de Servicio Autorizado?",
-    "¿Cuáles son las consecuencias de no presentar el aviso al SAT a tiempo?",
-    "¿Puedo cambiar de Proveedor de Servicio Autorizado sin afectar mis obligaciones fiscales?",
-    "¿Qué información tengo que enviar al SAT y cómo?"
+    "¿Qué es un Proveedor de Servicio Autorizado?",
+    "¿Qué debo hacer si inicio actividades para cumplir con el IEPS?",
+    "¿Cómo informo al SAT usando un PSA?",
+    "¿Cuándo debo presentar el aviso de contratación de un PSA?",
+    "¿Qué pasa si no contrato un PSA para el IEPS?"
   ]
 }

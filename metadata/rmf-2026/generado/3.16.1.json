@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:31223ebf9a90ad51",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Costo promedio ponderado de títulos en moneda extranjera",
@@ -13,22 +14,24 @@
     "costo promedio ponderado",
     "títulos",
     "moneda extranjera",
-    "adquisición",
+    "sistema financiero",
     "tipo de cambio",
-    "sistema financiero"
+    "adquisición de títulos",
+    "reglamento de ISR"
   ],
   "terminos_coloquiales": [
-    "costo promedio",
+    "costo de títulos",
     "títulos en dólares",
-    "costo de adquisición",
-    "tipo de cambio para títulos"
+    "cálculo de costos de inversiones",
+    "cambio de moneda",
+    "INPC"
   ],
-  "resumen": "La regla establece cómo calcular el costo promedio ponderado de adquisición de títulos denominados en moneda extranjera, utilizando el tipo de cambio adecuado para convertir su valor a pesos. También detalla cómo realizar este cálculo en caso de nuevas adquisiciones de títulos.",
+  "resumen": "La regla establece cómo calcular el costo promedio ponderado de adquisición de títulos en moneda extranjera, considerando el precio inicial en moneda nacional y el tipo de cambio correspondiente. Las instituciones financieras deben ajustar este costo con cada nueva adquisición y conforme a la variación del INPC.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo promedio ponderado de títulos en moneda extranjera?",
-    "¿Qué tipo de cambio debo usar para los títulos denominados en dólares?",
-    "¿Cuándo se debe recalcular el costo promedio de mis títulos?",
-    "¿Qué reglas debo seguir para calcular el costo promedio ponderado?",
-    "¿Cómo se convierte el precio de adquisición de títulos a moneda nacional?"
+    "¿Cómo se calcula el costo promedio de mis títulos en dólares?",
+    "¿Qué tipo de cambio debo usar para mis inversiones en moneda extranjera?",
+    "¿Cómo actualizo el costo de adquisición de mis títulos después de comprarlos?",
+    "¿Qué reglas sigo para calcular el costo promedio ponderado de mis inversiones?",
+    "¿Cuándo debo recalcular el costo de mis títulos en moneda extranjeras?"
   ]
 }

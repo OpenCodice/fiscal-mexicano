@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b3a3253fc92d801e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reducción de multas fiscales",
   "temas": [
     "multas fiscales",
-    "reducción de multas",
-    "pago de impuestos",
+    "facultades de comprobación",
     "obligaciones fiscales",
-    "facultades de comprobación"
+    "plazo de pago",
+    "reducción de multas",
+    "autodeterminados",
+    "impugnación de crédito fiscal"
   ],
   "terminos_coloquiales": [
+    "multas",
+    "sanciones fiscales",
     "reducción de multas",
-    "multas fiscales",
     "CFF",
     "RMF"
   ],
-  "resumen": "La regla establece condiciones para la reducción de multas fiscales, indicando que el contribuyente debe realizar ciertos pagos dentro de un plazo específico tras la autorización de la reducción. Si se impugna el crédito o se solicita un procedimiento de resolución de controversias, la reducción perderá validez.",
+  "resumen": "Esta disposición establece las condiciones bajo las cuales un contribuyente puede obtener la reducción de multas fiscales. Se detalla el procedimiento y los plazos para el pago de impuestos y multas, así como las consecuencias de impugnar el crédito correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir las multas fiscales que tengo?",
-    "¿Qué debo hacer para que se apliquen las reducciones de multas?",
-    "¿Qué sucede si impugno el acto administrativo después de la reducción de multas?",
-    "¿Cuáles son los plazos para el pago de multas reducidas?",
-    "¿Qué multas son elegibles para reducción según la regla 2.14.7?"
+    "¿Cómo puedo reducir una multa fiscal?",
+    "¿Qué plazos tengo para pagar una multa después de su notificación?",
+    "Si impugno una multa, ¿pierdo la reducción que ya me autorizó la autoridad?",
+    "¿Qué debo hacer para acceder a la reducción de multas fiscales?",
+    "¿Cuáles son las obligaciones fiscales que pueden llevar a multas?",
+    "¿Qué es el procedimiento de resolución de controversias?"
   ]
 }

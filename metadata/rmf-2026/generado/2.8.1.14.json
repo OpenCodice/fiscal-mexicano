@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0d74a780e1f4424",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de ingresos y gastos en Mis Cuentas",
+  "denominacion_comun": "Registro de ingresos y gastos en Mis cuentas",
   "temas": [
-    "Asociaciones Religiosas",
+    "Asociaciones religiosas",
     "Contabilidad electrónica",
-    "Mis cuentas",
-    "RFC",
-    "Casos de aclaración"
+    "Registro de ingresos y gastos",
+    "Casos de aclaración",
+    "RFC"
   ],
   "terminos_coloquiales": [
     "Mis cuentas",
-    "registro de ingresos",
-    "registro de gastos",
-    "contabilidad simplificada",
+    "contabilidad mensual",
+    "SAT",
+    "CFF",
     "caso de aclaración"
   ],
-  "resumen": "Las Asociaciones Religiosas pueden optar por usar la herramienta 'Mis cuentas' para simplificar su contabilidad electrónica y no tener que presentarla mensualmente. Deben presentar un caso de aclaración en el Portal del SAT para ejercer esta opción.",
+  "resumen": "Las Asociaciones Religiosas pueden optar por usar la herramienta 'Mis cuentas' para no presentar su contabilidad electrónica mensual ante el SAT. Deben hacer esta elección mediante un caso de aclaración en el portal del SAT antes de febrero de 2026.",
   "preguntas_ejemplo": [
-    "¿Cómo registro mis ingresos y gastos en Mis cuentas?",
-    "¿Qué deben hacer las asociaciones religiosas para usar Mis cuentas?",
-    "¿Qué es un caso de aclaración en el Portal del SAT?",
-    "¿Cuándo debo presentar el caso de aclaración?",
-    "¿Qué beneficios tiene usar Mis cuentas para asociaciones religiosas?"
+    "¿Cómo puedo registrar mis ingresos y gastos en Mis cuentas?",
+    "¿Qué debo hacer si soy una Asociación Religiosa y quiero usar Mis cuentas?",
+    "¿Cuál es el plazo para presentar un caso de aclaración al SAT?",
+    "¿Qué sucede si actualizo mi RFC después de la fecha límite?",
+    "¿Los ingresos y gastos se tienen que reportar mensualmente?"
   ]
 }

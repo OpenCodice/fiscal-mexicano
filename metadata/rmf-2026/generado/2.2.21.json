@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:116e5e255c7f4563",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Trámites de e.firma y RFC",
@@ -13,27 +14,26 @@
     "e.firma",
     "RFC",
     "fedatarios públicos",
-    "validación de documentos",
     "requerimientos fiscales",
-    "caso de aclaración",
-    "notificaciones",
-    "plazos de respuesta"
+    "validación de documentos",
+    "inscripción de personas morales",
+    "caso de aclaración"
   ],
   "terminos_coloquiales": [
     "firma electrónica",
-    "Registro Federal de Contribuyentes",
-    "RFC",
-    "e.firma",
-    "validación de documentos",
-    "requerimiento de fedatarios",
-    "validación de fedatarios"
+    "inscripción en el RFC",
+    "trámite de e.firma",
+    "documentos fiscales",
+    "buzón tributario",
+    "VALID FED PUBLICO"
   ],
-  "resumen": "Los fedatarios públicos deben responder a requerimientos de la autoridad fiscal para validar información presentada por contribuyentes sobre e.firma y RFC. Tienen un plazo establecido para enviar la documentación solicitada a través del Portal del SAT.",
+  "resumen": "La disposición establece que los fedatarios públicos deben atender los requerimientos de la autoridad fiscal para validar información presentada por contribuyentes en trámites de e.firma y RFC. Esto incluye el envío de documentación mediante un caso de aclaración en el Portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo validar mi e.firma?",
-    "¿Qué obligaciones tienen los fedatarios públicos con respecto al RFC?",
-    "¿Qué hacer si no recibo respuesta de mi fedatario público?",
-    "¿Cuál es el procedimiento para atender un requerimiento fiscal?",
-    "¿Qué documentación necesito para el trámite de mi e.firma?"
+    "¿Qué debo hacer para validar mi e.firma?",
+    "¿Cómo me inscribo en el RFC como persona moral?",
+    "¿Qué información necesita la autoridad fiscal de los fedatarios públicos?",
+    "¿Qué es un caso de aclaración en el SAT?",
+    "¿Cómo respondo a un requerimiento de la autoridad fiscal?",
+    "¿Qué pasa si no respondo a un requerimiento de un fedatario público?"
   ]
 }

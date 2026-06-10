@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea2db248df6bbf01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajuste por inflación en operaciones derivadas",
   "temas": [
-    "Impuesto sobre la renta",
-    "Operaciones derivadas",
-    "Créditos y deudas",
+    "Impuesto sobre la Renta",
+    "Ajuste por inflación",
+    "Operaciones derivadas estandarizadas",
     "Saldo promedio anual",
-    "Valuación a mercado"
+    "Ganancias y pérdidas",
+    "Valuación a mercado",
+    "Costos de fondeo"
   ],
   "terminos_coloquiales": [
-    "Ajuste por inflación",
-    "Operaciones estandarizadas",
-    "Ley del ISR",
-    "LISR",
-    "RMF"
+    "ajuste por inflación",
+    "operaciones derivadas",
+    "créditos y deudas",
+    "saldo promedio",
+    "ganancias",
+    "pérdidas"
   ],
-  "resumen": "La disposición establece cómo los clientes deben calcular el saldo promedio anual de créditos y deudas relacionado con las ganancias o pérdidas de operaciones derivadas estandarizadas, considerando la variación del costo de fondeo. Esto se realiza a través de la suma de saldos diarios dividida entre el número de días del ejercicio fiscal.",
+  "resumen": "La disposición establece cómo los clientes deben calcular el saldo promedio anual de créditos y deudas relacionadas con las operaciones derivadas estandarizadas. Este cálculo incluye las ganancias y pérdidas del margen por variación del costo de fondeo, utilizando la valuación a mercado diaria de dichas operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el saldo promedio anual de mis operaciones derivadas?",
-    "¿Qué es el ajuste por inflación en la Ley del ISR?",
-    "¿Cómo afectan las ganancias o pérdidas de las operaciones estandarizadas mis créditos y deudas?",
-    "¿Qué disposiciones debo seguir para la valuación a mercado de mis operaciones derivadas?",
-    "¿Cuáles son las reglas para el cálculo de saldos de operaciones derivadas?"
+    "¿Cómo se calcula el saldo promedio anual en operaciones derivadas?",
+    "¿Qué son las operaciones derivadas estandarizadas?",
+    "¿Cómo afecta el ajuste por inflación en el impuesto sobre la renta?",
+    "¿Qué se considera en la valuación a mercado diaria?",
+    "¿Cuáles son las ganancias y pérdidas en operaciones derivadas?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03e17b3b408f191f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para certificados bursátiles",
+  "denominacion_comun": "Fideicomisos para inversión",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Distribución de ganancias",
-    "Fideicomisos",
-    "Información fiscal",
-    "Retención de ISR",
-    "Certificados bursátiles",
-    "Intermediarios financieros"
+    "certificados bursátiles fiduciarios",
+    "ISR",
+    "fiduciaria",
+    "intermediarios financieros",
+    "retención de impuestos",
+    "constancia fiscal",
+    "información fiscal"
   ],
   "terminos_coloquiales": [
-    "fideicomisos",
-    "certificados bursátiles",
-    "ISR",
-    "certificados de inversión"
+    "fideicomisos de inversión",
+    "certificados",
+    "retención de ISR",
+    "constancia de retención",
+    "inversiones en fideicomisos"
   ],
-  "resumen": "La regla establece las obligaciones de la fiduciaria y los intermediarios financieros al distribuir ganancias de fideicomisos que manejan certificados bursátiles. Se debe proporcionar información fiscal a los tenedores y presentar constancias sobre ISR retenido.",
+  "resumen": "La regla establece las obligaciones de la fiduciaria, la institución para el depósito de valores y el intermediario financiero en relación con la información y retención de impuestos sobre ingresos generados por certificados bursátiles fiduciarios. También se indica cómo proporcionar constancias a los tenedores de certificados y al SAT.",
   "preguntas_ejemplo": [
-    "¿Qué información debo recibir sobre los certificados bursátiles?",
-    "¿Cómo se retiene el ISR en los fideicomisos?",
-    "¿Qué pasa si no sé quién recibió los ingresos de los certificados bursátiles?",
-    "¿Qué fechas son importantes para la presentación de información al SAT?",
-    "¿Qué datos debe contener la constancia que me dan por los certificados bursátiles?"
+    "¿Qué información debe proporcionar la fiduciaria sobre los certificados bursátiles?",
+    "¿Cómo se retiene el ISR en los ingresos de fideicomisos?",
+    "¿Qué documentos debo recibir como tenedor de un certificado bursátil fiduciario?",
+    "¿Cuándo y cómo se debe presentar la información al SAT?",
+    "¿Qué sucede si el intermediario no sabe quién es el titular de los ingresos?"
   ]
 }

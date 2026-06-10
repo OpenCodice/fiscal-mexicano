@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e42c2c5f80f61eed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cédula de identificación fiscal y constancia de situación fiscal",
   "temas": [
-    "Cédula de identificación fiscal",
-    "Constancia de situación fiscal",
-    "Trámites fiscales",
-    "Portal del SAT",
-    "Procedimientos fiscales"
+    "cédula de identificación fiscal",
+    "constancia de situación fiscal",
+    "trámites fiscales",
+    "SAT",
+    "procedimientos fiscales"
   ],
   "terminos_coloquiales": [
-    "Cédula fiscal",
-    "Constancia fiscal",
-    "CIF",
-    "RFC"
+    "cédula fiscal",
+    "constancia fiscal",
+    "sacar cédula",
+    "sacar constancia",
+    "CIF"
   ],
-  "resumen": "La cédula de identificación fiscal y la constancia de situación fiscal son documentos que se pueden obtener a través del Portal del SAT siguiendo procedimientos específicos. Estos documentos son necesarios para cumplir con las disposiciones fiscales del artículo 27 del CFF.",
+  "resumen": "La cédula de identificación fiscal y la constancia de situación fiscal son documentos que se obtienen a través del Portal del SAT. Se debe seguir un procedimiento específico para generar la constancia que incluye la cédula.",
   "preguntas_ejemplo": [
-    "¿Cómo obtengo mi cédula de identificación fiscal?",
+    "¿Cómo puedo obtener mi cédula de identificación fiscal?",
     "¿Qué es la constancia de situación fiscal?",
-    "¿Dónde puedo encontrar la cédula fiscal en el SAT?",
-    "¿Cuáles son los requisitos para generar la constancia fiscal?",
-    "¿Qué información contiene la cédula de identificación fiscal?"
+    "¿Dónde encuentro la información para sacar mi cédula fiscal?",
+    "¿Cuáles son los trámites para obtener la constancia fiscal?",
+    "¿Qué pasos debo seguir para generar la constancia de situación fiscal?"
   ]
 }

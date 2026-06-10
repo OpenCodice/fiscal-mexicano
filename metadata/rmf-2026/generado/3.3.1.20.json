@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:91fd6de25b2b232e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Monederos electrónicos de vales de despensa",
   "temas": [
-    "Autorización",
-    "Verificación",
-    "Cumplimiento de requisitos",
-    "Sistemas de seguridad",
-    "Incumplimientos",
-    "Oficio de opinión técnica",
-    "Diligencias",
-    "Plazos"
+    "verificación fiscal",
+    "emisores autorizados",
+    "cumplimiento de requisitos",
+    "sistemas de seguridad",
+    "plazo de acreditación",
+    "opinión técnica",
+    "incumplimientos"
   ],
   "terminos_coloquiales": [
-    "Vale de despensa",
-    "Monedero electrónico",
-    "Verificación de vales",
-    "MAS Vales",
-    "Emisores autorizados"
+    "vales de despensa",
+    "monederos electrónicos",
+    "verificación de vales",
+    "SAT",
+    "ACS",
+    "AGCTI"
   ],
-  "resumen": "La regla establece el proceso para que el SAT verifique que los emisores de monederos electrónicos de vales de despensa cumplan con sus obligaciones. Si se detectan incumplimientos, se les da un plazo para que los solventen y, de lo contrario, pueden perder su autorización.",
+  "resumen": "La regla establece el procedimiento para la verificación del cumplimiento de requisitos y obligaciones de los emisores de monederos electrónicos de vales de despensa. Si un emisor no cumple, se le notificará y tendrá un plazo para solventar las fallas detectadas; de no hacerlo, podría perder su autorización.",
   "preguntas_ejemplo": [
-    "¿Cómo se verifica a los emisores de monederos electrónicos?",
-    "¿Qué sucede si un emisor de vales de despensa no cumple con los requisitos?",
-    "¿Cuánto tiempo tienen los emisores para corregir incumplimientos?",
-    "¿Qué es el oficio de opinión técnica en la verificación de vales?",
-    "¿Cuáles son las consecuencias de no solventar incumplimientos en la verificación?"
+    "¿Cómo verifica el SAT a los emisores de vales de despensa?",
+    "¿Qué pasa si un emisor de monederos electrónicos incumple con los requisitos?",
+    "¿Cuál es el procedimiento después de la verificación de vales de despensa?",
+    "¿Qué sucede si no presento la información requerida en el plazo?",
+    "¿Qué implica tener autorización para emitir monederos electrónicos?"
   ]
 }

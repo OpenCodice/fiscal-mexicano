@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0e5badf5f659210",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Marbetes y Precintos en IEPS",
+  "denominacion_comun": "Marbetes y precintos en bebidas alcohólicas",
   "temas": [
     "pérdida de marbetes",
-    "destrucción de precintos",
-    "aviso al SAT",
-    "caso fortuito",
-    "fuente de bebidas alcohólicas"
+    "precintos",
+    "cancelación de marbetes",
+    "destrucción de marbetes",
+    "avisos al SAT",
+    "marbetes físicos",
+    "marbetes electrónicos"
   ],
   "terminos_coloquiales": [
-    "marbetes perdidos",
-    "precintos dañados",
     "robo de marbetes",
-    "solicitud de marbetes",
-    "IEPS"
+    "perder un marbete",
+    "cancelar marbetes",
+    "destruir marbetes",
+    "marbetes para alcohol"
   ],
-  "resumen": "La regla establece que si se pierden marbetes o precintos por casos fortuitos, se debe avisar al SAT dentro de los quince días y detallar los números de folios. También se indica cómo proceder con marbetes no utilizados o deteriorados y que deben ser destruidos.",
+  "resumen": "La regla establece los procedimientos que deben seguir los contribuyentes en caso de robo, pérdida o deterioro de marbetes y precintos para bebidas alcohólicas. Se requiere un aviso al SAT y la destrucción de los marbetes no utilizados o vencidos.",
   "preguntas_ejemplo": [
-    "¿Qué hago si me roban mis marbetes?",
-    "¿Cómo reporto la pérdida de un precinto?",
-    "¿Cuáles son los pasos para destruir marbetes no utilizados?",
-    "¿Debo avisar al SAT si mi marbete está dañado?",
-    "¿Qué documentación necesito para un aviso de robo de marbetes?"
+    "¿Qué hago si se me pierde un marbete?",
+    "¿Cómo cancelo un marbete que ya no voy a usar?",
+    "¿Qué requisitos necesito para reportar un robo de marbetes?",
+    "¿Cuándo debo destruir los marbetes que no usé?",
+    "¿Qué información debo proporcionar al SAT sobre mis marbetes?"
   ]
 }

@@ -6,24 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c939d83aa0146ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Regla 11.9.23. Simplificado de Confianza",
+  "denominacion_comun": "Estímulos fiscales región fronteriza",
   "temas": [
-    "Estímulos fiscales",
-    "ISR",
-    "Contribuyentes",
-    "Zona fronteriza"
+    "impuesto sobre la renta",
+    "contribuyentes",
+    "región fronteriza norte",
+    "región fronteriza sur",
+    "estímulos fiscales"
   ],
   "terminos_coloquiales": [
-    "Regla 11.9.23",
-    "Simplificado de Confianza",
-    "RESICO"
+    "exención de impuestos",
+    "región fronteriza",
+    "ISR",
+    "decreto de estímulos",
+    "decreto frontera norte",
+    "decreto frontera sur"
   ],
-  "resumen": "La regla establece restricciones para los contribuyentes que tributan bajo el régimen simplificado, indicando que no pueden aplicar ciertos estímulos fiscales en ISR si optan por pagar bajo el artículo mencionado.",
+  "resumen": "Los contribuyentes que tributan bajo un régimen específico no pueden aplicar ciertos estímulos fiscales establecidos por los decretos de la región fronteriza norte y sur sobre ingresos que eligen gravar conforme al artículo correspondiente de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Qué estímulos fiscales no puedo aplicar si soy del régimen simplificado?",
-    "¿Los contribuyentes en la frontera pueden usar estímulos fiscales?",
-    "¿Qué dice la regla 11.9.23 sobre los ingresos del régimen simplificado?"
+    "¿Qué son los estímulos fiscales en la región fronteriza?",
+    "¿Puedo aplicar los estímulos fiscales del decreto si tributo en la región fronteriza?",
+    "¿Qué aporta el artículo 113-I de la Ley del ISR?",
+    "¿Qué ingresos están excluidos de los estímulos fiscales en la frontera?",
+    "¿Cuáles son los decretos que regulan los estímulos fiscales en la frontera?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1bb98afd07d72b57",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsable Solidario",
+  "denominacion_comun": "Responsable solidario",
   "temas": [
     "aseguramiento precautorio",
-    "bienes",
     "terceros relacionados",
-    "contribuyente",
-    "monto de operaciones",
-    "orden de prelación"
+    "valores de bienes",
+    "orden de prelación",
+    "comprobación fiscal"
   ],
   "terminos_coloquiales": [
     "responsable solidario",
     "aseguramiento de bienes",
-    "terceros relacionados",
-    "CFF 40-A"
+    "terceros del contribuyente"
   ],
-  "resumen": "La regla establece condiciones para el aseguramiento precautorio de bienes relacionados con un contribuyente o responsable solidario, específicamente cuando el valor del bien a asegurar supera un porcentaje de las operaciones del tercero involucrado.",
+  "resumen": "Esta disposición regula el aseguramiento precautorio de bienes en relación a los responsables solidarios, estableciendo criterios para determinar el momento en que se podrá realizar dicho aseguramiento. Se basa en el valor de los bienes y en la relación con el monto de operaciones realizadas con el contribuyente.",
   "preguntas_ejemplo": [
     "¿Qué es un responsable solidario?",
-    "¿Cuándo se puede asegurar un bien precautoriamente?",
-    "¿Qué condiciones deben cumplirse para el aseguramiento de bienes?",
-    "¿Qué relación hay entre el aseguramiento y los terceros relacionados?",
-    "¿Cómo se determina el monto de las operaciones para el aseguramiento?"
+    "¿Cómo se realiza el aseguramiento de bienes?",
+    "¿Qué criterios se usan para asegurar bienes de terceros?",
+    "¿Qué significa el orden de prelación en el aseguramiento?",
+    "¿Cuándo puede la autoridad fiscal asegurar bienes?"
   ]
 }

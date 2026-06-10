@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f99757a1e9bfb87d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Presentación de la DIM",
   "temas": [
     "DIM",
     "presentación de información",
-    "vía Internet",
-    "medios magnéticos",
+    "obligaciones fiscales",
     "anexos",
-    "registros",
-    "obligaciones fiscales"
+    "Portal del SAT",
+    "medios magnéticos",
+    "acuse de recibo electrónico"
   ],
   "terminos_coloquiales": [
-    "Declaración de Información Múltiple",
+    "declaración informativa",
     "DIM",
     "presentar la DIM",
-    "entregar la DIM",
-    "programa para la DIM"
+    "enviar la DIM",
+    "sistema del SAT"
   ],
-  "resumen": "Los contribuyentes deben presentar la Declaración de Información Múltiple (DIM) y sus anexos a través de Internet o en medios magnéticos, siguiendo un procedimiento específico según la cantidad de registros que deben reportar. Si son más de 40,000 registros, deben hacerlo en persona en una ADSC.",
+  "resumen": "Los contribuyentes deben presentar la DIM y sus anexos, ya sea por Internet o por medios magnéticos. Dependiendo del número de registros, pueden presentar la información a través del Portal del SAT o en una ADSC en dispositivos de almacenamiento.",
   "preguntas_ejemplo": [
     "¿Cómo presento la DIM?",
-    "¿Qué es la DIM y cómo se entrega?",
-    "¿Qué pasa si tengo más de 40,000 registros en la DIM?",
-    "¿Dónde obtengo el programa para presentar la DIM?",
-    "¿Puedo presentar la DIM en partes?",
-    "¿Qué información necesita la DIM?"
+    "¿Qué es la DIM y cómo la envío?",
+    "¿Qué hacer si tengo más de 40,000 registros en la DIM?",
+    "¿Dónde consigo el programa para presentar mi DIM?",
+    "¿Cuál es el procedimiento para enviar la DIM al SAT?"
   ]
 }

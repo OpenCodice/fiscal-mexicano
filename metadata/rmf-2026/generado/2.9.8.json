@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d9590f972b28d01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consultas en materia de precios de transferencia",
+  "denominacion_comun": "Consultas en precios de transferencia",
   "temas": [
     "análisis funcional",
-    "consultas fiscales",
-    "precios de transferencia",
-    "documentación contribuyente",
-    "facultades de la autoridad fiscal",
-    "información adicional",
-    "inspecciones oculares",
-    "mesa de trabajo"
+    "facultades de las autoridades fiscales",
+    "contraprestación",
+    "documentación de precios de transferencia",
+    "reglas de operación",
+    "SAT",
+    "consultas fiscales"
   ],
   "terminos_coloquiales": [
+    "consultas de precios",
     "precios de transferencia",
-    "consultas fiscales",
-    "CFF 34-A",
-    "ficha de trámite 119/CFF"
+    "análisis de precios",
+    "SAT",
+    "CFF 34-A"
   ],
-  "resumen": "Esta regla establece el procedimiento para que los contribuyentes realicen consultas sobre precios de transferencia, incluyendo la posibilidad de un análisis funcional por parte de la autoridad fiscal. Se busca asegurar que la información presentada sea suficiente y congruente para resolver la consulta.",
+  "resumen": "Esta regla establece el procedimiento para que los contribuyentes realicen consultas sobre precios de transferencia ante las autoridades fiscales, incluyendo el análisis funcional que se realizará en el domicilio fiscal del contribuyente. Las autoridades pueden solicitar información adicional y están obligadas a notificar al contribuyente sobre el análisis funcional.",
   "preguntas_ejemplo": [
     "¿Cómo puedo hacer una consulta sobre precios de transferencia?",
-    "¿Qué es un análisis funcional en las consultas fiscales?",
-    "¿Qué pasa si la autoridad fiscal considera insuficiente mi información?",
-    "¿Cuánto tiempo tardan las autoridades fiscales en realizar el análisis funcional?",
-    "¿Qué documentos debo presentar para consultas sobre precios de transferencia?"
+    "¿Qué información necesito para la consulta fiscal?",
+    "¿Qué es un análisis funcional en el contexto de precios de transferencia?",
+    "¿Cuánto tiempo tiene la autoridad para concluir el análisis funcional?",
+    "¿Qué pasa si me rehúso a colaborar con el análisis funcional?"
   ]
 }

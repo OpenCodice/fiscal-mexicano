@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d064c2fedfe40397",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Semillas en estado natural",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios",
-    "Botanas",
-    "Semillas",
-    "Exenciones",
-    "Tratamiento fiscal"
+    "IEPS",
+    "botanas",
+    "semillas",
+    "impuesto especial",
+    "productos alimenticios"
   ],
   "terminos_coloquiales": [
-    "semillas naturales",
-    "no son botanas",
+    "semillas",
+    "botanas",
     "IEPS"
   ],
-  "resumen": "Las semillas en estado natural no se consideran botanas para efectos del IEPS, incluso si han sido sometidas a algún proceso como secado o limpieza, siempre que no se les agreguen otros ingredientes.",
+  "resumen": "Las semillas en estado natural no se consideran botanas, incluso si han pasado por procesos como secado o limpieza, siempre que no se les agreguen otros ingredientes.",
   "preguntas_ejemplo": [
-    "¿Las semillas se consideran botanas para el IEPS?",
-    "¿Qué tratamiento fiscal tienen las semillas naturales?",
-    "¿Las semillas procesadas entran en la categoría de botanas?",
-    "¿Qué dice la ley sobre semillas en estado natural?",
-    "¿Las semillas secas están gravadas por el IEPS?"
+    "¿Las semillas son consideradas botanas para el IEPS?",
+    "¿Qué procesos pueden tener las semillas para no perder su carácter?",
+    "¿Se les puede añadir ingredientes a las semillas sin que dejen de ser botanas?",
+    "¿Cómo afectan las semillas al cálculo del IEPS?",
+    "¿Qué dice la ley sobre el tratamiento fiscal de las semillas?"
   ]
 }

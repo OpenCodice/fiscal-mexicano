@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:49d3ff081561c529",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Supuestos de no realizar actividades empresariales a través de fideicomisos",
+  "denominacion_comun": "Fideicomisos y actividades empresariales",
   "temas": [
     "fideicomisos",
     "ingresos pasivos",
     "actividades empresariales",
-    "Ley del ISR",
     "pagos provisionales",
     "donativos deducibles",
-    "fideicomisos de inversión"
+    "índices bursátiles",
+    "deuda",
+    "inversión en capital de riesgo"
   ],
   "terminos_coloquiales": [
-    "fideicomiso sin actividad empresarial",
-    "fideicomisos de inversión",
+    "fideicomiso",
     "ingresos pasivos",
-    "Ley del ISR",
-    "CFF",
-    "Regla 3.1.14"
+    "no actividades empresariales",
+    "donativos deducibles",
+    "fideicomisos de inversión",
+    "fideicomisos de deuda"
   ],
-  "resumen": "Esta disposición establece que se puede considerar que no se realizan actividades empresariales a través de un fideicomiso si los ingresos pasivos superan el 90% de los ingresos totales del fideicomiso. También detalla los fideicomisos que pueden optar por esta consideración y las condiciones específicas que deben cumplirse.",
+  "resumen": "Se establece que los fideicomisos pueden optar por no considerarse como realizando actividades empresariales si obtienen una mayoría de ingresos pasivos. Esto incluye ingresos por intereses, dividendos, ganancias de inversiones y arrendamientos. Además, se especifican casos donde se aplican condiciones especiales, como en fideicomisos que reciben donativos o replican índices bursátiles.",
   "preguntas_ejemplo": [
     "¿Cuándo un fideicomiso no se considera que realiza actividades empresariales?",
-    "¿Qué ingresos se consideran pasivos en un fideicomiso?",
-    "¿Qué requisitos debe cumplir un fideicomiso para no pagar impuestos?",
-    "¿Qué pasa si mis ingresos en un fideicomiso son principalmente pasivos?",
-    "¿Cómo se calculan los ingresos pasivos en un fideicomiso?",
-    "¿Qué tipo de fideicomisos están exentos de realizar actividades empresariales?"
+    "¿Qué porcentaje de ingresos pasivos necesita un fideicomiso para no hacer pagos provisionales?",
+    "¿Qué tipos de fideicomisos están exentos de considerarse como actividades empresariales?",
+    "¿Cómo se determinan los ingresos pasivos en un fideicomiso?",
+    "¿Qué sucede si un fideicomiso genera pérdidas fiscales?",
+    "¿Qué información debe proporcionar la fiduciaria a los fideicomisarios?"
   ]
 }

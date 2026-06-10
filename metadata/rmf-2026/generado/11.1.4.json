@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5c7726de9e9cab08",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opción de no llevar contabilidad para artistas",
+  "denominacion_comun": "Opción para artistas de no llevar contabilidad",
   "temas": [
     "artistas",
-    "contabilidad",
+    "no llevar contabilidad",
     "ISR",
-    "DIOT",
-    "enajenación de obras"
+    "donación de obras",
+    "exención de DIOT"
   ],
   "terminos_coloquiales": [
-    "artistas sin contabilidad",
-    "no llevar contabilidad",
-    "opción de contabilidad",
-    "ISR artistas",
-    "DIOT artistas"
+    "artistas que no llevan contabilidad",
+    "opción de contabilidad para artistas",
+    "no presentar DIOT",
+    "donar obras a la Federación"
   ],
-  "resumen": "Los artistas que se acojan a un decreto específico pueden optar por no llevar contabilidad si obtienen ingresos solamente por la venta de sus obras. Además, están exentos de presentar la DIOT ante el SAT.",
+  "resumen": "Los artistas pueden optar por no llevar contabilidad si sus ingresos provienen únicamente de la venta de sus obras. Al elegir esta opción, también quedan liberados de presentar la Declaración Informativa de Operaciones con Terceros (DIOT).",
   "preguntas_ejemplo": [
-    "¿Los artistas pueden no llevar contabilidad?",
-    "¿Qué debo hacer si soy artista y no quiero llevar contabilidad?",
-    "¿Qué implica la opción de no llevar contabilidad para artistas?",
-    "¿Están obligados los artistas a presentar la DIOT?",
-    "¿Qué beneficios tienen los artistas al optar por no llevar contabilidad?"
+    "¿Pueden los artistas no llevar contabilidad?",
+    "¿Qué condiciones deben cumplir los artistas para no presentar la DIOT?",
+    "¿Qué implica donar una obra a la Federación para un artista?",
+    "¿Cómo afecta la opción de no llevar contabilidad a los impuestos de los artistas?",
+    "¿Qué ingresos permiten a un artista optar por no llevar contabilidad?"
   ]
 }

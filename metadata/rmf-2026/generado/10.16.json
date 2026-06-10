@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1d1b5cbd351d811e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución de IVA para contratistas de hidrocarburos",
   "temas": [
     "IVA",
-    "Contratistas",
-    "Devolución de saldos a favor",
-    "Solicitud de devolución",
-    "Obligaciones fiscales",
-    "Contratos de hidrocarburos",
+    "contratistas",
+    "devolución",
+    "hidrocarburos",
+    "obligaciones fiscales",
     "CFDI",
+    "SENER",
     "DIOT"
   ],
   "terminos_coloquiales": [
-    "Devolución de IVA",
+    "devolución de IVA",
+    "contratistas de hidrocarburos",
     "IVA para contratistas",
-    "IVA hidrocarburos",
-    "Solicitud de devolución IVA",
-    "CFDI",
-    "LSH"
+    "SENER"
   ],
-  "resumen": "Los contratistas de hidrocarburos pueden solicitar la devolución de saldos a favor del IVA si cumplen ciertas condiciones, incluyendo estar al corriente con sus obligaciones fiscales y presentar la solicitud a través del Portal del SAT. El proceso tiene un plazo específico para su resolución.",
+  "resumen": "Los contratistas de hidrocarburos pueden solicitar la devolución de saldos a favor del IVA si cumplen con ciertos requisitos. La solicitud debe realizarse a través del portal del SAT y cumplir con obligaciones fiscales específicas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución del IVA si soy contratista de hidrocarburos?",
-    "¿Qué requisitos debo cumplir para recuperar mi saldo a favor del IVA?",
-    "¿Dónde presento mi solicitud de devolución de IVA?",
-    "¿Cuánto tiempo tardan en devolverme el IVA solicitado?",
-    "¿Qué pasa si no cumplo con alguna obligación fiscal al solicitar la devolución de IVA?"
+    "¿Cómo solicito la devolución de IVA si soy contratista de hidrocarburos?",
+    "¿Qué requisitos debo cumplir para obtener mi devolución de IVA?",
+    "¿Cuál es el plazo para recibir la devolución de IVA para contratistas?",
+    "¿Qué información necesito enviar al SAT para la devolución de IVA?",
+    "¿Qué pasa si no cumplo con los requisitos para la devolución de IVA?"
   ]
 }

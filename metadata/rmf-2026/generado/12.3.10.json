@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1dac768a22537725",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Prestación de servicios digitales",
@@ -13,23 +14,24 @@
     "IVA",
     "plataformas tecnológicas",
     "personas físicas",
-    "retención del IVA",
+    "retención de IVA",
+    "cancelación de operaciones",
     "enajenación de bienes",
     "servicios digitales"
   ],
   "terminos_coloquiales": [
-    "IVA en plataformas",
-    "retención de IVA",
-    "servicios por internet",
-    "servicios digitales",
-    "plataformas de pago"
+    "servicios en línea",
+    "plataformas como Uber o Rappi",
+    "retención de impuestos",
+    "cancelar pagos en plataformas",
+    "dejar de prestar servicios en plataformas"
   ],
-  "resumen": "Las personas físicas que utilizan plataformas tecnológicas deben estar atentas a los artículos 18-L y 18-M de la Ley del IVA. Si dejan de cumplir con los supuestos de estas disposiciones, la retención del IVA o el pago de ingresos a partir del siguiente ejercicio ya no se considerarán definitivos.",
+  "resumen": "La regla establece que las personas físicas que ya no cumplan con ciertos requisitos dejarán de considerar como pago definitivo la retención del IVA que les hacen las plataformas tecnológicas. Esto aplicará a partir del siguiente ejercicio fiscal una vez que ya no se ubiquen en los supuestos indicados en la ley.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si dejo de usar una plataforma tecnológica?",
-    "¿Cómo afecta la retención de IVA en mis ingresos?",
-    "¿Qué son los artículos 18-L y 18-M de la Ley del IVA?",
-    "¿Voy a seguir considerando el IVA como pago definitivo?",
-    "¿Cuándo cambian mis obligaciones fiscales si uso plataformas?"
+    "¿Qué pasa si dejo de usar una plataforma digital para mis servicios?",
+    "¿Cómo afecta la retención de IVA si ya no estoy en los supuestos de la ley?",
+    "¿Cuándo dejaré de considerar como pago definitivo la retención del IVA?",
+    "¿Qué operaciones se cancelan al dejar de ser considerado como persona sujeta al IVA?",
+    "¿Cómo se aplica el IVA en plataformas tecnológicas?"
   ]
 }

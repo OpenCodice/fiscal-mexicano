@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4bacd545bda8e40f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comprobantes de ingresos no sujetos a regímenes fiscales preferentes",
   "temas": [
-    "Impuesto sobre la renta",
-    "Entidades extranjeras controladas",
-    "Documentación fiscal",
-    "Certificación internacional"
+    "ISR",
+    "entidades extranjeras",
+    "ingresos gravados",
+    "documentación fiscal",
+    "certificación internacional"
   ],
   "terminos_coloquiales": [
-    "comprobantes de ingresos",
-    "entidades extranjeras",
-    "ISR extranjero",
-    "RMF 2026"
+    "comprobantes fiscales",
+    "impresión de impuestos en el extranjero",
+    "ISR en el extranjero",
+    "declaración de impuestos",
+    "pago de impuestos en el extranjero"
   ],
-  "resumen": "Los contribuyentes pueden demostrar que los ingresos obtenidos en el extranjero están gravados con un ISR suficiente al presentar documentos que comprueben el pago del impuesto en el país de origen. Esto incluye la declaración fiscal y la certificación de un ente internacional.",
+  "resumen": "Esta disposición permite a los contribuyentes demostrar que los ingresos obtenidos en el extranjero están correctamente gravados con un ISR que cumple con los requisitos establecidos. Se necesita documentación específica, incluyendo declaraciones y certificados de pago fiscal de entidades extranjeras.",
   "preguntas_ejemplo": [
-    "¿Cómo demuestro que mi ingreso en el extranjero ya pagó impuestos?",
-    "¿Qué documentos necesito para comprobar el ISR de ingresos extranjeros?",
-    "¿Puedo presentar una certificación internacional para mis ingresos en el extranjero?",
-    "¿Qué pasa si el impuesto extranjero es menor al que se pagaría en México?",
-    "¿Cuáles son los requisitos para no aplicar disposiciones del ISR a ingresos pasivos?"
+    "¿Cómo demuestro que pagué impuestos en el extranjero?",
+    "¿Qué documentos necesito para comprobar ingresos de entidades extranjeras?",
+    "¿Qué pasa si mis ingresos en el extranjero están gravados con menos del 75% de ISR?",
+    "¿Es necesario un certificado de una firma internacional para mis ingresos en el extranjero?",
+    "¿Los comprobantes de ingresos en el extranjero tienen requisitos especiales?"
   ]
 }

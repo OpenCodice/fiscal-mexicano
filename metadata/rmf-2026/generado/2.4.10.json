@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b191cabe8353c77",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inscripción en el RFC",
   "temas": [
-    "Inscripción de personas morales",
-    "Inscripción de personas físicas",
-    "Inscripción de fideicomisos",
-    "Inscripción de trabajadores",
-    "Inscripción por escisión de sociedades",
-    "Inscripción por fusión de sociedades",
-    "Inscripción de mexicanos en el extranjero",
-    "Inscripción de menores de edad"
+    "personas morales",
+    "personas físicas",
+    "fideicomisos",
+    "trabajadores",
+    "organismos de la federación",
+    "escisión de sociedades",
+    "fusión de sociedades",
+    "menores de edad"
   ],
   "terminos_coloquiales": [
-    "Registro Federal de Contribuyentes",
+    "inscripción en el RFC",
     "RFC",
-    "Inscripción en el RFC",
-    "Alta en el RFC"
+    "solicitud de RFC",
+    "personas morales en el RFC",
+    "personas físicas en el RFC",
+    "fideicomisos en el RFC",
+    "trabajadores en el RFC"
   ],
-  "resumen": "La regla establece los procedimientos para la inscripción en el RFC para diversas entidades y personas, incluyendo tanto a personas morales como físicas, así como a fideicomisos y trabajadores. Se especifican los trámites necesarios según el tipo de entidad o persona que se esté inscribiendo.",
+  "resumen": "La regla establece los términos para la inscripción al RFC de diversas entidades, incluyendo personas morales, físicas, fideicomisos y trabajadores. También se menciona la inscripción por escisiones y fusiones de sociedades.",
   "preguntas_ejemplo": [
     "¿Cómo me inscribo en el RFC?",
-    "¿Qué documentos necesito para el RFC?",
-    "¿Cuál es el procedimiento para inscribir una sociedad en el RFC?",
-    "¿Pueden los menores de edad inscribirse en el RFC?",
-    "¿Qué es la inscripción en el RFC para personas físicas?",
-    "¿Cómo se inscriben los fideicomisos en el RFC?"
+    "¿Qué requisitos hay para la inscripción de una persona moral en el RFC?",
+    "¿Cómo se inscriben los trabajadores en el RFC?",
+    "¿Puede un menor de edad inscribirse en el RFC?",
+    "¿Qué trámite debo seguir para cancelar mi inscripción en el RFC?"
   ]
 }

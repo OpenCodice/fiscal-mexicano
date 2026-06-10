@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:91002dd7947977aa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inscripción en el RFC de menores de edad",
   "temas": [
     "RFC",
-    "personas físicas",
-    "menores de edad",
-    "salarios",
-    "servicio personal subordinado",
-    "certificado de e.firma",
-    "Contraseña SAT"
-  ],
-  "terminos_coloquiales": [
-    "inscripción en el RFC menores",
-    "RFC menores de edad",
-    "salarios para jóvenes",
-    "certificado e.firma",
+    "personas físicas menores de edad",
+    "servicios personales subordinados",
+    "inscripción",
     "e.firma"
   ],
-  "resumen": "Los menores de 16 años que trabajen bajo un servicio personal subordinado pueden inscribirse en el RFC. Deben acudir a cualquier ADSC para realizar el trámite y obtener su certificado de e.firma.",
+  "terminos_coloquiales": [
+    "registro en el RFC",
+    "menores de edad en el RFC",
+    "salarios",
+    "certificado de e.firma",
+    "contraseña del SAT"
+  ],
+  "resumen": "Las personas físicas menores de edad de 16 años o más pueden inscribirse en el RFC si solo prestan servicios personales subordinados. Deben acudir a una ADSC o usar el portal del SAT para tramitar su inscripción y su e.firma.",
   "preguntas_ejemplo": [
-    "¿Cómo inscribo a un menor en el RFC?",
-    "¿Qué requisitos necesita un joven para registrarse en el RFC?",
-    "¿Dónde puedo obtener el certificado de e.firma para menores?",
-    "¿Pueden los menores trabajar y tener RFC?",
-    "¿Qué trámites necesita un menor para su Contraseña del SAT?"
+    "¿Cómo puedo inscribir a un menor en el RFC?",
+    "¿Qué requisitos necesita un menor para registrarse en el RFC?",
+    "¿Dónde tramito la e.firma para un menor de edad?",
+    "¿Qué es la inscripción en el RFC para menores de edad?",
+    "¿Pueden los menores de edad recibir salarios y registrarse en el RFC?"
   ]
 }

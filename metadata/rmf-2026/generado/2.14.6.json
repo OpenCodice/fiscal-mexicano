@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6844cc62ee08619e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reducción de multas fiscales",
   "temas": [
+    "condiciones de reducción",
     "multas fiscales",
-    "causas de improcedencia",
-    "consentimiento",
-    "procedimientos penales",
-    "listado definitivo",
-    "declaraciones anuales",
-    "obligaciones fiscales"
+    "sentencias condenatorias",
+    "contribuyentes no localizados",
+    "obligaciones fiscales",
+    "regularización fiscal"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
-    "multas CFF",
-    "multas por faltas fiscales",
-    "CFF 74"
+    "reducir multas",
+    "multas fiscales",
+    "CFF",
+    "no localizados en el RFC",
+    "declaración anual del ISR",
+    "obligaciones fiscales"
   ],
-  "resumen": "Esta disposición establece las circunstancias bajo las cuales no se puede reducir una multa fiscal. Incluye casos como haber sido condenado por delitos fiscales, estar impugnando un acto, y no haber presentado declaraciones correspondientes.",
+  "resumen": "La disposición establece las condiciones bajo las cuales no se podrá reducir una multa fiscal, incluyendo situaciones como sentencias firmes por delitos fiscales o contribuyentes que no hayan presentado su declaración anual del ISR. También se mencionan las implicaciones de estar en un listado de contribuyentes con problemas fiscales.",
   "preguntas_ejemplo": [
     "¿Cuándo no se puede reducir una multa fiscal?",
-    "¿Qué pasa si tengo una sentencia condenatoria por delitos fiscales?",
-    "¿Qué condiciones deben cumplirse para solicitar la reducción de multas?",
-    "¿Qué significa consentimiento en el contexto de multas fiscales?",
-    "¿Qué sucede si estoy en el listado del artículo 69-B?",
-    "¿Qué implicaciones tiene no presentar mis declaraciones anuales?"
+    "¿Qué pasa si tengo una sentencia condenatoria por un delito fiscal?",
+    "¿Qué requisitos debo cumplir para que me acepten una reducción de multa?",
+    "¿Qué significa estar no localizado en el RFC?",
+    "¿Qué obligaciones fiscales influyen en la reducción de multas?",
+    "¿Puedo reducir mi multa si impugno el acto administrativo?"
   ]
 }

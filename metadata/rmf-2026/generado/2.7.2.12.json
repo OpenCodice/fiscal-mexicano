@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1487336702d0a1d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de autorización de PCCFDI",
+  "denominacion_comun": "Revocación de Autorización de PCCFDI",
   "temas": [
-    "Revocación",
     "PCCFDI",
-    "Procedimiento",
-    "Obligaciones",
-    "Notificación",
-    "Periodo de transición",
-    "Sanciones"
+    "revocación de autorización",
+    "incumplimiento de obligaciones",
+    "procedimiento de revocación",
+    "periodo de transición",
+    "notificación de revocación",
+    "certificación de CFDI",
+    "sanciones"
   ],
   "terminos_coloquiales": [
-    "revocación de PCCFDI",
-    "PCCFDI revocado",
-    "procedimiento de revocación"
+    "proveedor de certificación",
+    "PCCFDI",
+    "revocación de proveedor",
+    "certificación de facturas",
+    "CFDI",
+    "notificación de revocación"
   ],
-  "resumen": "La regla establece las causas y procedimientos para la revocación de la autorización de los Proveedores de Certificación de CFDI (PCCFDI) por parte del SAT. Incluye causas como incumplimiento de obligaciones y la necesidad de notificación a los contribuyentes.",
+  "resumen": "La regla establece las causas y el procedimiento para la revocación de la autorización de un proveedor de certificación de CFDI (PCCFDI). Se especifican los motivos que pueden llevar a esta revocación y cómo se debe llevar a cabo el proceso, incluyendo un periodo de transición para los clientes afectados.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las causas para que se revoque la autorización de un PCCFDI?",
-    "¿Qué procedimientos deben seguir los PCCFDI si su autorización es revocada?",
-    "¿Qué pasa si un PCCFDI es revocado?",
-    "¿Cómo se informa a los clientes sobre la revocación de un PCCFDI?",
-    "¿Cuánto dura el periodo de transición tras la revocación de un PCCFDI?"
+    "¿Cuáles son las causas para que revocen la autorización de mi proveedor de certificación?",
+    "¿Qué sucede si se revoca la autorización de un PCCFDI?",
+    "¿Cómo se lleva a cabo el procedimiento de revocación de un proveedor de CFDI?",
+    "¿Qué debo hacer si mi proveedor de certificación fue revocado?",
+    "¿Qué implica el periodo de transición tras la revocación de un PCCFDI?"
   ]
 }

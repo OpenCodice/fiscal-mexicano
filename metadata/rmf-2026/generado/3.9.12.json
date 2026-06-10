@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f46c318a78c7cf06",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Local de Partes Relacionadas",
   "temas": [
-    "obligaciones fiscales",
+    "impuesto sobre la renta",
+    "partes relacionadas",
     "precios de transferencia",
-    "información financiera",
-    "transacciones con partes relacionadas"
+    "información fiscal",
+    "análisis comparables",
+    "información financiera"
   ],
   "terminos_coloquiales": [
-    "Declaración de Partes Relacionadas",
-    "DPLPR",
-    "informativa de precios de transferencia"
+    "declaración de partes relacionadas",
+    "precio de transferencia",
+    "ISR",
+    "declaración anual",
+    "operaciones con partes relacionadas"
   ],
-  "resumen": "Esta disposición establece la información que las personas morales deben incluir en la Declaración Informativa Local de Partes Relacionadas, relacionada con sus operaciones y relaciones con partes independientes y relacionadas, con el objetivo de demostrar la correcta determinación de ingresos y deducciones. Incluye detalles sobre estructura organizacional, políticas de precios de transferencia y datos financieros relevantes.",
+  "resumen": "Esta disposición establece los requisitos para la Declaración Informativa Local de Partes Relacionadas, que incluye información sobre el contribuyente, sus operaciones con partes relacionadas y la justificación de las políticas de precios de transferencia. Además, se detallan las obligaciones de proporcionar información financiera y un análisis comparativo con empresas similares.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en la Declaración Informativa Local de Partes Relacionadas?",
-    "¿Cómo determino los precios de transferencia en mis operaciones?",
-    "¿Qué requisitos tengo que cumplir para las operaciones con partes relacionadas?",
-    "¿Qué datos financieros necesito reportar en la declaración de partes relacionadas?",
-    "¿Cómo justifico la selección de mis comparables en el análisis de precios de transferencia?"
+    "¿Qué información debo presentar en la declaración de partes relacionadas?",
+    "¿Cuáles son los requisitos para la justificación de los precios de transferencia?",
+    "¿Cómo se estructura la cadena de valor en la declaración informativa?",
+    "¿Qué operaciones con partes relacionadas debo informar?",
+    "¿Qué documentación necesito para respaldar mi declaración anual?"
   ]
 }

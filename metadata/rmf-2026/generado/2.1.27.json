@@ -6,34 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e57bc63ff85f4e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Procedimiento para Subsidios y Estímulos",
   "temas": [
     "obligaciones fiscales",
-    "beneficiarios",
     "subsidios",
     "estímulos",
-    "opinión positiva",
-    "inscripción en el RFC",
-    "confidencialidad",
-    "vigencia"
+    "opinión del cumplimiento",
+    "autoridades públicas",
+    "recursos públicos",
+    "vigencia de beneficios"
   ],
   "terminos_coloquiales": [
-    "cómo obtener un subsidio",
-    "qué necesito para un estímulo",
-    "requisitos para subsidios",
-    "opinión de cumplimiento",
+    "subsidios",
+    "ayudas económicas",
+    "estímulos fiscales",
+    "apellido de cumplimiento",
     "RFC",
-    "CFF"
+    "SAT"
   ],
-  "resumen": "La regla establece que antes de entregar un subsidio o estímulo, las autoridades deben verificar que los beneficiarios cumplan con sus obligaciones fiscales. La opinión sobre el cumplimiento debe ser positiva y tiene una vigencia de tres meses.",
+  "resumen": "Este procedimiento establece que cualquier autoridad que otorgue subsidios o estímulos debe asegurarse del cumplimiento de las obligaciones fiscales de los beneficiarios, generando una opinión positiva para su otorgamiento. La opinión tendrá validez de tres meses.",
   "preguntas_ejemplo": [
     "¿Qué debo hacer para recibir un subsidio?",
-    "¿Cuáles son los requisitos para obtener un estímulo?",
-    "¿Cómo se verifica el cumplimiento fiscal de los beneficiarios?",
-    "¿Qué es la opinión positiva y cómo la obtengo?",
-    "¿Qué pasa si no estoy inscrito en el RFC?",
-    "¿Cuánto tiempo es válida la opinión de cumplimiento?"
+    "¿Cómo se verifica que cumpla con mis obligaciones fiscales?",
+    "¿Qué pasa si tengo ingresos bajos al solicitar un estímulo?",
+    "¿Cuánto tiempo es válida la opinión de cumplimiento?",
+    "¿Quién puede otorgar subsidios o estímulos?"
   ]
 }

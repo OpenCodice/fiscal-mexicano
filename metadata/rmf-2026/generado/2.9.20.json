@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b0ddec50571c8d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Listados de contribuyentes",
+  "denominacion_comun": "Listados de contribuyentes 69-B y 69-B Bis",
   "temas": [
-    "Consulta de listados",
-    "Artículos 69-B y 69-B Bis",
-    "Presuntos contribuyentes",
-    "Operaciones inexistentes",
-    "Notificación a contribuyentes"
+    "listados de contribuyentes",
+    "presuntos",
+    "definitivos",
+    "desvirtuados",
+    "sentencias favorables",
+    "consultas en línea",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "Consulta de listados",
-    "Artículos 69-B y 69-B Bis",
-    "Contribuyentes presuntos",
-    "Listados definitivos"
+    "consultar listados de contribuyentes",
+    "presuntos",
+    "definitivos",
+    "consultas SAT",
+    "listado global definitivo"
   ],
-  "resumen": "Los contribuyentes pueden consultar listados específicos relacionados con los artículos 69-B y 69-B Bis del CFF a través del Portal del SAT. Estos listados incluyen categorizaciones como presuntos, definitivos y desvirtuados.",
+  "resumen": "Los contribuyentes pueden consultar listados relacionados con los artículos 69-B y 69-B Bis del CFF a través del portal del SAT. Los listados incluyen categorías como presuntos, definitivos y desvirtuados, así como el listado global definitivo.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo consultar si estoy en los listados del SAT?",
-    "¿Qué significa estar en el listado de presuntos contribuyentes?",
-    "¿Dónde encuentro la información sobre contribuyentes con operaciones inexistentes?",
-    "¿Qué opciones tengo para verificar un listado definitivo en el SAT?",
-    "¿Cómo acceder al listado global definitivo del artículo 69-B Bis?"
+    "¿Cómo consulto el listado de contribuyentes presuntos?",
+    "¿Qué significa estar en el listado definitivo?",
+    "¿Dónde encuentro información sobre los listados del SAT?",
+    "¿Qué pasos seguir para acceder a los listados 69-B y 69-B Bis?",
+    "¿Qué constituye una sentencia favorable en estos listados?",
+    "¿Qué tipos de listados hay bajo el artículo 69-B del CFF?"
   ]
 }

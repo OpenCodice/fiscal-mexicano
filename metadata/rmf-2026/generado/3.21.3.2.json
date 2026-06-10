@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c92f7a71c373db92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de ISR en fideicomisos de inversión en capital de riesgo",
+  "denominacion_comun": "Fideicomisos de inversión en capital de riesgo",
   "temas": [
-    "retención de ISR",
-    "fideicomisos",
-    "certificados",
+    "ISR",
+    "retención",
+    "constancia fiscal",
     "intermediarios financieros",
-    "constancias fiscales",
     "ingresos",
     "dividendos",
-    "ganancias",
+    "intereses",
+    "acciones",
     "prestación de servicios"
   ],
   "terminos_coloquiales": [
-    "retenciones de impuestos",
-    "fideicomisos de inversión",
-    "ISR fideicomisos",
-    "constancia de retención"
+    "fideicomisos",
+    "retenciones de ISR",
+    "constancia de impuestos",
+    "certificados",
+    "pago provisional",
+    "estados de cuenta"
   ],
-  "resumen": "Esta regla establece las obligaciones del intermediario financiero y la fiduciaria respecto a la retención y la información que deben proporcionar relacionados con los ingresos generados por fideicomisos de inversión en capital de riesgo. También señala la forma en que se debe comunicar esta información a los tenedores de los certificados y al SAT.",
+  "resumen": "La regla establece los procedimientos que deben seguir los intermediarios financieros para retener el ISR correspondiente y proporcionar constancias a los tenedores de certificados emitidos por fideicomisos de inversión en capital de riesgo. Incluye la clasificación de ingresos y las tasas que deben aplicarse para la retención.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan las retenciones de ISR en un fideicomiso?",
-    "¿Qué información debe proporcionar el intermediario financiero?",
-    "¿Cuándo debo recibir la constancia de ISR de mi fideicomiso?",
-    "¿Qué tasas se aplican para la retención de ingresos en fideicomisos?",
-    "¿Qué pasa si el intermediario no sabe quién obtuvo los ingresos?"
+    "¿Cómo se calcula la retención de ISR en fideicomisos?",
+    "¿Qué información debe proporcionar un fiduciario sobre los ingresos?",
+    "¿Cuándo y cómo se entrega la constancia de retenciones?",
+    "¿Qué tasas de ISR se aplican a dividendos y acciones?",
+    "¿Qué sucede si el intermediario no identifica al receptor de los ingresos?"
   ]
 }

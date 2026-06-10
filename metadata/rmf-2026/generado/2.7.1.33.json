@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12edf31beb8212c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Entrega de CFDI a clientes",
   "temas": [
     "CFDI",
+    "sello digital del SAT",
     "entrega electrónica",
-    "comprobantes fiscales",
-    "medios electrónicos",
-    "sello digital del SAT"
+    "clientes",
+    "medio electrónico"
   ],
   "terminos_coloquiales": [
-    "cómo entregar un CFDI",
-    "envío de factura electrónica",
-    "CFDI por correo",
-    "factura digital",
-    "CFDI"
+    "factura",
+    "CFDI",
+    "entregar factura por correo",
+    "mandar factura electrónica",
+    "subir factura a la nube"
   ],
-  "resumen": "Esta regla establece que los contribuyentes pueden entregar el archivo electrónico del CFDI a sus clientes a través de diversos medios electrónicos, siempre que se haya incorporado el sello digital del SAT, y previo acuerdo entre las partes. La entrega de un CFDI impreso debe hacerse si se solicita.",
+  "resumen": "Los contribuyentes pueden entregar o poner a disposición el archivo electrónico del CFDI a sus clientes mediante diversos medios electrónicos, una vez que el comprobante tenga el sello digital del SAT. Esto se puede hacer a través de correo electrónico, dispositivos de almacenamiento, páginas web o cuentas en la nube designadas por el cliente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo enviar un CFDI a mi cliente?",
-    "¿Qué medios puedo usar para entregar una factura electrónica?",
-    "¿Es obligatorio entregar el CFDI impreso?",
-    "¿Qué es un CFDI y cómo se envía?",
-    "¿Se puede enviar un CFDI por correo electrónico?"
+    "¿Cómo puedo enviar una factura a un cliente?",
+    "¿Qué medios puedo usar para entregar un CFDI?",
+    "¿Es obligatorio entregar una factura impresa si ya se envió electrónicamente?",
+    "¿Qué es el sello digital del SAT en un CFDI?",
+    "¿Puedo subir un CFDI a la nube para que mi cliente lo descargue?"
   ]
 }

@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:26bf6e6d3208d426",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Depósitos en Efectivo",
+  "denominacion_comun": "Depósitos en efectivo de organismos descentralizados",
   "temas": [
-    "Información de depósitos",
+    "Impuesto sobre la renta",
+    "Instituciones de crédito",
+    "Depósitos en efectivo",
     "Organismos públicos descentralizados",
-    "Instituciones financieras",
-    "Ley del ISR",
-    "Cuentas de terceros"
+    "Información financiera",
+    "Cuentas bancarias"
   ],
   "terminos_coloquiales": [
     "depósitos en efectivo",
+    "organismos descentralizados",
     "información de cuentas",
-    "LISR",
-    "Ley del Impuesto sobre la Renta"
+    "ISR",
+    "LISR"
   ],
-  "resumen": "Los organismos públicos descentralizados deben reportar información sobre depósitos en efectivo a las instituciones del sistema financiero. Esto incluye detalles como el número de cuenta, fecha, monto y referencia del depósito.",
+  "resumen": "Esta regla establece que los organismos públicos descentralizados deben proporcionar información diaria a instituciones financieras sobre los depósitos en efectivo realizados a cuentas de personas físicas o morales. Esta información incluye datos como número de cuenta, fecha y monto del depósito.",
   "preguntas_ejemplo": [
-    "¿Qué información se debe reportar sobre los depósitos en efectivo?",
-    "¿Cuáles son las obligaciones de los organismos descentralizados respecto a los depósitos?",
-    "¿Qué datos necesita la institución financiera para reportar depósitos en efectivo?",
-    "¿Cómo se manejan los depósitos en efectivo en la Ley del ISR?",
-    "¿Qué es el artículo 55 de la Ley del ISR?"
+    "¿Qué información deben reportar los organismos descentralizados sobre los depósitos en efectivo?",
+    "¿Cómo se realiza el reporte de depósitos en efectivo según la ley?",
+    "¿Qué datos incluye el informe de depósitos por organismos públicos?",
+    "¿A quién deben informar los organismos descentralizados sobre los depósitos en efectivo?",
+    "¿Qué establece el artículo 55 de la Ley del ISR sobre los depósitos en efectivo?"
   ]
 }

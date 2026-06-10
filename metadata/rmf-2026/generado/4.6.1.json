@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:11411efde2f39a6e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Calidad de turista en la Ley del IVA",
+  "denominacion_comun": "Calidad de turista para IVA",
   "temas": [
-    "Impuesto al Valor Agregado",
-    "Calidad de turistas",
+    "IVA",
+    "turistas",
     "Ley de Migración",
-    "Actividades remuneradas"
+    "visas",
+    "actividades remuneradas",
+    "ley general de población"
   ],
   "terminos_coloquiales": [
+    "calidad de turista",
+    "visita sin permiso",
     "turista",
-    "calidad de visitante",
-    "Ley del IVA",
+    "IVA",
     "Ley de Migración"
   ],
-  "resumen": "Esta disposición establece que la calidad de turistas se refiere a visitantes sin permiso para trabajar, de acuerdo con la Ley de Migración, en el contexto del artículo 31 de la Ley del IVA.",
+  "resumen": "La ley establece que para efectos del IVA, un turista se considera como un visitante sin permiso para trabajar. Esto se basa en lo dispuesto por la Ley General de Población y la Ley de Migración.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por calidad de turista según la Ley del IVA?",
-    "¿Pueden los turistas trabajar en México?",
-    "¿Qué dice la Ley de Migración sobre los visitantes?",
-    "¿Cómo se relaciona la Ley del IVA con la calidad de turista?",
-    "¿Qué condiciones debe cumplir un turista en México?"
+    "¿Qué significa ser turista según la Ley de IVA?",
+    "¿Qué se considera un visitante sin permiso?",
+    "¿Cuáles son las condiciones para que un extranjero sea considerado turista?",
+    "¿Hay impuestos que debo pagar si soy un turista?",
+    "¿Qué dice la Ley de Migración sobre los turistas?",
+    "¿Cuándo un extranjero puede ser considerado visitante?"
   ]
 }

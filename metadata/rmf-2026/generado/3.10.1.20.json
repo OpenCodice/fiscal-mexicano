@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:92fd1fa65acc97e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Personas morales autorizadas para recibir donativos deducibles",
+  "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "Impuesto sobre la renta",
-    "Personas morales",
-    "Donativos deducibles",
-    "Erogaciones",
-    "CFDI",
-    "Contabilidad"
+    "personas morales",
+    "donativos",
+    "remunernaciones",
+    "control contable",
+    "CFDI"
   ],
   "terminos_coloquiales": [
-    "Donativos deducibles",
-    "Personas morales donatarias",
-    "PMAD",
-    "Pago exento",
-    "Servicios personales subordinados"
+    "donativos deducibles",
+    "deducción de donativos",
+    "organizaciones sin fines de lucro",
+    "OSFL",
+    "pagos exentos",
+    "trabajadores de ONGs"
   ],
-  "resumen": "Las personas morales autorizadas para recibir donativos deducibles pueden no considerar como remanente distribuible los pagos realizados a sus trabajadores que estén directamente vinculados a sus actividades, siempre que cumplan con ciertos requisitos y lleven un control contable detallado.",
+  "resumen": "Las personas morales que pueden recibir donativos deducibles no tendrán que considerar ciertos pagos como remanente distribuible si se cumplen condiciones específicas. Deben llevar un control contable detallado de estos pagos y contar con los CFDI correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué son las personas morales autorizadas para recibir donativos deducibles?",
-    "¿Cómo se manejan los pagos de empleados en las organizaciones que reciben donativos?",
-    "¿Qué requisitos deben cumplir las PMAD para no considerar ciertos pagos en su contabilidad?",
-    "¿Qué es el remanente distribuible en el contexto de donativos deducibles?",
+    "¿Qué son las personas morales autorizadas para recibir donativos?",
+    "¿Cómo se manejan los donativos deducibles en mi organización?",
+    "¿Qué requisitos necesito para que mis erogaciones no se consideren remanente distribuible?",
     "¿Qué tipo de control contable debo llevar si recibo donativos deducibles?",
-    "¿Cuáles son los CFDI que necesito para los pagos de mis trabajadores en una PMAD?"
+    "¿Qué es un CFDI y cómo se relaciona con los donativos?"
   ]
 }

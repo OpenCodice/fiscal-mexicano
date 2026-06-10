@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:097c3675192dc282",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "información fiscal",
-    "asesores fiscales",
+    "declaraciones informativas",
+    "esquemas reportables generales",
+    "esquemas reportables personalizados",
+    "evitación de establecimiento permanente",
     "operaciones jurídicas",
-    "establecimiento permanente",
-    "tratados para evitar doble tributación"
+    "treaties to avoid double taxation"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
+    "información fiscal",
     "esquemas fiscales",
-    "análisis de esquemas",
-    "estudio de esquemas reportables"
+    "reportar esquemas",
+    "evitar impuestos",
+    "porcentaje de impuestos"
   ],
-  "resumen": "Las reglas indican que los asesores fiscales y contribuyentes deben presentar un documento detallado que incluya información sobre esquemas reportables, especificando operaciones y contextos legales para evitar constituir un establecimiento permanente en México.",
+  "resumen": "La regla establece los requisitos para que los asesores fiscales y contribuyentes reporten esquemas fiscales, especificando la información que debe adjuntarse sobre las operaciones y la forma en que se evitan los establecimientos permanentes en México. Incluye detalles sobre operaciones, partes involucradas y razones de negocios.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un esquema reportable?",
+    "¿Qué debo incluir en la declaración de esquemas reportables?",
     "¿Cómo evito constituir un establecimiento permanente en México?",
-    "¿Qué operaciones tengo que reportar como asesor fiscal?",
-    "¿Cuáles son las implicaciones de un esquema reportable personalizado?",
-    "¿Qué documentos se requieren para revelar esquemas reportables?"
+    "¿Qué información necesito para el esquema reportable personalizado?",
+    "¿Qué documentos debo presentar junto a mi esquema reportable?",
+    "¿Cuáles son las implicaciones fiscales de un esquema reportable?"
   ]
 }

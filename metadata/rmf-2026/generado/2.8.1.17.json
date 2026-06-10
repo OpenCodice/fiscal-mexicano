@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9ffb59c76a6215b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facilidades para contribuyentes personas físicas",
   "temas": [
     "contabilidad electrónica",
-    "Información de Operaciones con Terceros",
-    "obligaciones fiscales",
+    "declaraciones fiscales",
     "ingresos",
-    "Ley del ISR"
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "facilidades fiscales",
+    "declaraciones",
+    "contabilidad",
     "DIOT",
-    "contabilidad simplificada"
+    "Ley del ISR"
   ],
-  "resumen": "Las personas físicas con ingresos menores a cuatro millones de pesos están exentas de enviar su contabilidad electrónica y presentar la DIOT. Esta disposición busca facilitar el cumplimiento de obligaciones fiscales a quienes inician actividades o tienen ingresos bajos.",
+  "resumen": "Las personas físicas con ingresos menores a 4 millones de pesos o que inician actividades no tienen que enviar contabilidad electrónica ni presentar la DIOT. Esto les facilita cumplir con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las facilidades fiscales para personas físicas?",
-    "¿Qué debo hacer si mis ingresos no superan cuatro millones de pesos?",
-    "¿Estoy obligado a enviar contabilidad electrónica si soy persona física?",
+    "¿Qué facilidades tengo si mis ingresos son menores a 4 millones?",
+    "¿Estoy obligado a enviar mi contabilidad si empiezo un negocio?",
     "¿Qué es la DIOT y debo presentarla?",
-    "¿Qué requisitos debo cumplir para estar exento de ciertas obligaciones fiscales?"
+    "¿Cuáles son mis obligaciones fiscales como persona física?",
+    "¿Qué pasa si mis ingresos no superan los 4 millones?"
   ]
 }

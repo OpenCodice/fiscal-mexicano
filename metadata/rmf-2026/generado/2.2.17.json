@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e06a03fcd15c29ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Uso del CSD y restricciones",
+  "denominacion_comun": "Uso del CSD",
   "temas": [
     "CSD",
-    "restablecimiento",
-    "restricciones fiscales",
-    "aclaraciones",
-    "irregularidades",
-    "autoridades fiscales"
+    "aclaración ante autoridades fiscales",
+    "restricción temporal del CSD",
+    "regularización de irregularidades",
+    "nuevo CSD"
   ],
   "terminos_coloquiales": [
-    "uso del CSD",
-    "certificado de sellos digitales",
-    "CSD restringido",
-    "aclaraciones ante autoridades"
+    "CSD",
+    "certificado de sello digital",
+    "restricciones al CSD",
+    "irregularidades fiscales"
   ],
-  "resumen": "El contribuyente debe aclarar ante cada autoridad fiscal si su CSD ha sido restringido. El uso del CSD se restablece una vez que se solucionen las irregularidades. Para obtener un nuevo CSD, es necesario subsanar todas las irregularidades detectadas.",
+  "resumen": "El contribuyente debe presentar aclaraciones ante cada autoridad fiscal que restringió el uso de su CSD. El uso del CSD se restablecerá cuando se subsanen las irregularidades. Además, un nuevo CSD solo se puede obtener después de regularizar todas las irregularidades detectadas.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si me restringieron el uso del CSD?",
-    "¿Cómo restablecer mi CSD después de una restricción?",
-    "¿Cuántas aclaraciones debo presentar si varias autoridades me restringieron el CSD?",
-    "¿Qué irregularidades pueden causar restricciones en mi CSD?",
-    "¿Puedo seguir usando mi CSD mientras aclaro las irregularidades?"
+    "¿Qué hago si tengo restricciones en mi CSD?",
+    "¿Cómo restablecer el uso de mi CSD?",
+    "¿Puedo obtener un nuevo CSD si tengo irregularidades pendientes?",
+    "¿Qué autoridades fiscales pueden restringir mi CSD?",
+    "¿Qué es una aclaración ante la autoridad fiscal?"
   ]
 }

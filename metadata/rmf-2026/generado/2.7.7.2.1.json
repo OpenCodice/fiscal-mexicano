@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dba09eda1c0d0947",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Traslado local de bienes o mercancías",
+  "denominacion_comun": "CFDI sin complemento Carta Porte",
   "temas": [
     "CFDI",
-    "transporte terrestre",
+    "autotransporte",
+    "transporte de mercancías",
     "jurisdicción federal",
-    "complemento Carta Porte",
-    "acreditación de transporte",
-    "reglas de emisión"
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "traslado de mercancías",
-    "CFDI de traslado",
-    "CFDI sin complemento Carta Porte",
-    "transportistas locales"
+    "factura",
+    "transporte local",
+    "CFDI sin complemento",
+    "traslado de bienes"
   ],
-  "resumen": "Los contribuyentes que transportan bienes sin transitar por jurisdicción federal pueden acreditar el transporte con un CFDI correspondiente, sin necesidad del complemento Carta Porte. Si transitan por jurisdicción federal, deben emitir el CFDI con el complemento requerido.",
+  "resumen": "Los contribuyentes que transporten mercancías solo a nivel local pueden usar un CFDI de tipo ingreso o traslado sin complemento Carta Porte. Esto es válido siempre que no transiten por jurisdicción federal y cumplan con ciertos requisitos establecidos por el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo acredite el traslado de mercancías sin complemento Carta Porte?",
-    "¿Qué requisitos debe tener el CFDI para el transporte local?",
-    "¿Qué sucede si transporto por jurisdicción federal?",
-    "¿Quiénes pueden utilizar el CFDI sin complemento Carta Porte?",
-    "¿Cuáles son las reglas que afectan el traslado de bienes?"
+    "¿Cómo puedo acreditar el transporte local de mercancías?",
+    "¿Puedo emitir CFDI sin complemento Carta Porte si no salgo de mi estado?",
+    "¿Qué requisitos debo cumplir para el CFDI en transporte de carga local?",
+    "¿Qué pasa si transito por jurisdicción federal?",
+    "¿Qué es el CFDI de tipo ingreso y cuándo se utiliza?",
+    "¿Quiénes son los beneficiarios de esta regla?"
   ]
 }

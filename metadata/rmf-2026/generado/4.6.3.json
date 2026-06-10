@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:13c73dd2371e9999",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reintegro de IVA en exportaciones",
+  "denominacion_comun": "Devoluciones del IVA para turistas",
   "temas": [
     "reintegro de IVA",
     "devoluciones",
-    "concesionarios",
-    "servicio público",
-    "clientes extranjeros"
+    "servicios públicos concesionados",
+    "comisiones",
+    "pagos electrónicos",
+    "plazos de devolución"
   ],
   "terminos_coloquiales": [
-    "devolución de IVA",
-    "IVA para turistas",
-    "comisiones concesionarias",
-    "LIVA 31",
-    "CFF 22"
+    "devolución del IVA",
+    "reembolso de IVA",
+    "dinero de vuelta",
+    "comisión de devolución",
+    "servicios concesionados",
+    "pago electrónico"
   ],
-  "resumen": "La regla establece las condiciones y modalidades sobre el reintegro del IVA en devoluciones para turistas extranjeros a través de concesionarios. Incluye aspectos como el tope de comisiones y los métodos de pago aceptados.",
+  "resumen": "La regla establece cómo deben manejarse las devoluciones del IVA para turistas, especificando las condiciones y límites que deben observar las concesionarias. Incluye un tope a las comisiones y exige que no haya costos para el SAT en este proceso.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona el reintegro de IVA para turistas?",
-    "¿Cuáles son las comisiones que pueden cobrar los concesionarios?",
-    "¿Qué requisitos deben cumplir los servicios de devolución de IVA?",
-    "¿Cuánto tiempo tarda el reintegro del IVA a un extranjero?",
-    "¿Se pueden hacer devoluciones de IVA en efectivo?"
+    "¿Cómo solicito la devolución del IVA si soy turista?",
+    "¿Qué comisiones se pueden cobrar por la devolución del IVA?",
+    "¿Cuánto tiempo tardan en devolverme el IVA?",
+    "¿Qué requisitos debo cumplir para que me devuelvan el IVA?",
+    "¿Puedo recibir el reembolso del IVA si pagué en efectivo?"
   ]
 }

@@ -6,32 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c90805fe07dd1e35",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de Contadores Públicos",
+  "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
-    "Certificación profesional",
-    "Refrendo",
-    "Recertificación",
-    "Registros",
-    "Agrupaciones profesionales",
-    "Publicaciones del SAT",
-    "Información contable"
+    "certificación profesional",
+    "refrendo",
+    "recertificación",
+    "organismos certificadores",
+    "información contable",
+    "e.firma",
+    "Portal del SAT",
+    "validación de contadores",
+    "Aclaraciones",
+    "AGAFF"
   ],
   "terminos_coloquiales": [
-    "Certificación de contadores",
-    "Refrendo contable",
-    "Recertificación CP",
-    "Contadores inscritos",
-    "AGAFF",
-    "ADAF"
+    "certificación de contadores",
+    "refrendo de certificación",
+    "recertificación",
+    "organismos certificadores",
+    "datos de contadores",
+    "e.firma",
+    "SAT",
+    "validación de registro"
   ],
-  "resumen": "Esta regla se refiere a los organismos certificadores de contadores públicos que deben presentar información sobre la vigencia de su certificación. Los contadores deben validar su inclusión en una lista publicada por el SAT y pueden realizar aclaraciones si no aparecen en dicha lista.",
+  "resumen": "La regla establece que los organismos certificadores deben enviar información sobre contadores públicos que obtuvieron su refrendo o recertificación a través del Portal del SAT. También se indica el procedimiento a seguir si un contador no aparece en dicha publicación, así como la forma de validar su inclusión y realizar aclaraciones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo saber si mi certificación de contador público está vigente?",
-    "¿Qué debo hacer si no aparezco en la lista del SAT?",
-    "¿Cuáles son los requisitos para el refrendo de mi certificación?",
-    "¿Cómo presentar mi información si soy una agrupación de contadores?",
-    "¿Dónde puedo encontrar la información sobre la recertificación de contadores públicos?"
+    "¿Cómo puedo saber si mi certificación de contador está vigente?",
+    "¿Qué debo hacer si no aparezco en el Portal del SAT?",
+    "¿Dónde puedo validar mi inclusión como contador público inscrito?",
+    "¿Qué información se necesita para el refrendo de mi certificación?",
+    "¿Qué es un organismo certificador de contadores públicos?"
   ]
 }

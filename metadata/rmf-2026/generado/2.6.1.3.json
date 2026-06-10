@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d5901d7139304f1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Controles Volumétricos de Hidrocarburos y Petrolíferos",
+  "denominacion_comun": "Controles volumétricos de hidrocarburos y petrolíferos",
   "temas": [
     "controles volumétricos",
     "hidrocarburos",
     "petrolíferos",
     "CFDI",
     "pedimentos",
-    "equipos informáticos",
-    "registros de volumen"
+    "certificados",
+    "programas informáticos",
+    "especificaciones técnicas"
   ],
   "terminos_coloquiales": [
-    "controles volumétricos",
+    "controles de volumen",
     "hidrocarburos",
-    "petrolíferos",
-    "CFF",
-    "RMF"
+    "combustibles",
+    "CFDI",
+    "pedimentos",
+    "certificados de operación"
   ],
-  "resumen": "La regla establece que los equipos y programas para controles volumétricos de hidrocarburos y petrolíferos deben generar y almacenar registros de volumen de las operaciones relacionadas. También deben incluir información sobre los CFDI y pedimentos asociados a las operaciones de estos bienes.",
+  "resumen": "La regla establece que los equipos y programas informáticos deben generar y almacenar registros de volumen para las operaciones de hidrocarburos y petrolíferos. También se requiere que estos incluyan información sobre CFDI y pedimentos relacionados con dichos bienes.",
   "preguntas_ejemplo": [
     "¿Qué son los controles volumétricos de hidrocarburos?",
-    "¿Cómo se deben llevar los registros de volumen de petrolíferos?",
-    "¿Qué información deben generar los programas informáticos para hidrocarburos?",
-    "¿Qué especificaciones siguen los equipos para los controles volumétricos?",
-    "¿Cuál es la normativa relacionada con los CFDI de hidrocarburos?",
-    "¿Qué son los pedimentos en relación a los controles volumétricos?"
+    "¿Cómo se deben registrar las operaciones de petrolíferos?",
+    "¿Qué información debe contener el software para controles volumétricos?",
+    "¿Qué requisitos tienen los certificados de operación para equipos de hidrocarburos?",
+    "¿Cómo se relacionan los CFDI con el control volumétrico?"
   ]
 }

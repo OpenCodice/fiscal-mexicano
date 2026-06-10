@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2c14bd99dffc4b2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opción de acumulación de ingresos para tiempos compartidos",
   "temas": [
-    "Impuesto sobre la renta",
-    "Ingresos",
-    "Tiempos compartidos",
-    "Contratos de hospedaje",
-    "Registro ante PROFECO"
+    "Impuesto sobre la Renta",
+    "Tiempos Compartidos",
+    "Acumulación de Ingresos",
+    "Contratos de Hospedaje",
+    "Deducción de Costos"
   ],
   "terminos_coloquiales": [
-    "Acumulación de ingresos",
-    "Impuesto para tiempos compartidos",
-    "Opción de ingresos",
-    "ISR tiempos compartidos",
-    "LISR 17"
+    "opción de acumulación",
+    "tiempo compartido",
+    "ingresos de hospedaje",
+    "ingreso exigible",
+    "LISR",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes que ofrecen servicios de tiempo compartido pueden optar por acumular todos sus ingresos del ejercicio o solo los exigibles. Esta opción se puede cambiar bajo ciertas condiciones y requiere el registro de los contratos ante PROFECO.",
+  "resumen": "La regla permite a los contribuyentes de tiempo compartido optar por acumular ingresos según el precio exigible de contratos celebrados. Esta opción puede cambiarse una vez, con ciertas condiciones para cambios posteriores.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe acumular los ingresos de un contrato de tiempo compartido?",
-    "¿Puedo cambiar la opción de acumulación de ingresos después de un tiempo?",
-    "¿Qué requisitos debo cumplir para registrar mi contrato de tiempo compartido?",
-    "Si vendo un contrato de tiempo compartido, ¿cómo afecta mi ingreso?",
-    "¿Qué sucede si incumplo el contrato de tiempo compartido?"
+    "¿Cómo puedo acumular ingresos de tiempo compartido?",
+    "¿Qué debo hacer si tengo contratos de hospedaje?",
+    "¿Puedo cambiar mi opción de acumulación de ingresos?",
+    "¿Cómo se determina el ingreso exigible en tiempos compartidos?",
+    "¿Qué requisitos debo cumplir para esta acumulación?",
+    "¿Qué hago si incumplo un contrato de tiempo compartido?"
   ]
 }

@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:92688f57e08b0845",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación de Bebidas Alcohólicas",
+  "denominacion_comun": "Exportación de bebidas alcohólicas",
   "temas": [
-    "Etiquetas de bebidas",
-    "Identificación de representantes comerciales",
+    "Etiquetas",
+    "Contraetiquetas",
+    "Identificación de representantes",
     "Exportación",
-    "IEPS",
-    "Bebidas alcohólicas"
+    "Bebidas alcohólicas",
+    "Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "exportación de bebidas",
-    "etiquetas de exportación",
-    "importación de bebidas",
-    "IEPS"
+    "exportar bebidas",
+    "etiquetas para exportación",
+    "representantes comerciales"
   ],
-  "resumen": "Los contribuyentes que exportan bebidas alcohólicas pueden poner etiquetas con los datos de sus representantes comerciales en lugar de los datos del importador. Esto facilita el proceso de exportación.",
+  "resumen": "Los contribuyentes que exporten bebidas alcohólicas pueden poner etiquetas con la información de sus representantes comerciales en lugar de la del importador en los envases. Esto facilita el proceso de exportación.",
   "preguntas_ejemplo": [
-    "¿Qué datos puedo poner en las etiquetas de mis bebidas exportadas?",
-    "¿Puedo usar los datos de mi representante en lugar del importador?",
-    "¿Cuáles son las obligaciones al exportar bebidas alcohólicas?",
-    "¿Qué es el IEPS en la exportación de bebidas?",
-    "¿Cómo debo etiquetar mis productos para su exportación?"
+    "¿Qué etiquetas debo usar para exportar bebidas alcohólicas?",
+    "¿Puedo poner el nombre de mi representante en lugar del importador en las etiquetas?",
+    "¿Cuáles son los requisitos para exportar bebidas alcohólicas?",
+    "¿Cómo debo etiquetar mis productos para la exportación?",
+    "¿Qué obligaciones tengo al exportar bebidas alcohólicas?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ce5311de635c42db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses en operaciones de reporto",
+  "denominacion_comun": "Intereses de Reporto",
   "temas": [
-    "Impuesto sobre la renta",
-    "Intereses",
-    "Operaciones de reporto",
-    "Títulos de crédito",
-    "Retenciones de impuestos",
-    "Deducibilidad de intereses"
+    "intereses",
+    "operaciones de reporto",
+    "títulos de crédito",
+    "implicaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Intereses de reporto",
-    "Reporto",
-    "ISR reporto",
-    "Premios en reporto"
+    "intereses de reporto",
+    "premios de reporto",
+    "retenido por reporto",
+    "LISR",
+    "reportador",
+    "reportado"
   ],
-  "resumen": "Esta disposición establece que los intereses de las operaciones de reporto de títulos de crédito se consideran intereses para efectos del impuesto sobre la renta. Además, regula cómo se manejan las retenciones de impuestos en estas operaciones y la deducción de intereses para el reportado.",
+  "resumen": "La regla establece que los intereses provenientes de operaciones de reporto de títulos de crédito son considerados como tales a efectos fiscales. También detalla cómo se manejan los créditos y deudas durante el reporto, así como las obligaciones de retención de impuestos por parte de instituciones financieras.",
   "preguntas_ejemplo": [
     "¿Qué son los intereses de reporto?",
-    "¿Cómo se calcula el impuesto en operaciones de reporto?",
-    "¿Qué sucede si no se restituyen los títulos en un reporto?",
-    "¿Cómo se deducen los intereses en reporto?",
-    "¿Qué instituciones están sujetas a retención de impuestos en reportos?"
+    "¿Cómo se gravan los intereses en las operaciones de reporto?",
+    "¿Qué sucede si no se devuelven los títulos al vencimiento del reporto?",
+    "¿Qué retenciones deben hacer las instituciones de crédito en operaciones de reporto?",
+    "¿Cuáles son los efectos fiscales del reporto de títulos de crédito?"
   ]
 }

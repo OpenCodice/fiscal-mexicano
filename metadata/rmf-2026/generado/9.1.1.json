@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f717510de034f5a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaraciones de Petróleos Mexicanos",
   "temas": [
-    "declaraciones fiscales",
+    "declaraciones",
     "pagos",
     "Petróleos Mexicanos",
+    "Ley de Ingresos de la Federación",
+    "Ley de Contribución de Mejoras",
     "CONAGUA",
     "derechos",
     "productos",
-    "aprovechamientos",
-    "infraestructura hidráulica"
+    "aprovechamientos"
   ],
   "terminos_coloquiales": [
-    "declaraciones de PEMEX",
-    "pagos de PEMEX",
-    "declaración de derechos",
-    "LIF",
-    "Ley de Contribución de Mejoras"
+    "declaraciones de Pemex",
+    "declaraciones de Petróleos Mexicanos",
+    "pagos a la CONAGUA",
+    "derechos de obras públicas"
   ],
-  "resumen": "Petróleos Mexicanos debe presentar declaraciones y pagos de acuerdo a ciertos artículos de la Ley de Ingresos de la Federación y otras leyes relacionadas con infraestructura hidráulica. Esto incluye seguir procedimientos específicos establecidos en las reglas mencionadas.",
+  "resumen": "Petróleos Mexicanos debe presentar declaraciones y realizar pagos relacionados con derechos, productos y aprovechamientos conforme a la Ley de Ingresos de la Federación y la Ley de Contribución de Mejoras. Las declaraciones se hacen ante la CONAGUA siguiendo procedimientos específicos establecidos en las reglas correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué declaraciones tiene que hacer Petróleos Mexicanos?",
-    "¿Cómo debe pagar los derechos que le corresponden a PEMEX?",
-    "¿Qué reglas sigue PEMEX para realizar sus declaraciones fiscales?",
-    "¿Qué artículos de la ley regulan las obligaciones de PEMEX?",
-    "¿A quién debe presentar declarativas Petróleos Mexicanos?"
+    "¿Qué declaraciones debe hacer Petróleos Mexicanos?",
+    "¿Cómo se presentan los pagos de derechos a la CONAGUA?",
+    "¿Qué establece la Ley de Ingresos de la Federación para Pemex?",
+    "¿Cuáles son las obligaciones fiscales de Petróleos Mexicanos?",
+    "¿Dónde se encuentran las reglas para las declaraciones de Pemex?"
   ]
 }

@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:643350b8f83c204d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidad para emitir y cancelar CFDI con e.firma",
+  "denominacion_comun": "Facilidad de CFDI con e.firma",
   "temas": [
     "CFDI",
     "e.firma",
-    "emisión",
-    "cancelación",
     "cancelación de CFDI",
-    "procedimientos",
-    "restricción temporal"
-  ],
-  "terminos_coloquiales": [
-    "factura electrónica",
-    "e.firma",
-    "CFDI",
-    "cancelar factura",
+    "contribuyentes",
+    "procedimiento de restricción",
+    "herramientas electrónicas",
     "Genera tu factura",
     "Portal de factura electrónica"
   ],
-  "resumen": "Esta regla permite a las personas físicas usar su e.firma para emitir, cancelar y aceptar la cancelación de CFDI a través de herramientas electrónicas. Si hay irregularidades, se pueden restringir estas facilidades hasta que se solucionen los problemas detectados.",
+  "terminos_coloquiales": [
+    "factura",
+    "CFDI",
+    "certificado de e.firma",
+    "cancelar factura",
+    "generar factura",
+    "requisito de e.firma"
+  ],
+  "resumen": "Esta regla permite a las personas físicas usar la e.firma para emitir y cancelar CFDI mediante herramientas electrónicas. Sin embargo, si hay irregularidades, su uso puede restringirse temporalmente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo emitir una factura electrónica con mi e.firma?",
-    "¿Qué hago si necesito cancelar un CFDI?",
-    "¿Qué sucede si mi uso de e.firma es restringido?",
-    "¿Dónde encuentro el Portal de factura electrónica?",
-    "¿Qué requisitos hay para utilizar mi e.firma en CFDI?",
-    "¿Cómo funciona el procedimiento de restricción temporal?"
+    "¿Cómo puedo emitir mi CFDI con e.firma?",
+    "¿Qué hago si necesito cancelar un CFDI y tengo irregularidades?",
+    "¿Puedo usar mi e.firma para generar facturas electrónicas?",
+    "¿Qué pasa si me bloquean el acceso al buzón tributario?",
+    "¿Cuáles son las herramientas para emitir y cancelar CFDI?"
   ]
 }

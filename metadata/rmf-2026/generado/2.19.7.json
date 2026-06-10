@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b0c36bbb8b5d6639",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revelación de esquemas reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "esquemas reportables",
-    "información fiscal",
-    "pérdidas fiscales",
     "declaraciones informativas",
-    "transmisión de pérdidas",
+    "esquemas reportables generalizados",
+    "esquemas reportables personalizados",
+    "transmisión de pérdidas fiscales",
     "documentación requerida",
-    "actos jurídicos",
-    "asesores fiscales"
+    "actos jurídicos"
   ],
   "terminos_coloquiales": [
-    "esquemas reportables",
-    "esquemas personalizados",
+    "reportar esquemas",
+    "perdidas fiscales",
+    "asesores fiscales",
     "CFF",
-    "esquemas fiscales"
+    "documento PDF"
   ],
-  "resumen": "Se establecen los requisitos y la información que deben presentar los asesores fiscales o contribuyentes sobre esquemas reportables, incluyendo detalles sobre operaciones y pérdidas fiscales. Se diferencian esquemas generalizados y personalizados.",
+  "resumen": "Esta disposición establece las obligaciones para los asesores fiscales y contribuyentes en cuanto a la revelación de esquemas reportables, incluyendo la documentación y datos necesarios sobre las operaciones y pérdidas fiscales. Se distingue entre esquemas generalizados y personalizados en cuanto a la información requerida.",
   "preguntas_ejemplo": [
-    "¿Qué información debo proporcionar sobre esquemas reportables?",
-    "¿Cuáles son los requisitos para declarar pérdidas fiscales?",
-    "¿Cómo se documentan las operaciones en un esquema reportable?",
-    "¿Qué sucede si no tengo toda la información requerida para el esquema reportable?",
-    "¿Qué es un esquema reportable personalizado?"
+    "¿Qué información se necesita para reportar un esquema fiscal?",
+    "¿Cuáles son los requisitos para revelar pérdidas fiscales?",
+    "¿Cómo se clasifican los esquemas reportables?",
+    "¿Qué documentos debo presentar si soy asesor fiscal?",
+    "¿Qué hacer si no tengo la información requerida para un esquema reportable?"
   ]
 }

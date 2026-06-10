@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f07a172e69f2762",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transparentes fiscales",
+  "denominacion_comun": "Transparentes Fiscales",
   "temas": [
-    "Impuesto sobre la renta",
-    "Figuras jurídicas extranjeras",
-    "Control efectivo",
-    "Intercambio de información",
-    "Distribución de ingresos",
-    "Utilidades",
-    "Dividendos"
+    "figuras jurídicas extranjeras",
+    "control efectivo",
+    "acuerdo de intercambio de información",
+    "distribución de ingresos",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "regla de transparentes fiscales",
-    "figuras transparentes",
-    "ISR transparentes",
-    "LISR 4"
+    "sociedades transparentes",
+    "figuras fiscales del extranjero",
+    "dupla tributación"
   ],
-  "resumen": "Los contribuyentes que participen en entidades extranjeras transparentes y que no tengan control efectivo de ellas pueden seguir ciertos procedimientos del ISR hasta que reciban distribuciones de ingresos. Se determina el control efectivo según lo indicado en la ley.",
+  "resumen": "Esta regla establece que los contribuyentes que participen en figuras jurídicas extranjeras que sean consideradas transparentes fiscales pueden cumplir con las disposiciones de la Ley del ISR bajo ciertas condiciones relacionadas con el control efectivo de dichas figuras. Esto se aplica hasta que reciban ingresos o utilidades de ellas.",
   "preguntas_ejemplo": [
-    "¿Qué son las figuras jurídicas extranjeras transparentes?",
-    "¿Cómo afecta el control efectivo a los impuestos?",
-    "¿Qué procedimientos del ISR sigo si tengo ingresos de una figura fiscal extranjera?",
-    "¿Qué significa que una figura sea transparente fiscalmente?",
-    "¿Cuándo debo declarar los ingresos de entidades extranjeras?"
+    "¿Qué son las sociedades transparentes fiscales?",
+    "¿Cómo se determina el control efectivo de una figura extranjera?",
+    "¿Qué debo hacer si participo en una figura jurídica en el extranjero?",
+    "¿Cómo afecta el acuerdo de intercambio de información a mis impuestos?",
+    "¿Qué implica el reparto de dividendos en figuras transparentes fiscales?"
   ]
 }

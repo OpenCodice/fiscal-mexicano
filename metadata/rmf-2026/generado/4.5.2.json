@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89ef4eeef9429fae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos del mes del IVA",
+  "denominacion_comun": "Obligaciones de los contribuyentes del IVA",
   "temas": [
-    "obligaciones de los contribuyentes",
     "información de proveedores",
-    "comprobantes fiscales",
     "gastos deducibles",
-    "limites de erogaciones"
+    "pago de combustibles",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "declaración de IVA",
-    "reportes de proveedores",
-    "gastos de IVA",
-    "LIVA 32"
+    "proveedores",
+    "gastos por combustibles",
+    "facturas",
+    "deducción de impuestos",
+    "IVA"
   ],
-  "resumen": "Los contribuyentes pueden omitir detallar a sus proveedores en ciertos pagos mensuales, siempre que estos no superen un 10% del total pagado en el mes, y que ninguna erogación individual sobrepase los 50,000 pesos. Además, hay gastos específicos que no se cuentan dentro de este límite.",
+  "resumen": "Los contribuyentes pueden omitir la relación individual de proveedores hasta un monto límite en sus pagos mensuales. Además, hay excepciones para ciertos gastos, como los de combustibles, que deben cumplir con los requisitos fiscales establecidos.",
   "preguntas_ejemplo": [
-    "¿Cuánto puedo pagar sin tener que incluir a mis proveedores?",
-    "¿Qué gastos no se cuentan para el cálculo del 10% de mis pagos?",
-    "¿Qué requisitos deben cumplir mis comprobantes fiscales?",
-    "¿Qué sucede si mis erogaciones superan los 50,000 pesos por proveedor?",
-    "¿Puedo omitir a mis proveedores en mi declaración de IVA?"
+    "¿Cuánto puedo pagar a un proveedor sin tener que reportarlo?",
+    "¿Puedo deducir los gastos de combustible de mis vehículos?",
+    "¿Cuáles son los requisitos para los comprobantes fiscales?",
+    "¿Qué pasa si no quiero relacionar a todos mis proveedores?",
+    "¿Hay un límite en los pagos que puedo hacer sin reportar?",
+    "¿Los gastos por consumo de combustibles se incluyen en el cálculo de proveedores?"
   ]
 }

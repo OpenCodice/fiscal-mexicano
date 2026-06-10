@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1dfb6587e275e898",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación para activos fijos nuevos",
+  "denominacion_comun": "Comprobación de bienes de activo fijo nuevos",
   "temas": [
-    "activos fijos",
-    "comprobación de adquisiciones",
+    "activo fijo",
     "CFDI",
-    "estado de cuenta",
+    "documentación comprobatoria",
     "deducción de inversiones",
+    "comprobante fiscal",
     "bienes provenientes del extranjero",
-    "PODECIBI"
+    "póliza contable",
+    "estado de cuenta bancario"
   ],
   "terminos_coloquiales": [
-    "comprobación de activos nuevos",
-    "documentos para deducir activos",
-    "requisitos para activos fijos",
-    "activos fijos PODECIBI"
+    "comprar un bien",
+    "compras de equipo nuevo",
+    "comprobante de compra",
+    "pago de bienes",
+    "estado de cuenta",
+    "CFF",
+    "Decreto PODECIBI"
   ],
-  "resumen": "Esta regla establece la documentación que los contribuyentes deben presentar para comprobar que los bienes de activo fijo adquiridos son nuevos. Incluye CFDI, estados de cuenta y otros documentos que validen la compra y el uso del activo en actividades bajo el régimen específico.",
+  "resumen": "Los contribuyentes deben presentar ciertos documentos para comprobar que los bienes de activo fijo adquiridos son nuevos. Esto incluye comprobantes fiscales, estados de cuenta y, en su caso, contratos que describan las características del bien.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para comprobar la compra de un activo fijo nuevo?",
-    "¿Cómo puedo deducir la compra de un activo fijo?",
-    "¿Cuáles son los requisitos para los CFDI de activos fijos?",
-    "¿Qué es el PODECIBI y cómo afecta la compra de bienes?",
-    "¿Puedo deducir activos fijos importados?"
+    "¿Qué documentos necesito para comprobar que compré un activo fijo nuevo?",
+    "¿Qué es un CFDI y por qué es importante en la compra de bienes?",
+    "¿Puedo deducir la compra de un bien de activo fijo si es usado?",
+    "¿Qué pasa si compro un bien del extranjero?",
+    "¿Cuánto tiempo debe tener el bien para ser considerado nuevo?"
   ]
 }

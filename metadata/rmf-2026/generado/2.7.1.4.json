@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a56968c2e0e518c8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios de validación y descarga de CFDI",
   "temas": [
-    "validación de CFDI",
-    "descarga masiva de CFDI",
-    "herramienta de validación",
-    "Factura SAT Móvil"
+    "CFDI",
+    "validación",
+    "descarga masiva",
+    "portal del SAT",
+    "factura electrónica",
+    "herramientas del SAT"
   ],
   "terminos_coloquiales": [
-    "validación CFDI",
-    "descarga de comprobantes",
-    "CFDI SAT",
-    "herramienta de CFDI",
-    "CFDI"
+    "validar factura",
+    "descargar facturas",
+    "CFDI",
+    "comprobante fiscal",
+    "Factura SAT Móvil"
   ],
-  "resumen": "El SAT ofrece servicios para validar CFDI y permitir su descarga masiva a través de su portal. También se puede consultar CFDI emitidos y recibidos mediante la aplicación Factura SAT Móvil.",
+  "resumen": "El SAT ofrece servicios para validar y descargar comprobantes fiscales digitales a través de su portal. Esto incluye la validación individual y masiva de CFDI, así como la posibilidad de consultar los CFDI emitidos y recibidos mediante una aplicación móvil.",
   "preguntas_ejemplo": [
-    "¿Cómo valido un CFDI?",
-    "¿Dónde puedo descargar mis CFDI?",
-    "¿Qué es la herramienta de validación masiva de CFDI?",
-    "¿Cómo consultar mis CFDI en la app de Factura SAT Móvil?",
-    "¿Qué datos necesito para validar un CFDI?"
+    "¿Cómo puedo validar mis CFDI en el portal del SAT?",
+    "¿Dónde descargo los CFDI que he emitido?",
+    "¿Qué herramientas ofrece el SAT para validar CFDI?",
+    "¿Puedo usar una aplicación para consultar mis facturas?",
+    "¿Qué es la validación masiva de CFDI?"
   ]
 }

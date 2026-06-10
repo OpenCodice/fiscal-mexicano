@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0fb3a0233614e6a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de intermediación",
   "temas": [
     "plataformas digitales",
+    "intermediación",
     "cuentas en el extranjero",
-    "manifestación de información",
-    "bienestar fiscal"
+    "prestación de servicios",
+    "manifestación de depósitos"
   ],
   "terminos_coloquiales": [
-    "servicios de intermediación",
-    "cuentas extranjeras",
-    "manifestación de cuentas"
+    "pago en el extranjero",
+    "cuentas bancarias en el extranjero",
+    "plataformas de intermediación",
+    "servicios digitales",
+    "LIF"
   ],
-  "resumen": "Las plataformas digitales que actúan como intermediarias deben obtener información de los prestadores sobre las cuentas bancarias en el extranjero donde se realizan los pagos. Esto aplica tanto para residentes en México como para aquellos en el extranjero sin establecimiento en el país.",
+  "resumen": "Las plataformas digitales de intermediación deben obtener información sobre las cuentas bancarias en el extranjero de los proveedores para realizar depósitos. Esto aplica tanto a plataformas residentes en el extranjero como en México.",
   "preguntas_ejemplo": [
-    "¿Qué información deben dar las plataformas digitales sobre las cuentas en el extranjero?",
-    "¿Quiénes son responsables de informar las cuentas bancarias?",
-    "¿Cómo afecta esto a los servicios digitales en México?",
-    "¿Qué es la manifestación de cuentas?",
-    "¿Qué implica ser una plataforma de intermediación?"
+    "¿Qué información deben proporcionar las plataformas digitales sobre las cuentas en el extranjero?",
+    "¿Cómo deben manejar las plataformas digitales los pagos recibidos?",
+    "¿Qué requisitos tienen las plataformas de intermediación en relación a las cuentas bancarias?",
+    "¿Quiénes deben cumplir con la manifestación de cuentas para depósitos?",
+    "¿Qué implica la regulación para los servicios digitales en México?"
   ]
 }

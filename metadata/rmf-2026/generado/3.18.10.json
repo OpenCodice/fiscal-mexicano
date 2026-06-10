@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4eb3371807a2dae6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobante fiscal para residentes en el extranjero",
+  "denominacion_comun": "Comprobante fiscal por retenciones a residentes en el extranjero",
   "temas": [
     "retención de impuestos",
     "residentes en el extranjero",
-    "pago de intereses",
-    "expedición de CFDI"
+    "CFDI",
+    "intereses",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "comprobantes fiscales",
-    "CFDI",
-    "impuesto sobre la renta",
-    "ISR"
+    "comprobante fiscal",
+    "retenido",
+    "CFDI de retención",
+    "impuestos a extranjeros",
+    "Ley del ISR"
   ],
-  "resumen": "Se establece que los intermediarios que realicen retenciones de impuestos por pagos de intereses a residentes en el extranjero deben expedir comprobantes fiscales digitales. Esto se hace en términos de la normativa vigente para asegurar la transparencia en las transacciones.",
+  "resumen": "Esta regla establece que el intermediario debe expedir un CFDI por la retención de impuestos ocasionada por el pago de intereses a residentes en el extranjero. Además, debe poner a disposición este comprobante al residente del país que realiza el pago.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe expedir el comprobante fiscal por retenciones a residentes en el extranjero?",
-    "¿Qué requisitos hay para los CFDI de pagos de intereses?",
-    "¿Quién es responsable de emitir el comprobante fiscal para residentes en el extranjero?",
-    "¿Qué dice la Ley del ISR sobre la retención de impuestos a extranjeros?",
-    "¿Cómo se manejan los intereses pagados a residentes en el extranjero según la ley?"
+    "¿Qué comprobante debo expedir al retener impuestos a un extranjero?",
+    "¿Cómo se hace la retención de impuestos a residentes en el extranjero?",
+    "¿Qué es un CFDI de retención?",
+    "¿Qué artículos de la Ley del ISR se aplican a los residentes extranjeros?",
+    "¿Cuáles son mis obligaciones como intermediario al pagar intereses a extranjeros?"
   ]
 }

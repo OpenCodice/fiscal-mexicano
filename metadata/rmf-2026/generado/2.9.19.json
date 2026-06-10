@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b1b5c136c4b5019",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información de Terceros Colaboradores Fiscales",
+  "denominacion_comun": "Colaboración de Terceros en Materia Fiscal",
   "temas": [
+    "tercero colaborador fiscal",
     "CFDI",
+    "información fiscal",
     "operaciones inexistentes",
-    "denuncias",
-    "documentación fiscal",
-    "requerimiento de información"
+    "documentación requerida",
+    "plazos de entrega",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
-    "tercero colaborador fiscal",
-    "reportes de CFDI",
-    "información sobre contribuyentes",
-    "denuncias al SAT"
+    "tercero colaborador",
+    "informar al SAT",
+    "comprobantes fiscales",
+    "denuncia al SAT",
+    "CFDI de operaciones inexistentes"
   ],
-  "resumen": "Esta regla establece que los terceros colaboradores fiscales deben informar al SAT sobre la expedición y operaciones de CFDI que amparan transacciones inexistentes, proporcionando información y documentación específica sobre los contribuyentes involucrados.",
+  "resumen": "Esta regla establece cómo un tercero colaborador fiscal debe informar al SAT sobre la expedición de CFDI que ampara operaciones inexistentes, incluyendo la entrega de documentación necesaria y los plazos para hacerlo. Si no se cumple con los requisitos, la información no será considerada por la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reportar un CFDI que creo que es falso?",
-    "¿Qué información debe proporcionar un tercero colaborador fiscal al SAT?",
-    "¿Cuáles son las consecuencias de no presentar la documentación requerida?",
-    "¿Qué requisitos tiene que cumplir un tercero para informar al SAT?",
-    "¿Cuánto tiempo tiene un tercero colaborador fiscal para enviar la documentación?"
+    "¿Cómo puedo informar al SAT sobre CFDI de operaciones inexistentes?",
+    "¿Cuáles son los plazos para entregar información al SAT como tercero colaborador?",
+    "¿Qué información necesito proporcionar si soy un tercero colaborador fiscal?",
+    "¿Qué sucede si no adjunto la documentación requerida al SAT?",
+    "¿Puedo contactar al SAT si tengo dudas sobre mi colaboración?"
   ]
 }

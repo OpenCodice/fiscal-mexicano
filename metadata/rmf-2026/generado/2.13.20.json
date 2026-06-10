@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9293a4d5f92bbc6b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Liberación de depósitos bancarios",
   "temas": [
-    "Cuentas bancarias",
-    "Depósitos",
-    "Inmovilización",
-    "Aclaraciones",
-    "Trámites fiscales"
+    "inmovilización de cuentas",
+    "depósitos bancarios",
+    "moneda nacional",
+    "moneda extranjera",
+    "ficha de trámite",
+    "solicitud de liberación"
   ],
   "terminos_coloquiales": [
-    "liberación de cuentas",
-    "quitar la inmovilización",
-    "retirar dinero de cuentas inmovilizadas",
-    "ficha de aclaración"
+    "liberar cuentas",
+    "depósitos inmovilizados",
+    "dinero bloqueado",
+    "CFF 156-Bis",
+    "CFF 157"
   ],
-  "resumen": "Los contribuyentes cuyos depósitos bancarios estén inmovilizados pueden solicitar su liberación siguiendo un procedimiento específico establecido por la ley. Esto aplica a cualquier tipo de depósito en cuentas a su nombre.",
+  "resumen": "Los contribuyentes cuyos cuentas bancarias estén inmovilizadas pueden solicitar la liberación de depósitos que tengan a su nombre, ya sea en moneda nacional o extranjera. Esta solicitud debe realizarse conforme a la ficha de trámite específica para ello.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo liberar mis cuentas bancarias inmovilizadas?",
-    "¿Qué hago si mis depósitos están bloqueados?",
-    "¿Qué es la ficha de trámite 112/CFF?",
-    "¿Cuáles son los requisitos para solicitar la liberación de mis depósitos?",
-    "¿Dónde encuentro el procedimiento para liberar mis cuentas?"
+    "¿Cómo puedo liberar mi cuenta bancaria inmovilizada?",
+    "¿Qué debo hacer si tengo dinero bloqueado en mi cuenta?",
+    "¿Cuál es el procedimiento para solicitar la liberación de depósitos?",
+    "¿Qué aplica si mis depósitos están en moneda extranjera?",
+    "¿Dónde encuentro la ficha de trámite para la liberación de depósitos?"
   ]
 }

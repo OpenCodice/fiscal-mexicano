@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:890b6d94ba34a789",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
@@ -13,21 +14,22 @@
     "representante común",
     "obligaciones fiscales",
     "inscripción en el RFC",
-    "cambio de copropietarios",
-    "actualización de actividades"
+    "copropiedad",
+    "sustitución del representante"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
     "RESICO",
-    "representante común",
-    "obligaciones fiscales"
+    "representante fiscal",
+    "inscripción en el RFC",
+    "cumplimiento de obligaciones"
   ],
-  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza pueden designar a un representante común para cumplir con sus obligaciones fiscales. Esta opción debe ser manifestada al momento de la inscripción en el RFC o mediante un aviso de actualización.",
+  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza pueden designar un representante común para cumplir con sus obligaciones fiscales. Esta opción debe ser manifestada al momento de inscribirse en el RFC o mediante un aviso de actualización. En caso de cambios en la copropiedad, se deben seguir cumpliendo ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo nombrar un representante común en el RESICO?",
-    "¿Qué debo hacer si quiero cambiar al representante común?",
-    "¿Cuáles son las obligaciones fiscales del representante común?",
     "¿Qué es el Régimen Simplificado de Confianza?",
-    "¿Cómo me inscribo en el RFC bajo este régimen?"
+    "¿Cómo se nombra un representante común en el RESICO?",
+    "¿Qué debo hacer si cambio de representante en mi copropiedad?",
+    "¿Cuáles son las obligaciones fiscales de los contribuyentes en el RESICO?",
+    "¿Cómo puedo inscribirme en el RFC para el Régimen Simplificado de Confianza?",
+    "¿Qué requisitos debo cumplir si hay nuevos integrantes en la copropiedad?"
   ]
 }

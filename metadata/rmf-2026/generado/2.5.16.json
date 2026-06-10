@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a91be46e6039001",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación en el RFC por liquidación total del activo",
   "temas": [
-    "cancelación del RFC",
-    "liquidación de sociedades",
-    "obligaciones fiscales",
-    "notificación por el SAT",
-    "diligencias ante la Secretaría de Economía"
+    "disolución de sociedades",
+    "liquidación",
+    "RFC",
+    "avisos fiscales",
+    "obligaciones tributarias",
+    "Portal de Liquidación",
+    "domicilio fiscal"
   ],
   "terminos_coloquiales": [
-    "cancelación RFC",
-    "liquidación de empresa",
-    "aviso de liquidación",
+    "cancelación del RFC",
+    "liquidación de empresas",
+    "avisos de liquidación",
     "SAT",
-    "RFC",
-    "sociedad disuelta"
+    "Portal de Economía"
   ],
-  "resumen": "Cuando una persona moral se disuelve y liquida, puede quedar relevada de presentar avisos en el RFC si cumple con ciertos requisitos establecidos en la regla. El SAT notificará si es procedente esa relevancia tras verificar que se encuentren al corriente en sus obligaciones fiscales.",
+  "resumen": "Este apartado establece que las personas morales que lleven a cabo su disolución y liquidación pueden quedar exentas de presentar ciertos avisos en el RFC, siempre que cumplan con requisitos específicos como estar al corriente en sus obligaciones fiscales. Además, se detalla el procedimiento a seguir y las notificatorias que el SAT deberá realizar al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cómo cancelo el RFC de una empresa que se disolvió?",
-    "¿Qué avisos debo presentar al liquidar una sociedad?",
-    "¿Cuáles son los requisitos para cancelación del RFC por liquidación?",
-    "¿El SAT me notifica si estoy relevado de presentar avisos por liquidación?",
-    "Si no uso el portal para liquidar, ¿qué debo hacer?"
+    "¿Cómo puedo cancelar mi RFC tras liquidar mi empresa?",
+    "¿Qué avisos debo presentar al SAT si disuelvo mi sociedad?",
+    "¿Puedo quedar exento de presentar avisos en el RFC al liquidar?",
+    "¿Qué hacer si no concluyo la liquidación en el Portal de Economía?",
+    "¿Cuáles son los requisitos para la cancelación del RFC en liquidación?",
+    "¿Cómo notifica el SAT la cancelación del RFC por liquidación total de activo?"
   ]
 }

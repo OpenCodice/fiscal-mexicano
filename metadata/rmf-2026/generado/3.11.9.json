@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0a538de31d138257",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Base del ISR para operaciones",
+  "denominacion_comun": "Base del ISR para contribuyentes",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Ganancias",
-    "Pérdidas",
-    "Cuentas personales especiales"
+    "impuesto sobre la renta",
+    "ganancias",
+    "pérdidas",
+    "cuentas personales especiales"
   ],
   "terminos_coloquiales": [
-    "Base del ISR",
-    "Impuesto sobre la renta",
     "ISR",
-    "LISR"
+    "ganancias y pérdidas",
+    "impuesto sobre la renta para personas físicas"
   ],
-  "resumen": "Los contribuyentes pueden calcular una única base del ISR sumando todas las ganancias de sus operaciones y restando las pérdidas, de acuerdo con lo establecido en los artículos 88 y 129 de la Ley del ISR.",
+  "resumen": "Esta disposición permite a los contribuyentes calcular una sola base del ISR sumando las ganancias y restando las pérdidas por operaciones específicas. Se deben considerar las pérdidas pendientes de amortizar de ejercicios anteriores.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo mi base del ISR?",
-    "¿Puedo sumar ganancias y restar pérdidas para el ISR?",
-    "¿Qué dice la ley sobre cuentas personales especiales en el ISR?",
-    "¿Cuáles son los artículos que regulan la acumulación de ingresos para el ISR?",
-    "¿Qué son las pérdidas pendientes de amortizar?"
+    "¿Cómo puedo calcular mi base del ISR si tengo ganancias y pérdidas?",
+    "¿Qué debo hacer con las pérdidas que tengo de ejercicios anteriores para el ISR?",
+    "¿Qué operaciones se consideran para el cálculo de la base del ISR?",
+    "¿Qué significa acumular ingresos en cuentas personales especiales para el ISR?",
+    "¿Cómo afectan las pérdidas al pago del impuesto sobre la renta?"
   ]
 }

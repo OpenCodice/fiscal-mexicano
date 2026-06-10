@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d72354d35061d7dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Complemento Carta Porte",
   "temas": [
-    "CFDI",
+    "CFDI de tipo traslado",
     "transporte de mercancías",
-    "bien o mercancías",
-    "comprobantes fiscales"
+    "bienes en traslado",
+    "documentación aduanera",
+    "representación impresa"
   ],
   "terminos_coloquiales": [
-    "Carta Porte",
-    "CFDI de traslado",
-    "complemento de carta porte"
+    "factura de traslado",
+    "complemento Carta Porte",
+    "transporte de bienes",
+    "credencial de transporte",
+    "CFDI"
   ],
-  "resumen": "Esta regla establece que los propietarios y poseedores de mercancías pueden acreditar su transporte utilizando un CFDI de tipo traslado con el complemento Carta Porte. Este comprobante debe incluir ciertos datos y se aplica solamente en el contexto de transporte dentro del territorio nacional.",
+  "resumen": "La regla establece que los propietarios y poseedores de mercancías pueden usar un CFDI de tipo traslado con el complemento Carta Porte para acreditar el transporte de sus bienes. Deben incluir información específica como el valor cero y el número del pedimento aduanero si corresponde.",
   "preguntas_ejemplo": [
-    "¿Qué es el complemento Carta Porte?",
-    "¿Cómo se acredita el transporte de mercancías?",
-    "¿Qué información se necesita en el CFDI de tipo traslado?",
-    "¿Puedo usar un CFDI de traslado para hidrocarburos?",
-    "¿Qué requisitos debo cumplir para el transporte de mercancías extranjeras?"
+    "¿Cómo debo emitir un CFDI para el transporte de mercancías?",
+    "¿Qué información necesito incluir en el complemento Carta Porte?",
+    "¿Es necesario presentar un CFDI al trasladar bienes de origen extranjero?",
+    "¿Cuáles son los requisitos para el CFDI de tipo traslado?",
+    "¿Puedo usar el mismo CFDI para transportar diferentes tipos de mercancías?"
   ]
 }

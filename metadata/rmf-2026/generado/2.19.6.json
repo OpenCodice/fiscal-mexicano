@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1c244a091aa2b632",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas reportables",
+  "denominacion_comun": "Esquemas Reportables",
   "temas": [
     "declaraciones informativas",
-    "esquemas reportables",
-    "Ley del ISR",
-    "información fiscal",
-    "consultoría fiscal",
     "documentación requerida",
-    "evitar aplicación de la ley",
-    "detalles operativos"
+    "esquemas reportables generalizados",
+    "esquemas reportables personalizados",
+    "información a revelar",
+    "prevención de evasión fiscal",
+    "operaciones jurídicas",
+    "asesoría fiscal"
   ],
   "terminos_coloquiales": [
-    "información de esquemas reportables",
-    "documentación fiscal",
+    "reportar esquemas fiscales",
+    "esquemas de planificación fiscal",
+    "documentos fiscales",
+    "asesor fiscal",
     "CFF",
-    "Ley de ISR"
+    "ISR"
   ],
-  "resumen": "El artículo establece los requisitos para revelar esquemas reportables en las declaraciones informativas. Los asesores fiscales y contribuyentes deben adjuntar documentación específica que detalle operaciones y contextos para evitar la aplicación de la Ley del ISR.",
+  "resumen": "La regla establece que los asesores fiscales o contribuyentes deben incluir información detallada en formato .pdf sobre esquemas reportables que eviten el cumplimiento de la ley del ISR. Esto incluye diagramas, antecedentes, operaciones específicas y datos sobre involucrados en dichos esquemas.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en las declaraciones informativas sobre esquemas reportables?",
-    "¿Cómo se revela un esquema reportable para la Ley del ISR?",
-    "¿Qué información se necesita para documentar un esquema reportable?",
-    "¿Cuáles son los pasos para evitar la aplicación de la Ley del ISR?",
-    "¿Qué hacer si no tengo información sobre el esquema reportable?"
+    "¿Qué información debo incluir al reportar un esquema fiscal?",
+    "¿Cuáles son los requisitos para los esquemas reportables personalizados?",
+    "¿Cómo puedo revelar un esquema reportable?",
+    "¿Qué sucede si no tengo toda la documentación requerida?",
+    "¿Qué es un esquema reportable según el CFF?",
+    "¿Qué tipo de operaciones se consideran en un esquema reportable?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:02cab04c16b62e3b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "ISR para empresas IMMEX bajo albergue",
+  "denominacion_comun": "Pagos provisionales para residentes en el extranjero con programa IMMEX",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Residentes en el extranjero",
-    "Pagos provisionales",
-    "Empresa IMMEX",
-    "Modalidad de albergue"
+    "ISR",
+    "residentes en el extranjero",
+    "pagos provisionales",
+    "programa IMMEX",
+    "albergue",
+    "utilidad fiscal"
   ],
   "terminos_coloquiales": [
-    "ISR para IMMEX",
-    "Pago provisional para empresas bajo albergue",
-    "IMPUESTO sobre la RENTA para maquila",
-    "Empresas maquiladoras"
+    "impuesto sobre la renta",
+    "residentes extranjeros",
+    "pagos mensuales",
+    "IMMEX",
+    "albergue"
   ],
-  "resumen": "Esta disposición establece cómo deben determinar y realizar los pagos provisionales del Impuesto sobre la Renta los residentes en el extranjero que operan a través de empresas IMMEX bajo la modalidad de albergue. Define el cálculo de los pagos en base a la utilidad fiscal del ejercicio anterior y sugiere procedimientos específicos para el primer pago provisional.",
+  "resumen": "Los residentes en el extranjero que realicen pagos provisionales mensuales a través de una empresa con programa IMMEX bajo la modalidad de albergue deben calcular el ISR correspondiente y dividirlo entre doce para determinar la cantidad a pagar mensualmente. El primer pago provisional abarcará los tres primeros meses del ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo el ISR si soy residente en el extranjero y opero con una empresa IMMEX?",
-    "¿Qué pasos debo seguir para hacer mis pagos provisionales mensuales?",
-    "¿Cuándo debo realizar mi primer pago provisional si soy una empresa bajo albergue?",
-    "¿Qué pasa si mi ejercicio es irregular?",
-    "¿Puedo acreditar mis pagos provisionales previos?"
+    "¿Cómo calculo mis pagos provisionales si soy residente en el extranjero?",
+    "¿Qué significa el programa IMMEX para las empresas?",
+    "¿Cuáles son las obligaciones fiscales para residentes extranjeros bajo el régimen IMMEX?",
+    "¿Cómo se determina el ISR para un residente en el extranjero?",
+    "¿Qué incluye el primer pago provisional para residentes extranjeros?",
+    "¿Qué hacer si mi ejercicio es irregular?"
   ]
 }

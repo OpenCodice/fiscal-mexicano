@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2ec37b206787358a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representantes legales en el RFC",
+  "denominacion_comun": "Representantes Legales",
   "temas": [
-    "Solicitud de modificación",
-    "Socios",
-    "Accionistas",
-    "Control y mando",
-    "Información fiscal"
+    "RFC",
+    "socios",
+    "accionistas",
+    "modificación de datos",
+    "representantes legales",
+    "estructura orgánica"
   ],
   "terminos_coloquiales": [
-    "Representantes legales",
-    "RFC",
-    "Socios y accionistas",
-    "Datos de contacto",
-    "Ficha 38/CFF"
+    "actualizar representantes",
+    "informar sobre socios",
+    "cambio de accionistas",
+    "ficha 38/CFF",
+    "datos de contacto"
   ],
-  "resumen": "Las personas morales deben informar al RFC sobre los datos de sus socios, accionistas y representantes legales cada vez que haya una modificación. También pueden actualizar la información de sus representantes legales cuando sea necesario para efectos fiscales.",
+  "resumen": "Las personas morales deben informar al RFC sobre sus socios, accionistas y representantes legales cada vez que haya cambios en su estructura. También pueden actualizar la información de sus representantes legales para fines fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo actualizo los datos de mis representantes legales en el RFC?",
-    "¿Qué información debo presentar sobre mis socios y accionistas?",
-    "¿Qué es la ficha de trámite 38/CFF?",
-    "¿Cuándo tengo que informar cambios en mi empresa al RFC?",
-    "¿Qué datos necesito para la modificación de socios en el RFC?"
+    "¿Cómo puedo actualizar la información de mis representantes legales en el RFC?",
+    "¿Qué debo informar sobre mis socios y accionistas al RFC?",
+    "¿Qué es la ficha 38/CFF y cómo se utiliza?",
+    "¿Qué sucede si cambio de accionistas en mi empresa?",
+    "¿Dónde presento la solicitud para modificar los datos de mis socios?"
   ]
 }

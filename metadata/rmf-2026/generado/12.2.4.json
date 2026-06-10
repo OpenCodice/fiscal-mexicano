@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9b64bda54d711664",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones del ISR en plataformas digitales",
+  "denominacion_comun": "Retenciones del ISR en servicios digitales",
   "temas": [
     "retenciones del ISR",
     "servicios digitales",
     "intermediación",
     "plataformas tecnológicas",
-    "declaración de pago"
+    "declaración de pago",
+    "personas físicas",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "retenciones ISR",
-    "servicios digitales",
+    "retenciones de impuesto",
+    "pago de ISR",
+    "servicios por Internet",
     "intermediación digital",
-    "plataformas de intermediación"
+    "plataformas en línea"
   ],
-  "resumen": "Las plataformas digitales deben realizar la retención del ISR a las personas que venden bienes o servicios a través de ellas. Esta retención debe enterarse mediante una declaración específica en un plazo establecido.",
+  "resumen": "Las plataformas digitales que realizan intermediación deben retener el ISR a personas físicas y morales que venden bienes o servicios en línea. Estas retenciones deben enterarse a más tardar el día 17 del mes siguiente mediante la declaración correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen las retenciones del ISR en plataformas digitales?",
-    "¿Cuándo debo enterar el ISR de mis ventas en línea?",
-    "¿Qué plataformas están obligadas a hacer retenciones de ISR?",
-    "¿Qué es la declaración de pago del ISR por retenciones?",
-    "¿Qué obligaciones tengo si vendo productos a través de internet?"
+    "¿Cómo se hacen las retenciones de ISR en plataformas digitales?",
+    "¿Qué plataforma debe retener el impuesto a los vendedores en línea?",
+    "¿Cuándo se debe entregar el entero de las retenciones del ISR?",
+    "¿Qué tipo de servicios están sujetos a retención de ISR?",
+    "¿Cómo se declara el pago del ISR por intermediación digital?"
   ]
 }

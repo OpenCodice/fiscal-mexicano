@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5967656a89cf76ca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plataformas Tecnológicas y Pago Provisional del ISR",
+  "denominacion_comun": "Pagos provisionales ISR plataformas tecnológicas",
   "temas": [
-    "pago provisional del ISR",
-    "plataformas tecnológicas",
-    "declaraciones fiscales",
+    "declaraciones de ISR",
     "personas físicas",
-    "enajenación de bienes",
-    "prestación de servicios",
-    "derechos y obligaciones fiscales"
+    "plataformas tecnológicas",
+    "actividades empresariales",
+    "ingresos",
+    "declaración mensual"
   ],
   "terminos_coloquiales": [
-    "ISR plataformas",
-    "declaración de pago ISR",
-    "declaración de ISR plataformas",
+    "declaración de ISR",
+    "pagos de ISR",
     "plataformas digitales",
-    "pago ISR personas físicas"
+    "ingresos por internet",
+    "pago provisional",
+    "declaración de pago del ISR personas físicas plataformas tecnológicas"
   ],
-  "resumen": "Las personas físicas que venden bienes o servicios a través de plataformas tecnológicas deben presentar un pago provisional del ISR mediante una declaración específica. Si obtienen otros ingresos diferentes a los generados por estas plataformas, deben utilizar otras declaraciones para cumplir con sus obligaciones fiscales.",
+  "resumen": "Las personas físicas que enajenan bienes o prestan servicios a través de plataformas tecnológicas deben presentar pagos provisionales de ISR mediante una declaración específica. Si también generan ingresos por otros conceptos, deberán usar una declaración diferente para reportar esos ingresos.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el pago provisional del ISR si vendo a través de plataformas digitales?",
-    "¿Qué tipo de declaración debo utilizar si tengo ingresos de plataformas tecnológicas?",
-    "¿Qué pasa si dejo de obtener ingresos por plataformas digitales?",
-    "¿Cuándo debo presentar mis pagos provisionales del ISR?",
-    "¿Qué significa ser beneficiario del estímulo fiscal en materia de ISR?"
+    "¿Cómo presento mi declaración de ISR si vendo por Internet?",
+    "¿Qué hacer si tengo ingresos de plataformas digitales y otros ingresos?",
+    "¿Cuál es la fecha límite para pagar el ISR de mis actividades en línea?",
+    "¿Qué declaración debo presentar si me di de baja de beneficios fiscales en la frontera?",
+    "¿Cómo declaro mis ingresos de plataformas tecnológicas?"
   ]
 }

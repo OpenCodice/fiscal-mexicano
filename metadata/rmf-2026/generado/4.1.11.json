@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4fe237cf4409bb29",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Entero de retenciones de IVA",
   "temas": [
-    "Retenciones de IVA",
-    "Presentación de declaraciones",
-    "Acreditamiento de IVA",
-    "Compensación de IVA",
-    "Uso de e.firma",
-    "Contribuyentes personas morales"
+    "retención de IVA",
+    "declaración IVA retenciones",
+    "personas morales",
+    "e.firma",
+    "compensación",
+    "acreditamiento"
   ],
   "terminos_coloquiales": [
-    "Retención de IVA",
-    "IVA retenido",
-    "Declaración de IVA",
-    "E-firma",
-    "ADSC"
+    "retención de IVA",
+    "declaración de IVA",
+    "e.firma",
+    "SAT"
   ],
-  "resumen": "Las personas físicas y morales obligadas a retener IVA deben enterar esta retención mediante la declaración 'IVA retenciones', sin posibilidad de acreditamiento o compensación. Las personas morales deben usar su e.firma para enviar la declaración.",
+  "resumen": "Los contribuyentes obligados a retener IVA deben presentar la declaración \"IVA retenciones\" sin posibilidad de acreditamiento o compensación. Las personas morales deben usar su e.firma para enviar la declaración.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe presentar la declaración de IVA retenido?",
-    "¿Puedo acreditar el IVA que he retenido?",
-    "¿Qué es la e.firma y cómo la uso para mis declaraciones?",
-    "¿Dónde puedo hacer el entero de las retenciones de IVA?",
-    "¿Qué debo hacer si soy una persona moral y tengo que retener IVA?"
+    "¿Cómo hago el entero de retenciones de IVA?",
+    "¿Qué es la declaración IVA retenciones?",
+    "¿Puedo acreditar la retención de IVA?",
+    "¿Qué es la e.firma para el envío de declaraciones?",
+    "¿Dónde presento la declaración si soy persona moral?"
   ]
 }

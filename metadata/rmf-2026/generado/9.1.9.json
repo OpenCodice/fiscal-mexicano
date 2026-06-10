@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8de611c840867dbf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intercambio de información crediticia por el SAT",
   "temas": [
-    "Información crediticia",
-    "SAT",
-    "Sociedades de información crediticia",
-    "Cortes mensuales",
-    "Comunicación",
-    "Condonación de créditos fiscales"
+    "intercambio de información",
+    "sociedades de información crediticia",
+    "créditos fiscales",
+    "contribuciones federales",
+    "cuotas compensatorias",
+    "multas fiscales",
+    "corte mensual de información"
   ],
   "terminos_coloquiales": [
-    "Intercambio de información del SAT",
-    "Información crediticia SAT",
-    "Cortes de información",
-    "Sociedades de información",
-    "Créditos fiscales"
+    "información crediticia",
+    "SAT",
+    "sociedades de información",
+    "multas",
+    "contribuciones",
+    "créditos fiscales"
   ],
-  "resumen": "El SAT proporciona información a las sociedades de información crediticia mensualmente, el día 15 o el siguiente día hábil. Esta información incluye detalles sobre créditos fiscales y otros aspectos relacionados con las obligaciones fiscales federales.",
+  "resumen": "El SAT enviará información a las sociedades de información crediticia de manera mensual, la cual se entregará el día 15 o el siguiente día hábil del mes posterior. Esta información incluye créditos fiscales y multas relacionadas con contribuciones federales.",
   "preguntas_ejemplo": [
-    "¿Cómo se intercambia la información crediticia con el SAT?",
+    "¿Cómo y cuándo se intercambia la información crediticia con el SAT?",
     "¿Qué información proporciona el SAT a las sociedades de información crediticia?",
-    "¿Con qué frecuencia el SAT envía información a las sociedades crediticias?",
-    "¿Qué es el corte mensual de información crediticia del SAT?",
-    "¿A qué sociedades enviará el SAT la información crediticia?",
-    "¿Qué incluye la información que el SAT comparte con las sociedades crediticias?"
+    "¿Cuándo se entrega la información crediticia del SAT?",
+    "¿Qué tipos de créditos fiscales se incluyen en el intercambio de información?",
+    "¿Qué se entiende por sociedades de información crediticia?"
   ]
 }

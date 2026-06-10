@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dfaa54d3b29a5190",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "IVA servicios digitales",
+  "denominacion_comun": "Servicios digitales para residentes en el extranjero",
   "temas": [
-    "prestación de servicios digitales",
-    "pago de IVA",
+    "IVA",
+    "servicios digitales",
     "residentes en el extranjero",
-    "Declaración de pago",
-    "Ley del IVA"
+    "declaración de pago",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "IVA servicios digitales",
+    "pago de IVA por servicios digitales",
     "declaración de servicios digitales",
-    "Ley del IVA",
-    "artículo 18-D",
-    "RMF 2.8.3.1"
+    "residentes en el extranjero",
+    "IVA",
+    "servicios digitales"
   ],
-  "resumen": "Los residentes en el extranjero que proporcionan servicios digitales deben pagar el IVA a través de una declaración específica a más tardar el día 17 del mes siguiente. Esto está regulado por el artículo 18-D de la Ley del IVA y la regla 2.8.3.1 de la Resolución Miscelánea Fiscal.",
+  "resumen": "Los residentes en el extranjero que presten servicios digitales deberán pagar el IVA mediante una declaración específica. Este pago debe realizarse a más tardar el día 17 del mes siguiente al que corresponde el ingreso por estos servicios.",
   "preguntas_ejemplo": [
-    "¿Cómo pago el IVA por servicios digitales desde el extranjero?",
-    "¿Cuándo debo presentar la declaración de servicios digitales?",
-    "¿Qué es el artículo 18-D de la Ley del IVA?",
-    "¿Qué información debo entregar sobre los servicios digitales que ofrezco?",
-    "¿Qué es la RMF 2.8.3.1?"
+    "¿Cómo pago el IVA si soy un residente en el extranjero que presta servicios digitales?",
+    "¿Qué fecha límite tengo para hacer la declaración de servicios digitales?",
+    "¿Qué es la declaración de pago del Impuesto al Valor Agregado por servicios digitales?",
+    "¿Quiénes deben hacer el pago del IVA por servicios digitales?",
+    "¿Cuáles son las obligaciones fiscales de los residentes en el extranjero por servicios digitales?"
   ]
 }

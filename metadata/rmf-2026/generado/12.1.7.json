@@ -6,35 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1cc37ccfdcac7815",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios Digitales desde el Extranjero",
+  "denominacion_comun": "Servicios digitales desde el extranjero",
   "temas": [
-    "pago de contribuciones",
+    "pago de impuestos",
     "servicios digitales",
     "residentes en el extranjero",
-    "procedimiento de pago",
-    "TESOFE",
-    "LISR",
-    "LIVA",
-    "LIF",
-    "Ley de TESOFE"
+    "Ley del ISR",
+    "Ley del IVA",
+    "TESOFE"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos desde el extranjero",
-    "servicios digitales",
-    "contribuciones desde el extranjero",
-    "TESOFE",
-    "dólares americanos",
+    "pago desde el extranjero",
+    "impuestos por servicios digitales",
+    "pago en dólares",
+    "SAT",
     "línea de captura",
-    "pec"
+    "contribuciones fiscales"
   ],
-  "resumen": "Los residentes en el extranjero que proporcionen servicios digitales pueden optar por realizar el pago de contribuciones desde el exterior en pesos mexicanos o dólares, siguiendo un procedimiento específico establecido por la TESOFE. Es necesario generar una línea de captura y presentar la declaración correspondiente para cumplir con las obligaciones fiscales.",
+  "resumen": "Esta regla establece que los residentes en el extranjero que proporcionen servicios digitales pueden realizar el pago de sus contribuciones fiscales en pesos o en dólares. También detalla el procedimiento para hacerlo desde el extranjero, incluyendo la generación de una línea de captura en el Portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo hacen los extranjeros para pagar impuestos en México por servicios digitales?",
-    "¿Qué procedimientos deben seguir los residentes en el extranjero para cumplir con sus obligaciones fiscales?",
-    "¿Se puede pagar en dólares americanos por servicios digitales desde el extranjero?",
-    "¿Qué es la línea de captura y cómo se genera?",
-    "¿Qué pasa si no cumplo con las especificaciones para el pago desde el extranjero?"
+    "¿Cómo puedo pagar mis impuestos si soy un residente en el extranjero que brinda servicios digitales?",
+    "¿Qué requisitos tengo que cumplir para realizar el pago de contribuciones desde el extranjero?",
+    "¿Puedo pagar mis impuestos en dólares si ofrezco servicios digitales desde fuera de México?",
+    "¿Qué es una línea de captura y cómo la genero para el pago de impuestos?",
+    "¿Cuáles son las leyes fiscales que aplican a los servicios digitales?",
+    "¿Qué es la TESOFE y cómo afecta mis pagos de impuestos desde el extranjero?"
   ]
 }

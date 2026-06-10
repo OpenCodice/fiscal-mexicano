@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9fbfbb4a6d87c1c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos",
   "temas": [
-    "solicitud de autorización",
-    "monto del adeudo",
+    "autorización",
+    "adeudo",
     "facultades de comprobación",
     "proyecto de pagos",
-    "fechas y montos concretos"
+    "fechas y montos",
+    "solicitud formal"
   ],
   "terminos_coloquiales": [
-    "pago en cuotas",
-    "pago fraccionado",
-    "autorización de pagos",
-    "CFF 66"
+    "pago a plazos",
+    "solicitud de pago a plazos",
+    "adeudo fiscal",
+    "CFF",
+    "RMF"
   ],
-  "resumen": "El contribuyente puede comunicar a la autoridad fiscal su intención de solicitar la autorización para el pago a plazos de un adeudo. Después de conocer el monto a corregir, podrá presentar su solicitud conforme a las reglas establecidas.",
+  "resumen": "El contribuyente puede solicitar la autorización para hacer pagos a plazos sobre un adeudo fiscal. Debe manifestar su intención ante la autoridad fiscal y presentar un proyecto con las fechas y montos específicos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar el pago a plazos de mis impuestos?",
-    "¿Qué debo hacer para conocer el monto de mi adeudo antes de solicitar un pago a plazos?",
-    "¿Cuáles son los requisitos para autorizar el pago en cuotas?",
-    "¿Dónde presento mi solicitud de autorización para pago a plazos?",
-    "¿Qué información necesito para plantear un proyecto de pagos?"
+    "¿Cómo puedo solicitar un pago a plazos de mis impuestos?",
+    "¿Qué debo hacer para conocer el monto de mi adeudo?",
+    "¿Qué información necesito para presentar mi solicitud de pago a plazos?",
+    "¿Cuál es el procedimiento para pedir autorización de pago a plazos?",
+    "¿Puedo solicitar un pago a plazos si tengo facultades de comprobación?"
   ]
 }

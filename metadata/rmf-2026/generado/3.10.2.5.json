@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:092070313e6f6763",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones financieras derivadas",
+  "denominacion_comun": "Operaciones financieras derivadas en fondos de inversión",
   "temas": [
     "fondos de inversión",
-    "impuesto sobre la renta",
+    "operaciones financieras derivadas",
+    "ganancias",
+    "pérdidas",
+    "retención de ISR",
     "plusvalías",
     "minusvalías",
-    "retención de impuestos",
-    "ganancias",
-    "pérdidas"
+    "declaración anual"
   ],
   "terminos_coloquiales": [
-    "operaciones financieras derivadas",
-    "ISR fondos de inversión",
-    "ganancias y pérdidas",
-    "plusvalías y minusvalías",
-    "CFDI para accionistas"
+    "fondos de inversión",
+    "ganancias de fondos",
+    "pérdidas de fondos",
+    "retención ISR",
+    "CFDI de fondos",
+    "declaración anual"
   ],
-  "resumen": "Esta regla establece cómo los fondos de inversión deben calcular y reportar el impuesto sobre la renta por operaciones financieras derivadas, incluyendo la clasificación de ingresos y gastos, así como la retención correspondiente a cada integrante del fondo. Además, se determina cómo las pérdidas pueden aplicarse a las ganancias futuras.",
+  "resumen": "La regla establece cómo los fondos de inversión deben determinar y registrar las ganancias y pérdidas de sus operaciones financieras derivadas. También detalla cómo calcular la retención de ISR sobre estas ganancias y la obligación de emitir constancias anuales a sus integrantes.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias y pérdidas en un fondo de inversión?",
-    "¿Qué retención de impuestos se aplica a las operaciones financieras derivadas?",
-    "¿Qué información debe entregar el fondo de inversión a sus accionistas?",
-    "¿Cómo se reportan las plusvalías y minusvalías en el ISR?",
-    "¿Las pérdidas de un año se pueden aplicar a ganancias futuras?"
+    "¿Cómo se determina la ganancia de un fondo de inversión?",
+    "¿Qué debo reportar en mi declaración anual sobre fondos de inversión?",
+    "¿Cómo se calculan las pérdidas en operaciones financieras derivadas?",
+    "¿Qué información debe contener el CFDI que me emite el fondo de inversión?",
+    "¿Cómo se aplica una pérdida de un año contra las ganancias de otro año?"
   ]
 }

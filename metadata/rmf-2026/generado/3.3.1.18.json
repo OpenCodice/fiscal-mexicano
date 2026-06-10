@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ddeede5cb01b26a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Autorización para emitir monederos electrónicos de vales de despensa",
   "temas": [
-    "Autorización",
-    "Vigencia",
-    "Renovación",
-    "Emisores",
-    "Garantía",
-    "Aviso de renovación",
-    "Obligaciones fiscales"
+    "monederos electrónicos",
+    "vales de despensa",
+    "renovación de autorización",
+    "garantía",
+    "cumplimiento de requisitos"
   ],
   "terminos_coloquiales": [
     "monederos electrónicos",
     "vales de despensa",
-    "emisión de vales",
-    "autorización de vales",
+    "renovación de monederos",
     "SAT",
-    "RMF"
+    "autorización de vales"
   ],
-  "resumen": "La autorización para emitir monederos electrónicos de vales de despensa es válida por el año fiscal en el que se otorga y puede renovarse si se cumplen ciertos requisitos. Si no se renueva, el emisor debe seguir operando por un periodo de transición y cumplir con varias obligaciones durante ese tiempo.",
+  "resumen": "La autorización para emitir monederos electrónicos de vales de despensa es válida por un ejercicio fiscal y puede renovarse si se cumplen los requisitos. Si no se renueva, se debe seguir operando durante un periodo de transición mientras se avisa a los usuarios y se cumplen otras obligaciones establecidas.",
   "preguntas_ejemplo": [
-    "¿Cuánto dura la autorización para los monederos electrónicos de vales de despensa?",
-    "¿Cómo renuevo la autorización para emitir vales de despensa?",
-    "¿Qué hago si no renuevo la autorización a tiempo?",
-    "¿Cuáles son los requisitos para operar como emisor de monederos electrónicos?",
-    "¿Qué obligaciones tengo si mi autorización no es renovada?"
+    "¿Cuánto tiempo dura la autorización para emitir monederos electrónicos?",
+    "¿Qué requisitos debo cumplir para renovar la autorización de vales de despensa?",
+    "¿Qué sucede si no renuevo mi autorización de monederos electrónicos?",
+    "¿Cómo notifico a mis clientes sobre la no renovación de la autorización?",
+    "¿Qué hago si quiero solicitar una nueva autorización después de no presentar la documentación a tiempo?"
   ]
 }

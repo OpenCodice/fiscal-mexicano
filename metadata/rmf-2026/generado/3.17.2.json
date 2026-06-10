@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e4b8183737fd0fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Anual del ISR",
   "temas": [
-    "Personas físicas",
-    "Ingresos acumulables",
-    "Declaración anual",
+    "personas físicas",
+    "ingresos acumulables",
+    "declaración anual",
+    "intereses reales",
     "Portal del SAT",
-    "Programa para declaración anual",
-    "Aviso de actualización",
-    "RFC"
+    "Programa para Declaraciones Anuales",
+    "avisos ante el RFC"
   ],
   "terminos_coloquiales": [
-    "Declaración anual ISR",
-    "Declaración del año",
+    "declaración anual",
+    "ISR",
     "SAT",
-    "LISR"
+    "presentar declaración",
+    "ingresos por intereses"
   ],
-  "resumen": "Las personas físicas con ingresos acumulables que superen un monto específico deben presentar su declaración anual a través del Portal del SAT. Aquellas que perciban además ingresos de otros capítulos están relevadas de presentar el aviso de actualización de actividades económicas y obligaciones por intereses.",
+  "resumen": "Las personas físicas con ingresos acumulables que superen un monto de intereses reales están obligadas a presentar su declaración anual a través del Portal del SAT. Si obtienen otros ingresos y están inscritas en el RFC, no necesitan presentar un aviso de actualización de actividades económicas por sus ingresos de intereses.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mi declaración anual del ISR?",
-    "¿Qué ingresos necesito declarar?",
-    "¿Qué hago si tengo ingresos de intereses?",
-    "¿Debo presentar un aviso de actualización ante el RFC?",
-    "¿Qué es el Portal del SAT?"
+    "¿Qué es la declaración anual del ISR?",
+    "¿Cómo presento mi declaración anual a través del SAT?",
+    "¿Tengo que presentar un aviso si tengo ingresos de intereses?",
+    "¿Cuáles son los ingresos acumulables para la declaración anual?",
+    "¿Qué pasos sigo para utilizar el Programa de Declaraciones Anuales?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:81ba6a0e11106389",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consultas a Organizaciones de Contribuyentes",
+  "denominacion_comun": "Consultas fiscales a través de agrupaciones",
   "temas": [
     "consultas fiscales",
-    "asociaciones patronales",
-    "sindicatos obreros",
-    "cámaras de comercio",
-    "agrupaciones agrícolas",
-    "colegios de profesionales",
-    "organismos agrupadores"
+    "agrupaciones de contribuyentes",
+    "asesoría fiscal",
+    "reglas del SAT",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
     "consultas al SAT",
-    "consulta fiscal",
-    "consultas de agrupaciones",
-    "RMF 2026"
+    "consultas en línea",
+    "asociaciones patronales",
+    "sindicatos",
+    "cámaras de comercio",
+    "ficha 120/CFF"
   ],
-  "resumen": "Esta regla permite a ciertas organizaciones hacer consultas específicas al SAT sobre situaciones que afectan a sus miembros. Sin embargo, hay temas y sujetos excluidos de esta facilidad.",
+  "resumen": "El SAT puede atender consultas de agrupaciones que representan a contribuyentes sobre temas fiscales concretos. Sin embargo, hay ciertas materias y sujetos de los que no se pueden realizar consultas.",
   "preguntas_ejemplo": [
-    "¿Qué organizaciones pueden hacer consultas al SAT?",
-    "¿Cuáles son las limitaciones para las consultas fiscales?",
-    "¿Cómo se presentan las consultas al SAT?",
-    "¿Dónde se publican las respuestas a las consultas?",
-    "¿Qué temas están excluidos de las consultas fiscales?"
+    "¿Qué consultas se pueden hacer al SAT a través de mi asociación?",
+    "¿Cuáles son las materias que no se pueden consultar al SAT?",
+    "¿Cómo presentar una consulta en línea al SAT?",
+    "¿Qué requisitos se necesitan para hacer una consulta a través de una cámara de comercio?",
+    "¿Pueden las asociaciones civiles hacer consultas fiscales al SAT?"
   ]
 }

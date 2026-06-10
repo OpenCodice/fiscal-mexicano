@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:714494fd5bb77ecf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones de pagos en efectivo",
   "temas": [
-    "deducciones",
+    "deducciones fiscales",
     "pagos en efectivo",
     "cheques nominativos",
+    "tarjetas de crédito",
     "monederos electrónicos",
-    "obligaciones fiscales",
     "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "pago mediante cheque",
-    "monederos del SAT",
-    "Ley del ISR"
+    "deducciones",
+    "pagar con cheque",
+    "pagar con tarjeta",
+    "monedero SAT",
+    "gastos deducibles"
   ],
-  "resumen": "Esta disposición establece que para deducir pagos que superen los $2,000, estos deben hacerse mediante cheque nominativo, tarjeta de crédito, débito o monederos electrónicos autorizados. Los pagos en efectivo no cumplen con este requisito si se refieren a la extinción de obligaciones a través de otras formas.",
+  "resumen": "Los pagos superiores a 2,000 pesos deben hacerse con cheque, tarjeta o monederos electrónicos para ser deducibles. No se aplica para otras formas de pago que extingan obligaciones.",
   "preguntas_ejemplo": [
-    "¿Qué pagos se consideran deducibles en el impuesto sobre la renta?",
-    "¿Cómo se deben realizar los pagos para poder deducirlos?",
-    "¿Qué pasa si pago en efectivo más de $2,000?",
-    "¿Se puede utilizar un monedero electrónico para deducciones fiscales?",
-    "¿Cuáles son las formas válidas de pago para deducibilidad?",
-    "¿Qué establece la Ley del ISR sobre las deducciones?"
+    "¿Cómo puedo hacer deducible un pago mayor a 2,000 pesos?",
+    "¿Es posible deducir pagos en efectivo?",
+    "¿Qué formas de pago son aceptadas para deducciones?",
+    "¿Qué dice la ley sobre deducciones y pagos con tarjetas?",
+    "¿Los pagos por indemnización son deducibles?"
   ]
 }

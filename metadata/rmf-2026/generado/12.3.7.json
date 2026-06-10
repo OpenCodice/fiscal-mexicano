@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b50a040caf0cf685",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plataformas Tecnológicas ISR",
+  "denominacion_comun": "Plataformas tecnológicas - ISR",
   "temas": [
-    "Enajenación de bienes",
-    "Prestación de servicios",
-    "Impuesto sobre la Renta (ISR)",
-    "Declaración de pago",
-    "Personas físicas",
-    "Actividades empresariales",
-    "Retenciones",
-    "Internet"
+    "personas físicas",
+    "actividades empresariales",
+    "enajenación de bienes",
+    "prestación de servicios",
+    "ISR",
+    "declaración de impuestos",
+    "pago definitivo"
   ],
   "terminos_coloquiales": [
+    "pago de impuestos por Internet",
+    "declaración de ISR",
+    "plataformas digitales",
+    "servicios en línea",
     "ISR plataformas",
-    "Declaración ISR personas físicas",
-    "Pago ISR plataformas",
-    "Personas que venden en línea"
+    "ISR personas físicas"
   ],
-  "resumen": "Las personas físicas que vendan bienes o presten servicios a través de plataformas digitales deben pagar el ISR aplicando las tasas de retención correspondientes. El pago se realiza mediante una declaración específica a más tardar el día 17 del mes siguiente a los ingresos.",
+  "resumen": "Las personas físicas que venden bienes o prestan servicios por Internet, usando plataformas digitales, deben calcular y pagar el ISR de acuerdo a las tarifas aplicadas por estas plataformas. El pago debe hacerse mediante una declaración específica, a más tardar el día 17 del mes siguiente al de los ingresos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo pagar el ISR si vendo por Internet?",
-    "¿Qué tasas de retención aplican las plataformas para el ISR?",
-    "¿Cómo hago mi declaración de pago de ISR como persona física?",
-    "¿Qué debo incluir en la declaración de ISR para plataformas tecnológicas?",
-    "¿Cuál es el procedimiento para el pago del ISR en ventas en línea?"
+    "¿Cómo pago el ISR por mis ventas en línea?",
+    "¿Qué debo hacer si vendo productos usando una app?",
+    "¿Cuándo tengo que presentar la declaración de ISR para mis servicios digitales?",
+    "¿Qué tasa de ISR debo aplicar si uso una plataforma para mis actividades?",
+    "¿Existen reglas específicas para personas que usan plataformas digitales para vender?",
+    "¿Qué es la declaración de pago del ISR para plataformas tecnológicas?"
   ]
 }

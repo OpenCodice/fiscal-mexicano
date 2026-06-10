@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a0813b85e6c64251",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Monederos electrónicos para combustibles",
   "temas": [
-    "Monederos electrónicos",
-    "Combustibles",
-    "Requisitos de autorización",
-    "Personas morales",
-    "Cumplimiento fiscal",
-    "Garantías fiscales"
+    "monederos electrónicos",
+    "combustibles",
+    "vehículos marítimos",
+    "vehículos aéreos",
+    "vehículos terrestres",
+    "autorización",
+    "requisitos",
+    "fiscalización"
   ],
   "terminos_coloquiales": [
-    "Monedero de combustibles",
-    "Sistema de validación de monederos",
-    "Emisión de monederos electrónicos",
-    "Autorización de monederos",
-    "RMF 3.3.1.8"
+    "compra de gasolina",
+    "monedero de combustibles",
+    "vale de combustible",
+    "autorización de monederos",
+    "monedero electrónico",
+    "emisores de monederos"
   ],
-  "resumen": "La regla establece los requisitos que deben cumplir las personas morales para obtener la autorización de emisión de monederos electrónicos utilizados en la compra de combustibles para vehículos. Incluye requisitos de cumplimiento fiscal y condiciones específicas para la operación de estos monederos.",
+  "resumen": "Se establecen los requisitos que deben cumplir las personas morales para obtener autorización para emitir monederos electrónicos destinados a la compra de combustibles para diversos tipos de vehículos. Los solicitantes deben cumplir con obligaciones fiscales y requisitos específicos para ser considerados elegibles.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesito para emitir un monedero electrónico de combustibles?",
-    "¿Cómo obtengo la autorización para un monedero electrónico?",
-    "¿Qué obligaciones fiscales tengo como emisor de monederos de combustibles?",
-    "¿Cuáles son las condiciones para mantener vigente un monedero electrónico?",
-    "¿Qué sucede si no presento la garantía para el monedero electrónico?"
+    "¿Qué requisitos necesito cumplir para obtener un monedero electrónico de combustibles?",
+    "¿Cómo puedo solicitar una autorización para emitir monederos de gasolina?",
+    "¿Cuáles son las obligaciones fiscales para emisores de monederos electrónicos?",
+    "¿Qué sucede si no presento la garantía requerida para el monedero electrónico?",
+    "¿Puedo modificar el nombre comercial de mi monedero electrónico de combustibles?"
   ]
 }

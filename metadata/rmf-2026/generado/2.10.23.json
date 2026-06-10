@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a32700d899233949",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
     "SIPRED 2025",
     "papeles de trabajo",
-    "contador público inscrito",
-    "presentación de archivos",
-    "SAT",
-    "archivo SBPT"
+    "archivo SBPT",
+    "presentación al SAT",
+    "reglamento del CFF"
   ],
   "terminos_coloquiales": [
-    "dictamen fiscal",
-    "SIPRED",
+    "dictamen de contador",
     "papeles de trabajo",
-    "SAT"
+    "SIPRED",
+    "SAT",
+    "archivos Excel"
   ],
-  "resumen": "El contador público inscrito debe presentar sus papeles de trabajo a través del SIPRED 2025. Si hay varios archivos de Excel, deben integrarse en uno solo y convertirse a un formato específico antes de enviarlos al SAT.",
+  "resumen": "Se establece que los papeles de trabajo del contador público inscrito deben ser presentados a través del SIPRED 2025, integrando varios archivos de Excel en uno solo. El SAT confirmará la recepción de la información enviada por medio de un correo electrónico.",
   "preguntas_ejemplo": [
-    "¿Cómo presento los papeles de trabajo de mi contador público?",
-    "¿Qué es el SIPRED 2025 y cómo se usa?",
-    "¿Qué hago si tengo varios archivos de trabajo para enviar al SAT?",
-    "¿Cómo sé si el SAT recibió mis papeles de trabajo?",
-    "¿Qué formato debe tener el archivo al enviar al SAT?"
+    "¿Cómo presento los papeles de trabajo al SAT?",
+    "¿Qué es el SIPRED 2025?",
+    "¿Cómo convierto mis archivos Excel para el SAT?",
+    "¿Qué información debe contener el dictamen del contador?",
+    "¿Cómo se confirma la recepción de los papeles de trabajo?"
   ]
 }

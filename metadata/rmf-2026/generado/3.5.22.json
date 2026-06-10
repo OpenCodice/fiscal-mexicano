@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dff1257dd890307",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Instituciones Financieras",
-    "Ganancia o Pérdida Neta",
-    "Declaración Informativa IEF",
+    "Impuesto sobre la renta",
+    "Intermediarios financieros",
+    "Ganancia neta",
+    "Pérdida neta",
+    "Declaración informativa IEF",
     "Registro de detalle de emisoras"
   ],
   "terminos_coloquiales": [
     "venta de acciones",
-    "ganancias de capital",
-    "pérdidas en acciones",
-    "ISR en acciones",
-    "IEF"
+    "intereses",
+    "IED",
+    "enajenación"
   ],
-  "resumen": "Los intermediarios financieros deben reportar la ganancia o pérdida neta de la venta de acciones en la declaración informativa correspondiente. Esta información es relevante para el cálculo del Impuesto sobre la Renta.",
+  "resumen": "La regla especifica que los intermediarios financieros deben presentar información sobre las ganancias o pérdidas de la venta de acciones en un formato específico en su declaración informativa. Esto se refiere a la obligación de reportar la ganancia o pérdida neta derivada de la enajenación de acciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se reportan las ganancias de la venta de acciones?",
-    "¿Qué información debo incluir en la IEF sobre enajenación de acciones?",
-    "¿Cuándo se considera una ganancia o pérdida en la venta de acciones?",
-    "¿Qué artículos de la Ley del ISR se aplican a la enajenación de acciones?",
-    "¿Qué pasos debo seguir para declarar la enajenación de acciones?"
+    "¿Cómo se reporta la venta de acciones en la declaración de impuestos?",
+    "¿Qué información debo proporcionar sobre la ganancia de la enajenación de acciones?",
+    "¿Qué son los registros de detalle de emisoras?",
+    "¿Qué pasa si tengo pérdidas en la enajenación de acciones?",
+    "¿Qué acciones deben reportar los intermediarios financieros?"
   ]
 }

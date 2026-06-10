@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d6cff9dad1f66be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidad para emitir CFDI sin datos de pedimentos",
+  "denominacion_comun": "Facilidad para emitir CFDI sin datos de pedimento",
   "temas": [
     "CFDI",
-    "pedimentos de importación",
-    "importación",
-    "exportación",
-    "documentación aduanera"
+    "documento aduanero",
+    "importaciones",
+    "exportaciones",
+    "tuberías",
+    "cables",
+    "pedimentos consolidados"
   ],
   "terminos_coloquiales": [
+    "factura",
     "CFDI",
-    "comprobante fiscal digital",
-    "pedimentos",
-    "importaciones",
-    "exportaciones"
+    "documento aduanero",
+    "importaciones por tuberías",
+    "exportaciones por cables"
   ],
-  "resumen": "Los contribuyentes que importan o exportan mercancías por tuberías o cables no necesitan incluir el número y la fecha del documento aduanero en sus CFDI. Esto es aplicable solo para importaciones y exportaciones específicas mencionadas en la regla.",
+  "resumen": "Los contribuyentes que importen o exporten mercancías por tuberías o cables pueden emitir sus CFDI sin necesidad de incluir el número y la fecha del documento aduanero. Esto aplica exclusivamente para estas modalidades de importación y exportación.",
   "preguntas_ejemplo": [
-    "¿Puedo emitir un CFDI sin los datos del pedimento de importación?",
-    "¿Qué requisitos debo cumplir para no incluir el número de pedimento en mis facturas?",
-    "¿Qué mercancías están exentas de mencionar los datos aduaneros en el CFDI?",
-    "¿Qué dice la regla sobre la emisión de CFDI para importaciones por tuberías?",
-    "¿Cuál es la facilidad para emitir CFDI en las exportaciones que no requieren datos de pedimentos?"
+    "¿Puedo emitir un CFDI sin el documento aduanero si importo por tuberías?",
+    "¿Qué necesito para emitir un CFDI de exportación por cables?",
+    "¿Se requiere incluir el número de pedimento en el CFDI para mercancías por tuberías?",
+    "¿Existen facilidades para facturar importaciones consolidadas?",
+    "¿Qué dice la ley sobre CFDI para importaciones sin pedimento?",
+    "¿Estoy exento de poner la fecha del documento aduanero en mi factura?"
   ]
 }

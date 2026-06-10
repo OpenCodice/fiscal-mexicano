@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fbdbf386c3534d47",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Emisión de CFDI a través del adquirente",
   "temas": [
     "CFDI",
-    "emisión de facturas",
+    "RFC",
     "personas físicas",
+    "emisión de comprobantes fiscales",
+    "arrendamiento",
     "actividades económicas",
-    "uso o goce de bienes",
-    "prescripción de consentimientos",
-    "mínimos de ingresos",
-    "contratos"
+    "artesanías",
+    "ventas de vehículos",
+    "uso o goce de bienes"
   ],
   "terminos_coloquiales": [
-    "CFDI a través de adquirentes",
-    "factura electrónica",
-    "expedición de CFDI",
-    "consentimiento para facturación"
+    "factura",
+    "CFDI",
+    "comprobantes fiscales",
+    "venta de bienes",
+    "uso de inmuebles",
+    "arriendo",
+    "artesanías"
   ],
-  "resumen": "Esta regla establece que las personas físicas que cumplen con ciertas condiciones pueden emitir sus CFDI a través de los compradores de sus bienes o al otorgar el uso de los mismos. Se requieren ciertos requisitos y la formalización del acuerdo por escrito.",
+  "resumen": "Esta regla permite a algunas personas físicas expedir sus CFDI a través de los adquirentes de sus bienes, bajo ciertas condiciones relacionadas con ingresos y tipos de actividades económicas. Los contribuyentes deben proporcionar un consentimiento por escrito para que los adquirentes puedan emitir los CFDI correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo emitir un CFDI a través del adquirente?",
-    "¿Cuáles son los requisitos para que una persona física emita un CFDI?",
-    "¿Necesito un consentimiento por escrito para expedir una factura?",
-    "¿Existen límites de ingresos para la emisión de CFDI a través del adquirente?",
-    "¿Quiénes pueden ser adquirentes en la emisión de CFDI?"
+    "¿Cómo puedo emitir mi CFDI a través del comprador?",
+    "¿Qué requisitos debo cumplir para que el comprador emita el CFDI?",
+    "¿Qué actividades me permiten emitir CFDI por medio de los adquirentes?",
+    "¿Es necesario un escrito para que el comprador me facture?",
+    "¿Qué pasa si mis ingresos superan el límite establecido?"
   ]
 }

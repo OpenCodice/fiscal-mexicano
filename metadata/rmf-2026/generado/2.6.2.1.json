@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:75c0f0dd2a029a76",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Controles volumétricos de hidrocarburos",
+  "denominacion_comun": "Control de CFDI de hidrocarburos",
   "temas": [
     "CFDI",
     "irregularidades fiscales",
-    "comunicación de datos",
-    "dictámenes periciales",
-    "estaciones de servicio",
-    "pérdida de facilidades fiscales"
+    "comunicaciones de la autoridad",
+    "facilidades administrativas"
   ],
   "terminos_coloquiales": [
-    "controles volumétricos",
-    "CFDIs diarios",
-    "facilidades para emitir CFDIs",
-    "RMF 2.6.1.2",
-    "CFF 29"
+    "facturas electrónicas",
+    "irregularidades",
+    "buzón tributario",
+    "hidrocarburos",
+    "petrolíferos"
   ],
-  "resumen": "La disposición establece que si la autoridad detecta irregularidades en los contribuyentes relacionados, deben subsanarlas en un plazo de diez días. Si no lo hacen, perderán la facilidad de emitir CFDIs de manera diaria, semanal o mensual.",
+  "resumen": "La autoridad fiscal notificará a los contribuyentes sobre irregularidades detectadas en la emisión de CFDI, dándoles un plazo para subsanarlas. Si no lo hacen, perderán la facilidad de emitir CFDI con frecuencia diaria, semanal o mensual.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si recibo un requerimiento de la autoridad sobre irregularidades?",
-    "¿Cuáles son las consecuencias de no subsanar las irregularidades detectadas?",
-    "¿Cómo afecta mi capacidad de emitir CFDIs si no cumplo con la normativa?",
-    "¿Qué datos debo proporcionar para subsanar irregularidades fiscales?",
-    "¿Qué artículos del CFF están relacionados con los controles volumétricos?"
+    "¿Qué ocurre si no justifico mis CFDI de hidrocarburos?",
+    "¿Cuáles son las consecuencias de tener irregularidades fiscales?",
+    "¿Qué debo hacer si me notifican irregularidades en mis facturas electrónicas?",
+    "¿Cuánto tiempo tengo para subsanar las irregularidades señaladas?",
+    "¿Qué es el buzón tributario?"
   ]
 }

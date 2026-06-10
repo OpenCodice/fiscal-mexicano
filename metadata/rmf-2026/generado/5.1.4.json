@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc28a05785387fff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Alimentos de consumo básico",
@@ -18,18 +19,19 @@
     "galletas saladas"
   ],
   "terminos_coloquiales": [
-    "alimentos básicos",
+    "comida básica",
+    "alimentos esenciales",
     "IEPS alimentos",
-    "tortillas",
+    "tortillas de maíz",
     "pan integral",
     "galletas saladas"
   ],
-  "resumen": "La regla define qué se considera como alimentos de consumo básico, incluyendo tortillas de maíz y trigo, diferentes tipos de pan y alimentos a base de cereales sin azúcares. Se especifica que las galletas saladas deben tener un contenido de sodio mínimo.",
+  "resumen": "Esta regla define los alimentos de consumo básico que están excluidos del IEPS. Incluye productos como tortillas, pan y alimentos a base de cereales, tanto de trigo como de maíz.",
   "preguntas_ejemplo": [
-    "¿Qué se considera alimentos de consumo básico para el IEPS?",
-    "¿Cuáles son los tipos de tortillas que entran en la regla sobre alimentos básicos?",
-    "¿Qué define la regla sobre galletas saladas?",
-    "¿Hay algún impuesto sobre pan integral según esta regla?",
-    "¿Qué alimentos a base de cereales son considerados básicos?"
+    "¿Qué impuestos aplican a los alimentos básicos?",
+    "¿Qué tipos de tortillas están exentos del IEPS?",
+    "¿Qué considera la ley como alimentos de consumo básico?",
+    "¿Cuáles son los requisitos para las galletas saladas bajo el IEPS?",
+    "¿Se aplica el IEPS a todos los tipos de pan?"
   ]
 }

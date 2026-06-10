@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8cce09ba67cefd3f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Decreto PODEBI",
   "temas": [
-    "pagos provisionales",
-    "ISR",
     "personas morales",
-    "estímulos fiscales",
-    "declaración",
-    "Régimen General"
+    "ISR",
+    "pagos provisionales",
+    "estímulos fiscales"
   ],
   "terminos_coloquiales": [
+    "declaración ISR personas morales",
     "PODEBI",
-    "decreto de estímulos",
-    "declaración de ISR",
     "pagos de impuestos",
-    "pagos provisionales"
+    "declaración mensual"
   ],
-  "resumen": "El Decreto PODEBI establece que las personas morales que tributan bajo el Título II de la Ley del ISR y que apliquen estímulos fiscales, deben realizar sus pagos provisionales mensuales presentando una declaración específica. Estos pagos se deben hacer a más tardar el día 17 del mes siguiente al periodo correspondiente.",
+  "resumen": "El Decreto PODEBI establece que las personas morales que apliquen ciertos estímulos en sus pagos provisionales deben presentar su declaración de ISR mensual. Estos pagos deben realizarse a tiempo para estar al corriente con el fisco.",
   "preguntas_ejemplo": [
+    "¿Cómo hago mis pagos provisionales de ISR?",
     "¿Qué es el Decreto PODEBI?",
-    "¿Cómo se hacen los pagos provisionales para personas morales?",
-    "¿Cuándo debo presentar la declaración de ISR bajo el decreto PODEBI?",
-    "¿Qué estímulos fiscales se aplican en el PODEBI?",
-    "¿Cuáles son las obligaciones de las personas morales en el régimen PODEBI?"
+    "¿Qué debo incluir en mi declaración de ISR personas morales?",
+    "¿Cuándo es la fecha límite para presentar mi declaración de ISR?",
+    "¿Qué estímulos fiscales aplican para personas morales?"
   ]
 }

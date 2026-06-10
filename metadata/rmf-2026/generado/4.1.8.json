@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f46b5350e9afeba7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución del IVA para organismos internacionales",
+  "denominacion_comun": "Devolución de IVA a organismos internacionales",
   "temas": [
-    "Devolución de IVA",
-    "Organismos internacionales",
-    "Uso oficial",
-    "Vehículos",
-    "Equipo de cómputo",
-    "Inmuebles"
+    "devolución de IVA",
+    "organismos internacionales",
+    "bienes y servicios",
+    "vehículos",
+    "pólizas de seguros",
+    "equipo de cómputo",
+    "inmuebles",
+    "mantenimiento"
   ],
   "terminos_coloquiales": [
-    "Devolución de IVA",
-    "IVA organismos internacionales",
-    "Solicitud de devolución",
-    "RMF 4.1.8"
+    "devolución de IVA",
+    "organismos internacionales",
+    "vehículos",
+    "compras de equipo",
+    "pólizas de seguros",
+    "inmuebles",
+    "gastos oficiales"
   ],
-  "resumen": "Los organismos internacionales en México pueden solicitar la devolución del IVA pagado por ciertos bienes y servicios destinados a su uso oficial, como vehículos, equipo de cómputo e inmuebles, siempre que cumplan con ciertos requisitos. La solicitud debe realizarse ante la ACAJNI y puede incluir una resolución que confirme su derecho a la devolución.",
+  "resumen": "Los organismos internacionales con sede en México pueden solicitar la devolución del IVA pagado por ciertos bienes y servicios destinados a uso oficial, como vehículos, equipo de cómputo y pólizas de seguros. Para proceder, deben obtener una resolución que confirme su derecho a la devolución, y seguir un procedimiento específico.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución del IVA si soy un organismo internacional?",
-    "¿Qué bienes y servicios están sujetos a la devolución del IVA para organismos internacionales?",
-    "¿Cuáles son los requisitos para que un organismo internacional reciba la devolución del IVA?",
-    "¿Dónde tengo que presentar mi solicitud de devolución de IVA?",
-    "¿Qué pasa si un organismo internacional no tiene la resolución de la ACAJNI?"
+    "¿Cómo puedo solicitar la devolución del IVA si soy un organismo internacional?",
+    "¿Qué tipo de bienes y servicios permiten la devolución del IVA?",
+    "¿Existen requisitos especiales para vehículos comprados por organismos internacionales?",
+    "¿Qué monto se considera para la devolución del IVA en pólizas de seguros?",
+    "¿Necesito una resolución previa para solicitar la devolución del IVA?"
   ]
 }

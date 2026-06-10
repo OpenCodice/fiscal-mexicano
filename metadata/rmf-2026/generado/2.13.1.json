@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:15825ceef13cab5b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Honorarios de interventores o administradores",
   "temas": [
     "honorarios",
     "interventores",
-    "administradores",
+    "administradores de negociaciones",
+    "cobro de honorarios",
     "IVA",
-    "créditos fiscales",
-    "métodos de cálculo"
+    "porcentajes",
+    "gestiones de cobranza"
   ],
   "terminos_coloquiales": [
-    "honorarios interventores",
-    "interventores CFF",
-    "honorarios administradores",
-    "CFF 172",
-    "RCFF 94"
+    "honorarios de interventores",
+    "honorarios de administradores",
+    "cobro de honorarios",
+    "IVA incluido",
+    "interventor",
+    "administrador",
+    "negociaciones",
+    "gestiones de cobranza"
   ],
-  "resumen": "Esta regla establece la forma en que se determinan los honorarios de los interventores y administradores, basándose en un porcentaje del importe recuperado o pagado. También se especifican condiciones en las que se paga un mínimo si no se logra recolectar un monto durante los primeros meses.",
+  "resumen": "La disposición establece cómo se determinan los honorarios que deben pagar los deudores a los interventores o administradores de negociaciones, con base en el monto recuperado y bajo ciertas condiciones. También se considera el IVA en el cálculo de estos honorarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los honorarios de un interventor?",
-    "¿Qué sucede si un interventor no recupera dinero en los primeros meses?",
-    "¿Cuál es el porcentaje de honorarios que cobra un administrador?",
-    "¿Se incluye el IVA en los honorarios de los interventores?",
-    "¿Qué documentación necesita presentar el interventor para cobrar sus honorarios?"
+    "¿Cómo se calculan los honorarios de un interventor?",
+    "¿Qué porcentaje se cobra por los honorarios de un administrador?",
+    "¿Qué pasa si no se ha recaudado nada en los primeros meses?",
+    "¿Es el IVA parte de los honorarios de un interventor?",
+    "¿Cuáles son las condiciones para el pago de los honorarios a administradores?",
+    "¿Qué documentos necesito para justificar el pago de honorarios de un interventor?"
   ]
 }

@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eeefd507359ad4a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Banco de inversión",
+  "denominacion_comun": "Banco de Inversión",
   "temas": [
+    "documentación para retención de ISR",
     "calidad de banco de inversión",
-    "documentación requerida",
-    "retención de ISR",
-    "acuerdos de intercambio de información fiscal"
+    "acuerdo de intercambio de información fiscal",
+    "autorización de actividades",
+    "participación accionaria"
   ],
   "terminos_coloquiales": [
     "banco de inversión",
-    "ISR bancos",
-    "documentos para bancos de inversión"
+    "retención de impuestos",
+    "ISR",
+    "documentación fiscal"
   ],
-  "resumen": "La regla establece los requisitos y documentación que un banco de inversión debe proporcionar para ser reconocido como tal, incluyendo autorizaciones y constancias de participación accionaria. También señala que deben residir en un país con acuerdos de intercambio de información fiscal con México.",
+  "resumen": "La regla establece los requisitos documentales que debe proporcionar un banco de inversión para ser reconocido ante las entidades que retienen el ISR. Esto incluye constancias de participación accionaria y la necesidad de residir en un país con un acuerdo de intercambio de información fiscal con México.",
   "preguntas_ejemplo": [
-    "¿Qué documentación necesita un banco de inversión para acreditarse?",
-    "¿Cómo se retiene el ISR a un banco de inversión?",
-    "¿Qué requisitos fiscales debe cumplir un banco de inversión en México?"
+    "¿Qué es un banco de inversión?",
+    "¿Qué documentos necesito para retener el ISR a un banco de inversión?",
+    "¿Cómo puedo acreditar la calidad de banco de inversión?",
+    "¿Qué pasa si la entidad no tiene autorización?",
+    "¿Cuáles son los requisitos para que un banco de inversión opere en México?"
   ]
 }

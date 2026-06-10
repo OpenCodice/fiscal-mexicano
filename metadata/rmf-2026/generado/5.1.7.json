@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:18120480e7859983",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Marbetes y precintos IEPS",
+  "denominacion_comun": "Marbetes y precintos para control sanitario",
   "temas": [
-    "Marbetes físicos",
-    "Marbetes electrónicos",
-    "Precintos de control sanitario",
-    "Bebidas alcohólicas"
+    "marbetes",
+    "precintos",
+    "control sanitario",
+    "bebidas alcohólicas",
+    "regulación de marbetes",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
     "marbetes",
+    "marbetes electrónicos",
+    "marbetes físicos",
     "precintos",
-    "IEPS"
+    "ticket de marbete"
   ],
-  "resumen": "Los marbetes, físicos y electrónicos, junto con los precintos, son señales de control sanitario para bebidas alcohólicas. Los contribuyentes deben cumplir con ciertas reglas y fichas de trámite para obtener estos marbetes.",
+  "resumen": "La regla establece que el marbete físico y electrónico, así como los precintos, son signos de control sanitario que deben cumplir con disposiciones específicas. Los contribuyentes que soliciten estos marbetes para bebidas alcohólicas deben seguir ciertas reglas y presentar solicitudes adecuadas.",
   "preguntas_ejemplo": [
-    "¿Qué son los marbetes y cómo se obtienen?",
-    "¿Cuáles son las reglas para usar marbetes de bebidas alcohólicas?",
-    "¿Qué trámites debo hacer para conseguir marbetes electrónicos?",
-    "¿Qué es un precinto y cómo se usa en el control sanitario?",
-    "¿Qué disposiciones debo seguir para los marbetes de bebidas alcohólicas?"
+    "¿Qué es un marbete físico?",
+    "¿Cómo obtengo marbetes electrónicos para mis productos?",
+    "¿Qué reglas debo seguir para el uso de marbetes en bebidas alcohólicas?",
+    "¿Cuáles son los trámites para solicitar precintos?",
+    "¿Existen requisitos específicos para marbetes de bebidas alcohólicas?",
+    "¿Qué ficha de trámite necesito para reportar el uso de marbetes?"
   ]
 }

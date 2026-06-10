@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c5f1aee4981075fd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Asimilados a salarios",
   "temas": [
     "Impuesto sobre la renta",
-    "Ingresos por salarios",
     "Aviso de actualización",
-    "Obligaciones fiscales",
-    "Retenciones"
+    "Retenciones",
+    "Requisitos de comunicación",
+    "Ingresos por asimilados"
   ],
   "terminos_coloquiales": [
-    "asimilados a salarios",
-    "ISR",
-    "actualización de actividades",
-    "ingresos superiores",
-    "regla 3.12.4"
+    "ingresos asimilados",
+    "avisos fiscales",
+    "retenciones",
+    "ingresos acumulables"
   ],
-  "resumen": "Las personas que superen ingresos de 75 millones de pesos deben pagar impuestos de acuerdo a la Ley del ISR y presentar un aviso de actualización de actividades. También deben informar a quienes les pagan sobre su situación fiscal y la nueva obligación de retención.",
+  "resumen": "La disposición establece que las personas físicas que excedan ciertos ingresos deben presentar un aviso de actualización de actividades económicas. Además, deben comunicar a sus pagadores sobre el cambio en su situación fiscal y el cumplimiento de sus obligaciones fiscales en adelante.",
   "preguntas_ejemplo": [
-    "¿Qué son los asimilados a salarios?",
     "¿Qué debo hacer si mis ingresos superan 75 millones de pesos?",
-    "¿Cómo se presenta el aviso de actualización de actividades económicas?",
-    "¿Quienes son responsables de las retenciones en estos casos?",
-    "¿Qué obligaciones fiscales tengo si excedo los ingresos establecidos?"
+    "¿Cómo presento el aviso de actualización de actividades económicas?",
+    "¿Qué implica ser considerado como asimilado a salarios?",
+    "¿Qué comunicados debo enviar a mis prestadores de servicios si excedo el monto?",
+    "¿Cuáles son las consecuencias de no presentar el aviso a tiempo?"
   ]
 }

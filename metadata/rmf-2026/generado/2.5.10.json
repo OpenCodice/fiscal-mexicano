@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1fece50be62969ca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cambio de domicilio fiscal",
   "temas": [
     "e.firma",
-    "aviso",
-    "SAT",
-    "comprobantes",
-    "trámites"
+    "comprobante de domicilio",
+    "trámite en el SAT",
+    "oficina virtual"
   ],
   "terminos_coloquiales": [
-    "cambio de domicilio en el RFC",
-    "aviso de cambio de domicilio",
-    "trámite de cambio de domicilio",
-    "oficina virtual del SAT"
+    "cambio de domicilio fiscal",
+    "avisos al SAT",
+    "trámite para cambiar domicilio",
+    "e.firma"
   ],
-  "resumen": "Los contribuyentes con e.firma pueden presentar el aviso de cambio de domicilio fiscal a través del Portal del SAT sin necesidad de comprobante de domicilio. También pueden realizar el trámite en las oficinas del SAT mediante cita previa.",
+  "resumen": "Los contribuyentes que tengan e.firma pueden presentar el aviso de cambio de domicilio fiscal en el portal del SAT sin necesidad de comprobante de domicilio. También pueden realizar el trámite en las oficinas del SAT, con cita previa, o a través de la Oficina Virtual si solo reciben ingresos por salarios.",
   "preguntas_ejemplo": [
-    "¿Cómo cambio mi domicilio fiscal en el SAT?",
-    "¿Qué requisitos necesito para el aviso de cambio de domicilio?",
+    "¿Cómo puedo cambiar mi domicilio fiscal?",
+    "¿Necesito un comprobante de domicilio para cambiar mi domicilio en el SAT?",
     "¿Puedo hacer el cambio de domicilio fiscal en línea?",
-    "¿Debo presentar comprobante de domicilio para cambiar mi RFC?",
-    "¿Dónde presento el aviso de cambio de domicilio fiscal?"
+    "¿Qué es la e.firma y cómo la utilizo para el cambio de domicilio?",
+    "¿Dónde puedo presentar el aviso de cambio de domicilio fiscal?"
   ]
 }

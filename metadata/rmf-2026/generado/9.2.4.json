@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:50d060f558ed63f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación del Estímulo Fiscal",
+  "denominacion_comun": "Verificación de estímulos fiscales",
   "temas": [
-    "facultades de la autoridad fiscal",
-    "verificación de cumplimiento",
-    "estímulo fiscal",
-    "requisitos y condiciones",
-    "cobro de crédito fiscal"
+    "facultades de la autoridad",
+    "requisitos para estímulos fiscales",
+    "cobro de crédito fiscal",
+    "comprobación de requisitos"
   ],
   "terminos_coloquiales": [
-    "revisión de estímulo fiscal",
+    "revisión de estímulos",
+    "verificación fiscal",
     "cumplimiento de requisitos",
-    "verificación fiscal"
+    "estímulo fiscal",
+    "CFF"
   ],
-  "resumen": "La autoridad fiscal puede verificar que los contribuyentes que aplicaron un estímulo fiscal cumplan con los requisitos necesarios. Si se comprueba que no se cumplen, el estímulo dejará de surtir efectos y se procederá al cobro del crédito fiscal correspondiente.",
+  "resumen": "La autoridad fiscal puede verificar si los contribuyentes que aplicaron un estímulo fiscal cumplen con los requisitos establecidos. Si se detecta que un contribuyente no cumple, el estímulo fiscal no surtirá efectos y se procederá al cobro del crédito fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo verifica la autoridad el estímulo fiscal que apliqué?",
-    "¿Qué sucede si no cumplo con los requisitos del estímulo fiscal?",
-    "¿Puede la autoridad cobrarme si dejo de cumplir con las condiciones del estímulo?",
-    "¿Qué efectos tiene la verificación de un estímulo fiscal?",
-    "¿Qué pasa con lo que ya pagué si no cumplo los requisitos?"
+    "¿Qué puede hacer la autoridad si no cumplo con los requisitos del estímulo fiscal?",
+    "¿Cómo se verifica que los contribuyentes aplican correctamente los estímulos fiscales?",
+    "¿Qué pasa si la autoridad detecta un incumplimiento en los requisitos?",
+    "¿Cuáles son las consecuencias de no cumplir con los requisitos del estímulo fiscal?",
+    "¿Qué acciones toma la autoridad fiscal en caso de incumplimiento?"
   ]
 }

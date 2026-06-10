@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f96e38ca3ebad16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cómputo del periodo de enajenación de acciones",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Acciones en bolsa",
+    "Impuesto sobre la renta",
     "Enajenación de acciones",
-    "Compensación de pérdidas y ganancias"
+    "Compensación de pérdidas",
+    "Ganancias",
+    "Veinticuatro meses"
   ],
   "terminos_coloquiales": [
-    "enajenación de acciones",
-    "acciones en bolsa",
-    "período de enajenación",
-    "ISR"
+    "ganancias por venta de acciones",
+    "compensación de pérdidas",
+    "enajenación de acciones en bolsa",
+    "ISR",
+    "Ley del ISR"
   ],
-  "resumen": "La regla establece que el periodo de veinticuatro meses para la enajenación de acciones en bolsa se calcula a partir de la fecha de la enajenación, considerando los veinticuatro meses anteriores.",
+  "resumen": "Esta regla explica cómo se computa el periodo de veinticuatro meses para la enajenación de acciones en bolsa. Este periodo se cuenta desde la fecha en que se realiza la enajenación hasta veinticuatro meses antes.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el periodo de enajenación de acciones en bolsa?",
-    "¿Qué período abarca la enajenación de acciones según la ley?",
-    "¿Cuánto tiempo se considera para la compensación de pérdidas por enajenación de acciones?",
-    "¿Qué dice la regla sobre la enajenación de acciones en bolsa en el ISR?"
+    "¿Cómo se cuentan los meses para la venta de acciones?",
+    "¿Qué periodo toma en cuenta la Ley del ISR para enajenar acciones?",
+    "¿Cuándo se compensa la pérdida o ganancia por acciones?",
+    "¿Qué dice la ley sobre la enajenación de acciones en bolsa?",
+    "¿Qué significa el artículo 129 de la Ley del ISR?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28545c6d8b70a8d2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondos de Pensiones y Jubilaciones del Extranjero",
+  "denominacion_comun": "Fondos de pensiones y jubilaciones del extranjero",
   "temas": [
-    "Retención de ISR",
-    "Fondos de Pensiones",
-    "Fondos de Inversión",
-    "Documentación para Exención",
-    "Entidades Exentas",
-    "Personas Morales"
+    "ISR",
+    "fondos de pensiones",
+    "fondos de inversión",
+    "exenciones fiscales",
+    "documentación requerida",
+    "entidades extranjeras"
   ],
   "terminos_coloquiales": [
-    "fondos de pensiones extranjeros",
-    "exención de ISR",
-    "documentación para ISR",
-    "ISR internacional",
-    "LISR",
-    "RLISR"
+    "fondo de pensiones",
+    "fondo de inversión",
+    "exención ISR",
+    "certificación internacional"
   ],
-  "resumen": "Las entidades que operan fondos de pensiones y jubilaciones del extranjero deben proporcionar documentación específica para acreditar su calidad y exención del ISR. Esto incluye actas constitutivas y constancias de exención según el país de residencia.",
+  "resumen": "Esta disposición establece los requisitos de documentación que deben presentar los fondos de pensiones y jubilaciones del extranjero para poder acreditar su calidad ante las personas que retienen el ISR. Incluye actas y constancias de exención de ISR en su país de residencia.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para exentar ISR de fondos de pensiones del extranjero?",
-    "¿Cómo puedo acreditar que un fondo de jubilaciones extranjero no paga ISR?",
-    "¿Qué tipos de fondos pueden acceder a la exención de ISR?",
-    "¿Qué requisitos deben cumplir las personas morales para que se considere su exención?",
-    "¿Cuál es el proceso para retener ISR a fondos de inversión del extranjero?"
+    "¿Qué documentos necesito para acreditar un fondo de pensiones extranjero?",
+    "¿Cómo obtengo la constancia de exención del ISR para fondos del extranjero?",
+    "¿Qué es un fondo de inversión y qué implicaciones fiscales tiene?",
+    "¿Qué requisitos hay para que un fondo de pensiones esté exento de ISR?",
+    "¿Cuáles son las obligaciones de las entidades que retienen ISR a fondos extranjeros?"
   ]
 }

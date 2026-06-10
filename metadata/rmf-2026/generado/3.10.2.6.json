@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28c4eed482613db5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Distribución de dividendos de fondos de inversión",
   "temas": [
-    "fondos de inversión",
     "dividendos",
+    "fondos de inversión",
     "renta variable",
-    "impuesto sobre la renta",
-    "personas morales",
-    "retención de ISR"
+    "retención del ISR",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "dividendos de fondos de inversión",
+    "dividendos",
+    "fondos de inversión",
+    "renta variable",
     "ISR",
-    "Ley de Fondos de Inversión"
+    "retención de impuestos"
   ],
-  "resumen": "Esta disposición establece que los fondos de inversión de renta variable pueden distribuir dividendos a sus integrantes sin efectuar retención de ISR, siempre que el intermediario financiero realice dicha retención y lo informe al fondo. Se aplica a residentes en México y en el extranjero sin establecimiento permanente en el país.",
+  "resumen": "Los fondos de inversión de renta variable pueden distribuir dividendos a sus accionistas sin realizar la retención del ISR, siempre y cuando el intermediario financiero haya hecho la retención adecuada previamente y notificado al fondo. Esto aplica tanto para residentes en México como para aquellos en el extranjero sin establecimiento permanente.",
   "preguntas_ejemplo": [
-    "¿Qué son los dividendos de fondos de inversión?",
-    "¿Cómo se manejan los dividendos en fondos de inversión de renta variable?",
-    "¿Se debe pagar ISR sobre dividendos de fondos de inversión?",
-    "¿Cuál es el procedimiento para la retención del ISR en dividendos?",
-    "¿Quién paga el ISR en los dividendos distribuidos por los fondos de inversión?"
+    "¿Cómo se distribuyen los dividendos de un fondo de inversión?",
+    "¿Los fondos de inversión deben retener ISR al distribuir dividendos?",
+    "¿Qué requisitos debe cumplir un fondo de inversión para no retener ISR en dividendos?",
+    "¿A quiénes se les pueden distribuir dividendos de fondos de inversión?",
+    "¿Qué implica la retención de ISR en la distribución de dividendos?"
   ]
 }

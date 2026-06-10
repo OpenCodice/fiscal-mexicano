@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:79f6391f7bcae3f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prenda bursátil con transferencia de propiedad",
+  "denominacion_comun": "Prenda bursátil",
   "temas": [
     "enajenación",
     "intereses",
+    "títulos de crédito",
     "impuesto sobre la renta",
-    "prenda bursátil",
-    "costos comprobados",
-    "residencias en el extranjero",
-    "personas morales"
+    "acumulación de intereses",
+    "contrato de prenda"
   ],
   "terminos_coloquiales": [
     "prenda bursátil",
+    "intereses de la prenda",
+    "impuesto a enajenación",
     "ISR",
-    "intereses acumulables",
-    "valores bursátiles"
+    "retención de impuestos"
   ],
-  "resumen": "La regla establece que en una operación de prenda bursátil con transferencia de propiedad, el acreedor debe acumular como interés la diferencia entre el precio de venta de los títulos y el precio del contrato. Si hay incumplimiento, se debe retener el impuesto correspondiente a la enajenación de los títulos en garantía.",
+  "resumen": "La regla establece que en una prenda bursátil con transferencia de propiedad, el acreedor debe acumular la diferencia entre el precio de venta y el acordado en el contrato. También indica que el ISR se retiene en caso de incumplimiento y que el deudor suma intereses o dividendos durante el contrato.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses en una prenda bursátil?",
-    "¿Qué pasa si no cumplo con el contrato de prenda bursátil?",
-    "¿Qué costos se consideran al enajenar títulos en prenda bursátil?",
-    "¿Cómo se retiene el ISR en la operación de prenda bursátil?",
-    "¿Los intereses de los títulos en prenda se acumulan para el deudor?"
+    "¿Qué pasa si incumplo un contrato de prenda bursátil?",
+    "¿Cómo se calcula el interés en una prenda bursátil?",
+    "¿Qué impuestos se retienen en la enajenación de títulos de crédito?",
+    "¿Qué son los títulos de crédito en una prenda bursátil?",
+    "¿Cómo acumular intereses en el contrato de prenda bursátil?"
   ]
 }

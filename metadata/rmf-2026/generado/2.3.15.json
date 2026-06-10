@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:159f109c3792ef4c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reintegros",
   "temas": [
     "devoluciones",
-    "reintegros",
+    "compensaciones",
     "línea de captura",
-    "fichas de trámite"
+    "solicitud de reintegro"
   ],
   "terminos_coloquiales": [
-    "reintegros",
-    "devoluciones de impuestos",
+    "devolución de impuestos",
+    "reintegro de dinero",
     "línea de captura",
-    "CFF 22"
+    "ficha de trámite para reintegros"
   ],
-  "resumen": "Las personas que deban reintegrar cantidades recibidas deben hacerlo mediante una línea de captura solicitada a través de un trámite específico. Esto se relaciona con lo establecido en el artículo 22 del Código Fiscal de la Federación.",
+  "resumen": "Los contribuyentes deben reintegrar cantidades recibidas según el artículo 22 del CFF. Para hacerlo, deben solicitar una línea de captura a través de un trámite específico.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reintegrar un dinero que recibí?",
-    "¿Qué es la línea de captura para reintegros?",
-    "¿Qué trámite debo hacer para un reintegro?",
-    "¿Qué dice el CFF sobre los reintegros?",
-    "¿A qué artículo del CFF debo referirme para los reintegros?"
+    "¿Cómo solicito una línea de captura para un reintegro?",
+    "¿Qué es un reintegro de impuestos?",
+    "¿Qué debo hacer si tengo que devolver dinero recibido?",
+    "¿Dónde encuentro la ficha de trámite para reintegros?",
+    "¿Quiénes deben reintegrar cantidades según el CFF?"
   ]
 }

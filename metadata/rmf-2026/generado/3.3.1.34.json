@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b252a89063c0fa08",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos en Cajeros Automáticos",
+  "denominacion_comun": "Pagos en cajeros automáticos",
   "temas": [
     "impuesto sobre la renta",
     "deducciones",
-    "pagos electrónicos",
-    "retiro de efectivo",
     "cajeros automáticos",
-    "requisitos de pago"
+    "retiro de efectivo",
+    "personas físicas",
+    "requisitos fiscales",
+    "operaciones por persona moral"
   ],
   "terminos_coloquiales": [
-    "pagos en cajeros automáticos",
-    "retiros en efectivo",
-    "claves a móviles",
-    "LISR",
+    "sacar dinero en cajero",
+    "cajeros automáticos",
+    "pagos en efectivo",
     "deducciones fiscales"
   ],
-  "resumen": "La disposición establece que los pagos realizados en cajeros automáticos mediante el envío de claves a teléfonos móviles pueden considerarse deducciones. Se requiere que se cumplan ciertos requisitos, como identificar al beneficiario y respetar límites en las cantidades de pago.",
+  "resumen": "Esta disposición establece que se puede cumplir con el requisito de forma de pago al retirar efectivo en cajeros automáticos mediante el envío de claves a teléfonos móviles, siempre que se respeten ciertos límites y condiciones. No aplica para la compra de combustibles.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo hacer pagos a través de cajeros automáticos?",
-    "¿Cuáles son los requisitos para que un pago en automático sea deducible?",
-    "¿Hay un límite en la cantidad que puedo retirar en un día?",
-    "¿Se pueden hacer pagos a cualquier persona a través de cajeros automáticos?",
-    "¿Qué pasa si supero el monto permitido por operación?",
-    "¿Puedo deducir los pagos que hago con claves a mi teléfono móvil?"
+    "¿Cómo puedo hacer pagos en cajeros automáticos?",
+    "¿Cuáles son los requisitos para retiradas en cajeros automáticos?",
+    "¿Qué límites hay para los pagos en efectivo en cajeros?",
+    "¿Puedo usar el cajero automático para deducciones de impuestos?",
+    "¿Existen restricciones en el monto que puedo retirar del cajero?",
+    "¿Los pagos en cajero cuentan como deducciones fiscales?"
   ]
 }

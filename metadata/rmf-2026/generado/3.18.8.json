@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9c54b1c390df3b18",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad solidaria en ISR para residentes en el extranjero",
+  "denominacion_comun": "Responsabilidad solidaria de residentes en el extranjero",
   "temas": [
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero",
-    "Operaciones financieras derivadas",
-    "Devolución de impuestos"
+    "impuesto sobre la renta",
+    "residentes en el extranjero",
+    "operaciones financieras derivadas",
+    "responsabilidad solidaria",
+    "devolución de impuestos"
   ],
   "terminos_coloquiales": [
-    "responsabilidad solidaria ISR",
-    "operaciones DERIVADAS",
-    "residente extranjero",
-    "ficha de trámite 36/ISR",
-    "ficha de trámite 37/ISR"
+    "responsabilidad solidaria",
+    "devolución de impuestos",
+    "residente en el extranjero",
+    "operaciones financieras",
+    "firma electrónica",
+    "Aviso 36/ISR",
+    "Aviso 37/ISR"
   ],
-  "resumen": "Esta regla trata sobre la responsabilidad solidaria del residente en México en el pago del impuesto por operaciones financieras derivadas realizadas con residentes en el extranjero. También establece que los residentes en el extranjero deben proporcionar información necesaria para calcular el impuesto y cómo pueden solicitar la devolución del impuesto pagado en exceso.",
+  "resumen": "Esta disposición establece que los residentes en México pueden asumir la responsabilidad solidaria del impuesto causado por operaciones financieras derivadas realizadas con residentes en el extranjero. Además, se estipula que los extranjeros deben proporcionar la información necesaria para el cálculo del impuesto y pueden solicitar la devolución de impuestos pagados en exceso.",
   "preguntas_ejemplo": [
-    "¿Cómo asumo la responsabilidad solidaria en el ISR?",
-    "¿Qué información debe proporcionar el residente en el extranjero?",
-    "¿Puedo devolver el impuesto si pagué de más como residente en el extranjero?",
-    "¿Qué fichas de trámite debo usar para estas operaciones financieras?",
-    "¿Cuáles son mis obligaciones fiscales si soy residente en el extranjero?"
+    "¿Cómo asumo la responsabilidad solidaria por impuestos de un residente en el extranjero?",
+    "¿Qué información necesita un residente en el extranjero para calcular su impuesto?",
+    "¿Cómo solicito la devolución del impuesto pagado en exceso?",
+    "¿Qué son los Avisos 36/ISR y 37/ISR?",
+    "¿A qué se refiere la responsabilidad solidaria en operaciones con residentes en el extranjero?"
   ]
 }

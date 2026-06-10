@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ad4d74ab268dbbf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación de documentos fiscales",
+  "denominacion_comun": "Verificación de documentos electrónicos",
   "temas": [
     "e.firma",
     "sello digital",
-    "Código QR",
-    "verificación de documentos",
-    "integridad y autoría",
-    "notificaciones electrónicas",
-    "SAT"
+    "documentos electrónicos",
+    "verificación de integridad",
+    "autenticidad de documentos",
+    "código QR",
+    "portal del SAT"
   ],
   "terminos_coloquiales": [
+    "firma electrónica",
     "verificar documentos",
-    "comprobar firmas electrónicas",
-    "integridad de documentos",
-    "verificación SAT"
+    "consultar documentos en el SAT",
+    "comprobar la firma",
+    "integridad de documentos"
   ],
-  "resumen": "Esta regla establece cómo los contribuyentes pueden comprobar la integridad y autoría de documentos fiscales firmados electrónicamente, utilizando un código QR o a través del Portal del SAT. Proporciona detalles sobre la información que se mostrará durante la verificación.",
+  "resumen": "La disposición establece cómo los contribuyentes pueden verificar la integridad y autoría de documentos firmados electrónicamente. Esto puede hacerse utilizando un código QR o a través del portal del SAT en la sección correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo verificar la firma electrónica de un documento fiscal?",
-    "¿Qué son los códigos QR en la verificación de documentos?",
-    "¿Dónde puedo comprobar la integridad de mis documentos fiscales?",
-    "¿Qué información se muestra al verificar un documento en el SAT?"
+    "¿Cómo puedo verificar la firma de un documento electrónico?",
+    "¿Qué pasos sigo para comprobar la integridad de un documento del SAT?",
+    "¿Puede un documento con código QR ser validado?",
+    "¿Dónde encuentro la opción para verificar documentos firmados digitalmente?",
+    "¿Qué información se muestra al verificar un documento en el portal del SAT?"
   ]
 }

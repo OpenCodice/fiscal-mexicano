@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:400c0793e5e418e6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contratos de Prenda Bursátil",
+  "denominacion_comun": "Prenda bursátil con transferencia de propiedad",
   "temas": [
-    "Transferencia de propiedad",
-    "Enajenación de títulos",
-    "Obligaciones del acreedor",
-    "Garantías",
-    "Incumplimiento",
-    "Partes relacionadas"
+    "contratos de prenda",
+    "títulos bursátiles",
+    "enajenación de valores",
+    "garantías",
+    "incumplimiento de obligaciones",
+    "partes relacionadas",
+    "información al deudor"
   ],
   "terminos_coloquiales": [
-    "Prenda bursátil",
-    "Títulos",
-    "Valores en garantía"
+    "prenda bursátil",
+    "títulos",
+    "valores",
+    "enajenación",
+    "garantía",
+    "incumplimiento",
+    "garantías bursátiles"
   ],
-  "resumen": "Los contratos de prenda bursátil establecen momentos específicos en los que se considera que se realiza la enajenación de los títulos o valores ofrecidos en garantía. Además, se requiere que el acreedor informe al deudor sobre la enajenación en la misma fecha de los actos relacionados.",
+  "resumen": "Esta disposición establece los momentos en los que se considera que se realiza la enajenación de títulos o valores en contratos de prenda bursátil. Además, se requiere que el acreedor informe al deudor sobre dicha enajenación en el mismo día en que ocurra.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que se enajenan los títulos en un contrato de prenda bursátil?",
-    "¿Qué pasa si el acreedor no informa al deudor sobre la enajenación de títulos?",
-    "¿Cómo se manejan las garantías en los contratos de prenda bursátil?",
-    "¿Qué son las partes relacionadas en el contexto de la prenda bursátil?",
-    "¿Cuáles son las obligaciones del acreedor en un contrato de prenda bursátil?"
+    "¿Cuándo se considera que se enajenan los títulos en una prenda bursátil?",
+    "¿Qué debo hacer si el acreedor no me informa sobre la enajenación de mis títulos?",
+    "¿Qué implica el incumplimiento de las obligaciones en un contrato de prenda bursátil?",
+    "¿Cómo se considera la enajenación de títulos si hay incumplimiento?",
+    "¿Qué son las partes relacionadas en el contexto de la prenda bursátil?"
   ]
 }

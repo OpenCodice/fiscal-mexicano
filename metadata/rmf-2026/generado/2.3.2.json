@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:84b413e1d142e7e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devoluciones del ISR para personas físicas",
+  "denominacion_comun": "Devolución de ISR para personas físicas",
   "temas": [
     "devoluciones",
-    "saldos a favor",
+    "saldo a favor",
     "ISR",
     "facilidad administrativa",
-    "declaración anual",
-    "e.firma",
-    "compensación"
+    "plazo para solicitudes",
+    "requisitos",
+    "interacción con el SAT"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
     "saldo a favor",
-    "ISR",
     "devolución automática",
-    "facilidad administrativa"
+    "SAT",
+    "e.firma",
+    "contraseña"
   ],
-  "resumen": "Las personas físicas con saldo a favor del ISR pueden optar por solicitar la devolución a través de un procedimiento simplificado si cumplen ciertos requisitos. Deben presentar su declaración anual y pueden usar su e.firma o Contraseña para gestionar la solicitud de devolución.",
+  "resumen": "Esta regla establece que las personas físicas con saldo a favor del ISR pueden solicitar su devolución de manera automática, siempre que cumplan con ciertos requisitos y plazos. Se establece el uso de la e.firma o contraseña para presentar la solicitud y los procedimientos a seguir en caso de inconsistencias.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución de mi saldo a favor del ISR?",
-    "¿Qué requisitos necesito para la devolución automática del ISR?",
-    "¿Puedo solicitar mi devolución si presenté mi declaración con Contraseña?",
-    "¿Cuándo es el último día para solicitar la devolución del ISR?",
-    "¿Qué hago si tengo inconsistencias en mi solicitud de devolución?"
+    "¿Cómo puedo solicitar la devolución de mi saldo a favor del ISR?",
+    "¿Qué requisitos necesito para la devolución automática del SAT?",
+    "¿Puedo usar mi contraseña para pedir la devolución de impuestos?",
+    "¿Qué hacer si tengo inconsistencias en mi solicitud de devolución?",
+    "¿Hasta cuándo puedo solicitar la devolución de mi saldo a favor?"
   ]
 }

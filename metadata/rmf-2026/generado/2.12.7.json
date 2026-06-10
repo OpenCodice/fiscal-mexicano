@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a378247070ab119",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cartas de crédito como garantía del interés fiscal",
   "temas": [
     "cartas de crédito",
-    "garantía del interés fiscal",
+    "interés fiscal",
     "instituciones de crédito",
-    "modificaciones de cartas de crédito",
     "IVA",
-    "IEPS"
+    "IEPS",
+    "modificaciones de garantía",
+    "Solicitud de instituciones de crédito"
   ],
   "terminos_coloquiales": [
     "cartas de crédito",
-    "garantías fiscales",
+    "garantía fiscal",
+    "bancos emisores",
     "CFF",
     "IVA",
     "IEPS"
   ],
-  "resumen": "Las cartas de crédito se utilizan como garantía del interés fiscal y deben cumplir con formatos específicos. Las instituciones de crédito deben estar registradas ante el SAT para emitir estas cartas y pueden hacer modificaciones bajo ciertas condiciones.",
+  "resumen": "Las cartas de crédito pueden utilizarse como garantía del interés fiscal y deben cumplir con formatos establecidos. Las instituciones de crédito deben estar registradas ante el SAT para emitir estas cartas. Las modificaciones a las cartas de crédito deben presentarse en un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué son las cartas de crédito para el SAT?",
-    "¿Cómo se utilizan las cartas de crédito como garantía fiscal?",
-    "¿Qué instituciones pueden emitir cartas de crédito?",
-    "¿Qué modificaciones se pueden hacer a una carta de crédito?",
-    "¿Cómo presento una carta de crédito en caso de cambios?",
-    "¿Cuáles son los requisitos para que una institución de crédito sea registrada ante el SAT?"
+    "¿Cómo puedo usar una carta de crédito como garantía fiscal?",
+    "¿Qué bancos pueden emitir cartas de crédito para el SAT?",
+    "¿Cuáles son las reglas para modificar una carta de crédito?",
+    "¿Qué procedimientos sigo para registrar una carta de crédito?",
+    "¿Hay formatos específicos para las cartas de crédito en materia de IVA?"
   ]
 }

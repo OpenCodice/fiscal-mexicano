@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be0ab492a3574250",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de pagos provisionales PODEBI",
+  "denominacion_comun": "Régimen PODEBI",
   "temas": [
-    "pagos provisionales",
-    "personas morales",
-    "ingresos económicos",
-    "coeficiente de utilidad",
-    "constancia PODEBI"
+    "Ingreso",
+    "Pago provisional",
+    "Coeficiente de utilidad",
+    "Personas morales",
+    "Actividades económicas",
+    "Constancia"
   ],
   "terminos_coloquiales": [
     "régimen PODEBI",
-    "pagos provisionales PODEBI",
-    "coeficiente PODEBI"
+    "pago provisional",
+    "coeficiente de utilidad",
+    "ingresos de actividades",
+    "personas morales"
   ],
-  "resumen": "Las personas morales que no están en su ejercicio de iniciación de operaciones, y que tributan conforme al Título II de la Ley del ISR, determinarán sus pagos provisionales solo por ingresos generados dentro de los PODEBI, aplicando un coeficiente de utilidad de cero. El primer pago provisional del siguiente ejercicio incluirá los primeros tres meses del mismo.",
+  "resumen": "Las personas morales que tributen bajo el Título II de la Ley del ISR determinan sus pagos provisionales solo sobre los ingresos generados en los PODEBI, utilizando un coeficiente de utilidad de cero. El primer pago provisional del siguiente ejercicio incluye los ingresos del primer trimestre del año en que se obtuvo la constancia.",
   "preguntas_ejemplo": [
-    "¿Cómo determinan los pagos provisionales las personas morales en el régimen PODEBI?",
-    "¿Qué ingresos se consideran para los pagos provisionales en PODEBI?",
-    "¿Cómo se aplica el coeficiente de utilidad en el régimen PODEBI?",
-    "¿Qué pasa si tengo la constancia PODEBI durante el ejercicio fiscal?"
+    "¿Qué es el régimen PODEBI?",
+    "¿Cómo se calculan los pagos provisionales en el régimen PODEBI?",
+    "¿Quiénes son considerados como personas morales bajo el régimen PODEBI?",
+    "¿Qué significa tener un coeficiente de utilidad de cero?",
+    "¿Qué ingresos se deben considerar para el pago provisional en el régimen PODEBI?"
   ]
 }

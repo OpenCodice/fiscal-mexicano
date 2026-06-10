@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:374831d65eb83380",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de designación de representante",
+  "denominacion_comun": "Designación de representante para extranjeros",
   "temas": [
-    "Representante en México",
-    "Dictamen fiscal",
-    "Enajenación de acciones",
-    "Tratados para evitar doble tributación",
-    "Entidades de financiamiento",
-    "Cumplimiento de requisitos"
+    "avisos de designación",
+    "representante en México",
+    "exención de impuestos",
+    "tratados para evitar la doble tributación",
+    "entidades de financiamiento",
+    "fondos de pensiones"
   ],
   "terminos_coloquiales": [
-    "Aviso de representante",
-    "Designación de representante",
-    "Ficha de trámite 38/ISR",
-    "Reglamento de la Ley del ISR"
+    "aviso de representante",
+    "designación de representante",
+    "exención fiscal",
+    "tratados internacionales",
+    "ISR",
+    "Ley del ISR"
   ],
-  "resumen": "Los contribuyentes deben presentar un aviso para designar a un representante en México si desean no presentar un dictamen fiscal, especialmente en casos de enajenación de acciones que estén exentas según tratados internacionales. Además, las entidades de financiamiento pueden hacer esto en un plazo extendido bajo ciertas condiciones.",
+  "resumen": "Los contribuyentes extranjeros deben presentar un aviso para designar un representante en México para manejar su situación fiscal, especialmente si pueden beneficiarse de exenciones por tratados. Además, ciertos bancos y entidades pueden presentar este aviso fuera del plazo establecido si cumplen con requisitos específicos.",
   "preguntas_ejemplo": [
-    "¿Qué es el aviso de designación de representante en México?",
-    "¿Cómo se presenta el aviso para no presentar dictamen fiscal?",
-    "¿Cuáles son los requisitos para las entidades de financiamiento?",
-    "¿Qué pasa si enajeno acciones exentas de impuestos?",
-    "¿Dónde encuentro la ficha de trámite 38/ISR?"
+    "¿Cómo designo un representante en México si soy extranjero?",
+    "¿Cuáles son los plazos para presentar el aviso de representante?",
+    "¿Qué requisitos debo cumplir para estar exento de impuestos?",
+    "¿Qué es la ficha de trámite 38/ISR?",
+    "¿Qué beneficios obtengo al presentar un aviso de designación?",
+    "¿Cómo afecta el tratado de doble tributación a mi situación fiscal?"
   ]
 }

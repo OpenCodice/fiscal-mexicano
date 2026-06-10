@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6daf79f95429b35e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acumulación de reservas preventivas globales",
   "temas": [
-    "reserva preventiva global",
-    "deducción de reservas",
-    "instituciones de crédito",
-    "cobro de créditos",
-    "registros contables"
+    "reservas preventivas",
+    "créditos",
+    "deducciones fiscales",
+    "declaraciones informativas",
+    "contabilidad fiscal"
   ],
   "terminos_coloquiales": [
+    "acumular reservas",
     "reservas globales",
-    "deducción de reservas",
-    "LISR",
-    "créditos cobrados"
+    "instituciones de crédito",
+    "deducción de impuestos"
   ],
-  "resumen": "Las instituciones de crédito deben acumular al momento de cobrar créditos el monto de las reservas preventivas globales que previamente dedujeron. Se requiere llevar registros que identifiquen los créditos y los montos de las reservas asociados para cumplir con esta disposición.",
+  "resumen": "Las instituciones de crédito deben acumular el monto de las reservas preventivas globales deducidas al momento de cobrar créditos vigentes anteriores al 1 de enero de 2014. Se requiere mantener un registro de estos créditos y sus respectivas reservas.",
   "preguntas_ejemplo": [
-    "¿Cómo se acumulan las reservas preventivas globales?",
-    "¿Qué instituciones deben reportar créditos y reservas?",
-    "¿Qué registros necesito para justificar la acumulación de reservas?",
-    "¿Qué sucede si no aplico la deducción de reservas preventivas?",
-    "¿Qué información debo presentar en la declaración informativa?"
+    "¿Cómo se acumulan las reservas preventivas al cobrar créditos?",
+    "¿Qué registros necesito para las reservas preventivas globales?",
+    "¿Cuál es el procedimiento para la deducción de reservas preventivas?",
+    "¿Qué documentación se necesita para la declaración informativa de reservas?",
+    "¿Qué créditos están sujetos a la acumulación de reservas preventivas?"
   ]
 }

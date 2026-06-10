@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6dc96cce2a949148",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Donaciones de obras de arte",
   "temas": [
+    "donaciones",
+    "artistas",
+    "obra de arte",
     "ISR",
     "IVA",
-    "donaciones",
-    "trabajo artístico",
-    "museos"
+    "museo",
+    "constancia de aceptación"
   ],
   "terminos_coloquiales": [
-    "donación de arte",
-    "deducción por obras de arte",
-    "ISR por donaciones",
-    "IVA por donaciones",
-    "CFF 22"
+    "donar obras de arte",
+    "deducción de impuestos por donaciones",
+    "donaciones de artistas",
+    "recibir constancia",
+    "valor de obras de arte"
   ],
-  "resumen": "Los artistas pueden donar obras de arte a la Federación, estados o municipios y utilizar el valor de estas obras para pagar el ISR o IVA. Deben obtener una constancia de valor y presentar su declaración tributaria correspondiente.",
+  "resumen": "Los artistas pueden utilizar el valor de las obras de arte donadas para pagar impuestos como el ISR o el IVA. Deben obtener una constancia de valor y presentar su declaración anual junto con la constancia de aceptación de la donación.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el valor de una obra de arte que dono?",
-    "¿Cómo se determina el valor de las obras que dono?",
-    "¿Qué debo hacer para reportar la donación de una obra de arte?",
-    "¿El remanente de mis donaciones puede ser devuelto?",
-    "¿Qué constancia necesito para realizar la donación de arte?"
+    "¿Puedo deducir impuestos si dono una obra de arte?",
+    "¿Qué necesito para calcular el valor de mis obras donadas?",
+    "¿Cómo se presenta la declaración de impuestos por donaciones?",
+    "¿Qué pasa si mi donación genera un remanente?",
+    "¿Qué es la constancia de aceptación?"
   ]
 }

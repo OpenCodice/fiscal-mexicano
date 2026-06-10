@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fc04c39944c914d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de CFDI con Complemento Carta Porte",
   "temas": [
-    "CFDI",
+    "cancelación de CFDI",
     "Complemento Carta Porte",
-    "Cancelación de CFDI",
-    "Traslado de mercancías",
-    "Combustible",
-    "Gasolina",
-    "Diésel"
+    "gasolina",
+    "diesel",
+    "traslado de mercancías",
+    "reglamento fiscal"
   ],
   "terminos_coloquiales": [
+    "cancelar factura",
     "CFDI de traslado",
-    "Complemento Carta Porte",
-    "cancelación de factura",
+    "complemento carta porte",
     "gasolina",
-    "diésel"
+    "diesel"
   ],
-  "resumen": "Se permite la cancelación de ciertos CFDI de traslado con Complemento Carta Porte relacionados con gasolina y diésel sin aceptación, desde su emisión hasta antes de iniciar el traslado. Después de este plazo, no se podrá cancelar el CFDI.",
+  "resumen": "Se establece que los CFDI de tipo traslado con Complemento Carta Porte que contengan las claves de productos para gasolina y diesel pueden cancelarse sin aceptación hasta antes de iniciar el traslado. Después de este plazo, ya no se podrán cancelar.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar un CFDI de gasolina con complemento Carta Porte?",
-    "¿Hasta cuándo puedo cancelar un CFDI de diésel?",
-    "¿Qué productos se pueden incluir en el complemento Carta Porte?",
-    "¿Qué pasa si ya inició el traslado de la mercancía?",
-    "¿Necesito autorización para cancelar un CFDI de traslado?"
+    "¿Puedo cancelar un CFDI de gasolina después de iniciar el traslado?",
+    "¿Cuáles son las claves de productos para gasolina y diesel en el CFDI?",
+    "¿Qué es el Complemento Carta Porte en un CFDI?",
+    "¿Cómo se cancelan los CFDI de traslado con gasolina o diesel?",
+    "¿Qué pasa si intento cancelar un CFDI después de que comenzó el traslado?"
   ]
 }

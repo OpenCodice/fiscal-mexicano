@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3880f252162adc71",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI para venta de vehículos usados",
+  "denominacion_comun": "Comprobación de erogaciones para compra de vehículos usados",
   "temas": [
     "CFDI",
     "RFC",
     "vehículos usados",
-    "reglamento fiscal",
-    "expedición de comprobantes",
-    "procedimiento de restricción",
-    "obligaciones fiscales"
+    "PCECFDI",
+    "restricción temporal",
+    "irregularidades fiscales",
+    "expedición de comprobantes"
   ],
   "terminos_coloquiales": [
-    "factura de vehículos usados",
-    "CFDI para autos usados",
-    "venta de autos",
-    "PCECFDI",
-    "restricción para CFDI"
+    "factura",
+    "comprar un coche",
+    "CFDI para vehículos usados",
+    "RFC",
+    "restricción para emitir CFDI",
+    "irregularidades en la compra de autos"
   ],
-  "resumen": "Los contribuyentes que venden vehículos usados deben expedir un CFDI usando un PCECFDI y proporcionar ciertos datos a los compradores. Si hay irregularidades, pueden enfrentar restricciones para emitir CFDI.",
+  "resumen": "Esta regla establece que las personas físicas deben expedir el CFDI al vender vehículos usados y proporcionar su información fiscal a los compradores. Además, se regula cómo actuar en caso de tener restricciones para emitir CFDI por irregularidades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se factura la venta de un auto usado?",
-    "¿Qué datos necesito para emitir un CFDI de vehículos usados?",
+    "¿Cómo puedo expedir un CFDI por la venta de un vehículo usado?",
+    "¿Qué información debo darle al comprador de un coche usado?",
     "¿Qué hacer si tengo restricciones para emitir CFDI?",
-    "¿Cuáles son las obligaciones fiscales al vender un vehículo usado?",
-    "¿Qué es un PCECFDI y cómo lo uso?"
+    "¿Cuáles son los requisitos para vender un vehículo y emitir una factura?",
+    "¿Qué sucede si no subsano irregularidades fiscales al vender un auto?"
   ]
 }

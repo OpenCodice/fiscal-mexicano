@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f340a7280adfd0c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dividendos de acciones internacionales",
+  "denominacion_comun": "Dividendos de acciones en el sistema internacional de cotizaciones",
   "temas": [
-    "Impuesto sobre la renta",
+    "ISR",
     "Dividendos",
-    "Acciones listadas",
+    "Acciones",
     "Intermediarios financieros",
     "Constancias fiscales",
     "Responsabilidad solidaria",
     "Fideicomisos"
   ],
   "terminos_coloquiales": [
-    "ISR sobre dividendos",
-    "Constancia de dividendos",
-    "Acciones en el extranjero",
-    "Régimen de acciones internacionales"
+    "impuesto sobre la renta",
+    "dividendos",
+    "acciones en el extranjero",
+    "constancia fiscal",
+    "certificación de retenciones"
   ],
-  "resumen": "Los residentes en México que reciban dividendos de acciones listadas en el sistema internacional de cotizaciones pueden comprobar el ISR retenido a través de la información proporcionada por su intermediario financiero. Además, el intermediario debe emitir una constancia al contribuyente sobre los impuestos retenidos.",
+  "resumen": "Los residentes en México que reciban ingresos por dividendos de acciones en el sistema internacional de cotizaciones pueden comprobar el ISR retenido a través de una constancia expedida por un intermediario financiero. Este deberá presentar información al SAT y asumir responsabilidad solidaria por las retenciones establecidas.",
   "preguntas_ejemplo": [
-    "¿Cómo se comprueban los impuestos sobre dividendos de acciones en el extranjero?",
-    "¿Qué información debe proporcionar el intermediario financiero sobre dividendos?",
-    "¿Qué es la constancia de dividendos y cómo la obtengo?",
-    "¿Qué obligaciones tienen los intermediarios con respecto a los dividendos?",
-    "¿Existen responsabilidades adicionales para los fiduciarios sobre dividendos?",
-    "¿Cómo afecta el ISR a los dividendos que recibo del extranjero?"
+    "¿Cómo compruebo el ISR retenido por dividendos de acciones?",
+    "¿Qué información debe proporcionar el intermediario financiero sobre mis dividendos?",
+    "¿Qué es la constancia fiscal para dividendos?",
+    "¿Cómo se manejan los dividendos de acciones en el extranjero?",
+    "¿Qué hacer si no sé quién recibió mis dividendos?"
   ]
 }

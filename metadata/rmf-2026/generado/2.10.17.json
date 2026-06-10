@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14c5f2b22b43c18e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
-    "fecha de presentación del dictamen",
+    "fecha de presentación",
+    "SAT",
     "acuse de aceptación",
-    "consulta en el Portal del SAT",
-    "situación fiscal"
+    "dictamen fiscal",
+    "revisión fiscal"
   ],
   "terminos_coloquiales": [
-    "dictamen fiscal",
-    "dictamen de contador",
-    "CFF",
-    "SAT"
+    "dictamen contable",
+    "revisión de contador",
+    "SAT",
+    "dictamen",
+    "carta de aceptación"
   ],
-  "resumen": "El dictamen de contador público se considera presentado cuando el SAT lo recibe correctamente. El SAT enviará un acuse de aceptación por correo electrónico y se podrá verificar la fecha de envío y recepción en su portal.",
+  "resumen": "Esta regla establece que la fecha de presentación del dictamen es cuando el SAT recibe la información correctamente, y que se enviará un acuse de aceptación por correo electrónico. También se puede consultar la fecha de envío y recepción del dictamen en el Portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se presenta el dictamen de contador público?",
-    "¿Qué pasa una vez que el SAT recibe el dictamen?",
-    "¿Dónde puedo consultar la aceptación de mi dictamen?",
-    "¿Qué información necesito para enviar el dictamen al SAT?"
+    "¿Cuándo se considera que se presentó el dictamen ante el SAT?",
+    "¿Cómo puedo saber si mi dictamen fue aceptado?",
+    "¿Qué es el acuse de aceptación por correo electrónico?",
+    "¿Dónde puedo ver la fecha de envío de mi dictamen?",
+    "¿Cuáles son las consecuencias de no presentar el dictamen a tiempo?"
   ]
 }

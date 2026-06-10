@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a550033102062de1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidades de comprobación para asociaciones de intérpretes",
+  "denominacion_comun": "Retenciones fiscales de ISR e IVA para personas físicas",
   "temas": [
-    "retenciones del ISR",
-    "retenciones del IVA",
+    "retenciones fiscales",
+    "ISR",
+    "IVA",
     "CFDI",
-    "entero del IVA",
-    "personas morales",
-    "personas físicas"
+    "pagos provisionales",
+    "entero de impuestos",
+    "actividades artísticas"
   ],
   "terminos_coloquiales": [
-    "facilidades de comprobación",
     "retenciones de impuestos",
-    "CFDI de retenciones",
-    "IVA",
-    "ISR"
+    "impuesto sobre la renta",
+    "impuesto al valor agregado",
+    "factura",
+    "cobros por comisiones",
+    "pago de impuestos"
   ],
-  "resumen": "Esta disposición establece las obligaciones de las personas morales que cobren ingresos por cuenta de personas físicas agremiadas en relación a las retenciones del ISR y del IVA, así como el manejo de CFDI relacionados. También indica cómo deben realizar los enteros correspondientes si no se efectúan las retenciones adecuadas.",
+  "resumen": "La regla establece las obligaciones de las personas morales que cobren por cuenta de personas físicas en actividades artísticas. Deben recabar los CFDI de retenciones del ISR y del IVA o realizar enteros si no efectúan las retenciones correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi asociación no retuvo el ISR de un agremiado?",
-    "¿Cómo se manejan las retenciones del IVA para personas físicas?",
-    "¿Qué es el CFDI de retención y cómo se utiliza?",
-    "¿Qué sucede si no realizo las retenciones correspondientes de IVA?",
-    "¿Cuándo debo enterar las retenciones del ISR?"
+    "¿Qué debo hacer si cobro comisiones por artistas?",
+    "¿Cómo se manejan las retenciones del ISR para agremiados?",
+    "¿Qué pasa si no retuve el IVA de una operación artística?",
+    "¿Cuándo debo enterar las retenciones de impuestos?",
+    "¿Qué es el CFDI de retenciones?"
   ]
 }

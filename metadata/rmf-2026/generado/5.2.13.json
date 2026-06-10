@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:854980dc75745570",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Múltiple IEPS",
   "temas": [
-    "Presentación de información",
-    "Bienes producidos",
-    "Enajenación de bienes",
-    "Importación de bienes",
-    "Bebidas alcohólicas",
-    "Programa Electrónico MULTI-IEPS"
+    "obligaciones de contribuyentes",
+    "información de bienes",
+    "bienes producidos",
+    "bienes enajenados",
+    "bienes importados",
+    "bebidas alcohólicas"
   ],
   "terminos_coloquiales": [
-    "Declaración MULTI-IEPS",
-    "IEPS",
-    "Declaración de bienes",
-    "RIF",
-    "Información de productos"
+    "MULTI-IEPS",
+    "declaración de IEPS",
+    "información de producción",
+    "reportar bienes",
+    "declaración de bebidas",
+    "obligaciones fiscales"
   ],
-  "resumen": "Los contribuyentes que deben presentar información sobre los bienes que produjeron, enajenaron o importaron durante el año anterior lo harán a través del programa MULTI-IEPS del SAT. Esto incluye detalles sobre bebidas alcohólicas según la clasificación correspondiente.",
+  "resumen": "Los contribuyentes deben presentar información sobre los bienes que produjeron, enajenaron o importaron en el año anterior a través del programa MULTI-IEPS. Esto incluye información específica para bebidas alcohólicas de acuerdo a la clasificación establecida.",
   "preguntas_ejemplo": [
+    "¿Qué es la declaración informativa múltiple del IEPS?",
     "¿Cómo presento la información de mis bienes producidos?",
-    "¿Qué es el programa MULTI-IEPS?",
-    "¿Quiénes deben hacer la declaración informativa de IEPS?",
-    "¿Qué información se necesita para la declaración de bebidas alcohólicas?",
-    "¿Cuándo debo presentar la declaración de mis bienes?"
+    "¿Qué información debo reportar sobre bebidas alcohólicas?",
+    "¿Existen excepciones para los contribuyentes del RIF?",
+    "¿Dónde encuentro el programa MULTI-IEPS?",
+    "¿Qué incluye la declaración de IEPS?"
   ]
 }

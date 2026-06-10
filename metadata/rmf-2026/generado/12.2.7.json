@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3bb59e828e32208a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de intermediación",
@@ -13,24 +14,26 @@
     "declaración informativa",
     "servicios digitales",
     "intermediación",
-    "sujeto obligado",
-    "información del cliente",
-    "retenciones",
-    "plataformas tecnológicas"
+    "información al SAT",
+    "identificación fiscal",
+    "cuenta bancaria",
+    "monto de operaciones",
+    "hospedaje"
   ],
   "terminos_coloquiales": [
     "declaración de servicios digitales",
-    "información de intermediación",
-    "declaración informativa de retenciones",
-    "iva digital"
+    "información de clientes",
+    "retenciones por plataformas",
+    "SAT",
+    "servicios de intermediación",
+    "declaración informativa"
   ],
-  "resumen": "Los prestadores de servicios digitales de intermediación deben presentar al SAT una declaración informativa con datos de sus clientes, independientemente de si se ha realizado el cobro de la contraprestación. La información incluye identificación fiscal, montos de operaciones, y en caso de hospedaje, la dirección del inmueble.",
+  "resumen": "Los proveedores de servicios digitales de intermediación deben enviar información al SAT sobre sus clientes, incluyendo datos como nombre, RFC, CURP y monto de operaciones. Esta declaración se tiene que presentar aun si no se ha cobrado el IVA.",
   "preguntas_ejemplo": [
-    "¿Qué información debo reportar sobre mis clientes si ofrezco servicios digitales?",
-    "¿Cuándo debo presentar la declaración informativa de retenciones?",
-    "¿Qué datos se necesitan para la declaración de servicios digitales de intermediación?",
-    "¿Cuáles son las obligaciones fiscales para plataformas tecnológicas?",
-    "¿Qué pasa si no he cobrado por los servicios intermediados?",
-    "¿Qué es la declaración informativa de retenciones por el uso de plataformas tecnológicas?"
+    "¿Qué información tengo que enviar al SAT si presto servicios digitales?",
+    "¿Cómo hago la declaración informativa de mis clientes?",
+    "¿Qué datos necesito para reportar mis operaciones al SAT?",
+    "¿Hay un plazo para enviar la información sobre mis servicios digitales?",
+    "¿Qué sucede si no he cobrado por mis servicios digitales?"
   ]
 }

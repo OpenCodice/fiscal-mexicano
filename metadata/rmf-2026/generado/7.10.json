@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3374d516fb7ca933",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas Migratorias",
+  "denominacion_comun": "Multas por infracciones migratorias",
   "temas": [
-    "pagos de multas",
     "sanciones",
+    "multas",
+    "pago de multas",
     "autoridad migratoria",
-    "transito internacional",
-    "formato de pago"
+    "tránsito internacional"
   ],
   "terminos_coloquiales": [
     "multas migratorias",
     "sanciones migratorias",
     "INM"
   ],
-  "resumen": "Los sancionados por la autoridad migratoria pueden pagar sus multas en días inhábiles o fuera del horario ordinario en lugares de tránsito internacional. El pago debe hacerse usando un formato específico que emite el INM.",
+  "resumen": "Los sancionados por la autoridad migratoria pueden pagar sus multas en días inhábiles y fuera del horario de trámite ordinario. El pago debe realizarse en lugares destinados al tránsito internacional de personas y mediante un formato emitido por el INM.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo pagar una multa migratoria?",
-    "¿Qué datos necesito para el pago de mi multa del INM?",
-    "¿Puedo pagar multas fuera del horario de la oficina?",
-    "¿Qué es el formato de pago de multas migratorias?",
-    "¿Cuáles son las sanciones de la Ley de Migración?"
+    "¿Cómo puedo pagar una multa por infracción migratoria?",
+    "¿Dónde se paga una multa migratoria?",
+    "¿Qué datos necesito para el pago de mi multa migratoria?",
+    "¿Puedo pagar mi multa migratoria en un día inhábil?",
+    "¿Qué es el formato emitido por el INM para el pago de multas?"
   ]
 }

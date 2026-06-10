@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a619cd3cec7c07e9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rescate y reconstrucción por desastres naturales",
+  "denominacion_comun": "Informe de donativos para desastres naturales",
   "temas": [
     "donativos",
+    "desastres naturales",
     "organizaciones civiles",
     "fideicomisos",
-    "informes SAT",
-    "desastres naturales"
-  ],
-  "terminos_coloquiales": [
-    "donativos para desastres",
-    "informe de donativos",
-    "rescate por desastres",
-    "LIF",
+    "CFDI",
+    "informes",
     "Ley del ISR"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que se dediquen al rescate o reconstrucción en áreas afectadas por desastres naturales deben informar sobre los donativos que reciben. Este informe se debe presentar en el Portal del SAT y debe detallar el uso de los recursos y los comprobantes de las operaciones realizadas.",
+  "terminos_coloquiales": [
+    "informe de donativos",
+    "donativos para desastres",
+    "ayuda humanitaria",
+    "recursos para emergencias",
+    "LIF",
+    "Ley de Ingresos"
+  ],
+  "resumen": "Las organizaciones civiles y los fideicomisos que se dediquen a rescatar o reconstruir zonas afectadas por desastres naturales deben presentar un informe sobre los donativos recibidos. Este informe incluye detalles sobre el uso y destino de los recursos y la documentación correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué tengo que hacer si recibo donativos para ayudar en desastres naturales?",
-    "¿Cómo informo al SAT sobre los donativos recibidos?",
-    "¿Qué documentos necesito para reportar donativos para desastres?",
-    "¿Quiénes pueden recibir donativos para la reconstrucción de desastres?",
-    "¿Qué es el informe de donativos para desastres naturales?"
+    "¿Qué debo hacer si recibo donativos para ayudar en desastres naturales?",
+    "¿Cómo informo sobre los donativos que he recibido para reconstrucción?",
+    "¿Qué requisitos hay para las organizaciones que reciben donativos para desastres?",
+    "¿Qué información necesito incluir en el informe de donativos para desastres naturales?",
+    "¿Hay algún formato específico para reportar los donativos recibidos?"
   ]
 }

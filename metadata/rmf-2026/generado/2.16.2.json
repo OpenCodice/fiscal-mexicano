@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f1681e9287a907d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Suspensión de actividades en el RFC",
   "temas": [
-    "suspensión de actividades",
     "RFC",
-    "certificado de e.firma",
-    "situación fiscal",
-    "contribuyentes",
-    "información fiscal"
+    "suspensión de actividades",
+    "e.firma",
+    "información fiscal",
+    "certificado"
   ],
   "terminos_coloquiales": [
-    "suspensión del RFC",
-    "certificado de firma electrónica",
-    "estado activo en el RFC"
+    "suspender actividades",
+    "dar de baja en el RFC",
+    "e.firma",
+    "certificado de firma electrónica"
   ],
-  "resumen": "Los contribuyentes que suspenden actividades en el RFC y no tienen su certificado de e.firma vigente pueden solicitarlo si demuestran que su información fiscal corresponde a cuando su estado en el RFC era 'activo'.",
+  "resumen": "Los contribuyentes que hayan suspendido actividades en el RFC y no cuenten con un certificado de e.firma vigente pueden solicitarlo si demuestran que su situación fiscal era 'activa' en el RFC. Esto aplica según el reglamento del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
     "¿Cómo puedo suspender mis actividades en el RFC?",
-    "¿Qué requisitos necesito para obtener mi certificado de e.firma?",
+    "¿Qué hago si no tengo e.firma y quiero suspender mis actividades?",
+    "¿Puedo obtener mi certificado de e.firma si estoy suspendido?",
     "¿Qué significa tener un estado 'activo' en el RFC?",
-    "¿Qué debo hacer si mi e.firma no está vigente?",
-    "¿Los contribuyentes con suspensión de actividades están exentos de reportar información fiscal?"
+    "¿Cuáles son los requisitos para solicitar el certificado de e.firma?"
   ]
 }

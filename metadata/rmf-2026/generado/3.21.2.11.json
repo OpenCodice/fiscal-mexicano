@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4045f6a017a5218a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomiso para adquisición o construcción de inmuebles",
+  "denominacion_comun": "Fideicomiso para adquisición de inmuebles",
   "temas": [
     "ISR",
     "fideicomisos",
     "inmuebles",
-    "aplazamiento de impuestos",
-    "opción de pago anticipado"
+    "opción de pago anticipado",
+    "ganancia por enajenación"
   ],
   "terminos_coloquiales": [
-    "fideicomiso de inmuebles",
-    "ISR fideicomisos",
-    "opción de pago anticipado",
-    "pago de ISR diferencial"
+    "fideicomiso de construcción",
+    "fideicomiso inmobiliario",
+    "pago de ISR por fideicomiso",
+    "pago anticipado de impuesto",
+    "ISR de bienes"
   ],
-  "resumen": "Los fideicomitentes pueden optar por pagar anticipadamente el ISR diferido por la aportación de bienes inmuebles a un fideicomiso, realizando ciertos trámites y cumpliendo con requisitos establecidos en la ley.",
+  "resumen": "Los fideicomitentes pueden optar por pagar anticipadamente el ISR por la aportación de bienes inmuebles a un fideicomiso destinado a la adquisición o construcción de inmuebles, siempre que no hayan enajenado los certificados recibidos por su aportación. El pago se realiza a través del Servicio de Declaraciones y Pagos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar el ISR por un fideicomiso de inmuebles?",
-    "¿Qué requisitos debo cumplir para pagar anticipadamente mi ISR?",
-    "¿Qué es un fideicomiso dedicado a la adquisición de inmuebles?",
-    "¿Cómo se determina la ganancia por la enajenación de bienes en un fideicomiso?",
-    "¿Qué trámites necesito para ejercer la opción de pago anticipado del ISR?"
+    "¿Cómo puedo pagar el ISR de un fideicomiso de inmuebles?",
+    "¿Qué requisitos hay para optar por el pago anticipado del ISR en un fideicomiso?",
+    "¿Qué debo hacer si aporté un inmueble a un fideicomiso?",
+    "¿Cuáles son las implicaciones fiscales de un fideicomiso para construcción de inmuebles?",
+    "¿Cómo se determina la ganancia en la enajenación de un inmueble en un fideicomiso?"
   ]
 }

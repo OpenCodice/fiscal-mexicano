@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:43207d03e9cd58c8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opción para la retención del ISR por salarios",
   "temas": [
     "ISR",
-    "retención",
     "salarios",
-    "reglamento",
-    "procedimiento de pago"
+    "retenciones",
+    "trabajo realizado",
+    "pagos provisionales",
+    "tarifas"
   ],
   "terminos_coloquiales": [
-    "retención de ISR",
-    "salarios",
     "impuesto sobre la renta",
+    "retención de ISR",
+    "ISR por salarios",
+    "pago de impuestos",
+    "salarios",
     "LISR",
     "RLISR"
   ],
-  "resumen": "Se establece que las personas que retienen el ISR pueden optar por realizar la retención de acuerdo con el artículo 96 de la Ley del ISR o con el artículo 175 del reglamento, dependiendo del trabajo realizado o del periodo de pago. Las tarifas aplicables son las del Anexo 8.",
+  "resumen": "Esta disposición permite a quienes deben retener el ISR en salarios a optar por diferentes procedimientos de retención basados en el trabajo realizado y los periodos de pago. Se aplicarán tarifas específicas establecidas en el Anexo 8 para determinar el monto a retener.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la retención del ISR por salarios?",
-    "¿Qué artículos regulan la retención de ISR en salarios?",
-    "¿Qué tarifas se aplican para el pago de ISR por salarios?",
-    "¿Puedo elegir el método de retención del ISR por salarios?",
-    "¿Cuáles son las opciones para retener ISR en pagos de salarios?"
+    "¿Cómo se calcula la retención del ISR en los salarios?",
+    "¿Qué opciones tengo para la retención del ISR por pagos de salarios?",
+    "¿Qué tarifas aplican para la retención del ISR en salarios?",
+    "¿Cuáles son mis obligaciones como empleador al retener ISR de salarios?",
+    "¿Qué dice la ley sobre el ISR de salarios?",
+    "¿El cálculo del ISR cambia dependiendo del periodo de pago?"
   ]
 }

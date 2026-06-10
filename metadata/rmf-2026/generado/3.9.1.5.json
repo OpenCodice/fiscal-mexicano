@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:987278b70f086e47",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajuste de precios de transferencia",
+  "denominacion_comun": "Ajustes de precios de transferencia",
   "temas": [
     "deducción",
-    "autoridad competente",
-    "consultas",
+    "precios de transferencia",
     "ejercicios fiscales",
     "declaraciones complementarias",
-    "requisitos"
+    "autoridades competentes"
   ],
   "terminos_coloquiales": [
-    "precios de transferencia",
-    "CFF 34-A",
-    "RMF 3.9.1.5"
+    "ajustes de precios",
+    "deducción de precios de transferencia",
+    "presentar declaraciones complementarias",
+    "CFF",
+    "LISR"
   ],
-  "resumen": "Los contribuyentes pueden solicitar a la autoridad que la deducción de ajustes de precios de transferencia se realice en ejercicios fiscales diferentes a los establecidos, cumpliendo con ciertos requisitos. Además, las declaraciones complementarias en estos casos no se contarán dentro de los límites establecidos por la ley.",
+  "resumen": "Esta regla permite a los contribuyentes solicitar a las autoridades que la deducción del ajuste de precios de transferencia se realice en ejercicios fiscales distintos. También establece que las declaraciones complementarias no se considerarán dentro de ciertos límites establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito un ajuste de precios de transferencia?",
-    "¿Puedo deducir ajustes de diferentes ejercicios fiscales?",
-    "¿Qué requisitos necesito para presentar declaraciones complementarias?",
-    "¿Qué dice el artículo 34-A del CFF sobre precios de transferencia?",
-    "¿Cómo afectan las reglas de RMF a mi declaración?",
-    "¿Qué pasa si presento declaraciones complementarias?"
+    "¿Cómo puedo deducir ajustes de precios de transferencia?",
+    "¿Qué ejercicios fiscales puedo usar para la deducción?",
+    "¿Qué son las declaraciones complementarias en este contexto?",
+    "¿Qué artículo del CFF regula los ajustes de precios de transferencia?",
+    "¿Cómo afecta la regla 3.9.1.5 a mi declaración?"
   ]
 }

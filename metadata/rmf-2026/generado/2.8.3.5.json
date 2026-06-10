@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4a91bf998142271",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de declaraciones informativas",
+  "denominacion_comun": "Procedimiento para presentar declaraciones informativas",
   "temas": [
     "declaraciones informativas",
+    "plazos de presentación",
     "Portal del SAT",
-    "trámites fiscales",
-    "cumplimiento de obligaciones",
-    "declaraciones de impuestos"
+    "e.firma",
+    "acuse de recibo",
+    "información fiscal"
   ],
   "terminos_coloquiales": [
+    "declaraciones de empresas",
     "declaraciones informativas",
-    "declaración informativa",
     "DIEMSE",
     "DeclaraNOT",
-    "declaración de operaciones relevantes"
+    "declarar impuestos"
   ],
-  "resumen": "Las personas físicas y morales deben presentar declaraciones informativas a través del Portal del SAT. Deben seleccionar la declaración correspondiente, ingresar sus datos y enviar la información para recibir un acuse de recibo electrónico.",
+  "resumen": "Este procedimiento establece cómo las personas físicas y morales deben presentar sus declaraciones informativas a través del Portal del SAT. Incluye pasos para acceder a la declaración, capturar datos y enviar la información, asegurando que los contribuyentes cumplen con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo presento una declaración informativa?",
-    "¿Qué es la DIEMSE?",
-    "¿Qué debo hacer para enviar mis declaraciones informativas al SAT?",
-    "¿Qué información necesito para DeclararNOT?",
-    "¿Cuáles son las declaraciones informativas que tengo que presentar?"
+    "¿Cómo presento declaraciones informativas en el SAT?",
+    "¿Qué es la DIEMSE y cómo la declaro?",
+    "¿Qué necesito para usar el Portal del SAT?",
+    "¿Qué es DeclaraNOT y a quiénes aplica?",
+    "¿Cómo obtengo el acuse de recibo de mi declaración?"
   ]
 }

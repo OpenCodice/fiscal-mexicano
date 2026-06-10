@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:01bf4a9cd57229c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de ISR para residentes en el extranjero que paguen salarios",
+  "denominacion_comun": "Retención de ISR para residentes en el extranjero que pagan salarios",
   "temas": [
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero",
-    "Salarios",
-    "Retenciones",
-    "Inscripción como retenedor"
+    "ISR",
+    "residentes en el extranjero",
+    "retenciones",
+    "salarios",
+    "actividades artísticas"
   ],
   "terminos_coloquiales": [
-    "ISR para extranjeros",
-    "Retención de impuestos a extranjeros",
-    "Salarios de extranjeros",
-    "ADS",
-    "Reglamento de la Ley del ISR"
+    "retención de impuestos",
+    "ISR",
+    "residentes en el extranjero",
+    "salarios extranjeros",
+    "pago de salarios"
   ],
-  "resumen": "Esta disposición regula cómo los residentes en el extranjero que paguen salarios deben presentar un escrito ante las autoridades fiscales y cómo deben realizar las retenciones del impuesto sobre la renta correspondiente. También se menciona la obligación de inscribirse como retenedor.",
+  "resumen": "Esta disposición establece que los retenedores que paguen salarios a residentes en el extranjero deben registrarse y cumplir con las obligaciones de retención del ISR. También se mencionan las obligaciones relacionadas con el reporte y pago de estas retenciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se registran los residentes en el extranjero que pagan salarios?",
-    "¿Qué es el ISR para extranjeros?",
-    "¿Cuándo y cómo deben retener impuestos los extranjeros?",
-    "¿Qué documentos necesitan los retenedores en México?",
-    "¿Cómo presento el aviso para ser retenedor?"
+    "¿Cómo registro el pago de salarios a un residente en el extranjero?",
+    "¿Qué es la retención de ISR para un residente en el extranjero?",
+    "¿Qué trámites debo hacer si pago salarios a extranjeros?",
+    "¿Qué obligaciones tengo al pagar salarios a residentes en el extranjero?",
+    "¿Cómo se calcula el ISR por salarios pagados a extranjeros?"
   ]
 }

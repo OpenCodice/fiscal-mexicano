@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c6049bcc27cb9617",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revelación de esquemas reportables",
   "temas": [
-    "obligación de revelar",
-    "esquema reportable",
+    "esquemas reportables",
     "declaración informativa",
     "asesores fiscales",
     "constancia",
     "información complementaria",
-    "ficha de trámite",
-    "contribuyentes"
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
     "revelación de esquemas",
-    "declaración complementaria",
-    "esquemas reportables",
-    "CFF",
-    "RMF"
+    "declaraciones informativas",
+    "información de contribuyentes",
+    "esquemas fiscalmente eficientes"
   ],
-  "resumen": "Los asesores fiscales que no revelaron correctamente un esquema reportable pueden presentar una declaración complementaria. Esto les permite aclarar o añadir información adicional relacionada con la revelación de los esquemas reportables que se comercializaron.",
+  "resumen": "Esta disposición permite a los asesores fiscales que no están de acuerdo con una declaración informativa sobre un esquema reportable, presentar una declaración complementaria si tienen la constancia correspondiente. También se especifican los procedimientos para ello.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo complementar la info de un esquema reportable que revelé?",
-    "¿Qué debo hacer si estoy liberado de revelar un esquema reportable?",
-    "¿Qué es una declaración informativa complementaria?",
-    "¿Necesito una constancia para presentar la declaración complementaria?",
-    "¿Qué información adicional puedo incluir en la declaración complementaria?"
+    "¿Cómo puedo presentar una declaración informativa complementaria?",
+    "¿Qué hacer si no estoy de acuerdo con un esquema reportable que he revelado?",
+    "¿Qué constancia necesito para estar liberado de revelar un esquema reportable?",
+    "¿Qué es una declaración informativa de esquemas reportables?",
+    "¿Cómo se gestionan los datos de los contribuyentes relacionados con esquemas reportables?"
   ]
 }

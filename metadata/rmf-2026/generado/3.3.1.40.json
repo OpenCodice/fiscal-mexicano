@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e4927ab4b814a01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Vales de despensa",
   "temas": [
+    "monederos electrónicos",
+    "emisión de vales",
     "autorización",
-    "emisión",
-    "avisos",
-    "periodo de transición",
-    "clientes",
-    "cumplimiento"
+    "servicio de transición",
+    "comunicaciones con clientes"
   ],
   "terminos_coloquiales": [
     "vales de despensa",
     "monederos electrónicos",
-    "autorización de emisión",
-    "AVISO URGENTE"
+    "avisos a clientes",
+    "autorización de emisión"
   ],
-  "resumen": "Esta regla establece el procedimiento que deben seguir los emisores de monederos electrónicos de vales de despensa para dejar sin efectos su autorización. Los emisores deben informar a sus clientes y publicar un aviso sobre la finalización de su autorización.",
+  "resumen": "Esta regla establece el procedimiento que deben seguir los emisores de vales de despensa para dejar sin efectos su autorización. Incluye notificaciones que deben hacerse a los usuarios y un periodo de transición para la prestación del servicio.",
   "preguntas_ejemplo": [
-    "¿Cómo cancelo mi autorización para operar monederos de despensa?",
-    "¿Qué debo hacer si dejo de emitir vales de despensa?",
-    "¿Cuánto tiempo tengo para avisar a mis clientes sobre la cancelación?",
-    "¿Qué información debo enviar a mis clientes?",
-    "¿Cómo notifico al SAT que ya no voy a emitir monederos electrónicos?"
+    "¿Cómo puedo dejar de emitir vales de despensa?",
+    "¿Qué aviso debo enviar a mis clientes si dejo de operar?",
+    "¿Cuánto tiempo debo seguir operando después de cancelar mi autorización?",
+    "¿Qué debo hacer durante el periodo de transición?",
+    "¿Puedo contratar nuevos clientes mientras dejo sin efecto mi autorización?"
   ]
 }

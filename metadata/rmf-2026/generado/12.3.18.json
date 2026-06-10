@@ -5,32 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:ab4dbbcff27d25f0",
+    "hash_texto": "sha256:ae6682628af438dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de servicios digitales",
+  "denominacion_comun": "Servicios digitales ISR",
   "temas": [
-    "ISR",
-    "enajenación de bienes",
-    "prestación de servicios",
-    "plataformas tecnológicas",
-    "CFDI",
-    "devoluciones",
-    "descuentos",
-    "bonificaciones"
+    "Enajenación de bienes",
+    "Prestación de servicios",
+    "Plataformas tecnológicas",
+    "Declaración de pagos provisionales",
+    "CFDI de Egresos",
+    "Retenciones ISR"
   ],
   "terminos_coloquiales": [
-    "servicios digitales",
-    "plataformas digitales",
-    "reglamento ISR",
-    "devoluciones de impuestos"
+    "vender por internet",
+    "vender en plataformas",
+    "servicios en línea",
+    "declaración de impuestos",
+    "CFDI"
   ],
-  "resumen": "Las personas físicas que venden bienes o prestan servicios a través de plataformas digitales pueden ajustar sus declaraciones de ISR en caso de cancelaciones, devoluciones o descuentos, siempre que cumplan con ciertos requisitos de documentación.",
+  "resumen": "Las personas físicas que vendan bienes o presten servicios a través de plataformas digitales pueden restar devoluciones o descuentos en su declaración de impuestos siempre que cuenten con la documentación correcta, como un CFDI de Egresos.",
   "preguntas_ejemplo": [
-    "¿Cómo debo declarar mis ingresos si vendo productos en línea?",
-    "¿Puedo ajustar mi declaración de impuestos por cancelaciones de ventas?",
-    "¿Qué documentos necesito para respaldar mis devoluciones de ISR?",
-    "¿Cómo funcionan los descuentos en las declaraciones de impuestos para servicios digitales?",
-    "¿Qué es un CFDI de egresos y cómo lo utilizo?"
+    "¿Puedo restar devoluciones en mis impuestos si vendo en línea?",
+    "¿Qué necesito para declarar descuentos en mis ventas digitales?",
+    "¿Cómo debo documentar mis ventas para el ISR?",
+    "¿Es necesario un CFDI para cancelar una venta en línea?",
+    "¿Qué plataforma me ayuda a cumplir con mis obligaciones fiscales?"
   ]
 }

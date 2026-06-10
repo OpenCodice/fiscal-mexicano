@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5203cda9e18717aa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de comercializadoras de tabacos",
+  "denominacion_comun": "Obligaciones de contribuyentes del IEPS",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios",
-    "Obligaciones de contribuyentes",
-    "Declaración Informativa Múltiple",
-    "Ventas por entidad federativa",
-    "Productos de tabaco",
-    "Relaciones comerciales"
+    "IEPS",
+    "tabacos labrados",
+    "productos con nicotina",
+    "comercializadoras",
+    "distribuidoras",
+    "declaraciones informativas",
+    "RIF",
+    "información por entidad federativa"
   ],
   "terminos_coloquiales": [
-    "Obligaciones de comercializadoras",
-    "Informe de ventas de tabacos",
+    "impuesto especial sobre producción y servicios",
+    "declaración informativa",
     "MULTI-IEPS",
-    "IEPS"
+    "productos de tabaco",
+    "vendedores",
+    "importadores de tabacos",
+    "empresa comercializadora"
   ],
-  "resumen": "Esta disposición establece que los productores o importadores de tabacos que vendan a través de una comercializadora relacionada deben cumplir con ciertas obligaciones informativas. Específicamente, deben proporcionar información sobre sus ventas a través del programa 'Declaración Informativa Múltiple Impuesto Especial sobre Producción y Servicios'.",
+  "resumen": "Los productores o importadores de tabacos labrados y productos con nicotina deben cumplir con la obligación de declarar las ventas realizadas a través de comercializadoras o distribuidoras relacionadas. Esto se hace proporcionando información en el programa de declaración informativa correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué debo reportar si soy una comercializadora de tabacos?",
-    "¿Cómo realizo la declaración informativa para el IEPS?",
-    "¿Qué información necesito para cumplir con el artículo 19 del IEPS?",
-    "¿Cuáles son las obligaciones de las distribuidoras de tabacos?",
-    "¿Qué es el programa MULTI-IEPS?",
-    "¿Quiénes deben presentar la declaración informativa de ventas de tabacos?"
+    "¿Qué deben declarar las comercializadoras de tabacos labrados?",
+    "¿Cómo cumplo con mis obligaciones si vendo productos de tabaco?",
+    "¿Qué información debo proporcionar en el MULTI-IEPS?",
+    "¿A quiénes aplica la regla 5.2.14 del IEPS?",
+    "¿Qué pasa con los contribuyentes del RIF en este caso?"
   ]
 }

@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:794c152c4909a497",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración anual de personas morales",
+  "denominacion_comun": "Declaración anual para personas morales",
   "temas": [
-    "presentación de declaración anual",
+    "obligaciones fiscales",
+    "declaración anual",
     "resultado fiscal",
     "utilidad gravable",
-    "información prellenada",
-    "declaraciones complementarias",
-    "uso de e.firma",
-    "envío de declaración"
+    "pago de impuestos",
+    "prellenado de declaraciones",
+    "CFDI de nómina",
+    "e.firma",
+    "declaraciones complementarias"
   ],
   "terminos_coloquiales": [
-    "declaración anual",
     "declaración de impuestos",
-    "resultados fiscales",
-    "CFDI de nómina",
-    "SAT",
-    "LISR",
-    "personas morales"
+    "declaración anual",
+    "pago de impuestos",
+    "modificar declaración",
+    "e.firma"
   ],
-  "resumen": "Las personas morales deben presentar su declaración anual para determinar su resultado fiscal y el impuesto correspondiente. La declaración puede estar prellenada con datos de ejercicios anteriores y pagos provisionales. Si se necesita modificar la información, se pueden presentar declaraciones complementarias.",
+  "resumen": "Las personas morales deben presentar su declaración anual donde determinan su resultado fiscal y el impuesto correspondiente. Esta declaración puede estar prellenada con información de pagos provisionales y CFDI de nómina. También se requiere el uso de la e.firma para enviarla.",
   "preguntas_ejemplo": [
-    "¿Cómo presentar la declaración anual como persona moral?",
-    "¿Qué información se incluye en la declaración anual?",
-    "¿Puedo modificar mi declaración prellenada?",
-    "¿Qué es la e.firma y cómo se usa para enviar la declaración?",
-    "¿Dónde puedo enviar mi declaración anual?"
+    "¿Cómo presento mi declaración anual como persona moral?",
+    "¿Puedo modificar la información de mi declaración prellenada?",
+    "¿Qué información necesito para llenar mi declaración anual?",
+    "¿Cómo utilizo mi e.firma para enviar la declaración?",
+    "¿Qué son los CFDI de nómina y cómo afectan mi declaración?"
   ]
 }

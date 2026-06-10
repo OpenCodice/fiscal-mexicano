@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e3ec15c4450dfbb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del IVA por consorcios",
+  "denominacion_comun": "Determinación del IVA por integrantes de consorcios",
   "temas": [
     "IVA",
-    "Consorcios",
+    "consorcios",
+    "acreditamiento",
     "CFDI",
-    "Acreditamiento",
-    "Gastos",
-    "Personas morales"
+    "prestación de servicios"
   ],
   "terminos_coloquiales": [
-    "IVA en consorcios",
-    "Acreditamiento de IVA",
+    "IVA de consorcios",
+    "acreditación de IVA",
+    "gastos en consorcios",
     "CFDI para consorcios",
-    "IVA acreditable",
-    "LISH",
-    "Ley del IVA"
+    "empresas en consorcios"
   ],
-  "resumen": "Los integrantes de un consorcio pueden acreditar individualmente el IVA si el operador emite el CFDI correspondiente y cumple con otros requisitos. Las cantidades percibidas para gastos no cuentan como valor para el IVA, y el operador puede acreditar solo su parte proporcional del IVA amparado.",
+  "resumen": "Esta disposición establece cómo los integrantes de un consorcio pueden acreditar el IVA de manera proporcional. Se requiere que cada integrante reciba un CFDI adecuado para poder realizar dicha acreditación y se aclaran ciertos gastos que no se consideran para el cálculo del IVA.",
   "preguntas_ejemplo": [
-    "¿Cómo acreditan el IVA los integrantes de un consorcio?",
-    "¿Qué requisitos debe cumplir un CFDI para el acreditamiento del IVA?",
-    "¿Qué gastos no se consideran para el cálculo del IVA en un consorcio?",
-    "¿Puede un operador acreditar todo el IVA en un consorcio?",
-    "¿Qué dice la LISH sobre el IVA y los consorcios?"
+    "¿Cómo se determina el IVA en un consorcio?",
+    "¿Qué requisitos necesita un CFDI para acreditar el IVA?",
+    "¿Puedo acreditar el IVA si soy parte de un consorcio?",
+    "¿Qué gastos no suman para calcular el IVA en consorcios?",
+    "¿Cuánto IVA puede acreditar cada integrante del consorcio?"
   ]
 }

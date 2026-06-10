@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f980d8a45c7c2feb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos autorizados para donativos",
+  "denominacion_comun": "Fideicomisos Cancelados o Revocados",
   "temas": [
-    "cancelación de autorizaciones",
-    "revocación de autorizaciones",
-    "obligaciones fiscales",
+    "cancelación de autorización",
+    "revocación de autorización",
+    "donativos deducibles",
     "organizaciones civiles",
-    "donativos deducibles"
+    "fideicomisos",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "cancelación de fideicomisos",
-    "revocación de donativos",
-    "fideicomisos deducibles",
-    "LISR",
-    "OC",
-    "organizaciones civiles"
+    "fideicomisos cancelados",
+    "fosfideicomisos revocados",
+    "donativos deducibles",
+    "obligaciones de organizaciones civiles",
+    "SAT fideicomisos",
+    "LISR"
   ],
-  "resumen": "El SAT actualizará el régimen fiscal de organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles haya sido cancelada o revocada. Estas entidades deberán cumplir con las obligaciones fiscales pendientes a partir de la notificación de la revocación.",
+  "resumen": "Establece que el SAT actualizará el régimen fiscal de fideicomisos y organizaciones civiles que hayan perdido su autorización para recibir donativos deducibles. A partir de la actualización, deben cumplir con sus obligaciones fiscales, incluso si no recuperan la autorización por el mismo ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mi fideicomiso fue cancelado para recibir donativos?",
-    "¿Cuáles son las obligaciones de un fideicomiso revocado?",
-    "¿Qué debo hacer si no recupero mi autorización de donativos?",
-    "¿Cómo afecta la cancelación a las organizaciones civiles?",
-    "¿Debo seguir presentando declaraciones si mi donativo fue revocado?"
+    "¿Qué pasa si mi fideicomiso fue cancelado?",
+    "¿Cuáles son las obligaciones de una organización civil revocada?",
+    "¿Cómo se actualizan las obligaciones fiscales de un fideicomiso?",
+    "¿Qué deben hacer las organizaciones civiles tras la revocación?",
+    "¿Siguen obligados a presentar declaraciones los fideicomisos cancelados?"
   ]
 }

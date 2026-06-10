@@ -6,35 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e3b29bb4b77f124",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sustitución de Marbetes y Precintos",
+  "denominacion_comun": "Faltantes de marbetes y precintos",
   "temas": [
-    "Marbetes",
-    "Precintos",
-    "Faltantes",
-    "Defectos",
-    "Solicitud de sustitución",
-    "Procedimiento ante el SAT",
-    "Plazo de solicitud",
-    "Cancelación y destrucción"
+    "marbetes",
+    "precintos",
+    "sustitución",
+    "bienes de consumo",
+    "obra de carácter fiscal",
+    "plazos para solicitudes"
   ],
   "terminos_coloquiales": [
-    "Marbetes dañados",
-    "Precintos defectuosos",
-    "Cambio de marbetes",
-    "Solicitud de marbetes",
-    "Falta de marbetes",
-    "IEPS",
-    "Regla 5.2.10"
+    "falta de marbetes",
+    "marbetes defectuosos",
+    "sustitución de marbetes",
+    "pedir marbetes",
+    "SAT",
+    "IEPS"
   ],
-  "resumen": "Los contribuyentes pueden solicitar la sustitución de marbetes o precintos defectuosos o faltantes en un plazo de sesenta días. Si la solicitud se presenta después de este plazo, los marbetes no serán sustituidos y deberán ser destruidos y cancelados a través del portal del SAT.",
+  "resumen": "La regla establece que los contribuyentes pueden solicitar la sustitución de marbetes o precintos faltantes o defectuosos dentro de un plazo específico. Si no se solicita a tiempo, deben ser cancelados y destruidos. También se pueden solicitar sustituciones por otras causas en cualquier momento, pero deben cumplir con ciertos requisitos ante la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si me llegaron marbetes defectuosos?",
-    "¿Cómo solicito la sustitución de un marbete faltante?",
-    "¿Cuál es el plazo para pedir la entrega de marbetes dañados?",
-    "¿Qué sucede si hago la solicitud después del plazo?",
-    "¿Tengo que destruir los marbetes que no puedo usar?",
-    "¿Dónde debo cancelar los marbetes defectuosos?"
+    "¿Cómo puedo solicitar la sustitución de marbetes defectuosos?",
+    "¿Cuánto tiempo tengo para pedir mis marbetes o precintos faltantes?",
+    "¿Qué pasa si no solicito mis marbetes a tiempo?",
+    "¿Qué debo hacer con los marbetes que tengo que cancelar?",
+    "¿Puedo pedir más marbetes en cualquier momento?",
+    "¿Qué requisitos debo cumplir para solicitar marbetes?"
   ]
 }

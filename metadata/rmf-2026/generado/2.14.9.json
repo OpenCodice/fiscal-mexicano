@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:695ece7a04c3b24c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos de multas fiscales",
   "temas": [
     "reducción de multas",
-    "solicitud de pago a plazos",
+    "pago a plazos",
     "contribuciones omitidas",
-    "normativa fiscal",
-    "línea de captura"
+    "accesorios fiscales",
+    "requisitos de solicitud",
+    "plazos de pago",
+    "revocación de autorización"
   ],
   "terminos_coloquiales": [
-    "pago a plazos de multas",
-    "reducción de multas",
-    "CFF",
-    "artículo 74",
-    "solicitud de plazos"
+    "multas fiscales",
+    "pagos a plazos",
+    "reducir multas",
+    "contribuciones adeudadas",
+    "autorización de pagos",
+    "FCF",
+    "línea de captura"
   ],
-  "resumen": "Los contribuyentes pueden solicitar pagar a plazos las multas no reducidas y las contribuciones omitidas, siempre que hagan la solicitud adecuada y cumplan con ciertos requisitos. Deben pagar al menos el 20% del adeudo inicial y seguir el proceso establecido en la ley.",
+  "resumen": "Esta disposición permite a los contribuyentes solicitar el pago a plazos de las multas no reducidas y de contribuciones omitidas, siempre y cuando cumplan con ciertos requisitos, como realizar un pago inicial. Si no se cubre la totalidad del crédito en los plazos establecidos, la autorización puede ser revocada.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar mis multas fiscales a plazos?",
-    "¿Qué requisitos necesito para solicitar una reducción de multas?",
-    "¿Qué porcentaje debo pagar inicialmente para acceder al plan de pagos?",
-    "¿Cuánto tiempo tengo para pagar mis multas en parcialidades?",
-    "¿Qué sucede si no pago a tiempo las multas reducibles?",
-    "¿Puedo solicitar el pago a plazos si tengo contribuciones omitidas?"
+    "¿Cómo puedo solicitar el pago a plazos de mis multas?",
+    "¿Qué requisitos necesito para reducir mis multas fiscales?",
+    "¿Cuánto debo pagar inicialmente si solicito reducir mis multas?",
+    "¿Qué pasa si no pago la multa a tiempo?",
+    "¿Se puede pagar en parcialidades las contribuciones omitidas?",
+    "¿Qué es el FCF y cómo lo obtengo?"
   ]
 }

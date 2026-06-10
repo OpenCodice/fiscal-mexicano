@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:914ca3df0fa7227d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimulo fiscal IVA POINBI",
+  "denominacion_comun": "Estímulo fiscal IVA POINBI",
   "temas": [
-    "estímulo fiscal",
+    "estímulos fiscales",
     "IVA",
-    "declaración de impuestos",
+    "declaraciones mensuales",
     "CFDI",
     "actividades económicas",
     "POINBI"
   ],
   "terminos_coloquiales": [
-    "estímulo de IVA",
-    "declaración de IVA mensual",
-    "POINBI",
-    "decreto POINBI"
+    "estímulo fiscal",
+    "declarar IVA",
+    "pagos mensuales IVA",
+    "CFDI de ingresos",
+    "CFDI de pagos"
   ],
-  "resumen": "Esta disposición establece que los contribuyentes deben declarar el estímulo fiscal en sus pagos mensuales de IVA, utilizando información de los CFDI de ingresos y pagos. Los CFDI deben tener claves específicas que se relacionan con el estímulo fiscal para actividades económicas dentro de los POINBI.",
+  "resumen": "Esta disposición establece que los contribuyentes que apliquen el estímulo fiscal en sus pagos mensuales de IVA deben declarar la información correspondiente en sus declaraciones, utilizando los CFDI adecuados que contengan ciertos datos específicos relacionados con sus actividades económicas al interior de los POINBI.",
   "preguntas_ejemplo": [
     "¿Cómo declaro el estímulo fiscal en mi IVA?",
-    "¿Qué CFDI necesito para aplicar el estímulo de IVA?",
-    "¿Qué claves debo usar en mi declaración de IVA?",
-    "¿Qué debo incluir en mis pagos mensuales definitivos de IVA?",
-    "¿Cómo afecta el estímulo fiscal a mis impuestos?",
-    "¿Qué son los POINBI en relación con el IVA?"
+    "¿Qué debo incluir en mi declaración mensual de IVA?",
+    "¿Cuáles son los CFDI que debo usar para el estímulo fiscal?",
+    "¿Qué información necesito para aplicar el estímulo fiscal en el IVA?",
+    "¿Qué son los POINBI y cómo afectan mi IVA?"
   ]
 }

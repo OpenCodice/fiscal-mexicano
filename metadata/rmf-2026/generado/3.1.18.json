@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c53d8ad09649a35",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dividendos de residentes en el extranjero",
   "temas": [
     "Impuesto sobre la renta",
     "Dividendos",
+    "Personas morales",
     "Sociedades extranjeras",
-    "Acreditamiento de impuestos",
     "Establecimiento permanente"
   ],
   "terminos_coloquiales": [
-    "Dividendo extranjero",
-    "ISR sobre dividendos",
-    "Acreditamiento de ISR",
-    "LISR",
-    "Dividendos de sociedades extranjeras"
+    "dividendos",
+    "impuesto sobre la renta",
+    "ISR",
+    "sociedades extranjeras",
+    "personas morales"
   ],
-  "resumen": "Esta regla establece los casos en los que las personas morales residentes en México pueden acreditar el ISR pagado en el extranjero por dividendos recibidos. Se contemplan situaciones en las que las sociedades extranjeras distribuyen dividendos directamente o a través de otras sociedades.",
+  "resumen": "Esta regla establece que las personas morales residentes en México pueden acreditar el ISR pagado en México bajo ciertas condiciones relacionadas con dividendos de sociedades extranjeras. Incluye situaciones donde las sociedades distribuyen dividendos a través de intermediarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se acreditan los impuestos pagados sobre dividendos de empresas extranjeras?",
-    "¿Qué requisitos hay para los dividendos que provienen de sociedades extranjeras?",
-    "¿Puedo acreditar el ISR pagado en el extranjero por dividendos recibidos?",
-    "¿Qué es un establecimiento permanente y cómo afecta a los dividendos?",
-    "¿Qué dice la Ley del ISR sobre los dividendos de residentes en el extranjero?"
+    "¿Cómo puedo acreditar el ISR que pagué por dividendos de una sociedad extranjera?",
+    "¿Qué condiciones necesito cumplir para recibir dividendos de residentes en el extranjero?",
+    "¿Los dividendos de sociedades extranjeras están sujetos a ISR?",
+    "¿Qué es un establecimiento permanente en México en relación a dividendos?",
+    "¿Las personas morales en México pueden recibir dividendos de otras sociedades extranjeras?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7bd440a0573eb351",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Arte y antigüedades como bienes muebles usados",
+  "denominacion_comun": "Bienes muebles usados",
   "temas": [
-    "obras de arte",
+    "artes plásticas",
     "antigüedades",
     "bienes muebles",
-    "iva",
+    "Ley del IVA",
     "facilidades fiscales"
   ],
   "terminos_coloquiales": [
-    "arte usado",
-    "bienes muebles usados",
-    "obras plásticas",
+    "obras de arte",
     "antigüedades",
+    "bienes de segunda mano",
+    "usados",
     "LIVA"
   ],
-  "resumen": "Las obras de artes plásticas y las antigüedades se consideran bienes muebles usados según el decreto. Esto afecta su tratamiento fiscal relacionado con el impuesto al valor agregado.",
+  "resumen": "Esta disposición establece que las obras de artes plásticas y las antigüedades se consideran bienes muebles usados según la Ley del IVA. Esto implica que se les aplican ciertas normas fiscales específicas.",
   "preguntas_ejemplo": [
-    "¿Cómo se consideran las obras de arte a efectos fiscales?",
-    "¿Qué son las antigüedades según la ley del IVA?",
-    "¿Qué implica que un bien mueble sea usado?",
-    "¿Cuáles son las facilidades para el pago del IVA en arte y antigüedades?",
-    "¿Qué requisitos hay para que una obra sea considerada como bien usado?"
+    "¿Qué se considera un bien mueble usado?",
+    "¿Cómo se clasifican las antigüedades a efectos fiscales?",
+    "¿Qué implica ser considerado un bien mueble usado según la Ley del IVA?",
+    "¿Las obras de arte tienen un tratamiento fiscal diferente?",
+    "¿Qué facilidades fiscales hay para las antigüedades?"
   ]
 }

@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e5f98d1e8c8807e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de contribuyentes del IVA",
+  "denominacion_comun": "Obligaciones de los Contribuyentes del IVA",
   "temas": [
-    "información a contribuir",
+    "IVA",
     "personas morales",
     "personas físicas",
-    "proveedores globales",
-    "monto de IVA pagado no acreditable",
+    "RIF",
     "DIOT",
-    "operaciones petroleras"
+    "proveedores",
+    "operador petrolero",
+    "consorcios"
   ],
   "terminos_coloquiales": [
-    "obligaciones IVA",
-    "reportes IVA",
-    "información DIOT",
-    "monto IVA no acreditable",
+    "declaración del IVA",
+    "información fiscal",
+    "Régimen de Incorporación Fiscal",
     "proveedores",
-    "RIF",
-    "RMF"
+    "cobro de IVA",
+    "portal del SAT",
+    "CFDI"
   ],
-  "resumen": "Las personas morales deben proporcionar información sobre sus operaciones y montos de IVA en el mes siguiente al que corresponda. Existen reglas específicas para aquellas que forman parte de consorcios o áreas unificadas y detalles sobre el llenado de campos específicos en la DIOT.",
+  "resumen": "Esta regla establece las obligaciones de las personas morales y físicas respecto a la presentación de información relacionada con el IVA. Deben proporcionar los datos en el mes siguiente al que corresponde y cumplir con requisitos específicos sobre operaciones y montos relacionados con el IVA no acreditable.",
   "preguntas_ejemplo": [
-    "¿Qué información debo reportar por el IVA?",
-    "¿Cómo presento mis obligaciones fiscales del IVA?",
-    "¿Qué es el monto de IVA pagado no acreditable?",
-    "¿Qué pasa si soy un proveedor dentro de un consorcio?",
-    "¿Cuándo tengo que presentar la DIOT?"
+    "¿Cuándo debo presentar la información del IVA?",
+    "¿Qué información se necesita para la DIOT?",
+    "¿Cómo declaro el IVA no acreditable?",
+    "¿Qué pasa si soy del RIF?",
+    "¿Qué datos debo incluir de mis proveedores?",
+    "¿Cómo manejo la información del operador petrolero?"
   ]
 }

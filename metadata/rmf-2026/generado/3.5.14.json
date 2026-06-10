@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a44ead4336cd4028",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Depósitos en fideicomisos",
+  "denominacion_comun": "Depósitos en efectivo en fideicomisos",
   "temas": [
+    "Impuesto sobre la renta",
     "Fideicomisos",
-    "Depósitos en efectivo",
     "Instituciones financieras",
-    "Identificación de fideicomisarios",
-    "Opciones para depósitos",
-    "Comunicación de instituciones"
+    "Depósitos en efectivo",
+    "Cuentas fiduciarias"
   ],
   "terminos_coloquiales": [
-    "depósitos fideicomisarios",
     "fideicomisos",
-    "instituciones financieras",
-    "comunicaciones fiduciarias"
+    "dinero en efectivo",
+    "cuentas fiduciarias",
+    "depósitos en cuentas",
+    "instituciones financieras"
   ],
-  "resumen": "Las instituciones del sistema financiero pueden optar por reconocer los depósitos en efectivo en cuentas de fideicomisos como realizados a favor de fideicomisarios o fideicomitentes, siempre que estos sean identificables. Se requiere comunicación escrita entre la fiduciaria y las instituciones financieras para llevar a cabo esta opción.",
+  "resumen": "La regla establece que las instituciones del sistema financiero pueden optar por tratar los depósitos en efectivo realizados en cuentas a nombre de fiduciarias como hechos a favor de los fideicomisarios o fideicomitentes, siempre que se pueda identificar a estos. Se detalla el procedimiento que debe seguir la fiduciaria y la institución financiera para ejercer esta opción.",
   "preguntas_ejemplo": [
     "¿Cómo se registran los depósitos en fideicomisos?",
-    "¿Qué información necesita la fiduciaria para comunicar a las instituciones financieras?",
-    "¿Qué sucede si no se designan fideicomisarios?",
-    "¿Cómo se identifican a los fideicomisarios o fideicomitentes?",
-    "¿Qué información se debe proporcionar sobre los fideicomisarios?"
+    "¿Qué información necesita la fiduciaria para comunicar a la institución financiera?",
+    "¿Pueden las instituciones financieras considerar los depósitos en cuentas fiduciarias a favor de los fideicomisarios?",
+    "¿Cuál es el procedimiento para que una fiduciaria ejerza la opción de depósitar en efectivo?",
+    "¿Qué datos debe proporcionar la fiduciaria a la institución financiera?"
   ]
 }

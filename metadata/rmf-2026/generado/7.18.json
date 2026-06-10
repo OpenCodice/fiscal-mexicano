@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e779e9e650bd5bde",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por uso de zona federal marítimo terrestre",
   "temas": [
-    "Pago de derechos",
-    "Uso de salinas",
-    "Aprovechamiento de playas",
-    "Zona federal marítimo terrestre",
-    "Terrenos ganados al mar",
-    "Depósitos de aguas marítimas",
-    "Convenio de Colaboración Administrativa",
-    "Oficinas recaudadoras"
+    "derechos",
+    "zona federal marítimo terrestre",
+    "explotación de salinas",
+    "aprovechamiento de inmuebles",
+    "playas",
+    "terrenos ganados al mar",
+    "depósitos de aguas marítimas",
+    "pago de derechos",
+    "convocatoria administrativa"
   ],
   "terminos_coloquiales": [
-    "Derechos marítimos",
-    "Uso de zonas federales",
-    "LFD 211-B",
-    "LFD 232-C"
+    "derechos marítimos",
+    "uso de playas",
+    "salinas",
+    "pago de derechos",
+    "Convenio de Colaboración Administrativa",
+    "LFD"
   ],
-  "resumen": "Esta disposición establece cómo se deben pagar los derechos por el uso de la zona federal marítimo terrestre y las salinas. Los pagos se pueden realizar a través de oficinas recaudadoras de entidades federativas o municipios autorizados.",
+  "resumen": "Esta disposición regula el pago de derechos por el uso y aprovechamiento de la zona federal marítimo terrestre, incluyendo actividades como la explotación de salinas y el uso de playas. Los pagos pueden realizarse ante entidades federativas y municipios que cumplan con los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Cómo se pagan los derechos por el uso de la zona federal marítimo terrestre?",
-    "¿Dónde puedo realizar el pago por el aprovechamiento de salinas?",
-    "¿Cuáles son las entidades que pueden recaudar estos derechos?",
-    "¿Qué es el Anexo 1 del Convenio de Colaboración Administrativa?",
-    "¿Qué artículos de la LFD se relacionan con estos derechos?"
+    "¿Cómo pago los derechos por usar la playa?",
+    "¿Qué derechos debo pagar si quiero explotar una salina?",
+    "¿Dónde puedo realizar el pago de derechos marítimos?",
+    "¿Qué se necesita para utilizar terrenos ganados al mar?",
+    "¿Cuáles son los requisitos para el pago de derechos por aprovechar inmuebles en la zona federal?"
   ]
 }

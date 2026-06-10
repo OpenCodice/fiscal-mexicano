@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4787bff52dcbdc24",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes inmuebles",
   "temas": [
     "ISR",
     "enajenación",
-    "notarios",
-    "detracción",
-    "retención de impuestos",
+    "fedatarios públicos",
+    "cálculo de impuestos",
     "documentación fiscal",
-    "cuantificación de ingresos",
-    "deducciones autorizadas"
+    "retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "cálculo de ISR",
-    "enajenación de inmuebles",
-    "información fiscal de notarios",
-    "ISR por venta de terrenos",
-    "retención de ISR"
+    "venta de propiedades",
+    "impuesto sobre la renta",
+    "notarios",
+    "corredores",
+    "acuse de recibo",
+    "ISR"
   ],
-  "resumen": "Esta disposición establece que los fedatarios públicos deben proporcionar al contribuyente un documento que acredite el cumplimiento de las obligaciones fiscales relacionadas con la enajenación de bienes inmuebles, incluyendo datos sobre precio, deducciones, y el ISR causado.",
+  "resumen": "Los notarios y otros fedatarios deben proporcionar al contribuyente información sobre el cálculo del ISR en las operaciones de venta de bienes inmuebles. Esto incluye datos como nombre, clave del RFC, el precio de venta, las deducciones autorizadas y el impuesto causado por la enajenación.",
   "preguntas_ejemplo": [
-    "¿Qué información debe dar el notario al vender mi propiedad?",
-    "¿Cómo se calcula el ISR por la venta de un inmueble?",
-    "¿Qué datos necesita el fedatario para registrar la enajenación?",
-    "¿Qué es lo que me deben entregar al momento de enajenar un bien inmueble?",
-    "¿Cuál es el procedimiento para reportar la enajenación de bienes?"
+    "¿Qué información deben dar los notarios cuando se vende un inmueble?",
+    "¿Cómo se calcula el ISR por la venta de una propiedad?",
+    "¿Qué documentos necesito para acreditar la venta de un terreno?",
+    "¿Cuáles son los datos que debe contener el acuse de recibo en una enajenación?",
+    "¿Qué deben incluir los fedatarios en la documentación fiscal de una enajenación?"
   ]
 }

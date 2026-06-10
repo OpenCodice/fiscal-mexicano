@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a83ea02f7e989dc4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exención de declaración anual del ISR",
   "temas": [
-    "Obligación de presentar declaración",
-    "Contribuyentes exentos",
-    "ISR sobre salarios",
+    "obligación de declaración",
+    "ISR",
+    "ingresos por salarios",
     "CFDI de nómina",
-    "Ingresos por intereses",
-    "Facilidades fiscales"
+    "intereses",
+    "exoneración fiscal"
   ],
   "terminos_coloquiales": [
-    "Exención declaración ISR",
-    "Contribuyentes sin declaración",
-    "ISR salarios",
-    "Ingresos bajos ISR"
+    "no presentar declaración",
+    "declaración anual del ISR",
+    "ingresos salariales",
+    "intereses menores a 20,000",
+    "CFDI",
+    "ISR para personas físicas"
   ],
-  "resumen": "Los contribuyentes personas físicas que solo obtuvieron ingresos por salarios y no tienen ISR a cargo no están obligados a presentar su declaración anual del ISR, así como aquellos que recibieron ingresos por intereses menores a $20,000. También se requieren CFDI de nómina. Sin embargo, hay excepciones para ciertos casos de ingresos y reportes.",
+  "resumen": "Los contribuyentes personas físicas con ingresos por salarios y ciertos intereses no están obligados a presentar su declaración anual del ISR, siempre que cumplan con ciertos requisitos específicos. Sin embargo, pueden optar por presentar su declaración si así lo desean.",
   "preguntas_ejemplo": [
-    "¿Quiénes no tienen que presentar declaración anual del ISR?",
-    "¿Qué ingresos me eximen de declaración anual del ISR?",
-    "¿Qué es el CFDI de nómina y por qué es importante?",
-    "¿Puedo dejar de presentar mi declaración si solo tengo ingresos por salarios?",
-    "¿Qué pasa si tengo ingresos por intereses menores a $20,000?"
+    "¿Quiénes no tienen que presentar la declaración anual del ISR?",
+    "¿Qué ingresos permiten estar exento de presentar la declaración anual del ISR?",
+    "¿Necesito presentar mi declaración si solo tengo ingresos por salario?",
+    "¿Qué pasa si mis intereses son menores a 20,000 pesos?",
+    "¿Es necesario el CFDI de nómina para estar exento de la declaración anual?"
   ]
 }

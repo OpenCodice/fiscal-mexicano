@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec9aeb68d7753b84",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Renovación de Certificado de e.firma",
+  "denominacion_comun": "Renovación de e.firma",
   "temas": [
-    "e.firma",
-    "certificado",
+    "certificado de e.firma",
     "personas morales",
     "renovación",
     "vigencia",
-    "representante legal",
-    "solicitud"
+    "trámite"
   ],
   "terminos_coloquiales": [
     "e.firma",
-    "certificado digital",
-    "renovación del e.firma",
-    "CSD"
+    "firma electrónica",
+    "renovación de certificado",
+    "certificado caduco",
+    "personas morales"
   ],
-  "resumen": "Las personas morales pueden renovar su certificado de e.firma si ha perdido su vigencia en el último año y el representante legal sigue siendo el mismo. La renovación debe hacerse conforme a la ficha de trámite correspondiente.",
+  "resumen": "Las personas morales pueden renovar su certificado de e.firma si este ha perdido vigencia en el último año, siempre y cuando el representante legal sea el mismo y tenga un certificado activo. La solicitud debe hacerse siguiendo un procedimiento específico.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo renovar mi e.firma?",
-    "¿Qué requisitos necesito para renovar el certificado de e.firma?",
-    "¿Quién puede solicitar la renovación de la e.firma?",
-    "¿Qué hacer si mi e.firma ya no es válida?",
-    "¿Cuál es el proceso para renovar el certificado digital?",
-    "¿Necesito un nuevo representante legal para renovar el e.firma?"
+    "¿Cómo puedo renovar el certificado de e.firma de mi empresa?",
+    "¿Qué requisitos necesito para la renovación de la e.firma?",
+    "¿Qué hacer si mi e.firma ha caducado?",
+    "¿Quién puede tramitar la renovación del certificado de e.firma?",
+    "¿Dónde encuentro la ficha de trámite para renovar mi e.firma?"
   ]
 }

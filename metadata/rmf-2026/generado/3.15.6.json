@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cafa16c07d1d9679",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de fedatarios públicos en la enajenación de bienes",
+  "denominacion_comun": "Impuesto sobre la Renta para Fedatarios Públicos",
   "temas": [
-    "Impuesto sobre la renta",
+    "ISR",
     "IVA",
-    "Fedatarios públicos",
-    "Declaraciones electrónicas",
-    "Enajenación de bienes",
-    "Operaciones notariales"
+    "fedatarios públicos",
+    "declaración anual",
+    "DeclaraNOT",
+    "e.firma",
+    "acuse de aceptación",
+    "operaciones de enajenación"
   ],
   "terminos_coloquiales": [
-    "DeclaraNOT en línea",
-    "IVA",
-    "ISR",
-    "Deducción de impuestos",
-    "Fedatarios"
+    "impuesto para notarios",
+    "pago de impuestos notariales",
+    "declaraNOT",
+    "e.firma",
+    "acusos de aceptación",
+    "declaración de impuestos de fedatarios"
   ],
-  "resumen": "Los fedatarios públicos con funciones notariales deben realizar el pago del ISR e IVA de las enajenaciones en las que intervienen a través de medios electrónicos. Están exentos de presentar la declaración anual si usan el sistema DeclaraNOT en línea del SAT.",
+  "resumen": "Esta regla establece que los fedatarios públicos deben realizar el pago del ISR y del IVA por las enajenaciones en las que intervengan y son relevados de presentar la declaración anual si usan el sistema DeclaraNOT en línea. También deben utilizar su e.firma o Contraseña para enviar la información correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones fiscales de un fedatario público?",
-    "¿Cómo presentan los fedatarios públicos el pago del ISR y el IVA?",
-    "¿Qué es el DeclaraNOT en línea y cómo lo utilizan los fedatarios?",
-    "¿Qué documentos deben tener los fedatarios públicos para las operaciones notariales?",
-    "¿Están los fedatarios públicos obligados a presentar declaración anual?"
+    "¿Qué deben hacer los notarios para pagar el ISR y el IVA?",
+    "¿Cómo funcionan los pagos de impuestos para fedatarios públicos?",
+    "¿Qué es el DeclaraNOT y cómo se usa?",
+    "¿Los fedatarios públicos necesitan presentar declaración anual?",
+    "¿Qué información se requiere para el acuse de aceptación electrónico?",
+    "¿Cómo se puede obtener la reimpresión del acuse de aceptación?"
   ]
 }

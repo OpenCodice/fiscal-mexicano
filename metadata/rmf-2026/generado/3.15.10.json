@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:458387966700f48f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de acciones y títulos",
+  "denominacion_comun": "Enajenación de acciones o títulos",
   "temas": [
+    "Impuesto sobre la renta",
+    "Enajenación de bienes",
     "Intermediarios del mercado de valores",
-    "Costo de adquisición",
-    "Ganancia y pérdida",
-    "Retención del impuesto",
-    "Residentes en el extranjero",
-    "Documentación fiscal"
+    "Costo promedio de adquisición",
+    "Retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "Venta de acciones",
-    "Costo promedio de acciones",
-    "Ganancias de capital",
-    "Impuesto sobre la venta de títulos"
+    "venta de acciones",
+    "costo de adquisición de acciones",
+    "ganancia por venta de acciones",
+    "impuesto por enajenación",
+    "ISR",
+    "LISR"
   ],
-  "resumen": "Los intermediarios del mercado de valores deben obtener un documento que acredite el costo de adquisición de acciones o títulos en caso de no poder identificarlo. Esto es necesario para calcular la ganancia o pérdida al realizar la enajenación, y se establecen reglas específicas para residentes en el extranjero.",
+  "resumen": "La regla establece que los intermediarios del mercado de valores deben obtener un documento que indique el costo promedio ponderado de adquisición de acciones o títulos, para poder calcular la ganancia o pérdida correspondiente. Si no se cuenta con esta información, se aplicará una retención del impuesto sobre el importe bruto de la operación.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el costo de venta de acciones?",
-    "¿Qué documentos necesito para calcular mis ganancias por enajenación de títulos?",
-    "¿Los residentes en el extranjero también deben pagar impuestos por la venta de acciones?",
-    "¿Qué es el costo promedio ponderado actualizado de adquisición?",
-    "¿Qué pasa si no tengo el costo de adquisición de mis acciones?",
-    "¿Qué información debe proporcionar el titular de la cuenta al intermediario?"
+    "¿Qué tengo que hacer para calcular la ganancia de la venta de mis acciones?",
+    "¿Cómo se determina el costo de adquisición de mis acciones si no tengo la información?",
+    "¿Qué pasa si soy residente en el extranjero y vendo acciones?",
+    "¿Cuál es la retención de impuestos por la venta de acciones?",
+    "¿Qué documentos debo guardar al vender acciones?"
   ]
 }

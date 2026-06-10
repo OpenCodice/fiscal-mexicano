@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fffdf97b776bc699",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de Declaración ISR para EE.UU.",
+  "denominacion_comun": "Certificación de presentación de declaración ISR para Estados Unidos",
   "temas": [
-    "Impuesto sobre la renta",
-    "Declaración anual",
-    "Certificación",
-    "Estados Unidos de América",
-    "Documentación fiscal"
+    "certificación de presentación",
+    "declaración ISR",
+    "Estados Unidos",
+    "documentos fiscales",
+    "formas 4506"
   ],
   "terminos_coloquiales": [
-    "certificación ISR",
-    "declaración ISR EE.UU.",
-    "formularios 4506",
-    "IRS certification"
+    "certificación de impuestos",
+    "declaración de impuestos en Estados Unidos",
+    "ISR extranjero",
+    "certificado de declaración",
+    "Servicio de Rentas Internas"
   ],
-  "resumen": "Esta regla establece que para efectos del Impuesto sobre la Renta, se considera como certificación de la presentación de la declaración del ISR para Estados Unidos el documento emitido por el Servicio de Rentas Internas de ese país, tras una solicitud con ciertos formularios.",
+  "resumen": "Esta regla establece que para efectos fiscales en México, se considerará como evidencia de la presentación de la declaración del ISR un documento emitido por el Servicio de Rentas Internas de Estados Unidos. Este documento se deberá obtener utilizando ciertas formas específicas.",
   "preguntas_ejemplo": [
-    "¿Qué es la certificación de la declaración ISR para Estados Unidos?",
-    "¿Qué documentos necesito para certificar mi declaración de ISR en EE.UU.?",
-    "¿Cómo obtengo la certificación del IRS?",
-    "¿Qué formularios debo usar para solicitar la certificación de mi declaración?",
-    "¿Cuál es la importancia de la certificación del IRS para el ISR?"
+    "¿Qué documento necesito para certificar mi declaración de ISR en Estados Unidos?",
+    "¿Cómo obtengo la certificación de mi declaración fiscal en EE.UU.?",
+    "¿Qué es la forma 4506 para la declaración de impuestos?",
+    "¿Qué requisitos debo cumplir para la certificación de impuestos en el extranjero?",
+    "¿Cómo afecta la declaración de ISR de EE.UU. a mi situación fiscal en México?"
   ]
 }

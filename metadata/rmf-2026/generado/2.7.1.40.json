@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62c5f0b59854730c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facturación en factoraje financiero",
+  "denominacion_comun": "Facturación en Factoraje Financiero",
   "temas": [
     "CFDI",
-    "factoraje financiero",
-    "complemento para recepción de pagos",
-    "derechos de cobro",
-    "documentos soportes"
+    "Factoraje Financiero",
+    "Recepción de Pagos",
+    "Derechos de Cobro",
+    "Contratos de Factoraje"
   ],
   "terminos_coloquiales": [
-    "factura de factoraje",
-    "CFDI de factoraje",
-    "complemento de pago"
+    "factura",
+    "CFDI",
+    "factoraje",
+    "cobro de deudas"
   ],
-  "resumen": "Los contribuyentes que realizan operaciones de factoraje financiero pueden emitir un CFDI con complemento para recepción de pagos, en lugar de relacionar el CFDI de la operación que origina el derecho de cobro. Esto es posible bajo ciertas condiciones, como la emisión del CFDI original por el factorado.",
+  "resumen": "La regla establece que en el factoraje financiero, los contribuyentes pueden emitir un CFDI con complemento para recepción de pagos en lugar de utilizar el CFDI de la operación original, siempre que se cumplan ciertas condiciones. Esto ofrece una opción flexible para documentar operaciones de factoraje sin requerir necesariamente el CFDI original.",
   "preguntas_ejemplo": [
-    "¿Cómo se factura en factoraje financiero?",
-    "¿Qué es un complemento para recepción de pagos en factoraje?",
-    "¿Qué se necesita para emitir un CFDI en factoraje financiero?",
-    "¿Cuándo se puede usar la regla de factura en factoraje?",
-    "¿Qué datos se incluyen en un CFDI de factoraje?"
+    "¿Cómo debo facturar en operaciones de factoraje financiero?",
+    "¿Qué es un CFDI con complemento para recepción de pagos?",
+    "¿Cuándo puedo no usar el CFDI original en el factoraje?",
+    "¿Qué requisitos debo cumplir para facturar en factoraje financiero?",
+    "¿Qué información debe incluir el CFDI en factoraje financiero?"
   ]
 }

@@ -6,24 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:25d3631ff06e874f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización de obligaciones fiscales",
+  "denominacion_comun": "Regimen Simplificado de Confianza",
   "temas": [
     "obligaciones fiscales",
     "ingresos",
     "declaración anual",
-    "Régimen Simplificado de Confianza"
+    "actualización de obligaciones",
+    "Ley del ISR",
+    "CFF"
   ],
   "terminos_coloquiales": [
+    "RESICO",
+    "régimen simplificado",
     "actualización de obligaciones",
-    "ingresos de hasta 35 millones",
-    "RESICO"
+    "declaración de impuestos"
   ],
-  "resumen": "La autoridad revisará los ingresos de manera anual y, si exceden los 35 millones de pesos, podrá actualizar las obligaciones fiscales de los contribuyentes para que tributen de acuerdo a la Ley del ISR. Esto afecta principalmente a quienes están en el Régimen Simplificado de Confianza.",
+  "resumen": "Esta regla establece que la autoridad fiscal revisará la declaración anual del ejercicio anterior para verificar si los ingresos no superan los 35 millones de pesos. Si los ingresos exceden esta cantidad, se actualizarán las obligaciones fiscales para tributar según otro régimen a partir del siguiente ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis ingresos superan los 35 millones?",
-    "¿La autoridad puede cambiar mis obligaciones fiscales?",
-    "¿Cómo me afectará si mis ingresos del año pasado son altos?"
+    "¿Qué pasa si mis ingresos superan 35 millones de pesos en el ejercicio anterior?",
+    "¿Cómo se actualizan mis obligaciones fiscales si no cumplo con los requisitos del RESICO?",
+    "¿Qué debo hacer si mis ingresos exceden el límite del régimen simplificado?",
+    "¿Qué artículos de la Ley del ISR se aplican si supero los 35 millones?",
+    "¿Cómo verifica la autoridad mis ingresos para el régimen simplificado?",
+    "¿Cuándo debo cambiar de régimen fiscal si mis ingresos son altos?"
   ]
 }

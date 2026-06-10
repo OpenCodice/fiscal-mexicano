@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:54ca0baded74c975",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revelación de esquemas reportables",
@@ -14,24 +15,21 @@
     "esquemas reportables",
     "asesores fiscales",
     "contribuyentes",
-    "esquemas generalizados",
-    "esquemas personalizados",
-    "ficha de trámite",
-    "datos de contribuyentes"
+    "información fiscal"
   ],
   "terminos_coloquiales": [
+    "declaración de esquemas",
     "revelación de esquemas",
-    "declaraciones informativas",
-    "esquemas reportables",
+    "informativa de esquemas reportables",
     "CFF",
-    "esquemas fiscales"
+    "esquemas personalizados"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben presentar una declaración informativa para revelar esquemas reportables, ya sean generalizados o personalizados, conforme a lo establecido en el Código Fiscal de la Federación y la ficha de trámite correspondiente.",
+  "resumen": "Los asesores fiscales y contribuyentes tienen la obligación de presentar una declaración informativa para revelar esquemas reportables. Esto incluye esquemas generalizados y personalizados, siguiendo lo dispuesto en el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
     "¿Qué es la declaración informativa de esquemas reportables?",
-    "¿Quién tiene que presentar la revelación de esquemas reportables?",
-    "¿Qué información se debe incluir en los esquemas reportables?",
-    "¿Cómo se presenta la declaración de esquemas personalizados?",
-    "¿Qué son los esquemas reportables generalizados?"
+    "¿Quiénes deben presentar la revelación de esquemas reportables?",
+    "¿Cuáles son los esquemas reportables que se deben informar?",
+    "¿Qué información se necesita para la declaración de esquemas reportables?",
+    "¿Dónde encuentro la ficha de trámite para la revelación de esquemas reportables?"
   ]
 }

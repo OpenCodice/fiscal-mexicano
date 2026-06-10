@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d3cb2357cae291c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de CFDI y Devolución de Garantía",
+  "denominacion_comun": "Certificación de CFDI y devolución de garantía",
   "temas": [
+    "PCCFDI",
     "Proceso de liquidación",
     "Concurso mercantil",
-    "Extinción de sociedad",
-    "Proveedores de certificación de CFDI",
-    "Aviso al SAT"
+    "Extinción de la sociedad",
+    "Avisos de proveedores",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "Certificación de CFDI",
+    "factura",
+    "proveedores de CFDI",
+    "certificación de CFDI",
     "PCCFDI",
-    "Proveedores de CFDI",
-    "Liquidación de proveedores",
-    "Extinción de PCCFDI"
+    "extinción de sociedad"
   ],
-  "resumen": "La regla establece el procedimiento que debe seguir un proveedor de certificación de CFDI en caso de liquidación o extinción, incluyendo la obligación de presentar un aviso al SAT y el proceso de transición correspondiente. También detalla los plazos y requisitos para notificar al SAT de la conclusión del proceso de liquidación.",
+  "resumen": "La regla establece que los proveedores de certificación de CFDI deben informar al SAT en caso de liquidación o extinción. Esto es para garantizar que los contribuyentes puedan buscar otros proveedores a tiempo. También se mencionan avisos necesarios durante estos procesos.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi PCCFDI entra en liquidación?",
-    "¿Cómo notifico al SAT sobre la extinción de un proveedor de CFDI?",
-    "¿Cuáles son los plazos para presentar avisos al SAT?",
-    "¿Qué ocurre si un PCCFDI inicia un proceso de concurso mercantil?",
-    "¿Cuánto tiempo dura el proceso de transición tras la liquidación de un PCCFDI?"
+    "¿Qué tengo que hacer si mi proveedor de CFDI está en liquidación?",
+    "¿Cómo se notifica al SAT la extinción de un proveedor de CFDI?",
+    "¿Qué plazo tengo para avisar sobre la liquidación de un PCCFDI?",
+    "¿Qué sucede si mi proveedor de CFDI ya no puede operar?",
+    "¿Cuánto tiempo dura el periodo de transición cuando un PCCFDI está en proceso de extinción?"
   ]
 }

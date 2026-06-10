@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b1455f71147c3fc0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención sobre Intereses de Títulos de Crédito",
+  "denominacion_comun": "Retención sobre intereses de títulos de crédito",
   "temas": [
-    "retención de impuestos",
-    "intereses",
     "títulos de crédito",
-    "fecha de adquisición",
-    "precio de traspaso",
-    "emisor de títulos",
-    "documentación necesaria"
+    "retenciones",
+    "intereses",
+    "documentación",
+    "registro de operaciones"
   ],
   "terminos_coloquiales": [
-    "retención de intereses",
-    "títulos de crédito",
-    "LISR",
-    "RMF"
+    "intereses de títulos",
+    "costo de adquisición",
+    "traspaso de títulos",
+    "banco extranjero"
   ],
-  "resumen": "La regla establece la información que debe incluirse para la retención sobre intereses de títulos de crédito. Detalla aspectos como la fecha de adquisición, el precio de traspaso y la identificación del emisor de los títulos.",
+  "resumen": "La disposición establece los requisitos que debe cumplir la información para la retención sobre los intereses generados por títulos de crédito. Esto incluye detalles como la fecha de adquisición, precio de traspaso y datos del emisor de los títulos.",
   "preguntas_ejemplo": [
-    "¿Qué información se necesita para la retención de intereses sobre títulos de crédito?",
-    "¿Cómo se determina el precio de traspaso de los títulos de crédito?",
-    "¿Qué datos debo proporcionar sobre el emisor de los títulos?",
-    "¿Cuáles son los requisitos para acreditar un banco extranjero?",
-    "¿Qué fechas debo considerar al adquirir títulos de crédito?"
+    "¿Qué información necesito para la retención de intereses de títulos de crédito?",
+    "¿Cuáles son los datos que deben incluirse en la operación de traspaso de títulos?",
+    "¿Qué requisitos se deben cumplir para registrar la retención de intereses?",
+    "¿Cómo se determina el costo de adquisición de los títulos que se traspasan?",
+    "¿Qué documentación necesito para acreditar un banco extranjero?"
   ]
 }

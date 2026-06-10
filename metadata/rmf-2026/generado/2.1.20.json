@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2be810ca01dec2d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Tasa mensual de recargos",
@@ -13,23 +14,20 @@
     "recargos",
     "mora",
     "tasa mensual",
-    "ejercicio fiscal",
-    "Código Fiscal de la Federación",
-    "Ley de Ingresos de la Federación"
+    "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "tasa de recargos",
-    "recargos mensuales",
+    "recargos",
     "mora",
-    "CFF",
-    "LIF"
+    "tasa de recargos",
+    "impuestos atrasados"
   ],
-  "resumen": "La tasa mensual de recargos por mora para el ejercicio fiscal de 2026 es del 2.07%. Esta tasa se establece con base en la normativa fiscal correspondiente.",
+  "resumen": "Esta regla establece la tasa mensual de recargos por mora que se aplicará en el ejercicio fiscal de 2026, basándose en la tasa determinada en la Ley de Ingresos de la Federación. Es importante considerar esta tasa para calcular los recargos por pagos tardíos.",
   "preguntas_ejemplo": [
-    "¿Cuál es la tasa de recargos por mora para 2026?",
-    "¿Cómo se calcula la tasa mensual de recargos?",
-    "¿Qué artículo regula los recargos en el CFF?",
-    "¿Qué implica la tasa de recargos en mi declaración?",
-    "¿Dónde puedo encontrar la tasa de recargos mensual?"
+    "¿Cuál es la tasa de recargos por mora para el 2026?",
+    "¿Cómo se calcula la tasa de recargos en la ley fiscal?",
+    "¿Qué es la tasa mensual de recargos?",
+    "¿Qué sucede si no pago mis impuestos a tiempo?",
+    "¿Dónde puedo encontrar información sobre recargos fiscales?"
   ]
 }

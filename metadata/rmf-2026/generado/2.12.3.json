@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dccfa03460a41085",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones por estrados y edictos en Internet",
   "temas": [
     "notificaciones",
+    "edictos",
+    "estrados",
     "publicaciones electrónicas",
-    "Portal del SAT",
-    "entidades federativas",
-    "Secretaría de Hacienda",
+    "SAT",
+    "Secretaría",
     "Agencia Nacional de Aduanas"
   ],
   "terminos_coloquiales": [
+    "notificaciones en línea",
+    "publicaciones del SAT",
     "notificaciones electrónicas",
-    "edictos en Internet",
-    "publicaciones en el SAT"
+    "edictos en Internet"
   ],
-  "resumen": "Se establece que las notificaciones y publicaciones electrónicas de ciertas unidades administrativas se realizarán a través de la página de Internet correspondiente, ya sea de la Secretaría, del SAT o de las entidades federativas. Las publicaciones del SAT y de la Agencia Nacional de Aduanas se harán en el Portal del SAT.",
+  "resumen": "La disposición establece que las notificaciones y publicaciones electrónicas de las unidades administrativas de la Secretaría y del SAT deben realizarse en sus respectivos portales en Internet. También se menciona que las entidades federativas deben hacer dichas publicaciones en sus páginas oficiales.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen las notificaciones del SAT?",
-    "¿Dónde puedo encontrar edictos electrónicos de la Secretaría?",
-    "¿Qué página usa la Agencia Nacional de Aduanas para sus publicaciones?",
-    "¿Las entidades federativas tienen páginas específicas para notificaciones?",
-    "¿Qué artículos del CFF hablan sobre estas notificaciones electrónicas?"
+    "¿Dónde puedo ver las notificaciones del SAT?",
+    "¿Cómo se hacen las publicaciones electrónicas de la Secretaría?",
+    "¿El SAT publica edictos en su página de Internet?",
+    "¿Las entidades federativas también publican notificaciones en línea?"
   ]
 }

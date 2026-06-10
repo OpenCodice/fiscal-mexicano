@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ebacdd9604d1a1b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo en materia de ISR",
+  "denominacion_comun": "Estímulos fiscales en ISR PODEBI",
   "temas": [
+    "estímulos fiscales",
     "ISR",
-    "PODEBI",
-    "Decreto",
-    "constancia",
+    "Decreto PODEBI",
+    "actividades económicas",
     "ingresos",
-    "actividades económicas"
+    "constancia",
+    "pago provisional"
   ],
   "terminos_coloquiales": [
-    "estímulo ISR",
-    "ISR PODEBI",
-    "Decreto de estímulo",
+    "estímulos fiscales",
+    "ISR",
     "PODEBI",
-    "decreto fiscal"
+    "ingresos de empresas",
+    "beneficios fiscales"
   ],
-  "resumen": "Se puede aplicar un estímulo fiscal en materia de ISR para los ingresos de actividades económicas realizadas en los PODEBI. Este beneficio se activa desde el ejercicio fiscal en que se obtenga una constancia específica.",
+  "resumen": "Se permite aplicar un estímulo fiscal en el Impuesto Sobre la Renta (ISR) para los ingresos obtenidos de actividades económicas dentro de los PODEBI desde el ejercicio fiscal en el que se obtenga la constancia correspondiente. Los beneficios se pueden aplicar al momento de tener que presentar el pago provisional del ISR del mes en que se obtiene dicha constancia.",
   "preguntas_ejemplo": [
-    "¿Qué es el estímulo en materia de ISR para PODEBI?",
-    "¿Cómo se aplican los beneficios del estímulo fiscal?",
-    "¿Cuándo se puede empezar a aplicar el estímulo de ISR?",
-    "¿Qué ingresos son considerados para el estímulo en ISR?",
-    "¿Qué actividades económicas califican para el estímulo de ISR?"
+    "¿Qué son los estímulos fiscales en el ISR para PODEBI?",
+    "¿Cómo puedo aplicar el estímulo del ISR si estoy en un PODEBI?",
+    "¿Qué actividades económicas califican para el estímulo en ISR?",
+    "¿Cuándo entra en vigor el estímulo fiscal para el ISR?",
+    "¿Qué necesito para obtener la constancia para el estímulo fiscal?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:17dbf7a7fd7f0469",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de Multas Fiscales",
+  "denominacion_comun": "Reducción de multas fiscales",
   "temas": [
+    "multas fiscales",
     "reducción de multas",
+    "procedimiento de reducción",
     "antigüedad de multas",
-    "solicitudes de reducción",
-    "porcentajes de reducción",
-    "obligaciones fiscales"
+    "requisitos para reducción"
   ],
   "terminos_coloquiales": [
-    "bajar multas",
-    "multas fiscales",
+    "multas de impuestos",
+    "ahorro en multas",
+    "descuentos de multas",
     "CFF",
-    "artículo 74"
+    "regla de multas"
   ],
-  "resumen": "La regla establece un procedimiento para reducir las multas determinadas por las autoridades fiscales, considerando la antigüedad de la multa notificada hasta la fecha de la solicitud. Dependiendo de la antigüedad, se aplicarán diferentes porcentajes de reducción.",
+  "resumen": "Esta disposición establece el procedimiento para la reducción de multas fiscales, considerando la antigüedad de la multa y los porcentajes aplicables según el tiempo que ha transcurrido desde su notificación. También se mencionan las condiciones bajo las cuales se pueden reducir las multas al 100%.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir una multa fiscal?",
-    "¿Qué porcentaje se aplica a las multas según su antigüedad?",
-    "¿Qué tengo que hacer para pedir la reducción de mi multa?",
-    "¿Las multas se reducen al 100% en algún caso?",
-    "¿Cuándo comienza a contar la antigüedad de una multa?"
+    "¿Cómo puedo reducir la multa que me impusieron?",
+    "¿Qué porcentaje de descuento tengo en mi multa fiscal según su antigüedad?",
+    "¿Qué requisitos debo cumplir para que me reduzcan la multa al 100%?",
+    "¿Desde cuándo se cuenta la antigüedad de mi multa?",
+    "¿Puedo obtener un descuento si pago mi multa en parcialidades?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd6240c6fcb3c5cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de estímulos fiscales por Sorteo",
+  "denominacion_comun": "Acreditamiento de estímulo por sorteos",
   "temas": [
+    "estímulos fiscales",
     "acreditamiento",
-    "Sorteo El Buen Fin",
     "ISR",
+    "sorteos",
     "entidades financieras",
-    "premios",
-    "información tributaria"
+    "premios"
   ],
   "terminos_coloquiales": [
     "acreditamiento de sorteos",
-    "estímulos fiscales por sorteos",
-    "ISR por premios",
-    "Sorteo El Buen Fin"
+    "estímulos por el Buen Fin",
+    "ISR por sorteos",
+    "premios del Buen Fin"
   ],
-  "resumen": "Las entidades financieras que participen en el Sorteo 'El Buen Fin' pueden acreditar un estímulo fiscal en sus pagos de ISR, usando la información notificada por el SAT. Este estímulo se puede usar una vez por cada premio entregado.",
+  "resumen": "Esta disposición permite a las entidades financieras que participan en el Sorteo 'El Buen Fin' acreditar un estímulo fiscal contra el ISR, una vez que el SAT notifique que se cumplió con la entrega de la información requerida. El acreditamiento se puede hacer una sola vez por cada premio entregado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el estímulo fiscal por el Sorteo El Buen Fin?",
-    "¿Qué requisitos necesito para el acreditamiento del ISR?",
-    "¿Qué es el acreditamiento de sorteos y cómo funciona?",
-    "¿Puedo acreditar varios premios por el mismo sorteo?",
-    "¿Dónde encuentro la información sobre el estímulo fiscal del Sorteo?"
+    "¿Cómo puedo acreditar el estímulo por el Sorteo 'El Buen Fin'?",
+    "¿Qué entidades pueden participar en el acreditamiento de estímulos fiscales por sorteos?",
+    "¿Qué información necesito entregar para poder acreditar el estímulo del ISR?",
+    "¿Cuántas veces puedo acreditar el estímulo por un premio en el sorteo?",
+    "¿Cuándo el SAT me notificará sobre el monto que puedo acreditar?",
+    "¿Qué reglas debo seguir para el acreditamiento del estímulo?"
   ]
 }

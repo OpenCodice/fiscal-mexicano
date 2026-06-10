@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cded0f42873b1cc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por el uso del espacio aéreo mexicano",
+  "denominacion_comun": "Espacio aéreo mexicano",
   "temas": [
-    "comprobante fiscal",
     "derechos",
-    "espacio aéreo",
-    "pago de derechos",
-    "ISR",
-    "disposiciones fiscales"
+    "comprobantes fiscales",
+    "suministro de combustible",
+    "deducción de ISR"
   ],
   "terminos_coloquiales": [
-    "derechos de espacio aéreo",
-    "pago de derechos aéreo",
-    "comprobantes de combustible",
-    "LFD",
-    "RMF"
+    "pago de derechos",
+    "comprobante fiscal",
+    "derechos por usar el espacio aéreo",
+    "ISR"
   ],
-  "resumen": "La regla establece la facilidades para que contribuyentes que no tienen contrato de suministro de combustible expidan un comprobante fiscal para el pago de derechos por el uso del espacio aéreo mexicano, liberándolos de presentar el recibo bancario. También señala que deben presentar el pago ante la TESOFE y un desglose de los comprobantes fiscales relacionados.",
+  "resumen": "Se establece una facilidad para que los contribuyentes que no tengan contrato de suministro de combustible expidan un comprobante fiscal en lugar de presentar un recibo bancario al pagar derechos por el uso del espacio aéreo mexicano. Este comprobante deberá cumplir con ciertos requisitos para ser deducible del ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar derechos por el uso del espacio aéreo?",
-    "¿Qué es un comprobante fiscal para el pago de derechos a Aeropuertos?",
-    "¿Cuáles son las reglas para el pago de derechos por combustible?",
-    "¿Qué necesito para deducir el impuesto sobre la renta al usar el espacio aéreo?",
-    "¿Dónde debo presentar el pago de derechos por el uso del espacio aéreo?"
+    "¿Cómo pago los derechos por el uso del espacio aéreo?",
+    "¿Qué debo hacer si no tengo contrato de suministro de combustible?",
+    "¿Puedo deducir el pago de derechos del ISR?",
+    "¿Qué es un comprobante fiscal y cómo lo obtengo?",
+    "¿Qué requisitos debe tener el comprobante fiscal para deducir impuestos?"
   ]
 }

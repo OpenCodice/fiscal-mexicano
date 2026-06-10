@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2a1c33faebec921d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Renta variable para personas físicas",
+  "denominacion_comun": "Regla de Renta Variable para Personas Físicas",
   "temas": [
     "fondos de inversión",
-    "ganancia por enajenación",
+    "renta variable",
+    "enajenación de títulos",
     "valuación de acciones",
-    "gastos de operación",
-    "gastos de administración"
+    "ganancias y pérdidas"
   ],
   "terminos_coloquiales": [
-    "renta variable",
+    "ingresos por inversiones",
+    "ganancias por acciones",
+    "pérdidas por enajenación",
     "fondos de inversión",
-    "ganancias de inversiones",
-    "ISR para personas físicas"
+    "ISR",
+    "títulos de inversión"
   ],
-  "resumen": "Los fondos de inversión de renta variable deben calcular diariamente las ganancias de las enajenaciones de títulos y las variaciones en la valuación de las acciones. Este proceso incluye considerar los gastos de operación y administración para determinar la ganancia o pérdida neta de las personas físicas.",
+  "resumen": "La regla establece cómo los fondos de inversión de renta variable deben determinar diariamente las ganancias o pérdidas de personas físicas por la venta de títulos y la valorización de acciones. Incluye el cálculo de gastos operativos y administrativos relacionados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias de los fondos de inversión?",
-    "¿Qué gastos se consideran para las inversiones en renta variable?",
-    "¿Cómo afecta la valuación de acciones a las personas físicas?",
-    "¿Qué es la enajenación de títulos en fondos de inversión?",
-    "¿Cómo se determina la pérdida o ganancia neta en renta variable?"
+    "¿Cómo se calculan las ganancias de mis inversiones en fondos de renta variable?",
+    "¿Qué gastos debo considerar al calcular mis ingresos por enajenación de títulos?",
+    "¿Cómo se determina la ganancia diaria en mi fondo de inversión?",
+    "¿Qué significa la variación en la valuación de acciones para mi declaración?",
+    "¿Cuáles son los pasos para calcular mi ISR por inversiones en renta variable?"
   ]
 }

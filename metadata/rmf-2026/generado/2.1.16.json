@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:05b3d75af7c133e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Representación de personas ante autoridades fiscales",
   "temas": [
     "poder especial",
-    "facultades",
+    "representación legal",
+    "personas físicas",
+    "personas morales",
     "escritura pública",
     "carta poder",
-    "testigos",
-    "ratificación de firmas"
+    "facultades",
+    "testigos"
   ],
   "terminos_coloquiales": [
     "poder notarial",
-    "representación fiscal",
     "carta poder",
-    "CFF 19",
-    "RCFF 13"
+    "representación fiscal",
+    "CFF"
   ],
-  "resumen": "La representación de personas físicas o morales ante las autoridades fiscales puede ser validada mediante un poder especial, que debe tener las facultades necesarias y estar formalizado por escritura pública o carta poder. Además, este documento debe ser ratificado por testigos o un fedatario público, a menos que la ley exija un formato específico.",
+  "resumen": "Esta regla establece cómo las personas físicas o morales pueden ser representadas ante las autoridades fiscales mediante un poder especial. Se especifica que el poder debe constar en un documento formal y cumplir con ciertas condiciones según las disposiciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo representar a alguien ante las autoridades fiscales?",
-    "¿Qué requisitos necesito para un poder especial?",
-    "¿Es necesario un fedatario público para la carta poder?",
-    "¿Qué dice el CFF sobre la representación de personas morales?",
-    "¿Qué garantías debo tener al firmar un poder fiscal?"
+    "¿Cómo puedo representar a mi empresa ante las autoridades fiscales?",
+    "¿Qué requisitos necesito para hacer una carta poder?",
+    "¿Qué es un poder especial en materia fiscal?",
+    "¿Puede alguien más firmar mis documentos fiscales?",
+    "¿Qué documentos necesito para otorgar un poder fiscal?"
   ]
 }

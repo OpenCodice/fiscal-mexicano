@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8a3ca054c3f4ef05",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de erogaciones y acreditamiento del IVA",
   "temas": [
-    "deducción de erogaciones",
-    "acreditamiento del IVA",
-    "ISR",
-    "LIF",
-    "Competencia",
-    "Eventos relacionados",
-    "ingresos acumulables"
+    "deducción ISR",
+    "acreditamiento IVA",
+    "gastos no deducibles",
+    "ingresos acumulables",
+    "proporción de deducciones"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "IVA",
-    "impuestos",
-    "gastos deducibles",
+    "deducciones de gastos",
+    "acreditamiento de IVA",
+    "gastos relacionados con eventos",
+    "gastos no relacionados",
     "LIF",
-    "RMF"
+    "IVA"
   ],
-  "resumen": "Las erogaciones, gastos, costos e inversiones relacionadas con la organización de la Competencia no serán deducibles para el ISR. Sin embargo, si estas erogaciones se utilizan en actividades no relacionadas con la Competencia, podrán ser deducidas proporcionalmente. Además, el IVA generado por actos no sujetos a este impuesto será tratado según la ley correspondiente.",
+  "resumen": "La regla establece que ciertos gastos, costos e inversiones no serán deducibles del ISR si están relacionados con la organización de competencias deportivas. Sin embargo, se puede deducir una parte de esos gastos si se utilizan en actividades que generan ingresos no relacionados con la competencia. También se regula el acreditamiento del IVA para quienes realizan actos relacionados con ambos tipos de ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué erogaciones son deducibles en el ISR para la Competencia?",
-    "¿Cómo se calcula la deducción proporcional de gastos relacionados con la Competencia?",
-    "¿Qué pasa con el IVA en actividades no sujetas a su pago?",
-    "¿Cuáles son las condiciones para deducir gastos en la organización de Eventos?",
-    "¿Cómo afecta la Ley de Ingresos de la Federación a las deducciones de la Competencia?",
-    "¿Qué significa el Vigésimo Quinto transitorio en este contexto?"
+    "¿Qué gastos no puedo deducir si participo en un evento de competencia?",
+    "¿Cómo determino la deducción de mis erogaciones relacionadas con la competencia?",
+    "¿Puedo acreditar el IVA si realizo actividades relacionadas con la competencia?",
+    "¿Qué es el Vigésimo Quinto transitorio y cómo me afecta?",
+    "¿Cómo se calculan las deducciones autorizadas para el ISR?"
   ]
 }

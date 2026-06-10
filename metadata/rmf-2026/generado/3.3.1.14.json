@@ -6,34 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:599804e08280cf40",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Destrucciones periódicas de mercancías",
+  "denominacion_comun": "Destrucción de mercancías",
   "temas": [
-    "Deducciones fiscales",
-    "Donación de mercancías",
-    "Destrucción de mercancías",
-    "Pérdida de valor",
-    "Productos caducados",
-    "Avisos a la autoridad fiscal",
-    "Mercancías no útiles",
-    "Contribuyentes personas físicas y morales"
+    "impuesto sobre la renta",
+    "deducciones",
+    "donación de mercancías",
+    "destrucción de mercancías",
+    "productos perecederos",
+    "avisos de destrucción",
+    "avisos de donación"
   ],
   "terminos_coloquiales": [
-    "Aviso de destrucción de mercancías",
-    "Donación de mercancías",
-    "Destrucción de productos caducados",
-    "RMF 2026",
-    "Aviso múltiple de destrucción",
-    "Donativos del ISR"
+    "destrucción de mercancías",
+    "donación de mercancías",
+    "productos que ya no sirven",
+    "avisos de destrucción",
+    "avisos de donación"
   ],
-  "resumen": "Los contribuyentes que deban destruir o donar mercancías que han perdido su valor deben presentar un aviso a la autoridad correspondiente. Esto aplica a mercancías, materias primas y productos que ya no son útiles o que han caducado.",
+  "resumen": "La regla establece que los contribuyentes que destruyan o donen mercancías que hayan perdido su valor deben presentar un aviso. Esto incluye mercancías, materias primas y libros que ya no son útiles o han caducado.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si tengo mercancías que perdieron su valor?",
-    "¿Cómo presento un aviso de destrucción de mercancías?",
-    "¿Puedo donar mercancías que ya no son útiles?",
-    "¿Qué requisitos debo cumplir para destruir productos caducados?",
-    "¿Dónde presento el aviso de donación de mercancías?",
-    "¿Qué es el aviso múltiple para destrucción de mercancías?"
+    "¿Qué debo hacer si tengo mercancías que ya no sirven?",
+    "¿Cómo se presenta el aviso de destrucción de mercancías?",
+    "¿Se pueden donar mercancías que han caducado?",
+    "¿Qué incluye el aviso de donación de productos perecederos?",
+    "¿A quién debo presentar el aviso de destrucción?",
+    "¿Qué pasa con los libros que han perdido su valor?"
   ]
 }

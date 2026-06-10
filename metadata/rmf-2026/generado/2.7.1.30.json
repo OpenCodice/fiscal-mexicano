@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:22ef1018fa184f85",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tarjeta de servicio",
+  "denominacion_comun": "Tarjetas de servicio",
   "temas": [
+    "disposiciones fiscales",
     "tarjetas de servicio",
-    "disposiciones del Banco de México",
-    "empresas comerciales no bancarias",
-    "comprobantes fiscales"
+    "empresas comerciales",
+    "Banco de México"
   ],
   "terminos_coloquiales": [
     "tarjetas de servicio",
+    "tarjetas no bancarias",
     "CFF",
-    "tarjetas no bancarias"
+    "comprobantes fiscales"
   ],
-  "resumen": "La disposición define las tarjetas de servicio como aquellas emitidas por empresas comerciales no bancarias, de acuerdo a las disposiciones del Banco de México.",
+  "resumen": "Las tarjetas de servicio son emitidas por empresas comerciales no bancarias de acuerdo con lo que establece el Banco de México. Tienen implicaciones fiscales según el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué son las tarjetas de servicio según el CFF?",
+    "¿Qué son las tarjetas de servicio según la ley?",
     "¿Quién emite las tarjetas de servicio?",
-    "¿Qué disposiciones regulatorias aplican a las tarjetas de servicio?",
-    "¿Las tarjetas de servicio son consideradas comprobantes fiscales?",
-    "¿Qué artículos del CFF regulan las tarjetas de servicio?"
+    "¿Qué dice el Código Fiscal sobre las tarjetas no bancarias?",
+    "¿Qué disposiciones del Banco de México regulan las tarjetas de servicio?",
+    "¿Cuáles son las implicaciones fiscales de usar tarjetas de servicio?"
   ]
 }

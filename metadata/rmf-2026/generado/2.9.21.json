@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b0d8a600a146c24",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cumplimiento de obligaciones fiscales para servicios digitales",
+  "denominacion_comun": "Cumplimiento de Obligaciones Fiscales para Servicios Digitales",
   "temas": [
+    "acceso a información fiscal",
     "servicios digitales",
-    "cumplimiento fiscal",
-    "acceso a información",
+    "obligaciones fiscales",
+    "Ley del IVA",
+    "comprobantes fiscales",
     "plataformas digitales",
-    "información fiscal",
-    "intermediación",
-    "documentación",
-    "Ley del IVA"
+    "información del cliente"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales digitales",
-    "acceso a información fiscal",
-    "CFF 30-B",
-    "Ley del IVA",
-    "servicios digitales"
+    "acceso en línea a obligaciones fiscales",
+    "servicios digitales",
+    "CFDI",
+    "IVA",
+    "intermediarios",
+    "plataformas digitales"
   ],
-  "resumen": "Los contribuyentes que ofrecen servicios digitales en México deben permitir a la autoridad fiscal el acceso en línea a información detallada sobre sus operaciones y transacciones. Esta información debe almacenarse y estar disponible para consulta durante cinco años.",
+  "resumen": "Esta disposición establece que los contribuyentes que ofrecen servicios digitales deben proporcionar a la autoridad fiscal acceso en línea a información detallada sobre las operaciones realizadas, incluyendo datos de clientes y transacciones. Además, se requiere presentar un escrito para permitir dicho acceso y actualizar la información cuando sea necesario.",
   "preguntas_ejemplo": [
     "¿Qué información debo proporcionar a la autoridad fiscal si ofrezco servicios digitales?",
-    "¿Cómo cumplo con mis obligaciones fiscales para servicios digitales?",
-    "¿Qué pasa si inicio operaciones después de la fecha establecida?",
-    "¿Cómo se accede a la información fiscal en línea?",
-    "¿Qué debo hacer si cambio mi información fiscal?"
+    "¿Cómo puedo acceder en línea a mis obligaciones fiscales como prestador de servicios digitales?",
+    "¿Qué pasa si inicio operaciones después de la fecha límite establecida?",
+    "¿Qué información debo actualizar si cambio mi sistema de reporte?",
+    "¿Cuál es el plazo para almacenar la información fiscal de mis transacciones?"
   ]
 }

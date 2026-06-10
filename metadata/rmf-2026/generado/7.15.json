@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d1d5503e1f64d940",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho Extraordinario sobre Minería",
   "temas": [
+    "contribuyentes",
+    "derechos",
     "minería",
-    "derecho extraordinario",
-    "obligaciones fiscales",
     "ingresos",
-    "aviso de determinación"
+    "obligaciones de pago",
+    "avisos",
+    "determinación"
   ],
   "terminos_coloquiales": [
     "derecho de minería",
+    "información sobre minería",
     "derecho extraordinario",
-    "LFD 270"
+    "LFD",
+    "aviso de derechos"
   ],
-  "resumen": "Los contribuyentes que deban pagar el derecho extraordinario sobre minería deben avisar sobre los ingresos relacionados dentro de los quince días después de la fecha de pago. Este aviso debe seguir el formato especificado en la ficha de trámite correspondiente.",
+  "resumen": "Esta disposición establece que los contribuyentes que deben pagar el derecho extraordinario sobre minería deben presentar un aviso con el detalle de sus ingresos. Esto debe hacerse dentro de los quince días después de que se venza el plazo de pago.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar el aviso de derecho extraordinario sobre minería?",
-    "¿Qué información necesito para el aviso de determinación?",
-    "¿Cuál es el plazo para reportar mis ingresos de minería?",
-    "¿Qué dice el artículo 270 de la LFD sobre este derecho?",
-    "¿Dónde encuentro la ficha de trámite para el derecho extraordinario sobre minería?"
+    "¿Qué es el derecho extraordinario sobre minería?",
+    "¿Cómo presento el aviso de derechos de minería?",
+    "¿Cuánto tiempo tengo para reportar mis ingresos de minería?",
+    "¿Qué información debo incluir en el aviso del derecho extraordinario?",
+    "¿Dónde encuentro el formato para el aviso de minería?"
   ]
 }

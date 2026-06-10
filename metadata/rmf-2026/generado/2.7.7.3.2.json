@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80457ebc164697f8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios de fletamento por tiempo",
+  "denominacion_comun": "Fletamento por tiempo y CFDI",
   "temas": [
-    "CFDI de traslado",
-    "CFDI de ingreso",
+    "fletamento",
+    "CFDI",
     "complemento Carta Porte",
-    "fletante",
-    "fletador",
-    "transporte marítimo"
+    "servicio de transporte",
+    "traslado de mercancías",
+    "normativa fiscal",
+    "Ley de Navegación"
   ],
   "terminos_coloquiales": [
     "fletamento",
-    "CFDI Carta Porte",
-    "factura de transporte",
-    "fletador",
-    "fletante"
+    "factura de traslado",
+    "factura de ingreso",
+    "transporte de mercancías",
+    "CFDI",
+    "Carta Porte"
   ],
-  "resumen": "Esta regla establece que al fletar una embarcación, el fletador debe emitir un CFDI de tipo traslado con complemento Carta Porte para el transporte de mercancías. Si el fletador transporta mercancías para un tercero, debe emitir un CFDI de tipo ingreso con el mismo complemento. Esta regla no aplica si el fletador es extranjero sin establecimiento en México.",
+  "resumen": "Cuando una persona alquila una embarcación con tripulación, debe emitir una factura electrónica (CFDI) de tipo traslado. Si transporta mercancías para un tercero, debe emitir un CFDI de tipo ingreso con el complemento Carta Porte. Esta regla no aplica si el fletador vive en el extranjero sin un establecimiento en México.",
   "preguntas_ejemplo": [
-    "¿Cómo emito un CFDI por servicios de fletamento?",
-    "¿Qué tipo de CFDI necesito para transportar mercancías marítimas?",
-    "¿Es necesario emitir un CFDI si soy fletador y transporto para un tercero?",
-    "¿Qué es el complemento Carta Porte?",
-    "¿Aplica la regla si soy extranjero y no tengo establecimiento en México?"
+    "¿Qué factura debo emitir al fletar una embarcación?",
+    "¿Necesito un CFDI para el traslado de mercancías por fletamento?",
+    "¿Cuándo debo usar un complemento Carta Porte?",
+    "¿Qué pasa si el fletador es extranjero?",
+    "¿Cuál es la diferencia entre CFDI de traslado y de ingreso en el fletamento?"
   ]
 }

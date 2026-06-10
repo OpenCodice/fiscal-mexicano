@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:db5844ce60c493b8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estímulo de regularización fiscal",
   "temas": [
-    "regularización fiscal",
-    "declaraciones",
-    "SAT",
+    "declaraciones fiscales",
     "procedimiento de pago",
-    "compensaciones fiscales"
+    "compensación fiscal",
+    "régimen de tributación",
+    "portal del SAT"
   ],
   "terminos_coloquiales": [
     "estímulo fiscal",
-    "regularización",
-    "LIF",
-    "compensación fiscal"
+    "regularización fiscal",
+    "declaraciones de impuestos",
+    "SAT",
+    "compensación de impuestos"
   ],
-  "resumen": "Los contribuyentes pueden aplicar el Estímulo de regularización fiscal en sus declaraciones a través del portal del SAT, siguiendo un procedimiento específico. Este estímulo permite reducir el monto a pagar al presentar la declaración correspondiente.",
+  "resumen": "Esta regla establece cómo los contribuyentes pueden aplicar un estímulo de regularización fiscal al presentar sus declaraciones de impuestos. Proporciona un procedimiento detallado para realizar esta aplicación a través del portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico el estímulo de regularización fiscal en mi declaración?",
-    "¿Qué pasos sigo para usar el estímulo fiscal en el SAT?",
-    "¿Puedo aplicar una compensación fiscal en mi declaración anual?",
-    "¿Qué opciones hay para declarar si tengo un estímulo fiscal?",
-    "¿Cuáles son los requisitos para aplicar el estímulo de regularización fiscal?"
+    "¿Cómo puedo aplicar el estímulo fiscal en mi declaración de impuestos?",
+    "¿Qué pasos debo seguir para la regularización fiscal?",
+    "¿Dónde encuentro el formulario para aplicar el estímulo?",
+    "¿Qué hacer si tengo un estímulo por aplicar?",
+    "¿Cuál es el procedimiento para corregir mi declaración fiscal?",
+    "¿Puedo aplicar una compensación fiscal en mi declaración?"
   ]
 }

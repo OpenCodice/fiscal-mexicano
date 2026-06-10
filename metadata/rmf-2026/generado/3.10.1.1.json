@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d4724a909ae18ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Autorización para recibir donativos deducibles",
   "temas": [
     "donativos deducibles",
-    "personas morales",
     "instituciones de asistencia",
     "organizaciones civiles",
     "fideicomisos",
     "obligaciones fiscales",
-    "autorización SAT"
+    "información ante el RFC"
   ],
   "terminos_coloquiales": [
-    "recibir donativos",
-    "donativos deducibles",
-    "autorización de donativos",
-    "SAT donativos",
-    "LISR"
+    "donativos",
+    "donaciones deducibles",
+    "asociaciones civiles",
+    "organizaciones no lucrativas",
+    "autorización SAT",
+    "deducción de impuestos"
   ],
-  "resumen": "El SAT autoriza a ciertas instituciones a recibir donativos que pueden ser deducibles de impuestos, siempre que cumplan con requisitos específicos relacionados con su situación fiscal y actividades. No pueden autorizarse a aquellas que tengan problemas legales pendientes o vínculos con delitos fiscales.",
+  "resumen": "El SAT puede autorizar a ciertas instituciones y organizaciones para recibir donativos deducibles, siempre que cumplan con requisitos fiscales y de actividad. Las organizaciones deben estar al corriente con sus obligaciones y demostrar la actividad por la que piden la autorización.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener autorización para recibir donativos deducibles?",
-    "¿Qué requisitos necesitan cumplir las organizaciones para recibir donativos?",
-    "¿Qué pasa si tengo un problema legal y quiero recibir donativos?",
-    "¿Cuáles son las instituciones que pueden recibir donativos deducibles?",
-    "¿Qué documentación necesito para solicitar la autorización de donativos?"
+    "¿Cómo puedo obtener la autorización para recibir donativos deducibles?",
+    "¿Qué requisitos debo cumplir para que mi organización reciba donativos deducibles?",
+    "¿Qué pasa si tengo problemas fiscales previos, puedo recibir donativos?",
+    "¿Qué documentos necesito para solicitar la autorización de donativos?",
+    "¿Las organizaciones civiles siempre pueden recibir donativos deducibles?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23380633fe933c15",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo del derecho a sistemas satelitales extranjeros",
@@ -13,23 +14,29 @@
     "derechos",
     "sistemas satelitales",
     "moneda nacional",
-    "concesiones orbitales",
-    "megahercios",
+    "tipo de cambio",
+    "posición orbital",
+    "megahertz",
     "banda C",
-    "banda Ku"
+    "banda Ku",
+    "contribuciones",
+    "actualización de montos"
   ],
   "terminos_coloquiales": [
-    "derechos satelitales",
-    "pago de derechos satelitales",
-    "LFD 241",
-    "CFF 17-A"
+    "cálculo de derechos",
+    "sistema satelital",
+    "pago de derechos",
+    "derecho a satelitales",
+    "banda de satélites",
+    "megahertz utilizados"
   ],
-  "resumen": "La regla establece cómo calcular el derecho a pagar por la utilización de sistemas satelitales extranjeros en territorio nacional. Incluye la conversión de pagos a moneda nacional y cómo determinar el importe semestral para las bandas C y Ku.",
+  "resumen": "Esta regla establece cómo calcular el monto del derecho a pagar por el uso de sistemas satelitales extranjeros en México. Incluye procedimientos para convertir montos a moneda nacional, calcular pagos individuales por posición orbital y determinar los importes semestrales según la capacidad utilizada en las bandas C y Ku.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el derecho por servicios satelitales extranjeros?",
-    "¿Cuánto debo pagar por el uso de sistemas satelitales?",
-    "¿Qué debo considerar al pagar derechos satelitales?",
-    "¿Cómo se convierte el monto pagado en dólares a pesos?",
-    "¿Qué son los megahercios en el contexto de los derechos satelitales?"
+    "¿Cómo se calcula el derecho a sistemas satelitales extranjeros?",
+    "¿Qué debo hacer si uso más de una posición orbital?",
+    "¿Cómo se determina el monto a pagar en pesos por un satélite?",
+    "¿Qué factores se consideran para calcular el derecho por megahertz?",
+    "¿Puedo solicitar la devolución de los derechos pagados?",
+    "¿Qué tipo de cambio debo usar para el cálculo?"
   ]
 }

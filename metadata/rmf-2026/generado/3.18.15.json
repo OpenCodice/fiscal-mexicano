@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f660054316cdfb47",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del ISR a residentes en el extranjero",
+  "denominacion_comun": "Retención de ISR para residentes en el extranjero",
   "temas": [
-    "impuesto sobre la renta",
     "residentes en el extranjero",
-    "retención",
-    "ingresos",
-    "valores"
+    "ingresos de fuente mexicana",
+    "ISRT",
+    "enajenación de títulos de crédito",
+    "liberación de retenciones"
   ],
   "terminos_coloquiales": [
-    "no retención ISR",
-    "residentes en el extranjero",
-    "valores",
+    "no retener ISR a extranjeros",
+    "ingresos de no residentes",
+    "títulos de crédito",
     "ficha de trámite 35/ISR"
   ],
-  "resumen": "Esta regla establece que los contribuyentes deben seguir lo indicado en la ficha de trámite 35/ISR para quedar liberados de la obligación de retener el ISR sobre ciertos ingresos de residentes en el extranjero. Se refiere específicamente a la enajenación de títulos de crédito.",
+  "resumen": "La disposición establece que los contribuyentes deben cumplir con los requisitos para no retener el ISR a residentes en el extranjero por ciertos ingresos. Esto se regula a través de un aviso específico que deben presentar los depositarios de valores.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo liberar la obligación de retener ISR a residentes en el extranjero?",
+    "¿Cuándo no se debe retener ISR a un residente en el extranjero?",
+    "¿Qué requisitos tengo que cumplir para que no me retengan ISR?",
     "¿Qué es la ficha de trámite 35/ISR?",
-    "¿Cuáles son los ingresos que no requieren retención de ISR?",
-    "¿Qué implica la enajenación de títulos de crédito para el ISR?",
-    "¿A quiénes aplica la regulación sobre no retención de ISR?"
+    "¿Cómo se aplica la no retención de ISR a extranjeros por títulos de crédito?",
+    "¿Qué ingresos están exentos de retención para extranjeros?",
+    "¿Qué significa que un depositario de valores esté liberado de retenciones?"
   ]
 }

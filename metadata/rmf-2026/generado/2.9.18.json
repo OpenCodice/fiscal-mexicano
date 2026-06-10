@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:143fea554b76bd96",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios que amparan CFDI",
+  "denominacion_comun": "Comprobantes fiscales y servicios",
   "temas": [
     "CFDI",
-    "comprobantes fiscales",
-    "acreditación de bienes",
     "acreditación de servicios",
-    "situación fiscal",
-    "documentación requerida",
-    "plazos",
-    "requerimiento administrativo"
+    "documentación fiscal",
+    "requerimiento de información",
+    "plazos fiscales"
   ],
   "terminos_coloquiales": [
-    "CFDI",
+    "factura",
     "comprobantes fiscales",
-    "acreditaciones",
-    "situación fiscal",
-    "requerimiento de información"
+    "CFDI",
+    "acreditar servicios",
+    "plazo para informar"
   ],
-  "resumen": "Esta regla permite a las personas físicas y morales acreditar que adquirieron bienes o recibieron servicios amparados por CFDI de contribuyentes en un listado definitivo. Tienen un plazo para corregir su situación fiscal y la autoridad puede solicitar información adicional.",
+  "resumen": "Esta regla se refiere a cómo los contribuyentes pueden acreditar que recibieron bienes o servicios amparados por CFDI de contribuyentes en un listado especial. También establece plazos para corregir situaciones fiscales y para que la autoridad resuelva sobre la acreditación.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar los CFDI que recibí?",
-    "¿Cuáles son los plazos para corregir mi situación fiscal?",
-    "¿Qué hago si no puedo proporcionar la información solicitada?",
-    "¿Qué sucede si no entrego la documentación completa?",
-    "¿La autoridad puede requerir más información sobre mis CFDI?"
+    "¿Cómo puedo comprobar que recibí un servicio con mi CFDI?",
+    "¿Qué debo hacer si estoy en el listado del artículo 69-B?",
+    "¿Cuánto tiempo tengo para proporcionar la información solicitada por la autoridad?",
+    "¿Qué pasa si no presento la documentación a tiempo?",
+    "¿Qué es el informe y documentación de la regla 2.9.18?"
   ]
 }

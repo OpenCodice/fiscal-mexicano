@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc318b9a4e51f393",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos Migratorios",
+  "denominacion_comun": "Derechos migratorios en dólares",
   "temas": [
-    "pagos en dólares",
-    "tipo de cambio",
-    "Banco de México",
     "derechos migratorios",
-    "obligaciones en moneda extranjera"
+    "tipo de cambio",
+    "pagos en dólares",
+    "moneda extranjera"
   ],
   "terminos_coloquiales": [
-    "derechos migratorios",
-    "pagos en dólares",
-    "tipo de cambio",
-    "LFD"
+    "pago de derechos migratorios",
+    "tipo de cambio del dólar",
+    "dólares",
+    "derechos en dólares"
   ],
-  "resumen": "Esta disposición establece que cuando se paguen derechos migratorios en dólares, se utilizará el tipo de cambio promedio del mes anterior publicado por el Banco de México. Esto se aplica a conversiones de moneda extranjera a pesos mexicanos.",
+  "resumen": "Esta disposición establece que cuando se paguen derechos migratorios en dólares, se utilizará el tipo de cambio promedio del mes anterior para convertirlos a pesos. Este tipo de cambio es publicado por el Banco de México.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el tipo de cambio para pagar derechos migratorios?",
-    "¿Puedo pagar mis derechos migratorios en dólares?",
-    "¿Qué tipo de cambio se utiliza para pagos en moneda extranjera?",
-    "¿Qué dice la LFD sobre derechos migratorios?",
-    "¿Dónde se publica el tipo de cambio para pagar derechos en dólares?"
+    "¿Cómo se paga el derecho migratorio en dólares?",
+    "¿Qué tipo de cambio se utiliza para pagar derechos migratorios en dólares?",
+    "¿Dónde consulto el tipo de cambio para los derechos migratorios?",
+    "¿Es posible pagar derechos migratorios en moneda extranjera?",
+    "¿Cuál es el procedimiento para el pago de derechos en dólares?"
   ]
 }

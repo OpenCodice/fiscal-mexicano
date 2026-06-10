@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39a2ecae21e06e16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Corrección de situación fiscal",
   "temas": [
-    "derechos de los contribuyentes",
-    "incumplimiento en pago de contribuciones",
-    "información de autoridades fiscales",
-    "documentación requerida",
-    "procedimiento de fiscalización"
+    "derecho a ser informado",
+    "incumplimiento en el pago",
+    "documentación necesaria",
+    "órganos de dirección",
+    "buzón tributario",
+    "fiscalización"
   ],
   "terminos_coloquiales": [
-    "corrección fiscal",
-    "derecho a la información",
-    "incumplimiento fiscal"
+    "demandar respuesta de la autoridad",
+    "información fiscal",
+    "fiscalización",
+    "derechos de los contribuyentes"
   ],
-  "resumen": "Las personas morales pueden solicitar a las autoridades fiscales que les informen sobre incumplimientos en el pago de contribuciones. Deben proporcionar documentos que validen su información, como escrituras y datos de contacto.",
+  "resumen": "Las personas morales pueden solicitar a las autoridades fiscales que les informen sobre posibles incumplimientos en el pago de contribuciones. Deben proporcionar información y documentación que valide su solicitud. Si no presentan la documentación requerida, se considerará que no desean ejercer este derecho.",
   "preguntas_ejemplo": [
     "¿Cómo puedo saber si tengo incumplimientos fiscales?",
-    "¿Qué documentación necesito para corregir mi situación fiscal?",
-    "¿Qué información me darán las autoridades fiscales sobre mi caso?",
-    "¿Puedo solicitar información sobre omisiones en mis contribuciones?",
-    "¿Qué tengo que hacer si no tengo la documentación solicitada?"
+    "¿Qué documentos necesito para corregir mi situación fiscal?",
+    "¿Qué información debe proporcionar mi empresa a la autoridad fiscal?",
+    "¿Cómo me informan las autoridades sobre mis obligaciones fiscales?",
+    "¿Qué pasa si no envío la documentación solicitada?",
+    "¿Cuáles son mis derechos ante una fiscalización?"
   ]
 }

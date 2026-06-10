@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e5f3587ced0f357a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Costo promedio de adquisición de acciones",
   "temas": [
-    "Costo promedio de adquisición",
-    "Acciones",
-    "Títulos",
-    "Enajenación",
-    "Recalculo",
-    "INPC"
+    "acciones",
+    "títulos",
+    "acquisición",
+    "enajenación",
+    "INPC",
+    "costo promedio",
+    "regulación fiscal",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
     "costo de acciones",
     "costo de títulos",
-    "recalculo de acciones",
+    "venta de acciones",
+    "compra de acciones",
     "LISR",
     "RMF"
   ],
-  "resumen": "Esta regla establece cómo se determina el costo promedio de adquisición de acciones o títulos, incluyendo el proceso de recalculo tras nuevas adquisiciones y la actualización del costo al momento de la enajenación, utilizando el Índice Nacional de Precios al Consumidor (INPC).",
+  "resumen": "La regla establece cómo calcular el costo promedio de adquisición de acciones o títulos en función de las adquisiciones realizadas y su actualización tomando en cuenta el INPC. Además, explica cómo recalcular este costo al enajenar acciones o títulos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo promedio de mis acciones?",
-    "¿Qué hacer con el costo de adquisición al vender mis títulos?",
-    "¿Cómo se actualiza el costo promedio de acciones que compré antes de 2014?",
-    "¿Cuál es el impacto del INPC en el cálculo de acciones?",
-    "¿Qué reglas se aplican para el recalculo del costo de mis títulos?"
+    "¿Cómo se calcula el costo promedio de adquisición de mis acciones?",
+    "¿Qué pasa con el costo de mis títulos si los compro después de vender algunos?",
+    "¿Cómo influye el INPC en el costo promedio de mis acciones?",
+    "¿Qué es el costo promedio de adquisición recalculado?",
+    "¿Cómo se actualiza el costo de mis acciones al venderlas?"
   ]
 }

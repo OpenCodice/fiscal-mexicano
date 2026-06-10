@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:97c56eb987aceb42",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Control de marbetes en importación de bebidas alcohólicas",
+  "denominacion_comun": "Control de marbetes en bebidas alcohólicas",
   "temas": [
+    "importación de bebidas alcohólicas",
     "marbetes",
     "precintos",
-    "importación",
-    "bebidas alcohólicas",
-    "obligaciones de contribuyentes",
     "pedimento de importación",
-    "sistema automatizado aduanero",
-    "destrucción de marbetes"
+    "destrucción de marbetes",
+    "Sistema Automatizado Aduanero Integral",
+    "plazo de cumplimiento"
   ],
   "terminos_coloquiales": [
-    "control de marbetes",
-    "marbetes en aduanas",
+    "etiquetas para alcohol",
     "marbetes de bebidas",
-    "precintos de importación",
-    "LIEPS",
-    "RMF"
+    "importar alcohol",
+    "control de marbetes",
+    "IEPS",
+    "precintos de alcohol"
   ],
-  "resumen": "Los contribuyentes que importan bebidas alcohólicas deben registrar la serie y folios de los marbetes adquiridos en su pedimento de importación. Si no se cumplen con los plazos establecidos, los marbetes deben ser destruidos.",
+  "resumen": "Los contribuyentes que importan bebidas alcohólicas deben anotar en el pedimento de importación la serie y número de marbetes adquiridos. Además, deben adherir estos marbetes a los envases antes de la internación y cumplir con una serie de plazos y condiciones para evitar la destrucción de los mismos.",
   "preguntas_ejemplo": [
-    "¿Cómo registro los marbetes en mi pedimento de importación?",
-    "¿Qué debo hacer si no importo las bebidas alcohólicas a tiempo?",
-    "¿Cuáles son las obligaciones para importar bebidas alcohólicas?",
-    "¿Qué consecuencias hay si no coloco los marbetes?",
-    "¿Cómo se destruyen los marbetes que no se utilizaron?"
+    "¿Qué requisitos hay para importar bebidas alcohólicas en México?",
+    "¿Cómo se deben usar los marbetes en la importación de alcohol?",
+    "¿Qué sucede si no cumplo con los plazos de marbetes?",
+    "¿Qué es un pedimento de importación para bebidas alcohólicas?",
+    "¿Cómo se destruyen los marbetes si no se importa el producto?",
+    "¿Qué información debo registrar sobre los marbetes en el pedimento?"
   ]
 }

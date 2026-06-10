@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a49b84ef638c8aee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones del ISR e IVA para personas físicas",
+  "denominacion_comun": "Retenciones de ISR e IVA para intérpretes",
   "temas": [
     "ISR",
     "IVA",
     "retenciones",
-    "declaración",
-    "contabilidad",
+    "declaración anual",
+    "personas físicas",
     "asociaciones de intérpretes",
     "sociedades de gestión colectiva"
   ],
   "terminos_coloquiales": [
     "retenciones de impuestos",
-    "retención ISR IVA",
     "declaración de impuestos",
-    "DIOT",
-    "asociaciones artísticas"
+    "ISR para intérpretes",
+    "IVA acreditable",
+    "personas que cobran por intérpretes"
   ],
-  "resumen": "Las personas físicas que realicen cobros a través de personas morales se consideran relevadas de presentar ciertas declaraciones y de llevar contabilidad, siempre que sus ingresos provengan únicamente de esos cobros. Además, el IVA acreditable se considera como gasto para efectos del ISR.",
+  "resumen": "Se considera como gasto el IVA acreditable para efectos del ISR y se exime a ciertas personas físicas de llevar contabilidad y de presentar información mensual, siempre que sus ingresos provengan de cobros realizados por personas morales. Además, se establecen explícitamente las retenciones de impuestos aplicables.",
   "preguntas_ejemplo": [
-    "¿Cómo funcionan las retenciones de ISR para actores?",
-    "¿Qué gastos se consideran para el ISR en IVA?",
-    "¿Quiénes están exentos de llevar contabilidad?",
-    "¿Qué implicaciones tiene la DIOT para los intérpretes?",
-    "¿Las personas físicas deben presentar declaración de impuestos si solo reciben pagos a través de personas morales?"
+    "¿Cómo se manejan las retenciones de ISR e IVA para los intérpretes?",
+    "¿Qué obligaciones tienen las personas físicas que cobran a través de asociaciones de intérpretes?",
+    "¿Pueden las personas físicas eximirse de llevar contabilidad si solo reciben ingresos de personas morales?",
+    "¿Qué es el IVA acreditable para efectos del ISR?",
+    "¿Qué información debo presentar si soy una persona física vinculada a una sociedad de gestión colectiva?"
   ]
 }

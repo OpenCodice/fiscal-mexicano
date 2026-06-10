@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:beec5eb8aaa0b652",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación o revocación de la constancia",
+  "denominacion_comun": "Cancelación de constancia",
   "temas": [
-    "estímulos fiscales",
-    "Polos Industriales",
     "constancia",
     "cancelación",
-    "revocación"
+    "revocación",
+    "estímulos fiscales",
+    "Polos Industriales del Bienestar",
+    "actividades económicas",
+    "beneficios fiscales"
   ],
   "terminos_coloquiales": [
     "cancelación de constancia",
-    "revocación de beneficios fiscales",
-    "POINBI",
-    "estímulos fiscales en Polos"
+    "revocación de beneficios",
+    "estímulos fiscales",
+    "beneficios fiscales",
+    "POINBI"
   ],
-  "resumen": "Si se cancela o revoca la constancia que otorga beneficios fiscales en los Polos Industriales, el contribuyente no podrá seguir aplicando esos estímulos. La cancelación o revocación inicia a partir de notificaciones específicas.",
+  "resumen": "La disposición establece que si la constancia otorgada queda sin efectos por cancelación o revocación, el contribuyente ya no podrá aplicar los estímulos fiscales. La cancelación se aplica a partir de ciertos supuestos y la revocación desde que se notifica al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si cancelan mi constancia de estímulos fiscales?",
-    "¿Cómo sé si mi constancia fue revocada?",
-    "¿Cuándo dejo de recibir beneficios fiscales por mi actividad en los Polos?",
-    "¿Qué acciones previas desencadenan la cancelación de la constancia?",
-    "¿Qué documentación necesito para saber si mi constancia sigue vigente?"
+    "¿Qué pasa si se cancela mi constancia?",
+    "¿Cuándo deja de tener efectos mi constancia?",
+    "¿Cómo funciona la revocación de beneficios fiscales?",
+    "¿Qué estímulos fiscales aplican en los Polos Industriales?",
+    "¿Cuáles son los supuestos de cancelación de la constancia?"
   ]
 }

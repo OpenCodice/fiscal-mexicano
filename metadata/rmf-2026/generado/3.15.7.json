@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ffef4da20f7d2ff0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opción para no retener ISR en venta de vehículos",
+  "denominacion_comun": "Opción para no retener ISR en vehículos",
   "temas": [
-    "Retención de ISR",
-    "Enajenación de vehículos",
-    "Costo de adquisición",
-    "Diferencia de ingresos",
-    "Aviso de opción",
-    "Vehículos usados"
+    "retención de ISR",
+    "enajenación de vehículos",
+    "costo de adquisición",
+    "ingreso por enajenación",
+    "avisos al SAT"
   ],
   "terminos_coloquiales": [
-    "no retener ISR en vehículos",
-    "opción de retención de ISR",
-    "ISR en venta de autos",
-    "RMF 3.15.7"
+    "no retener ISR al comprar un coche",
+    "comprar un auto sin retención de impuestos",
+    "vehículos usados sin retención",
+    "opción para no retener ISR",
+    "ISR vehículos",
+    "LISR"
   ],
-  "resumen": "Los adquirentes de vehículos usados pueden optar por no retener el ISR al realizar la compra, siempre que se cumplan ciertas condiciones relacionadas con el ingreso obtenido y el costo de adquisición del vehículo. Además, se debe presentar un aviso ante el SAT en el mes de enero siguiente al ejercicio fiscal correspondiente.",
+  "resumen": "La regla permite a los adquirentes de vehículos no efectuar la retención del ISR si cumplen con ciertos requisitos, como la diferencia entre el ingreso de la venta y el costo de adquisición. Además, se requiere que el vendedor declare no obtener ingresos por actividades empresariales o profesionales.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden no retener ISR al comprar un vehículo?",
-    "¿Qué requisitos debo cumplir para no hacer la retención de ISR en la venta de un coche?",
-    "¿Cómo se determina el costo de adquisición de un vehículo usado?",
-    "¿Qué documentos necesito presentar al SAT para ejercer esta opción?",
-    "¿Qué pasa si no cumplo con los requisitos para no retener ISR?",
-    "¿Es posible que un vendedor de auto no tenga que pagar ISR?"
+    "¿Puedo comprar un coche sin que me retengan ISR?",
+    "¿Cuáles son los requisitos para no retener ISR al comprar un vehículo usado?",
+    "¿Qué debo hacer si el vendedor de un auto no tiene ingresos empresariales?",
+    "¿Cómo calculo el costo de adquisición de un vehículo para la retención de ISR?",
+    "¿Qué información debo presentar al SAT para evitar la retención del ISR en la compra de un auto?"
   ]
 }

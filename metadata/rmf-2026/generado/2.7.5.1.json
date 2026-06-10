@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:78bc662d01495ba4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de Nómina",
+  "denominacion_comun": "CFDI de nómina",
   "temas": [
-    "expedición de CFDI",
-    "comprobante fiscal digital",
-    "pagos a trabajadores",
+    "emisión de CFDI",
     "remuneraciones",
+    "trabajadores",
+    "contribuyentes asimilados",
     "complemento de nómina",
+    "plazos de expedición",
     "retenciones de ISR"
   ],
   "terminos_coloquiales": [
-    "CFDI de Nómina",
     "factura de nómina",
-    "comprobante de pago",
-    "CFDI mensual"
+    "CFDI de empleados",
+    "comprobantes de pago",
+    "pago de sueldos",
+    "recibo de nómina"
   ],
-  "resumen": "Los contribuyentes pueden emitir Comprobantes Fiscales Digitales por Internet (CFDI) por los pagos a trabajadores y asimilados a salarios, ya sea antes o después de realizar el pago, cumpliendo ciertos plazos según el número de empleados. También pueden optar por un CFDI mensual que incluya todos los pagos realizados durante ese mes.",
+  "resumen": "La regla establece cómo y cuándo los contribuyentes pueden expedir CFDI por los pagos de nómina a sus trabajadores y asimilados. También detalla los plazos para la emisión de estos comprobantes y la incorporación de complementos de nómina.",
   "preguntas_ejemplo": [
-    "¿Cómo se emite un CFDI de nómina?",
-    "¿Qué plazos debo tener en cuenta para emitir un CFDI?",
-    "¿Qué debo incluir en un CFDI mensual de salario?",
-    "¿Cómo se calculan las retenciones de ISR en un CFDI?",
-    "¿Qué es el complemento de nómina en un CFDI?"
+    "¿Cuándo debo emitir el CFDI de nómina?",
+    "¿Qué información debo incluir en el CFDI mensual?",
+    "¿Cuáles son los plazos para expedir el CFDI por salarios?",
+    "¿Qué hacer si realizo pagos a trabajadores en periodos inferiores a un mes?",
+    "¿Cómo se retiene el ISR en los CFDI de nómina?"
   ]
 }

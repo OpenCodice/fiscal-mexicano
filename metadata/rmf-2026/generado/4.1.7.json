@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1aba1157ad818002",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para Misiones Diplomáticas",
+  "denominacion_comun": "Devolución de IVA para misiones diplomáticas",
   "temas": [
-    "devolución de IVA",
+    "IVA",
+    "devolución de impuestos",
     "misiones diplomáticas",
-    "confirmación de reciprocidad",
-    "Secretaría de Relaciones Exteriores",
-    "exención de impuestos"
+    "reciprocidad",
+    "especificaciones de devolución"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA misiones diplomáticas",
-    "exención IVA",
-    "SRH"
+    "IVA para embajadas",
+    "exención de IVA",
+    "confirmación de reciprocidad"
   ],
-  "resumen": "Las misiones diplomáticas pueden solicitar la devolución del IVA que han pagado, pero deben hacerlo a través de su embajada. Deben obtener una confirmación de reciprocidad de la Secretaría de Relaciones Exteriores cada año antes de solicitar la devolución.",
+  "resumen": "Las misiones diplomáticas pueden solicitar la devolución del IVA que han pagado, pero necesitan obtener una confirmación anual de reciprocidad por medio de su embajada. Esta confirmación establece los límites de monto, tipo de bienes y otras especificaciones relacionadas con la devolución del impuesto.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución del IVA como misión diplomática?",
-    "¿Qué requisitos debo cumplir para obtener la exención del IVA?",
-    "¿A quién debo dirigirme para confirmar la reciprocidad en la devolución del IVA?",
-    "¿Cuál es el plazo para solicitar la devolución de IVA?",
-    "¿Qué información debe contener la confirmación de la Secretaría de Relaciones Exteriores?"
+    "¿Cómo pueden las embajadas devolver el IVA que pagaron?",
+    "¿Qué es la confirmación de reciprocidad para las misiones diplomáticas?",
+    "¿Cuándo deben solicitar la devolución del IVA las misiones diplomáticas?",
+    "¿Qué especificaciones se requieren para la devolución del IVA de las embajadas?",
+    "¿Qué límites hay en la devolución del IVA para misiones diplomáticas?"
   ]
 }

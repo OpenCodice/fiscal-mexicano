@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e2385ee55961f52",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Prestación de servicios digitales",
   "temas": [
-    "CFDI",
     "enajenación de bienes",
     "prestación de servicios",
     "hospedaje",
+    "CFDI",
+    "archivo electrónico XML",
     "plataformas tecnológicas",
-    "aplicaciones informáticas"
+    "representación impresa"
   ],
   "terminos_coloquiales": [
     "servicios digitales",
+    "factura",
     "CFDI",
-    "comprobantes fiscales digitales",
-    "plataformas",
-    "bienestech"
+    "comprar en línea",
+    "hospedaje en aplicaciones",
+    "plataformas de servicios"
   ],
-  "resumen": "Las personas que vendan bienes o presten servicios a través de plataformas tecnológicas deben enviar un archivo XML y una representación impresa del CFDI a los compradores. Esto asegura que el monto del CFDI coincida con lo pagado por los adquirentes.",
+  "resumen": "Las personas que venden bienes o prestan servicios a través de plataformas digitales deben enviar un archivo XML y un CFDI impreso a los compradores. Este CFDI debe reflejar el monto pagado y ser enviado al correo electrónico registrado por los compradores en dichas plataformas.",
   "preguntas_ejemplo": [
-    "¿Qué es un CFDI y cómo se usa en la venta de bienes?",
-    "¿Qué obligaciones tengo si vendo productos por internet?",
-    "¿Cómo se envían los CFDI a mis clientes?",
-    "¿Qué requisitos tienen las plataformas digitales para vender servicios?",
-    "¿Cómo debo actuar si soy un prestador de servicios en línea?"
+    "¿Cómo debo enviar el CFDI si compré algo en línea?",
+    "¿Qué documentación necesito si ofrezco servicios digitales?",
+    "¿A quién se le envía el archivo XML en la venta de bienes?",
+    "¿Qué es el CFDI y cómo se relaciona con la compra en plataformas?",
+    "¿Cuáles son mis obligaciones fiscales al vender en línea?",
+    "¿Qué información debe contener el CFDI que envío a mis clientes?"
   ]
 }

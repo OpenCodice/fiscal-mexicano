@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b6eded1725e4fab5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información y constancias de planes personales de retiro",
+  "denominacion_comun": "Información de planes personales de retiro",
   "temas": [
-    "Planes personales de retiro",
-    "Constancias fiscales",
-    "Aportaciones",
-    "Intereses reales",
-    "Retiro de recursos",
-    "ISR retenido"
+    "planes personales de retiro",
+    "aportaciones",
+    "intereses",
+    "retiros",
+    "constancias fiscales"
   ],
   "terminos_coloquiales": [
-    "constancias de retiro",
-    "planes de retiro",
-    "PPR",
+    "plan de retiro",
+    "retiro de fondos",
+    "constancia de retiro",
     "ISR de planes personales",
-    "constancia para efectos fiscales"
+    "Cuentas de Ahorro para el Retiro (CARR)"
   ],
-  "resumen": "Las personas que administran planes personales de retiro deben proporcionar a los titulares una constancia con información sobre aportaciones, intereses, y retiros realizados anualmente. Esta constancia es importante para efectos fiscales.",
+  "resumen": "Las personas que administran planes personales de retiro deben proporcionar a los titulares de estos planes una constancia con información sobre aportaciones, intereses y retiros para efectos fiscales. Esta constancia debe entregarse a más tardar el 15 de febrero del siguiente año.",
   "preguntas_ejemplo": [
-    "¿Qué información debe contener la constancia de mi plan personal de retiro?",
-    "¿Cuándo se entrega la constancia de retiro?",
-    "¿Qué es lo que se considera como monto exento en el retiro?",
-    "¿Cuánto ISR se retiene al retirar recursos de un plan personal de retiro?",
-    "¿Puedo usar mi estado de cuenta como constancia para mis planes de retiro?"
+    "¿Qué información debe incluir la constancia de mi plan personal de retiro?",
+    "¿Cuándo debo recibir la constancia de retiro de mi fondo de ahorro?",
+    "¿Qué pasa si retiré fondos de mi plan de retiro antes de tiempo?",
+    "¿Cómo se calcula el ISR en los retiros de planes personales de retiro?",
+    "¿Puedo usar mi estado de cuenta como constancia fiscal?"
   ]
 }

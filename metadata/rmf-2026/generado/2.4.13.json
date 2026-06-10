@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e096fa7b40520272",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción del representante legal en el RFC",
+  "denominacion_comun": "Inscripción en el RFC del representante legal",
   "temas": [
     "RFC",
     "representante legal",
-    "persona moral",
     "e.firma",
+    "persona moral",
     "facultades de representación"
   ],
   "terminos_coloquiales": [
-    "inscripción en el RFC",
-    "representante legal RFC",
-    "Inscripción de e.firma",
-    "CFF 27"
+    "registrar en el RFC",
+    "inscripción de representante legal",
+    "e.firma",
+    "persona moral"
   ],
-  "resumen": "El representante legal de una persona moral debe solicitar su inscripción en el RFC y obtener su certificado de e.firma si ejercerá facultades de representación ante las autoridades fiscales. Estas facultades deben estar conferidas en escritura pública.",
+  "resumen": "La regla establece que el representante legal de una persona moral debe inscribirse en el RFC y solicitar su e.firma si va a actuar en nombre de la empresa ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué necesita el representante legal para inscribirse en el RFC?",
-    "¿Cómo obtiene el certificado de e.firma un representante legal?",
-    "¿Qué facultades debe tener un representante legal para inscribirse en el RFC?",
-    "¿Qué dice el CFF sobre la inscripción de representantes legales?",
-    "¿Cuáles son los requisitos para que un representante legal de una persona moral solicite su e.firma?",
-    "¿Quién puede ser representante legal en el RFC?"
+    "¿Cómo inscribo a mi representante legal en el RFC?",
+    "¿Qué es la e.firma para personas morales?",
+    "¿Qué requisitos necesita el representante legal para registrarse en el RFC?",
+    "¿Quién puede ser el representante legal de una persona moral?",
+    "¿Qué funciones tiene un representante legal en términos fiscales?"
   ]
 }

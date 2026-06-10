@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:615aa83b72337376",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derechos por constancias de antecedentes registrales de CONAGUA",
   "temas": [
     "CONAGUA",
     "derechos",
-    "consultas registrales",
+    "antecedentes registrales",
     "certificados",
-    "constancias",
-    "Registro Público de Derechos de Agua"
+    "consulta",
+    "Registro Público de Derechos de Agua",
+    "LFD"
   ],
   "terminos_coloquiales": [
-    "derechos de agua",
-    "consultas a CONAGUA",
-    "certificados de agua",
-    "constancias de antecedentes",
-    "LFD 192-C"
+    "pagar derechos de agua",
+    "consulta de derechos de agua",
+    "certificados de CONAGUA",
+    "antecedentes de agua"
   ],
-  "resumen": "Los contribuyentes que consultan los antecedentes registrales de agua en la página de CONAGUA o mediante su equipo de cómputo deben pagar un derecho únicamente si la consulta resulta en la búsqueda o expedición de certificados o constancias. Esto se basa en lo que establece la Ley de Aguas Nacionales.",
+  "resumen": "Los contribuyentes que consulten los antecedentes registrales de agua en la página de CONAGUA solo pagarán derechos si la consulta lleva a la búsqueda por la Comisión o a la expedición de certificados. Esto se encuentra regulado bajo el Artículo 192-C de la Ley de Aguas.",
   "preguntas_ejemplo": [
-    "¿Cómo se pagan los derechos por consultas a CONAGUA?",
-    "¿Qué derechos debo pagar por obtener constancias de antecedentes registrales?",
-    "¿Dónde se consultan los antecedentes de derechos de agua?",
+    "¿Cuánto tengo que pagar por una consulta en CONAGUA?",
+    "¿Qué derechos debo pagar por obtener un certificado de antecedentes de agua?",
+    "¿Dónde puedo consultar los antecedentes registrales de agua?",
     "¿Qué es el Registro Público de Derechos de Agua?",
-    "¿Qué establece la LFD 192-C sobre los derechos de agua?"
+    "¿Qué requisitos hay para consultar los antecedentes de agua en línea?"
   ]
 }

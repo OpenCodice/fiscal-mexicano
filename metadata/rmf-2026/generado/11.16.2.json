@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b213de89bd89d4ec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de estímulos fiscales",
+  "denominacion_comun": "Registro de Estímulos Fiscales",
   "temas": [
-    "deducción inmediata",
+    "estímulos fiscales",
+    "deducciones",
+    "bienes de activo fijo",
     "gastos de capacitación",
-    "gastos por concepto de innovación",
+    "gastos de innovación",
+    "contabilidad",
     "documentación comprobatoria",
-    "pólizas de registro",
-    "polo de desarrollo",
-    "registros contables"
+    "PDECOBI"
   ],
   "terminos_coloquiales": [
-    "estimulos fiscales",
-    "deducciones",
-    "PDE",
-    "gastos deducibles"
+    "declarar deducciones",
+    "registrar gastos",
+    "bienes nuevos",
+    "capacitación de empleados",
+    "gastos de innovación",
+    "PDECOBI"
   ],
-  "resumen": "Esta regla establece el registro específico que deben llevar los contribuyentes para aplicar estímulos fiscales, incluyendo la documentación necesaria para comprobar deducciones por inversión, capacitación e innovación en los polos de desarrollo. Es importante que los contribuyentes conserven esta información para su contabilidad y disposición ante las autoridades fiscales.",
+  "resumen": "Esta disposición establece los requisitos para el registro de los contribuyentes que aplican estímulos fiscales, incluyendo la documentación necesaria para deducciones de inversiones en bienes nuevos, gastos de capacitación e innovación. La información debe ser parte de la contabilidad y estar disponible para las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué documentación necesito para registrar los estímulos fiscales?",
-    "¿Cómo aplico la deducción inmediata de inversión en bienes nuevos?",
-    "¿Qué gastos de capacitación puedo deducir?",
-    "¿Cuáles son los requisitos para deducir gastos por innovación?",
-    "¿Qué es el registro de estímulos fiscales en los polos de desarrollo?"
+    "¿Qué documentos necesito para registrar estímulos fiscales?",
+    "¿Cómo deduzco la inversión en bienes nuevos?",
+    "¿Qué requisitos hay para los gastos de capacitación?",
+    "¿Cómo registro los gastos por innovación?",
+    "¿Qué pasa si no tengo la documentación requerida?",
+    "¿Cómo se relacionan estos estímulos con el CFF?"
   ]
 }

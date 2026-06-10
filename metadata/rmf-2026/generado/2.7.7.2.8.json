@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4d8b95f09c35115c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Complemento Carta Porte",
+  "denominacion_comun": "Autotransporte y CFDI Carta Porte",
   "temas": [
-    "transporte de bienes",
+    "transportes de mercancías",
     "camiones tipo C2",
-    "jurisdicción federal",
-    "longitud de tramos",
-    "remolques",
-    "excepciones de aplicación",
-    "medicamentos",
-    "despacho aduanero"
+    "distancia de tramos federales",
+    "exenciones de aplicación",
+    "despacho aduanero",
+    "transporte de medicamentos"
   ],
   "terminos_coloquiales": [
-    "Carta Porte",
-    "transporte terrestre",
-    "CFDI con complemento",
-    "autotransporte"
+    "factura de carta porte",
+    "CFDI Carta Porte",
+    "autotransporte",
+    "camión",
+    "transportar mercancías",
+    "remolques"
   ],
-  "resumen": "Esta regla establece las condiciones bajo las cuales los contribuyentes pueden transportar mercancías en vehículos de carga sin transitar por tramos de jurisdicción federal, siempre que no excedan los 30 kilómetros en su trayecto. También detalla las excepciones para ciertas mercancías, como medicamentos y operaciones de comercio exterior.",
+  "resumen": "Esta regla explica cómo se considera el transporte de bienes y mercancías por carretera, así como las condiciones bajo las cuales los contribuyentes no deben preocuparse por las normas federales de transporte. También menciona excepciones para ciertos cargos y tipos de mercancías.",
   "preguntas_ejemplo": [
-    "¿Cuándo se aplica el complemento Carta Porte?",
-    "¿Cuáles son las condiciones para el transporte de mercancías?",
-    "¿Qué límites de distancia se consideran para el autotransporte?",
-    "¿Quiénes están exentos de estas reglas?",
-    "¿Qué es un camión tipo C2?"
+    "¿Qué restricciones hay para el transporte de mercancías en camiones?",
+    "¿Qué es el CFDI Carta Porte y quién debe emitirlo?",
+    "¿Cuál es la distancia máxima para evitar reglas federales en autotransporte?",
+    "¿Existen excepciones para el transporte de medicamentos?",
+    "¿Cómo afecta la normativa a los transportistas que hacen despacho aduanero?"
   ]
 }

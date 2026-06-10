@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f91d5bb4afea6dd2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud de entrega de monto pagado",
+  "denominacion_comun": "Solicitud de entrega de monto pagado por bienes no entregados",
   "temas": [
-    "bien no entregado",
-    "solicitud de devolución",
+    "entrega de bienes",
+    "solicitud de reembolso",
     "monto pagado",
-    "trámite administrativo"
+    "trámite administrativo",
+    "bien no entregado"
   ],
   "terminos_coloquiales": [
-    "saldo a favor",
-    "devolución de dinero",
-    "solicitud de reembolso"
+    "solicitud de reembolso",
+    "biens no entregados",
+    "cobrar lo que pagué",
+    "ficha de trámite",
+    "CFF 188-Bis"
   ],
-  "resumen": "Esta regla establece cómo solicitar la entrega del monto pagado por bienes que no pudieron ser entregados al postor, siguiendo el procedimiento indicado en la ficha de trámite correspondiente.",
+  "resumen": "Esta disposición establece el procedimiento para solicitar la entrega del monto pagado por bienes que no se pueden entregar al postor. La solicitud debe realizarse según una ficha de trámite específica que se encuentra en el Anexo 2.",
   "preguntas_ejemplo": [
-    "¿Cómo pido que me devuelvan el dinero de un bien que no me entregaron?",
-    "¿Qué debo hacer si no recibí un bien que compré?",
-    "¿Dónde encuentro el formato para solicitar mi reembolso?",
-    "¿A qué artículo del CFF debo referirme para estas solicitudes?",
-    "¿Qué requisitos tengo que cumplir para hacer una solicitud de devolución?"
+    "¿Cómo puedo recuperar el dinero de un bien que no me entregaron?",
+    "¿Cuál es el procedimiento para solicitar un reembolso por un bien no entregado?",
+    "¿Qué debo hacer si pagué por un producto que nunca recibí?",
+    "¿Qué es la ficha de trámite 65/CFF?",
+    "¿Dónde encuentro la solicitud para bienes no entregados?"
   ]
 }

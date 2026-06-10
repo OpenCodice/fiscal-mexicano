@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6512bc055a0ced70",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Domicilio fiscal en casa habitación",
   "temas": [
-    "Domicilio fiscal",
-    "Persona física",
-    "Actividades agrícolas",
-    "Actividades ganaderas",
-    "Actividades pesqueras",
-    "Actividades silvícolas",
-    "Actividades no empresariales"
+    "domicilio fiscal",
+    "personas físicas",
+    "actividades agrícolas",
+    "actividades ganaderas",
+    "actividades pesqueras",
+    "actividades silvícolas",
+    "no actividades empresariales",
+    "no actividades profesionales"
   ],
   "terminos_coloquiales": [
-    "Domicilio fiscal en casa",
-    "Domicilio fiscal personal",
+    "casa habitación",
+    "domicilio fiscal",
     "CFF 10"
   ],
-  "resumen": "Las personas físicas pueden establecer su domicilio fiscal en su casa habitación si realizan actividades agrícolas, ganaderas, pesqueras o silvícolas, y no llevan a cabo actividades empresariales o profesionales.",
+  "resumen": "Las personas físicas pueden usar su casa habitación como domicilio fiscal si realizan ciertas actividades agrícolas, ganaderas, pesqueras o silvícolas, o si no realizan actividades empresariales o profesionales.",
   "preguntas_ejemplo": [
     "¿Puedo usar mi casa como domicilio fiscal?",
-    "¿Qué actividades permiten que mi domicilio fiscal sea mi casa?",
-    "¿Qué requisitos necesito para establecer mi casa como domicilio fiscal?",
-    "¿Es posible tener un domicilio fiscal en casa si no soy empresario?",
-    "¿Cuáles son las actividades consideradas para usar una casa como domicilio fiscal?"
+    "¿Cuáles son las condiciones para que mi casa sea mi domicilio fiscal?",
+    "¿Qué actividades me permiten usar mi casa habitación como domicilio fiscal?",
+    "¿Si no tengo un negocio, puedo considerar mi casa como domicilio fiscal?",
+    "¿Cuándo se puede considerar la casa habitación como domicilio fiscal según el CFF?"
   ]
 }

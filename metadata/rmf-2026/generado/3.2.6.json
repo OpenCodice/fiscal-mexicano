@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:543ced90e5ee94c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones financieras derivadas",
+  "denominacion_comun": "Operaciones financieras derivadas OTC",
   "temas": [
+    "impuesto sobre la renta",
     "pérdida deducible",
     "ganancia acumulable",
+    "operaciones financieras derivadas",
     "tipo de cambio",
-    "moneda extranjera",
     "divisas",
-    "vencimiento de operaciones",
-    "Banco de México"
+    "mercados no reconocidos"
   ],
   "terminos_coloquiales": [
-    "operaciones OTC",
+    "operaciones fuera de mercados reconocidos",
+    "OTC",
     "derivados",
-    "ganancias por operaciones",
-    "pérdidas en derivados",
-    "ley del ISR",
-    "LISR"
+    "ganancias por divisas",
+    "pérdidas por divisas",
+    "tipo de cambio para operaciones"
   ],
-  "resumen": "Esta regla establece cómo determinar la ganancia acumulable o la pérdida deducible de operaciones financieras derivadas con una divisa como subyacente, dependiendo del tipo de cambio y la fecha de vencimiento de la operación. Se especifican los métodos de cálculo para ejercicios posteriores y la forma de tratar cantidades iniciales pagadas o percibidas.",
+  "resumen": "La regla establece cómo se deben calcular las ganancias y pérdidas acumulables de las operaciones financieras derivadas con divisas, especificando los métodos a seguir durante y después de la operación. Además, aclara el tratamiento de la cantidad inicial pagada por la operación.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias acumulables por operaciones financieras derivadas?",
-    "¿Qué pasa con las pérdidas deducibles en operaciones OTC?",
-    "¿Cuál es el tipo de cambio a utilizar para determinar ganancias en derivados?",
-    "¿Se pueden reestructurar las operaciones financieras y cómo afecta eso a las deducciones?",
-    "¿Qué ocurre si no ejerzo la operación en su vencimiento?"
+    "¿Cómo se calcula la ganancia acumulable de una operación derivada?",
+    "¿Qué se considera una pérdida deducible en las operaciones OTC?",
+    "¿Qué tipo de cambio se utiliza para las operaciones financieras derivadas?",
+    "¿Cómo se trata una operación no ejercida en su fecha de vencimiento?",
+    "¿Qué pasa si hay una reestructuración de la operación antes de su vencimiento?"
   ]
 }

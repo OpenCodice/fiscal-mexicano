@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4d76457c6d0fa2c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción y aviso de obligaciones del IVA para transporte terrestre",
+  "denominacion_comun": "Inscripción y aviso de obligaciones del IVA para transporte",
   "temas": [
     "IVA",
-    "Transporte terrestre de pasajeros",
-    "Inscripción en el RFC",
-    "Aviso de actualización de obligaciones"
+    "RFC",
+    "transporte terrestre",
+    "actualización de actividades",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "inscripción al RFC",
-    "aviso de obligaciones IVA",
-    "Transporte terrestre foráneo",
     "IVA transporte",
-    "CFF",
-    "LIVA"
+    "inscripción en el RFC",
+    "aviso de obligaciones",
+    "transporte terrestre foráneo"
   ],
-  "resumen": "Los contribuyentes que deben pagar IVA por el transporte terrestre de pasajeros deben manifestar su actividad económica en el RFC. Esto se hace al inscribirse o mediante un aviso de actualización si ya están inscritos.",
+  "resumen": "Los contribuyentes que deben pagar IVA por servicios de transporte terrestre de pasajeros deben informar su actividad económica al registrarse o al actualizar sus datos en el RFC. Esto incluye indicar específicamente la actividad de 'Transporte terrestre foráneo de pasajeros'.",
   "preguntas_ejemplo": [
-    "¿Cómo me inscribo en el RFC para el IVA del transporte?",
-    "¿Qué debo hacer si ofrezco transporte terrestre foráneo?",
-    "¿Cuáles son mis obligaciones fiscales si presto servicios de transporte?",
-    "¿Cuál es el plazo para avisar sobre mi actividad económica en el RFC?",
-    "¿Dónde encuentro la información sobre el IVA en el transporte terrestre?"
+    "¿Cómo me inscribo en el RFC para ofrecer transporte terrestre?",
+    "¿Qué debo hacer si cambio mi actividad económica al transporte de pasajeros?",
+    "¿Cuáles son mis obligaciones fiscales si doy servicio de transporte terrestre?",
+    "¿Qué significa notificar mi actividad económica en el RFC para el IVA?",
+    "¿Tengo que avisar si empiezo a ofrecer transporte de pasajeros?"
   ]
 }

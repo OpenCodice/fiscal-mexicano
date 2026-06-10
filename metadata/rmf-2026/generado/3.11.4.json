@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d681f36bd9ea8d3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de casa habitación",
   "temas": [
-    "ISR",
-    "fedatario público",
-    "consulta SAT",
+    "consultas al SAT",
+    "fedatarios públicos",
     "casa habitación",
+    "ISR",
     "enajenación",
-    "contraprestación",
-    "ISR retenido"
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "venta de casa",
-    "compraventa de vivienda",
     "consulta al SAT",
-    "enajenación de inmuebles",
-    "LISR",
-    "Ley del ISR"
+    "recibo",
+    "ISR",
+    "enajenación de vivienda"
   ],
-  "resumen": "Los fedatarios públicos deben consultar al SAT antes de realizar la escritura de enajenación de una casa habitación, si se ha efectuado dicha enajenación en los últimos tres años. Esta consulta debe quedar registrada en la escritura o en un apéndice.",
+  "resumen": "El fedatario público debe consultar al SAT si el contribuyente ha vendido alguna casa habitación en los últimos tres años. Esta consulta debe quedar registrada en la escritura pública, y el fedatario tiene que avisar al SAT sobre la operación realizada.",
   "preguntas_ejemplo": [
     "¿Qué debo hacer si voy a vender mi casa?",
-    "¿El fedatario tiene que avisar al SAT cuando se vende una casa?",
-    "¿Qué pasa si se enajena una casa habitación en tres años?",
-    "¿Cómo se consulta al SAT para la venta de un inmueble?",
-    "¿Qué información debe incluir el fedatario en la escritura de enajenación?",
-    "¿Cuál es la obligación del fedatario al realizar una enajenación de casa habitación?"
+    "¿El notario necesita hacer algo con el SAT cuando vendo mi vivienda?",
+    "¿Qué pasa si he vendido una casa en los últimos tres años?",
+    "¿Cómo se registra la venta de una casa ante el SAT?",
+    "¿Qué información debe incluir el fedatario en la escritura de la venta de una casa?"
   ]
 }

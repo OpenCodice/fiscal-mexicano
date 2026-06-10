@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7078d2d291d27c74",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración informativa de retenciones",
   "temas": [
     "retenciones",
     "comprobantes fiscales",
+    "Nómina",
     "Ley del ISR",
-    "CFDI",
-    "nómina"
+    "información a proporcionar",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
+    "retenciones de impuestos",
     "declaración de retenciones",
-    "retenciones de ISR",
-    "comprobantes de nómina",
-    "CFDI"
+    "CFDI de nómina",
+    "comprobantes de retención",
+    "información de nómina"
   ],
-  "resumen": "Se considera cumplida la obligación de informar sobre las retenciones realizadas a personas durante el año al emitir los comprobantes fiscales que reflejen dichas operaciones y su monto de retención según la Ley del ISR.",
+  "resumen": "Se establece que la obligación de informar sobre las retenciones realizadas a personas se cumple al emitir los comprobantes fiscales que indiquen dichas operaciones y los montos de las retenciones. Esto aplica a las retenciones que se realicen durante el año calendario.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración informativa de retenciones?",
-    "¿Cómo se hacen las retenciones en CFDI de nómina?",
-    "¿Qué información debo incluir en los comprobantes fiscales sobre retenciones?",
-    "¿Cuándo se consideran cumplidas las obligaciones de retención?",
-    "¿Qué establece la Ley del ISR sobre las retenciones?"
+    "¿Cómo debo informar las retenciones que hice en la nómina?",
+    "¿Qué tipo de comprobantes necesito para reportar mis retenciones?",
+    "¿Quiénes deben expedir el CFDI por concepto de nómina?",
+    "¿Qué dice la ley sobre las retenciones de impuestos?",
+    "¿Qué información debo proporcionar sobre las retenciones anuales?"
   ]
 }

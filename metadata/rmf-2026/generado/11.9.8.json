@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb846850f819fcb6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Documentación para comprobar capacidad económica",
   "temas": [
-    "capacidad económica",
-    "activos",
-    "instalaciones",
-    "documentación requerida",
-    "región fronteriza norte",
-    "región fronteriza sur",
-    "inversiones"
+    "comprobación de ingresos",
+    "documentación contable",
+    "inversiones en activos fijos",
+    "financiamiento",
+    "mobiliario y equipo",
+    "personal contratado",
+    "adquisición de inmuebles"
   ],
   "terminos_coloquiales": [
-    "comprobación de ingresos",
-    "documentación fiscal",
-    "reglamento frontera norte",
-    "RMF 2026"
+    "comprobar ingresos",
+    "documentos para acreditar capacidad",
+    "activos fijos",
+    "gastos en mobiliario",
+    "contratos laborales",
+    "títulos de propiedad"
   ],
-  "resumen": "Esta regla establece la documentación que los contribuyentes deben presentar para demostrar su capacidad económica, activos e instalaciones en las regiones fronterizas. Incluye requisitos como estados financieros, documentos de propiedad y comprobantes de inversión.",
+  "resumen": "Esta regla establece la documentación que los contribuyentes en las regiones fronterizas deben presentar para demostrar su capacidad económica, activos e instalaciones. Incluye estados financieros, registros contables, documentación de inversiones y detalles sobre personal y espacios físicos utilizados para el negocio.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para acreditar mi capacidad económica en la frontera?",
-    "¿Cómo compruebo mis activos para el estímulo fiscal de la región fronteriza?",
-    "¿Qué requisitos debo cumplir para operar en la región fronteriza norte?",
-    "¿Cuáles son las obligaciones fiscales para iniciar en la región fronteriza?",
-    "¿Qué información debo aportar sobre mis instalaciones en la frontera?"
+    "¿Qué documentos necesito para comprobar mis ingresos en la frontera?",
+    "¿Cómo puedo demostrar que tengo los activos necesarios para operar?",
+    "¿Qué información debo presentar sobre mi personal contratado?",
+    "¿Qué requisitos hay para documentar las inversiones en la región fronteriza?",
+    "¿Qué tipo de documentación necesito para adquirir un inmueble para mi negocio?"
   ]
 }

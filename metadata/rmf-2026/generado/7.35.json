@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de35e0025b41d600",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de derechos vía Internet",
   "temas": [
-    "Pago de derechos",
-    "Recibo bancario",
-    "Contribuciones federales",
-    "Servicios públicos",
-    "Administración de bienes",
-    "Dominio público"
+    "contribuciones",
+    "productos federales",
+    "aprovechamientos",
+    "recibo bancario",
+    "sello digital",
+    "dependencia",
+    "servicios federales"
   ],
   "terminos_coloquiales": [
-    "Pago de derechos en línea",
-    "Recibo digital de contribuciones",
-    "Pagos electrónicos",
+    "pago de derechos",
+    "recibo de pago",
+    "contribuciones federales",
+    "internet",
+    "no presentar recibo",
     "LFD",
     "RMF"
   ],
-  "resumen": "Los contribuyentes pueden realizar el pago de derechos a través de Internet sin necesidad de presentar un recibo bancario, a menos que la autoridad lo solicite. Esto facilita el proceso de pago en las dependencias que gestionan bienes del dominio público.",
+  "resumen": "Los contribuyentes que realicen el pago de derechos por Internet no necesitan presentar una copia del recibo bancario, a menos que la dependencia lo solicite. Esto simplifica el proceso para quienes realizan sus pagos en línea.",
   "preguntas_ejemplo": [
-    "¿Puedo pagar los derechos por Internet?",
-    "¿Necesito llevar mi recibo bancario si pago en línea?",
-    "¿Qué pasa si no presento el recibo de pago?",
-    "¿Cómo realizo el pago de derechos en línea?",
-    "¿Qué es la regla 2.8.4.1. sobre el pago de derechos?"
+    "¿Tengo que presentar el recibo del pago de derechos si lo hice por Internet?",
+    "¿Qué hago si no tengo el recibo bancario de mi pago?",
+    "¿Es obligatorio presentar copia del recibo bancario si pagué en línea?",
+    "¿Qué significa que no tenga que presentar el recibo bancario?",
+    "¿Cómo pago mis derechos por Internet?"
   ]
 }

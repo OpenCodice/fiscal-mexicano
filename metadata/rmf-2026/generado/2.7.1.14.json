@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07d6765dd42a224f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes fiscales por residentes en el extranjero",
+  "denominacion_comun": "Comprobantes fiscales para deducir gastos de residentes en el extranjero",
   "temas": [
-    "deducción fiscal",
     "comprobantes fiscales",
+    "deducción de gastos",
     "residentes en el extranjero",
-    "CFF",
     "identificación fiscal",
-    "impuestos",
-    "enajenación de bienes"
+    "impuestos retenidos",
+    "Ley del IVA"
   ],
   "terminos_coloquiales": [
-    "facturas de extranjeros",
-    "deducción de comprobantes extranjeros",
-    "comprobantes internacionales",
-    "CFF 29",
-    "CFF 29-A"
+    "factura de extranjero",
+    "comprobante de residente en el extranjero",
+    "CFDI para deducciones",
+    "gastos con extranjeros"
   ],
-  "resumen": "Los contribuyentes pueden deducir o acreditar impuestos utilizando comprobantes de residentes en el extranjero, siempre que cumplan ciertos requisitos, como nombre del emisor y del receptor, y desglose de impuestos. Esto se aplica solo si las transacciones tienen lugar en México.",
+  "resumen": "Esta regla establece los requisitos que deben cumplir los comprobantes emitidos por residentes en el extranjero para poder ser deducidos fiscalmente en México. Incluye información sobre la expedición, identificación y desglose de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe tener una factura de un extranjero para deducirla?",
-    "¿Puedo usar una factura de un proveedor extranjero para mis deducciones fiscales?",
-    "¿Qué información necesito para cumplir con el CFF respecto a comprobantes de afuera?",
-    "¿Cómo se desglosan los impuestos en comprobantes de extranjeros?",
-    "¿Las facturas de extranjeros necesitan cumplir con algo específico en México?"
+    "¿Qué requisitos debe tener una factura de un proveedor extranjero para deducirla?",
+    "¿Puedo usar comprobantes de residentes en el extranjero para mis gastos?",
+    "¿Cómo deduzco gastos con facturas de extranjeros?",
+    "¿Qué información necesita contener un CFDI de un residente en el extranjero?",
+    "¿Cuáles son las obligaciones al emitir una factura a un residente en el extranjero?"
   ]
 }

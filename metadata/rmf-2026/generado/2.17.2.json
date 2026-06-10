@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:985eb2dcc6d9b067",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medios de pago para sorteos fiscales",
+  "denominacion_comun": "Medios de pago en sorteos fiscales",
   "temas": [
+    "sorteos fiscales",
+    "medios electrónicos",
+    "CFDI",
+    "Catálogo de Formas de Pago",
+    "transferencia electrónica",
+    "tarjeta de crédito",
+    "tarjeta de débito"
+  ],
+  "terminos_coloquiales": [
     "sorteos fiscales",
     "medios de pago",
     "CFDI",
-    "Transferencia electrónica",
-    "Tarjeta de Crédito",
-    "Tarjeta de Débito"
+    "transferencia electrónica",
+    "tarjeta de crédito",
+    "tarjeta de débito"
   ],
-  "terminos_coloquiales": [
-    "sorteos del SAT",
-    "participación en sorteos fiscales",
-    "medios electrónicos para sorteos"
-  ],
-  "resumen": "Los pagos hechos con ciertos medios electrónicos permiten que las personas físicas participen en sorteos fiscales. Estos pagos deben reflejarse en los CFDI según un catálogo específico del SAT.",
+  "resumen": "La disposición establece que las personas físicas pueden participar en sorteos fiscales si realizan pagos por bienes o servicios mediante ciertos medios electrónicos que estén en el Catálogo de Formas de Pago del SAT. Los medios aceptados incluyen transferencias electrónicas y tarjetas de crédito y débito.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los medios de pago para participar en los sorteos fiscales?",
-    "¿Cómo puedo participar en los sorteos del SAT?",
-    "¿Qué tipos de pagos son válidos para los sorteos fiscales?",
-    "¿Qué necesita tener mi CFDI para participar en el sorteo?",
-    "¿Qué se considera un medio electrónico en los sorteos fiscales?"
+    "¿Qué medios de pago puedo usar para participar en los sorteos fiscales?",
+    "¿Cuáles son los tipos de pagos electrónicos aceptados en los sorteos fiscales?",
+    "¿Necesito un CFDI para participar en sorteos fiscales?",
+    "¿Puedo usar una tarjeta de débito para participar en los sorteos fiscales?",
+    "¿Qué significa participar en un sorteo fiscal?"
   ]
 }

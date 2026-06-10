@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9aaba2858955fc15",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo del derecho por posiciones orbitales",
   "temas": [
     "derechos",
     "posiciones orbitales",
+    "telecomunicaciones",
     "licencias",
-    "satélites",
-    "bandas de frecuencias",
-    "números de megahertz"
+    "banda C",
+    "banda Ku",
+    "megahercios",
+    "cálculo de pagos"
   ],
   "terminos_coloquiales": [
-    "derecho por posiciones orbitales",
-    "derecho de telecomunicaciones",
+    "pago por posiciones orbitales",
+    "derechos de satélites",
     "licitación de satélites",
-    "LFD 242",
-    "CFF 17-A"
+    "megahercios",
+    "banda C",
+    "banda Ku"
   ],
-  "resumen": "Esta disposición establece cómo calcular el derecho a pagar por las posiciones orbitales asignadas, considerando diversos factores como el pago realizado en licitación pública y el uso de megahertz en diferentes bandas. También aclara que los montos calculados no serán susceptibles de devolución ni acreditamiento.",
+  "resumen": "Esta regla establece cómo calcular el derecho a pagar por el uso de posiciones orbitales asignadas, según el número de satélites y las bandas de telecomunicaciones utilizados en México. También se indican fórmulas para obtener montos semestrales específicos según las licitaciones públicas realizadas.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el derecho por posiciones orbitales en México?",
-    "¿Qué factores influyen en el monto del derecho a pagar por licitación pública?",
-    "¿Se puede recuperar el monto pagado por derechos de posiciones orbitales?",
-    "¿Qué sucede si uso múltiples posiciones orbitales en mi cálculo?",
-    "¿Cómo se afectan los megahertz utilizados en el cálculo del derecho?"
+    "¿Qué monto debo pagar por utilizar un satélite?",
+    "¿Cuáles son los factores que afectan el cálculo del derecho a pagar?",
+    "¿Qué relación hay entre las bandas C y Ku y los derechos de uso?",
+    "¿Puedo reclamar la devolución de estos derechos?"
   ]
 }

@@ -6,34 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70a9cc744737779f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen para sociedades agrícolas, ganaderas, silvícolas y pesqueras",
+  "denominacion_comun": "Régimen de actividades agrícolas, ganaderas, silvícolas y pesqueras",
   "temas": [
-    "impuesto sobre la renta",
-    "sociedades productoras",
-    "actividades agrícolas",
-    "actividades ganaderas",
-    "actividades silvícolas",
-    "actividades pesqueras",
-    "reducción del ISR",
-    "pago provisional del ISR",
+    "ISR reducido",
+    "sociedades de productores",
+    "actividad agrícola",
+    "actividad ganadera",
+    "actividad silvícola",
+    "actividad pesquera",
+    "ingresos propios",
+    "deducciones autorizadas",
     "utilidad fiscal",
-    "deducciones autorizadas"
+    "participación de trabajadores"
   ],
   "terminos_coloquiales": [
-    "régimen silvícola",
-    "régimen pesquero",
-    "ISR reducido",
-    "UFIPA",
-    "UFINPA"
+    "reducción del ISR",
+    "ingresos de agricultores",
+    "ingresos de ganaderos",
+    "ingresos de silvicultores",
+    "ingresos de pescadores",
+    "ISR a cargo",
+    "ISR reducido"
   ],
-  "resumen": "Esta regla establece cómo calcular el impuesto sobre la renta (ISR) y su reducción para sociedades o asociaciones de productores dedicadas a actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos exceden un cierto monto. Detalla el procedimiento para determinar la utilidad fiscal y el ISR a cargo.",
+  "resumen": "Esta regla establece cómo calcular el ISR reducido para sociedades o asociaciones de productores en actividades agrícolas, ganaderas, silvícolas y pesqueras. Si los ingresos superan un límite determinado, se siguen ciertos procedimientos para determinar la utilidad fiscal y el ISR a pagar.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el ISR reducido para las sociedades agrícolas?",
-    "¿Qué se necesita para calcular la utilidad fiscal en actividades silvícolas?",
-    "¿Cuáles son los requisitos para que una asociación pesquera aplique la reducción de ISR?",
-    "¿Cómo afecta la UMA al cálculo de pagos provisionales de ISR?",
-    "¿Qué ingresos se consideran para la UFINPA?"
+    "¿Cómo se calcula el ISR para agricultores y ganaderos?",
+    "¿Qué es el ISR reducido para actividades silvícolas?",
+    "¿Cuáles son los ingresos propios de los pescadores que deben considerar?",
+    "¿Cómo se determina la utilidad fiscal de las asociaciones de productores?",
+    "¿Qué deducciones están permitidas para las sociedades agrícolas?",
+    "¿Qué pasa si mis ingresos exceden la UMA?"
   ]
 }

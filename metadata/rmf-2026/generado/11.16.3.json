@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52fc22eea250adb8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulos Fiscales PODECOBI",
+  "denominacion_comun": "Estímulos fiscales en Polos de Desarrollo",
   "temas": [
     "estímulos fiscales",
+    "Decreto PODECOBI",
+    "ISR",
     "declaraciones complementarias",
-    "revocación de autorización",
-    "Ley del ISR",
-    "monto deducido"
+    "requisitos",
+    "autorización",
+    "deducción",
+    "cumplimiento"
   ],
   "terminos_coloquiales": [
-    "PODECOBI",
-    "estimulos PODECOBI",
-    "decreto de estímulos fiscales",
-    "problemas con estímulos fiscales"
+    "estímulos fiscales",
+    "Decreto PODECOBI",
+    "ISR",
+    "declaraciones",
+    "requisitos",
+    "deducción"
   ],
-  "resumen": "Los contribuyentes que aplican estímulos fiscales y no cumplen con los requisitos deben pagar la diferencia de impuestos. Esto incluye la presentación de declaraciones complementarias dentro de un mes si se revoca la autorización o se incumplen los requisitos.",
+  "resumen": "Los contribuyentes que aplicaron estímulos fiscales deben regularizar su situación si no cumplen con los requisitos establecidos. Deben presentar declaraciones complementarias y pagar la diferencia en el impuesto correspondiente. Esto ocurre cuando se revoca la autorización para aplicar dichos estímulos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no cumplo con los requisitos del PODECOBI?",
-    "¿Cómo presento la declaración complementaria para los estímulos fiscales?",
-    "¿Qué diferencias de impuestos debo pagar si me revocan la autorización?",
-    "¿Cuáles son los requisitos para aplicar los estímulos fiscales PODECOBI?",
-    "¿Qué debo hacer si incumplo el decreto de estímulos fiscales?"
+    "¿Qué hago si incumplí con los requisitos de los estímulos fiscales?",
+    "¿Cómo presento una declaración complementaria por estímulos fiscales?",
+    "¿Qué pasa si me revocaron la autorización de los estímulos fiscales?",
+    "¿Cuál es la diferencia que debo pagar por deducciones indebidas?",
+    "¿Qué artículos debo considerar para los estímulos fiscales en PODECOBI?"
   ]
 }

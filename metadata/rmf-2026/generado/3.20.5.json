@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8727f3ccba651e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operación de Maquila",
   "temas": [
-    "Solicitud de autorización",
-    "Activos utilizados",
-    "Contribuyentes",
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero"
+    "impuesto sobre la renta",
+    "maquila",
+    "activos utilizados",
+    "contribuyentes",
+    "autorización"
   ],
   "terminos_coloquiales": [
-    "Maquila",
-    "Solicitud de autorización de maquila",
-    "Anexo 2",
-    "LISR 182"
+    "maquila",
+    "corte de impuestos",
+    "ficha de trámite",
+    "Solicitud de autorización"
   ],
-  "resumen": "Los contribuyentes deben solicitar una autorización para considerar los activos utilizados en la operación de maquila según lo establecido en la Ley del ISR. Esta solicitud se realiza mediante una ficha de trámite específica.",
+  "resumen": "La regla establece que los contribuyentes que necesitan autorización para tratar activos en la operación de maquila deben solicitarla según un trámite específico. Esto se aplica a la operación de maquila bajo la Ley del ISR.",
   "preguntas_ejemplo": [
     "¿Cómo solicito la autorización para la operación de maquila?",
-    "¿Qué activos puedo incluir en la operación de maquila?",
     "¿Qué es la ficha de trámite 59/ISR?",
-    "¿Cuál es el procedimiento para cumplir con el artículo 182 de la LISR?",
-    "¿Qué obligaciones tienen los contribuyentes en la maquila?",
-    "¿Cómo afecta la operación de maquila a los pagos provisionales?"
+    "¿Qué activos se pueden considerar en la operación de maquila?",
+    "¿Qué requisitos debo cumplir para la autorización en maquila?",
+    "¿Dónde encuentro la solicitud para la autorización de maquila?"
   ]
 }

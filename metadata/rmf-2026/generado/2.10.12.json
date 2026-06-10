@@ -6,34 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ecbe1b194e5fe875",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de Contador Público Inscrito",
+  "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
-    "valores de activos",
+    "valor del activo",
     "activos financieros",
-    "activos fijos",
+    "promedios mensuales",
     "inventarios",
-    "actualización de saldos",
-    "cálculo de promedios",
-    "cómputo de deducciones"
+    "gastos y cargos diferidos",
+    "deducción de inversiones"
   ],
   "terminos_coloquiales": [
-    "dictamen fiscal",
-    "contabilidad",
-    "auditoría",
-    "CFF",
-    "LISR",
-    "acciones",
-    "activos"
+    "dictamen de contador",
+    "valor de activos",
+    "promedios de activos",
+    "inventarios",
+    "gastos diferidos",
+    "deducciones",
+    "ISR"
   ],
-  "resumen": "La regla establece cómo calcular el valor de los activos para su dictamen contable, detallando la metodología para promediar activos financieros, fijos y de inventarios. También especifica los métodos de actualización y las consideraciones para cada tipo de activo.",
+  "resumen": "La regla establece cómo calcular el valor de los activos para el impuesto sobre la renta, incluyendo promedios mensuales de activos financieros, activos fijos y la valuación de inventarios. También se indican los procedimientos para actualizar los saldos y deducciones correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se dictaminan los estados financieros de mi empresa?",
-    "¿Qué métodos hay para valorar activos en auditorías?",
-    "¿Cómo se calculan los promedios de activos financieros?",
-    "¿Qué se considera un activo fijo para efectos fiscales?",
-    "¿Cuál es el procedimiento para actualizar los saldos de activos?",
-    "¿Qué pasa si cambio mi método de valuación de inventarios?"
+    "¿Cómo se determina el valor de los activos para el ISR?",
+    "¿Qué se considera como activos financieros?",
+    "¿Cómo se calculan los promedios de mis inventarios?",
+    "¿Es necesario actualizar los gastos diferidos para el cálculo del activo?",
+    "¿Cuáles son los métodos para valorar inventarios?"
   ]
 }

@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a92080998d47289d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Solicitud de datos en el RFC para CFDI de nómina",
   "temas": [
     "CFDI",
     "RFC",
-    "Nómina",
+    "nómina",
+    "pagos",
     "Ley del ISR",
-    "Autoridad fiscal"
+    "solicitud de datos"
   ],
   "terminos_coloquiales": [
-    "Solicitud de datos RFC",
+    "factura de nómina",
+    "datos del RFC de trabajadores",
     "CFDI de nómina",
-    "RFC de asalariados"
+    "solicitud al SAT"
   ],
-  "resumen": "Los obligados a emitir CFDI pueden solicitar información sobre la inscripción en el RFC de las personas a quienes realizan pagos, siempre que hayan hecho esos pagos en el último año. Esta solicitud se puede hacer una sola vez a través del Portal del SAT.",
+  "resumen": "Esta disposición permite a quienes emiten CFDI por pagos de nómina solicitar información sobre la inscripción en el RFC de los trabajadores a quienes realizaron pagos. Esta solicitud puede hacerse una única vez a través del Portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener los datos del RFC de mis empleados para los CFDI?",
-    "¿Qué necesito para solicitar información sobre asalariados en el RFC?",
-    "¿Puedo pedir datos de RFC para timbrar CFDI de nómina?",
-    "¿Dónde encuentro la solicitud de datos del RFC para mis CFDI?",
-    "¿Cuántas veces puedo solicitar la información del RFC de mis trabajadores?"
+    "¿Cómo solicito datos del RFC de mis empleados?",
+    "¿Qué necesito para hacer un CFDI de nómina?",
+    "¿Puedo pedir información del RFC de asalariados al SAT?",
+    "¿Cuántas veces puedo solicitar datos de trabajadores al SAT?",
+    "¿Qué artículos cubre la solicitud de datos del RFC?"
   ]
 }

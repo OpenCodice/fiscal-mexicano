@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:621fff31a2ef8f5b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Órganos Certificadores",
   "temas": [
     "revocación de autorización",
-    "procedimiento administrativo",
-    "documentación",
+    "procedimiento de revocación",
     "notificación",
-    "servicios autorizados"
+    "documentación digital",
+    "plazos",
+    "servicios de certificación"
   ],
   "terminos_coloquiales": [
-    "revocación de órgano certificador",
-    "autorización SAT",
-    "órganos certificadores",
-    "CFF 32-I"
+    "órgano certificador",
+    "revocación",
+    "SAT",
+    "oficio de revocación"
   ],
-  "resumen": "La regla establece el procedimiento para revocar la autorización de un órgano certificador cuando se detecta una causal para ello. Se deben seguir ciertos pasos, incluyendo la notificación, la presentación de documentación y el aviso a terceros autorizados.",
+  "resumen": "La regla establece el procedimiento que debe seguir un órgano certificador en caso de revocación de su autorización, incluyendo la notificación de la decisión y la obligación de presentar documentación para defender su postura. También se indican los plazos para notificaciones y acciones a seguir tras la revocación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si se revoca la autorización de un órgano certificador?",
-    "¿Cuáles son los pasos para un procedimiento de revocación?",
-    "¿Qué documentación necesita presentar un órgano certificador durante un procedimiento de revocación?",
-    "¿Qué plazo tengo para avisar a terceros si me revocaron la autorización?",
-    "¿Puedo volver a solicitar la autorización después de una revocación?"
+    "¿Qué pasa si me revocan la autorización como órgano certificador?",
+    "¿Cuáles son los plazos en el procedimiento de revocación?",
+    "¿Qué documentación debo presentar si tengo un procedimiento de revocación?",
+    "¿Qué ocurre después de que se revoca la autorización del órgano certificador?",
+    "¿Puedo volver a solicitar autorización después de una revocación y cuándo?"
   ]
 }

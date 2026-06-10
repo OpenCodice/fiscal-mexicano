@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd1b30d889c4fd78",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen similar para IVA",
+  "denominacion_comun": "Régimen similar para el IVA en comercio exterior",
   "temas": [
-    "Impuesto al valor agregado",
-    "Enajenación",
-    "Régimen fiscal",
-    "Comercio exterior"
+    "IVA",
+    "comercio exterior",
+    "enajenación",
+    "autos usados",
+    "camiones usados",
+    "programa de empresa"
   ],
   "terminos_coloquiales": [
-    "Régimen similar",
-    "IVA comercio exterior",
-    "Ley del IVA"
+    "IVA en comercio exterior",
+    "régimen similar",
+    "autos usados",
+    "camiones usados",
+    "programa de empresa de comercio exterior"
   ],
-  "resumen": "Este régimen se refiere a las operaciones realizadas por empresas autorizadas en comercio exterior, que se consideran similares según la legislación. Ayuda a calcular el IVA en la enajenación de autos y camiones usados.",
+  "resumen": "Este régimen se refiere a las operaciones de empresas que tienen un programa de comercio exterior autorizado, según lo establecido en la Ley del IVA. Afecta el cálculo del IVA en la venta de autos y camiones usados.",
   "preguntas_ejemplo": [
-    "¿Qué es el régimen similar para el IVA?",
-    "¿Cómo se aplica el IVA en la venta de autos usados?",
-    "¿Qué empresas pueden beneficiarse de este régimen?",
-    "¿Qué requisitos tienen las empresas de comercio exterior para calcular el IVA?",
-    "¿Cómo afecta este régimen a la enajenación de vehículos?"
+    "¿Qué es el régimen similar en el IVA?",
+    "¿Cómo afecta el IVA a la venta de autos usados?",
+    "¿Qué requisitos necesito para estar en el régimen de comercio exterior?",
+    "¿Quién autoriza el programa de empresa de comercio exterior?",
+    "¿Qué operaciones están gravadas por el IVA en comercio exterior?"
   ]
 }

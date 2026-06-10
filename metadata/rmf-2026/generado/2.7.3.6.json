@@ -6,31 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e70d49cbf1d0f9ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI por derechos reales, ejidales o comunales",
+  "denominacion_comun": "CFDI para derechos reales y bienes inmuebles",
   "temas": [
     "CFDI",
-    "bienes inmuebles",
     "derechos reales",
-    "ejidales",
-    "comunales",
+    "bienes inmuebles",
+    "comprobación fiscal",
+    "PCECFDI",
     "certificación de CFDI",
-    "solicitud de CFDI",
-    "comprobación de erogaciones"
+    "adquisiciones",
+    "personas físicas"
   ],
   "terminos_coloquiales": [
-    "factura digital",
-    "CFDI para ejidos",
-    "certificación de facturas",
-    "solicitud de factura CFDI"
+    "factura",
+    "CFDI",
+    "comprobante fiscal",
+    "derechos ejidales",
+    "bienes comunales",
+    "certificación de factura",
+    "gastar en bienes",
+    "comprar terrenos"
   ],
-  "resumen": "Esta disposición regula cómo los contribuyentes pueden comprobar erogaciones relacionadas con derechos reales, ejidales o comunales mediante CFDI. Se establecen los requisitos para la generación y certificación de estos comprobantes a través de proveedores autorizados.",
+  "resumen": "Los contribuyentes pueden comprobar gastos relacionados con derechos reales, ejidales o comunales mediante CFDI, siempre que cumplan con ciertos requisitos de emisión y conservación. También se detallan procesos para la certificación y entrega de CFDI a personas físicas involucradas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un CFDI para derechos ejidales?",
-    "¿Cuáles son los requisitos para certificar un CFDI relacionado con bienes comunales?",
-    "¿Qué debo hacer para comprobar mis erogaciones con un CFDI?",
-    "¿Puedo usar un proveedor para certificar mis facturas digitales de bienes inmuebles?",
-    "¿Qué es la solicitud de expedición de CFDI?"
+    "¿Cómo puedo comprobar gastos de derechos reales?",
+    "¿Qué requisitos necesito para emitir un CFDI por bienes inmuebles?",
+    "¿Qué es el PCECFDI y cómo funciona?",
+    "¿Cómo se obtiene la certificación del CFDI?",
+    "¿Qué información debe contener la solicitud de CFDI?",
+    "¿Puedo dejar de pedir la firma en el CFDI?"
   ]
 }

@@ -6,24 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:134977962906a08e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inscripción de Sociedades por Acciones Simplificadas",
   "temas": [
     "inscripción en el RFC",
-    "Sociedades por Acciones Simplificadas",
+    "sociedades por acciones simplificadas",
     "certificado de e.firma",
-    "fichas de trámite"
+    "trámites fiscales"
   ],
   "terminos_coloquiales": [
-    "SAS",
-    "inscripción en el RFC",
+    "sociedades simplificadas",
+    "RFC",
+    "e.firma",
     "certificado de firma electrónica"
   ],
-  "resumen": "Las Sociedades por Acciones Simplificadas pueden inscribirse en el RFC siguiendo ciertas fichas de trámite. Una vez inscritas, pueden obtener su certificado de e.firma.",
+  "resumen": "Las sociedades por acciones simplificadas pueden inscribirse en el RFC y obtener su certificado de e.firma, siguiendo ciertos trámites establecidos. Esto les permite operar de manera formal ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo me inscribo en el RFC como Sociedad por Acciones Simplificadas?",
-    "¿Qué requisitos necesito para obtener e.firma siendo una SAS?",
-    "¿Cuáles son las fichas de trámite para las Sociedades por Acciones Simplificadas?"
+    "¿Cómo se inscribe una sociedad por acciones simplificadas en el RFC?",
+    "¿Qué es la e.firma y cómo la obtengo para mi sociedad?",
+    "¿Cuáles son los trámites necesarios para registrarse como sociedad simplificada?",
+    "¿Qué documentos necesito para inscribir mi sociedad en el RFC?",
+    "¿Cuáles son los beneficios de ser una sociedad por acciones simplificadas?"
   ]
 }

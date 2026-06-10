@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62a5f0fbcba06caa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
     "reanudación de actividades",
-    "personas físicas",
+    "opción de tributación",
+    "avisos de reanudación",
+    "contribuyentes personas físicas",
     "personas morales",
-    "avisos",
+    "reglamento del CFF",
+    "actualización de actividades económicas",
     "requisitos",
-    "actualización de actividades",
-    "opciones fiscales"
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
     "RESICO",
     "regimen simplificado",
-    "régimen simplificado de confianza",
-    "avisos de reanudación",
-    "reanudación fiscal"
+    "reanudación de actividades",
+    "actualización de obligaciones",
+    "avisos fiscales"
   ],
-  "resumen": "El Régimen Simplificado de Confianza permite a contribuyentes que reanudan actividades optar por este régimen si cumplen ciertos requisitos y presentan los avisos correspondientes. También aplica a personas morales que antes tributaban bajo otros regímenes fiscales.",
+  "resumen": "Esta disposición permite a los contribuyentes personas físicas y morales reanudar sus actividades y optar por tributar en el Régimen Simplificado de Confianza, siempre que presenten el aviso correspondiente y cumplan con los requisitos establecidos. No podrán cambiar de régimen una vez elegida la opción en el mismo ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reanudar mis actividades en el Régimen Simplificado de Confianza?",
-    "¿Qué avisos necesito presentar si quiero tributar en el RESICO?",
-    "¿Cuáles son los requisitos para aplicar al Régimen Simplificado de Confianza?",
-    "¿Puedo cambiar de régimen después de elegir el Régimen Simplificado de Confianza?",
-    "¿Qué hacen las personas morales que quieren optan por el Régimen Simplificado de Confianza?"
+    "¿Cómo puedo reiniciar mis actividades en el Régimen Simplificado de Confianza?",
+    "¿Qué requisitos debo cumplir para tributación en el RESICO?",
+    "¿Dónde presento el aviso de reanudación de actividades?",
+    "¿Puedo cambiar de régimen una vez que elijo el Régimen Simplificado de Confianza?",
+    "¿Quiénes pueden optar por el Régimen Simplificado de Confianza?",
+    "¿Qué pasa si no presento el aviso de actualización de actividades?"
   ]
 }

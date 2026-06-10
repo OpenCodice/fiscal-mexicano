@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ff238e4a8f4495d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de autorización de monederos electrónicos para combustibles",
+  "denominacion_comun": "Monederos electrónicos de combustibles",
   "temas": [
-    "Monederos electrónicos",
-    "Revocación de autorización",
-    "Combustibles",
-    "Vehículos marítimos",
-    "Vehículos aéreos",
-    "Vehículos terrestres",
-    "Cumplimiento de requisitos",
-    "Fiscalización"
+    "revocación de autorización",
+    "emisores autorizados",
+    "combustibles",
+    "verificación de cumplimiento",
+    "obligaciones fiscales",
+    "monederos electrónicos"
   ],
   "terminos_coloquiales": [
-    "Revocación de monederos para combustibles",
-    "Monederos electrónicos",
-    "SAT",
-    "Autorización de monederos",
-    "Combustibles"
+    "monedero electrónico",
+    "carta de autorización",
+    "revocación de monedero",
+    "combustibles para vehículos",
+    "gasolina",
+    "vehículos marítimos",
+    "vehículos aéreos",
+    "vehículos terrestres"
   ],
-  "resumen": "La regla establece las causas por las cuales el SAT puede revocar la autorización para emitir monederos electrónicos utilizados en la adquisición de combustibles. Si se incumplen ciertos requisitos o se cometen delitos fiscales, se puede dar de baja dicha autorización.",
+  "resumen": "La disposición establece las causas por las cuales el SAT puede revocar la autorización para emitir monederos electrónicos para la compra de combustibles. Esto incluye incumplimientos con los requisitos establecidos, verificación de obligaciones y situaciones legales del emisor.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las causas para que el SAT revoque un monedero electrónico de combustibles?",
     "¿Qué pasa si me revocan la autorización de mi monedero electrónico?",
-    "¿El SAT puede cancelar mi monedero si no cumplo con los requisitos?",
-    "¿Qué debo hacer si mi autorización para emitir monederos electrónicos ha sido revocada?",
-    "¿Durante cuánto tiempo no puedo solicitar una nueva autorización después de que me la revocan?"
+    "¿Cuáles son las causas de revocación de monederos electrónicos para combustibles?",
+    "¿Puedo volver a obtener un monedero electrónico después de una revocación?",
+    "¿Qué requisitos debo cumplir para mantener mi autorización de monedero electrónico?",
+    "¿Cómo afecta la revocación de mi monedero al saldo que tengo?"
   ]
 }

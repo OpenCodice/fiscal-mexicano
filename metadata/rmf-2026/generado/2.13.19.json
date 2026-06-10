@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f7575ebcba7750d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Interventor con cargo a la caja",
   "temas": [
-    "Requisitos para ser interventor",
-    "Inscripción en el RFC",
+    "requisitos del interventor",
+    "inscripción en el RFC",
     "e.firma",
-    "Buzón tributario",
-    "Certificado CFDI",
-    "Opinión de cumplimiento",
-    "Título profesional",
-    "Experiencia laboral",
-    "Conocimientos de Office",
-    "Situación legal"
+    "buzón tributario",
+    "CFDI",
+    "opinión de cumplimiento",
+    "título profesional",
+    "experiencia laboral",
+    "conocimientos financieros"
   ],
   "terminos_coloquiales": [
-    "Interventor",
-    "Interventor fiscal",
-    "CFF 164"
+    "interventor",
+    "caja",
+    "comprobante fiscal",
+    "CFDI",
+    "buzón tributario",
+    "e.firma",
+    "títulos profesionales"
   ],
-  "resumen": "La disposición establece los requisitos que debe cumplir un interventor designado por las autoridades fiscales, incluyendo la inscripción en el RFC, tener e.firma, y una opinión de cumplimiento positiva, entre otros. También detalla las condiciones relacionadas con la experiencia y el estado legal del candidato.",
+  "resumen": "Se establecen los requisitos que debe cumplir un interventor con cargo a la caja, designado por las autoridades fiscales. Esto incluye estar inscrito en el RFC, tener e.firma vigente y experiencia laboral en áreas relacionadas.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para ser interventor fiscal?",
-    "¿Cuáles son los requisitos para un interventor con cargo a la caja?",
-    "¿Cómo puedo saber si cumplo con los requisitos para ser interventor?",
-    "¿Qué es una opinión de cumplimiento en el contexto de un interventor?",
-    "¿Un ex funcionario público puede ser interventor?"
+    "¿Cuáles son los requisitos para ser interventor en la administración de una caja?",
+    "¿Qué necesito para tener e.firma activa?",
+    "¿Es obligatorio tener un título universitario para ser interventor?",
+    "¿Qué significa tener una opinión de cumplimiento fiscal positiva?",
+    "¿Cuánto tiempo de experiencia se requiere para ser interventor?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b4722146c68438e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "PODEBI",
+  "denominacion_comun": "Régimen de Actividades Empresariales PODEBI",
   "temas": [
-    "ISR",
-    "estímulos fiscales",
     "pagos provisionales",
-    "declaración",
+    "ISR",
     "personas físicas",
-    "actividad empresarial"
+    "estímulos fiscales",
+    "declaración",
+    "actividades empresariales",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "PODEBI",
-    "declaración ISR PODEBI",
-    "declaración de impuestos para empresarios"
+    "pagos de impuestos",
+    "declaración de ISR",
+    "régimen de actividades económicas",
+    "PODEBI"
   ],
-  "resumen": "El PODEBI es un régimen que permite a las personas físicas con actividades empresariales aplicar estímulos fiscales en sus pagos provisionales mensuales del ISR. Deben presentar la declaración correspondiente a más tardar el día 17 del mes siguiente al que corresponde el pago.",
+  "resumen": "Esta disposición establece que las personas físicas en el régimen de actividades empresariales deben presentar su declaración de ISR para aplicar estímulos fiscales. El pago debe hacerse a más tardar el día 17 del mes siguiente al que corresponda el pago.",
   "preguntas_ejemplo": [
-    "¿Qué es el PODEBI?",
-    "¿Cómo hago mi declaración ISR PODEBI?",
-    "¿Cuáles son los plazos para presentar el pago del ISR en el PODEBI?",
-    "¿Qué estímulos fiscales puedo aplicar en el régimen PODEBI?",
-    "¿Quiénes pueden utilizar la declaración ISR PODEBI?",
-    "¿Qué debo hacer si no presenté mi declaración PODEBI a tiempo?"
+    "¿Cuándo debo presentar mi declaración de ISR si soy persona física?",
+    "¿Qué es PODEBI en el contexto del ISR?",
+    "¿Qué estímulos fiscales puedo aplicar en mis pagos provisionales?",
+    "¿Cómo se presentan los pagos provisionales del ISR?",
+    "¿Qué requisitos debo cumplir para tributar bajo el régimen de actividades empresariales?"
   ]
 }

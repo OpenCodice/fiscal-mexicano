@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19ff3f64b4411dae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Labores de rescate y reconstrucción",
+  "denominacion_comun": "Donativos para labor de rescate en desastres",
   "temas": [
     "donativos",
+    "desastres naturales",
     "organizaciones civiles",
     "fideicomisos",
-    "desastres naturales",
-    "CFDI",
-    "informe de donativos",
-    "requisitos fiscales"
+    "informe SAT",
+    "CFDI de egresos",
+    "requisitos"
   ],
   "terminos_coloquiales": [
-    "donativos para desastres",
-    "informes de donativos",
+    "donativos",
+    "organizaciones sin fines de lucro",
+    "informe de donativos",
+    "labor de rescate",
     "LIF",
-    "Ley del ISR"
+    "CFDI"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que reciben donativos para labores de rescate o reconstrucción tras desastres naturales deben presentar un informe al SAT con detalles sobre dichos donativos. Este informe debe incluir el folio del CFDI de egresos emitido y confirmar el cumplimiento de requisitos establecidos.",
+  "resumen": "Las organizaciones civiles y fideicomisos autorizados para recibir donativos deben informar al SAT sobre los donativos otorgados a otras organizaciones sin autorización, específicamente para labores de rescate y reconstrucción tras desastres naturales. Deben incluir el folio del CFDI de egresos emitido y confirmar el cumplimiento de requisitos establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para donar a organizaciones de rescate?",
-    "¿Cómo reporto donativos a organizaciones no autorizadas?",
-    "¿Qué es el CFDI de egresos en el contexto de donativos?",
-    "¿Qué organizaciones pueden recibir donativos para desastres naturales?",
-    "¿Cómo se presenta el informe de donativos al SAT?",
-    "¿Cuál es el proceso para las labores de reconstrucción después de un desastre?"
+    "¿Qué requisitos debo cumplir para donar a organizaciones que ayudan en desastres naturales?",
+    "¿Cómo presento el informe de donativos al SAT?",
+    "¿Qué es un CFDI de egresos en este contexto?",
+    "¿Quién puede recibir donativos para labores de rescate?",
+    "¿Qué organizaciones están autorizadas para recibir donativos?",
+    "¿Cómo se utilizan los donativos en casos de desastres naturales?"
   ]
 }

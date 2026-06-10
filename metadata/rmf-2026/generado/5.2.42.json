@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d65b1bbeb343dde6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Marbetes Electrónicos para Bebidas Alcohólicas",
   "temas": [
     "marbetes",
     "bebidas alcohólicas",
-    "folios autorizados",
-    "trámites SAT"
+    "impuestos especiales",
+    "trámites ante el SAT",
+    "folios",
+    "medidas de seguridad"
   ],
   "terminos_coloquiales": [
+    "marbetes",
     "marbetes electrónicos",
     "marbetes físicos",
-    "IEPS",
-    "fichas de trámite"
+    "bebidas",
+    "folio de marbete",
+    "SAT"
   ],
-  "resumen": "Los contribuyentes de bebidas alcohólicas pueden solicitar folios para imprimir marbetes electrónicos o físicos, cumpliendo con ciertas condiciones. Para productos autorizados con marbete electrónico, no se puede solicitar marbete físico.",
+  "resumen": "Los contribuyentes que venden bebidas alcohólicas deben adherir marbetes a sus envases y pueden solicitar folios para la impresión de marbetes electrónicos. Una vez que se adhiera un marbete electrónico a un producto, no se puede solicitar marbete físico para ese mismo producto.",
   "preguntas_ejemplo": [
-    "¿Cómo obtengo folios para marbetes electrónicos?",
-    "¿Qué trámites necesito para marbetes de bebidas alcohólicas?",
-    "¿Puedo usar marbetes físicos y electrónicos para el mismo producto?",
-    "¿Cuáles son las medidas de seguridad para marbetes electrónicos?",
-    "¿Qué hacer después de los seis meses de autorización de marbetes?"
+    "¿Cómo puedo obtener marbetes electrónicos para mis bebidas alcohólicas?",
+    "¿Qué trámites necesito hacer para imprimir marbetes para mis productos?",
+    "¿Puedo usar marbetes físicos y electrónicos al mismo tiempo?",
+    "¿Qué debo hacer si se me acaba el plazo para utilizar marbetes?",
+    "¿Qué medidas de seguridad debo considerar para los marbetes electrónicos?"
   ]
 }

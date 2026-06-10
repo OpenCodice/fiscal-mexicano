@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4e7a269597d8cb55",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información RFC usuarios",
+  "denominacion_comun": "Información clave RFC usuarios",
   "temas": [
-    "obligaciones fiscales",
-    "RFC",
+    "obligaciones de información",
+    "clave RFC",
     "CURP",
     "prestadores de servicios",
     "contabilidad electrónica"
   ],
   "terminos_coloquiales": [
     "clave RFC",
-    "información RFC",
     "CURP",
     "prestadores de servicios telefónicos",
-    "energía eléctrica",
-    "casas de bolsa"
+    "casas de bolsa",
+    "servicio de electricidad"
   ],
-  "resumen": "Esta disposición establece que ciertos prestadores de servicios deben proporcionar información relacionada con la clave del RFC de sus usuarios. Si los usuarios son personas físicas, pueden optar por presentar su CURP en lugar del RFC.",
+  "resumen": "Esta regla establece que ciertos prestadores de servicios deben proporcionar información relacionada con la clave en el RFC de sus usuarios. Si los usuarios son personas físicas, pueden optar por presentar su CURP en vez de la clave RFC.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben proporcionar información del RFC de sus usuarios?",
-    "¿Puedo usar mi CURP en lugar del RFC?",
-    "¿Qué servicios están obligados a entregar esta información?",
-    "¿Qué dice el artículo 30-A del CFF sobre la información de usuarios?",
-    "¿Cómo debo presentar la información relacionada con la clave del RFC?",
-    "¿Qué es la ficha de trámite 81/CFF?"
+    "¿Quiénes deben dar información sobre la clave RFC?",
+    "¿Puedo usar mi CURP en lugar de la clave RFC?",
+    "¿Qué obligación tienen las casas de bolsa respecto a la clave RFC?",
+    "¿Qué servicios están obligados a reportar información del RFC?",
+    "¿Qué información debo proporcionar si soy un prestador de servicios?"
   ]
 }

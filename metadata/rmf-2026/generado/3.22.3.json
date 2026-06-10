@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b7aa9a75e2f1d94",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización de aportaciones e intereses de planes personales de retiro",
+  "denominacion_comun": "Actualización de aportaciones e intereses de planes de retiro",
   "temas": [
-    "Aportaciones",
-    "Intereses reales",
-    "Planes personales de retiro",
-    "Deducción fiscal"
+    "actualización de aportaciones",
+    "intereses reales",
+    "planes personales de retiro",
+    "deducción de aportaciones",
+    "ingresos provenientes del plan"
   ],
   "terminos_coloquiales": [
-    "actualización de aportaciones",
-    "intereses de retiro",
-    "planes de retiro",
+    "plan personal de retiro",
+    "actualización de intereses",
+    "aportaciones de retiro",
+    "intereses devengados",
     "ISR",
     "LISR"
   ],
-  "resumen": "Se actualizan las aportaciones y los intereses reales de los planes personales de retiro para determinar correctamente los ingresos. Se pueden considerar los intereses reales devengados o percibidos de manera actualizada.",
+  "resumen": "La regla establece cómo se deben actualizar las aportaciones y los intereses reales de un plan personal de retiro. Se especifica que esto se hará desde el mes de diciembre del ejercicio en el que se hicieron las aportaciones hasta el mes anterior a la percepción del ingreso correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan mis aportaciones a un plan personal de retiro?",
-    "¿Qué son los intereses reales en planes de retiro?",
-    "¿Puedo deducir las aportaciones de mi plan personal de retiro?",
-    "¿Cómo se consideran los intereses de mi plan de retiro para el ISR?",
-    "¿Qué reglas aplican para la actualización de intereses en mi plan de retiro?"
+    "¿Cómo se actualizan mis aportaciones al plan personal de retiro?",
+    "¿Qué son los intereses reales en mi plan de retiro?",
+    "¿Puedo deducir mis aportaciones al plan personal de retiro?",
+    "¿Cómo se consideran los intereses devengados de mi plan de retiro para el ISR?",
+    "¿Desde cuándo se actualizan las aportaciones y los intereses de mi plan de retiro?"
   ]
 }

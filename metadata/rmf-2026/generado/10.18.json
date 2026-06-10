@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aad2cfe25e3e93a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Extracción y Exploración de Hidrocarburos",
+  "denominacion_comun": "Extracción de hidrocarburos",
   "temas": [
-    "Impuesto sobre hidrocarburos",
-    "Área contractual",
-    "Área de asignación",
-    "Cuota del impuesto"
+    "pago de impuestos",
+    "área contractual",
+    "área de asignación",
+    "actividades de exploración",
+    "actividades de extracción",
+    "cuota de impuesto"
   ],
   "terminos_coloquiales": [
-    "Impuesto sobre extracción",
+    "extracción de petróleo",
+    "impuesto sobre extracción",
     "IAEEH",
-    "Hidrocarburos"
+    "cálculo de impuestos"
   ],
-  "resumen": "La regla establece cómo se debe calcular el impuesto por la extracción de hidrocarburos en áreas contractuales o de asignación cuando se realizan actividades de exploración y extracción en el mismo mes. Se aplica la cuota determinada en la ley correspondiente.",
+  "resumen": "La disposición regula el cálculo del impuesto a pagar por la extracción de hidrocarburos cuando se realizan actividades de exploración y extracción en un mismo mes dentro de un área contractual o de asignación. Se establece que se aplicará una cuota específica para determinar el monto del impuesto.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por extracción en un mes con exploración y extracción?",
+    "¿Cómo se calcula el impuesto por extracción de hidrocarburos?",
+    "¿Qué sucede si realizo actividades de exploración y extracción en el mismo mes?",
     "¿Qué es el IAEEH y cómo se aplica?",
-    "¿Qué condiciones se requieren para el pago del impuesto en áreas contractuales?",
-    "¿Dónde encuentro la cuota del impuesto sobre hidrocarburos?",
-    "¿Qué actividades se consideran en el cálculo del impuesto en el mismo mes?"
+    "¿Cuáles son las cuotas establecidas para el impuesto sobre extracción?",
+    "¿Qué áreas se consideran para el cálculo del impuesto?"
   ]
 }

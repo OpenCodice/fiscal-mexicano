@@ -6,13 +6,15 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4422201b6e54215",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos para hospedaje",
   "temas": [
     "fideicomisos",
     "hospedaje",
-    "ingresos por arrendamiento",
+    "ingresos",
+    "arrendamiento",
     "certificados bursátiles",
     "distribución de ingresos",
     "obligaciones fiscales"
@@ -20,16 +22,18 @@
   "terminos_coloquiales": [
     "fideicomisos de hospedaje",
     "certificados de participación",
-    "arrendamiento de inmuebles",
-    "LISR",
-    "fideicomisos ISR"
+    "ingresos de hospedaje",
+    "fideicomisos",
+    "hospedaje",
+    "ISRT",
+    "fideicomisos de arrendamiento"
   ],
-  "resumen": "La regla establece que los fideicomisos dedicados al hospedaje deben cumplir ciertos requisitos para que los ingresos por arrendamiento sean considerados. Si los fiduciarios perciben ingresos por servicios adicionales, se perderá este tratamiento fiscal favorable.",
+  "resumen": "Se establecen condiciones para que los fideicomisos dedicados al hospedaje se consideren como tales para efectos fiscales. La fiduciaria debe percibir ingresos solo por hospedaje y distribuir un porcentaje de las ganancias a los beneficiarios.",
   "preguntas_ejemplo": [
     "¿Qué requisitos deben cumplir los fideicomisos de hospedaje?",
-    "¿Cómo se consideran los ingresos de un fideicomiso para efectos fiscales?",
-    "¿Qué pasa si la fiduciaria recibe ingresos por servicios adicionales?",
-    "¿Cuánto debe distribuir el fideicomiso en el ejercicio fiscal?",
-    "¿Qué son los certificados bursátiles fiduciarios en el contexto del hospedaje?"
+    "¿Cuáles son los ingresos permitidos para los fideicomisos dedicados al hospedaje?",
+    "¿Qué sucede si la fiduciaria recibe ingresos por servicios adicionales en un fideicomiso de hospedaje?",
+    "¿Qué porcentaje de ingresos debe distribuir un fideicomiso de hospedaje?",
+    "¿Cómo se consideran los fideicomisos para efectos del impuesto sobre la renta?"
   ]
 }

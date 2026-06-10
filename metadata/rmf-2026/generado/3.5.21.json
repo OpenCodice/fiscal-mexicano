@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3d1052bc9360868",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información sobre depósitos en efectivo",
+  "denominacion_comun": "Información de depósitos en efectivo",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Instituciones de crédito",
-    "Declaración informativa",
-    "Depósitos en efectivo",
-    "Cheques de caja"
+    "declaración informativa",
+    "depósitos en efectivo",
+    "instituciones financieras",
+    "cheques de caja"
   ],
   "terminos_coloquiales": [
     "declaración de depósitos",
-    "información de depósitos",
-    "ISR",
-    "cheques de caja"
+    "depósitos en efectivo",
+    "cheques",
+    "e.firma"
   ],
-  "resumen": "Se debe presentar una declaración informativa sobre los depósitos en efectivo a más tardar el último día del mes siguiente al que correspondan. La información incluye la adquisición de cheques de caja, independientemente del monto.",
+  "resumen": "Esta regla establece que la información sobre depósitos en efectivo debe ser presentada a través de una declaración informativa al SAT, usando la e.firma correspondiente. Esto incluye la obligación de informar sobre la adquisición de cheques de caja sin importar su monto.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración informativa de depósitos en efectivo?",
-    "¿Cuándo debo presentar la información sobre depósitos en efectivo?",
-    "¿Qué información se requiere para cheques de caja?",
-    "¿Cómo se presenta la declaración al SAT?",
-    "¿Qué pasa si no presento la declaración de depósitos?"
+    "¿Cómo presento la información de depósitos en efectivo al SAT?",
+    "¿Qué incluye la declaración informativa de depósitos?",
+    "¿Qué es la e.firma y cómo la utilizo?",
+    "¿Debo informar sobre cheques de caja?",
+    "¿Cuál es el plazo para presentar esta información?"
   ]
 }

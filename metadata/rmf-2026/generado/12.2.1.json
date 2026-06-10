@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:92ef89be5ae7b474",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intermediación en servicios digitales",
   "temas": [
+    "retenedores",
+    "RFC",
     "servicios digitales",
     "intermediación",
-    "retenedores",
-    "inscripción en el RFC",
     "ISR",
     "IVA",
     "IEPS"
   ],
   "terminos_coloquiales": [
-    "intermediarios digitales",
-    "servicios de intermediación",
-    "retenedores fiscales",
-    "inscripción de servicios digitales",
-    "RFC para extranjeros"
+    "intermediación de servicios digitales",
+    "retenedores del ISR",
+    "retenedores del IVA",
+    "retenedores del IEPS",
+    "inscripción en el RFC",
+    "servicios digitales"
   ],
-  "resumen": "Los que presten servicios digitales de intermediación entre terceros deben inscribirse en el RFC como retenedores. Esto aplica a las disposiciones fiscales correspondientes.",
+  "resumen": "Los prestadores de servicios digitales que actúen como intermediarios entre terceros deben inscribirse en el RFC como retenedores. Esto es necesario para cumplir con sus obligaciones fiscales en relación con el ISR, IVA e IEPS.",
   "preguntas_ejemplo": [
-    "¿Quiénes son considerados retenedores en servicios digitales?",
     "¿Cómo me inscribo en el RFC si ofrezco servicios digitales?",
-    "¿Qué obligaciones tengo como intermediario digital?",
-    "¿Qué leyes regulan los servicios digitales de intermediación?",
-    "¿Necesito registrarme si hago intermediación entre terceros?"
+    "¿Quiénes son considerados retenedores del ISR, IVA e IEPS?",
+    "¿Cuáles son mis obligaciones fiscales si soy un intermediario digital?",
+    "¿Qué necesito para solicitar mi inscripción en el RFC?",
+    "¿Qué artículos de la ley regulan la intermediación en servicios digitales?"
   ]
 }

@@ -6,25 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0aaa201dfc80b4b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de CFDI",
   "temas": [
     "CFDI",
-    "Cancelación de comprobantes",
-    "Personas físicas",
-    "Pedidos al PCECFDI"
+    "cancelación de CFDI",
+    "escrito firmado",
+    "PCECFDI",
+    "folio CFDI",
+    "causa de cancelación",
+    "personas físicas"
   ],
   "terminos_coloquiales": [
-    "Cancelar CFDI",
-    "CFDI Cancelado",
+    "factura",
+    "CFDI",
+    "cancelar factura",
     "PCECFDI"
   ],
-  "resumen": "Los contribuyentes que emitan CFDI pueden solicitar su cancelación mediante un escrito firmado. Deben incluir el número de folio del CFDI y la causa de la cancelación.",
+  "resumen": "Las personas físicas que emiten CFDI pueden solicitar la cancelación de estos comprobantes a través de un escrito firmado en el que se indique el folio y la causa para la cancelación, dirigido al PCECFDI.",
   "preguntas_ejemplo": [
     "¿Cómo puedo cancelar un CFDI?",
-    "¿Qué necesito para cancelar un comprobante fiscal?",
-    "¿A dónde envían el escrito para cancelar un CFDI?",
-    "¿Cuáles son las causas para la cancelación de un CFDI?"
+    "¿Qué requisitos necesito para cancelar una factura?",
+    "¿A quién debo dirigir la solicitud de cancelación de mi CFDI?",
+    "¿Qué información debo incluir en mi escrito para cancelar un CFDI?",
+    "¿Puedo cancelar un CFDI si soy una persona física?",
+    "¿Qué causas de cancelación se aceptan para un CFDI?"
   ]
 }

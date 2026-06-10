@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2ddb7acd7d15ccb1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de contador público",
   "temas": [
-    "dictámenes fiscales",
+    "dictamen fiscal",
     "contadores públicos",
-    "requisitos de inscripción",
+    "obligaciones fiscales",
+    "certificación de contador",
+    "registros",
     "estados financieros",
     "enajenación de acciones"
   ],
   "terminos_coloquiales": [
     "dictamen fiscal",
-    "CFF",
     "dictamen de contador",
-    "certificación de contadores"
+    "certificado de contador",
+    "cumplimiento fiscal"
   ],
-  "resumen": "Los contadores públicos deben cumplir con ciertos requisitos para presentar dictámenes que afecten obligaciones fiscales, incluyendo inscripción y certificaciones. Esto aplica para dictámenes sobre estados financieros y enajenación de acciones.",
+  "resumen": "Esta disposición establece los requisitos que deben cumplir los contadores públicos para presentar dictámenes relacionados con estados financieros y enajenación de acciones, asegurando que estén actualizados en sus obligaciones fiscales y cuenten con las certificaciones necesarias.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesita un contador para emitir un dictamen fiscal?",
-    "¿Cómo debe un contador presentar un dictamen de estados financieros?",
-    "¿Qué es un dictamen de contador público inscrito?",
-    "¿Qué implica estar al corriente en obligaciones fiscales para un dictamen?",
-    "¿Qué procedimiento sigue un contador para renovar su inscripción?"
+    "¿Qué requisitos debe cumplir un contador para presentar un dictamen fiscal?",
+    "¿Cómo se obtiene la certificación de un contador público?",
+    "¿Es necesario estar al corriente en obligaciones fiscales para que un contador pueda emitir un dictamen?",
+    "¿Qué es un dictamen de contador público en materia fiscal?",
+    "¿Qué implicaciones fiscales tiene un dictamen de estados financieros?"
   ]
 }

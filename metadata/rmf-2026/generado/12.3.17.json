@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:afd07ec24208e32e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución de ISR por descuentos y cancelaciones",
@@ -13,20 +14,28 @@
     "devolución de ISR",
     "descuentos",
     "cancelaciones",
-    "CFDI de egresos",
-    "plataformas tecnológicas"
+    "CFDI de Egresos",
+    "retenciones",
+    "plataformas tecnológicas",
+    "bonificaciones",
+    "enajenación de bienes"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
+    "descuentos en ventas",
+    "cancelar operaciones",
+    "CFDI cancelado",
     "ISR retenido",
-    "CFDI cancelado"
+    "plataformas digitales",
+    "bonos",
+    "bonificaciones"
   ],
-  "resumen": "La disposición establece que las personas físicas que enajenen bienes a través de plataformas deben emitir un CFDI de Egresos para solicitar la devolución del ISR retenido en caso de cancelación de operaciones o otorgamiento de descuentos. También deben presentar la solicitud a través del FED junto con la documentación pertinente.",
+  "resumen": "Los contribuyentes que realicen descuentos, devoluciones o cancelaciones en operaciones a través de plataformas tecnológicas pueden solicitar la devolución del ISR que les fue retenido. Deben emitir un CFDI de Egresos o cancelar el CFDI correspondiente y presentar la solicitud conforme a las reglas establecidas.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución del ISR si cancelé una venta?",
-    "¿Qué CFDI debo emitir para descuentos y bonificaciones?",
-    "¿Puedo recuperar el ISR que me retuvieron si cancelé la operación?",
-    "¿Qué documentos necesito para solicitar la devolución del ISR?",
-    "¿Cómo funciona la devolución de impuestos por cancelaciones de ventas?"
+    "¿Cómo puedo recuperar el ISR que me retuvieron por descuentos?",
+    "¿Qué debo hacer si cancelo una venta en línea?",
+    "¿Necesito emitir un CFDI de Egresos para devolver impuestos?",
+    "¿Cuáles son los pasos para solicitar la devolución del ISR en plataformas digitales?",
+    "¿Qué incluye la devolución del ISR en caso de bonificaciones?"
   ]
 }

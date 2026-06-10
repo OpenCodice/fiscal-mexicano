@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03c72712195e32a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas reportables",
+  "denominacion_comun": "Esquemas Reportables",
   "temas": [
     "esquemas fiscales",
-    "asesoría fiscal",
-    "beneficios fiscales",
-    "reportabilidad",
-    "impedimentos legales",
-    "constancia de esquema no reportable"
+    "reportes fiscales",
+    "asesores fiscales",
+    "constancia de esquema no reportable",
+    "impedimentos legales"
   ],
   "terminos_coloquiales": [
-    "esquemas fiscales",
-    "esquemas reportables",
-    "constancia de esquema no reportable",
-    "CFF 197",
-    "CFF 199"
+    "informar sobre esquemas fiscales",
+    "esquemas no reportables",
+    "constancia de no reportar",
+    "beneficios fiscales"
   ],
-  "resumen": "Los asesores fiscales que consideren que un esquema que genera beneficios fiscales no es reportable deben expedir una constancia que lo acredite. Esto es debido a que el esquema no cumple con las características de reportabilidad o hay un impedimento legal para su revelación.",
+  "resumen": "La disposición establece que los asesores fiscales deben expedir una constancia si consideran que un esquema no es reportable o que hay impedimentos legales para su revelación. Esto se debe a que el esquema en cuestión no cumple con las características necesarias según la ley.",
   "preguntas_ejemplo": [
     "¿Qué es un esquema reportable?",
-    "¿Cómo puedo saber si un esquema es reportable o no?",
-    "¿Qué debo hacer si considero que un esquema no es reportable?",
-    "¿Qué información contiene la constancia de esquema no reportable?",
-    "¿Cuáles son las características que determinan la reportabilidad de un esquema?",
-    "¿Qué implica un impedimento legal para revelar un esquema reportable?"
+    "¿Cómo saber si un esquema es reportable o no?",
+    "¿Qué hacer si creo que un esquema no es reportable?",
+    "¿Qué es la constancia de esquema no reportable?",
+    "¿Qué criterios se utilizan para determinar un esquema reportable?"
   ]
 }

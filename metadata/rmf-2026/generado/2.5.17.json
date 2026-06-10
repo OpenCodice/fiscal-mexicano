@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c33f622e6aa2e014",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso para ejercer opción ISR",
+  "denominacion_comun": "Aviso para ejercer opción del artículo 74-B",
   "temas": [
-    "Artículo 74-B",
-    "Régimen fiscal",
-    "Contribuyentes",
-    "Caso de aclaración",
-    "Ingreso al RFC",
-    "Nueva creación",
-    "Reanudación de actividades"
+    "personas morales",
+    "opción fiscal",
+    "caso de aclaración",
+    "RFC",
+    "contribuyentes",
+    "Ley del ISR",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "Aviso ISR",
-    "Opción ISR",
-    "Caso de aclaración",
-    "LISR 74-B"
+    "opción del ISR",
+    "avisos del RFC",
+    "caso de aclaración",
+    "nueva empresa"
   ],
-  "resumen": "Se establece que las personas morales que deseen aplicar la opción del artículo 74-B de la Ley del ISR deben ingresar un caso de aclaración en el Portal del SAT. Los contribuyentes nuevos o que reanuden actividades tienen plazos específicos para presentar este aviso.",
+  "resumen": "Este artículo establece que las personas morales que opten por aplicar una opción fiscal deben ingresar un caso de aclaración a través del Portal del SAT. Los contribuyentes de nueva creación o que reanuden actividades también deben hacerlo dentro de un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué es el aviso para ejercer la opción del artículo 74-B del ISR?",
-    "¿Cómo presento el caso de aclaración para el régimen del artículo 74-B?",
-    "¿Cuáles son los plazos para el aviso del artículo 74-B?",
-    "¿Qué deben hacer las personas morales que reanudan actividades según el ISR?",
-    "¿Qué es la ficha de trámite 85/ISR?"
+    "¿Cómo presento el aviso para la opción del artículo 74-B?",
+    "¿Qué debo hacer si soy una nueva empresa y quiero aplicar la opción del ISR?",
+    "¿Hasta cuándo tengo para presentar mi caso de aclaración en el SAT?",
+    "¿Qué es la ficha de trámite 85/ISR?",
+    "¿Quiénes son los contribuyentes que pueden ejercer el artículo 74-B?",
+    "¿Qué significa estar relevado de presentar el aviso de aumento o disminución?"
   ]
 }

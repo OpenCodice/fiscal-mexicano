@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07cbb7dca61b3007",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de operaciones digitales",
+  "denominacion_comun": "Cancelación de operaciones con plataformas digitales",
   "temas": [
     "IVA",
     "devoluciones",
     "descuentos",
     "CFDI de Egresos",
     "plataformas tecnológicas",
-    "enajenación de bienes",
-    "prestación de servicios"
+    "servicios digitales"
   ],
   "terminos_coloquiales": [
     "cancelación de operaciones",
     "devoluciones de IVA",
     "descuentos en servicios",
-    "CFDI",
-    "IVA en plataformas digitales"
+    "plataformas digitales",
+    "CFDI"
   ],
-  "resumen": "Esta regla establece que las personas físicas o morales que realicen enajenaciones o presten servicios a través de plataformas tecnológicas pueden cancelar o reducir el monto de las operaciones y el IVA correspondiente, siempre que emitan un CFDI de Egresos y cumplan con ciertos requisitos. Las disminuciones se deben registrar adecuadamente en papeles de trabajo.",
+  "resumen": "Esta regla establece cómo las personas físicas o morales pueden cancelar operaciones y restar IVA cuando realicen devoluciones o descuentos a través de plataformas digitales. Se requiere emitir un CFDI de Egresos que detalle las contraprestaciones y el IVA.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar una venta realizada en línea?",
-    "¿Qué debo hacer si tengo una devolución de un servicio digital?",
-    "¿Qué requisitos tiene un CFDI de Egresos para devoluciones?",
-    "¿Cómo afecta el descuento en el IVA de una operación digital?",
-    "¿Puedo restar el IVA de una contraprestación en mi declaración?",
-    "¿Cuándo se puede realizar la cancelación de un CFDI?"
+    "¿Cómo se cancela una venta realizada en línea?",
+    "¿Qué debo hacer si tengo que devolver un producto vendido por un servicio digital?",
+    "¿Cómo se manejan los descuentos en plataformas digitales?",
+    "¿Qué es un CFDI de Egresos y cuándo debo emitirlo?",
+    "¿Cómo se calcula el IVA en devoluciones de plataformas digitales?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb79c234d6c3d98e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Esquemas Reportables",
   "temas": [
     "declaraciones informativas",
-    "documentación fiscal",
-    "intercambio de información",
-    "esquemas personalizados",
-    "esquemas generalizados",
-    "prevención de evasión fiscal"
+    "esquemas reportables generalizados",
+    "esquemas reportables personalizados",
+    "intercambio de información fiscal",
+    "documentación requerida",
+    "autoridades fiscales",
+    "antecedentes y conclusiones",
+    "beneficios fiscales"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
+    "esquemas reportables",
     "esquemas fiscales",
-    "documentos pdf",
+    "información fiscal",
+    "reportar esquemas",
     "CFF",
-    "RMF"
+    "regla 2.19.4"
   ],
-  "resumen": "Esta regla establece que los asesores fiscales y contribuyentes deben presentar un documento en formato .pdf que contenga información detallada sobre los esquemas reportables, ya sean generalizados o personalizados. Esto incluye diagramas, antecedentes y detalles sobre las operaciones involucradas, así como información sobre el intercambio de información fiscal con autoridades extranjeras.",
+  "resumen": "La disposición establece que los asesores fiscales y contribuyentes deben adjuntar documentos que describan los esquemas reportables, tanto generalizados como personalizados. Esto incluye información sobre las operaciones involucradas y la documentación necesaria para evitar el intercambio de información fiscal con autoridades extranjeras.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un esquema reportable?",
-    "¿Cómo se documentan los esquemas personalizados según la RMF?",
-    "¿Cuál es el objetivo de reportar esquemas fiscales?",
-    "¿Qué operaciones se consideran esquemas reportables?",
-    "¿Cómo evitar que me multen por no reportar un esquema fiscal?"
+    "¿Qué son los esquemas reportables?",
+    "¿Cómo se deben reportar esquemas fiscales?",
+    "¿Qué información se necesita para cumplir con la regla 2.19.4?",
+    "¿Cuáles son las obligaciones de los contribuyentes en relación a esquemas reportables?",
+    "¿Qué documentos deben presentar los asesores fiscales para los esquemas reportables?",
+    "¿Qué sucede si no se cuenta con la información requerida para reportar?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1353276d97e18551",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdida deducible en acciones",
+  "denominacion_comun": "Pérdida deducible en venta de acciones",
   "temas": [
-    "pérdida deducible",
-    "venta de acciones",
+    "impuesto sobre la renta",
+    "deducciones",
+    "acciones",
     "títulos valor",
-    "enajenación",
+    "venta",
     "personas morales",
-    "avisos fiscal",
-    "Ley del ISR"
+    "avisos"
   ],
   "terminos_coloquiales": [
-    "pérdida en acciones",
-    "deducción por venta de acciones",
-    "LISR",
-    "avisos de pérdidas",
-    "acciones fuera de bolsa"
+    "pérdida deducible",
+    "acciones",
+    "títulos",
+    "venta de acciones",
+    "IR",
+    "ISR"
   ],
-  "resumen": "Si las personas morales venden acciones o títulos valor fuera de una bolsa de valores y tienen una pérdida, pueden deducir esa pérdida si presentan el aviso correspondiente. Esto aplica según lo establecido en la Ley del ISR.",
+  "resumen": "Las personas morales pueden deducir pérdidas en la venta de acciones y títulos valor, pero deben presentar un aviso específico a la autoridad fiscal. Esto aplica cuando las transacciones se realizan fuera de sociedades anónimas que tienen concesión para operar como bolsa de valores.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir la pérdida por la venta de acciones?",
-    "¿Qué avisos debo presentar para reportar pérdidas en títulos valor?",
-    "¿A qué se refiere la Ley del ISR sobre acciones fuera de bolsa?",
-    "¿Cuál es el procedimiento para deducir pérdidas en enajenaciones de acciones?",
-    "¿Qué requisitos hay para presentar el aviso de pérdida deducible?"
+    "¿Cómo puedo deducir la pérdida de acciones que vendí?",
+    "¿Qué aviso debo presentar para deducir pérdidas en venta de títulos valor?",
+    "¿Qué requisitos tengo que cumplir para deducir pérdidas en la venta de acciones?",
+    "¿Las personas morales pueden deducir pérdidas en la venta de acciones?",
+    "¿Qué dice la ley sobre la deducción de pérdidas en títulos valor?",
+    "¿Cómo afecta la venta de acciones a mi declaración del ISR?"
   ]
 }

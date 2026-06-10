@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee6328f967bd7b95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por arrendamiento de casa habitación",
+  "denominacion_comun": "Pagos provisionales ISR arrendamiento",
   "temas": [
-    "Impuesto sobre la renta",
-    "Arrendamiento",
-    "Pagos provisionales",
-    "Casa habitación",
-    "Ingresos por sueldos",
-    "Intereses",
-    "Fideicomisos"
+    "ingresos por arrendamiento",
+    "casa habitación",
+    "pagos provisionales",
+    "opción de contribuyentes",
+    "sueldos y salarios",
+    "intereses",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "ISR por arrendamiento",
-    "Pagos provisionales ISR",
-    "Inversión en arrendamiento",
-    "Opciones de pago en la renta"
+    "renta de casa",
+    "ingresos por alquiler",
+    "pagos de impuestos sobre la renta",
+    "ISR",
+    "arrendar",
+    "arrendatario"
   ],
-  "resumen": "Los contribuyentes que generan ingresos por arrendamiento de casa habitación y otros ingresos, pueden optar por hacer pagos provisionales del ISR trimestrales. La autoridad actualizará esta obligación basado en la primera declaración presentada en el año fiscal correspondiente.",
+  "resumen": "Los contribuyentes que obtienen ingresos por arrendar casas y también tienen ingresos por sueldos o intereses pueden optar por realizar pagos provisionales trimestrales del ISR. La autoridad fiscal actualizará la obligación según la primera declaración presentada en el ejercicio fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el ISR por arrendamiento de casa habitación?",
-    "¿Cuándo debo presentar mis pagos provisionales del ISR?",
-    "¿Qué ingresos se consideran para el ISR en arrendamiento?",
-    "¿Puedo optar por pagos provisionales si tengo otros ingresos?",
-    "¿Cómo se actualiza mi obligación de ISR por arrendamiento?",
-    "¿Qué artículos regulan el ISR en el arrendamiento de casa habitación?"
+    "¿Cómo declaro mis ingresos por alquiler de casa habitación?",
+    "¿Qué impuestos debo pagar si tengo ingresos por renta y además trabajo?",
+    "¿Puedo hacer pagos provisionales del ISR por arrendar mi casa?",
+    "¿Qué es la opción de pagos provisionales para arrendadores?",
+    "¿Qué obligaciones fiscales tengo si alquilo una casa?",
+    "¿Cómo afecta mi salario mis pagos de impuestos por arrendamiento?"
   ]
 }

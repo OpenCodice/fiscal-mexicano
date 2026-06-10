@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b8a478c80bf061d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Complemento Carta Porte para CFDI",
+  "denominacion_comun": "CFDI de traslado de fondos y valores",
   "temas": [
     "CFDI",
-    "Complemento Carta Porte",
-    "Traslado de fondos y valores",
-    "Requisitos del CFDI",
-    "Transporte de mercancías",
-    "Servicio de traslado",
-    "SAT"
+    "traslado de fondos",
+    "complemento Carta Porte",
+    "requisitos fiscales"
   ],
   "terminos_coloquiales": [
-    "CFDI con complemento Carta Porte",
-    "CFDI de ingreso",
-    "CFDI de traslado",
-    "Traslado de fondos",
-    "Complemento Carta Porte"
+    "factura de traslado",
+    "comprobante fiscal",
+    "servicio de traslado",
+    "CFDI de ingresos",
+    "CFDI de traslado"
   ],
-  "resumen": "La regla establece que las personas que presten servicios de traslado de fondos y valores pueden emitir un CFDI de tipo ingreso sin el complemento Carta Porte. Además, deben emitir un CFDI de tipo traslado con el complemento Carta Porte para amparar dicho traslado, relacionando ambos comprobantes.",
+  "resumen": "Las personas que prestan el servicio de traslado de fondos y valores pueden emitir un CFDI de ingreso sin complemento Carta Porte. Para el traslado, deben emitir un CFDI de tipo traslado con complemento Carta Porte, relacionando ambos comprobantes.",
   "preguntas_ejemplo": [
-    "¿Qué es el complemento Carta Porte?",
-    "¿Cómo emitir un CFDI de traslado para fondos y valores?",
-    "¿Qué requisitos debe tener un CFDI de ingreso sin complemento Carta Porte?",
-    "¿Cómo relacionar un CFDI de ingreso y uno de traslado?",
-    "¿Quiénes pueden emitir CFDIs sin complemento Carta Porte?"
+    "¿Qué tipo de CFDI necesito para el traslado de fondos?",
+    "¿Puedo emitir un CFDI sin complemento Carta Porte?",
+    "¿Qué requisitos fiscales debo cumplir para el CFDI de traslado?",
+    "¿Cómo se relacionan los CFDI de ingreso y de traslado?",
+    "¿Qué es el complemento Carta Porte?"
   ]
 }

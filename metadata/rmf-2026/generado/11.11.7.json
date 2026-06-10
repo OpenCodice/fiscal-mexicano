@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74cf0b5266c0ce30",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actividades económicas PODEBI",
+  "denominacion_comun": "Determinación del ISR en PODEBI",
   "temas": [
     "ISR",
-    "Deducciones",
-    "Ingresos",
-    "Contabilidad",
-    "Declaraciones fiscales",
-    "Estimulos fiscales"
+    "PODEBI",
+    "ingresos",
+    "deducciones",
+    "declaraciones",
+    "actividades económicas",
+    "contabilidad"
   ],
   "terminos_coloquiales": [
-    "Régimen PODEBI",
-    "Ingresos PODEBI",
-    "Deducciones PODEBI",
-    "Declara ISR PODEBI"
+    "impuesto sobre la renta",
+    "ingresos por PODEBI",
+    "deducciones fiscales",
+    "declaraciones de impuestos",
+    "PODEBI"
   ],
-  "resumen": "Los contribuyentes que determinan el ISR deben considerar solo los ingresos y deducciones relacionados con las actividades económicas realizadas dentro de los PODEBI. Además, deben presentar declaraciones que reflejen correctamente estos ingresos y deducciones, y realizar ajustes si es necesario.",
+  "resumen": "La disposición establece que los contribuyentes deben considerar solo los ingresos y deducciones de actividades económicas realizadas en los PODEBI para la determinación del ISR. Además, deben reportar correctamente estos montos en sus declaraciones de impuestos y corregir cualquier error mediante declaraciones complementarias.",
   "preguntas_ejemplo": [
-    "¿Cómo determino mis ingresos en PODEBI para el ISR?",
-    "¿Qué deducciones puedo aplicar en mis actividades PODEBI?",
-    "¿Qué pasa si reporto mal mis ingresos de PODEBI?",
-    "¿Cómo presento declaraciones complementarias relacionadas con PODEBI?",
-    "¿Qué estímulos fiscales aplican para actividades en los PODEBI?"
+    "¿Cómo determino el ISR para mis actividades en PODEBI?",
+    "¿Qué ingresos debo reportar de los PODEBI en mi declaración?",
+    "¿Cuáles son las deducciones permitidas para los ingresos de PODEBI?",
+    "¿Qué hago si cometí un error en mi declaración sobre mis ingresos de PODEBI?",
+    "¿Necesito hacer declaraciones complementarias si apliqué mal el estímulo fiscal?",
+    "¿Qué es el PODEBI y cómo afecta mis impuestos?"
   ]
 }

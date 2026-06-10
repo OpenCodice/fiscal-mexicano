@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0bf5cca740ffc155",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Procedimiento de multas por incumplimientos del CFDI",
+  "denominacion_comun": "Multas por incumplimiento de CFDI",
   "temas": [
     "multas",
+    "incumplimiento",
     "CFDI",
-    "notificación de infracciones",
+    "notificaciones",
     "documentación",
-    "procedimiento administrativo"
+    "resoluciones",
+    "procedimientos"
   ],
   "terminos_coloquiales": [
-    "multas CFDI",
-    "infracciones",
-    "ACGSTME",
-    "procedimiento de multas"
+    "multas por CFDI",
+    "sanciones fiscales",
+    "infracciones de factura",
+    "documentos fiscales"
   ],
-  "resumen": "La ACGSTME notificará a los proveedores sobre incumplimientos en la expedición de CFDI, permitiéndoles un plazo para presentar pruebas. Si no se presentan documentos, se considerará que los incumplimientos son consentidos y se podrán imponer multas.",
+  "resumen": "La ACGSTME puede imponer multas a los proveedores que no cumplan con las disposiciones relacionadas con los CFDI. Se establece un procedimiento que incluye notificaciones, plazos para responder y la posibilidad de presentar documentos para desvirtuar incumplimientos.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si no presento la documentación solicitada por la ACGSTME?",
-    "¿Cuánto tiempo tengo para responder a una notificación de multa por CFDI?",
-    "¿Qué es lo que evalúa la ACGSTME en caso de incumplimiento?",
-    "¿Cómo se notifica una multa por infracción de CFDI?",
-    "¿Qué pasa si presento documentos después del plazo establecido?"
+    "¿Qué pasa si no presento la documentación a tiempo para el CFDI?",
+    "¿Cómo se me notifican las multas por incumplimiento de CFDI?",
+    "¿Qué sucederá si no estoy de acuerdo con una multa impuesta?",
+    "¿Qué puedo hacer si la ACGSTME dice que tengo un incumplimiento?",
+    "¿Cuáles son los plazos para responder a una notificación de multa?"
   ]
 }

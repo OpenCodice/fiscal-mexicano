@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9538a45e40987c43",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Publicación de contribuyentes",
+  "denominacion_comun": "Publicación de contribuyentes no localizados",
   "temas": [
-    "SAT",
-    "Contribuyentes no localizados",
-    "Incumplimiento fiscal",
-    "Obligaciones fiscales"
+    "publicación de contribuyentes",
+    "incumplimiento fiscal",
+    "obligaciones fiscales",
+    "contribuyentes no localizados"
   ],
   "terminos_coloquiales": [
-    "contribuyentes morosos",
-    "publicación de deudores",
-    "SAT",
-    "CFF 69"
+    "contribuyentes no localizados",
+    "publicación del SAT",
+    "incumplimiento sistemático"
   ],
-  "resumen": "El SAT publica información sobre contribuyentes que no están localizados y que además tienen un incumplimiento sistemático de sus obligaciones fiscales. Esto se basa en el artículo 69 del Código Fiscal de la Federación.",
+  "resumen": "El SAT publicará a los contribuyentes que no estén localizados y que incumplan de manera sistemática con sus obligaciones fiscales. Esta medida se basa en el artículo 69 del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué contribuyentes aparecen en la lista publicada por el SAT?",
-    "¿Cuáles son las razones por las que me pueden publicar como contribuyente?",
-    "¿Qué implica estar no localizado por el SAT?",
-    "¿Qué significa incumplimiento sistemático de obligaciones fiscales?",
-    "¿Dónde puedo ver la lista de contribuyentes morosos?"
+    "¿Qué implica ser un contribuyente no localizado?",
+    "¿Cómo afecta a un contribuyente la publicación por incumplimiento fiscal?",
+    "¿Qué obligaciones fiscales son las que se consideran incumplidas?",
+    "¿Qué criterios usa el SAT para publicar contribuyentes?",
+    "¿Qué significa incumplimiento sistemático de obligaciones fiscales?"
   ]
 }

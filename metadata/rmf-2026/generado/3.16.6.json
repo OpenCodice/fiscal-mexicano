@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:08656885fd542f21",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del ISR por intereses",
+  "denominacion_comun": "Retención del ISR sobre intereses",
   "temas": [
-    "Intereses",
-    "Cuentas de cheques",
-    "Salarios",
-    "Pensiones",
-    "Depósitos de ahorro",
-    "Intermediarios financieros"
+    "intereses",
+    "retención de impuestos",
+    "cuentas de cheques",
+    "salarios",
+    "pensiones",
+    "depósitos de ahorro",
+    "moneda extranjera"
   ],
   "terminos_coloquiales": [
-    "retención ISR",
+    "retención de ISR",
     "intereses de cuentas",
-    "intereses exentos"
+    "intereses en cheques",
+    "dinero en cuentas",
+    "LISR"
   ],
-  "resumen": "Los intermediarios financieros no retendrán el ISR sobre intereses provenientes de cuentas de cheques para salarios o pensiones, siempre que el saldo promedio no exceda ciertos límites. Si excede, se aplicará la retención correspondiente sobre la parte que supere esos límites.",
+  "resumen": "Los intermediarios financieros no retendrán el ISR sobre los intereses de cuentas de cheques que no superen ciertos saldos. Si esos saldos son mayores, se aplicará la retención correspondiente. Esto también aplica para cuentas en moneda extranjera con límites específicos.",
   "preguntas_ejemplo": [
+    "¿Cuándo no me retienen ISR sobre intereses?",
     "¿Cuánto dinero puedo tener en mi cuenta sin que me retengan impuestos?",
-    "¿Qué pasa si mis intereses superan el límite de exención?",
-    "¿Los intermediarios financieros retienen impuestos sobre los intereses de mi cuenta de ahorros?",
-    "¿Cómo funcionan las retenciones de ISR en cuentas de cheques?"
+    "¿Qué pasa si tengo intereses de cuentas en dólares?",
+    "¿Cómo se calcula la retención del ISR sobre intereses?",
+    "¿Qué son las UMA y cómo afectan mis intereses?"
   ]
 }

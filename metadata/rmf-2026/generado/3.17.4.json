@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:524d9ba2abf35f6f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses reales deducibles de créditos hipotecarios",
+  "denominacion_comun": "Intereses deducibles de créditos hipotecarios",
   "temas": [
     "intereses reales",
-    "deducción de intereses hipotecarios",
     "créditos hipotecarios",
-    "Ley del ISR",
+    "deducciones fiscales",
     "unidad de inversión",
-    "Reglamento de la Ley del ISR"
+    "Ley del ISR",
+    "Reglamento de la Ley del ISR",
+    "cálculo de deducciones"
   ],
   "terminos_coloquiales": [
+    "intereses deducibles",
+    "crédito hipotecario",
     "deducción de intereses",
-    "intereses hipotecarios",
-    "créditos en pesos",
-    "LISR",
-    "RLISR"
+    "valor de la UDI",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes pueden deducir los intereses reales pagados por créditos hipotecarios usando el valor de la unidad de inversión en lugar del INPC. Esto aplica para créditos en moneda nacional y varía según la fecha de pago de intereses.",
+  "resumen": "La disposición establece cómo los contribuyentes pueden calcular los intereses reales deducibles de créditos hipotecarios, permitiendo el uso de la unidad de inversión en lugar del INPC. También se detalla cómo ajustar los cálculos según el momento de los pagos de intereses.",
   "preguntas_ejemplo": [
     "¿Cómo puedo deducir los intereses de mi crédito hipotecario?",
-    "¿Qué son los intereses reales deducibles?",
-    "¿Puedo usar la unidad de inversión para mis deducciones fiscales?",
-    "¿Qué debo considerar si pago mi crédito antes de fin de año?",
-    "¿Cómo se calcula el factor para deducir intereses hipotecarios?"
+    "¿Qué es la unidad de inversión y cómo afecta mis deducciones?",
+    "¿Puedo usar el valor de la UDI para calcular mis intereses deducibles?",
+    "¿Qué pasa si termino de pagar mi crédito antes de fin de año?",
+    "¿Cómo afecta el cálculo de intereses si contraté mi crédito a mitad del año?"
   ]
 }

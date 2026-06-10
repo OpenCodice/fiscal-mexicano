@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4d09dde098b00c3e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Verificación de emisores de monederos electrónicos",
   "temas": [
-    "verificación de cumplimiento",
-    "emisores autorizados",
     "monederos electrónicos",
-    "adquisición de combustibles",
-    "incumplimientos",
-    "sistemas y operaciones",
-    "resguardo y seguridad de la información"
+    "combustibles",
+    "verificación",
+    "requisitos y obligaciones",
+    "seguridad de la información",
+    "sistemas",
+    "acta circunstanciada",
+    "incumplimientos"
   ],
   "terminos_coloquiales": [
-    "verificación de monederos electrónicos",
+    "chequeo de monederos",
+    "monederos de gasolina",
+    "verificación de requisitos",
+    "acta de verificación",
     "SAT",
-    "ACSMC",
-    "AGCTI"
+    "ACS"
   ],
-  "resumen": "La regla establece el procedimiento para que el SAT verifique a los emisores de monederos electrónicos usados para la compra de combustibles. Incluye pasos sobre cómo se realiza la verificación y las consecuencias de no cumplir con los requisitos establecidos.",
+  "resumen": "Esta regla establece los procedimientos de verificación para los emisores autorizados de monederos electrónicos utilizados en la compra de combustibles. Se revisa el cumplimiento de requisitos y obligaciones, y se brindan oportunidades para solventar irregularidades detectadas.",
   "preguntas_ejemplo": [
-    "¿Qué es la verificación de monederos electrónicos?",
-    "¿Cómo se lleva a cabo la verificación por parte del SAT?",
-    "¿Qué sucede si un emisor no cumple con los requisitos?",
-    "¿Cuánto tiempo tiene un emisor para solventar incumplimientos?",
-    "¿Qué pasa si no presento la documentación a tiempo?"
+    "¿Cómo se verifica un monedero electrónico para combustibles?",
+    "¿Qué pasa si no cumplo con los requisitos de verificación?",
+    "¿Cuáles son las obligaciones de un emisor de monederos electrónicos?",
+    "¿Qué es un acta circunstanciada en este contexto?",
+    "¿Cuánto tiempo tengo para solventar incumplimientos detectados?",
+    "¿Qué ocurre si no presento la información a tiempo?"
   ]
 }

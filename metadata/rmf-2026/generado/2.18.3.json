@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b6954b2a62d73f6b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Datos de órganos certificadores",
+  "denominacion_comun": "Órganos Certificadores",
   "temas": [
-    "órganos certificadores",
-    "publicación de datos",
+    "datos de órganos certificadores",
+    "publicación de información",
     "SAT",
-    "información fiscal"
+    "RFC",
+    "autorización",
+    "revocación",
+    "contacto"
   ],
   "terminos_coloquiales": [
     "órganos certificadores",
-    "datos de certificadores",
-    "información SAT"
+    "SAT",
+    "datos de certificación"
   ],
-  "resumen": "El SAT publicará en su Portal la información básica de los órganos certificadores autorizados, incluyendo su razón social, RFC, domicilio y datos de contacto. También se darán a conocer los datos de órganos a quienes se les haya revocado o dejado sin efecto su autorización.",
+  "resumen": "El SAT publicará en su portal información sobre los órganos certificadores autorizados, incluyendo su razón social, RFC, domicilio y página web. También se informará sobre los órganos que hayan perdido su autorización.",
   "preguntas_ejemplo": [
     "¿Dónde puedo encontrar los datos de los órganos certificadores?",
-    "¿Qué información publica el SAT sobre los certificadores?",
+    "¿Qué información publica el SAT sobre los órganos certificadores?",
+    "¿Cómo puedo saber si un órgano certificador está autorizado?",
     "¿Qué pasa si un órgano certificador pierde su autorización?",
-    "¿Cuáles son los datos que se publican en el Portal del SAT?"
+    "¿Qué datos se requieren para identificar a un órgano certificador?"
   ]
 }

@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a8ec286404a09c5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reglamento Régimen Simplificado de Confianza",
+  "denominacion_comun": "Obligaciones de contribuyentes en zonas rurales",
   "temas": [
-    "obligaciones fiscales",
-    "declaraciones",
-    "zonas rurales",
+    "declaraciones fiscales",
+    "zona rural",
     "servicios de Internet",
     "SAT",
-    "medios electrónicos"
+    "ADSC"
   ],
   "terminos_coloquiales": [
-    "declaraciones digitales",
-    "poblaciones sin Internet",
-    "RESICO",
-    "presentar declaraciones"
+    "declaraciones por Internet",
+    "hacer declaración",
+    "poblaciones rurales",
+    "cumplimiento fiscal"
   ],
-  "resumen": "Los contribuyentes en zonas rurales sin acceso a Internet deben presentar sus declaraciones mediante otros medios electrónicos o en cualquier ADSC, según lo indicado por el SAT.",
+  "resumen": "Los contribuyentes en zonas rurales sin servicios de Internet deben presentar sus declaraciones fiscales a través de Internet o en medios electrónicos, y pueden acudir a cualquier ADSC para cumplir con esta obligación.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mi declaración si no tengo Internet?",
-    "¿Qué es una ADSC?",
-    "¿Dónde están las zonas rurales que no tienen Internet?",
-    "¿Qué obligaciones tengo bajo el RESICO?",
-    "¿Puedo hacer mi declaración en persona?",
-    "¿Qué dice la ley sobre los contribuyentes en áreas sin Internet?"
+    "¿Cómo presento mi declaración si estoy en una zona rural?",
+    "¿Qué son las ADSC?",
+    "¿Dónde puedo encontrar las zonas sin Internet según el SAT?",
+    "¿Puedo presentar mis declaraciones de forma presencial?",
+    "¿Qué obligaciones tengo si vivo en una población rural?"
   ]
 }

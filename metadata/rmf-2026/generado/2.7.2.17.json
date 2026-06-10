@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:71a394973c2455b2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Certificación de CFDI",
+  "denominacion_comun": "Proveedores de certificación de CFDI",
   "temas": [
-    "Aviso de continuidad",
-    "Requisitos de operación",
-    "Certificación de CFDI",
-    "Fichas de trámite",
-    "Obligaciones de proveedores",
-    "Vigencia del CESD"
+    "avisos",
+    "requisitos de certificación",
+    "operación de proveedores",
+    "certificado especial de sello digital"
   ],
   "terminos_coloquiales": [
-    "Proveedores de CFDI",
-    "Certificación de facturas",
-    "Avisos de operación",
-    "CESD"
+    "proveedores de CFDI",
+    "certificación de facturas",
+    "certificado de sello digital (CESD)",
+    "aviso para seguir operando"
   ],
-  "resumen": "Los proveedores de certificación de CFDI deben presentar un aviso si desean continuar operando en ese esquema. Si no presentan el aviso a tiempo, dejarán de operar en la emisión y certificación de CFDI. Además, si su certificado está por expirar, pueden solicitar uno nuevo.",
+  "resumen": "Los proveedores de certificación de CFDI deben presentar un aviso para continuar operando en este esquema. Si no lo hacen a tiempo, dejarán de poder emitir y certificar CFDI. Además, podrán solicitar un nuevo certificado si el anterior está por expirar.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para seguir siendo proveedor de CFDI?",
-    "¿Cuáles son los requisitos para certificar facturas?",
-    "¿Qué sucede si no presento el aviso a tiempo?",
-    "¿Cómo solicito un nuevo CESD?",
-    "¿Qué es la ficha de trámite 144/CFF?",
-    "¿Qué ocurre si mi CESD pierde vigencia?"
+    "¿Qué avisos deben presentar los proveedores de CFDI?",
+    "¿Qué pasa si no presento el aviso a tiempo como proveedor de CFDI?",
+    "¿Cómo solicito un nuevo certificado de sello digital?",
+    "¿Qué requisitos debo cumplir para continuar operando como proveedor de CFDI?",
+    "¿Cuál es el procedimiento para certificar facturas?"
   ]
 }

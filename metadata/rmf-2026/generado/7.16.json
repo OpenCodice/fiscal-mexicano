@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5de9c617cfaeb039",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de derechos por servicios náuticos recreativos",
   "temas": [
-    "prestadores de servicios",
     "derechos",
+    "prestadores de servicios",
+    "servicios náuticos",
     "áreas naturales protegidas",
-    "pago de contribuciones",
-    "sello digital",
-    "elementos naturales marinos"
+    "Secretaría del Medio Ambiente",
+    "contribuciones federales",
+    "recibo bancario"
   ],
   "terminos_coloquiales": [
-    "pago de derechos náuticos",
-    "servicios náuticos recreativos",
-    "LFD 198",
-    "RMF 2.8.4.1."
+    "pago de derechos",
+    "servicios recreativos en el mar",
+    "Secretaría de Medio Ambiente",
+    "recibo de pago"
   ],
-  "resumen": "Los prestadores de servicios náutico-recreativos deben entregar un recibo bancario de pago por derechos ante las autoridades correspondientes antes de utilizar elementos naturales marinos en áreas protegidas. Este recibo debe ser canjeado por formas valoradas expedidas por la Secretaría del Medio Ambiente.",
+  "resumen": "Los prestadores de servicios náutico-recreativos deben presentar un recibo bancario de pago de derechos ante las direcciones de áreas naturales protegidas antes de utilizar los elementos naturales marinos. Este recibo debe ser canjeado por formularios expedidos por la Secretaría del Medio Ambiente.",
   "preguntas_ejemplo": [
-    "¿Cómo debo pagar los derechos para servicios náuticos recreativos?",
-    "¿Qué documentos necesito para operar en áreas naturales protegidas?",
-    "¿Cuál es el proceso para canjear el recibo de pago de derechos?",
-    "¿A dónde entrego el recibo bancario por derechos náuticos?",
-    "¿Qué son los elementos naturales marinos en el contexto de servicios recreativos?",
-    "¿Qué leyes regulan el pago de derechos para servicios náuticos?"
+    "¿Cómo pago los derechos por servicios náuticos?",
+    "¿Qué documentos necesito para operar en áreas protegidas?",
+    "¿Dónde entrego el recibo bancario por servicios recreativos?",
+    "¿Qué es el recibo de pago para utilizar el mar?",
+    "¿Cuáles son los pasos para realizar el pago de derechos náuticos?",
+    "¿A qué dependencia debo acudir para canjear mi recibo?"
   ]
 }

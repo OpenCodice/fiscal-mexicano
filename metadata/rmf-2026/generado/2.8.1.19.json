@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4b673a8b03804b6b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de existencia contable de pasivos",
+  "denominacion_comun": "Certificación de existencia contable del pasivo",
   "temas": [
     "capitalización de pasivos",
-    "documentación contable",
-    "certificación por contador público",
-    "verificación de control interno",
+    "certificación contable",
+    "documentación fiscal",
+    "obligaciones fiscales",
     "Normas de Información Financiera",
-    "títulos de crédito",
-    "intereses devengados",
-    "acciones y partes sociales"
+    "verificación de control interno",
+    "información de deudas",
+    "pasivos financieros"
   ],
   "terminos_coloquiales": [
-    "certificación contable",
+    "certificado contable",
+    "capitalización de deudas",
     "certificación de pasivos",
+    "contabilidad del pasivo",
     "CFF",
     "RMF"
   ],
-  "resumen": "La certificación de existencia contable del pasivo debe ser emitida por un contador público e incluir información detallada sobre el pasivo capitalizado, como su origen, valores y documentación relacionada. Es un requisito para asegurar que los pasivos se ajusten a las normativas fiscales.",
+  "resumen": "Esta regla establece lo que debe incluir la certificación de la existencia contable de un pasivo y su valor. Debe ser emitida por un contador público y contener información detallada sobre la obligación que genera el pasivo y su capitalización.",
   "preguntas_ejemplo": [
-    "¿Qué información debe incluir la certificación de capitalización de pasivos?",
-    "¿Cómo se valida un pasivo derivado de operaciones con proveedores?",
-    "¿Cuáles son las Normas de Información Financiera aplicables a la capitalización de pasivos?",
-    "¿Qué documentación necesito para certificar un pasivo?",
-    "¿Cómo se calcula el valor de un pasivo en moneda extranjera?"
+    "¿Qué información debe incluir la certificación de un pasivo?",
+    "¿Quién puede emitir el certificado de capitalización de pasivos?",
+    "¿Cuáles son las normas que debo seguir para la certificación contable de un pasivo?",
+    "¿Qué documentación necesito para validar la existencia de un pasivo capitalizado?",
+    "¿Qué es la capitalización de un pasivo y cómo afecta mis obligaciones fiscales?"
   ]
 }

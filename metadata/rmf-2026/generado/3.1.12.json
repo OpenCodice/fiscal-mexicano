@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6931f3b6a1a1c70e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones Derivadas Estandarizadas",
+  "denominacion_comun": "Regla sobre Fideicomisos y Derivados",
   "temas": [
     "fideicomisos",
-    "mercado de derivados",
-    "ingresos acumulables",
-    "aportes iniciales",
-    "cámaras de compensación",
-    "liquidaciones",
-    "intereses",
-    "registros contables"
+    "contratos de derivados",
+    "opciones",
+    "futuros",
+    "camara de compensación",
+    "renta acumulable",
+    "garantías",
+    "intereses"
   ],
   "terminos_coloquiales": [
-    "derivados estandarizados",
-    "fideicomisos de derivados",
-    "cámaras de compensación"
+    "fideicomisos en bolsa",
+    "contratos derivados",
+    "opciones y futuros",
+    "camara de compensación",
+    "ingresos no acumulables",
+    "socios liquidadores"
   ],
-  "resumen": "La regla establece cómo deben tratarse fiscalmente las aportaciones y liquidaciones en operaciones de derivados estandarizados en el mercado, especificando qué ingresos no se consideran acumulables y cómo deben registrarse estos movimientos. También se determinan los procedimientos para el mantenimiento de registros relacionados con estas operaciones.",
+  "resumen": "Esta regla establece cómo deben tratarse fiscalmente las aportaciones y rendimientos de los fideicomisos que participan en mercados de contratos de derivados, especificando qué cantidades no se consideran ingresos acumulables ni deducibles por los socios liquidadores y cámaras de compensación. Asimismo, regula la operación de derivados estandarizados y la documentación requerida para su registro contable.",
   "preguntas_ejemplo": [
     "¿Cómo se tratan las aportaciones en fideicomisos de derivados?",
     "¿Qué ingresos no se consideran acumulables en operaciones de derivados?",
-    "¿Cuáles son los procedimientos para reportar operaciones de derivados estandarizados?",
-    "¿Qué debo registrar sobre mis operaciones de derivados?",
-    "¿Las cámaras de compensación consideran ingresos acumulables?"
+    "¿Qué es una cámara de compensación en el contexto de fideicomisos?",
+    "¿Qué registro contable debo llevar para operaciones de derivados?"
   ]
 }

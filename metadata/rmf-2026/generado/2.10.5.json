@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d4f21d1604f690c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Informe de contadores públicos",
   "temas": [
-    "cumplimiento de normas",
     "educación continua",
-    "informes de socios",
+    "socios activos",
     "contadores públicos",
-    "federaciones de colegios",
-    "constancias de socio activo"
+    "e.firma",
+    "informes al SAT"
   ],
   "terminos_coloquiales": [
-    "informe de socios activos",
-    "educación continua para contadores",
-    "cumplimiento de educación continua",
-    "AGAFF",
-    "CFF",
-    "RCFF"
+    "informe de contadores",
+    "constancia de socio activo",
+    "actualización académica",
+    "certificado de contadores",
+    "AGAFF"
   ],
-  "resumen": "Las federaciones y asociaciones de contadores deben presentar un informe sobre sus socios activos y el cumplimiento de la norma de educación continua a través del Portal del SAT. Si no están en la relación publicada, deben aclarar su situación ante la agrupación emisora o la AGAFF.",
+  "resumen": "Las federaciones y colegios de contadores públicos deben presentar un informe sobre sus socios activos y el cumplimiento de la educación continua al SAT. La información se envía utilizando la e.firma y se puede validar en el Portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo verificar si mi nombre está en el informe de socios activos?",
-    "¿Qué información deben presentar las federaciones de contadores?",
-    "¿Qué hacer si no aparezco en el listado del SAT?",
-    "¿Qué es la norma de educación continua para contadores?",
-    "¿Qué plazo tengo para realizar aclaraciones ante la AGAFF?"
+    "¿Qué información debo enviar como contador público al SAT?",
+    "¿Cómo puedo validar mi constancia de socio activo?",
+    "¿Qué pasa si no aparezco en el listado del Portal del SAT?",
+    "¿Cuál es el plazo para presentar el informe de actualización académica?",
+    "¿Qué es la AGAFF y cómo se relaciona con los contadores públicos?"
   ]
 }

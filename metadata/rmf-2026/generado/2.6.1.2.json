@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dccdf96474e2c17c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Petrolíferos",
+  "denominacion_comun": "Controles Volumétricos de Petrolíferos",
   "temas": [
+    "hidrocarburos",
+    "petrolíferos",
     "fabricación",
-    "producción",
     "transporte",
     "almacenamiento",
     "distribución",
     "enajenación",
     "permisos",
-    "hidrocarburos"
+    "sujetos obligados"
   ],
   "terminos_coloquiales": [
-    "regla de petrolíferos",
-    "hidrocarburos",
-    "CNE",
-    "SENER"
+    "gasolina",
+    "diésel",
+    "combustibles",
+    "autoconsumo",
+    "SENER",
+    "CNE"
   ],
-  "resumen": "La disposición establece los sujetos que fabrican, producen, procesan, transportan, almacenan, distribuyen o enajenan hidrocarburos y petrolíferos, así como los permisos necesarios para realizar estas actividades conforme a la Ley del Sector Hidrocarburos.",
+  "resumen": "La regla establece quiénes son considerados sujetos obligados en la fabricación, producción, transporte, almacenamiento, distribución y enajenación de hidrocarburos y petrolíferos. Además, se especifican las condiciones bajo las cuales se requieren permisos de las autoridades competentes.",
   "preguntas_ejemplo": [
-    "¿Quiénes necesitan un permiso para manejar petrolíferos?",
-    "¿Qué actividades se incluyen en la regla de petrolíferos?",
-    "¿Qué requisitos hay para almacenar hidrocarburos?",
-    "¿Qué es la CNE y qué permisos otorga?",
-    "¿Qué se entiende por enajenación de petrolíferos?"
+    "¿Quiénes necesitan un permiso para almacenar gasolina?",
+    "¿Qué requisitos deben cumplir las empresas que distribuyen diésel?",
+    "¿Cuáles son las obligaciones de quienes transportan combustibles?",
+    "¿Qué personas están consideradas en la producción de petrolíferos?",
+    "¿Qué tipos de permisos se requieren para el autoconsumo de gas natural?"
   ]
 }

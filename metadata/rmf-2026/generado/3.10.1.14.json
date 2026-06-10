@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:90224871bbb81946",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de autorización para recibir donativos deducibles",
+  "denominacion_comun": "Cancelación de donativos deducibles",
   "temas": [
-    "cancelación de autorización",
     "donativos deducibles",
-    "organizaciones civiles",
-    "fideicomisos",
+    "cancelación de autorización",
+    "donatarias autorizadas",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "cancelación de donativos",
-    "donatarias autorizadas",
-    "ISR donativos",
-    "ficha de trámite 24/ISR"
+    "donatarias",
+    "ISR",
+    "donativos deducibles"
   ],
-  "resumen": "Las donatarias autorizadas pueden solicitar la cancelación de su autorización para recibir donativos deducibles. Esta cancelación se da a partir de la notificación del oficio correspondiente, pero no exonera a la organización de cumplir con sus obligaciones fiscales pendientes.",
+  "resumen": "Las donatarias autorizadas pueden solicitar la cancelación de su autorización para recibir donativos deducibles a través del buzón tributario. La cancelación se hace efectiva a partir de la notificación del oficio de cancelación, aunque no libera a la organización de cumplir con sus obligaciones fiscales pendientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar mi autorización para recibir donativos?",
-    "¿Qué pasa si me cancelan la autorización de donativos deducibles?",
-    "¿Cuáles son las obligaciones fiscales después de la cancelación?",
-    "¿Dónde presento la solicitud de cancelación de donativos?",
-    "¿Cuándo se considera que se ha cancelado la autorización?"
+    "¿Cómo puedo cancelar la autorización para recibir donativos deducibles?",
+    "¿Qué debo hacer si quiero dejar de recibir donativos?",
+    "¿La cancelación de donativos deducibles me exonera de obligaciones fiscales?",
+    "¿Dónde hago la solicitud de cancelación de donativos?",
+    "¿Qué pasa después de que se cancela la autorización para donativos?"
   ]
 }

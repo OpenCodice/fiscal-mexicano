@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e4391ef08d3d7428",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud para dejar sin efecto pago a plazos",
+  "denominacion_comun": "Solicitud para dejar sin efecto una autorización de pago a plazos",
   "temas": [
-    "Pago en parcialidades",
-    "Declaración complementaria",
-    "Devolución de cantidades",
-    "Requisitos de solicitud"
+    "pago a plazos",
+    "declaraciones complementarias",
+    "saldo a favor",
+    "requisitos",
+    "devoluciones"
   ],
   "terminos_coloquiales": [
-    "dejar sin efecto pago a plazos",
+    "dejar sin efecto el pago a plazos",
+    "cancelar pago en parcialidades",
     "pago diferido",
-    "solicitud de cancelación de pago a plazos",
-    "CFF 66 y 66-A",
-    "RMF 2.11.3"
+    "solicitud para cancelación",
+    "CFF 66",
+    "CFF 66-A"
   ],
-  "resumen": "Los contribuyentes pueden solicitar que se anule el pago en parcialidades si presentan una declaración complementaria que modifique los montos. Deben cumplir ciertos requisitos y manifestar su solicitud formalmente.",
+  "resumen": "Los contribuyentes que pagaron impuestos en plazos y que presenten una declaración complementaria pueden solicitar que se anule esa opción de pago. Esta solicitud debe cumplir con ciertos requisitos y, si se aprueba, pueden tramitar la devolución de cantidades pagadas de más.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar un pago a plazos?",
-    "¿Qué requisitos necesito para dejar sin efecto un pago diferido?",
-    "¿Qué pasa si presento una declaración complementaria después de optar por pagos en parcialidades?",
-    "¿Puedo recuperar el dinero que ya pagué si cancelo el pago a plazos?",
-    "¿Dónde encuentro la ficha de trámite para solicitar dejar sin efecto el pago a plazos?"
+    "¿Cómo puedo cancelar mi pago a plazos?",
+    "¿Qué requisitos necesito para dejar sin efectos el pago diferido?",
+    "¿Qué pasos debo seguir para solicitar la anulación de pago en parcialidades?",
+    "¿Puedo recuperar el dinero si cancelé mi solicitud de pago a plazos?",
+    "¿Qué pasa si no cumplo con los requisitos al solicitar dejar sin efectos el pago a plazos?"
   ]
 }

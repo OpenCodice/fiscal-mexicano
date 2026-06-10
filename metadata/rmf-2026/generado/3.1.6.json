@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6165edada59ee05a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la renta pagado en el extranjero",
+  "denominacion_comun": "Impuesto pagado en el extranjero como ISR",
   "temas": [
-    "determinación de ISR",
+    "impuesto sobre la renta",
     "impuesto pagado en el extranjero",
-    "requisitos para ISR",
-    "base gravable",
-    "regimen jurídico"
+    "requisitos para considerar un impuesto como ISR",
+    "base gravable del impuesto"
   ],
   "terminos_coloquiales": [
-    "impuesto en el extranjero",
+    "impuesto extranjero",
     "ISR extranjero",
-    "regla de ISR",
-    "regla 3.1.6"
+    "pago de impuestos en el extranjero"
   ],
-  "resumen": "La regla establece cómo determinar si un impuesto pagado en el extranjero puede ser considerado como un ISR, basándose en criterios específicos que deben cumplirse. Se analizan las características del impuesto y su relación con la renta obtenida por el sujeto obligado al pago.",
+  "resumen": "Se determina que un impuesto pagado en el extranjero puede considerarse como ISR si cumple con ciertos requisitos. Esto incluye que el impuesto sea general y obligatorio, y que no se relacione con contraprestaciones o extinciones de obligaciones específicas.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe cumplir un impuesto pagado en el extranjero para considerarse ISR?",
-    "¿Cómo se determina la base gravable de un impuesto extranjero?",
-    "¿Qué pasa si los requisitos para el ISR no se cumplen?",
-    "¿El nombre del impuesto en otro país influye en su consideración como ISR?",
-    "¿Qué se debe analizar para validar un impuesto extranjero como ISR?"
+    "¿Cómo sé si un impuesto extranjero cuenta como ISR?",
+    "¿Qué requisitos debe cumplir un impuesto pagado en el extranjero para ser considerado ISR?",
+    "¿Qué se considera base gravable del impuesto en el extranjero?",
+    "¿Importa la denominación del impuesto extranjero para saber si es ISR?",
+    "¿Puedo deducir impuestos pagados en el extranjero en mi declaración?",
+    "¿Qué pasa si el impuesto tiene una naturaleza diferente en el país de origen?"
   ]
 }

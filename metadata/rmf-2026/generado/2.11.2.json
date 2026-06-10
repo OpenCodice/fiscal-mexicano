@@ -6,34 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9576c80a3cdadcd1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos",
   "temas": [
-    "Pago en parcialidades",
-    "Pago diferido",
-    "Formato FCF",
-    "Autorización de pagos",
-    "Entidades federativas",
-    "Buzón tributario",
-    "Mi Portal",
-    "Resolución de autorización"
+    "pagos a plazos",
+    "parcialidades",
+    "diferido",
+    "línea de captura",
+    "SAT",
+    "entidades federativas",
+    "contribuyente"
   ],
   "terminos_coloquiales": [
     "pago a plazos",
     "pago en parcialidades",
     "pago diferido",
-    "FCF",
-    "CFF 66",
-    "CFF 66-A"
+    "línea de captura",
+    "SAT"
   ],
-  "resumen": "La regla establece que los pagos a plazos, ya sea en parcialidades o diferido, deben realizarse usando un formato específico llamado FCF. Este formato se puede obtener a solicitud del contribuyente en diferentes lugares o a través de un portal en línea.",
+  "resumen": "Los contribuyentes que hayan sido autorizados para realizar pagos a plazos deben hacerlo utilizando un formato oficial de pago. Este formato puede ser obtenido a través de solicitudes en la ADR, el domicilio fiscal o el buzón tributario. Las entidades federativas también tienen sus propios procedimientos para aceptar estos pagos en parcialidades.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar mis impuestos a plazos?",
-    "¿Dónde consigo el formato FCF para el pago a plazos?",
-    "¿Qué requisitos debo cumplir para solicitar el pago en parcialidades?",
-    "¿Puedo pagar mis impuestos en parcialidades y cómo?",
-    "¿Qué hago si no tengo el FCF para pagar?",
-    "¿Qué es el pago diferido en impuestos?"
+    "¿Cómo realizo un pago a plazos?",
+    "¿Dónde puedo obtener la línea de captura para el pago en parcialidades?",
+    "¿Qué necesito para hacer un pago diferido?",
+    "¿Puedo pagar en parcialidades en cualquier entidad federativa?",
+    "¿Qué hago si no tengo mi línea de captura para el SAT?"
   ]
 }

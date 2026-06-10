@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51c01af56e88ec41",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Domicilio fiscal de personas físicas residentes en el extranjero",
+  "denominacion_comun": "Domicilio fiscal de personas físicas en el extranjero",
   "temas": [
-    "domicilio fiscal",
-    "personas físicas",
-    "residentes en el extranjero",
-    "ingresos por enajenación",
-    "arrendamiento de inmuebles",
-    "CFF"
+    "Domicilio fiscal",
+    "Personas físicas",
+    "Residentes en el extranjero",
+    "Ingresos por enajenación",
+    "Arrendamiento de inmuebles"
   ],
   "terminos_coloquiales": [
-    "domicilio fiscal en México",
-    "personas físicas en el extranjero",
     "Domicilio fiscal",
-    "CFF"
+    "Personas en el extranjero",
+    "Arrendamiento",
+    "Enajenación de bienes"
   ],
-  "resumen": "Las personas físicas que viven en el extranjero y no tienen un establecimiento permanente en México pueden usar como domicilio fiscal el de una persona en México que actúe en su nombre o por su cuenta. Esto es aplicable a quienes obtienen ingresos por la venta o alquiler de propiedades en México.",
+  "resumen": "Las personas físicas que viven en el extranjero y no tienen un establecimiento permanente en México, pueden considerar como su domicilio fiscal el domicilio de alguien en México que actúe en su nombre o por su cuenta, si perciben ingresos por venta o renta de propiedades en el país.",
   "preguntas_ejemplo": [
-    "¿Cuál es el domicilio fiscal de un residente en el extranjero?",
-    "¿Qué se considera como domicilio fiscal para personas físicas fuera de México?",
-    "¿Cómo se determina el domicilio fiscal para ingresos por alquilar propiedades en México?",
-    "¿Puedo usar el domicilio de alguien en México si vivo en el extranjero?",
-    "¿Qué dice el CFF sobre el domicilio fiscal para personas en el extranjero?"
+    "¿Dónde se considera mi domicilio fiscal si vivo en el extranjero?",
+    "¿Puedo usar el domicilio de alguien en México para mis impuestos?",
+    "¿Qué se entiende por ingresos por enajenación de inmuebles?",
+    "¿Qué pasa si solo alquilo propiedades en México y vivo en otro país?",
+    "¿Necesito un representante en México si vendo propiedades desde el extranjero?"
   ]
 }

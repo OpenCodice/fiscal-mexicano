@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:38b7f426aafb6d10",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Controles Volumétricos de Hidrocarburos y Petrolíferos",
+  "denominacion_comun": "Controles volumétricos de hidrocarburos y petrolíferos",
   "temas": [
-    "Hidrocarburos",
-    "Petrolíferos",
-    "Controles Volumétricos",
-    "CFF 28",
-    "Contribuyentes",
-    "Obligaciones Fiscales"
-  ],
-  "terminos_coloquiales": [
-    "controles volumétricos",
     "hidrocarburos",
     "petrolíferos",
-    "CFF",
-    "artículo 28"
+    "gasolinas",
+    "diésel",
+    "petróleo",
+    "gas natural",
+    "controles volumétricos"
   ],
-  "resumen": "La disposición define los hidrocarburos y petrolíferos que están sujetos a controles volumétricos. Se especifican qué sustancias se consideran en cada categoría, incluyendo petróleo, gas natural, gasolinas, diésel y otros combustibles.",
+  "terminos_coloquiales": [
+    "hidrocarburos",
+    "petrolíferos",
+    "gasolina",
+    "diésel",
+    "petróleo",
+    "CFF"
+  ],
+  "resumen": "Se definen los hidrocarburos como el petróleo, gas natural y sus condensados, y los petrolíferos como gasolina, diésel, turbosina, combustóleo y otros derivados. Estas definiciones son relevantes para los contribuyentes que deben llevar controles volumétricos.",
   "preguntas_ejemplo": [
     "¿Qué son los hidrocarburos según la ley?",
-    "¿Qué petrolíferos están sujetos a controles volumétricos?",
-    "¿Qué establece el artículo 28 del CFF sobre los hidrocarburos?",
-    "¿Qué obligaciones tienen los contribuyentes en relación a los controles volumétricos?",
-    "¿Cómo se definen las sustancias en el CFF para los hidrocarburos?"
+    "¿Qué tipos de petrolíferos se consideran en los controles volumétricos?",
+    "¿Qué obligaciones tienen los contribuyentes relacionados con hidrocarburos?",
+    "¿Qué incluye el concepto de petrolíferos?"
   ]
 }

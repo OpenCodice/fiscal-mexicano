@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5953528a66ad7472",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de enajenación de acciones",
+  "denominacion_comun": "Aviso de enajenación de acciones entre residentes en el extranjero",
   "temas": [
     "Impuesto sobre la renta",
     "Personas morales",
     "Enajenación de acciones",
     "Residentes en el extranjero",
-    "Informe anual",
-    "Valores"
+    "Registro Nacional de Valores"
   ],
   "terminos_coloquiales": [
-    "Aviso de enajenación",
-    "Acciones entre extranjeros",
-    "ISR",
-    "RMF",
-    "Ficha de trámite 89/ISR"
+    "aviso de enajenación",
+    "acciones",
+    "residentes en el extranjero",
+    "RMV",
+    "LISR"
   ],
-  "resumen": "Los contribuyentes deben presentar información sobre la enajenación de acciones entre residentes en el extranjero. Esto aplica principalmente a personas morales con acciones en el Registro Nacional de Valores y es parte de las obligaciones informativas bajo la Ley del ISR.",
+  "resumen": "Los contribuyentes deben presentar información sobre la enajenación de acciones entre residentes en el extranjero, siguiendo lo indicado en la ficha de trámite relacionada. Las personas morales con acciones en el Registro Nacional de Valores tienen obligaciones específicas respecto a esto.",
   "preguntas_ejemplo": [
-    "¿Qué es el aviso de enajenación de acciones entre residentes en el extranjero?",
-    "¿Cómo presentar el informe anual sobre enajenación de acciones?",
-    "¿Qué información necesito para la ficha de trámite 89/ISR?",
-    "¿Qué deben hacer las personas morales respecto a acciones en el extranjero?",
-    "¿Qué obligaciones tengo si tengo acciones inscritas en el Registro Nacional de Valores?"
+    "¿Qué debo hacer si vendo acciones a un residente en el extranjero?",
+    "¿Cómo presento el aviso de enajenación de acciones?",
+    "¿Qué información necesito para el aviso de acciones entre residentes en el extranjero?",
+    "¿Quiénes están obligados a presentar este aviso?",
+    "¿Qué es el Registro Nacional de Valores en este contexto?"
   ]
 }

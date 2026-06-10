@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:71524a948559c296",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Renovación del registro de Contador Público",
   "temas": [
-    "Contador Público",
-    "Renovación de Registro",
-    "Obligaciones Fiscales",
-    "Norma de Educación Continua"
+    "contadores públicos",
+    "renovación de registro",
+    "obligaciones fiscales",
+    "constancia de educación continua",
+    "sistemas del SAT"
   ],
   "terminos_coloquiales": [
     "renovación de contador",
-    "registro de contador público",
-    "sat registro de contador",
-    "CFF 52",
-    "contadores SAT"
+    "registro de contador",
+    "constancia de contador",
+    "requisitos para contadores",
+    "SAT para contadores"
   ],
-  "resumen": "Los contadores públicos que no renovaron su registro en 2025 pueden solicitarlo en 2026, asegurándose de cumplir con los requisitos fiscales y la norma de educación continua. Si la solicitud es rechazada, pueden volver a solicitarla tras subsanar los requisitos faltantes.",
+  "resumen": "La regla establece los requisitos y el proceso que deben seguir los contadores públicos para renovar su registro ante el SAT. Esto incluye estar al corriente con sus obligaciones fiscales y cumplir con la norma de educación continua. Si la solicitud es rechazada, puede volverse a solicitar una vez subsanados los faltantes.",
   "preguntas_ejemplo": [
-    "¿Cómo renuevo el registro de mi contador público?",
-    "¿Qué requisitos necesita un contador para renovar su registro?",
-    "¿Qué pasa si no cumplí con la renovación en 2025?",
-    "¿Cuándo debe un contador presentar la solicitud de renovación?",
-    "¿Qué ocurre si mi solicitud de renovación es rechazada?"
+    "¿Cómo renuevo mi registro de contador público?",
+    "¿Qué requisitos necesito para la renovación de mi registro?",
+    "¿Qué pasa si mi solicitud de renovación es rechazada?",
+    "¿Dónde puedo revisar mis obligaciones fiscales como contador?",
+    "¿Qué es la constancia de educación continua para contadores?"
   ]
 }

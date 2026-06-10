@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfb221cbe347a722",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes de activo fijo por SOCAP",
+  "denominacion_comun": "Enajenación de bienes en SOCAP",
   "temas": [
     "SOCAP",
     "enajenación de bienes",
     "ingresos no considerados",
-    "obligaciones fiscales"
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "venta de activos por SOCAP",
-    "sociedades cooperativas de ahorro y préstamo",
-    "ingresos por enajenación"
+    "vender bienes de SOCAP",
+    "ingresos de SOCAP",
+    "Ley de Impuesto sobre la Renta"
   ],
-  "resumen": "Las SOCAP no considerarán como ingreso las ventas de bienes que recibieron por pagos de deudas. Sin embargo, deben cumplir con obligaciones fiscales relacionadas con los intereses de créditos no pagados.",
+  "resumen": "Las SOCAP no deben considerar como ingreso las ventas de bienes que recibieron por pagos de deudas a su favor. Esto se aplica sin afectar sus obligaciones fiscales por intereses de créditos no pagados.",
   "preguntas_ejemplo": [
-    "¿Qué son las SOCAP y cómo funcionan?",
-    "¿Qué ingresos considera la SOCAP al vender bienes?",
-    "¿Qué obligaciones tiene una SOCAP con respecto a los impuestos?",
-    "¿Pueden las SOCAP no reportar ciertos ingresos por enajenación?",
-    "¿Cómo se manejan los bienes adjudicados en las SOCAP?"
+    "¿Qué sucede si una SOCAP vende un bien recibido por pago de deuda?",
+    "¿Cómo se manejan los ingresos por ventas de bienes en una SOCAP?",
+    "¿Las SOCAP deben declarar ingresos por enajenaciones de bienes adjudicados?",
+    "¿Qué obligaciones fiscales tienen las SOCAP al vender bienes?"
   ]
 }

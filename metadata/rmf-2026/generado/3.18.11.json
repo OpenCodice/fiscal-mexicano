@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:563dd836230d9cba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de impuestos a residentes extranjeros",
+  "denominacion_comun": "Retenciones por intereses a residentes en el extranjero",
   "temas": [
-    "Intereses pagados",
+    "Impuesto sobre la Renta",
     "Residentes en el extranjero",
-    "Retención de impuestos",
-    "Cumplimiento fiscal",
+    "Intereses",
+    "Retenciones",
     "Declaración de pagos"
   ],
   "terminos_coloquiales": [
-    "Impuesto a residentes extranjeros",
-    "Retención de ISR",
-    "ISR para extranjeros",
-    "LISR",
-    "RMF 3.18.11"
+    "intereses a extranjeros",
+    "retenciones",
+    "ISR en el extranjero",
+    "información sobre pagos al extranjero"
   ],
-  "resumen": "La disposición establece que para considerar cumplido el pago de intereses a residentes en el extranjero, se debe de haber seguido el procedimiento de retención de impuestos establecido en las reglas mencionadas. Esto permite cumplir con las obligaciones fiscales y evitar sanciones.",
+  "resumen": "Se establece que para el pago de intereses a residentes en el extranjero se deben seguir ciertas disposiciones de la Ley del ISR y cumplir con reglas específicas para la retención del impuesto. Esto asegura que se respeten los requisitos legales necesarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto a residentes extranjeros?",
-    "¿Qué reglas debo seguir para la retención de impuestos?",
-    "¿Qué es la regla 3.18.11 de la RMF?",
-    "¿Cuándo se considera que he cumplido con el impuesto sobre la renta para extranjeros?",
-    "¿Qué información necesito para declarar pagos a residentes en el extranjero?"
+    "¿Cómo se retienen los intereses pagados a extranjeros?",
+    "¿Qué requisitos debo cumplir para pagar intereses a residentes en el extranjero?",
+    "¿Qué dice la ley sobre el ISR para personas que viven en otros países?",
+    "¿Cuáles son las reglas para la declaración de pagos al extranjero?",
+    "¿Qué implica la regla 3.18.10. sobre retenciones?"
   ]
 }

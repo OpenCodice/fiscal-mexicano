@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f224ecc572f34bc5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI para pequeños mineros",
+  "denominacion_comun": "Expedición de CFDI por pequeños mineros",
   "temas": [
-    "expedición de CFDI",
+    "CFDI",
     "pequeños mineros",
-    "requisitos de comprobación",
-    "restricciones de emisión",
+    "prestación de servicios",
+    "restricción temporal",
+    "irregularidades fiscales",
     "CSD",
-    "PCECFDI"
+    "procedimiento de aclaración"
   ],
   "terminos_coloquiales": [
-    "factura electrónica",
+    "factura digital",
+    "factura",
     "CFDI",
-    "comprobantes fiscales digitales",
-    "CSD",
-    "pequeños mineros"
+    "pequeños mineros",
+    "restricción en CFDI"
   ],
-  "resumen": "Los pequeños mineros pueden expedir CFDI cumpliendo ciertos requisitos. Si tienen irregularidades, pueden enfrentar restricciones en la emisión de sus comprobantes fiscales.",
+  "resumen": "La regla establece que los pequeños mineros pueden expedir sus CFDI siguiendo requisitos específicos. Si tienen irregularidades fiscales, podrían enfrentar restricciones temporales en la emisión de CFDI hasta corregir las observaciones detectadas.",
   "preguntas_ejemplo": [
-    "¿Cómo expido mi CFDI si soy pequeño minero?",
-    "¿Qué requisitos debo cumplir para emitir CFDI?",
-    "¿Qué pasa si tengo irregularidades en mis CFDI?",
-    "¿Qué es un CSD y cómo me afecta?",
-    "¿Qué restricciones tengo como pequeño minero para emitir facturas?"
+    "¿Puedo emitir mis facturas si soy pequeño minero?",
+    "¿Qué requisitos debo cumplir para emitir un CFDI?",
+    "¿Qué pasa si tengo irregularidades fiscales?",
+    "¿Qué es un CSD en el contexto de CFDI?",
+    "¿Cómo funcionan las restricciones temporales para la emisión de facturas?"
   ]
 }

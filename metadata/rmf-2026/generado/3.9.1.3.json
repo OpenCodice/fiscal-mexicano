@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9a24da0b606905d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajustes de precios de transferencia",
+  "denominacion_comun": "Ajustes de Precios de Transferencia",
   "temas": [
+    "obligaciones fiscales",
     "deducciones",
-    "comprobantes fiscales",
-    "operaciones con partes relacionadas",
-    "documentación comprobatoria",
-    "requisitos fiscales",
+    "CFDI",
+    "documentación",
+    "precios de transferencia",
+    "parte relacionada",
     "retenciones",
-    "contabilidad fiscal"
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "ajustes de precios",
+    "ajustes de precios de transferencia",
+    "cedular de ajuste",
+    "deducción por ajuste",
+    "CFDI de ajuste",
     "precios de transferencia",
-    "APT",
-    "deducción de APT",
-    "comprobantes por ajustes"
+    "documentación de precios de transferencia"
   ],
-  "resumen": "Los contribuyentes que realicen ajustes de precios de transferencia deben cumplir con varios requisitos, como presentar la información adecuada y conservar documentación que respalde sus ajustes. Esto asegura que puedan deducir correctamente las operaciones con partes relacionadas.",
+  "resumen": "Esta regla establece las obligaciones que deben cumplir los contribuyentes que realizan ajustes de precios de transferencia de manera voluntaria o compensatoria, para que puedan deducir dichas modificaciones de sus ingresos. Incluye requisitos sobre la documentación necesaria y la presentación correcta de CFDI relacionados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir un ajuste de precios de transferencia?",
-    "¿Qué documentos necesito para el ajuste de precios de transferencia?",
-    "¿Qué es un ajuste voluntario de precios de transferencia?",
-    "¿Cuáles son mis obligaciones fiscales al hacer un ajuste de precios de transferencia?",
-    "¿Cómo se registra contablemente un ajuste de precios de transferencia?"
+    "¿Cuáles son las obligaciones para ajustar precios de transferencia?",
+    "¿Cómo deduzco un ajuste de precios de transferencia?",
+    "¿Qué documentos necesito para justificar un ajuste de precios de transferencia?",
+    "¿Cómo se presenta el CFDI para un ajuste de precios de transferencia?",
+    "¿Qué pasa si no cumplo con los requisitos de ajuste de precios de transferencia?"
   ]
 }

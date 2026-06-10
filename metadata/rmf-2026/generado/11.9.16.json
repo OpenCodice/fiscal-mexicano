@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:942a3c35de32780e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal IVA región fronteriza",
+  "denominacion_comun": "Regla del IVA en frontera norte y sur",
   "temas": [
-    "estímulo fiscal",
+    "estímulos fiscales",
+    "región fronteriza norte",
+    "región fronteriza sur",
     "IVA",
-    "región fronteriza",
-    "requerimientos fiscales",
-    "notificación de irregularidades",
-    "prórroga",
-    "documentación necesaria"
+    "requisitos",
+    "documentación",
+    "notificaciones",
+    "prórrogas"
   ],
   "terminos_coloquiales": [
-    "IVA en la frontera",
-    "requisitos para el IVA frontera",
-    "decreto frontera norte",
-    "decreto frontera sur",
-    "prórroga de plazo",
-    "RMF 11.9.16"
+    "IVA en frontera",
+    "requisitos del IVA",
+    "estímulos IVA frontera",
+    "notificación de irregularidades",
+    "prórroga para presentar información",
+    "oficio de la autoridad fiscal"
   ],
-  "resumen": "Esta disposición establece el procedimiento que la autoridad fiscal sigue para verificar si los contribuyentes cumplen con los requisitos del estímulo fiscal del IVA en la región fronteriza. Incluye plazos para presentar información y documentación, así como las consecuencias de no cumplir con estos requerimientos.",
+  "resumen": "Esta regla establece el procedimiento que la autoridad fiscal debe seguir para verificar si los contribuyentes cumplen con los requisitos para aplicar estímulos fiscales en materia del IVA en las regiones fronterizas norte y sur. Incluye plazos para presentar información y posibles prórrogas, así como las consecuencias por incumplimiento.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si la autoridad me notifica irregularidades sobre el IVA en la frontera?",
-    "¿Cuáles son los plazos para presentar documentos por el estímulo fiscal de IVA?",
-    "¿Qué pasa si no cumplo con los requisitos del estímulo fiscal?",
-    "¿Puedo solicitar una prórroga para presentar la información requerida?",
-    "¿Qué documentación necesito para comprobar los requisitos del estímulo fiscal en la frontera?"
+    "¿Cuáles son los requisitos para aplicar el estímulo fiscal del IVA en la frontera?",
+    "¿Qué sucede si no presento la información solicitada por la autoridad fiscal?",
+    "¿Puedo pedir una prórroga para entregar la documentación requerida?",
+    "¿Cómo se notificarán las irregularidades en mi solicitud de estímulo IVA?",
+    "¿Qué tengo que hacer si me notifican que incumplí con los requisitos?"
   ]
 }

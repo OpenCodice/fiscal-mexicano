@@ -6,36 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:745117551e2df055",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Créditos Incobrables",
   "temas": [
     "créditos otorgados",
-    "persona física",
-    "persona moral",
-    "mora",
-    "UDIS",
-    "deducción",
-    "ingreso acumulable",
-    "actividades empresariales",
-    "créditos hipotecarios",
-    "régimen fiscal"
+    "morosidad",
+    "deducción de créditos",
+    "personas físicas",
+    "instituciones de crédito",
+    "ingresos acumulables",
+    "garantías hipotecarias"
   ],
   "terminos_coloquiales": [
     "créditos incobrables",
-    "deudas no cobradas",
-    "deudores en mora",
+    "mora",
+    "deuda no paga",
     "deducción de deudas",
-    "LIF 25",
-    "RMF 9.1.20"
+    "créditos de bancos",
+    "UDIS"
   ],
-  "resumen": "Las instituciones de crédito deben sumar todos los créditos otorgados a una misma persona en mora para ver si superan las 30 mil UDIS. Esto aplica especialmente para personas que realizan actividades empresariales y se les informará sobre la deducción del crédito incobrable.",
+  "resumen": "Las instituciones de crédito deben sumar todos los créditos otorgados a una misma persona física o moral en mora, para verificar si superan un monto específico. Las deducciones de créditos incobrables solo son aplicables a personas que realicen actividades empresariales, salvo algunas excepciones para deudores con garantía hipotecaria.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si tengo deudas con un banco y estoy en mora?",
-    "¿Cómo se deducen los créditos incobrables?",
-    "¿Qué créditos se consideran incobrables según la ley?",
-    "¿Qué información me debe dar el banco sobre mis deudas?",
-    "¿Qué es una UDIS y cómo afecta mis créditos?",
-    "¿Los créditos hipotecarios son considerados incobrables?"
+    "¿Cómo se determina si mis créditos superan las 30 mil UDIS?",
+    "¿Qué pasa si tengo un crédito incobrable?",
+    "¿Puedo deducir deudas no pagadas en mi declaración?",
+    "¿Cuáles son las excepciones para créditos con garantía hipotecaria?",
+    "¿Qué debo hacer si estoy en mora con un crédito?",
+    "¿Aplican las mismas reglas si soy una persona moral?"
   ]
 }

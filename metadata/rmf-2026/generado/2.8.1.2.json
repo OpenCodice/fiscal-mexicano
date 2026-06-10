@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35fa8b11aa7c6750",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Contabilidad en idioma distinto al español",
   "temas": [
     "documentación contable",
     "idioma distinto al español",
-    "traducción de documentos",
-    "perito traductor",
-    "solicitudes de devolución",
-    "avisos de compensación"
+    "traducción oficial",
+    "devoluciones",
+    "compensaciones",
+    "perito traductor"
   ],
   "terminos_coloquiales": [
     "contabilidad en otro idioma",
-    "traducción de contabilidad",
-    "documentos en inglés",
-    "CFF 28",
-    "RCFF 33"
+    "traducción de documentos",
+    "devolución de impuestos",
+    "compensación de impuestos"
   ],
-  "resumen": "Los contribuyentes pueden llevar su contabilidad en un idioma diferente al español, pero las autoridades fiscales pueden pedir que se traduzcan estos documentos. Para solicitudes de devolución y compensación, se necesita la traducción de la documentación al español.",
+  "resumen": "Los contribuyentes pueden llevar su contabilidad en un idioma diferente al español, pero deben presentar una traducción oficial cuando lo soliciten las autoridades fiscales. Esto aplica para solicitudes de devolución y avisos de compensación.",
   "preguntas_ejemplo": [
     "¿Puedo llevar mi contabilidad en inglés?",
-    "¿Qué pasa si tengo documentos en otro idioma?",
-    "¿Necesito traducir mis comprobantes si están en otro idioma?",
-    "¿Quién puede traducir mis documentos contables?",
-    "¿Qué requisitos hay para solicitudes de devolución en otro idioma?"
+    "¿Necesito traducir mis documentos si están en otro idioma?",
+    "¿Qué pasa si tengo que presentar una solicitud de devolución en otro idioma?",
+    "¿Qué requisitos hay para la traducción de documentos fiscales?",
+    "¿Quién puede ser el perito traductor?"
   ]
 }

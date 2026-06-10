@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a66acfd1d3df0562",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenaciones en Régimen Simplificado de Confianza",
+  "denominacion_comun": "CFDI para enajenaciones del RESICO",
   "temas": [
     "CFDI",
-    "Régimen Simplificado de Confianza",
-    "ingresos",
     "enajenaciones",
-    "registros electrónicos",
-    "facilidades fiscales"
+    "Régimen Simplificado de Confianza",
+    "registro electrónico",
+    "diferimiento de CFDI",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
+    "factura",
     "CFDI mensual",
     "RESICO",
-    "facilidad para CFDI",
-    "registro de operaciones"
+    "registro de operaciones",
+    "diferir facturas"
   ],
-  "resumen": "Los contribuyentes que vendan a otros en el Régimen Simplificado de Confianza pueden emitir un solo CFDI mensual en vez de varios. Deben llevar un registro de las operaciones y asegurarse de emitirlo a más tardar tres días después de finalizar el mes.",
+  "resumen": "Esta regla permite a los contribuyentes del Régimen Simplificado de Confianza diferir la emisión de CFDI por enajenaciones realizadas en un mes, siempre y cuando lleven un registro electrónico de las operaciones. Solo se emitirá un CFDI mensual para el mismo contribuyente, cumpliendo con ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo emitir un CFDI mensual en el RESICO?",
-    "¿Qué debo registrar para las enajenaciones en el Régimen Simplificado de Confianza?",
-    "¿Puedo diferir la emisión de mis CFDI si vendo a un contribuyente del RESICO?",
-    "¿Cuál es la fecha de expedición del CFDI si realizo varias ventas en un mes?",
-    "¿Cómo detallo mis operaciones en el CFDI mensual?",
-    "¿Las ventas a público en general cuentan para el CFDI mensual?"
+    "¿Cómo puedo emitir un CFDI mensual si vendo a un cliente del RESICO?",
+    "¿Qué debo incluir en el registro electrónico de mis enajenaciones?",
+    "¿Puedo diferir la emisión del CFDI si solo vendo a un contribuyente bajo el RESICO?",
+    "¿Qué información necesito para detallar en el CFDI mensual?",
+    "¿Cuáles son mis obligaciones fiscales al diferir CFDI en el RESICO?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7017cb9f14f6bc7f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificados de Fideicomisos",
+  "denominacion_comun": "Retención del ISR por fideicomisos",
   "temas": [
-    "Intermediarios financieros",
-    "Certificados emitidos",
-    "Informe al SAT",
-    "Retenciones de ISR",
-    "Dividendos fiduciarios"
+    "intermediarios financieros",
+    "certificados de fideicomisos",
+    "información al SAT",
+    "retenciones de ISR",
+    "ingresos por enajenación",
+    "dividendos fiduciarios"
   ],
   "terminos_coloquiales": [
-    "Certificados de fideicomiso",
-    "Informe de fideicomisos",
-    "ISR por fideicomisos",
-    "Retención de intereses",
-    "Pagos de dividendos"
+    "certificados de fideicomisos",
+    "intereses de fideicomisos",
+    "reportar al SAT",
+    "retención de impuestos",
+    "ingresos de certificados",
+    "ISR"
   ],
-  "resumen": "Los intermediarios financieros que administran certificados de fideicomisos deben informar al SAT sobre enajenaciones y retenciones de ISR, así como proporcionar constancias a los propietarios de los certificados sobre los ingresos y retenciones correspondientes. También deben entregar constancias de los dividendos fiduciarios pagados.",
+  "resumen": "Los intermediarios financieros deben informar al SAT sobre los certificados emitidos por fideicomisos y los ingresos pagados a los propietarios. También deben proporcionar constancias sobre ingresos y retenciones a los propietarios de los certificados.",
   "preguntas_ejemplo": [
-    "¿Qué deben informar los intermediarios financieros sobre los certificados de fideicomisos?",
-    "¿Cómo se realiza la retención de ISR por intereses de fideicomisos?",
-    "¿Cuándo deben entregar las constancias los intermediarios financieros?",
-    "¿Qué información debe incluir la constancia de ingresos de certificados?",
-    "¿Qué son los dividendos fiduciarios y cómo se informan?"
+    "¿Qué información deben enviar los intermediarios financieros al SAT?",
+    "¿Cómo se informan los ingresos de certificados de fideicomisos?",
+    "¿Qué constancias deben proporcionar los intermediarios a los propietarios de certificados?",
+    "¿Cuándo se deben reportar las retenciones de ISR?",
+    "¿Qué datos contienen las constancias sobre ingresos y retenciones?"
   ]
 }

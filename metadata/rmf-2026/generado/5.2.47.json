@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:128a769718487468",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Uso de códigos de seguridad para tabacos",
+  "denominacion_comun": "Códigos de seguridad para tabacos",
   "temas": [
     "códigos de seguridad",
+    "cigarros",
     "tabacos labrados",
-    "productores de cigarros",
-    "obligaciones fiscales"
+    "obligaciones de productores",
+    "importadores",
+    "pago de derechos",
+    "impresión de códigos"
   ],
   "terminos_coloquiales": [
-    "códigos de seguridad de tabacos",
-    "registro de códigos de seguridad",
-    "IEPS",
-    "CFF",
-    "LFD"
+    "códigos de seguridad",
+    "cigarros",
+    "tabacos",
+    "pagar derechos",
+    "SAT",
+    "ficha de trámite"
   ],
-  "resumen": "Los productores, fabricantes e importadores de cigarros y otros tabacos labrados deben utilizar correctamente los códigos de seguridad, cumpliendo con ciertos requisitos establecidos por el SAT. Esto incluye hacer la solicitud, pagar el derecho correspondiente e imprimir los códigos de manera adecuada en sus productos.",
+  "resumen": "Esta regla establece las obligaciones para los productores, fabricantes e importadores de cigarros y tabacos labrados respecto al uso correcto de los códigos de seguridad. Deben cumplir con varias condiciones, como solicitar códigos autorizados por el SAT y pagar los derechos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo debo usar los códigos de seguridad para mis productos de tabaco?",
-    "¿Qué requisitos debo cumplir para obtener códigos de seguridad para cigarros?",
-    "¿Qué implica la regla 5.2.47 sobre códigos de seguridad?",
-    "¿Cuáles son las obligaciones de los productores de tabacos labrados?",
-    "¿Qué hacer si no tengo los códigos de seguridad para mis cigarros?",
-    "¿Cómo imprimo correctamente los códigos de seguridad en mis empaques?"
+    "¿Cómo obtengo los códigos de seguridad para cigarros?",
+    "¿Cuáles son las obligaciones de los importadores de tabacos labrados?",
+    "¿Qué derechos debo pagar para los códigos de seguridad?",
+    "¿Cómo debo imprimir los códigos de seguridad en los productos?",
+    "¿Qué sucede si no cumplo con los requisitos de códigos de seguridad?"
   ]
 }

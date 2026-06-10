@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3620f4e10412b843",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Avalúos fiscales",
@@ -13,22 +14,23 @@
     "avalúos",
     "cédula profesional",
     "valuadores",
+    "asociaciones de valuadores",
     "peritos",
-    "asociaciones",
-    "reglamento CFF"
+    "efectos fiscales"
   ],
   "terminos_coloquiales": [
-    "avalúos fiscales",
+    "avalúos",
+    "valuadores",
     "cédula de valuador",
-    "avaluador",
-    "perito valuador"
+    "peritos",
+    "avalúos fiscales"
   ],
-  "resumen": "Se acepta que los avalúos fiscales sean realizados por profesionales que cuentan con cédula de valuador. Esto incluye a personas y asociaciones de valuadores. La cédula debe ser autorizada por la Secretaría de Educación Pública.",
+  "resumen": "Se establecen las condiciones para que los avalúos sean aceptados a efectos fiscales, incluyendo quiénes pueden realizar dichos avalúos y la necesidad de contar con una cédula profesional de valuadores emitida por la Secretaría de Educación Pública.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden realizar avalúos fiscales?",
-    "¿Qué se necesita para que un avalúo sea aceptado fiscalmente?",
-    "¿Qué es una cédula de valuador?",
-    "¿Cuáles asociaciones pueden agrupar peritos valuadores?",
-    "¿Cómo se verifica la validez de un avalúo fiscal?"
+    "¿Quiénes pueden hacer un avalúo fiscal?",
+    "¿Qué se necesita para que un avalúo sea aceptado por la autoridad fiscal?",
+    "¿Cuál es la importancia de la cédula profesional de valuador?",
+    "¿Qué tipos de asociaciones pueden realizar avalúos fiscales?",
+    "¿Dónde puedo obtener más información sobre los avalúos fiscales?"
   ]
 }

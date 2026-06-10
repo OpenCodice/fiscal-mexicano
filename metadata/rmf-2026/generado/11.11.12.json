@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b02d5d8a44e6d34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimulo fiscal IVA PODEBI",
+  "denominacion_comun": "Estímulo fiscal del PODEBI",
   "temas": [
-    "estimulo fiscal",
     "IVA",
-    "PODEBI",
-    "declaración mensual",
+    "estímulo fiscal",
+    "declaraciones definitivas",
     "CFDI",
-    "actividades económicas productivas"
+    "contribuyentes",
+    "actividades económicas",
+    "PODEBI"
   ],
   "terminos_coloquiales": [
-    "estimulo fiscal para IVA",
-    "declaración de IVA",
-    "PODEBI",
-    "regla 11.11.12"
+    "crédito de IVA",
+    "declarar IVA",
+    "estímulo PODEBI",
+    "IVA crédito PODEBI",
+    "CFDI de ingreso",
+    "CFDI de pago"
   ],
-  "resumen": "Los contribuyentes que apliquen el estímulo fiscal del IVA deben declararlo en sus declaraciones mensuales utilizando la información de los CFDI relevantes. Esto incluye mencionar los actos o actividades para los que aplica el estímulo.",
+  "resumen": "Esta disposición establece que los contribuyentes que apliquen un estímulo fiscal en sus pagos mensuales de IVA deben declararlo en sus declaraciones usando información de CFDis emitidos y recibidos, que contengan ciertas claves relacionadas con el impuesto. Se refiere al estímulo por actividades económicas productivas dentro de los PODEBI.",
   "preguntas_ejemplo": [
-    "¿Cómo declaro el estímulo fiscal del IVA PODEBI?",
-    "¿Qué campos debo llenar en mi declaración mensual de IVA?",
-    "¿Qué es el estímulo fiscal por actividades económicas PODEBI?",
-    "¿Cómo uso los CFDI en la declaración del IVA?",
-    "¿Qué claves debo usar al declarar el estímulo fiscal?",
-    "¿Qué actividades son consideradas para el estímulo fiscal del IVA?"
+    "¿Cómo declarar el estímulo fiscal del PODEBI?",
+    "¿Qué claves debo usar en mis CFDI para el IVA crédito PODEBI?",
+    "¿Cuándo debo aplicar el estímulo fiscal en mis pagos de IVA?",
+    "¿Qué información necesito para mis declaraciones de IVA relacionadas con el PODEBI?",
+    "¿Qué actividades económicas califican para el estímulo fiscal del PODEBI?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:beade0dd7bdaf1b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medición de Aguas Nacionales",
   "temas": [
-    "derechos por aguas",
-    "medición de aguas",
+    "derechos",
+    "aguas nacionales",
     "aparatos de medición",
     "CFDI",
+    "CONAGUA",
+    "SAT",
     "registro de lecturas"
   ],
   "terminos_coloquiales": [
-    "derechos por aguas",
     "medición de aguas",
-    "aparatos de medición",
-    "CFDI para medición",
-    "LFD",
-    "Ley Federal de Derechos"
+    "derecho de agua",
+    "CFDI de compras",
+    "conservación de aparatos",
+    "CONAGUA",
+    "SAT"
   ],
-  "resumen": "Las personas físicas y morales que usan aguas nacionales pueden descontar los costos de los aparatos de medición de sus derechos. Deben presentar el CFDI correspondiente y llevar un registro de las lecturas en un formato autorizado.",
+  "resumen": "Las personas que deben pagar derechos por el uso de aguas nacionales pueden disminuir su pago incluyendo el costo de aparatos de medición en su declaración. También se les permite llevar un registro de las lecturas de estos aparatos de una manera simplificada.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo descontar el costo de los aparatos de medición de mis derechos de agua?",
-    "¿Qué documentos necesito para comprobar los gastos de medición de aguas?",
-    "¿Cómo llevo el registro de mis lecturas de agua?",
-    "¿Los CFDI de los aparatos de medición necesitan cumplir con ciertos requisitos?",
-    "¿Qué normas debo seguir para instalar los aparatos de medición de agua?"
+    "¿Cómo puedo disminuir el pago de derechos por el uso de aguas nacionales?",
+    "¿Necesito presentar el CFDI original de los aparatos de medición?",
+    "¿Cómo registro las lecturas de mis aparatos de medición?",
+    "¿Qué requisitos fiscales deben cumplir los CFDI de compra?",
+    "¿Qué pasa si no tengo los documentos de verificación de CONAGUA?"
   ]
 }

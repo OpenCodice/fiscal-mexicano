@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae147deb17ca5477",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos Deducibles",
+  "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "Comprobantes Fiscales Digitales",
-    "Donativos",
+    "CFDI",
     "Complemento Donatarias",
+    "Donativos",
     "Comisiones de Derechos Humanos",
-    "Ley del ISR",
     "Reglamento de la Ley del ISR"
   ],
   "terminos_coloquiales": [
+    "factura deducible",
+    "donaciones",
     "donativos deducibles",
-    "comprobantes fiscales",
-    "CFDI",
-    "Complemento Donatarias"
+    "CFDI de donativos",
+    "Gobierno",
+    "DH"
   ],
-  "resumen": "Los CFDI que respalden donativos deducibles deben incluir un complemento específico que indique la autorización de la entidad donataria. Este complemento asegura que se cumpla con las normativas fiscales establecidas en la ley.",
+  "resumen": "Esta disposición establece que los CFDI que amparen donativos deducibles deben incluir el 'Complemento Donatarias' y llenar ciertos campos con información específica. También se menciona que estos CFDI pueden generarse a través de una herramienta del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos tienen que cumplir los CFDI de donativos deducibles?",
-    "¿Cómo se incluye el Complemento Donatarias en un CFDI?",
-    "¿Qué información se necesita para los donativos deducibles?",
-    "¿Qué son las comisiones de derechos humanos en el contexto de donativos?",
-    "¿Dónde puedo generar un CFDI para un donativo deducible?"
+    "¿Cómo puedo emitir un CFDI por un donativo deducible?",
+    "¿Qué información debe incluir un CFDI de donativo?",
+    "¿Qué es el Complemento Donatarias en los CFDI?",
+    "¿A quiénes se les puede hacer donativos deducibles?",
+    "¿Dónde puedo generar mis facturas de donativos?"
   ]
 }

@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7a135051b7a62375",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Procedimiento de certificación",
   "temas": [
-    "Órganos certificadores",
-    "Verificación",
-    "Cumplimiento de obligaciones",
-    "Visita de sitio",
-    "Documentación requerida",
-    "Incumplimientos",
-    "Resultados de certificación"
+    "órganos certificadores",
+    "terceros autorizados",
+    "cumplimiento de requisitos",
+    "verificación",
+    "documentación",
+    "notificación de incumplimientos",
+    "opinión tecnológica"
   ],
   "terminos_coloquiales": [
-    "certificación de cumplimiento",
-    "órganos certificadores",
-    "verificación de requisitos",
-    "visita de sitio"
+    "certificación",
+    "auditoría",
+    "SAT",
+    "verificación de cumplimiento"
   ],
-  "resumen": "Los órganos certificadores realizan un procedimiento de verificación para certificar que los terceros autorizados cumplan con sus obligaciones. Se informa sobre la fecha de la visita, se solicita documentación y se levantan actas sobre los incumplimientos detectados.",
+  "resumen": "Este procedimiento establece cómo los órganos certificadores deben verificar que los terceros autorizados por el SAT cumplan con los requisitos y obligaciones fiscales. Incluye la visita de sitio, la recolección de documentación, y la notificación de cualquier incumplimiento detectado.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza el procedimiento de certificación?",
-    "¿Qué pasa si el órgano certificador encuentra incumplimientos?",
-    "¿Qué documentación se necesita durante la visita de sitio?",
-    "¿Cuánto tiempo tengo para aclarar los incumplimientos?",
-    "¿Qué es un órgano certificador?",
-    "¿Cómo se notifican los resultados de la certificación?"
+    "¿Cómo se verifica que un tercero autorizado cumpla con sus obligaciones fiscales?",
+    "¿Qué sucede si el órgano certificador encuentra incumplimientos?",
+    "¿Qué documentación debe presentar el tercero autorizado durante la verificación?",
+    "¿Cómo se documenta el resultado de la verificación por parte del órgano certificador?",
+    "¿Qué tipo de opinión puede emitir la ACSMC sobre incumplimientos?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b22021ac423a09c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actualización del IAEEH",
   "temas": [
-    "cuotas",
-    "actualización",
-    "INPC",
+    "Cuotas",
+    "Actualización",
     "LISH",
-    "anexo"
+    "INPC",
+    "Procedimiento",
+    "Anexo"
   ],
   "terminos_coloquiales": [
-    "actualización de cuotas",
+    "cuotas de hidrocarburos",
     "IAEEH",
-    "cuotas de hidrocarburos"
+    "actualización de cuotas",
+    "subida de impuestos",
+    "impuesto a los hidrocarburos"
   ],
-  "resumen": "Esta regla establece cómo se actualizan las cuotas del IAEEH según el artículo 55 de la LISH tomando como base el INPC de dos periodos específicos. Se genera un factor de actualización que se aplica a dichas cuotas.",
+  "resumen": "Esta regla establece cómo se actualizarán las cuotas del Impuesto Especial sobre Producción y Servicios para hidrocarburos, usando el Índice Nacional de Precios al Consumidor. Se menciona el período de consideración para dicha actualización.",
   "preguntas_ejemplo": [
     "¿Cómo se actualizan las cuotas del IAEEH?",
-    "¿Qué años se consideran para la actualización de cuotas según la LISH?",
     "¿Qué es el INPC y cómo afecta las cuotas de hidrocarburos?",
-    "¿Dónde puedo encontrar el Anexo 25 mencionado en la regla?",
-    "¿Cómo se calcula el factor de actualización del IAEEH?"
+    "¿Qué criterios se usan para la actualización de cuotas según la LISH?",
+    "¿Dónde puedo encontrar el Anexo 25 sobre la actualización del IAEEH?",
+    "¿Cuál es el procedimiento para actualizar las cuotas de hidrocarburos?"
   ]
 }

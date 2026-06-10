@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:181c07138fab3f36",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de CSD",
+  "denominacion_comun": "Certificado de Sello Digital (CSD)",
   "temas": [
-    "Certificado de Sello Digital",
-    "Irregularidades fiscales",
-    "Solicitud de nuevo CSD",
-    "Procedimiento de aclaración"
+    "cancelación de CSD",
+    "irregularidades fiscales",
+    "nuevo CSD",
+    "aclaración de situación fiscal"
   ],
   "terminos_coloquiales": [
-    "CSD cancelado",
-    "Problemas con el CSD",
-    "Certificado de Sello Digital",
-    "CDS",
-    "CSD y regularización"
+    "CSD",
+    "certificado digital",
+    "certificado de sello",
+    "cancelación de sello",
+    "dar de baja CSD"
   ],
-  "resumen": "Los contribuyentes a los que se les ha dejado sin efectos su CSD no podrán solicitar uno nuevo hasta que subsanen las irregularidades que llevaron a dicha cancelación. Si logran corregir su situación fiscal, podrán iniciar un procedimiento para obtener un nuevo CSD.",
+  "resumen": "Esta disposición establece que los contribuyentes cuyo Certificado de Sello Digital (CSD) haya sido cancelado por la autoridad no podrán solicitar uno nuevo a menos que subsanen las irregularidades que llevaron a dicha cancelación y corrijan su situación fiscal. Una vez subsanadas las causas, podrán solicitar un nuevo CSD siguiendo el procedimiento correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mi CSD fue cancelado?",
-    "¿Cómo puedo recuperar mi CSD?",
-    "¿Qué debo hacer si tengo irregularidades fiscales relacionadas con mi CSD?",
-    "¿Puedo volver a solicitar un CSD después de la cancelación?",
-    "¿Qué procedimientos debo seguir para aclarar mi situación fiscal?"
+    "¿Qué hacer si me cancelaron mi CSD?",
+    "¿Puedo obtener un nuevo CSD si lo cancelaron por irregularidades?",
+    "¿Cuáles son las causas para que un CSD sea cancelado?",
+    "¿Qué procedimiento seguir para corregir mi situación fiscal y obtener un nuevo CSD?",
+    "¿Cómo subsanar las irregularidades que causaron la cancelación de mi CSD?"
   ]
 }

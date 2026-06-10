@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfa8fbbe393b2c63",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios de fletamento a casco desnudo",
   "temas": [
-    "fletamento",
     "CFDI",
     "complemento Carta Porte",
-    "traslado de mercancías",
-    "contrato de fletamento",
-    "servicio de transporte"
+    "fletamento",
+    "transporte marítimo",
+    "embarcación",
+    "puertos mexicanos"
   ],
   "terminos_coloquiales": [
-    "fletamento a casco desnudo",
+    "fletamento",
+    "arrendamiento de barcos",
+    "transporte marítimo",
     "CFDI de traslado",
-    "CFDI de ingreso",
-    "complemento Carta Porte"
+    "CFDI de ingreso"
   ],
-  "resumen": "Los contribuyentes que utilicen embarcaciones a casco desnudo deben emitir un CFDI de tipo traslado con complemento Carta Porte para mover mercancías entre puertos. Si el servicio es prestado a un tercero, se requiere un CFDI de ingreso con el mismo complemento.",
+  "resumen": "Los fletadores que usen embarcaciones para transportar mercancías deben emitir un CFDI de tipo traslado con complemento Carta Porte. Si el fletador ofrece el servicio a un tercero, debe emitir un CFDI de tipo ingreso con el mismo complemento. Esta obligación no aplica para fletadores extranjeros sin establecimiento en México.",
   "preguntas_ejemplo": [
-    "¿Qué es el fletamento a casco desnudo?",
-    "¿Cómo emitir un CFDI para el fletamento de mercancías?",
-    "¿Qué complemento necesito para un CFDI de traslado?",
-    "¿Cuándo debo emitir un CFDI de ingreso por fletamento?",
-    "¿Cuál es la diferencia entre CFDI de traslado y CFDI de ingreso?",
-    "¿Qué pasa si el fletador es extranjero?"
+    "¿Qué debo hacer si arrendo un barco para transportar mercancías?",
+    "¿Cómo emito un CFDI de traslado con complemento Carta Porte?",
+    "¿Qué sucede si el fletador es del extranjero?",
+    "¿Cuándo se necesita un CFDI de ingreso para fletar mercancías?",
+    "¿Qué requisitos tiene el fletamento a casco desnudo?"
   ]
 }

@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da784d012cadba4c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Verificación en el RFC para entidades financieras y SOCAP",
+  "denominacion_comun": "Verificación de RFC para entidades financieras y SOCAP",
   "temas": [
     "inscripción en el RFC",
-    "verificación de datos",
     "cuentahabientes",
-    "socios",
     "entidades financieras",
     "SOCAP",
-    "cuentas de depósito",
-    "créditos comerciales"
+    "verificación de datos",
+    "servicios de validación",
+    "tipos de cuentas",
+    "créditos comerciales",
+    "créditos garantizados",
+    "créditos de consumo"
   ],
   "terminos_coloquiales": [
-    "Verificación de RFC",
-    "Validación de RFC",
-    "Cuentas de bancos",
+    "inscripción en el RFC",
+    "verificación de RFC",
+    "cuentas bancarias",
+    "entidades financieras",
     "SOCAP",
-    "Entidades financieras"
+    "microcréditos"
   ],
-  "resumen": "Las entidades financieras y las SOCAP deben verificar que sus cuentahabientes o socios estén inscritos en el RFC utilizando un procedimiento de validación en línea. La verificación se aplica a diferentes tipos de cuentas y créditos según ciertos límites establecidos.",
+  "resumen": "Las entidades financieras y SOCAP deben verificar que sus cuentahabientes estén inscritos en el RFC mediante un procedimiento de validación. Esta verificación aplica a cuentas de depósito, créditos y otros tipos de relaciones financieras.",
   "preguntas_ejemplo": [
-    "¿Cómo verifico si estoy inscrito en el RFC?",
-    "¿Qué entidades están obligadas a validar el RFC de sus cuentahabientes?",
-    "¿Existen límites para la verificación de cuentas en el RFC?",
-    "¿Cuándo se debe validar el RFC en cuentas específicas?",
-    "¿Qué tipos de créditos requieren verificación del RFC?"
+    "¿Cómo puedo saber si estoy inscrito en el RFC?",
+    "¿Qué entidades verifican mi RFC?",
+    "¿Qué tipos de cuentas necesitan verificación del RFC?",
+    "¿Qué pasa si no estoy inscrito en el RFC?",
+    "¿Cuándo aplica la verificación del RFC para SOCAP?",
+    "¿Qué son los microcréditos y cómo se relacionan con el RFC?"
   ]
 }

@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2ad265a43f6862d0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medios de defensa contra el buzón tributario",
   "temas": [
-    "derechos de los contribuyentes",
-    "medios de defensa",
     "buzón tributario",
+    "medios de defensa",
     "suspensión provisional",
     "amparo",
     "ISR",
-    "CFF",
     "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "defensa contra el buzón",
+    "defensa fiscal",
     "buzón tributario",
+    "suspensión de pagos",
     "amparo fiscal",
-    "ISR"
+    "ISR",
+    "e.firma"
   ],
-  "resumen": "Los contribuyentes que hayan interpuesto un medio de defensa y obtenido una medida cautelar podrán optar por pagar el ISR bajo ciertas condiciones. Esto se relaciona con los derechos de los contribuyentes ante el buzón tributario.",
+  "resumen": "Esta disposición permite a los contribuyentes que han interpuesto un medio de defensa y recibido una medida cautelar, optar por el pago del ISR bajo ciertas condiciones. Proporciona opciones a los contribuyentes frente a decisiones relacionadas con el buzón tributario.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si el buzón tributario me afecta?",
-    "¿Cómo puedo defenderme del buzón tributario?",
-    "¿Qué es un amparo fiscal en el contexto del buzón tributario?",
-    "¿Qué opciones tengo si recibo una medida cautelar?",
-    "¿Puedo pagar el ISR de manera diferente si tengo un medio de defensa?"
+    "¿Qué hago si me otorgaron un amparo contra el buzón tributario?",
+    "¿Puedo suspender el pago del ISR si tengo un medio de defensa?",
+    "¿Qué es una medida cautelar relacionada con el buzón tributario?",
+    "¿Cómo afecta el amparo al pago del ISR?",
+    "¿Quiénes pueden optar por el pago del ISR según la ley?"
   ]
 }

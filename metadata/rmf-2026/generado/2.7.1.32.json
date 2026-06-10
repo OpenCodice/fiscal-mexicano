@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07c392121b7cebe9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Expedición de CFDI por pagos realizados",
+  "denominacion_comun": "Expedición de CFDI por pagos",
   "temas": [
     "CFDI",
-    "comprobantes fiscales",
-    "pagos recibidos",
-    "complemento para recepción de pagos"
+    "pagos",
+    "complemento para recepción de pagos",
+    "emisión de facturas",
+    "Código Fiscal de la Federación",
+    "contraprestaciones",
+    "método de pago"
   ],
   "terminos_coloquiales": [
-    "factura electrónica",
-    "CFDI por pagos",
-    "CPRP",
-    "complemento de pago"
+    "factura",
+    "CFDI",
+    "complemento para recepción de pagos",
+    "recibir pagos",
+    "cuotas",
+    "pagos parciales"
   ],
-  "resumen": "Se deben emitir CFDI por el total de la operación y por cada pago recibido, indicando \"cero\" en el total de los pagos. Se puede emitir un solo CFDI por todos los pagos de un mes para el mismo receptor.",
+  "resumen": "La regla establece que cuando un pago no se realiza en una sola exhibición, se debe emitir un CFDI por el total de la operación y después uno por cada pago recibido. Además, se debe incluir un complemento para recepción de pagos y emitir el CFDI correspondiente dentro de un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Cómo emito un CFDI por pagos parciales?",
-    "¿Qué debo incluir en el CFDI de complemento para recepción de pagos?",
-    "¿Cuándo tengo que emitir el CFDI por un pago recibido?",
-    "¿Puedo emitir un solo CFDI por varios pagos?",
-    "¿Qué pasa si no recibo el pago al emitir el CFDI?"
+    "¿Cómo debo emitir un CFDI si no recibo el pago completo de un servicio?",
+    "¿Qué es el complemento para recepción de pagos en un CFDI?",
+    "¿Cuántos CFDI debo emitir si recibo pagos parciales?",
+    "¿Cuál es el plazo para emitir un CFDI por pagos recibidos?",
+    "¿Qué debo poner en el campo 'Total' de un CFDI si aún no he recibido el pago?"
   ]
 }

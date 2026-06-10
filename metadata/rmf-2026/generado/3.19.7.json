@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62fcb8a4376b6d6d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entidades extranjeras sujetas a regímenes fiscales preferentes",
+  "denominacion_comun": "Entidades extranjeras controladas y regímenes fiscales preferentes",
   "temas": [
     "declaración informativa",
     "entidades extranjeras",
     "regímenes fiscales",
-    "ISR",
-    "enviado al SAT"
+    "Ley del ISR",
+    "Portal del SAT",
+    "forma oficial 63"
   ],
   "terminos_coloquiales": [
     "declaración de entidades extranjeras",
     "regímenes fiscales preferentes",
-    "formulario 63",
     "ISR",
-    "SAT"
+    "SAT",
+    "declaración informativa"
   ],
-  "resumen": "Los contribuyentes deben presentar una declaración informativa para las entidades extranjeras sujetas a regímenes fiscales preferentes, utilizando el formulario oficial 63 a través del Portal del SAT.",
+  "resumen": "Los contribuyentes que deben presentar la declaración informativa para las entidades extranjeras controladas tienen que enviarla a través del Portal del SAT utilizando la forma oficial 63. Esta obligación está establecida en el artículo 178 de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración informativa de entidades extranjeras?",
-    "¿Cómo presento el formulario 63 al SAT?",
-    "¿Qué regímenes fiscales son considerados preferentes?",
-    "¿Cuándo debo enviar la declaración informativa?",
-    "¿Qué información incluye la declaración de entidades extranjeras?"
+    "¿Cómo presento la declaración de entidades extranjeras?",
+    "¿Qué es la forma oficial 63 del SAT?",
+    "¿Qué obligaciones tengo con las entidades extranjeras controladas?",
+    "¿Dónde encuentro la información sobre regímenes fiscales preferentes?",
+    "¿Qué dice el artículo 178 de la Ley del ISR?",
+    "¿Qué implica la declaración informativa para las entidades extranjeras?"
   ]
 }

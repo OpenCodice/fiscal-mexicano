@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f65a83f8f6555fd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Almacenamiento de CFDI",
   "temas": [
     "CFDI",
     "Almacenamiento",
-    "Medios magnéticos",
-    "Formato electrónico",
-    "Tecnología",
+    "Formatos electrónicos",
+    "Tecnologías",
     "Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "Almacenamiento de facturas",
+    "factura",
     "CFDI",
-    "Comprobantes fiscales digitales",
-    "Factura electrónica"
+    "comprobante fiscal",
+    "guardar CFDI"
   ],
-  "resumen": "Los contribuyentes deben almacenar los CFDI que expidan y reciban en formatos electrónicos como XML, utilizando medios magnéticos o tecnológicos. Esta regla no aplica para quienes usan un sistema de registro fiscal específico.",
+  "resumen": "Los contribuyentes deben almacenar las facturas electrónicas (CFDI) en medios digitales, como XML. Esta regla no aplica a quienes usan un sistema de registro fiscal específico.",
   "preguntas_ejemplo": [
-    "¿Cómo debo almacenar mis CFDI?",
-    "¿Qué formatos son válidos para guardar mis facturas electrónicas?",
-    "¿Los contribuyentes siempre tienen que guardar los CFDI?",
-    "¿Qué pasa si uso un sistema de registro fiscal para mis CFDI?",
-    "¿Qué es el formato XML en relación a los CFDI?"
+    "¿Cómo debo guardar mis CFDI?",
+    "¿Qué formatos puedo usar para almacenar mis facturas electrónicas?",
+    "¿Esta regla aplica para todos los contribuyentes?",
+    "¿Qué tecnología se permite para el almacenamiento de CFDI?",
+    "¿Qué sucede si utilizo otro sistema de registro fiscal?"
   ]
 }

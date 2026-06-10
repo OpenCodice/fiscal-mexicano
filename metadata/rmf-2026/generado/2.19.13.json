@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4e56b8f066e0a03e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "esquemas reportables",
+    "declaraciones informativas",
     "documentación fiscal",
-    "asesores fiscales",
-    "obligaciones de contribuyentes",
-    "información sobre operaciones",
-    "transacciones entre partes relacionadas",
+    "contribuyentes beneficiados",
+    "operaciones entre partes relacionadas",
+    "funciones únicas",
+    "activos valiosos",
     "comparables fiables",
-    "valores de activos únicos"
+    "razón de negocios"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
-    "declaración de esquemas",
-    "información de esquemas reportables",
-    "esquema reportable",
-    "CFF",
-    "RMF"
+    "reportar esquemas",
+    "esquemas fiscales",
+    "declaraciones de impuestos",
+    "asesoría fiscal"
   ],
-  "resumen": "La disposición trata sobre la información y documentación que deben presentar los asesores fiscales o contribuyentes en las declaraciones informativas relacionadas con esquemas reportables. Incluye requisitos específicos para esquemas generalizados y personalizados, así como detalles sobre las operaciones y los contribuyentes beneficiados.",
+  "resumen": "Los asesores fiscales o contribuyentes deben adjuntar documentación que describa operaciones jurídicas involucradas en esquemas reportables, identificando beneficiarios y características específicas de las operaciones. Esto incluye un diagrama de operaciones y la razón de negocios detrás de ellas.",
   "preguntas_ejemplo": [
-    "¿Qué es un esquema reportable?",
-    "¿Qué información debo enviar sobre mis operaciones reportables?",
-    "¿Cuáles son mis obligaciones como asesor fiscal en relación a esquemas reportables?",
-    "¿Qué documentación necesito para cumplir con el reporte de esquemas?",
-    "¿Cómo se determinan los contribuyentes beneficiados en un esquema reportable?"
+    "¿Qué información debo presentar para un esquema reportable?",
+    "¿Cómo se identifican los contribuyentes beneficiados en un esquema fiscal?",
+    "¿Qué es un esquema reportable y cómo afecta mi declaración?",
+    "¿Qué sucede si no tengo toda la documentación para reportar un esquema?",
+    "¿Cuáles son los requisitos para los esquemas reportables personalizados?"
   ]
 }

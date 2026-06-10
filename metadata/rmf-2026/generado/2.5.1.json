@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:330f6b5b28fcae0e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cambio de residencia fiscal de personas físicas",
   "temas": [
-    "Aviso de cambio de residencia",
-    "Cese de actividades",
-    "Actualización de actividades económicas",
-    "Obligaciones fiscales"
+    "residencia fiscal",
+    "cese de actividades",
+    "actualización de actividades",
+    "avisos fiscales"
   ],
   "terminos_coloquiales": [
-    "Cambio de residencia",
-    "Aviso de cese",
-    "Aviso de actualización",
+    "cambio de residencia fiscal",
+    "aviso de suspensión de actividades",
+    "aviso de actualización de actividades",
+    "CFF",
     "RFC"
   ],
-  "resumen": "Las personas físicas que cambian de residencia fiscal deben presentar un aviso según su situación. Si cesan actividades, deben hacer un aviso de cese, y si continúan, un aviso de actualización de actividades económicas.",
+  "resumen": "Las personas físicas que cambien su residencia fiscal deben presentar un aviso. Si cesan total de actividades fiscales en el país, deben presentar un aviso de suspensión; si continúan con actividades, deben presentar un aviso de actualización.",
   "preguntas_ejemplo": [
     "¿Qué debo hacer si cambio de residencia fiscal?",
-    "¿Cómo presento el aviso de cese de actividades?",
-    "¿Qué es el aviso de actualización de actividades económicas?",
-    "¿Cuáles son mis obligaciones si cambio de residencia?",
-    "¿Dónde encuentro el formulario para avisar el cambio de residencia fiscal?"
+    "¿Cómo presento el aviso de cambio de residencia fiscal?",
+    "¿Qué sucede si dejo de trabajar en el país?",
+    "¿Qué aviso necesito si sigo trabajando después de cambiar de residencia?",
+    "¿Cuáles son los requisitos para el aviso de suspensión de actividades?"
   ]
 }

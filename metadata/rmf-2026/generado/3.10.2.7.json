@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fb79f6654e7b0e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remanente distribuible y pagos exentos para personas morales",
+  "denominacion_comun": "Remanente distribuible en personas morales",
   "temas": [
     "Impuesto sobre la renta",
     "Personas morales",
-    "Pagos exentos",
+    "Remanente distribuible",
     "Servicios personales subordinados",
-    "CFDI",
-    "Contabilidad detallada",
-    "Ingresos exentos"
+    "Ingresos exentos",
+    "Fideicomisos",
+    "Fondos de inversión",
+    "CFDI"
   ],
   "terminos_coloquiales": [
     "remanente distribuible",
-    "pagos exentos",
     "personas morales",
-    "ISR",
+    "fondos de inversión",
+    "servicios personales",
+    "ingresos exentos",
+    "fideicomisos",
     "CFDI"
   ],
-  "resumen": "Las personas morales y fondos de inversión mencionados no necesitan considerar como remanente distribuible los pagos exentos que hacen a sus trabajadores por servicios vinculados a sus actividades. Deben llevar un control detallado y tener los CFDI correspondientes a esos pagos.",
+  "resumen": "Las personas morales y fondos de inversión pueden no considerar remanente distribuible los pagos realizados a sus trabajadores por servicios personales, si estos ingresos son exentos. Además, deben llevar un control detallado y contar con CFDI de dichos pagos.",
   "preguntas_ejemplo": [
-    "¿Qué son los pagos exentos para personas morales?",
-    "¿Cómo se maneja el remanente distribuible en el ISR?",
-    "¿Qué controles debo llevar para los pagos exentos?",
-    "¿Qué es un CFDI y por qué es importante?",
-    "¿Cuáles son las obligaciones contables para cumplir con el ISR?"
+    "¿Cómo se considera el remanente distribuible en las personas morales?",
+    "¿Qué pagos a trabajadores pueden no ser considerados remanente distribuible?",
+    "¿Qué requisitos debo cumplir para no considerar remanente distribuible los pagos a empleados?",
+    "¿Qué son los ingresos exentos para trabajadores en el contexto de la Ley del ISR?",
+    "¿Qué documentos necesito para justificar los pagos exentos a mis trabajadores?"
   ]
 }

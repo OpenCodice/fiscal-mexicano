@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:272dbef69357f557",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento por uso de carreteras",
+  "denominacion_comun": "Acreditamiento de gastos por carreteras",
   "temas": [
-    "acreditamiento",
     "carreteras",
     "caminos",
-    "infraestructura",
-    "transportistas",
+    "acreditamiento",
     "gastos",
-    "construcción",
-    "concesionarios"
+    "transportistas",
+    "infraestructura",
+    "concesionarios",
+    "fondos federales",
+    "fondos locales"
   ],
   "terminos_coloquiales": [
-    "acreditamiento de carreteras",
+    "gastos en carreteras",
+    "acreditamiento de gastos",
     "uso de caminos",
-    "infraestructura carretera",
-    "LIF",
-    "gastos de transportistas"
+    "transportistas",
+    "inversiones en carreteras"
   ],
-  "resumen": "La disposición establece que los gastos por uso de carreteras o caminos construidos por diversas entidades son acreditables para ciertos efectos fiscales. Se incluye tanto la construcción con fondos federales como locales.",
+  "resumen": "Se establece que se consideran carreteras o caminos aquellos construidos total o parcialmente por el gobierno o concesionarios. Estos pueden ser acreditados por los transportistas para el uso de la infraestructura carretera.",
   "preguntas_ejemplo": [
-    "¿Qué carreteras son acreditables para los transportistas?",
-    "¿Puedo acreditar gastos por el uso de caminos construidos por el municipio?",
-    "¿Qué entidades pueden construir carreteras que permitan acreditamiento?",
-    "¿Cuáles son los requisitos para el acreditamiento de gastos por uso de infraestructuras viales?"
+    "¿Qué carreteras pueden incluirse para el acreditamiento de gastos?",
+    "¿Cómo puedo acreditar gastos por el uso de carreteras?",
+    "¿Quiénes son los responsables de construir las carreteras que puedo usar para el acreditamiento?",
+    "¿Qué fondos se utilizan para construir las carreteras acreditables?",
+    "¿Qué significa acreditamiento de gastos para transportistas?"
   ]
 }

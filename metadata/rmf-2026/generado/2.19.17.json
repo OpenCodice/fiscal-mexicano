@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0c81e0457936d6c0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas reportables",
+  "denominacion_comun": "Esquemas Reportables",
   "temas": [
-    "documentación fiscal",
-    "esquemas reportables generalizados",
-    "esquemas reportables personalizados",
-    "mecanismos híbridos",
     "declaraciones informativas",
-    "valor de operaciones",
+    "esquemas reportables",
+    "mecanismos híbridos",
+    "actividades jurídicas",
+    "estructura fiscal",
     "beneficios fiscales",
     "acuerdos estructurados"
   ],
   "terminos_coloquiales": [
-    "esquemas reportables",
+    "documentación de esquemas",
     "reportes fiscales",
+    "esquemas fiscales",
+    "información fiscal",
     "mecanismos híbridos",
-    "ERP",
-    "declaraciones informativas"
+    "acuerdos fiscales"
   ],
-  "resumen": "Esta regla establece los requisitos de información y documentación que deben presentar los asesores fiscales o contribuyentes sobre esquemas reportables, diferenciando entre esquemas generalizados y personalizados, incluyendo detalles sobre mecanismos híbridos y partes involucradas.",
+  "resumen": "La regla establece los requisitos que deben cumplir los asesores fiscales y contribuyentes al presentar esquemas reportables, incluyendo la documentación necesaria y detalles sobre operaciones y participantes. Se menciona la identificación de mecanismos híbridos y acuerdos estructurados en estos esquemas.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un esquema reportable?",
-    "¿Cómo se documentan los esquemas reportables personalizados?",
-    "¿Qué son los mecanismos híbridos en la legislación fiscal?",
-    "¿Cuáles son las obligaciones para reportar esquemas fiscales?",
-    "¿Qué información se necesita sobre los contribuyentes beneficiados en un esquema reportable?"
+    "¿Qué debo incluir en un esquema reportable?",
+    "¿Qué información necesito para reportar un mecanismo híbrido?",
+    "¿Cómo se documenta un acuerdo estructurado en el esquema reportable?",
+    "¿Qué implicaciones tiene un esquema reportable para los beneficios fiscales?",
+    "¿Cómo se determinan las operaciones que forman parte de un esquema reportable?",
+    "¿Qué es un esquema reportable personalizado?"
   ]
 }

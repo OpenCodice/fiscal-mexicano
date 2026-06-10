@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9a7b135f730fb75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Certificación de CFDI",
   "temas": [
-    "Verificación de requisitos",
-    "Proveedores de certificación",
-    "Tecnologías de la información",
-    "Autenticidad y trazabilidad",
-    "Incumplimientos",
-    "Procedimiento de verificación",
-    "Oficio de opinión técnica"
+    "verificación de requisitos",
+    "proveedores de certificación",
+    "cumplimiento de obligaciones",
+    "tecnologías de la información",
+    "plazos y notificaciones",
+    "sanciones por incumplimiento",
+    "acta circunstanciada",
+    "opinión técnica final"
   ],
   "terminos_coloquiales": [
-    "Certificación CFDI",
-    "Proveedores CFDI",
-    "Acuerdos de certificación",
-    "Verificación SAT"
+    "certificación de facturas",
+    "verificación de CFDI",
+    "SAT",
+    "proveedores de CFDI",
+    "incumplimientos",
+    "acta de verificación"
   ],
-  "resumen": "El SAT puede verificar en cualquier momento si los proveedores de certificación de CFDI cumplen con los requisitos y obligaciones relacionados con la seguridad de la información. Si hay incumplimientos, se les da un plazo para solventarlos, y se evalúa la información presentada para determinar si pueden seguir operando.",
+  "resumen": "La regla establece que el SAT puede verificar el cumplimiento de los requisitos y obligaciones de los proveedores de certificación de CFDI en cualquier momento. Esta verificación incluye la notificación de incumplimientos y la posibilidad de sanciones si no se presentan las pruebas necesarias en el plazo otorgado.",
   "preguntas_ejemplo": [
-    "¿Cómo se verifica que un proveedor cumpla con los requisitos de certificación de CFDI?",
-    "¿Qué sucede si un proveedor de CFDI no cumple con las obligaciones requeridas?",
-    "¿Cuál es el proceso de verificación del SAT para los proveedores de CFDI?",
-    "¿Qué plazo tiene un proveedor para solventar los incumplimientos detectados en la verificación?",
-    "¿Qué información necesita presentar un proveedor para continuar certificado?"
+    "¿Cómo verifica el SAT a los proveedores de CFDI?",
+    "¿Qué pasa si un proveedor de CFDI no cumple con los requisitos?",
+    "¿Cuáles son las consecuencias de no presentar la documentación solicitada?",
+    "¿Qué es un acta de verificación y cómo se elabora?",
+    "¿Qué información debe presentar un proveedor ante el SAT?"
   ]
 }

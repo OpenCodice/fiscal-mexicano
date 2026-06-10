@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6363782af35e01ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Capital recibido en efectivo",
   "temas": [
-    "Impuesto sobre la renta",
-    "Obligaciones de personas morales",
-    "Préstamos",
-    "Aportaciones",
-    "Aumentos de capital",
-    "Información fiscal"
+    "impuesto sobre la renta",
+    "obligaciones fiscales",
+    "aportaciones de capital",
+    "información financiera"
   ],
   "terminos_coloquiales": [
-    "Información de capital",
-    "Capital en efectivo",
-    "Ley del ISR",
-    "Forma 86-A",
-    "Aumentos de capital"
+    "aumentos de capital",
+    "aportaciones para futuros aumentos de capital",
+    "préstamos",
+    "forma 86-A",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes deben reportar información sobre préstamos y aumentos de capital recibidos en efectivo mediante la forma oficial 86-A. Esta presentación se basa en las obligaciones establecidas en el artículo 76 de la Ley del ISR.",
+  "resumen": "Los contribuyentes deben presentar información sobre préstamos y aumentos de capital recibidos en efectivo mediante la forma oficial 86-A. Esto es parte de sus obligaciones fiscales relacionadas con el impuesto sobre la renta.",
   "preguntas_ejemplo": [
-    "¿Qué debo reportar sobre el capital recibido en efectivo?",
-    "¿Cómo presento la forma 86-A?",
-    "¿Cuáles son las obligaciones de las personas morales en relación al capital?",
-    "¿Qué información necesito para el artículo 76 de la Ley del ISR?",
-    "¿Qué es un aumento de capital recibido en efectivo?"
+    "¿Qué información necesito para el aumento de capital recibido en efectivo?",
+    "¿Cómo presento mis aportaciones para futuros aumentos de capital?",
+    "¿Qué es la forma 86-A y cuándo la debo presentar?",
+    "¿Cuáles son las obligaciones fiscales sobre préstamos y capital?",
+    "¿Qué dice la Ley del ISR sobre aumentos de capital?"
   ]
 }

@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85853635405949d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para recibir donativos deducibles",
+  "denominacion_comun": "Donativos deducibles",
   "temas": [
-    "Donativos deducibles",
-    "Organizaciones civiles",
-    "Fideicomisos",
-    "RFC",
+    "organizaciones civiles",
+    "fideicomisos",
+    "donativos",
     "CFDI",
-    "Complemento Donatarias",
-    "Objeto social"
+    "complemento donatarias",
+    "régimen fiscal",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Donativos deducibles",
-    "Organizaciones civiles",
-    "Fideicomisos",
+    "donativos deducibles",
+    "recibir donativos",
+    "constancia de autorización",
     "SAT",
-    "RFC",
-    "Autorización donataria"
+    "CFDI",
+    "ONG",
+    "fideicomisos",
+    "deducción de donativos"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que reciban la autorización para obtener donativos deducibles pueden recibir aportaciones y deben emitir CFDI con el complemento correspondiente. Los recursos deben usarse para los fines establecidos en su autorización.",
+  "resumen": "Las organizaciones civiles y fideicomisos que reciben la autorización para donar deducibles podrán recibir donativos y deben emitir un CFDI correspondiente. Los donativos se deben destinar únicamente al cumplimiento de su objeto social autorizado.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para recibir donativos deducibles?",
-    "¿Cómo sé si mi organización está autorizada para recibir donativos?",
+    "¿Cómo puedo recibir donativos deducibles?",
+    "¿Qué es la constancia de autorización para recibir donativos?",
+    "¿Qué obligaciones tengo al recibir donativos deducibles?",
     "¿Qué es el complemento donatarias en el CFDI?",
-    "¿Qué debo hacer si quiero recibir donativos como fideicomiso?",
-    "¿Cuáles son las obligaciones de las organizaciones civiles con donativos deducibles?",
-    "¿Dónde encuentro el listado de organizaciones autorizadas por el SAT?"
+    "¿Las organizaciones civiles pueden recibir donativos deducibles?",
+    "¿Cuáles son los requisitos para ser autorizado a recibir donativos?"
   ]
 }

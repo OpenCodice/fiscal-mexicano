@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fd469a1fc61cf49",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Monedas extranjeras y unidades de inversión",
+  "denominacion_comun": "Operaciones financieras en moneda extranjera",
   "temas": [
+    "Impuesto sobre la renta",
+    "Residentes en el extranjero",
     "Operaciones financieras",
-    "Deuda",
-    "Dividends",
-    "Mercados reconocidos",
-    "Residentes en el extranjero"
+    "Monedas extranjeras",
+    "Unidades de inversión",
+    "Mercados reconocidos"
   ],
   "terminos_coloquiales": [
-    "Operaciones en moneda extranjera",
-    "Inversiones en el extranjero",
-    "Inversiones en bolsas",
-    "ISR en extranjeros",
+    "dinero en el extranjero",
+    "acciones en dólares",
+    "dividendos en moneda extranjera",
     "LISR",
     "CFF"
   ],
-  "resumen": "Las operaciones financieras relacionadas con deudas pueden estar en monedas extranjeras o unidades de inversión, siempre que se realicen en mercados reconocidos y los beneficiarios sean residentes en el extranjero.",
+  "resumen": "Las operaciones financieras relacionadas con deuda pueden estar en monedas extranjeras o unidades de inversión, siempre que se realicen en mercados reconocidos y los beneficiarios sean residentes en el extranjero. Esto se menciona en la legislación fiscal mexicana.",
   "preguntas_ejemplo": [
-    "¿Qué dice la ley sobre operaciones en monedas extranjeras?",
-    "¿Cuáles son las obligaciones fiscales para residentes en el extranjero?",
-    "¿Cómo se gravan los dividendos en mercados extranjeros?",
-    "¿Qué se considera un mercado reconocido para inversiones?",
-    "¿Cuáles son los requisitos para operaciones con unidades de inversión?"
+    "¿Cómo se gravan las inversiones en moneda extranjera para residentes en el extranjero?",
+    "¿Cuáles son los requisitos para realizar operaciones en bolsas extranjeras?",
+    "¿Qué considera la Ley sobre las operaciones financieras en moneda extranjera?",
+    "¿Hay impuestos sobre los dividendos distribuidos en mercados reconocidos fuera del país?",
+    "¿Qué artículos de la ley regulan las monedas extranjeras y las unidades de inversión?"
   ]
 }

@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f9c9a42ab3930d6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulos Fiscales PODECIBI",
+  "denominacion_comun": "Estímulos fiscales PODECIBI",
   "temas": [
-    "decreto fiscal",
+    "Decreto PODECIBI",
     "estímulos fiscales",
-    "incumplimiento",
-    "declaraciones complementarias",
-    "Ley del ISR"
+    "cumplimiento de requisitos",
+    "declaraciones complementarias"
   ],
   "terminos_coloquiales": [
-    "estimulos PODECIBI",
-    "decreto PODECIBI",
-    "requisitos PODECIBI"
+    "beneficios fiscales",
+    "requisitos PODECIBI",
+    "incumplimiento",
+    "ISR",
+    "declaración de impuestos"
   ],
-  "resumen": "Los contribuyentes que hayan optado por los estímulos fiscales y no cumplan con los requisitos deben pagar la diferencia del impuesto deducido. Esto se hace a través de declaraciones complementarias y debe hacerse en un mes tras el incumplimiento.",
+  "resumen": "Esta regla establece que los contribuyentes que aplicaron estímulos fiscales y no cumplieron con los requisitos deben pagar la diferencia del impuesto que corresponde. Además, deben presentar declaraciones complementarias en el plazo establecido para regularizar su situación fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no cumplo con los requisitos del decreto PODECIBI?",
-    "¿Cómo hago el pago de impuestos si revocan mi autorización en PODECIBI?",
-    "¿Qué son las declaraciones complementarias en el contexto de estímulos fiscales?"
+    "¿Qué pasa si no cumplo con los requisitos del PODECIBI?",
+    "¿Cómo realizar la declaración complementaria por incumplimiento?",
+    "¿Qué impuestos debo pagar si me revocan el estímulo fiscal?",
+    "¿Cuándo debo presentar las declaraciones complementarias?",
+    "¿Qué diferencias fiscales debo pagar por el PODECIBI?"
   ]
 }

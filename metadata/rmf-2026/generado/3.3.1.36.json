@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fabd42a17b857400",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de autorización de monederos electrónicos",
+  "denominacion_comun": "Revocación de autorización de emisores de monederos electrónicos",
   "temas": [
-    "monederos electrónicos",
     "revocación de autorización",
+    "monederos electrónicos",
+    "adquisición de combustibles",
     "procedimiento administrativo",
-    "SAT",
-    "vehículos marítimos",
-    "vehículos aéreos",
-    "vehículos terrestres"
+    "comunicaciones al cliente"
   ],
   "terminos_coloquiales": [
     "revocación de monederos",
-    "monederos para combustibles",
-    "monederos electrónicos",
+    "monederos para gasolina",
     "SAT",
-    "AGJ"
+    "procedimiento de revocación"
   ],
-  "resumen": "Esta disposición describe el procedimiento que el SAT debe seguir para revocar la autorización a emisores de monederos electrónicos que se utilizan para comprar combustibles para diferentes tipos de vehículos. Incluye la forma en que se notifica y se actúa ante una revocación.",
+  "resumen": "La regla establece el procedimiento que debe seguir la AGJ para revocar la autorización de emisores de monederos electrónicos utilizados en la compra de combustibles para vehículos marítimos, aéreos y terrestres. Incluye notificaciones, plazos para defenderse y responsabilidades del emisor en caso de revocación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mi autorización de monedero electrónico es revocada?",
-    "¿Cómo se lleva a cabo el procedimiento de revocación de un monedero?",
-    "¿Cuáles son mis derechos si me revocan la autorización?",
-    "¿Qué debo hacer durante el periodo de transición tras la revocación?",
-    "¿Cuándo me notificarán sobre la revocación de mi autorización de emisor?"
+    "¿Qué pasa si me revocan la autorización de monederos electrónicos?",
+    "¿Cuáles son los pasos para desvirtuar la revocación de un monedero?",
+    "¿Qué debo hacer si me notifican de la revocación de mi autorización de emisor?",
+    "¿Cuánto tiempo tengo para comunicarme con mis clientes tras la revocación?",
+    "¿Qué obligaciones tengo si se revoca mi autorización como emisor?"
   ]
 }

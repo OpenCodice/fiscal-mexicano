@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7ba1d7b2300e1180",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditamiento de residencia fiscal",
   "temas": [
     "residencia fiscal",
-    "acreditamiento",
-    "certificación",
-    "declaración anual",
-    "impuesto sobre la renta"
+    "impuesto sobre la renta",
+    "certificación de declaraciones",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "acreditar residencia",
-    "certificación de residencia",
-    "ISR",
-    "LISR",
-    "RLISR"
+    "declaración de impuestos",
+    "certificación de declaración ISR",
+    "ISR"
   ],
-  "resumen": "Los contribuyentes pueden probar su residencia fiscal mediante la certificación de la presentación de su declaración del último ejercicio del ISR.",
+  "resumen": "La regla establece que los contribuyentes pueden probar su residencia fiscal mediante la certificación de la presentación de su declaración del último ejercicio del impuesto sobre la renta. Esto se aplica específicamente a los artículos mencionados del Reglamento de la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar mi residencia fiscal?",
-    "¿Qué documento necesito para demostrar mi residencia fiscal?",
-    "¿La declaración del ISR sirve como comprobante de residencia?",
-    "¿Qué artículos regulan el acreditamiento de residencia fiscal?",
-    "¿Qué es la certificación de residencia fiscal?"
+    "¿Cómo puedo comprobar que tengo residencia fiscal?",
+    "¿Qué documentos necesito para acreditar mi residencia fiscal?",
+    "¿Puedo usar mi declaración de impuestos para validar mi residencia fiscal?",
+    "¿Cuál es el procedimiento para certificar mi declaración ISR?",
+    "¿Qué artículo de la ley menciona el acreditamiento de residencia fiscal?"
   ]
 }

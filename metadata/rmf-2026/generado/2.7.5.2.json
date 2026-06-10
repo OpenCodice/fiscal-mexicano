@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f02d7a1e9c70c181",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entrega del CFDI por nómina",
+  "denominacion_comun": "Entrega del CFDI de nómina",
   "temas": [
     "CFDI",
     "nómina",
-    "trabajadores",
     "remuneraciones",
+    "entrega al trabajador",
     "RFC",
     "representación impresa"
   ],
   "terminos_coloquiales": [
-    "CFDI de nómina",
     "factura de nómina",
-    "entrega de CFDI",
-    "recibo de nómina"
+    "comprobante de pago",
+    "remuneraciones",
+    "CFDI",
+    "imprimir CFDI"
   ],
-  "resumen": "Los contribuyentes deben entregar el CFDI de nómina a sus trabajadores en formato XML. Si no pueden, pueden proporcionar una copia impresa con datos específicos, y si ofrecen un enlace para obtener el CFDI, se considera que han cumplido con la entrega.",
+  "resumen": "Los empleadores deben entregar a sus trabajadores el CFDI de las remuneraciones en formato XML. Si no pueden, pueden entregar una versión impresa con ciertos datos. También se permite dar acceso a una página para obtener el CFDI impreso.",
   "preguntas_ejemplo": [
     "¿Cómo debo entregar el CFDI de nómina a mis empleados?",
-    "¿Qué hacer si no puedo enviar el CFDI en formato electrónico?",
-    "¿Cuáles son los requisitos para la representación impresa del CFDI?",
-    "¿Puedo entregar el CFDI de nómina de forma semestral?",
-    "¿Qué información debe contener el CFDI impreso?"
+    "¿Qué datos debe contener la representación impresa del CFDI?",
+    "¿Puedo enviar el CFDI por correo electrónico?",
+    "¿Qué hacer si no puedo enviar el CFDI en formato XML?",
+    "¿La entrega del CFDI de nómina tiene algún requisito especial?"
   ]
 }

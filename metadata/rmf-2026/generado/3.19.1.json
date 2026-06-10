@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9333adcb1debdb0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de instituciones de crédito",
+  "denominacion_comun": "Ingresos de instituciones de crédito no sujetos a regímenes fiscales preferentes",
   "temas": [
-    "Impuesto sobre la renta",
-    "Entidades extranjeras",
-    "Régimen fiscal",
-    "Operaciones con no residentes",
-    "Acuerdo de intercambio de información tributaria"
+    "instituciones de crédito",
+    "entidades extranjeras",
+    "regímenes fiscales preferentes",
+    "intercambio de información tributaria"
   ],
   "terminos_coloquiales": [
-    "ingresos de bancos",
-    "régimen fiscal preferente",
-    "operaciones con extranjeros"
+    "bancos",
+    "ingresos no gravados",
+    "regímenes fiscales",
+    "acuerdos de información"
   ],
-  "resumen": "Las instituciones de crédito no están sujetas a ciertas disposiciones fiscales por los ingresos que obtienen de entidades extranjeras que controlan, siempre que estas operaciones sean con no residentes en México y que exista un acuerdo de intercambio de información tributaria entre ambos países.",
+  "resumen": "Se establece que los ingresos generados por las instituciones de crédito de entidades extranjeras controladas no se someten a ciertas disposiciones fiscales, siempre que estos ingresos provengan de operaciones con no residentes en México y que exista un acuerdo de intercambio de información entre países.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los ingresos de los bancos que no pagan impuestos?",
-    "¿Qué operaciones de entidades extranjeras están exentas de impuestos en México?",
-    "¿Qué requisitos deben cumplir las instituciones de crédito para no estar sujetas a regulaciones fiscales?",
-    "¿Qué significa régimen fiscal preferente para los ingresos de bancos?",
-    "¿Cómo afecta el acuerdo de intercambio de información a las operaciones con extranjeros?"
+    "¿Qué ingresos de los bancos no se gravan fiscalmente?",
+    "¿Cuáles son las condiciones para que los ingresos de entidades extranjeras no sean sujetos a impuestos?",
+    "¿Qué es un régimen fiscal preferente?",
+    "¿Cómo afecta el intercambio de información tributaria a las instituciones de crédito?",
+    "¿Qué operaciones están exentas para entidades extranjeras en México?"
   ]
 }

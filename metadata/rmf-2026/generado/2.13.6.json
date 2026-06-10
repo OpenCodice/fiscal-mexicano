@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef21580dfa7c906a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entero del saldo de la postura en subastas",
+  "denominacion_comun": "Entero del saldo en subastas",
   "temas": [
     "subastas",
     "postores",
     "pagos",
-    "bien inmuebles",
-    "bien muebles",
+    "bien inmueble",
+    "bien mueble",
+    "procedimiento administrativo",
     "transferencia electrónica",
-    "SAT"
+    "comprobante de operación"
   ],
   "terminos_coloquiales": [
-    "pago de subasta",
-    "saldo de la postura",
-    "participación en subasta",
-    "SubastaSAT"
+    "pagar el saldo de la subasta",
+    "subastaSAT",
+    "postor ganador",
+    "transferencia bancaria",
+    "comprobante de pago"
   ],
-  "resumen": "Esta regla establece que el postor ganador debe realizar el pago completo de su postura o de la mejora en un plazo determinado, dependiendo de si son bienes muebles o inmuebles. El pago se hace a través de transferencia electrónica a una cuenta bancaria específica.",
+  "resumen": "La regla establece que el postor ganador debe realizar el pago del saldo de su postura en un plazo específico tras la conclusión de la subasta, utilizando una transferencia electrónica de fondos. Se requiere que el postor sea titular o cotitular de la cuenta bancaria desde la que se efectúe el pago.",
   "preguntas_ejemplo": [
-    "¿Cómo hago el pago si gané una subasta?",
-    "¿Cuánto tiempo tengo para pagar la postura en una subasta?",
-    "¿Qué procedimiento debo seguir para pagar mi postura en SubastaSAT?",
-    "¿Qué datos necesito para realizar el pago de una subasta?",
-    "¿Puede alguien más hacer el pago por mí en una subasta?",
-    "¿Qué pasa si no pago a tiempo mi postura en la subasta?"
+    "¿Cómo pago el saldo si gané una subasta?",
+    "¿Cuánto tiempo tengo para hacer el pago de la postura en la subasta?",
+    "¿Qué necesito para realizar el pago después de ganar en la subasta?",
+    "¿Es obligatorio usar una cuenta bancaria de la que sea titular el postor?",
+    "¿Qué información debo proporcionar al banco para transferir el pago de la subasta?"
   ]
 }

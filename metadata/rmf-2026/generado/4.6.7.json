@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:69c9a88e7767d80a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes intangibles a residentes en el extranjero",
   "temas": [
     "Impuesto al Valor Agregado",
-    "Exportación de bienes",
     "Bienes intangibles",
-    "Contribuyentes",
-    "Residentes en el extranjero",
-    "Documentación fiscal"
+    "Exportación",
+    "Documentación fiscal",
+    "Residencia fiscal"
   ],
   "terminos_coloquiales": [
-    "venta de intangible al extranjero",
-    "enajenación de intangibles",
+    "ventas a extranjeros",
+    "vender servicios fuera de México",
+    "pago en el extranjero",
     "IVA en exportaciones",
-    "LIVA"
+    "residentes en el extranjero"
   ],
-  "resumen": "Los contribuyentes que vendan bienes intangibles a personas que viven en el extranjero deben seguir ciertos requisitos, como asegurarse de que el pago provenga de cuentas en el extranjero y obtener documentación que valide la residencia del comprador. Esta información debe ser documentada adecuadamente.",
+  "resumen": "Esta disposición establece las condiciones bajo las cuales la venta de bienes intangibles a personas físicas que residen en el extranjero se considera realizada en el exterior. Se requiere que el pago se realice desde cuentas ubicadas en el extranjero y que se obtenga documentación que acredite la residencia del comprador.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para vender intangibles a extranjeros?",
-    "¿Qué documentos necesito para enajenar un bien intangible a un residente en el extranjero?",
-    "¿Cómo se considera la venta de intangibles al extranjero para el IVA?",
-    "¿Qué tipo de pago es aceptable para la enajenación de intangibles?",
-    "¿Qué información debo conservar para la enajenación a extranjeros?"
+    "¿Qué requisitos debo cumplir para vender servicios intangibles a extranjeros?",
+    "¿Cómo debo documentar la venta de bienes intangibles a residentes en el extranjero?",
+    "¿Qué tipo de pago se acepta para considerar una venta a residentes en el extranjero?",
+    "¿Necesito un pasaporte del comprador para venderle bienes intangibles de México?",
+    "¿Es necesario un número de identificación fiscal del residente extranjero para la venta?",
+    "¿Qué es la enajenación de bienes intangibles y cómo se grava con IVA?"
   ]
 }

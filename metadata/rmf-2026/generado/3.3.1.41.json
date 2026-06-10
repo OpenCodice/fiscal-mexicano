@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23214099bef3ee95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso para dejar sin efectos la autorización de monederos electrónicos",
+  "denominacion_comun": "Monederos electrónicos para combustibles",
   "temas": [
-    "monederos electrónicos",
+    "emisión de monederos electrónicos",
+    "autorización de emisores",
     "combustibles",
     "vehículos marítimos",
     "vehículos aéreos",
     "vehículos terrestres",
-    "permiso del SAT",
     "periodo de transición",
-    "notificación a clientes"
+    "avisos a usuarios"
   ],
   "terminos_coloquiales": [
-    "dejar sin efectos los monederos",
-    "avisos para emisores",
-    "emisor autorizado",
-    "AVISO URGENTE",
-    "SAT"
+    "monederos electrónicos",
+    "combustibles",
+    "autos",
+    "vehículos",
+    "SAT",
+    "aviso urgente"
   ],
-  "resumen": "Los emisores de monederos electrónicos que deseen cancelar su autorización deben presentar un aviso al SAT y cumplir con ciertos requisitos, incluidos informar a sus clientes y publicar un aviso en su sitio web. Además, deben abstenerse de ofrecer nuevos monederos electrónicos durante un periodo de transición.",
+  "resumen": "La regla establece el procedimiento para que los emisores autorizados de monederos electrónicos de combustibles dejen sin efectos su autorización si lo desean. Deben informar a sus clientes y cumplir ciertos requisitos durante un periodo de transición.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar mi autorización para emitir monederos electrónicos?",
-    "¿Qué requisitos debo cumplir si dejo de operar como emisor?",
-    "¿Cuánto tiempo tengo para avisar a mis clientes sobre la cancelación?",
-    "¿Qué información debo incluir en el aviso de cancelación?",
-    "¿Qué pasa si no cumplo con el periodo de transición?"
+    "¿Cómo puedo dejar sin efectos mi autorización para emitir monederos electrónicos?",
+    "¿Qué debo hacer si quiero cancelar mi autorización como emisor de monederos electrónicos?",
+    "¿Cuánto tiempo tengo para informar a mis clientes sobre la cancelación?",
+    "¿Qué acciones debo realizar durante el periodo de transición?",
+    "¿Cuáles son los requisitos para publicar el aviso en mi página web?"
   ]
 }

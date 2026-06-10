@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1a3e6d8181959409",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de Nómina",
+  "denominacion_comun": "CFDI de nómina y viáticos",
   "temas": [
-    "comprobantes fiscales",
-    "nómina",
+    "CFDI de nómina",
     "viáticos",
-    "Ley del ISR",
+    "sueldos y salarios",
+    "constancias fiscales",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
+    "factura de nómina",
     "comprobante de nómina",
-    "CFDI",
-    "comprobante fiscal digital",
-    "tickets de viáticos"
+    "viáticos",
+    "pago de sueldos",
+    "constancia de viáticos"
   ],
-  "resumen": "Los contribuyentes que paguen sueldos y salarios pueden cumplir con sus obligaciones fiscales mediante la emisión del CFDI de nómina, que debe incluir la información de los viáticos pagados durante el año. Esto permite documentar correctamente los pagos realizados a los trabajadores.",
+  "resumen": "Esta disposición establece que los contribuyentes que paguen sueldos y salarios pueden cumplir con el requisito de emitir comprobantes fiscales para viáticos mediante la emisión de un CFDI de nómina, siempre que se incluya la información de los viáticos correspondientes.",
   "preguntas_ejemplo": [
+    "¿Cómo puedo comprobitar viáticos si pago sueldos?",
     "¿Qué es un CFDI de nómina?",
-    "¿Cómo puedo incluir viáticos en el CFDI?",
-    "¿Qué obligaciones tengo al emitir un CFDI de nómina?",
-    "¿Los viáticos se reflejan en el CFDI de nómina?",
-    "¿Qué artículos de la Ley del ISR están relacionados con el CFDI de nómina?"
+    "¿Qué información debe tener el CFDI de nómina para viáticos?",
+    "¿Puedo usar el CFDI de nómina para justificar viáticos?",
+    "¿Qué artículos de la ley regulan el CFDI de nómina?"
   ]
 }

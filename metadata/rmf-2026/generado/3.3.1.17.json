@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4f74beab64195ce6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Deducción por vales de despensa",
   "temas": [
-    "Autorización",
-    "Requisitos",
-    "Personas morales",
-    "Vales de despensa",
-    "Cumplimiento fiscal"
+    "monederos electrónicos",
+    "vales de despensa",
+    "requisitos para emisión",
+    "garantías",
+    "procedimiento de autorización"
   ],
   "terminos_coloquiales": [
     "vales de despensa",
     "monederos electrónicos",
-    "autorización de vales",
-    "EMV (Emisores de Monederos de Vales)"
+    "emitir vales",
+    "solicitud para vales",
+    "requisitos para vales de despensa",
+    "RMF"
   ],
-  "resumen": "La regla establece los requisitos y condiciones que deben cumplir las personas morales para obtener autorización para emitir monederos electrónicos de vales de despensa. Los solicitantes deben estar al corriente en sus obligaciones fiscales y cumplir con normativas específicas.",
+  "resumen": "La disposición establece los requisitos que deben cumplir las personas morales para obtener la autorización de emisión de monederos electrónicos de vales de despensa, incluyendo requisitos fiscales y tecnológicos. También se mencionan las obligaciones posteriores a la obtención de la autorización.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos se necesitan para emitir un monedero electrónico de vales de despensa?",
-    "¿Cómo puedo obtener autorización para mis vales de despensa?",
-    "¿Qué pasa si no cumplo con los requisitos para monederos electrónicos?",
-    "¿Cuáles son los beneficios de tener un monedero electrónico de vales de despensa?",
-    "¿Dónde encuentro la ficha de trámite para solicitar autorización de monederos de despensa?"
+    "¿Qué necesito para emitir vales de despensa?",
+    "¿Cuáles son los requisitos fiscales para monederos electrónicos?",
+    "¿Cómo solicito autorización para emitir vales de despensa?",
+    "¿Qué garantías debo presentar para los vales de despensa?",
+    "¿Qué pasa si no cumplo con los requisitos para vales de despensa?"
   ]
 }

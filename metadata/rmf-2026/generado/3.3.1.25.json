@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2aec2b0edd7a1958",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses por préstamo de títulos o valores",
@@ -13,22 +14,21 @@
     "Intereses",
     "Préstamo de títulos",
     "Valores",
-    "Deducciones",
-    "Ley del ISR"
+    "Ley del ISR",
+    "Deducciones"
   ],
   "terminos_coloquiales": [
-    "intereses por préstamos",
-    "títulos y valores",
-    "deducciones por préstamos",
+    "intereses sobre títulos",
+    "préstamo de valores",
     "LISR",
-    "RMF"
+    "valores en préstamo"
   ],
-  "resumen": "Esta disposición establece que para deducir intereses de préstamos de títulos o valores, se deben considerar ciertas operaciones señaladas en la Ley del ISR. Se referencia un artículo específico que regula estas situaciones.",
+  "resumen": "Esta disposición trata sobre cómo se consideran los intereses generados por el préstamo de títulos o valores según la Ley del Impuesto sobre la Renta. Específicamente, se refiere a una excepción establecida en el artículo 28 de esta ley.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un préstamo de títulos o valores para deducir intereses?",
-    "¿Cómo funcionan las deducciones por intereses en préstamos de títulos?",
-    "¿Qué dice la Ley del ISR sobre los intereses de préstamos?",
-    "¿Cuáles son los requisitos para deducir intereses de títulos o valores?",
-    "¿Dónde encuentro más información sobre la regla de intereses por préstamos?"
+    "¿Qué se considera un préstamo de títulos o valores para la deducción de intereses?",
+    "¿Cómo afectan los intereses por préstamo de títulos a mi declaración de impuestos?",
+    "¿Hay excepciones en la Ley del ISR sobre los intereses de préstamos de valores?",
+    "¿Qué dice la regla sobre el préstamo de títulos en la ley del ISR?",
+    "¿Puedo deducir intereses por préstamos de valores según la legislación fiscal?"
   ]
 }

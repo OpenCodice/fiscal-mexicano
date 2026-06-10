@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:889a1e7da5985270",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Monederos electrónicos para combustibles",
   "temas": [
-    "renovación de autorización",
+    "autorización",
+    "renovación",
     "monederos electrónicos",
-    "adquisición de combustibles",
-    "obligaciones del emisor"
-  ],
-  "terminos_coloquiales": [
-    "monederos para gasolina",
-    "monederos electrónicos",
-    "emisión de monederos",
-    "autorización de monederos",
+    "combustibles",
+    "vehículos marítimos",
+    "vehículos aéreos",
+    "vehículos terrestres",
     "SAT"
   ],
-  "resumen": "Esta disposición establece los requisitos y procedimientos para la renovación de la autorización de los emisores de monederos electrónicos utilizados para la compra de combustibles en vehículos marítimos, aéreos y terrestres. Si no se renueva la autorización, el emisor deberá informar a sus clientes y cumplir con ciertas obligaciones durante un periodo de transición.",
+  "terminos_coloquiales": [
+    "monederos electrónicos",
+    "tarjetas de combustible",
+    "combustibles",
+    "autorización del SAT"
+  ],
+  "resumen": "Esta regla establece las condiciones para la autorización y renovación de monederos electrónicos utilizados para la compra de combustibles en vehículos marítimos, aéreos y terrestres. La autorización tiene vigencia por un ejercicio fiscal y se debe cumplir con ciertos requisitos para su renovación.",
   "preguntas_ejemplo": [
-    "¿Cómo se renueva la autorización para monederos electrónicos de combustibles?",
-    "¿Qué sucede si no renuevo mi autorización de monederos para gasolina?",
-    "¿Cuáles son las obligaciones si mi autorización no se renueva?",
-    "¿Qué información debo enviar a mis clientes si no renuevo la autorización?",
-    "¿Dónde encuentro la ficha de trámite para renovar mi autorización de monederos?"
+    "¿Cómo puedo obtener una autorización para un monedero electrónico de combustible?",
+    "¿Qué requisitos necesito para renovar mi autorización del monedero electrónico?",
+    "¿Qué sucede si no renuevo la autorización de mi monedero electrónico?",
+    "¿Cuánto tiempo tengo para cumplir con las obligaciones tras el vencimiento de la autorización?",
+    "¿Qué medidas debo tomar si no renuevo mi monedero electrónico a tiempo?"
   ]
 }

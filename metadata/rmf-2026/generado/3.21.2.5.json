@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bff673e10988ae76",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de Fideicomisos de Inmuebles",
+  "denominacion_comun": "Registro de fideicomisos de construcción",
   "temas": [
     "fideicomisos",
     "adquisición de inmuebles",
-    "construcción de inmuebles",
     "certificados de participación",
     "oferta pública",
     "CNBV",
     "régimen fiscal",
-    "resolución favorable"
+    "resoluciones favorables"
   ],
   "terminos_coloquiales": [
-    "fideicomisos de inmuebles",
+    "fideicomisos para construir",
+    "fideicomisos inmobiliarios",
     "certificados de participación",
-    "registro de fideicomisos",
-    "Fideicomiso Inmobiliario"
+    "inscripción de fideicomisos",
+    "reglamento de fideicomisos"
   ],
-  "resumen": "Esta regla establece que para que un fideicomiso se inscriba en el Registro de Fideicomisos dedicados a la adquisición o construcción de inmuebles, debe cumplir ciertos requisitos relacionados con la emisión de certificados de participación y la autorización de la CNBV.",
+  "resumen": "La regla establece que para que un fideicomiso dedicado a la adquisición o construcción de inmuebles cumpla con el requisito de registro, debe emitir certificados de participación que se coloquen en el mercado público con autorización de la CNBV y que la fiduciaria cuente con una resolución favorable sobre el régimen fiscal aplicable.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe cumplir un fideicomiso para registrarse en el registro de inmuebles?",
-    "¿Cómo funcionan los certificados de participación en los fideicomisos?",
-    "¿Cuáles son las obligaciones de las fiduciarias de los fideicomisos de inmuebles?",
-    "¿Qué es la CNBV y qué rol tiene en el registro de fideicomisos?",
-    "¿Dónde puedo encontrar información sobre fideicomisos dedicados a la construcción?",
-    "¿Qué significa tener una resolución favorable para un fideicomiso?"
+    "¿Qué se necesita para inscribir un fideicomiso inmobiliario?",
+    "¿Cómo funcionan los certificados de participación en fideicomisos?",
+    "¿Cuál es el proceso para obtener autorización de la CNBV?",
+    "¿Qué requisitos fiscales deben cumplir las fiduciarias?",
+    "¿Qué es el Registro de Fideicomisos dedicados a la adquisición de inmuebles?"
   ]
 }

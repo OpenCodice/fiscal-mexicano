@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fe69fccdfac977da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Residentes en el extranjero sobre ingresos de acciones",
+  "denominacion_comun": "Residentes en el extranjero con ingresos por enajenación de acciones",
   "temas": [
-    "residencia fiscal",
+    "impuesto sobre la renta",
+    "residentes en el extranjero",
     "enajenación de acciones",
-    "títulos",
-    "mercados reconocidos",
-    "ganancias",
-    "ISR",
-    "registros fiscales"
+    "títulos de sociedades",
+    "mercados reconocidos"
   ],
   "terminos_coloquiales": [
-    "residencia en el extranjero",
     "venta de acciones",
-    "ganancias de no residentes",
+    "acciones en el extranjero",
+    "ganancias por enajenación",
     "LISR",
-    "CFF"
+    "ventas en mercados reconocidos"
   ],
-  "resumen": "La disposición se refiere a las reglas que aplican a los residentes en el extranjero que venden acciones de sociedades mexicanas. Estos no necesitan cumplir con ciertos requisitos fiscales si la venta se realiza en mercados reconocidos.",
+  "resumen": "Esta disposición regula cómo se aplican las reglas del Impuesto sobre la Renta a los residentes en el extranjero que vendan acciones de sociedades mexicanas. Exime a ciertos requisitos para la presentación de documentos fiscales en este tipo de transacciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un extranjero vende acciones de una empresa mexicana?",
-    "¿Los extranjeros necesitan un registro fiscal para vender acciones en México?",
-    "¿Cuáles son los requisitos fiscales para residentes extranjeros que enajenan acciones?",
-    "¿Cómo se aplican los impuestos a las ganancias de los extranjeros por la venta de acciones?",
-    "¿Qué es lo que establece el artículo 161 de la LISR para extranjeros?"
+    "¿Qué pasa si soy residente en el extranjero y vendo acciones de una empresa mexicana?",
+    "¿Qué requisitos debo cumplir al vender acciones desde el extranjero?",
+    "¿Cómo se aplica el Impuesto sobre la Renta a los extranjeros que enajenan acciones en México?",
+    "¿Los residentes en el extranjero deben presentar escritos para enajenaciones de acciones?",
+    "¿Qué beneficios hay para extranjeros al vender acciones en mercados reconocidos?"
   ]
 }

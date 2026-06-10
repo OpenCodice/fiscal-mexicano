@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:146980c485782673",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
     "ofrecimiento de garantía",
-    "imposibilidad de garantizar",
-    "documentación necesaria",
-    "formas de garantía",
+    "diferencia",
+    "documentación requerida",
+    "modalidades de garantía",
     "prenda",
-    "hipoteca"
+    "hipoteca",
+    "inexistencia de bienes",
+    "requisitos de garantía"
   ],
   "terminos_coloquiales": [
     "garantía fiscal",
     "ofrecimiento de garantía",
-    "CFF 141"
+    "CFF",
+    "artículo 141"
   ],
-  "resumen": "La disposición establece que los contribuyentes deben proporcionar documentación que acredite la imposibilidad de garantizar con las modalidades señaladas en el Código Fiscal de la Federación, así como cumplir con los requisitos específicos para ofrecer una garantía adecuada. También se requiere un escrito donde se declare que esta es la única forma de garantizar si no se sigue el orden establecido.",
+  "resumen": "Esta regla establece las formalidades que deben cumplir los contribuyentes al ofrecer garantías para el interés fiscal. Se indica la documentación necesaria cuando no es posible garantizar de las maneras establecidas, así como los requisitos generales para el ofrecimiento de la garantía.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para ofrecer una garantía del interés fiscal?",
-    "¿Cómo demuestro que no puedo garantizar como se indica en el CFF?",
-    "¿Cuáles son las formas de garantía aceptables para el interés fiscal?",
-    "¿Qué documentos debo presentar si no tengo bienes para garantizar?",
-    "¿Qué hago si no puedo seguir el orden de garantía indicado en el CFF?"
+    "¿Qué debo presentar para ofrecer una garantía del interés fiscal?",
+    "¿Cuáles son las modalidades de garantía aceptadas?",
+    "¿Qué requisitos tengo que cumplir para garantizar la diferencia en mi impuesto?",
+    "¿Qué sucede si no puedo ofrecer la garantía de la forma habitual?",
+    "¿Cuál es el procedimiento si no tengo bienes para garantizar?",
+    "¿Qué significa la solicitud de avalúo en el contexto de garantías fiscales?"
   ]
 }

@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a254139a8b7d8831",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Gastos en el extranjero a prorrata",
   "temas": [
     "deducciones",
     "gastos en el extranjero",
-    "requisitos para deducción",
-    "contratos prorrateados",
-    "documentación fiscal",
+    "gastos prorrateados",
     "partes relacionadas",
-    "precios de transferencia"
+    "acuerdos contractuales",
+    "documentación fiscal",
+    "intercambio de información"
   ],
   "terminos_coloquiales": [
+    "gastos en el extranjero",
     "gastos prorrateados",
-    "deducción de gastos en el extranjero",
-    "deducciones a prorrata",
-    "ISR",
+    "gastos en el exterior",
+    "deducción de gastos",
+    "partes relacionadas",
     "LISR"
   ],
-  "resumen": "La disposición establece que los gastos realizados en el extranjero a prorrata sólo son deducibles si se cumplen ciertos requisitos específicos, como la relación con partes no contribuyentes y la necesidad del gasto para la actividad del contribuyente. Además, se debe contar con documentación que justifique la deducción y evidencie el servicio prestado.",
+  "resumen": "Se establecen condiciones que deben cumplirse para deducir gastos realizados en el extranjero a prorrata por parte de contribuyentes. Esto incluye la necesidad de justificar dichos gastos y contar con la documentación adecuada, así como que se haya celebrado un acuerdo que respalde la prorrata.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para deducir gastos en el extranjero?",
-    "¿Qué es un gasto prorrateado en términos fiscales?",
-    "¿Cómo puedo comprobar que un gasto realizado en el extranjero es deducible?",
-    "¿Qué documentación necesito para justificar los gastos en el extranjero?",
-    "¿Qué sucede si no cumplo con los requisitos de deducción de gastos?",
-    "¿Cómo afectan las partes relacionadas la deducción de gastos en el extranjero?"
+    "¿Qué requisitos necesito para deducir gastos en el extranjero?",
+    "¿Cómo puedo comprobar que un gasto a prorrata fue efectivamente realizado?",
+    "¿Qué documentación debo tener para deducir gastos prorrateados?",
+    "¿Cómo afecta el hecho de que los gastos sean con partes relacionadas?",
+    "¿Qué significa deducción a prorrata en el contexto del ISR?"
   ]
 }

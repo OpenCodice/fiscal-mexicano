@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cda6a64b643a4664",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "declaraciones informativas",
-    "esquemas reportables",
-    "beneficiario efectivo",
     "documentación fiscal",
-    "asesoría fiscal",
+    "declaraciones informativas",
+    "beneficiario efectivo",
     "operaciones jurídicas",
-    "información y documentación requerida"
+    "asesores fiscales",
+    "esquemas personalizables"
   ],
   "terminos_coloquiales": [
-    "esquema reportable",
-    "reportes fiscales",
-    "esqumas fiscalmente relevantes",
-    "CFF",
-    "información fiscal"
+    "reportar esquemas",
+    "esquemas fiscales",
+    "documentos PDF",
+    "identificación del beneficiario",
+    "esquemas generalizados",
+    "ASEGURADOR",
+    "CFF"
   ],
-  "resumen": "Se establecen los requisitos de información y documentación que deben adjuntar los asesores fiscales o contribuyentes en las declaraciones informativas relacionadas con esquemas reportables, tanto generalizados como personalizados. Se busca evitar la identificación del beneficiario efectivo de los ingresos o activos involucrados en dichos esquemas.",
+  "resumen": "La regla establece que los asesores fiscales y contribuyentes deben adjuntar información específica en formato PDF sobre esquemas reportables, incluyendo detalles sobre operaciones, beneficiarios efectivos y antecedentes jurídicos. Es necesario detallar cómo se evita la identificación del beneficiario efectivo de ingresos o activos.",
   "preguntas_ejemplo": [
-    "¿Qué es un esquema reportable?",
-    "¿Qué información debo proporcionar sobre un esquema reportable?",
-    "¿Cómo evito la identificación del beneficiario efectivo en mis reportes fiscales?",
-    "¿Qué sucede si no tengo toda la información requerida para un esquema reportable?",
-    "¿Qué documentos necesito para cumplir con la normativa de esquemas reportables?"
+    "¿Qué información debo incluir en la declaración de un esquema reportable?",
+    "¿Cómo se identifican los beneficiarios efectivos en un esquema fiscal?",
+    "¿Qué documentos se requieren para reportar un esquema personalizado?",
+    "¿Cuáles son las obligaciones de los asesores fiscales respecto a los esquemas reportables?",
+    "¿Qué significa 'esquema reportable' en el contexto del CFF?",
+    "¿Cómo se evita la identificación de beneficiarios en operaciones fiscales?"
   ]
 }

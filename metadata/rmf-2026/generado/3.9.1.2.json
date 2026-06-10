@@ -6,36 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14a289bb91cb22da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajustes de precios de transferencia",
   "temas": [
-    "Ajustes de precios de transferencia",
-    "Ingresos acumulables",
-    "Deducciones autorizadas",
-    "Retención de impuestos",
-    "Compensación de retenciones",
-    "Entidades residentes",
-    "Documentación contable",
-    "IVA",
-    "IEPS",
-    "Cumplimiento fiscal"
+    "precios de transferencia",
+    "ajustes fiscales",
+    "deducciones",
+    "retenciones",
+    "impuesto sobre la renta",
+    "operaciones con partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "Ajustes de precios",
-    "Precio de transferencia",
-    "Deducciones",
-    "Retenciones",
-    "IVA e IEPS",
-    "RMF"
+    "ajustes de precios de transferencia",
+    "precios de transferencia",
+    "deducciones fiscales",
+    "retenciones en el extranjero",
+    "ISR",
+    "ingresos acumulables"
   ],
-  "resumen": "La regla establece cómo deben hacerse los ajustes de precios de transferencia en las operaciones entre partes relacionadas, ya sea aumentando o disminuyendo el precio. Los contribuyentes pueden afectar sus ingresos o deducciones dependiendo del tipo de ajuste realizado y deben considerar también las implicaciones en el IVA y el IEPS.",
+  "resumen": "Esta regla establece cómo deben realizarse los ajustes de precios de transferencia tanto cuando aumentan como cuando disminuyen las contraprestaciones en operaciones entre partes relacionadas. Se detalla cómo incrementar ingresos y deducciones conforme a las variaciones en los precios de transferencia y las implicaciones en la retención de impuestos.",
   "preguntas_ejemplo": [
-    "¿Cómo se registran los ajustes de precios de transferencia?",
-    "¿Qué implicaciones fiscales tienen los ajustes de precios de transferencia?",
-    "¿Puedo ajustar mis deducciones por un cambio en precios de transferencia?",
-    "¿Cómo afecta un ajuste de precios de transferencia a mis ingresos acumulables?",
-    "¿Qué hacer si realizo un ajuste de retención por precios de transferencia?",
-    "¿Qué documentos necesito para comprobar mis ajustes de precios de transferencia?"
+    "¿Cómo se hacen los ajustes de precios de transferencia en México?",
+    "¿Qué debo hacer si aumento mis precios de transferencia?",
+    "¿Cómo afectan mis deducciones los ajustes de precios de transferencia?",
+    "¿Qué pasa si tengo que retener impuestos por ajustes en precios de transferencia?",
+    "¿Cuándo debo considerar los ajustes de precios de transferencia en mis impuestos?",
+    "¿Cómo se reportan los ajustes de precios de transferencia en la declaración de ISR?"
   ]
 }

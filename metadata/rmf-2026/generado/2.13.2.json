@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9cc481f2b5afee63",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Subastas públicas por medios electrónicos",
   "temas": [
-    "subastas públicas",
+    "subastas",
     "remates",
     "bienes",
-    "Portal del SAT",
-    "Requisitos",
-    "CFF"
+    "SAT",
+    "Portal del SAT"
   ],
   "terminos_coloquiales": [
-    "SubastaSAT",
-    "remate de bienes",
-    "subastas electrónicas",
-    "subasta en línea"
+    "subasta electrónica",
+    "remate SAT",
+    "comprar bienes en subasta",
+    "SubastaSAT"
   ],
-  "resumen": "Los interesados pueden consultar los bienes que se ponen en remate a través del Portal del SAT usando la opción 'SubastaSAT', y deben cumplir ciertos requisitos para participar en estos remates.",
+  "resumen": "Las subastas públicas se pueden consultar a través del Portal del SAT. Los interesados deben cumplir con ciertos requisitos para participar en los remates de bienes.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza una subasta electrónica del SAT?",
-    "¿Qué bienes están disponibles para remate?",
-    "¿Cuáles son los requisitos para participar en la SubastaSAT?",
-    "¿Dónde puedo ver las subastas del SAT?",
-    "¿Qué es el remate de bienes en línea?",
-    "¿Cómo funciona el sistema de SubastaSAT?"
+    "¿Cómo puedo participar en una subasta del SAT?",
+    "¿Dónde consulto los bienes que se subastan?",
+    "¿Qué requisitos necesito para un remate SAT?",
+    "¿Qué es SubastaSAT?",
+    "¿Cómo funciona la subasta electrónica del SAT?"
   ]
 }

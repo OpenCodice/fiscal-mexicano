@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ce318821f28f8ab6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidades de comprobación para artistas",
+  "denominacion_comun": "Facilidades de Comprobación para Artistas",
   "temas": [
-    "Comprobantes Fiscales Digitales (CFDI)",
-    "Retenciones de ISR",
-    "Retenciones de IVA",
-    "Derechos de autor",
-    "Actividades artísticas",
-    "Impuestos a pagar"
+    "retenciones de ISR",
+    "retenciones de IVA",
+    "CFDI",
+    "personas morales",
+    "ingresos por actividades artísticas",
+    "derechos de autor"
   ],
   "terminos_coloquiales": [
-    "facilidades para artistas",
-    "proceso de retención de impuestos",
-    "CFDI para retenciones",
-    "regla 2.7.6.4"
+    "retención de impuestos",
+    "factura",
+    "CFDI de retención",
+    "IVA",
+    "ISR",
+    "artistas",
+    "ingresos artísticos"
   ],
-  "resumen": "Esta regla establece que las personas físicas que obtienen ingresos por actividades artísticas pueden solicitar a las personas morales que retengan y paguen sus impuestos. También detalla los procedimientos para las retenciones de ISR e IVA en función de la intervención del pagador en el proceso de retención.",
+  "resumen": "La regla establece cómo deben proceder las personas físicas que reciben ingresos por actividades artísticas para que las personas morales realicen las retenciones de impuestos correspondientes. Incluye procedimientos para las retenciones de ISR y IVA y los documentos que deben presentar.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la retención de impuestos si soy artista?",
-    "¿Qué debo hacer si mi ingreso no fue retenido por la persona moral?",
-    "¿Qué es el CFDI de retención de IVA?",
-    "¿Cuánto debo entregar si no se ha hecho la retención del ISR?",
-    "¿Cuáles son las obligaciones fiscales para los artistas?"
+    "¿Cómo declaro mis ingresos si soy artista?",
+    "¿Qué es un CFDI de retención?",
+    "¿Cómo se hacen las retenciones de ISR y IVA?",
+    "¿Qué pasos debo seguir si no me retuvieron impuestos?",
+    "¿Qué porcentaje debo presentar para la retención del IVA?",
+    "¿Qué debo hacer si no se realizó la retención de mis ingresos?"
   ]
 }

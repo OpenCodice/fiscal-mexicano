@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0cc13d555601167a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sujetos no obligados a llevar contabilidad",
   "temas": [
-    "obligaciones contables",
-    "exenciones",
+    "contabilidad",
+    "regulaciones fiscales",
+    "entidades gubernamentales",
     "sistemas contables",
-    "entidades públicas",
-    "Ley General de Contabilidad Gubernamental"
+    "donativos"
   ],
   "terminos_coloquiales": [
     "no llevar contabilidad",
     "exentos de contabilidad",
-    "entes públicos",
-    "CFF"
+    "gobierno",
+    "sindicatos",
+    "entidades públicas"
   ],
-  "resumen": "La disposición establece que ciertos entes públicos no están obligados a llevar sistemas contables conforme al Código Fiscal de la Federación, a menos que realicen actividades específicas de acuerdo con la legislación fiscal vigente.",
+  "resumen": "La disposición establece que ciertos sujetos, como la Federación, entidades federativas y municipios, no están obligados a llevar contabilidad conforme al CFF, salvo en ciertas actividades. Esto incluye que solo deben llevar sistemas contables para actividades específicas señaladas en la ley o donativos recibidos.",
   "preguntas_ejemplo": [
-    "¿Quiénes no están obligados a llevar contabilidad según el CFF?",
-    "¿Cuáles son las excepciones para llevar sistemas contables?",
-    "¿Qué entidades están exentas de las obligaciones contables?",
-    "¿Las alcaldías deben llevar contabilidad?",
-    "¿Qué actividades sí requieren llevar sistemas contables?"
+    "¿Quiénes no están obligados a llevar contabilidad?",
+    "¿Qué entidades no necesitan sistemas contables según el CFF?",
+    "¿Qué actividades obligan a llevar contabilidad?",
+    "¿Los sindicatos deben llevar contabilidad?",
+    "¿Qué significa estar exento de contabilidad?"
   ]
 }

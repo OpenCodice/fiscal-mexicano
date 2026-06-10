@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7ff8537aba80316f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Regla de pago a empresas del Estado por hidrocarburos",
+  "denominacion_comun": "Inversiones en hidrocarburos",
   "temas": [
     "contratos de exploración",
-    "extractación de hidrocarburos",
-    "inversiones en hidrocarburos",
-    "monto en efectivo"
+    "extracción de hidrocarburos",
+    "migración de asignaciones",
+    "inversiones",
+    "procedimiento de licitación",
+    "precio de mercado"
   ],
   "terminos_coloquiales": [
-    "pago a empresas del Estado",
-    "licencias de hidrocarburos",
-    "contratos de hidrocarburos"
+    "inversiones en hidrocarburos",
+    "contrato de exploración",
+    "contrato de extracción",
+    "precio de mercado"
   ],
-  "resumen": "La regla establece que el monto pagado a una empresa pública del Estado por inversiones en hidrocarburos puede considerarse como precio o valor de mercado, no como un crédito comercial. Esto aplica a contribuyentes que han suscrito contratos de exploración y extracción bajo ciertas condiciones.",
+  "resumen": "El contribuyente seleccionado para un contrato de exploración y extracción de hidrocarburos puede tomar en cuenta el monto pagado por inversiones a una empresa pública como el valor de mercado y no como un crédito comercial. Esto aplica bajo ciertas regulaciones establecidas en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se considera el monto que pago a empresas del Estado por hidrocarburos?",
-    "¿Qué condiciones debo cumplir para considerar las inversiones en hidrocarburos como valor de mercado?",
-    "¿Qué dice la ley sobre los pagos a empresas públicas por hidrocarburos?"
+    "¿Qué puedo considerar como monto de inversión en hidrocarburos?",
+    "¿Cómo se determina el valor de mercado en contratos de hidrocarburos?",
+    "¿Qué implica la migración de una asignación en hidrocarburos?",
+    "¿Los pagos a empresas públicas se consideran créditos comerciales?"
   ]
 }

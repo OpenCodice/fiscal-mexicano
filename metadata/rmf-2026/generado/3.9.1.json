@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:756cda06942948ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre dividendos y utilidades",
+  "denominacion_comun": "Derechos de los dividendos",
   "temas": [
-    "acciones",
+    "impuesto sobre dividendos",
     "retención de impuestos",
+    "acciones en especie",
     "intermediarios financieros",
-    "dividendos pagados en especie",
-    "estado de cuenta anual",
-    "persona moral",
-    "obligaciones fiscales"
+    "estados de cuenta",
+    "personas morales",
+    "utilidades"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre dividendos",
-    "retención de impuestos por dividendos",
-    "dividendos en acciones",
-    "ISR sobre utilidades",
-    "LISR"
+    "dividendos",
+    "utilidades",
+    "acciones",
+    "retención de impuestos",
+    "estado de cuenta",
+    "impuesto sobre dividendos"
   ],
-  "resumen": "Esta disposición regula cómo las personas que reciben dividendos en acciones deben cumplir con sus obligaciones fiscales. Si no se autorizan acciones para cubrir el impuesto, se debe realizar el pago correspondiente. Los intermediarios podrán emitir estados de cuenta que cumplan con ciertos requisitos para reportar estos ingresos.",
+  "resumen": "Las personas que reciben ingresos por dividendos pagados en especie pueden dar autorización para enajenar acciones necesarias para cubrir el impuesto. Si no lo hacen, deberán pagar el impuesto correspondiente. Los intermediarios financieros calcularán la retención basada en el precio de cierre de las acciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por dividendos recibidos en acciones?",
-    "¿Qué debo hacer si no tengo acciones para cubrir el impuesto sobre dividendos?",
-    "¿Qué información debe contener el estado de cuenta por dividendos?",
-    "¿Qué pasa si el intermediario no sabe quién percibió los dividendos?",
-    "¿Cuándo debo pagar el impuesto por dividendos en especie?"
+    "¿Cómo se paga el impuesto sobre dividendos?",
+    "¿Qué hacer si recibo acciones como dividendos?",
+    "¿Cuándo debo pagar el impuesto de las utilidades que recibí?",
+    "¿Qué información debe tener el estado de cuenta de dividendos?",
+    "¿Cómo se calcula la retención de impuestos sobre acciones?"
   ]
 }

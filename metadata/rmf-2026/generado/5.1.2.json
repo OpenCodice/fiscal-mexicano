@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6277da87c62475e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasa de IEPS en alimentos no básicos",
+  "denominacion_comun": "Tasa del IEPS para alimentos no básicos",
   "temas": [
-    "IEPS",
-    "alimentos no básicos",
-    "etiquetado",
-    "kilocalorías",
-    "NOM-051"
+    "Impuesto Especial sobre Producción y Servicios",
+    "Tasa de IEPS",
+    "Alimentos no básicos",
+    "Etiquetado de alimentos",
+    "Kilocalorías"
   ],
   "terminos_coloquiales": [
     "tasa de IEPS",
-    "impuesto sobre alimentos",
-    "etiquetado de alimentos",
+    "impuesto a alimentos",
+    "alimentos no básicos",
+    "etiquetado de calorías",
     "NOM-051"
   ],
-  "resumen": "La tasa del Impuesto Especial sobre Producción y Servicios (IEPS) para alimentos no básicos se determina según la información de kilocalorías que aparece en la etiqueta del producto, siguiendo la Norma Oficial Mexicana NOM-051.",
+  "resumen": "La regla determina que la tasa del IEPS para alimentos no básicos se aplica según la información de kilocalorías en el etiquetado del producto, conforme a la norma oficial correspondiente. Esto asegura que se considere el total de kilocalorías del alimento en su estado de venta.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IEPS en alimentos no básicos?",
-    "¿Qué información del etiquetado se utiliza para el IEPS?",
-    "¿Qué es la NOM-051?",
-    "¿A qué se refiere el artículo 2o. de la Ley del IEPS?",
-    "¿Qué tipo de alimentos son considerados no básicos para el IEPS?"
+    "¿Cómo se calcula el IEPS para alimentos no básicos?",
+    "¿Qué información debo revisar en la etiqueta de alimentos para el IEPS?",
+    "¿Qué es la norma NOM-051?",
+    "¿Qué alimentos se consideran no básicos para el IEPS?",
+    "¿Cómo afecta el contenido calórico al impuesto de alimentos?"
   ]
 }

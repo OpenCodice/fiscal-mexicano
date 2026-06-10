@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f095b3f47beab83e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Control de salida y entrada de bienes en POINBI",
+  "denominacion_comun": "Control de salida y entrada de bienes",
   "temas": [
+    "POINBI",
     "CFDI",
     "Complemento Carta Porte",
-    "Traslado de bienes",
-    "POINBI"
+    "traslado de bienes",
+    "leyendas fiscales"
   ],
   "terminos_coloquiales": [
-    "Control de bienes",
-    "Carta Porte",
-    "CFDI con Carta Porte",
-    "POINBI"
+    "traslado de mercancías",
+    "carta porte",
+    "comprobante fiscal",
+    "POINBI",
+    "CFDI"
   ],
-  "resumen": "La regla establece que para el control de la salida y entrada de bienes en los POINBI, se debe emitir el CFDI con el Complemento Carta Porte que identifique el origen y destino de los bienes. Además, se debe incluir una leyenda específica en el CFDI para operaciones dentro de estos Polos.",
+  "resumen": "Esta disposición establece que para el control de la salida, entrada y traslado de bienes entre POINBI, es necesario emitir un CFDI con el Complemento Carta Porte. Además, los CFDI deben incluir leyendas fiscales específicas que indiquen que la operación se realizó dentro de los POINBI.",
   "preguntas_ejemplo": [
-    "¿Cómo debo manejar el traslado de bienes en un POINBI?",
     "¿Qué es el Complemento Carta Porte?",
-    "¿Es necesario un CFDI para el tránsito de bienes?",
-    "¿Qué información debe incluir el CFDI en un POINBI?",
-    "¿Cuáles son las obligaciones para enajenar bienes en los POINBI?"
+    "¿Cómo se controla la entrada y salida de bienes en los POINBI?",
+    "¿Qué leyendas debe tener el CFDI para operaciones dentro de los POINBI?",
+    "¿Qué se necesita para trasladar mercancías entre POINBI?",
+    "¿Son necesarias las leyendas fiscales en un CFDI con Carta Porte?",
+    "¿Qué pasa si no emito el CFDI con Complemento Carta Porte?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:837a55445b9b3f12",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resoluciones fiscales",
+  "denominacion_comun": "Nueva resolución de contribuyentes",
   "temas": [
-    "solicitud de resolución",
+    "resoluciones fiscales",
     "ejercicio fiscal",
-    "efectos fiscales",
+    "solicitud de resolución",
     "autoridades fiscales",
-    "resoluciones de oficio"
+    "efectos de la resolución"
   ],
   "terminos_coloquiales": [
-    "nuevo aviso fiscal",
-    "resolución de impuestos",
-    "resolución",
+    "nueva resolución",
+    "solicitud de cambio",
+    "resolución fiscal",
+    "cambio de resolución",
     "CFF"
   ],
-  "resumen": "Los contribuyentes pueden solicitar una nueva resolución fiscal antes de que termine el ejercicio fiscal correspondiente, siempre que lo hagan tres meses antes de su conclusión. Las autoridades fiscales también pueden otorgar estas resoluciones de oficio, y los efectos de estas resoluciones se aplicarán en el siguiente ejercicio fiscal.",
+  "resumen": "Los contribuyentes pueden pedir una nueva resolución antes de que termine el ejercicio fiscal, siempre que lo hagan tres meses antes. La nueva resolución tendrá efectos en el ejercicio fiscal siguiente.",
   "preguntas_ejemplo": [
     "¿Cómo puedo solicitar una nueva resolución fiscal?",
-    "¿Cuándo debo presentar mi solicitud para una resolución?",
-    "¿Qué pasa si no solicito la resolución antes de que termine el ejercicio?",
-    "¿Las autoridades fiscales pueden cambiar mi resolución sin que yo lo pida?",
-    "¿Cuándo comienzan a surtir efecto las nuevas resoluciones fiscales?"
+    "¿Cuándo debo presentar la solicitud de nueva resolución?",
+    "¿Qué efectos tendrá la nueva resolución que pida?",
+    "¿Las autoridades fiscales pueden otorgar una nueva resolución de oficio?",
+    "¿Qué significa el artículo 36-Bis del CFF?"
   ]
 }

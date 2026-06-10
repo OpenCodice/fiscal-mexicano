@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30691a138f854186",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Depósitos en efectivo a terceros",
   "temas": [
-    "Depósitos en efectivo",
-    "Comisión mercantil",
-    "Instituciones financieras",
-    "Requisitos para depósitos",
-    "SAT",
-    "Documentación fiscal"
+    "comisiones",
+    "depósitos en efectivo",
+    "contrato de comisión mercantil",
+    "destinatarios finales",
+    "instituciones financieras",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "Depósitos a terceros",
-    "Pagos en efectivo",
-    "Regla de depósitos",
-    "LISR 55"
+    "depósitos a terceros",
+    "pago a terceros",
+    "comisiones",
+    "contrato de comisión",
+    "banco",
+    "institución financiera"
   ],
-  "resumen": "Los depósitos en efectivo hechos en cuentas de personas físicas y morales destinados a terceros pueden considerarse para estos últimos como destinatarios finales si la institución financiera puede identificar al destinatario y se cumplen ciertos requisitos, como tener un contrato de comisión mercantil. Tanto comitentes como comisionistas deben resguardar documentación del cumplimiento de estos requisitos.",
+  "resumen": "Esta regla establece que los depósitos en efectivo realizados en cuentas de personas físicas y morales pueden considerarse destinados a terceros, siempre que se cumplan ciertos requisitos relacionados con contratos de comisión y la identificación de los beneficiarios finales. Además, tanto los comisionistas como las instituciones financieras deben mantener documentación que respalde este cumplimiento ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para hacer un depósito a nombre de otra persona?",
-    "¿Qué es un contrato de comisión mercantil?",
-    "¿Qué requisitos debe cumplir la institución financiera para aceptar depósitos en efectivo a terceros?",
-    "¿Cómo puedo comprobar que cumplí con las reglas para los depósitos a terceros?",
-    "¿Qué documentación debo guardar para el SAT en relación con los depósitos en efectivo?"
+    "¿Qué requisitos debo cumplir para hacer un depósito en efectivo a nombre de otra persona?",
+    "¿Cómo se considera un depósito a terceros según la ley?",
+    "¿Qué documentos necesito si soy comisionista para justificar un depósito?",
+    "¿Qué papel juega el SAT en los depósitos en efectivo a terceros?",
+    "¿Qué es un contrato de comisión mercantil?"
   ]
 }

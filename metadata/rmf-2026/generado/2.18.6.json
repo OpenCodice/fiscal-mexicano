@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19bd0b634e411721",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de órganos certificadores",
+  "denominacion_comun": "Certificación de Órganos",
   "temas": [
-    "Órganos certificadores",
-    "Cumplimiento fiscal",
-    "Autorización SAT",
-    "Tecnologías de la información",
-    "Confidencialidad de datos",
-    "Vigencia de certificación"
+    "órganos certificadores",
+    "verificación de cumplimiento",
+    "obligaciones fiscales",
+    "tecnologías de la información",
+    "vigencia de certificación"
   ],
   "terminos_coloquiales": [
-    "Certificación SAT",
-    "Órganos certificadores",
-    "CFF 32-I",
-    "RMF 2.18.6"
+    "certificación de órganos",
+    "certificación SAT",
+    "órganos autorizados",
+    "cumplimiento fiscal"
   ],
-  "resumen": "La certificación de órganos certificadores verifica que cumplan con sus obligaciones fiscales y requisitos del SAT. Deben realizar la certificación directamente y tiene una vigencia de un año.",
+  "resumen": "La certificación de órganos consiste en verificar que los autorizados por el SAT cumplan con sus obligaciones fiscales y de seguridad de la información. Esta certificación debe realizarse directamente y tiene una vigencia de un año.",
   "preguntas_ejemplo": [
     "¿Qué es la certificación de órganos certificadores?",
-    "¿Cuáles son los requisitos para los órganos certificadores?",
-    "¿Cómo se asegura la confidencialidad en la certificación?",
-    "¿Cuánto tiempo es válida la certificación del órgano certificador?",
-    "¿Pueden los órganos certificadores certificar a través de terceros?"
+    "¿Cómo se verifica que un órgano autorizado cumpla con sus obligaciones fiscales?",
+    "¿Cuánto tiempo es válida la certificación otorgada por el SAT?",
+    "¿Pueden los órganos certificadores contratar a terceros para su certificación?",
+    "¿Qué requisitos deben cumplir los órganos certificadores según el SAT?"
   ]
 }

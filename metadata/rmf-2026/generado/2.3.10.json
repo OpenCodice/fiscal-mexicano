@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a28b888dac3d741",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aviso de compensación",
   "temas": [
     "compensación",
-    "declaraciones",
+    "declaraciones de pago",
     "saldos a favor",
+    "impuestos",
     "CFF",
-    "pagos provisionales"
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "aviso de compensación",
-    "compensación de impuestos",
-    "CFF",
-    "devolución de saldos"
+    "avisar sobre compensación",
+    "compensar impuestos",
+    "declaración de impuestos",
+    "saldo a favor",
+    "CFF"
   ],
-  "resumen": "Los contribuyentes cumplen con la obligación de presentar el aviso de compensación al presentar sus declaraciones a través del Servicio de Declaraciones y Pagos, si tienen saldos a cargo y optan por compensar con cantidades a su favor.",
+  "resumen": "Esta regla establece cómo los contribuyentes pueden cumplir con la obligación de presentar el aviso de compensación al realizar sus declaraciones de pago. Se considera que la obligación se cumple si presentan sus declaraciones y optan por pagar un adeudo mediante compensación de saldos a favor.",
   "preguntas_ejemplo": [
     "¿Cómo presento el aviso de compensación?",
     "¿Qué debo hacer si tengo un saldo a favor en mis impuestos?",
-    "¿Cuándo puedo optar por la compensación de cantidad?",
-    "¿Qué es el Servicio de Declaraciones y Pagos?",
-    "¿Qué se requiere para presentar la compensación?"
+    "¿Puedo compensar mis impuestos con saldos a favor de otras declaraciones?",
+    "¿Cuáles son los requisitos para compensar mis pagos provisionales?",
+    "¿Qué implica el artículo 23 del CFF sobre compensaciones?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c1cd2ccf5f161712",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Personas Físicas",
+  "denominacion_comun": "Obligaciones de ingresos para personas físicas",
   "temas": [
-    "Ingresos por préstamos",
-    "Donativos",
-    "Premios",
-    "Declaración anual",
-    "Relevación de obligaciones"
+    "declaración anual",
+    "ingresos por préstamos",
+    "donativos",
+    "premios",
+    "ingresos exentos",
+    "actualización de actividades económicas",
+    "RFC"
   ],
   "terminos_coloquiales": [
-    "Declaración de ingresos",
-    "Obligaciones fiscales",
-    "RFC",
-    "ISR"
+    "declaración de impuestos",
+    "ingresos por donaciones",
+    "premios de lotería",
+    "revisión de ingresos",
+    "inscripción ante el RFC"
   ],
-  "resumen": "Las personas físicas que reciben ingresos por préstamos, donativos y premios superiores a $600,000 necesitan reportarlos en su declaración anual. Además, si solo tienen ingresos exentos, no tienen que presentar un aviso de actualización ante el RFC si ya están inscritos por otros ingresos.",
+  "resumen": "Las personas físicas en México que obtengan ingresos por préstamos, donativos y premios que superen $600,000 deben informarlo en su declaración anual. También están exentos de presentar aviso de actualización de actividades si ya están inscritos en el RFC por otros ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos debo declarar si supero los $600,000?",
-    "¿Están exentos los premios de la declaración anual?",
-    "¿Qué pasa si solo tengo ingresos por donativos?",
-    "¿Necesito presentar un aviso si tengo ingresos exentos?",
-    "¿Cómo afectará mi RFC al declarar estos ingresos?"
+    "¿Qué ingresos tengo que reportar en mi declaración anual?",
+    "¿Si recibí un donativo debo declararlo?",
+    "¿Qué pasa si mis ingresos son solo de premios por lotería?",
+    "¿Necesito actualizar mi actividad económica si solo tengo ingresos exentos?",
+    "¿Cómo sé si debo presentar declaración ante el RFC?"
   ]
 }

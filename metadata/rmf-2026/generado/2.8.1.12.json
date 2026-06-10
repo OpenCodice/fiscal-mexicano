@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f7f1745bcd13ac18",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración informativa de operaciones relevantes",
+  "denominacion_comun": "Declaración Informativa de Operaciones Relevantes",
   "temas": [
-    "obligaciones fiscales",
-    "declaraciones informativas",
+    "declaraciones fiscales",
+    "obligaciones de los contribuyentes",
     "operaciones relevantes",
-    "últimos plazos",
-    "requisitos de presentación",
-    "exenciones de presentación"
+    "plazos de presentación",
+    "exenciones",
+    "sistema financiero",
+    "dictamen de estados financieros"
   ],
   "terminos_coloquiales": [
     "declaración de operaciones",
     "declaración informativa",
-    "DOR",
-    "forma oficial 76"
+    "Formulario 76",
+    "CFF 31-A",
+    "menos de 60 millones"
   ],
-  "resumen": "Los contribuyentes deben presentar la declaración informativa de operaciones relevantes trimestralmente, según fechas específicas. No es necesario presentar la declaración si no se realizaron operaciones durante el periodo, o si el monto total es menor a 60 millones de pesos y se cumplen ciertas condiciones.",
+  "resumen": "Esta regla establece cómo los contribuyentes deben presentar la declaración informativa de operaciones relevantes según el artículo 31-A del CFF. También señala las fechas límites y exenciones para ciertos contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar la declaración de operaciones relevantes?",
-    "¿Qué es la forma oficial 76?",
+    "¿Qué debo incluir en la declaración informativa de operaciones relevantes?",
+    "¿Cuáles son las fechas para presentar la declaración de operaciones?",
     "¿Quiénes están exentos de presentar esta declaración?",
     "¿Qué pasa si no realicé operaciones en el trimestre?",
-    "¿Cómo se determina si estoy obligado a presentar esta declaración?"
+    "¿En qué consiste el Formulario 76?"
   ]
 }

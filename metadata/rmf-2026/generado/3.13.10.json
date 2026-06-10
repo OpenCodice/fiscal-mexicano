@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7debd38689abb47b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Silvícolas o pesqueras con ingresos exentos",
+  "denominacion_comun": "Ingresos Exentos para Silvícolas o Pesqueras",
   "temas": [
     "impuesto sobre la renta",
     "ingresos exentos",
-    "CFDI",
-    "declaraciones fiscales",
     "actividades silvícolas",
-    "actividades pesqueras"
+    "actividades pesqueras",
+    "CFDI",
+    "declaraciones mensuales",
+    "declaraciones anuales"
   ],
   "terminos_coloquiales": [
-    "ingresos agrícolas exentos",
-    "silvícolas ingresos exentos",
-    "pesqueras con ingresos exentos",
-    "ISR 113-E"
+    "ingresos exentos",
+    "declaraciones de impuestos",
+    "CFDI",
+    "silvícolas",
+    "pesqueras",
+    "pago de impuestos"
   ],
-  "resumen": "Las personas físicas que realicen actividades agrícolas, ganaderas, silvícolas o pesqueras y cuyos ingresos no superen un monto determinado, pueden optar por no presentar declaraciones fiscales. Es necesario emitir CFDI por las actividades realizadas.",
+  "resumen": "Las personas físicas que realizan actividades agrícolas, ganaderas, silvícolas o pesqueras y cuyos ingresos están exentos hasta un límite, no necesitan presentar declaraciones fiscales, siempre que emitan los CFDI correspondientes. Si sus ingresos superan ese límite, deberán presentar sus declaraciones mensuales.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mis ingresos de actividades pesqueras son menores a 900,000 pesos?",
-    "¿Puedo omitir mis declaraciones fiscales si soy silvicultor?",
-    "¿Qué ingresos se consideran exentos para el ISR en actividades agrícolas?",
-    "¿Cómo emito CFDI si tengo ingresos exentos por mis actividades ganaderas?",
-    "¿Qué pasa si mis ingresos exceden el monto exento para silvícolas?",
-    "¿A qué artículo del ISR debo referirme para mis ingresos exentos como pescador?"
+    "¿Qué ingresos están exentos para silvícolas?",
+    "¿No tengo que presentar declaración si mis ingresos son menores a 900,000?",
+    "¿Qué son los CFDI y por qué los necesito?",
+    "¿Qué pasa si mis ingresos superan el monto exento?",
+    "¿Qué actividades se consideran silvícolas o pesqueras?",
+    "¿Cuáles son mis obligaciones fiscales si soy silvícola?"
   ]
 }

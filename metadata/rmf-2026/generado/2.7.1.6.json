@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:093e17e32a7b3490",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Factura SAT Móvil",
+  "denominacion_comun": "CFDI Móvil",
   "temas": [
-    "CFDI",
-    "Genera tu factura",
-    "Código QR",
-    "Aplicación móvil",
-    "Portal del SAT"
+    "expedición de CFDI",
+    "Factura SAT Móvil",
+    "herramientas electrónicas",
+    "código QR"
   ],
   "terminos_coloquiales": [
-    "factura digital",
-    "expedir CFDI",
-    "app facturación",
+    "factura",
+    "CFDI",
     "Factura SAT Móvil",
-    "CFDI sin PCCFDI"
+    "generar factura",
+    "aplicación móvil"
   ],
-  "resumen": "Los contribuyentes pueden emitir CFDI a través de la herramienta 'Genera tu factura' o la aplicación 'Factura SAT Móvil', sin necesidad de remitirlos a un PCCFDI. La aplicación incluye un lector y generador de código QR para facilitar la expedición de CFDI.",
+  "resumen": "Los contribuyentes pueden emitir CFDI usando la herramienta 'Genera tu factura' o la aplicación 'Factura SAT Móvil' sin necesidad de enviarlos a un PCCFDI. La aplicación incluye un lector y generador de código QR para facilitar la emisión de CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo expedir una factura digital sin PCCFDI?",
-    "¿Dónde descargo la app de Factura SAT Móvil?",
-    "¿Qué es el código QR en la Factura SAT Móvil?",
-    "¿Qué herramienta necesito para generar un CFDI?",
-    "¿Puedo emitir CFDI desde mi celular?"
+    "¿Cómo puedo generar mi CFDI desde el celular?",
+    "¿Qué es la aplicación Factura SAT Móvil?",
+    "¿Necesito un PCCFDI para expedir un CFDI?",
+    "¿Qué herramientas me ofrece el SAT para emitir facturas?",
+    "¿Cómo funciona el código QR en la aplicación de facturas?"
   ]
 }

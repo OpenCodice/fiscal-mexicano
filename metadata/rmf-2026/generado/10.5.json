@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2786ae933ef0a1d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes fiscales por consorcios",
+  "denominacion_comun": "Comprobantes fiscales de consorcios",
   "temas": [
     "CFDI",
     "costos",
     "gastos",
     "inversiones",
-    "contrato de exploración",
-    "contrato de extracción",
-    "retención de impuestos",
-    "centro de costos"
+    "contratos de hidrocarburos",
+    "retenciones",
+    "impuestos",
+    "planes de exploración",
+    "desarrollo de hidrocarburos"
   ],
   "terminos_coloquiales": [
-    "comprobantes fiscales",
-    "CFDI de consorcios",
-    "gastos de hidrocarburos"
+    "facturas de consorcios",
+    "comprobantes fiscales CFDI",
+    "gastos de consorcios",
+    "inversiones en hidrocarburos",
+    "retención de impuestos",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "La regla establece que los CFDI que expidan los consorcios para amparar costos, gastos e inversiones pueden emitirse mensualmente, siempre que incluyan información específica y se relacionen con un contrato de exploración o extracción de hidrocarburos.",
+  "resumen": "La regla establece que los CFDI emitidos por el operador de un consorcio para amparar costos, gastos o inversiones pueden emitirse mensualmente. Estos comprobantes deben incluir un complemento específico y variados detalles relacionados con el gasto, el contrato y los impuestos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se deben expedir los CFDI para consorcios?",
-    "¿Qué información debe contener el CFDI de costos y gastos de un consorcio?",
-    "¿Hay plazos para emitir CFDI en contratos de hidrocarburos?",
-    "¿Qué es el complemento para gastos del consorcio?",
-    "¿Cómo se vinculan los CFDI entre el operador del consorcio y sus integrantes?"
+    "¿Cómo debo emitir los CFDI para mis gastos como consorcio?",
+    "¿Qué información necesita contener un CFDI de un consorcio?",
+    "¿Cuándo se deben expedir los CFDI mensuales?",
+    "¿Qué pasa si no sigo los lineamientos del complemento para costos de consorcio?",
+    "¿Qué impuestos debo considerar al emitir un CFDI como consorcio?"
   ]
 }

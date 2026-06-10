@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df864924a1c80a2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del ISR en dividendos a fideicomisos",
+  "denominacion_comun": "Retención del ISR sobre dividendos a fideicomisos",
   "temas": [
-    "Impuesto sobre la renta",
-    "Fideicomisos",
-    "Dividendos",
-    "Responsabilidad de retención"
+    "impuesto sobre la renta",
+    "dividendos",
+    "fideicomisos",
+    "retención",
+    "acciones"
   ],
   "terminos_coloquiales": [
-    "Retención de ISR",
-    "Dividendos a fideicomisos",
-    "ISR para fideicomisos",
-    "LISR"
+    "retención de ISR",
+    "fideicomiso",
+    "dividendos",
+    "utilidades"
   ],
-  "resumen": "La regla establece que los fideicomisos pueden no retener el ISR sobre dividendos si proporcionan la información necesaria a los intermediarios del mercado de valores. Si no lo hacen, son responsables de la retención.",
+  "resumen": "Se establece que los fideicomisos que reciben dividendos de acciones podrán no realizar la retención del ISR si entregan la información necesaria a los intermediarios del mercado. De lo contrario, serán responsables de la retención del impuesto.",
   "preguntas_ejemplo": [
-    "¿Cómo se manejan los dividendos que reciben los fideicomisos?",
-    "¿Los fideicomisos deben retener ISR sobre los dividendos?",
-    "¿Qué información necesitan los fideicomisos para no retener ISR?",
-    "¿Qué pasa si un fideicomiso no entrega la información necesaria?",
-    "¿Qué artículos de la ley se aplican a la retención del ISR en fideicomisos?"
+    "¿Cuándo se retiene el ISR en los dividendos a fideicomisos?",
+    "¿Qué pasa si un fideicomiso no entrega la información para la retención del ISR?",
+    "¿Los fideicomisos deben retener ISR sobre los dividendos que reciben?",
+    "¿Cuáles son las obligaciones de un fideicomiso al recibir dividendos?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a430994be974a148",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación de créditos fiscales",
+  "denominacion_comun": "Documentos determinantes de créditos fiscales",
   "temas": [
-    "adeudos fiscales",
-    "documentos determinantes",
-    "requisitos de documentación",
-    "SAT",
-    "identificación del deudor"
+    "créditos fiscales",
+    "deudores",
+    "domicilio fiscal",
+    "determinación de adeudos",
+    "requisitos SAT",
+    "documentación soporte",
+    "línea de captura"
   ],
   "terminos_coloquiales": [
-    "créditos fiscales",
-    "documentación ante el SAT",
-    "adeudos con el SAT",
-    "LFD",
-    "CFF",
-    "RMF"
+    "deudas fiscales",
+    "documentos para pagar impuestos",
+    "créditos de impuestos",
+    "información para el SAT",
+    "pagar adeudos",
+    "FCF"
   ],
-  "resumen": "La regla establece los requisitos que deben cumplir los documentos que remiten los responsables de servicios o bienes públicos al SAT para la determinación de créditos fiscales. Estos documentos deben incluir información detallada sobre el deudor y el crédito fiscal a determinar.",
+  "resumen": "La regla establece los requisitos que deben cumplir los documentos que los encargados de la administración de bienes y servicios públicos deben remitir al SAT para determinar adeudos fiscales. Si la documentación es incompleta, será devuelta al emisor. Además, se señala cómo deben pagar las deudas fiscales los sancionados.",
   "preguntas_ejemplo": [
-    "¿Qué debo incluir en la documentación para el SAT sobre créditos fiscales?",
-    "¿Cuáles son los requisitos para remitir documentos determinantes al SAT?",
-    "¿Qué información necesita el SAT para aceptar documentos de créditos fiscales?",
-    "¿Cómo puedo corregir la documentación que el SAT no aceptó?",
-    "¿Dónde encuentro la línea de captura para pagar mis adeudos?"
+    "¿Qué documentos necesito para remediar un adeudo fiscal?",
+    "¿Cuáles son los requisitos para presentar documentos al SAT?",
+    "¿Qué hago si no tengo el domicilio fiscal de un deudor?",
+    "¿Cómo pago mis deudas fiscales ante el SAT?",
+    "¿Qué pasa si mi documentación está incompleta?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c0480637dc494060",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Compensación de oficio",
   "temas": [
     "compensación",
     "créditos fiscales",
-    "devoluciones",
-    "saldo a favor",
+    "saldos a favor",
     "garantía del interés fiscal",
-    "parcialidades vencidas"
+    "deuda tributaria"
   ],
   "terminos_coloquiales": [
-    "compensación fiscal",
-    "compensación de oficio",
-    "CFF",
-    "saldo a favor"
+    "compensación de impuestos",
+    "devolución de impuestos",
+    "saldo a favor",
+    "crédito fiscal",
+    "CFF 23"
   ],
-  "resumen": "La autoridad fiscal puede compensar de manera automática las cantidades que los contribuyentes deben recibir de las autoridades con los créditos fiscales que tienen pendientes, bajo ciertas condiciones. Esto implica que si hay un saldo a favor y se tienen deudas fiscales, el saldo se puede usar para cubrir esas deudas.",
+  "resumen": "La autoridad fiscal puede compensar de oficio los saldos a favor de los contribuyentes contra créditos fiscales autorizados a pagar a plazos, especialmente en casos donde no haya garantía suficiente o existan pagos atrasados. Esto se aplica hasta el monto que el contribuyente tiene derecho a recibir.",
   "preguntas_ejemplo": [
-    "¿Qué es la compensación de oficio en la ley fiscal?",
-    "¿En qué casos puede la autoridad fiscal compensar mis saldos a favor?",
-    "¿Cómo afecta la compensación de oficio a mis créditos fiscales?",
-    "¿Qué condiciones debo cumplir para que se aplique la compensación de oficio?",
-    "¿Qué significa que la autoridad fiscal compense de forma automática mis deudas?",
-    "¿Qué ocurre si tengo parcialidades vencidas y un saldo a favor?"
+    "¿Qué es la compensación de oficio?",
+    "¿Cuándo puede la autoridad fiscal compensar mis saldos a favor?",
+    "¿Qué sucede si tengo deudas fiscales y un saldo a favor?",
+    "¿Qué condiciones se necesitan para la compensación de impuestos?",
+    "¿Puedo recibir una devolución de impuestos si tengo créditos fiscales?",
+    "¿Qué dice el CFF sobre la compensación de oficio?"
   ]
 }

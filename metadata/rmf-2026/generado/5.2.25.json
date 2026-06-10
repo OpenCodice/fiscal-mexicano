@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2e113a42b19b3674",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de productores de bebidas alcohólicas",
+  "denominacion_comun": "Obligaciones de contribuyentes de bebidas alcohólicas",
   "temas": [
-    "control volumétrico",
-    "información trimestral",
-    "declaración informativa",
-    "programa MULTI-IEPS",
-    "RIF",
-    "Ley del IEPS"
+    "Impuesto Especial sobre Producción y Servicios",
+    "Control volumétrico",
+    "Declaración Informativa Múltiple",
+    "MULTI-IEPS",
+    "Productores de bebidas alcohólicas",
+    "Envasadores de bebidas",
+    "Régimen de Incorporación Fiscal",
+    "RIF"
   ],
   "terminos_coloquiales": [
-    "obligaciones de control",
+    "bebidas alcohólicas",
+    "control de producción",
     "declaración de IEPS",
     "MULTI-IEPS",
-    "control de bebidas alcohólicas"
+    "pago de impuestos",
+    "cuotas de IEPS"
   ],
-  "resumen": "Los productores o envasadores de bebidas alcohólicas deben presentar información sobre el control volumétrico de sus procesos de producción y envasamiento de manera trimestral mediante el programa MULTI-IEPS. Esta obligación es específica para aquellos que están sujetos a la Ley del IEPS.",
+  "resumen": "Los productores o envasadores de bebidas alcohólicas deben presentar trimestralmente información sobre su producción y envasado, utilizando el programa MULTI-IEPS. Esta obligación es aplicable a ciertos contribuyentes según lo establecido en la ley del IEPS.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar la declaración informativa de IEPS?",
-    "¿Qué es el programa MULTI-IEPS?",
-    "¿Qué tipos de productos están sujetos a control volumétrico?",
-    "¿Quiénes están obligados por las regulaciones del IEPS?",
-    "¿Qué información debo incluir en mi declaración trimestral?",
-    "¿Existen excepciones para los contribuyentes del RIF?"
+    "¿Cuándo debo presentar la declaración de MULTI-IEPS?",
+    "¿Qué es el control volumétrico en la producción de bebidas?",
+    "¿Qué obligaciones tienen los envasadores de bebidas alcohólicas?",
+    "¿Existen excepciones para los contribuyentes del RIF?",
+    "¿Cómo tengo que presentar mi información trimestral?"
   ]
 }

@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6f49eb78af2666da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de derechos migratorios",
   "temas": [
-    "Derechos migratorios",
-    "Condición de estancia",
-    "Actividades remuneradas",
-    "Oficinas consulares",
-    "Comprobante de pago"
+    "derechos migratorios",
+    "visas",
+    "actividades remuneradas",
+    "oficinas consulares",
+    "comprobante de pago"
   ],
   "terminos_coloquiales": [
-    "Pago de derechos",
-    "Derechos migratorios",
-    "LFD",
-    "Autorización migratoria"
+    "pago de derechos migratorios",
+    "visa de trabajo",
+    "pago en consulados",
+    "constancia de pago"
   ],
-  "resumen": "Este pago se puede realizar en las oficinas consulares y se emite un comprobante que incluye información del extranjero y de la visa. La normativa establece que los datos en el comprobante pueden modificar según sea necesario.",
+  "resumen": "Este artículo establece que el pago de derechos migratorios por la visa de visitante con permiso para trabajar se puede realizar en las oficinas consulares de México. Al pagar, se emite un comprobante que incluye datos del extranjero y la visa.",
   "preguntas_ejemplo": [
     "¿Dónde puedo pagar mis derechos migratorios?",
-    "¿Qué información necesita el comprobante de pago de derechos?",
-    "¿Qué es el artículo 8o. de la LFD?",
-    "¿Qué datos tienen que aparecer en el comprobante de pago?",
-    "¿Puedo pagar mis derechos migratorios en el consulado?"
+    "¿Qué datos se necesitan para el comprobante de pago en el consulado?",
+    "¿Puedo trabajar con una visa de visitante?",
+    "¿Qué es el comprobante de pago de derechos migratorios?",
+    "¿Cuánto cuesta el pago de derechos migratorios?"
   ]
 }

@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3bf6d35be92e804f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para personas físicas",
+  "denominacion_comun": "Devolución del IVA para servicios digitales",
   "temas": [
-    "IVA",
-    "devoluciones",
-    "descuentos",
-    "bonificaciones",
+    "devolución del IVA",
     "CFDI de Egresos",
     "cancelación de operaciones",
-    "plataformas tecnológicas"
+    "plataformas digitales",
+    "descuentos y bonificaciones",
+    "retenciones",
+    "solicitud de devolución",
+    "Ley del IVA"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "CFDI",
-    "IVA retenido",
-    "personas físicas",
-    "devoluciones fiscales"
+    "CFDI de egresos",
+    "cancelar factura",
+    "descuentos en IVA",
+    "IVA de servicios digitales",
+    "solicitar devolución de IVA"
   ],
-  "resumen": "Las personas físicas que venden bienes o prestan servicios a través de plataformas tecnológicas pueden solicitar la devolución del IVA retenido o pagado si cancelan operaciones o dan descuentos. Deben emitir un CFDI de Egresos y presentar la solicitud a través del FED.",
+  "resumen": "Esta disposición establece el procedimiento para que las personas físicas que ofrezcan servicios a través de plataformas digitales soliciten la devolución del IVA en casos de descuentos, devoluciones o cancelaciones de operaciones. Se requiere emitir un CFDI de Egresos y presentar la solicitud a través de un procedimiento específico.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución del IVA que me retuvieron?",
-    "¿Qué debo hacer si cancelé una venta por internet?",
-    "¿Qué es un CFDI de Egresos y cómo se usa para la devolución de IVA?",
-    "¿Puedo recuperar el IVA si hice descuentos en mis ventas?",
-    "¿Cuáles son los requisitos para solicitar la devolución de IVA?",
-    "¿Dónde presento la solicitud de devolución de IVA?"
+    "¿Cómo puedo solicitar la devolución del IVA por una venta cancelada?",
+    "¿Qué debo hacer si otorgué un descuento y quiero recuperar el IVA?",
+    "¿Necesito emitir un CFDI de Egresos para devolver IVA?",
+    "¿Qué documentos necesito para solicitar la devolución del IVA?",
+    "¿Cómo funciona la restitución del IVA en operaciones digitales?",
+    "¿Puedo cancelar un CFDI y recuperar el IVA que ya pagué?"
   ]
 }

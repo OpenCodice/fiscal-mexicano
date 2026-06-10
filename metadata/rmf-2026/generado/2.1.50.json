@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:66d21b9c632ea23e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Órgano colegiado CFF 5o.-A",
+  "denominacion_comun": "Órgano colegiado del CFF",
   "temas": [
-    "Órgano colegiado",
-    "CFF",
-    "Sesiones",
+    "órgano colegiado",
     "Coordinador",
-    "Voto",
-    "Quorum",
-    "Suplencias",
-    "Opinión"
+    "Secretario Técnico",
+    "Prosecretario",
+    "Unidades Administrativas",
+    "voto",
+    "quorum",
+    "opinión"
   ],
   "terminos_coloquiales": [
-    "Órgano colegiado",
-    "CFF 5o.-A",
-    "Comité fiscal",
-    "Votación del comité"
+    "órgano colegiado",
+    "CFF",
+    "Coordinador",
+    "Secretario Técnico",
+    "Prosecretario",
+    "empleados del SAT",
+    "funcionarios de Hacienda"
   ],
-  "resumen": "Este artículo detalla la estructura y funcionamiento del órgano colegiado establecido en el artículo 5o.-A del Código Fiscal de la Federación. Define su composición, así como las reglas para llevar a cabo sus sesiones y votaciones.",
+  "resumen": "La regla establece la composición y funcionamiento de un órgano colegiado que se requiere para la aplicación del artículo 5o.-A del Código Fiscal de la Federación. Este órgano incluye un Coordinador, un Secretario Técnico, un Prosecretario y titulares de diversas Unidades Administrativas del SAT y de la Secretaría de Hacienda.",
   "preguntas_ejemplo": [
-    "¿Cómo se integra el órgano colegiado del artículo 5o.-A del CFF?",
-    "¿Quién preside las sesiones del órgano colegiado?",
-    "¿Qué quorum se requiere para que el órgano colegiado pueda sesionar?",
-    "¿Cuál es la función del Secretario Técnico en el órgano colegiado?",
-    "¿Qué pasa en caso de empate en la votación del órgano colegiado?"
+    "¿Quiénes forman parte del órgano colegiado según el CFF?",
+    "¿Cómo se toman las decisiones en el órgano colegiado?",
+    "¿Cuál es el quorum necesario para que el órgano colegiado pueda sesionar?",
+    "¿Qué funciones tienen el Coordinador y el Secretario Técnico?",
+    "¿Qué sucede en caso de empate en la votación del órgano colegiado?"
   ]
 }

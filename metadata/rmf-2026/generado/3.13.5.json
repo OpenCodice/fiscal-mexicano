@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:15e9078a23e59adc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "obligaciones fiscales",
-    "avisos de actualización",
-    "declaraciones provisionales",
-    "impuesto sobre la renta",
-    "pagos definitivos",
+    "disposiciones fiscales",
+    "actualización de actividades económicas",
+    "declaraciones de pagos provisionales",
+    "opciones de tributación",
+    "impuestos a pagar",
     "deducciones autorizadas"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "simplificación fiscal",
-    "régimen de confianza"
+    "régimen simplificado",
+    "actualización de actividades",
+    "declaración de impuestos",
+    "pagos provisionales"
   ],
-  "resumen": "Este régimen permite a ciertos contribuyentes cumplir con obligaciones fiscales de manera simplificada. Sin embargo, hay casos en los que no pueden seguir tributando bajo este régimen y deben presentar un aviso y las declaraciones correspondientes.",
+  "resumen": "El Régimen Simplificado de Confianza establece ciertas disposiciones para los contribuyentes que no se aplican si se cumplen ciertas condiciones. Los contribuyentes deben presentar un aviso si cambian sus actividades y hacer declaraciones de pagos provisionales según su situación fiscal.",
   "preguntas_ejemplo": [
-    "¿Cuándo no puedo tributar en el Régimen Simplificado de Confianza?",
-    "¿Qué debo hacer si cambio de régimen fiscal?",
-    "¿Cómo presento mis pagos provisionales si salgo del régimen simplificado?",
-    "¿Qué son los pagos definitivos en el RESICO?",
-    "¿Cuáles son mis obligaciones si actualizo mis actividades económicas?",
-    "¿Puedo deducir mis ingresos del Régimen Simplificado de Confianza?"
+    "¿Qué pasa si cambio mis actividades económicas en el RESICO?",
+    "¿Cómo presento mis declaraciones si dejo el Régimen Simplificado de Confianza?",
+    "¿Cuáles son mis obligaciones fiscales en caso de actualizar mis actividades?",
+    "¿Qué opciones tengo si no puedo continuar en el Régimen Simplificado de Confianza?",
+    "¿Cómo calculo el impuesto si no considero mis pagos como definitivos?"
   ]
 }

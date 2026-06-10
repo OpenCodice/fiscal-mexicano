@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9dede436b8cf961a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de intermediación",
   "temas": [
-    "IVA",
     "devoluciones",
-    "restitución de contraprestaciones",
-    "compra-venta digital",
-    "CFDI"
+    "cancelaciones",
+    "servicios digitales",
+    "IVA",
+    "contraprestaciones",
+    "Comprobantes Fiscales Digitales por Internet (CFDI)",
+    "Registro Federal de Contribuyentes (RFC)"
   ],
   "terminos_coloquiales": [
+    "devoluciones de servicios",
     "intermediación digital",
-    "servicios digitales",
-    "IVA de servicios digitales",
-    "regla 12.2.8"
+    "servicios por internet",
+    "CFDI",
+    "IVA",
+    "restituciones",
+    "reembolso por servicios"
   ],
-  "resumen": "La regla establece que los prestadores de servicios digitales de intermediación pueden deducir el monto de las contraprestaciones y el IVA correspondiente cuando realizan devoluciones o cancelaciones, siempre y cuando estén inscritos en el RFC y emitan un comprobante adecuado.",
+  "resumen": "Esta disposición permite que aquellas personas que prestan servicios digitales de intermediación puedan deducir el monto de las contraprestaciones y el IVA correspondiente que hayan restituido, siempre que sigan ciertos requisitos, como estar inscritos en el RFC y emitir un CFDI correspondiente. La deducción debe reflejarse adecuadamente en sus papeles de trabajo.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el IVA por devoluciones de servicios digitales?",
-    "¿Qué requisitos debo cumplir para restituir contraprestaciones?",
-    "¿Cómo se reflejan las devoluciones en mis declaraciones de IVA?",
-    "¿Necesito un comprobante para la restitución de pagos en servicios digitales?",
-    "¿Qué es la regla 12.2.8 y cómo me afecta?",
-    "¿Qué pasos debo seguir al hacer devolución de servicios digitales?"
+    "¿Cómo se deducen las devoluciones de IVA en servicios digitales de intermediación?",
+    "¿Qué hago si tengo que restituir una contraprestación por un servicio digital?",
+    "¿Cuáles son los requisitos para deducir el IVA por servicios de intermediación?",
+    "¿Qué es un CFDI y cómo se relaciona con las devoluciones de servicios?",
+    "¿Tengo que estar inscrito en el RFC para restituir contraprestaciones?",
+    "¿Cómo se refleja la deducción de contraprestaciones en mis declaraciones?"
   ]
 }

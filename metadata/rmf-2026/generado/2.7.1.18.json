@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c0b1f7e3b7724a2a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidad para incluir erogaciones en CFDI",
+  "denominacion_comun": "CFDI y Erogaciones Autorizadas",
   "temas": [
     "CFDI",
     "Erogaciones",
-    "Deducibilidad",
-    "Instituciones de crédito",
-    "Sociedades operadoras de fondos",
-    "Tarjetas de servicio",
+    "Deducciones",
     "Addenda",
+    "Instituciones de crédito",
+    "Casas de bolsa",
     "Fideicomisos"
   ],
   "terminos_coloquiales": [
-    "Factura digital",
-    "Erogaciones en comprobantes",
-    "Deducción de erogaciones",
-    "CFDI con erogaciones",
-    "Facilidad de ensobretado"
+    "factura",
+    "CFDI",
+    "deducción de gastos",
+    "gastos autorizados",
+    "entidades financieras"
   ],
-  "resumen": "Las instituciones autorizadas pueden incluir las erogaciones deducibles en los CFDI utilizando la Addenda especificada. Esto aplica a ciertas entidades como bancos y casas de bolsa en sus operaciones. Los CFDI generados amparan exclusivamente las erogaciones procedentes según la ley.",
+  "resumen": "Las instituciones de crédito y casas de bolsa pueden incluir ciertos gastos en los CFDI al utilizar la Addenda, siempre que sean deducibles según las leyes fiscales. Además, se aplican disposiciones especiales para fideicomisos que actúan como socios liquidadores.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo incluir erogaciones en mi CFDI?",
-    "¿Qué entidades pueden utilizar la facilidad de ensobretado?",
-    "¿Qué erogaciones son deducibles en un CFDI?",
-    "¿Qué es la Addenda en un CFDI?",
-    "¿Quiénes son los fideicomitentes autorizados para esta regla?"
+    "¿Qué gastos puedo incluir en mis CFDI?",
+    "¿Cómo se opera con la Addenda en un CFDI?",
+    "¿Quiénes pueden deducir erogaciones en sus facturas?",
+    "¿Qué reglas hay para fideicomisarios en CFDI?",
+    "¿Las casas de bolsa pueden emitir CFDI por erogaciones?",
+    "¿Qué es la facilidad de ensobretado en CFDI?"
   ]
 }

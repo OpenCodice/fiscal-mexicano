@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:221fc368d0841f94",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contratación de Proveedores de Certificación de CFDI",
+  "denominacion_comun": "Proveedores de Certificación de CFDI",
   "temas": [
-    "Proveedores de Certificación",
-    "CFDI",
-    "Comprobantes Fiscales",
-    "Contribuyentes",
-    "Manifestación de Conocimiento",
-    "SAT"
+    "certificación de CFDI",
+    "proveedores de certificación",
+    "comprobantes fiscales",
+    "manifestación de conocimiento"
   ],
   "terminos_coloquiales": [
-    "Proveedores CFDI",
+    "factura",
     "CFDI",
-    "Comprobantes",
-    "Certificación de CFDI"
+    "proveedores de CFDI",
+    "certificación de facturas"
   ],
-  "resumen": "Los contribuyentes pueden usar varios proveedores de certificación de CFDI al mismo tiempo. También deben informar por escrito a su proveedor sobre esta decisión y autorizar que se envíen copias de sus comprobantes al SAT.",
+  "resumen": "Los contribuyentes pueden usar varios proveedores para certificar sus CFDI de manera simultánea. Además, deben notificar por escrito al PCCFDI sobre su elección y autorización para que se envíen copias al SAT.",
   "preguntas_ejemplo": [
-    "¿Puedo contratar más de un proveedor de CFDI?",
-    "¿Qué debo hacer si uso varios proveedores de certificación?",
-    "¿Cómo informo al SAT sobre mi proveedor de CFDI?",
-    "¿Qué es la manifestación de conocimiento para el PCCFDI?",
-    "¿Cuáles son los requisitos para usar proveedores de CFDI?"
+    "¿Puedo usar más de un proveedor para certificar mis facturas?",
+    "¿Qué debo hacer para autorizar a mi proveedor de CFDI?",
+    "¿Cómo notifico al PCCFDI sobre mi proveedor de certificación?",
+    "¿Qué información se envía al SAT sobre mis comprobantes?",
+    "¿Cuáles son mis obligaciones al usar proveedores de CFDI?"
   ]
 }

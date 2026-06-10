@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ada330449aa56810",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sorteo El Buen Fin",
+  "denominacion_comun": "Sorteo 'El Buen Fin'",
   "temas": [
     "premios",
     "participación",
-    "condiciones",
-    "entidades financieras"
+    "bases del sorteo",
+    "información del sorteo",
+    "Decreto fiscal"
   ],
   "terminos_coloquiales": [
-    "Sorteo El Buen Fin",
-    "Sorteo",
-    "premios del Buen Fin"
+    "sorteo",
+    "El Buen Fin",
+    "premios del Buen Fin",
+    "información del sorteo"
   ],
-  "resumen": "Se establecen las bases, términos y condiciones para la participación en el Sorteo \"El Buen Fin\". La información sobre premios y participantes será publicada en el Portal del SAT.",
+  "resumen": "La disposición establece que la información sobre los premios y las condiciones para participar en el Sorteo 'El Buen Fin' se publicará en el portal del SAT. Además, menciona que las entidades que deseen participar deben manifestarse de acuerdo con lo estipulado en el Decreto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo participo en el Sorteo El Buen Fin?",
-    "¿Qué premios hay en el Sorteo?",
-    "¿Cuáles son las condiciones para participar?",
-    "¿Dónde encuentro la información del sorteo?",
-    "¿Qué entidades pueden participar en el sorteo?"
+    "¿Qué debo saber sobre el sorteo 'El Buen Fin'?",
+    "¿Cuáles son las condiciones para participar en el sorteo?",
+    "¿Dónde puedo encontrar la información sobre los premios del Buen Fin?",
+    "¿Quiénes pueden participar en el sorteo?",
+    "¿Cómo se dan a conocer los resultados del sorteo?"
   ]
 }

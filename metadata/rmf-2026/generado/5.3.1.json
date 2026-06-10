@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c7bf565aa983631",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obtención de marbetes y precintos",
   "temas": [
     "marbetes",
     "precintos",
+    "Padrón de Contribuyentes de Bebidas Alcohólicas",
     "obligaciones fiscales",
-    "Padrón de Contribuyentes",
-    "bebidas alcohólicas",
+    "opinión de cumplimiento",
+    "uso incorrecto de marbetes",
     "certificados de sellos digitales",
-    "Cumplimiento de obligaciones"
+    "e.firma"
   ],
   "terminos_coloquiales": [
     "marbetes",
     "precintos",
-    "registro de bebidas",
-    "obligaciones al día",
-    "certificados fiscales"
+    "bebidas alcohólicas",
+    "obligaciones fiscales",
+    "opinión de cumplimiento",
+    "e.firma",
+    "CFDI"
   ],
-  "resumen": "La regla establece los requisitos que deben cumplir los contribuyentes para obtener marbetes y precintos relacionados con la producción y venta de bebidas alcohólicas, incluyendo estar al corriente en sus obligaciones fiscales y no tener antecedentes de irregularidades. Además, deben tener vigentes sus certificados digitales.",
+  "resumen": "La regla establece los requisitos que deben cumplir los contribuyentes para obtener marbetes y precintos relacionados con la producción y venta de bebidas alcohólicas. Incluye estar al corriente en obligaciones fiscales y no haber cometido infracciones relacionadas.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para obtener marbetes de bebidas alcohólicas?",
-    "¿Qué debo hacer si tengo problemas con mis marbetes?",
-    "¿Cómo saber si estoy al corriente para solicitar precintos?",
-    "¿Qué pasa si tengo infracciones relacionadas con marbetes?",
-    "¿Necesito algún documento específico para obtener mis marbetes?",
-    "¿Qué certificados deben estar vigentes para obtener marbetes?"
+    "¿Qué necesito para obtener marbetes de bebidas alcohólicas?",
+    "¿Cuáles son los requisitos para conseguir precintos?",
+    "¿Dónde puedo verificar si estoy al corriente con mis obligaciones fiscales?",
+    "¿Qué pasa si he usado los marbetes incorrectamente?",
+    "¿Cómo solicito una opinión de cumplimiento ante la autoridad?",
+    "¿Necesito algo especial para que mi e.firma esté vigente?"
   ]
 }

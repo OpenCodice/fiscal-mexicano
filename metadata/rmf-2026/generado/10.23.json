@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0d6711209f80a7e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operación de la asignataria como operador petrolero",
+  "denominacion_comun": "Operación del operador petrolero en área unificada",
   "temas": [
     "CFDI",
-    "costos y gastos",
-    "conciliación de operaciones",
+    "costos",
+    "gastos",
+    "inversiones",
+    "Áreas unificadas",
     "información fiscal",
-    "Obligaciones fiscales"
+    "contratistas"
   ],
   "terminos_coloquiales": [
-    "Operador petrolero",
-    "Área unificada",
+    "facturas",
+    "comprobantes fiscales",
+    "operaciones petroleras",
+    "asignataria",
     "SENER",
-    "Reportes al AGH"
+    "AGH"
   ],
-  "resumen": "La asignataria designada como operador petrolero de un área unificada debe expedir CFDI para amparar costos y gastos, conservar evidencia de operaciones y proporcionar información fiscal al AGH. Además, tiene que cumplir con obligaciones fiscales individuales conforme a la ley.",
+  "resumen": "La normativa establece que la asignataria designada como operador petrolero debe emitir CFDI para los costos y gastos de un área unificada, además de informar al AGH sobre las operaciones realizadas anualmente, cumpliendo con las obligaciones fiscales individuales.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tiene un operador petrolero en un área unificada?",
-    "¿Cómo se deben emitir los CFDI para un área unificada?",
-    "¿Qué información se debe entregar al AGH por parte del operador?",
-    "¿Cuándo se debe reportar la información fiscal al AGH?",
-    "¿Qué es un acuerdo de unificación en el contexto de hidrocarburos?"
+    "¿Cómo debo emitir los CFDI para operaciones en un área unificada?",
+    "¿Qué información debo enviar al AGH sobre las operaciones de mi consorcio?",
+    "¿Qué obligaciones fiscales tengo como operador petrolero en un área unificada?",
+    "¿Cuándo debo presentar la información de las operaciones del año anterior?",
+    "¿Qué debe contener la relación de operaciones que debo entregar al contratista?"
   ]
 }

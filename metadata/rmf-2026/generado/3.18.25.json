@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1815748a6a0f7a14",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de ISR para residentes en el extranjero",
+  "denominacion_comun": "Pago a fondos de inversión del extranjero",
   "temas": [
-    "ISR",
-    "residentes en el extranjero",
+    "retención de ISR",
     "fondos de inversión",
-    "personas morales",
-    "retención",
-    "solicitud de inscripción"
+    "personas morales del extranjero",
+    "regla 3.18.24",
+    "inscripción como retenedor"
   ],
   "terminos_coloquiales": [
-    "retención de ISR",
-    "pago a fondos de inversión",
-    "regla 3.18.25",
-    "RLISR",
-    "RMF"
+    "no retener ISR",
+    "fondos de inversión extranjeros",
+    "personas morales",
+    "pago a fondos del extranjero"
   ],
-  "resumen": "Esta disposición establece que los pagos a fondos de inversión o a personas morales en el extranjero no están sujetos a retención de ISR, de acuerdo a lo que se menciona en la regla 3.18.24. Esto significa que los ingresos pagados a estos fondos o personas no requerirán la retención de impuestos.",
+  "resumen": "Esta regla establece que no hay obligación de retener el Impuesto sobre la Renta (ISR) por pagos realizados a fondos de inversión o a personas morales en el extranjero, en ciertas proporciones y condiciones. Se refiere a las excepciones establecidas en una regla anterior sobre este tema.",
   "preguntas_ejemplo": [
-    "¿Cuándo no debo retener ISR a fondos de inversión en el extranjero?",
-    "¿Qué disposiciones aplican para pagos a personas morales extranjeras?",
-    "¿Qué dice la regla 3.18.25 sobre retenciones de ISR?",
-    "¿Cuál es la regla relacionada con el CANCELAMENTO de retenciones para residentes en el extranjero?",
-    "¿Cómo presentar la solicitud de inscripción como retenedor?",
-    "¿Qué ingresos están exentos de retención de ISR en pagos al extranjero?"
+    "¿Tengo que retener ISR por pagos a fondos de inversión extranjeros?",
+    "¿Qué significa la regla 3.18.25 sobre pagos a personas morales del extranjero?",
+    "¿Cuáles son las condiciones para no retener ISR en pagos a fondos del extranjero?",
+    "¿Cómo me inscribo como retenedor para estos pagos?",
+    "¿Qué establece el artículo 272 del Reglamento del ISR?"
   ]
 }

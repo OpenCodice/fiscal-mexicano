@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f2c56d83648da4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para misiones diplomáticas y organismos internacionales",
+  "denominacion_comun": "Devolución del IVA para misiones diplomáticas y organismos internacionales",
   "temas": [
-    "IVA",
-    "devolución",
+    "devolución del IVA",
     "misiones diplomáticas",
     "organismos internacionales",
     "comprobantes fiscales",
-    "solicitud de devolución",
-    "AGGC",
-    "reglas del SAT"
+    "solicitud mensual",
+    "trámite ante la AGGC"
   ],
   "terminos_coloquiales": [
-    "devolución de IVA",
-    "IVA misiones diplomáticas",
-    "IVA organismos internacionales",
-    "Solicitud de devolución IVA",
-    "SAT",
-    "AGGC"
+    "devolución del IVA",
+    "IVA para diplomáticos",
+    "organismos internacionales",
+    "solicitar la devolución",
+    "comprobante fiscal"
   ],
-  "resumen": "Las misiones diplomáticas y organismos internacionales pueden solicitar la devolución del IVA que han pagado, presentando la documentación correspondiente ante la AGGC. Es necesario que los comprobantes fiscales contengan el IVA detallado y estén a nombre del organismo o misión, incluyendo los nombres del personal diplomático cuando aplique.",
+  "resumen": "Las misiones diplomáticas y organismos internacionales pueden solicitar la devolución del IVA que hayan pagado mediante un proceso mensual ante la AGGC. Deben presentar los comprobantes fiscales pertinentes y cumplir con ciertos requisitos para que su solicitud sea válida.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reclamar la devolución del IVA si trabajo en una misión diplomática?",
-    "¿Qué requisitos necesito para solicitar la devolución del IVA como organismo internacional?",
-    "¿Dónde presento la solicitud de devolución del IVA para misiones diplomáticas?",
-    "¿Qué documentos necesito para garantizar la devolución del IVA que he pagado?",
-    "¿Qué hacer si no tengo todos los comprobantes fiscales para la devolución del IVA?"
+    "¿Cómo puedo solicitar la devolución del IVA si soy una misión diplomática?",
+    "¿Qué documentos necesito para la devolución del IVA de un organismo internacional?",
+    "¿Cuáles son los requisitos para presentar la solicitud de devolución del IVA?",
+    "¿Qué pasa si no presento la información solicitada para la devolución del IVA?",
+    "¿Dónde presento la solicitud de devolución del IVA para organismos internacionales?",
+    "¿Se puede solicitar la devolución del IVA en línea?"
   ]
 }

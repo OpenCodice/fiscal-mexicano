@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c382268b0cdbc53d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas reportables",
+  "denominacion_comun": "Esquemas Reportables",
   "temas": [
-    "documentación requerida",
-    "detalles de operaciones",
+    "revelación de esquemas",
+    "asociación de esquemas",
+    "información fiscal",
     "convenciones para evitar doble imposición",
-    "esquemas personalizados",
-    "información sobre beneficiarios"
+    "operaciones con residentes en el extranjero",
+    "documentación requerida",
+    "análisis de operaciones"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
-    "esquemas fiscales",
+    "esquemas reportables",
+    "informes fiscales",
+    "obligaciones fiscales",
+    "asessores fiscales",
     "CFF",
-    "esquemas reportables"
+    "RMF"
   ],
-  "resumen": "Se requiere que los asesores fiscales y contribuyentes presenten un documento en formato .pdf que detalle información sobre esquemas reportables, incluyendo operaciones y convenciones fiscales. Esto aplica tanto para esquemas generalizados como personalizados.",
+  "resumen": "Se requiere que los asesores fiscales y contribuyentes presenten información y documentación para esquemas reportables, tanto generalizados como personalizados. Esto incluye un diagrama de operaciones y detalles sobre las transacciones y partes involucradas, así como el cumplimiento con convenios que evitan la doble imposición.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en el reporte de esquemas fiscales?",
-    "¿Cuáles son los documentos necesarios para declarar esquemas reportables?",
-    "¿Cómo se determina si un esquema es reportable?",
-    "¿Qué es un esquema reportable personalizado?",
-    "¿Qué datos necesito acerca de los beneficiarios en un esquema reportable?"
+    "¿Qué debo incluir en un esquema reportable?",
+    "¿Cómo se documenta un esquema reportable personalizado?",
+    "¿Qué información se necesita sobre los residentes en el extranjero en un esquema reportable?",
+    "¿Cuáles son las obligaciones de los asesores fiscales respecto a los esquemas reportables?",
+    "¿Cómo afecta la doble imposición a los esquemas reportables?",
+    "¿Qué son los esquemas reportables y quiénes deben reportarlos?"
   ]
 }

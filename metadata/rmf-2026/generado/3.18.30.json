@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:094d7da59d78a373",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cambio en el libro de accionistas",
+  "denominacion_comun": "Cumplimiento de cambios en libro de accionistas",
   "temas": [
-    "información a la autoridad fiscal",
     "libro de accionistas",
+    "información fiscal",
     "sociedades emisoras",
-    "cumplimiento de obligaciones"
+    "Ley del ISR",
+    "cambios en accionistas"
   ],
   "terminos_coloquiales": [
-    "informar cambios en accionistas",
-    "libro de accionistas",
-    "ISR",
-    "obligación de informar"
+    "cambios en el libro",
+    "informar a la autoridad",
+    "acciones",
+    "LISR",
+    "RLISR"
   ],
-  "resumen": "Se establece que las sociedades emisoras deben informar a la autoridad fiscal sobre cambios en su libro de accionistas. Si no hay cambios, también se debe informar bajo protesta de decir verdad.",
+  "resumen": "Se establece que es necesario informar a la autoridad fiscal sobre cualquier modificación en el libro de accionistas de una sociedad, o declarar que no ha habido cambios, al presentar la documentación requerida. Esto aplica de acuerdo a lo indicado en el Reglamento de la Ley del ISR.",
   "preguntas_ejemplo": [
     "¿Cómo informo sobre cambios en el libro de accionistas?",
     "¿Qué debo hacer si no hay cambios en el libro de accionistas?",
-    "¿Cuándo debo presentar la documentación relacionada?",
-    "¿Qué pasa si no cumplo con informar los cambios?",
-    "¿Qué es la ficha de trámite 44/ISR?"
+    "¿Cuándo debo presentar la documentación sobre los accionistas?",
+    "¿Qué es la ficha de trámite 44/ISR?",
+    "¿A qué artículo del RLISR debo referirme para cambios en el libro de accionistas?"
   ]
 }

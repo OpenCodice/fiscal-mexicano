@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f837243131f5e4bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones personales por servicios dentales",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Deducciones personales",
-    "Servicios dentales",
-    "Honorarios dentales",
-    "Norma Oficial Mexicana"
+    "deducciones personales",
+    "servicios dentales",
+    "honorarios dentales",
+    "Ley del ISR",
+    "profesionales de la salud bucal"
   ],
   "terminos_coloquiales": [
-    "deducciones por dentista",
+    "gastos dentales",
+    "pago a dentistas",
     "honorarios a dentistas",
-    "servicios odontológicos",
-    "NOM-013"
+    "odontología",
+    "LISR"
   ],
-  "resumen": "Esta disposición permite que los honorarios pagados a dentistas se consideren deducciones personales para el cálculo del Impuesto sobre la Renta, siempre y cuando estos servicios se ajusten a la norma oficial correspondiente.",
+  "resumen": "La regla establece que los pagos por honorarios a estomatólogos se consideran deducciones personales según la Ley del ISR. Estos pagos incluyen servicios de profesionales de la salud bucal que requieren título de médico.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mis gastos en el dentista?",
-    "¿Qué servicios dentales son deducibles?",
-    "¿Cuáles son los requisitos para deducir honorarios dentales?",
-    "¿A qué dentistas puedo pagar y deducir en mi declaración?",
-    "¿Hay alguna norma que regule los servicios dentales que puedo deducir?"
+    "¿Puedo deducir gastos por servicios de un dentista?",
+    "¿Qué pagos son considerados deducciones por honorarios dentales?",
+    "¿A quiénes puedo pagar para deducir servicios dentales?",
+    "¿Qué dice la Ley del ISR sobre gastos dentales?",
+    "¿Cuáles son los requisitos para deducir honorarios de dentistas?"
   ]
 }

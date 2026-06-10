@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:680fd99d7454d26f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos Deducibles",
+  "denominacion_comun": "Recibir donativos deducibles",
   "temas": [
+    "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "autorización donativos",
-    "documentación requerida",
-    "vigencia de autorización"
+    "documentación necesaria",
+    "vigencia de documentos",
+    "convenios de apoyo económico",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "recibir donativos",
     "donativos deducibles",
-    "autorización para donar",
-    "organizaciones sin fines de lucro",
-    "donatarias autorizadas",
-    "RMF"
+    "recibir donaciones",
+    "organizaciones no lucrativas",
+    "fideicomisos",
+    "reglamento de becas"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos deben presentar un documento que acredite sus actividades para recibir donativos deducibles. Este documento debe contener información específica y tener una vigencia mínima de seis meses al ser presentado a la autoridad fiscal.",
+  "resumen": "La regla establece los requisitos y el tipo de documento que deben presentar las organizaciones civiles y fideicomisos para poder recibir donativos deducibles. Se especifica la información que debe contener el documento y la vigencia de los mismos, así como las condiciones para los convenios de apoyo económico a otras donatarias.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos necesito para que me autoricen a recibir donativos deducibles?",
-    "¿Cómo puedo comprobar que mi organización es apta para recibir donativos?",
+    "¿Qué se necesita para que una organización reciba donativos deducibles?",
+    "¿Cuáles son los requisitos para los documentos que acreditan actividades de donatarias?",
+    "¿Cómo se validan los convenios de apoyo económico entre organizaciones?",
     "¿Qué información debe incluir el documento para recibir donativos deducibles?",
-    "¿Cuánto tiempo es válido el documento para recibir donativos deducibles?",
-    "¿Qué pasa si mi organización no actualiza su documento para recibir donativos?"
+    "¿Por cuánto tiempo son válidos los documentos para recibir donaciones?",
+    "¿Qué obligaciones fiscales tienen las organizaciones que reciben donativos?"
   ]
 }

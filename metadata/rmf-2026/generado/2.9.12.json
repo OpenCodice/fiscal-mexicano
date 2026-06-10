@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:865b8099965aa258",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuentas Extranjeras y Reportables",
+  "denominacion_comun": "Cuentas reportables y presentación de información",
   "temas": [
-    "identificación de cuentas",
-    "información fiscal",
-    "declaraciones normales",
-    "declaraciones complementarias",
-    "regulación de cuentas financieras"
+    "cuentas extranjeras",
+    "información financiera",
+    "declaraciones fiscales",
+    "cumplimiento de obligaciones"
   ],
   "terminos_coloquiales": [
-    "cuentas reportables",
+    "cuentas en el extranjero",
+    "reportes fiscales",
+    "declaraciones normales",
+    "declaraciones complementarias",
     "CFF 32-B Bis",
     "RMF 3.5.8"
   ],
-  "resumen": "Esta disposición establece cómo las autoridades fiscales identificarán cuentas extranjeras y reportables, y los procedimientos para presentar la información correspondiente. También regula la presentación de declaraciones normales y complementarias relacionadas con estas cuentas.",
+  "resumen": "Se establece el procedimiento para identificar cuentas extranjeras y presentar la información ante las autoridades fiscales, conforme al artículo 32-B Bis del CFF. Además, se especifica que las declaraciones normales y complementarias deben presentarse en tiempo según los Anexos 27 y 28.",
   "preguntas_ejemplo": [
-    "¿Cómo identifico mis cuentas reportables?",
-    "¿Cuándo debo presentar mis declaraciones sobre cuentas extranjeras?",
-    "¿Qué información necesitan las autoridades fiscales sobre mis cuentas financieras?",
-    "¿Qué sucede si presento una declaración complementaria?",
-    "¿Cómo afecta el artículo 32-B Bis a mis obligaciones fiscales?"
+    "¿Qué son las cuentas reportables?",
+    "¿Cómo debo presentar la información de mis cuentas extranjeras?",
+    "¿Qué son las declaraciones complementarias según el CFF?",
+    "¿Qué plazos tengo para presentar mis declaraciones fiscales?",
+    "¿Qué información se incluye en los Anexos 27 y 28?"
   ]
 }

@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9878b9fb8312ddca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recolección de desperdicios para reciclaje",
   "temas": [
     "CFDI",
+    "recolección de desperdicios",
+    "reciclaje",
+    "personas físicas",
+    "retención de impuestos",
     "ISR",
-    "IVA",
-    "Personas físicas",
-    "Reciclaje",
-    "Incripciones en RFC",
-    "Retenciones fiscales"
+    "IVA"
   ],
   "terminos_coloquiales": [
-    "Recolectores de reciclaje",
-    "CFDI para reciclaje",
-    "ISR de recicladores",
-    "IVA en reciclaje"
+    "factura",
+    "reciclaje",
+    "recolectores",
+    "comprobante fiscal",
+    "CFDI",
+    "retención de impuestos"
   ],
-  "resumen": "Esta regla establece los procedimientos y requisitos para que las personas físicas que recojan desperdicios y materiales para reciclaje puedan inscribirse en el RFC y expedir CFDI. También se indican las retenciones de impuestos que deben hacer los adquirentes de estos materiales.",
+  "resumen": "Esta regla establece que las personas físicas dedicadas a la recolección de desperdicios para su venta pueden inscribirse en el RFC y expedir CFDI. También se indica la retención de impuestos sobre la venta de estos materiales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo registrarme como colector de reciclaje?",
-    "¿Qué impuestos debo retener si compro materiales reciclables?",
-    "¿Cuál es el límite de ingresos para evitar tener establecimiento fijo como reciclador?",
-    "¿Qué reglas sigo para emitir un CFDI por materiales reciclados?",
-    "¿Qué ocurre si no subo a tiempo la información requerida en el RFC?"
+    "¿Qué deben hacer los recolectores de desperdicios para inscribirse en el RFC?",
+    "¿Cómo se expiden los CFDI para la venta de materiales reciclables?",
+    "¿Qué impuestos deben retener los que compran desperdicios?",
+    "¿Bajo qué condiciones una persona física puede operar como recolector de reciclaje?",
+    "¿Qué es el CSD en relación con la expedición de CFDI?",
+    "¿Qué pasa si no se subsanan las irregularidades en la emisión de CFDI?"
   ]
 }

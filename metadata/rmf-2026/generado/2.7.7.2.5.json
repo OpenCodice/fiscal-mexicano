@@ -6,36 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca8c891faeda2d30",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transporte consolidado de mercancías",
   "temas": [
     "CFDI",
-    "Carta Porte",
-    "Transporte de carga",
-    "Identificación de cargas",
-    "Requisitos fiscales",
-    "Jurisprudencia federal",
-    "Tipos de CFDI",
-    "Última milla",
-    "Primera milla",
-    "Etapa intermedia"
+    "transporte de carga",
+    "mercancías",
+    "complemento Carta Porte",
+    "jurisdicción federal",
+    "identificación de cargas",
+    "tipo de CFDI"
   ],
   "terminos_coloquiales": [
-    "CFDI de carga consolidada",
+    "factura de transporte",
     "CFDI de transporte",
-    "CFDI de tipo ingreso",
-    "Carta Porte",
-    "CFDI con complemento",
-    "CFDI de tipo traslado"
+    "despacho de mercancías",
+    "transporte de carga consolidada",
+    "CFDI Carta Porte"
   ],
-  "resumen": "Los transportistas pueden emitir un CFDI para el transporte de carga consolidada bajo ciertas condiciones, dependiendo de si las mercancías transitan por jurisdicción federal o no. Se especifican diferentes tipos de CFDI para las etapas del traslado, con o sin complemento Carta Porte.",
+  "resumen": "Los transportistas de carga consolidada pueden emitir CFDI de ingreso sin complemento Carta Porte para cada cliente. Dependiendo de la jurisdicción y el tipo de traslado, pueden emitir diferentes tipos de CFDI, incluyendo aquellos con y sin complemento Carta Porte, siempre respetando los requisitos establecidos por la ley.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de CFDI debo emitir para el transporte de mercancías?",
-    "¿Cuándo se necesita el complemento Carta Porte?",
-    "¿Qué requisitos debe tener un CFDI de tipo traslado?",
-    "¿Cómo identifico las cargas en un CFDI?",
-    "¿Qué sucede si transito por un tramo federal?",
-    "¿Qué es el Instructivo de llenado del CFDI?"
+    "¿Cómo emito un CFDI para el transporte de mercancías?",
+    "¿Qué requisitos debo cumplir para un CFDI con complemento Carta Porte?",
+    "¿Qué tipos de CFDI puedo emitir si no transito por jurisdicción federal?",
+    "¿Cómo identifico las cargas en un CFDI de transporte?",
+    "¿Qué hacer si hay un cambio de medio de transporte en el traslado de mercancías?"
   ]
 }

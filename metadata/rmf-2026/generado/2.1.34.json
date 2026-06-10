@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a69154463b732299",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aplicaciones estandarizadas y específicas",
+  "denominacion_comun": "Aplicaciones estandarizadas y especiales",
   "temas": [
+    "tratados internacionales",
+    "doble tributación",
     "aplicaciones estandarizadas",
-    "aplicaciones específicas",
-    "tratados de doble tributación",
-    "uso de software",
-    "programas de cómputo",
-    "explotación comercial"
+    "aplicaciones especiales",
+    "software",
+    "programas informáticos"
   ],
   "terminos_coloquiales": [
-    "software comercial",
-    "programas de computadora",
+    "programa de computadora",
+    "software",
+    "aplicación informática",
     "COTS",
-    "aplicaciones informáticas"
+    "aplicaciones estándar"
   ],
-  "resumen": "La disposición define qué se entiende por aplicaciones estandarizadas y específicas en el contexto de tratados para evitar la doble tributación. Las aplicaciones estandarizadas se ofrecen de manera homogénea en el mercado, mientras que las específicas están adaptadas o diseñadas para un usuario particular.",
+  "resumen": "La disposición aclara qué se entiende por aplicaciones estandarizadas y especiales en el contexto de la tributación y los tratados internacionales. Se define una aplicación estandarizada como aquella disponible de forma masiva en el mercado, mientras que una aplicación especial es aquella adaptada o diseñada exclusivamente para un usuario específico.",
   "preguntas_ejemplo": [
-    "¿Qué son las aplicaciones estandarizadas según la ley?",
-    "¿Cómo se define una aplicación específica?",
+    "¿Qué es una aplicación estandarizada según la ley?",
+    "¿Cómo se clasifica un software si está adaptado para un usuario específico?",
+    "¿Cuáles son las diferencias entre aplicaciones estandarizadas y especiales?",
     "¿Qué significa COTS en el contexto fiscal?",
-    "¿Qué ocurre si un software estándar es adaptado para un cliente?",
-    "¿Qué diferencias hay entre aplicaciones estandarizadas y específicas?"
+    "¿Qué requisitos debe cumplir un programa para ser considerado estándar?"
   ]
 }

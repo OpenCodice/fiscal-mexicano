@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f09b31a84f43358",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos de inversión en la industria eléctrica",
+  "denominacion_comun": "Fideicomisos en la industria eléctrica",
   "temas": [
+    "impuesto sobre la renta",
     "fideicomisos",
-    "industria eléctrica",
-    "ISR",
+    "inversión en energía",
+    "empresas públicas",
     "derechos fideicomisarios",
-    "ingresos acumulables",
-    "ganancias",
-    "flujos de efectivo",
-    "inversión"
+    "transmisión de energía eléctrica"
   ],
   "terminos_coloquiales": [
-    "fideicomisos de inversión eléctrica",
-    "ISRE",
-    "fideicomisos en energía"
+    "fideicomisos eléctricos",
+    "empresas eléctricas",
+    "inversiones en energía",
+    "ISR",
+    "derechos de cobro"
   ],
-  "resumen": "Esta regla establece las condiciones bajo las cuales los fideicomisos de inversión en la industria eléctrica pueden invertir en derechos fideicomisarios y otros títulos de crédito, así como las implicaciones fiscales relacionadas con la enajenación de estos derechos y la distribución de ingresos acumulables de las empresas públicas del Estado. Además, se especifican los requisitos para la captación de flujos de efectivo y la valoración de activos.",
+  "resumen": "La disposición regula el funcionamiento y los requisitos de los fideicomisos dedicados a la inversión en la industria eléctrica, permitiendo que empresas públicas utilicen estos fideicomisos para la captación de flujos de efectivo de derechos de cobro. También establece aspectos sobre la acumulación de ingresos y los efectos fiscales para las empresas involucradas.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona un fideicomiso en la industria eléctrica?",
-    "¿Qué requisitos debe cumplir un fideicomiso para invertir en derechos fideicomisarios?",
-    "¿Qué implicaciones fiscales tienen los fideicomisos de inversión en energía?",
-    "¿Cómo se determina la ganancia en la enajenación de derechos de cobro?",
-    "¿Qué ingresos no se consideran acumulables para las empresas del Estado en este contexto?"
+    "¿Qué son los fideicomisos en la industria eléctrica?",
+    "¿Cómo afectan los fideicomisos a la declaración del ISR?",
+    "¿Qué requisitos deben cumplir los fideicomisos eléctricos?",
+    "¿Qué ingresos no se consideran acumulables para las empresas eléctricas?",
+    "¿Qué es un derecho fideicomisario?"
   ]
 }

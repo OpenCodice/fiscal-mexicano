@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f01b17ca2039644",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ganancias de residentes en el extranjero por enajenación de títulos de crédito",
   "temas": [
     "Impuesto sobre la renta",
     "Residentes en el extranjero",
-    "Enajenación de títulos de crédito",
-    "Intermediarios del mercado de valores",
-    "Tratados para evitar la doble imposición"
+    "Títulos de crédito",
+    "Enajenación",
+    "Intercambio de información tributaria"
   ],
   "terminos_coloquiales": [
-    "ganancias invertidas en el extranjero",
+    "ganancias para extranjeros",
     "títulos de crédito",
-    "retención de impuestos",
-    "LISR",
-    "RMF"
+    "no retención de impuestos",
+    "acuerdos de doble imposición"
   ],
-  "resumen": "Esta regla establece que las ganancias obtenidas por residentes en el extranjero de la venta de títulos de crédito no estarán sujetas a retención en ciertos casos, siempre que se cumplan condiciones específicas relacionadas con tratados de doble imposición y la modalidad de la enajenación.",
+  "resumen": "Esta regla establece que los residentes en el extranjero que enajenen títulos de crédito a través de intermediarios en su país no están obligados a realizar retenciones si se cumplen ciertas condiciones. También requiere que estos intermediarios estén en países con acuerdos de intercambio de información tributaria con México.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los residentes en el extranjero para no pagar impuestos en México por enajenación de títulos?",
-    "¿Cómo afecta el tratado de doble imposición en las ganancias de residentes en el extranjero?",
-    "¿Qué es la regla 3.18.21 de la RMF y cómo se aplica?",
-    "¿Qué condiciones deben cumplir los intermediarios para no hacer retenciones?",
-    "¿Qué títulos de crédito están exentos de retención en México para residentes en el extranjero?"
+    "¿Existen retenciones para extranjeros que venden títulos de crédito en México?",
+    "¿Qué condiciones deben cumplir los intermediarios extranjeros para no retener impuestos?",
+    "¿Cuáles son los requisitos para la enajenación de títulos de crédito por residentes en el extranjero?",
+    "¿Qué significa un acuerdo de doble imposición en este contexto?",
+    "¿Qué son los títulos de crédito que se mencionan en la regla?"
   ]
 }

@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2db990e7e0e79d99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Órganos Certificadores",
   "temas": [
-    "Requisitos para operar",
-    "Autorización SAT",
-    "Personas morales",
-    "Cumplimiento fiscal",
-    "Garantías",
-    "Verificaciones"
+    "requisitos para operar",
+    "autorización SAT",
+    "personas morales",
+    "garantías",
+    "verificación de requisitos",
+    "cumplimiento fiscal",
+    "capital mínimo"
   ],
   "terminos_coloquiales": [
-    "Órganos certificadores",
+    "órganos certificadores",
     "SAT",
-    "Requisitos para certificadores",
-    "Autorización de certificadores"
+    "autorización",
+    "requisitos para certificar",
+    "ficha de trámite"
   ],
-  "resumen": "Esta disposición establece los requisitos que deben cumplir las personas morales para obtener la autorización del SAT y funcionar como órganos certificadores. Incluye criterios sobre su situación fiscal, experiencia y capacidad técnica, así como la obligación de presentar garantías.",
+  "resumen": "La regla establece los requisitos que deben cumplir las personas morales para obtener la autorización de operar como órganos certificadores ante el SAT. Incluye aspectos como la situación fiscal, capital mínimo y experiencia del personal encargado de las verificaciones.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para ser un órgano certificador autorizado por el SAT?",
-    "¿Cuáles son los requisitos fiscales para operar como certificador?",
-    "¿Qué garantías debo presentar para obtener la autorización?",
-    "¿Cuánto capital se requiere para ser un órgano certificador?",
-    "¿Qué pasa si no cumplo con los requisitos para ser un certificador?"
+    "¿Qué requisitos necesito para ser un órgano certificador?",
+    "¿Cómo puedo obtener la autorización del SAT para certificar?",
+    "¿Qué garantías se requieren para operar como órgano certificador?",
+    "¿Cuál es el capital mínimo requerido para ser un órgano certificador?",
+    "¿Qué pasa si no presento la garantía a tiempo?"
   ]
 }

@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:386c94914ab28d00",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reaseguradoras extranjeras",
+  "denominacion_comun": "Reaseguradoras Extranjeras",
   "temas": [
-    "estabilidad fiscal",
-    "tratados de doble tributación",
+    "residencia fiscal",
+    "tratados para evitar la doble tributación",
     "registro de reaseguradoras",
-    "residencia fiscal"
+    "acreditamiento de impuestos"
   ],
   "terminos_coloquiales": [
-    "reaseguradoras en el extranjero",
-    "doble tributación",
-    "LISR",
-    "Registro General de Reaseguradoras"
+    "reaseguradoras extranjeras",
+    "residencia fiscal en el extranjero",
+    "tratado de doble tributación",
+    "Registro General de Reaseguradoras Extranjeras"
   ],
-  "resumen": "Las reaseguradoras extranjeras sin establecimiento permanente en México pueden acreditar su residencia fiscal si están inscritas en el Registro General de Reaseguradoras Extranjeras y cumplen con ciertos requisitos relacionados a tratados de doble tributación.",
+  "resumen": "Las reaseguradoras extranjeras sin establecimiento permanente en México pueden acreditar su residencia fiscal mediante su inscripción en un registro específico o su renovación, si están en un convenio fiscal con México. Esto les permite evitar pagar impuestos doblemente.",
   "preguntas_ejemplo": [
-    "¿Cómo acreditan las reaseguradoras extranjeras su residencia fiscal en México?",
-    "¿Qué requisitos deben cumplir las reaseguradoras foráneas para evitar la doble tributación?",
+    "¿Cómo pueden las reaseguradoras extranjeras acreditar su residencia fiscal en México?",
+    "¿Qué requisitos deben cumplir las reaseguradoras para evitar la doble tributación?",
     "¿Qué es el Registro General de Reaseguradoras Extranjeras?",
-    "¿Qué tratados tiene México para evitar la doble tributación?",
-    "¿Qué ocurre si una reaseguradora no tiene establecimiento permanente en México?"
+    "¿Las reaseguradoras extranjeras necesitan un establecimiento permanente en México?",
+    "¿Cómo funciona el tratado para evitar la doble tributación para reaseguradoras?"
   ]
 }

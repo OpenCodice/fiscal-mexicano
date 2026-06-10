@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a8089a3983f0352",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Billete de depósito para garantizar crédito fiscal",
+  "denominacion_comun": "Billete de depósito para garantizar créditos fiscales",
   "temas": [
     "billete de depósito",
-    "garantía del crédito fiscal",
-    "institución autorizada",
-    "constitución política",
-    "datos del contribuyente",
-    "importes",
-    "adeudos"
+    "garantía del interés fiscal",
+    "créditos fiscales",
+    "identificación del contribuyente",
+    "información requerida",
+    "TESOFE"
   ],
   "terminos_coloquiales": [
-    "billetes de depósito",
+    "billete de depósito",
+    "depósito fiscal",
     "garantía fiscal",
-    "CFF",
-    "Ley de Amparo"
+    "TESOFE"
   ],
-  "resumen": "Los billetes de depósito que se utilizan para garantizar un crédito fiscal deben ser emitidos por una institución autorizada y contener información específica como los datos del contribuyente, fecha de emisión, y el importe garantizado. Además, deben estar emitidos a favor de la TESOFE o del organismo competente.",
+  "resumen": "Los billetes de depósito para garantizar créditos fiscales deben ser emitidos por instituciones autorizadas y contener información específica como los datos del contribuyente y el importe garantizado. Estos documentos aseguran que el crédito fiscal esté respaldado adecuadamente.",
   "preguntas_ejemplo": [
-    "¿Qué es un billete de depósito para garantizar un crédito fiscal?",
     "¿Qué información debe contener un billete de depósito?",
-    "¿Quién puede emitir un billete de depósito?",
-    "¿A quién debe estar dirigido el billete de depósito?",
-    "¿Cuáles son los requisitos para un billete de depósito en materia fiscal?"
+    "¿Cómo emito un billete de depósito para garantizar un crédito fiscal?",
+    "¿Qué es la TESOFE?",
+    "¿Quién debe emitir el billete de depósito?",
+    "¿Qué datos necesita un billete de depósito para ser válido?"
   ]
 }

@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f94749b4877df2dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para recibir donativos deducibles",
+  "denominacion_comun": "Autorización para donativos deducibles",
   "temas": [
     "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
     "vigencia de autorización",
     "revocación de autorización",
-    "cancelación de autorización",
-    "solicitud de nueva autorización"
+    "cumplimiento de obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "recibir donativos",
-    "autorización de donativos",
     "donativos deducibles",
+    "solicitud de donativos",
     "organizaciones sin fines de lucro",
-    "OC",
-    "fideicomisos"
+    "fideicomisos autorizados",
+    "SAT",
+    "autorización de donativos"
   ],
-  "resumen": "Esta regla establece que las organizaciones civiles y fideicomisos pueden solicitar nueva autorización para recibir donativos deducibles si su autorización anterior fue revocada o no se renovó. El SAT revisará que cumplan con los requisitos y obligaciones para otorgar esta nueva autorización.",
+  "resumen": "La regla establece el procedimiento para que organizaciones civiles o fideicomisos soliciten una nueva autorización para recibir donativos deducibles si la autorización anterior fue revocada o no se mantuvo vigente. Estas entidades deben cumplir con ciertas obligaciones fiscales y reanudar actividades si las habían suspendido.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo renovar mi autorización para recibir donativos deducibles?",
-    "¿Qué hacer si me cancelaron la autorización de donativos?",
-    "¿Qué requisitos necesito para solicitar una nueva autorización de donativos?",
-    "¿Puedo volver a solicitar donativos si suspendí actividades?",
-    "¿Qué es la ficha de trámite 19/ISR?"
+    "¿Cómo puedo renovar la autorización para recibir donativos deducibles?",
+    "¿Qué hacer si mi autorización para recibir donativos fue revocada?",
+    "¿Qué requisitos debo cumplir para obtener una nueva autorización de donativos?",
+    "¿Puedo solicitar donativos si suspendí mis actividades?",
+    "¿Cuál es el trámite para recibir donativos deducibles nuevamente?",
+    "¿Qué obligaciones fiscales debo cumplir para mantener la autorización?"
   ]
 }

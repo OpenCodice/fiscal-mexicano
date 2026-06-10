@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e2ac9a3297f8ea8c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Subasta de entidades federativas",
   "temas": [
-    "remate de bienes",
-    "créditos fiscales federales",
-    "convocatorias",
+    "subastas",
+    "bienes rematados",
     "autoridades fiscales",
+    "créditos fiscales",
+    "convocatorias de remate",
     "Convenios de Colaboración Administrativa"
   ],
   "terminos_coloquiales": [
-    "subasta de bienes",
-    "remate fiscal",
-    "subasta de créditos fiscales",
-    "subasta de entidades",
-    "CFF",
-    "LCF"
+    "subasta",
+    "remate de bienes",
+    "autoridades fiscales estatales",
+    "créditos fiscales federales"
   ],
-  "resumen": "Las entidades federativas realizan subastas de bienes derivados de créditos fiscales federales y fijan las convocatorias a través de sus páginas web. Estas subastas se efectúan siguiendo sus propios procedimientos internos en línea con el Código Fiscal de la Federación.",
+  "resumen": "Las entidades federativas realizan subastas de bienes derivados de créditos fiscales federales y publican las convocatorias en sus páginas de Internet. Utilizan sus propios procedimientos y aplicaciones para llevar a cabo estos remates.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan las subastas de bienes por entidades federativas?",
-    "¿Dónde puedo encontrar las convocatorias para remates fiscales?",
-    "¿Qué son los créditos fiscales federales y cómo se subastan?",
-    "¿Qué procedimientos siguen las entidades para rematar bienes?",
-    "¿Quiénes son las autoridades fiscales que manejan las subastas?",
-    "¿Qué son los convenios de colaboración administrativa en materia fiscal?"
+    "¿Dónde puedo ver las subastas de bienes por parte de las entidades federativas?",
+    "¿Cómo participan las autoridades fiscales en los remates de bienes?",
+    "¿Dónde se publican las convocatorias para los remates de bienes fiscales?",
+    "¿Qué son los créditos fiscales federales y cómo se relacionan con las subastas?",
+    "¿Qué procedimientos siguen las entidades federativas para llevar a cabo un remate?"
   ]
 }

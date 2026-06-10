@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b742f51c8d0c346",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de derechos en oficinas del extranjero",
+  "denominacion_comun": "Pago de derechos en el extranjero",
   "temas": [
     "derechos",
     "oficinas en el extranjero",
     "dólares",
     "tipo de cambio",
-    "Ley Federal de Derechos"
+    "LFD"
   ],
   "terminos_coloquiales": [
-    "pago de derechos en dólares",
-    "derechos en el extranjero",
-    "LFD",
-    "pago de derechos"
+    "pago de derechos",
+    "oficinas del extranjero",
+    "dólares americanos",
+    "cuotas de derechos"
   ],
-  "resumen": "Esta disposición establece que los derechos que se paguen en oficinas autorizadas en el extranjero se pueden pagar en dólares de los Estados Unidos, aplicando un tipo de cambio determinado por el Banco de México. También se especifican las reglas para ajustar las cuotas pagadas en dólares.",
+  "resumen": "Esta regla establece que los derechos que se pagan en oficinas en el extranjero se pueden realizar en dólares estadounidenses, aplicando el tipo de cambio del Banco de México. Dependiendo del monto, se ajustarán las cuotas de manera específica.",
   "preguntas_ejemplo": [
-    "¿Cómo pago mis derechos en el extranjero?",
-    "¿Se puede pagar en dólares en oficinas fuera de México?",
-    "¿Qué tipo de cambio se aplica para el pago de derechos en dólares?",
-    "¿Cuáles son las cuotas para pagar derechos en el extranjero?",
-    "¿Qué ajustes se aplican a los pagos en dólares?"
+    "¿Cómo pago mis derechos desde el extranjero?",
+    "¿Puedo pagar derechos en dólares en el extranjero?",
+    "¿Qué tipo de cambio se utiliza para pagar derechos en dólares?",
+    "¿Hay ajustes en el pago de derechos en dólares?",
+    "¿Cuáles son las cuotas de derechos si pago en dólares?"
   ]
 }

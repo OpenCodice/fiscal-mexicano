@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9c573ed7c360d955",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contrataciones con recursos públicos federales",
+  "denominacion_comun": "Recursos públicos federales y contrataciones",
   "temas": [
-    "recursos públicos",
-    "contrataciones",
+    "contrataciones públicas",
+    "recursos federales",
     "opinión de cumplimiento",
-    "contribuyentes",
-    "autoridades fiscales",
-    "créditos fiscales",
+    "obligaciones fiscales",
+    "convenios de pago",
     "subcontratación"
   ],
   "terminos_coloquiales": [
-    "contrataciones públicas",
-    "opinión fiscal",
-    "CFF 32-D",
-    "RCF",
-    "regla 2.1.28"
+    "contratos con el gobierno",
+    "opinión de cumplimiento fiscal",
+    "recursos públicos",
+    "contrataciones con recursos federales",
+    "subcontratados"
   ],
-  "resumen": "Esta regla establece que entidades y personas que manejan recursos públicos federales deben garantizar que los proveedores cumplan con sus obligaciones fiscales antes de realizar contrataciones. Se requiere una opinión sobre el cumplimiento fiscal de estos contribuyentes para contratos que excedan un monto determinado.",
+  "resumen": "Esta disposición establece que todos los que reciban y usen recursos públicos federales deben exigir a los contribuyentes una opinión de cumplimiento fiscal para realizar contrataciones que superen un monto específico. También se detallan los procedimientos a seguir para obtener dicha opinión y cómo se manejan los casos de créditos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para contratar con recursos públicos?",
+    "¿Qué debo hacer si quiero contratar con el gobierno?",
     "¿Cómo obtengo la opinión de cumplimiento fiscal?",
-    "¿Qué pasa si tengo créditos fiscales y quiero realizar un contrato?",
-    "¿Quiénes están obligados a solicitar la opinión del cumplimiento?",
-    "¿Cuál es el monto límite para exigir la opinión de cumplimiento fiscal?"
+    "¿Qué pasa si tengo créditos fiscales y quiero hacer un contrato?",
+    "¿Qué entidades tienen que cumplir con estas reglas?",
+    "¿Cuáles son los montos que requieren opinión de cumplimiento?"
   ]
 }

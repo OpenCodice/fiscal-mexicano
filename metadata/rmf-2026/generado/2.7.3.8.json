@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:639043b5e618c570",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI obras de arte y antigüedades",
+  "denominacion_comun": "Comprobación de erogaciones en la compra de obras de arte",
   "temas": [
-    "comprobantes fiscales digitales",
-    "personas físicas y morales",
-    "enajenación de obras de arte",
+    "CFDI",
+    "personas físicas",
+    "obra de arte",
+    "antigüedades",
     "retención de ISR",
-    "RFC",
-    "CSD",
-    "sistemas de comprobación"
+    "Régimen Fiscal",
+    "RFC"
   ],
   "terminos_coloquiales": [
-    "factura de arte",
-    "CFDI de obras de arte",
-    "retención de impuestos",
-    "CSD",
-    "comprobantes fiscales para antigüedades"
+    "factura",
+    "CFDI",
+    "pago de ISR",
+    "arte",
+    "comprar obras de arte"
   ],
-  "resumen": "Esta regla establece que las personas físicas que vendan obras de arte y antigüedades pueden emitir un CFDI utilizando servicios específicos, siempre que estas obras no sean de su producción. Además, se detalla el procedimiento de retención de ISR que deben aplicar las personas morales al adquirir estas obras.",
+  "resumen": "Esta regla establece cómo las personas físicas que venden obras de arte y antigüedades pueden emitir CFDI al vender a personas morales, así como las retenciones de ISR que deben realizar estas últimas. También aborda el manejo de irregularidades en la emisión de CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo expedir un CFDI por la venta de una obra de arte?",
-    "¿Qué impuestos debo retener al vender antigüedades?",
-    "¿Qué requisitos tengo que cumplir para vender obras de arte?",
-    "¿Cómo se aplica el ISR en la venta de antigüedades?",
-    "¿Qué es el CSD en la emisión de CFDI?"
+    "¿Cómo debo emitir un CFDI por la venta de una obra de arte?",
+    "¿Qué impuestos debo retener al comprar obras de arte?",
+    "¿Cuáles son las obligaciones fiscales al vender antigüedades?",
+    "¿Qué pasa si tengo irregularidades en la emisión de CFDI?",
+    "¿Qué información debo proporcionar al comprador de una obra de arte?"
   ]
 }

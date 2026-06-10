@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:13f7337f7bb19919",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
-    "cumplimiento fiscal",
+    "incumplimiento fiscal",
+    "informes contables",
     "contador público",
-    "informes de cumplimiento",
-    "disposiciones aduaneras",
-    "informe 138/CFF"
+    "disposiciones aduaneras"
   ],
   "terminos_coloquiales": [
-    "dictamen fiscal",
+    "dictamen contable",
     "informe del contador",
-    "CFF",
-    "cumplimiento de obligaciones"
+    "contador público",
+    "incumplimiento de obligaciones"
   ],
-  "resumen": "El contador público inscrito debe informar a la autoridad fiscal si el contribuyente que dictaminó incumple con las disposiciones fiscales o aduaneras. Este reporte se basa en el artículo 52 del Código Fiscal de la Federación.",
+  "resumen": "El contador público inscrito debe informar a la autoridad fiscal si el contribuyente al que dictaminó no cumple con las disposiciones fiscales o aduaneras. Debe seguir lo que se indica en la ficha de trámite correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué debe hacer un contador si se detecta incumplimiento fiscal?",
-    "¿Qué es el informe 138/CFF?",
-    "¿Cómo se determina el incumplimiento de una empresa?",
-    "¿Qué dice el artículo 52 del CFF sobre los informes del contador?",
-    "¿Qué implica ser un contador público inscrito en el contexto fiscal?",
-    "¿Cuándo debe un contador fiscal informar sobre incumplimientos?"
+    "¿Qué informa el dictamen de un contador público inscrito?",
+    "¿Qué pasa si un contribuyente incumple obligaciones fiscales?",
+    "¿Cuál es el papel del contador público en el cumplimiento fiscal?",
+    "¿Qué es la ficha de trámite 138/CFF?",
+    "¿Cómo se presenta un informe sobre incumplimiento fiscal?"
   ]
 }

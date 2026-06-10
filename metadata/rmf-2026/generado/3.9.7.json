@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eab0fb71d2d93c9f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaraciones Anuales Informativas de Partes Relacionadas",
   "temas": [
-    "Impuesto sobre la renta",
-    "Obligaciones fiscales",
-    "Declaraciones informativas",
-    "Partes relacionadas",
-    "Grupo empresarial multinacional",
-    "Precios de transferencia",
+    "obligaciones fiscales",
+    "declaraciones anuales",
+    "partes relacionadas",
+    "proceso de declaración",
     "SAT",
-    "e.firma"
+    "e.firma",
+    "formatos guía"
   ],
   "terminos_coloquiales": [
-    "declaraciones anuales de partes relacionadas",
-    "declaraciones informativas",
-    "LISR 76-A",
-    "SAT"
+    "declaraciones de partes relacionadas",
+    "declaraciones anuales",
+    "SAT",
+    "e.firma",
+    "ingresar a declarar"
   ],
-  "resumen": "Los contribuyentes deben presentar las declaraciones anuales informativas de partes relacionadas en el Portal del SAT. Esto incluye el llenado y envío de la declaración correspondiente, así como la obtención de acuses de recibo.",
+  "resumen": "Esta regla establece que los contribuyentes deben presentar las declaraciones anuales informativas de partes relacionadas a través del Portal del SAT. Se detallan los pasos necesarios para acceder a la declaración y enviar la información correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué son las declaraciones anuales informativas de partes relacionadas?",
-    "¿Cómo presento la declaración anual de partes relacionadas?",
-    "¿Qué requisitos debo cumplir para las declaraciones informativas?",
-    "¿Dónde encuentro el formato para las declaraciones de partes relacionadas?",
-    "¿Qué información necesito para llenar la declaración informativa?",
-    "¿Cuál es el procedimiento para enviar las declaraciones anuales?"
+    "¿Cómo presento las declaraciones anuales informativas de partes relacionadas?",
+    "¿Qué necesito para acceder al Portal del SAT?",
+    "¿Cuáles son los formatos requeridos para las declaraciones?",
+    "¿Cómo obtengo el acuse de recibo después de enviar mi declaración?",
+    "¿Qué obligaciones tengo al declarar partes relacionadas?",
+    "¿Qué significa la e.firma en el proceso de declaración?"
   ]
 }

@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4b6b741b8fc6acca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bienes usados región fronteriza",
+  "denominacion_comun": "Bienes usados",
   "temas": [
-    "comprobantes fiscales",
-    "bien usado",
-    "stimulos fiscales",
-    "documentación contable"
+    "Comprobante fiscal",
+    "CFDI",
+    "Bienes usados",
+    "Región fronteriza",
+    "Documentación fiscal",
+    "Relación con partes relacionadas",
+    "Estimulo fiscal"
   ],
   "terminos_coloquiales": [
-    "compras de bienes usados",
-    "comprobantes en papel",
+    "factura",
     "CFDI",
-    "documentos para estímulos fiscales"
+    "documentación para bienes usados",
+    "comprobación de compra",
+    "bienes de segunda mano"
   ],
-  "resumen": "Los contribuyentes pueden comprobar la adquisición de bienes usados con varios documentos, incluyendo CFDI y otros comprobantes. Además, se requiere un escrito firmado donde se declare la información de las partes involucradas en la transacción.",
+  "resumen": "Los contribuyentes pueden comprobar la adquisición de bienes usados con ciertos documentos, como facturas o CFDI. También deben conservar un escrito que declare que el bien no ha sido vendido más de una vez, así como la documentación pertinente para el estímulo fiscal.",
   "preguntas_ejemplo": [
     "¿Qué documentos necesito para comprobar la compra de un bien usado?",
-    "¿Cómo acreditar la adquisición de un bien usado en la región fronteriza?",
-    "¿Qué requisitos debo cumplir para los estímulos fiscales en bienes usados?",
-    "¿Es necesario un escrito para la compra de bienes usados?",
-    "¿Qué pasa si no tengo el CFDI de un bien usado?"
+    "¿Cómo puedo validar que un bien usado es elegible para estímulos fiscales?",
+    "¿Qué es el CFDI y cómo lo uso para bienes usados?",
+    "¿Qué información debo incluir en el escrito que debo firmar?",
+    "¿Puedo usar una factura antigua para comprobar mi compra?",
+    "¿Qué pasa si mi bien usado fue enajenado más de una vez?"
   ]
 }

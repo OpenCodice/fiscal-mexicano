@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5d6949bb9df11d04",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos para CFDI",
+  "denominacion_comun": "Requisitos CFDI",
   "temas": [
+    "expedición de CFDI",
     "lugar de expedición",
     "forma de pago",
     "uso fiscal",
-    "régimen fiscal",
-    "códigos postales",
-    "catálogos de comprobantes"
+    "régimen fiscal"
   ],
   "terminos_coloquiales": [
+    "factura",
     "CFDI",
-    "factura electrónica",
-    "requisitos de CFDI",
-    "comprobante fiscal",
-    "c_FormaPago",
-    "c_UsoCFDI",
-    "c_RegimenFiscal"
+    "código postal",
+    "forma de pago",
+    "uso de la factura",
+    "régimen fiscal",
+    "complemento para recepción de pagos"
   ],
-  "resumen": "Esta disposición detalla los requisitos que deben incluir los contribuyentes al expedir un CFDI. Incluye la necesidad de indicar el lugar de expedición, la forma de pago y el uso fiscal del comprobante, utilizando catálogos específicos.",
+  "resumen": "La regla establece los requisitos que los contribuyentes deben cumplir al expedir un CFDI, incluyendo el lugar de expedición, la forma en que se realizó el pago y el uso fiscal del comprobante por parte del receptor. También menciona las excepciones a estas obligaciones.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir al expedir un CFDI?",
-    "¿Cómo indico la forma de pago en un CFDI?",
-    "¿Qué información debo registrar sobre el uso fiscal en un CFDI?",
-    "¿Dónde encuentro los códigos postales para mi CFDI?",
-    "¿Qué hacer si el pago no se ha recibido al expedir el CFDI?"
+    "¿Qué requisitos debo seguir para expedir un CFDI?",
+    "¿Cómo indico el lugar de expedición en mi factura?",
+    "¿Qué información debo incluir sobre la forma de pago en un CFDI?",
+    "¿Qué clave debo usar para el uso fiscal de un comprobante?",
+    "¿Cuáles son las excepciones para los requisitos de CFDI?"
   ]
 }

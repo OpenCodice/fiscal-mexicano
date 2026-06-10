@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f269bf92d7a0ed96",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Marbetes de Bebidas Alcohólicas",
+  "denominacion_comun": "Producción y envasado de bebidas alcohólicas",
   "temas": [
-    "fabricación de bebidas alcohólicas",
-    "envasado de bebidas alcohólicas",
-    "contratos con comercializadores",
-    "solicitud de marbetes",
-    "notificación a autoridades fiscales"
-  ],
-  "terminos_coloquiales": [
     "marbetes",
     "precintos",
-    "contratos de maquila",
-    "manufactura de alcohol"
+    "contratos",
+    "comercializadores",
+    "maquiladores",
+    "avisos a autoridades fiscales"
   ],
-  "resumen": "Los contribuyentes que fabriquen o envasen bebidas alcohólicas mediante contratos con comercializadores deben solicitar marbetes o precintos a través del Portal del SAT. También deben informar a las autoridades fiscales sobre la terminación de estos contratos.",
+  "terminos_coloquiales": [
+    "pedir marbetes",
+    "envasar bebidas",
+    "contratos con maquiladores",
+    "notificar al SAT"
+  ],
+  "resumen": "Los contribuyentes que fabriquen o envasen bebidas alcohólicas mediante contratos con otros deberán solicitar marbetes a través del SAT. También deben informar a las autoridades fiscales si el contrato termina anticipadamente.",
   "preguntas_ejemplo": [
     "¿Cómo solicito marbetes para bebidas alcohólicas?",
-    "¿Qué debo hacer si termina mi contrato de maquila?",
-    "¿Cuáles son las obligaciones para producir bebidas alcohólicas?",
+    "¿Qué debo hacer si termina mi contrato con un maquilador?",
     "¿Dónde presento el aviso de terminación del contrato?",
-    "¿Qué información necesito para solicitar precintos?"
+    "¿Qué son los marbetes y cómo los obtengo?",
+    "¿Necesito contrato para envasar bebidas alcohólicas?",
+    "¿Los maquiladores tienen que registrar sus contratos en el SAT?"
   ]
 }

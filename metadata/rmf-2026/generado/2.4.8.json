@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:562fa9e97e4c1c86",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Clave en el RFC",
   "temas": [
-    "Aviso para informar",
-    "Identificación de Socios o Accionistas",
+    "avisos",
+    "identificación de socios",
+    "cédula de identificación fiscal",
+    "constancia de situación fiscal",
     "DeclaraNOT en línea",
-    "Acuse de aceptación electrónico",
-    "Fedatario público"
+    "alivios para fedatarios públicos"
   ],
   "terminos_coloquiales": [
-    "Clave RFC",
-    "Aviso de identificación",
+    "clave en el RFC",
+    "cédula fiscal",
+    "constancia fiscal",
     "DeclaraNOT",
-    "Socios o Accionistas",
-    "Cédula fiscal"
+    "avisos al SAT"
   ],
-  "resumen": "El contribuyente debe informar si no proporcionó su clave en el RFC a través del sistema DeclaraNOT en línea del SAT. Los fedatarios públicos no necesitan presentar este aviso si registran la solicitud de la clave en su protocolo.",
+  "resumen": "Se debe presentar un aviso al SAT si el contribuyente no proporciona su clave en el RFC o documentos fiscales. Este aviso se realiza a través del sistema DeclaraNOT en línea. Los fedatarios públicos no necesitan presentar el aviso si documentan que solicitaron la información sin recibirla.",
   "preguntas_ejemplo": [
-    "¿Cómo informo que no tengo mi clave en el RFC?",
+    "¿Qué hacer si no tengo mi clave en el RFC?",
+    "¿Cómo presentar un aviso al SAT sobre la clave en el RFC?",
+    "¿Los fedatarios públicos tienen que hacer el aviso de identificación?",
     "¿Qué es el DeclaraNOT en línea?",
-    "¿Qué deben hacer los fedatarios públicos sobre el aviso de identificación?",
-    "¿Cómo obtengo el acuse de aceptación electrónico?",
-    "¿Qué información contiene el acuse de aceptación?"
+    "¿Qué documentos necesito para obtener mi clave en el RFC?"
   ]
 }

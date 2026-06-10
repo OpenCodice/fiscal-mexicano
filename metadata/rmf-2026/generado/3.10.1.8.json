@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ce7ffa3e2a42c87",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actividades preponderantes para donativos deducibles",
+  "denominacion_comun": "Donativos deducibles y actividades adicionales",
   "temas": [
+    "donativos deducibles",
+    "actividades preponderantes",
     "organizaciones civiles",
     "fideicomisos",
-    "donativos deducibles",
     "cambio de actividad",
-    "autorización",
-    "fines no lucrativos",
-    "acta constitutiva",
-    "cumplimiento fiscal"
+    "autorización de actividades"
   ],
   "terminos_coloquiales": [
-    "cambio de actividad preponderante",
     "donativos deducibles",
-    "autorización de actividades",
-    "actividades adicionales",
-    "donde se puede aplicar donativos"
+    "organizaciones sin fines de lucro",
+    "cambio de actividades",
+    "fideicomisos",
+    "autorización para recibir donativos"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos pueden aplicar donativos deducibles a actividades adicionales o solicitar un cambio en su actividad preponderante, siempre y cuando estén contenidas en su documentación y cumplan con ciertos requisitos. La solicitud de cambio debe hacerse durante el ejercicio fiscal correspondiente.",
+  "resumen": "Las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles pueden aplicar dichos donativos a actividades adicionales, siempre que estén en su acta constitutiva. También pueden solicitar un cambio de actividad preponderante en el mismo ejercicio fiscal. De no cumplir, se considera que su patrimonio se destina a fines distintos a los autorizados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cambiar la actividad preponderante de mi organización civil?",
-    "¿Qué debo hacer para aplicar donativos a actividades distintas a las autorizadas?",
-    "¿Qué requisitos necesito para solicitar autorización para nuevas actividades?",
-    "¿Puedo usar donativos dedicados a una actividad para otra diferente?",
-    "¿El SAT me puede actualizar el objeto social de mi fideicomiso?",
-    "¿Qué pasa si no obtengo la autorización para actividades adicionales?"
+    "¿Cómo puedo cambiar la actividad por la que estoy autorizado a recibir donativos?",
+    "¿Qué requisitos debo cumplir para aplicar donativos a actividades adicionales?",
+    "¿Qué pasa si no obtengo la autorización para actividades adicionales?",
+    "¿Puedo usar donativos para actividades que no están en mi acta constitutiva?",
+    "¿Qué debo hacer si el SAT considera que realizo actividades distintas a las autorizadas?"
   ]
 }

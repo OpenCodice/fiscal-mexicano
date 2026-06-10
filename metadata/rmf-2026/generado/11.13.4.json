@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a087affada2029e6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reglamento del Decretos POINBI",
+  "denominacion_comun": "Decreto POINBI",
   "temas": [
-    "Pagos Provisionales",
     "ISR",
-    "Personas Morales",
-    "Estímulos Fiscales",
-    "Declaración",
+    "personas morales",
+    "pagos provisionales",
+    "declaración",
+    "estimulos fiscales",
     "Régimen General"
   ],
   "terminos_coloquiales": [
-    "Decreto POINBI",
-    "ISR Personas Morales",
-    "Pagos Provisionales de ISR",
-    "Régimen POINBI"
+    "impuesto sobre la renta",
+    "pago del ISR",
+    "declaración ISR",
+    "Régimen POINBI",
+    "estimulos fiscales"
   ],
-  "resumen": "El decreto establece que las personas morales que tributen bajo el Título II de la Ley del ISR deben presentar sus pagos provisionales mensuales y utilizar el formato específico para la declaración correspondiente al Régimen General de Personas Morales POINBI.",
+  "resumen": "El Decreto POINBI regula el proceso para que las personas morales que tributen en términos del Título II de la Ley del ISR realicen sus pagos provisionales mensuales y presenten su declaración correspondiente. Estos pagos deben hacerse a más tardar el día 17 del mes siguiente al que correspondan.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mis pagos provisionales como persona moral bajo el Decreto POINBI?",
-    "¿Qué estímulos fiscales aplican para las personas morales en el Régimen POINBI?",
-    "¿Cuál es el plazo para presentar la declaración ISR Personas Morales POINBI?",
-    "¿Qué es la declaración de pagos provisionales para personas morales en el Decreto POINBI?",
-    "¿Qué significa POINBI en la legislación fiscal?"
+    "¿Cómo presento mi declaración del POINBI?",
+    "¿Cuándo debo hacer mis pagos provisionales del ISR?",
+    "¿Quiénes pueden aplicar los estímulos del Decreto POINBI?",
+    "¿Qué es el Régimen POINBI?",
+    "¿Qué requisitos debo cumplir para tributar bajo el Decreto POINBI?"
   ]
 }

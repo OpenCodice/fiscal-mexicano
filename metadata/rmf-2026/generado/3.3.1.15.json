@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:18e6ba1813899245",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Vale de despensa",
   "temas": [
-    "Definición de vale de despensa",
-    "Uso de monedero electrónico",
-    "Restricciones de uso",
-    "Artículos permitidos"
+    "Impuesto sobre la renta",
+    "Deducciones",
+    "Vale de despensa",
+    "Monedero electrónico"
   ],
   "terminos_coloquiales": [
-    "Vale de despensa",
-    "Monedero electrónico",
-    "ISR"
+    "vales",
+    "vales de despensa",
+    "monedero electrónico",
+    "no se pueden canjear por dinero"
   ],
-  "resumen": "El vale de despensa es un beneficio que se da a los trabajadores, que puede ser usado en tiendas para comprar artículos de consumo, pero no puede ser cambiado por dinero ni utilizado para ciertos productos como alcohol o tabaco.",
+  "resumen": "Los vales de despensa son beneficios proporcionados a trabajadores mediante un monedero electrónico, que se pueden usar para comprar artículos de consumo en México. No se pueden canjear por dinero ni usar para adquirir alcohol o tabaco.",
   "preguntas_ejemplo": [
     "¿Qué es un vale de despensa?",
-    "¿Dónde puedo usar mi vale de despensa?",
-    "¿Puedo cambiar el vale de despensa por dinero?",
-    "¿Qué productos no se pueden comprar con un vale de despensa?",
-    "¿Cómo funciona el monedero electrónico del vale de despensa?"
+    "¿Se puede usar un vale de despensa para comprar alcohol?",
+    "¿Qué restricciones tienen los vales de despensa?",
+    "¿Cómo se utilizan los vales de despensa?",
+    "¿Puedo canjear un vale de despensa por dinero?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40e8b52136012016",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Múltiple del IEPS",
   "temas": [
-    "Impuesto Especial sobre Producción y Servicios",
-    "Obligaciones de los contribuyentes",
-    "Información sobre equipos de destilación",
-    "Presentación de información",
-    "Programa electrónico",
-    "Anexo 3",
-    "SAT"
+    "impuesto especial sobre producción y servicios",
+    "obligaciones de contribuyentes",
+    "información sobre equipos",
+    "destilación",
+    "envasamiento",
+    "programa electrónico"
   ],
   "terminos_coloquiales": [
     "MULTI-IEPS",
-    "Declaración Informativa del IEPS",
-    "Declaración de equipos de destilación",
-    "Declaración de envasamiento"
+    "declaración de IEPS",
+    "reporte de IEPS",
+    "informe de producción"
   ],
-  "resumen": "Los contribuyentes deben presentar en enero de cada año información sobre los equipos que usarán para destilar o envasar ciertos bienes. Esta información se presenta a través del programa MULTI-IEPS disponible en el portal del SAT.",
+  "resumen": "Los contribuyentes deben presentar un reporte anual sobre las características de los equipos que usarán para destilar o envasar bienes. Esta información se presenta a través del programa denominado MULTI-IEPS.",
   "preguntas_ejemplo": [
-    "¿Qué información tengo que presentar para la MULTI-IEPS?",
-    "¿Cuándo debo enviar la declaración informativa del IEPS?",
-    "¿Qué es el Anexo 3 del MULTI-IEPS?",
-    "¿Dónde encuentro el programa para declarar el IEPS?",
-    "¿Qué equipos debo reportar para el impuesto especial?",
-    "¿Cómo se usa el portal del SAT para la declaración del IEPS?"
+    "¿Qué es la Declaración Informativa Múltiple del IEPS?",
+    "¿Cómo debo reportar los equipos de destilación y envasamiento?",
+    "¿Cuáles son las obligaciones de los contribuyentes del IEPS?",
+    "¿Dónde encuentro el programa MULTI-IEPS?",
+    "¿Qué información debo incluir en el reporte de IEPS?"
   ]
 }

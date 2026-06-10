@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:724037c96839d619",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones de los órganos certificadores",
   "temas": [
-    "certificaciones",
-    "estados financieros",
+    "certificación",
+    "situación fiscal",
     "garantías",
-    "verificaciones",
-    "información confidencial",
-    "reportes estadísticos",
+    "verificación",
     "contratos",
-    "personal autorizado"
+    "confidencialidad",
+    "reportes estadísticos",
+    "protección de datos"
   ],
   "terminos_coloquiales": [
     "órganos certificadores",
-    "certificadores",
-    "CFF",
-    "OBR",
-    "obligaciones de certificadores"
+    "SAT",
+    "certificación fiscal",
+    "requisitos para certificadores",
+    "anexo 2",
+    "verificaciones",
+    "garantía de certificación"
   ],
-  "resumen": "Los órganos certificadores deben cumplir con diversas obligaciones, como dictaminar estados financieros, emitir certificaciones anuales y permitir verificaciones por parte del SAT. También deben proteger la información confidencial y enviar reportes estadísticos.",
+  "resumen": "Los órganos certificadores deben cumplir con varias obligaciones, como dictaminar sus estados financieros, enviar garantías, emitir certificaciones y permitir verificaciones del SAT. También deben mantener la confidencialidad de la información y entregar reportes anuales sobre el cumplimiento de los terceros autorizados.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones de un órgano certificador?",
-    "¿Qué deben hacer los certificadores para mantener su autorización?",
-    "¿Cómo se realiza la verificación de los órganos certificadores?",
-    "¿Qué pasa si no se envía la garantía a tiempo?",
-    "¿Qué información deben reportar los certificados al SAT?",
-    "¿Cuáles son las sanciones por incumplimiento de obligaciones de los certificadores?"
+    "¿Cuáles son las obligaciones de los órganos certificadores?",
+    "¿Qué garantías deben presentar los órganos certificadores?",
+    "¿Cómo se lleva a cabo la verificación de los requisitos de los órganos certificadores?",
+    "¿Qué hacer si no se cumple con las obligaciones de certificación?",
+    "¿Cómo se asegura la confidencialidad de la información en los procesos de certificación?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e58e39c44b8b0358",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución del IVA en periodo preoperativo",
@@ -13,19 +14,23 @@
     "devolución de IVA",
     "gastos preoperativos",
     "inversiones en activo fijo",
-    "plazos de devolución"
+    "contratistas",
+    "solicitud de devolución",
+    "plazos de resolución"
   ],
   "terminos_coloquiales": [
-    "devolución de IVA preoperativa",
-    "IVA en periodo preoperativo",
-    "solicitud de devolución de IVA"
+    "devolución de IVA",
+    "gastos antes de operar",
+    "inversiones preoperativas",
+    "contratistas en periodo preoperativo",
+    "solicitar IVA de regreso"
   ],
-  "resumen": "Los contribuyentes que realicen gastos o inversiones en periodo preoperativo pueden solicitar la devolución del IVA pagado, presentando su solicitud y documentación correspondiente. Hay plazos específicos para presentar la solicitud y se contemplan disposiciones para inversiones en activo fijo.",
+  "resumen": "Los contribuyentes que hagan gastos en periodo preoperativo pueden solicitar la devolución del IVA pagado. Deben presentar su solicitud en el mes siguiente a sus gastos y cumplir con ciertos requisitos para obtener la resolución.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución del IVA si estoy en periodo preoperativo?",
-    "¿Cuáles son los plazos para presentar la solicitud de devolución del IVA?",
-    "¿Qué requisitos debo cumplir para obtener la devolución del IVA en periodo preoperativo?",
-    "¿Qué pasa si no presenté mi solicitud de devolución a tiempo?",
-    "¿Puedo obtener la devolución del IVA si solo tengo inversiones en activo fijo?"
+    "¿Cómo puedo solicitar la devolución del IVA en periodo preoperativo?",
+    "¿Qué gastos son considerados para la devolución de IVA?",
+    "¿Cuánto tiempo tarda la resolución de mi solicitud de devolución de IVA?",
+    "¿Puedo presentar mi solicitud de devolución después de un mes?",
+    "¿Qué requisitos debo cumplir para la devolución del IVA en inversiones en activo fijo?"
   ]
 }

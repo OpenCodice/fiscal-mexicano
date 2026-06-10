@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c1b2f9c982d1e513",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos de deuda",
   "temas": [
-    "ingresos acumulables",
-    "intereses reales",
+    "intereses acumulables",
+    "rendimientos",
     "costo promedio ponderado",
     "ganancias y pérdidas",
-    "enajenación de certificados"
+    "certificados",
+    "enajenación",
+    "redención"
   ],
   "terminos_coloquiales": [
     "fideicomisos",
-    "certificados de fideicomisos",
-    "intereses por fideicomisos",
-    "ganancia por canje",
-    "pérdida por intereses"
+    "certificados de fideicomiso",
+    "ganancias por intereses",
+    "pérdidas por intereses",
+    "actualización del costo",
+    "ISR"
   ],
-  "resumen": "Esta regla establece cómo calcular los ingresos por intereses provenientes de fideicomisos de deuda, considerando ciertas diferencias entre personas físicas y morales. Asimismo, indica cómo determinar el costo promedio ponderado de adquisición de los certificados y la manera de tratar las pérdidas.",
+  "resumen": "La regla establece cómo deben calcular las personas físicas y morales los ingresos por intereses de los certificados emitidos por fideicomisos de deuda, considerando el costo promedio ponderado de adquisición y la actualización del mismo. También se trata cómo se consideran las pérdidas por intereses y las ganancias relacionadas con los canjes de certificados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses por fideicomisos de deuda?",
-    "¿Qué pasa si tengo una pérdida en la venta de certificados?",
-    "¿Cómo se determina el costo promedio ponderado de los certificados?",
-    "¿Qué impuestos debo considerar al enajenar certificados de fideicomisos?",
-    "¿Cómo afecta la actualización del costo a mis ingresos?"
+    "¿Cómo se calculan los intereses acumulables de los fideicomisos de deuda?",
+    "¿Qué es el costo promedio ponderado de adquisición de certificados?",
+    "¿Las pérdidas por intereses se pueden deducir en el ISR?",
+    "¿Cómo se determina la ganancia por el canje de certificados emitidos por fideicomisos?",
+    "¿Qué impacto tiene la actualización del costo en los certificados de fideicomisos?"
   ]
 }

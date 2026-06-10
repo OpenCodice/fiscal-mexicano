@@ -6,26 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e78fd23d5ecdded",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Establecimiento Permanente en Territorio Nacional",
   "temas": [
     "transporte de carga",
+    "vehículos de carga",
     "documentación",
-    "establecimiento permanente",
-    "regulaciones fiscales"
+    "mercancías nacionales",
+    "mercancías extranjeras",
+    "regulaciones de transporte"
   ],
   "terminos_coloquiales": [
-    "transporte de carga sin establecimiento",
-    "transporte de mercancías",
-    "CFDI de transporte"
+    "servicio de transporte",
+    "transportistas en el extranjero",
+    "documentos de transporte",
+    "mercancías",
+    "CFF",
+    "LA",
+    "LIVA"
   ],
-  "resumen": "Las personas físicas o morales que proporcionen servicios de transporte de carga y sean residentes en el extranjero pueden transportar bienes en México sin establecer un establecimiento permanente, siempre que cumplan con la documentación exigida. Esto no las exime de otras regulaciones pertinentes.",
+  "resumen": "Esta disposición establece que las personas físicas o morales que ofrecen servicios de transporte de carga desde el extranjero pueden amparar el transporte de bienes en México, siempre que no tengan un establecimiento permanente en el país. Además, deben cumplir con las regulaciones vigentes para el tránsito de mercancías.",
   "preguntas_ejemplo": [
     "¿Qué es un establecimiento permanente en México?",
-    "¿Pueden los transportistas extranjeros operar sin un establecimiento permanente?",
-    "¿Qué obligaciones tienen los transportistas extranjeros en México?",
-    "¿Qué documentación necesito para transportar mercancías en México?",
-    "¿Qué es el CFDI de transporte?"
+    "¿Qué requisitos deben cumplir los transportistas extranjeros?",
+    "¿Pueden los transportistas que no tienen establecimiento en México transportar mercancías?",
+    "¿Qué documentación necesito para el transporte de carga internacional?",
+    "¿Qué regula la regla 2.7.7.1.5. del RMF?"
   ]
 }

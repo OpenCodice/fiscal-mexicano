@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e15a23c7a4f8d215",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Préstamo de títulos y valores",
+  "denominacion_comun": "Préstamo de títulos o valores",
   "temas": [
     "impuesto sobre la renta",
-    "prestamo de acciones",
-    "no enajenación",
-    "ganancia gravada",
-    "retención de impuesto"
+    "prestamista",
+    "prestatario",
+    "acciones",
+    "enajenación",
+    "retención de impuestos",
+    "ganancias gravables",
+    "contratos"
   ],
   "terminos_coloquiales": [
     "préstamo de acciones",
-    "operación de títulos",
-    "no enajenación",
-    "ISR",
-    "LISR"
+    "acciones en préstamo",
+    "retención por dividendos"
   ],
-  "resumen": "Las operaciones de préstamo de títulos o valores, como acciones, no se consideran como enajenación si se cumplen determinados requisitos. Los pagos que reciba el prestamista están sujetos a impuesto, y el intermediario debe realizar la retención correspondiente.",
+  "resumen": "La regla establece que no se considera enajenación cuando una persona física que no realiza actividades empresariales presta acciones. También detalla cómo se gravan las ganancias que el prestamista obtiene en esta operación y menciona las implicaciones fiscales de las contraprestaciones recibidas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si presto acciones y no se concretan?",
-    "¿Cómo se gravan las ganancias del préstamo de títulos?",
-    "¿El intermediario debe retener impuestos en el préstamo de acciones?",
-    "¿Qué requisitos debo cumplir para que no haya enajenación en el préstamo de títulos?",
-    "¿Qué impuestos se aplican al préstamo de acciones como persona física?"
+    "¿Qué pasa si presto acciones y no se realizan las entregas acordadas?",
+    "¿Cómo se gravan las ganancias del préstamo de acciones?",
+    "¿Qué impuestos debo retener por el préstamo de títulos o valores?",
+    "¿Se considera enajenación el préstamo de acciones?",
+    "¿Qué sucede con las contraprestaciones en el préstamo de acciones?"
   ]
 }

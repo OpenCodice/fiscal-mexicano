@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5912e28258157b9a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución de saldos a favor del IVA",
   "temas": [
-    "Solicitud de devolución",
-    "IVA",
+    "devolución de IVA",
+    "solicitud de devolución",
+    "contribuyentes del IVA",
     "FED",
-    "Documentación requerida",
+    "documentación requeridas",
     "DIOT",
-    "Anexos del SAT",
-    "Contribuyentes",
-    "Facilidades administrativas"
+    "anexos",
+    "facilidades administrativas"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "saldos a favor",
+    "solicitud de devolución",
     "FED",
-    "SAT",
-    "IVA a devolver"
+    "anexos del SAT",
+    "DIOT",
+    "cobro de saldo a favor"
   ],
-  "resumen": "Los contribuyentes del IVA pueden solicitar la devolución de cantidades a su favor a través del FED en el Portal del SAT, presentando la documentación necesaria. También deben haber presentado la DIOT correspondiente antes de solicitar la devolución.",
+  "resumen": "Los contribuyentes del IVA pueden solicitar la devolución de saldos a favor utilizando el FED en el Portal del SAT, junto con la documentación requerida. También deben haber presentado la DIOT antes de hacer la solicitud de devolución.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución de mi saldo a favor del IVA?",
+    "¿Cómo puedo solicitar la devolución de mi saldo a favor de IVA?",
     "¿Qué documentos necesito para la devolución de IVA?",
-    "¿Qué es el FED y cómo lo uso para la devolución de IVA?",
-    "¿Debo presentar la DIOT antes de la solicitud de devolución?",
-    "¿Qué información debo incluir si tributé en el Título IV de la Ley del ISR?",
-    "¿Dónde encuentro los anexos necesarios para mi solicitud de devolución?"
+    "¿Qué es el FED y cómo se utiliza para la devolución de IVA?",
+    "¿Qué es la DIOT y por qué es importante para la devolución de IVA?",
+    "¿Qué anexos debo acompañar en mi solicitud de devolución de IVA?",
+    "¿Puedo solicitar la devolución de IVA si tengo facilidades administrativas?"
   ]
 }

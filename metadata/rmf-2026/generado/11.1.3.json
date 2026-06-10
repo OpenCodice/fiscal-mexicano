@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c456d8c962e9e27b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI para artistas",
+  "denominacion_comun": "CFDI de artistas",
   "temas": [
     "CFDI",
-    "artistas",
     "servicios profesionales",
-    "pago en especie",
+    "artistas",
     "enajenación de obras",
-    "Descripción detallada"
+    "pago en especie",
+    "descripción detallada"
   ],
   "terminos_coloquiales": [
-    "CFDI de artistas",
-    "factura de artistas",
+    "factura de artista",
+    "CFDI para artistas",
+    "factura por obras de arte",
+    "servicios profesionales",
     "pago en especie"
   ],
-  "resumen": "Los artistas deben incluir la leyenda 'pago en especie' en sus CFDI vinculados a la venta de sus obras. Además, deben especificar la técnica y tamaño de cada obra en la descripción del CFDI.",
+  "resumen": "Los CFDI de los artistas por la venta de sus obras deben incluir la leyenda 'pago en especie' y detallar la técnica y tamaño de cada obra. Esta factura también funciona como aviso para el comprador.",
   "preguntas_ejemplo": [
-    "¿Cómo deben facturar los artistas sus obras?",
-    "¿Qué información debe incluir un CFDI de un artista?",
-    "¿Qué significa 'pago en especie' en un CFDI?",
-    "¿Cuáles son las obligaciones fiscales de los artistas?"
+    "¿Qué debe contener un CFDI para la venta de obras de arte?",
+    "¿Cuál es la leyenda que debe incluirse en la factura de un artista?",
+    "¿Cómo debe describirse un servicio profesional de un artista en el CFDI?",
+    "¿Qué información adicional se requiere en el CFDI de servicios de artistas?",
+    "¿Qué significan los términos 'pago en especie' en un CFDI?"
   ]
 }

@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b4db9222dbf82ac7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuesto sobre Rendimientos",
+  "denominacion_comun": "Retención de ISR por intereses",
   "temas": [
-    "retención de impuesto",
-    "ingresos por intereses",
+    "retención de impuestos",
+    "títulos financieros",
+    "rendimientos",
+    "costo promedio ponderado",
     "enajenación de títulos",
-    "redención de títulos",
-    "cálculo de retención",
-    "valor nominal",
-    "costo promedio ponderado"
+    "redención de títulos"
   ],
   "terminos_coloquiales": [
-    "retención de intereses",
-    "impuesto sobre rendimientos",
-    "cálculo de retención",
-    "LISR",
-    "Reglamento de la Ley del ISR"
+    "impuesto sobre la renta",
+    "retención de ISR",
+    "rendimientos de inversiones",
+    "intereses",
+    "títulos",
+    "ISR"
   ],
-  "resumen": "Las instituciones financieras deben retener el impuesto sobre los rendimientos de títulos al momento de su enajenación o redención. El cálculo de la retención se basa en el costo promedio ponderado de los títulos o su valor nominal, según aplique.",
+  "resumen": "Las instituciones financieras deben retener el impuesto sobre la renta cuando realicen pagos de intereses o enajenaciones de ciertos títulos. La retención depende del costo de adquisición o el valor nominal de los títulos y el tiempo que se han tenido.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la retención de impuestos por enajenación de títulos?",
-    "¿Qué impuestos se retienen al redimir títulos de inversión?",
-    "¿Las instituciones financieras retienen impuestos sobre los intereses?",
-    "¿Qué criterio se sigue para calcular los impuestos sobre rendimientos?",
-    "¿A qué se refiere el costo promedio ponderado en el cálculo de retención?"
+    "¿Cómo se calcula la retención de ISR por intereses?",
+    "¿Qué títulos están sujetos a la retención de impuestos?",
+    "¿Qué es el costo promedio ponderado de adquisición?",
+    "¿Cómo afecta la tenencia de títulos a la retención de ISR?",
+    "¿Qué documentos necesito para la retención de impuestos sobre rendimientos?"
   ]
 }

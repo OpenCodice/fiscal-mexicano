@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9599a3ff8188db2f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por combustibles a través de monederos electrónicos",
+  "denominacion_comun": "Deducciones por combustibles con monederos electrónicos",
   "temas": [
     "deducciones",
     "combustibles",
@@ -18,18 +19,19 @@
     "estaciones de servicio"
   ],
   "terminos_coloquiales": [
-    "deducción de combustibles",
-    "monedero electrónico SAT",
-    "CFDI de combustibles",
-    "emisor autorizado",
-    "requisitos monederos electrónicos"
+    "deducción de gasolina",
+    "monedero electrónico",
+    "comprobante fiscal digital",
+    "CFDI de combustible",
+    "recibo electrónico",
+    "gasolina por monedero SAT"
   ],
-  "resumen": "Las personas físicas y morales pueden deducir el gasto por combustibles adquiridos a través de monederos electrónicos autorizados por el SAT, siempre que cuenten con el CFDI y un complemento específico. Las estaciones de servicio deben expedir CFDI por estas operaciones.",
+  "resumen": "Las personas que compren combustibles para vehículos a través de monederos electrónicos autorizados por el SAT pueden deducir el costo de estos combustibles siempre y cuando cuenten con el CFDI y el complemento correspondiente. Las estaciones de servicio también deben emitir un CFDI por estas operaciones.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el gasto de combustibles si uso un monedero electrónico?",
-    "¿Qué necesito para comprobar la compra de combustibles con un monedero electrónico?",
-    "¿Las estaciones de servicio deben expedir CFDI para monederos electrónicos?",
-    "¿Qué es el complemento de estado de cuenta de combustibles?",
-    "¿Cuándo se puede deducir el impuesto por combustibles adquiridos?"
+    "¿Cómo puedo deducir el costo de la gasolina que compré con un monedero electrónico?",
+    "¿Qué documentos necesito para comprobar la compra de combustibles?",
+    "¿Las estaciones de servicio deben darme un CFDI si pago con un monedero electrónico?",
+    "¿Se puede deducir la compra de gasolina si uso un monedero aprobado por el SAT?",
+    "¿Qué sucede si no tengo el CFDI para mi compra de combustible?"
   ]
 }

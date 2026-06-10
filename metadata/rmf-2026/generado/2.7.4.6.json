@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c97c3fdda1236b23",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Proveedores de Certificación de CFDI",
   "temas": [
-    "CFDI",
-    "PCGCFDISP",
-    "habilitación de RFC",
-    "certificación de comprobantes",
-    "validaciones del CFDI",
-    "anexo 20",
-    "cancelación de CFDI"
+    "certificación de CFDI",
+    "generación de CFDI",
+    "validaciones de CFDI",
+    "límites de ingresos",
+    "RFC",
+    "anexo 20"
   ],
   "terminos_coloquiales": [
-    "proveedores de CFDI",
-    "certificación de facturas",
-    "PCGCFDISP",
-    "comprobantes fiscales digitales",
-    "factura electrónica"
+    "factura",
+    "CFDI",
+    "proveedor de CFDI",
+    "PCGCFDISP"
   ],
-  "resumen": "Los Proveedores de Certificación de CFDI deben recibir la clave RFC de los contribuyentes y verificar ciertos requisitos para certificar los CFDI. Además, ofrecen servicios de consulta y obtención de representaciones impresas de los CFDI generados.",
+  "resumen": "Esta regla establece las condiciones y procedimientos que deben seguir los proveedores de certificación y generación de CFDI para habilitar claves en el RFC, validar y certificar los CFDI generados y atender las solicitudes de cancelación por parte de los contribuyentes. Además, especifica los requisitos técnicos que deben cumplir los CFDI para su correcta certificación.",
   "preguntas_ejemplo": [
+    "¿Cómo puedo certificar mi CFDI?",
+    "¿Cuáles son los requisitos para emitir CFDI a través de un proveedor?",
+    "¿Qué debo hacer para cancelar un CFDI?",
     "¿Qué es un PCGCFDISP?",
-    "¿Cómo se certifica un CFDI?",
-    "¿Qué requisitos debe cumplir un CFDI para ser certificado?",
-    "¿Cómo cancelo un CFDI a través de un proveedor de certificación?",
-    "¿Qué información lleva el complemento de un CFDI certificado?"
+    "¿Se puede verificar el estatus de un CFDI certificado?"
   ]
 }

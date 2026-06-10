@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f382c2bcc40963e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Controles volumétricos de hidrocarburos",
   "temas": [
-    "Equipos para controles volumétricos",
-    "Certificados de funcionamiento",
-    "Información sobre hidrocarburos",
-    "Aviso al SAT",
-    "Reportes de información",
-    "Condiciones anómalas",
-    "Bitácora de eventos"
-  ],
-  "terminos_coloquiales": [
     "controles volumétricos",
     "hidrocarburos",
-    "reportes al SAT",
-    "CFF",
-    "RMF"
+    "petrolíferos",
+    "equipos",
+    "programas informáticos",
+    "certificados",
+    "reportes",
+    "avisos al SAT"
   ],
-  "resumen": "Los contribuyentes deben instalar equipos y programas para llevar controles volumétricos de hidrocarburos, obtener certificados de operación, y enviar reportes al SAT sobre la información relacionada con estos controles. También deben dar aviso de condiciones anómalas y asegurarse del correcto funcionamiento de los equipos.",
+  "terminos_coloquiales": [
+    "controles de hidrocarburos",
+    "controles volumétricos",
+    "certificados de operación",
+    "reportes de hidrocarburos",
+    "avisos al SAT"
+  ],
+  "resumen": "La regla establece los requerimientos para llevar controles volumétricos de hidrocarburos y petrolíferos, incluyendo la instalación de equipos, obtención de certificados y generación de reportes para el SAT. Los contribuyentes deben cumplir con especificaciones técnicas y dar aviso de fallas en los equipos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requerimientos para los controles volumétricos de hidrocarburos?",
-    "¿Qué certificados necesito para mis equipos de controles volumétricos?",
-    "¿Cómo reporto al SAT mis controles volumétricos?",
-    "¿Qué debo hacer si mis equipos presentan fallas?",
-    "¿Con qué periodicidad debo enviar mis reportes de información?"
+    "¿Qué necesito para llevar controles volumétricos de hidrocarburos?",
+    "¿Cómo obtener el certificado de operación de mis equipos?",
+    "¿Qué reportes debo enviar al SAT sobre hidrocarburos?",
+    "¿Cuáles son las especificaciones técnicas para los controles volumétricos?",
+    "¿Qué hacer si mis equipos de control volumétrico fallan?"
   ]
 }

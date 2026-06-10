@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52046b213e246cad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de cartera vencida",
+  "denominacion_comun": "Enajenación de Cartera Vencida",
   "temas": [
     "cartera vencida",
-    "enajenación de activos",
-    "deducciones fiscales",
-    "personas morales"
+    "enajenación",
+    "deducción fiscal",
+    "personas morales",
+    "instituciones de crédito",
+    "valores nominales",
+    "cobros",
+    "requisitos fiscales"
   ],
   "terminos_coloquiales": [
-    "venta de cartera",
-    "cartera morosa",
-    "cartera crediticia"
+    "venta de deudas",
+    "cartera deudora",
+    "cartera de créditos malos",
+    "deducciones por venta de cartera"
   ],
-  "resumen": "La regla establece los requisitos que deben cumplir las personas morales para enajenar o adquirir cartera vencida, incluyendo cómo deben acumular y deducir los importes correspondientes en su ejercicio fiscal.",
+  "resumen": "La regla establece los requisitos para que las personas morales enajenen o adquieran cartera vencida. Permite acumular ingresos y deducir partes pendientes en ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo se vende cartera vencida?",
-    "¿Qué requisitos hay para la enajenación de cartera morosa?",
-    "¿Puedo deducir la pérdida por la venta de cartera vencida?",
-    "¿Cómo se calcula la deducción por enajenación parcial de cartera?",
-    "¿Qué hacen las empresas con su cartera vencida?"
+    "¿Qué es la enajenación de cartera vencida?",
+    "¿Cómo se deduce una parte de la cartera vencida?",
+    "¿Qué requisitos debo cumplir para enajenar deuda?",
+    "¿Cómo se calcula la deducción por venta de cartera?",
+    "¿Qué importancia tiene la cartera vencida en las instituciones de crédito?"
   ]
 }

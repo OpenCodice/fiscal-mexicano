@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:90e4933e9317cb1c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Listado de prestadores de servicios digitales",
   "temas": [
-    "Servicios digitales",
-    "Residentes en el extranjero",
-    "RFC",
-    "IVA",
-    "IEPS",
-    "Inscripción"
+    "residentes en el extranjero",
+    "servicios digitales",
+    "inscripción en el RFC",
+    "SAT",
+    "portal de internet",
+    "listado bimestral"
   ],
   "terminos_coloquiales": [
     "prestadores de servicios digitales",
-    "servicios digitales en el extranjero",
-    "listado SAT",
-    "RFC servicios digitales",
-    "LIVA 18-D",
-    "LIEPS 20-A"
+    "servicios por internet",
+    "listado de empresas digitales",
+    "RFC",
+    "SAT"
   ],
-  "resumen": "El SAT publicará un listado bimestral de los residentes en el extranjero que proporcionan servicios digitales a receptores en México y que están inscritos en el RFC. Este listado incluirá información como la razón social, nombre comercial, país de origen, fecha de inscripción y clave en el RFC.",
+  "resumen": "El SAT publicará un listado bimestral de los residentes en el extranjero que ofrecen servicios digitales a personas en México y que están inscritos en el RFC. Este listado incluirá información como la razón social, nombre comercial y país de origen de los prestadores.",
   "preguntas_ejemplo": [
-    "¿Quiénes son los prestadores de servicios digitales inscritos en el RFC?",
-    "¿Dónde puedo encontrar el listado de servicios digitales extranjeros?",
-    "¿Qué información contiene el listado del SAT sobre servicios digitales?",
-    "¿Cómo se inscriben los prestadores de servicios digitales en el RFC?",
-    "¿Qué requisitos tienen los residentes en el extranjero para ofrecer servicios digitales en México?"
+    "¿Dónde puedo ver el listado de empresas que ofrecen servicios digitales desde el extranjero?",
+    "¿Quiénes están inscritos en el RFC para prestar servicios digitales?",
+    "¿Qué información contiene el listado de prestadores de servicios digitales?",
+    "¿Cómo saber si una empresa en el extranjero proporciona servicios digitales en México?",
+    "¿Cada cuánto tiempo se actualiza el listado de prestadores de servicios digitales?"
   ]
 }

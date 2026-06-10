@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:97a98856d08035da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costos de Obras",
+  "denominacion_comun": "Costos de obras",
   "temas": [
-    "opción de deducción",
+    "deducciones",
     "costos directos",
     "costos indirectos",
-    "avisos",
-    "declaraciones anuales"
+    "obras",
+    "servicios"
   ],
   "terminos_coloquiales": [
     "deducción de costos",
-    "costo de obras",
-    "aviso de opción",
-    "LISR 30"
+    "costos de obras",
+    "aviso de deducción",
+    "ISR",
+    "Ley del ISR"
   ],
-  "resumen": "Los contribuyentes que optan por deducir costos de obras deben presentar un aviso dentro del mes siguiente a sus declaraciones anuales complementarias. Este aviso incluirá detalles sobre las fechas y operaciones correspondientes.",
+  "resumen": "La disposición establece que los contribuyentes que opten por deducir costos de obras pueden presentar un aviso dentro de un mes después de sus declaraciones anuales complementarias. Este aviso debe incluir detalles sobre las erogaciones relacionadas con costos directos o indirectos.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco los costos de una obra?",
-    "¿Qué debo incluir en el aviso de opción para deducir?",
-    "¿Qué pasa si presento el aviso tarde?",
-    "¿Cuándo debo presentar el aviso para deducir costos?",
-    "¿Qué son los costos directos e indirectos de obras?"
+    "¿Cómo puedo deducir los costos de mis obras?",
+    "¿Qué debo incluir en el aviso para deducir costos?",
+    "¿Cuánto tiempo tengo para presentar el aviso de deducción?",
+    "¿Qué son los costos directos e indirectos en obras?",
+    "¿Cuál es el procedimiento para deducir erogaciones en servicios?"
   ]
 }

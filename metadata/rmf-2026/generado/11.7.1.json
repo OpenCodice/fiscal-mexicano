@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee1c92f4ed75219c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de estímulo IEPS frontera gasolinas",
+  "denominacion_comun": "Devolución de estímulo IEPS gasolinas",
   "temas": [
-    "devolución de estímulo",
+    "devolución de impuestos",
+    "estímulo fiscal",
     "IEPS",
-    "combustibles",
     "gasolinas",
-    "requisitos de solicitud",
-    "plazos",
-    "anexos necesarios",
-    "facultades de comprobación"
-  ],
-  "terminos_coloquiales": [
-    "devolución de IEPS",
-    "estímulo IEPS",
-    "devolución de gasolina",
-    "estímulo fronterizo",
-    "FED",
+    "requisitos de devolución",
+    "plazo de devolución",
+    "información contable",
     "SAT"
   ],
-  "resumen": "Esta regla establece el procedimiento para solicitar la devolución del estímulo IEPS o su excedente por parte de los contribuyentes que cumplan con ciertos requisitos. La devolución se tramita a través del Portal del SAT y deberá acompañarse de diversos documentos que validen la solicitud.",
+  "terminos_coloquiales": [
+    "devolución de estímulo",
+    "devolución de IEPS",
+    "estímulo IEPS",
+    "solicitar devolución",
+    "SAT",
+    "gasolinas"
+  ],
+  "resumen": "Esta regla establece cómo los contribuyentes pueden solicitar la devolución del estímulo o su excedente del IEPS aplicado a las gasolinas, definiendo los requisitos y plazos necesarios para llevar a cabo dicha solicitud a través del portal del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución del estímulo IEPS para gasolinas?",
-    "¿Cuáles son los requisitos para pedir la devolución del estímulo fronterizo?",
-    "¿Qué documentos necesito para la devolución del estímulo IEPS?",
-    "¿En cuánto tiempo me devolverán el estímulo IEPS?",
-    "¿Puedo solicitar la devolución si tengo omisiones fiscales?",
-    "¿Qué pasa si no anexo los documentos requeridos en mi solicitud de devolución?"
+    "¿Cómo puedo solicitar la devolución del estímulo IEPS para gasolinas?",
+    "¿Qué requisitos necesito para la devolución del estímulo fiscal del IEPS?",
+    "¿Cuánto tiempo tardará el SAT en devolverme el estímulo IEPS?",
+    "¿Qué documentos tengo que presentar para la solicitud de devolución del estímulo IEPS?",
+    "¿Puedo solicitar la devolución del excedente del estímulo IEPS?",
+    "¿Cuáles son los problemas que pueden impedir mi devolución de estímulo IEPS?"
   ]
 }

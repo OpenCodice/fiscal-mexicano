@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:608b8fb003942997",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
     "obligaciones fiscales",
     "contabilidad electrónica",
-    "información contable",
     "DIOT",
-    "acreditamiento del IVA"
+    "acreditamiento del IVA",
+    "personas físicas",
+    "personas morales"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "Simplificación fiscal"
+    "régimen simplificado",
+    "no hacer contabilidad",
+    "no presentar DIOT"
   ],
-  "resumen": "El Régimen Simplificado de Confianza permite a las personas físicas y morales estar exentas de ciertas obligaciones fiscales, como el envío de contabilidad electrónica y la presentación de la DIOT. Esto facilita el cumplimiento de las normativas fiscales.",
+  "resumen": "El Régimen Simplificado de Confianza exime a las personas físicas y morales de enviar su contabilidad electrónica y de presentar la DIOT. Se busca simplificar las obligaciones fiscales de los contribuyentes en este régimen.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones no tengo que cumplir en el Régimen Simplificado de Confianza?",
-    "¿Cómo funciona la contabilidad electrónica en el RESICO?",
-    "¿Debo presentar la DIOT si estoy en el Régimen Simplificado?",
-    "¿Qué beneficios tiene el Régimen Simplificado de Confianza?",
-    "¿Qué implica tributar bajo el Título IV de la Ley del ISR?"
+    "¿Qué obligaciones fiscales tengo si estoy en el Régimen Simplificado de Confianza?",
+    "¿No tengo que enviar contabilidad electrónica si soy RESICO?",
+    "¿Qué es la DIOT y tengo que presentarla si soy persona física en este régimen?",
+    "¿Puedo acreditar IVA en el Régimen Simplificado de Confianza?",
+    "¿Qué requisitos debo cumplir en el régimen simplificado?"
   ]
 }

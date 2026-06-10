@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fceff13e974ec4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contraprestación en anticipos",
+  "denominacion_comun": "Anticipos en ingresos",
   "temas": [
     "CFDI",
-    "anticipos",
-    "ingresos",
-    "deducción",
-    "Ley del ISR",
-    "comprobantes de egresos"
+    "ingresos por anticipos",
+    "contraprestación",
+    "deducción de costos",
+    "pago provisional"
   ],
   "terminos_coloquiales": [
-    "CFDI por anticipos",
-    "ingresos por anticipos",
-    "deducción de costos",
-    "LISR",
-    "Ley del ISR"
+    "factura por anticipos",
+    "CFDI anticipos",
+    "ingreso por anticipos",
+    "comprobante de egresos",
+    "ingreso total",
+    "deducción de costo de venta"
   ],
-  "resumen": "Los contribuyentes que reciban anticipos deben emitir CFDI y acumular como ingreso los anticipos recibidos. Al momento de concretar la operación, deben emitir un CFDI por el total y pueden optar por ajustar la acumulación del ingreso considerando los anticipos ya acumulados.",
+  "resumen": "Los contribuyentes que reciban anticipos deben emitir CFDI en el mes correspondiente y acumular estos ingresos en su pago provisional. Al finalizar la operación, deben emitir un CFDI por el total del precio y pueden ajustar el ingreso acumulado.",
   "preguntas_ejemplo": [
-    "¿Cómo debo manejar los anticipos en mis ingresos?",
-    "¿Qué es un CFDI por anticipo?",
-    "¿Cuándo debo emitir el CFDI por una operación con anticipos?",
-    "¿Puedo deducir el costo de venta si recibí anticipos?",
-    "¿Qué debo hacer con los ingresos por anticipos en el pago provisional?"
+    "¿Cómo se emiten los CFDI por anticipos?",
+    "¿Qué debo hacer si recibo un anticipo?",
+    "¿Puedo deducir el costo de lo vendido si recibí anticipos?",
+    "¿Qué información debo incluir en el CFDI por anticipos?",
+    "¿Qué ocurre si no deduje los anticipos en ejercicios anteriores?"
   ]
 }

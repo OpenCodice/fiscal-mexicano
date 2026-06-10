@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9352f390a745d640",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos por servicios migratorios",
+  "denominacion_comun": "Pago de derechos migratorios",
   "temas": [
-    "empresas de transporte aéreo",
-    "derechos migratorios",
+    "servicios migratorios",
+    "transporte aéreo internacional",
+    "empresas de transporte",
     "entero de derechos",
-    "obligaciones legales",
     "Ley de Migración"
   ],
   "terminos_coloquiales": [
-    "derechos migratorios",
-    "servicios migratorios",
     "pago de derechos",
-    "LFD",
-    "Ley de Migración"
+    "servicio de transporte aéreo",
+    "derechos migratorios",
+    "INM",
+    "LFD"
   ],
-  "resumen": "Las empresas que brindan transporte aéreo internacional de pasajeros deben pagar los derechos por servicios migratorios según lo establecido en la Ley de Migración. Este pago debe hacerse en un plazo específico y requiere el cumplimiento de ciertas obligaciones legales.",
+  "resumen": "Las empresas de transporte aéreo internacional deben pagar los derechos por servicios migratorios cuando corresponde. El pago debe realizarse a más tardar el día 17 del mes siguiente al que se debió recaudar, y sólo si no tienen adeudos anteriores y cumplen con la Ley de Migración.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo pagar los derechos por servicios migratorios?",
-    "¿Qué empresas están obligadas a realizar el pago de derechos migratorios?",
-    "¿Qué requisitos tengo que cumplir para el pago de derechos migratorios?",
-    "¿Qué pasa si tengo adeudos de años anteriores?",
-    "¿Dónde puedo realizar el pago de derechos migratorios?"
+    "¿Cuándo debo hacer el pago de los derechos migratorios?",
+    "¿Qué pasa si tengo adeudos por derechos migratorios anteriores?",
+    "¿Qué información debo enviar al INM para el pago?",
+    "¿Aplica lo mismo para el transporte aéreo privado?",
+    "¿Cuáles son los artículos relevantes de la Ley de Migración?"
   ]
 }

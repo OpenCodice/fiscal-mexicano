@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2274db4f54b489ce",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones para Actividades Agrícolas, Ganaderas, Silvícolas o Pesqueras",
+  "denominacion_comun": "Exención para actividades agrícolas, ganaderas, silvícolas o pesqueras",
   "temas": [
-    "Impuesto sobre la renta",
-    "Exenciones fiscales",
-    "Actividades agrícolas",
-    "Actividades ganaderas",
-    "Actividades silvícolas",
-    "Actividades pesqueras",
-    "Retención de ISR"
+    "Impuesto sobre la Renta",
+    "Régimen Simplificado de Confianza",
+    "Retención del 1.25%",
+    "Actividades exentas",
+    "Descripción en CFDI"
   ],
   "terminos_coloquiales": [
-    "exenciones para actividades del campo",
-    "retención del 1.25%",
-    "LISR",
+    "exención de impuestos",
+    "pago de impuestos",
     "Régimen Simplificado de Confianza",
-    "RESICO"
+    "RESICO",
+    "comprobante fiscal",
+    "CFDI"
   ],
-  "resumen": "Las personas físicas que realicen actividades agrícolas, ganaderas, silvícolas o pesqueras no deberán pagar retención del 1.25% si sus ingresos están exentos y lo indican correctamente en su comprobante fiscal. Esto aplica solo cuando operan con personas morales.",
+  "resumen": "Las personas físicas que realicen actividades agrícolas, ganaderas, silvícolas o pesqueras pueden estar exentas de un pago del 1.25% si sus ingresos cumplen con ciertos requisitos. Además, deben indicar en su comprobante fiscal que estos ingresos son exentos según la ley.",
   "preguntas_ejemplo": [
-    "¿Quiénes están exentos del 1.25% en actividades agrícolas?",
-    "¿Qué condiciones deben cumplir para evitar la retención del ISR?",
-    "¿Cómo se debe indicar la exención en el CFDI?",
-    "¿Qué es el Régimen Simplificado de Confianza?",
-    "¿Qué actividades son consideradas para la exención del ISR?"
+    "¿Qué actividades están exentas de la retención del 1.25%?",
+    "¿Cómo se deben declarar los ingresos agrícolas en el CFDI?",
+    "¿Qué requisitos debo cumplir para estar exento del impuesto sobre la renta?",
+    "¿Qué significa estar en el Régimen Simplificado de Confianza?",
+    "¿Qué debo poner en el comprobante fiscal para indicar que mis ingresos están exentos?"
   ]
 }

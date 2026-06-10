@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:92a94c41dcf46610",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avisos de aeronaves",
+  "denominacion_comun": "Espacio aéreo mexicano",
   "temas": [
-    "contribuyentes",
-    "avisos",
+    "avisos de contribuyentes",
     "aeronaves",
-    "espacio aéreo",
+    "modelos de aeronaves",
     "rutas nacionales",
     "rutas internacionales",
-    "responsabilidad legal"
+    "sobresvuelo internacional",
+    "aviación general"
   ],
   "terminos_coloquiales": [
     "avisos de aeronaves",
-    "información de vuelos",
-    "operaciones aéreas",
-    "LFD",
-    "Serv. Navegación Aérea"
+    "aeronaves",
+    "navegación aérea",
+    "Operaciones no regulares"
   ],
-  "resumen": "Los contribuyentes deben presentar avisos sobre aeronaves al organismo correspondiente, incluyendo detalles como el modelo, envergadura y rutas de vuelo. También se requiere información específica para operaciones no regulares y aviación general.",
+  "resumen": "Los contribuyentes deben presentar avisos sobre aeronaves ante el órgano correspondiente, incluyendo información sobre modelos, rutas y sobrevuelos internacionales. También se especifican requisitos adicionales para operaciones no regulares.",
   "preguntas_ejemplo": [
-    "¿Qué avisos debo presentar sobre mis aeronaves?",
-    "¿Cuáles son los plazos para presentar la información de vuelos?",
-    "¿Qué datos necesito incluir en el aviso de aeronaves?",
-    "¿Qué es el Servicio a la Navegación en el Espacio Aéreo Mexicano?",
-    "¿Qué información debo proporcionar para vuelos internacionales?",
-    "¿Cuáles son las responsabilidades legales en la presentación de avisos?"
+    "¿Qué avisos debo presentar para mis aeronaves?",
+    "¿Cuáles son los requisitos para vuelos internacionales en México?",
+    "¿Qué información se necesita para los avisos de aeronaves?",
+    "¿Qué pasa si tengo operaciones no regulares?",
+    "¿Dónde debo presentar mis documentos sobre vuelo internacional?",
+    "¿Qué datos deben incluir mis avisos de aeronaves?"
   ]
 }

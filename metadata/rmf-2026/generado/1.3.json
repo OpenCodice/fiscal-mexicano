@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed81dd5f197c8643",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de los trámites",
+  "denominacion_comun": "Requisitos de los trámites fiscales",
   "temas": [
-    "cumplimiento de obligaciones",
-    "fichas de trámites",
-    "requisitos de trámite",
+    "trámites fiscales",
+    "obligaciones contribuyentes",
+    "fichas de trámite",
     "Portal del SAT",
-    "información fiscal"
+    "requisitos de trámites",
+    "reglas de carácter general"
   ],
   "terminos_coloquiales": [
-    "requisitos para trámites",
-    "trámites fiscales",
-    "Portal del SAT",
-    "RMF"
+    "requisitos fiscales",
+    "trámites en el SAT",
+    "fichas de trámites",
+    "reglas de la RMF",
+    "obligaciones fiscales"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir los contribuyentes para realizar trámites fiscales. Además, menciona que el SAT publicará anticipadamente reglas generales que ayudarán en el cumplimiento de las obligaciones fiscales.",
+  "resumen": "La regla establece que el SAT proporcionará información sobre los requisitos de trámites fiscales a través de su portal y que las fichas de trámite no eximen a los contribuyentes de cumplir con las disposiciones fiscales aplicables. Además, se mencionan reglas generales que facilitarán el cumplimiento de las obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para mis trámites fiscales?",
-    "¿Dónde puedo encontrar información sobre los trámites en el SAT?",
-    "¿Qué son las fichas de trámites fiscales?",
-    "¿Los requisitos pueden cambiar según el portal del SAT?",
-    "¿Qué reglas generales publica el SAT para facilitar trámites?"
+    "¿Cuáles son los requisitos para realizar un trámite fiscal en el SAT?",
+    "¿Dónde puedo encontrar las fichas de trámites fiscales?",
+    "¿Los requisitos en el portal del SAT son diferentes a los de la RMF?",
+    "¿Qué son las reglas de carácter general que menciona el SAT?",
+    "¿Los trámites fiscales tienen alguna exención según la RMF?"
   ]
 }

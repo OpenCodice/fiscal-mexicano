@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3bef73221e58c115",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Emisores autorizados de monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Emisores de monederos electrónicos de vales de despensa",
   "temas": [
+    "deducciones",
     "monederos electrónicos",
     "vales de despensa",
     "información fiscal",
-    "emitentes autorizados",
-    "actualización de datos"
+    "SAT",
+    "razón social",
+    "domicilio fiscal"
   ],
   "terminos_coloquiales": [
-    "monederos de despensa",
-    "vales electrónicos",
-    "emisores de vales",
+    "vales de despensa",
+    "monederos electrónicos",
+    "datos de emisores",
     "SAT",
-    "LISR"
+    "información de vales"
   ],
-  "resumen": "Los emisores autorizados de monederos electrónicos de vales de despensa deben proporcionar información relevante sobre su razón social, domicilio fiscal y otros datos a través del Portal del SAT. Esta información incluye la actualización de datos conforme a la normativa vigente.",
+  "resumen": "Los emisores autorizados de monederos electrónicos de vales de despensa deben informar sobre su denominación, domicilio y datos relevantes a través del Portal del SAT. Además, la información se actualiza regularmente según un procedimiento establecido.",
   "preguntas_ejemplo": [
-    "¿Quiénes son los emisores autorizados de vales de despensa?",
-    "¿Dónde puedo encontrar información sobre los monederos electrónicos de despensa?",
-    "¿Qué datos deben reportar los emisores de vales de despensa al SAT?",
-    "¿Cómo actualizo la información de mi monedero electrónico de despensa?",
-    "¿Cuáles son los requisitos para ser un emisor autorizado de vales electrónicos?"
+    "¿Qué datos deben reportar los emisores de vales de despensa?",
+    "¿Dónde puedo encontrar la información sobre los emisores de monederos electrónicos?",
+    "¿Qué es un emisor autorizado de monederos electrónicos de vales de despensa?",
+    "¿Cómo se actualizan los datos de los emisores de vales de despensa?",
+    "¿Qué información proporciona el SAT sobre los emisores de monederos electrónicos?"
   ]
 }

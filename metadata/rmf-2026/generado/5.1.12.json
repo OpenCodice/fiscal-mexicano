@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7368f83ab1bd7f3d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contenido de nicotina en otros productos",
+  "denominacion_comun": "Contenido de nicotina en productos",
   "temas": [
     "IEPS",
-    "Contenido de nicotina",
-    "Cuota específica",
-    "Productos que contienen nicotina"
+    "productos con nicotina",
+    "contenido de nicotina",
+    "cuota específica",
+    "calculo de nicotina"
   ],
   "terminos_coloquiales": [
-    "contenido de nicotina",
-    "productos con nicotina",
-    "IEPS",
-    "cuota de IEPS"
+    "nicotina",
+    "productos que contienen nicotina",
+    "IEPS"
   ],
-  "resumen": "La regla establece cómo calcular el contenido de nicotina en productos que la contengan, dividiendo este contenido por 8 para aplicar la cuota específica. Se mide en miligramos.",
+  "resumen": "Esta disposición establece cómo calcular el contenido de nicotina de productos que contienen nicotina, dividiéndolo entre 8 para aplicar la cuota específica. El cálculo debe hacerse en miligramos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el contenido de nicotina en productos con nicotina?",
-    "¿Qué es la cuota específica del IEPS para productos con nicotina?",
-    "¿Qué productos están sujetos al cálculo de nicotina en el IEPS?"
+    "¿Cómo se calcula el contenido de nicotina en los productos?",
+    "¿Cuál es la cuota del IEPS para productos con nicotina?",
+    "¿Qué se entiende por otros productos que contienen nicotina?",
+    "¿En qué unidades se mide el contenido de nicotina?"
   ]
 }

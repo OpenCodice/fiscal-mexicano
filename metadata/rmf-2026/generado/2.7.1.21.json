@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c439cd77955ae546",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Expedición de Comprobantes en Operaciones con el Público en General",
+  "denominacion_comun": "Expedición de comprobantes con el público en general",
   "temas": [
     "CFDI",
-    "Comprobantes Fiscales",
-    "Régimen de Incorporación Fiscal",
-    "Requisitos de Comprobantes",
-    "Operaciones con el Público",
+    "comprobantes fiscales",
+    "público en general",
+    "registros de auditoría",
     "IVA",
-    "IEPS"
+    "IEPS",
+    "RIF",
+    "Régimen Simplificado de Confianza"
   ],
   "terminos_coloquiales": [
-    "facturas",
-    "comprobantes para el público",
-    "CFDI globales",
-    "reglamento de facturación",
-    "RIF"
+    "factura",
+    "comprobante",
+    "CFDI global",
+    "operaciones con el público",
+    "ventas diarias"
   ],
-  "resumen": "Esta regla establece cómo los contribuyentes deben expedir comprobantes fiscales por operaciones realizadas con el público en general, incluyendo detalles sobre los formatos permitidos y las excepciones a la obligación de emisión. Se especifican los requisitos que deben cumplir los comprobantes y el procedimiento para reportar las operaciones al SAT.",
+  "resumen": "Esta regla establece las condiciones bajo las cuales los contribuyentes pueden expedir comprobantes fiscales digitales por internet (CFDI) por operaciones con el público en general. Incluye detalles sobre la frecuencia de emisión, requisitos específicos y excepciones según el monto de las operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo debo emitir mis facturas para ventas al público?",
-    "¿Cuáles son los requisitos de un CFDI para el público en general?",
-    "¿Qué hago si un cliente no pide recibo por una venta menor a 100 pesos?",
-    "¿Puedo hacer un CFDI bimestral por mis ventas?",
-    "¿Qué información necesito en mis comprobantes de operaciones con el público?"
+    "¿Cómo debo emitir mis CFDI si vendo al público?",
+    "¿Cuáles son los requisitos para mis comprobantes de ventas?",
+    "¿Puedo emitir un CFDI mensual para el público en general?",
+    "¿Qué hago si mis ventas son menores a $100?",
+    "¿Qué tipo de comprobantes se aceptan para operaciones parciales?"
   ]
 }

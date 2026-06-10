@@ -6,26 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a254723c015bd564",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reporte de laboratorio",
+  "denominacion_comun": "Reporte de laboratorio para descargas de aguas residuales",
   "temas": [
-    "aguas residuales",
     "exención de derechos",
+    "aguas residuales",
+    "reporte de laboratorio",
+    "NOM-001-SEMARNAT-2021",
+    "calidad de descarga",
     "laboratorio acreditado",
-    "calidad de descargas"
+    "CONAGUA"
   ],
   "terminos_coloquiales": [
-    "reporte de aguas residuales",
+    "reporte de laboratorio",
+    "descargas de aguas",
     "exención de derechos",
-    "regla 7.28"
+    "NOM de aguas residuales",
+    "laboratorio autorizado"
   ],
-  "resumen": "La regla establece cómo los contribuyentes pueden cumplir con la obligación de presentar un reporte de laboratorio sobre la calidad de las descargas de aguas residuales, utilizando un informe elaborado según normativas específicas y presentado junto con su declaración trimestral.",
+  "resumen": "La regla establece que cumplir con la obligación de presentar el reporte de laboratorio para las descargas de aguas residuales se considera suficiente para la exención del pago del derecho correspondiente, siempre que se cumplan ciertos requisitos, como que el reporte sea elaborado por un laboratorio acreditado. Además, se hace referencia a los límites permisibles establecidos en una norma oficial.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el reporte de laboratorio para mis descargas de aguas residuales?",
-    "¿Qué requisitos necesita mi laboratorio para realizar el análisis de aguas?",
-    "¿Qué límites debo cumplir para la exención del derecho por uso de bienes del dominio público?",
-    "¿Qué normas regulan los límites permisibles de contaminantes en aguas residuales?",
-    "¿Cómo tengo que acompañar el reporte a mi declaración trimestral?"
+    "¿Cómo puedo exentar el pago por descargas de aguas residuales?",
+    "¿Qué requisitos necesito para el reporte de laboratorio?",
+    "¿Qué es la NOM-001-SEMARNAT-2021?",
+    "¿Dónde encuentro un laboratorio acreditado para mis descargas?",
+    "¿Cuáles son los límites permisibles para descargas de aguas?",
+    "¿Cómo se presenta el reporte de laboratorio?"
   ]
 }

@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d790fc3a04fc014",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Amonestaciones a proveedores de CFDI",
+  "denominacion_comun": "Amonestaciones a Proveedores de Certificación de CFDI",
   "temas": [
     "amonestaciones",
-    "proveedores de certificación de CFDI",
-    "incumplimientos",
-    "avisos",
-    "infraestructura",
-    "certificación"
+    "proveedores de certificación",
+    "CFDI",
+    "incumplimiento",
+    "obligaciones fiscales",
+    "verificación",
+    "logotipo oficial",
+    "infraestructura tecnológica"
   ],
   "terminos_coloquiales": [
-    "amonestaciones a proveedores CFDs",
-    "proveeduría de CFDI",
-    "CFDI",
-    "PCCFDI"
+    "amonestaciones a proveedores",
+    "incumplimientos de CFDI",
+    "SAT",
+    "PCCFDI",
+    "certificación de facturas"
   ],
-  "resumen": "La regla establece las condiciones en las que se puede amonestar a los proveedores de certificación de CFDI por incumplimientos a las disposiciones del Código Fiscal de la Federación. Se mencionan diversos supuestos que pueden dar lugar a estas amonestaciones.",
+  "resumen": "Se establecen las causas por las que se puede amonestar a los proveedores de certificación de CFDI que no cumplan con sus obligaciones. Esto incluye la falta de cumplimiento con avisos, la inadecuada infraestructura tecnológica y el mal uso del logotipo oficial, entre otros incumplimientos detectados por el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si un proveedor de CFDI no cumple con los requerimientos establecidos?",
-    "¿Cuáles son las razones por las que se puede amonestar a un PCCFDI?",
-    "¿Cómo se reportan incumplimientos de proveedores de CFDI?",
-    "¿Qué pasa si el sat no puede verificar a un proveedor de CFDI?",
-    "¿Cuáles son las obligaciones de los proveedores de certificación de CFDI?"
+    "¿Cuáles son las amonestaciones que pueden recibir los proveedores de CFDI?",
+    "¿Qué pasa si un proveedor de CFDI no cumple con las obligaciones del SAT?",
+    "¿Cómo se verifica el cumplimiento de los proveedores de certificación?",
+    "¿Qué requisitos debe cumplir un proveedor de CFDI?",
+    "¿Qué sucede si no publican su logotipo oficial?"
   ]
 }

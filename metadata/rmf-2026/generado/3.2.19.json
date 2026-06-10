@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6bcd8daaa23b3c95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondos de Inversión de Renta Variable",
+  "denominacion_comun": "Fondos de inversión de renta variable",
   "temas": [
-    "Acciones",
-    "Ganancias y pérdidas",
-    "Cartera accionaria",
-    "Valoración de activos",
-    "Gastos administrativos",
-    "Precios de cierre",
-    "Operaciones financieras derivadas"
+    "determinación de precios",
+    "ganancia o pérdida por enajenación",
+    "cartera accionaria",
+    "gastos administrativos",
+    "valorización de activos"
   ],
   "terminos_coloquiales": [
-    "Fondos de inversión",
-    "Inversiones en acciones",
-    "Ganancia por enajenación",
-    "Pérdida por enajenación",
-    "Precio promedio de adquisición"
+    "fondos de inversión",
+    "acciones",
+    "ganancias",
+    "pérdidas",
+    "precio de acciones",
+    "valores"
   ],
-  "resumen": "Esta regla establece cómo los fondos de inversión de renta variable deben determinar el precio de sus acciones y calcular las ganancias o pérdidas por la enajenación de acciones. También se habla de la valoración de su cartera y los gastos administrativos relacionados.",
+  "resumen": "Esta regla establece cómo determinar el precio de las acciones de fondos de inversión de renta variable y cómo calcular las ganancias o pérdidas al enajenar dichas acciones. También detalla cómo manejar los gastos administrativos relacionados con la cartera accionaria.",
   "preguntas_ejemplo": [
     "¿Cómo se determina el precio de las acciones de un fondo de inversión?",
-    "¿Qué pasos debo seguir para calcular ganancia o pérdida por enajenación de acciones?",
-    "¿Qué consideraciones se deben tener en cuenta para valorar una cartera accionaria?",
-    "¿Qué son los gastos administrativos en un fondo de inversión?",
-    "¿Cómo influye el precio promedio de adquisición en la ganancia reportada?"
+    "¿Qué sucede con las ganancias al vender acciones de fondos de inversión?",
+    "¿Cuáles son los gastos que debo considerar al invertir en fondos de inversión?",
+    "¿Cómo afecta el valor promedio de adquisición en la venta de acciones?",
+    "¿Qué información debo recibir sobre las ganancias o pérdidas de mis acciones?"
   ]
 }

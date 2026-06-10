@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a87a685064575b9b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones en el espacio aéreo mexicano",
+  "denominacion_comun": "Información de operaciones en el espacio aéreo mexicano",
   "temas": [
     "información de operaciones",
-    "recibos bancarios",
+    "espacio aéreo",
+    "recibo bancario",
     "contribuciones federales",
-    "distancia ortodrómica",
-    "aeronaves"
+    "datos de vuelo",
+    "aviación general"
   ],
   "terminos_coloquiales": [
     "operaciones aéreas",
-    "reportes de vuelo",
-    "RMF",
-    "LFD"
+    "recibo de pago",
+    "contribuciones",
+    "vuelo",
+    "aeronave"
   ],
-  "resumen": "La regla establece que se debe presentar un archivo electrónico con información detallada de las operaciones aéreas, junto con un recibo bancario para el pago de contribuciones federales. Este archivo incluye datos como matrícula, número de vuelo y distancia recorrida.",
+  "resumen": "Esta disposición establece los requisitos para el archivo electrónico que contiene la información de las operaciones realizadas en el espacio aéreo mexicano. Este archivo debe ser presentado junto con el recibo bancario de pago de contribuciones federales y debe incluir diversos datos relacionados con los vuelos y las aeronaves.",
   "preguntas_ejemplo": [
-    "¿Qué información debe incluirse en un reporte de operaciones aéreas?",
-    "¿Cómo se presenta el pago de contribuciones para vuelos en el espacio aéreo mexicano?",
-    "¿Qué datos son necesarios para un archivo de operaciones aéreas?",
-    "¿Cuál es la regla que regula la información de las operaciones aéreas en México?",
-    "¿Qué es la distancia ortodrómica en el contexto de las aerolíneas?"
+    "¿Qué información debo incluir en el archivo electrónico de operaciones aéreas?",
+    "¿Cómo presento el recibo de pago de contribuciones federales?",
+    "¿Qué datos específicos se requieren para los vuelos en el espacio aéreo mexicano?",
+    "¿Qué es la distancia ortodrómica en las operaciones aéreas?",
+    "¿Necesito incluir la matrícula de la aeronave en el archivo electrónico?"
   ]
 }

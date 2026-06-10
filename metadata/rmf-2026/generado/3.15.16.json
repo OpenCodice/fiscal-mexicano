@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:755da1103c1adc07",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes inmuebles de residentes en el extranjero",
   "temas": [
-    "Impuesto sobre la renta",
-    "Enajenación",
-    "Bienes inmuebles",
-    "Residentes en el extranjero",
-    "Notarios",
-    "Jueces",
-    "Corredores",
-    "Fe de hechos"
+    "impuesto sobre la renta",
+    "enajenación de bienes inmuebles",
+    "residentes en el extranjero",
+    "notarios",
+    "corredores",
+    "pagos de impuestos",
+    "formato R17"
   ],
   "terminos_coloquiales": [
-    "Enajenación de inmuebles",
-    "Impuesto por enajenación",
-    "ISR por venta de propiedades",
-    "Formato R17",
-    "LISR 160"
+    "venta de propiedades",
+    "bien raíz",
+    "pago de impuestos por venta de inmuebles",
+    "ISR",
+    "formato R17"
   ],
-  "resumen": "Los notarios y otros fedatarios deben pagar un impuesto fijo por la venta de bienes inmuebles para residentes en el extranjero usando el formato R17. Esto se regula bajo el artículo 160 de la Ley del ISR.",
+  "resumen": "Los notarios y otros fedatarios deben pagar un impuesto definitivo cuando realizan la venta de bienes inmuebles de residentes en el extranjero, utilizando el formato R17 para dicha declaración.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por la venta de una propiedad?",
+    "¿Cómo se paga el impuesto por la venta de una propiedad de un extranjero?",
     "¿Qué es el formato R17 en la enajenación de inmuebles?",
-    "¿Qué obligaciones tienen los notarios en la enajenación de bienes?",
-    "¿Cuándo se aplica el impuesto sobre la renta para extranjeros que venden inmuebles?",
-    "¿Qué establece el artículo 160 de la Ley del ISR?",
-    "¿Quiénes son considerados fedatarios en la ley fiscal?"
+    "¿Quiénes deben pagar impuestos por la venta de bienes inmuebles de extranjeros?",
+    "¿Qué trámite realizan los notarios al vender propiedades de residentes en el extranjero?",
+    "¿Qué regulaciones aplican para la venta de inmuebles por extranjeros en México?"
   ]
 }

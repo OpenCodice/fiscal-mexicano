@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a4106a2f9cfa1311",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios parciales de construcción de vivienda",
+  "denominacion_comun": "Construcción de inmuebles para casa habitación",
   "temas": [
     "CFDI",
-    "Servicios de construcción",
-    "Inmuebles",
-    "Casa habitación",
-    "Complemento Servicios Parciales de Construcción"
+    "servicios de construcción",
+    "complemento SAT",
+    "casa habitación"
   ],
   "terminos_coloquiales": [
-    "CFDI de construcción",
-    "Servicios parciales de construcción",
-    "Construcción de casas",
-    "Complemento de construcción"
+    "factura de construcción",
+    "complemento de servicios parciales",
+    "casa",
+    "construcción de casas"
   ],
-  "resumen": "Los CFDI que amparen servicios parciales de construcción de inmuebles destinados a casa habitación deben incluir información específica en el Complemento Servicios Parciales de Construcción según un decreto vigente.",
+  "resumen": "Se establecen requisitos para emitir CFDI que respalden servicios parciales de construcción de inmuebles destinados a casa habitación. Se debe incluir información específica en un complemento publicado por el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué información debe incluir un CFDI de servicios parciales de construcción?",
-    "¿Cómo se debe reportar la construcción de una casa en el SAT?",
-    "¿Qué es el Complemento Servicios Parciales de Construcción?",
-    "¿Cuáles son los requisitos para emitir un CFDI de construcción de vivienda?"
+    "¿Qué información debe incluir un CFDI para servicios de construcción de casas?",
+    "¿Cómo se emiten CFDI para la construcción de vivienda?",
+    "¿Qué es el complemento de servicios parciales de construcción?",
+    "¿Qué requerimientos hay para la factura de construcción de inmuebles habitacionales?"
   ]
 }

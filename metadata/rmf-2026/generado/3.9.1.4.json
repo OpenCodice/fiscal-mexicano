@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ac9d1d9fb138420",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de ajustes de precios de transferencia",
   "temas": [
     "ajustes de precios de transferencia",
     "deducción fiscal",
-    "contribuyentes",
-    "avisos al SAT",
-    "fichas de trámite",
-    "correcciones fiscales"
+    "avisos ante el SAT",
+    "precios de transferencia",
+    "parte relacionada",
+    "corrección fiscal"
   ],
   "terminos_coloquiales": [
     "deducción de ajustes",
-    "ajuste de precios",
+    "ajustes de precios",
+    "avisos de precios de transferencia",
     "SAT",
-    "precio de transferencia",
-    "ajuste primario",
-    "ajuste correlativo"
+    "operaciones con partes relacionadas"
   ],
-  "resumen": "Los contribuyentes pueden deducir ajustes de precios de transferencia si presentan aviso previo al SAT. Esto es aplicable tanto para ajustes voluntarios como para ajustes correlativos derivados de correcciones fiscales a su contraparte.",
+  "resumen": "Los contribuyentes pueden deducir ajustes de precios de transferencia bajo ciertas condiciones, siempre que presenten un aviso previo al SAT. Esto incluye ajustes voluntarios y correlativos que sean consecuencia de correcciones fiscales en operaciones con partes relacionadas.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco un ajuste de precio de transferencia?",
-    "¿Qué aviso debo presentar al SAT para deducir ajustes?",
-    "¿Puedo realizar un ajuste de precios después de los plazos establecidos?",
-    "¿Qué requisitos debo cumplir para deducir un ajuste correlativo?",
-    "¿Qué es la ficha de trámite 83/ISR?",
-    "¿Cómo afecta un ajuste primario a mi declaración fiscal?"
+    "¿Cómo puedo deducir un ajuste de precios de transferencia?",
+    "¿Qué requisitos debo cumplir para presentar un aviso ante el SAT?",
+    "¿Puedo hacer ajustes de precios de transferencia después de la fecha límite?",
+    "¿Qué es un aviso de ajuste de precios de transferencia?",
+    "¿Cómo afecta un ajuste de precios a mis deducciones fiscales?"
   ]
 }

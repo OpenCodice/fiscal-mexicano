@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c9837d32944a209",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de Cancelación en el RFC",
+  "denominacion_comun": "Aviso de cancelación en el RFC",
   "temas": [
-    "cancelación en el RFC",
+    "cancelación del RFC",
     "liquidación de activos",
     "cese de operaciones",
     "fusión de sociedades",
-    "obligaciones fiscales",
-    "facultades de comprobación"
+    "facultades de comprobación",
+    "declaraciones periódicas",
+    "obligaciones formales"
   ],
   "terminos_coloquiales": [
-    "cancelación RFC",
-    "cancelar RFC",
-    "RFC cancelado",
-    "CFF",
-    "artículo 27"
+    "cancelación de RFC",
+    "liquidación total",
+    "cesar operaciones",
+    "fusión de empresas",
+    "comprobación fiscal",
+    "declaraciones de impuestos"
   ],
-  "resumen": "Los contribuyentes que presenten aviso de cancelación en el RFC por ciertas razones pueden quedar exentos de presentar declaraciones y cumplir con algunas obligaciones hasta que se terminen las facultades de comprobación. Esto aplica si se cumple con requisitos específicos establecidos por la ley.",
+  "resumen": "Los contribuyentes que cancelen su RFC por liquidación total, cese de operaciones o fusión de sociedades estarán exentos de presentar declaraciones periódicas si están sujetos a facultades de comprobación. Esto se mantendrá hasta que concluyan dichas facultades.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo cancelar mi RFC?",
-    "¿Cuáles son los motivos para presentar un aviso de cancelación?",
-    "¿Qué pasa si cancelo mi RFC por liquidación de activos?",
-    "¿Estaré exento de presentar declaraciones después de cancelar mi RFC?",
-    "¿Qué son las facultades de comprobación en el contexto de la cancelación del RFC?"
+    "¿Qué debo hacer si quiero cancelar mi RFC?",
+    "¿Puedo dejar de presentar mis declaraciones si cancelo mi RFC por liquidación?",
+    "¿Cuáles son los motivos para cancelar el RFC?",
+    "¿Qué pasa si estoy sujeto a revisión y cancelo mi RFC?",
+    "¿Qué obligaciones formales se eliminan al cancelar el RFC?"
   ]
 }

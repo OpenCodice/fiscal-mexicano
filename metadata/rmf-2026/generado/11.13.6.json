@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:98c1807ca8ef874d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdida de estímulos fiscales",
+  "denominacion_comun": "Pérdida de estímulos fiscales en ISR e IVA",
   "temas": [
     "estímulos fiscales",
     "ISR",
     "IVA",
-    "declaraciones",
     "créditos fiscales",
-    "obligaciones fiscales"
+    "declaraciones",
+    "pérdida de derechos",
+    "obligaciones fiscales",
+    "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "pérdida de créditos fiscales",
-    "no aplicar estímulos",
-    "estímulos IRS 2024",
-    "declaraciones complementarias"
+    "perder estímulos",
+    "créditos de impuestos",
+    "declaración fiscal",
+    "no aplicar incentivo",
+    "obligación no presentada"
   ],
-  "resumen": "Se pierde el derecho a aplicar estímulos fiscales cuando, en la declaración normal o complementaria, no se apliquen los créditos fiscales correspondientes. Esta pérdida solo afecta al ejercicio fiscal o mes en que no se aplicó el estímulo.",
+  "resumen": "Se pierde el derecho a aplicar estímulos fiscales en ISR e IVA cuando no se utilizan los créditos fiscales en la declaración correspondiente. Esta pérdida solo afecta al ejercicio o mes en que no se aplicaron los estímulos, sin posibilidad de aplicación en el futuro.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no aplico mis estímulos fiscales en la declaración?",
-    "¿Cuándo pierdo el derecho a los créditos fiscales?",
-    "¿Qué sucede con mis obligaciones fiscales si no presento la declaración a tiempo?",
-    "¿Se pueden aplicar estímulos fiscales en ejercicios posteriores?",
-    "¿Cómo afectan los errores en las declaraciones a los estímulos fiscales?"
+    "¿Cuándo se pierde el derecho a los estímulos fiscales?",
+    "¿Qué pasa si no aplico un crédito fiscal en mi declaración?",
+    "¿Puedo recuperar un estímulo fiscal que no apliqué en el mes anterior?",
+    "¿Cómo afecta la obligación no presentada a mis estímulos fiscales?",
+    "¿Qué son los créditos fiscales en ISR e IVA?"
   ]
 }

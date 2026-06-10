@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5c6f17a9c51d00b5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Interés acumulable de cartera hipotecaria",
   "temas": [
+    "Ley de ISR",
     "cartera hipotecaria",
     "interés acumulable",
     "vivienda de interés social",
     "Fondo de Operación y Financiamiento Bancario",
-    "Ley de ISR"
+    "deudores hipotecarios"
   ],
   "terminos_coloquiales": [
-    "interés de cartera hipotecaria",
-    "cálculo de interés acumulable",
-    "cartera hipotecaria de vivienda",
-    "LISR 44"
+    "interés de hipoteca",
+    "carta de crédito",
+    "Fondo de Vivienda",
+    "vivienda económica"
   ],
-  "resumen": "Se establecen las condiciones para determinar el interés acumulable en casos donde se adquiere cartera hipotecaria de vivienda de interés social con garantía residual por el Fondo de Operación y Financiamiento Bancario. La diferencia entre los pagos mensuales del deudor y el pago a realizar con el Fondo define este interés.",
+  "resumen": "La regla establece cómo calcular el interés acumulable de la cartera hipotecaria cuando se adquiere deudores que deben al Fondo de Operación y Financiamiento Bancario. Este interés se determina restando el pago que debe hacer la empresa al Fondo del monto que el deudor pagará mensualmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el interés acumulable de cartera hipotecaria?",
-    "¿Qué pasa si compro cartera hipotecaria financiada por el Fondo?",
-    "¿Qué implica adquirir cartera de vivienda de interés social?",
-    "¿Cuál es el interés que debo considerar al comprar cartera hipotecaria?",
-    "¿Qué dice la Ley de ISR sobre la cartera hipotecaria?"
+    "¿Cómo se calcula el interés de una hipoteca de interés social?",
+    "¿Qué es el interés acumulable en la compra de cartera hipotecaria?",
+    "¿Qué implica asumir un pasivo con el Fondo de Vivienda?",
+    "¿Qué requisitos hay para adquirir cartera hipotecaria de vivienda social?",
+    "¿Qué beneficios fiscales hay al adquirir cartera hipotecaria?"
   ]
 }

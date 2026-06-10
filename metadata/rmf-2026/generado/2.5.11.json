@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:48f8687837d61af2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de combustibles",
@@ -13,25 +14,25 @@
     "RFC",
     "IEPS",
     "actividades económicas",
-    "inscripción",
-    "actualización",
-    "venta de combustibles",
-    "gasolina",
-    "diésel"
-  ],
-  "terminos_coloquiales": [
-    "enajenación de combustibles",
+    "inscripción fiscal",
     "venta de gasolina",
     "venta de diésel",
-    "IEPS",
-    "reglamento del CFF"
+    "combustibles fósiles",
+    "combustibles no fósiles"
   ],
-  "resumen": "Los contribuyentes que se inscriben en el RFC o actualizan sus actividades económicas deben indicar en su solicitud la actividad relacionada con la venta de combustibles y pagar el IEPS correspondiente.",
+  "terminos_coloquiales": [
+    "venta de gasolina",
+    "venta de diésel",
+    "ventas de combustibles",
+    "IEPS",
+    "RFC"
+  ],
+  "resumen": "La disposición establece que los contribuyentes que se inscriban en el RFC o actualicen sus actividades económicas deben declarar la actividad relacionada con la venta de combustibles, incluyendo gasolina y diésel, para el pago del IEPS.",
   "preguntas_ejemplo": [
-    "¿Qué actividades económicas debo declarar al inscribirme en el RFC?",
-    "¿Cómo actualizo mis actividades económicas en el RFC?",
-    "¿Cuáles son las obligaciones fiscales para la venta de gasolina?",
-    "¿Qué es el IEPS y cómo afecta a mi negocio de combustibles?",
-    "¿Qué información necesito para registrarme en el RFC si vendo combustibles?"
+    "¿Qué debo hacer si voy a vender gasolina?",
+    "¿Cómo actualizo mi RFC si vendo diésel?",
+    "¿Cuál es el procedimiento para inscribirme en el RFC por actividades de venta de combustibles?",
+    "¿Qué impuestos debo pagar por la venta de combustibles?",
+    "¿Qué tipo de combustibles se incluyen en el IEPS?"
   ]
 }

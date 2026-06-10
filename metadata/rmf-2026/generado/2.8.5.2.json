@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a25141f3b78e48c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaraciones y pagos de derechos sobre minería",
   "temas": [
-    "Contribuyentes",
-    "Derechos sobre minería",
-    "Portal del SAT",
-    "Declaraciones",
-    "Pagos",
-    "Línea de captura",
-    "Recibo bancario"
+    "derechos sobre minería",
+    "declaración de derechos",
+    "pago de contribuciones",
+    "sistema SAT",
+    "línea de captura",
+    "recibo bancario"
   ],
   "terminos_coloquiales": [
-    "Pago de derechos mineros",
-    "DPA",
-    "Declaración de derechos sobre minería"
+    "pago de derechos de minería",
+    "declaración de minería",
+    "línea de captura",
+    "SAT",
+    "e.firma"
   ],
-  "resumen": "Los contribuyentes que deben pagar derechos sobre minería deben hacerlo a través del Portal del SAT, utilizando el servicio de declaraciones y pagos. Deberán ingresar sus datos, seleccionar el periodo correspondiente y realizar el pago por transferencia electrónica o en ventanilla bancaria.",
+  "resumen": "Los contribuyentes que deben pagar derechos por minería harán su declaración a través del portal del SAT. Después de completar la declaración, recibirán un acuse de recibo que incluye el importe a pagar y la línea de captura para realizar el pago.",
   "preguntas_ejemplo": [
-    "¿Cómo hago el pago de derechos de minería?",
-    "¿Qué pasos sigo para declarar los derechos sobre minería?",
-    "¿Dónde encuentro el servicio para declarar derechos mineros?",
-    "¿Cómo obtengo el recibo de pago de derechos sobre minería?",
-    "¿Qué información necesito para realizar mi declaración de derechos mineros?"
+    "¿Cómo hago la declaración de derechos sobre minería?",
+    "¿Qué pasos sigo para pagar los derechos de minería?",
+    "¿Dónde encuentro la línea de captura para pagar mis derechos?",
+    "¿Qué es un recibo bancario de pago de contribuciones?",
+    "¿Puedo pagar los derechos de minería por internet?"
   ]
 }

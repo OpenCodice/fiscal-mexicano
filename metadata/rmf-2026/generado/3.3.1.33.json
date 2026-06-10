@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:84b64eece9e8c434",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones en comedores, aviones y embarcaciones",
+  "denominacion_comun": "Deducciones por uso de comedores, aviones y embarcaciones",
   "temas": [
     "deducciones",
-    "personas morales",
-    "pagos por uso temporal",
+    "impuesto sobre la renta",
+    "comedor",
+    "aviones",
+    "embarcaciones",
     "casas habitación",
-    "inversiones",
-    "avisos"
+    "comprobación"
   ],
   "terminos_coloquiales": [
-    "deducciones en comedores",
-    "deducciones en aviones",
-    "deducciones en embarcaciones",
-    "uso de casas habitación",
-    "Aviso de deducción",
-    "LISR"
+    "deducción de gastos",
+    "gastos en comedores",
+    "gastos en aviones",
+    "gastos en embarcaciones",
+    "casa habitación",
+    "avisos de deducción"
   ],
-  "resumen": "Las personas morales pueden deducir gastos por el uso temporal de casas habitación, comedores, aviones y embarcaciones, pero deben presentar un aviso y comprobar que estos se utilizan por necesidades especiales de su actividad.",
+  "resumen": "Las personas morales pueden deducir los pagos por el uso temporal de casas habitación, comedores, aviones y embarcaciones, siempre y cuando presenten un aviso y comprueben que estos se utilizan por necesidades especiales de la actividad.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir gastos por un comedor que uso para mi negocio?",
-    "¿Cómo presento el aviso para deducir gastos de un avión?",
-    "¿Qué requisitos debo cumplir para deducir el uso de una embarcación?",
-    "¿Las deducciones en casas habitación son válidas para personas morales?",
-    "¿Qué comprobantes necesito para deducir estos gastos?"
+    "¿Puedo deducir los gastos de un comedor para mis empleados?",
+    "¿Qué requisitos necesito para deducir el uso de un avión?",
+    "¿Cómo compruebo los pagos por el uso de embarcaciones?",
+    "¿Qué es el aviso para deducir gastos de casa habitación?",
+    "¿Existen límites para deducir gastos en comedores?"
   ]
 }

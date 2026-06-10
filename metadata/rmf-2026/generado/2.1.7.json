@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:416747c5bb5a97a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Horario de recepción de documentos",
   "temas": [
-    "horario de atención",
+    "horario de recepción",
+    "SAT",
+    "oficialía de partes",
     "buzón tributario",
     "promociones",
-    "oficialía de partes",
     "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "horario SAT",
-    "recepción de documentos",
-    "horarios de atención",
-    "buzón tributario"
+    "horario del SAT",
+    "horario de entrega de documentos",
+    "buzón tributario",
+    "documentos fiscales"
   ],
-  "resumen": "La regla establece el horario de recepción de documentos en las oficinas del SAT, de 8:00 a 14:30 horas. También indica que si se presenta una promoción a través del buzón tributario en un día inhábil, se considera recibida al día hábil siguiente.",
+  "resumen": "Esta regla establece el horario en que se pueden entregar documentos en el SAT y qué sucede si se utilizan el buzón tributario en días inhábiles. Los documentos se consideran recibidos el primer día hábil siguiente si se envían en un día no laborable.",
   "preguntas_ejemplo": [
-    "¿Cuál es el horario de atención del SAT para recibir documentos?",
-    "¿Qué pasa si presento una promoción en día inhábil?",
-    "¿A qué hora cierran las oficinas del SAT?",
-    "¿Cómo funcionan los horarios del buzón tributario?",
-    "¿Las entidades federativas tienen el mismo horario que el SAT?"
+    "¿Cuál es el horario de recepción de documentos en el SAT?",
+    "Si entrego un documento en sábado, ¿cuándo se considera recibido?",
+    "¿Qué ocurre si uso el buzón tributario en un día no hábil?",
+    "¿Puede el SAT recibir documentos fuera del horario establecido?",
+    "¿Qué debo hacer para presentar promociones en el buzón tributario?"
   ]
 }

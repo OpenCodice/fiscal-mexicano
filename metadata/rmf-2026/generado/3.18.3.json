@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b1775ab16aa83612",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversiones Indirectas de Fondos de Pensiones del Extranjero",
+  "denominacion_comun": "Inversiones indirectas de fondos de pensiones del extranjero",
   "temas": [
-    "Fondos de pensiones",
-    "Inversiones indirectas",
-    "Participación accionaria",
-    "Dividendos",
-    "Exención fiscal",
-    "Acuerdos de doble imposición",
-    "Intercambio de información"
+    "fondos de pensiones",
+    "fondos de jubilaciones",
+    "residencia en el extranjero",
+    "doble imposición",
+    "participación accionaria",
+    "distribución de dividendos",
+    "exención fiscal",
+    "intercambio de información"
   ],
   "terminos_coloquiales": [
-    "Inversiones de fondos de pensiones",
-    "Fondos de pensiones extranjeros",
-    "Acuerdo de doble imposición",
-    "LISR",
-    "RMF"
+    "fondos de pensiones",
+    "fondos de jubilaciones",
+    "dividendos de fondos del extranjero",
+    "acciones extranjeras",
+    "inversiones de pensiones",
+    "doble imposición"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir los fondos de pensiones y jubilaciones del extranjero para que sus inversiones indirectas en empresas mexicanas sean consideradas exentas de impuestos. Se especifican condiciones como la participación accionaria mínima y la residencia en un país con acuerdo fiscal con México.",
+  "resumen": "Esta regla establece los requisitos que deben cumplir las personas morales residentes en México para aplicar tratamientos fiscales favorables cuando tienen accionistas que son fondos de pensiones y jubilaciones del extranjero. Se detallan condiciones como la participación accionaria y la residencia de dichas entidades extranjeras en países con acuerdos fiscales con México.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los fondos de pensiones extranjeros para invertir en México?",
-    "¿Cómo se determinan las participaciones accionarias para los fondos de pensiones?",
-    "¿Qué beneficios fiscales tienen los fondos extranjeros que invierten en empresas mexicanas?",
-    "¿Qué sucede con los dividendos que reciben los fondos de pensiones del extranjero?",
-    "¿Qué es un acuerdo de doble imposición y cómo afecta a los fondos de pensiones?"
+    "¿Qué requisitos deben cumplir los fondos de pensiones extranjeros para beneficiarse en México?",
+    "¿Cómo afecta la doble imposición a los fondos de pensiones extranjeros en México?",
+    "¿Qué significa la participación indirecta en inversiones de fondos de pensiones?",
+    "¿Qué condiciones se deben cumplir para que los dividendos distribuidos no estén sujetos a impuestos?",
+    "¿Qué acciones pueden tener los fondos de pensiones extranjeros en empresas mexicanas?"
   ]
 }

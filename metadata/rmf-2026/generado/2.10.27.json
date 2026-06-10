@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d576e4ff8dd9563c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de fusión y escisión de sociedades",
@@ -14,21 +15,24 @@
     "escisión de sociedades",
     "dictamen de estados financieros",
     "obligaciones fiscales",
-    "excepciones de presentación"
+    "exenciones",
+    "información financiera"
   ],
   "terminos_coloquiales": [
-    "dictamen de fusión",
-    "dictamen de escisión",
+    "dictamen financiero",
     "fusión",
     "escisión",
-    "CFF"
+    "ajustes fiscales",
+    "CFF 14-B",
+    "CFF 32-A"
   ],
-  "resumen": "El dictamen de los estados financieros de sociedades fusionadas o escindidas debe ser presentado para efectos fiscales. Se establecen condiciones y excepciones para la presentación de este dictamen, según ciertos montos de capital y activos.",
+  "resumen": "Se establece la obligación de presentar un dictamen de los estados financieros relacionados con la fusión o escisión de sociedades. También se mencionan los requisitos para estar exentos de esta obligación y los casos específicos en los que no aplica.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar el dictamen de fusión?",
-    "¿Qué se considera en el dictamen de escisión?",
-    "¿Qué montos me exponen a estar exento del dictamen?",
-    "¿Quiénes no están obligados a presentar el dictamen?",
-    "¿Qué información debe incluir el dictamen?"
+    "¿Cuándo debo presentar el dictamen por fusión de sociedades?",
+    "¿Cuáles son los requisitos para no presentar el dictamen de escisión?",
+    "¿Qué información se necesita para el dictamen de fusión?",
+    "¿Quiénes están exentos de presentar el dictamen financiero?",
+    "¿Qué dice el CFF sobre el dictamen de escisión?",
+    "¿Qué es un dictamen de estados financieros en el contexto de la fusión?"
   ]
 }

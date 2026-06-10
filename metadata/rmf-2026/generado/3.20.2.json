@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1087c10ed3c01438",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de la maquila",
+  "denominacion_comun": "Ingreso por maquila",
   "temas": [
+    "multinacionales",
+    "operaciones entre partes relacionadas",
     "ingresos por maquila",
-    "prestación de servicios de maquila",
-    "segmentación contable",
-    "ingresos conexos",
-    "requisitos para maquiladoras"
+    "actividad productiva",
+    "servicios administrativos",
+    "arrendamiento",
+    "enajenación de bienes",
+    "ingresos conexos"
   ],
   "terminos_coloquiales": [
-    "regla de maquila",
-    "ingresos maquiladores",
+    "ingresos por maquila",
+    "maquiladora",
     "servicios de maquila",
-    "maquiladoras"
+    "ingresos conexos",
+    "venta de productos terminados",
+    "DIEMSE",
+    "ficha de trámite 58/ISR"
   ],
-  "resumen": "La regla establece que los ingresos de una maquiladora por su operación deben provenir exclusivamente de actividades productivas con partes relacionadas en el extranjero, y detalla los tipos de ingresos que se consideran y los requisitos contables que deben cumplirse.",
+  "resumen": "Se consideran ingresos de maquila aquellos que provienen de la prestación de servicios de maquila a partes relacionadas en el extranjero, así como otros ingresos conexos siempre que no excedan del 10% del total de ingresos. La maquiladora debe llevar una contabilidad segmentada y cumplir con ciertos requisitos para calificar estos ingresos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los ingresos permitidos para una maquiladora?",
-    "¿Qué requisitos debe cumplir una maquiladora para reportar sus ingresos?",
-    "¿Qué pasa con los ingresos por venta de productos terminados en la maquila?",
-    "¿Cómo se deben segmentar los ingresos en la contabilidad de una maquiladora?",
-    "¿Qué son los ingresos conexos para las maquiladoras?"
+    "¿Qué ingresos puede considerar una maquiladora?",
+    "¿Cuáles son los requisitos para los ingresos por servicios de maquila?",
+    "¿Qué ingresos no califican como derivados de la operación de maquila?",
+    "¿Cómo se deben reportar los ingresos por enajenación de bienes en la DIEMSE?",
+    "¿Qué es el aviso de la ficha de trámite 58/ISR?"
   ]
 }

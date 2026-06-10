@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fcfc2f05ad3ab264",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI con complemento Carta Porte para logística inversa",
+  "denominacion_comun": "CFDI para logística inversa en autotransporte",
   "temas": [
     "CFDI",
-    "Carta Porte",
     "logística inversa",
     "autotransporte",
-    "retorno de inventario",
-    "devoluciones"
+    "devoluciones",
+    "complemento Carta Porte"
   ],
   "terminos_coloquiales": [
-    "factura de transporte",
-    "CFDI de logística inversa",
-    "CFDI con Carta Porte"
+    "factura",
+    "logística inversa",
+    "devolución de mercancías",
+    "CFDI",
+    "complemento Carta Porte"
   ],
-  "resumen": "Los contribuyentes que realicen operaciones de logística inversa en autotransporte deben expedir un CFDI con complemento Carta Porte para amparar el traslado de mercancías al regreso de su punto de origen. Esto aplica tanto para devoluciones como para retornos de inventario, cumpliendo con los requisitos del SAT.",
+  "resumen": "Los contribuyentes que realicen logística inversa en autotransporte deben expedir un CFDI al transportar mercancías de regreso a su punto de origen. Este CFDI ampara tanto el traslado de bienes como las devoluciones y debe cumplir con los requisitos del complemento Carta Porte.",
   "preguntas_ejemplo": [
-    "¿Qué es un CFDI con complemento Carta Porte?",
-    "¿Cómo emito un CFDI para devolución de mercancías?",
-    "¿Cuáles son los requisitos para el CFDI de logística inversa?",
-    "¿Qué hacer si transporto mercancías que fueron devueltas?",
-    "¿Es necesario incluir números de guía en el CFDI de paquetería?"
+    "¿Cómo expido un CFDI para una devolución en autotransporte?",
+    "¿Qué requisitos tiene el complemento Carta Porte?",
+    "¿Es necesario incluir los números de guía en el CFDI de paquetería?",
+    "¿Qué es la logística inversa en el transporte?",
+    "¿Qué tipo de CFDI debo emitir para el regreso de mercancías?"
   ]
 }

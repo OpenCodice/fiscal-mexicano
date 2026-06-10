@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a33154424244eee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe de donativos deducibles",
+  "denominacion_comun": "Cambio de residencia fiscal y donativos",
   "temas": [
-    "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
+    "donativos deducibles",
+    "informe de donativos",
     "cambio de residencia fiscal",
     "liquidación total",
-    "cese total de operaciones",
-    "transparencia del patrimonio"
+    "cese de operaciones"
   ],
   "terminos_coloquiales": [
+    "cambio de residencia",
+    "donativos",
     "informe de donativos",
-    "donativos autorizados",
-    "LISR",
-    "RFC",
-    "organizaciones sin fines de lucro"
+    "donaciones",
+    "cancelación de RFC",
+    "ISR"
   ],
-  "resumen": "Las organizaciones civiles y fideicomisos que reciban donativos deducibles deben presentar un informe sobre los donativos y el patrimonio transmitido. Este informe se entrega al mismo tiempo que el aviso de cambio de residencia fiscal o al liquidar completamente el activo.",
+  "resumen": "Las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles deben presentar un informe sobre los bienes y donatarias a las que se transmitió su patrimonio cuando cambian de residencia fiscal o cesan operaciones. Este informe debe entregarse en el plazo establecido para dichos cambios.",
   "preguntas_ejemplo": [
-    "¿Qué debo informar sobre los donativos que recibí?",
-    "¿Cómo presento el informe de donativos deducibles?",
-    "¿Qué pasa si cambio de residencia fiscal y tengo donativos?",
-    "¿Es necesario informar sobre el patrimonio de mi organización?",
-    "¿Cuándo debo presentar el informe de donativos deducibles?"
+    "¿Qué debo hacer si cambió mi residencia fiscal y soy una donataria autorizada?",
+    "¿Cómo presento el informe de donativos recibidos?",
+    "¿Cuándo tengo que presentar el aviso de cambio de residencia fiscal?",
+    "¿Qué información debe incluir el informe sobre los donativos?",
+    "¿Cuál es el plazo para presentar el informe si liquidé mi activo?",
+    "¿Qué sucede si dejo de operar como donataria autorizada?"
   ]
 }

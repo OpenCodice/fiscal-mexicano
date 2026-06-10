@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:68bb0c4ff11c3170",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del ISR en POINBI",
+  "denominacion_comun": "Actividades económicas en POINBI",
   "temas": [
     "ISR",
-    "POINBI",
-    "ingresos",
     "deducciones",
-    "pagos provisionales",
-    "declaraciones fiscales",
+    "contribuyentes",
+    "POINBI",
+    "declaraciones",
     "contabilidad"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre la renta",
-    "reglamento POINBI",
-    "declaraciones complementarias"
+    "ingresos en POINBI",
+    "deducciones fiscales",
+    "declaraciones de impuestos",
+    "contabilidad de POINBI"
   ],
-  "resumen": "Los contribuyentes que operan dentro de los POINBI deben considerar solo los ingresos y deducciones relacionadas con estas actividades para determinar el ISR. Además, deben reflejar correctamente estos datos en sus declaraciones fiscales y, si hay discrepancias, presentar declaraciones complementarias.",
+  "resumen": "Los contribuyentes que realicen actividades económicas productivas en los POINBI deben considerar solo los ingresos y deducciones estrictamente indispensables para la obtención de esos ingresos al determinar el ISR. Deben informar estos datos en sus declaraciones, y si hay errores, deben presentar declaraciones complementarias.",
   "preguntas_ejemplo": [
-    "¿Cómo determino el ISR si opero en un POINBI?",
-    "¿Qué ingresos debo reportar para el ISR en los POINBI?",
-    "¿Necesito hacer declaraciones complementarias si cometí un error en mis ingresos de POINBI?",
-    "¿Cómo se manejan las deducciones dentro de los POINBI?",
-    "¿Qué es un POINBI y cómo me afecta fiscalmente?"
+    "¿Qué ingresos debo reportar si opero dentro de un POINBI?",
+    "¿Cómo se determinan las deducciones para el ISR en los POINBI?",
+    "¿Qué hacer si cometí un error en mi declaración de ingresos por actividades en POINBI?",
+    "¿Qué implica aplicar el estímulo fiscal en el POINBI?",
+    "¿Cómo se lleva la contabilidad para actividades económicas en POINBI?"
   ]
 }

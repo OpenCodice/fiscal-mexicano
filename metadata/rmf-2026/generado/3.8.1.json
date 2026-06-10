@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea4a196e3ea1bfc6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de actividades agrícolas, ganaderas, silvícolas y pesqueras",
+  "denominacion_comun": "Impuesto sobre la Renta para Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
   "temas": [
     "ISR",
+    "deducciones",
     "utilidad fiscal",
-    "ingresos propios",
-    "deducciones autorizadas",
-    "ISR reducido",
-    "ISR no reducido",
-    "cálculos provisionales"
+    "ingresos",
+    "reducción del ISR"
   ],
   "terminos_coloquiales": [
-    "régimen agropecuario",
-    "regimen ganadero",
-    "agricultura",
-    "ganadería",
-    "silvicultura",
-    "pescas"
+    "impuesto sobre la renta",
+    "deducciones fiscales",
+    "utilidad fiscal agrícola",
+    "calculadora de ISR",
+    "reglas del ISR",
+    "ISR para ganaderos"
   ],
-  "resumen": "Esta regla establece el procedimiento que deben seguir las personas morales que se dedican a actividades agrícolas, ganaderas, silvícolas o pesqueras para calcular su impuesto sobre la renta (ISR) cuando sus ingresos sobrepasan ciertos montos. Se detalla cómo determinar la utilidad fiscal y el ISR a pagar, incluyendo reducciones y deducciones específicas.",
+  "resumen": "Esta regla establece cómo deben calcular el ISR las personas morales que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras, especialmente cuando sus ingresos excedan ciertos montos. Define los procedimientos para determinar la utilidad fiscal, el ISR reducido y el ISR a cargo.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo el ISR si tengo una empresa agrícola?",
-    "¿Qué debo considerar para la deducción en el ISR de mi actividad ganadera?",
-    "¿Cuáles son los pasos para determinar el ISR reducido?",
-    "¿Qué ingresos se cuentan como propios en el régimen silvícola?",
-    "¿Qué deducciones puedo aplicar en mi negocio pesquero?"
+    "¿Cómo se calcula el ISR para una empresa agrícola?",
+    "¿Qué deducciones se pueden aplicar si tengo ingresos de actividades ganaderas?",
+    "¿Cómo se determina la utilidad fiscal en el régimen silvícola?",
+    "¿Cuáles son los límites de ingresos para la reducción del ISR en actividades pesqueras?",
+    "¿Qué es la UFIPA y cómo se calcula?"
   ]
 }

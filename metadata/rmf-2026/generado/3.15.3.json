@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dcd8a2a9b6dba06c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de inmuebles a plazos",
@@ -13,26 +14,25 @@
     "ISR",
     "IVA",
     "enajenación de bienes",
-    "plazos",
+    "fedatarios públicos",
     "escritura pública",
     "responsabilidad solidaria",
-    "fedatarios públicos"
+    "cálculo de impuestos"
   ],
   "terminos_coloquiales": [
-    "venta de inmuebles",
-    "plazos para pagar",
-    "responsabilidad del notario",
-    "ISR por enajenación",
-    "LISR",
-    "LIVA",
-    "CFF"
+    "venta de propiedades a plazos",
+    "notarios",
+    "cobro de impuestos",
+    "inmuebles",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "La regla establece que en la enajenación de inmuebles a plazos, los fedatarios públicos son responsables solidarios del ISR y, cuando aplica, del IVA, solo por la parte del precio ya pagada. Este monto debe reflejarse en la escritura pública correspondiente.",
+  "resumen": "La regla establece que en la venta de inmuebles a plazos, los notarios serán responsables solo del ISR y, si aplica, del IVA que deben calcular y pagar sobre la parte del precio que ya se haya recibido, y esta información debe estar en la escritura pública.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si vendo un inmueble a plazos?",
-    "¿El notario es responsable del ISR en la venta de inmuebles?",
-    "¿Cómo se calcula el IVA en una enajenación de bienes a plazos?",
-    "¿Qué debe incluir la escritura pública si se vende a plazos?",
-    "¿Qué artículos de la ley son relevantes para la enajenación a plazos?"
+    "¿Qué impuestos deben pagar los notarios en la venta de inmuebles a plazos?",
+    "¿Cómo se calcula el ISR en la enajenación de propiedades?",
+    "¿Los notarios son responsables del IVA en las ventas a plazos?",
+    "¿Qué información debe incluirse en la escritura pública sobre la venta de inmuebles?",
+    "¿Qué pasa si la venta de un inmueble se hace a plazos?"
   ]
 }

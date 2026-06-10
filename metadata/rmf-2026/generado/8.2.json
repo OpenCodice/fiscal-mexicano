@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4204743191b39ab8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre automóviles nuevos",
   "temas": [
     "pagos provisionales",
     "declaración del ejercicio",
+    "formas oficiales",
     "aplicaciones electrónicas",
-    "formas oficiales"
+    "impuesto sobre automóviles"
   ],
   "terminos_coloquiales": [
+    "pago de ISAN",
+    "declaración de ISAN",
+    "impuesto por comprar un coche",
     "ISAN",
-    "impuesto de autos nuevos",
-    "declaración de automóviles"
+    "formulario para pagar ISAN"
   ],
-  "resumen": "Los contribuyentes pueden realizar los pagos provisionales y del ejercicio del impuesto sobre automóviles nuevos mediante formas oficiales y a través de aplicaciones electrónicas que cumplan con los requisitos necesarios.",
+  "resumen": "Esta disposición menciona las formas oficiales para efectuar los pagos provisionales y definitivos del impuesto sobre automóviles nuevos. Los contribuyentes pueden realizar estos pagos a través de aplicaciones o medios electrónicos, siempre que cumplan con los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar el ISAN?",
-    "¿Qué formas se utilizan para el impuesto sobre automóviles nuevos?",
-    "¿Dónde encuentro la declaración del impuesto de autos nuevos?",
-    "¿Puedo usar aplicaciones electrónicas para pagar mi impuesto sobre automóviles?",
-    "¿Cuáles son los requisitos para las aplicaciones de pago del ISAN?"
+    "¿Cómo pago el impuesto sobre automóviles nuevos?",
+    "¿Qué son las formas oficiales para el ISAN?",
+    "¿Dónde encuentro la declaración del ISAN?",
+    "¿Puedo usar aplicaciones para pagar el ISAN?",
+    "¿Qué requisitos deben tener las aplicaciones para el ISAN?"
   ]
 }

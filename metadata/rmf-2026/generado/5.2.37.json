@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1d67dc24b3a172de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Contribuyentes del IEPS",
+  "denominacion_comun": "Obligaciones sobre juegos y sorteos",
   "temas": [
-    "Proveedores de Servicio Autorizado",
-    "Juegos con Apuestas",
-    "Sorteos",
-    "Información en Línea",
-    "Obligaciones Fiscales",
-    "Facilidades Administrativas"
+    "obligaciones fiscales",
+    "servicios de juegos",
+    "sorteos",
+    "proveedor de servicio autorizado",
+    "información en tiempo real",
+    "sistemas de registro"
   ],
   "terminos_coloquiales": [
-    "IEPS",
-    "Juegos con Apuestas",
-    "Sorteos",
-    "Proveedores Autorizados",
-    "Obligaciones de IEPS"
+    "juegos de apuestas",
+    "sorteos",
+    "proveedor autorizado",
+    "cumplir con el SAT",
+    "información en línea"
   ],
-  "resumen": "Los contribuyentes que ofrecen servicios de juegos y sorteos pueden optar por cumplir sus obligaciones fiscales a través de un Proveedor de Servicio Autorizado. Deberán entregar información al SAT de forma permanente y cumplir con ciertos requisitos establecidos en las normativas correspondientes.",
+  "resumen": "Esta disposición establece que los contribuyentes que presten servicios de juegos con apuestas y sorteos deben contratar a un Proveedor de Servicio Autorizado para enviar información al SAT de manera permanente. Si no cumplen con esta obligación, seguirán bajo las reglas anteriores establecidas en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo debo reportar mis ingresos por juegos con apuestas?",
-    "¿Qué requisitos necesito cumplir para usar un proveedor autorizado del SAT?",
-    "¿Qué pasa si no cumplo con las reglas del IEPS?",
-    "¿Dónde encuentro la información sobre los proveedores de servicios autorizados?",
-    "¿Cuáles son las obligaciones para los sorteos y juegos con apuestas?"
+    "¿Qué debo hacer si ofrezco juegos de apuestas?",
+    "¿Cómo puedo cumplir con mis obligaciones fiscales para sorteos?",
+    "¿Qué es un Proveedor de Servicio Autorizado?",
+    "¿Qué información tengo que enviar al SAT?",
+    "¿Qué pasa si no contrato a un proveedor autorizado?",
+    "¿Cuáles son mis responsabilidades fiscales si opero juegos y sorteos?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7778eb2d1540b834",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancias y pérdidas de entidades financieras",
+  "denominacion_comun": "Ganancias y Pérdidas en Entidades Financieras",
   "temas": [
     "entidades financieras",
     "ganancias",
     "pérdidas",
-    "titulares",
-    "cotitulares"
+    "cotitulares",
+    "Ley del ISR",
+    "designación equívoca"
   ],
   "terminos_coloquiales": [
-    "ganancias de bancos",
-    "pérdidas en instituciones financieras",
-    "cuentas compartidas",
-    "LISR",
-    "RLISR"
+    "ganancias y pérdidas en bancos",
+    "pérdidas financieras",
+    "entidades financieras",
+    "ley del impuesto sobre la renta"
   ],
-  "resumen": "Esta regla establece que si las entidades financieras no pueden determinar quién obtuvo las ganancias o pérdidas, asumirán que estos son percibidos por el titular o todos los cotitulares en la misma proporción. Esto se aplica sin perjuicio de lo que indica otra disposición del Reglamento de la Ley del ISR.",
+  "resumen": "Esta regla establece que si las entidades financieras no saben quién obtuvo las ganancias o pérdidas, asumen que son del titular o cotitulares en partes iguales, a menos que se pruebe lo contrario. También se menciona que esto se aplica sin afectar otros artículos relacionados.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no sé a quién le pertenecen las ganancias en mi cuenta bancaria?",
-    "¿Las entidades financieras pueden asumir quién tiene las ganancias si hay cotitulares?",
-    "¿Cómo se manejan las ganancias y pérdidas en cuentas compartidas de bancos?",
-    "¿Qué dice la ley sobre las ganancias en instituciones financieras?",
-    "¿Qué se debe hacer ante pérdidas en cuentas de cotitulares?"
+    "¿Cómo se determinan las ganancias en cuentas compartidas?",
+    "¿Qué pasa si no sé quién obtuvo las pérdidas en una inversión?",
+    "¿Qué criterios usan los bancos para asignar las ganancias?",
+    "¿La ley considera a todos los cotitulares para las ganancias?",
+    "¿Qué hacer si hay una designación confusa en las ganancias?"
   ]
 }

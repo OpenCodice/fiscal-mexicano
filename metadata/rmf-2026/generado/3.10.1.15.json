@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:919f55ea07620662",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donatarias autorizadas para recibir donativos",
+  "denominacion_comun": "Donatarias autorizadas y donativos",
   "temas": [
-    "Donativos deducibles",
-    "Operaciones con partes relacionadas",
-    "Información al SAT",
-    "Asociaciones en participación"
+    "donatarias autorizadas",
+    "donativos deducibles",
+    "partes relacionadas",
+    "información al SAT",
+    "servicios contratados",
+    "bienes adquiridos"
   ],
   "terminos_coloquiales": [
-    "Donatarias",
-    "Deducción de donativos",
-    "Informe operaciones SAT",
-    "LISR",
-    "Deducciones fiscales"
+    "donatarias",
+    "donativos",
+    "deducción de donativos",
+    "información a SAT",
+    "partes relacionadas"
   ],
-  "resumen": "Las donatarias autorizadas deben informar al SAT sobre las operaciones con partes relacionadas y donantes. Esto incluye los servicios contratados y los bienes adquiridos durante el ejercicio fiscal, según lo establecido en la Ley del ISR.",
+  "resumen": "Las organizaciones autorizadas para recibir donativos deducibles deben informar al SAT sobre las operaciones con partes relacionadas y donantes. Esto incluye detallar los servicios contratados y los bienes adquiridos en el mismo ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué información deben reportar las donatarias al SAT?",
-    "¿Qué se considera una operación con partes relacionadas?",
-    "¿Quiénes son considerados donantes según la ley?",
-    "¿Cómo afectan los donativos a la deducción fiscal?",
-    "¿Qué es un informe de operaciones para donatarias?"
+    "¿Cómo informo al SAT sobre donativos recibidos?",
+    "¿Qué son las partes relacionadas en donatarias?",
+    "¿Qué información debo presentar sobre operaciones con donantes?",
+    "¿Cómo se reportan los bienes adquiridos por una donataria?",
+    "¿Qué significa que un donativo sea deducible?"
   ]
 }

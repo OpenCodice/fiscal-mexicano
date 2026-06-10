@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b3673510c1a36d6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cartas de Crédito",
   "temas": [
-    "emisión de cartas de crédito",
-    "modificaciones a cartas de crédito",
-    "reglas de crédito contingente",
-    "avalúo y garantía del interés fiscal"
+    "emisión de carta de crédito",
+    "modificación de carta de crédito",
+    "guaranteía del interés fiscal",
+    "formato de carta de crédito",
+    "usos internacionales de créditos",
+    "legislación mexicana"
   ],
   "terminos_coloquiales": [
     "carta de crédito",
-    "carta de crédito IVA e IEPS",
-    "modificación de carta de crédito",
-    "CFF",
-    "RMF"
+    "carta de crédito en materia de IVA e IEPS",
+    "carta de crédito bancaria",
+    "garantía fiscal",
+    "créditos contingentes"
   ],
-  "resumen": "Las instituciones de crédito deben emitir cartas de crédito en formato específico y seguir ciertas formalidades. Cualquier modificación también debe realizarse en el mismo formato y notificar su cumplimiento. Las cartas se rigen por normas internacionales y deben resolverse ante tribunales federales si hay controversias.",
+  "resumen": "La regla establece los requisitos que deben seguir las instituciones de crédito para emitir y modificar cartas de crédito, así como la necesidad de cumplir con formatos específicos. Además, señala que estas cartas deben cumplir con las normas internacionales siempre que no contradigan la legislación mexicana.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las formalidades para emitir una carta de crédito?",
-    "¿Qué debo hacer si quiero modificar una carta de crédito?",
-    "¿Dónde puedo encontrar el formato de carta de crédito?",
-    "¿Qué reglas internacionales se aplican a las cartas de crédito en México?",
-    "¿Cómo se garantiza el interés fiscal en cartas de crédito?"
+    "¿Cómo se emite una carta de crédito?",
+    "¿Qué requisitos tiene la modificación de una carta de crédito?",
+    "¿Qué es una carta de crédito en materia de IVA e IEPS?",
+    "¿Cuáles son las reglas aplicables a las cartas de crédito?",
+    "¿Dónde puedo encontrar el formato para la carta de crédito?"
   ]
 }

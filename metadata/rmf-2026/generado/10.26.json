@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:11d21bb14d023ceb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operador Petrolero",
   "temas": [
     "IVA",
-    "Acreditamiento",
-    "Consorcio",
-    "CFDI",
-    "Obligaciones Fiscales"
+    "acreditamiento",
+    "contratista",
+    "consorcio",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "Operador Petrolero",
-    "IVA acreditable",
+    "IVA",
+    "acreditar IVA",
+    "operador petrolero",
     "CFDI",
-    "LISH",
-    "LIVA"
+    "gastos"
   ],
-  "resumen": "La regla permite que el operador designado de un consorcio pueda acreditar el IVA correspondiente si se cumplen ciertos requisitos, como contar con el CFDI adecuado. Esto se debe a que el operador no queda exento de sus obligaciones fiscales.",
+  "resumen": "La regla establece que un operador petrolero en un consorcio puede acreditar su parte del IVA siempre y cuando se expida un CFDI que cumpla con ciertos requisitos. Esto no exime del cumplimiento de otras obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puede un operador petrolero acreditar el IVA?",
-    "¿Cuáles son los requisitos para el acreditamiento del IVA?",
-    "¿Qué es un CFDI en el contexto del operador petrolero?",
-    "¿El IVA acreditable afecta las obligaciones fiscales de un consorcio?",
-    "¿Qué normas regulan el acreditamiento del IVA para operadores petroleros?"
+    "¿Cómo puedo acreditar el IVA como operador petrolero?",
+    "¿Qué requisitos debo cumplir para el CFDI?",
+    "¿El operador del consorcio tiene que cumplir otras obligaciones fiscales?",
+    "¿Qué es el IVA acreditable en este contexto?",
+    "¿Qué artículos de la ley se aplican a esta situación?"
   ]
 }

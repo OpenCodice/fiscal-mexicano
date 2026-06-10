@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6212231d9c704812",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de combustibles",
   "temas": [
-    "monedero electrónico",
+    "monederos electrónicos",
     "combustibles",
     "vehículos marítimos",
     "vehículos aéreos",
     "vehículos terrestres",
     "sistemas de pagos",
-    "autenticación",
-    "estaciones de servicio"
+    "liquidación",
+    "compensación"
   ],
   "terminos_coloquiales": [
-    "deducción de gasolinas",
-    "monedero para combustibles",
-    "deducción de combustibles",
-    "LISR 27"
+    "gasolina",
+    "monedero electrónico",
+    "comprar combustibles",
+    "pago con tarjeta",
+    "donde comprar gasolina",
+    "LISR"
   ],
-  "resumen": "Esta disposición establece que los monederos electrónicos son dispositivos para adquirir combustibles para vehículos marítimos, aéreos y terrestres. Deben ofrecer seguridad en la identificación del usuario y solo pueden usarse para comprar combustibles, no para otros fines.",
+  "resumen": "Esta regla establece que los monederos electrónicos se pueden usar para adquirir combustibles para vehículos marítimos, aéreos y terrestres. Estos monederos deben tener mecanismos de seguridad y no pueden usarse para efectivo ni otros bienes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir el gasto de combustible en mi negocio?",
-    "¿Qué es un monedero electrónico para combustibles?",
-    "¿Puedo usar un monedero electrónico para comprar gasolina?",
-    "¿Qué requisitos tiene el monedero electrónico para deducciones de combustibles?",
-    "¿Hay restricciones en el uso del monedero electrónico?"
+    "¿Qué se puede comprar con un monedero electrónico?",
+    "¿Cómo deduzco la compra de combustibles?",
+    "¿Qué tipo de vehículos están incluidos en esta deducción?",
+    "¿Es seguro usar un monedero electrónico para comprar gasolina?",
+    "¿Cuáles son las restricciones para usar monederos electrónicos en estaciones de servicio?",
+    "¿Qué dice la LISR sobre los monederos electrónicos y combustibles?"
   ]
 }

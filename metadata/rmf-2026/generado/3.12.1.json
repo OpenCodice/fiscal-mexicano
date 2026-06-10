@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9f229f3e4030cf1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso acumulable por liquidación de opciones de acciones",
+  "denominacion_comun": "Ingreso acumulable por liquidación de opciones para adquirir acciones",
   "temas": [
-    "Impuesto sobre la renta",
-    "Ingreso acumulable",
-    "Opciones sobre acciones",
-    "Liquidación en efectivo"
+    "opciones sobre acciones",
+    "ingreso acumulable",
+    "liquidación en efectivo",
+    "régimen fiscal",
+    "empleador",
+    "títulos valor"
   ],
   "terminos_coloquiales": [
-    "Ingreso por opciones de acciones",
-    "Liquidación de acciones",
-    "ISR por acciones",
-    "Opción sobre acciones",
-    "LISR"
+    "acciones",
+    "opciones",
+    "ingresos por acciones",
+    "liquidación de acciones",
+    "ISR"
   ],
-  "resumen": "Cuando un empleador paga en efectivo una opción para adquirir acciones, el monto recibido por el trabajador se considera ingreso acumulable o gravable. Esto se basa en la legislación del Impuesto sobre la Renta.",
+  "resumen": "Cuando un empleador paga en efectivo por las opciones de adquirir acciones, ese ingreso es considerado acumulable o gravable para la persona que ejerce la opción. Se debe reportar la cantidad recibida en efectivo como ingreso.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si recibo efectivo al ejercer mis opciones de acciones?",
-    "¿Cómo se grava el ingreso por liquidación de opciones sobre acciones?",
-    "¿Qué dice la ley sobre el ingreso acumulable por opciones de acciones?",
-    "¿Qué es el ingreso acumulable por liquidación de acciones?",
-    "¿Cuál es el tratamiento fiscal de las opciones sobre acciones?"
+    "¿Cómo se grava el ingreso por liquidación de opciones de acciones?",
+    "¿Qué sucede si mi empleador me paga en efectivo por las opciones de acciones?",
+    "¿El ingreso por opciones sobre acciones es acumulable?",
+    "¿Cuánto debo reportar si recibo dinero por liquidar opciones de acciones?",
+    "¿Qué artículos de la Ley del ISR regulan las opciones sobre acciones?"
   ]
 }

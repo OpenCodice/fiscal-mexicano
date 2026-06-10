@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a8468d06b4a4c95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondos de pensiones y jubilaciones exentos",
   "temas": [
-    "Intereses",
-    "Fondos de pensiones",
-    "Fondos soberanos",
-    "Exención fiscal",
-    "Acuerdos de intercambio de información",
-    "No retención del ISR",
-    "Doble imposición"
+    "intereses",
+    "fondos de pensiones",
+    "fondos de jubilaciones",
+    "acuerdos fiscales",
+    "exención de ISR",
+    "doble imposición",
+    "intercambio de información"
   ],
   "terminos_coloquiales": [
-    "Fondos exentos",
-    "ISR en intereses",
-    "No retención ISR",
-    "Fondos soberanos extranjeros"
+    "intereses de fondos",
+    "fondos exentos",
+    "no retención de ISR",
+    "acuerdos fiscales",
+    "ISR sobre intereses",
+    "fondos soberanos"
   ],
-  "resumen": "Los contribuyentes pueden no aplicar el ISR sobre intereses pagados a fondos de pensiones y jubilaciones exentos si estos están en un país con acuerdo de intercambio de información con México. También se exime el ISR a fondos estatales según ciertos acuerdos fiscales.",
+  "resumen": "La disposición establece que los contribuyentes pueden no aplicar la retención del ISR sobre intereses pagados a fondos de pensiones y jubilaciones, siempre que estos sean exentos y estén constituidos en un país con un acuerdo de intercambio de información con México. También se menciona que esta exención aplica a fondos propiedad de un Estado bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Qué fondos pueden estar exentos de ISR?",
-    "¿Cómo funcionan los acuerdos de doble imposición?",
-    "¿Qué requisitos deben cumplir los fondos soberanos para no pagar ISR?",
-    "¿Qué es el artículo 28, fracción XXIII de la Ley del ISR?",
-    "¿Qué significa que un fondo esté exento según el artículo 153 de la Ley del ISR?"
+    "¿Cuándo no se aplica la retención de ISR sobre intereses a fondos de pensiones?",
+    "¿Qué condiciones deben cumplirse para que los fondos de jubilaciones sean exentos de ISR?",
+    "¿Qué acuerdos son necesarios para evitar la doble imposición sobre intereses?",
+    "¿Cómo afecta un acuerdo de intercambio de información a los intereses pagados a fondos extranjeros?",
+    "¿Qué tipo de fondos pueden calificarse para la exención del ISR?"
   ]
 }

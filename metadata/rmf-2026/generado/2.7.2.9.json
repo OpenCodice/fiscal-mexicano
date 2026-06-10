@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:220ac9837d3de0ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Proveedores de CFDI",
+  "denominacion_comun": "Obligaciones de Proveedores de Certificación de CFDI",
   "temas": [
-    "Certificación de CFDI",
-    "Validaciones de documentos",
-    "Sello digital",
-    "Timbre Fiscal Digital",
-    "Plazos de certificación",
-    "Anexo 20",
-    "CSD del contribuyente"
+    "certificación de CFDI",
+    "obligaciones de proveedores",
+    "comprobantes fiscales",
+    "validación de documentos",
+    "Timbre Fiscal Digital"
   ],
   "terminos_coloquiales": [
-    "Proveedores de CFDI",
-    "Certificación de Facturas",
+    "factura electrónica",
     "CFDI",
-    "CSD",
-    "SAT"
+    "proveedores de CFDI"
   ],
-  "resumen": "La regla establece las obligaciones y validaciones que deben cumplir los proveedores de certificación de CFDI para certificar los comprobantes fiscales digitales. Incluye requisitos sobre vigencia del sello digital y especificaciones técnicas.",
+  "resumen": "Los proveedores de certificación de CFDI deben validar diversos requisitos antes de certificar un comprobante, como la vigencia del CSD del emisor y el cumplimiento de especificaciones técnicas. Si se cumplen, se asigna un folio y se envía la respuesta correspondiente al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los proveedores de CFDI para certificar una factura?",
-    "¿Cómo se valida la vigencia del CSD en un CFDI?",
-    "¿Qué información se incluye en la respuesta del proveedor tras certificar un CFDI?",
-    "¿Qué pasa si un CFDI ya fue certificado anteriormente?",
-    "¿Cuánto tiempo tengo para certificar un CFDI después de generarlo?"
+    "¿Qué deben cumplir los proveedores de CFDI al certificar una factura?",
+    "¿Cuáles son las obligaciones de los proveedores de certificación de CFDI?",
+    "¿Qué requisitos hay para que un CFDI sea certificado?",
+    "¿Cómo saber si mi CFDI fue certificado correctamente?",
+    "¿Qué datos se incluyen en la respuesta del proveedor de CFDI?"
   ]
 }

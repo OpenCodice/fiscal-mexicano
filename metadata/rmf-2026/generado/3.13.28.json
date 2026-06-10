@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4ce73c56b73810b1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza de Personas Morales",
   "temas": [
-    "requisitos",
     "contribuyentes",
-    "aviso de actualización",
-    "actividades económicas",
-    "obligaciones"
+    "obligaciones fiscales",
+    "actualización de actividades",
+    "avisos",
+    "tributación"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
-    "RESICO"
+    "RESICO",
+    "actualización de actividades económicas",
+    "aviso de actualización"
   ],
-  "resumen": "Los contribuyentes personas morales que no cumplan con los requisitos del Régimen Simplificado de Confianza deben presentar un aviso de actualización de actividades y obligaciones. Esto debe hacerse siguiendo lo indicado en la ficha de trámite correspondiente.",
+  "resumen": "Los contribuyentes personas morales que no cumplen con los requisitos del Régimen Simplificado de Confianza deberán presentar un aviso para actualizar sus actividades y obligaciones fiscales según una ficha específica. Esto es un procedimiento necesario para seguir en regla con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si no cumplo con los requisitos del RESICO?",
-    "¿Necesito presentar un aviso de actualización de actividades?",
-    "¿Cuáles son las obligaciones si me salgo del Régimen Simplificado de Confianza?",
-    "¿Cómo actualizo mis actividades económicas según la ley?",
-    "¿Qué es la ficha de trámite 28/CFF?"
+    "¿Qué tengo que hacer si no cumplo con los requisitos del RESICO?",
+    "¿Cómo actualizo mis actividades económicas como persona moral?",
+    "¿Dónde encuentro el aviso de actualización de actividades y obligaciones?",
+    "¿Qué pasa si no presento el aviso de actualización en el Régimen Simplificado de Confianza?",
+    "¿Qué requisitos debo cumplir para continuar en el Régimen Simplificado de Confianza?"
   ]
 }

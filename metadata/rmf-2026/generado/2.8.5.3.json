@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:553c58164e8f5c32",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaraciones complementarias de derechos sobre minería",
+  "denominacion_comun": "Declaraciones complementarias de derechos de minería",
   "temas": [
     "declaraciones complementarias",
-    "derechos sobre minería",
+    "derechos de minería",
+    "obligaciones fiscales",
+    "actualización de pagos",
+    "recargos",
     "modificación de obligaciones",
     "dejar sin efecto obligación",
     "obligación no presentada",
-    "recargos",
-    "actualización",
-    "presentación vía Internet"
+    "línea de captura"
   ],
   "terminos_coloquiales": [
-    "declaraciones de minería",
-    "DPA minería",
-    "declaraciones complementarias"
+    "declaraciones adicionales de minería",
+    "declaraciones corregidas",
+    "cambiar datos de pago",
+    "mensaje de error en obligaciones",
+    "DPA",
+    "declaracion DPA"
   ],
-  "resumen": "Los contribuyentes pueden presentar declaraciones complementarias para modificar, dejar sin efecto o reportar obligaciones no presentadas relacionadas con el pago de derechos sobre minería. Estas declaraciones deben hacerse por Internet y el sistema calculará automáticamente cualquier actualización y recargos que correspondan.",
+  "resumen": "La regla establece cómo los contribuyentes deben presentar declaraciones complementarias relacionadas con los derechos de minería a través de Internet. Se pueden modificar obligaciones existentes, dejar sin efecto obligaciones erróneas o presentar obligaciones no presentadas, y el sistema calculará automáticamente actualizaciones y recargos si es necesario.",
   "preguntas_ejemplo": [
-    "¿Cómo presento una declaración complementaria de mis derechos de minería?",
-    "¿Qué debo hacer si cometí un error en mis obligaciones de minería?",
-    "¿Cómo dejo sin efecto una obligación presentada erróneamente?",
-    "¿Qué son las declaraciones complementarias y cuándo las debo usar?",
-    "¿El sistema calcula los recargos para mis declaraciones de minería?"
+    "¿Cómo presento una declaración complementaria de derechos de minería?",
+    "¿Qué debo hacer si cometí un error en mi declaración de minería?",
+    "¿Cómo puedo dejar sin efecto una obligación fiscal?",
+    "¿Qué pasa si no presenté alguna obligación de minería?",
+    "¿Existen recargos por modificar mis datos de declaración?",
+    "¿Cuántas declaraciones complementarias puedo presentar?"
   ]
 }

@@ -6,34 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c3175e67b307afe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de declaraciones y pagos",
+  "denominacion_comun": "Presentación de declaraciones definitivas",
   "temas": [
+    "Declaraciones fiscales",
     "ISR",
     "IVA",
     "IEPS",
-    "declaraciones",
-    "pagos provisionales",
-    "pagos definitivos",
-    "retenciones",
-    "sitio del SAT",
-    "línea de captura"
+    "Pagos provisionales",
+    "Pagos definitivos",
+    "Retenciones",
+    "Acuses de recibo",
+    "Líneas de captura"
   ],
   "terminos_coloquiales": [
-    "declaraciones de impuestos",
-    "pagos de impuestos",
-    "declaraciones provisionales",
-    "declaraciones definitivas",
+    "declaraciones",
+    "ISR",
+    "IVA",
+    "retenciones",
+    "pago de impuestos",
     "SAT",
-    "línea de captura"
+    "pago en línea"
   ],
-  "resumen": "Las personas físicas y morales deben presentar sus pagos provisionales y definitivos del ISR, IVA, IEPS y otras contribuciones a través del portal del SAT. Este proceso incluye la selección del periodo, llenado de datos y envío de la declaración, junto con el pago correspondiente si hay un monto a pagar.",
+  "resumen": "Las personas físicas y morales deben presentar sus pagos provisionales y definitivos de impuestos a través del Portal del SAT. El proceso incluye acceder con su RFC y contraseña o e.firma, seleccionar el periodo y tipo de declaración, y enviar la información para recibir un acuse de recibo electrónico que indicará el importe a pagar y la línea de captura.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mis declaraciones de impuestos?",
-    "¿Qué debo hacer para pagar mis impuestos en el SAT?",
-    "¿Cuáles son los pasos para declarar el ISR?",
-    "¿Qué información necesito para mis pagos provisionales?",
-    "¿Cómo obtengo la línea de captura para mis pagos?"
+    "¿Cómo presento mis pagos provisionales de ISR?",
+    "¿Qué debo hacer para enviar mi declaración de IVA?",
+    "¿Qué información necesito para declarar mis retenciones?",
+    "¿Cómo obtengo mi acuse de recibo después de declarar?",
+    "¿Puedo pagar mis impuestos en efectivo o solo en línea?"
   ]
 }

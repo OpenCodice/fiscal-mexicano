@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca0c3ef6654a9b88",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa País por País",
   "temas": [
     "Grupo empresarial multinacional",
     "Declaración conjunta",
-    "Operaciones con partes relacionadas",
+    "Partes relacionadas",
     "Obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Declaración Informativa",
+    "declaración conjunta",
     "Declaración País por País",
-    "País por País",
-    "DIPC"
+    "grupo multinacional",
+    "impresión de declaraciones"
   ],
-  "resumen": "Los grupos de contribuyentes que tienen operaciones con partes relacionadas pueden presentar una sola Declaración Anual Informativa de manera conjunta. Para hacerlo, se debe seleccionar la opción de declaración conjunta y proporcionar la información de los contribuyentes involucrados.",
+  "resumen": "Los grupos de contribuyentes que operan con partes relacionadas pueden presentar una sola Declaración Anual Informativa si cumplen con ciertos requisitos. Cualquier contribuyente del grupo puede elegir la opción de declaración conjunta.",
   "preguntas_ejemplo": [
-    "¿Cómo se presenta la Declaración Informativa País por País?",
-    "¿Qué requisitos hay para presentar la declaración conjunta?",
-    "¿Qué es un grupo empresarial multinacional en términos fiscales?",
-    "¿Qué operaciones se consideran con partes relacionadas?",
-    "¿Quiénes pueden presentar la declaración conjunta?"
+    "¿Cómo presento la declaración conjunta del grupo empresarial?",
+    "¿Qué es la Declaración Informativa País por País?",
+    "¿Quiénes pueden ser parte de la declaración conjunta?",
+    "¿Qué obligaciones tienen los grupos multinacionales en la declaración?",
+    "¿Cuáles son los requisitos para presentar la declaración conjunta?"
   ]
 }

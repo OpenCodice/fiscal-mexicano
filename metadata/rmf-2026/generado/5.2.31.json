@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9d9c6539b322317",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Códigos de seguridad en tabacos",
+  "denominacion_comun": "Información de seguridad de productos de tabaco",
   "temas": [
     "impuesto especial sobre producción y servicios",
     "códigos de seguridad",
+    "cigarros",
     "tabacos labrados",
-    "obligaciones de contribuyentes"
+    "obligaciones de contribuyentes",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "códigos de seguridad",
-    "IEPS",
-    "información en tiempo real"
+    "códigos de seguridad de tabacos",
+    "información de seguridad",
+    "cigarros",
+    "IEPS"
   ],
-  "resumen": "Los contribuyentes deben enviar al SAT, de forma inmediata y en línea, la información de los códigos de seguridad de los empaques de tabacos. Esto aplica a diversos productos como cigarros y estuches que contienen tabaco.",
+  "resumen": "Los contribuyentes que manejan cigarros y otros tabacos labrados deben enviar al SAT información en tiempo real sobre los códigos de seguridad y de impresión de los empaques. Esto se deriva de la legislación del IEPS que busca controlar la producción y comercialización de estos productos.",
   "preguntas_ejemplo": [
-    "¿Qué información tengo que enviar al SAT sobre los tabacos?",
-    "¿Cómo cumplo con la obligación de los códigos de seguridad en el IEPS?",
-    "¿Cuándo debo proporcionar los códigos de seguridad al SAT?",
-    "¿Qué productos están sujetos a la regla de códigos de seguridad?",
-    "¿Qué pasa si no envío la información de los códigos de seguridad?"
+    "¿Qué información debo enviar al SAT sobre los cigarros?",
+    "¿Cuáles son las obligaciones en el manejo de tabacos labrados?",
+    "¿Cómo reportar códigos de seguridad de los empaques de tabaco?",
+    "¿Qué es la regla 5.2.31 del IEPS?",
+    "¿Qué se entiende por códigos de seguridad en el tabaco?"
   ]
 }

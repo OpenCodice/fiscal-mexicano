@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:26956a14c1728234",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Buzón tributario",
   "temas": [
-    "Habilitación del buzón tributario",
-    "Medios de contacto",
-    "Registro de información",
-    "Comunicaciones electrónicas"
+    "habilitación",
+    "mecanismos de comunicación",
+    "medios de contacto",
+    "correo electrónico",
+    "número de teléfono móvil",
+    "responsabilidades del contribuyente"
   ],
   "terminos_coloquiales": [
-    "Buzón tributario",
-    "Registro de buzón",
-    "Medios de contacto electrónicos",
-    "CFF"
+    "buzón tributario",
+    "medios de contacto",
+    "correo electrónico",
+    "teléfono móvil"
   ],
-  "resumen": "Los contribuyentes deben habilitar el buzón tributario registrando su correo electrónico y número de teléfono móvil. Este registro debe ser confirmado dentro de un plazo específico.",
+  "resumen": "Los contribuyentes deben habilitar su buzón tributario registrando su correo electrónico y número de teléfono móvil en un plazo específico. Esto es necesario para mantener actualizada su información de contacto con la autoridad fiscal.",
   "preguntas_ejemplo": [
     "¿Cómo habilito mi buzón tributario?",
-    "¿Qué datos debo registrar en el buzón tributario?",
-    "¿Cuánto tiempo tengo para confirmar mi registro?",
-    "¿Qué medios de contacto puedo usar en el buzón tributario?",
-    "¿Qué sucede si no habilito mi buzón tributario?"
+    "¿Qué medios de contacto debo registrar en el buzón tributario?",
+    "¿Cuánto tiempo tengo para confirmar mis datos de contacto?",
+    "¿Qué debo hacer si no tengo correo electrónico?",
+    "¿Qué cosas necesito para registrar mi buzón tributario?"
   ]
 }

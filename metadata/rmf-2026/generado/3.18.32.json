@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03a8a0f7c551d9fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondo de inversión no residente",
+  "denominacion_comun": "Fondo de inversión y residencia fiscal",
   "temas": [
-    "residentes en el extranjero",
-    "fondos de inversión",
+    "fondo de inversión",
+    "residencia fiscal",
     "intercambio de información",
-    "ingresos atribuibles",
-    "personalidad jurídica"
+    "retención de ISR"
   ],
   "terminos_coloquiales": [
     "fondo de inversión",
     "no residente",
     "ISR",
-    "reglamento del ISR"
+    "impuesto sobre la renta"
   ],
-  "resumen": "Un fondo de inversión no se considera residente en el extranjero si no tiene personalidad jurídica propia, los ingresos son atribuibles a su beneficiario y se constituye en un país con acuerdo de intercambio de información con México.",
+  "resumen": "La regla establece que un fondo de inversión no se considera residente en el extranjero si no tiene personalidad jurídica propia, si los ingresos son atribuibles a su beneficiario y si está constituido en un país con convenio de intercambio de información con México.",
   "preguntas_ejemplo": [
-    "¿Cuándo un fondo de inversión es considerado no residente?",
-    "¿Qué requisitos debe cumplir un fondo de inversión para no ser residente en el extranjero?",
-    "¿Qué implica la personalidad jurídica para un fondo de inversión?",
-    "¿Cómo se atribuyen los ingresos de un fondo de inversión?",
-    "¿Qué acuerdos de intercambio de información existen para fondos de inversión?"
+    "¿Un fondo de inversión puede ser considerado residente en el extranjero?",
+    "¿Qué requisitos debe cumplir un fondo de inversión para no ser un residente extranjero?",
+    "¿Cuándo no se retiene ISR a los fondos de inversión?",
+    "¿Qué significa que un fondo de inversión tenga personalidad jurídica propia?",
+    "¿Por qué es importante el intercambio de información con otros países?"
   ]
 }

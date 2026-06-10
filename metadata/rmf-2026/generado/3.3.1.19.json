@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1c2ce86ffdd0fbbb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de emisores de monederos electrónicos de vales de despensa",
+  "denominacion_comun": "Obligaciones del emisor autorizado de monederos electrónicos de vales de despensa",
   "temas": [
-    "emisión de CFDI",
-    "verificación fiscal",
+    "emisores autorizados",
     "monederos electrónicos",
-    "vales de despensa",
-    "datos de trabajadores",
-    "contratos con comercios",
-    "seguridad de la información"
+    "vale de despensa",
+    "obligaciones fiscales",
+    "CFDI",
+    "contratos de afiliación",
+    "actualización de datos",
+    "información a autoridades"
   ],
   "terminos_coloquiales": [
     "vales de despensa",
-    "monederos electrónicos",
+    "monedero electrónico",
     "CFDI de vales de despensa",
-    "obligaciones de emisores",
-    "reglas del SAT"
+    "SAT",
+    "obligaciones del emisor",
+    "avance tecnológico en vales"
   ],
-  "resumen": "Los emisores autorizados de monederos electrónicos de vales de despensa tienen obligaciones específicas para la verificación y supervisión por parte del SAT, así como la necesidad de concentrar y mantener actualizada la información sobre las operaciones y los beneficiarios. También deben emitir comprobantes fiscales y celebrar contratos con comercios para el uso de los vales.",
+  "resumen": "Los emisores autorizados de monederos electrónicos de vales de despensa tienen diversas obligaciones que incluyen facilitar la verificación del SAT, concentrar información de operaciones y emitir CFDI por las comisiones. Además, deben mantener actualizados los registros relacionados y comunicar cambios tecnológicos.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los emisores de monederos electrónicos de vales de despensa?",
-    "¿Cómo se debe manejar la información de los trabajadores que reciben vales de despensa?",
-    "¿Qué tipo de comprobantes fiscales deben emitir los emisores de vales de despensa?",
-    "¿Cuáles son los requisitos para afiliar comercios que acepten vales de despensa?",
-    "¿Qué pasa si un emisor cambia el tipo de monedero electrónico autorizado?"
+    "¿Qué obligaciones tienen los emisores de vales de despensa?",
+    "¿Cómo se deben emitir los CFDI de los vales de despensa?",
+    "¿Qué información se necesita para afiliar un comercio a los vales de despensa?",
+    "¿Qué pasa si cambian los contratos de los vales de despensa?",
+    "¿Cuáles son los requisitos de seguridad para los monederos electrónicos de vales de despensa?"
   ]
 }

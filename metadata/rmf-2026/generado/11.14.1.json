@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:75953241ba066ed8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro específico de estímulos fiscales",
+  "denominacion_comun": "Registro de estímulos fiscales",
   "temas": [
-    "Estímulos fiscales",
-    "Deducción inmediata",
-    "Gastos de capacitación",
-    "Gastos por innovación",
-    "Documentación comprobatoria",
-    "Contabilidad",
-    "Ley del Impuesto sobre la Renta"
-  ],
-  "terminos_coloquiales": [
-    "registro de estímulos",
+    "estímulos fiscales",
     "deducción inmediata",
     "gastos de capacitación",
-    "gastos de innovación",
-    "CFF",
-    "Plan México"
+    "gastos por innovación",
+    "documentación comprobatoria",
+    "contabilidad",
+    "Plan México",
+    "obligaciones fiscales"
   ],
-  "resumen": "Esta disposición establece los requisitos y la documentación necesaria para que los contribuyentes que opten por aplicar estímulos fiscales lleven un registro específico. Este registro debe incluir información sobre deducciones inmediatas, así como gastos de capacitación e innovación relacionados con su actividad económica.",
+  "terminos_coloquiales": [
+    "estímulos fiscales",
+    "deducciones",
+    "gastos de capacitación",
+    "gastos de innovación",
+    "papeles de trabajo",
+    "contabilidad"
+  ],
+  "resumen": "Esta regla establece el registro específico que los contribuyentes deben llevar si aplican estímulos fiscales. Incluye documentación sobre deducciones inmediatas y adicionales por capacitación e innovación, la cual debe conservarse para revisión de las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para registrar los estímulos fiscales?",
-    "¿Cómo se documenta la deducción inmediata de inversiones?",
-    "¿Qué requisitos debo cumplir para las deducciones de capacitación?",
-    "¿Cómo se registran los gastos por innovación en mi contabilidad?",
-    "¿Qué información debo conservar para aplicar los estímulos fiscales?",
-    "¿Cuáles son los lineamientos del Plan México relacionados con los estímulos fiscales?"
+    "¿Qué documentación necesito para aplicar estímulos fiscales?",
+    "¿Cómo registro la deducción de mis gastos de capacitación?",
+    "¿Qué debo incluir en mis papeles de trabajo para deducción inmediata?",
+    "¿Cuáles son los informes que debo tener para justificar los gastos de innovación?",
+    "¿Cómo afecta la deducción de gastos a mis obligaciones fiscales?"
   ]
 }

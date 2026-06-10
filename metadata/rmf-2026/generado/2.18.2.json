@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7cbdca4732af297f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Vigencia y renovación de órganos certificadores",
+  "denominacion_comun": "Autorización de Órgano Certificador",
   "temas": [
-    "órganos certificadores",
-    "autorización",
     "vigencia",
     "renovación",
+    "autorización",
     "garantía",
-    "cumplimiento de requisitos"
+    "requisitos"
   ],
   "terminos_coloquiales": [
+    "órgano certificador",
+    "autorización para ser órgano certificador",
     "renovación de autorización",
-    "órganos certificadores",
-    "CFF 32-I",
-    "RMF 2.18.2"
+    "avisos de renovación",
+    "CFF 32-I"
   ],
-  "resumen": "La autorización para operar como órgano certificador es válida por un año y puede renovarse siempre que se cumplan los requisitos establecidos. Si no se presenta el aviso de renovación en octubre, se perderá la autorización y no se podrá solicitar nuevamente hasta marzo del siguiente año.",
+  "resumen": "La autorización para operar como órgano certificador es válida por un año y puede renovarse si se cumplen los requisitos establecidos. Es necesario presentar un aviso de renovación en octubre y exhibir una garantía vigente para mantener la autorización.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo dura la autorización para órganos certificadores?",
-    "¿Cómo renuevo mi autorización como órgano certificador?",
-    "¿Qué pasa si no presento el aviso de renovación?",
-    "¿Cuáles son los requisitos para la renovación de la autorización?",
-    "¿Qué debo hacer para seguir siendo un órgano certificador?"
+    "¿Cómo puedo renovar la autorización de mi órgano certificador?",
+    "¿Qué requisitos debo cumplir para seguir siendo órgano certificador?",
+    "¿Qué pasa si no presento el aviso de renovación a tiempo?",
+    "¿Cuándo debo presentar el aviso de renovación para mi autorización?",
+    "¿Qué tipo de garantía necesito para continuar operando como órgano certificador?"
   ]
 }

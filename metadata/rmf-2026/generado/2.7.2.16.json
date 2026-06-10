@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad630dd44eb8ae3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de CFDI por Proveedores",
+  "denominacion_comun": "Certificación de CFDI",
   "temas": [
-    "CFDI",
-    "Proveedores de Certificación",
+    "Proveedores de certificación",
     "RFC",
+    "CFDI",
     "Validación de datos",
-    "Contabilidad",
-    "Solicitud de servicio"
+    "Contabilidad"
   ],
   "terminos_coloquiales": [
-    "certificación de CFDI",
-    "PCECFDI",
-    "RFC",
-    "proveedores de CFDI",
-    "certificación"
+    "factura electrónica",
+    "certificación de facturas",
+    "CFDI",
+    "PCECFDI"
   ],
-  "resumen": "Los proveedores de certificación de CFDI deben recibir y validar el RFC de los contribuyentes que soliciten sus servicios. Además, deberán conservar las solicitudes de servicio y emitir los CFDI usando un CESD exclusivo para esto.",
+  "resumen": "Los proveedores de certificación de CFDI deben recibir la clave RFC de los contribuyentes y validar que estén habilitados para emitir CFDI. Además, deben conservar las solicitudes de servicio y expedir los CFDI solicitados utilizando un CESD exclusivo.",
   "preguntas_ejemplo": [
+    "¿Cómo certifico mis CFDI?",
     "¿Qué es un PCECFDI?",
-    "¿Cómo se valida el RFC para la certificación de CFDI?",
-    "¿Qué datos se necesitan para solicitar un CFDI?",
-    "¿Qué información debe conservar un proveedor de CFDI?",
-    "¿Cómo se emite un CFDI certificado?"
+    "¿Qué información se necesita para emitir un CFDI?",
+    "¿Cómo valida el SAT un RFC para CFDI?",
+    "¿Qué documentación debe conservar un proveedor de CFDI?"
   ]
 }

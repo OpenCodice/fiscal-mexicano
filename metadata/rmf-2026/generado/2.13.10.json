@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bf488bf28fc6e093",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reintegro del depósito en garantía",
   "temas": [
-    "reintegro",
-    "depósito en garantía",
     "remate de bienes",
-    "postor",
-    "CLABE interbancaria"
+    "garantía",
+    "transferencia electrónica",
+    "solicitud de reintegro",
+    "CLABE",
+    "subasta"
   ],
   "terminos_coloquiales": [
-    "reintegro de garantía",
     "devolución de garantía",
-    "depósito en garantía",
-    "RMF"
+    "devolver dinero del remate",
+    "reintegro de garantía",
+    "garantía de subasta"
   ],
-  "resumen": "El postor puede solicitar el reintegro del depósito presentado como garantía para participar en un remate. Este reintegro se realiza a través de una transferencia electrónica de fondos en un plazo máximo de dos días hábiles después del remate.",
+  "resumen": "El postor puede solicitar el reintegro de la garantía que pagó por participar en un remate, incluso si se canceló o suspendió. Este reintegro se realiza a través de una transferencia electrónica en un plazo específico, siempre y cuando se proporcione la información correcta.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar el reintegro de mi depósito en garantía?",
-    "¿Cuánto tiempo tarda el reintegro del depósito de garantía?",
-    "¿Qué debo hacer si me equivoqué con la CLABE para el reintegro?",
-    "¿Qué documentos necesito para solicitar el reintegro?",
-    "¿Qué es el depósito en garantía en un remate?",
-    "¿Cómo funciona el proceso de reintegro después de un remate?"
+    "¿Cómo puedo devolver la garantía que pagué para el remate?",
+    "¿Qué hacer si me cancelaron el remate y quiero mi dinero de vuelta?",
+    "¿Cuánto tiempo tarda el reintegro de la garantía de subasta?",
+    "¿Qué información necesito para solicitar el reintegro de la garantía?",
+    "¿Dónde encuentro el documento para solicitar la devolución de mi garantía?"
   ]
 }

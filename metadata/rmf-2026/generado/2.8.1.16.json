@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:68921073190779bb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reposición de Registros Contables",
+  "denominacion_comun": "Plazo para reponer registros contables",
   "temas": [
-    "Aviso a la autoridad fiscal",
-    "Inutilización de libros",
-    "Destrucción de registros contables",
-    "Reposición de asientos ilegibles",
-    "Plazo para reponer registros",
-    "Concentración de asientos"
+    "avisos a la autoridad fiscal",
+    "inutilización de registros",
+    "destrucción de contabilidad",
+    "reposiciones contables",
+    "asientos ilegibles",
+    "perdida de libros",
+    "información contable",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "Aviso por destrucción de libros",
-    "Registros contables dañados",
-    "Reposición de contabilidad",
-    "CFF 30",
-    "RCFF 35"
+    "avisar a la autoridad",
+    "reponer libros contables",
+    "registros contables dañados",
+    "libros contables perdidos"
   ],
-  "resumen": "Cuando los registros contables se dañan o destruyen, el contribuyente debe avisar a la autoridad fiscal. Después de esto, tiene cuatro meses para reponer los asientos que se hicieron ilegibles o para registrar nuevamente los datos del periodo en que ocurrió el daño.",
+  "resumen": "Si tus libros o registros contables se destruyen o se vuelven ilegibles, debes avisar a la autoridad fiscal. Tienes cuatro meses para reponer los registros dañados desde que presentas el aviso.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si se destruyen mis libros contables?",
-    "¿Cuánto tiempo tengo para reponer mis registros contables?",
-    "¿Cómo aviso a la autoridad fiscal sobre la destrucción de libros?",
-    "¿Qué incluye el aviso por inutilización de registros?",
-    "¿Puedo concentrar los asientos en nuevos libros?"
+    "¿Qué hago si se me dañaron los libros contables?",
+    "¿Cómo aviso a la autoridad sobre la pérdida de mis registros contables?",
+    "¿Cuánto tiempo tengo para reponer mis registros contables después de avisar?",
+    "¿Qué es la ficha de trámite 106/CFF?",
+    "¿Qué información debo asentar si mis registros contables fueron destruidos?"
   ]
 }

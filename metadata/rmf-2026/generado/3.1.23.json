@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df25f57954343f27",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pagos Provisionales",
   "temas": [
     "recargos",
-    "declaración anual",
     "declaraciones complementarias",
+    "declaración anual",
+    "Ley del ISR",
     "coeficiente de pago"
   ],
   "terminos_coloquiales": [
-    "pago de recargos",
-    "declaraciones de ISR",
-    "declaraciones complementarias",
-    "LISR"
+    "pago de impuestos a cuenta",
+    "recargos",
+    "declaración de impuestos",
+    "pago provisional",
+    "ISR"
   ],
-  "resumen": "Esta regla establece que el pago de recargos debería hacerse a través de la declaración anual en lugar de hacer declaraciones complementarias para los pagos provisionales. Los recargos se calcularán desde la fecha que debía presentarse cada pago provisional hasta que se presente la declaración anual.",
+  "resumen": "Los recargos por pagos provisionales se pueden pagar al presentar la declaración anual en lugar de hacer declaraciones complementarias. Estos recargos deben calcularse desde la fecha de vencimiento del pago provisional hasta que se presente la declaración anual.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen los pagos de recargos de ISR?",
-    "¿Puedo presentar declaraciones complementarias para recargos?",
+    "¿Cómo pago los recargos de mis pagos provisionales?",
+    "¿Debo hacer una declaración complementaria para mis recargos?",
+    "¿Cuándo tengo que pagar los recargos por mis impuestos?",
     "¿Qué coeficiente debo usar para calcular mis recargos?",
-    "¿Cuándo se deben cubrir los recargos de pagos provisionales?",
-    "¿Qué dice la Ley del ISR sobre los pagos anuales?"
+    "¿Qué dice la ley sobre pagos provisionales y sus recargos?"
   ]
 }

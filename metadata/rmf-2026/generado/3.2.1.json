@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3cb7006029f1d0f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Préstamos prendarios",
+  "denominacion_comun": "Préstamos Prendarios",
   "temas": [
     "ingresos acumulables",
     "contratos de mutuo",
     "garantía prendaria",
-    "registro contable",
     "enajenación de prendas",
+    "registros contables",
     "CFDI",
-    "comisiones",
-    "identificación oficial"
+    "comisiones"
   ],
   "terminos_coloquiales": [
-    "préstamos con prenda",
-    "empeño",
-    "pignoración",
-    "contrato de empeño",
-    "ingresos por empeño",
-    "CFDI de empeño"
+    "compra de empeño",
+    "préstamo prendario",
+    "enajenación de prendas",
+    "CFDI por empeño"
   ],
-  "resumen": "Esta regla establece las condiciones bajo las cuales los contribuyentes que realizan préstamos con garantía prendaria pueden acumular ingresos. Incluye requisitos para la celebración de contratos y el registro contable de las operaciones realizadas.",
+  "resumen": "Esta regla establece las condiciones bajo las cuales los contribuyentes que otorgan préstamos con garantía prendaria pueden considerar las ganancias obtenidas como ingresos acumulables. También describe la forma en que deben registrar contablemente estas operaciones y las obligaciones relacionadas con la expedición de CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo registro los ingresos de un préstamo prendario?",
-    "¿Qué requisitos debe tener un contrato de mutuo con garantía prendaria?",
-    "¿Los intereses obtenidos de un préstamo prendario son acumulables?",
-    "¿Qué hacer si no se cubre la deuda del préstamo?",
-    "¿Cómo se documenta la venta de bienes dados en prenda?"
+    "¿Qué son los préstamos prendarios?",
+    "¿Cómo se registran los ingresos de un empeño?",
+    "¿Debo emitir un CFDI por la venta de una prenda?",
+    "¿Qué necesito para otorgar un préstamo prendario?",
+    "¿Qué pasa si no se cubre la deuda de un préstamo prendario?"
   ]
 }

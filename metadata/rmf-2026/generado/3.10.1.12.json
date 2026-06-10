@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b2f44da2b57a31cc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos y Transparencia",
+  "denominacion_comun": "Declaración informativa de donativos",
   "temas": [
     "donativos deducibles",
     "transparencia patrimonial",
-    "información pública",
+    "uso de donativos",
     "declaración informativa",
     "organizaciones civiles",
-    "fideicomisos"
+    "fideicomisos",
+    "influencia en legislación"
   ],
   "terminos_coloquiales": [
+    "información de donativos",
     "declaración de donativos",
-    "información de transparencia",
-    "donatarias autorizadas",
-    "donativos",
-    "RMF",
-    "LISR",
-    "LIF"
+    "donatarias",
+    "donativos deducibles",
+    "transparencia de donativos"
   ],
-  "resumen": "Las organizaciones autorizadas para recibir donativos deben informar al público sobre su patrimonio y los donativos recibidos, incluso si no han tenido ingresos. Esta información se presenta a través de una declaración informativa que asegura la transparencia de sus actividades y donativos.",
+  "resumen": "Las organizaciones autorizadas para recibir donativos deben informar al público sobre el uso y destino de los donativos que reciben. Esto incluye la presentación de una declaración informativa que garantiza la transparencia de sus actividades y patrimonio, así como la coincidencia con su declaración anual y contabilidad.",
   "preguntas_ejemplo": [
-    "¿Cómo reportar los donativos recibidos?",
-    "¿Qué información debo publicar sobre mis donativos?",
-    "¿Cuál es el proceso para presentar la declaración informativa?",
-    "¿Qué pasa si no obtengo ingresos durante el año?",
-    "¿Cómo aseguran las donatarias la transparencia de su patrimonio?",
-    "¿Qué hacer si me cancelan la autorización para recibir donativos?"
+    "¿Qué debo declarar sobre los donativos que recibí?",
+    "¿Cómo informo sobre el uso de los donativos deducibles?",
+    "¿Cuándo debo presentar la declaración informativa de donativos?",
+    "¿Qué pasa si mi autorización para recibir donativos fue cancelada?",
+    "¿Qué información debo incluir en la declaración de transparencia?"
   ]
 }

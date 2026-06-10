@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:edda4e98c9a41103",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sorteo El Buen Fin",
+  "denominacion_comun": "Sorteo 'El Buen Fin'",
   "temas": [
     "premios",
-    "entidades participantes",
-    "entrega de información",
+    "participación",
+    "información al SAT",
     "cámara de compensación",
     "Reglas de Operación",
-    "Decreto fiscal"
+    "entidades participantes"
   ],
   "terminos_coloquiales": [
-    "Sorteo Buen Fin",
+    "sorteo de Buen Fin",
     "premios Buen Fin",
-    "Reglas Buen Fin",
-    "Sorteo",
-    "CFF"
+    "información SAT",
+    "cámara de compensación",
+    "reglas del Buen Fin"
   ],
-  "resumen": "Las entidades que participan en el Sorteo 'El Buen Fin' deben proporcionar información al SAT a través de una cámara de compensación o empresa especializada, de acuerdo con las Reglas de Operación del sorteo. Esto incluye detalles específicos sobre la entrega de premios y obligaciones establecidas en el decreto correspondiente.",
+  "resumen": "Las entidades que participen en el Sorteo 'El Buen Fin' deben proporcionar información al SAT a través de una cámara de compensación o empresa especializada. Estas entidades deben cumplir con las Reglas de Operación del sorteo y entregar los datos requeridos por el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué información deben enviar las entidades del Sorteo El Buen Fin al SAT?",
-    "¿Cómo participan las entidades en el Sorteo Buen Fin?",
-    "¿Qué son las Reglas de Operación del Sorteo El Buen Fin?",
-    "¿Qué obligaciones tienen las entidades en el Sorteo Buen Fin?",
-    "¿Quién supervisa la entrega de información en el Sorteo Buen Fin?"
+    "¿Qué información deben enviar las empresas que participan en el Sorteo 'El Buen Fin' al SAT?",
+    "¿Quiénes son las entidades que participan en el Sorteo 'El Buen Fin'?",
+    "¿Cuáles son las Reglas de Operación del sorteo 'El Buen Fin'?",
+    "¿Qué es la cámara de compensación en el Sorteo 'El Buen Fin'?",
+    "¿Qué premios se ofrecen en el Sorteo 'El Buen Fin'?"
   ]
 }

@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3179ea41ad9b26ec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estimulo fiscal IVA región fronteriza",
   "temas": [
-    "estímulo fiscal",
+    "Estímulo fiscal",
     "IVA",
     "CFDI",
-    "regiones fronterizas",
-    "tasa de retención",
-    "Crédito aplicado"
+    "Región fronteriza",
+    "Tasa de retención",
+    "Validación de CFDI",
+    "Crédito del 50%"
   ],
   "terminos_coloquiales": [
-    "estímulo fiscal en IVA",
-    "IVA crédito 50%",
-    "CFDI estímulo frontera",
-    "regiones frontera norte y sur",
-    "Ley del IVA",
-    "Regla 11.9.3"
+    "estímulo fiscal",
+    "IVA en la frontera",
+    "factura",
+    "CFDI",
+    "Crédito IVA",
+    "IVA del 50%"
   ],
-  "resumen": "Esta disposición detalla cómo los contribuyentes de las regiones fronterizas pueden aplicar un estímulo fiscal del 50% en el IVA al emitir CFDI. Específicamente, se establece cómo deben registrar este estímulo en sus comprobantes y las validaciones necesarias por parte de los proveedores de certificación de CFDI.",
+  "resumen": "Esta regla establece cómo los contribuyentes en la región fronteriza deben reflejar el estímulo fiscal del 50% en sus CFDI. Se indica el uso de una opción específica en el CFDI y la validación por parte de proveedores de certificación.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aplicar el estímulo fiscal del IVA si estoy en la región fronteriza?",
-    "¿Qué debo incluir en mi CFDI para reflejar el crédito del 50% en IVA?",
-    "¿Cuáles son las condiciones para emitir un CFDI con el estímulo fiscal en regiones fronterizas?",
-    "¿Qué productos o servicios están excluidos del estímulo fiscal en IVA?",
-    "¿Qué pasa si no presento el aviso mencionado en la regla?",
-    "¿Cómo se valida la aplicación del estímulo en el CFDI?"
+    "¿Cómo puedo aplicar el estímulo fiscal del 50% en mi factura?",
+    "¿Qué opciones debo seleccionar en el CFDI para reflejar el crédito del IVA?",
+    "¿Qué requisitos debo cumplir para validar mi CFDI con el estímulo fiscal?",
+    "¿Qué operaciones no son elegibles para el estímulo fiscal del IVA?",
+    "¿Dónde encuentro el catálogo de productos y servicios para el estímulo fiscal?"
   ]
 }

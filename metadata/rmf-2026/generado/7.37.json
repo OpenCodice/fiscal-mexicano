@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:77fb1f5cfc90ccad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de reportes fiscales",
+  "denominacion_comun": "Presentación de reporte para declaración",
   "temas": [
-    "reportes fiscales",
-    "declaraciones",
-    "análisis de resultados",
+    "reportes",
+    "declaración",
     "beneficios fiscales",
-    "derechos de aguas",
-    "SIRALAB",
-    "laboratorios acreditados",
-    "CONAGUA"
+    "derechos de aguas nacionales",
+    "laboratorio acreditado",
+    "análisis",
+    "simplificación administrativa"
   ],
   "terminos_coloquiales": [
-    "reportes de declaración",
-    "informes fiscales",
+    "reporte para declarar",
+    "declaración de aguas",
+    "resultados de análisis",
     "SIRALAB",
-    "derechos por aguas"
+    "CONAGUA",
+    "derechos por uso de agua"
   ],
-  "resumen": "Los contribuyentes deben presentar reportes que incluyan los resultados de análisis de datos relacionados con el uso de aguas nacionales al acompañar su declaración. Estos reportes deben ser generados por laboratorios acreditados a través del sistema SIRALAB.",
+  "resumen": "Los contribuyentes que deban pagar por el uso de aguas nacionales deben presentar un reporte que incluya los resultados de los análisis realizados. Este reporte debe generarse mediante el SIRALAB y debe ser elaborado por un laboratorio acreditado.",
   "preguntas_ejemplo": [
-    "¿Qué reportes debo presentar junto con mi declaración?",
-    "¿Cómo se generan los reportes fiscales?",
-    "¿Qué análisis debo incluir en mi reporte?",
-    "¿Quién debe usar el sistema SIRALAB para generar reportes?",
-    "¿Cuáles son los beneficios fiscales aplicables para el uso de aguas nacionales?"
+    "¿Qué reportes debo presentar para mi declaración de aguas?",
+    "¿Cómo puedo obtener los resultados de análisis para la declaración?",
+    "¿Quién debe elaborar el reporte para el uso de aguas?",
+    "¿Qué beneficios fiscales puedo aplicar en mi declaración?",
+    "¿Necesito un laboratorio acreditado para mis reportes de aguas?"
   ]
 }

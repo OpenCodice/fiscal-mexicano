@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4ff264d5c3c8ba4c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prestación de servicios digitales",
+  "denominacion_comun": "Obligaciones fiscales de servicios digitales",
   "temas": [
     "inscripción en el RFC",
-    "personas físicas",
-    "plataformas tecnológicas",
     "enajenación de bienes",
     "prestación de servicios",
     "hospedaje",
-    "uso o goce temporal de bienes"
+    "uso o goce temporal de bienes",
+    "plataformas tecnológicas",
+    "aplicaciones informáticas"
   ],
   "terminos_coloquiales": [
     "servicios digitales",
-    "inscripción en el RFC",
-    "plataformas digitales"
+    "vender cosas por internet",
+    "alquilar bienes",
+    "hospedaje en línea",
+    "inscripción en el RFC"
   ],
-  "resumen": "Las personas físicas que vendan bienes o ofrezcan servicios a través de plataformas tecnológicas deben registrarse en el RFC según ciertos procedimientos establecidos. Esto incluye la venta de bienes, la prestación de servicios y la concesión de hospedaje.",
+  "resumen": "Las personas que vendan bienes o presten servicios a través de internet deben registrarse en el RFC. Esto incluye actividades como el hospedaje y el uso temporal de bienes por medio de plataformas digitales.",
   "preguntas_ejemplo": [
-    "¿Cómo me inscribo en el RFC si vendo por internet?",
-    "¿Qué personas físicas deben registrarse en el RFC?",
-    "¿Qué tengo que hacer si ofrezco servicios en línea?",
-    "¿Cuáles son mis obligaciones fiscales si utilizo una plataforma tecnológica?",
-    "¿Necesito inscribirme en el RFC si alquilo un inmueble a través de una aplicación?",
-    "¿Qué implica la inscripción en el RFC para quienes enajenan bienes?"
+    "¿Tengo que registrarme en el RFC si vendo cosas en línea?",
+    "¿Qué obligaciones fiscales tengo si ofrezco hospedaje por medio de una app?",
+    "¿Cómo me inscribo en el RFC si presto servicios digitales?",
+    "¿Qué necesito para cumplir con mis obligaciones fiscales si enajeno bienes por internet?",
+    "¿Cuándo debo registrarme en el RFC si uso plataformas tecnológicas para mi negocio?"
   ]
 }

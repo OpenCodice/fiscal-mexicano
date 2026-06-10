@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:66d66065008805ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Créditos con imposibilidad de cobro",
+  "denominacion_comun": "Créditos Castigados",
   "temas": [
+    "notoria imposibilidad de cobro",
     "créditos",
     "instituciones de crédito",
     "deducciones",
-    "adeudos",
-    "implicaciones fiscales"
+    "garantía hipotecaria"
   ],
   "terminos_coloquiales": [
-    "imposibilidad de cobro",
-    "créditos castigados",
-    "deducción de créditos",
-    "créditos morosos"
+    "cobro de deudas",
+    "créditos perdidos",
+    "créditos no recuperables",
+    "castigo de créditos",
+    "LIF",
+    "RMF"
   ],
-  "resumen": "La regla se refiere a los créditos cuya suerte principal excede 30 mil UDIS y establece que las instituciones de crédito pueden acreditar la imposibilidad práctica de su cobro tras dos años sin resolución. Además, prohíbe deducir erogaciones posteriores al castigo del crédito, salvo si se recupera el adeudo.",
+  "resumen": "Esta disposición trata los créditos cuya suerte principal es mayor a 30 mil UDIS y establece que, si la institución de crédito no puede cobrar la deuda después de dos años, puede considerarla como incobrable. Sin embargo, no podrá deducir los gastos relacionados con el crédito después de que este sea castigado, a menos que se recupere la deuda.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si tengo un crédito que no se puede cobrar?",
-    "¿Cuáles son las implicaciones fiscales de un crédito castigado?",
-    "¿Se pueden deducir pagos de créditos morosos?",
-    "¿Qué pasa si la institución de crédito no logra cobrar un adeudo?",
-    "¿Qué créditos están exentos de esta regla?"
+    "¿Qué pasa si no puedo cobrar un crédito después de dos años?",
+    "¿Puedo deducir mis gastos si un crédito ha sido castigado?",
+    "¿Cuándo se considera un crédito como incobrable?",
+    "¿Las garantías hipotecarias se rigen por la misma regla?",
+    "¿Qué significa notoria imposibilidad de cobro?"
   ]
 }

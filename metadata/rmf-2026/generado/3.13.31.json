@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a1d791ec35d4712",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza en liquidación",
   "temas": [
-    "Impuesto sobre la renta",
-    "Pagos provisionales",
-    "Declaración anual",
-    "Liquidación de personas morales"
+    "liquidación",
+    "pagos provisionales",
+    "declaración anual",
+    "declaración final",
+    "personas morales"
   ],
   "terminos_coloquiales": [
+    "declaración de ISR de confianza",
     "Régimen Simplificado de Confianza",
     "RESICO",
-    "Declaración ISR de confianza",
-    "Declaración anual personas morales"
+    "declaración de liquidación",
+    "declaración anual personas morales"
   ],
-  "resumen": "Los contribuyentes del Régimen Simplificado de Confianza que estén en liquidación deben presentar sus pagos provisionales y declaraciones anuales a través de formularios específicos. Estos deben ser presentados a tiempo mientras se lleva a cabo la liquidación del activo.",
+  "resumen": "Los contribuyentes en liquidación del Régimen Simplificado de Confianza deben presentar sus pagos provisionales y declaraciones anuales a través de formatos específicos. Esto se aplica hasta que se complete la liquidación total del activo.",
   "preguntas_ejemplo": [
     "¿Cómo presento mis pagos provisionales si estoy en liquidación?",
-    "¿Qué formularios debo usar para mi declaración anual en liquidación?",
-    "¿Cuál es la fecha límite para presentar declaraciones en liquidación?",
-    "¿Qué sucede si soy una persona moral en liquidación bajo el RESICO?",
-    "¿Necesito hacer algo diferente en mis declaraciones si estoy en proceso de liquidación?"
+    "¿Qué declaraciones debo hacer durante la liquidación del Régimen Simplificado de Confianza?",
+    "¿Cuándo debo presentar la declaración anual si estoy en liquidación?",
+    "¿Qué es el Régimen Simplificado de Confianza en liquidación?",
+    "¿Cuáles son los plazos para declarar si soy persona moral en liquidación?"
   ]
 }

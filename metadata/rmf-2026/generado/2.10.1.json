@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:866599d0a94d7d2a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de enajenación de acciones",
+  "denominacion_comun": "Dictamen de contador público inscrito por enajenación de acciones",
   "temas": [
-    "Dictamen fiscal",
-    "Enajenación de acciones",
-    "Aviso de dictamen",
-    "Presentación de documentos"
+    "dictamen fiscal",
+    "enajenación de acciones",
+    "presentación de documentos",
+    "autoridades fiscales",
+    "avisos",
+    "cartas de presentación"
   ],
   "terminos_coloquiales": [
-    "dictamen de acciones",
-    "aviso para presentar dictamen",
     "dictamen fiscal",
+    "enajenación de acciones",
+    "avisos de dictamen",
     "CFF",
-    "LISR"
+    "ISR"
   ],
-  "resumen": "Los avisos y dictámenes relacionados con la enajenación de acciones deben presentarse en cuadernillo ante la autoridad competente y no se pueden enviar por Internet hasta que se publique un anexo específico. Además, el dictamen debe presentarse dentro de los 45 días posteriores a la enajenación.",
+  "resumen": "Se establece que los avisos y documentos para presentar el dictamen por enajenación de acciones no se enviarán por Internet hasta que se publique un anexo específico. Además, se deben presentar en cuadernillo ante la autoridad competente, y los dictámenes deben ser presentados dentro de un plazo definido tras la enajenación.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el dictamen de enajenación de acciones?",
+    "¿Cómo presento el dictamen de operación por enajenación de acciones?",
     "¿Qué documentos necesito para el aviso de dictamen fiscal?",
-    "¿Dónde envío el dictamen si mi contador está inscrito?",
-    "¿Cuánto tiempo tengo para presentar el dictamen después de enajenar acciones?",
-    "¿Qué pasa si no presento el dictamen a tiempo?",
-    "¿Puedo enviar el dictamen por correo?"
+    "¿Dónde debo llevar el dictamen de mi contador público?",
+    "¿Puedo enviar el dictamen por correo?",
+    "¿Cuál es el plazo para presentar el dictamen tras enajenar acciones?"
   ]
 }

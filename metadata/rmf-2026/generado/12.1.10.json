@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6f2b9ed7ded463c6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios Digitales",
+  "denominacion_comun": "Servicios digitales para residentes en el extranjero",
   "temas": [
-    "IVA",
-    "IEPS",
-    "Servicios digitales",
-    "Residentes en el extranjero",
-    "Aviso de actualización",
-    "Plataformas tecnológicas",
-    "Actividades económicas"
+    "prestación de servicios digitales",
+    "avisos al RFC",
+    "contribuyentes extranjeros",
+    "plataformas tecnológicas",
+    "actividades económicas",
+    "Ley del IVA",
+    "Ley del IEPS"
   ],
   "terminos_coloquiales": [
-    "Servicios digitales",
-    "Aviso actualización 18-B LIVA",
-    "IEPS",
-    "LIVA"
+    "servicios digitales",
+    "residentes en el extranjero",
+    "avisos al SAT",
+    "plataformas de internet",
+    "LIVA 18-B",
+    "LIEPS 2o"
   ],
-  "resumen": "Los contribuyentes que brindan servicios digitales desde el extranjero deben informar a través del SAT sobre sus actividades económicas y obligaciones. Esto incluye detallar el tipo de servicio y proporcionar información del representante legal y domicilio en México.",
+  "resumen": "Los contribuyentes que son personas físicas residentes en el extranjero y que ofrecen servicios digitales en México deben informar al SAT sobre sus actividades económicas. Esto se hace mediante un aviso en el RFC, especificando la naturaleza de los servicios que prestan.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si ofrezco servicios digitales desde el extranjero?",
-    "¿Cómo actualizo mis datos en el RFC para servicios digitales?",
-    "¿Qué información necesito para el aviso de actualización de actividades económicas?",
-    "¿Quiénes están obligados a presentar el aviso por servicios digitales?",
-    "¿Qué es el Aviso actualización 18-B LIVA?"
+    "¿Qué tengo que hacer si ofrezco servicios digitales desde el extranjero?",
+    "¿Cómo presento el aviso de actividades económicas al SAT?",
+    "¿Cuáles son los requisitos para que un extranjero preste servicios digitales en México?",
+    "¿Qué es el aviso de actualización 18-B LIVA?",
+    "¿Qué información necesito entregar al SAT si uso plataformas tecnológicas?"
   ]
 }

@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03128b9d3e43dae6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de créditos fiscales",
   "temas": [
     "créditos fiscales",
     "línea de captura",
-    "solicitud de pagos",
-    "contribuciones federales"
+    "solicitud de pago",
+    "contribuciones federales",
+    "RFC"
   ],
   "terminos_coloquiales": [
     "pago de deudas fiscales",
-    "créditos fiscales",
-    "línea de captura",
-    "FCF"
+    "pago de impuestos",
+    "solicitud de línea de captura",
+    "FCF",
+    "fichas de trámite"
   ],
-  "resumen": "Los contribuyentes con créditos fiscales determinados deben solicitar una línea de captura para realizar el pago correspondiente. Esta solicitud se hace a través de formularios específicos, dependiendo si están inscritos o no en el RFC.",
+  "resumen": "Los contribuyentes con créditos fiscales determinados deben solicitar una línea de captura para pagar sus contribuciones federales. Esto se puede hacer utilizando fichas de trámite específicas dependiendo de si están inscritos o no en el RFC.",
   "preguntas_ejemplo": [
-    "¿Cómo pago mis créditos fiscales?",
-    "¿Qué es el formato FCF?",
-    "¿Necesito línea de captura para pagar mis impuestos?",
-    "¿Qué formularios debo llenar para mis créditos fiscales?",
-    "¿Qué pasa si tengo créditos fiscales determinados?"
+    "¿Cómo puedo pagar mis créditos fiscales?",
+    "¿Qué es la línea de captura FCF?",
+    "¿Dónde solicito el formato de pago de impuestos?",
+    "¿Qué debo hacer si tengo un crédito fiscal determinado?",
+    "¿Cuál es la diferencia entre los contribuyentes inscritos y no inscritos en el RFC?"
   ]
 }

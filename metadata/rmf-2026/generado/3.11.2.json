@@ -6,35 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ddac49df0c94ba6c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retiro de recursos de cuentas individuales",
+  "denominacion_comun": "Retiro de recursos de cuenta individual",
   "temas": [
     "impuesto sobre la renta",
     "pensión",
-    "jubilación",
-    "subcuenta de retiro",
-    "años de cotización",
-    "ISR",
-    "PENSIONISSSTE",
-    "SAR92",
-    "LSS"
+    "recursos del SAR",
+    "administradoras de fondos para el retiro",
+    "cotización",
+    "información del IMSS",
+    "exención de impuestos"
   ],
   "terminos_coloquiales": [
-    "retiro de fondos",
-    "sacar dinero de mi Afore",
-    "pensiones",
-    "Jubilación",
-    "exención de impuestos",
-    "PENSIONISSSTE"
+    "retiro de ahorro",
+    "pensión",
+    "PENSIONISSSTE",
+    "recursos SAR",
+    "años de cotización",
+    "negativa de pensión",
+    "jubilación"
   ],
-  "resumen": "Esta regla establece cómo las administradoras de fondos para el retiro deben calcular los años de cotización y los ingresos gravados al retirar recursos de la cuenta individual, especialmente en relación a las pensiones y jubilaciones. También determina las exenciones aplicables en el cálculo del ISR en estos casos.",
+  "resumen": "Esta regla establece cómo las administradoras de fondos para el retiro deben manejar el retiro de recursos de la cuenta individual y los requisitos relacionados con los años de cotización y las pensiones. Se detallan los procedimientos a seguir para determinar el monto a gravar y las exenciones aplicables.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ISR al retirar mi dinero de la Afore?",
-    "¿Qué documentos necesito para retirar mi pensión?",
-    "¿Qué ocurre si no tengo el número de años de cotización?",
-    "¿Puedo retirar mis ahorros si tengo una pensión privada?",
-    "¿Cuáles son las exenciones de impuestos al retirar recursos de la subcuenta de retiro?",
-    "¿Qué significan los artículos 93 y 96-Bis de la Ley del ISR?"
+    "¿Cómo puedo retirar mis recursos de la cuenta individual?",
+    "¿Qué documentos necesito para comprobar mis años de cotización?",
+    "¿Qué pasa si tengo una negativa de pensión del IMSS?",
+    "¿Qué impuestos debo pagar al retirar mi dinero del SAR?",
+    "¿Cómo se determina la exención de impuestos en mi retiro?",
+    "¿Cuáles son los requisitos para acceder a mi pensión?"
   ]
 }

@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:84f5201c259e0788",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Uso de marbetes y precintos",
   "temas": [
-    "Marbetes",
-    "Precintos",
-    "Bebidas alcohólicas",
-    "Contribuyentes",
+    "marbetes",
+    "precintos",
+    "bebidas alcohólicas",
+    "padrón de contribuyentes",
     "SAT",
-    "Derechos correspondientes",
-    "Inscripción al Padrón",
-    "Requisitos de uso"
+    "derechos de trámite",
+    "reglas de impresión"
   ],
   "terminos_coloquiales": [
-    "Marbetes de bebidas alcohólicas",
-    "Precintos de IEPS",
-    "Uso de marbetes",
-    "Solicitud de marbetes"
+    "marbetes",
+    "precintos",
+    "etiquetas",
+    "cédulas",
+    "padrón de alcohólicos",
+    "ingreso al padrón",
+    "libro de registro"
   ],
-  "resumen": "Los contribuyentes que vendan bebidas alcohólicas deben asegurarse de usar correctamente los marbetes y precintos, siguiendo ciertas reglas y pagando los derechos correspondientes. Además, deben cumplir con los formatos y plazos establecidos por el SAT.",
+  "resumen": "Los contribuyentes que venden bebidas alcohólicas deben usar correctamente los marbetes y precintos, siguiendo procedimientos como inscripciones y pagos de derechos. Además, deben respetar las reglas para la impresión y adherir los marbetes a los productos adecuados.",
   "preguntas_ejemplo": [
-    "¿Cómo debo usar los marbetes para bebidas alcohólicas?",
-    "¿Qué requisitos tengo que cumplir para conseguir marbetes?",
-    "¿Cuándo debo adherir los marbetes a las bebidas?",
-    "¿Qué hacer si no tengo los marbetes autorizados?",
-    "¿Qué artículos debo consultar sobre marbetes y precintos?",
-    "¿Cuáles son los plazos de vigencia de los marbetes?"
+    "¿Cómo debo usar los marbetes para las bebidas alcohólicas?",
+    "¿Qué documentos necesito para inscribirme en el padrón de contribuyentes de bebidas alcohólicas?",
+    "¿Cuáles son las reglas para imprimir los marbetes electrónicos?",
+    "¿Qué hacer si no tengo los marbetes adecuados?",
+    "¿Qué pasa si no cumplo con las obligaciones de marbetes?",
+    "¿Cuánto cuesta el uso de marbetes para bebidas alcohólicas?"
   ]
 }

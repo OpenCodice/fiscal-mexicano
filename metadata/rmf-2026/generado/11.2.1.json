@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d29745f211148e44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del interés acumulable",
+  "denominacion_comun": "Interés acumulable de créditos con descuentos",
   "temas": [
     "interés acumulable",
-    "cartera vencida",
-    "descuentos",
     "créditos",
+    "descuentos",
+    "cartera vencida",
+    "personas morales",
     "programas de beneficio",
-    "personas morales"
+    "Secretaría",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "cómo calcular el interés acumulable",
-    "interés de cartera vencida",
-    "créditos con descuento",
-    "LISR 8",
-    "RMF 11.2.2."
+    "interés de créditos",
+    "créditos con descuentos",
+    "beneficios a deudores",
+    "LISR",
+    "cartera vencida"
   ],
-  "resumen": "Las personas morales que compren créditos con descuentos autorizados pueden calcular el interés acumulable tomando en cuenta la diferencia entre el valor nominal de la cartera y lo que realmente pagaron, sin considerar los descuentos. Esto se aplica según lo dispuesto en la regla mencionada.",
+  "resumen": "Las personas morales que adquieran créditos beneficiados por descuentos autorizados pueden determinar el interés acumulable sin incluir el valor del descuento. Esto aplica según lo establecido en ciertas circulares y en la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el interés acumulable en créditos?",
-    "¿Qué son los programas de beneficio para deudores?",
-    "¿Qué descuentos se consideran para el interés acumulable?",
-    "¿Cómo afecta la compra de cartera vencida en el ISR?",
-    "¿Existen reglas específicas para determinar el interés acumulable?"
+    "¿Cómo se determina el interés de un crédito con descuento?",
+    "¿Qué leyes regulan los descuentos en créditos?",
+    "¿Quiénes pueden beneficiarse de los programas de descuento?",
+    "¿Qué documentos necesito para aplicar el interés acumulable?",
+    "¿Cómo afecta el descuento al valor de la cartera vencida?"
   ]
 }

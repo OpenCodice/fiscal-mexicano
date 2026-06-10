@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6f593915afa59159",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Programa de regularización fiscal",
+  "denominacion_comun": "Estimulo fiscal por créditos fiscales",
   "temas": [
-    "estimulo fiscal",
     "créditos fiscales",
-    "multas",
     "recargos",
+    "multas",
+    "cuotas compensatorias",
     "contribuciones federales",
-    "obligaciones fiscales"
+    "facultades de comprobación"
   ],
   "terminos_coloquiales": [
-    "regularización de deudas",
-    "condonación de multas",
-    "pago de recargos",
-    "estímulo fiscal del 100%",
-    "LIF"
+    "deuda fiscal",
+    "multa",
+    "recargos",
+    "SAT",
+    "créditos fiscales",
+    "cuotas omitidas"
   ],
-  "resumen": "Este programa permite a los contribuyentes aplicar un estímulo fiscal en forma de condonación de recargos y multas relacionadas con deudas fiscales, siempre que se cumplan ciertas condiciones. Aplica a créditos fiscales derivados de contribuciones federales y tiene distintas tasas de estímulo dependiendo del tipo de deuda.",
+  "resumen": "La disposición establece que ciertos contribuyentes pueden aplicar un estímulo fiscal del 100% para el pago de recargos y multas relacionadas con créditos fiscales. Esto incluye recargos de contribuciones federales y multas determinadas por el SAT, bajo ciertas condiciones específicas.",
   "preguntas_ejemplo": [
-    "¿Qué es el Programa de regularización fiscal?",
-    "¿Cómo puedo beneficiarme de la condonación de multas?",
-    "¿Cuáles son los requisitos para aplicar el estímulo fiscal?",
-    "¿Qué deudas fiscales se pueden regularizar bajo este programa?",
-    "¿Qué tipo de multas se condonan?",
-    "¿Cuál es el porcentaje de estímulo para los recargos?"
+    "¿Cómo puedo reducir los recargos de mis deudas fiscales?",
+    "¿Cuáles son las multas que puedo regularizar?",
+    "¿Qué créditos fiscales puedo presentar para obtener un estímulo fiscal?",
+    "¿El SAT me puede ayudar con mis recargos?",
+    "¿Qué significa el estímulo fiscal del 100% en mi situación?"
   ]
 }

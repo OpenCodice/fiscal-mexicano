@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:024838a108b3b6c6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Uso del CSD para CFDI",
+  "denominacion_comun": "Restricción del CSD para CFDI",
   "temas": [
     "CSD",
     "CFDI",
-    "Buzón tributario",
-    "Notificaciones fiscales",
-    "Requerimientos",
-    "Resoluciones fiscales"
+    "buzón tributario",
+    "notificaciones fiscales",
+    "requerimientos",
+    "resoluciones"
   ],
   "terminos_coloquiales": [
-    "Certificado de Sello Digital",
-    "Comprobante Fiscal Digital por Internet",
-    "Buzón tributario",
-    "Notificaciones fiscales"
+    "certificado de sello digital",
+    "factura electrónica",
+    "notificaciones por el SAT",
+    "buzón tributario"
   ],
-  "resumen": "La normativa establece que la autoridad fiscal puede notificar a los contribuyentes a través del buzón tributario y otras formas señaladas en la ley, en caso de que se restrinja temporalmente el uso del CSD para la expedición de CFDI.",
+  "resumen": "La disposición establece que la autoridad fiscal puede notificar oficios, requerimientos y resoluciones a través del buzón tributario u otras formas, y menciona la posibilidad de restricción temporal en el uso del CSD para emitir CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo me notifican si no puedo usar mi CSD?",
-    "¿Qué hago si no puedo expedir CFDI con mi CSD?",
+    "¿Cómo me notifican los oficios del SAT?",
     "¿Qué es el buzón tributario?",
-    "¿Cómo se realizan las notificaciones fiscales?",
-    "¿Qué implica la restricción del uso del CSD?"
+    "¿Pueden restringir mi CSD?",
+    "¿Qué pasa si no puedo emitir mis CFDI?",
+    "¿Qué hacer si tengo problemas con mis notificaciones fiscales?"
   ]
 }

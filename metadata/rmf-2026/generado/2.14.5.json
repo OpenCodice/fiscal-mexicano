@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e64c801eed3a659c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de Multas Fiscales",
+  "denominacion_comun": "Reducción de multas fiscales",
   "temas": [
     "infracciones fiscales",
     "multas",
-    "contribuciones",
+    "reducción de multas",
     "declaraciones complementarias",
-    "responsabilidad fiscal",
+    "contribuciones de comercio exterior",
+    "obligaciones fiscales",
     "ejidatarios",
-    "comuneros",
-    "pequeños propietarios"
+    "comuneros"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
+    "bajar multas",
     "multas fiscales",
-    "CFF 74"
+    "infracciones",
+    "declaraciones de impuestos",
+    "ISR",
+    "comercio exterior"
   ],
-  "resumen": "Los contribuyentes pueden solicitar la reducción de multas que se imponen por infracciones fiscales y aduaneras, así como por otras omisiones o errores en sus declaraciones. Esta reducción se aplica en ciertas condiciones establecidas en el Código Fiscal de la Federación.",
+  "resumen": "Los contribuyentes pueden pedir la reducción de multas si cumplen con ciertos supuestos, como infracciones fiscales, omisiones en el comercio exterior o declaraciones incorrectas. También hay opciones específicas para ejidatarios y comuneros que enfrentan multas fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué multas fiscales se pueden reducir?",
-    "¿Cómo puedo solicitar la reducción de una multa?",
-    "¿Qué requisitos debo cumplir para que me reduzcan una multa fiscal?",
-    "¿Existen multas que no son susceptibles de reducción?",
-    "¿La reducción de multas aplica para ejidatarios y pequeños propietarios?"
+    "¿Cómo puedo reducir una multa fiscal?",
+    "¿Qué tipos de multas se pueden bajar según el CFF?",
+    "¿Qué supuestos aplican para solicitar la reducción de multas?",
+    "¿Los ejidatarios pueden solicitar reducción de multas fiscales?",
+    "¿Qué hago si tengo una infracción en mis declaraciones de impuestos?",
+    "¿Se pueden reducir multas por omisión de comercio exterior?"
   ]
 }

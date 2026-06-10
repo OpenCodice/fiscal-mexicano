@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:48eccd51778bbc33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Supuestos de improcedencia para el estímulo fiscal",
   "temas": [
-    "improcedencia del estímulo fiscal",
-    "ingresos altos",
+    "estímulo fiscal",
+    "improcedencia",
+    "ingresos",
     "créditos fiscales",
-    "actos administrativos impugnados"
+    "SAT",
+    "actos administrativos",
+    "procedimientos de defensa"
   ],
   "terminos_coloquiales": [
-    "improcedencia del estímulo",
     "estímulo fiscal",
-    "LIF",
-    "créditos fiscales",
-    "SAT"
+    "declarar ingresos altos",
+    "créditos fiscales del SAT",
+    "controversias fiscales",
+    "impugnaciones",
+    "defensa fiscal"
   ],
-  "resumen": "El estímulo fiscal no se aplicará a contribuyentes con ingresos superiores a 300 millones de pesos, créditos fiscales que estén en cobranza o aquellos que no sean firmes por estar en impugnación. Si se ha iniciado un medio de defensa, se debe presentar el desistimiento para poder solicitar el estímulo.",
+  "resumen": "Esta disposición establece que ciertos contribuyentes no son elegibles para un estímulo fiscal si tienen ingresos altos, si tienen créditos fiscales en cobro, o si sus créditos fiscales no están firmes. Además, se requiere un desistimiento si se busca aplicar el estímulo tras impugnar un acto administrativo.",
   "preguntas_ejemplo": [
-    "¿Quiénes no pueden acceder al estímulo fiscal?",
-    "¿Qué pasa si tengo un crédito fiscal en controversia?",
-    "¿Se aplica el estímulo fiscal si mis ingresos son muy altos?",
-    "¿Qué se necesita para solicitar el estímulo fiscal si tengo un juicio pendiente?",
-    "¿Qué implica el término 'crédito fiscal no firme'?",
-    "¿Qué documentos debo presentar para el estímulo fiscal?"
+    "¿Quiénes no pueden aplicar para el estímulo fiscal?",
+    "¿Qué pasa si tengo ingresos altos?",
+    "¿Los créditos fiscales en cobro afectan el estímulo fiscal?",
+    "¿Cómo saber si un crédito fiscal está firme?",
+    "¿Qué hacer si impugno un crédito fiscal y quiero el estímulo?"
   ]
 }

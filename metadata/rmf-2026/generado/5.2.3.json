@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5f6cbb8d270da010",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Múltiple del IEPS",
   "temas": [
-    "Obligaciones de contribuyentes",
-    "Registro de precios de venta",
-    "Productos con nicotina",
-    "Programa Electrónico MULTI-IEPS",
-    "Actualización de listas de precios"
+    "registro de precios de venta",
+    "cigarros",
+    "productos con nicotina",
+    "declaración informativa",
+    "actualización de listas",
+    "foliado de documentos"
   ],
   "terminos_coloquiales": [
+    "declaración del IEPS",
     "MULTI-IEPS",
-    "Declaración informativa IEPS",
-    "Registro de precios IEPS",
-    "Reporte de precios de cigarros"
+    "lista de precios",
+    "cigarros",
+    "productos que contienen nicotina"
   ],
-  "resumen": "Los productores e importadores de cigarros y productos con nicotina deben registrar su lista de precios ante las autoridades fiscales a través del programa MULTI-IEPS. Esto debe hacerse junto con la declaración de pago correspondiente al primer mes del ejercicio fiscal.",
+  "resumen": "Los productores e importadores de cigarros y productos con nicotina deben registrar una lista de precios de venta ante las autoridades fiscales, usando el programa MULTI-IEPS. Esta lista debe ser actualizada y foliada conforme a lo establecido por la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo registro mis precios de venta de cigarros?",
-    "¿Qué es el MULTI-IEPS?",
-    "¿Qué tengo que incluir en la lista de precios para el IEPS?",
-    "¿Con qué frecuencia debo actualizar mis precios de productos con nicotina?",
+    "¿Qué es la MULTI-IEPS?",
+    "¿Cómo registro los precios de venta de cigarros?",
+    "¿Qué debo hacer si actualizo mi lista de precios?",
+    "¿Es obligatorio foliar la lista de precios de productos con nicotina?",
     "¿Dónde encuentro el programa MULTI-IEPS?"
   ]
 }

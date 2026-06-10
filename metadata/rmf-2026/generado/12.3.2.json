@@ -6,32 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ef6ccda0975b800",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plataformas Tecnológicas",
+  "denominacion_comun": "Plataformas tecnológicas",
   "temas": [
-    "enajenación de bienes",
     "prestación de servicios",
+    "enajenación de bienes",
     "hospedaje",
     "uso o goce temporal de bienes",
-    "aviso de actualización de actividades económicas",
+    "aviso de actualización de actividades",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "plataformas digitales",
-    "servicios en línea",
-    "aviso de actividades económicas",
-    "CFF",
-    "ISR",
-    "IVA"
+    "plataformas tecnológicas",
+    "avisos fiscales",
+    "servicios en línea"
   ],
-  "resumen": "Las personas físicas que vendan bienes o presten servicios a través de plataformas digitales deben presentar un aviso sobre sus actividades económicas y obligaciones fiscales. Este aviso detalla las actividades realizadas mediante estas plataformas.",
+  "resumen": "Las personas físicas que vendan bienes o presten servicios a través de plataformas tecnológicas deben presentar un aviso para informar sobre sus actividades económicas y obligaciones fiscales. Este aviso se realiza conforme a una ficha de trámite específica.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si vendo productos en línea?",
-    "¿Cómo actualizo mis obligaciones fiscales por servicios digitales?",
+    "¿Qué obligaciones tengo si vendo bienes en línea?",
+    "¿Necesito presentar un aviso si ofrezco servicios a través de una app?",
     "¿Qué es el aviso de actualización de actividades económicas?",
-    "¿Cuáles son mis obligaciones si ofrezco hospedaje por plataformas digitales?",
-    "¿Necesito informar algo si uso aplicaciones para prestar servicios?",
-    "¿Qué plataformas se consideran en esta regulación?"
+    "¿Qué tengo que hacer si alquilo un lugar por internet?",
+    "¿Dónde encuentro la ficha para hacer mi aviso de actividades?"
   ]
 }

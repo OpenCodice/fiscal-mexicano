@@ -6,34 +6,39 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80f5b50d2e770fac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Anexos de la RMF",
   "temas": [
     "formas oficiales fiscales",
     "trámites fiscales",
-    "prácticas fiscales indebidas",
-    "cantidades actualizadas LFD",
-    "Código Fiscal de la Federación",
+    "criterios sobre prácticas fiscales",
+    "cantidades actualizadas",
     "Catálogo de Actividades Económicas",
-    "tarifas de ISR",
-    "obligaciones de monederos electrónicos",
-    "donatarias autorizadas"
+    "obligaciones de emisores de monederos electrónicos",
+    "dictamen de estados financieros",
+    "contabilidad en medios electrónicos",
+    "cuentas financieras reportables"
   ],
   "terminos_coloquiales": [
-    "anexos RMF",
-    "RMF Anexos",
-    "Anexos fiscales",
-    "formatos fiscales",
+    "anexos",
+    "formas fiscales",
+    "trámites",
     "criterios fiscales",
-    "monederos electrónicos"
+    "catálogo de actividades",
+    "monederos electrónicos",
+    "dictámenes financieros",
+    "contabilidad electrónica",
+    "cuentas reportables"
   ],
-  "resumen": "Los Anexos de la RMF incluyen diversos documentos y formularios relacionados con las obligaciones fiscales. Proporcionan información sobre trámites, criterios fiscales y cantidades actualizadas pertinentes para el cumplimiento de la normativa fiscal.",
+  "resumen": "La regla establece que la RMF incluye varios anexos que contienen formas fiscales, trámites y criterios fiscales, así como cantidades actualizadas y catálogos necesarios para cumplir con las disposiciones fiscales. Estos anexos son recursos clave para los contribuyentes y sus asesores.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los anexos de la RMF?",
-    "¿Qué formatos fiscales debo usar?",
-    "¿Dónde encuentro los criterios sobre prácticas fiscales indebidas?",
-    "¿Qué tarifas aplican para el ISR?",
-    "¿Cómo me informo sobre las donatarias autorizadas?"
+    "¿Qué anexos incluye la RMF?",
+    "¿Dónde puedo encontrar las formas fiscales oficiales?",
+    "¿Qué criterios sobre prácticas fiscales están disponibles?",
+    "¿Qué cantidades actualizadas se aplican este año?",
+    "¿Existen obligaciones para los emisores de monederos electrónicos?",
+    "¿Cómo se realiza la contabilidad en medios electrónicos?"
   ]
 }

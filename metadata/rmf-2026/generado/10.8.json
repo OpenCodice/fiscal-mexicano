@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09fdac38cf1e1d9b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inicio de actividades de producción de hidrocarburos",
+  "denominacion_comun": "Inicio de actividades hidrocarburíferas",
   "temas": [
-    "producción comercial",
-    "notificación de planes de desarrollo",
+    "Producción comercial",
+    "Plan de desarrollo",
+    "Extracción de hidrocarburos",
+    "Notificación",
     "SENER",
     "SAT",
-    "extracción de hidrocarburos",
-    "asignaciones",
-    "contratos"
+    "IAEEH"
   ],
   "terminos_coloquiales": [
     "inicio de actividades",
-    "producción de hidrocarburos",
-    "planes de desarrollo",
-    "LISH",
+    "producción de petróleo",
+    "plan de desarrollo de hidrocarburos",
+    "Hidrocarburos",
     "SENER",
-    "SAT"
+    "SAT",
+    "IAEEH"
   ],
-  "resumen": "El inicio de las actividades de producción comercial de hidrocarburos se considera cuando se notifica al contratista el primer plan de desarrollo aprobado por la SENER. Además, la SENER enviará al SAT la fecha de dicha notificación.",
+  "resumen": "El inicio de actividades para la producción de hidrocarburos ocurre cuando se notifica al contratista sobre el primer plan de desarrollo aprobado. La SENER debe proporcionar al SAT la fecha de dicha notificación para cada asignataria. En caso de migrar asignaciones a contratos, se aplicará una cuota específica para determiner el IAEEH.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que inicia la producción de hidrocarburos?",
-    "¿Qué información le envía la SENER al SAT sobre la producción de hidrocarburos?",
-    "¿Cuál es el rol de la notificación de planes de desarrollo en la producción de hidrocarburos?",
-    "¿Cómo se manejan las asignaciones y contratos en la producción de hidrocarburos?",
-    "¿Qué artículos de la LISH regulan el inicio de actividades en la extracción de hidrocarburos?"
+    "¿Cuándo inicia la producción de hidrocarburos?",
+    "¿Qué se necesita para comenzar actividades en hidrocarburos?",
+    "¿Cómo se notifica el plan de desarrollo para hidrocarburos?",
+    "¿Qué información debe proporcionar la SENER al SAT?",
+    "¿Qué cuota se aplica en la migración de asignaciones de hidrocarburos?"
   ]
 }

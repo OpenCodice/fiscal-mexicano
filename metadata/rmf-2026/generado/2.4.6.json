@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:046abe2a5a57ffe5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción y suspensión en el RFC de trabajadores",
+  "denominacion_comun": "Inscripción y reanudación en el RFC de trabajadores",
   "temas": [
-    "inscripción en el RFC",
-    "reanudación de actividades",
-    "suspensión de actividades",
+    "inscripción RFC",
+    "reanudación actividades",
+    "suspensión trabajadores",
+    "avisos al RFC",
+    "fichas de trámite",
     "relación laboral",
-    "avisos de suspensión"
+    "empleador"
   ],
   "terminos_coloquiales": [
-    "inscripción RFC trabajadores",
-    "suspensión RFC trabajadores",
-    "reanudación RFC trabajadores",
-    "CFF",
-    "RFC"
+    "inscripción de empleados",
+    "alta en el RFC",
+    "baja en el RFC",
+    "avisos de suspensión",
+    "trabajadores en el RFC"
   ],
-  "resumen": "Los empleadores deben presentar las solicitudes de inscripción y reanudación de trabajadores en el RFC, utilizando los formatos correspondientes. Además, si se termina la relación laboral, también deben avisar sobre la suspensión de actividades de esos trabajadores.",
+  "resumen": "La regla establece que los empleadores deben presentar solicitudes para inscribir y reanudar actividades de sus trabajadores en el RFC, así como avisos de suspensión cuando termine la relación laboral. Se debe seguir lo indicado en las fichas de trámite correspondientes.",
   "preguntas_ejemplo": [
     "¿Cómo inscribo a un trabajador en el RFC?",
-    "¿Qué debo hacer para reanudar la inscripción de un trabajador en el RFC?",
-    "¿Cuál es el procedimiento para suspender la inscripción de un trabajador en el RFC?",
-    "¿Qué formularios necesito para la inscripción de trabajadores?",
-    "¿Qué ocurre cuando un trabajador deja de laborar?",
-    "¿Qué información se requiere para inscribir a un trabajador en el RFC?"
+    "¿Qué debo hacer para reanudar la inscripción de un empleado?",
+    "¿Cuándo y cómo presento el aviso de suspensión de un trabajador?",
+    "¿Qué información necesito para inscribir a mis empleados?",
+    "¿Dónde encuentro las fichas de trámite para el RFC de trabajadores?"
   ]
 }

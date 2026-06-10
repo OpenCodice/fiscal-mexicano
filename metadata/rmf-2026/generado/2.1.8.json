@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca7617f77bfc8217",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes en préstamos de valores",
+  "denominacion_comun": "Préstamo de Valores",
   "temas": [
-    "enajenación de bienes",
+    "enajenación",
     "préstamo de títulos",
     "valores",
-    "operaciones de crédito"
+    "contratos",
+    "Instituciones de Crédito",
+    "Casas de Bolsa",
+    "Fondos de Inversión"
   ],
   "terminos_coloquiales": [
-    "no hay enajenación en préstamos",
     "préstamos de valores",
+    "préstamo de títulos",
+    "operaciones de préstamo",
     "CFF 14-A"
   ],
-  "resumen": "No se considera que existe enajenación de bienes en las operaciones de préstamo de títulos y valores, siempre que se restituyan los bienes conforme a ciertas reglas establecidas. Esto aplica también a contratos de préstamo cuyo vencimiento sea definido por el prestamista.",
+  "resumen": "No se considera enajenación de bienes en las operaciones de préstamo de títulos o valores si se restituye lo prestado conforme a las reglas establecidas. Esto también aplica a los contratos de préstamo de valores definidos por el prestamista, siempre que se cumplan las condiciones mencionadas.",
   "preguntas_ejemplo": [
-    "¿Qué significa no enajenación en préstamos de valores?",
-    "¿Cuándo no hay enajenación de bienes en un préstamo?",
-    "¿Qué reglas debo seguir para préstamos de valores?",
-    "¿Cómo se manejan los préstamos de títulos según el CFF?",
-    "¿Qué dice el CFF sobre préstamos de valores?"
+    "¿Qué es el préstamo de valores según el CFF?",
+    "¿Cuándo se considera que no hay enajenación en un préstamo de títulos?",
+    "¿Qué instituciones tienen que seguir reglas para el préstamo de valores?",
+    "¿Cómo se restituye un préstamo de valores para no caer en enajenación?",
+    "¿Qué contratos califican como préstamos de títulos sin enajenación?"
   ]
 }

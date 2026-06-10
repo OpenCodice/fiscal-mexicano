@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fc2cbe5c46543254",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Método detallista",
+  "denominacion_comun": "Método detallista para tiendas de autoservicio o departamentales",
   "temas": [
-    "Impuesto sobre la renta",
-    "Deducciones",
-    "Costo de lo vendido",
-    "Inventarios",
-    "Tiendas de autoservicio",
-    "Valuación de inventario"
+    "costo de lo vendido",
+    "método de valuación de inventario",
+    "tiendas de autoservicio",
+    "mercancías",
+    "transferencias de mercancías",
+    "control de inventarios",
+    "utilidad bruta",
+    "valor de inventarios"
   ],
   "terminos_coloquiales": [
-    "Método detallista",
-    "Costo de lo vendido",
-    "LISR",
-    "Inventario para tiendas",
-    "Deducciones por inventario"
+    "costo de lo vendido",
+    "método detallista",
+    "tiendas de autoservicio",
+    "mercancías",
+    "inventario",
+    "utilidad bruta"
   ],
-  "resumen": "Esta disposición permite a los contribuyentes de tiendas de autoservicio o departamentales utilizar un método de valuación de inventarios sin necesidad de llevar un control estricto, siempre que puedan identificar los artículos por grupos o departamentos. El costo de lo vendido se determina considerando las existencias al inicio y al final del ejercicio, así como las transferencias entre departamentos.",
+  "resumen": "Esta disposición establece cómo los contribuyentes en tiendas de autoservicio o departamentales pueden calcular el costo de lo vendido utilizando el método detallista, sin necesidad de llevar un control de inventarios exhaustivo. Se determina el valor de los inventarios y el costo deducible de las mercancías mediante un sistema simplificado que agrupa artículos homogéneos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de lo vendido en tiendas de autoservicio?",
-    "¿Puedo usar el método detallista para deducir inventarios?",
-    "¿Qué mercancías están exentas de control de inventarios?",
-    "¿Cómo determino el valor de los inventarios al final del ejercicio?",
-    "¿Qué implicaciones tiene la regla para mi tienda departamental?"
+    "¿Cómo puedo calcular el costo de lo vendido en mi tienda de autoservicio?",
+    "¿Qué método de valuación puedo usar para mis inventarios?",
+    "¿Puedo no llevar control de inventarios si utilizo el método detallista?",
+    "¿Cómo se determina el valor de los inventarios en una tienda departamental?",
+    "¿Qué criterios debo seguir para calcular la utilidad bruta según esta regla?"
   ]
 }

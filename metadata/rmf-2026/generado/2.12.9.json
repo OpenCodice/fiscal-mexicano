@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:01c2b05089a3cbde",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reportes de Instituciones Financieras",
+  "denominacion_comun": "Reportes de instituciones de crédito y casas de bolsa",
   "temas": [
-    "reportes",
     "fianzas fiscales",
-    "custodia de valores",
+    "informes de custodia",
     "instituciones de crédito",
     "casas de bolsa",
-    "información a SAT",
-    "plazos de entrega"
+    "saldo de cuentas",
+    "pólizas de fianza"
   ],
   "terminos_coloquiales": [
-    "reportes de instituciones",
-    "fianzas fiscales",
-    "custodia",
-    "información fiscal"
+    "reportes de bancos",
+    "informes de casas de bolsa",
+    "fianzas",
+    "custodia de valores",
+    "saldo bancario"
   ],
-  "resumen": "Las instituciones de crédito y casas de bolsa deben reportar al SAT información sobre las fianzas fiscales que tienen en custodia. Este reporte debe hacerse en los primeros diez días de cada mes y comunicar cualquier cambio en su estatus.",
+  "resumen": "Las instituciones de crédito y casas de bolsa deben informar al SAT sobre las fianzas que tienen en custodia y el saldo de la cuenta. Si dejan de ser depositarios, deben notificarlo a la autoridad fiscal inmediatamente. La falta de este reporte puede llevar a que no se acepten pólizas de fianza de esas instituciones.",
   "preguntas_ejemplo": [
-    "¿Qué información deben enviar los bancos al SAT?",
-    "¿Cómo reportan las casas de bolsa sus fianzas fiscales?",
-    "¿Qué pasa si no entregan el reporte a tiempo?",
-    "¿Qué es el informe que deben remitir las instituciones financieras?",
-    "¿Cuándo deben informar los cambios en la custodia de valores?"
+    "¿Qué informes tienen que enviar los bancos al SAT?",
+    "¿Cómo notifico al SAT si dejo de custodiar fianzas?",
+    "¿Qué pasa si no presento el reporte a tiempo?",
+    "¿Qué información deben incluir las casas de bolsa en su reporte?",
+    "¿Cuándo debo informar sobre el estatus de la custodia de valores?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de6ee313e508c38a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Renovación de autorización de proveedores de CFDI",
   "temas": [
-    "autorización de proveedores",
-    "CFDI",
+    "autorización",
     "renovación",
+    "proveedores de CFDI",
     "obligaciones",
-    "avisos a prestatarios"
+    "avisos a usuarios",
+    "sanciones"
   ],
   "terminos_coloquiales": [
     "renovación de autorización",
-    "proveedor de CFDI",
-    "PCGCFDISP",
-    "CFDI"
+    "proveedor de facturas",
+    "CFDI",
+    "PCGCFDISP"
   ],
-  "resumen": "La regla establece el proceso y requisitos para que los proveedores de certificación y generación de CFDI del sector primario puedan solicitar la renovación de su autorización. Se detallan las obligaciones que deben cumplir si no renuevan y los procedimientos para informar a sus prestatarios sobre la cesación de su autorización.",
+  "resumen": "La regla establece el proceso para que los proveedores de certificación y generación de CFDI puedan solicitar la renovación de su autorización. Deben cumplir ciertos requisitos y, en caso de no hacerlo, pueden perder su autorización y deben informar a sus usuarios sobre la situación.",
   "preguntas_ejemplo": [
-    "¿Cómo renuevo la autorización de proveedor de CFDI?",
-    "¿Qué pasa si no renuevo mi autorización como proveedor de CFDI?",
-    "¿Cuáles son mis obligaciones al dejar de ser proveedor de CFDI?",
-    "¿Qué aviso debo enviar a mis clientes si ya no tengo autorización?",
-    "¿Dónde puedo consultar la ficha de trámite para renovar la autorización de CFDI?"
+    "¿Cómo renuevo mi autorización como proveedor de CFDI?",
+    "¿Qué pasa si no renuevo mi autorización de proveedor de facturas?",
+    "¿Cuáles son los requisitos para renovar la autorización de un proveedor de CFDI?",
+    "¿Qué debo hacer si me queda poco tiempo para renovar la autorización?",
+    "¿Cómo informo a mis clientes sobre la cesación de actividades como proveedor de CFDI?"
   ]
 }

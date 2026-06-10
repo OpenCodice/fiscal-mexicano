@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e7a9434f346189d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción en el RFC para personas morales con socios extranjeros",
+  "denominacion_comun": "Inscripción de personas morales con socios extranjeros",
   "temas": [
+    "RFC",
     "personas morales",
     "asociaciones en participación",
     "socios extranjeros",
+    "relación de socios",
     "inscripción en el RFC",
-    "obligaciones fiscales"
+    "clave RFC genérica"
   ],
   "terminos_coloquiales": [
-    "RFC para personas morales",
-    "socios en el extranjero",
-    "clave EXT990101NI1",
-    "alta en el RFC",
-    "declaración de socios extranjeros",
-    "CFF 27"
+    "inscripción en el RFC",
+    "socios extranjeros",
+    "CFF",
+    "declaración de socios",
+    "Forma Oficial 96"
   ],
-  "resumen": "Las personas morales y asociaciones en participación en México, que tengan socios extranjeros no obligados a inscribirse en el RFC, deben hacer uso de claves genéricas al solicitar su inscripción. Además, deben presentar una relación de estos socios ante las autoridades fiscales.",
+  "resumen": "Esta disposición establece que las personas morales y asociaciones en participación residentes en México deben consignar una clave genérica en el RFC al solicitar su inscripción, si tienen socios o accionistas residentes en el extranjero que no están obligados a inscribirse. También deben presentar una relación de estos socios ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo inscribir a una persona moral con socios en el extranjero?",
-    "¿Qué claves se utilizan para socios extranjeros en el RFC?",
-    "¿Cuáles son las obligaciones fiscales para personas morales con socios no residentes?",
-    "¿Qué es la ficha de trámite 39/CFF?",
-    "¿Qué hacer si mis socios extranjeros no están inscritos en el RFC?",
-    "¿Qué información debo presentar sobre mis socios extranjeros?"
+    "¿Cómo inscribo a mi empresa si tiene socios en el extranjero?",
+    "¿Qué claves RFC debo usar para socios extranjeros?",
+    "¿Tengo que presentar una relación de socios extranjeros si no están inscritos en el RFC?",
+    "¿Qué es la Forma Oficial 96 y cuándo se utiliza?",
+    "¿Qué deben hacer las asociaciones con socios no mexicanos?"
   ]
 }

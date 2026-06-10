@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f84175962009ebe5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inscripción en el RFC para personas morales",
   "temas": [
-    "RFC",
-    "SAT",
-    "documentación",
+    "inscripción en el RFC",
+    "personas morales",
+    "documentación fiscal",
     "situación fiscal",
-    "plazos",
+    "plazo de respuesta",
     "oficio de respuesta",
     "ficha de trámite"
   ],
   "terminos_coloquiales": [
+    "RFC",
     "inscripción en el RFC",
-    "sat",
-    "documentos para RFC",
-    "plazo para RFC",
-    "oficio SAT",
-    "ACUSE"
+    "papelería para el RFC",
+    "trámite de RFC",
+    "ACUSE CFF",
+    "situación fiscal",
+    "número de RFC"
   ],
-  "resumen": "Cuando el SAT niega la inscripción en el RFC a una persona moral, debe entregar un acuse al representante legal. La persona moral tiene un plazo de diez días para presentar la documentación que acredite la regularización de su situación fiscal.",
+  "resumen": "Esta regla establece el procedimiento que deben seguir las personas morales si el SAT niega su inscripción en el RFC. Deben presentar documentación para desvirtuar la situación fiscal en un plazo de diez días y esperar la respuesta de la autoridad.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si el SAT niega mi inscripción en el RFC?",
-    "¿Cuánto tiempo tengo para presentar documentos si me niegan el RFC?",
-    "¿Qué es el acuse del artículo 27 del CFF?",
-    "¿Qué sucede si no entrego la información en el plazo establecido?",
-    "¿Cómo puedo volver a solicitar la inscripción en el RFC?"
+    "¿Qué hago si el SAT me niega la inscripción en el RFC?",
+    "¿Cuál es el plazo para presentar la documentación después de que me niegan el RFC?",
+    "¿Qué es el Acuse del artículo 27 del CFF?",
+    "¿Qué sucede si no presento la información a tiempo para mi inscripción en el RFC?",
+    "¿Cómo cambio la decisión del SAT sobre mi inscripción en el RFC?",
+    "¿Dónde consulto la respuesta de mi solicitud de inscripción en el RFC?"
   ]
 }

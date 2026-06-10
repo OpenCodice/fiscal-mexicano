@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a6921352c1aebb5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "Impuesto sobre la renta",
-    "Límite de ingresos",
-    "Actividades empresariales",
-    "Determinación del ISR"
+    "ingresos",
+    "actividad empresarial",
+    "impuesto sobre la renta",
+    "exclusiones de ingresos",
+    "límite de ingresos",
+    "contribuyentes",
+    "determinación de ISR"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
-    "RESICO"
+    "RESICO",
+    "régimen simplificado",
+    "no contar ingresos",
+    "ingresos no considerados"
   ],
-  "resumen": "Este régimen permite a los contribuyentes no considerar ciertos ingresos al calcular el monto de $3,500,000 para tributar. Se enfoca en las actividades empresariales especificadas en la ley.",
+  "resumen": "El Régimen Simplificado de Confianza permite que ciertos ingresos no se consideren para el límite de ingresos establecido. Este régimen es aplicable a contribuyentes con ingresos de actividades empresariales específicos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los ingresos que no cuentan para el Régimen Simplificado de Confianza?",
-    "¿Qué es el RESICO y cómo funciona?",
-    "¿Cómo se determina el ISR en el Régimen Simplificado de Confianza?",
-    "¿Qué actividades empresariales están relacionadas con el RESICO?",
-    "¿Qué límites de ingresos maneja el Régimen Simplificado de Confianza?"
+    "¿Qué ingresos no se cuentan para el Régimen Simplificado de Confianza?",
+    "¿Cuál es el límite de ingresos en el RESICO?",
+    "¿Cómo se determina el ISR para el Régimen Simplificado?",
+    "¿Qué actividades empresariales están permitidas en este régimen?",
+    "¿Qué pasa si mis ingresos sobrepasan el límite del Régimen Simplificado?"
   ]
 }

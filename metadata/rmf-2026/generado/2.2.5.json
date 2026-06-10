@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e864b3f829f4f0f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cancelación de Certificados",
+  "denominacion_comun": "Cancelación de Certificados por Muerte o Duplicidad",
   "temas": [
+    "Cancelación de certificados",
     "Muerte del titular",
     "Extinción de sociedades",
-    "Duplicidad de RFC",
-    "Revocación de certificados"
+    "Duplicidad en el RFC",
+    "Actualización de situación del contribuyente"
   ],
   "terminos_coloquiales": [
-    "Cancelación de certificados",
-    "Cancelación por muerte",
-    "RFC duplicado",
-    "CFF"
+    "baja de certificados",
+    "muerte de contribuyente",
+    "cancelar RFC",
+    "SAT cancelación",
+    "certificados de contribuyente"
   ],
-  "resumen": "La autoridad fiscal cancelará certificados de contribuyentes si se presenta aviso de fallecimiento, extinción por liquidación o duplicidad en el RFC. Los certificados serán revocados una vez cancelado el RFC del contribuyente.",
+  "resumen": "Esta disposición establece que el SAT cancela los certificados de contribuyentes cuando se acredita su fallecimiento o la extinción de la sociedad a la que pertenecen. También se cancela si hay duplicidad en las claves del RFC. El representante legal puede presentar aclaraciones y pruebas sobre estos casos.",
   "preguntas_ejemplo": [
     "¿Qué pasa con mi certificado si fallezco?",
-    "¿Cómo se cancela un RFC por duplicidad?",
-    "¿Qué debo hacer si mi sociedad se extingue?",
-    "¿Qué ocurre con los certificados tras la muerte de un contribuyente?",
-    "¿Cómo se procede con la cancelación de certificados asociados a un RFC?"
+    "¿Cómo se cancela mi RFC por duplicidad?",
+    "¿Qué debo hacer si mi sociedad fue liquidada y tengo certificados?",
+    "¿El SAT me avisa si cancela mi certificado por defunción?",
+    "¿Puedo presentar pruebas para cancelar mi certificado?"
   ]
 }

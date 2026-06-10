@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c610aa9454f5ecaa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de documentación ante el SAT",
+  "denominacion_comun": "Presentación de Documentación ante el SAT",
   "temas": [
+    "Documentación fiscal",
     "Trámites fiscales",
-    "Presentación de documentos",
-    "Módulos de servicios tributarios",
+    "Registro en el RFC",
+    "Presentación ante el SAT",
+    "Medios electrónicos",
     "Citas en el SAT",
-    "Documentos digitales"
+    "Promociones y trámites"
   ],
   "terminos_coloquiales": [
-    "Cómo presentar documentos en el SAT",
-    "Dónde entregar documentos para el SAT",
-    "Trámites ante el SAT",
-    "Citas SAT",
-    "Buzón tributario"
+    "presentar documentos",
+    "hacer trámites en el SAT",
+    "cita en el SAT",
+    "documentos digitales",
+    "e.firma"
   ],
-  "resumen": "La regla establece cómo y dónde deben presentarse los documentos ante el SAT, incluyendo el uso de módulos y la posibilidad de presentar trámites de manera digital. También aclara cómo actuar en caso de contingencias que afecten la disponibilidad del Portal del SAT.",
+  "resumen": "La regla establece los lugares y formas en que los contribuyentes deben presentar su documentación ante el SAT. Incluye instrucciones para la presentación de documentos en módulos específicos y menciona el uso del Portal del SAT para ciertos trámites.",
   "preguntas_ejemplo": [
-    "¿Dónde llevo mis documentos para el SAT?",
+    "¿Dónde debo presentar mis documentos ante el SAT?",
     "¿Cómo puedo hacer una cita en el SAT?",
-    "¿Puedo presentar mis trámites de manera electrónica?",
-    "¿Qué hago si el Portal del SAT no funciona?",
-    "¿Cuáles son los lugares para presentar documentación fiscal?"
+    "¿Qué hacer si el Portal del SAT está inhabilitado?",
+    "¿Cuáles son los trámites que puedo hacer sin estar en el RFC?",
+    "¿Puedo presentar documentos de forma digital?"
   ]
 }

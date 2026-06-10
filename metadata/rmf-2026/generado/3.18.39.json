@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3dbfbbf7067f5003",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Designación de representante legal",
+  "denominacion_comun": "Representante legal para residentes en el extranjero",
   "temas": [
+    "designación de representante",
     "residentes en el extranjero",
-    "impuesto sobre la renta",
-    "representante legal",
-    "ficha de trámite 90/ISR",
-    "título V de la Ley del ISR"
+    "Impuesto sobre la Renta",
+    "obligaciones fiscales",
+    "ficha de trámite 90/ISR"
   ],
   "terminos_coloquiales": [
-    "designación de representante",
-    "representante de extranjero",
-    "LISR 174",
-    "ISR residentes en el extranjero"
+    "representante de residentes en el extranjero",
+    "ISR",
+    "ficha 90/ISR"
   ],
-  "resumen": "La designación del representante de los residentes en el extranjero debe hacerse siguiendo la ficha de trámite correspondiente antes de que se venza el plazo para pagar el ISR. Si no se cumple con este requisito, la designación no será válida y se perderán ciertos beneficios fiscales.",
+  "resumen": "La ley establece que los residentes en el extranjero deben designar un representante que cumpla con ciertos requisitos para efectos del Impuesto sobre la Renta. Si no se cumple con dichos requisitos, la designación no será válida y no se podrán aplicar los beneficios relacionados.",
   "preguntas_ejemplo": [
-    "¿Cómo designo a un representante legal para un residente en el extranjero?",
-    "¿Qué pasa si no hago la designación del representante según la ficha de trámite 90/ISR?",
-    "¿Cuáles son los plazos para designar un representante de un residente extranjero?",
-    "¿Qué beneficios fiscales tiene un residente en el extranjero con representante legal?",
-    "¿Dónde encuentro la ficha de trámite 90/ISR?"
+    "¿Cómo designo un representante para un residente en el extranjero?",
+    "¿Qué es la ficha de trámite 90/ISR?",
+    "¿Cuáles son los requisitos para la designación de un representante legal?",
+    "¿Qué pasa si no designo un representante para el ISR?",
+    "¿Qué beneficios se pierden al no designar un representante?"
   ]
 }

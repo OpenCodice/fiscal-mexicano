@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:24ce37b0dcefebeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción en el RFC de fideicomisos",
+  "denominacion_comun": "Inscripción de fideicomisos en el RFC",
   "temas": [
     "fideicomisos",
     "RFC",
-    "inscripción",
-    "obligaciones fiscales",
     "fiduciarias",
-    "fideicomisarios"
+    "obligaciones fiscales",
+    "inscripción"
   ],
   "terminos_coloquiales": [
     "inscripción de fideicomisos",
-    "RFC de fideicomisos",
     "fideicomiso",
-    "CFF",
-    "Reglamento del CFF"
+    "RFC",
+    "fiduciaria"
   ],
-  "resumen": "Las fiduciarias deben solicitar la inscripción en el RFC por cada contrato de fideicomiso si tienen obligaciones fiscales. Esto es importante para cumplir con la normativa fiscal correspondiente.",
+  "resumen": "Las fiduciarias deben inscribir cada contrato de fideicomiso en el RFC para cumplir con sus obligaciones fiscales por cuenta de los fideicomisarios. Esto es necesario para efectos fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo inscribir un fideicomiso en el RFC?",
-    "¿Qué pasos deben seguir las fiduciarias para la inscripción en el RFC?",
-    "¿Qué es la inscripción en el RFC de fideicomisos?",
-    "¿Qué obligaciones fiscales tienen los fideicomisarios?",
-    "¿Los fideicomisos necesitan RFC para operar?"
+    "¿Cómo inscribo un fideicomiso en el RFC?",
+    "¿Qué obligaciones tienen las fiduciarias sobre el RFC?",
+    "¿Cada fideicomiso necesita su propia inscripción en el RFC?",
+    "¿Qué es un fideicomiso y cómo se relaciona con el RFC?",
+    "¿Las fiduciarias deben hacer un trámite específico para el RFC?"
   ]
 }

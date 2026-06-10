@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:beaf719f26bb7921",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones por residentes en el extranjero",
   "temas": [
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero",
-    "Enajenación de acciones",
-    "Reorganización",
-    "Fusión",
-    "Escisión"
+    "impuesto sobre la renta",
+    "residentes en el extranjero",
+    "enajenación de acciones",
+    "fusión",
+    "escisión",
+    "reorganización",
+    "trámites fiscales"
   ],
   "terminos_coloquiales": [
-    "ISR",
-    "Aviso de enajenación",
-    "Residentes en el extranjero que venden acciones",
-    "Enajenación de acciones"
+    "venta de acciones",
+    "acciones",
+    "aviso de enajenación",
+    "LISR",
+    "tasa de ISR"
   ],
-  "resumen": "Los residentes en el extranjero que vendan acciones de una sociedad mexicana, debido a reorganizaciones o fusiones, deben presentar un aviso específico para informar sobre esta operación. Esto se regula bajo los artículos 161 de la Ley del ISR y 289 de su Reglamento.",
+  "resumen": "Los residentes en el extranjero que vendan acciones de sociedades mexicanas tras operaciones como fusiones o reestructuraciones deben presentar un aviso específico. Este aviso informa sobre la operación y se debe presentar conforme a normativas establecidas.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si soy residente en el extranjero y vendo acciones en México?",
-    "¿Cuáles son los requisitos para enajenar acciones emitidas por una sociedad mexicana?",
-    "¿Cómo presentar el aviso para la enajenación de acciones?",
-    "¿Qué implica la reorganización o fusión para los residentes en el extranjero?",
-    "¿Qué artículos de la ley regulan la enajenación de acciones por residentes en el extranjero?"
+    "¿Qué debo hacer si soy residente en el extranjero y vendo acciones de una empresa mexicana?",
+    "¿Cuáles son los trámites para informar sobre la enajenación de acciones?",
+    "¿Qué operaciones deben reportarse al vender acciones emitidas por sociedades en México?",
+    "¿Cómo difiero el pago del ISR si enajeno acciones de una sociedad mexicana?",
+    "¿Qué requisitos hay para presentar el aviso de enajenación de acciones?",
+    "¿Dónde encuentro la ficha de trámite para enajenar acciones?"
   ]
 }

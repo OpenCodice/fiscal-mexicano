@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f1218703b69589ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Padrón de Beneficiarios de Energéticos Agropecuarios",
   "temas": [
-    "Padrón de Beneficiarios",
-    "Cuota Energética",
-    "Diésel Agropecuario",
-    "Energéticos Agropecuarios",
-    "SAT",
-    "Estaciones de Servicio",
-    "Suministro de Combustible"
+    "Padrón de beneficiarios",
+    "Dióxido de diésel",
+    "Cuota energética",
+    "Estaciones de servicio",
+    "Enajenantes de combustibles",
+    "Actualización de datos"
   ],
   "terminos_coloquiales": [
-    "Padrón de Beneficiarios",
-    "BENEFICIARIOS",
-    "Padrón de Diésel",
-    "Cuota Energética",
-    "Padrón Energéticos"
+    "lista de beneficiarios",
+    "diésel agropecuario",
+    "combustibles para el campo",
+    "SADER",
+    "CONAPESCA",
+    "SAT"
   ],
-  "resumen": "Las autoridades deben enviar al SAT un registro de beneficiarios del diésel y energéticos agropecuarios, junto con información sobre las estaciones de servicio. También deben actualizar esta información cada vez que haya cambios.",
+  "resumen": "Esta disposición establece que la CONAPESCA y la SADER deben enviar al SAT un registro de beneficiarios de energía, que incluye diésel agropecuario y la cuota energética asignada. También se detalla cómo y cuándo se deben actualizar estos registros.",
   "preguntas_ejemplo": [
     "¿Qué es el Padrón de Beneficiarios de Energéticos Agropecuarios?",
-    "¿Cómo se reporta la cuota energética al SAT?",
-    "¿Quiénes son los beneficiarios del diésel agropecuario?",
-    "¿Qué información se debe proporcionar al SAT sobre los beneficiarios?",
-    "¿Cómo se reportan las modificaciones en el Padrón de Beneficiarios?"
+    "¿Cómo se actualiza la cuota energética para beneficiarios?",
+    "¿Quiénes son las entidades que deben reportar al SAT?",
+    "¿Qué datos se incluyen en el Padrón de Beneficiarios?",
+    "¿Qué información debe enviar la SADER y la CONAPESCA al SAT?"
   ]
 }

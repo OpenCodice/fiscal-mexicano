@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c16d20cefb0d12d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA por comercialización de desperdicios",
+  "denominacion_comun": "Devolución de IVA por desperdicios",
   "temas": [
     "IVA",
-    "devolución de impuestos",
-    "comercialización de desperdicios",
-    "retención de IVA"
+    "desperdicios",
+    "retención",
+    "devolución",
+    "saldo a favor"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA por desperdicios",
-    "retenciones de IVA"
+    "IVA retenido",
+    "recuperar IVA",
+    "desperdicios",
+    "empresa de desperdicios"
   ],
-  "resumen": "Las personas morales que se dedican a la comercialización de desperdicios y que han retenido IVA pueden obtener una devolución inmediata de ese saldo a favor, restándolo del IVA que retengan en el mismo periodo. Esta devolución solo puede hacerse hasta el monto del impuesto retenido.",
+  "resumen": "Esta regla establece que las personas morales que comercializan desperdicios y han retenido IVA pueden solicitar la devolución inmediata de su saldo a favor, pero solo hasta el monto del IVA que retuvieron. Las cantidades devueltas no se pueden acreditar en futuras declaraciones ni compensar.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener la devolución de IVA si vendo desperdicios?",
-    "¿Qué requisitos debo cumplir para la devolución de IVA por desperdicios?",
-    "¿Puedo compensar el saldo a favor de IVA en futuras declaraciones?",
-    "¿Qué pasa si ya hice la retención de IVA pero no necesito la devolución?",
-    "¿Cuánto tiempo tengo para solicitar la devolución de IVA?"
+    "¿Cómo puedo recuperar el IVA que retuve por la venta de desperdicios?",
+    "¿Qué condiciones debo cumplir para la devolución de IVA por desperdicios?",
+    "¿La devolución de IVA se aplica a todas mis operaciones?",
+    "¿Puedo utilizar el IVA devuelto en mis futuras declaraciones?",
+    "¿Qué sucede si obtengo una devolución de IVA por desperdicios?"
   ]
 }

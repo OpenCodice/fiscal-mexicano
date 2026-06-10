@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ce8e816c524c6295",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal región frontera norte",
+  "denominacion_comun": "Estímulo fiscal región fronteriza norte",
   "temas": [
-    "Domicilio fiscal",
-    "Registro ante el RFC",
+    "domicilio fiscal",
     "Padrón de beneficiarios",
-    "Autorización de estímulos fiscales",
-    "Documentación requerida"
+    "antigüedad",
+    "región fronteriza norte",
+    "datos fiscales"
   ],
   "terminos_coloquiales": [
-    "Estímulo fronterizo",
-    "Padrón de beneficiarios",
-    "RFC frontera norte"
+    "estímulos fiscales",
+    "beneficios fiscales frontera norte",
+    "domicilio fiscal",
+    "aviso de apertura",
+    "RFC"
   ],
-  "resumen": "Se considera que los contribuyentes tienen su domicilio fiscal en la región fronteriza norte si su registro ante el RFC tiene al menos 18 meses de antigüedad. También se confirmará la ubicación fiscal de aquellos que ya están inscritos en el Padrón de beneficiarios del estímulo fiscal.",
+  "resumen": "La disposición establece que los contribuyentes en la región fronteriza norte deben cumplir con ciertos requisitos de antigüedad en su domicilio fiscal para poder beneficiarse del estímulo fiscal. También menciona que la autoridad puede solicitar información adicional relacionada con el estímulo.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para estar en el padrón de estímulos fiscales?",
-    "¿Cómo sé si tengo mi domicilio fiscal en la región fronteriza norte?",
-    "¿Qué documentos necesita la autoridad fiscal para confirmar mi estímulo?",
-    "¿Qué pasa si no tengo 18 meses de antigüedad en mi domicilio fiscal?",
-    "¿Cómo puedo renovar mi inscripción en el padrón de estímulos fiscales?"
+    "¿Cuáles son los requisitos para el estímulo fiscal en la región fronteriza norte?",
+    "¿Cómo demuestro que tengo mi domicilio fiscal en la frontera norte?",
+    "¿Qué pasa si no tengo la antigüedad requerida en mi domicilio?",
+    "¿Qué documentos pueden pedirme para comprobar el estímulo fiscal?",
+    "¿Dónde puedo inscribirme en el Padrón de beneficiarios del estímulo?"
   ]
 }

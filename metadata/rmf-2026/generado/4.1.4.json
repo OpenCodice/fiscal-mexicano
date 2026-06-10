@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dfbd6f5269045d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retención y acreditamiento del IVA",
   "temas": [
-    "retención del IVA",
-    "acreditamiento del IVA",
-    "declaraciones trimestrales",
-    "impuesto trasladado",
-    "saldos a favor del IVA"
+    "retención de IVA",
+    "acreditamiento de IVA",
+    "declaración trimestral",
+    "contribuyentes",
+    "impuesto trasladado"
   ],
   "terminos_coloquiales": [
     "IVA retenido",
-    "declaración trimestral de IVA",
-    "acreditamiento de IVA",
-    "IVA a favor"
+    "acreditación de IVA",
+    "declaración de IVA",
+    "impuesto al valor agregado"
   ],
-  "resumen": "Los contribuyentes que retengan IVA deben enterarlo trimestralmente en lugar de mensualmente y pueden acreditar el impuesto trasladado en su siguiente declaración trimestral, siempre que cumplan los requisitos establecidos por la ley.",
+  "resumen": "Los contribuyentes que retienen el IVA deben enterarlo trimestralmente en lugar de mensualmente. Además, el IVA que trasladan y retienen se puede acreditar en la siguiente declaración trimestral si se cumplen los requisitos de la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza la retención del IVA?",
-    "¿Qué debo hacer si retengo IVA, cómo lo entero?",
-    "¿Cómo puedo acreditar el IVA que me trasladaron?",
-    "¿Cuándo son las declaraciones trimestrales de IVA?",
-    "¿Qué son los saldos a favor del IVA?"
+    "¿Cómo debo presentar la retención del IVA?",
+    "¿Puedo acreditar el IVA que he retenido en mi siguiente declaración?",
+    "¿Cuándo debo enterar el IVA retenido?",
+    "¿Qué requisitos debo cumplir para acreditar el IVA?",
+    "¿Es posible hacer la declaración de IVA trimestralmente?"
   ]
 }

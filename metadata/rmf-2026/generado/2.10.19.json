@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8346408cc6aaec7b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de contador público",
   "temas": [
     "formatos del dictamen",
     "colegio profesional",
-    "sociedad de contadores",
-    "número de registro",
-    "información presentada"
+    "contador público inscrito",
+    "registro de contadores",
+    "información presentada en el dictamen"
   ],
   "terminos_coloquiales": [
     "dictamen contable",
     "dictamen fiscal",
     "CFF",
-    "RCFF"
+    "contadores públicos"
   ],
-  "resumen": "El dictamen que emite un contador público inscrito debe seguir los formatos establecidos por su colegio o asociación profesional. Además, debe incluir el número de registro correspondiente.",
+  "resumen": "El dictamen que emita un contador público debe seguir los formatos establecidos por el colegio o asociación de contadores a los que esté afiliado. Además, debe incluir el número de registro del contador según la normativa fiscal.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los formatos adecuados para el dictamen de un contador?",
-    "¿Qué información debe incluir el dictamen fiscal?",
-    "¿Cómo se valida el dictamen contable?",
-    "¿Qué requisitos tiene que cumplir un contador para emitir un dictamen?",
-    "¿Dónde se encuentra el número de registro del contador en el dictamen?"
+    "¿Qué formatos debe seguir el dictamen de un contador público?",
+    "¿Cómo se registra a un contador público inscrito?",
+    "¿Qué información debe contener el dictamen fiscal?",
+    "¿Qué es un colegio profesional de contadores?",
+    "¿Qué establece el artículo 58 del Reglamento del CFF sobre el dictamen?"
   ]
 }

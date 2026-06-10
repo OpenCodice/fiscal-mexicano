@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09dbf55d8cd969f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revelación de esquemas reportables",
   "temas": [
     "mecanismos fiscales",
     "esquemas reportables",
-    "artículo 199 CFF",
-    "declaraciones informativas",
-    "información y documentación",
-    "contribuyentes",
-    "beneficios fiscales"
+    "CFF 199",
+    "documentación requerida",
+    "declaraciones informativas"
   ],
   "terminos_coloquiales": [
+    "declaraciones fiscales",
     "esquemas fiscales",
-    "información de esquema",
-    "revelación de esquemas",
-    "reportes fiscales",
-    "CFF"
+    "reportar esquemas",
+    "CFF",
+    "RMF"
   ],
-  "resumen": "Esta regla establece cómo revelar detalladamente mecanismos que eviten la aplicación del artículo 199 del CFF, requiriendo información específica en las declaraciones informativas. Busca asegurar que se identifiquen los esquemas reportables y su contexto legal.",
+  "resumen": "Esta regla establece los requisitos para revelar esquemas reportables en las declaraciones informativas. Se deben incluir detalles sobre los mecanismos utilizados para evitar la aplicación de ciertos artículos del CFF, así como información del contribuyente y los actores involucrados.",
   "preguntas_ejemplo": [
-    "¿Cómo debo reportar un esquema fiscal según el CFF?",
-    "¿Qué información necesito incluir en las declaraciones informativas?",
-    "¿Qué es un esquema reportable y cómo se revela?",
-    "¿Cuáles son los requisitos para evitar la aplicación del artículo 199 del CFF?",
-    "¿Qué pasa si no tengo toda la información requerida para revelar un esquema?"
+    "¿Qué información debo incluir al reportar un esquema fiscal?",
+    "¿Cómo puedo evitar la aplicación del CFF 199?",
+    "¿Qué es un esquema reportable y cómo se presenta?",
+    "¿Qué pasa si no tengo la información necesaria para reportar un esquema?",
+    "¿Cuáles son los requisitos para las declaraciones informativas?"
   ]
 }

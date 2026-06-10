@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64a0f2b435a4a947",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Huso horario buzón tributario",
+  "denominacion_comun": "Huso horario del buzón tributario",
   "temas": [
-    "huso horario",
     "buzón tributario",
-    "zona centro",
+    "huso horario",
+    "Zona Centro",
     "notificaciones electrónicas",
-    "requerimientos fiscales"
+    "domicilio fiscal"
   ],
   "terminos_coloquiales": [
-    "horario buzón tributario",
-    "zona centro de México",
-    "huso horario fiscal"
+    "horario del buzón tributario",
+    "buzón fiscal",
+    "horario de la Zona Centro",
+    "notificaciones online"
   ],
-  "resumen": "El buzón tributario se regirá por el horario de la Zona Centro de México, pero se considerará el huso horario del domicilio fiscal del contribuyente para notificaciones y solicitudes.",
+  "resumen": "El buzón tributario se rige por el horario de la Zona Centro de México. Para efectos legales, se considera el huso horario del domicilio fiscal del contribuyente en notificaciones y promociones.",
   "preguntas_ejemplo": [
-    "¿Cuál es el huso horario para el buzón tributario?",
-    "¿Cómo afecta el horario del buzón tributario a mis notificaciones?",
+    "¿Cuál es el horario del buzón tributario?",
+    "¿Cómo afecta el huso horario a mis notificaciones electrónicas?",
+    "¿Qué horario debo considerar en el buzón fiscal?",
     "¿El huso horario cambia según mi domicilio fiscal?",
-    "¿Qué horarios debo seguir para el buzón tributario?",
-    "¿Hay un horario específico para hacer promociones en el buzón?"
+    "¿Qué reglas aplican al buzón tributario?"
   ]
 }

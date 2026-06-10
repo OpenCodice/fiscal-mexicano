@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b419b72950c38a15",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Segundo Avalúo",
   "temas": [
-    "avalúo de bienes",
-    "bienes muebles",
-    "bienes inmuebles",
+    "avalúos de bienes",
     "Cédula de Calificación de Riesgo",
-    "dictamen pericial"
+    "revisión física de bienes",
+    "valor real de bienes",
+    "dictamen de perito valuador"
   ],
   "terminos_coloquiales": [
     "segundo avalúo",
-    "avalúo fiscal",
-    "valores de bienes"
+    "avaluar un bien",
+    "revisión del avalúo",
+    "valor del inmueble",
+    "comprobante fiscal"
   ],
-  "resumen": "La autoridad fiscal puede solicitar un segundo avalúo si el primer avalúo no cumple con ciertos criterios o si es solicitado por el contribuyente. Esto incluye situaciones como discrepancias en el valor del bien o errores en los datos del dictamen del perito valuador.",
+  "resumen": "La autoridad fiscal puede solicitar un segundo avalúo de bienes si el primero presenta inconsistencias en su valor o características. También puede ser solicitado por el contribuyente si se identifican errores o discrepancias en el avalúo inicial.",
   "preguntas_ejemplo": [
-    "¿Cuándo se puede solicitar un segundo avalúo?",
-    "¿Qué factores se consideran para un segundo avalúo?",
-    "¿Qué hacer si el valor de mi bien no concuerda con el avalúo?",
-    "¿Cuáles son los errores frecuentes en los dictámenes de avalúos?",
-    "¿Quién puede realizar el segundo avalúo?"
+    "¿Cuándo puedo pedir un segundo avalúo de mis bienes?",
+    "¿Qué pasa si el avalúo supera el del comprobante fiscal?",
+    "¿Cómo se determina si un avalúo es correcto?",
+    "¿Qué criterios se utilizan para evaluar un segundo avalúo?",
+    "¿Qué debo hacer si encuentro errores en mi avalúo?"
   ]
 }

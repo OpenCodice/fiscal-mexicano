@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3308d9d31f37e364",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de intereses nominales por instituciones del sistema financiero",
+  "denominacion_comun": "Cálculo de intereses nominales",
   "temas": [
     "intereses nominales",
     "intereses reales",
     "ajuste por inflación",
-    "costos promedio ponderados",
-    "títulos de inversión"
+    "costos de adquisición",
+    "operaciones financieras",
+    "títulos en custodia",
+    "instituciones financieras"
   ],
   "terminos_coloquiales": [
-    "cálculo de intereses",
-    "intereses de títulos",
-    "intereses financieros",
-    "intereses nominales e reales",
-    "Ley ISR"
+    "intereses de inversiones",
+    "intereses de depósitos",
+    "rendimientos",
+    "ajustes por inflación",
+    "ingresos por intereses"
   ],
-  "resumen": "Esta regla establece cómo las instituciones financieras deben calcular los intereses nominales y reales generados por los títulos que administran, considerando rendimientos, enajenaciones y ajustes por inflación. También detalla cómo se debe informar al SAT sobre estos intereses.",
+  "resumen": "La disposición establece cómo las instituciones financieras deben calcular los intereses nominales y reales generados por los títulos en custodia y administración. También incluye detalles sobre el ajuste por inflación y la manera de determinar la utilidad en la enajenación o redención de esos títulos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el interés nominal de un título de inversión?",
-    "¿Qué se considera un ajuste por inflación en los intereses?",
-    "¿Cómo afectan las pérdidas en la venta de títulos a los intereses percibidos?",
-    "¿Qué información deben reportar las instituciones financieras al SAT sobre intereses?",
-    "¿Cuál es el costo promedio ponderado de adquisición de los títulos?"
+    "¿Cómo se calcula el interés nominal de un título?",
+    "¿Qué diferencia hay entre intereses nominales y reales?",
+    "¿Cómo afecta el ajuste por inflación a mis intereses?",
+    "¿Qué es el costo promedio ponderado en la compra de títulos?",
+    "¿Las instituciones financieras tienen que reportar estos intereses al SAT?"
   ]
 }

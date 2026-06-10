@@ -6,28 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e4bc31a0a339ddd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Múltiple del IEPS",
   "temas": [
-    "obligaciones de los contribuyentes",
-    "programa electrónico",
+    "obligaciones de contribuyentes",
     "información fiscal",
-    "SAT",
-    "anexos",
-    "impuesto especial sobre producción y servicios"
+    "programa MULTI-IEPS",
+    "anexos de declaración"
   ],
   "terminos_coloquiales": [
+    "información fiscal IEPS",
     "MULTI-IEPS",
-    "declaración de IEPS",
-    "declaración informativa"
+    "declaración de IEPS"
   ],
-  "resumen": "Los contribuyentes que deben presentar información según el artículo 19 de la Ley del IEPS deben hacerlo a través del programa MULTI-IEPS del SAT, utilizando los anexos adecuados según su situación.",
+  "resumen": "Los contribuyentes deben presentar información específica relacionada con el Impuesto Especial sobre Producción y Servicios a través del programa MULTI-IEPS. Esta declaración incluye datos sobre la adquisición, incorporación o modificación de equipos.",
   "preguntas_ejemplo": [
-    "¿Qué es la declaración informativa múltiple del IEPS?",
-    "¿Cómo presento mis obligaciones fiscales del IEPS?",
-    "¿Qué información debo incluir en el MULTI-IEPS?",
-    "¿Cuáles son los anexos del MULTI-IEPS?",
-    "¿Quiénes deben presentar la declaración informativa del IEPS?"
+    "¿Qué debo reportar en la declaración MULTI-IEPS?",
+    "¿Cómo presento mis obligaciones del IEPS?",
+    "¿Qué anexos debo incluir en la declaración de IEPS?",
+    "¿Qué información se requiere para el IEPS?"
   ]
 }

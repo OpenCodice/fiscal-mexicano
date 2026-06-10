@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88ae923c5196f182",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI por concepto de liquidación",
+  "denominacion_comun": "CFDI por Liquidación",
   "temas": [
-    "Comprobantes fiscales",
-    "Liquidación de ingresos",
-    "Gastos",
+    "comprobantes fiscales",
+    "liquidaciones",
+    "ingresos",
+    "gastos",
     "SAT",
-    "Complemento de CFDI"
+    "Ley del ISR",
+    "Reglamento de la Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "CFDI",
-    "liquidaciones",
-    "comprobantes de liquidación",
-    "comprobantes fiscales digitales"
+    "factura por liquidación",
+    "comprobante de liquidación",
+    "CFDI liquidación",
+    "SAT",
+    "Ley del ISR"
   ],
-  "resumen": "Los contribuyentes deben emitir comprobantes fiscales por liquidación de ingresos y gastos hasta que el SAT publique el complemento de CFDI correspondiente. Mientras tanto, deben continuar emitiendo liquidaciones como lo hacían en 2016.",
+  "resumen": "Los contribuyentes pueden emitir comprobantes fiscales por liquidación de ingresos y gastos de sus integrantes hasta que el SAT publique el complemento de CFDI correspondiente. Mientras tanto, deberán seguir el mismo procedimiento que utilizaban en 2016.",
   "preguntas_ejemplo": [
-    "¿Qué es el CFDI por liquidación?",
-    "¿Cómo debo emitir las liquidaciones de mis ingresos?",
-    "¿Cuándo el SAT publicará el complemento de CFDI?",
-    "¿Puedo seguir usando mis comprobantes de liquidación como antes?",
-    "¿Qué obligaciones tengo con respecto a los CFDI de liquidación?"
+    "¿Cómo emito un CFDI por liquidación?",
+    "¿Qué debo hacer mientras espero el complemento de CFDI del SAT?",
+    "¿Puedo seguir usando el mismo formato de liquidación que usaba en 2016?",
+    "¿Cuándo se publicará el complemento para CFDI de liquidación?",
+    "¿Qué artículos son relevantes para las liquidaciones en el ISR?"
   ]
 }

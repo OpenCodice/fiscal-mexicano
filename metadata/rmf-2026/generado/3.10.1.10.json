@@ -6,34 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cec2175c65d9a540",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donatarias que apoyan proyectos agrícolas y artesanales",
+  "denominacion_comun": "Donatarias que apoyan proyectos agrícolas y de artesanos",
   "temas": [
-    "donativos deducibles",
-    "organizaciones civiles",
-    "fideicomisos",
-    "productores agrícolas",
+    "donatarias autorizadas",
+    "proyectos agrícolas",
     "artesanos",
+    "obligaciones fiscales",
     "zonas de mayor rezago",
-    "cumplimiento fiscal",
-    "transparencia"
+    "transparencia",
+    "CFDI"
   ],
   "terminos_coloquiales": [
-    "donatarias autorizadas",
-    "donativos",
-    "apoyo a agricultores",
+    "donatarias",
+    "apoyos a productores",
     "apoyo a artesanos",
-    "proyectos agrícolas",
-    "proyectos artesanales"
+    "donativos deducibles",
+    "proyectos de donativos"
   ],
-  "resumen": "Las donatarias autorizadas que deseen apoyar a productores agrícolas y artesanos en zonas de mayor rezago deben cumplir con ciertas obligaciones fiscales y de transparencia. Deben otorgar apoyos y ayudar en el cumplimiento de sus necesidades fiscales, así como mantener registros de los beneficiarios.",
+  "resumen": "Las organizaciones civiles y fideicomisos que deseen recibir donativos deducibles para apoyar a productores agrícolas y artesanos en zonas de mayor marginación deben cumplir con ciertas obligaciones fiscales y de transparencia, además de ayudar a estos productores en su registro y trámites fiscales. Los apoyos no se consideran ingresos para los productores si no exceden cierto monto.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir las donatarias para apoyar a productores agrícolas?",
-    "¿Cómo pueden las organizaciones civiles recibir donativos para proyectos artesanales?",
-    "¿Cuáles son las obligaciones fiscales de las donatarias que apoyan a artesanos?",
-    "¿Qué tipo de documentación se necesita para apoyar a productores agrícolas?",
-    "¿Los ingresos de los beneficiarios se contabilizan al recibir estos apoyos?",
-    "¿Qué se considera un productor agrícola según la ley?"
+    "¿Qué requisitos deben cumplir las donatarias para apoyar proyectos agrícolas?",
+    "¿Cómo pueden las donatarias ayudar a los artesanos en el cumplimiento de sus obligaciones fiscales?",
+    "¿Qué información debe incluirse en la transparencia de los donativos recibidos?",
+    "¿Los apoyos otorgados por donatarias afectan los ingresos de los productores agrícolas?"
   ]
 }

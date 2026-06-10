@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2fb7b6c300b0b99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Clave RFC en escrituras públicas",
+  "denominacion_comun": "Clave en el RFC en escrituras públicas",
   "temas": [
     "representante legal",
-    "clave RFC",
     "escrituras públicas",
-    "personas morales",
-    "fedatarios públicos",
-    "e.firma"
+    "constitucción de personas morales",
+    "clave en el RFC",
+    "e.firma",
+    "actas de asamblea",
+    "fedatarios públicos"
   ],
   "terminos_coloquiales": [
     "clave del RFC",
-    "RFC representante legal",
-    "escritura pública con RFC",
-    "e.firma",
-    "CFF",
-    "RMF"
+    "RFC del representante legal",
+    "escritura de constitución",
+    "acta de asamblea",
+    "e.firma"
   ],
-  "resumen": "La regla establece cómo se debe incluir la clave en el RFC del representante legal en las escrituras públicas y actas de asamblea de personas morales. Los fedatarios públicos tienen la obligación de señalar esta clave en ciertos documentos para cumplir con las disposiciones fiscales.",
+  "resumen": "Esta disposición establece cómo los fedatarios públicos deben señalar la clave en el RFC del representante legal en las escrituras de constitución y actas de asamblea de personas morales. Se detalla cuándo es obligatorio incluir esta información y las circunstancias en las que se puede omitir.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe incluir la clave del RFC en las actas de asamblea?",
-    "¿Qué pasa si no se menciona la clave del RFC del representante legal?",
-    "¿Quién es responsable de señalar la clave del RFC en la escritura pública?",
-    "¿Qué documentos necesitan la clave del RFC del representante legal?",
-    "¿Cuál es la regla que habla sobre la clave del RFC en personas morales?"
+    "¿Cómo se debe incluir la clave en el RFC en el acta de constitución?",
+    "¿Qué pasa si el representante legal no proporciona su clave en el RFC?",
+    "¿Cuándo es opcional señalar la clave en el RFC del representante legal?",
+    "¿Qué rol tienen los fedatarios públicos en la inclusión de la clave del RFC?",
+    "¿Qué documentos requieren la clave en el RFC del representante legal?"
   ]
 }

@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d52d0fd89521c76a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de salarios y asimilados",
+  "denominacion_comun": "Retenciones de salarios",
   "temas": [
     "retenciones",
     "salarios",
     "asimilados a salarios",
     "declaraciones",
-    "CFDI",
-    "personas morales",
-    "e.firma"
+    "CFDI de nómina",
+    "e.firma",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "ISR retenciones por salarios",
-    "ISR retenciones por asimilados",
-    "retenciones de nómina",
+    "retenciones de sueldos",
     "declaración de retenciones",
-    "CFDI de nómina"
+    "nómina",
+    "ISR retenido",
+    "pago de salarios"
   ],
-  "resumen": "Las personas físicas y morales deben hacer retenciones por salarios y asimilados a salarios, presentando declaraciones prellenadas con información de CFDI de nómina. Si necesitan modificar la información, deben emitir o cancelar los CFDI correspondientes.",
+  "resumen": "Las personas morales y físicas deben retener impuestos por los salarios que pagan a sus trabajadores y deben presentar las declaraciones correspondientes. Estas declaraciones se llenan automáticamente con la información de los CFDI de nómina. Si es necesario modificar la información, se deben cancelar o emitir nuevos CFDI.",
   "preguntas_ejemplo": [
-    "¿Cómo se presentan las retenciones de salarios?",
-    "¿Qué debo hacer si necesito modificar un CFDI de nómina?",
-    "¿Qué son las retenciones asimiladas a salarios?",
-    "¿Qué información contiene la declaración de retenciones?",
-    "¿Quiénes deben hacer las retenciones por salarios?"
+    "¿Cómo se realizan las retenciones de salarios para el ISR?",
+    "¿Qué debo hacer si necesito modificar mis declaraciones de retenciones?",
+    "¿Cómo se presentan las declaraciones de ISR por retenciones de sueldos?",
+    "¿Qué son los CFDI de nómina y cómo afectan las declaraciones?",
+    "¿Cómo se utiliza la e.firma para enviar declaraciones de retenciones?",
+    "¿Dónde encuentro más información sobre retenciones de salarios y asimilados?"
   ]
 }

@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:41684c45c2659a4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de intermediación",
   "temas": [
-    "retenciones",
-    "servicios digitales",
+    "retenciones fiscales",
     "plataformas tecnológicas",
-    "ingresos",
-    "intermediación",
+    "ingresos percibidos",
     "IVA",
     "personas físicas",
     "personas morales"
   ],
   "terminos_coloquiales": [
-    "servicios digitales",
+    "servicios en línea",
     "intermediación digital",
-    "retenciones de IVA",
+    "ingresos por servicios digitales",
+    "plataformas de servicios",
+    "pago por plataformas",
     "LISR",
     "LIF"
   ],
-  "resumen": "Los servicios digitales de intermediación deben considerar como base de retención los ingresos que se perciben a través de plataformas tecnológicas, excluyendo el IVA y los ingresos de los adquirentes. Esto aplica tanto a personas físicas como morales.",
+  "resumen": "Las entidades que prestan servicios digitales de intermediación deben calcular la retención fiscal sobre los ingresos realmente percibidos, excluyendo el IVA. Esto aplica a ingresos que reciben a través de plataformas tecnológicas y aquellos pagados directamente por estas plataformas.",
   "preguntas_ejemplo": [
-    "¿Qué base se utiliza para calcular las retenciones en servicios digitales?",
-    "¿Cómo se deben reportar los ingresos de plataformas de intermediación?",
-    "¿Qué disposiciones aplican a quienes prestan servicios digitales?",
-    "¿Qué ingresos se excluyen del cálculo de retenciones?",
-    "¿Quiénes están obligados a hacer retenciones en servicios digitales?"
+    "¿Cómo se calcula la retención de impuestos si uso una plataforma para vender productos?",
+    "¿Qué ingresos se consideran para la retención de impuestos en servicios digitales?",
+    "¿Debo incluir el IVA en los ingresos que reporto por la intermediación?",
+    "¿Qué sucede con los pagos de la plataforma por los servicios que ofrezco?",
+    "¿Cuáles son mis obligaciones fiscales si presto servicios digitales?",
+    "¿Cómo afecta la intermediación digital a mis impuestos?"
   ]
 }

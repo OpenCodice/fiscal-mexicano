@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b9ba8732d6e0581",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuesto sobre Intereses a Residentes en el Extranjero",
+  "denominacion_comun": "Retención de impuestos por intereses a residentes en el extranjero",
   "temas": [
-    "Impuesto sobre la renta",
-    "Residentes en el extranjero",
-    "Intereses",
-    "Tratados para evitar la doble tributación",
-    "Requisitos de retención",
+    "retención de impuestos",
+    "intereses",
+    "residentes en el extranjero",
+    "títulos de crédito",
+    "tratado para evitar la doble tributación",
     "Comisión Nacional Bancaria y de Valores",
-    "Títulos de crédito"
+    "reportes trimestrales"
   ],
   "terminos_coloquiales": [
-    "Retención de intereses",
-    "Impuesto sobre intereses a extranjeros",
-    "ISR por intereses",
-    "Intereses a residentes en el extranjero",
-    "LISR",
-    "Regla 3.18.20"
+    "pago de impuestos sobre intereses",
+    "retención del 4.9%",
+    "tratados fiscales",
+    "inversiones en el extranjero"
   ],
-  "resumen": "Esta regla establece los requisitos que deben seguir los residentes en México que paguen intereses a residentes en el extranjero para aplicar una retención de impuesto del 4.9%. Se deben presentar avisos y reportes a la Comisión Nacional Bancaria y de Valores.",
+  "resumen": "Los residentes en México que paguen intereses a residentes en el extranjero pueden retener impuestos si cumplen ciertos requisitos. Estos incluyen presentar avisos y reportes trimestrales, además de conservar información relacionada con las operaciones. La retención aplicada es considerada un pago definitivo.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para retener el 4.9% de impuesto sobre intereses pagados a extranjeros?",
-    "¿Qué documentos necesito presentar para aplicar la retención sobre intereses a residentes en el extranjero?",
-    "¿Qué pasa si no cumplo con los requisitos de la retención de intereses?",
-    "¿Esta regla aplica a todos los títulos de crédito?",
-    "¿Cómo se determina el impuesto a retener sobre los intereses a extranjeros?"
+    "¿Qué impuestos debo retener si pago intereses a alguien en el extranjero?",
+    "¿Cuáles son los requisitos para retener impuestos sobre intereses a residentes en el extranjero?",
+    "¿Qué pasa si no presento los avisos requeridos para la retención de impuestos?",
+    "¿Es posible reclamar la retención de impuestos por intereses?",
+    "¿Qué tasa de retención se aplica a los intereses pagados a extranjeros?"
   ]
 }

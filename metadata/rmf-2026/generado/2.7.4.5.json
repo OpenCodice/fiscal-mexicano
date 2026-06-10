@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:27ee4e8a1878b960",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Certificación y generación de CFDI para el sector primario",
   "temas": [
-    "CFDI",
-    "Proveedores de certificación",
-    "Sector primario",
-    "Obligaciones fiscales",
-    "Contratos de prestación de servicios",
-    "Confidencialidad de datos",
-    "Verificación y supervisión",
-    "Cumplimiento normativo"
+    "proveedores de CFDI",
+    "obligaciones fiscales",
+    "confidencialidad",
+    "verificación por el SAT",
+    "página de Internet",
+    "control de ingresos"
   ],
   "terminos_coloquiales": [
-    "CFDI sector primario",
-    "Proveedores PCGCFDISP",
-    "Certificación de facturas",
-    "Generación de CFDI",
-    "Obligaciones de proveedores"
+    "certificación de CFDI",
+    "generación de CFDI",
+    "proveedores de facturas",
+    "factura electrónica",
+    "SAT",
+    "ingresos del sector primario"
   ],
-  "resumen": "La regla establece las obligaciones que deben cumplir los proveedores de certificación y generación de CFDI para personas físicas del sector primario. Esto incluye la firma de contratos, el mantenimiento de la confidencialidad de datos y la disposición de información a la autoridad fiscal.",
+  "resumen": "Esta regla establece las obligaciones de los proveedores de certificación y generación de CFDI que prestan servicios a personas físicas del sector primario, quienes deben cumplir con ciertos requisitos y mantener la confidencialidad de la información. También se especifica la necesidad de facilitar la verificación y el cumplimiento de obligaciones fiscales ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los proveedores de CFDI para el sector primario?",
-    "¿Cómo se certifican las facturas para actividades agrícolas?",
-    "¿Qué requisitos deben cumplir los prestadores de servicios de CFDI?",
-    "¿Qué información deben manejar los proveedores de generación de CFDI?",
-    "¿Cuáles son las sanciones por incumplir con las obligaciones de CFDI?"
+    "¿Qué obligaciones tengo como proveedor de CFDI para el sector primario?",
+    "¿Cómo debo manejar la información de los contribuyentes que atiendo?",
+    "¿Qué requisitos debo cumplir para certificar CFDI?",
+    "¿El SAT puede revisar mis servicios de generación de CFDI?",
+    "¿Qué hacer si mis ingresos superan los $900,000?"
   ]
 }

@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:659b99fa5efd96cf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Restricción temporal del CSD",
+  "denominacion_comun": "Restricción temporal de CSD",
   "temas": [
     "CSD",
     "CFDI",
     "solicitud de aclaración",
+    "irregularidad",
+    "oficios",
     "notificaciones",
-    "irregularidades",
-    "prórroga",
-    "resoluciones"
+    "requerimientos"
   ],
   "terminos_coloquiales": [
-    "CSD restringido",
-    "Solicitud de aclaración",
-    "Oficios fiscales",
-    "Notificación de irregularidades",
-    "CFDI bloqueado"
+    "certificado de sello digital",
+    "comprobante fiscal digital",
+    "saldo de CSD",
+    "solicitud de aclaración CSD",
+    "notificación de restricción"
   ],
-  "resumen": "La regla establece que cuando se detecta una irregularidad en el uso del CSD, las autoridades fiscales emiten un oficio notificando la restricción temporal. Los contribuyentes pueden presentar una solicitud de aclaración para subsanar la irregularidad, pero si no aportan pruebas, la solicitud se considera no presentada.",
+  "resumen": "La regla establece el procedimiento a seguir cuando las autoridades fiscales restringen temporalmente el uso del Certificado de Sello Digital (CSD) para la expedición de CFDI a un contribuyente. El contribuyente puede presentar una solicitud de aclaración para subsanar la irregularidad que motivó la restricción, pero debe hacerlo dentro de un plazo específico y aportar pruebas adecuadas.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si me restringieron el CSD?",
-    "¿Cómo presentar una solicitud de aclaración para el CSD?",
-    "¿Cuáles son las consecuencias de no subsanar una irregularidad en mi CSD?",
-    "¿Qué pasa si no recibo la notificación de la restricción del CSD?",
-    "¿Puedo solicitar un nuevo CSD si tengo una restricción temporal?"
+    "¿Qué hacer si me restringieron el uso de mi CSD?",
+    "¿Cómo puedo subsanar la irregularidad detectada en mi CFDI?",
+    "¿Cuánto tiempo tengo para presentar mi solicitud de aclaración?",
+    "¿Qué requisitos debo cumplir para que se restablezca mi CSD?",
+    "¿Qué sucede si no presento argumentos o pruebas en mi solicitud?"
   ]
 }

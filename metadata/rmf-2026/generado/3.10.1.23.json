@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1609ff2f95623b77",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revocación de autorización para donativos",
   "temas": [
-    "donativos deducibles",
     "revocación de autorización",
+    "donativos deducibles",
     "organizaciones civiles",
     "fideicomisos",
-    "transparencia patrimonial"
+    "transmisión de patrimonio",
+    "información de donativos",
+    "transparencia en donativos"
   ],
   "terminos_coloquiales": [
-    "cancelación de donativos",
-    "pérdida de vigencia",
-    "donatarias autorizadas",
-    "ISR",
-    "RMF"
+    "revocación de donativos",
+    "cancelación de autorización",
+    "fideicomiso",
+    "organización civil",
+    "donativos deducibles",
+    "informativa de donativos",
+    "ISR"
   ],
-  "resumen": "Esta disposición establece que las organizaciones civiles y fideicomisos que pierdan la autorización para recibir donativos deducibles del ISR deben presentar información sobre la transmisión de su patrimonio a otras entidades autorizadas. Asimismo, deben informar sobre los donativos que no fueron utilizados para su objeto social al solicitar una nueva autorización.",
+  "resumen": "Esta disposición trata sobre la revocación de autorizaciones para recibir donativos deducibles y las obligaciones que tienen las organizaciones civiles y fideicomisos en caso de que su autorización sea cancelada o haya perdido vigencia. Deben presentar información sobre la transmisión de su patrimonio a otra donataria autorizada y proporcionar detalles sobre donativos no utilizados correctamente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me revocan la autorización para recibir donativos?",
-    "¿Qué debo hacer si mi autorización para donativos ya no está vigente?",
-    "¿Cuándo tengo que presentar información si me cancelan la autorización de donativos?",
-    "¿Qué información necesito al solicitar una nueva autorización para donativos?",
-    "¿Cómo aseguro la transparencia de los donativos recibidos?"
+    "¿Qué sucede si se cancela mi autorización para recibir donativos?",
+    "¿Cómo reporto la transmisión de patrimonio a otra donataria?",
+    "¿Qué debo hacer si mi autorización de donativos perdió vigencia?",
+    "¿Cuáles son las obligaciones de una organización civil tras la revocación de su autorización?",
+    "¿Cómo puedo recuperar mi autorización para recibir donativos deducibles?",
+    "¿Qué información debo presentar si cancelan mi autorización de donativos?"
   ]
 }

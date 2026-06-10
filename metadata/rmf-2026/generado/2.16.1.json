@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:653ebc49f6cb82a0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información sobre la Situación Fiscal",
+  "denominacion_comun": "Información sobre la situación fiscal",
   "temas": [
     "certificado de e.firma",
-    "envío de información",
+    "envío de información fiscal",
     "aplicativo ISSIF",
+    "declaraciones complementarias",
     "formatos guía",
-    "declarantes",
-    "personas morales",
-    "régimen de actividades agrícolas",
-    "establecimientos permanentes"
+    "obligaciones de los contribuyentes",
+    "sectores financieros"
   ],
   "terminos_coloquiales": [
+    "información fiscal",
+    "e.firma",
     "ISSIF",
-    "Información Fiscal",
-    "situación fiscal",
-    "presentación de información"
+    "declaración de impuestos",
+    "declaraciones anuales"
   ],
-  "resumen": "Los contribuyentes deben presentar su información sobre la situación fiscal utilizando el aplicativo ISSIF y enviarla a través del Portal del SAT. Es necesario contar con un certificado de e.firma y seguir el procedimiento específico para el llenado de datos.",
+  "resumen": "Los contribuyentes deben presentar su información sobre la situación fiscal a través del portal del SAT utilizando el aplicativo ISSIF y un certificado de e.firma. Además, deben cumplir con ciertos formatos y procedimientos al enviar la información, ya sea para el ejercicio fiscal correspondiente o en forma complementaria.",
   "preguntas_ejemplo": [
     "¿Cómo presento la información sobre mi situación fiscal?",
-    "¿Qué es el aplicativo ISSIF?",
+    "¿Qué es el aplicativo ISSIF y cómo lo uso?",
     "¿Necesito un certificado de e.firma para enviar mi información fiscal?",
-    "¿A través de dónde debo enviar la información sobre mi situación fiscal?",
-    "¿Qué formatos debo llenar para la declaración de mi situación fiscal?",
-    "¿Qué tipos de contribuyentes están obligados a presentar esta información?"
+    "¿Cuáles son los formatos que debo seguir para la presentación de mi información?",
+    "¿Qué debo hacer si tengo que presentar una declaración complementaria?"
   ]
 }

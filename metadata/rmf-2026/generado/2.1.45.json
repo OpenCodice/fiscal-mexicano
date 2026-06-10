@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b22a7c24bedfd431",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consultas y Autorizaciones en Línea",
+  "denominacion_comun": "Consultas sobre disposiciones fiscales",
   "temas": [
     "consultas fiscales",
-    "interpretación de leyes",
-    "autorizaciones fiscales",
+    "interpretación de disposiciones fiscales",
     "situaciones concretas",
-    "exclusiones",
-    "resoluciones fiscales",
+    "trámites en línea",
+    "exclusiones de consultas",
+    "respuesta del SAT",
     "vigencia de respuestas"
   ],
   "terminos_coloquiales": [
     "consultas al SAT",
-    "avisos para el SAT",
+    "preguntar al SAT",
     "ficha de trámite 120/CFF",
-    "resolución de consultas",
-    "consultas no aceptadas"
+    "respuestas fiscales",
+    "consultas online"
   ],
-  "resumen": "El SAT puede resolver consultas fiscales sobre situaciones concretas que no se han realizado, siempre que se sigan los procedimientos establecidos. Sin embargo, hay ciertas materias y situaciones específicas que no pueden ser objeto de estas consultas.",
+  "resumen": "El SAT puede resolver consultas sobre la interpretación de disposiciones fiscales para situaciones aún no realizadas, siguiendo un trámite específico. Sin embargo, hay varias exclusiones en temas que no podrán ser consultados.",
   "preguntas_ejemplo": [
-    "¿Cómo hago una consulta sobre deducciones autorizadas?",
-    "¿Qué tipos de consultas no puedo hacer al SAT?",
-    "¿Cuál es la vigencia de la respuesta a mi consulta fiscal?",
-    "¿Qué reglas debo seguir para presentar una consulta al SAT?",
-    "¿Puedo preguntar sobre operaciones con partes relacionadas?"
+    "¿Puedo hacer una consulta al SAT sobre una deducción específica?",
+    "¿Qué tipo de preguntas no se pueden hacer al SAT?",
+    "¿Cómo puedo presentar una consulta en línea al SAT?",
+    "¿Qué respuesta obtendré del SAT y cuánto tiempo será válida?",
+    "¿Puedo preguntar al SAT sobre mis ingresos acumulables?",
+    "¿Cuáles son los temas excluidos de consultas al SAT?"
   ]
 }

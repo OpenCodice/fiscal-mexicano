@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ffd3ca92ad95f035",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transporte público terrestre de personas",
   "temas": [
     "IVA",
     "transporte público",
-    "zonas urbanas",
-    "municipios",
-    "ciudades",
-    "distancia de viaje"
+    "áreas urbanas",
+    "zonas metropolitanas",
+    "distancia",
+    "origen y destino",
+    "municipios"
   ],
   "terminos_coloquiales": [
-    "IVA transporte",
-    "transporte urbano",
-    "transporte suburbano",
-    "transporte metropolitano"
+    "transporte público",
+    "viaje corto",
+    "taxi",
+    "camión",
+    "autobús",
+    "LIVA"
   ],
-  "resumen": "Esta regla establece las condiciones bajo las cuales el transporte público terrestre de personas se considera prestado en áreas urbanas, suburbanas o metropolitanas. Se definen criterios como la distancia del viaje, la ubicación del origen y destino dentro de un mismo municipio o ciudad.",
+  "resumen": "La disposición establece que el transporte público terrestre de personas está sujeto a ciertas condiciones, como la distancia entre el origen y destino del viaje, el cual debe ser igual o menor a 30 kilómetros. También se considera la ubicación dentro de un mismo municipio o ciudad para determinar la prestación del servicio.",
   "preguntas_ejemplo": [
-    "¿Qué condiciones debe cumplir el transporte público para que se aplique IVA?",
-    "¿Cuándo se considera transporte urbano para efectos fiscales?",
-    "¿Se puede aplicar IVA si el viaje es menor a 30 kilómetros?",
-    "¿Qué se entiende por zonas metropolitanas en el transporte público?",
-    "¿Cómo afecta el lugar de origen y destino en el cobro de IVA?"
+    "¿Qué se considera transporte público terrestre de personas?",
+    "¿Cuáles son las condiciones para que un viaje sea considerado transporte público?",
+    "¿Qué distancia se toma en cuenta para el transporte público urbano?",
+    "¿El viaje tiene que ser dentro del mismo municipio?",
+    "¿En qué casos se aplica el IVA al transporte público terrestre?"
   ]
 }

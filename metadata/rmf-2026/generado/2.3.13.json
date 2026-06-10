@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fab7ba224862820",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de IVA para líneas aéreas",
+  "denominacion_comun": "Devolución de IVA para Líneas Aéreas",
   "temas": [
     "devolución de IVA",
-    "suministros aeronáuticos",
-    "combustibles y lubricantes",
-    "publicidad en vuelos",
+    "líneas aéreas",
+    "suministros de aeronaves",
+    "combustibles",
+    "publicidad",
     "servicios internacionales",
-    "acuerdos de transporte aéreo",
+    "acuerdos bilaterales",
     "exenciones fiscales"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "IVA para líneas aéreas",
-    "regla 2.3.13",
-    "devoluciones de impuestos"
+    "IVA de aerolíneas",
+    "IVA en transporte aéreo",
+    "acuerdo de transporte",
+    "exención de impuestos",
+    "importación de suministros",
+    "combustibles para aviones"
   ],
-  "resumen": "Las líneas aéreas designadas por las autoridades de otros países pueden solicitar la devolución del IVA pagado por suministros para la aeronave si cumplen con ciertos requisitos. Estos incluyen artículos llevados a bordo para uso exclusivo de pasajeros y combustible adquirido en otros países.",
+  "resumen": "Las líneas aéreas pueden solicitar la devolución del IVA que pagaron por suministros y combustible adquiridos para su uso en vuelos internacionales, siempre que cumplan con ciertas condiciones. Además, se considera la aplicación de acuerdos internacionales que puedan exentar estos pagos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución del IVA por suministros de mi aeronave?",
-    "¿Qué requisitos debo cumplir para que me devuelvan el IVA?",
-    "¿Qué artículos son considerados suministros para la devolución del IVA?",
-    "¿La devolución de IVA aplica para vuelos internacionales?",
-    "¿Qué hacer si ya acredité el IVA y quiero solicitar la devolución?"
+    "¿Cómo puedo solicitar la devolución del IVA si soy una aerolínea?",
+    "¿Qué tipo de suministros son elegibles para la devolución de IVA?",
+    "¿Se puede solicitar la devolución de IVA por combustible utilizado en vuelos internacionales?",
+    "¿Qué documentos necesito para tramitar la devolución de IVA?",
+    "¿Existen acuerdos internacionales que afecten la devolución de IVA para aerolíneas?"
   ]
 }

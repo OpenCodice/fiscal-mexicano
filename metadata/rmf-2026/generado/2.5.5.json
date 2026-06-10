@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dee1f8f1776d2177",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dividendos",
+  "denominacion_comun": "Ingresos por dividendos",
   "temas": [
-    "régimen de ingresos",
+    "obligaciones fiscales",
+    "registro en el RFC",
+    "dividendos",
     "ganancias distribuidas",
-    "socios o accionistas",
-    "avisos en el RFC"
+    "socio",
+    "accionista"
   ],
   "terminos_coloquiales": [
     "dividendos",
-    "ganancias de dividendos",
-    "RFC",
-    "regla de dividendos"
+    "ingresos por dividendos",
+    "avisos en el RFC",
+    "CFF",
+    "reglamento del CFF"
   ],
-  "resumen": "La autoridad fiscal puede aumentar las obligaciones relacionado con los ingresos por dividendos sin que el contribuyente presente un aviso, cuando esté en la situación de socio o accionista. El contribuyente puede aclarar su situación aportando pruebas.",
+  "resumen": "La autoridad fiscal aumenta las obligaciones relacionadas con los ingresos por dividendos sin que el contribuyente presente un aviso, cuando los socios o accionistas cumplan ciertos requisitos. El contribuyente puede aclarar la información en el RFC si considera que no es correcta.",
   "preguntas_ejemplo": [
-    "¿Qué son los dividendos en términos fiscales?",
-    "¿Cómo se actualizan mis datos en el RFC por ingresos de dividendos?",
-    "¿Necesito presentar un aviso por los ingresos por dividendos?",
-    "¿Cuándo se considera que soy socio o accionista?",
-    "¿Qué hacer si no estoy de acuerdo con la actualización de mis datos en el RFC?"
+    "¿Cómo se registran los ingresos por dividendos en el RFC?",
+    "¿Qué hacer si no estoy de acuerdo con los ingresos por dividendos que reportó la autoridad?",
+    "¿La autoridad me puede aumentar mis obligaciones por dividendos sin avisar?",
+    "¿Qué requisitos debo cumplir para que se considere que tengo ingresos por dividendos?"
   ]
 }

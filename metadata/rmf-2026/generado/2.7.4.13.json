@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d38d0362d96fb77a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proveedores de Certificación y Generación de CFDI para el Sector Primario",
+  "denominacion_comun": "Generación de CFDI para el sector primario",
   "temas": [
-    "PCGCFDISP",
-    "autorización",
-    "aviso de suspensión",
-    "transición",
-    "prestación de servicios"
+    "Autorización de proveedores",
+    "Aviso de desistimiento",
+    "Período de transición",
+    "Servicios de facturación"
   ],
   "terminos_coloquiales": [
-    "Proveedores de CFDI",
     "PCGCFDISP",
-    "cómo dejar de operar como proveedor de CFDI"
+    "dejar de operar como proveedor de CFDI",
+    "facturación electrónica",
+    "notificación al SAT"
   ],
-  "resumen": "Las personas morales que son proveedores de certificación y generación de CFDI para el sector primario pueden presentar un aviso para dejar de operar. Esto inicia un periodo de transición y permite a los usuarios buscar otros proveedores para sus necesidades de facturación.",
+  "resumen": "Esta regla establece el procedimiento para que los proveedores de certificación y generación de CFDI para el sector primario dejen de operar si así lo desean. Deben presentar un aviso al SAT y cumplir con un período de transición de noventa días para facilitar la transición a sus clientes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo dejar de ser proveedor de CFDI?",
-    "¿Qué hago si quiero cancelar mi autorización como PCGCFDISP?",
-    "¿Cuánto tiempo tengo para hacer la transición a otro proveedor de CFDI?",
-    "¿Dónde presento el aviso para dejar de operar como proveedor de CFDI?",
-    "¿Qué pasa si un PCGCFDISP se desiste de su autorización?"
+    "¿Cómo puedo dejar de operar como proveedor de CFDI?",
+    "¿Qué debo hacer si quiero desistirme de mi autorización como PCGCFDISP?",
+    "¿Cuál es el proceso para notificar al SAT mi deseo de dejar de operar?",
+    "¿Qué sucede con mis clientes si dejo de operar como proveedor de CFDI?",
+    "¿Qué periodo de transición hay para dejar de ser proveedor de certificación?"
   ]
 }

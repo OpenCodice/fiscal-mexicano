@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:84a416aad313b6b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuentas de comisionistas",
@@ -17,16 +18,17 @@
     "contrato de comisión mercantil"
   ],
   "terminos_coloquiales": [
-    "cuentas de comisionistas",
-    "depósitos a la vista",
-    "LISR"
+    "dinero en cuentas de comisionistas",
+    "depósitos para clientes",
+    "cuentas de banco",
+    "comisionistas"
   ],
-  "resumen": "Los depósitos en efectivo en cuentas de comisionistas se consideran realizados a la institución de crédito que tenga el contrato de comisión. Esto aplica hasta el monto que la institución reciba para abono en cuentas de sus clientes a través de estos comisionistas.",
+  "resumen": "La regla establece que los depósitos en efectivo en cuentas de comisionistas se consideran como realizados a la institución de crédito con la que se tiene un contrato de comisión. Esto aplica hasta el monto de los depósitos que la institución reciba para sus clientes a través de esos comisionistas.",
   "preguntas_ejemplo": [
     "¿Cómo se registran los depósitos en cuentas de comisionistas?",
-    "¿Qué se considera un depósito efectivo a la vista?",
-    "¿Qué relación tienen los comisionistas con las instituciones de crédito?",
-    "¿Cómo afecta el contrato de comisión mercantil a los depósitos?",
-    "¿Qué monto se toma en cuenta para los depósitos en efectivo de comisionistas?"
+    "¿Qué significa que los depósitos se entiendan como efectuados a la institución comitente?",
+    "¿Qué pasa con el dinero que reciben los comisionistas?",
+    "¿Qué requisitos tienen que cumplir los comisionistas para los depósitos?",
+    "¿Los depósitos en efectivo cuentan como ingresos para los comisionistas?"
   ]
 }

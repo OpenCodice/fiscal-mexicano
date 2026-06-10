@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:468675a9f12fa53d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones por gastos en activo fijo",
   "temas": [
     "deducciones",
     "gastos",
-    "activo fijo",
+    "activos fijos",
     "apoyos económicos",
     "requisitos de deducción"
   ],
   "terminos_coloquiales": [
-    "deducciones de gastos",
-    "gastos en activo fijo",
+    "deducciones",
+    "gastos en equipos",
+    "bienes de activo fijo",
     "apoyos monetarios",
-    "ISR",
     "LISR"
   ],
-  "resumen": "Los contribuyentes pueden deducir los gastos relacionados con bienes de activo fijo adquiridos mediante apoyos económicos, siempre y cuando no se paguen con dichos apoyos y se cumplan otros requisitos de deducción.",
+  "resumen": "Los contribuyentes pueden deducir gastos relacionados con bienes de activo fijo adquiridos con apoyos económicos, siempre que estos gastos no se realicen con los mismos apoyos y cumplan con los requisitos de deducción establecidos. Esto se refiere a los artículos de la Ley del ISR sobre deducciones.",
   "preguntas_ejemplo": [
-    "¿Qué gastos se pueden deducir en relación con activos fijos?",
-    "¿Cómo funcionan los apoyos económicos para la deducción de gastos?",
-    "¿Qué requisitos debo cumplir para deducir gastos de activo fijo?",
-    "¿Puedo deducir gastos si utilicé apoyos monetarios?",
-    "¿Cuáles son los artículos relevantes de la Ley del ISR sobre deducciones?"
+    "¿Qué gastos puedo deducir si compré maquinaria con apoyo económico?",
+    "¿Cuáles son los requisitos para deducir gastos en activo fijo?",
+    "¿Puedo deducir la compra de un equipo si recibí un subsidio?",
+    "¿Qué dice la ley sobre la deducción de bienes de activo fijo?",
+    "¿Cómo afectan los apoyos monetarios a mis deducciones?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e3984d335a4b2f1a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación de activos fijos nuevos",
+  "denominacion_comun": "Documentación para bienes de activo fijo nuevos",
   "temas": [
-    "comprobación de activos",
-    "bienes de activo fijo",
-    "documentación fiscal",
     "CFDI",
-    "importación de bienes"
+    "activo fijo",
+    "documentación comprobatoria",
+    "comprobantes fiscales",
+    "bienes nuevos",
+    "deducción de inversiones"
   ],
   "terminos_coloquiales": [
-    "documentos para comprobar activos",
-    "comprobación de bienes",
-    "papeles para activos nuevos",
-    "regla 11.13.8"
+    "comprar maquinaria",
+    "comprar equipo nuevo",
+    "comprobante de compra",
+    "estado de cuenta",
+    "póliza contable",
+    "contrato de compra"
   ],
-  "resumen": "La disposición establece los documentos que los contribuyentes deben presentar para comprobar que los bienes de activo fijo adquiridos son nuevos. Esto incluye CFDI, estados de cuenta y otros comprobantes relacionados con la adquisición de los bienes.",
+  "resumen": "Los contribuyentes deben presentar ciertos documentos para comprobar que los bienes de activo fijo adquiridos son nuevos. Esto incluye CFDIs, estados de cuenta, pólizas contables y contratos que describan las características de los bienes.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para comprobar que compré activos fijos nuevos?",
-    "¿Cómo demuestro que mis bienes son nuevos?",
-    "¿Qué requisitos debo cumplir para la deducción de inversiones en activos fijos?",
-    "¿Cuál es la documentación para la compra de bienes provenientes del extranjero?",
-    "¿Qué comprobar en el CFDI para cumplir con la legislación fiscal?"
+    "¿Qué documentos necesito para comprobar que compré equipo nuevo?",
+    "¿Cómo puedo demostrar que mis activos fijos son nuevos?",
+    "¿Cuál es la documentación requerida para deducir inversiones?",
+    "¿Es suficiente un CFDI para comprobar la compra de un activo fijo?",
+    "¿Qué dice la ley sobre los bienes de activo fijo adquiridos del extranjero?"
   ]
 }

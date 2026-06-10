@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d509fd6be0757de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compensación improcedente",
+  "denominacion_comun": "Compensación improcedente y reducciones de multas",
   "temas": [
-    "multas fiscales",
-    "recargos",
-    "solicitud de reducción",
-    "facultades de comprobación",
-    "sanciones fiscales"
+    "compensación improcedente",
+    "reducción de multas",
+    "recargos por prórroga",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
-    "compensación no válida",
-    "reducción de multas",
-    "multas por compensación improcedente",
-    "CFF 70-A"
+    "multas",
+    "recargos",
+    "improcedente",
+    "Solicitud de reducción de multas",
+    "CFF",
+    "LIF",
+    "carta de solicitud"
   ],
-  "resumen": "Esta regla establece que los contribuyentes a quienes se les ha determinado improcedente una compensación pueden solicitar la reducción de multas y la aplicación de una tasa de recargos por prórroga. Los beneficios son aplicables solo si se cumplen ciertos requisitos y no se han tenido infracciones previas en un período específico.",
+  "resumen": "La regla establece que los contribuyentes que tengan compensaciones improcedentes pueden solicitar la reducción de multas y la aplicación de una tasa de recargos por prórroga. Esta solicitud debe acompañarse de una declaración y cumplir con ciertos requisitos para poder beneficiarse de la reducción.",
   "preguntas_ejemplo": [
-    "¿Qué hago si mi compensación fue considerada improcedente?",
-    "¿Cómo puedo solicitar la reducción de multas por compensación improcedente?",
-    "¿Cuáles son los requisitos para acceder a la reducción de multas?",
-    "¿Qué sucede si no cumplo con los requisitos establecidos?",
-    "¿Puedo obtener una prórroga de recargos si mi compensación fue improcedente?"
+    "¿Qué hago si me determinan una compensación improcedente?",
+    "¿Puedo reducir multas si no me han comprobado nada?",
+    "¿Cómo solicito la reducción de multas por compensación improcedente?",
+    "¿Qué requisitos debo cumplir para reducir mis multas fiscales?",
+    "¿Cuánto tiempo tengo para presentar mi solicitud de reducción de multas?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f5551dc5b20b2100",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa Múltiple del IEPS",
   "temas": [
-    "Obligaciones fiscales",
-    "Programa Electrónico",
-    "Declaración informativa",
-    "Registros de información",
-    "Presentación de información"
+    "obligaciones fiscales",
+    "programa electrónico",
+    "presentación de información",
+    "acuso de recibo",
+    "registro de anexos"
   ],
   "terminos_coloquiales": [
     "MULTI-IEPS",
-    "declaración IEPS",
-    "declaración informativa",
-    "obligaciones fiscales del IEPS"
+    "declaración fiscal",
+    "presentar información del IEPS",
+    "para el IEPS",
+    "información extemporánea"
   ],
-  "resumen": "Esta regla establece el procedimiento que deben seguir los contribuyentes para presentar la Declaración Informativa Múltiple del Impuesto Especial sobre Producción y Servicios, mediante un programa electrónico, ya sea por Internet o en medios magnéticos. También especifica cómo manejar la cantidad de registros al presentar la información.",
+  "resumen": "Los contribuyentes deben usar el programa MULTI-IEPS para presentar información fiscal relacionada con el Impuesto Especial sobre Producción y Servicios. La presentación puede hacerse en línea o mediante medios magnéticos, dependiendo de la cantidad de registros a entregar.",
   "preguntas_ejemplo": [
-    "¿Cómo presento la Declaración Informativa Múltiple del IEPS?",
-    "¿Qué procedimiento sigo para el programa MULTI-IEPS?",
-    "¿Cuántos registros puedo presentar por Internet?",
-    "¿Qué hago si tengo más de 40,000 registros para mi declaración IEPS?",
-    "¿Dónde encuentro el programa para presentar mi declaración informativa del IEPS?"
+    "¿Cómo presento la declaración del IEPS?",
+    "¿Qué es el programa MULTI-IEPS?",
+    "¿Qué debo hacer si tengo más de 40,000 registros para el IEPS?",
+    "¿Dónde encuentro el instructivo para llenar la declaración del IEPS?",
+    "¿Necesito e.firma para presentar el MULTI-IEPS?"
   ]
 }

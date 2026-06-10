@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc5ef332acbe985a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representatividad de obras de arte",
+  "denominacion_comun": "Representatividad de obras de artes plásticas",
   "temas": [
     "obras de arte",
+    "representatividad",
     "declaración anual",
     "CFDI",
-    "producción artística",
     "enajenación",
-    "requisitos fiscales"
+    "artista plástico",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "representatividad de las obras",
-    "declaración de artista",
-    "CFDI de obras",
-    "Ley del SAT 7-B"
+    "obra de arte",
+    "obra representativa",
+    "declaración de impuestos",
+    "CFDI",
+    "venta de obras",
+    "artista",
+    "pago en especie"
   ],
-  "resumen": "Los artistas plásticos deben presentar un escrito al declarar anualmente, confirmando que las obras que proponen como pago en especie son representativas de su trabajo. Deben incluir un listado fotográfico de las obras vendidas y los CFDI correspondientes.",
+  "resumen": "Los artistas plásticos deben declarar la representatividad de sus obras al presentar su declaración anual, acompañando un escrito que indique que la obra es representativa de su producción. Además, deben incluir un listado fotográfico de las obras vendidas y los CFDI correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo demuestra un artista que sus obras son representativas?",
-    "¿Qué necesito para presentar mi declaración anual como artista?",
-    "¿Qué documentos debo entregar al momento de declarar mis obras de arte?",
-    "¿Cuántas obras debo incluir en mi listado fotográfico?",
-    "¿Qué es un CFDI en el contexto de las obras de arte?"
+    "¿Qué necesito para declarar mis obras de arte?",
+    "¿Cómo demuestro la representatividad de mis obras en mi declaración?",
+    "¿Qué es un CFDI en la venta de obras de arte?",
+    "¿Cuántas obras debo incluir en mi declaración anual?",
+    "¿Qué pasa si he vendido menos de cinco obras en el año?"
   ]
 }

@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:32f1248961dd788a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tianguis del Bienestar y Estímulo Fiscal IVA",
+  "denominacion_comun": "Tianguis del Bienestar y estímulo fiscal IVA",
   "temas": [
-    "Tianguis del Bienestar",
-    "estímulo fiscal",
+    "estímulos fiscales",
     "IVA",
     "CFDI",
-    "mercancías",
-    "Quintana Roo",
-    "legendas fiscales"
+    "Tianguis del Bienestar",
+    "mercanías",
+    "expedición de CFDI",
+    "leyendas fiscales",
+    "Quintana Roo"
   ],
   "terminos_coloquiales": [
-    "estímulos fiscales",
-    "Tianguis",
-    "IVA Tianguis",
-    "CFDI Tianguis",
-    "Leyendas Fiscales"
+    "tianguis",
+    "mercancías",
+    "factura",
+    "IVA",
+    "estímulo fiscal",
+    "CFDI ingreso",
+    "leyenda fiscal"
   ],
-  "resumen": "Los locatarios del Tianguis del Bienestar pueden aplicar un estímulo fiscal en materia del IVA al vender mercancías de forma presencial. Deben usar claves específicas en el CFDI y añadir una leyenda que indique que la operación se realizó dentro del Tianguis del Bienestar.",
+  "resumen": "La disposición establece que los locatarios del Tianguis del Bienestar en Quintana Roo pueden aplicar un estímulo fiscal en materia de IVA al enajenar mercancías. Deben reflejar este estímulo en los CFDI y agregar una leyenda específica que indique que la operación se realizó en dicho tianguis.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico el estímulo fiscal del IVA en el Tianguis del Bienestar?",
-    "¿Qué claves debo usar en el CFDI para las ventas del Tianguis del Bienestar?",
-    "¿Qué leyenda necesito incluir en mis CFDI de ingreso del Tianguis del Bienestar?",
-    "¿Cuáles son los requisitos para aplicar el estímulo fiscal en el Tianguis del Bienestar?",
-    "¿Qué implicaciones fiscales tiene vender en el Tianguis del Bienestar?"
+    "¿Qué es el Tianguis del Bienestar?",
+    "¿Cómo aplico el estímulo fiscal del IVA en mis CFDI?",
+    "¿Qué leyenda debo incluir en mis facturas del Tianguis del Bienestar?",
+    "¿Qué documentos necesito para enajenar mercancías en el tianguis?",
+    "¿Qué claves debo usar en el CFDI para el estímulo fiscal del Tianguis del Bienestar?"
   ]
 }

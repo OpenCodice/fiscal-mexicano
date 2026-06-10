@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1a200aee0854af3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales de donatarias autorizadas",
+  "denominacion_comun": "Obligaciones fiscales de donatarias",
   "temas": [
     "donatarias autorizadas",
     "obligaciones fiscales",
-    "verificación de cumplimiento",
-    "declaraciones informativas",
+    "verificación del SAT",
     "comprobantes fiscales",
+    "declaraciones informativas",
     "contabilidad",
-    "donativos del extranjero",
-    "patrimonio"
+    "donativos del extranjero"
   ],
   "terminos_coloquiales": [
-    "obligaciones de donatarias",
     "donatarias",
-    "LISR 82",
-    "verificación SAT"
+    "obligaciones de donatarias",
+    "verificación del SAT",
+    "presentación de declaraciones",
+    "comprobantes pagos",
+    "contabilidad de donatarias"
   ],
-  "resumen": "El SAT verifica que las donatarias autorizadas cumplan con sus obligaciones fiscales. Esto incluye la presentación de declaraciones, expedición de comprobantes y llevar contabilidad adecuada.",
+  "resumen": "El SAT puede verificar que las donatarias autorizadas cumplan con sus obligaciones fiscales utilizando información de sus expedientes, sistemas institucionales y otras autoridades. Las obligaciones incluyen la presentación de declaraciones, la obtención de comprobantes fiscales y el correcto llenado de la declaración informativa.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones fiscales tienen las donatarias autorizadas?",
+    "¿Cuáles son las obligaciones fiscales de una donataria autorizada?",
     "¿Cómo verifica el SAT a las donatarias?",
-    "¿Qué declaraciones deben presentar las donatarias?",
-    "¿Qué comprobantes fiscales necesitan las donatarias?",
-    "¿Hay obligaciones específicas para donativos del extranjero?"
+    "¿Qué documentos deben presentar las donatarias para cumplir con el ISR?",
+    "¿Qué pasa si no cumplo con mis obligaciones fiscales como donataria?",
+    "¿Qué es una declaración informativa para donatarias?"
   ]
 }

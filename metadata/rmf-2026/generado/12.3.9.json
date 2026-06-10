@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5bca4a1c46ffaa51",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del IVA por plataformas tecnológicas",
+  "denominacion_comun": "Retención de Impuestos por Servicios Digitales",
   "temas": [
-    "retención del IVA",
-    "plataformas digitales",
+    "retención de impuestos",
+    "servicios digitales",
+    "plataformas tecnológicas",
     "personas físicas",
     "pago definitivo",
-    "ingresos",
-    "requisitos fiscales"
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "retención IVA",
-    "plataformas tecnológicas",
-    "ingresos digitales"
+    "retención de impuestos",
+    "servicios digitales",
+    "pago definitivo",
+    "plataformas de servicios",
+    "LISR"
   ],
-  "resumen": "Las personas físicas deben dejar de considerar como definitivo el pago de retenciones del IVA cuando ya no cumplen con ciertos requisitos. Esto aplica a los ingresos recibidos a través de plataformas tecnológicas y similares.",
+  "resumen": "Las personas físicas deben dejar de aplicar la retención de impuestos como definitiva cuando ya no cumplan con los requisitos establecidos. Esto se aplica a los ingresos que reciben a través de plataformas tecnológicas y similares.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo dejar de considerar como definitivo el IVA que me retienen las plataformas?",
-    "¿Qué requisitos debo cumplir para que la retención del IVA sea considerada definitiva?",
-    "¿Qué pasa si dejo de cumplir con los requisitos para la retención del IVA?",
-    "¿Cómo afecta mi situación en la plataforma tecnológica a la retención del IVA?",
-    "¿Qué artículos de la LISR se refieren a la retención del IVA?"
+    "¿Cuándo debo dejar de considerar como definitiva la retención de impuestos?",
+    "¿Qué pasa si ya no cumplo con los requisitos para la retención de impuestos?",
+    "¿Cómo afecta mi situación fiscal al usar plataformas digitales?",
+    "¿Qué significa pago definitivo en el contexto de la Ley del ISR?",
+    "¿Qué artículos de la Ley del ISR se relacionan con la retención de impuestos?"
   ]
 }

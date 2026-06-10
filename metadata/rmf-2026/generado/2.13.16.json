@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7bd67490634299db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entrega de excedentes por remate o adjudicación",
+  "denominacion_comun": "Excedentes del remate",
   "temas": [
-    "excedentes",
+    "embargo",
     "remate",
     "adjudicación",
-    "embargo",
+    "excedentes",
     "solicitud",
-    "plazos",
     "requisitos",
+    "abandonado",
     "fisco federal"
   ],
   "terminos_coloquiales": [
-    "entrega de excedentes",
-    "excedentes fiscales",
+    "dinero del remate",
+    "excedente del remate",
+    "devolución de dinero",
+    "excedente por adjudicación",
     "CFF",
-    "Solicitud de entrega de excedentes"
+    "ficha de trámite 67"
   ],
-  "resumen": "Los embargados deben solicitar la entrega de excedentes del remate o adjudicación por escrito, cumpliendo con ciertos requisitos. Si no se solicita en un plazo de seis meses, el excedente será abandonado a favor del fisco federal.",
+  "resumen": "Esta regla establece los plazos y requisitos para que una persona embargada solicite la entrega de los excedentes generados por el remate o adjudicación de sus bienes. Si no se solicita en un plazo determinado, el excedente se considera abandonado a favor del fisco federal.",
   "preguntas_ejemplo": [
-    "¿Cómo pido la entrega de los excedentes del remate?",
-    "¿Cuáles son los requisitos para solicitar el excedente?",
+    "¿Cómo solicito el excedente del dinero del remate?",
+    "¿Qué requisitos debo cumplir para obtener el excedente por adjudicación?",
+    "¿Cuánto tiempo tengo para pedir el excedente después del remate?",
     "¿Qué pasa si no solicito el excedente a tiempo?",
-    "¿Qué es el excedente por adjudicación?",
-    "¿Cuánto tiempo tengo para solicitar el excedente?"
+    "¿Cómo se notifica el abandono del excedente a favor del fisco?",
+    "¿Dónde puedo encontrar la ficha de trámite 67?"
   ]
 }

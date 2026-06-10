@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ab26497370441d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Convenio para Evitar la Doble Imposición",
+  "denominacion_comun": "Doble Imposición",
   "temas": [
-    "doble imposición",
-    "evasión fiscal",
-    "sociedades de responsabilidad limitada",
-    "residentes fiscales"
+    "Convenios fiscales",
+    "Evasión fiscal",
+    "Sociedades de responsabilidad limitada",
+    "Residentes fiscales"
   ],
   "terminos_coloquiales": [
-    "Convenio México-Estados Unidos",
-    "beneficios de doble imposición",
-    "formulario 6166"
+    "evitar doble imposición",
+    "convenio México-EE.UU.",
+    "sociedades limitadas",
+    "forma 6166"
   ],
-  "resumen": "Este convenio establece que ciertas sociedades de responsabilidad limitada de EE. UU. pueden aplicar beneficios fiscales en México, siempre que demuestren su residencia fiscal mediante la forma 6166. Esto ayuda a evitar la doble imposición y la evasión fiscal.",
+  "resumen": "Esta regla aclara que un convenio entre México y Estados Unidos para evitar la doble imposición se aplica también a las sociedades de responsabilidad limitada estadounidenses. Para beneficiarse de este convenio, estas sociedades necesitan un documento específico que confirme su residencia en EE.UU.",
   "preguntas_ejemplo": [
-    "¿Cómo aplico los beneficios del Convenio de doble imposición?",
-    "¿Qué es la forma 6166 y cómo se obtiene?",
-    "¿Las sociedades de EE. UU. tienen ventajas fiscales en México?",
-    "¿Qué significa ser residente fiscal según el convenio?",
-    "¿Qué debo hacer para evitar la doble imposición en mis impuestos?",
-    "¿Cómo afecta el convenio a las sociedades de responsabilidad limitada?"
+    "¿Qué es el convenio de doble imposición entre México y Estados Unidos?",
+    "¿Cómo afecta a las sociedades limitadas en EE.UU. la ley fiscal mexicana?",
+    "¿Qué necesito para aplicar los beneficios del convenio de doble imposición?",
+    "¿Qué es la forma 6166 y para qué se utiliza?",
+    "¿Las sociedades de EE.UU. pagan impuestos en México?"
   ]
 }

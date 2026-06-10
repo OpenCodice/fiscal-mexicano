@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9de48f5c37925991",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de retenciones e información de pagos",
+  "denominacion_comun": "CFDI de retenciones",
   "temas": [
-    "CFDI",
-    "retenciones",
-    "información de pagos",
+    "expedición de CFDI",
+    "retenciones de impuestos",
     "comprobantes fiscales",
-    "Decreto 2015",
-    "planes de retiro",
-    "notarios"
+    "constancias fiscales",
+    "complemento de planes de retiro"
   ],
   "terminos_coloquiales": [
+    "factura de retención",
     "comprobante de retenciones",
-    "CFDI de retenciones",
-    "factura de retenciones",
+    "retenciones",
     "CFDI",
-    "factura de información de pagos"
+    "constancia de retención"
   ],
-  "resumen": "El CFDI de retenciones e información de pagos se debe emitir electrónicamente siguiendo lo establecido en el Anexo 20. Los contribuyentes pueden emitir un CFDI que incluya toda la información de las retenciones efectuadas, y este podrá considerarse como constancia de dichas retenciones.",
+  "resumen": "Esta regla establece cómo se debe emitir el Comprobante Fiscal Digital por Internet (CFDI) para las retenciones e información de pagos. Los contribuyentes pueden optar por emitir una constancia fiscal cuando se incluyen las retenciones en el CFDI y deben seguir las disposiciones específicas del SAT para su correcta emisión.",
   "preguntas_ejemplo": [
-    "¿Cómo emito un CFDI de retenciones?",
-    "¿Qué información debe tener un CFDI de retenciones?",
-    "¿Se puede emitir un CFDI de retenciones anualizado?",
+    "¿Cómo se emite un CFDI de retenciones?",
+    "¿Qué información debe contener un CFDI de retenciones?",
+    "¿Se puede emitir un comprobante de retenciones de manera anual?",
     "¿Qué es el complemento de planes de retiro en el CFDI?",
-    "¿Los notarios pueden emitir CFDI de retenciones?"
+    "¿Qué pasa si emito un CFDI por un notario?"
   ]
 }

@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:29976893f0ce56f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información de certificados del SAT",
+  "denominacion_comun": "Certificados del SAT",
   "temas": [
-    "certificados SAT",
-    "código de identificación",
-    "periodo de validez",
-    "mecanismos de e.firma",
-    "CFDI",
-    "CSD",
-    "identificación única"
-  ],
-  "terminos_coloquiales": [
-    "certificado SAT",
-    "CSD",
+    "certificados digitales",
+    "Código de identificación único",
+    "validez del certificado",
     "e.firma",
     "CFDI"
   ],
-  "resumen": "Esta disposición establece que los certificados emitidos por el SAT deben incluir información específica como el código de identificación único y el periodo de validez. También menciona los estándares que deben seguir los datos de certificados digitales.",
+  "terminos_coloquiales": [
+    "certificados del SAT",
+    "e.firma",
+    "comprobante fiscal",
+    "CFDI"
+  ],
+  "resumen": "La regla establece los requisitos que deben contener los certificados emitidos por el SAT, incluyendo el código de identificación único y el periodo de validez. Además, se menciona que el certificado de e.firma puede sustituir al CSD para la expedición de CFDI para personas físicas.",
   "preguntas_ejemplo": [
     "¿Qué datos debe tener un certificado del SAT?",
-    "¿Cuál es el periodo de validez de un certificado?",
-    "¿Qué es el código de identificación único del certificado?",
+    "¿Cuáles son los requisitos para los certificados digitales?",
     "¿Puedo usar mi e.firma en lugar del CSD para CFDI?",
-    "¿Qué estándares siguen los certificados digitales emitidos por el SAT?"
+    "¿Qué es el código de identificación único de un certificado?",
+    "¿Cuál es el periodo de validez de un certificado del SAT?"
   ]
 }

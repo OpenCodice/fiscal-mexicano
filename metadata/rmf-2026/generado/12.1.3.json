@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fc0b6dc0812ec21",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios digitales de residentes en el extranjero",
   "temas": [
-    "Representante legal",
-    "Domicilio fiscal",
-    "Inscripción en el RFC",
-    "Notificación fiscal",
-    "Obligaciones fiscales"
+    "inscripción en el RFC",
+    "representante legal",
+    "notificación fiscal",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "RFC de extranjeros",
-    "Servicios digitales",
-    "Domicilio fiscal de extranjeros",
-    "Intermediación digital"
+    "servicios digitales",
+    "servicios de intermediación",
+    "clientes en México",
+    "notificaciones del SAT"
   ],
-  "resumen": "Los residentes en el extranjero que presten servicios digitales deben designar un representante legal y proporcionar un domicilio en México para efectos fiscales. También deben notificar cualquier cambio en estos datos.",
+  "resumen": "Esta disposición establece que los residentes en el extranjero que proporcionan servicios digitales deben inscribirse en el RFC y designar un representante legal en México para cumplir con las obligaciones fiscales. También deben informar sobre cualquier cambio en su representante o domicilio en territorio nacional.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los residentes en el extranjero para inscribirse en el RFC?",
-    "¿Cómo cambio el domicilio fiscal de mi empresa extranjera que brinda servicios digitales?",
-    "¿Necesito un representante legal en México si ofrezco servicios digitales desde el extranjero?",
-    "¿Cuáles son mis obligaciones fiscales como residente extranjero que proporciona servicios digitales?",
-    "¿Cómo notifico al SAT si cambio de representante legal?"
+    "¿Cómo se inscriben los servicios digitales en el RFC?",
+    "¿Qué es un representante legal para servicios digitales?",
+    "¿Qué debo hacer si cambio mi domicilio en México?",
+    "¿Cuáles son mis obligaciones fiscales al ofrecer servicios digitales desde el extranjero?",
+    "¿Qué notificaciones debo recibir del SAT?"
   ]
 }

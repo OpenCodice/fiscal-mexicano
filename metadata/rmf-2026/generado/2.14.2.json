@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:77f23c2627a07626",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos y reducción de multas",
   "temas": [
-    "solicitud de autorización",
-    "adeudos en parcialidades",
+    "solicitud de pago a plazos",
     "reducción de multas",
     "recargos por prórroga",
-    "contribuciones omitidas"
+    "contribuciones omitidas",
+    "fichas de trámite"
   ],
   "terminos_coloquiales": [
-    "solicitud de pago a plazos",
+    "pagar en parcialidades",
     "reducir multas",
-    "pago diferido",
-    "prórroga de pagos",
-    "CFF"
+    "prórroga de impuestos",
+    "cobro de recargos",
+    "solicitud 55/CFF",
+    "solicitud 58/CFF"
   ],
-  "resumen": "Los contribuyentes pueden solicitar pagar sus adeudos en plazos o reducir multas y recargos. Deben cumplir ciertos requisitos y plazos establecidos por la ley para que estas solicitudes sean efectivas.",
+  "resumen": "La regla establece los requisitos para que los contribuyentes puedan solicitar pagar sus adeudos fiscales a plazos y reducir multas. Se deben presentar solicitudes específicas y cumplir con ciertas condiciones establecidas en la ley, además de realizar los pagos dentro del plazo señalado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar pagar mis impuestos en parcialidades?",
-    "¿Cuáles son los requisitos para reducir multas?",
-    "¿Puedo obtener una prórroga para pagar mis contribuciones?",
-    "¿Qué debo hacer si no puedo cubrir mis adeudos en los plazos señalados?",
-    "¿Qué se requiere para solicitar la autorización de pago diferido?",
-    "¿Cómo afecta mi solicitud si no hago el pago a tiempo?"
+    "¿Cómo puedo solicitar pagar mis impuestos a plazos?",
+    "¿Qué requisitos debo cumplir para reducir multas por prórroga?",
+    "¿Cuáles son las fichas de trámite necesarias para pagar en parcialidades?",
+    "¿Qué sucede si no pago el total del adeudo en el tiempo establecido?",
+    "¿Puedo pedir una prórroga para mis impuestos?"
   ]
 }

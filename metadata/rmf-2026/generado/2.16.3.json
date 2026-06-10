@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:908642743b7a4237",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Situación Fiscal",
   "temas": [
-    "obligaciones fiscales",
-    "información sobre situación fiscal",
+    "información fiscal",
     "contribuyentes",
-    "residentes en el extranjero",
-    "exenciones",
-    "operaciones fiscales"
+    "operaciones con residentes en el extranjero",
+    "exención de presentación"
   ],
   "terminos_coloquiales": [
-    "situación fiscal",
-    "CFF 32-H",
-    "informe de situación fiscal"
+    "información sobre la situación fiscal",
+    "declaración de situación fiscal",
+    "CFF 32-H"
   ],
-  "resumen": "Los contribuyentes que deben presentar información sobre su situación fiscal pueden optar por no hacerlo si el total de operaciones con residentes en el extranjero es menor a cien millones de pesos. Esto aplica solo para un grupo específico de contribuyentes.",
+  "resumen": "Esta disposición establece que los contribuyentes que cumplen con ciertos requisitos pueden optar por no presentar la información sobre su situación fiscal si sus operaciones con residentes en el extranjero son menores a cien millones de pesos.",
   "preguntas_ejemplo": [
-    "¿Qué es la situación fiscal según el CFF?",
-    "¿Debo presentar mi situación fiscal si tengo menos de 100 millones en operaciones?",
-    "¿Cuándo puedo omitir la presentación de la información fiscal?",
-    "¿Qué contribuyentes están obligados a informar sobre su situación fiscal?",
-    "¿Qué operaciones se consideran para la situación fiscal?"
+    "¿Quiénes están obligados a presentar la información sobre su situación fiscal?",
+    "¿Qué sucede si mis operaciones con el extranjero son menos de cien millones de pesos?",
+    "¿Puedo evitar presentar mi declaración de situación fiscal?",
+    "¿Qué es la fracción V del artículo 32-H del CFF?",
+    "¿Qué información debo presentar respecto a mi situación fiscal?"
   ]
 }

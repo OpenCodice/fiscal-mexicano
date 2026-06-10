@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7929474402ae440",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdidas por enajenación de acciones",
+  "denominacion_comun": "Dividendos y pérdidas en enajenación de acciones",
   "temas": [
-    "sociedades controladoras",
-    "pérdidas fiscales",
-    "dividendos",
-    "utilidades",
-    "enajenación de acciones",
     "impuesto sobre la renta",
-    "resultados consolidados"
-  ],
-  "terminos_coloquiales": [
+    "dividendos",
     "pérdidas fiscales",
     "acciones",
-    "dividendos",
-    "utilidades contables",
-    "LISR",
-    "disposiciones transitorias"
+    "sociedades controladoras",
+    "enajenación",
+    "costo promedio por acción"
   ],
-  "resumen": "Las sociedades controladoras pueden restar las pérdidas por enajenación de acciones de sus sociedades controladas al determinar su resultado fiscal, siempre que cumplan ciertos requisitos respecto a dividendos o utilidades. Estos montos se calcularán aplicando un procedimiento específico establecido en la ley.",
+  "terminos_coloquiales": [
+    "pérdidas por venta de acciones",
+    "dividendos",
+    "utilidades de sociedades",
+    "ISR",
+    "LISR"
+  ],
+  "resumen": "Esta disposición establece cómo las sociedades controladoras pueden restar las pérdidas por la enajenación de acciones de sociedades controladas al cálculo de su resultado fiscal, afectando la forma en que se consideran los dividendos o utilidades pagados. Se especifica un procedimiento para aplicar en ejercicios posteriores al de 2015.",
   "preguntas_ejemplo": [
     "¿Cómo se calculan las pérdidas por enajenación de acciones?",
-    "¿Qué son las utilidades contables en relación a las pérdidas fiscales?",
-    "¿Las sociedades controladoras pueden restar dividendos de sus pérdidas?",
-    "¿Qué procedimientos deben seguir las sociedades controladoras para reportar pérdidas?",
-    "¿Cuáles son los requisitos para disminuir las pérdidas por enajenación de acciones?"
+    "¿Qué se puede restar de los dividendos recibidos?",
+    "¿Las pérdidas por enajenación afectan el ISR?",
+    "¿Qué condiciones deben cumplirse para disminuir pérdidas fiscales?",
+    "¿Cómo aplicar el procedimiento de las pérdidas en ejercicios posteriores?"
   ]
 }

@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af2fc938b419e8a1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del ISR a residentes en el extranjero",
+  "denominacion_comun": "Retención de ISR a residentes en el extranjero",
   "temas": [
-    "impuesto sobre la renta",
-    "residentes en el extranjero",
     "retención de impuestos",
     "intereses",
+    "residentes extranjeros",
     "prestamistas",
-    "préstamos de títulos",
-    "valores"
+    "operaciones de préstamo",
+    "valores",
+    "LISR"
   ],
   "terminos_coloquiales": [
-    "retención de ISR",
-    "impuesto para extranjeros",
-    "intereses a extranjeros",
-    "prestamistas extranjeros",
-    "LISR 166",
-    "RMF 3.18.14"
+    "retención de impuestos a extranjeros",
+    "intereses a prestamistas",
+    "residentes en el extranjero",
+    "valor de títulos",
+    "ISR a prestamistas"
   ],
-  "resumen": "Esta disposición establece que la retención del impuesto sobre la renta debe aplicarse a los intereses pagados a residentes en el extranjero que actúan como prestamistas. La retención se hará a la tasa correspondiente del artículo 166 sin permitir deducciones.",
+  "resumen": "Se establece que los intereses pagados a residentes en el extranjero en su calidad de prestamistas están sujetos a retención del impuesto sobre la renta de acuerdo a lo señalado en el artículo 166 de la Ley del ISR. La retención se hará sin deducción alguna.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la retención del ISR para prestamistas extranjeros?",
-    "¿Qué tasa de retención se aplica a los intereses pagados a extranjeros?",
-    "¿Cuáles son las obligaciones fiscales al pagar intereses a un residente extranjero?",
-    "¿Los intermediarios también deben retener ISR para extranjeros?",
-    "¿Qué dice la regla 3.18.14 sobre la retención de ISR?"
+    "¿Cómo se calcula la retención de impuestos a extranjeros?",
+    "¿Qué tasa de ISR se aplica a los intereses pagados a prestamistas extranjeros?",
+    "¿Qué obligaciones tengo si pago intereses a un residente en el extranjero?",
+    "¿Cuáles son las reglas que aplican para la retención de ISR a no residentes?",
+    "¿Qué significa ser prestamista en este contexto?"
   ]
 }

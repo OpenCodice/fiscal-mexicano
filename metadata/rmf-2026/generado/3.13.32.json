@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9bba09bcc187257c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazo para habilitar el buzón tributario en el Régimen Simplificado de Confianza",
+  "denominacion_comun": "Habilitación del buzón tributario en el RESICO",
   "temas": [
     "buzón tributario",
     "Régimen Simplificado de Confianza",
     "inscripción en el RFC",
-    "actualización de actividades económicas"
+    "actualización de actividades económicas",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "buzón tributario",
     "RESICO",
-    "habilitación de buzón",
-    "plazo para el buzón"
+    "RFC",
+    "inscripción fiscal",
+    "actualización de datos"
   ],
-  "resumen": "Los contribuyentes personas físicas en el Régimen Simplificado de Confianza deben habilitar su buzón tributario en un plazo específico después de inscribirse o actualizar su situación en el RFC.",
+  "resumen": "Los contribuyentes personas físicas en el Régimen Simplificado de Confianza deben habilitar su buzón tributario dentro de los dos meses siguientes a su inscripción o actualización en el RFC. Esto es necesario para cumplir con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué plazo tengo para habilitar mi buzón tributario en el RESICO?",
-    "¿Cómo habilito mi buzón tributario después de inscribirme en el RFC?",
-    "¿Cuándo debo tener mi buzón tributario activo si actualizo mis actividades económicas?",
-    "¿Qué es el buzón tributario en el Régimen Simplificado de Confianza?",
-    "¿Cuáles son los requisitos para habilitar el buzón tributario en el RESICO?"
+    "¿Cuándo debo habilitar mi buzón tributario en el RESICO?",
+    "¿Qué necesito hacer para actualizar mis actividades en el RFC?",
+    "¿Qué pasa si no habilito mi buzón tributario a tiempo?",
+    "¿Cuáles son las obligaciones fiscales en el Régimen Simplificado de Confianza?",
+    "¿Qué significa habilitar el buzón tributario?"
   ]
 }

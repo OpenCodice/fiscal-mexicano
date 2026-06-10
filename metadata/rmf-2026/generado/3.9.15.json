@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4250531b00f0c458",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pagos provisionales para personas morales",
   "temas": [
-    "Impuesto sobre la renta",
-    "Obligaciones de personas morales",
-    "Declaraciones mensuales",
-    "Declaraciones complementarias",
-    "E.firma",
-    "Comprobantes fiscales"
+    "declaración ISR personas morales",
+    "comprobantes fiscales",
+    "declaraciones complementarias",
+    "e.firma",
+    "envío de declaraciones"
   ],
   "terminos_coloquiales": [
-    "Pagos provisionales ISR",
-    "Declaraciones de impuestos",
+    "pago provisional",
+    "declaración de impuestos",
     "ISR personas morales",
-    "E.firma",
-    "CFF"
+    "firma electrónica",
+    "modificación de declaración"
   ],
-  "resumen": "Las personas morales deben hacer pagos provisionales mensuales del ISR a través de una declaración prellenada con información de sus ingresos y pagos anteriores. Si necesitan cambiar datos de esa declaración, pueden presentar declaraciones complementarias.",
+  "resumen": "Las personas morales deben realizar pagos provisionales mensuales mediante una declaración prellenada con información de ingresos y pagos anteriores. En caso de alguna modificación, es necesario presentar declaraciones complementarias y enviar la declaración usando la e.firma.",
   "preguntas_ejemplo": [
-    "¿Cómo hago mis pagos provisionales de ISR como persona moral?",
-    "¿Qué debo incluir en mi declaración mensual de impuestos?",
-    "¿Puedo corregir mi declaración de impuestos como persona moral?",
-    "¿Qué información se precarga en la declaración de ISR?",
-    "¿Cómo envío mi declaración de impuestos con e.firma?",
-    "¿Dónde puedo hacer mi declaración mensual de pago provisional?"
+    "¿Cómo presento mis pagos provisionales como persona moral?",
+    "¿Qué debo hacer si necesito modificar mi declaración de pago provisional?",
+    "¿Qué información incluye la declaración prellenada de ISR para personas morales?",
+    "¿Cómo envío mi declaración mensual si tengo cita en el SAT?",
+    "¿Qué es la e.firma y cómo se usa para las declaraciones?"
   ]
 }

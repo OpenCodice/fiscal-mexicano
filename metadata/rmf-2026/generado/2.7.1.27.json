@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:38e1ed5d6ad22f74",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Integración de la clave vehicular",
+  "denominacion_comun": "Clave vehicular",
   "temas": [
-    "clave vehicular",
-    "caracteres numéricos",
-    "vehículos",
-    "clasificación de vehículos",
-    "modelo de vehículo",
-    "versiones de vehículos"
+    "Comprobantes fiscales",
+    "Facturación",
+    "Clasificación de vehículos",
+    "Integración de clave vehicular",
+    "Vehículos importados",
+    "Modelos de vehículos",
+    "Versiones de vehículos"
   ],
   "terminos_coloquiales": [
     "clave del auto",
     "clave vehicular",
-    "CFF",
-    "Regla de clave vehicular"
+    "número de modelo del vehículo",
+    "datos del coche",
+    "tipo de vehículo",
+    "vehículos importados"
   ],
-  "resumen": "La clave vehicular se compone de siete caracteres que indican la clasificación, número de empresa, modelo y versión del vehículo. Esta clave es esencial para cumplir con las disposiciones fiscales relacionadas con los vehículos en la legislación mexicana.",
+  "resumen": "La regla establece cómo se debe integrar la clave vehicular para los efectos fiscales. Se determina por siete caracteres que incluyen información sobre el tipo de vehículo, el número de empresa y el modelo correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se integra la clave vehicular?",
-    "¿Qué significa cada carácter de la clave vehicular?",
-    "¿Cuáles son las clasificaciones de vehículos para la clave vehicular?",
-    "¿Qué información se necesita para obtener la clave vehicular?",
-    "¿Cómo se determina el modelo y la versión del vehículo en la clave?"
+    "¿Cómo se forma la clave vehicular?",
+    "¿Qué información necesito para la clave de mi auto?",
+    "¿Cuántos caracteres tiene la clave vehicular?",
+    "¿Qué datos se requieren para vehículos importados?",
+    "¿Cómo sé qué número le corresponde a mi vehículo?"
   ]
 }

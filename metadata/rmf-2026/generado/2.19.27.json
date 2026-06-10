@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a6eeb3f93826f026",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Solicitud de información adicional",
   "temas": [
-    "requerimiento de información",
     "asesores fiscales",
-    "documentación adicional",
-    "protesta de decir verdad",
-    "motivos de no entrega"
+    "contribuyentes",
+    "información adicional",
+    "documentación",
+    "protesta de decir verdad"
   ],
   "terminos_coloquiales": [
-    "información adicional",
-    "requerimiento fiscal",
-    "CFF 201",
-    "RMF 2.19"
+    "requerimiento de información",
+    "documentación extra",
+    "protesta de verdad",
+    "CFF",
+    "RMF"
   ],
-  "resumen": "La autoridad fiscal puede pedir a los asesores fiscales y contribuyentes información extra que no se haya presentado. Si no se tienen esos datos, deben declarar bajo protesta de decir verdad que no están en posesión de ellos y explicar las razones.",
+  "resumen": "La autoridad fiscal puede solicitar a asesores fiscales y contribuyentes información y documentos adicionales. Si no se cuenta con dicha información, se debe presentar una manifestación explicando el motivo de la ausencia.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no tengo la información solicitada por la autoridad fiscal?",
-    "¿Cómo debo responder a un requerimiento de información adicional?",
-    "¿Qué es la protesta de decir verdad en el contexto fiscal?",
-    "¿Cuáles son mis obligaciones si no puedo entregar la documentación requerida?",
-    "¿Qué reglas se aplican a la solicitud de información adicional?"
+    "¿Qué hago si la autoridad me pide información adicional?",
+    "¿Cómo debo presentar la protesta de decir verdad?",
+    "¿Qué información necesitan los asesores fiscales y contribuyentes?",
+    "¿Qué hacer si no tengo la documentación solicitada?",
+    "¿Cuáles son los plazos para entregar la información adicional?"
   ]
 }

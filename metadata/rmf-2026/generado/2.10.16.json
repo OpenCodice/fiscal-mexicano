@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e594bcf482ed7b92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de contador público inscrito",
+  "denominacion_comun": "Dictamen de contador público",
   "temas": [
-    "e.firma",
     "dictamen fiscal",
+    "e.firma",
+    "presentación de dictámenes",
     "contadores públicos",
-    "presentación vía Internet"
+    "estados financieros"
   ],
   "terminos_coloquiales": [
-    "dictamen contable",
-    "certificado e.firma"
+    "dictamen",
+    "certificado de e.firma",
+    "presentation de dictámenes fiscales",
+    "contador público",
+    "enviar dictamen"
   ],
-  "resumen": "Los contribuyentes que envían dictámenes fiscales por Internet deben tener un certificado de e.firma. Si el contador no tiene este certificado, necesita tramitarlo según las fichas de trámite específicas.",
+  "resumen": "Los contribuyentes que envían dictámenes de estados financieros por Internet y los contadores que los dictaminan deben tener un certificado de e.firma. Si no lo tienen, deben tramitarlo según las instrucciones establecidas.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para enviar un dictamen fiscal por Internet?",
-    "¿Cuál es el procedimiento para obtener el certificado de e.firma?",
-    "¿Qué sucede si no tengo la e.firma para dictaminar?",
-    "¿Puedo hacer el dictamen fiscal sin e.firma?",
-    "¿Dónde encuentro las fichas de trámite para la e.firma?"
+    "¿Qué necesito para enviar mi dictamen fiscal por Internet?",
+    "¿Un contador público tiene que tener e.firma para dictaminar?",
+    "¿Cuáles son los requisitos para que un dictamen fiscal se acepte?",
+    "¿Qué es el certificado de e.firma y cómo lo obtengo?",
+    "¿Puedo enviar mi dictamen sin e.firma?"
   ]
 }

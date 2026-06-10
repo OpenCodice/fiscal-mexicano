@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4baac6aa8e5485e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal en materia de IVA",
+  "denominacion_comun": "Estimulo fiscal IVA",
   "temas": [
-    "estímulo fiscal",
+    "estimulo fiscal",
     "IVA",
-    "contribuyentes",
-    "constancia"
+    "constancia",
+    "Decreto POINBI",
+    "plazo de vigencia",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "estímulo IVA",
-    "IVA POINBI"
+    "devolución de IVA",
+    "constancia de estímulo",
+    "DIP",
+    "Decreto POINBI"
   ],
-  "resumen": "Los contribuyentes pueden aplicar un estímulo fiscal relacionado con el IVA una vez que obtienen la constancia correspondiente. Este estímulo tiene un plazo de vigencia determinado por el decreto aplicable.",
+  "resumen": "Los contribuyentes que obtengan una constancia pueden aplicar un estímulo fiscal en el IVA. Este beneficio es válido durante el tiempo que dure el estímulo según lo establecido en el artículo correspondiente del Decreto.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener el estímulo fiscal por el IVA?",
-    "¿Qué requisitos necesito para aplicar el estímulo fiscal del IVA?",
-    "¿Cuánto tiempo dura el estímulo fiscal en materia de IVA?",
-    "¿Qué es la constancia que se requiere para el estímulo de IVA?",
-    "¿A quiénes aplica el estímulo fiscal de IVA?",
-    "¿Qué decreto regula el estímulo fiscal del IVA?"
+    "¿Cómo puedo aplicar el estímulo fiscal en el IVA?",
+    "¿Qué es la constancia para el estímulo fiscal?",
+    "¿Cuál es el plazo para aplicar el estímulo del IVA?",
+    "¿Qué requisitos debo cumplir para obtener el estímulo fiscal?",
+    "¿Qué dice el Decreto POINBI sobre el IVA?"
   ]
 }

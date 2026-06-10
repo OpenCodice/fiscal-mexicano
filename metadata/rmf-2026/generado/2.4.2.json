@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c5ecd6dcbcf93d3b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Validación de la clave en el RFC",
   "temas": [
-    "Inscripción en el RFC",
-    "Validación de información",
+    "inscripción en el RFC",
+    "validación de RFC",
     "CURP",
-    "Contribuyentes",
-    "Registro Federal de Contribuyentes"
+    "contribuyentes",
+    "socios residentes en el extranjero"
   ],
   "terminos_coloquiales": [
-    "validar RFC",
-    "clave RFC",
-    "inscripción RFC",
-    "RFC por CURP"
+    "cómo saber si estoy en el RFC",
+    "validar RFC con CURP",
+    "registrarse en el RFC",
+    "clave en el RFC",
+    "validación de RFC"
   ],
-  "resumen": "Esta regla permite a los contribuyentes verificar si las personas físicas tienen su clave en el RFC usando su CURP. Esto ayuda a asegurarse de que ya están inscritas en el registro correspondiente.",
+  "resumen": "Esta disposición permite a los contribuyentes comprobar si están inscritos en el RFC validando su clave a través de su CURP. Se refiere especialmente a personas físicas y a socios residentes en el extranjero.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo validar mi RFC con mi CURP?",
-    "¿Qué necesito para inscribirme en el RFC?",
-    "¿Puedo verificar si alguien más tiene su clave en el RFC?",
-    "¿Cuál es el proceso para la validación del RFC?",
+    "¿Cómo puedo saber si tengo mi clave en el RFC?",
+    "¿Qué necesito para validar mi RFC con mi CURP?",
+    "¿Puedo verificar si estoy inscrito en el RFC sin mi clave?",
+    "¿Esto aplica para extranjeros que son socios de una empresa en México?",
     "¿Qué reglas debo seguir para inscribirme en el RFC?"
   ]
 }

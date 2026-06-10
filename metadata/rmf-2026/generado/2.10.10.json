@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d0ab9b9181556dd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción de contadores públicos",
+  "denominacion_comun": "Dictamen de contador público inscrito",
   "temas": [
-    "dictámenes fiscales",
     "inscripción de contadores",
+    "dictámenes fiscales",
     "obligaciones fiscales",
-    "solicitudes electrónicas",
-    "educación continua",
-    "sociedades de contadores"
+    "documentación requerida",
+    "Norma de Educación Continua",
+    "solicitud vía Internet",
+    "código fiscal"
   ],
   "terminos_coloquiales": [
-    "registro de contador público",
-    "inscripción contable",
-    "dictámenes fiscales",
+    "dictamen fiscal",
+    "contador público",
+    "inscripción de contadores",
+    "registro de contadores",
+    "obligaciones de contadores",
     "CFF",
-    "RCFF"
+    "reglamento del CFF"
   ],
-  "resumen": "Los contadores públicos y asociaciones que deseen dictaminar fiscalmente deben solicitar su inscripción mediante un sistema en el Portal del SAT y cumplir con ciertos requisitos como la educación continua y la documentación correspondiente. También deben mantenerse al corriente con sus obligaciones fiscales.",
+  "resumen": "Esta disposición regula cómo los contadores públicos y sociedades de contadores deben solicitar su inscripción para dictaminar fiscalmente, así como la documentación que deben presentar y los requisitos que deben cumplir. Incluye detalles sobre el cumplimiento de la Norma de Educación Continua y cómo deben informar sobre cambios en su registro.",
   "preguntas_ejemplo": [
-    "¿Cómo me inscribo como contador público ante el SAT?",
-    "¿Qué documentos necesito para registrar una sociedad de contadores?",
-    "¿Cuáles son los requisitos para dictaminar fiscalmente?",
-    "¿Cómo comprobar que tengo educación continua como contador?",
-    "¿Qué hago si cambio mis datos como contador registrado?"
+    "¿Qué debo hacer para registrarme como contador público ante el SAT?",
+    "¿Cuáles son los requisitos para obtener la inscripción para dictaminar fiscalmente?",
+    "¿Qué documentos necesito para mi inscripción como contador público?",
+    "¿Cómo debo enviar mi solicitud de inscripción al SAT?",
+    "¿Qué es la Norma de Educación Continua y cómo afecta mi registro?"
   ]
 }

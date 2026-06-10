@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4d67ad8e4679a98b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de multas por incumplimiento fiscal",
+  "denominacion_comun": "Reducción de Multas por Incumplimiento",
   "temas": [
     "reducción de multas",
-    "obligaciones fiscales",
+    "incumplimiento de obligaciones",
     "CRS",
     "FATCA",
     "beneficiario controlador",
+    "autoridades fiscales",
     "facultades de comprobación",
-    "sujeto obligado",
-    "notificación de multas"
+    "fideicomisos"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
+    "reducir multas",
     "multas fiscales",
-    "FATCA",
+    "obligaciones fiscales",
     "CRS",
+    "FATCA",
     "beneficiario controlador"
   ],
-  "resumen": "Esta regla permite que las instituciones y personas que incumplieron con ciertas obligaciones fiscales soliciten una reducción de multas si corrigen su situación. El porcentaje de reducción depende de la antigüedad de la multa y del momento en que se presenta la solicitud.",
+  "resumen": "Esta regla establece cómo las instituciones financieras y otros sujetos pueden solicitar la reducción de multas por incumplimiento de obligaciones fiscales relacionadas con CRS, FATCA y beneficiarios controladores. Las solicitudes de reducción pueden presentarse ante las autoridades fiscales y el porcentaje de reducción varía según el momento en que se presente la solicitud y la antigüedad de la multa.",
   "preguntas_ejemplo": [
     "¿Cómo puedo reducir mi multa fiscal?",
-    "¿Cuáles son los requisitos para solicitar reducción de multas?",
-    "¿Qué porcentaje de multa se puede reducir si corrijo mi situación?",
-    "¿Qué obligaciones debo cumplir para solicitar la reducción?",
-    "¿Cómo afecta la antigüedad de la multa en la reducción?",
-    "¿Qué es CRS y cómo se relaciona con las multas fiscales?"
+    "¿Qué obligaciones fiscales debo cumplir para solicitar una reducción de multas?",
+    "¿Qué es CRS y cómo afecta mis multas?",
+    "¿Cuánto puedo reducir de mis multas por incumplimiento?",
+    "¿En qué plazo debo solicitar la reducción de multas?",
+    "¿Qué documentos necesito para solicitar la reducción de multas conforme al artículo 74 del CFF?"
   ]
 }

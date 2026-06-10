@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0236ec01acc48659",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estímulo fiscal en materia de IVA",
   "temas": [
-    "estímulo fiscal",
     "IVA",
-    "contribuyentes",
+    "estímulo fiscal",
     "constancia",
-    "plazo de vigencia",
-    "Decreto"
+    "personas físicas",
+    "Decreto",
+    "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "estímulo de IVA",
-    "IVA estímulos",
-    "IVA para contribuyentes"
+    "estímulo fiscal de IVA",
+    "constancia para IVA",
+    "reducción de IVA",
+    "IVA aplicable",
+    "pago de impuestos"
   ],
-  "resumen": "Los contribuyentes pueden aplicar un estímulo fiscal sobre el IVA una vez que obtengan una constancia. Este estímulo se puede aplicar durante un periodo específico establecido en el decreto correspondiente.",
+  "resumen": "Los contribuyentes pueden aplicar un estímulo fiscal en el IVA tras obtener una constancia. Este estímulo es válido durante un periodo específico establecido en el decreto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aplicar el estímulo fiscal de IVA?",
-    "¿Qué requisitos necesito para obtener la constancia para el estímulo de IVA?",
-    "¿Cuánto tiempo dura el estímulo fiscal aplicado al IVA?",
-    "¿Quiénes son los contribuyentes que pueden beneficiarse del estímulo de IVA?",
-    "¿Qué dice el artículo Décimo del Decreto sobre el estímulo fiscal de IVA?"
+    "¿Cómo puedo obtener la constancia para aplicar el estímulo fiscal de IVA?",
+    "¿Qué requisitos debo cumplir para beneficiarme del estímulo de IVA?",
+    "¿Cuál es el procedimiento para aplicar el estímulo fiscal en IVA?",
+    "¿Cuánto tiempo dura el estímulo fiscal de IVA?",
+    "¿Puedo aplicar el estímulo si soy persona física?"
   ]
 }

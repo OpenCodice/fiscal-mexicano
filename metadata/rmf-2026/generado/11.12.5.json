@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:089f84a361db7112",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulo fiscal Tianguis del Bienestar",
+  "denominacion_comun": "Estímulo Fiscal Tianguis del Bienestar",
   "temas": [
     "personas morales",
     "pagos provisionales",
+    "ingresos",
     "Tianguis del Bienestar",
-    "coeficiente de utilidad"
+    "coeficiente de utilidad",
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "estímulo fiscal Tianguis",
-    "pagos provisionales Tianguis",
-    "TPA Tianguis"
+    "estímulo fiscal",
+    "pago provisional",
+    "ingresos del tianguis",
+    "coeficiente de utilidad cero",
+    "ISR"
   ],
-  "resumen": "Las personas morales que operan en el Tianguis del Bienestar y que aplican un estímulo fiscal deben calcular sus pagos provisionales de manera especial, utilizando un coeficiente de utilidad de cero por sus ventas en ese lugar. El primer pago provisional del siguiente ejercicio incluirá los primeros tres meses y se basará en el coeficiente del ejercicio en que aplicaron el estímulo.",
+  "resumen": "Las personas morales que operan en el Tianguis del Bienestar pueden calcular sus pagos provisionales usando un coeficiente de utilidad de cero durante el primer ejercicio que apliquen el estímulo fiscal. El primer pago provisional del siguiente ejercicio incluirá los primeros tres meses de ingresos.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo los pagos provisionales en el Tianguis del Bienestar?",
-    "¿Qué coeficiente de utilidad se aplica para el Tianguis del Bienestar?",
-    "¿Qué información necesito para determinar mis pagos provisionales si soy locatario del Tianguis?",
-    "¿Qué sucede si no estoy en el ejercicio de iniciación de operaciones?",
-    "¿Cuál es el estímulo fiscal para personas morales en el Tianguis del Bienestar?"
+    "¿Cómo calculo mis pagos provisionales en el Tianguis del Bienestar?",
+    "¿Qué es el coeficiente de utilidad cero para el ISR?",
+    "¿Cuándo empiezo a aplicar el estímulo fiscal en el Tianguis?",
+    "¿Qué ingresos se consideran para el cálculo en el Tianguis del Bienestar?",
+    "¿Cuáles son los beneficios fiscales de operar en el Tianguis del Bienestar?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5e631a3a6302c0e8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "No retención del IVA por la Federación",
   "temas": [
-    "Impuesto al valor agregado",
+    "IVA",
+    "retención",
     "Federación",
-    "Organismos descentralizados",
-    "Adquisición de bienes",
-    "Prestación de servicios",
-    "Servicios personales independientes",
-    "Autotransporte terrestre"
+    "organismos descentralizados",
+    "adquisición de bienes",
+    "prestación de servicios"
   ],
   "terminos_coloquiales": [
-    "No retención del IVA",
-    "IVA para la Federación",
-    "IVA organismos descentralizados"
+    "no retención de IVA",
+    "Federación",
+    "organismos descentralizados",
+    "gastos de la Federación",
+    "servicios personales",
+    "autotransporte"
   ],
-  "resumen": "La Federación y sus organismos descentralizados no están obligados a retener el IVA por las erogaciones que realicen al adquirir bienes o recibir servicios, siempre que el monto no supere $2,000. Sin embargo, esta regla no aplica a ciertos servicios como los personales independientes y el autotransporte terrestre, sin importar el monto.",
+  "resumen": "La Federación y sus organismos descentralizados no retendrán el IVA en ciertas erogaciones por adquisiciones de bienes o servicios, siempre que no superen los $2,000. Sin embargo, esto no aplica para servicios personales independientes y autotransporte terrestre, independientemente del monto.",
   "preguntas_ejemplo": [
-    "¿La Federación tiene que retener IVA en sus compras?",
-    "¿Cuándo no se retiene IVA por la Federación?",
-    "¿Qué servicios no aplican para la retención de IVA?",
-    "¿Cuál es el monto límite para no retener IVA en adquisiciones?",
-    "¿Qué pasa con el autotransporte terrestre de bienes y el IVA?",
-    "¿Los organismos descentralizados tienen alguna excepción en la retención de IVA?"
+    "¿La Federación retiene IVA en sus compras?",
+    "¿Qué erogaciones están exentas de retención de IVA para la Federación?",
+    "¿Cuáles son los límites para la retención de IVA por organismos descentralizados?",
+    "¿Se aplica la retención de IVA en servicios de autotransporte para la Federación?",
+    "¿Qué pasa con la retención de IVA en la prestación de servicios personales a la Federación?"
   ]
 }

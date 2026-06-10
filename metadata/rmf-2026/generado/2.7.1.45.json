@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74ac78f660b9fade",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Definición de público en general para CFDI",
+  "denominacion_comun": "Definición de público en general",
   "temas": [
     "CFDI",
-    "público en general",
-    "RFC genérica",
-    "actividades económicas",
-    "obligaciones fiscales"
+    "RFC",
+    "actividades con público",
+    "clave genérica"
   ],
   "terminos_coloquiales": [
-    "quiénes son el público en general",
-    "RFIs para CFDI",
-    "clave RFC genérica",
-    "CFDI público",
-    "CFDI para el público en general"
+    "factura",
+    "CFDI",
+    "público en general",
+    "clave del RFC",
+    "RFC genérico"
   ],
-  "resumen": "Se define el público en general en relación con la expedición de CFDI, especificando el uso de una clave RFC genérica para registrar estas actividades. Esto es importante para cumplir con las obligaciones fiscales correspondientes.",
+  "resumen": "La regla define qué se considera como actividades realizadas con el público en general en relación con la expedición de CFDI. Esto se refiere al uso de la clave en el RFC genérica para el registro de ciertos contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Quién se considera público en general para CFDI?",
-    "¿Qué es la clave RFC genérica?",
-    "¿Cómo registro actividades con el público en general en el CFDI?",
-    "¿Qué documentos necesito para facturar al público en general?",
-    "¿Cuál es la clave que debo usar en el RFC para el público en general?"
+    "¿Qué se entiende por público en general para emitir un CFDI?",
+    "¿Qué clave debo usar si atiendo al público en general?",
+    "¿Qué actividades se consideran con el público en general?",
+    "¿Cómo se relaciona el RFC genérico con los CFDI?",
+    "¿Qué es la clave XAXX010101000 en el contexto de CFDI?"
   ]
 }

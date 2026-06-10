@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:adeec4575d1b2308",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aclaración de requerimientos fiscales",
+  "denominacion_comun": "Aclaraciones ante requerimientos del SAT",
   "temas": [
-    "cartas invitación",
-    "exhortos",
-    "cumplimiento de disposiciones fiscales",
-    "aclaraciones",
-    "multas",
-    "declaraciones",
-    "comunicados",
-    "vigilancia del cumplimiento"
-  ],
-  "terminos_coloquiales": [
     "carta invitación",
     "exhorto",
-    "aclaración de multas",
-    "CFF"
+    "cumplimiento fiscal",
+    "aclaración de requerimientos",
+    "multas",
+    "presentación de declaraciones",
+    "ficha de trámite 113/CFF"
   ],
-  "resumen": "Los contribuyentes pueden aclarar el cumplimiento de disposiciones fiscales tras recibir una carta invitación o un exhorto del SAT. Deben seguir el procedimiento que se indique en el documento recibido.",
+  "terminos_coloquiales": [
+    "carta del SAT",
+    "exhorto del SAT",
+    "multas por omitir declaraciones",
+    "aclaración de multas",
+    "cumplir con el SAT",
+    "requerimientos del SAT"
+  ],
+  "resumen": "Las personas físicas y morales pueden responder a cartas de invitación o exhortos del SAT si necesitan aclarar su cumplimiento fiscal. También pueden aclarar multas o requerimientos relacionados con la presentación de declaraciones, siguiendo un procedimiento específico.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si recibo una carta invitación del SAT?",
-    "¿Cómo aclaro un exhorto del SAT?",
-    "¿Qué procedimientos debo seguir para aclarar un requerimiento fiscal?",
-    "¿Cómo respondo a una multa del SAT?",
-    "¿Qué es la ficha de trámite 113/CFF?"
+    "¿Qué hacer si recibí una carta del SAT?",
+    "¿Puedo aclarar una multa del SAT?",
+    "¿Cómo respondo a un exhorto del SAT?",
+    "¿Qué es la ficha de trámite 113/CFF?",
+    "¿Cuáles son mis derechos ante un requerimiento del SAT?",
+    "¿Qué obligaciones fiscales debo cumplir?"
   ]
 }

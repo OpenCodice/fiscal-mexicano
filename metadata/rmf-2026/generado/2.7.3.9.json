@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:65a7131fd0a21d3d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Erogaciones y retenciones en artesanías",
+  "denominacion_comun": "CFDI para venta de artesanías",
   "temas": [
     "CFDI",
     "artesanías",
     "retenciones",
     "ISR",
     "IVA",
-    "RFC",
-    "pago definitivo"
+    "obligaciones fiscales",
+    "expedición",
+    "PCECFDI"
   ],
   "terminos_coloquiales": [
-    "retenciones de ISR en artesanías",
-    "CFDI de artesanías",
-    "declaraciones de IVA",
-    "regla 2.7.3.9",
-    "RIF",
-    "CSD"
+    "factura",
+    "venta de artesanías",
+    "retención de impuestos",
+    "CFDI",
+    "ISR",
+    "IVA"
   ],
-  "resumen": "Los contribuyentes que enajenen artesanías pueden expedir CFDI a través de sus adquirentes y están obligados a retener ciertos impuestos. Las personas que elaboren artesanías están liberadas de presentar declaraciones mensuales de IVA si se han hecho las retenciones adecuadas.",
+  "resumen": "Esta regla establece cómo los contribuyentes que venden artesanías pueden expedir sus CFDI a través de compradores, incluyendo las obligaciones de retención de impuestos como el ISR y el IVA. Además, se mencionan las condiciones para la emisión de CFDI y las consecuencias de no cumplir con las regulaciones establecidas.",
   "preguntas_ejemplo": [
-    "¿Cómo se emite un CFDI por la venta de artesanías?",
-    "¿Qué retenciones debo hacer al vender artesanías?",
-    "¿Estoy obligado a presentar declaraciones de IVA si vendo artesanías?",
-    "¿Qué requisitos debo cumplir para expedir un CFDI en la venta de artesanías?",
-    "¿Cómo afectan las retenciones del ISR a mis obligaciones fiscales?"
+    "¿Cómo puedo expedir un CFDI si vendo artesanías?",
+    "¿Qué impuestos debo retener al vender artesanías?",
+    "¿Qué pasa si no cumplo con las reglas para emitir CFDI de artesanías?",
+    "¿Puedo cambiar la forma de expedir mis CFDI en el mismo año?",
+    "¿Qué información necesito para emitir un CFDI por la venta de mis artesanías?",
+    "¿Cómo afecta la retención de impuestos al IVA en la venta de artesanías?"
   ]
 }

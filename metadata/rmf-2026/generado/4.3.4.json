@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b92cdeca31f13e8b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cálculo de intereses",
   "temas": [
-    "Impuesto al valor agregado",
-    "Intereses",
-    "Aviso de cobro",
-    "Ganancia cambiaria",
-    "Moneda extranjera"
+    "intereses",
+    "inflación",
+    "ganancia cambiaria",
+    "moneda extranjera",
+    "avisos de cobro",
+    "entidades financieras"
   ],
   "terminos_coloquiales": [
     "cálculo de intereses",
-    "intereses en IVA",
     "avisos de cobro",
-    "ganancia cambiaria",
-    "LIVA",
-    "Artículo 18-A"
+    "intereses devengados",
+    "ganancia cambiaria"
   ],
-  "resumen": "Esta disposición establece que se puede calcular los intereses devengados y la ganancia cambiaria para operaciones en moneda extranjera al expedir avisos de cobro que indiquen el valor real de dichos intereses antes de que termine el periodo de causación.",
+  "resumen": "Esta disposición establece cómo calcular los intereses devengados y la inflación relacionada cuando se expiden avisos de cobro en un periodo determinado. También incluye el cálculo de la ganancia cambiaria si la operación está en moneda extranjera.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses para el IVA?",
-    "¿Qué debo considerar al expedir un aviso de cobro?",
-    "¿Qué es la ganancia cambiaria en operaciones en moneda extranjera?",
-    "¿Cómo se determina el valor real de los intereses devengados?",
-    "¿Qué dice el artículo 18-A de la Ley del IVA?"
+    "¿Cómo se calculan los intereses devengados en un aviso de cobro?",
+    "¿Qué se considera al calcular la inflación para intereses?",
+    "¿Qué pasa si la operación está en moneda extranjera?",
+    "¿Cómo se obtiene la ganancia cambiaria en este caso?",
+    "¿Qué dice la Ley del IVA sobre los intereses?",
+    "¿Se puede calcular la inflación antes de que termine el periodo?"
   ]
 }

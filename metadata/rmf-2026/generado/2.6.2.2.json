@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:170dd08a40e922f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen pericial de hidrocarburos",
+  "denominacion_comun": "Dictamen pericial de controles volumétricos",
   "temas": [
-    "litros enajenados",
-    "precio de enajenación",
-    "contadores públicos",
-    "controles volumétricos",
     "hidrocarburos",
     "petrolíferos",
-    "documentación soporte",
-    "auditoría"
+    "dictamen pericial",
+    "contador público",
+    "controles volumétricos",
+    "comprobantes fiscales",
+    "información contable",
+    "evaluación aprobatoria"
   ],
   "terminos_coloquiales": [
-    "dictamen de hidrocarburos",
-    "dictamen pericial",
+    "dictamen de auditoría",
+    "controles de gasolina",
+    "auditoría de hidrocarburos",
     "CFF",
     "RMF"
   ],
-  "resumen": "El dictamen pericial debe ser emitido por un contador público inscrito y comprobar los litros y precios de enajenación de hidrocarburos. Debe incluir información detallada sobre las auditorías y los equipos utilizados para los controles volumétricos.",
+  "resumen": "El dictamen pericial es un documento que los contribuyentes deben emitir para comprobar los litros y precios de venta de hidrocarburos. Debe ser realizado por un contador público registrado y contener información detallada sobre los registros volumétricos, comprobantes fiscales y datos contables necesarios para sustentar la auditoría.",
   "preguntas_ejemplo": [
-    "¿Qué es un dictamen pericial de hidrocarburos?",
-    "¿Quién puede emitir un dictamen de este tipo?",
-    "¿Qué información debe contener el dictamen pericial?",
-    "¿Cómo se relacionan los controles volumétricos con el dictamen?",
-    "¿Qué documentos son necesarios para sustentar el dictamen?"
+    "¿Qué información debe incluir el dictamen pericial para hidrocarburos?",
+    "¿Quién puede emitir el dictamen pericial según la ley?",
+    "¿Qué datos se requieren para comprobar los litros enajenados de petrolíferos?",
+    "¿Cuáles son las obligaciones del contador que realiza el dictamen?",
+    "¿Cómo se vinculan los controles volumétricos con los comprobantes fiscales?"
   ]
 }

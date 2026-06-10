@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:680c3aca8433fa1f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de casa habitación por residentes en México",
   "temas": [
     "impuesto sobre la renta",
-    "residencia fiscal",
+    "residentes fiscales",
     "enajenación de bienes",
-    "documentación requerida",
-    "notarios",
-    "exenciones fiscales"
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "venta de casa",
-    "residencia fiscal en México",
-    "enajenación casa habitación",
-    "ISR casa habitacional",
-    "CFF",
-    "LISR"
+    "vender casa",
+    "casa habitación",
+    "residente fiscal",
+    "ISR",
+    "CFF"
   ],
-  "resumen": "Las personas físicas extranjeras que venden su casa habitación serán consideradas residentes en México para efectos fiscales si cumplen con ciertos requisitos, como declarar su residencia fiscal y presentar la documentación adecuada. Si no cumplen con estos requisitos, no podrán acogerse a ciertas exenciones fiscales.",
+  "resumen": "Se presume que las personas físicas extranjeras que venden su casa habitación son residentes fiscales en México si cumplen ciertos requisitos. Tienen que declarar su residencia y proveer documentación fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para vender mi casa siendo extranjero?",
-    "¿Cómo se determina mi residencia fiscal al vender una propiedad?",
-    "¿Qué documentos necesito para enajenar mi casa en México?",
-    "¿Qué sucede si no soy residente fiscal al vender mi casa?",
-    "¿Los notarios son responsables en la venta de propiedades?"
+    "¿Qué requisitos debo cumplir para vender mi casa si soy extranjero?",
+    "¿Cómo se considera a un extranjero que vende su casa en México?",
+    "¿Qué documentos necesito para comprobar mi residencia fiscal al vender una casa?",
+    "¿Qué pasa si no soy residente para efectos fiscales al vender mi casa?",
+    "¿Los notarios son responsables al vender una casa habitación?"
   ]
 }

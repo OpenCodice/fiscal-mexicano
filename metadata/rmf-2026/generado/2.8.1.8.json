@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a087e235e2956653",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Requerimiento de información contable",
   "temas": [
     "contabilidad",
+    "requerimiento de información",
     "facultades de comprobación",
-    "devolución",
-    "compensación",
-    "archivo electrónico"
-  ],
-  "terminos_coloquiales": [
-    "requerimiento contable",
-    "archivo de pólizas",
-    "SAT",
+    "devolución de impuestos",
+    "compensación de saldos a favor",
+    "archivo electrónico",
     "buzón tributario"
   ],
-  "resumen": "Los contribuyentes obligados a llevar contabilidad deben entregar información contable cuando la autoridad fiscal lo requiera. Esta información puede incluir archivos electrónicos de pólizas y acuses de recepción, y debe ser presentada a través del buzón tributario si no se cuentan con las aceptaciones correspondientes.",
+  "terminos_coloquiales": [
+    "información contable",
+    "polizas",
+    "devoluciones",
+    "compensaciones",
+    "SAT",
+    "CFF"
+  ],
+  "resumen": "Los contribuyentes obligados a llevar contabilidad deben entregar a la autoridad fiscal su información contable cuando se les requiera. Esto incluye archivos electrónicos y acuses de entrega, especialmente al solicitar devoluciones o compensaciones.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si el SAT me requiere información contable?",
-    "¿Cómo entrego las pólizas al SAT?",
-    "¿Qué es el buzón tributario y cómo se usa?",
-    "¿Qué archivos debo presentar para una compensación de saldos a favor?",
-    "¿Cuándo se requiere el acuse de aceptación de información?"
+    "¿Qué debo entregar si me pide el SAT mi información contable?",
+    "¿Cómo hago una compensación de saldos a favor?",
+    "¿Qué sucede si no tengo los acuses de aceptación de mis pólizas?",
+    "¿Qué es el buzón tributario y cómo lo uso?",
+    "¿Cuáles son mis obligaciones si llevo contabilidad?",
+    "¿Qué es la regla 2.8.1.5. y cómo me afecta?"
   ]
 }

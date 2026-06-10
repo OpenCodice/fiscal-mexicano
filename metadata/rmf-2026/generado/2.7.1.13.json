@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c044b24b7c6aa58",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazo para entregar CFDI en sector financiero",
+  "denominacion_comun": "Plazo para enviar CFDI al cliente del sector financiero",
   "temas": [
     "CFDI",
-    "entrega de CFDI",
-    "sector financiero",
-    "instituciones de crédito",
-    "casas de bolsa",
     "plazo de entrega",
-    "normatividad financiera"
+    "instituciones financieras",
+    "entidades de crédito"
   ],
   "terminos_coloquiales": [
-    "plazo CFDI",
-    "CFDI sector financiero",
-    "entrega CFDI a clientes",
-    "Regla 2.7.1.13"
+    "factura",
+    "CFDI",
+    "comprobante fiscal",
+    "plazo para enviar factura"
   ],
-  "resumen": "Las instituciones del sector financiero pueden enviar o entregar el CFDI a sus usuarios en la fecha de corte correspondiente. También pueden hacerlo dentro del plazo que establezca la normatividad que les aplique.",
+  "resumen": "Las instituciones de crédito y otras entidades financieras pueden enviar el CFDI a sus usuarios en la fecha de corte correspondiente. También pueden seguir un plazo establecido por la normatividad financiera aplicable.",
   "preguntas_ejemplo": [
-    "¿Qué plazo tienen las instituciones financieras para enviar el CFDI?",
-    "¿Cómo entregan el CFDI a sus usuarios las casas de bolsa?",
-    "¿Qué normatividad aplica para la entrega de CFDI en el sector financiero?",
-    "¿Las entidades de crédito pueden enviar CFDI fuera de la fecha de corte?",
-    "¿Qué entidades están obligadas a entregar CFDI a sus clientes?"
+    "¿Cuándo debo recibir el CFDI de mi banco?",
+    "¿Hay un plazo específico para que las instituciones financieras envíen los CFDI?",
+    "¿Qué instituciones están obligadas a enviar CFDI a sus usuarios?",
+    "¿Mi casa de bolsa tiene un tiempo límite para enviarme el CFDI?",
+    "¿Las entidades de crédito pueden cambiar el plazo de entrega del CFDI?"
   ]
 }

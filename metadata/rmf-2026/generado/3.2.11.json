@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a474e763a3a1365",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones de préstamo de títulos bancarios o valores gubernamentales",
+  "denominacion_comun": "Préstamo de Títulos de Valores",
   "temas": [
-    "Impuesto sobre la renta",
-    "Préstamo de valores",
-    "Intereses acumulables",
-    "Enajenación de títulos",
-    "Retenciones fiscales"
+    "Impuesto Sobre la Renta",
+    "Intereses",
+    "Préstamos",
+    "Valores Gubernamentales",
+    "Títulos Bancarios",
+    "Contraprestaciones"
   ],
   "terminos_coloquiales": [
-    "Préstamo de títulos",
-    "Préstamos de valores",
-    "ISR por préstamos",
-    "Títulos bancarios",
-    "Valores gubernamentales"
+    "préstamo de títulos",
+    "valores",
+    "intereses de préstamo",
+    "ganancia por enajenación",
+    "ISR",
+    "títulos de deuda"
   ],
-  "resumen": "La disposición establece reglas sobre cómo se deben tratar fiscalmente las operaciones de préstamo de títulos bancarios y valores gubernamentales, tanto para el prestamista como para el prestatario, en relación con el Impuesto sobre la Renta. Se detallan las condiciones bajo las cuales se considera la acumulación de ingresos y las enajenaciones de estos títulos.",
+  "resumen": "Esta regla establece las obligaciones fiscales y el tratamiento del ISR para las operaciones de préstamo de títulos bancarios y valores gubernamentales. Se detallan las acumulaciones y deducciones que se aplican tanto al prestamista como al prestatario en caso de no restitución de los títulos prestados.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los intereses de los préstamos de títulos?",
-    "¿Qué pasa si no se restituye un título prestado?",
-    "¿Qué deducciones puedo hacer de los derechos patrimoniales en un préstamo de valores?",
-    "¿Cómo se determina la ganancia en la enajenación de títulos no restituidos?",
-    "¿Qué impuestos retienen las instituciones financieras en préstamos de títulos?"
+    "¿Cómo se grava el préstamo de títulos de valores?",
+    "¿Qué impuestos debo declarar al prestar valores gubernamentales?",
+    "¿Cómo se determina la ganancia por enajenación de títulos no restituidos?",
+    "¿Qué pasa si no devuelvo los títulos prestados?",
+    "¿Cómo se manejan los intereses en un préstamo de títulos?"
   ]
 }

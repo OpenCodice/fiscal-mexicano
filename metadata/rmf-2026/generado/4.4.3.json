@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e8c4c37198fb80b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios prestados por agentes navieros",
   "temas": [
-    "Impuesto al Valor Agregado",
-    "Agentes navieros",
+    "Impuesto al valor agregado",
+    "Importación de bienes",
     "Servicios portuarios",
-    "Exportación e importación de bienes",
-    "Tasa del 0% y 16% del IVA",
+    "Exportación de bienes",
+    "Contraprestaciones",
     "CFDI",
-    "Comisiones"
+    "Tasa del 16%",
+    "Tasa del 0%"
   ],
   "terminos_coloquiales": [
-    "IVA en servicios navieros",
-    "Agentes navieros",
-    "Servicios de carga y descarga",
-    "Servicios de pilotaje",
-    "IVA 0%",
-    "IVA 16%"
+    "agentes navieros",
+    "IVA",
+    "servicios de transporte",
+    "comisiones",
+    "importar",
+    "exportar"
   ],
-  "resumen": "Los agentes navieros que brindan servicios a residentes en el extranjero deben aplicar ciertas tasas del IVA dependiendo de los servicios prestados, que pueden estar asociados a la importación o exportación de bienes. También deben desglosar estos montos en los comprobantes fiscales digitales (CFDI).",
+  "resumen": "Los agentes navieros pueden cobrar IVA por servicios a residentes en el extranjero, aplicando una tasa del 16% para servicios vinculados a la importación de bienes y del 0% para la exportación. Deben desglozar montos en el CFDI correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué IVA se aplica a los servicios de un agente naviero?",
-    "¿Cómo se desglosan los servicios en el CFDI de un agente naviero?",
-    "¿Qué requisitos tienen los servicios portuarios para aplicar IVA?",
-    "¿Los servicios de pilotaje están exentos de IVA?",
-    "¿Qué tasa del IVA aplica en la exportación de mercancías?"
+    "¿Qué IVA se aplica a los servicios de transporte marítimo?",
+    "¿Los agentes navieros deben cobrar IVA a extranjeros?",
+    "¿Cómo se desglosan los servicios en el CFDI para navíos?",
+    "¿Qué servicios están exentos de IVA para agentes navieros?",
+    "¿Qué tasa de IVA se aplica a la exportación de mercancías?"
   ]
 }

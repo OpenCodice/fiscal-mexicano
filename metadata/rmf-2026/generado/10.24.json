@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40c5711e21edba6e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operador Petrolero en Área Unificada",
+  "denominacion_comun": "Operador petrolero en área unificada",
   "temas": [
     "deducción de costos",
-    "gastos e inversiones",
+    "gastos",
+    "inversiones",
     "CFDI",
     "obligaciones fiscales",
-    "consorcio petrolero"
+    "consorcio",
+    "área unificada"
   ],
   "terminos_coloquiales": [
-    "operador petrolero",
-    "área unificada",
-    "consorcio petrolero",
-    "deducción fiscal"
+    "deducciones",
+    "gastos",
+    "inversiones",
+    "factura",
+    "CFDI",
+    "operador petrolero"
   ],
-  "resumen": "Un contratista que es operador en un consorcio petrolero puede deducir costos y gastos de forma proporcional, siempre que estén respaldados por un CFDI correcto. También debe cumplir con sus obligaciones fiscales de forma individual.",
+  "resumen": "Esta regla establece cómo un contratista que forma parte de un consorcio puede deducir costos, gastos e inversiones si cumple con ciertos requisitos fiscales. Además, señala la obligación de emitir CFDI que respalden esos gastos e inversiones ante los integrantes del consorcio.",
   "preguntas_ejemplo": [
-    "¿Qué puede deducir un operador petrolero en un consorcio?",
-    "¿Cómo se determina la parte proporcional de los costos?",
-    "¿Qué obligaciones fiscales tiene un operador en un área unificada?",
-    "¿Qué requisitos deben cumplir los CFDI en un consorcio petrolero?",
-    "¿Qué son las áreas unificadas en la industria petrolera?"
+    "¿Cómo puedo deducir costos como operador petrolero?",
+    "¿Qué requisitos debo cumplir para deducir gastos en un consorcio?",
+    "¿Qué es un CFDI y cómo se relaciona con las deducciones?",
+    "¿Cuáles son mis obligaciones fiscales como parte de un área unificada?",
+    "¿Qué información debe contener el CFDI emitido en el consorcio?"
   ]
 }

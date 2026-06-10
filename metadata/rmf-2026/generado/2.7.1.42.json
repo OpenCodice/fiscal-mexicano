@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5b27594f3f0c89d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración de IVA a través de DeclaraNOT",
   "temas": [
     "IVA",
     "Declaración de enajenación de bienes",
-    "Cumplimiento de obligaciones fiscales",
-    "Código Fiscal de la Federación"
+    "Obligaciones fiscales",
+    "CFF"
   ],
   "terminos_coloquiales": [
-    "DeclaraNOT",
     "Declaración de IVA",
-    "Cumplimiento de IVA"
+    "DeclaraNOT",
+    "información del IVA"
   ],
-  "resumen": "La obligación de informar sobre el IVA se cumple mediante la declaración de enajenación de bienes a través del sistema DeclaraNOT en línea.",
+  "resumen": "La declaración de IVA se puede cumplir presentando la declaración de enajenación de bienes a través de la plataforma DeclaraNOT en línea. Esto se establece para los efectos del artículo 27 del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Cómo se presenta la declaración de IVA?",
-    "¿Qué es el DeclaraNOT?",
-    "¿Qué obligaciones tengo sobre el IVA?",
-    "¿Cómo cumplir con el artículo 27 del CFF?",
-    "¿Qué informa la declaración de enajenación de bienes?"
+    "¿Cómo presento la declaración de IVA?",
+    "¿Qué debo hacer para cumplir con la obligación del IVA?",
+    "¿Qué es DeclaraNOT y cómo funciona?",
+    "¿Cuándo tengo que declarar enajenación de bienes?",
+    "¿Cuáles son mis obligaciones fiscales en relación al IVA?"
   ]
 }

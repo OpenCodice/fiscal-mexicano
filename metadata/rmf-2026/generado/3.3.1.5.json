@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:459d34c7f5409e85",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por microseguros",
+  "denominacion_comun": "Primas en microseguros",
   "temas": [
-    "microseguros",
     "indemnizaciones",
     "devolución de primas",
+    "microseguros",
+    "liquidaciones",
+    "instituciones de seguros",
     "transferencias",
-    "entidades de ahorro",
-    "Ley del ISR",
-    "artículo 27"
+    "ahorro y crédito popular"
   ],
   "terminos_coloquiales": [
-    "deducciones por microseguros",
-    "indemnizaciones de microseguros",
     "primas de microseguros",
-    "Ley del ISR",
-    "LISR"
+    "indemnizaciones de microseguros",
+    "devolución de primas",
+    "seguros",
+    "CNBV"
   ],
-  "resumen": "Se consideran deducibles los pagos de indemnizaciones y devoluciones de primas de microseguros realizados por instituciones de seguros a sus beneficiarios. Estos pagos pueden hacerse a través de giros telegráficos o transferencias a entidades de ahorro y crédito autorizadas.",
+  "resumen": "La disposición establece que se consideran cumplidos los requisitos relacionados con los pagos de indemnizaciones y devoluciones de primas por microseguros que hagan las instituciones de seguros. Esto incluye los pagos realizados a través de giros telegráficos o transferencias a entidades de ahorro y crédito popular autorizadas.",
   "preguntas_ejemplo": [
-    "¿Qué son los microseguros en términos fiscales?",
-    "¿Puedo deducir las indemnizaciones de microseguros?",
-    "¿Cómo me afectan las primas de microseguros en el ISR?",
-    "¿Qué requisitos tienen las instituciones de seguros para los microseguros?",
-    "¿Qué dice la Ley del ISR sobre los microseguros?"
+    "¿Qué son las primas en microseguros?",
+    "¿Cómo se realizan las indemnizaciones por microseguros?",
+    "¿Qué requisitos hay para la devolución de primas en microseguros?",
+    "¿Quién regula los microseguros en México?",
+    "¿Qué instituciones pueden hacer pagos de microseguros?"
   ]
 }

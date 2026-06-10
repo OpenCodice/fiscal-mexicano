@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2ebaebae0c0e0392",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información del avalúo de bienes enajenados",
+  "denominacion_comun": "Avalúo de bienes enajenados",
   "temas": [
-    "avalúo de bienes",
-    "enajenación",
-    "declaración fiscal",
-    "contraprestación",
-    "fedatarios públicos",
-    "DeclaraNOT en línea"
-  ],
-  "terminos_coloquiales": [
-    "valor del avalúo",
+    "avalúo",
+    "enajenación de bienes",
     "declaración de enajenación",
     "DeclaraNOT",
-    "CFF",
-    "RFC"
+    "ingresos por enajenación",
+    "valor de la contraprestación"
   ],
-  "resumen": "Los fedatarios públicos deben proporcionar el valor del avalúo de los bienes enajenados al presentar la declaración correspondiente a través de DeclaraNOT en línea. Esta información incluye el valor del bien según el avalúo y el ingreso por la enajenación.",
+  "terminos_coloquiales": [
+    "valor de avalúo",
+    "venta de bienes",
+    "declaración de bienes",
+    "CFDI",
+    "DeclaraNOT"
+  ],
+  "resumen": "Los fedatarios públicos deben proporcionar el valor del avalúo de cada bien que se vende al presentar la declaración de enajenación a través de DeclaraNOT en línea. Esto incluye el valor del bien según el avalúo y el valor de la venta o ingresos obtenidos por dicha enajenación.",
   "preguntas_ejemplo": [
-    "¿Cómo se reporta el valor de un bien que vendo?",
-    "¿Qué necesito para declarar la venta de un inmueble?",
-    "¿Qué información debe incluir el avalúo en mi declaración?",
-    "¿Los fedatarios tienen que enviar el avalúo al SAT?",
-    "¿Cómo se usa DeclaraNOT para la enajenación de bienes?"
+    "¿Cómo se reporta el avalúo de un bien que estoy vendiendo?",
+    "¿Qué información se necesita para la declaración de enajenación de bienes?",
+    "¿Qué es el DeclaraNOT y cómo se utiliza?",
+    "¿Cuál es el valor que debo incluir en la declaración por la venta de un bien?",
+    "¿Qué requisitos debo cumplir para el avalúo de un bien enajenado?"
   ]
 }

@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e6fa6924d0647026",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "No pago del IVA en importaciones por embajadas y consulados",
   "temas": [
     "IVA",
-    "importación",
+    "importación de bienes",
+    "diplomáticos",
     "embajadas",
     "consulados",
     "franquicia diplomática",
-    "reciprocidad",
-    "exención de impuestos"
+    "reciprocidad"
   ],
   "terminos_coloquiales": [
-    "IVA en importaciones diplomáticas",
-    "importaciones sin IVA para embajadas",
-    "exención de IVA para consulados",
-    "franquicia diplomática",
-    "documentación para franquicia",
-    "tratamiento de IVA embajadas"
+    "IVA embajadores",
+    "importación sin IVA",
+    "franquicia de IVA",
+    "exención de IVA para consulados"
   ],
-  "resumen": "Las embajadas y consulados no pagan IVA por la importación de ciertos bienes personales y de oficina, bajo el principio de reciprocidad. Este tratamiento también se aplica a otros funcionarios destacados, siempre que se cumplan ciertas condiciones.",
+  "resumen": "Las embajadas y consulados no pagarán IVA por la importación de ciertos bienes para su uso, siempre que cumplan con los principios de reciprocidad y requisitos establecidos. Este beneficio también se extiende a familiares de los funcionarios diplomáticos.",
   "preguntas_ejemplo": [
-    "¿Las embajadas tienen que pagar IVA por importar bienes?",
-    "¿Qué bienes están exentos del IVA al ser importados por consulados?",
-    "¿Cómo se solicita la franquicia diplomática para importaciones?",
-    "¿Qué condiciones deben cumplir las embajadas para no pagar IVA?",
-    "¿Se aplica el mismo tratamiento a organismos internacionales?",
-    "¿Qué sucede si los bienes importados sin IVA cambian de propietario?"
+    "¿Las embajadas pagan IVA al importar bienes?",
+    "¿Qué bienes están exentos de IVA para los consulados?",
+    "¿Qué es la franquicia diplomática para importaciones?",
+    "¿Cómo solicitan las embajadas la exención de IVA?",
+    "¿Aplica el IVA para familiares de funcionarios diplomáticos en importaciones?"
   ]
 }

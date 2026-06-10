@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec29c409f6ed2070",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aclaración de obligaciones fiscales en el RFC",
   "temas": [
     "obligaciones fiscales",
-    "RFC",
-    "aclaración",
+    "Registro Federal de Contribuyentes",
+    "aclaraciones",
     "documentación soporte",
     "actualización de obligaciones"
   ],
   "terminos_coloquiales": [
-    "aclaración RFC",
-    "registro de aclaraciones",
-    "obligaciones fiscales RFC"
+    "aclaración en el RFC",
+    "obligaciones fiscales RFC",
+    "aclarar obligaciones",
+    "documentos para aclaración",
+    "SAT",
+    "Recurso a la regla 2.5.8"
   ],
-  "resumen": "Los contribuyentes pueden solicitar aclaraciones sobre las obligaciones fiscales asignadas en el RFC si consideran que son incorrectas. Deben hacerlo a través del Portal del SAT y anexar la documentación pertinente para que la autoridad las revise.",
+  "resumen": "Los contribuyentes pueden solicitar una aclaración si consideran que las obligaciones fiscales asignadas en el RFC son diferentes a las que les corresponden. Deben hacerlo a través del Portal del SAT y presentar la documentación necesaria.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aclarar una obligación fiscal en mi RFC?",
-    "¿Qué debo hacer si las obligaciones en mi RFC son incorrectas?",
-    "¿Dónde encuentro el trámite para aclarar mis obligaciones fiscales?",
-    "¿Puedo solicitar una aclaración de obligaciones fiscales a través del SAT?",
-    "¿Qué documentación necesito para una aclaración de mi RFC?"
+    "¿Cómo aclaro mis obligaciones fiscales en el RFC?",
+    "¿Qué hago si las obligaciones de mi RFC son incorrectas?",
+    "¿Dónde presento una aclaración ante el SAT?",
+    "¿Qué documentos necesito para aclarar mis obligaciones fiscales?",
+    "¿La autoridad puede actualizar mis obligaciones fiscales sin aviso?"
   ]
 }

@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fc307103378fbbeb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estímulos fiscales Tianguis del Bienestar",
   "temas": [
     "incumplimiento",
-    "estímulos fiscales",
+    "estimulos fiscales",
     "Tianguis del Bienestar",
-    "Decreto Chetumal"
+    "Decreto",
+    "Locatarios"
   ],
   "terminos_coloquiales": [
-    "estímulos fiscales Tianguis",
-    "incumplimiento estímulos",
-    "decreto Chetumal",
-    "DOF"
+    "beneficios fiscales",
+    "incumplimiento",
+    "Decreto de Zona Libre Chetumal"
   ],
-  "resumen": "Si los locatarios del Tianguis del Bienestar no cumplen con lo que establece el decreto, pierden el derecho a los estímulos fiscales. Esto sucede desde el momento en que se incumple.",
+  "resumen": "Si los locatarios del Tianguis del Bienestar no cumplen con lo que establece el Decreto, perderán el derecho a los estímulos fiscales. Esto se aplica desde el momento en que se detecta el incumplimiento.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un locatario del Tianguis del Bienestar no cumple con el decreto?",
-    "¿Cuándo se pierden los estímulos fiscales en el Tianguis del Bienestar?",
-    "¿Qué establece el decreto sobre los locatarios y los estímulos fiscales?",
-    "¿Cuál es el efecto del incumplimiento en los estímulos fiscales del Tianguis?"
+    "¿Qué pasa si no cumplo con las reglas del Tianguis del Bienestar?",
+    "¿Cuáles son los beneficios fiscales del Tianguis del Bienestar?",
+    "¿Perderé mis estímulos fiscales si incumplo con el Decreto?",
+    "¿Qué se considera incumplimiento en el Tianguis del Bienestar?",
+    "¿Cómo sé si sigo calificado para los estímulos fiscales?"
   ]
 }

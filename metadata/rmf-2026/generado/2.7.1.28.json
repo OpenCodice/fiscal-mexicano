@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af0a2d08f9fd1850",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Número de Identificación Vehicular en CFDI",
   "temas": [
+    "identificación vehicular",
     "CFDI",
-    "Número de identificación vehicular",
-    "Norma Oficial Mexicana",
-    "Contribuyentes",
-    "Complemento fiscal"
+    "NOM-001-SSP-2008",
+    "complemento CFDI",
+    "artículo 29-A CFF"
   ],
   "terminos_coloquiales": [
-    "Identificación vehicular",
-    "NIV",
-    "CFDI con NIV",
-    "Norma NOM-001-SSP-2008"
+    "número de identificación del coche",
+    "número de serie del auto",
+    "CFDI de auto",
+    "clave del vehículo"
   ],
-  "resumen": "Esta regla establece que el número de identificación vehicular debe integrarse en los Comprobantes Fiscales Digitales por Internet (CFDI) según la Norma Oficial Mexicana correspondiente. Los contribuyentes tienen la obligación de señalar este número en el complemento adecuado.",
+  "resumen": "Se establece cómo debe integrarse el número de identificación vehicular en los comprobantes fiscales digitales por internet (CFDI) conforme a la norma oficial mexicana correspondiente. Los contribuyentes deben incluir este número en el complemento adecuado.",
   "preguntas_ejemplo": [
-    "¿Cómo se integra el número de identificación vehicular en un CFDI?",
-    "¿Qué norma regula el uso del número de identificación vehicular?",
-    "¿Dónde se debe colocar el número de identificación vehicular en los CFDI?",
-    "¿Qué es el NIV en los comprobantes fiscales?",
-    "¿Qué información debe incluir un CFDI respecto al número de identificación vehicular?"
+    "¿Cómo se integra el número de identificación del vehículo en mi factura?",
+    "¿Qué norma regula el número de identificación vehicular en los CFDI?",
+    "¿Dónde debo poner el número de identificación en el CFDI?",
+    "¿Qué es la NOM-001-SSP-2008?",
+    "¿Cuál es el artículo del CFF que menciona el número de identificación vehicular?"
   ]
 }

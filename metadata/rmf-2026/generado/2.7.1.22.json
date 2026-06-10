@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7897b685aac2bfae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago de contribuciones en transporte aéreo",
@@ -15,19 +16,23 @@
     "contribuciones federales",
     "complemento SAT",
     "relación jurídica",
-    "Código IATA"
+    "Código IATA",
+    "ingresos",
+    "servicios de transporte"
   ],
   "terminos_coloquiales": [
-    "factura de transporte aéreo",
+    "factura",
     "CFDI de transporte aéreo",
-    "complemento para terceros",
-    "pago de impuestos en transporte aéreo"
+    "cargo por transporte",
+    "servicio de aviación"
   ],
-  "resumen": "Los contribuyentes que ofrecen servicios de transporte aéreo deben expedir CFDI por los ingresos obtenidos. Si cobran cantidades por cuenta de terceros, deben usar un complemento para identificar los impuestos correspondientes.",
+  "resumen": "Los contribuyentes que ofrecen servicios de transporte aéreo deben expedir un CFDI por los ingresos obtenidos. Si las tarifas incluyen pagos a terceros, deben utilizar un complemento del SAT para identificar las contribuciones y otros cargos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo debo facturar ingresos por transporte aéreo?",
-    "¿Qué debo incluir en el CFDI de transporte aéreo?",
-    "¿Qué es el complemento que debo usar para pagos de terceros en transporte aéreo?",
-    "¿Qué relación tiene el Código IATA con mis facturas de transporte aéreo?"
+    "¿Cómo debo facturar mis ingresos por transporte aéreo?",
+    "¿Qué es el complemento del SAT para transporte aéreo?",
+    "¿Qué información debe contener el CFDI por servicios de transporte aéreo?",
+    "¿Cómo identifico las contribuciones en mi factura de transporte aéreo?",
+    "¿Necesito un Código IATA para mis CFDI de transporte aéreo?",
+    "¿Qué pasa si cobro por cuenta de terceros en transporte aéreo?"
   ]
 }

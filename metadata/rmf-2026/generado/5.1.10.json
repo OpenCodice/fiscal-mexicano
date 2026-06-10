@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35fc6e11ea39fd34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación de bienes por comercializadores relacionados",
+  "denominacion_comun": "Exportación de bienes por comercializadores",
   "temas": [
-    "exportación definitiva",
-    "fabricantes",
-    "comercializadores",
-    "IEPS",
-    "acciones con derecho a voto",
-    "requisitos",
-    "acreditamiento de IEPS"
+    "Impuesto Especial sobre Producción y Servicios",
+    "Exportación",
+    "Fabricantes",
+    "Productores",
+    "Comercializadores",
+    "Acciones con derecho a voto"
   ],
   "terminos_coloquiales": [
-    "exportación por comercializadores",
-    "fabricantes y comercializadores",
+    "exportación de productos",
+    "fabricantes que exportan",
+    "comercializadores",
     "IEPS",
-    "acciones",
-    "exportación de productos"
+    "exportación definitiva"
   ],
-  "resumen": "La regla establece que los comercializadores de bienes pueden ser considerados como exportadores definitivos si cumplen ciertos requisitos relacionados con la propiedad de las acciones. Esto permite que puedan acreditar el IEPS trasladado por los fabricantes.",
+  "resumen": "La regla establece condiciones bajo las cuales los comercializadores pueden ser considerados como exportadores de los bienes producidos por los fabricantes, especialmente cuando tienen una propiedad mayoritaria de las acciones del fabricante. Además, se establece que los comercializadores pueden acreditar el IEPS que hayan pagado en la compra de esos bienes.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir los comercializadores para exportar bienes?",
-    "¿Cómo se relacionan los fabricantes y comercializadores en la exportación?",
-    "¿Se puede acreditar el IEPS en la exportación de productos?",
-    "¿Qué implica tener más del 80% de acciones para exportar?",
-    "¿Qué pasa si la sociedad propietaria de acciones es extranjera?",
-    "¿Qué dice la regla sobre los comercializadores y los bienes producidos?"
+    "¿Cuándo puede un comercializador considerarse exportador según el IEPS?",
+    "¿Qué requisitos deben cumplir los comercializadores para exportar bienes de fabricantes?",
+    "¿Cómo afecta la propiedad de las acciones en la exportación de productos?",
+    "¿Qué implica el artículo 2o., fracción III de la Ley del IEPS para los fabricantes?",
+    "¿Los comercializadores pueden acreditar el IEPS en sus operaciones?"
   ]
 }

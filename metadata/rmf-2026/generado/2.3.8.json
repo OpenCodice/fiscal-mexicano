@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:97b0a8bca443e58b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud de Devolución",
+  "denominacion_comun": "Solicitud de devolución de saldos a favor",
   "temas": [
-    "Requisitos para solicitar devoluciones",
-    "Formato de solicitud",
-    "Saldos a favor del ISR",
-    "Devoluciones a personas físicas",
-    "Certificado de e.firma",
-    "Tratamiento para extranjeros"
+    "devoluciones fiscales",
+    "saldo a favor del ISR",
+    "requisitos de solicitud",
+    "módulos de servicios tributarios",
+    "e.firma",
+    "extranjeros",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "Devolución de impuestos",
-    "Solicitud de devolución",
-    "Fichas de trámite",
-    "FED",
-    "CFF"
+    "devolución de impuestos",
+    "saldo a favor",
+    "devolución ISR",
+    "solicitud de devolución",
+    "SAT",
+    "e.firma",
+    "ficha 70",
+    "ficha 69"
   ],
-  "resumen": "La regla establece el procedimiento para que las personas físicas soliciten la devolución de saldos a favor del ISR, junto con los formatos y requisitos necesarios. Dependiendo del monto y del tipo de contribuyente, se especifican diferentes trámites y documentación a presentar.",
+  "resumen": "La regla establece cómo deben presentarse las solicitudes de devolución de saldos a favor del ISR y qué requisitos deben cumplir los contribuyentes, incluyendo la necesidad de contar con e.firma en ciertos casos. También menciona procedimientos específicos para grupos como extranjeros y organismos internacionales.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución de mis impuestos?",
+    "¿Cómo puedo solicitar la devolución de mi saldo a favor del ISR?",
     "¿Qué documentos necesito para la solicitud de devolución?",
-    "¿Qué es el formato FED y cómo lo utilizo?",
-    "¿Los extranjeros pueden solicitar devoluciones?",
-    "¿Qué es la ficha de trámite 70/CFF?"
+    "¿Cuáles son los requisitos para extranjeros al pedir una devolución?",
+    "¿Dónde puedo presentar mi solicitud de devolución?",
+    "¿Qué es la ficha de trámite 70/CFF?",
+    "¿Necesito e.firma para solicitar una devolución?"
   ]
 }

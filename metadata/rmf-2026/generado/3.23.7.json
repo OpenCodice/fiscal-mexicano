@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a494ae2ee5487ed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de acciones y títulos en bolsa",
+  "denominacion_comun": "Títulos enajenados en bolsa",
   "temas": [
-    "Impuesto sobre la renta",
-    "Enajenación de acciones",
-    "Costo de adquisición",
-    "Comisiones de intermediación",
-    "Proveedores de precios",
-    "Ofertas públicas",
-    "Valor promedio de adquisición"
+    "impuesto sobre la renta",
+    "enajenación de acciones",
+    "costo promedio de adquisición",
+    "comisiones de intermediación",
+    "valor promedio de emisión",
+    "precios de cierre",
+    "oferta pública de adquisición"
   ],
   "terminos_coloquiales": [
-    "venta de acciones",
-    "costo promedio de acciones",
     "acciones en bolsa",
-    "Ofer. Pública",
-    "LISR"
+    "venta de acciones",
+    "pérdidas en acciones",
+    "LISR",
+    "oferta pública",
+    "valores en bolsa"
   ],
-  "resumen": "Los contribuyentes pueden optar por un método para calcular ganancias o pérdidas al vender acciones, eligiendo entre un costo promedio o un método basado en el precio de venta menos comisiones. Los valores promedios deben ser proporcionados por un proveedor autorizado y pueden variar si hubo ofertas públicas recientes.",
+  "resumen": "Esta disposición establece cómo los contribuyentes pueden calcular las ganancias o pérdidas al vender acciones, permitiendo usar un promedio de los precios de cierre y restar comisiones. También se tienen en cuenta ciertas condiciones en las que se tomó en cuenta los precios de los últimos seis meses en lugar de veintidós días previos.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo las ganancias de la venta de mis acciones?",
+    "¿Cómo calculo la ganancia por la venta de mis acciones?",
     "¿Qué método debo usar para determinar el costo de mis acciones?",
-    "¿Qué son las ofertas públicas y cómo afectan mis acciones?",
-    "¿Dónde consigo el promedio de precios de acciones?",
-    "¿Qué hacer si vendí acciones en un periodo de oferta pública?"
+    "¿Puedo restar las comisiones de la venta al calcular mis pérdidas?",
+    "¿Qué es el precio promedio de adquisición?",
+    "¿Cómo afectan las ofertas públicas a mis cálculos de enajenación?",
+    "¿Dónde puedo encontrar los precios de cierre de mis acciones?"
   ]
 }

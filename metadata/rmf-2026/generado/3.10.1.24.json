@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:04ac76c9efbeb920",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de Donativos No Deducibles",
+  "denominacion_comun": "CFDI para donativos no deducibles",
   "temas": [
     "CFDI",
-    "Donativos no deducibles",
-    "Leyendas fiscales",
-    "Recepción de patrimonio"
+    "donativos",
+    "leyendas fiscales",
+    "impuesto sobre la renta",
+    "personas morales"
   ],
   "terminos_coloquiales": [
-    "CFDI de donativos",
-    "Donativo no deducible",
-    "Complemento Leyendas Fiscales"
+    "factura",
+    "comprobante fiscal",
+    "donativos",
+    "donativos no deducibles",
+    "LISR",
+    "CFF"
   ],
-  "resumen": "El CFDI emitido por la recepción de un donativo no deducible debe incluir un complemento específico que indique que el donativo recibido no es deducible de impuestos. Esta disposición está relacionada con el artículo 82 de la Ley del ISR.",
+  "resumen": "El CFDI emitido por la recepción de donativos no deducibles debe incluir un complemento específico que registre la leyenda correspondiente según la legislación. Esto es parte de las obligaciones para las personas morales que reciben este tipo de donativos.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir un CFDI de un donativo no deducible?",
-    "¿Cómo se reporta un donativo no deducible en el CFDI?",
-    "¿Qué es el Complemento Leyendas Fiscales en un CFDI?",
-    "¿Cuáles son las obligaciones fiscales al recibir un donativo no deducible?"
+    "¿Qué debe incluir el CFDI para donativos no deducibles?",
+    "¿Cómo se registra una donación que no es deducible?",
+    "¿Qué es el complemento de leyendas fiscales?",
+    "¿Cuál es la leyenda que debe tener el CFDI de donativos?",
+    "¿Qué artículos de la Ley del ISR y del CFF se relacionan con los donativos?"
   ]
 }

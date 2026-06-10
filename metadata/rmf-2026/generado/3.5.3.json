@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec5207cea6dde8ed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "No retención por pago de intereses",
+  "denominacion_comun": "No retención por el pago de intereses",
   "temas": [
     "intereses",
+    "retención de ISR",
     "organismos internacionales",
     "fideicomisos",
     "cámaras de compensación",
     "socios liquidadores",
-    "retención de ISR",
-    "exenciones fiscales"
+    "tratados internacionales"
   ],
   "terminos_coloquiales": [
     "no retención de impuestos",
     "intereses exentos",
-    "exención fiscal",
-    "ISR",
-    "LISR"
+    "organismos internacionales",
+    "fideicomisos",
+    "cámara de compensación",
+    "socios",
+    "ISR"
   ],
-  "resumen": "Esta regla especifica que no se deberá retener el impuesto sobre la renta en ciertos pagos de intereses a organismos internacionales, cámaras de compensación y fideicomisos, siempre y cuando se cumplan ciertas condiciones establecidas en la ley. También se mencionan los requisitos que deben cumplir los fideicomisos para ser elegibles para esta exención.",
+  "resumen": "La regla establece que no se deberá retener el ISR sobre ciertos pagos de intereses realizados a organismos internacionales, cámaras de compensación y fideicomisos, siempre que cumplan con ciertos requisitos. Esto se aplica a intereses generados por actividades oficiales de los organismos o inversiones en capital de riesgo.",
   "preguntas_ejemplo": [
-    "¿Qué intereses están exentos de retención de ISR?",
-    "¿Cómo funcionan las exenciones fiscales para fideicomisos?",
-    "¿Qué condiciones deben cumplir los organismos internacionales para no pagar impuestos?",
-    "¿Quiénes son los beneficiarios de la no retención en intereses?",
-    "¿Qué es una cámara de compensación y cómo se relaciona con los impuestos?"
+    "¿Cuándo no se retiene ISR por intereses?",
+    "¿Qué organismos están exentos de retención de impuestos?",
+    "¿Qué requisitos deben cumplir los fideicomisos para no retener ISR?",
+    "¿Los intereses pagados a cámaras de compensación tienen retención?",
+    "¿Cómo afecta un tratado internacional a la retención de impuestos?"
   ]
 }

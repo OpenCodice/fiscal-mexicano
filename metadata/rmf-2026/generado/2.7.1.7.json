@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fe6ef393e4cdd61",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Requisitos de representaciones impresas del CFDI",
   "temas": [
-    "Código de barras",
-    "Número de folio fiscal",
-    "Número de serie del CSD",
-    "Leyenda del CFDI",
-    "Fecha y hora de emisión",
-    "Cadena original",
-    "Firmas autógrafas",
-    "Complementos del CFDI"
+    "CFDI",
+    "comprobantes fiscales",
+    "código de barras",
+    "firmas autógrafas",
+    "complementos",
+    "información de pagos",
+    "retenciones",
+    "formato digital"
   ],
   "terminos_coloquiales": [
-    "CFDI impreso",
-    "Factura digital",
-    "Representación impresa",
-    "Recibo electrónico"
+    "factura",
+    "comprobante fiscal",
+    "codigo de barras",
+    "CSD",
+    "CFF",
+    "complemento Carta Porte"
   ],
-  "resumen": "Esta regla establece los requisitos que deben cumplir las representaciones impresas de los CFDI, incluyendo elementos como el código de barras, la leyenda que indica que es una representación impresa, y otros datos necesarios para su validez. También se aborda la inclusión de información adicional según el tipo de pago o complemento.",
+  "resumen": "Esta regla establece los requisitos que deben cumplir las representaciones impresas de los Comprobantes Fiscales Digitales por Internet (CFDI), incluyendo datos específicos como el código de barras, la fecha y hora de emisión, y otros elementos necesarios dependiendo del tipo de CFDI. También se mencionan requisitos adicionales para representaciones impresas que amparen retenciones o complementos específicos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para imprimir un CFDI?",
-    "¿Qué datos debe tener una factura impresa?",
-    "¿Cómo debe ser un comprobante fiscal digital impreso?",
-    "¿Qué información adicional necesito si el CFDI tiene complementos?",
-    "¿Qué leyenda debe contener el CFDI al ser impreso?"
+    "¿Qué requisitos debe tener una factura impresa?",
+    "¿Cómo debe ser el formato de una representación impresa de un CFDI?",
+    "¿Qué información incluye el código de barras en un CFDI impreso?",
+    "¿Necesito incluir la firma en la representación impresa del CFDI?",
+    "¿Cuáles son los complementos que puedo incorporar en un CFDI?"
   ]
 }

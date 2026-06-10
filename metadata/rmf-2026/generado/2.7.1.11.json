@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:532a136f4cb5f91c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "CFDI como constancia de retención del IVA",
   "temas": [
     "CFDI",
-    "IVA",
-    "retenciones",
-    "autotransporte de carga",
-    "personas morales"
+    "retención de IVA",
+    "servicios de autotransporte",
+    "personas morales",
+    "constancia de retenciones"
   ],
   "terminos_coloquiales": [
-    "comprobante fiscal",
-    "constancia de retención del IVA",
-    "CFDI de retenciones"
+    "factura",
+    "constancia de retención",
+    "CFDI",
+    "IVA"
   ],
-  "resumen": "El CFDI emitido por el prestador de servicios de autotransporte de carga puede ser utilizado como constancia de las retenciones de IVA realizadas por una persona moral. Esto aplica conforme a los artículos relevantes del Código Fiscal de la Federación y de la Ley del IVA.",
+  "resumen": "El CFDI que expida el prestador de servicios de autotransporte donde se indique el monto del IVA retenido por la persona moral puede ser usado como constancia de la retención de dicho impuesto.",
   "preguntas_ejemplo": [
-    "¿Qué es un CFDI de retención de IVA?",
-    "¿Cómo se usa un CFDI en el autotransporte de carga?",
-    "¿Puedo usar un CFDI como comprobante de retenciones de IVA?",
-    "¿Qué requisitos debe cumplir un CFDI para ser considerado constancia de retención?",
-    "¿Quién expide el CFDI de retención del IVA?"
+    "¿Cómo se usa un CFDI para comprobar la retención de IVA?",
+    "¿Un CFDI puede servir como constancia de retención del IVA?",
+    "¿Qué información debe tener un CFDI para servicios de autotransporte?",
+    "¿Qué es una constancia de retención del IVA?",
+    "¿Quiénes pueden emitir un CFDI de retención de IVA?"
   ]
 }

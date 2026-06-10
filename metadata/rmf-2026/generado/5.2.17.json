@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d32a1ba5eaae154",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Control de producción y servicios IEPS",
+  "denominacion_comun": "Obligaciones del IEPS",
   "temas": [
-    "control físico de volumen",
-    "información trimestral",
-    "programa MULTI-IEPS",
-    "equipos instalados",
-    "registro de producción"
+    "control físico",
+    "volumen fabricado",
+    "registro de producción",
+    "Declaración Informativa Múltiple",
+    "MULTI-IEPS",
+    "trimestre",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "control de producción",
-    "informes de IEPS",
-    "MULTI-IEPS"
+    "informar sobre producción",
+    "control de equipos",
+    "declaración de IEPS",
+    "MULTI-IEPS",
+    "volumen de destilación"
   ],
-  "resumen": "Los contribuyentes deben reportar trimestralmente el volumen producido o envasado a través del programa MULTI-IEPS. Esto incluye la lectura de registros mensuales de los equipos utilizados en ese periodo.",
+  "resumen": "Los contribuyentes deben llevar un control del volumen de productos fabricados y enviarlo trimestralmente a través del MULTI-IEPS. Esto incluye la lectura de registros mensuales de los equipos de producción.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo reportar la producción para el IEPS?",
-    "¿Qué información necesito para el MULTI-IEPS?",
-    "¿Qué equipos se deben registrar para el control de producción?",
-    "¿Quiénes están obligados a llevar este control?",
-    "¿Cómo se reporta el volumen fabricado al SAT?"
+    "¿Cuándo debo reportar la producción en el MULTI-IEPS?",
+    "¿Qué información necesito para cumplir con el control físico del IEPS?",
+    "¿Qué es la Declaración Informativa Múltiple del IEPS?",
+    "¿A qué contribuyentes aplican estas obligaciones del IEPS?",
+    "¿Cómo registran los equipos de producción en el SAT?"
   ]
 }

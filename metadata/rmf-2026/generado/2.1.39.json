@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1aa756063eff791b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cobro de créditos fiscales impugnados",
   "temas": [
     "créditos fiscales",
     "medios de defensa",
-    "SAT",
-    "autoridades fiscales",
-    "suspensión de procedimientos",
-    "información requerida"
+    "cobro de impuestos",
+    "procedimiento administrativo",
+    "resoluciones fiscales",
+    "suspensión de cobro"
   ],
   "terminos_coloquiales": [
-    "cobro de impuestos",
-    "impugnación de créditos fiscales",
-    "defensa fiscal",
-    "RMF"
+    "cobro de deudas fiscales",
+    "impugnación de créditos",
+    "medios de defensa",
+    "créditos firmes",
+    "SAT",
+    "estado de créditos"
   ],
-  "resumen": "Esta regla establece los procedimientos para el cobro de créditos fiscales que han sido impugnados. Incluye los requisitos de información que las autoridades deben proporcionar al SAT y los plazos para ello.",
+  "resumen": "La regla establece cómo deben las autoridades emisoras informar al SAT sobre los créditos fiscales impugnados y los medios de defensa interpuestos. Se detalla la información que debe incluirse, así como los procedimientos en caso de no recibir la información correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si impugno un crédito fiscal?",
-    "¿Qué información tiene que enviar la autoridad al SAT sobre un crédito fiscal impugnado?",
-    "¿Cómo se suspende el cobro de un crédito fiscal?",
-    "¿Cuánto tiempo tiene la autoridad para responder a una solicitud del SAT?",
-    "¿Qué documentos necesito para impugnar un crédito fiscal?"
+    "¿Qué información debe enviar la autoridad emisora al SAT sobre créditos fiscales impugnados?",
+    "¿Cómo se notifica al SAT sobre un medio de defensa interpuesto?",
+    "¿Qué ocurre si la autoridad emisora no proporciona la información solicitada por el SAT?",
+    "¿Qué hacer si se suspende el procedimiento de cobro de un crédito fiscal?",
+    "¿Qué documentos se requieren para la suspensión del cobro?"
   ]
 }

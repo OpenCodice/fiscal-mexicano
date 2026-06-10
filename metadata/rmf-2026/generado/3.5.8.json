@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a55a4e7117914509",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Informe de intereses y enajenación de acciones",
   "temas": [
-    "Instituciones del sistema financiero",
-    "Intereses pagados",
-    "Información al SAT",
-    "Retenciones fiscales",
-    "Cartera accionaria"
+    "intereses nominales",
+    "intereses reales",
+    "retenciones fiscales",
+    "información del SAT",
+    "cartera accionaria",
+    "sistema financiero",
+    "reportes anuales"
   ],
   "terminos_coloquiales": [
-    "Informe de intereses",
-    "Informe del SAT",
-    "Regla 3.5.8",
-    "ISR financiero",
-    "Base de datos de intereses"
+    "informe de intereses",
+    "intereses de ahorros",
+    "reportar intereses",
+    "sistema financiero",
+    "acciones",
+    "devengar intereses"
   ],
-  "resumen": "Las instituciones financieras deben presentar un informe al SAT sobre los intereses pagados y la enajenación de acciones. Este informe incluye detalles como intereses nominales y retenciones fiscales, además de la cartera accionaria de cada contribuyente.",
+  "resumen": "Las instituciones del sistema financiero deben presentar un informe al SAT sobre los intereses pagados y las enajenaciones de acciones. Este informe debe incluir detalles sobre los pagos a personas físicas y morales, así como las retenciones fiscales correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué información deben presentar las instituciones financieras al SAT?",
-    "¿Cómo se calculan los intereses y retenciones para el informe financiero?",
-    "¿Qué es el saldo promedio de la cartera accionaria?",
-    "¿Qué datos deben incluirse en el informe sobre intereses pagados?",
-    "¿Las entidades estatales también tienen que informar al SAT?"
+    "¿Qué información deben reportar las instituciones financieras al SAT?",
+    "¿Cuáles son los intereses que se deben declarar?",
+    "¿Cómo se calcula el saldo promedio de las inversiones?",
+    "¿Qué ocurre con los intereses devengados a personas morales?",
+    "¿Qué comisiones deben incluirse en el informe de acciones?",
+    "¿Cuándo vence el plazo para presentar el informe a SAT?"
   ]
 }

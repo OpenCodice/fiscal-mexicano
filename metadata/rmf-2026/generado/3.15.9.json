@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:69be0687fd7dd62a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones por series",
   "temas": [
+    "impuesto sobre la renta",
+    "ganancia y pérdida",
     "acciones",
-    "ganancias",
-    "pérdidas",
-    "sociedad emisora",
+    "series de emisoras",
     "costo de adquisición",
     "intermediarios"
   ],
   "terminos_coloquiales": [
-    "ganancia por enajenación de acciones",
-    "pérdida por enajenación de acciones",
-    "LISR 129",
-    "acciones por series"
+    "venta de acciones",
+    "ganancia por venta de acciones",
+    "pérdida por venta de acciones",
+    "acciones en varias series",
+    "ISR acciones"
   ],
-  "resumen": "La disposición establece que cuando las acciones de una sociedad no se emiten en una serie única, las ganancias o pérdidas se determinarán por cada serie. Además, se menciona el procedimiento para identificar el costo de adquisición de estas acciones.",
+  "resumen": "Esta disposición establece que la ganancia o pérdida por la enajenación de acciones de una sociedad emisora se determina por cada serie de acciones. Esto aplica cuando las acciones no son emitidas en una única serie.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la ganancia por la venta de acciones si hay múltiples series?",
-    "¿Qué se debe considerar para calcular la pérdida en acciones de una sociedad emisora?",
-    "¿Qué dice la Ley del ISR sobre el costo de adquisición de acciones?",
-    "¿Cómo afecta tener acciones en series diferentes a la declaración fiscal?"
+    "¿Cómo se calcula la ganancia por venta de acciones?",
+    "¿Qué pasa si las acciones tienen diferentes series?",
+    "¿Cómo se determina el costo de adquisición de acciones en diferentes series?",
+    "¿La venta de acciones de diferentes series se reporta por separado?",
+    "¿Qué debo considerar al vender acciones de varias series?"
   ]
 }

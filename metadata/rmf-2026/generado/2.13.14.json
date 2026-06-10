@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:25fee7001e9446e7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes y garantía fiscal",
+  "denominacion_comun": "Embargos y garantías en subastas",
   "temas": [
-    "embargo",
-    "garantía fiscal",
-    "subasta",
-    "pago a plazos",
+    "subastas",
+    "embargos",
+    "garantías",
+    "pagos a plazos",
     "bienes muebles",
     "bienes inmuebles",
-    "interés fiscal",
-    "postor",
-    "tesofe"
-  ],
-  "terminos_coloquiales": [
-    "embargo de bienes",
-    "garantía para pagar",
-    "subasta de bienes",
-    "pago a plazos",
     "interés fiscal"
   ],
-  "resumen": "La disposición establece el procedimiento para que un postor cubra el porcentaje de garantía al momento de realizar una solicitud de pago a plazos por bienes embargados, indicando los plazos y requisitos a seguir para bienes muebles e inmuebles. También detalla las consecuencias de no cumplir con dichos requisitos.",
+  "terminos_coloquiales": [
+    "subasta de bienes embargados",
+    "ofrecimiento de garantía",
+    "pago a plazos",
+    "garantía del interés fiscal",
+    "bien embargado"
+  ],
+  "resumen": "La regla establece los procedimientos para que un postor presente la garantía del interés fiscal al solicitar pagos a plazos después de una subasta de bienes embargados. Se especifican los plazos y requisitos necesarios para la presentación de la garantía tanto para bienes muebles como inmuebles.",
   "preguntas_ejemplo": [
-    "¿Cómo se garantiza el interés fiscal al comprar bienes embargados?",
-    "¿Cuánto debo pagar como garantía para un bien en subasta?",
-    "¿Qué pasa si no presento la garantía a tiempo?",
-    "¿Cuáles son los plazos para el pago a plazos de bienes embargados?",
-    "¿Qué hacer si no puedo cumplir con los requisitos de la solicitud de compra?"
+    "¿Cómo se presenta la garantía del interés fiscal después de una subasta?",
+    "¿Qué sucede si no cumplo con los requisitos tras la subasta?",
+    "¿Cuánto debo pagar si quiero comprar un bien embargado a plazos?",
+    "¿Cuáles son las formas de garantizar el interés fiscal?",
+    "¿Qué plazo tengo para presentar la garantía después de la subasta?"
   ]
 }

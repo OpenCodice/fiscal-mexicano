@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a8bac6cc96940ec8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuentas Concentradoras",
+  "denominacion_comun": "Cuentas concentradoras",
   "temas": [
-    "Depósitos en efectivo",
-    "Beneficiario final",
-    "Instituciones financieras",
-    "Información de cuentas",
-    "Obligaciones de reporte"
+    "depósitos en efectivo",
+    "información a titulares",
+    "instituciones del sistema financiero",
+    "clientes de cuentas concentradoras"
   ],
   "terminos_coloquiales": [
-    "Cuentas concentradoras",
-    "Depósitos a cuentas concentradoras",
-    "ISR Cuentas Concentradoras"
+    "cuentas concentradoras",
+    "depósitos en efectivo",
+    "información sobre depósitos",
+    "banca",
+    "instituciones financieras"
   ],
-  "resumen": "Las cuentas concentradoras son aquellas que tienen a su nombre las instituciones del sistema financiero para recibir depósitos de sus clientes. Estas instituciones deben informar diariamente a los titulares sobre los depósitos en efectivo realizados y sus detalles.",
+  "resumen": "Las cuentas concentradoras son manejadas por instituciones del sistema financiero para recibir depósitos en efectivo de sus clientes. Estas instituciones deben informar a los titulares de cuentas sobre los depósitos realizados y mantenerlos al tanto de la información relevante.",
   "preguntas_ejemplo": [
     "¿Qué son las cuentas concentradoras?",
-    "¿Cómo se reportan los depósitos en cuentas concentradoras?",
-    "¿Quiénes son considerados beneficiarios finales de los depósitos?",
-    "¿Qué información deben proporcionar las instituciones financieras sobre los depósitos?",
-    "¿Qué pasa si las instituciones no informan sobre los depósitos a tiempo?"
+    "¿Cómo se informan los depósitos en efectivo a los titulares de cuentas concentradoras?",
+    "¿Qué datos deben incluir las instituciones financieras al informar sobre depósitos?",
+    "¿Qué hacer si la institución financiera no informa de un depósito?",
+    "¿Cuál es el procedimiento si no se incluye el número de referencia del depósito?"
   ]
 }

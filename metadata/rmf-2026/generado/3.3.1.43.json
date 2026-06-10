@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f8c4d9251dc936bb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cumplimiento de Emisores de Monederos Electrónicos",
+  "denominacion_comun": "Monederos Electrónicos de Vales de Despensa",
   "temas": [
+    "emisores autorizados",
     "monederos electrónicos",
-    "vales de despensa",
-    "incumplimientos",
+    "cumplimientos tecnológicos",
+    "verificación",
     "documentación",
-    "AGCTI",
-    "AGJ",
     "resolución",
-    "verificación"
+    "informe",
+    "sistemas de seguridad"
   ],
   "terminos_coloquiales": [
-    "monederos electrónicos",
     "vales de despensa",
-    "cumplimiento de requerimientos",
+    "monedero electrónico",
+    "cumplimientos",
     "AGCTI",
     "ACS",
-    "AGJ"
+    "AGJ",
+    "informe para solventar incumplimientos"
   ],
-  "resumen": "Esta regla regula el proceso para que los emisores de monederos electrónicos de vales de despensa, que han recibido notificaciones de incumplimientos, puedan subsanar dichos incumplimientos en un plazo determinado. Si logran cumplir con todos los requisitos, recibirán un reconocimiento de conformidad por parte de la autoridad correspondiente.",
+  "resumen": "La regla establece que los emisores autorizados de monederos electrónicos de vales de despensa pueden solventar incumplimientos detectados en una verificación. Si logran subsanar todos los incumplimientos en el plazo establecido, se les considerará cumplidos con los requisitos relacionados.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si recibo un incumplimiento en mi verificación?",
-    "¿Cuánto tiempo tengo para subsanar los incumplimientos detectados?",
-    "¿Qué pasa si no cumplo con los requerimientos de la AGCTI?",
-    "¿Cómo se evalúa la información que envío para subsanar incumplimientos?",
-    "¿Qué resolución puedo esperar de la AGJ si cumplo con todos los requisitos?"
+    "¿Cómo puedo solventar incumplimientos en monederos electrónicos de vales de despensa?",
+    "¿Qué hacer si recibo una notificación de la AGCTI sobre incumplimientos?",
+    "¿Cuáles son los plazos para presentar el informe de solventación?",
+    "¿Qué ocurre si no puedo solucionar los incumplimientos a tiempo?",
+    "¿Quién evalúa la documentación enviada por los emisores de monederos electrónicos?",
+    "¿Qué documentación necesito para cumplir con los requerimientos de la AGJ?"
   ]
 }

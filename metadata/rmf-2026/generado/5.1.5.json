@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c3efd4e0c8af9b77",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Efectos del IVA en enajenaciones de combustibles",
+  "denominacion_comun": "Efectos del IVA en gasolinas y diésel",
   "temas": [
     "IVA",
     "IEPS",
     "gasolinas",
     "diésel",
-    "enajenaciones",
-    "distribuidores"
+    "cuotas",
+    "enajenaciones"
   ],
   "terminos_coloquiales": [
-    "IVA gasolinas",
-    "IVA diésel",
+    "impuesto al valor agregado",
     "IEPS",
-    "impuesto sobre combustibles"
+    "gasolina",
+    "diésel"
   ],
-  "resumen": "Las cuotas de IEPS para gasolinas y diésel no se consideran para el cálculo del IVA. Por lo tanto, los distribuidores y vendedores no deben incluir estas cuotas en el valor de venta al público para efectos del IVA.",
+  "resumen": "Esta disposición establece que las cuotas de IEPS aplicables a las gasolinas y diésel no se consideran para el cálculo del IVA. Por lo tanto, los distribuidores no deben incluir estas cuotas en el valor para efectos del IVA en sus ventas al público.",
   "preguntas_ejemplo": [
-    "¿Cómo afecta el IVA en la venta de gasolina?",
-    "¿Los distribuidores deben incluir el IEPS en el cálculo del IVA?",
-    "¿Qué pasa con el IVA a la hora de vender diésel?",
-    "¿Cuáles son las cuotas que no computan para el IVA en combustibles?",
-    "¿Cómo se calcula el IVA en la venta de combustibles?"
+    "¿Cómo se calcula el IVA en la venta de gasolinas?",
+    "¿Las cuotas de IEPS afectan el IVA de los combustibles?",
+    "¿Qué pasa con el IVA en la venta de diésel?",
+    "¿Los distribuidores de combustibles deben incluir la cuota de IEPS en el IVA?",
+    "¿Qué normativa regula el IVA en las gasolinas?"
   ]
 }

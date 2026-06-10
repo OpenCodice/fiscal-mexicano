@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3640a784a0aef712",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos de pasajeros de crucero",
+  "denominacion_comun": "Derechos de pasajeros en cruceros",
   "temas": [
     "pasajeros extranjeros",
-    "buques de crucero",
-    "derechos a pagar",
+    "derechos marítimos",
     "empresas navieras",
     "agentes navieros",
     "Portal de Servicios Marítimos",
     "concentración de pagos",
-    "INM"
+    "transferencia electrónica",
+    "recibo de operaciones"
   ],
   "terminos_coloquiales": [
-    "pago de derechos",
-    "derechos de crucero",
+    "derechos de pasajeros",
+    "pago de derechos en cruceros",
+    "cruceros",
     "INM",
-    "empresas navieras",
-    "agentes navieros"
+    "LFD",
+    "impuestos a pasajeros"
   ],
-  "resumen": "Los pasajeros extranjeros que lleguen a México en cruceros deben pagar un derecho que las empresas navieras recaudan y concentrarán. Estas empresas deben seguir un procedimiento específico y reportar al INM la relación de los pagos realizados.",
+  "resumen": "Los pasajeros extranjeros que ingresan a México en cruceros deben pagar ciertos derechos a través de empresas navieras o agentes navieros. Estos deben seguir un procedimiento específico para concentrar y reportar el pago al INM.",
   "preguntas_ejemplo": [
-    "¿Cómo pago los derechos si llego en crucero?",
-    "¿Qué documentos necesitan las empresas navieras para los pagos?",
-    "¿Cuánto es el derecho que debo pagar por llegar en un buque de crucero?",
-    "¿Dónde encuentro el Portal de Servicios Marítimos?",
-    "¿Qué pasa si no realizo el pago a tiempo?",
-    "¿Qué información debo enviar al INM sobre los pasajeros?"
+    "¿Cómo se realiza el pago de derechos para pasajeros de cruceros?",
+    "¿Qué empresas deben manejar los pagos para los pasajeros en cruceros?",
+    "¿Cómo se reportan los pasajeros extranjeros que llegan por mar?",
+    "¿Cuáles son los requisitos para las empresas navieras al pagar derechos?",
+    "¿Cómo puedo obtener la información sobre los derechos a pagar en cruceros?"
   ]
 }

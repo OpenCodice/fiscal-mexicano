@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3419d531d2cf6c7e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos de inversión en energía e infraestructura",
+  "denominacion_comun": "Tratamiento fiscal de fideicomisos de inversión",
   "temas": [
-    "Tratamiento fiscal",
-    "Inversión directa",
-    "Fideicomisos",
-    "Certificados bursátiles",
-    "Distribuciones de utilidades",
-    "Ganancias diferidas",
-    "Pagos provisionales",
-    "Deducciones fiscales"
+    "fideicomisos",
+    "ISR",
+    "inversiones",
+    "acciones",
+    "distribuciones",
+    "deducciones",
+    "ganancias",
+    "pérdidas",
+    "certificados bursátiles"
   ],
   "terminos_coloquiales": [
-    "Fideicomisos de energía",
-    "Fideicomisos de infraestructura",
-    "IFE",
-    "Fideicomisos en ISR"
+    "fideicomisos de inversión",
+    "ISR",
+    "ganancias de fideicomisos",
+    "deducción de gastos",
+    "distribuciones a fideicomisos",
+    "CFI",
+    "certificados bursátiles fiduciarios"
   ],
-  "resumen": "Los fideicomisos que cumplen con ciertos requisitos tienen un tratamiento fiscal especial que les permite no realizar pagos provisionales del ISR y aplicar deducciones específicas. Se establecen también reglas sobre las ganancias diferidas y cómo se deben manejar las distribuciones a accionistas y fiduciarias.",
+  "resumen": "Esta regla establece cómo se deben tratar fiscalmente los fideicomisos dedicados a la inversión en energía e infraestructura, incluyendo las opciones de deducción y distribución sin retención de impuestos. Además, detalla las obligaciones fiscales de las personas morales y los fideicomisos involucrados en este tipo de inversiones.",
   "preguntas_ejemplo": [
-    "¿Qué beneficios fiscales tienen los fideicomisos de inversión en energía?",
-    "¿Cómo funcionan las distribuciones en estos fideicomisos?",
-    "¿Qué deducciones pueden aplicar los fideicomisos de infraestructura?",
-    "¿Qué pasa si se incumple con los requisitos de la regla 3.21.2.1?",
-    "¿Cómo se determina la ganancia diferida en estos fideicomisos?"
+    "¿Cómo se fiscalizan las inversiones de fideicomisos en energía?",
+    "¿Qué deducciones se pueden aplicar para fideicomisos de inversión?",
+    "¿Cómo se manejan las distribuciones en fideicomisos de inversión?",
+    "¿Qué pasa con las acciones adquiridas por un fideicomiso?",
+    "¿Cómo se calcula la ganancia o pérdida por enajenación de acciones en fideicomisos?"
   ]
 }

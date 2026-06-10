@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f1ad0e05df7b359",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inscripción al RFC para actividades primarias",
+  "denominacion_comun": "Inscripción en el RFC para actividades primarias",
   "temas": [
-    "inscripción al RFC",
+    "RFC",
+    "contribuyentes",
     "actividades agrícolas",
-    "actividades ganaderas",
     "actividades silvícolas",
+    "actividades ganaderas",
     "actividades pesqueras",
-    "ingresos permitidos",
-    "documentación requerida",
-    "PCGCFDISP"
+    "PCGCFDISP",
+    "ingresos",
+    "documentación necesaria"
   ],
   "terminos_coloquiales": [
-    "inscripción al RFC",
-    "contribuyente del campo",
+    "inscripción en el RFC",
+    "personas morales autorizadas",
     "PCGCFDISP",
-    "inscripción para agricultores",
-    "registro para pescadores",
-    "registro para ganaderos"
+    "actividad económica",
+    "factura",
+    "CFDI"
   ],
-  "resumen": "Los contribuyentes personas físicas dedicados a actividades agrícolas, ganaderas, silvícolas o pesqueras que tengan ingresos anuales hasta un cierto límite, pueden inscribirse en el RFC a través de personas morales autorizadas. Deben proporcionar ciertos datos y un escrito de consentimiento para completar su inscripción.",
+  "resumen": "Los contribuyentes personas físicas que se dediquen a actividades agrícolas, silvícolas, ganaderas o pesqueras pueden inscribirse en el RFC a través de ciertas personas morales autorizadas, siempre que cumplan con los requisitos establecidos. Deben proporcionar información personal y de su actividad económica para completar la inscripción.",
   "preguntas_ejemplo": [
-    "¿Cómo me inscribo al RFC si soy agricultor?",
-    "¿Qué necesito para registrarme como contribuyente del sector primario?",
-    "¿Cuáles son los requisitos para inscribirme en el RFC si me dedico a la ganadería?",
-    "¿Qué documentos debo presentar para la inscripción en el RFC?",
-    "¿Puedo inscribirme en el RFC siendo pescador?",
-    "¿Qué es un PCGCFDISP y cómo me ayuda?"
+    "¿Cómo me inscribo en el RFC si soy agricultor?",
+    "¿Qué necesito para registrarme en el RFC como ganadero?",
+    "¿Quiénes son las personas morales autorizadas para ayudarme con el RFC?",
+    "¿Cuáles son los requisitos para inscribirme en el RFC si tengo ingresos menores a $900,000?",
+    "¿Qué documentos debo presentar para mi inscripción en el RFC?"
   ]
 }

@@ -6,27 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8ae329c0ed3c080",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Conclusión del uso de la plataforma tecnológica",
+  "denominacion_comun": "Aviso de actualización de actividades económicas",
   "temas": [
+    "personas físicas",
     "enajenación de bienes",
     "prestación de servicios",
     "plataformas tecnológicas",
-    "aviso de actualización"
+    "hospedaje",
+    "uso o goce temporal de bienes",
+    "ISR",
+    "declaración de ingresos"
   ],
   "terminos_coloquiales": [
-    "uso de plataformas",
     "actualización de actividades",
+    "dejar de vender",
+    "servicios en línea",
+    "alquiler de propiedades",
     "avisos fiscales",
-    "ISR por plataformas"
+    "CFF",
+    "Declara"
   ],
-  "resumen": "Las personas físicas que dejen de obtener ingresos por la enajenación de bienes o la prestación de servicios a través de plataformas tecnológicas deben presentar un aviso de actualización de sus actividades económicas y obligaciones fiscales.",
+  "resumen": "Las personas físicas que dejen de obtener ingresos por la venta de bienes o la prestación de servicios a través de plataformas digitales deben reportar esta situación mediante un aviso de actualización. Este aviso debe cumplir con lo establecido en la Ley del ISR y el CFF.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si dejo de recibir ingresos por servicios en línea?",
+    "¿Qué hago si ya no vendo por internet?",
     "¿Cómo actualizo mis actividades económicas en el SAT?",
+    "¿Necesito presentar un aviso si dejo de rentar mis propiedades?",
     "¿Qué es el aviso de actualización de actividades económicas?",
-    "¿Quiénes tienen que presentar el aviso de actualización?",
-    "¿Cuándo debo presentar el aviso de actualización de obligaciones?"
+    "¿Qué obligaciones tengo si cierro mi cuenta en una plataforma de servicios?",
+    "¿Cuándo debo presentar el aviso si ya no tengo ingresos?"
   ]
 }

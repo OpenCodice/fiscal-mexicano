@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:22a28305a9d93e82",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cross Currency Swaps",
   "temas": [
-    "Operaciones financieras",
-    "Impuesto sobre la Renta",
-    "Intereses",
-    "Divisas",
-    "Ganancias y pérdidas",
-    "Residentes en el extranjero"
+    "operaciones financieras",
+    "intercambio de divisas",
+    "intereses acumulables",
+    "deducción de intereses",
+    "residentes en el extranjero",
+    "ISR",
+    "deuda financiera"
   ],
   "terminos_coloquiales": [
-    "Swaps de divisas",
-    "Intercambio de divisas",
-    "Operaciones de swap",
-    "Pérdidas y ganancias en swaps"
+    "swaps de divisas",
+    "intercambio de moneda",
+    "ganancias por swaps",
+    "perdidas por swaps",
+    "ISR de residentes en el extranjero"
   ],
-  "resumen": "Las operaciones de Cross Currency Swaps implican el intercambio de divisas y el pago de intereses. Estas operaciones se consideran derivadas de deuda y sus ganancias o pérdidas se tratan como intereses acumulables o deducibles conforme a la ley fiscal.",
+  "resumen": "La regla trata sobre las operaciones financieras de 'Cross Currency Swaps', especificando cómo se deben calcular los intereses acumulables y deducibles. También se establece cómo deben tributar los residentes en el extranjero en estas operaciones y las condiciones para deducir impuestos pagados en exceso.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los Cross Currency Swaps?",
-    "¿Qué son las operaciones financieras denominadas Cross Currency Swaps?",
-    "¿Cómo se determinan las ganancias de un intercambio de divisas?",
-    "¿Qué impuestos aplican a los residentes en el extranjero en operaciones de swaps?",
-    "¿Cómo se manejan las diferencias de cambio en los Cross Currency Swaps?"
+    "¿Cómo se calcula el ISR de un swap de divisas?",
+    "¿Qué son los Cross Currency Swaps en términos fiscales?",
+    "¿Los residentes en el extranjero tienen que pagar ISR por las diferencias de intereses en swaps?",
+    "¿Cómo se determina la ganancia o pérdida en un Cross Currency Swap?",
+    "¿Qué sucede si un residente en el extranjero paga más impuestos de los que debería en un swap?"
   ]
 }

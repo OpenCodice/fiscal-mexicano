@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8242c3bf5588a0e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización de la UFIN al pagarse el ISR diferido",
+  "denominacion_comun": "Actualización de la UFIN para ISR diferido",
   "temas": [
-    "Utilidad Fiscal Neta (UFIN)",
-    "ISR diferido",
-    "Cuenta de Utilidad Fiscal Neta (CUFIN)",
+    "ISR",
+    "UFIN",
+    "CUFIN",
+    "Impuesto diferido",
     "Declaración anual",
     "Contribuyentes",
-    "Régimen opcional para grupos de sociedades"
+    "Grupos de sociedades"
   ],
   "terminos_coloquiales": [
-    "actualización de UFIN",
-    "ISR diferido",
-    "CUFIN",
-    "Régimen para grupos",
-    "pago del ISR"
+    "utilidad fiscal neta",
+    "pago de ISR diferido",
+    "declaración ISR",
+    "UFIN",
+    "CUFIN"
   ],
-  "resumen": "Esta regla establece que la utilidad fiscal neta puede actualizarse al momento de pagar el impuesto diferido. Esto aplica desde el mes que debió pagarse el impuesto hasta la fecha de la declaración donde se realice el pago.",
+  "resumen": "La regla establece que la utilidad fiscal neta que se añade al saldo de la cuenta de utilidad fiscal neta puede actualizarse desde que se debió pagar el impuesto diferido hasta que se presente la declaración correspondiente. Esto está condicionado a que se realice el pago del ISR diferido actualizado.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualiza la UFIN al pagar el ISR diferido?",
-    "¿Qué período se considera para la actualización de la UFIN?",
-    "¿Qué es la CUFIN y cómo se relaciona con el ISR diferido?",
-    "¿Cuáles son las condiciones para la actualización de la utilidad fiscal neta?",
-    "¿Qué artículos de la Ley del ISR se aplican en este caso?"
+    "¿Cómo se actualiza la UFIN al pagar ISR diferido?",
+    "¿Qué pasa con el saldo de la CUFIN al declarar el ISR diferido?",
+    "¿Cuándo debo presentar la declaración del ISR diferido?",
+    "¿Qué requisitos debo cumplir para la actualización de la UFIN?",
+    "¿Qué artículos de la Ley del ISR se relacionan con el impuesto diferido?",
+    "¿Cómo afecta el ISR diferido a los grupos de sociedades?"
   ]
 }

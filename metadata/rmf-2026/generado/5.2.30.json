@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aca8a613a8fb3fcf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Código de seguridad para cigarros",
   "temas": [
-    "Código de seguridad",
+    "código de seguridad",
     "IEPS",
-    "Cigarros",
-    "Requisitos de etiquetado",
-    "Producción",
-    "Manufactura"
+    "cigarros",
+    "tabacos labrados",
+    "SAT",
+    "encriptación",
+    "autenticación de productos",
+    "información del producto"
   ],
   "terminos_coloquiales": [
-    "Código de seguridad",
-    "Código seguro",
-    "Código de puntos",
-    "IEPS",
-    "SAT"
+    "código de seguridad",
+    "código seguro",
+    "código de barras",
+    "código QR",
+    "cajetillas de cigarros"
   ],
-  "resumen": "El código de seguridad es un identificador único que debe imprimirse en productos como cigarros para garantizar su autenticidad. Debe ser aleatorio, encriptado y contener información específica sobre el producto y su fabricación.",
+  "resumen": "El código de seguridad es un código único generado por el SAT que debe estar visible en los productos de tabaco, como los cigarros. Este código incluye información relevante sobre la producción y características del producto para verificar su autenticidad.",
   "preguntas_ejemplo": [
-    "¿Qué es el código de seguridad para cigarros?",
-    "¿Cuáles son las características del código de seguridad?",
-    "¿Cómo se debe imprimir el código de seguridad en los cigarros?",
-    "¿Qué información debe incluir el código de seguridad?",
-    "¿Quién regula el uso del código de seguridad en intercambio comercial?"
+    "¿Qué es el código de seguridad para los cigarros?",
+    "¿Cómo debe ser el código de seguridad en las cajetillas de tabaco?",
+    "¿Qué información contiene el código de seguridad?",
+    "¿Quién genera el código de seguridad para los productos de tabaco?",
+    "¿Qué pasa si el código de seguridad no está visible?"
   ]
 }

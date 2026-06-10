@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e0b5b78e98084fd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impresión y llenado de formas fiscales",
   "temas": [
-    "formulario fiscal",
-    "firma autógrafa",
+    "formas oficiales",
+    "firmas autógrafas",
     "e.firma",
+    "documentos fiscales",
     "requerimientos técnicos",
-    "documentos oficiales"
+    "Portal del SAT"
   ],
   "terminos_coloquiales": [
-    "formato fiscal",
-    "impresión de documentos",
-    "firmas en formularios",
-    "SAT",
-    "CFF"
+    "imprimir formas fiscales",
+    "llenar documentos fiscales",
+    "firme con e.firma",
+    "firmar documentos",
+    "documentos de libre impresión"
   ],
-  "resumen": "Los contribuyentes que opten por imprimir y llenar formas oficiales deben seguir los requerimientos técnicos del SAT. También pueden firmar documentos con su firma autógrafa o e.firma, siempre incluyendo ciertos datos como la cadena original y el número de serie del certificado digital.",
+  "resumen": "Los contribuyentes que opten por imprimir y llenar formas fiscales deben seguir los requerimientos técnicos del SAT. Pueden firmar los documentos con su firma autógrafa o usar la e.firma, asegurándose de incluir la información correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo imprimo y lleno las formas fiscales?",
-    "¿Qué requisitos debo seguir para la firma en documentos fiscales?",
-    "¿Puedo usar mi e.firma para firmar documentos?",
-    "¿Qué información debe incluir el formato de mis constancias fiscales?",
-    "¿Cuáles son los lineamientos del SAT para documentos oficiales?"
+    "¿Cómo puedo imprimir y llenar una forma fiscal?",
+    "¿Qué es la e.firma y cómo se utiliza?",
+    "¿Cuáles son los requisitos para firmar documentos fiscales?",
+    "¿Dónde encuentro los requerimientos técnicos para imprimir formas fiscales?",
+    "¿Puedo firmar documentos fiscales a mano?"
   ]
 }

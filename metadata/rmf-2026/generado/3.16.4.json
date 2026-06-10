@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2a80ce85413eca4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancias de Fondos de Inversión",
+  "denominacion_comun": "Retención de ISR en fondos de inversión",
   "temas": [
-    "Impuesto sobre la renta",
-    "Fondos de inversión",
-    "Renta variable",
-    "Retención de impuestos"
+    "fondos de inversión",
+    "renta variable",
+    "retención de impuestos",
+    "ISR",
+    "ganancias"
   ],
   "terminos_coloquiales": [
     "fondos de inversión",
-    "ganancias por inversiones",
-    "ISR",
-    "retención ISR"
+    "retención de ISR",
+    "impuesto sobre la renta",
+    "ISR"
   ],
-  "resumen": "No se realizará la retención del impuesto sobre la renta cuando las ganancias provienen de fondos de inversión de renta variable. Esto aplica específicamente según lo establecido en la Ley del ISR.",
+  "resumen": "No se realizará la retención del Impuesto Sobre la Renta sobre las ganancias obtenidas por fondos de inversión de renta variable. Esto significa que los fondos no tendrán que descontar impuestos sobre esas ganancias.",
   "preguntas_ejemplo": [
-    "¿Cuándo se retiene el ISR en fondos de inversión?",
-    "¿Qué pasa con las ganancias de renta variable?",
-    "¿Los fondos de inversión están exentos de retención de impuestos?",
-    "¿Qué dice el artículo 54 de la Ley del ISR?",
-    "¿Cómo se gravan las ganancias de fondos de inversión?"
+    "¿Cuándo no se hace la retención de ISR en fondos de inversión?",
+    "¿Qué pasa con las ganancias de los fondos de renta variable?",
+    "¿Los fondos de inversión pagan impuestos sobre sus ganancias?",
+    "¿Qué establece el artículo 54 de la Ley del ISR sobre retenciones?",
+    "¿Cómo afectan los fondos de inversión a la retención de impuestos?"
   ]
 }

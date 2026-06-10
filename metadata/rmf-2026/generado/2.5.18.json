@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4b5e77ede9cf190",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Avisos en el RFC",
   "temas": [
     "obligaciones fiscales",
-    "actualización del RFC",
+    "actualización de datos",
+    "Régimen de incorporación",
     "facultades de comprobación",
-    "Ley del ISR",
-    "CFF"
+    "Ley del ISR"
   ],
   "terminos_coloquiales": [
-    "avisos fiscales",
-    "actualización de RFC",
-    "obligaciones fiscales",
-    "Régimen del ISR"
+    "aviso en el RFC",
+    "cambio en el RFC",
+    "actualización de información",
+    "Régimen de Incorporación Fiscal (RIF)",
+    "obligaciones del contribuyente"
   ],
-  "resumen": "La autoridad fiscal puede aumentar las obligaciones de los contribuyentes si estos no cumplen con lo establecido en el artículo 74-B de la Ley del ISR, sin que el contribuyente necesite presentar un aviso. Los contribuyentes pueden aclarar su situación aportando pruebas.",
+  "resumen": "La autoridad fiscal puede aumentar las obligaciones de los contribuyentes sin que estos presenten un aviso, si dejan de cumplir con los requisitos establecidos en la Ley del ISR. Los contribuyentes pueden hacer aclaraciones si consideran que la actualización de sus datos es errónea.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mi aviso en el RFC?",
-    "¿Cómo se actualizan mis obligaciones fiscales?",
-    "¿Qué es el artículo 74-B de la Ley del ISR?",
-    "¿Qué debo hacer si no estoy de acuerdo con la actualización de mis datos en el RFC?",
-    "¿Qué facultades tiene la autoridad fiscal para comprobar mis obligaciones?"
+    "¿Qué debo hacer si mi información en el RFC es incorrecta?",
+    "¿La autoridad puede actualizar mis obligaciones fiscales sin mi aviso?",
+    "¿Cuáles son las consecuencias de no cumplir con el artículo 74-B de la Ley del ISR?",
+    "¿Puedo apelar una actualización de mis datos en el RFC?",
+    "¿Qué pasa si soy cambiado de régimen fiscal sin notificación?"
   ]
 }

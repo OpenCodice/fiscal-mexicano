@@ -6,32 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2662b9f9d3c706f3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Opinión del cumplimiento",
   "temas": [
-    "opinión de cumplimiento",
-    "consulta en línea",
-    "confidencialidad",
+    "acuerdo de confidencialidad",
     "e.firma",
-    "administración de permisos",
-    "recursos públicos",
-    "contrataciones",
-    "medidas de seguridad"
+    "altas y bajas de personal",
+    "confidencialidad de información"
   ],
   "terminos_coloquiales": [
-    "opinión del cumplimiento",
-    "consultar opinión",
+    "opinión de cumplimiento",
     "SAT",
-    "e.firma"
+    "firma electrónica",
+    "seguridad de la información"
   ],
-  "resumen": "Esta regla establece los requisitos para que entidades y personas que manejan recursos públicos puedan acceder a una aplicación en línea para consultar la opinión del cumplimiento, asegurando la confidencialidad y la correcta administración de permisos para su uso.",
+  "resumen": "Esta regla establece que entidades y personas que manejan recursos públicos federales deben firmar un acuerdo de confidencialidad con el SAT y designar personal autorizado para consultar la opinión del cumplimiento. Además, deben garantizar la seguridad y confidencialidad de la información generada.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener la opinión del cumplimiento?",
-    "¿Qué requisitos debo cumplir para acceder a la aplicación del SAT?",
-    "¿Quiénes pueden consultar la opinión del cumplimiento?",
-    "¿Es obligatoria la e.firma para acceder a esta información?",
-    "¿Qué debo hacer si cambian las personas encargadas de la consulta?",
-    "¿Qué medidas de seguridad debo implementar para proteger la información?"
+    "¿Cómo obtengo la opinión de cumplimiento del SAT?",
+    "¿Qué debo hacer para designar a personas que consulten la opinión del cumplimiento?",
+    "¿Qué información es confidencial según el artículo 69 del CFF?",
+    "¿Cuáles son los requisitos para acceder a la aplicación que consulta la opinión del cumplimiento?",
+    "¿Qué medidas debo implementar para proteger la información del SAT?"
   ]
 }

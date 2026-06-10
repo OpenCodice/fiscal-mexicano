@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c56a34f1e1b4738e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones con partes relacionadas",
+  "denominacion_comun": "Obligaciones de partes relacionadas",
   "temas": [
-    "impuesto sobre la renta",
-    "partes relacionadas",
-    "obligaciones fiscales",
-    "ingresos permitidos"
-  ],
-  "terminos_coloquiales": [
     "operaciones con partes relacionadas",
-    "información de partes relacionadas",
-    "LISR",
+    "ingresos máximos",
+    "exención de presentación de información",
     "regímenes fiscales preferentes"
   ],
-  "resumen": "Los contribuyentes con ingresos menores a ciertos límites no necesitan presentar información sobre operaciones con partes relacionadas del año anterior. Sin embargo, esto no aplica si operan con entidades en regímenes fiscales preferentes.",
+  "terminos_coloquiales": [
+    "información de partes relacionadas",
+    "ingresos de empresas",
+    "ingresos de servicios profesionales"
+  ],
+  "resumen": "Los contribuyentes que realicen operaciones con partes relacionadas y cuyos ingresos no superen ciertos montos no tienen que presentar información sobre esas operaciones. Sin embargo, esto no aplica para quienes tengan relaciones con entidades en regímenes fiscales preferentes.",
   "preguntas_ejemplo": [
-    "¿Quiénes están exentos de reportar operaciones con partes relacionadas?",
-    "¿Cuáles son los límites de ingresos para no presentar información?",
+    "¿Quiénes están exentos de presentar información de operaciones con partes relacionadas?",
+    "¿Qué ingresos deben considerar los contribuyentes para no presentar reportes?",
     "¿Qué son los regímenes fiscales preferentes?",
-    "¿Qué obligaciones tienen las personas morales en cuanto a partes relacionadas?",
-    "¿Qué ocurre si mis ingresos superan los límites establecidos?"
+    "¿Cuáles son las obligaciones de las personas morales con partes relacionadas?",
+    "¿Qué sucede si mis ingresos superan el límite establecido?"
   ]
 }

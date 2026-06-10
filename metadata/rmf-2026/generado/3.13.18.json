@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:454f7bcbac2e4593",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento del IVA para contribuyentes del ISR",
+  "denominacion_comun": "Acreditamiento del IVA para contribuyentes",
   "temas": [
     "Acreditamiento del IVA",
     "Deducción de gastos",
-    "Exención del ISR",
+    "ISR",
+    "Contribuyentes exentos",
     "Actividades empresariales",
     "Uso o goce temporal de bienes"
   ],
   "terminos_coloquiales": [
-    "Acreditamiento de IVA",
-    "Deducciones ISR",
-    "Contribuyentes exentos",
-    "LISR",
-    "LIVA"
+    "IVA deducible",
+    "Gastos deducibles",
+    "Contribuyentes sin ISR",
+    "Acreditar IVA",
+    "Exentos del ISR"
   ],
-  "resumen": "La regla establece que los contribuyentes pueden acreditar el IVA relacionado con sus actividades, siempre que el gasto sea deducible para el ISR. Esto es aplicable incluso si el gasto no se usa para determinar el pago mensual o la declaración anual del ISR.",
+  "resumen": "La disposición establece que los contribuyentes pueden acreditar el IVA derivado de sus actividades empresariales siempre que los gastos sean deducibles para el ISR, incluso si no se aplican en las declaraciones mensuales o anuales. Asimismo, los contribuyentes exentos del ISR también pueden acreditar el IVA correspondiente si pagan impuestos por ingresos exentos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el IVA si no voy a pagar ISR?",
-    "¿Qué gastos son deducibles para el ISR?",
-    "¿Los contribuyentes exentos del ISR pueden acreditar el IVA?",
-    "¿Qué significa acreditar el IVA en mis actividades empresariales?",
-    "¿Cómo afecta la exención de ISR al acreditamiento del IVA?"
+    "¿Cómo puedo acreditar el IVA si soy un contribuyente exento del ISR?",
+    "¿Los gastos deducibles también afectan el IVA que puedo acreditar?",
+    "¿Puedo acreditar el IVA si no estoy obligado a pagar ISR?",
+    "¿Qué significa acreditar el IVA en mis declaraciones?",
+    "¿Qué gastos son considerados deducibles para el IVA?"
   ]
 }

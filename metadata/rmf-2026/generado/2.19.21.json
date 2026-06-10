@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:17997f21ba38ffc6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "Declaraciones informativas",
-    "Esquemas reportables generalizados",
-    "Esquemas reportables personalizados",
-    "Documentación requerida",
-    "Arrendamientos",
-    "Operaciones jurídicas",
-    "Información contable",
-    "Antecedentes y conclusiones"
+    "declaraciones informativas",
+    "esquemas reportables generalizados",
+    "esquemas reportables personalizados",
+    "arrendamientos",
+    "opciones de financiación",
+    "operaciones jurídicas",
+    "complementación de información",
+    "documentación necesaria"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
-    "esquemas fiscales",
+    "formas de reportar esquemas",
+    "información fiscal adicional",
+    "reportes de esquemas",
+    "asesoría fiscal",
     "CFF",
-    "RMF"
+    "esquemas fiscales"
   ],
-  "resumen": "La regla establece la información y documentación que deben adjuntar los asesores fiscales o contribuyentes en declaraciones sobre esquemas reportables, tanto generalizados como personalizados, incluyendo detalles sobre operaciones y actores involucrados.",
+  "resumen": "Los asesores fiscales o contribuyentes deben presentar información específica sobre esquemas reportables en sus declaraciones informativas. Esto incluye diagramas de operaciones, antecedentes, detalles de arrendamientos y datos de involucrados, entre otros aspectos.",
   "preguntas_ejemplo": [
-    "¿Qué información necesito para reportar un esquema fiscal?",
-    "¿Cuáles son los requisitos para los esquemas reportables personalizados?",
-    "¿Qué documentos debo presentar en una declaración informativa?",
-    "¿Cómo se clasifica un arrendamiento en el esquema reportable?",
-    "¿Qué pasos seguir para cumplir con las reglas sobre esquemas reportables?"
+    "¿Qué información se debe incluir al reportar un esquema fiscal?",
+    "¿Cuáles son los documentos necesarios para esquemas reportables?",
+    "¿Cómo se determina si un esquema es reportable?",
+    "¿Qué se considera un esquema reportable personalizado?",
+    "¿Qué datos se requieren para los arrendamientos en un esquema reportable?",
+    "¿Qué consecuencias hay si no se reporta un esquema fiscal correctamente?"
   ]
 }

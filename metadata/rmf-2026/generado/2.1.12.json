@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:49b53a22dc718cef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización de cantidades CFF",
+  "denominacion_comun": "Actualización de cantidades en el CFF",
   "temas": [
-    "actualización",
     "INPC",
-    "artículos del CFF",
-    "ajuste de cantidades",
-    "valores fiscales"
+    "actualización de montos",
+    "CFF",
+    "cantidad mínima",
+    "decimales",
+    "factor de actualización",
+    "Anexo 5"
   ],
   "terminos_coloquiales": [
-    "cifras actualizadas CFF",
-    "ajuste de cantidades fiscales",
-    "valores del INPC"
+    "actualización de cantidades CFF",
+    "INPC",
+    "ajuste de precios",
+    "montos en el CFF"
   ],
-  "resumen": "La regla establece que las cantidades fijadas en el Código Fiscal de la Federación se actualizarán cuando el incremento porcentual acumulado del INPC, desde la última actualización, sea mayor al 10%. La actualización se dará a conocer y entrará en vigor en el siguiente ejercicio fiscal.",
+  "resumen": "La disposición establece que las cantidades fijadas en el Código Fiscal de la Federación se actualizarán cada vez que el incremento porcentual acumulado del INPC supere el 10%. Esta actualización se aplica en diversas cantidades y su efecto se hace a partir del siguiente año fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan las cantidades en el CFF?",
-    "¿Qué tan seguido se revisan los valores del INPC?",
-    "¿Qué significa actualizar cantidades según el CFF?",
-    "¿Cuándo se aplican las nuevas cifras del CFF?",
-    "¿Cuál es la base para ajustar los valores fiscales?"
+    "¿Cómo se actualizan las cantidades en el Código Fiscal de la Federación?",
+    "¿Qué es el factor de actualización en el CFF?",
+    "¿Cuándo se actualizan los montos establecidos en el CFF?",
+    "¿Qué sucede si el INPC supera el 10%?",
+    "¿Cómo se determina el ajuste de precios en el CFF?"
   ]
 }

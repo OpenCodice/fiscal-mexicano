@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1154b6f517a9237",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios parciales de construcción para vivienda",
+  "denominacion_comun": "Servicios parciales de construcción de viviendas",
   "temas": [
-    "prestación de servicios",
-    "contratos",
-    "inmuebles",
+    "decreto",
+    "construcción",
     "casa habitación",
-    "estímulos fiscales"
+    "manifestación",
+    "prestatarios",
+    "estímulo"
   ],
   "terminos_coloquiales": [
     "servicios de construcción",
+    "viviendas",
     "contratos de construcción",
-    "vivienda",
-    "estímulo a la construcción"
+    "casa habitación"
   ],
-  "resumen": "Los prestatarios de servicios parciales de construcción de inmuebles destinados a casa habitación deben entregar una manifestación por cada contrato, cumpliendo con el procedimiento establecido en el Decreto correspondiente para obtener ciertos estímulos fiscales.",
+  "resumen": "Esta disposición establece que los prestatarios de servicios parciales de construcción de casas habitación deben entregar una manifestación por cada contrato, ya sea verbal o escrito, conforme a un procedimiento específico para optar por un estímulo del decreto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para los servicios de construcción de una casa?",
-    "¿Cómo obtengo el estímulo fiscal para la construcción?",
-    "¿Qué es la manifestación del prestatario de servicios de construcción?",
-    "¿Cuáles son los requisitos para contratar servicios de construcción para vivienda?",
-    "¿Qué debo hacer para cumplir con el artículo Segundo del Decreto?"
+    "¿Qué debo entregar si contrato servicios para construir mi casa?",
+    "¿Cómo puedo obtener el estímulo para la construcción de mi vivienda?",
+    "¿Qué documentos necesito para los servicios parciales de construcción?",
+    "¿Esta regla aplica a contratistas de obras?",
+    "¿Qué dice el decreto sobre la construcción de viviendas?"
   ]
 }

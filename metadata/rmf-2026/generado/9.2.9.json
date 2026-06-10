@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9155fce16fb537d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Condiciones para estímulo fiscal",
+  "denominacion_comun": "Aplicación del crédito fiscal",
   "temas": [
+    "estímulo fiscal",
     "crédito fiscal",
-    "estimulo fiscal",
-    "obligaciones fiscales",
-    "pagos parciales",
-    "multas fiscales"
+    "pago de adeudo",
+    "multas fiscales",
+    "contingencias administrativas"
   ],
   "terminos_coloquiales": [
     "crédito fiscal",
-    "estímulo fiscal",
-    "FCF",
-    "línea de captura"
+    "pago de impuestos",
+    "multas",
+    "estímulo fiscal"
   ],
-  "resumen": "Esta regla establece las condiciones que los contribuyentes deben seguir para que el estímulo fiscal surta efectos, incluyendo el pago de adeudos y la aceptación del crédito fiscal. Si los contribuyentes impugnan el crédito o no cumplen con los pagos, el estímulo dejará de ser válido.",
+  "resumen": "La regla establece las condiciones que deben cumplir los contribuyentes que han aplicado un estímulo fiscal para que esta aplicación sea válida. Esto incluye el pago del adeudo en un plazo específico y la aceptación del crédito fiscal, así como el cumplimiento relacionado con multas y obligaciones pendientes.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las condiciones para que el estímulo fiscal tenga efectos?",
-    "¿Qué pasa si no pago a tiempo el crédito fiscal?",
-    "¿Puedo impugnar un crédito fiscal y aún así mantener el estímulo fiscal?",
-    "¿Cómo puedo pagar el estímulo fiscal en parcialidades?",
-    "¿Qué debo hacer si tengo multas fiscales para acceder al estímulo?"
+    "¿Qué debo hacer para que mi estímulo fiscal siga siendo válido?",
+    "¿Cuáles son las condiciones para pagar un crédito fiscal?",
+    "¿Qué pasa si impugno un crédito fiscal aplicado?",
+    "¿Cómo puedo pagar multas acumuladas y mantener el estímulo fiscal?",
+    "¿Cuáles son las penalizaciones si no cumplo con el pago del estímulo fiscal?"
   ]
 }

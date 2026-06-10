@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a95037d43e1890d2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Fiscal Preferente",
   "temas": [
-    "Autorización",
-    "Manifestación",
-    "Régimen Fiscal",
-    "Contribuyente",
-    "Sociedades",
-    "Comprobación SAT"
+    "enajenante",
+    "adquirente",
+    "solicitud de autorización",
+    "manifestación bajo protesta",
+    "régimen fiscal",
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "Régimen Preferente",
-    "FP",
-    "Solicitud de Autorización"
+    "régimen fiscal preferente",
+    "manifestación de veracidad",
+    "autorización de régimen",
+    "SAT"
   ],
-  "resumen": "Esta disposición establece que para demostrar que las sociedades involucradas no están sujetas a un régimen fiscal preferente, los contribuyentes deben presentar una manifestación firmada por sus representantes legales junto con la solicitud de autorización. Esta manifestación debe realizarse dentro de un mes antes de la entrega de la solicitud.",
+  "resumen": "Esta disposición establece que en el contexto de la Ley del ISR, para cumplir con el requisito de que el enajenante o el adquirente no estén sujetos a un régimen fiscal preferente, el contribuyente puede presentar una manifestación firmada por sus representantes legales. Esta manifestación debe hacerse dentro de un periodo específico antes de hacer la solicitud y puede ser verificada por el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para solicitar la autorización de un régimen fiscal preferente?",
-    "¿Qué tipo de manifestación debo presentar?",
-    "¿Quién tiene que firmar la manifestación para la solicitud?",
-    "¿Cuándo debo presentar la manifestación respecto al régimen fiscal?",
-    "¿Qué pasa si las sociedades están bajo un régimen fiscal preferente?"
+    "¿Qué es el régimen fiscal preferente?",
+    "¿Cómo puedo demostrar que no estoy en un régimen fiscal preferente?",
+    "¿Qué requisitos debo cumplir para presentar la solicitud de autorización?",
+    "¿Cuánto tiempo antes debo firmar la manifestación?",
+    "¿Qué pasa si el SAT me revisa la manifestación presentada?"
   ]
 }

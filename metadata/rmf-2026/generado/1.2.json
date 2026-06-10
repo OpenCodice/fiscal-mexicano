@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:15913f7c24740069",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Protección de datos personales",
   "temas": [
     "datos personales",
-    "Sistemas de datos",
     "SAT",
     "derechos ARCO",
-    "excepciones de transmisión"
+    "sistemas de datos"
   ],
   "terminos_coloquiales": [
     "protección de datos",
-    "datos fiscales",
+    "datos del contribuyente",
     "derechos de acceso",
-    "CFF 69"
+    "rectificación de datos",
+    "cancelación de datos",
+    "oposición a datos",
+    "RFC",
+    "portal del SAT"
   ],
-  "resumen": "La disposición regula cómo se deben proteger y tratar los datos personales que el SAT recaba a través de solicitudes y declaraciones. También establece los derechos que tienen las personas físicas sobre sus datos, como acceso y rectificación, y cómo pueden ejercer esos derechos.",
+  "resumen": "El SAT protege y trata los datos personales recabados en solicitudes y declaraciones según las leyes fiscales y de protección de datos. Los contribuyentes pueden ejercer sus derechos de acceso, rectificación, cancelación y oposición a través del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo protegen mis datos personales en el SAT?",
+    "¿Cómo puedo proteger mis datos personales ante el SAT?",
     "¿Qué derechos tengo sobre mis datos fiscales?",
-    "¿Dónde puedo actualizar mi información personal?",
-    "¿Cuáles son las excepciones para transmitir mis datos?",
-    "¿Qué es el artículo 69 del CFF?"
+    "¿Dónde puedo actualizar mi información en el SAT?",
+    "¿Qué es el acceso, rectificación, cancelación y oposición de datos?",
+    "¿Cómo se manejan mis datos personales en el SAT?",
+    "¿Puedo ver qué datos tiene el SAT sobre mí?"
   ]
 }

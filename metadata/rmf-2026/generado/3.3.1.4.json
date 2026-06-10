@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:798fe1fdd7974561",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de indemnizaciones y primas",
+  "denominacion_comun": "Indemnizaciones y devoluciones sin abono a cuenta",
   "temas": [
     "Indemnizaciones",
-    "Devolución de primas",
+    "Primas de seguros",
     "Cheque nominativo",
     "Microseguros",
-    "Personas físicas",
-    "Requisitos",
-    "Ley del ISR"
+    "Deducciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Deducciones de seguros",
-    "Indemnizaciones sin abono en cuenta",
-    "Deducción de primas",
-    "Cheque sin abono"
+    "cheque sin abono a cuenta",
+    "devoluciones de primas",
+    "indemnización de seguros",
+    "primas parciales",
+    "microseguros"
   ],
-  "resumen": "Las instituciones de seguros pueden pagar indemnizaciones y devolver primas mediante cheques nominativos, sin la expresión 'para abono en cuenta del beneficiario', bajo ciertas condiciones relacionadas con la cantidad y el perfil del beneficiario. Se establecen requisitos específicos que permiten dichas deducciones en la Ley del ISR.",
+  "resumen": "Las instituciones de seguros pueden pagar indemnizaciones y devolver primas mediante un cheque nominativo, sin la frase 'para abono en cuenta del beneficiario', siempre que ciertas condiciones se cumplan, como el monto no exceda de 4 UMA y el beneficiario cumpla con ciertas características. Esto incluye a personas jóvenes, mayores o con ingresos limitados, y a microseguros.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos hay para recibir una indemnización sin abono en cuenta?",
-    "¿Puedo deducir el pago de primas de seguros?",
-    "¿Las indemnizaciones por microseguros tienen algún requisito especial?",
-    "¿Qué tipos de personas pueden recibir pagos sin la cláusula de abono en cuenta?",
-    "¿Cuál es el monto máximo de una indemnización que se puede pagar sin abono en cuenta?",
-    "¿Qué dice la Ley del ISR sobre las indemnizaciones y primas?"
+    "¿Puedo recibir mi indemnización sin que el cheque diga 'para abono en cuenta'?",
+    "¿Cuáles son los requisitos para que las aseguradoras paguen indemnizaciones?",
+    "¿Qué significa el límite de 4 UMA para las devoluciones de primas?",
+    "¿Qué son los microseguros y cómo aplican en los pagos de indemnizaciones?",
+    "¿A quiénes se les puede pagar indemnizaciones sin el requisito de abono a cuenta?"
   ]
 }

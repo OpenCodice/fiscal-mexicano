@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2233cf097d8d70df",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos para el pago de pasivos a favor de la Federación",
+  "denominacion_comun": "Recursos para pago de pasivos a favor de la Federación",
   "temas": [
-    "pago de pasivos",
+    "pagos a la Federación",
     "contribuciones",
     "aprovechamientos",
     "sueldos y salarios",
     "recursos retornados",
-    "ingresos al país"
+    "recursos ingresados"
   ],
   "terminos_coloquiales": [
-    "pasivos a favor de la Federación",
     "pago de impuestos",
-    "recursos ingresados",
-    "LIF",
-    "vigésimo cuarto transitorio"
+    "deudas con la Federación",
+    "sueldos",
+    "recursos del extranjero"
   ],
-  "resumen": "La regla trata sobre la posibilidad de utilizar recursos ingresados al país para pagar pasivos a favor de la Federación, sin la restricción de no disminuir su monto durante tres años, siempre que se utilicen completamente en esos pagos.",
+  "resumen": "Esta regla establece que no se requiere que los recursos retornados o ingresados al país se mantengan durante tres años para el pago de pasivos a favor de la Federación, siempre y cuando se utilicen completamente en esos pagos.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por pasivos a favor de la Federación?",
-    "¿Puedo usar recursos ingresados para pagar mis impuestos?",
-    "¿Cuáles son las condiciones para el uso de recursos retornados al país?",
-    "¿Qué dice el vigésimo cuarto transitorio de la LIF sobre el pago de sueldos?",
-    "¿Hay algún límite para el uso de recursos ingresados en el pago de contribuciones?"
+    "¿Puedo usar los recursos que traigo del extranjero para pagar mis impuestos?",
+    "¿Existen condiciones para el pago de deudas con la Federación?",
+    "¿Qué pasa si traigo dinero para pagar sueldos?",
+    "¿Se puede disminuir el monto que se paga por contribuciones?",
+    "¿Cómo funcionan los recursos ingresados para el pago de pasivos?"
   ]
 }

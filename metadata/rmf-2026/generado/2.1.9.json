@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1db194b76efe5f97",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de fusión posterior",
+  "denominacion_comun": "Aviso para fusión posterior",
   "temas": [
     "fusión de sociedades",
-    "aviso fiscal",
     "buzón tributario",
-    "autorización de fusión"
+    "aviso de conformidad",
+    "CFF",
+    "ficha de trámite"
   ],
   "terminos_coloquiales": [
-    "aviso de fusión",
     "fusión de empresas",
-    "fusión fiscal",
-    "CFF 14-B"
+    "notificación para fusión",
+    "buzón tributario"
   ],
-  "resumen": "Las sociedades que vayan a fusionarse deben presentar un aviso a través del buzón tributario para ser consideradas autorizadas. Este aviso se realiza conforme a una ficha de trámite específica.",
+  "resumen": "Este aviso es necesario para las sociedades que planean fusionarse y deben notificarse a través del buzón tributario. Es un requisito para que las fusiones sean consideradas autorizadas según la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo presento el aviso para una fusión de sociedades?",
-    "¿Qué requisitos debo cumplir para fusionar empresas?",
-    "¿Dónde encuentro el formato para el aviso de fusión?",
-    "¿Qué es el buzón tributario y cómo se usa para fusiones?",
-    "¿Cuándo se considera que una fusión está autorizada?"
+    "¿Qué debo hacer para fusionar dos empresas?",
+    "¿Cómo presento un aviso de fusión?",
+    "¿Qué es el buzón tributario para fusionar sociedades?",
+    "¿Cuáles son los requisitos para llevar a cabo una fusión de sociedades?",
+    "¿Qué información necesito para el aviso de fusión?"
   ]
 }

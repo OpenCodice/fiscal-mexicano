@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:61091ebe2876e5d0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consulta de Trámite de Devolución",
+  "denominacion_comun": "Consulta de trámites de devolución",
   "temas": [
-    "devolución",
-    "sat",
-    "RFC",
+    "trámite de devolución",
+    "estado del trámite",
+    "SAT",
+    "devolución de saldos a favor",
+    "consultas en línea",
     "e.firma",
-    "trámite",
-    "saldos a favor",
-    "auditoría"
+    "RFC"
   ],
   "terminos_coloquiales": [
-    "cómo ver mi devolución",
-    "seguimiento de devolución",
-    "consultar estado de devolución",
-    "devolución de impuestos",
-    "CFF 22"
+    "devoluciones",
+    "seguimiento de trámite",
+    "estado de la devolución",
+    "consultar mi devolución",
+    "clave RFC"
   ],
-  "resumen": "Los contribuyentes pueden consultar el estado de su trámite de devolución a través del portal del SAT. Para ello, necesitan su clave en el RFC y su e.firma, e.firma portable o contraseña.",
+  "resumen": "Los contribuyentes pueden verificar el estado de su trámite de devolución a través del portal del SAT. Para esto, necesitan su clave RFC y su e.firma o contraseña.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo saber el estado de mi devolución?",
-    "¿Qué necesito para consultar mi trámite de devolución?",
-    "¿Dónde puedo ver el seguimiento de mi devolución?",
-    "¿Se puede consultar la devolución en línea?",
-    "¿Qué documentos se requieren para la consulta de mi devolución?"
+    "¿Cómo consulto el estado de mi devolución en el SAT?",
+    "¿Qué necesito para verificar mi trámite de devolución de impuestos?",
+    "¿Dónde puedo ver el seguimiento de mi solicitud de devolución?",
+    "¿Puedo saber si mi devolución se está procesando?",
+    "¿Qué requisitos debo tener para consultar mi devolución?"
   ]
 }

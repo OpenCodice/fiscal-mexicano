@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d464d9d86f9fb926",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "CFDI de Instituciones de Seguros o Fianzas",
+  "denominacion_comun": "CFDI de seguros y fianzas",
   "temas": [
     "CFDI",
+    "seguros",
+    "fianzas",
     "ISR",
-    "Reaseguro",
-    "Coaseguro",
-    "Corretaje",
-    "Erogaciones",
-    "Contratos"
+    "reaseguro",
+    "coaseguro",
+    "corretaje",
+    "contrato"
   ],
   "terminos_coloquiales": [
-    "Factura de Seguros",
-    "Facturas de Reaseguro",
-    "CFDI para Fianzas",
-    "CFDI de Seguros"
+    "factura de seguros",
+    "factura de fianzas",
+    "CFDI de reaseguro",
+    "CFDI de coaseguro",
+    "ISR en seguros",
+    "factura fiscal"
   ],
-  "resumen": "Las instituciones de seguros y fianzas deben expedir CFDI trimestralmente, indicando el ISR causado y el tipo de operación, así como el número de contrato. También deben cumplir requisitos adicionales si realizan operaciones con residentes en el extranjero.",
+  "resumen": "Las instituciones de seguros y fianzas deben expedir CFDI trimestrales que muestren de forma expresa el ISR causado o retenido y el tipo de operación con su número de contrato. Además, para operaciones con extranjeros, se debe cumplir con ciertos requisitos adicionales.",
   "preguntas_ejemplo": [
-    "¿Qué información debo incluir en un CFDI de una operación de reaseguro?",
-    "¿Cómo se debe reportar el ISR en un CFDI de una institución de seguros?",
-    "¿Qué requisitos tienen las instituciones de fianzas para emitir CFDI?",
-    "¿Qué debo hacer si pago primas a un extranjero sin establecimiento en el país?",
-    "¿Cómo se manejan las erogaciones en el CFDI de seguros?"
+    "¿Cómo debo expedir un CFDI si soy una institución de seguros?",
+    "¿Qué información debe incluir un CFDI de fianzas?",
+    "¿Qué es el ISR en operaciones de seguros y fianzas?",
+    "¿Cómo se declara el reaseguro en un CFDI?",
+    "¿Qué requisitos tengo que cumplir para operar con extranjeros en el reaseguro?"
   ]
 }

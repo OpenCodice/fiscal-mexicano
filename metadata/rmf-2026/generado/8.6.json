@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d699e27dd7029785",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre automóviles nuevos",
   "temas": [
     "enajenación de vehículos",
     "clave vehicular",
-    "fabricantes",
-    "distribuidores",
     "franja fronteriza",
+    "fabricantes de automóviles",
+    "distribuidores autorizados",
     "comerciantes de vehículos"
   ],
   "terminos_coloquiales": [
+    "comprar un coche",
+    "venta de autos",
     "ISAN",
-    "impuesto a autos nuevos",
-    "clave de vehículos",
-    "enajenación de autos"
+    "Ley del ISAN"
   ],
-  "resumen": "Los fabricantes, distribuidores y comerciantes de vehículos que enajenen automóviles nuevos en ciertas regiones del país deben informar a la autoridad fiscal la clave vehicular correspondiente al menos 15 días antes de realizar la venta.",
+  "resumen": "Los fabricantes, ensambladores, distribuidores y comerciantes de vehículos que vendan automóviles deben informar a la autoridad fiscal con anticipación sobre los vehículos que van a vender. Esto es requerido para los autos que se encuentren en la franja fronteriza y ciertos estados.",
   "preguntas_ejemplo": [
-    "¿Qué es el ISAN?",
-    "¿Cuándo debo presentar la clave vehicular para un automóvil nuevo?",
-    "¿Quiénes están obligados a informar sobre la enajenación de autos nuevos?",
-    "¿Qué datos necesito para enajenar un vehículo en la franja fronteriza?",
-    "¿Cómo se maneja la enajenación de vehículos nuevos en México?"
+    "¿Qué debo hacer antes de vender un automóvil nuevo?",
+    "¿Quiénes están obligados a informar sobre la venta de automóviles?",
+    "¿Qué es la clave vehicular y por qué es importante?",
+    "¿Cuáles son las obligaciones de los distribuidores de autos?",
+    "¿Cómo afecta el ISAN a la venta de vehículos en la frontera?",
+    "¿Qué estados están incluidos en esta regulación del ISAN?"
   ]
 }

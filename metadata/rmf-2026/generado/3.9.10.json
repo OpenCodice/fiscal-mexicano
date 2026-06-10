@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:840bf4161afec68d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Informativa País por País",
   "temas": [
     "obligaciones fiscales",
-    "plazos de presentación",
     "personas morales",
-    "información fiscal internacional"
+    "declaración informativa",
+    "formatos",
+    "plazos de presentación"
   ],
   "terminos_coloquiales": [
-    "Declaración País por País",
-    "DIPPC",
-    "documentación fiscal multinacional"
+    "declaración país por país",
+    "declaración informativa",
+    "LISR",
+    "declaración anual",
+    "avisos de designación"
   ],
-  "resumen": "La regla establece los plazos para que las personas morales presenten la Declaración Informativa País por País, designadas por su grupo empresarial. Además, indica que la información puede presentarse en moneda extranjera y detalla cómo se debe convertir a moneda nacional.",
+  "resumen": "La regla establece los plazos y condiciones para que las personas morales, tanto residentes en México como en el extranjero, presenten la Declaración Informativa País por País. Se establece cómo cumplir con la obligación de aviso ante las autoridades fiscales y la forma de presentar la información en diferentes monedas.",
   "preguntas_ejemplo": [
-    "¿Qué es la Declaración Informativa País por País?",
-    "¿Cuáles son los plazos para presentar la declaración?",
-    "¿Puedo reportar la información en moneda extranjera?",
-    "¿Qué debo hacer si mi ejercicio fiscal termina en otro mes?",
-    "¿Quién debe presentar la declaración en un grupo multinacional?"
+    "¿Cuándo debo presentar la declaración informativa país por país?",
+    "¿Qué información necesito para la declaración anual?",
+    "¿Puedo presentar la declaración en moneda extranjera?",
+    "¿Qué pasa si mi ejercicio fiscal no coincide con el año calendario?",
+    "¿Quién es responsable de presentar la declaración informativa?",
+    "¿Cómo se presenta el aviso de designación ante las autoridades fiscales?"
   ]
 }

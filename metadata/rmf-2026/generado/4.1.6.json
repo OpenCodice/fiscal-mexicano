@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eb38cdaf24b3dfc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de saldos a favor del IVA para proyectos de inversión de activo fijo",
+  "denominacion_comun": "Devolución de saldos a favor del IVA",
   "temas": [
     "IVA",
-    "devolución de impuestos",
-    "activos fijos",
-    "inversiones",
-    "saldos a favor"
+    "activo fijo",
+    "devoluciones",
+    "proyectos de inversión",
+    "saldos a favor",
+    "e.firma",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
     "devolución de IVA",
-    "saldo a favor de IVA",
-    "devolución por inversiones",
-    "proyectos de inversión",
-    "IVA acreditable"
+    "saldos a favor",
+    "proyecto de inversión",
+    "bien nuevo",
+    "falso comprobante",
+    "DIOT",
+    "cheque nominativo"
   ],
-  "resumen": "La regla establece los requisitos y procedimientos para que los contribuyentes que realicen proyectos de inversión de activo fijo puedan solicitar la devolución de saldos a favor del IVA. Para acceder a este beneficio, los contribuyentes deben cumplir con ciertas condiciones relacionadas con las inversiones y la forma de pago.",
+  "resumen": "Esta disposición establece las condiciones y requisitos que deben cumplir los contribuyentes para solicitar la devolución del IVA generado por proyectos de inversión en activo fijo. Se detallan las condiciones para la acreditación del IVA y las erogaciones permitidas para acceder a este beneficio.",
   "preguntas_ejemplo": [
-    "¿Cómo solicito la devolución de mi saldo a favor del IVA?",
-    "¿Qué requisitos necesito para la devolución de IVA en proyectos de inversión?",
-    "¿Cuánto tiempo tarda en procesarse la devolución del IVA?",
-    "¿Qué tipo de inversiones califican para la devolución de IVA?",
-    "¿Qué sucede si no cumplo con los requisitos para la devolución de IVA?"
+    "¿Cómo puedo solicitar la devolución del IVA por un proyecto de inversión?",
+    "¿Cuáles son los requisitos para obtener un saldo a favor del IVA?",
+    "¿Qué es un bien nuevo en términos de la devolución del IVA?",
+    "¿Qué hacer si tengo un comprobante fiscal de un contribuyente en listado del SAT?",
+    "¿Qué plazo tengo para que se resuelva mi solicitud de devolución de IVA?",
+    "¿Qué información debo enviar para solicitar la devolución de saldos a favor del IVA?"
   ]
 }

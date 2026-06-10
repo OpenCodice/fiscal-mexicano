@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0dd6fc5f2c6fc150",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retiro de Fondos para el Retiro",
   "temas": [
-    "Administradoras de fondos",
+    "Administradoras de Fondos para el Retiro",
     "Intereses",
     "RFC",
     "CURP",
-    "Información fiscal",
-    "Identificación de contribuyentes"
+    "Información a Autoridades Fiscales"
   ],
   "terminos_coloquiales": [
-    "Fondos para el retiro",
-    "AFORE",
-    "Identificación con RFC",
-    "Requisitos de información fiscal"
+    "fondos para el retiro",
+    "intereses de fondos",
+    "claves del RFC",
+    "CURP"
   ],
-  "resumen": "Las administradoras de fondos para el retiro pueden identificar a los contribuyentes que reciben intereses, usando su RFC o CURP. Si hay discrepancias con el SAT, deben informar electrónicamente los datos del contribuyente.",
+  "resumen": "Las administradoras de fondos para el retiro deben informar a las autoridades fiscales sobre intereses pagados a sus clientes, utilizando el RFC o la CURP. Si no hay coincidencia con el SAT, deberán facilitar el nombre y domicilio fiscal del contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cómo identifican las AFORE a los contribuyentes?",
+    "¿Cómo se reportan los intereses del retiro al SAT?",
     "¿Qué pasa si mi RFC no coincide con el del SAT?",
-    "¿Qué información deben proporcionar las administradoras sobre mis intereses?",
-    "¿Puedo usar mi CURP en lugar del RFC para los fondos para el retiro?",
-    "¿Qué debo hacer si no tengo RFC?"
+    "¿Qué información tienen que enviar las administradoras de fondos al fisco?",
+    "¿Se puede usar la CURP en lugar del RFC para reportar intereses?"
   ]
 }

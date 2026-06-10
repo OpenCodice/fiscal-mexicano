@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cb9bcaf8f9717d39",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Consorcio petrolero",
   "temas": [
-    "información operativa",
     "declaración informativa",
-    "integrantes del consorcio",
-    "área unificada"
+    "operaciones petroleras",
+    "área unificada",
+    "información fiscal",
+    "LISH"
   ],
   "terminos_coloquiales": [
-    "consorcio petrolero",
-    "área unificada",
-    "LISH",
-    "operaciones petroleras"
+    "información de consorcios",
+    "declaraciones de consorcios",
+    "operaciones de empresas petroleras"
   ],
-  "resumen": "Los consorcios petroleros deben presentar información sobre las operaciones realizadas por sus integrantes en el ejercicio anterior. Esta información se entrega a través de una declaración informativa específica.",
+  "resumen": "Los operadores de consorcios petroleros deben presentar información sobre las operaciones hechas por sus integrantes durante el año anterior. Esto se realiza mediante una declaración informativa específica.",
   "preguntas_ejemplo": [
-    "¿Qué información deben presentar los consorcios petroleros?",
-    "¿Cómo se reportan las operaciones de un consorcio?",
-    "¿Qué es la declaración informativa de operaciones petroleras?",
-    "¿Quiénes son los integrantes del consorcio petrolero?",
-    "¿Qué implica la ficha de trámite 4/LISH?"
+    "¿Qué información debo presentar como consorcio petrolero?",
+    "¿Cómo reporto las operaciones de mi consorcio?",
+    "¿Qué es la declaración informativa para consorcios petroleros?",
+    "¿Qué actividades están incluidas en la LISH para consorcios?",
+    "¿Cómo funcionan las áreas unificadas en el sector petrolero?"
   ]
 }

@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39e217d9cf241fd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de vehículos usados",
+  "denominacion_comun": "Enajenación de vehículos nuevos y usados",
   "temas": [
-    "comprobantes fiscales",
     "CFDI",
-    "vehículos nuevos",
-    "vehículos usados",
-    "pago con vehículos",
     "retención de ISR",
-    "cambio de propietario"
+    "vehículo usado",
+    "comprobante fiscal",
+    "inscripción en el RFC",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
-    "venta de autos usados",
-    "CFDI por enajenación",
-    "recibo de auto usado",
-    "ISR vehículos usados",
-    "comprobante de auto"
+    "vender un coche",
+    "comprar un auto usado",
+    "CFDI para vehículos",
+    "retención de impuestos",
+    "pago con auto"
   ],
-  "resumen": "Esta regla establece los requisitos para los contribuyentes que venden vehículos nuevos y reciben vehículos usados y dinero como parte del pago. Incluye la obligación de emitir un CFDI y conservar ciertos documentos para la deducción de impuestos.",
+  "resumen": "Esta regla establece los requisitos para la enajenación de vehículos nuevos y usados, incluyendo la obligación de expedir un CFDI que incorpore un complemento y la retención de ISR al realizar la transacción. También especifica la documentación necesaria para comprovar la adquisición y enajenación de los vehículos.",
   "preguntas_ejemplo": [
-    "¿Cómo se comprueba la venta de un auto usado?",
-    "¿Qué documentos necesito para vender un vehículo usado y recibir otro como pago?",
-    "¿Debo retener impuestos al vender un auto usado?",
-    "¿Qué es un CFDI de enajenación de vehículos?",
-    "¿Cuáles son las obligaciones fiscales al vender un auto usado?",
-    "¿Qué es un complemento en el CFDI para vehículos usados?"
+    "¿Qué necesito para vender un coche usado y comprar uno nuevo?",
+    "¿Cómo se hace el CFDI para la venta de un auto?",
+    "¿Qué documentos tengo que presentar al vender un vehículo?",
+    "¿Debo pagar impuestos si recibo un auto usado como parte de pago?",
+    "¿Qué información debe contener el CFDI por la venta de un auto nuevo?"
   ]
 }
