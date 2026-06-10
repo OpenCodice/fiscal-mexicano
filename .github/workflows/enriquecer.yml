@@ -53,14 +53,40 @@ jobs:
           git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
           pip install -r /tmp/extractor/requirements.txt openai
 
-      - name: Generar enriquecimiento (corpus completo, autodescarga de fuentes)
+      # Un documento a la vez, con commit+push tras cada uno:
+      # - El corpus completo (~5,460 unidades) excede el límite de 6 h por job
+      #   de Actions; con checkpoints por documento, un job que muere conserva
+      #   lo hecho y el siguiente run continúa del caché (huella de prompt +
+      #   hash de texto en el extractor).
+      # - OJO con los pathspecs de git: 'metadata/*/generado' (con comodín)
+      #   debe casar la ruta COMPLETA del archivo, no sirve como prefijo; por
+      #   eso se agrega el directorio exacto del documento.
+      # - Estos pushes usan GITHUB_TOKEN y por diseño NO disparan otros
+      #   workflows; el dispatch a fiscal-web va una sola vez al final.
+      - name: Generar enriquecimiento (por documento, autodescarga de fuentes)
+        id: generar
         run: |
           set -o pipefail
-          cd /tmp/extractor
-          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
-            --out "$GITHUB_WORKSPACE" \
-            --proveedor openai ${{ inputs.force && '--force' || '' }} \
-            | tee /tmp/enriquecer.log
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          export PYTHONPATH=/tmp/extractor
+          docs=$(python -c "from extractor.registro import activos; print(' '.join(d.clave for d in activos()))")
+          echo "Documentos: $docs"
+          for doc in $docs; do
+            python -m extractor enriquecer --doc "$doc" \
+              --out "$GITHUB_WORKSPACE" \
+              --proveedor openai ${{ inputs.force && '--force' || '' }} \
+              | tee -a /tmp/enriquecer.log
+            git add "metadata/$doc/generado"
+            if git diff --cached --quiet; then
+              echo "$doc: sin cambios"
+              continue
+            fi
+            git commit -q -m "Enriquecimiento por LLM: $doc (generado en CI)"
+            git pull -q --rebase origin main
+            git push -q origin main
+            echo "pusheado=true" >> "$GITHUB_OUTPUT"
+          done
 
       - name: Resumen del avance
         if: always()
@@ -68,30 +94,15 @@ jobs:
           {
             echo "## Enriquecimiento"
             echo '```'
-            # Líneas por documento (✓/✗ y stats) y el total; sin el avance unidad a unidad.
+            # Líneas por documento (✓/✗ y stats); sin el avance unidad a unidad.
             grep -E '^[a-z0-9-]+ \(|^✗|^·|^Total:' /tmp/enriquecer.log || echo "(sin log)"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Commitear el resultado (si hubo cambios)
-        id: commit
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add 'metadata/*/generado' 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "Sin cambios en el enriquecimiento."
-          else
-            git commit -m "Enriquecimiento por LLM (generado en CI)"
-            git push
-            echo "pusheado=true" >> "$GITHUB_OUTPUT"
-            echo "Enriquecimiento actualizado y pusheado."
-          fi
-
       - name: Notificar a fiscal-web
         # Los pushes hechos con GITHUB_TOKEN no disparan otros workflows, así
         # que notificar-web.yml no ve este push: el dispatch va directo de aquí.
-        if: steps.commit.outputs.pusheado == 'true'
+        if: steps.generar.outputs.pusheado == 'true'
         env:
           TOKEN: ${{ secrets.WEB_DISPATCH_TOKEN }}
         run: |
