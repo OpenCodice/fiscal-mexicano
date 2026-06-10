@@ -1,0 +1,43 @@
+{
+  "documento": "anexo8-2026",
+  "etiqueta": "Tarifas del ISR (Anexo 8 RMF 2026)",
+  "sigla": "Anexo 8 RMF 2026",
+  "tipo": "anexo-rmf",
+  "fuente": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-2026_DOF-28122025.pdf",
+  "version": "2025-12-28",
+  "vigente_desde": "2026-01-01",
+  "vigente_hasta": "2026-12-31",
+  "num_articulos": 3,
+  "apartados": [
+    {
+      "clave": "a",
+      "numero": "A",
+      "etiqueta": "Apartado A. Tarifa aplicable a pagos provisionales",
+      "rubro": "Tarifa aplicable a pagos provisionales",
+      "cita": "Anexo 8 RMF 2026, apartado A",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo8-2026/a.md"
+    },
+    {
+      "clave": "b",
+      "numero": "B",
+      "etiqueta": "Apartado B. Tarifas aplicables a retenciones",
+      "rubro": "Tarifas aplicables a retenciones",
+      "cita": "Anexo 8 RMF 2026, apartado B",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo8-2026/b.md"
+    },
+    {
+      "clave": "c",
+      "numero": "C",
+      "etiqueta": "Apartado C. Tarifa para el cálculo del impuesto correspondiente a los ejercicios 2025 y 2026",
+      "rubro": "Tarifa para el cálculo del impuesto correspondiente a los ejercicios 2025 y 2026",
+      "cita": "Anexo 8 RMF 2026, apartado C",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo8-2026/c.md"
+    }
+  ]
+}

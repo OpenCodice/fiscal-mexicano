@@ -1,6 +1,30 @@
 {
   "documentos": [
     {
+      "clave": "anexo2-2026",
+      "etiqueta": "Fichas de trámite fiscales (Anexo 2 RMF 2026)",
+      "sigla": "Anexo 2 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 330,
+      "version": "2025-12-29"
+    },
+    {
+      "clave": "anexo5-2026",
+      "etiqueta": "Cantidades actualizadas del CFF (Anexo 5 RMF 2026)",
+      "sigla": "Anexo 5 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 3,
+      "version": "2025-12-28"
+    },
+    {
+      "clave": "anexo8-2026",
+      "etiqueta": "Tarifas del ISR (Anexo 8 RMF 2026)",
+      "sigla": "Anexo 8 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 3,
+      "version": "2025-12-28"
+    },
+    {
       "clave": "cff",
       "etiqueta": "Código Fiscal de la Federación",
       "sigla": "CFF",

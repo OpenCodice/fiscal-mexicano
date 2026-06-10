@@ -1,0 +1,43 @@
+{
+  "documento": "anexo5-2026",
+  "etiqueta": "Cantidades actualizadas del CFF (Anexo 5 RMF 2026)",
+  "sigla": "Anexo 5 RMF 2026",
+  "tipo": "anexo-rmf",
+  "fuente": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-5-RMF-2026_DOF-28122025.pdf",
+  "version": "2025-12-28",
+  "vigente_desde": "2026-01-01",
+  "vigente_hasta": "2026-12-31",
+  "num_articulos": 3,
+  "apartados": [
+    {
+      "clave": "a",
+      "numero": "A",
+      "etiqueta": "Apartado A. Cantidades actualizadas establecidas en el CFF",
+      "rubro": "Cantidades actualizadas establecidas en el CFF",
+      "cita": "Anexo 5 RMF 2026, apartado A",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo5-2026/a.md"
+    },
+    {
+      "clave": "b",
+      "numero": "B",
+      "etiqueta": "Apartado B. Compilación de cantidades establecidas en el CFF",
+      "rubro": "Compilación de cantidades establecidas en el CFF",
+      "cita": "Anexo 5 RMF 2026, apartado B",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo5-2026/b.md"
+    },
+    {
+      "clave": "c",
+      "numero": "C",
+      "etiqueta": "Apartado C. Regla 9.1.5. de la RMF",
+      "rubro": "Regla 9.1.5. de la RMF",
+      "cita": "Anexo 5 RMF 2026, apartado C",
+      "vigente_desde": "2026-01-01",
+      "vigente_hasta": "2026-12-31",
+      "archivo": "anexo5-2026/c.md"
+    }
+  ]
+}
