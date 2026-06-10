@@ -6,24 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e53cc3168634936",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen Simplificado de Confianza para Personas Morales",
+  "denominacion_comun": "Régimen Simplificado de Confianza de Personas Morales",
   "temas": [
-    "Estímulos fiscales",
-    "Impuesto sobre la renta",
-    "Liquidación",
-    "Disposiciones transitorias"
+    "estímulos fiscales",
+    "liquidación",
+    "intereses",
+    "tratados para evitar la doble tributación",
+    "derechos y obligaciones fiscales",
+    "deducciones"
   ],
   "terminos_coloquiales": [
-    "Régimen Simplificado de Confianza",
-    "RESICO"
+    "RESICO",
+    "régimen de confianza",
+    "liquidación de empresas",
+    "intereses sobre préstamos",
+    "deducción de pérdidas"
   ],
-  "resumen": "Este artículo establece que las personas morales que entran en liquidación deberán aplicar lo dispuesto en el artículo 12 de la Ley del Impuesto sobre la Renta, en el contexto del régimen simplificado y los estímulos fiscales correspondientes.",
+  "resumen": "El Régimen Simplificado de Confianza de Personas Morales establece disposiciones para la liquidación de empresas y los intereses generados en casos de contribuyentes que cumplen con ciertas condiciones, así como las deducciones y obligaciones que deben cumplirse durante su vigencia. Este régimen busca facilitar la tributación de las personas morales y favorecer la inversión.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con las personas morales en liquidación?",
-    "¿Cuáles son las disposiciones fiscales para empresas en liquidación?",
     "¿Qué es el Régimen Simplificado de Confianza?",
-    "¿Cómo se aplican los estímulos fiscales en liquidación?"
+    "¿Cómo se liquidan las empresas bajo este régimen?",
+    "¿Qué intereses se pueden deducir en este régimen?",
+    "¿Cuáles son las obligaciones fiscales para las personas morales?",
+    "¿Qué beneficios ofrece el RESICO?"
   ]
 }

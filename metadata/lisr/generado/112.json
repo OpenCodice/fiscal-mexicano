@@ -6,26 +6,23 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d3a18bfcbdcdd4bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Incorporación Fiscal",
   "temas": [
-    "derogación",
     "personas físicas",
-    "ingresos por actividades empresariales",
-    "regímenes fiscales"
+    "ingresos",
+    "actividades empresariales",
+    "actividades profesionales"
   ],
   "terminos_coloquiales": [
-    "RIF",
-    "Régimen de Incorporación Fiscal",
-    "régimen fiscal para pequeños contribuyentes"
+    "RIF"
   ],
-  "resumen": "El artículo ha sido derogado, lo que significa que ya no está en vigor ni regula ninguna disposición relacionada con el Régimen de Incorporación Fiscal.",
+  "resumen": "El artículo se encuentra derogado, lo que significa que ya no tiene validez legal respecto al Régimen de Incorporación Fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué significa la derogación del RIF?",
-    "¿Cuáles son las implicaciones de la derogación del régimen de incorporación fiscal?",
-    "¿El RIF sigue vigente?",
-    "¿Qué pasa ahora con los contribuyentes que estaban en el RIF?",
-    "¿Dónde puedo encontrar información actual sobre el régimen de incorporación fiscal?"
+    "¿Qué establece el Régimen de Incorporación Fiscal?",
+    "¿Cómo se aplican los ingresos en el RIF?",
+    "¿Qué actividades están incluidas en el régimen de incorporación?"
   ]
 }

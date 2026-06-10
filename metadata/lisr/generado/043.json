@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfbafb783747b2e8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones en el costo de lo vendido",
+  "denominacion_comun": "Deducción de bienes por prestación de servicios",
   "temas": [
-    "deducciones fiscales",
-    "costo de lo vendido",
+    "deducciones",
+    "ingresos acumulables",
     "prestación de servicios",
-    "acumulación de ingresos"
+    "valuación de bienes"
   ],
   "terminos_coloquiales": [
-    "deducciones de costos",
-    "deducción por servicios",
-    "dedecciones LISR"
+    "deducción de gastos",
+    "ingresos por servicios",
+    "valorar bienes"
   ],
-  "resumen": "El artículo establece que los contribuyentes solo pueden deducir los bienes que proporcionan al prestar servicios en el mismo ejercicio en que se acumulan los ingresos por dichos servicios, siguiendo ciertos métodos de valuación.",
+  "resumen": "Este artículo establece que los contribuyentes solo pueden deducir los bienes proporcionados al prestar servicios en el año en que se registre el ingreso por dicho servicio, y deben ser valuados de acuerdo con los métodos establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo deducir el costo de los bienes que vendo?",
-    "¿Cómo se determina el costo de lo vendido en mis servicios?",
-    "¿Qué requisitos debo cumplir para deducir bienes en el ejercicio fiscal?",
-    "¿Qué significa acumular ingresos en el contexto de deducciones?",
-    "¿Cuáles son los métodos de valuación que puedo usar para deducciones?"
+    "¿Cuándo puedo deducir los bienes que proporcioné al prestar un servicio?",
+    "¿Cómo se valúan los bienes para la deducción?",
+    "¿Qué ingresos debo acumular al prestar un servicio?",
+    "¿Qué requisitos debo cumplir para deducir los gastos de prestación de servicios?"
   ]
 }

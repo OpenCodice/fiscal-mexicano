@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6ea7cfc2fc928cd0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Entidades Extranjeras Controladas",
   "temas": [
     "ingresos gravables",
-    "control efectivo",
     "resultado fiscal",
-    "deducción de pérdidas",
+    "participación en entidades",
     "impuesto sobre la renta",
-    "cuenta de capital",
-    "simulación de actos jurídicos"
+    "simulación de actos jurídicos",
+    "contabilidad",
+    "disposiciones fiscales",
+    "dividendos"
   ],
   "terminos_coloquiales": [
-    "entidades extranjeras",
+    "control de entidades extranjeras",
     "régimen de entidades extranjeras",
-    "impuesto sobre la renta de entidades extranjeras",
-    "Control Efectivo",
-    "gravisimos",
-    "impuestos acreditables"
+    "impuesto a las entidades extranjeras",
+    "ingresos de entidades extranjeras",
+    "pérdida fiscal",
+    "pago de impuestos"
   ],
-  "resumen": "Este artículo establece las normas para gravar los ingresos de contribuyentes con participación en entidades extranjeras. Se especifica cómo calcular el resultado fiscal, así como las deducciones aplicables y la obligatoriedad de llevar contabilidad de dichas entidades.",
+  "resumen": "El artículo establece cómo los contribuyentes deben calcular y reportar los ingresos gravables provenientes de entidades extranjeras en función de su participación en ellas. Además, detalla la forma en que se determina el resultado fiscal y el tratamiento de pérdidas, así como las obligaciones contables de los contribuyentes en relación a estas entidades.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los ingresos de entidades extranjeras?",
-    "¿Qué es el control efectivo sobre una entidad extranjera?",
-    "¿Cómo se determina el resultado fiscal de una entidad extranjera?",
-    "¿Puedo deducir las pérdidas fiscales de una entidad extranjera?",
-    "¿Qué implica tener participación en entidades extranjeras controladas?"
+    "¿Cómo calculo los ingresos por una entidad extranjera que controlo?",
+    "¿Qué pasa si tengo pérdida fiscal en una entidad extranjera?",
+    "¿Debo incluir todos los ingresos de la entidad extranjera en mi declaración?",
+    "¿Qué impuestos puedo acreditar por ingresos de entidades extranjeras?",
+    "¿Cuáles son mis obligaciones contables si participo en entidades extranjeras?"
   ]
 }

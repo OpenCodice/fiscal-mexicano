@@ -6,28 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:adcf1b451837cc3d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Métodos de Valuación de Inventarios",
+  "denominacion_comun": "Métodos de valuación de inventarios",
   "temas": [
     "métodos de valuación",
     "inventarios",
     "deducciones",
-    "costo de mercancías"
-  ],
-  "terminos_coloquiales": [
-    "PEPS",
+    "costo de lo vendido",
+    "método PEPS",
     "costo identificado",
     "costo promedio",
     "método detallista",
-    "valorar inventarios"
+    "obligaciones fiscales"
   ],
-  "resumen": "Los contribuyentes pueden elegir entre varios métodos para valorar sus inventarios, como PEPS o costo identificado. Una vez elegido un método, debe utilizarse durante cinco ejercicios y las variaciones en el costo no serán acumulables ni deducibles.",
+  "terminos_coloquiales": [
+    "como valuo mis inventarios",
+    "método PEPS",
+    "método de costo promedio",
+    "método de costo identificado",
+    "método detallista",
+    "costo de mercancías",
+    "deducciones de inventarios"
+  ],
+  "resumen": "Los contribuyentes pueden elegir entre varios métodos para valorar sus inventarios, como PEPS, costo identificado, costo promedio y método detallista. Al elegir un método, deben usarlo al menos durante cinco años y cumplir con ciertos requisitos sobre el control de inventarios.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los métodos para valuar inventarios?",
+    "¿Cuáles son los métodos para valuación de inventarios?",
     "¿Qué es el método PEPS?",
-    "¿Puedo cambiar el método de valuación de inventarios?",
-    "¿Cómo afecta el método de valuación a mis deducciones?",
-    "¿Debo usar el mismo método de valuación por siempre?"
+    "¿Cuánto tiempo debo utilizar un método de valuación de inventarios?",
+    "¿Qué pasa si cambio mi método de valuación de inventarios?",
+    "¿Cómo se deducen los costos de las mercancías?"
   ]
 }

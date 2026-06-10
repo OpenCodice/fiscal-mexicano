@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b709b4fed81410e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Residentes en el extranjero con ingresos en México",
@@ -13,21 +14,23 @@
     "responsabilidad solidaria",
     "documentación comprobatoria",
     "establecimiento permanente",
-    "impuesto definitivo",
-    "pagos provisionales"
+    "impuesto sobre la renta",
+    "pagos provisionales",
+    "residentes fiscales"
   ],
   "terminos_coloquiales": [
     "residentes en el extranjero",
-    "responsabilidad solidaria",
-    "impuesto a residentes",
-    "declaración de ingresos"
+    "impuesto a los ingresos",
+    "declaración de impuestos",
+    "pago de impuestos",
+    "impuesto definitivo"
   ],
-  "resumen": "Este artículo establece las obligaciones de los residentes en el extranjero con ingresos en México, incluyendo la necesidad de contar con un representante en el país y conservar documentación relacionada con el pago de impuestos. También menciona cómo calcular el impuesto cuando se adquiere la residencia en el país.",
+  "resumen": "El artículo regula las obligaciones de los residentes en el extranjero con ingresos en México, incluyendo la responsabilidad solidaria del representante y la presentación de declaraciones cuando constituyan establecimiento permanente en el país. También establece el cálculo de pagos provisionales de impuestos según su situación fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los residentes en el extranjero con ingresos en México?",
-    "¿Cómo se determina el impuesto para los que constituyen un establecimiento permanente?",
-    "¿Cuál es el proceso para presentar una declaración si soy residente en el extranjero?",
-    "¿Qué es la responsabilidad solidaria en este contexto?",
-    "¿Qué documentación necesito conservar si soy residente en el extranjero?"
+    "¿Qué obligaciones tienen los residentes en el extranjero que generan ingresos en México?",
+    "¿Cómo funciona la responsabilidad solidaria del representante fiscal?",
+    "¿Qué documentos debo conservar si soy residente en el extranjero y tengo ingresos en México?",
+    "¿Cómo se determinan los pagos provisionales para quienes tienen establecimiento permanente en México?",
+    "¿Qué sucede si una persona física adquiere residencia en México durante el año fiscal?"
   ]
 }

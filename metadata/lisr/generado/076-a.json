@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5b0d63730e7613bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaraciones informativas de partes relacionadas",
   "temas": [
-    "declaraciones informativas",
     "partes relacionadas",
+    "declaraciones anuales",
     "grupo empresarial multinacional",
-    "responsabilidades fiscales",
     "información financiera",
-    "contabilidad",
-    "cumplimiento fiscal"
+    "obligaciones fiscales",
+    "análisis de operaciones"
   ],
   "terminos_coloquiales": [
-    "declaración maestra",
+    "declaraciones de partes relacionadas",
+    "declaración informativa maestra",
     "declaración local",
     "declaración país por país",
-    "declaraciones de partes relacionadas",
-    "información fiscal",
-    "LISR"
+    "reportes de empresas",
+    "DIPR"
   ],
-  "resumen": "Los contribuyentes que realicen operaciones con partes relacionadas deben presentar diversas declaraciones informativas a las autoridades fiscales, incluyendo información sobre la estructura organizacional y datos financieros del grupo empresarial. Estas declaraciones tienen plazos específicos para su presentación.",
+  "resumen": "Las personas morales que celebren operaciones con partes relacionadas deben presentar diversas declaraciones informativas a las autoridades fiscales, dependiendo de su situación, incluyendo una declaración informativa maestra y una declaración país por país. Estas declaraciones contienen información sobre la estructura organizacional, actividades y operaciones con partes relacionadas.",
   "preguntas_ejemplo": [
     "¿Qué son las declaraciones informativas de partes relacionadas?",
-    "¿Qué información se incluye en la declaración país por país?",
-    "¿Cuándo debo presentar la declaración local de partes relacionadas?",
-    "¿Quiénes están obligados a presentar la declaración maestra?",
-    "¿Qué sucede si no presento mis declaraciones informativas a tiempo?"
+    "¿Quiénes deben presentar la declaración país por país?",
+    "¿Cuándo se deben entregar las declaraciones informativas?",
+    "¿Qué información se requiere en la declaración maestra de partes relacionadas?",
+    "¿Qué requisitos deben cumplir las personas morales para presentar estas declaraciones?"
   ]
 }

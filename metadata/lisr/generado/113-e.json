@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:72c013811816c8a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
@@ -14,24 +15,27 @@
     "contribuyentes personas físicas",
     "actividades empresariales",
     "opción de pago",
-    "ingresos máximos",
+    "ingresos",
     "declaración anual",
-    "cálculo de pagos mensuales"
+    "cumplimiento de obligaciones fiscales",
+    "exclusiones"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "simplificación fiscal",
-    "impuesto mensual",
-    "opciones para contribuir"
+    "pago de impuestos",
+    "declaraciones fiscales",
+    "gente que trabaja por cuenta propia",
+    "ingresos de la actividad",
+    "comprobantes fiscales",
+    "menores de 3.5 millones"
   ],
-  "resumen": "El Régimen Simplificado de Confianza permite a las personas físicas que realicen actividades empresariales o profesionales optar por un esquema de pago del impuesto sobre la renta, siempre que sus ingresos no excedan de tres millones quinientos mil pesos. Los contribuyentes deben calcular y pagar el impuesto mensualmente y presentar una declaración anual.",
+  "resumen": "El Régimen Simplificado de Confianza permite a las personas físicas que realizan diversas actividades empresariales o profesionales pagar impuestos de manera simplificada, siempre que sus ingresos no excedan de 3.5 millones de pesos. Aquellos que superan este límite ya no podrán utilizar este régimen y deberán tributar de acuerdo a otras disposiciones fiscales.",
   "preguntas_ejemplo": [
     "¿Qué es el Régimen Simplificado de Confianza?",
-    "¿Cómo puedo calcular el impuesto en el RESICO?",
-    "¿Cuáles son los límites de ingreso para el Régimen Simplificado?",
-    "¿Qué pasa si supero los ingresos permitidos en el Régimen Simplificado?",
-    "¿Qué obligaciones tengo si elijo el Régimen Simplificado de Confianza?",
-    "¿Quiénes pueden tributar bajo el RESICO?"
+    "¿Cuáles son los límites de ingresos para este régimen?",
+    "¿Cómo calculo el impuesto bajo este régimen?",
+    "¿Qué pasa si mis ingresos superan los 3.5 millones?",
+    "¿Qué tipo de actividades se pueden incluir en este régimen?",
+    "¿Cómo presento mi declaración anual en el RESICO?"
   ]
 }

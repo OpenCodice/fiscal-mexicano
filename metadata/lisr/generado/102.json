@@ -6,28 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:daebbfc61dcc43db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acumulación de ingresos",
+  "denominacion_comun": "Ingreso efectivamente percibido",
   "temas": [
-    "ingresos acumulables",
-    "momento de percepción",
-    "efectos de anticipos",
-    "enajenación de bienes",
-    "exportaciones"
+    "acumulación de ingresos",
+    "momentos de percepción",
+    "anticipos",
+    "depósitos",
+    "títulos de crédito",
+    "cheques",
+    "condonación",
+    "exportación de bienes"
   ],
   "terminos_coloquiales": [
-    "ingresos percibidos",
-    "acumulación de ingresos",
-    "ley del ISR",
-    "LISR"
+    "ingresos acumulables",
+    "cuando se recibe el dinero",
+    "cuando se perciben los ingresos",
+    "anticipo",
+    "depósito",
+    "cheque",
+    "ingreso por exportación"
   ],
-  "resumen": "Los ingresos se consideran acumulables cuando son efectivamente percibidos, ya sea en efectivo, bienes o servicios. Esto incluye anticipos y otros conceptos, así como los ingresos por enajenación de bienes exportados, los cuales se acumulan una vez que son percibidos.",
+  "resumen": "Los ingresos se consideran acumulables cuando son efectivamente percibidos, ya sea en efectivo, bienes, o servicios. Esto incluye situaciones como recibir un cheque o cuando se condonan deudas. También se refiere a cuándo se debe acumular el ingreso por exportaciones.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que un ingreso está efectivamente percibido?",
-    "¿Qué pasa si recibo un anticipo de mis ingresos?",
+    "¿Cuándo se consideran que mis ingresos están realmente percibidos?",
+    "¿Qué significa que un ingreso es acumulable?",
+    "¿Qué pasa si recibo un cheque, cuándo cuento ese ingreso?",
+    "¿Los anticipos se consideran ingresos percibidos?",
     "¿Cómo se acumulan los ingresos por exportaciones?",
-    "¿Qué significa que un ingreso sea acumulable?",
-    "¿Cuándo debo acumular ingresos si cobro con cheque?"
+    "¿Qué es la condonación de ingresos?"
   ]
 }

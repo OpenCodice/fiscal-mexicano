@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5fcf234b9dcbfc8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de las deducciones",
+  "denominacion_comun": "Deducciones no permitidas",
   "temas": [
-    "pagos no deducibles",
     "impuesto sobre la renta",
-    "gastos de representación",
+    "subsidio para el empleo",
+    "inversiones no deducibles",
     "donativos",
-    "intereses",
-    "impuesto al valor agregado",
-    "pérdidas no deducibles",
-    "gastos en restaurantes"
+    "sanciones",
+    "intereses no deducibles",
+    "gastos en comidas",
+    "pérdidas por enajenación"
   ],
   "terminos_coloquiales": [
     "deducciones",
-    "gastos deducibles",
-    "LISR",
-    "impuestos no deducibles"
+    "gastos no deducibles",
+    "ISR",
+    "donativos",
+    "gastos de representación",
+    "intereses de préstamos",
+    "alimentación en restaurantes"
   ],
-  "resumen": "El artículo establece qué tipos de gastos y pagos no son deducibles para las personas físicas según la Ley del Impuesto sobre la Renta. Incluye conceptos como el impuesto sobre la renta, donativos, y gastos en representación, entre otros.",
+  "resumen": "El artículo establece una lista de conceptos que no pueden ser deducidos para el cálculo del impuesto sobre la renta. Esto incluye pagos de impuestos, algunas inversiones, donativos y ciertos gastos relacionados con el negocio. Además, se prohíben deducciones por sanciones y pérdidas derivadas de la venta de activos no deducibles.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los gastos que no puedo deducir en mi declaración?",
-    "¿Qué pagos no son deducibles según la LISR?",
-    "¿Puedo deducir mis gastos en restaurantes?",
-    "¿Qué impuestos no son deducibles al calcular mi ISR?",
-    "¿Los donativos son deducibles de impuestos?"
+    "¿Qué gastos no se pueden deducir del impuesto sobre la renta?",
+    "¿Puedo deducir el subsidio que pago a mis empleados?",
+    "¿Los gastos en restaurantes son deducibles?",
+    "¿Qué tipo de inversiones no son deducibles para el ISR?",
+    "¿Las sanciones que pago son deducibles?",
+    "¿Puedo deducir los intereses de un préstamo si no tengo ingresos acumulables?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c70451554db9dd80",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de personas morales residentes en el extranjero",
+  "denominacion_comun": "Deducciones de personas morales en el extranjero",
   "temas": [
-    "deducciones fiscales",
-    "establescimientos permanentes",
-    "tratados para evitar la doble tributación",
-    "gastos deducibles",
-    "remesas no deducibles",
-    "gastos de transporte internacional",
-    "cálculo de factor de gasto"
+    "personas morales",
+    "deducciones",
+    "establecimientos permanentes",
+    "tratados de doble tributación",
+    "remesas",
+    "gastos promedio"
   ],
   "terminos_coloquiales": [
-    "deducciones para extranjeros",
-    "personas morales del extranjero",
-    "establecimientos permanentes",
-    "tratado para evitar la doble tributación"
+    "deducciones para empresas extranjeras",
+    "gastos de empresas en México",
+    "remesas no deducibles",
+    "gasto promedio",
+    "gastos operativos en el extranjero"
   ],
-  "resumen": "Las personas morales extranjeras con establecimientos permanentes en México pueden deducir ciertos gastos relacionados con sus operaciones, siempre que cumplan con requisitos específicos. Las remesas a la oficina central no son deducibles, y hay un cálculo especial para gastos de empresas de transporte internacional.",
+  "resumen": "Las personas morales residentes en el extranjero con establecimientos permanentes en México pueden deducir ciertos gastos relacionados con sus actividades aquí. Sin embargo, no se pueden deducir remesas a la oficina central en el extranjero. También hay disposiciones específicas para empresas dedicadas al transporte internacional.",
   "preguntas_ejemplo": [
     "¿Qué gastos pueden deducir las empresas extranjeras en México?",
-    "¿Las remesas de un establecimiento en México a su oficina central son deducibles?",
-    "¿Cómo se determina el gasto promedio para deducciones de transporte internacional?",
-    "¿Qué requisitos deben cumplirse para las deducciones de personas morales del extranjero?",
-    "¿Qué es un establecimiento permanente y cómo afecta a las deducciones?"
+    "¿Se pueden deducir las remesas a la oficina central de una empresa extranjera?",
+    "¿Cómo se calcula el gasto promedio para deducciones?",
+    "¿Qué requisitos deben cumplir las empresas extranjeras para deducir gastos en México?",
+    "¿Qué pasa si los ingresos son menores que los gastos en todos los establecimientos?"
   ]
 }

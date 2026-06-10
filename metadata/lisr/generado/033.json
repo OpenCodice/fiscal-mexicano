@@ -6,11 +6,12 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7b3c9b838a23788a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de inversiones",
+  "denominacion_comun": "Deducciones por inversiones",
   "temas": [
-    "gastos diferidos",
+    "gastos y cargos diferidos",
     "erogaciones preoperativas",
     "regalías",
     "asistencia técnica",
@@ -18,17 +19,21 @@
     "concesiones"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
+    "deducciones",
     "gastos deducibles",
-    "LRISR",
-    "LISR"
+    "cargos diferidos",
+    "gastos preoperativos",
+    "regalías",
+    "asistencia técnica",
+    "inversiones intangibles"
   ],
-  "resumen": "El artículo establece los porcentajes máximos autorizados para deducir ciertos gastos y erogaciones, así como las condiciones para deducir la totalidad de inversiones en el mismo ejercicio fiscal en que se realizaron. Se mencionan también los activos intangibles y los procedimientos para calcular deducciones relacionadas con concesiones.",
+  "resumen": "Este artículo establece los porcentajes máximos de deducción autorizados para ciertos gastos, incluyendo cargos diferidos y erogaciones preoperativas. Además, se menciona la deducción total en caso de que el beneficio se concrete en el mismo ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué gastos puedo deducir en mi declaración?",
-    "¿Cuál es el porcentaje máximo para deducir gastos diferidos?",
-    "¿Cómo se deducen las erogaciones en periodos preoperativos?",
-    "¿Qué son los activos intangibles y cómo se deducen?",
-    "¿Puedo deducir la totalidad de mis inversiones en el mismo año?"
+    "¿Qué porcentaje se puede deducir de los gastos diferidos?",
+    "¿Puedo deducir los gastos que tuve antes de empezar operaciones?",
+    "¿Cuánto se puede deducir por regalías o asistencia técnica?",
+    "¿Cómo se calcula la deducción de activos intangibles?",
+    "¿Qué sucede si el beneficio de una inversión se concreta en el mismo año?",
+    "¿Cuáles son los tipos de gastos que se pueden deducir según la ley?"
   ]
 }

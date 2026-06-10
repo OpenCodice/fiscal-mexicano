@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af2310a368081edc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos Provisionales en el Régimen Simplificado de Confianza",
+  "denominacion_comun": "Pagos Provisionales del Régimen Simplificado de Confianza",
   "temas": [
-    "pagos provisionales",
-    "impuesto del ejercicio",
+    "impuesto",
     "declaración",
+    "pagos provisionales",
     "deducciones autorizadas",
-    "utilidades de empresas",
-    "pérdidas fiscales",
-    "tasa del impuesto"
+    "utilidad fiscal",
+    "retenciones",
+    "participación de trabajadores"
   ],
   "terminos_coloquiales": [
-    "pagos provisionales",
-    "impuesto mensual",
     "pago de impuestos",
+    "pago provisional",
+    "declaración de impuestos",
+    "deducciones",
+    "utilidad",
+    "retención de impuestos",
     "RESICO"
   ],
-  "resumen": "Los contribuyentes deben realizar pagos provisionales mensuales del impuesto del ejercicio, presentando una declaración. Estos pagos se determinan restando los ingresos de deducciones autorizadas y otros conceptos, y se pueden acreditar con pagos previos y retenciones.",
+  "resumen": "Este artículo establece que los contribuyentes deben hacer pagos provisionales mensuales del impuesto correspondiente. Estos pagos se determinan restando las deducciones autorizadas y la participación de trabajadores de los ingresos obtenidos durante el periodo.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer mis pagos provisionales?",
-    "¿Qué se considera en las deducciones autorizadas?",
-    "¿Cómo se calcula el impuesto a pagar?",
-    "¿Qué ocurre si tengo pérdidas fiscales?",
-    "¿Puedo acreditar pagos anteriores contra mis pagos provisionales?"
+    "¿Cómo hago el pago provisional de mis impuestos?",
+    "¿Qué deducciones puedo aplicar al calcular mis pagos?",
+    "¿Qué porcentaje debo pagar de la utilidad fiscal?",
+    "¿Cómo afecta la retención de impuestos a mis pagos provisionales?",
+    "¿Cuándo debo presentar mi declaración de pagos provisionales?"
   ]
 }

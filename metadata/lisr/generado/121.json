@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9edad69e62b0a752",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones por enajenación de bienes",
   "temas": [
     "ingresos por enajenación",
     "deducciones",
-    "ganancia gravable",
-    "pérdidas en enajenación"
+    "bienes inmuebles",
+    "comisiones",
+    "gastos notariales",
+    "pérdidas",
+    "ganancia"
   ],
   "terminos_coloquiales": [
     "deducciones por venta de bienes",
-    "deducciones fiscales en enajenación",
-    "LISR",
-    "artículo 121"
+    "gastos de notaría",
+    "comisiones por venta",
+    "pérdidas en venta de propiedades",
+    "LISR"
   ],
-  "resumen": "Las personas físicas pueden deducir costos relacionados con la enajenación de bienes, como el costo de adquisición, inversiones en mejoras y gastos notariales. La diferencia entre el ingreso por enajenación y estas deducciones será la ganancia sujeta a impuesto.",
+  "resumen": "Las personas físicas que vendan bienes pueden deducir costos de adquisición, inversiones en mejoras, gastos notariales y comisiones. La ganancia se calcula restando estas deducciones de los ingresos por la venta. Las pérdidas en la venta pueden ser deducidas en el año en que ocurrieron o en los tres siguientes.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones puedo hacer al vender un inmueble?",
-    "¿Cómo calculo la ganancia por enajenación de bienes?",
-    "¿Qué gastos son deducibles al vender bienes?",
-    "¿Puedo deducir pérdidas por enajenación de acciones?",
-    "¿Cómo actualizo las deducciones en la enajenación de bienes?"
+    "¿Qué puedo deducir al vender una propiedad?",
+    "¿Cuáles son los gastos deducibles al enajenar bienes?",
+    "¿Cómo se determina la ganancia al vender un bien?"
   ]
 }

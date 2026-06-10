@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ac93383068799b75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre enajenación de bienes inmuebles para residentes en el extranjero",
+  "denominacion_comun": "Impuesto sobre enajenación de bienes inmuebles",
   "temas": [
-    "enajenación de bienes inmuebles",
-    "impuesto sobre la renta",
+    "ingresos por enajenación",
+    "impuesto del 25%",
     "retención de impuestos",
-    "representantes fiscales",
     "certificados de participación inmobiliaria",
-    "valor de avalúo",
-    "donativos",
+    "funciones notariales",
+    "avalúo de inmuebles",
+    "adquisiciones a título gratuito",
     "pagos en parcialidades"
   ],
   "terminos_coloquiales": [
-    "impuesto por venta de propiedades",
-    "retención de impuestos extranjeros",
-    "enajenación de inmuebles",
-    "ISR para residentes en el extranjero",
-    "ISR bienes inmuebles"
+    "venta de propiedades",
+    "impuesto sobre la venta de casas",
+    "retención de impuesto",
+    "certificados inmobiliarios",
+    "notarios calculan impuestos",
+    "avalúo de bienes",
+    "donativos",
+    "pago de impuestos en partes"
   ],
-  "resumen": "El artículo establece las disposiciones para el cálculo y pago del impuesto sobre la enajenación de bienes inmuebles para residentes en el extranjero. Se determina una tasa del 25% sobre el ingreso obtenido y se establecen las obligaciones de retención y presentación de declaraciones ante las autoridades fiscales.",
+  "resumen": "El artículo regula el impuesto que se debe pagar por la venta de bienes inmuebles, estableciendo una tasa del 25% y detallando quién es responsable de la retención o pago del impuesto. También menciona el procedimiento para enajenaciones consignadas en escritura pública y la opción de pago en parcialidades si se acuerda.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto por la venta de una propiedad si soy residente en el extranjero?",
-    "¿Cuál es la tasa del impuesto sobre la enajenación de inmuebles para extranjeros?",
-    "¿Debo presentar una declaración si vendo un inmueble en México desde el extranjero?",
-    "¿Qué pasa si el avalúo de la propiedad excede el precio de venta?",
-    "¿Existen excepciones para pagar impuestos en las enajenaciones de bienes inmobiliarios?"
+    "¿Cuánto tengo que pagar si vendo una casa?",
+    "¿Cómo se calcula el impuesto por la venta de un inmueble?",
+    "¿Quién debe retener el impuesto en una venta de propiedad?",
+    "¿Qué es un certificado de participación inmobiliaria?",
+    "¿Puedo pagar el impuesto en parcialidades si vendo un inmueble?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae9ab7fbe130a129",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Personas Físicas con Actividades Empresariales",
+  "denominacion_comun": "Obligaciones de personas físicas con actividades empresariales",
   "temas": [
-    "Inscripción en el RFC",
-    "Contabilidad",
-    "Comprobantes fiscales",
-    "Estado de posición financiera",
-    "Declaración anual",
-    "Información fiscal",
-    "Constancias y comprobantes de ingresos"
+    "inscripción en el RFC",
+    "llevar contabilidad",
+    "expedir comprobantes fiscales",
+    "estado de posición financiera",
+    "declaración anual",
+    "información a autoridades fiscales",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "Obligaciones fiscales para personas físicas",
-    "Régimen de actividades empresariales",
-    "RIF",
-    "Declaración de ingresos"
+    "inscribirse en el RFC",
+    "contabilidad",
+    "facturas",
+    "balance general",
+    "declaración de impuestos",
+    "reporte a Hacienda",
+    "papeles de trabajo"
   ],
-  "resumen": "Los contribuyentes personas físicas con actividades empresariales deben cumplir con obligaciones como inscribirse en el RFC, llevar contabilidad y expedir comprobantes fiscales. También deben formular un estado de posición financiera y reportar ingresos en su declaración anual.",
+  "resumen": "Los contribuyentes personas físicas con actividades empresariales deben cumplir con varias obligaciones fiscales como inscribirse en el RFC, llevar contabilidad adecuada, expedir comprobantes fiscales y presentar declaraciones anuales. También deben formular estados financieros y conservar la documentación necesaria para demostrar su cumplimiento fiscal.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones fiscales de una persona física con actividades empresariales?",
-    "¿Cómo debo llevar mi contabilidad si soy un contribuyente persona física?",
-    "¿Qué comprobantes fiscales necesito expedir?",
-    "¿Qué es un estado de posición financiera y cuándo debo hacerlo?",
-    "¿Cómo se presenta la declaración anual para personas físicas con ingresos por actividades empresariales?",
-    "¿Qué información debo conservar como contribuyente?"
+    "¿Qué obligaciones tengo si soy persona física con actividades empresariales?",
+    "¿Cómo me inscribo en el RFC?",
+    "¿Qué tipo de comprobantes fiscales necesito expedir?",
+    "¿Qué es un estado de posición financiera?",
+    "¿Cuándo debo presentar mi declaración anual?"
   ]
 }

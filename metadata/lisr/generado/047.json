@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1a5fece9de6b1e9a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de almacenes generales de depósito",
+  "denominacion_comun": "Reservas de Contingencia",
   "temas": [
     "deducciones fiscales",
     "almacenes generales de depósito",
-    "reserva de contingencia",
-    "ingresos acumulables"
+    "Comisión Nacional Bancaria y de Valores",
+    "ingresos",
+    "reserva de contingencia"
   ],
   "terminos_coloquiales": [
-    "deducciones por almacenes",
-    "reserva de contingencia",
-    "almacenes generales"
+    "deducciones",
+    "almacenes de depósito",
+    "reserva de emergencia",
+    "ingresos acumulados"
   ],
-  "resumen": "Los almacenes generales de depósito pueden realizar deducciones relacionadas con la creación o incremento de reservas de contingencia. Si al final del ejercicio disminuyen estas reservas, la diferencia se considera ingreso del ejercicio en el que se lleva a cabo la disminución.",
+  "resumen": "Los almacenes generales de depósito pueden hacer deducciones relacionadas con la reserva de contingencia, que debe ser revisada por la Comisión Nacional Bancaria y de Valores. Si al final del ejercicio se disminuye esta reserva, la diferencia se considera ingreso en el ejercicio correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen las deducciones para almacenes generales de depósito?",
-    "¿Qué es la reserva de contingencia y cómo se utiliza?",
-    "¿Qué pasa si disminuyo la reserva de contingencia en el siguiente ejercicio?",
-    "¿Las deducciones de almacenes generales afectan mis ingresos?",
-    "¿Qué debo considerar al hacer deducciones por reservas de contingencia?"
+    "¿Qué deducciones puedo hacer como almacén general de depósito?",
+    "¿Cómo se maneja la reserva de contingencia en mis declaraciones?",
+    "¿Qué pasa si disminuyo la reserva de contingencia?",
+    "¿Quién revisa la creación de la reserva de contingencia?",
+    "¿Cómo afecta la reserva de contingencia a mis ingresos?"
   ]
 }

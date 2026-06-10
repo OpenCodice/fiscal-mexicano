@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7f5c7c84d1f8575a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas Fiscales en Fusiones",
   "temas": [
-    "fusión de sociedades",
+    "fusiones",
     "pérdidas fiscales",
     "cambio de socios",
     "utilidades fiscales",
-    "registros contables"
+    "registros contables",
+    "ejercicios anteriores"
   ],
   "terminos_coloquiales": [
     "pérdidas fiscales",
-    "fusión de empresas",
+    "fusión de sociedades",
     "cambio de accionistas",
-    "LISR",
-    "artículo 58"
+    "utilidades fiscales",
+    "registros contables"
   ],
-  "resumen": "Este artículo establece las reglas para la disminución de pérdidas fiscales de una sociedad durante una fusión y tras un cambio de socios o accionistas. Solo se pueden disminuir las pérdidas contra utilidades fiscales en giros donde se generaron las pérdidas y bajo ciertas condiciones.",
+  "resumen": "Este artículo regula cómo las sociedades pueden disminuir sus pérdidas fiscales pendientes en caso de fusión o cambio de control accionarial. Establece condiciones específicas para que este beneficio aplicable a las utilidades fiscales relacionadas con los giros donde se generaron las pérdidas. También se menciona que ciertas situaciones, como herencias o donaciones, no se consideran cambios de control que afecten este tratamiento.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con las pérdidas fiscales en una fusión?",
-    "¿Se pueden disminuir las pérdidas si cambian los socios?",
-    "¿Cómo se deben llevar los registros contables para las pérdidas fiscales?",
-    "¿Qué condiciones se requiere para disminuir pérdidas fiscales después de una fusión?",
-    "¿Qué ingresos se consideran para las pérdidas fiscales en fusiones?"
+    "¿Cómo se manejan las pérdidas fiscales en una fusión?",
+    "¿Qué sucede con las pérdidas fiscales si cambian los socios de una empresa?",
+    "¿Puedo utilizar pérdidas fiscales de años anteriores tras fusionar mi empresa?",
+    "¿Qué condiciones afectan la disminución de pérdidas fiscales en cambios de control?",
+    "¿Las pérdidas fiscales se pueden aplicar en cualquier giro después de una fusión?",
+    "¿Qué registros contables debo llevar para manejar mis pérdidas fiscales?"
   ]
 }

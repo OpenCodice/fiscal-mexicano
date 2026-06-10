@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8851acd1c027ec15",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
+  "denominacion_comun": "Régimen opcional para grupos de sociedades",
   "temas": [
     "sociedad integradora",
+    "sociedades integradas",
     "resultado fiscal",
-    "pérdida fiscal",
-    "participación integrable",
+    "pérdidas fiscales",
     "impuesto sobre la renta",
-    "diferimiento de impuestos",
-    "participación no integrable"
+    "participación integrable",
+    "participación no integrable",
+    "factor de resultado fiscal"
   ],
   "terminos_coloquiales": [
-    "Régimen de Sociedades Integradoras",
-    "Régimen Opcional",
-    "sociedades integradas",
-    "impuesto diferido"
+    "impuesto a pagar",
+    "resultado fiscal integrado",
+    "grupo de sociedades",
+    "diferir impuestos",
+    "sociedades integradoras"
   ],
-  "resumen": "El artículo establece cómo las sociedades integradoras deben calcular su resultado o pérdida fiscal y el impuesto que deben enterar. También detalla la participación integrable y no integrable y el tratamiento de las pérdidas fiscales. Incluye disposiciones sobre el diferimiento de impuestos por tres ejercicios.",
+  "resumen": "El régimen opcional para grupos de sociedades establece cómo calcular el impuesto sobre la renta a pagar por las sociedades que forman un grupo, considerando sus resultados y pérdidas fiscales. Permite diferir parte del impuesto a pagar por un plazo de tres ejercicios fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto de una sociedad integradora?",
-    "¿Qué es la participación integrable y no integrable?",
-    "¿Qué pasa si el resultado fiscal integrado es negativo?",
-    "¿Cómo se determinan las pérdidas fiscales en este régimen?",
-    "¿Qué impuestos se pueden diferir y por cuánto tiempo?"
+    "¿Cómo calculo el impuesto de un grupo de sociedades?",
+    "¿Cuáles son las ventajas de ser una sociedad integradora?",
+    "¿Qué es la participación integrable en este régimen?",
+    "¿Cómo se determinan las pérdidas fiscales en un grupo de sociedades?",
+    "¿Puedo diferir el pago de impuestos bajo este régimen?"
   ]
 }

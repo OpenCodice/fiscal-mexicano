@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c28cd93276bb440",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
     "omisión de pagos",
     "declaración anual",
-    "sanciones",
-    "comprobantes fiscales",
     "Registro Federal de Contribuyentes",
-    "tratamientos fiscales"
+    "facultades de comprobación",
+    "sanciones fiscales"
   ],
   "terminos_coloquiales": [
+    "no hacer pagos",
+    "declarar impuestos",
     "RESICO",
-    "regreso a otro régimen",
-    "suspensión en el RFC"
+    "no presentar declaraciones",
+    "ser suspendido en el RFC"
   ],
-  "resumen": "El Régimen Simplificado de Confianza establece que si un contribuyente no hace tres o más pagos mensuales o no presenta su declaración anual, deberá tributar bajo otras disposiciones fiscales. Además, si no emite comprobantes ni realiza pagos en un año, puede ser suspendido en el Registro Federal de Contribuyentes.",
+  "resumen": "Esta disposición establece las consecuencias de omitir pagos mensuales o no presentar la declaración anual en el Régimen Simplificado de Confianza. Si un contribuyente no emite comprobantes fiscales y no realiza pagos, la autoridad fiscal puede suspenderlo del Registro Federal de Contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no hago mis pagos en el RESICO?",
-    "¿Cómo me afecta no presentar mi declaración anual si estoy en el Régimen Simplificado de Confianza?",
-    "¿Qué sanciones puedo enfrentar si no emito comprobantes fiscales?",
-    "¿Cuáles son las consecuencias de no tributar según esta sección?",
-    "¿Puedo usar beneficios fiscales si estoy en este régimen?"
+    "¿Qué pasa si no hago mis pagos mensuales?",
+    "¿Qué ocurre si no presento mi declaración anual?",
+    "¿Puedo ser suspendido en el RFC?",
+    "¿Qué sanciones puedo enfrentar por no declarar?",
+    "¿Los contribuyentes del RESICO pueden aplicar otros beneficios fiscales?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:04264ef965cfe77f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Residentes en el extranjero con ingresos provenientes de remuneraciones",
+  "denominacion_comun": "Impuesto sobre remuneraciones a residentes en el extranjero",
   "temas": [
+    "impuesto sobre la renta",
     "remuneraciones",
-    "honorarios",
-    "impuesto",
-    "retención",
-    "fuente de riqueza"
+    "retenciones",
+    "sociedades",
+    "ingresos"
   ],
   "terminos_coloquiales": [
-    "impuesto a residentes en el extranjero",
-    "remuneraciones en el extranjero",
-    "tasa del 25%",
-    "RIE"
+    "impuesto a las remuneraciones",
+    "retención del 25%",
+    "ingresos de consejos directivos",
+    "honorarios a administradores",
+    "pago de sueldos en el extranjero"
   ],
-  "resumen": "Los miembros de consejos y gerentes que reciban remuneraciones de empresas mexicanas están sujetos a un impuesto del 25%. Este impuesto se aplica sobre el total de los ingresos y las empresas son responsables de retenerlo.",
+  "resumen": "Se establece que las remuneraciones pagadas a miembros de consejos y gerentes por empresas residentes en México están sujetas a un impuesto del 25%. Esta retención se aplica sin deducción alguna y la responsabilidad recae en las sociedades que efectúan los pagos.",
   "preguntas_ejemplo": [
-    "¿Qué impuesto se aplica a las remuneraciones de residentes en el extranjero?",
-    "¿Cómo se determina el impuesto para honorarios de directivos en el extranjero?",
-    "¿Qué tasa de retención deben aplicar las empresas que pagan a administradores en el extranjero?",
-    "¿Los ingresos de los comisarios en el extranjero se consideran en México?",
-    "¿Qué implica la fuente de riqueza para los ingresos de residentes en el extranjero?"
+    "¿Qué impuesto se aplica a las remuneraciones de directivos en el extranjero?",
+    "¿Cuánto se retiene por ingresos de administradores en México?",
+    "¿Las empresas en México tienen que retener impuestos sobre los honorarios de sus gerentes en el extranjero?",
+    "¿Qué tipo de ingresos están sujetos a retención para residentes en el extranjero?",
+    "¿Cómo se determina el impuesto sobre remuneraciones de miembros de consejos directivos?"
   ]
 }

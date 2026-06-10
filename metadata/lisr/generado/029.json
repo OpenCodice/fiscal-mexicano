@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8016145a9f70726c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reservas para fondos de pensiones",
+  "denominacion_comun": "Reservas para Fondos de Pensiones",
   "temas": [
     "fondos de pensiones",
     "jubilaciones",
     "inversiones",
     "deducciones",
     "fideicomisos",
-    "reglas de inversión"
+    "primas de antigüedad",
+    "valores a cargo del Gobierno",
+    "instrumentos financieros"
   ],
   "terminos_coloquiales": [
-    "fondos de pensiones",
-    "fondos de jubilación",
-    "inversiones para pensiones",
-    "LISR"
+    "ahorros para jubilación",
+    "fondo de pensiones",
+    "inversiones en vivienda",
+    "certificados de participación",
+    "valores",
+    "préstamos para vivienda",
+    "fondos de inversión"
   ],
-  "resumen": "Este artículo establece las reglas para la creación y manejo de reservas para fondos de pensiones y jubilaciones, incluyendo requisitos de inversión y deducibilidad. También detalla las limitaciones en inversiones y la administración de estos fondos.",
+  "resumen": "Este artículo regula las reservas que deben crearse para fondos de pensiones y jubilaciones, estableciendo criterios para su cálculo, inversión y deducibilidad. Describe las condiciones bajo las cuales se pueden invertir estos fondos y las limitaciones en su uso, incluyendo la necesidad de que se destinen solo para pago de pensiones y jubilaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se deben manejar las reservas para pensiones?",
-    "¿Cuáles son las reglas de inversión para los fondos de jubilación?",
-    "¿Qué deducciones puedo aplicar por mis reservas de pensiones?",
-    "¿Qué sucede si dispongo de los fondos para otros fines?",
-    "¿Qué inversiones son permitidas para los fondos de pensiones?"
+    "¿Cómo se crean las reservas para fondos de pensiones?",
+    "¿Qué inversiones puedo hacer con el fondo de pensiones?",
+    "¿Cuáles son las reglas para deducir aportaciones a un fondo de jubilación?",
+    "¿Puedo usar el fondo de pensiones para algo más que jubilaciones?",
+    "¿Qué pasa si dispongo de los rendimientos del fondo antes de tiempo?"
   ]
 }

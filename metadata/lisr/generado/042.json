@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47f182d3c333a5a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de lo Vendido",
+  "denominacion_comun": "Costo de lo vendido",
   "temas": [
-    "Métodos de costo",
-    "Costo de reposición",
-    "Costo de realización",
-    "Neto de realización",
-    "Transacciones entre partes relacionadas",
-    "Dictamen de estados financieros",
-    "Declaración fiscal"
+    "costo de mercancías",
+    "precio de mercado",
+    "valor de reposición",
+    "gastos directos de enajenación",
+    "parte relacionada",
+    "dictamen de estados financieros"
   ],
   "terminos_coloquiales": [
-    "Costo de mercancías",
-    "Precio de reposición",
-    "Costo de venta",
-    "Cálculo de costo",
-    "Costo según mercado"
+    "costo de lo vendido",
+    "precio de venta",
+    "gastos de venta",
+    "productos relacionados",
+    "dictamen fiscal"
   ],
-  "resumen": "El artículo establece cómo determinar el costo de las mercancías en caso de que supere su precio de mercado. Se detallan tres métodos para calcularlo: costo de reposición, costo de realización y neto de realización, con ciertas condiciones para su aplicación.",
+  "resumen": "El costo de las mercancías puede considerarse de acuerdo con su precio de reposición o su neto de realización, siempre que no exceda ciertos límites. Además, se establecen condiciones para el tratamiento fiscal si se enajenan a partes relacionadas.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el costo de lo vendido?",
-    "¿Qué métodos hay para calcular el costo de las mercancías?",
-    "¿Qué es el costo de reposición?",
-    "¿Cómo se informa el costo de mercancías en la declaración?",
-    "¿Qué pasa si vendo a una parte relacionada?"
+    "¿Cómo determino el costo de mis mercancías para la declaración?",
+    "¿Qué métodos se utilizan para calcular el costo de lo vendido?",
+    "¿Qué hacer si vendo mercancías a una empresa relacionada?",
+    "¿Debo informar el costo de las mercancías en mi dictamen fiscal?",
+    "¿Qué son los gastos directos de enajenación?",
+    "¿Cómo se relaciona el costo de lo vendido con mi declaración de impuestos?"
   ]
 }

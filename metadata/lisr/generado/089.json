@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f12065656e0bc43",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondos de Inversión",
+  "denominacion_comun": "Fondos de inversión",
   "temas": [
     "intereses devengados",
     "retenciones fiscales",
-    "constancias",
-    "responsabilidad solidaria",
-    "información para el SAT"
+    "información a accionistas",
+    "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
     "fondos de inversión",
-    "intereses sobre inversión",
-    "información fiscal de fondos"
+    "intereses",
+    "retenciones",
+    "declaración de ingresos"
   ],
-  "resumen": "Los fondos de inversión deben proporcionar constancias anuales a sus accionistas sobre los intereses devengados y retenciones fiscales. Además, deben informar al SAT sobre estos datos y son responsables si la información es incorrecta o incompleta.",
+  "resumen": "Los fondos de inversión deben proporcionar a sus accionistas información sobre los intereses devengados y las retenciones fiscales correspondientes. También deben informar al SAT sobre estos datos y son responsables si la información entregada es incorrecta.",
   "preguntas_ejemplo": [
-    "¿Qué información deben dar los fondos de inversión a sus accionistas?",
-    "¿Cuándo tienen que informar los fondos al SAT?",
-    "¿Qué pasa si la información del fondo es incorrecta?",
-    "¿Cómo se calculan las retenciones fiscales para los fondos de inversión?",
-    "¿Qué responsabilidades tienen los administradores de los fondos de inversión?"
+    "¿Qué información deben darme los fondos de inversión?",
+    "¿Cuándo debo recibir la constancia de intereses de mi fondo?",
+    "¿Qué pasa si la información sobre mis intereses es incorrecta?",
+    "¿Los fondos de inversión tienen que reportar al SAT?",
+    "¿Qué son las retenciones que se mencionan?"
   ]
 }

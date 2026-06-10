@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e16caa4b36d1353",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones para obras y servicios de tiempo compartido",
+  "denominacion_comun": "Deducciones de Obras y Servicios",
   "temas": [
-    "Deducciones fiscales",
-    "Obras inmobiliarias",
-    "Costos directos e indirectos",
-    "Servicios turísticos",
-    "Factor de deducción"
+    "deducciones",
+    "obras inmobiliarias",
+    "fraccionamientos",
+    "servicios turísticos",
+    "costos directos",
+    "costos indirectos",
+    "ingresos acumulables",
+    "declaraciones complementarias"
   ],
   "terminos_coloquiales": [
-    "Deducciones por obras",
-    "Deducciones para tiempo compartido",
-    "Costos de construcción",
-    "Gastos en servicios turísticos"
+    "deducciones para la construcción",
+    "deducciones por servicios turísticos",
+    "deducciones de costos en obras",
+    "tiempo compartido",
+    "recargos por deducciones",
+    "obras de construcción"
   ],
-  "resumen": "Este artículo permite a los contribuyentes deducir erogaciones relacionadas con obras de desarrollo inmobiliario y servicios turísticos de tiempo compartido, calculando un factor de deducción basado en costos directos e indirectos. También se mencionan las condiciones para la estimación y actualización de estas deducciones.",
+  "resumen": "Los contribuyentes que realicen obras o presten servicios turísticos pueden deducir costos directos e indirectos en el ejercicio en que obtienen ingresos. También deben calcular un factor de deducción total a lo largo del tiempo y presentar ajustes si es necesario.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones puedo hacer si inicio una obra de construcción?",
-    "¿Cómo afectan mis costos indirectos a mis deducciones fiscales?",
-    "¿Puedo deducir los gastos de tiempo compartido en mi declaración?",
-    "¿Qué es el factor de deducción y cómo se calcula?",
-    "¿Cuáles son las obligaciones fiscales relacionadas con deducciones en obras?"
+    "¿Qué deducciones puedo hacer si construyo un fraccionamiento?",
+    "¿Cómo se calculan los costos deducibles en un proyecto inmobiliario?",
+    "¿Qué debo hacer si mis deducciones estimadas superan a las deducciones realizadas?",
+    "¿Qué recargos aplican si mis deducciones son incorrectas?",
+    "¿Cómo afectará el tiempo compartido a mis deducciones fiscales?"
   ]
 }

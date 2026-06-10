@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2e0ffbc8713f83e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de lo vendido",
+  "denominacion_comun": "Costo de lo Vendido",
   "temas": [
-    "costos históricos",
+    "determinación del costo",
     "costeo absorbente",
-    "deducción de costos",
-    "inversión en mercancías",
-    "actividades comerciales",
-    "productos terminados"
+    "deducciones",
+    "mercancías",
+    "inventario final",
+    "gastos de adquisición",
+    "remuneraciones",
+    "inversiones"
   ],
   "terminos_coloquiales": [
-    "costo de ventas",
-    "deducciones fiscales",
-    "método de costeo",
+    "costo de lo vendido",
     "costo de mercancías",
-    "COSTE",
-    "LISR"
+    "gastos para vender",
+    "deducciones fiscales",
+    "inventarios",
+    "mercancías no vendidas"
   ],
-  "resumen": "Este artículo establece cómo determinar el costo de lo vendido para contribuyentes que enajenan mercancías, incluyendo criterios para considerar costos, gastos, y deducciones. También se menciona la necesidad de un método constante para la determinación del costo a lo largo del tiempo y la exclusión del costo de mercancías no enajenadas.",
+  "resumen": "El artículo establece cómo determinar el costo de lo vendido para personas morales, usando el sistema de costeo absorbente. Se especifican los conceptos que se pueden considerar dentro del costo y se indican restricciones sobre la revaluación de inventarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el costo de lo vendido en mi negocio?",
-    "¿Qué gastos puedo deducir al calcular el costo de mis mercancías?",
-    "¿Qué es el costo absorbente y cómo se aplica?",
-    "¿Cuáles son las reglas para calcular el costo de mercancías no vendidas?",
-    "¿Se puede cambiar el método de costeo en los ejercicios fiscales?",
-    "¿Qué implicaciones fiscales tiene la revaluación de inventarios?"
+    "¿Cómo determino el costo de lo vendido?",
+    "¿Qué gastos puedo deducir si vendo mercancías?",
+    "¿Qué hago con los inventarios no vendidos al cierre del ejercicio?",
+    "¿Cuáles son las reglas para el costo de mercancías adquiridas?",
+    "¿Qué es el costeo absorbente?",
+    "¿Cómo afecta la revaluación de inventarios a mis impuestos?"
   ]
 }

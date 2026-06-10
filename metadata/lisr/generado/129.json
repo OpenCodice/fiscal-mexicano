@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a88c11f750e08755",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de acciones en bolsa",
+  "denominacion_comun": "Impuesto sobre la renta en enajenación de acciones",
   "temas": [
-    "Impuesto sobre la renta",
-    "Ganancias de enajenación",
-    "Acciones emitidas por sociedades",
-    "Bolsas de valores",
-    "Intermediarios del mercado",
-    "Cálculo de ganancia o pérdida"
+    "personas físicas",
+    "impuesto sobre la renta",
+    "enajenación de acciones",
+    "bolsas de valores",
+    "ganancias y pérdidas",
+    "intermediarios del mercado de valores"
   ],
   "terminos_coloquiales": [
-    "Impuesto por venta de acciones",
-    "Ganancias por enajenación",
-    "Renta por enajenación de acciones",
-    "ISR por venta de acciones",
-    "Enajenación de acciones",
-    "LISR"
+    "pago del ISR por acciones",
+    "ganancias de acciones",
+    "perdidas de acciones",
+    "acciones en bolsa",
+    "acciones en mercados de derivados",
+    "ISR acciones",
+    "intermediación bursátil"
   ],
-  "resumen": "Las personas físicas que vendan acciones en bolsas de valores deben pagar un impuesto sobre la renta del 10% sobre las ganancias obtenidas. Se consideran las pérdidas y cómo calcular la ganancia neta después de los costos de adquisición y comisiones.",
+  "resumen": "Las personas físicas deben pagar un impuesto sobre la renta del 10% sobre las ganancias por la venta de acciones en bolsas de valores. Las pérdidas también se toman en cuenta, y se deberán declarar las ganancias en la declaración anual.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar al vender acciones?",
-    "¿Cómo se calcula la ganancia de la venta de acciones en bolsa?",
-    "¿Qué costos se consideran para el cálculo del ISR al enajenar acciones?",
-    "¿Hay alguna exención en el impuesto por vender acciones en bolsa?",
-    "¿Qué sucede si tengo pérdidas al vender mis acciones?",
-    "¿Cómo afecta el intermediario en la venta de acciones a mis impuestos?"
+    "¿Cómo se calcula el ISR por la venta de acciones?",
+    "¿Qué pasa si tengo pérdidas al vender acciones?",
+    "¿Debo declarar las ganancias si vendo acciones en bolsa?",
+    "¿Qué comisiones se incluyen al calcular ganancias de acciones?",
+    "¿Las ganancias de acciones extranjeras se gravan igual que las mexicanas?"
   ]
 }

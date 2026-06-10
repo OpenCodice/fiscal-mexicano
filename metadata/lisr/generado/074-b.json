@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e307a38910df8ec5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Personas Morales Agrarias",
+  "denominacion_comun": "Régimen de Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
   "temas": [
+    "personas morales",
     "impuesto sobre la renta",
-    "reducción del impuesto",
-    "ingresos por actividades agropecuarias",
-    "opción de aplicación",
-    "avisos ante autoridades fiscales",
-    "cumplimiento de requisitos"
+    "industrialización",
+    "comercialización",
+    "ejidatarios",
+    "comuneros",
+    "reducción de impuestos",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Régimen Agrario",
-    "RPA",
-    "actividades agrícolas",
-    "ganaderas y pesqueras"
+    "régimen agrícola",
+    "régimen ganadero",
+    "régimen silvícola",
+    "régimen pesquero",
+    "SAT",
+    "impuesto a las ganancias",
+    "pago de impuestos"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales las personas morales de derecho agrario pueden determinar su impuesto sobre la renta, aplicando una tasa reducida si cumplen ciertos requisitos de ingresos y actividad. También estipula el procedimiento a seguir para presentar avisos y las consecuencias del incumplimiento de estos requisitos.",
+  "resumen": "Este artículo regula las obligaciones fiscales para las personas morales del sector agrario que obtienen la mayoría de sus ingresos de actividades agrícolas, ganaderas, silvícolas o pesqueras. Establece condiciones para aplicar una tasa reducida del impuesto sobre la renta, así como los pasos a seguir si se superan ciertos límites de ingresos.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el impuesto sobre la renta para personas morales que operan en agricultura?",
-    "¿Qué requisitos deben cumplir las empresas agrarias para beneficiarse de la reducción del impuesto?",
-    "¿Qué debo hacer si mis ingresos exceden los cinco millones de pesos?",
-    "¿Cuál es el procedimiento para optar por este régimen?",
-    "¿Qué pasa si dejo de cumplir con los requisitos establecidos en el artículo?"
+    "¿Qué es el régimen de actividades agrícolas?",
+    "¿Cómo se calcula el impuesto sobre la renta para personas morales en el sector agrario?",
+    "¿Qué beneficios fiscales existen para ejidatarios y comuneros?",
+    "¿Qué deben hacer las personas morales si sus ingresos superan cinco millones de pesos?",
+    "¿Cuáles son las obligaciones fiscales de las empresas agrícolas?"
   ]
 }

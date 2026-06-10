@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a36160e865b94f69",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
@@ -13,21 +14,22 @@
     "utilidad fiscal neta",
     "participación integrable",
     "impuesto sobre la renta",
-    "sociedades integradoras",
-    "saldo de cuenta"
+    "impuesto diferido"
   ],
   "terminos_coloquiales": [
-    "Régimen de Grupos",
-    "grupos de sociedades",
-    "utilidad fiscal",
-    "utilidad imponible"
+    "utilidad neta",
+    "impuesto a pagar",
+    "sociedades integradoras",
+    "sociedades integradas",
+    "Régimen de Sociedades",
+    "ISR"
   ],
-  "resumen": "Este artículo establece cómo las sociedades integradoras e integradas deben calcular y llevar la cuenta de su utilidad fiscal neta, considerando las distintas participaciones y el pago del impuesto correspondiente. Se detalla el procedimiento para determinar la parte de la utilidad que se suma a la cuenta fiscal neta durante el ejercicio.",
+  "resumen": "El artículo regula cómo las sociedades integradoras e integradas deben llevar la cuenta de su utilidad fiscal neta, implica cálculos relacionados con participaciones integrables y no integrables, así como el tratamiento del impuesto diferido. Este proceso asegura que se cumpla con las disposiciones fiscales al determinar la utilidad del ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la utilidad fiscal neta en el régimen de sociedades?",
-    "¿Qué se entiende por participación integrable?",
-    "¿Cómo afecta el impuesto diferido a la utilidad fiscal neta?",
-    "¿Qué normas debo seguir para llevar la cuenta de utilidad fiscal?",
-    "¿Qué inscripciones se necesitan para el Régimen Opcional de Grupos de Sociedades?"
+    "¿Cómo se calcula la utilidad fiscal neta en el régimen opcional?",
+    "¿Qué es la participación integrable y cómo se determina?",
+    "¿Qué debo considerar para el impuesto diferido según este régimen?",
+    "¿Cómo afectan las participaciones no integrables a mis impuestos?",
+    "¿Qué significa pagar el impuesto anticipadamente en este contexto?"
   ]
 }

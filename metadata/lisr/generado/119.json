@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:268748328adee2fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por enajenación de bienes",
+  "denominacion_comun": "Ingresos por Enajenación de Bienes",
   "temas": [
     "ingresos",
     "enajenación",
-    "bien inmueble",
-    "permuta",
+    "permutas",
     "contraprestación",
-    "avalúo",
-    "exenciones",
-    "donación",
-    "fusión de sociedades"
+    "avalúo"
   ],
   "terminos_coloquiales": [
+    "vender bienes",
     "ingresos por venta",
-    "ingresos por enajenación",
-    "enajenación de bienes",
-    "enajenación",
-    "LISR"
+    "cambio de propiedades",
+    "donaciones",
+    "herencias",
+    "bonos",
+    "títulos de crédito"
   ],
-  "resumen": "Los ingresos por enajenación de bienes son aquellos que se generan de acuerdo con lo que establece el Código Fiscal de la Federación. Se consideran ingresos el monto recibido por la venta, y en ciertos casos de permuta, se evalúan ambas transacciones. Sin embargo, hay excepciones para ingresos por donación o transmisión de bienes por causa de muerte.",
+  "resumen": "Se consideran ingresos por enajenación de bienes los que vienen del Código Fiscal. En permutas hay dos enajenaciones y los ingresos se determinan por la contraprestación o valor de avalúo. Algunos casos no se consideran ingresos, como enajenaciones por donación o herencia.",
   "preguntas_ejemplo": [
-    "¿Qué se considera ingreso por enajenación de bienes?",
-    "¿Cómo se calcula el ingreso en una permuta?",
-    "¿Qué excepciones existen para los ingresos por enajenación?",
-    "¿El avalúo es necesario para determinar el ingreso por enajenación?",
-    "¿Qué tipo de ingresos no se consideran por enajenación de bienes?"
+    "¿Qué se considera un ingreso por enajenación de bienes?",
+    "¿Cómo se evalúa una permuta en términos fiscales?",
+    "¿Los ingresos por herencia se consideran enajenación?",
+    "¿Qué sucede si vendo un bien a crédito?",
+    "¿Está sujeta a impuestos la venta de bonos?"
   ]
 }

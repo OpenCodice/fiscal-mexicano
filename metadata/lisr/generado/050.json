@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d6a52343ab801aa3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones de Instituciones de Seguros",
   "temas": [
-    "deducciones fiscales",
+    "deducciones",
     "reservas de riesgos",
-    "seguros de pensiones",
     "reservas catastróficas",
-    "dividendos e intereses"
+    "seguros de pensiones",
+    "reserva matemática especial",
+    "dividendos",
+    "intereses"
   ],
   "terminos_coloquiales": [
-    "deducción de seguros",
-    "seguro de pensiones",
-    "reservas",
-    "dividendos de seguros"
+    "deducciones de seguros",
+    "reservas para siniestros",
+    "seguros de pensiones",
+    "ajuste de primas"
   ],
-  "resumen": "Las instituciones de seguros pueden deducir ciertas reservas relacionadas con riesgos y obligaciones por siniestros. También pueden deducir reservas especiales para seguros de pensiones, siempre que estos fondos se gestionen correctamente. Si reducen las reservas en un ejercicio, la diferencia se considera ingreso.",
+  "resumen": "Las instituciones de seguros pueden deducir ciertas reservas relacionadas con siniestros y riesgos. Aquellas que venden seguros de pensiones también pueden deducir reservas especiales, siempre que estos fondos sean usados de acuerdo con la ley. Si disminuyen las reservas de un ejercicio a otro, esa diferencia se considerará ingreso.",
   "preguntas_ejemplo": [
     "¿Qué deducciones pueden hacer las instituciones de seguros?",
-    "¿Cómo se manejan las reservas de riesgos en curso?",
-    "¿Se pueden deducir los dividendos pagados por las aseguradoras?",
-    "¿Cuáles son las condiciones para deducir reservas de seguros de pensiones?",
-    "¿Qué sucede si disminuyo las reservas establecidas el año pasado?"
+    "¿Cómo afectan las reservas de riesgos a las deducciones fiscales?",
+    "¿Qué son las reservas de seguros de pensiones?",
+    "¿Se pueden deducir los intereses pagados por las aseguradoras?",
+    "¿Qué sucede si una aseguradora disminuye sus reservas de un año a otro?"
   ]
 }

@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c73bd6aa6a39315",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de bienes adquiridos por dación en pago",
+  "denominacion_comun": "Deducción de bienes adquiridos por dación en pago o adjudicación",
   "temas": [
+    "deducción de bienes",
     "dación en pago",
     "adjudicación",
-    "deducción fiscal",
-    "ganancia enajenación",
-    "pérdida enajenación",
-    "costo de adquisición",
-    "ajuste por inflación",
-    "acciones",
-    "costo promedio por acción"
+    "ganancia por enajenación",
+    "pérdida por enajenación",
+    "costo comprobado de adquisición",
+    "factor de actualización",
+    "acciones"
   ],
   "terminos_coloquiales": [
-    "deducción de dación en pago",
-    "dación en pago",
-    "adjudicación",
-    "LISR",
-    "ley del impuesto sobre la renta"
+    "deducción de bienes",
+    "bienes adquiridos por dación",
+    "bienes adjudicados",
+    "enajenación de bienes",
+    "compra de acciones"
   ],
-  "resumen": "Esta disposición establece que los contribuyentes que adquirieron bienes por dación en pago o adjudicación no podrán deducir esos bienes. Al enajenar estos bienes, deberán restar su costo de adquisición ajustado por inflación del ingreso obtenido.",
+  "resumen": "Este artículo establece que los contribuyentes que han adquirido bienes por dación en pago o adjudicación no podrán deducirlos. Además, explica cómo calcular la ganancia o pérdida al vender esos bienes, restando el costo comprobado de adquisición, el cual puede ser ajustado por un factor de actualización.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir bienes que adquirí por dación en pago?",
-    "¿Cómo se determina la ganancia o pérdida en la venta de bienes obtenidos por adjudicación?",
-    "¿Qué es el costo comprobado de adquisición en la LISR?",
-    "¿Qué ajustes se aplican al costo de adquisición de bienes enajenados?",
-    "¿Cómo se calcula el costo promedio por acción para deducción?"
+    "¿Puedo deducir bienes que recibí por dación en pago?",
+    "¿Cómo calculo la ganancia al vender un bien adquirido por adjudicación?",
+    "¿Qué debo restar al ingreso por la venta de un bien recibido por dación?",
+    "¿El costo de una acción se toma en cuenta para la deducción al venderla?",
+    "¿Cómo se ajusta el costo de un bien adquirido por dación en pago?"
   ]
 }

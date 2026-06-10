@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8fbf0b275aebdcda",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos para inversión inmobiliaria",
   "temas": [
-    "fideicomisos",
     "inversión inmobiliaria",
+    "fideicomisos",
     "arrendamiento",
     "financiamiento",
     "certificados de participación",
     "tratamiento fiscal",
-    "Registro de Fideicomisos"
+    "patrimonio del fideicomiso",
+    "reglas del SAT"
   ],
   "terminos_coloquiales": [
-    "fideicomisos inmobiliarios",
-    "fideicomiso de arrendamiento",
-    "RIF",
-    "FIDEICOMISOS"
+    "fideicomiso",
+    "inversión en bienes raíces",
+    "certificados de participación",
+    "inmuebles para rentar",
+    "SAT"
   ],
-  "resumen": "Se establecen las condiciones que deben cumplir los fideicomisos dedicados a la adquisición o construcción de bienes inmuebles destinados al arrendamiento para recibir un tratamiento fiscal preferencial. Estos fideicomisos deben cumplir con diversos requisitos relacionados con la inversión y la gestión de los bienes inmuebles.",
+  "resumen": "Establece los requisitos que deben cumplir los fideicomisos dedicados a la adquisición o construcción de bienes inmuebles para arrendamiento. Estos fideicomisos pueden recibir un tratamiento fiscal preferencial si cumplen ciertas condiciones, como la inversión mínima en inmuebles y la emisión de certificados de participación.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para un fideicomiso de inversión inmobiliaria?",
-    "¿Qué beneficios fiscales tienen los fideicomisos dedicados al arrendamiento?",
-    "¿Qué es el Registro de Fideicomisos y cómo se inscribe un fideicomiso?",
-    "¿Qué condiciones deben cumplir los fideicomisos para emitir certificados de participación?",
-    "¿Cómo se determina el tratamiento fiscal de un fideicomiso inmobiliario?"
+    "¿Qué requisitos debe cumplir un fideicomiso para tener beneficios fiscales?",
+    "¿Cómo funcionan los certificados de participación en un fideicomiso inmobiliario?",
+    "¿Qué tipo de inmuebles puede adquirir un fideicomiso para arrendamiento?",
+    "¿Qué pasa si un fideicomiso vende un inmueble antes de cuatro años?",
+    "¿Cuáles son las obligaciones del fideicomisario en relación al SAT?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:27e30e3ab784c98d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actividades empresariales en copropiedad",
+  "denominacion_comun": "Copropiedad en Actividades Empresariales",
   "temas": [
+    "actividad empresarial",
     "copropiedad",
     "utilidad fiscal",
     "pérdida fiscal",
     "representante común",
-    "obligaciones fiscales",
     "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "copropietarios",
-    "impuesto del ejercicio",
-    "utilidad y pérdida fiscal"
+    "copropiedad",
+    "representante común",
+    "ganancias fiscales",
+    "pérdidas fiscales"
   ],
-  "resumen": "Cuando se realizan actividades empresariales en copropiedad, el representante común calcula la utilidad o pérdida fiscal y cumple con las obligaciones fiscales por todos los copropietarios, quienes luego consideran su parte proporcional en la utilidad y los pagos realizados.",
+  "resumen": "Este artículo establece que cuando varias personas realizan actividades empresariales a través de una copropiedad, el representante designado deberá calcular la utilidad o pérdida fiscal de las actividades y cumplir con las obligaciones fiscales. Los copropietarios asumirán una parte proporcional de la utilidad o pérdida y los pagos provisionales realizados por el representante.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los ingresos en una copropiedad?",
-    "¿Qué obligaciones fiscales tiene el representante común?",
-    "¿Cómo se distribuye la utilidad entre copropietarios?",
-    "¿Qué son los pagos provisionales en actividades empresariales?",
-    "¿Qué es la pérdida fiscal en una copropiedad?"
+    "¿Cómo se determina la utilidad fiscal en una copropiedad?",
+    "¿Quién es el representante común en una copropiedad?",
+    "¿Qué pasa con los pagos provisionales en una copropiedad?",
+    "¿Cómo se distribuye la pérdida fiscal entre los copropietarios?",
+    "¿Qué obligaciones fiscales tiene el representante común?"
   ]
 }

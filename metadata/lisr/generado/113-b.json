@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a0230546e535cee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Incorporación Fiscal",
   "temas": [
-    "opción de pagos definitivos",
-    "retenciones",
-    "ingresos ingresos bajos",
-    "servicios a través de plataformas",
+    "opciones de retención",
+    "pago definitivo",
+    "ingresos hasta 300 mil pesos",
     "comprobantes fiscales",
-    "aviso al SAT",
-    "límites de ingreso"
+    "plataformas tecnológicas",
+    "avisos al SAT"
   ],
   "terminos_coloquiales": [
     "RIF",
-    "opción de pagos definitivos",
-    "retenciones fiscales",
-    "comprobantes digitales",
-    "ingresos por plataformas",
-    "avisos al SAT"
+    "pago de impuestos",
+    "ingresos extras",
+    "comprobante digital",
+    "plataformas de servicios"
   ],
-  "resumen": "Las personas físicas que cumplan ciertos requisitos pueden optar por que las retenciones que les realicen se consideren como pagos definitivos. Esto aplica a quienes no excedan un monto de ingresos específicos y deben cumplir con ciertas obligaciones como conservar comprobantes fiscales y presentar avisos al SAT.",
+  "resumen": "El artículo permite a las personas físicas optar por considerar como pagos definitivos ciertas retenciones, siempre que sus ingresos no excedan de 300 mil pesos. Aquellos que elijan este régimen deben cumplir con requisitos específicos, como conservar comprobantes fiscales y presentar avisos al SAT.",
   "preguntas_ejemplo": [
     "¿Qué es el Régimen de Incorporación Fiscal?",
-    "¿Cómo funcionan las retenciones en el RIF?",
-    "¿Qué ingresos tengo que reportar si estoy en el RIF?",
-    "¿Qué deducciones no puedo hacer en el RIF?",
-    "¿Cómo presento mi aviso al SAT si me registro en el RIF?",
-    "¿Qué comprobantes necesito si uso plataformas digitales para mis ingresos?"
+    "¿Qué ingresos se pueden considerar como pagos definitivos?",
+    "¿Cómo se opta por el RIF?",
+    "¿Qué comprobantes necesito tener si uso plataformas digitales?",
+    "¿Puedo cambiar de régimen si mis ingresos aumentan?"
   ]
 }

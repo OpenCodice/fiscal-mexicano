@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:20459607fd0ad654",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
   "temas": [
-    "obligaciones contables",
+    "obligaciones fiscales",
+    "sistemas contables",
     "comprobantes fiscales",
     "declaración anual",
     "remanente distribuible",
-    "retención de impuestos",
-    "sindicatos",
-    "partidos políticos",
-    "fideicomisos"
+    "retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "Personas Morales No Lucrativas",
-    "PMNL",
-    "Régimen de PMNL",
-    "obligaciones fiscales de ONGs"
+    "personas morales sin fines de lucro",
+    "ONGs",
+    "asociaciones civiles",
+    "fundaciones",
+    "comprobantes",
+    "declaración de impuestos"
   ],
-  "resumen": "Este régimen establece las obligaciones fiscales que deben cumplir las personas morales con fines no lucrativos, incluyendo llevar contabilidad, expedir comprobantes fiscales y presentar una declaración anual sobre sus ingresos y erogaciones. También detalla ciertas exenciones para sindicatos y otras entidades.",
+  "resumen": "Este artículo establece las obligaciones que deben cumplir las personas morales con fines no lucrativos, incluyendo llevar sistemas contables, expedir comprobantes fiscales y presentar una declaración anual sobre sus ingresos y erogaciones. También señala excepciones para algunas organizaciones y menciona la obligación de retener impuestos en ciertos casos.",
   "preguntas_ejemplo": [
     "¿Cuáles son las obligaciones fiscales para una ONG?",
-    "¿Cómo debo llevar la contabilidad si soy una persona moral no lucrativa?",
-    "¿Qué es el remanente distribuible en este régimen?",
-    "¿Los sindicatos están obligados a emitir comprobantes fiscales?",
-    "¿Qué deben hacer los partidos políticos en relación con los impuestos?",
-    "¿Qué información debo incluir en la declaración anual?"
+    "¿Qué debe incluir la declaración anual de una asociación civil?",
+    "¿Las fundaciones tienen que expedir comprobantes fiscales?",
+    "¿Qué es el remanente distribuible?",
+    "¿Qué obligaciones tienen los partidos políticos en este régimen?"
   ]
 }

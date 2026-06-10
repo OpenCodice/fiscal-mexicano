@@ -6,28 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5332350c44ce5b56",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos por adquisición de bienes",
   "temas": [
     "pago provisional",
+    "impuesto anual",
     "tasa del 20%",
-    "declaración de impuestos",
-    "notarios y fedatarios"
+    "declaración ante oficinas autorizadas",
+    "escritura pública",
+    "avalúo",
+    "comprobante fiscal",
+    "notarios y fedatarios",
+    "Código Fiscal de la Federación"
   ],
   "terminos_coloquiales": [
-    "impuestos sobre bienes",
-    "pago de impuestos sobre la venta",
+    "impuesto por venta de bienes",
     "declaración de ingresos",
-    "LISR",
-    "ingresos por compra-venta"
+    "pago de impuestos",
+    "comprobante fiscal",
+    "evaluación de propiedades",
+    "notario",
+    "20% de impuestos"
   ],
-  "resumen": "Los contribuyentes que obtengan ingresos por la adquisición de bienes deben hacer un pago provisional del 20% sobre el ingreso recibido. Este pago se realiza a través de una declaración que se presenta dentro de los 15 días siguientes a la obtención del ingreso.",
+  "resumen": "Los contribuyentes que obtienen ingresos por adquisición de bienes deben pagar un impuesto provisional del 20% sin deducciones. Este pago se realiza a través de una declaración que se presenta ante oficinas autorizadas dentro de los 15 días siguientes a recibir el ingreso.",
   "preguntas_ejemplo": [
-    "¿Cuánto debo pagar de impuestos por la venta de un bien?",
-    "¿Cómo se calcula el impuesto sobre la adquisición de bienes?",
-    "¿Qué plazo tengo para declarar los ingresos por venta?",
-    "¿Qué debe incluir un notario en el comprobante fiscal?",
-    "¿Qué es el pago provisional del 20%?"
+    "¿Cómo hago el pago provisional de impuestos por venta de un bien?",
+    "¿Qué porcentaje de impuesto debo pagar por la venta de un inmueble?",
+    "¿Cuánto tiempo tengo para presentar la declaración de ingresos por bienes vendidos?",
+    "¿Qué hacer si el ingreso se establece mediante un avalúo?",
+    "¿Qué información deben presentar los notarios sobre las operaciones realizadas?"
   ]
 }

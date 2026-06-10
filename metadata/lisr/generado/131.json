@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a8c79c2dee7bdb35",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por ingresos de bienes",
+  "denominacion_comun": "Deducciones por adquisición de bienes",
   "temas": [
-    "deducciones fiscales",
-    "ingresos por adquisición de bienes",
+    "ingresos",
+    "deducciones",
+    "contribuciones",
     "gastos notariales",
-    "contribuciones fiscales",
-    "juicios de adquisición",
+    "juicios",
     "avalúos",
-    "comisiones y mediaciones"
+    "comisiones",
+    "mediaciones"
   ],
   "terminos_coloquiales": [
-    "deducciones por compra de bienes",
-    "ingresos por venta de bienes",
-    "gastos deducibles",
-    "impuesto anual sobre ingresos"
+    "deducciones de impuestos",
+    "gastos de compra",
+    "impuestos locales",
+    "notarios",
+    "gastos de juicio",
+    "avalúos",
+    "comisiones de compra"
   ],
-  "resumen": "Las personas físicas pueden deducir ciertos gastos al calcular su impuesto anual por ingresos por adquisición de bienes. Estos gastos incluyen contribuciones, gastos notariales y comisiones, entre otros.",
+  "resumen": "Las personas físicas que ganen dinero por la compra de bienes pueden deducir ciertos gastos para calcular su impuesto anual. Esto incluye impuestos locales, gastos notariales, gastos por juicios y comisiones pagadas.",
   "preguntas_ejemplo": [
-    "¿Qué gastos puedo deducir si vendo una propiedad?",
-    "¿Cuáles son las deducciones fiscales para ingresos por adquisición de bienes?",
-    "¿Puedo deducir los gastos notariales al adquirir un bien?",
-    "¿Qué tipo de comisiones son deducibles al vender un bien?",
-    "¿Qué gastos son considerados para deducción en juicios de adquisición?"
+    "¿Qué deducciones puedo hacer si compro un bien?",
+    "¿Puedo restar los gastos notariales de mis ingresos?",
+    "¿Qué otros gastos son deducibles al adquirir un bien?",
+    "¿Los impuestos que pago al comprar un bien son deducibles?",
+    "¿Qué comisiones puedo deducir al realizar una compra?"
   ]
 }

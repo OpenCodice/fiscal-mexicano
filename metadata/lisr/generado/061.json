@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1489846391d17521",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
     "sociedades integradas",
+    "acciones con derecho a voto",
     "sociedad integradora",
-    "tenencia de acciones",
-    "acciones con derecho a voto"
+    "tenencia indirecta"
   ],
   "terminos_coloquiales": [
-    "grupo de sociedades",
-    "sociedades integradoras"
+    "grupos de sociedades",
+    "sociedades integradas",
+    "acciones",
+    "sociedad madre"
   ],
-  "resumen": "Este artículo define las sociedades integradas, las cuales son aquellas donde más del 80% de las acciones con derecho a voto son propiedad de una sociedad integradora, ya sea directamente o a través de otras sociedades.",
+  "resumen": "Este artículo define qué se entiende por sociedades integradas en el contexto del régimen opcional para grupos de sociedades. Además, establece que más del 80% de las acciones con derecho a voto deben ser propiedad de una sociedad integradora, ya sea de forma directa o indirecta.",
   "preguntas_ejemplo": [
-    "¿Qué es una sociedad integrada según la ley fiscal?",
-    "¿Cómo se determina si una sociedad es integradora?",
-    "¿Qué significa tenencia indirecta de acciones?",
-    "¿Qué proporción de acciones con derecho a voto debe tener una sociedad integradora?",
-    "¿Las sociedades pueden ser consideradas integradas a través de otras sociedades?"
+    "¿Qué son las sociedades integradas?",
+    "¿Cómo se determina la propiedad de acciones en un grupo de sociedades?",
+    "¿Qué es una sociedad integradora?",
+    "¿Qué significa la tenencia indirecta de acciones?",
+    "¿Cuánto porcentaje de acciones se necesita para calificar como sociedad integrada?"
   ]
 }

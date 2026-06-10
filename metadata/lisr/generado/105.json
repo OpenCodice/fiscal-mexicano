@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee81b6235d153383",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones Autorizadas",
+  "denominacion_comun": "Deducciones autorizadas",
   "temas": [
-    "Erogaciones efectivas",
-    "Requisitos de deducción",
-    "Inversiones",
-    "Primas de seguros",
-    "Pagos a plazos",
-    "Comprobantes fiscales"
+    "requisitos de deducción",
+    "pagos efectivamente erogados",
+    "inversiones deducibles",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
     "deducciones",
     "gastos deducibles",
-    "gastos necesarios",
-    "LISR"
+    "pagar con cheque",
+    "inversión en bienes"
   ],
-  "resumen": "El artículo establece que las deducciones autorizadas deben ser efectivamente erogadas, indispensables para obtener ingresos, y cumplir con requisitos específicos. También menciona cómo y cuándo se pueden deducir inversiones y gastos relacionados con seguros.",
+  "resumen": "El artículo establece los requisitos que deben cumplirse para que las deducciones sean autorizadas, incluyendo que los pagos sean efectivamente erogados y que sean indispensables para obtener ingresos. También regula cómo y cuándo se deben considerar ciertas inversiones como deducibles.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para hacer deducciones fiscales?",
-    "¿Qué gastos son considerados deducibles?",
-    "¿Cómo se deducen las inversiones en el ejercicio?",
-    "¿Qué hacer si pago mis gastos a plazos?",
-    "¿Cómo afecta el tipo de comprobante fiscal a las deducciones?"
+    "¿Qué requisitos debo cumplir para deducir mis gastos?",
+    "¿Cuándo se considera que un pago es efectivamente erogado?",
+    "¿Cómo deduzco mis inversiones en el siguiente ejercicio?",
+    "¿Qué tipo de comprobantes fiscales necesito para mis deducciones?",
+    "¿Puedo deducir gastos si hice el pago a plazos?"
   ]
 }

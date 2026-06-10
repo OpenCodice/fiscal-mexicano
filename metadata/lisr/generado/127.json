@@ -6,34 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7ca57fa838ba0283",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre enajenación de bienes",
+  "denominacion_comun": "Impuesto por Enajenación de Bienes",
   "temas": [
-    "enajenación de terrenos",
+    "terrenos",
     "construcciones",
-    "ganancia obtenida",
-    "impuesto del 5%",
+    "ganancia",
+    "tasa del 5%",
     "declaración",
-    "entidad federativa",
-    "comprobante fiscal",
-    "opciones fiscales"
+    "impuesto acreditable",
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "pago por enajenación",
-    "impuesto por venta de terrenos",
-    "tasa del 5%",
-    "ISR enajenación",
-    "ISR 5%",
-    "pago provisional"
+    "venta de propiedades",
+    "ganancia por venta de terreno",
+    "impuesto por venta de inmuebles",
+    "impuesto sobre la ganancia de la venta",
+    "IETU"
   ],
-  "resumen": "Los contribuyentes que enajenen terrenos o construcciones deben pagar un impuesto del 5% sobre la ganancia obtenida. Este impuesto se debe declarar y pagar en la entidad federativa donde esté ubicado el inmueble.",
+  "resumen": "El artículo establece que al enajenar terrenos o construcciones, los contribuyentes deben pagar un impuesto del 5% sobre la ganancia obtenida. Este impuesto puede ser acreditable contra pagos provisionales del mismo tipo de operación y debe ser declarado ante las oficinas de la entidad federativa donde se ubique el inmueble.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por venta de un terreno?",
-    "¿Qué tasa se aplica al enajenar un inmueble?",
-    "¿Dónde se presenta la declaración del impuesto por enajenación de bienes?",
-    "¿Qué ocurre si el impuesto pagado excede el pago provisional?",
-    "¿Los notarios son responsables del cálculo del impuesto por enajenación?",
-    "¿El impuesto del 5% es acreditable contra otros impuestos?"
+    "¿Qué impuestos debo pagar si vendo un terreno?",
+    "¿Cómo se calcula el impuesto por la venta de un inmueble?",
+    "¿Puedo acreditar el impuesto pagado por la venta de bienes?",
+    "¿Qué tasa de impuesto se aplica a la ganancia de la venta de propiedades?",
+    "¿Dónde presento la declaración por la enajenación de bienes?",
+    "¿Qué es el comprobante fiscal en la venta de terrenos?"
   ]
 }

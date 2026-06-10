@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52736cda6d9c3015",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
     "impuesto sobre la renta",
+    "sociedades",
     "opción fiscal",
-    "enterar impuesto diferido",
-    "declaración anual"
+    "declaración",
+    "pago diferido"
   ],
   "terminos_coloquiales": [
-    "opción para grupos de sociedades",
+    "pagar impuestos",
     "impuesto diferido",
-    "Régimen Opcional",
-    "ROGOS"
+    "declaración de impuestos",
+    "impuesto sobre la renta (ISR)"
   ],
-  "resumen": "Las sociedades que elijan el régimen opcional deben pagar el impuesto sobre la renta diferido en la fecha de su declaración anual del ejercicio siguiente. Este impuesto debe actualizarse desde el mes en que debió pagarse hasta la presentación de la declaración.",
+  "resumen": "Las sociedades que eligen este régimen deben pagar el impuesto sobre la renta diferido en la fecha de su declaración al año siguiente, después de un período de tres ejercicios. Este impuesto debe ser actualizado desde el momento en que debió haberse pagado hasta la fecha de la declaración.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo pagar el impuesto sobre la renta diferido?",
-    "¿Qué significa optar por el régimen opcional para grupos de sociedades?",
-    "¿Cómo se calcula el impuesto diferido en este régimen?",
-    "¿Qué fechas debo considerar para mi declaración?",
-    "¿Qué sucede si no enteramos el impuesto diferido a tiempo?"
+    "¿Cuándo debo pagar el impuesto sobre la renta si elijo este régimen?",
+    "¿Qué es el impuesto diferido en el régimen de sociedades?",
+    "¿Cómo actualizo el impuesto sobre la renta diferido?",
+    "¿Qué declaración debo presentar después de optar por este régimen?"
   ]
 }

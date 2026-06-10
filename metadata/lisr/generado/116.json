@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:08292b9960f16904",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por arrendamiento",
+  "denominacion_comun": "Ingreso por arrendamiento",
   "temas": [
     "pagos provisionales",
-    "deducciones",
-    "arrendamiento",
     "subarrendamiento",
-    "retención de impuestos",
+    "retenciones",
+    "deducciones",
     "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "impuestos por rentas",
-    "pago de arrendamiento",
-    "retención de arrendamiento",
-    "LISR",
-    "ingresos por alquiler"
+    "renta",
+    "arriendo",
+    "declaración de impuestos",
+    "pago de impuesto sobre la renta",
+    "IRPF"
   ],
-  "resumen": "Los contribuyentes que obtienen ingresos por el uso de bienes inmuebles deben realizar pagos provisionales mensuales o trimestrales. Estos pagos se determinan restando las deducciones de los ingresos obtenidos del mes o trimestre correspondiente.",
+  "resumen": "Este artículo regula cómo los contribuyentes que obtienen ingresos por el arrendamiento de bienes inmuebles realizan sus pagos provisionales de impuestos. Se especifican deducciones permitidas y las obligaciones de retención para contribuyentes que son personas morales.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo mis pagos provisionales por arrendamiento?",
-    "¿Qué deducciones puedo aplicar en mis ingresos por arrendamiento?",
-    "¿Qué debo hacer si mis ingresos por rentas son bajos?",
-    "¿Cómo se realiza la retención de impuestos en el arrendamiento?",
-    "¿Qué comprobantes fiscales necesito para mis ingresos por arrendamiento?"
+    "¿Cómo debo declarar mis ingresos por renta?",
+    "¿Cuándo tengo que hacer el pago provisional si alquilo un inmueble?",
+    "¿Qué deducciones puedo hacer en mis ingresos por arrendamiento?",
+    "¿Qué porcentaje debo retener si una persona moral paga la renta?",
+    "¿Qué requisitos debe cumplir un comprobante fiscal por arrendamiento?"
   ]
 }

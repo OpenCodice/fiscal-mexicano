@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f081231ecfaeee87",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos y su tratamiento fiscal",
+  "denominacion_comun": "Fideicomisos",
   "temas": [
-    "fideicomisos",
-    "resultados fiscales",
-    "pérdidas fiscales",
+    "resultado fiscal",
+    "pérdida fiscal",
     "obligaciones fiscales",
-    "declaración de impuestos",
-    "reembolsos de capital",
-    "cuenta de capital de aportación"
+    "comprobantes fiscales",
+    "cuentas de capital",
+    "pagos provisionales",
+    "aportes al fideicomiso",
+    "declaraciones fiscales"
   ],
   "terminos_coloquiales": [
     "fideicomiso",
-    "RF para fideicomisos",
-    "pérdidas fiscales en fideicomiso",
-    "resultados de fideicomisos",
-    "obligaciones de fideicomisos"
+    "ingresos por fideicomiso",
+    "deducciones fiscales",
+    "reembolso de capital",
+    "pérdida fiscal por fideicomiso",
+    "RIF",
+    "declaración anual"
   ],
-  "resumen": "El artículo establece cómo se determinan los resultados y pérdidas fiscales de las actividades empresariales realizadas a través de un fideicomiso. La fiduciaria tiene la responsabilidad de cumplir con las obligaciones fiscales y de expedir comprobantes a los fideicomisarios sobre los ingresos y retenciones. Además, se detallan las reglas para la acumulación de ingresos y deducción de pérdidas fiscales por parte de los fideicomisarios.",
+  "resumen": "Este artículo establece cómo se determinan y reportan las utilidades o pérdidas fiscales derivadas de actividades empresariales realizadas a través de un fideicomiso. La fiduciaria tiene la responsabilidad de cumplir con las obligaciones fiscales y expedir comprobantes a los fideicomisarios. Además, se regula la manera en que los fideicomisarios acumulan ingresos y deducen pérdidas fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan las pérdidas fiscales en un fideicomiso?",
-    "¿Qué obligaciones fiscales tiene un fideicomiso?",
-    "¿Los fideicomisarios reciben comprobantes de ingresos?",
-    "¿Cómo acumulan los fideicomisarios sus ingresos?",
-    "¿Qué sucede con las pérdidas fiscales al extinguirse un fideicomiso?"
+    "¿Cómo se calcula el resultado fiscal de un fideicomiso?",
+    "¿Qué obligaciones fiscales tiene la fiduciaria en un fideicomiso?",
+    "¿Cómo se manejan las pérdidas fiscales en un fideicomiso?",
+    "¿Qué comprobantes debo recibir si soy fideicomisario?",
+    "¿Cómo se reportan los ingresos de un fideicomiso en mi declaración?",
+    "¿Qué pasa si el fideicomiso no tiene fideicomisarios identificables?"
   ]
 }

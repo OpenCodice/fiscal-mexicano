@@ -6,33 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5975d481b43d13ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de Deducciones para Personas Físicas",
+  "denominacion_comun": "Requisitos para deducciones de personas físicas",
   "temas": [
     "deducciones autorizadas",
     "comprobantes fiscales",
     "contabilidad",
+    "ingresos",
     "pago de impuestos",
-    "primas de seguros",
-    "inversiones",
+    "contratos de arrendamiento",
+    "seguro",
     "pérdidas cambiarias",
     "importación de bienes"
   ],
   "terminos_coloquiales": [
-    "requisitos de deducción",
-    "deducciones de personas físicas",
-    "deducciones fiscales",
-    "LISR",
-    "comprobante fiscal"
+    "deducción de impuestos",
+    "comprobante fiscal",
+    "facturas",
+    "gastos deducibles",
+    "cortarle al SAT",
+    "recibos",
+    "recibo de nómina",
+    "pago de salario"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir las deducciones autorizadas para las personas físicas que obtienen ingresos, como ser indispensables para generar ingresos, estar debidamente registradas y respaldadas por comprobantes fiscales. También se detallan condiciones específicas sobre pagos y erogaciones.",
+  "resumen": "El artículo establece los requisitos que deben cumplir las deducciones autorizadas para las personas físicas, las cuales incluyen ser indispensables para obtener ingresos, estar respaldadas por comprobantes fiscales y cumplir con normativas contables y fiscales. Además, se especifica que los pagos deben ser efectivamente erogados y documentados de manera adecuada.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para deducir gastos si soy persona física?",
-    "¿Qué comprobantes necesito para deducir mis ingresos?",
-    "¿Cómo debo registrar mis deducciones en contabilidad?",
-    "¿Qué pagos pueden ser deducibles?",
-    "¿Es necesario hacer las deducciones mediante transferencia bancaria?",
-    "¿Puedo deducir primas de seguros?"
+    "¿Cuáles son los requisitos para deducir mis gastos?",
+    "¿Qué tipos de comprobantes fiscales necesito para mis deducciones?",
+    "¿Qué significa que un gasto sea estrictamente indispensable?",
+    "¿Cómo debo pagar para que mis deducciones sean válidas?",
+    "¿Qué pasa si no tengo un comprobante fiscal?",
+    "¿Se pueden deducir los pagos de seguros?"
   ]
 }

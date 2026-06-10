@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c1315169e1dd0ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Premios y Retenciones",
+  "denominacion_comun": "Premios y retenciones",
   "temas": [
     "obligaciones de retención",
     "comprobantes fiscales",
-    "constancia de ingreso",
+    "constancias de ingreso",
+    "premios",
+    "impuesto sobre la renta",
     "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "retenciones por premios",
-    "comprobantes de premios",
-    "premios exentos",
-    "impuesto sobre premios"
+    "premios",
+    "impuesto sobre premios",
+    "retenciones",
+    "comprobante fiscal",
+    "constancia de ingresos"
   ],
-  "resumen": "Las personas que entregan premios deben retener impuesto y proporcionar comprobantes fiscales a los ganadores. También deben conservar la documentación relacionada con estas operaciones.",
+  "resumen": "Las personas que entreguen premios deben cumplir con ciertas obligaciones fiscales, como proporcionar comprobantes que reflejen el monto y el impuesto retenido. También deben conservar la documentación relacionada con estos pagos y las retenciones de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer al entregar un premio?",
-    "¿Cómo emitir un comprobante fiscal por un premio?",
-    "¿Qué documentación debo conservar al dar premios?",
-    "¿Cuáles son mis obligaciones fiscales al entregar premios?",
-    "¿Qué premios están exentos de impuestos?"
+    "¿Qué debo hacer si entrego un premio y tengo que retener impuestos?",
+    "¿Qué tipo de comprobante debo dar al ganador de un premio?",
+    "¿Estoy obligado a pagar impuestos por premios que entrego?",
+    "¿Cuánto tiempo debo conservar la documentación de los premios entregados?",
+    "¿Qué retenciones de impuestos se deben hacer al entregar premios?"
   ]
 }

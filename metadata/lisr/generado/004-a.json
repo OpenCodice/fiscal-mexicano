@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fefb56947eaab67",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entidades Extranjeras Transparentes Fiscales",
+  "denominacion_comun": "Entidades extranjeras transparentes y figuras jurídicas extranjeras",
   "temas": [
     "impuesto sobre la renta",
     "residencia fiscal",
     "entidades extranjeras",
     "figuras jurídicas extranjeras",
     "transparencia fiscal",
-    "personalidad jurídica"
+    "trato fiscal",
+    "doble imposición"
   ],
   "terminos_coloquiales": [
-    "transparentes fiscales",
-    "sociedades extranjeras",
-    "fideicomisos extranjeros",
-    "asociaciones extranjeras"
+    "entidades extranjeras",
+    "figuras jurídicas extranjeras",
+    "residentes fiscales",
+    "impuesto sobre la renta"
   ],
-  "resumen": "Las entidades y figuras jurídicas extranjeras que no son residentes fiscales en su país de origen tributan como personas morales en México. Se consideran transparentes fiscales si sus ingresos son atribuidos a sus miembros y no son residentes en el país donde están constituidas.",
+  "resumen": "Las entidades extranjeras y figuras jurídicas extranjeras tributarán como personas morales en México y estarán obligadas al pago del impuesto sobre la renta si son consideradas residentes fiscales. Los ingresos de estas entidades se atribuyen a sus miembros o beneficiarios, a menos que se trate de tratados para evitar la doble imposición.",
   "preguntas_ejemplo": [
-    "¿Qué son las entidades extranjeras transparentes fiscales?",
-    "¿Cómo tributan las figuras jurídicas extranjeras en México?",
-    "¿Cuáles son los requisitos para que una entidad se considere residente fiscal?",
-    "¿Qué implica ser considerado transparente fiscal en el impuesto sobre la renta?",
-    "¿Qué pasa si una entidad extranjera se considera residente en México?",
-    "¿Los tratados para evitar la doble imposición afectan a estas entidades?"
+    "¿Qué son las entidades extranjeras transparentes?",
+    "¿Cómo se determina la residencia fiscal de una figura jurídica extranjera?",
+    "¿Qué obligaciones fiscales tienen las entidades extranjeras en México?",
+    "¿Qué implica ser considerado residente fiscal en México?",
+    "¿Las entidades extranjeras siempre tributan en México?",
+    "¿Cómo afectan los tratados de doble imposición a las entidades extranjeras?"
   ]
 }

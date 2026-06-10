@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e3ae89e8036425d2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sociedades Cooperativas de Producción",
   "temas": [
     "opción fiscal",
-    "impuestos",
+    "impuesto",
     "reglamento",
-    "cambio de régimen"
+    "ejercicios fiscales",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "sociedades cooperativas",
-    "impuestos de las cooperativas"
+    "cooperativas",
+    "cooperativas de producción",
+    "impuesto de sociedades",
+    "opción fiscal"
   ],
-  "resumen": "Las sociedades cooperativas de producción que deciden aplicar esta legislación no pueden cambiar su opción en ejercicios posteriores, a menos que cumplan con ciertos requisitos. Si dejan de pagar el impuesto correspondiente, no podrán volver a tributar bajo este capítulo.",
+  "resumen": "Las sociedades cooperativas de producción que eligen este régimen no pueden cambiar su decisión en años posteriores, excepto si cumplen con ciertos requisitos del reglamento. Si dejan de pagar el impuesto de esta manera, no podrán volver a tributar bajo este régimen.",
   "preguntas_ejemplo": [
-    "¿Pueden las cooperativas cambiar su régimen fiscal en el futuro?",
-    "¿Qué pasa si una sociedad cooperativa deja de pagar impuestos?",
-    "¿Cuáles son los requisitos para cambiar de opción fiscal en cooperativas?",
-    "¿Cómo afecta el reglamento a las sociedades cooperativas de producción?"
+    "¿Qué son las sociedades cooperativas de producción?",
+    "¿Pueden las cooperativas cambiar su opción fiscal después de un año?",
+    "¿Qué sucede si una cooperativa deja de pagar el impuesto?",
+    "¿Cuáles son los requisitos para las sociedades cooperativas que desean optar por este régimen?",
+    "¿Qué implica optar por el régimen de sociedades cooperativas de producción?"
   ]
 }

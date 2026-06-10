@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:baf9c4561589a47e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre intereses de instituciones de crédito en el extranjero",
   "temas": [
     "impuesto sobre la renta",
-    "intereses",
     "retención",
+    "intereses",
+    "establecimientos en el extranjero",
     "instituciones de crédito",
-    "acreditamiento"
+    "acreditamiento",
+    "declaración del ejercicio"
   ],
   "terminos_coloquiales": [
     "impuesto sobre intereses",
-    "retención de impuestos",
-    "intereses extranjeros",
-    "ISR por intereses",
-    "ISR"
+    "retención de intereses",
+    "créditos en el extranjero",
+    "intereses acumulados",
+    "ISR",
+    "declaración de ISR"
   ],
-  "resumen": "Las instituciones de crédito en el extranjero deben pagar un impuesto del 4.9% sobre los intereses que perciban. Este impuesto se retiene en el momento del pago de los intereses y puede ser acreditado en su declaración del ejercicio, siempre que cuenten con la constancia de retención.",
+  "resumen": "Las instituciones de crédito en el extranjero deben pagar un impuesto del 4.9% sobre los intereses que generen en México. Este impuesto se retiene al momento del pago de los intereses y puede ser acreditado en la declaración anual si se cuenta con la constancia correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué impuesto deben pagar las instituciones de crédito extranjeras?",
-    "¿Cómo se retiene el impuesto por intereses de instituciones de crédito?",
-    "¿Pueden las instituciones de crédito acreditar la retención de impuestos?",
+    "¿Qué impuestos deben pagar las instituciones de crédito en el extranjero?",
+    "¿Cómo se realiza la retención del impuesto sobre intereses?",
+    "¿Se puede acreditar el impuesto sobre la renta pagado por intereses?",
     "¿Qué sucede si no se pagan los intereses a tiempo?",
-    "¿Qué se entiende por intereses no sujetos a impuesto según el artículo 166?"
+    "¿Los intereses cubiertos por el establecimiento en el extranjero se consideran interés?"
   ]
 }

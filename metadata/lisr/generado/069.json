@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:176858287942f802",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
-    "desincorporación",
+    "sociedades integradoras",
     "impuesto diferido",
     "fusión de sociedades",
-    "escisión parcial",
-    "escisión total",
-    "avisos al SAT",
-    "requisitos para integración"
+    "escisión de sociedades",
+    "requisitos para ser integradora"
   ],
   "terminos_coloquiales": [
-    "Régimen Opcional",
-    "Grupo de Sociedades",
+    "grupo de sociedades",
     "impuesto diferido",
-    "desincorporación de sociedades",
     "fusión",
-    "escisión"
+    "escisión",
+    "SAT"
   ],
-  "resumen": "Este artículo establece las obligaciones fiscales de las sociedades que forman parte de un grupo cuando dejan de aplicar el régimen opcional. Incluye la obligación de desincorporarse y pagar el impuesto diferido que se haya acumulado. Además, regula lo que ocurre en casos de fusión o escisión de sociedades dentro del grupo.",
+  "resumen": "Este artículo establece que cuando una sociedad del grupo deja de cumplir los requisitos para ser considerada integradora, debe desincorporarse y pagar el impuesto diferido en el mes siguiente. Además, contempla las obligaciones en caso de fusión o escisión de la sociedad integradora.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una sociedad del grupo deja de ser integradora?",
-    "¿Cómo se paga el impuesto diferido en caso de fusión?",
-    "¿Cuáles son las obligaciones en una escisión de la sociedad integradora?",
-    "¿Qué avisos deben presentar las sociedades ante el SAT?",
-    "¿Qué ocurre si una sociedad ya no cumple con los requisitos del régimen opcional?"
+    "¿Qué pasa si la sociedad integradora deja de cumplir los requisitos?",
+    "¿Cómo se calcula el impuesto diferido en una fusión?",
+    "¿Qué obligaciones tienen las sociedades escindidas respecto al impuesto diferido?",
+    "¿Cuándo deben presentar avisos al SAT las sociedades del grupo?",
+    "¿Qué sucede si una sociedad se integra o desintegra?"
   ]
 }

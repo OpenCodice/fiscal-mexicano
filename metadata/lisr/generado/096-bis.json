@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4df96c5c8b6ae132",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuestos sobre Pagos de Jubilación",
+  "denominacion_comun": "Retención de impuesto para pagos a personas físicas",
   "temas": [
     "retención de impuestos",
-    "pago de jubilación",
-    "subcuentas de retiro",
-    "impuesto sobre la renta",
-    "comprobantes fiscales"
+    "subcuenta de seguro de retiro",
+    "materiales para el retiro",
+    "cesantía en edad avanzada",
+    "vejez",
+    "comprobante fiscal",
+    "pago definitivo"
   ],
   "terminos_coloquiales": [
-    "retención de ISR",
-    "pago de pensiones",
-    "impuesto sobre jubilación",
-    "ISR de pensiones"
+    "impuesto sobre pagos",
+    "pago a empleados",
+    "retención para jubilados",
+    "retención de pensiones",
+    "ISR",
+    "Ley del Seguro Social",
+    "Ley del ISSSTE"
   ],
-  "resumen": "Este artículo establece el procedimiento para la retención del impuesto sobre la renta a realizar por personas morales al pagar a personas físicas por su jubilación. La retención se basa en el monto recibido y se debe hacer en un plazo determinado, además de expedir un comprobante fiscal.",
+  "resumen": "Este artículo establece cómo las personas morales deben retener y enterar el impuesto sobre los pagos que realicen a personas físicas por conceptos relacionados con su retiro y pensiones. Se detallan los cálculos y el porcentaje a retener así como el plazo para realizar el entero y expedir el comprobante fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la retención de impuestos sobre mi jubilación?",
-    "¿Qué porcentaje me retienen al cobrar mis ahorros para el retiro?",
-    "¿Qué pasos siguen las empresas para retener impuestos en pagos de pensiones?",
-    "¿Debo recibir un comprobante fiscal por la retención de impuestos de mi pensión?",
-    "¿Qué sucede si solo tengo ingresos por jubilación en un año?"
+    "¿Cómo se calcula la retención de impuestos sobre mi pensión?",
+    "¿Qué porcentaje debo retener de los pagos por seguro de retiro?",
+    "¿Cuál es el plazo para enterar la retención de impuestos?",
+    "¿Qué comprobante debo emitir al realizar un pago con retención de impuestos?",
+    "¿Qué sucede si solo obtengo ingresos de estas retenciones durante el año?"
   ]
 }

@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4eb2bcea7f1cde7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción del Costo de lo Vendido en Arrendamiento Financiero",
+  "denominacion_comun": "Deducción del costo de lo vendido en arrendamiento financiero",
   "temas": [
     "arrendamiento financiero",
-    "ingresos del ejercicio",
-    "deducción de costos",
-    "pago por mercancías"
+    "deducción",
+    "ingreso del ejercicio",
+    "costo de lo vendido",
+    "contratos",
+    "pagos pactados"
   ],
   "terminos_coloquiales": [
-    "deducción de costos en arrendamiento",
-    "ingresos acumulados",
-    "LISR",
-    "contratos de arrendamiento"
+    "deducción del costo",
+    "arrendamiento",
+    "contratos de renta",
+    "ingreso anual"
   ],
-  "resumen": "Los contribuyentes que tengan contratos de arrendamiento financiero pueden deducir el costo de lo vendido proporcionalmente al ingreso que reciban en el ejercicio, en vez de hacerlo al momento de vender las mercancías.",
+  "resumen": "Los contribuyentes que tienen contratos de arrendamiento financiero deben deducir el costo de lo vendido de manera proporcional al ingreso que reciben durante el ejercicio, en lugar de deducir el total al momento de vender las mercancías.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco el costo de lo vendido si tengo arrendamientos?",
-    "¿Qué debo considerar para declarar ingresos en arrendamiento financiero?",
-    "¿Es posible deducir el costo total de mercancías al arrendar?",
-    "¿Qué proporción del costo se deduce en un contrato de arrendamiento?",
-    "¿Cómo se calcula la deducción en arrendamiento financiero?"
+    "¿Cómo deduzco el costo de lo vendido si tengo contratos de arrendamiento financiero?",
+    "¿Qué se considera ingreso del ejercicio en arrendamiento financiero?",
+    "¿Puedo deducir todo el costo de lo vendido al momento de la venta en arrendamiento?",
+    "¿Cómo se calcula la deducción del costo de lo vendido en arrendamiento financiero?",
+    "¿Qué proporción del ingreso se debe considerar para la deducción?"
   ]
 }

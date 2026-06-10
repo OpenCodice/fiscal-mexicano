@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0556a4e42ebb90d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Utilidad distribuida por reducción de capital",
   "temas": [
+    "personas morales",
     "reducción de capital",
     "utilidad distribuida",
+    "cuenta de capital de aportación",
     "impuesto sobre la renta",
-    "capital de aportación",
-    "sociedades",
-    "cuenta de utilidad fiscal neta"
+    "escisión de sociedades",
+    "reembolso por acción",
+    "capital contable"
   ],
   "terminos_coloquiales": [
-    "reducción de capital",
-    "utilidad distribuida",
+    "reembolso de acciones",
+    "disminución de capital",
+    "impuesto a la utilidad",
     "ISR",
-    "capital de aportación"
+    "compra de acciones propias"
   ],
-  "resumen": "Este artículo trata sobre cómo las personas morales en México deben determinar la utilidad distribuida cuando reducen su capital, ya sea por reembolso de acciones o por otros conceptos relacionados. Se establece cómo calcular el impuesto correspondiente y las condiciones en que esto aplica.",
+  "resumen": "Este artículo establece cómo las personas morales residentes en México deben determinar la utilidad distribuida al reducir su capital y las obligaciones fiscales resultantes. Se describen los cálculos relacionados con la cuenta de capital de aportación y cómo se debe considerar el impuesto sobre la renta en estas operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la utilidad distribuida al reducir capital?",
-    "¿Qué es el capital de aportación y cómo se afecta en la reducción de capital?",
-    "¿Qué impuestos debo considerar al hacer una reducción de capital?",
-    "¿Cómo afecta la cuenta de utilidad fiscal neta en la reducción de capital?",
-    "¿Qué sucede si una sociedad reduce su capital y tiene acciones recompradas?"
+    "¿Cómo se calcula la utilidad distribuida al reducir el capital de una empresa?",
+    "¿Qué debo hacer si cambio el capital social de mi sociedad?",
+    "¿Qué implicaciones fiscales tiene el reembolso de acciones?",
+    "¿Cómo afecta la reducción de capital al impuesto sobre la renta de mi empresa?",
+    "¿Cuándo se considera que hay utilidad distribuida en la escisión de una sociedad?"
   ]
 }

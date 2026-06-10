@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a3ac160c75aa811",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre la Renta para Residentes en el Extranjero",
   "temas": [
-    "obligaciones fiscales",
-    "ingresos en territorio nacional",
-    "fideicomisos",
-    "retenciones de impuestos",
-    "ganancias de capital",
-    "exenciones fiscales"
+    "Ingreso de residentes en el extranjero",
+    "Impuesto sobre la renta",
+    "Establecimiento permanente",
+    "Fideicomisos",
+    "Ganancias de capital",
+    "Retenciones de impuesto"
   ],
   "terminos_coloquiales": [
-    "ISR para residentes en el extranjero",
-    "impuesto para extranjeros",
-    "retenciones de ISR",
+    "impuesto a extranjeros",
+    "pago del impuesto",
+    "ingresos a residentes fuera del país",
     "fideicomisos en México",
-    "ganancias de capital",
-    "fondos de pensiones"
+    "ganancias por enajenación",
+    "fondos de pensiones extranjeros"
   ],
-  "resumen": "Los residentes en el extranjero que obtienen ingresos en México están obligados a pagar el impuesto sobre la renta, ya sea por ingresos directos o a través de fideicomisos. Además, hay especificaciones para las retenciones y disposiciones para ingresos exentos, como los de fondos de pensiones.",
+  "resumen": "Este artículo establece que los residentes en el extranjero deben pagar el impuesto sobre la renta por ingresos obtenidos en México, incluso si no tienen un establecimiento permanente. También regula cómo se deben manejar los ingresos recibidos a través de fideicomisos y detalla las condiciones para deducciones y exenciones en ciertos casos.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos en México deben declarar los residentes en el extranjero?",
-    "¿Cómo se determina el impuesto para los fideicomisos de residentes en el extranjero?",
-    "¿Cuáles son las exenciones del ISR para fondos de pensiones extranjeros?",
-    "¿Cómo se efectúa la retención del impuesto sobre la renta para extranjeros?",
-    "¿Qué condiciones deben cumplir los extranjeros para no pagar impuesto por ganancias de capital?"
+    "¿Qué impuestos deben pagar los residentes en el extranjero por ingresos en México?",
+    "¿Cómo se calculan las retenciones del impuesto para fideicomisos?",
+    "¿Qué son las ganancias de capital y cómo se aplican a los residentes fuera del país?",
+    "¿Los fondos de pensiones extranjeros están exentos de impuestos en México?",
+    "¿Qué pasa si un extranjero obtiene ingresos por la venta de bienes en México?"
   ]
 }

@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9cad72f120bc5fb8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la Renta",
+  "denominacion_comun": "Impuesto Sobre la Renta",
   "temas": [
-    "personas físicas",
-    "personas morales",
-    "ingresos",
+    "obligación de pago",
     "residentes en México",
+    "ingresos",
     "residentes en el extranjero",
     "establecimiento permanente",
     "fuentes de riqueza"
   ],
   "terminos_coloquiales": [
     "ISR",
-    "impuesto sobre la renta",
-    "ingresos de residentes",
-    "impuesto personas físicas",
-    "impuesto personas morales"
+    "impuesto a la renta",
+    "pago de impuestos",
+    "ingresos de personas físicas",
+    "ingresos de personas morales"
   ],
-  "resumen": "El Artículo 1o. establece que tanto las personas físicas como las morales deben pagar impuesto sobre la renta bajo ciertas condiciones, como ser residentes en México o tener un establecimiento permanente en el país si son residentes en el extranjero.",
+  "resumen": "Las personas físicas y morales deben pagar el impuesto sobre la renta en varios casos, ya sea por sus ingresos en México o por ingresos de fuentes en el país si son residentes en el extranjero. Este impuesto aplica tanto para aquellos con establecimiento permanente como para aquellos sin él.",
   "preguntas_ejemplo": [
-    "¿Quiénes están obligados a pagar el ISR?",
-    "¿Qué ingresos están sujetos al impuesto sobre la renta?",
-    "¿Los extranjeros deben pagar ISR?",
+    "¿Quiénes deben pagar el ISR?",
     "¿Qué es un establecimiento permanente?",
-    "¿Qué pasa con los ingresos de fuentes nacionales para extranjeros?"
+    "¿Los residentes en el extranjero tienen que pagar impuestos en México?",
+    "¿Sobre qué ingresos aplica el impuesto sobre la renta?",
+    "¿Cuáles son las obligaciones fiscales de un residente en México?"
   ]
 }

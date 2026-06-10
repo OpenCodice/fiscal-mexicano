@@ -6,27 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7af8da89d47f9d3d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de Inversiones",
+  "denominacion_comun": "Deducciones por inversiones",
   "temas": [
     "activos fijos",
-    "deducciones fiscales",
-    "porcentajes máximos",
-    "tipos de bienes"
+    "deducciones",
+    "porcentajes de deducción",
+    "inversiones",
+    "maquinaria",
+    "vehículos",
+    "mobiliario"
   ],
   "terminos_coloquiales": [
-    "deducciones de inversiones",
-    "porcentajes de deducción",
-    "LISR",
-    "activos fijos"
+    "deducciones por activos fijos",
+    "deducción de maquinaria",
+    "deducción de vehículos",
+    "deducción de oficina",
+    "deducción de computadoras",
+    "inversiones en autos",
+    "deducción para inversiones",
+    "deducción del 100%",
+    "deducción del 25%"
   ],
-  "resumen": "El artículo establece los porcentajes máximos que se pueden deducir por distintos tipos de activos fijos en la legislación fiscal. Estos porcentajes varían dependiendo de la naturaleza del bien, como construcciones, maquinaria, vehículos, y más.",
+  "resumen": "El Artículo 34 de la LISR establece los porcentajes máximos autorizados para deducir inversiones en diferentes tipos de activos fijos. Estos porcentajes varían según el tipo de bien, como construcciones, maquinaria, vehículos y equipo de oficina.",
   "preguntas_ejemplo": [
-    "¿Cuánto se puede deducir por un inmueble patrimonial?",
-    "¿Qué porcentaje se aplica a las computadoras en las deducciones?",
-    "¿Existen deducciones especiales para energías renovables?",
-    "¿Cómo afecta el plazo de operación para deducir maquinaria?",
-    "¿Qué deducción se aplica a los vehículos de carga?"
+    "¿Qué deducciones puedo hacer por inversiones en maquinaria?",
+    "¿Cuál es el porcentaje de deducción para vehículos?",
+    "¿Puedo deducir el costo de la computadora de mi oficina?",
+    "¿Qué bienes fijos puedo deducir y cuáles son los porcentajes?",
+    "¿Cómo se aplican las deducciones por inversiones en activos fijos?"
   ]
 }

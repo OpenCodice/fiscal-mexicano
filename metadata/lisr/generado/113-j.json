@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4aac0209df377f2d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "retenciones fiscales",
-    "impuesto sobre la renta",
+    "retenciones",
+    "pago mensual",
+    "impuesto retenido",
+    "comprobante fiscal",
     "actividades empresariales",
-    "comprobantes fiscales",
-    "personas morales"
+    "uso o goce temporal de bienes"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "retención de impuestos",
-    "impuesto retenido",
-    "comprobante fiscal"
+    "retenciones de impuestos",
+    "comprobante de retención",
+    "pago de impuestos",
+    "pago de renta"
   ],
-  "resumen": "Este artículo establece que las personas morales que realicen pagos a contribuyentes del régimen simplificado de confianza deben retener un impuesto del 1.25% y entregar un comprobante fiscal. Este impuesto retenido se considera en el pago mensual de las personas físicas.",
+  "resumen": "El artículo establece que las personas morales deben retener un porcentaje de impuestos sobre los pagos realizados a contribuyentes que realicen actividades empresariales o profesionales. Este impuesto se debe enterar y se considera para el pago mensual de las personas físicas.",
   "preguntas_ejemplo": [
-    "¿Qué porcentaje de retención se aplica a los pagos a personas físicas en el RESICO?",
-    "¿Qué deben hacer las personas morales al pagar a contribuyentes del régimen simplificado?",
-    "¿Cómo se considera el impuesto retenido en el pago mensual de personas físicas?",
-    "¿Qué información debe contener el comprobante fiscal que se entrega a los contribuyentes?",
-    "¿Cuándo se debe enterar el impuesto retenido por las personas morales?"
+    "¿Cómo se hace la retención de impuestos en pagos a personas físicas?",
+    "¿Qué porcentaje deben retener las personas morales?",
+    "¿Cuándo deben entregar el comprobante fiscal por la retención?",
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Cómo afecta la retención en mi pago mensual de impuestos?"
   ]
 }

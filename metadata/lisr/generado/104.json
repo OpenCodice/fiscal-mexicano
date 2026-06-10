@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:36252d67af6ad722",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción por inversiones",
   "temas": [
-    "deducción fiscal",
+    "deducción",
     "inversiones",
-    "intereses de financiamiento",
-    "artículo 32",
-    "Sección II"
+    "por cientos de deducción",
+    "financiamiento",
+    "intereses"
   ],
   "terminos_coloquiales": [
-    "deducción de inversiones",
-    "inversiones deducibles",
-    "LISR"
+    "deducción de gastos",
+    "gastos de inversión",
+    "inversiones deducibles"
   ],
-  "resumen": "Este artículo establece cómo los contribuyentes deben determinar la deducción por inversiones, considerando el monto original de la inversión y los intereses que puedan derivarse del financiamiento. Los porcentajes de deducción se aplican sobre el monto de la inversión, aunque no se haya pagado en su totalidad.",
+  "resumen": "Este artículo establece cómo los contribuyentes pueden determinar la deducción por inversiones, aplicando las reglas correspondientes. También menciona que los porcentajes de deducción se aplican sobre el monto original de la inversión, incluso si no se ha pagado completamente en el ejercicio correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir mis inversiones en mi declaración?",
-    "¿Qué significa deducción por inversiones según la LISR?",
-    "¿Puedo deducir los intereses de un financiamiento?",
-    "¿Dónde se encuentra la información sobre deducciones de inversiones?",
-    "¿Qué inversiones son consideradas deducibles?"
+    "¿Cómo puedo deducir mis inversiones?",
+    "¿Qué son las deducciones por inversiones?",
+    "¿Puedo deducir los intereses de mis inversiones?",
+    "¿Cuánto puedo deducir por mis inversiones?",
+    "¿Qué pasa si no pago toda mi inversión en el ejercicio?"
   ]
 }

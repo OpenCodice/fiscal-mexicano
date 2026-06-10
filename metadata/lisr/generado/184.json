@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74f41d5796e0a8ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración Complementaria por Ajuste de Precios",
+  "denominacion_comun": "Ajuste de precios en tratados internacionales",
   "temas": [
-    "tratos internacionales",
-    "ajustes de precios",
+    "tratados internacionales",
+    "ajuste a precios",
     "declaración complementaria",
-    "contraprestaciones",
-    "autoridades fiscales"
+    "Autoridades Fiscales",
+    "residente en México"
   ],
   "terminos_coloquiales": [
-    "declaración por ajuste",
     "ajuste de precios",
-    "declaración complementaria"
+    "declaración de ajuste",
+    "tratados fiscales"
   ],
-  "resumen": "El artículo establece que si un tratado internacional permite un ajuste en los precios que un contribuyente de otro país realiza, y este ajuste es aceptado por las autoridades fiscales mexicanas, entonces el contribuyente en México puede presentar una declaración complementaria para reflejar dicho ajuste. Esta declaración no cuenta dentro de los límites fiscales establecidos.",
+  "resumen": "El artículo establece que un contribuyente residente en México puede presentar una declaración complementaria si se realiza un ajuste a los precios por parte de un país con el que México tiene un tratado fiscal, y dicho ajuste es aceptado por las autoridades fiscales mexicanas. Esta declaración no se considera dentro de los límites de otros artículos del Código Fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si hay un ajuste en los precios según un tratado internacional?",
-    "¿Cómo presento una declaración complementaria por un ajuste aceptado?",
-    "¿El ajuste de precios afecta mi límite fiscal?",
-    "¿Qué requisitos hay para presentar una declaración complementaria?",
-    "¿Qué sucede si un ajuste es realizado por otra autoridad fiscal?"
+    "¿Qué debo hacer si un país ajusta mis precios según un tratado fiscal?",
+    "¿Cómo presento una declaración complementaria por un ajuste de precios?",
+    "¿El ajuste de precios afecta mis límites fiscales?",
+    "¿Qué requisitos hay para que un ajuste de precios sea aceptado en México?",
+    "¿Qué es una declaración complementaria en materia fiscal?"
   ]
 }

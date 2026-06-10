@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d5efa8ad48aad264",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retención de Impuestos sobre Intereses",
   "temas": [
     "retención de impuestos",
     "intereses",
-    "instituciones financieras",
     "comprobantes fiscales",
-    "fondos de pensiones",
-    "exenciones fiscales"
+    "instituciones financieras",
+    "exenciones",
+    "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "retención de intereses",
-    "impuesto sobre intereses",
-    "LISR",
-    "Ley del ISR"
+    "retención de impuestos",
+    "intereses bancarios",
+    "comprobante fiscal",
+    "impuesto sobre intereses"
   ],
-  "resumen": "Las instituciones financieras deben retener y enterar el impuesto sobre los intereses que pagan, según lo que establezca la Ley de Ingresos. Existen excepciones donde no se aplica esta retención, como en pagos a gobiernos, partidos políticos y ciertos fondos de inversión.",
+  "resumen": "Las instituciones financieras que paguen intereses deben retener un impuesto sobre esos pagos y presentar un comprobante fiscal. Existen varias exenciones de retención para ciertos beneficiarios como gobiernos, partidos políticos y fondos de pensiones.",
   "preguntas_ejemplo": [
-    "¿Cómo se deben retener los impuestos sobre los intereses?",
-    "¿Qué instituciones deben retener impuestos sobre intereses?",
-    "¿Cuáles son las excepciones a la retención de impuestos sobre intereses?",
-    "¿Qué comprobantes fiscales se deben expedir por pagos de intereses?",
-    "¿Cuál es el plazo para enterar la retención de impuestos?"
+    "¿Quiénes están exentos de la retención de impuestos sobre intereses?",
+    "¿Cómo se lleva a cabo la retención de impuestos sobre los intereses que paga mi banco?",
+    "¿Qué tipo de comprobante fiscal necesito para los intereses que recibo?",
+    "¿Cuál es la fecha límite para enterar el impuesto retenido sobre los intereses?",
+    "¿Los fondos de pensiones tienen que pagar impuestos sobre los intereses que reciben?"
   ]
 }

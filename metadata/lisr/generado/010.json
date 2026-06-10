@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70793dba041b51fd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre Dividendos",
+  "denominacion_comun": "Impuesto sobre dividendos y utilidades",
   "temas": [
-    "dividendos",
-    "utilidades",
+    "distribución de dividendos",
     "impuesto sobre la renta",
-    "acreditamiento",
-    "pago definitivo",
+    "utilidades distribuidas",
+    "acreditamiento de impuestos",
     "cuenta de utilidad fiscal neta",
+    "pagos provisionales",
     "partes sociales",
-    "aumento de capital"
+    "acciones"
   ],
   "terminos_coloquiales": [
-    "impuesto a los dividendos",
-    "impuesto sobre utilidades",
-    "ISR sobre dividendos",
-    "dividendos gravados"
+    "impuesto de dividendos",
+    "utilidades",
+    "dividendos",
+    "acreditamientos",
+    "ISR",
+    "cuenta de utilidad fiscal neta"
   ],
-  "resumen": "Las personas morales que distribuyan dividendos deben calcular y pagar un impuesto sobre ellos. Este impuesto se considera definitivo y debe ser enterado en un plazo específico tras la distribución. Además, se pueden acreditar ciertos impuestos en ejercicios futuros.",
+  "resumen": "Las personas morales que distribuyan dividendos o utilidades deben calcular y pagar el impuesto correspondiente. Este impuesto se puede acreditar contra el ISR del ejercicio en el que se pague. No se paga impuesto si los dividendos provienen de la cuenta de utilidad fiscal neta.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto sobre dividendos?",
-    "¿Qué pasa si una empresa distribuye utilidades?",
-    "¿Se puede acreditar el impuesto sobre los dividendos pagados?",
-    "¿Qué es la cuenta de utilidad fiscal neta?",
-    "¿Cuál es el plazo para pagar el impuesto sobre dividendos?"
+    "¿Cuánto debo pagar de impuesto si reparto utilidades?",
+    "¿Cómo se calcula el impuesto sobre los dividendos distribuidos?",
+    "¿Puedo acreditar el impuesto pagado por dividendos en otros ejercicios?",
+    "¿Qué pasa si mis dividendos provienen de la cuenta de utilidad fiscal neta?",
+    "¿Cuáles son las obligaciones al distribuir dividendos?"
   ]
 }

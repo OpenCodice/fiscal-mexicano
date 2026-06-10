@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cac5e45e7a1578db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inversiones",
@@ -15,21 +16,23 @@
     "Cargos diferidos",
     "Erogaciones preoperativas",
     "Usufructo",
-    "Industria extractiva"
+    "Investigación y desarrollo",
+    "Industrias extractivas"
   ],
   "terminos_coloquiales": [
+    "inversiones",
     "activos fijos",
     "gastos diferidos",
     "cargos diferidos",
-    "erogaciones preoperativas",
+    "gastos preoperativos",
     "usufructo"
   ],
-  "resumen": "Las inversiones incluyen activos fijos, gastos y cargos diferidos, así como erogaciones realizadas antes de iniciar las operaciones. Estos elementos son utilizados por las empresas para mejorar su funcionamiento y no se consideran para la venta inmediata.",
+  "resumen": "Este artículo define qué se considera como inversiones, incluyendo activos fijos, gastos diferidos, cargos diferidos y erogaciones realizadas en períodos preoperativos. Explica la finalidad de estos bienes y su uso en las actividades de los contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Qué se considera como activos fijos en la Ley del ISR?",
-    "¿Cuáles son los gastos diferidos según la legislación fiscal?",
-    "¿Qué erogaciones se pueden considerar en periodos preoperativos?",
-    "¿Qué significa la adquisición de usufructo en términos fiscales?",
-    "¿Cómo se definen los cargos diferidos?"
+    "¿Qué son las inversiones para efectos fiscales?",
+    "¿Cómo se clasifican los activos fijos en la Ley de ISR?",
+    "¿Qué se entiende por gastos diferidos según la ley?",
+    "¿Cuándo se consideran erogaciones preoperativas?",
+    "¿Qué significa tener un usufructo sobre un bien inmueble?"
   ]
 }

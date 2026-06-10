@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09304dcaba377782",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos de Residentes en el Extranjero",
@@ -14,23 +15,26 @@
     "Honorarios",
     "Uso de bienes inmuebles",
     "Enajenación de bienes",
-    "Premios de sorteos",
+    "Premios de juegos",
     "Actividades empresariales",
     "Intereses"
   ],
   "terminos_coloquiales": [
-    "Residentes en el extranjero",
-    "Ingresos de extranjeros",
-    "Impuesto a Residentes en el Extranjero",
-    "IRE",
-    "Fuentes de ingreso extranjeras"
+    "salarios",
+    "honorarios",
+    "renta de inmuebles",
+    "venta de bienes",
+    "premios",
+    "negocios",
+    "intereses"
   ],
-  "resumen": "Este artículo establece los tipos de ingresos que se consideran para los residentes en el extranjero, incluyendo salarios, honorarios, arrendamientos, enajenaciones y más. También menciona que las reglas aplican a personas morales en ciertos casos.",
+  "resumen": "Este artículo establece los diferentes tipos de ingresos que se consideran para la tributación de residentes en el extranjero. Incluye salarios, honorarios, rentas, enajenaciones, premios y actividades empresariales. También se especifica que algunos elementos son aplicables a personas morales.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de ingresos se consideran para un residente en el extranjero?",
-    "¿Cómo se gravan los salarios de un extranjero en México?",
-    "¿Qué impuestos aplican a los premios ganados por un residente en el extranjero?",
-    "¿Qué ingresos de bienes inmuebles deben reportar los residentes en el extranjero?",
-    "¿Un extranjero puede tributar por honorarios en México?"
+    "¿Qué ingresos tienen que declarar los residentes en el extranjero?",
+    "¿Cómo se grava el salario de un residente en el extranjero?",
+    "¿Qué se considera un ingreso por enajenación de bienes?",
+    "¿Los premios de loterías cuentan como ingresos?",
+    "¿Qué tipo de honorarios deben reportar los residentes en el extranjero?",
+    "¿Qué pasa con los intereses generados por inversiones en el extranjero?"
   ]
 }

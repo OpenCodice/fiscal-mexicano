@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0d19dbb5fa1b2cb8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre regalías y asistencia técnica",
+  "denominacion_comun": "Ingresos de residentes en el extranjero",
   "temas": [
     "regalías",
     "asistencia técnica",
     "publicidad",
-    "residentes en el extranjero"
+    "establecimientos permanentes"
   ],
   "terminos_coloquiales": [
+    "pagos a extranjeros",
+    "retenciones por regalías",
     "impuesto sobre regalías",
     "regalías",
-    "asistencia técnica",
-    "publicidad",
-    "ISR"
+    "regalías por asistencia técnica"
   ],
-  "resumen": "Este artículo establece que los ingresos por regalías, asistencia técnica y publicidad de residentes en el extranjero se consideran obtenidos en México si se aprovechan en el país. Se definen distintas tasas impositivas para estas categorías de ingresos.",
+  "resumen": "El artículo establece que los ingresos por regalías, asistencia técnica o publicidad de residentes en el extranjero se consideran de fuente nacional cuando son aprovechados en México o pagados por un residente en México. Se especifican las tasas de impuesto aplicables a diferentes tipos de regalías y la obligación de retención de impuestos por parte de quienes realicen estos pagos.",
   "preguntas_ejemplo": [
-    "¿Qué impuesto se debe pagar por regalías de un residente en el extranjero?",
-    "¿Cómo se calculan los impuestos sobre asistencia técnica en México?",
-    "¿Qué tasa se aplica a los ingresos por publicidad de extranjeros?",
-    "¿Cuándo se considera que las regalías se obtienen en México?",
-    "¿Qué obligaciones tienen los residentes en el extranjero respecto a regalías?",
-    "¿Cómo se retiene el impuesto por regalías pagadas a extranjeros?"
+    "¿Qué tasas de impuestos se aplican a las regalías pagadas a extranjeros?",
+    "¿Cómo se calcula la retención por asistencia técnica a residentes en el extranjero?",
+    "¿Qué se considera como fuente de riqueza en México para pagos a extranjeros?",
+    "¿Qué obligaciones fiscales tienen los residentes en el extranjero con ingresos en México?",
+    "¿Cuánto se debe retener por regalías pagadas a un residente en el extranjero?"
   ]
 }

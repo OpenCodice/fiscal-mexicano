@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ba719235e9881971",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
   "temas": [
     "fondos de inversión",
     "dividendos",
-    "personas morales",
-    "cuenta de dividendos netos"
+    "cuenta de dividendos netos",
+    "distribución de dividendos",
+    "residencia fiscal",
+    "acciones",
+    "aumento de capital"
   ],
   "terminos_coloquiales": [
-    "Régimen de Personas Morales",
-    "PM con fines no lucrativos",
-    "dividendos de inversión"
+    "fondos de inversión",
+    "dividendos",
+    "cuenta de dividendos",
+    "Régimen de PM",
+    "PM con fines no lucrativos"
   ],
-  "resumen": "Este régimen establece que los fondos de inversión de renta variable que distribuyan dividendos deben llevar una cuenta específica de dividendos netos. Esta cuenta se forma con los dividendos recibidos y se ajusta con aquellos pagados a sus integrantes.",
+  "resumen": "Este artículo establece que los fondos de inversión que distribuyen dividendos deben llevar una cuenta de dividendos netos. Los dividendos de otras personas morales residentes en México se contabilizan, sujetos a ciertas deducciones y condiciones sobre reinversiones.",
   "preguntas_ejemplo": [
-    "¿Cómo se manejan los dividendos en los fondos de inversión?",
+    "¿Cómo se deben manejar los dividendos en los fondos de inversión?",
     "¿Qué es la cuenta de dividendos netos?",
-    "¿Qué dividendos se incluyen según el artículo 85?",
-    "¿Qué sucede con los dividendos reinvertidos?",
-    "¿Cómo se actualiza el saldo de la cuenta de dividendos?"
+    "¿Cómo se restan los dividendos pagados a los integrantes?",
+    "¿Qué sucede con los dividendos reinvertidos en acciones?",
+    "¿Cuáles son las implicaciones fiscales para los fondos de inversión?"
   ]
 }

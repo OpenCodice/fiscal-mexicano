@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9c0255540490542",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "obligaciones fiscales",
-    "impuesto sobre la renta",
     "personas morales",
-    "ingresos totales",
-    "exclusiones de régimen",
-    "control de sociedades",
-    "fideicomisos",
-    "actividades empresariales"
+    "obligaciones fiscales",
+    "ingresos",
+    "exclusiones",
+    "control de sociedades"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "régimen de confianza",
     "régimen simplificado",
-    "personas morales con ingresos bajos"
+    "menos de 35 millones",
+    "personas morales",
+    "sociedades relacionadas"
   ],
-  "resumen": "Este régimen fiscal está destinado a personas morales constituidas únicamente por personas físicas cuyos ingresos no excedan de 35 millones de pesos anuales. Si sus ingresos superan este límite, deberán tributar bajo un régimen diferente. También hay exclusiones para ciertos contribuyentes que participan en sociedades o fideicomisos.",
+  "resumen": "Este régimen aplica a las personas morales residentes en México con ingresos no superiores a 35 millones de pesos. Si los ingresos superan este límite, tendrán que tributar de manera diferente. Existen ciertas exclusiones para quienes participan en otras sociedades o tributan en otros regímenes.",
   "preguntas_ejemplo": [
     "¿Qué es el Régimen Simplificado de Confianza?",
-    "¿Quiénes pueden tributar bajo el RESICO?",
-    "¿Qué pasa si mis ingresos superan el límite establecido?",
-    "¿Qué obligaciones tengo bajo este régimen?",
-    "¿Quiénes están excluidos del régimen de confianza?",
-    "¿Cómo se determina el control en las sociedades para este régimen?"
+    "¿Quiénes pueden aplicar al RESICO?",
+    "¿Qué pasa si mis ingresos superan 35 millones en el año?",
+    "¿Qué exclusiones existen en este régimen?",
+    "¿Cómo saber si debo tributar bajo este régimen?"
   ]
 }

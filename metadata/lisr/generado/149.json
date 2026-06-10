@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b3a9173e352770e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de inversiones",
+  "denominacion_comun": "Deducción de Inversiones",
   "temas": [
-    "Inversiones deducibles",
-    "Porcentajes de deducción",
-    "Bienes muebles",
-    "Construcciones",
-    "Equipo de cómputo",
-    "Gastos de instalación",
-    "Valor de mercado",
-    "Ajuste de deducciones"
+    "inversiones",
+    "deducciones",
+    "construcciones",
+    "gastos de instalación",
+    "equipo de cómputo",
+    "bienes muebles tangibles",
+    "valor de mercado",
+    "costo del inmueble"
   ],
   "terminos_coloquiales": [
-    "deducciones",
-    "inversiones en bienes",
-    "deducción de equipo",
-    "deducción de construcciones",
+    "deducción de inversiones",
+    "gastos deducibles",
+    "deducción por equipo de cómputo",
+    "deducción por construcciones",
+    "deducción de muebles",
+    "avalúo",
     "LISR"
   ],
-  "resumen": "Este artículo establece los porcentajes de deducción permitidos para diferentes tipos de inversiones, incluyendo construcciones, gastos de instalación y equipo de cómputo. Además, especifica que el valor de mercado se utiliza para calcular la deducción cuando es inferior al monto de la inversión.",
+  "resumen": "Este artículo establece los porcentajes de deducción permitidos para diferentes tipos de inversiones, como construcciones, gastos de instalación, equipo de cómputo y bienes muebles. Además, regula la deducción en caso de enajenación y cómo determinar el monto de la inversión para efectos fiscales.",
   "preguntas_ejemplo": [
     "¿Qué inversiones puedo deducir en mi declaración?",
-    "¿Cuánto puedo deducir por la compra de maquinaria?",
-    "¿Cuáles son los porcentajes de deducción para construcciones?",
-    "¿Qué debo hacer si enajeno un bien que he deducido?",
-    "¿Qué pasa si mi inversión es mayor que su valor de mercado?"
+    "¿Cuánto puedo deducir por construir una propiedad?",
+    "¿Qué porcentaje se puede deducir por equipo de cómputo?",
+    "¿Qué debo hacer si vendo un bien deducible?",
+    "¿Cuál es el valor que se considera para la deducción de una inversión?",
+    "¿Qué pasa si no puedo separar el costo de una construcción del terreno?"
   ]
 }

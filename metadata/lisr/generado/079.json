@@ -6,35 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09cc54b5f59b671d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
+  "denominacion_comun": "Régimen de personas morales con fines no lucrativos",
   "temas": [
+    "impuesto sobre la renta",
     "exenciones fiscales",
-    "donativos deducibles",
-    "organizaciones sin fines de lucro",
     "asociaciones civiles",
-    "sociedades mutualistas",
-    "cooperativas",
     "instituciones de asistencia",
-    "actividades benéficas",
-    "promoción cultural",
-    "derechos humanos"
+    "donativos deducibles",
+    "sociedades cooperativas",
+    "actividades sin fines de lucro",
+    "organizaciones de la sociedad civil"
   ],
   "terminos_coloquiales": [
-    "personas morales no lucrativas",
-    "asociaciones sin fines de lucro",
-    "organización civil",
-    "Régimen de donatarias",
-    "Régimen de ASCI",
-    "Régimen de OSC"
+    "organizaciones sin fines de lucro",
+    "asociaciones civiles",
+    "donativos",
+    "cooperativas",
+    "ONG",
+    "fundaciones"
   ],
-  "resumen": "Las personas morales con fines no lucrativos no están obligadas a pagar el impuesto sobre la renta, incluyendo sindicatos, asociaciones civiles, y organizaciones dedicadas a actividades benéficas y culturales. Estas entidades pueden recibir donativos deducibles de impuestos bajo ciertos requisitos.",
+  "resumen": "El artículo establece las personas morales que no son contribuyentes del impuesto sobre la renta, incluyendo a organizaciones sin fines de lucro, asociaciones civiles, y otras entidades que realizan actividades sociales, culturales o asistenciales. También menciona las condiciones para que estas organizaciones puedan recibir donativos deducibles de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué organizaciones no pagan impuesto sobre la renta en México?",
-    "¿Cuáles son los requisitos para que una asociación civil reciba donativos deducibles?",
-    "¿Las cooperativas están exentas de impuestos?",
-    "¿Cómo se clasifican las personas morales sin fines de lucro?",
-    "¿Qué beneficios fiscales tienen las instituciones de asistencia?"
+    "¿Qué organizaciones no pagan impuestos sobre la renta?",
+    "¿Cuáles son las asociaciones civiles sin fines de lucro?",
+    "¿Qué requisitos deben cumplir las organizaciones para recibir donativos deducibles?",
+    "¿Existen beneficios fiscales para las organizaciones no lucrativas?",
+    "¿Qué tipo de actividades realizan las organizaciones sin fines de lucro?"
   ]
 }

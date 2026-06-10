@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:023351cce7925b49",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Residentes en el extranjero con ingresos",
+  "denominacion_comun": "Ingresos de Residentes en el Extranjero",
   "temas": [
     "ingresos gravados",
-    "retención fiscal",
-    "tasa del 40%",
-    "regímenes fiscales preferentes",
-    "mediaciones",
-    "pagos a entidades extranjeras",
-    "dividendos",
-    "ganancias distribuidas"
+    "retención del 40%",
+    "régimen fiscal preferente",
+    "pagos a residentes en el extranjero",
+    "ingresos por mediaciones"
   ],
   "terminos_coloquiales": [
-    "retención para residentes en el extranjero",
-    "ingresos por mediaciones",
+    "residentes en el extranjero",
+    "retención",
+    "régimen preferente",
     "impuesto sobre ingresos",
-    "ISR extranjero"
+    "comisiones",
+    "corretajes"
   ],
-  "resumen": "Los ingresos percibidos por residentes en el extranjero con regímenes fiscales preferentes están sujetos a una retención del 40% sin deducciones. Esto incluye ingresos por comisiones y otros pagos en servicios relacionados con la gestión de intereses ajenos.",
+  "resumen": "Este artículo establece que los ingresos provenientes de residentes en el extranjero estarán sujetos a una retención del 40% si provienen de un régimen fiscal preferente. Además, aclara que ciertos ingresos, como dividendos e intereses de bancos extranjeros, tienen tratamientos fiscales diferentes.",
   "preguntas_ejemplo": [
-    "¿Qué retención se aplica a los ingresos de residentes en el extranjero?",
-    "¿Cómo se calcula el impuesto para ingresos gravados de entidades extranjeras?",
-    "¿Qué ingresos están exentos de la retención del 40%?",
-    "¿Qué son los ingresos por mediaciones y cómo se gravan?",
-    "¿Qué requisitos debo cumplir para la retención de impuestos a residentes en el extranjero?"
+    "¿Qué impuestos deben pagar los residentes en el extranjero por sus ingresos?",
+    "¿Cuál es la tasa de retención para ingresos de residentes en el extranjero?",
+    "¿Qué se considera un régimen fiscal preferente?",
+    "¿Los dividendos de empresas mexicanas están sujetos a retención?",
+    "¿Qué ingresos se consideran por mediaciones?"
   ]
 }

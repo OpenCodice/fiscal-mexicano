@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:937c2a4d80722394",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos por Arrendamiento",
   "temas": [
     "arrendamiento",
     "subarrendamiento",
-    "uso temporal de bienes inmuebles",
-    "rendimientos de certificados de participación inmobiliaria"
+    "bienes inmuebles",
+    "rendimientos",
+    "certificados de participación inmobiliaria",
+    "impuesto sobre la renta",
+    "declaración de ingresos",
+    "cobro de ingresos"
   ],
   "terminos_coloquiales": [
-    "ingresos por arrendamiento",
-    "arrendamiento de inmuebles",
-    "subarrendamiento",
+    "renta",
+    "alquiler",
+    "arrendar",
+    "subarrendar",
+    "ingresos por rentas",
+    "certificados de participación",
     "LISR"
   ],
-  "resumen": "Se consideran ingresos los que se obtienen por el arrendamiento o subarrendamiento de bienes inmuebles. También se incluyen los rendimientos de ciertos certificados inmobiliarios. El impuesto correspondiente se declara y calcula en el año en que se cobran.",
+  "resumen": "Los ingresos por arrendar o subarrendar bienes inmuebles son considerados ingresos gravables. Además, se incluyen los rendimientos de ciertos certificados inmobiliarios. Los ingresos se deben declarar en el año en que se cobran.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos se consideran por arrendamiento?",
-    "¿Qué es el subarrendamiento en la ley fiscal?",
-    "¿Cómo se declaran los ingresos de bienes inmuebles?",
-    "¿Qué impuestos debo pagar por arrendar un inmueble?",
-    "¿Qué son los certificados de participación inmobiliaria?",
-    "¿Cuándo se declara el impuesto por ingresos de arrendamiento?"
+    "¿Qué tipo de ingresos se consideran por arrendar un inmueble?",
+    "¿Cómo se declaran los ingresos por subarrendamiento?",
+    "¿Qué son los rendimientos de los certificados de participación inmobiliaria?",
+    "¿Cuándo se deben declarar los ingresos por renta?",
+    "¿Cuál es el tratamiento fiscal de los ingresos por arrendamiento?"
   ]
 }

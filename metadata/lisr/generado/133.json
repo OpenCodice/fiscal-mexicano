@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:796db2247e6b8ec3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por Intereses",
+  "denominacion_comun": "Ingresos por intereses",
   "temas": [
     "intereses",
     "seguros",
-    "retiros parciales",
-    "aportes de inversión",
-    "impuesto sobre intereses"
+    "primas",
+    "rendimientos",
+    "aportaciones de inversión",
+    "impuestos",
+    "retiros parciales"
   ],
   "terminos_coloquiales": [
-    "intereses de seguros",
-    "rendimientos de seguros",
-    "impuesto sobre intereses",
-    "intereses acumulables"
+    "intereses",
+    "rendimientos",
+    "póliza de seguro",
+    "retiros de seguros",
+    "aportaciones voluntarias",
+    "ISR",
+    "impuesto sobre la renta"
   ],
-  "resumen": "El artículo establece cómo se consideran los ingresos por intereses en términos de seguros y las aportaciones voluntarias a cuentas de ahorro para el retiro. Detalla el tratamiento fiscal que se les da y cómo se determina el impuesto sobre el interés real acumulable.",
+  "resumen": "El artículo establece qué se considera como ingresos por intereses y cómo se determinan los impuestos sobre dichos ingresos, incluyendo los pagos de seguros y las aportaciones voluntarias. Se presentan reglas para calcular los intereses reales acumulables y las aportaciones de inversión a la hora de realizar retiros parciales de seguros.",
   "preguntas_ejemplo": [
-    "¿Qué son los ingresos por intereses según la ley?",
-    "¿Cómo se calculan los intereses de los seguros?",
-    "¿Qué impuesto se aplica a los ingresos por intereses?",
-    "¿Cómo afectan los retiros parciales a los intereses acumulables?",
-    "¿Qué se considera como interés real acumulable?"
+    "¿Qué son los ingresos por intereses según la Ley del ISR?",
+    "¿Cómo se calculan los impuestos sobre los intereses de seguros?",
+    "¿Qué pasa si hago un retiro parcial de mi póliza de seguro?",
+    "¿Cómo se determina el interés real acumulable de las aportaciones voluntarias?",
+    "¿Qué consideraciones debo tener al retirar dinero de mi cuenta de ahorro para el retiro?"
   ]
 }

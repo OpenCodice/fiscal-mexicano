@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a3c899fd1d8b30d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso por servicios profesionales esporádicos",
+  "denominacion_comun": "Ingresos por Servicios Profesionales",
   "temas": [
     "ingresos esporádicos",
     "servicios profesionales",
     "pago provisional",
     "declaración anual",
-    "deducción de gastos"
+    "deducciones de gastos"
   ],
   "terminos_coloquiales": [
-    "ingresos por servicios profesionales",
-    "pago provisional 20%",
-    "declaración de ingresos esporádicos"
+    "ingresos por honorarios",
+    "pago del 20%",
+    "declaración de impuestos",
+    "tasa del 20%",
+    "no llevar libros contables"
   ],
-  "resumen": "Las personas que obtienen ingresos esporádicos por servicios profesionales deben pagar un impuesto provisional del 20% sobre esos ingresos, sin posibilidad de deducción. También deben presentar una declaración anual y pueden deducir únicamente los gastos relacionados con el servicio prestado.",
+  "resumen": "El artículo establece que quienes obtengan ingresos esporádicos por servicios profesionales deben pagar un 20% de impuestos sobre esos ingresos, sin deducciones. También deben presentar una declaración anual y pueden deducir solo los gastos relacionados con su servicio.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el pago provisional para ingresos esporádicos?",
-    "¿Qué deducciones puedo hacer si solo tengo ingresos por servicios profesionales?",
-    "¿Qué obligaciones tengo si solo obtengo ingresos esporádicos?",
-    "¿Cuándo debo presentar mi declaración anual si tengo ingresos esporádicos?",
-    "¿Qué pasa si no tengo otros ingresos gravados además de mis servicios profesionales?"
+    "¿Qué impuestos debo pagar si solo tengo ingresos esporádicos?",
+    "¿Cómo hago mi declaración si soy profesional independiente?",
+    "¿Puedo deducir gastos si solo trabajo esporádicamente?",
+    "¿Qué porcentaje tengo que pagar sobre mis ingresos por honorarios?",
+    "¿Estoy obligado a llevar contabilidad si no tengo ingresos regulares?"
   ]
 }

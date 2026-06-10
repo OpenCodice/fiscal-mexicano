@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d9052e5fa3473f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondos de Inversión en Instrumentos de Deuda",
+  "denominacion_comun": "Fondos de inversión en instrumentos de deuda",
   "temas": [
     "impuesto sobre la renta",
     "intereses devengados",
     "personas morales",
-    "accionistas",
-    "retenciones fiscales",
-    "acreditamiento de impuestos",
-    "inversiones"
+    "acciones",
+    "rendimientos",
+    "retención de impuestos",
+    "deducciones",
+    "acreditamiento fiscal"
   ],
   "terminos_coloquiales": [
     "fondos de inversión",
-    "FIEDE",
-    "impuesto acumulable",
-    "intereses gravados"
+    "fondos de deuda",
+    "acciones",
+    "intereses",
+    "ISR",
+    "retención de ISR"
   ],
-  "resumen": "Los fondos de inversión en instrumentos de deuda no son contribuyentes del impuesto sobre la renta. Sus integrantes o accionistas deben acumular los ingresos por intereses devengados, que se calculan de manera diferente para personas físicas y morales.",
+  "resumen": "Este artículo establece que los fondos de inversión en instrumentos de deuda no son contribuyentes del impuesto sobre la renta, pero sus integrantes deben acumular los ingresos por intereses producidos. Los impuestos de estos fondos son acreditables para sus accionistas y se deben enterar mensualmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan los intereses devengados de los fondos de inversión?",
-    "¿Qué obligaciones fiscales tienen los accionistas de un fondo de inversión?",
-    "¿Los fondos de inversión deben enterar impuestos mensualmente?",
-    "¿Cómo se determina el impuesto acreditable para los integrantes de un fondo?",
-    "¿Qué pasa si soy persona moral en un fondo de inversión?"
+    "¿Los fondos de inversión tienen que pagar impuestos?",
+    "¿Cómo se calculan los intereses devengados en un fondo de inversión?",
+    "¿Qué impuestos deben retener los fondos de inversión?",
+    "¿Los accionistas pueden deducir pérdidas de sus fondos de inversión?",
+    "¿Cómo se acreditan los impuestos pagados por un fondo de inversión?"
   ]
 }

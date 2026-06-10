@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:946e458aa168ca92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Pérdidas de Bienes",
+  "denominacion_comun": "Deducción de pérdidas por caso fortuito",
   "temas": [
-    "pérdidas de bienes",
-    "deducción fiscal",
-    "inversiones",
-    "recuperación de activos",
-    "caso fortuito",
+    "pérdidas deducibles",
+    "activos fijos",
+    "reinvención de bienes",
+    "recuperación de inversiones",
     "fuerza mayor",
-    "activos fijos"
+    "ajuste por recuperación"
   ],
   "terminos_coloquiales": [
-    "deducción por pérdidas",
-    "deducción de activos perdidos",
+    "pérdidas por caso fortuito",
+    "deducción de pérdidas",
     "recuperación de bienes",
-    "LISR"
+    "inversión recuperada",
+    "desastre natural"
   ],
-  "resumen": "Las pérdidas de bienes por caso fortuito o fuerza mayor son deducibles en el ejercicio en que ocurren. La cantidad recuperada acumulada dependerá de si se reinvierte en bienes similares o se utiliza para pagar deudas relacionadas.",
+  "resumen": "Las pérdidas de bienes por caso fortuito o fuerza mayor son deducibles en el año en que ocurren. Si se recupera alguna cantidad, esta se acumula solo si no se reinvierte en bienes similares dentro de un año.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi empresa pierde un bien por caso fortuito?",
-    "¿Cómo puedo deducir una pérdida de activo fijo?",
-    "¿Qué sucede con la cantidad que recupero de un activo perdido?",
-    "¿Cuánto tiempo tengo para reinvertir lo que recuperé?",
-    "¿Puedo prorrogar el plazo para reinversión de pérdidas?",
-    "¿Qué pasa si no reinvierto la cantidad que recuperé?"
+    "¿Puedo deducir pérdidas por un incendio?",
+    "¿Qué sucede si recupero una parte de mi inversión?",
+    "¿Cuánto tiempo tengo para reinvertir lo recuperado?",
+    "¿Cómo afectan las pérdidas por fuerza mayor a mis deducciones?",
+    "¿Qué debo hacer si no reinvierto la cantidad recuperada?",
+    "¿Puedo pedir una prórroga para reinvertir la recuperación?"
   ]
 }

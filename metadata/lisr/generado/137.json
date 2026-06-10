@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d475b1f4fc1e69c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por premios",
+  "denominacion_comun": "Ingresos por Premios",
   "temas": [
-    "Loterías",
-    "Rifas",
-    "Sorteos",
-    "Juegos de apuestas",
-    "Concursos",
-    "Impuesto sobre premios",
-    "Retenciones"
+    "loterías",
+    "rifas",
+    "sorteos",
+    "juegos de apuestas",
+    "concursos",
+    "retenciones"
   ],
   "terminos_coloquiales": [
-    "Premios de lotería",
-    "Rifas y sorteos",
-    "Concursos con premios",
-    "Impuesto por premios"
+    "premios de lotería",
+    "premios de rifa",
+    "ganar en sorteos",
+    "concursos",
+    "impuesto sobre premios"
   ],
-  "resumen": "Los ingresos por la obtención de premios son aquellos que provienen de loterías, rifas, sorteos, juegos con apuestas y concursos autorizados. Si el premio ganador tiene un impuesto que se paga por el otorgante, este se considerará ingreso del contribuyente.",
+  "resumen": "Los ingresos por premios incluyen lo que se obtiene de loterías, rifas, sorteos y otros concursos que estén legalmente autorizados. Si el ganador recibe un premio y se paga el impuesto correspondiente, este se considera también ingreso del contribuyente. No se considera premio el monto que se reintegra por el billete de lotería que se compró.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un ingreso por premios?",
-    "¿Cómo se grava el premio de una rifa?",
-    "¿Qué sucede si el premio tiene impuesto retenido?",
-    "¿Se considera el reintegro de un billete como un premio?",
-    "¿Qué tipos de concursos generan ingresos por premios?"
+    "¿Qué se considera ingreso por premios según la ley?",
+    "¿Cómo se grava el impuesto sobre premios de rifa?",
+    "¿Qué pasa si una persona gana un sorteo y se paga el impuesto?",
+    "¿Los reintegros de billetes de lotería cuentan como premios?",
+    "¿Cuáles son los tipos de premios que se consideran para impuestos?"
   ]
 }

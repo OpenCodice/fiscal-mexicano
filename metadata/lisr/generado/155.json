@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e31af56ac4cf4d0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre ingresos de jubilaciones y pensiones",
+  "denominacion_comun": "Ingresos de residentes en el extranjero",
   "temas": [
-    "jubilaciones",
-    "pensiones",
-    "haberes de retiro",
-    "impuestos",
-    "fuente de riqueza",
-    "residencia fiscal"
+    "Jubilaciones",
+    "Pensiones",
+    "Impuesto sobre la renta",
+    "Retención de impuestos",
+    "Ingresos en territorio nacional"
   ],
   "terminos_coloquiales": [
+    "ingresos por jubilación",
+    "pensiones vitalicias",
     "impuesto sobre pensiones",
-    "impuesto a jubilaciones",
     "retención de impuestos",
-    "LISR",
-    "ley del ISR"
+    "declaración de impuestos"
   ],
-  "resumen": "Este artículo establece cómo se gravan los ingresos por jubilaciones y pensiones de residentes y no residentes en México. Los ingresos hasta un cierto monto están exentos de impuestos, y se aplican diferentes tasas sobre el exceso.",
+  "resumen": "Este artículo establece que los ingresos por jubilaciones y pensiones de residentes en el extranjero pueden estar sujetos a impuestos en México. Además, se especifican las tasas aplicables dependiendo del monto de los ingresos obtenidos en el año. Los pagos deben realizarse mediante retención si el pagador es residente o tiene establecimiento permanente en el país.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar si recibo una pensión?",
-    "¿Cuánto se retiene de mi jubilación?",
-    "¿Qué ingresos están exentos de impuestos?",
-    "¿Cómo se calcula el impuesto sobre mis haberes de retiro?",
-    "¿Qué pasa si soy residente en el extranjero y recibo pensiones en México?"
+    "¿Cómo se gravan las pensiones de residentes en el extranjero?",
+    "¿Qué tasas de impuesto aplican a las jubilaciones recibidas en México?",
+    "¿Quién debe hacer la retención del impuesto sobre pensiones?",
+    "¿Qué se considera ingreso en territorio nacional para residentes en el extranjero?",
+    "¿Cómo se presentan las declaraciones de impuestos sobre ingresos de pensiones?"
   ]
 }

@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c245db5b59299979",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos acumulables",
+  "denominacion_comun": "Ingreso Acumulable",
   "temas": [
-    "ingresos efectivamente percibidos",
+    "ingresos",
+    "efectivamente percibidos",
     "condonaciones",
     "quitas",
-    "remisiones de deudas",
+    "remisiones",
+    "deudas",
     "enajenación de bienes",
-    "exportación de bienes"
+    "exportación"
   ],
   "terminos_coloquiales": [
-    "cómo y cuándo se consideran los ingresos",
-    "ingresos que debo acumular",
-    "quitas y remisiones",
-    "ingresos de deudas",
-    "cheques y su cobro"
+    "ingresos acumulables",
+    "condonaciones de deudas",
+    "quita de deudas",
+    "remisión de deudas",
+    "cobro de cheques",
+    "ingresos por exportación"
   ],
-  "resumen": "Los ingresos se consideran acumulables cuando son efectivamente percibidos, ya sea en efectivo, bienes o servicios. También se contempla el tratamiento de ingresos derivados de condonaciones o remisiones de deudas, así como la acumulación de ingresos por enajenación de bienes exportados.",
+  "resumen": "Este artículo establece que los ingresos se consideran acumulables cuando son efectivamente percibidos, lo que incluye efectivo, bienes, servicios y títulos de crédito. También regula cómo se consideran las condonaciones, quitas y remisiones de deudas y los ingresos derivados de exportaciones de bienes.",
   "preguntas_ejemplo": [
     "¿Cuándo se consideran mis ingresos como acumulables?",
-    "¿Qué pasa con las deudas que se perdonan?",
-    "¿Cómo afecta la exportación de bienes en mis ingresos?",
-    "¿Cuándo se considera un cheque como ingreso acumulable?",
-    "¿Qué son las quitas y cómo se registran?"
+    "¿Qué pasa con las condonaciones de deudas?",
+    "¿Cómo se contabilizan las quitas en mis ingresos?",
+    "¿En qué momento debo acumular ingresos por exportación?",
+    "¿Qué significa que un ingreso sea efectivamente percibido?"
   ]
 }

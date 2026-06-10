@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f9e7dbf32a325514",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones del Impuesto sobre la Renta",
+  "denominacion_comun": "Ingresos exentos para personas físicas",
   "temas": [
-    "exenciones",
-    "ingresos",
     "prestaciones",
     "jubilaciones",
-    "pensiones",
+    "indemnizaciones",
     "subsidios",
     "donativos",
-    "sepelios"
+    "herencias",
+    "premios"
   ],
   "terminos_coloquiales": [
-    "exenciones de ISR",
-    "ingresos no gravables",
-    "prestaciones exentas",
-    "ISR exento"
+    "ingresos exentos",
+    "exención de impuestos",
+    "jubilación",
+    "prestaciones laborales",
+    "seguro de vida",
+    "donativos",
+    "herencia",
+    "premios"
   ],
-  "resumen": "El artículo establece diversos ingresos que están exentos del pago del impuesto sobre la renta, incluyendo salarios, jubilaciones, donativos y algunos reembolsos. Estas exenciones se aplican bajo ciertos límites y condiciones especificadas en la ley.",
+  "resumen": "El artículo establece qué ingresos no están sujetos al impuesto sobre la renta para personas físicas, incluyendo prestaciones, indemnizaciones, jubilaciones y ciertos subsidios y donativos. También se detallan límites y condiciones para aplicar estas exenciones.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos no pago ISR?",
-    "¿Cuáles son las exenciones del impuesto sobre la renta?",
-    "¿Los donativos están gravados por el ISR?",
-    "¿Qué tipo de jubilaciones están exentas de impuestos?",
-    "¿Cómo funcionan las exenciones de prestaciones laborales?"
+    "¿Qué ingresos no deben pagar impuestos para trabajadores?",
+    "¿Cuáles son las exenciones en el impuesto sobre la renta?",
+    "¿Qué se considera ingreso exento en la jubilación?",
+    "¿Hay impuestos en indemnizaciones por riesgos de trabajo?",
+    "¿Qué donativos están exentos de impuestos?"
   ]
 }

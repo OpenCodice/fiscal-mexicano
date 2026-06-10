@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0201a7464aaa0e80",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remanente Distribuible",
+  "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
   "temas": [
-    "personas morales",
     "remanente distribuible",
-    "ingresos",
-    "deducciones",
-    "donativos",
+    "ingresos no gravables",
+    "donativos deducibles",
+    "deducciones autorizadas",
+    "fideicomisos",
     "impuesto sobre la renta",
-    "fondos de inversión",
-    "actividad económica"
+    "actividades distintas"
   ],
   "terminos_coloquiales": [
+    "persona moral sin fines de lucro",
+    "donativo deducible",
+    "fideicomiso",
     "remanente",
-    "distribución de ingresos",
-    "ingresos no gravados",
-    "deducciones fiscales",
-    "personas morales con fines no lucrativos",
-    "PMFNL"
+    "ingresos por donativos"
   ],
-  "resumen": "Las personas morales con fines no lucrativos deben calcular su remanente distribuible considerando sus ingresos y deducciones autorizadas. No consideran ingresos ciertos reembolsos y pueden realizar actividades distintas a las autorizadas, siempre que no excedan ciertos límites.",
+  "resumen": "Las personas morales con fines no lucrativos deben calcular su remanente distribuible a partir de los ingresos obtenidos, restando las deducciones permitidas. Pueden recibir ingresos por actividades secundarias, siempre y cuando no excedan ciertos límites, y deben cumplir con la normativa fiscal para no perder su autorización de recibir donativos deducibles.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el remanente distribuible en personas morales?",
-    "¿Cuáles son los ingresos no considerados para el impuesto sobre la renta en personas morales?",
-    "¿Qué pasa si las personas morales ganan más del 10% en actividades distintas?",
-    "¿Cómo afectan las donaciones a los ingresos de una persona moral?",
-    "¿Qué deducciones son válidas para calcular el remanente distribuible?"
+    "¿Cómo calculo el remanente distribuible de mi organización?",
+    "¿Qué ingresos no se consideran gravables para personas morales sin fines de lucro?",
+    "¿Puedo realizar actividades no relacionadas con mis fines sociales sin perder mi autorización?",
+    "¿Qué pasa si mis ingresos por actividades distintas superan el 50%?",
+    "¿Qué deducciones autorizadas puedo aplicar como persona moral con fines no lucrativos?",
+    "¿Cómo se afectan los donativos que recibo si realizo otras actividades?"
   ]
 }

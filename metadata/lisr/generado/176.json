@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7a7dd1cd95d7f2e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Entidades Extranjeras Controladas",
   "temas": [
     "impuesto sobre la renta",
-    "regímenes fiscales preferentes",
+    "ingresos sujetos a regímenes fiscales preferentes",
     "control efectivo",
+    "entidades extranjeras",
     "ingresos pasivos",
-    "participación en entidades extranjeras",
-    "autorizaciones fiscales"
+    "autorizaciones fiscales",
+    "consolidación fiscal"
   ],
   "terminos_coloquiales": [
-    "entidades extranjeras",
-    "ingresos sujetos a impuestos",
-    "control efectivo de entidades",
-    "régimen fiscal preferente"
+    "regimenes fiscales preferentes",
+    "control sobre entidades extranjeras",
+    "ingresos extranjeros",
+    "evasión fiscal",
+    "entidad extranjera",
+    "ingresos pasivos"
   ],
-  "resumen": "Los residentes en México deben pagar impuestos sobre ingresos generados a través de entidades extranjeras controladas que estén sujetas a regímenes fiscales preferentes. Esto aplica a los ingresos no gravados o gravados a tasas inferiores al 75% de lo que se pagaría en México.",
+  "resumen": "El artículo establece las obligaciones de residentes en México y en el extranjero con respecto a los ingresos generados a través de entidades extranjeras sujetas a regímenes fiscales preferentes. Se detalla cómo se determina si los ingresos están sujetos a estos regímenes y las condiciones que deben cumplirse para su consideración.",
   "preguntas_ejemplo": [
     "¿Qué son las entidades extranjeras controladas?",
-    "¿Cómo se determina si un ingreso está sujeto a un régimen fiscal preferente?",
-    "¿Cuáles son los requisitos para que un contribuyente tenga control efectivo sobre una entidad extranjera?",
-    "¿Qué ingresos se consideran ingresos pasivos?",
-    "¿Qué sucede si una entidad extranjera genera ingresos y paga impuestos en su país?",
-    "¿A quién se aplican las disposiciones sobre entidades extranjeras controladas?"
+    "¿Cómo se determina si mis ingresos son sujetos a un régimen fiscal preferente?",
+    "¿Qué implica tener control efectivo sobre una entidad extranjera?",
+    "¿Cuáles son los requisitos para no aplicar las disposiciones fiscales?",
+    "¿Qué tipo de ingresos se consideran pasivos según la ley?",
+    "¿Cómo afecta la residencia fiscal en el pago de impuestos sobre entidades extranjeras?"
   ]
 }

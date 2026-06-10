@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6fdc3bf38a6144bf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos y deducciones de operaciones financieras",
+  "denominacion_comun": "Ingreso y deducción en operaciones financieras",
   "temas": [
-    "ingresos percibidos",
+    "ingresos",
     "deducciones",
-    "ganancia acumulable",
     "pérdida deducible",
-    "personas morales",
+    "ganancia acumulable",
     "operaciones financieras",
     "subyacente",
-    "mercado reconocido"
+    "mercado de valores"
   ],
   "terminos_coloquiales": [
-    "ingresos de operaciones financieras",
-    "deducciones de pérdidas",
-    "ganancias y pérdidas en finanzas",
-    "LISR"
+    "ingresos por operaciones",
+    "deducción de pérdidas",
+    "ganancias",
+    "pérdidas en inversiones",
+    "operaciones no cotizadas",
+    "personas morales"
   ],
-  "resumen": "Este artículo regula cómo se deben acumular los ingresos y deducir las erogaciones en operaciones financieras cuyo subyacente no cotiza en un mercado reconocido. También establece condiciones para deducir pérdidas y ganancias acumulables para personas morales en estas operaciones.",
+  "resumen": "Este artículo establece cómo se deben acumular los ingresos y deducir las erogaciones en operaciones financieras que no cotizan en un mercado reconocido. Si una persona moral tiene pérdidas en estas operaciones, sólo podrá deducirlas hasta por el monto de las ganancias de las mismas o en ejercicios subsecuentes.",
   "preguntas_ejemplo": [
-    "¿Cómo se acumulan los ingresos por operaciones financieras?",
-    "¿Cuándo puedo deducir las erogaciones de mis operaciones financieras?",
-    "¿Qué pasa si tengo pérdidas en operaciones financieras con subyacente no reconocido?",
-    "¿Qué reglas aplican para deducir pérdidas de personas morales?",
-    "¿Puedo perder el derecho a deducir pérdidas en ejercicios futuros?"
+    "¿Cómo se acumulan los ingresos en operaciones financieras no cotizadas?",
+    "¿Qué puedo deducir si tengo pérdidas en inversiones no cotizadas?",
+    "¿Las pérdidas en operaciones financieras se pueden usar en ejercicios futuros?",
+    "¿Qué pasa si no deduzco una pérdida en un ejercicio?",
+    "¿Cómo se determina la ganancia acumulable?"
   ]
 }

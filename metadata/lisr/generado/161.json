@@ -6,34 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3b29a180a6bda2f8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones y títulos valor",
   "temas": [
-    "Fuente de riqueza",
-    "Residencia en México",
-    "Impuesto sobre la renta",
-    "Retención de impuestos",
-    "Acciones emitidas",
-    "Asociación en participación",
-    "Ganancia por enajenación",
-    "Tratados fiscales"
+    "fuente de riqueza",
+    "residente en México",
+    "acciones",
+    "títulos valor",
+    "impuesto sobre la ganancia",
+    "retención",
+    "usufructo",
+    "intermediario de mercado de valores",
+    "donativos"
   ],
   "terminos_coloquiales": [
-    "Compra-venta de acciones",
-    "Impuesto por enajenación",
-    "Renta por enajenación",
+    "venta de acciones",
+    "títulos de propiedad",
+    "impuesto sobre la ganancia",
+    "retención de impuesto",
+    "ganancia de enajenación",
+    "bolsas de valores",
+    "fondos de inversión",
     "ISR",
-    "Retención del 10%",
-    "REPEAT"
+    "impuesto sobre la renta"
   ],
-  "resumen": "Este artículo regula cómo se gravan los ingresos provenientes de la enajenación de acciones y títulos, determinando que el impuesto se calcula sobre la ganancia generada. Se establecen diferentes tasas y condiciones de retención dependiendo de la residencia del adquirente y la naturaleza de la operación.",
+  "resumen": "Este artículo regula la enajenación de acciones y títulos valor, estableciendo cuándo se considera que la fuente de riqueza está en México y cómo se debe calcular y retener el impuesto sobre las ganancias obtenidas. También se especifican las condiciones para la retención y la responsabilidad del contribuyente en la declaración de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera fuente de riqueza en la enajenación de acciones?",
-    "¿Cómo se calcula el impuesto por la venta de acciones?",
-    "¿Qué impuestos debo pagar si vendo acciones desde el extranjero?",
-    "¿Cuál es la tasa de retención para la enajenación de títulos valor?",
-    "¿Los tratados fiscales afectan el impuesto sobre la enajenación de acciones?",
-    "¿Qué sucede si no cumplo con el dictamen del contador público?"
+    "¿Qué pasa si vendo acciones de una empresa mexicana desde el extranjero?",
+    "¿Cómo se calcula el impuesto por la enajenación de títulos valor?",
+    "¿Quién debe retener el impuesto cuando se venden acciones?",
+    "¿Existen exenciones para el pago de impuestos al vender acciones?",
+    "¿Cómo afecta el tratado de doble imposición a la venta de acciones?"
   ]
 }

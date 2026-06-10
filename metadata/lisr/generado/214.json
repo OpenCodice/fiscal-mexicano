@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7114810c725edc8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza de Personas Morales",
   "temas": [
-    "requisitos de tributación",
     "obligaciones fiscales",
-    "avisos de actualización",
+    "actualización de actividades económicas",
+    "avisos al SAT",
     "coeficiente de utilidad",
-    "transición fiscal"
+    "acumulación de ingresos",
+    "deducciones",
+    "mecanismos de transición"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "Régimen de Confianza",
-    "obligaciones fiscales después del Régimen Simplificado"
+    "régimen simplificado",
+    "obligaciones fiscales",
+    "avisos SAT",
+    "actualización de actividades",
+    "impuesto"
   ],
-  "resumen": "Este artículo establece que los contribuyentes que ya no cumplen los requisitos para el Régimen Simplificado de Confianza deben seguir ciertas obligaciones fiscales y presentar un aviso de actualización. También se refiere al tratamiento de ingresos y deducciones en esta situación.",
+  "resumen": "Este artículo establece que los contribuyentes que no cumplan con los requisitos del régimen simplificado deben cumplir con las obligaciones del Título II de la Ley del ISR. También menciona la necesidad de presentar un aviso de actualización al SAT al dejar de tributar en este régimen y regula la acumulación de ingresos y deducciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si dejo de cumplir los requisitos del Régimen Simplificado?",
-    "¿Cuáles son las obligaciones fiscales después de RESICO?",
+    "¿Qué debo hacer si dejo de cumplir con los requisitos del RESICO?",
     "¿Cómo actualizo mis actividades económicas ante el SAT?",
-    "¿Qué coeficiente de utilidad debo considerar si dejo el Régimen Simplificado?",
-    "¿Qué deducciones puedo aplicar si ya no estoy en el Régimen Simplificado?"
+    "¿Cuál es el coeficiente de utilidad que debo usar al dejar el régimen simplificado?",
+    "¿Puedo volver a deducir los gastos que ya había considerado?",
+    "¿Qué sucede si no presento el aviso de actualización a tiempo?",
+    "¿Qué operaciones debo realizar al cambiar de régimen fiscal?"
   ]
 }

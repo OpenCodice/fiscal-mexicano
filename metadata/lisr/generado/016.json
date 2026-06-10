@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a580f6c20edc7306",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de Personas Morales",
+  "denominacion_comun": "Ingreso acumulable de personas morales",
   "temas": [
-    "acumulación de ingresos",
-    "ingresos no acumulables",
+    "personas morales",
+    "ingresos acumulables",
     "ajuste anual por inflación",
+    "exenciones de ingresos",
     "apoyos económicos",
-    "ingresos por dividendos",
+    "distribución de recursos",
     "establecimientos permanentes",
-    "contraprestaciones en especie"
+    "dividendos"
   ],
   "terminos_coloquiales": [
+    "ingresos de empresas",
     "ingresos acumulables",
-    "personas morales",
-    "ingresos no considerados",
-    "dividendos",
-    "ajuste por inflación"
+    "ajuste por inflación",
+    "apoyo financiero",
+    "dividendos de empresas"
   ],
-  "resumen": "Las personas morales deben acumular todos sus ingresos obtenidos en el ejercicio, aunque hay excepciones para ciertos tipos de ingresos como apoyos económicos y dividendos. También se especifica cómo se gestionan ingresos de establecimientos en el extranjero.",
+  "resumen": "Las personas morales deben acumular todos sus ingresos obtenidos durante el ejercicio, ya sean en efectivo, bienes o servicios. Sin embargo, hay ciertos ingresos que no se consideran acumulables, como los derivados de aumento de capital o apoyos económicos específicos.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos deben acumular las personas morales?",
-    "¿Cuáles son los ingresos no acumulables para las empresas?",
-    "¿Cómo se consideran los apoyos económicos en la declaración fiscal?",
-    "¿Qué relación hay entre los ingresos y los establecimientos permanentes?",
-    "¿Los dividendos que recibe una empresa se consideran ingresos?"
+    "¿Qué ingresos debo acumular si soy una empresa?",
+    "¿Existen ingresos que no se consideran acumulables para las personas morales?",
+    "¿Cómo afecta el ajuste por inflación a mis ingresos como empreso?",
+    "¿Qué pasa con los apoyos económicos que recibe mi empresa?",
+    "¿Los dividendos que recibo de otras empresas son acumulables?"
   ]
 }

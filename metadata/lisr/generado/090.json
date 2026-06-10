@@ -6,30 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cb8170dd71b7b8c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales de personas físicas",
+  "denominacion_comun": "Impuesto Sobre la Renta de Personas Físicas",
   "temas": [
-    "Impuesto sobre la renta",
-    "Ingresos gravables",
-    "Declaración anual",
-    "Moneda extranjera",
-    "Deudas y créditos",
-    "Partes relacionadas"
+    "obligación de pago del impuesto",
+    "ingresos",
+    "declaración anual",
+    "exenciones de ingresos",
+    "ganancias cambiarias",
+    "apoyos económicos",
+    "operaciones con partes relacionadas",
+    "residencia fiscal"
   ],
   "terminos_coloquiales": [
     "ISR",
     "declaración de impuestos",
-    "ingresos por donativos",
-    "ganancia cambiaria",
-    "obligaciones fiscales"
+    "ingresos por trabajos",
+    "donativos",
+    "premios",
+    "apoyos gubernamentales",
+    "ganancia por cambio de moneda",
+    "declarar ingresos"
   ],
-  "resumen": "El artículo establece las obligaciones de las personas físicas residentes en México y en el extranjero para el pago del impuesto sobre la renta, especificando los tipos de ingresos que deben declarar y cómo deben reportar ciertos apoyos económicos. También menciona las reglas para los ingresos provenientes de partes relacionadas y el tratamiento de ganancias cambiarias.",
+  "resumen": "El artículo establece que las personas físicas residentes en México deben pagar impuestos sobre diversos tipos de ingresos y declarar ciertos montos en su declaración anual. Además, menciona especificaciones sobre ingresos que no se consideran para el impuesto y regulaciones sobre operaciones con partes relacionadas.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos deben reportar las personas físicas en su declaración de impuestos?",
-    "¿Los fondos recibidos como donativos cuentan como ingresos gravables?",
-    "¿Cómo se declaran los ingresos obtenidos en el extranjero?",
-    "¿Qué es una ganancia cambiaria y cómo se declara?",
-    "¿Qué obligaciones tienen las personas físicas al tratar con partes relacionadas?"
+    "¿Qué ingresos debo declarar en mi declaración anual?",
+    "¿Los donativos que recibo son considerados ingresos?",
+    "¿Cómo afectan los apoyos económicos a mis impuestos?",
+    "¿Qué pasa si cambio mi residencia a otro país?",
+    "¿Cómo se determina si tengo que pagar ISR por ganancias cambiarias?",
+    "¿Qué son las operaciones con partes relacionadas y cómo afectan mis impuestos?"
   ]
 }

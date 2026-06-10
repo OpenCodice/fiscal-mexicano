@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af216b9e80225e3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estímulo fiscal para equipos de alimentación de vehículos eléctricos",
@@ -14,22 +15,20 @@
     "impuesto sobre la renta",
     "inversiones",
     "vehículos eléctricos",
-    "lugares públicos",
-    "acreditamiento",
-    "ejercicios fiscales"
+    "lugares públicos"
   ],
   "terminos_coloquiales": [
-    "crédito por equipos eléctricos",
-    "estímulo fiscal",
-    "efecto del crédito fiscal",
-    "impuesto sobre la renta"
+    "crédito fiscal",
+    "inversiones en cargadores de autos eléctricos",
+    "estimulo para cargadores eléctricos"
   ],
-  "resumen": "Se ofrece un crédito fiscal del 30% por inversiones en equipos de alimentación para vehículos eléctricos en lugares públicos. Este crédito se puede usar para reducir el impuesto sobre la renta y puede acreditarse en años siguientes si no se utiliza en el periodo correspondiente.",
+  "resumen": "Se otorga un crédito fiscal del 30% a los contribuyentes del impuesto sobre la renta por las inversiones en equipos de alimentación para vehículos eléctricos, siempre que estén instalados en lugares públicos. Si el crédito es mayor al impuesto a pagar, se puede utilizar la diferencia en los siguientes diez ejercicios.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un crédito fiscal por invertir en equipos de vehículos eléctricos?",
-    "¿Qué porcentaje del monto de inversión puedo acreditar por equipos de alimentación de vehículos eléctricos?",
-    "Si no uso el crédito fiscal este año, ¿puedo aplicarlo en los próximos años?",
-    "¿Dónde deben estar instalados los equipos para calificar para el estímulo fiscal?",
-    "¿El crédito fiscal se limita a un solo ejercicio fiscal?"
+    "¿Qué es el estímulo fiscal para cargadores de autos eléctricos?",
+    "¿Cómo puedo obtener el crédito fiscal por inversiones en cargadores de vehículos eléctricos?",
+    "¿El crédito fiscal por equipos de alimentación de vehículos eléctricos se puede acumular?",
+    "¿Cuál es el porcentaje del crédito fiscal para inversiones en cargadores eléctricos?",
+    "¿Qué pasa si no utilizo el crédito fiscal en el ejercicio correspondiente?",
+    "¿Los créditos fiscales por inversiones en vehículos eléctricos son deducibles?"
   ]
 }

@@ -6,35 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7828701493f0566c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos Acumulables de Personas Físicas",
+  "denominacion_comun": "Ingresos acumulables de personas físicas",
   "temas": [
     "ingresos acumulables",
-    "actividades empresariales",
-    "servicios profesionales",
-    "condonaciones",
-    "deudas",
-    "enajenación",
+    "deudas condonadas",
+    "ventas y enajenaciones",
+    "seguros y fianzas",
+    "patentes aduanales",
     "derechos de autor",
-    "utilidades",
-    "establecimientos permanentes"
+    "intereses",
+    "descuentos y bonificaciones",
+    "ganancia por enajenación de activos"
   ],
   "terminos_coloquiales": [
-    "ingresos por actividades empresariales",
-    "ingresos profesionales",
+    "ingresos de negocios",
     "deudas perdonadas",
-    "condonaciones de deudas",
-    "RIF",
-    "ingresos presuntivos"
+    "ventas de cuentas por cobrar",
+    "seguros",
+    "patentes",
+    "obra artística",
+    "intereses",
+    "descuentos"
   ],
-  "resumen": "El artículo establece qué se considera como ingresos acumulables para personas físicas que realizan actividades empresariales o profesionales, incluyendo quitas, condonaciones y distintos tipos de ingresos. Incluye condiciones específicas para deudas perdonadas y ganancias por enajenación de activos.",
+  "resumen": "Este artículo establece qué se considera como ingresos acumulables para las personas físicas que realizan actividades empresariales o prestan servicios profesionales. Incluye aspectos como deudas condonadas, ingresos por enajenación de activos y ganancias por seguros.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de ingresos son acumulables para personas físicas?",
-    "¿Cómo se consideran las condonaciones de deudas?",
-    "¿Qué ingresos se generan al vender obras de arte?",
-    "¿Se consideran ingresos los intereses cobrados por servicios profesionales?",
-    "¿Cómo afecta la enajenación de cuentas por cobrar a mis ingresos acumulables?",
-    "¿Qué pasa si mis ingresos provienen de actividades en el extranjero?"
+    "¿Qué ingresos debo declarar si me perdonan una deuda?",
+    "¿Cómo se consideran los seguros como ingreso acumulable?",
+    "¿Qué pasa si vendo un activo de mi negocio?",
+    "¿Los intereses de mis cuentas se consideran ingresos?",
+    "¿Qué debo hacer si recibo un descuento en mis ventas?"
   ]
 }

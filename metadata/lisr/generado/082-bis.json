@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa6b8bb465300dfb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
+  "denominacion_comun": "Régimen de Donatarias",
   "temas": [
     "donativos deducibles",
+    "comprobantes fiscales",
     "información a autoridades fiscales",
-    "comprobante fiscal",
-    "ingreso omitido",
-    "patrimonio",
     "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "donativos no lucrativos",
-    "instituciones autorizadas",
-    "IMCNL"
+    "donaciones",
+    "recibir donativos",
+    "donativos no deducibles",
+    "SAT",
+    "impuesto sobre la renta"
   ],
-  "resumen": "Las organizaciones que reciben donativos deducibles deben informar sobre los bienes y destinatarios al fisco. Si no lo hacen, se considerarán ingresos omitidos y deberán pagar impuestos. Además, los donativos deben contar con un comprobante fiscal para ser considerados.",
+  "resumen": "Este artículo establece que las instituciones autorizadas para recibir donativos deducibles deben informar al SAT sobre los bienes recibidos y las entidades a las que se destinó su patrimonio. Además, detalla que si no se cumple con esta obligación, los bienes serán considerados como ingresos omitidos y estarán sujetos al impuesto sobre la renta.",
   "preguntas_ejemplo": [
-    "¿Qué son los donativos deducibles de impuestos?",
-    "¿Qué deben informar las instituciones que reciben donativos?",
-    "¿Qué pasa si no se informa sobre los donativos?",
-    "¿Cómo se emite el comprobante fiscal por un donativo?",
-    "¿Por qué un donativo no sería deducible?",
-    "¿Qué implica ser una entidad autorizada para recibir donativos?"
+    "¿Qué instituciones pueden recibir donativos deducibles?",
+    "¿Cuáles son las obligaciones de las donatarias ante el SAT?",
+    "¿Qué sucede si no informo sobre los donativos recibidos?",
+    "¿Los donativos siempre son deducibles para el impuesto sobre la renta?",
+    "¿Qué tipo de comprobante necesito para un donativo?"
   ]
 }

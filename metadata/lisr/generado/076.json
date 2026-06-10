@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:228ec13ff02b1e45",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones de las Personas Morales",
@@ -13,27 +14,27 @@
     "Contabilidad",
     "Comprobantes fiscales",
     "Declaraciones fiscales",
-    "Operaciones con partes relacionadas",
+    "Partes relacionadas",
     "Inventarios",
-    "Dividendos y utilidades",
-    "Información fiscal",
-    "Establecimientos en el extranjero"
+    "Dividendos",
+    "Operaciones con el extranjero"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales",
-    "declaraciones de impuestos",
-    "contabilidad para empresas",
-    "comprobantes fiscales electrónicos",
-    "dividendos",
-    "RIF"
+    "llevar contabilidad",
+    "expedir facturas",
+    "hacer declaraciones",
+    "operaciones con partes relacionadas",
+    "control de inventarios",
+    "pagar dividendos",
+    "ingresos acumulables"
   ],
-  "resumen": "Este artículo establece las obligaciones que tienen las personas morales en relación a la contabilidad, comprobantes fiscales, declaraciones y operaciones con partes relacionadas. Incluye también requisitos específicos para la información sobre operaciones con establecimientos en el extranjero y el manejo de inventarios.",
+  "resumen": "Las personas morales deben cumplir con diversas obligaciones contables y fiscales, que incluyen llevar registros contables, expedir comprobantes fiscales, presentar declaraciones en tiempo y forma, y manejar operaciones con partes relacionadas. Estas obligaciones buscan garantizar la transparencia y el correcto cumplimiento de las normativas fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones fiscales de una persona moral?",
-    "¿Cómo debo llevar mi contabilidad como empresa?",
-    "¿Qué tipo de comprobantes fiscales debo expedir?",
-    "¿Qué información debo presentar sobre mis operaciones con partes relacionadas?",
-    "¿Cuándo debo presentar mis declaraciones fiscales?",
-    "¿Qué requisitos tengo al manejar dividendos en mi empresa?"
+    "¿Qué debo hacer para llevar mi contabilidad correctamente?",
+    "¿Cuáles son los comprobantes fiscales que debo expedir?",
+    "¿Qué información debo incluir en mis declaraciones fiscales?",
+    "¿Qué obligaciones tengo al realizar operaciones con partes relacionadas?",
+    "¿Cómo manejo el control de mis inventarios?",
+    "¿Qué requisitos debo seguir para el pago de dividendos?"
   ]
 }

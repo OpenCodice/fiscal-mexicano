@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4c784f906321359f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operaciones Financieras Derivadas",
@@ -14,23 +15,23 @@
     "pérdida deducible",
     "liquidación en efectivo",
     "liquidación en especie",
-    "enajenación de derechos",
+    "derechos y obligaciones",
     "tipo de cambio",
-    "ajuste anual por inflación",
     "intereses acumulables",
-    "intereses deducibles"
+    "ajuste anual por inflación"
   ],
   "terminos_coloquiales": [
-    "derivados financieros",
-    "operaciones derivadas",
-    "ganancias por derivados"
+    "derivados",
+    "ganancias y pérdidas de derivados",
+    "operaciones con derivados",
+    "intereses de derivados"
   ],
-  "resumen": "El artículo establece cómo determinar la ganancia acumulable o la pérdida deducible en operaciones financieras derivadas, dependiendo de cómo se realice la liquidación. Se abordan diferentes escenarios, como liquidaciones en efectivo, en especie y el ejercicio de derechos u obligaciones en varios casos.",
+  "resumen": "El artículo establece cómo determinar las ganancias acumulables o pérdidas deducibles en operaciones financieras derivadas, especificando las condiciones bajo las cuales se considera la liquidez en efectivo o en especie, y cómo se manejan los derechos y obligaciones involucrados. También aborda el tratamiento fiscal de los intereses y los ajustes por inflación relacionados con estas operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias de una operación financiera derivada?",
-    "¿Qué ocurre si no ejerzo mi derecho en una operación derivada?",
-    "¿Cómo se determina la pérdida deducible de una operación derivada?",
-    "¿Qué se considera al liquidar una operación financiera en especie?",
-    "¿Se incluye el ajuste por inflación en las operativas derivadas?"
+    "¿Cómo se calcula la ganancia de una operación con derivados?",
+    "¿Qué pasa si no ejercito un derecho en una operación financiera derivada?",
+    "¿Cómo se determina la pérdida en una operación financiera derivada?",
+    "¿Qué es una liquidación en especie en las operaciones derivadas?",
+    "¿Cómo afectan los intereses en las operaciones con derivados?"
   ]
 }

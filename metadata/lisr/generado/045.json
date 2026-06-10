@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:04dc8ad23c96f9a1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajuste por inflación en créditos",
+  "denominacion_comun": "Créditos y ajustes por inflación",
   "temas": [
-    "créditos",
     "derechos de crédito",
+    "inversiones en acciones",
+    "operaciones financieras",
     "exclusiones de créditos",
     "ajuste anual por inflación",
-    "saldos a favor por contribuciones"
+    "saldos a favor",
+    "devoluciones fiscales"
   ],
   "terminos_coloquiales": [
-    "créditos a considerar",
-    "exclusiones de créditos",
+    "créditos",
+    "derechos a cobrar",
+    "factoraje",
+    "inversiones",
     "ajuste por inflación",
-    "créditos fiscales"
+    "saldo a favor"
   ],
-  "resumen": "El artículo establece qué se considera como crédito para efectos fiscales y excluye ciertos tipos de créditos, como los que no provienen de actividades empresariales o aquellos a cargo de personas físicas en condiciones específicas. Además, detalla cómo se aplica el ajuste por inflación a los créditos acumulables.",
+  "resumen": "Este artículo define qué se considera crédito para efectos fiscales y establece excepciones. También explica cómo se manejan los créditos en relación con el ajuste anual por inflación y los saldos a favor por contribuciones.",
   "preguntas_ejemplo": [
-    "¿Qué créditos se consideran para el ajuste por inflación?",
-    "¿Cuáles son las exclusiones de créditos según la ley?",
-    "¿Cómo se afecta el ajuste por inflación a los créditos cancelados?",
-    "¿Qué pasa con los saldos a favor en contribuciones?",
-    "¿Se consideran como créditos los pagos provisionales de impuestos?"
+    "¿Qué se considera un crédito en la legislación fiscal?",
+    "¿Cuáles son las excepciones a los créditos según la ley?",
+    "¿Cómo se aplica el ajuste por inflación a los créditos?",
+    "¿Qué pasa con los saldos a favor en la declaración de impuestos?",
+    "¿Qué ingresos no se consideran créditos para efectos fiscales?"
   ]
 }

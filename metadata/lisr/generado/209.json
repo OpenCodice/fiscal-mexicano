@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d3e9b66f4221b28d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción por Inversiones",
+  "denominacion_comun": "Deducción por inversiones",
   "temas": [
-    "estímulos fiscales",
-    "deducción de inversiones",
-    "porcentajes de deducción",
+    "deducción fiscal",
+    "inversiones",
+    "porcentajes máximos",
     "activos fijos",
     "gastos diferidos",
-    "inversiones permitidas"
+    "periodos preoperativos"
   ],
   "terminos_coloquiales": [
     "deducción de inversiones",
-    "estímulos fiscales",
-    "LISR",
-    "artículo 209"
+    "deducción fiscal",
+    "gastos diferidos",
+    "activos",
+    "inversiones en maquinaria",
+    "deducción por activos fijos"
   ],
-  "resumen": "Este artículo establece los porcentajes máximos de deducción que pueden aplicar los contribuyentes sobre las inversiones realizadas, siempre que no excedan de tres millones de pesos en el ejercicio. Incluye diferentes porcentajes según el tipo de gasto o activo fijo, así como las condiciones para su aplicación.",
+  "resumen": "Este artículo establece los porcentajes máximos autorizados para la deducción de inversiones que pueden realizar los contribuyentes. Los porcentajes varían según el tipo de inversión y se aplican sobre el monto original de la inversión, independientemente de si esta fue pagada en su totalidad.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los porcentajes de deducción por inversiones?",
-    "¿Qué se considera una inversión para deducir impuestos?",
-    "¿Existen límites en las deducciones por inversiones?",
-    "¿Cómo se determina la deducción para activos fijos?",
-    "¿Qué tipo de activos tienen porcentajes especiales de deducción?"
+    "¿Cuánto puedo deducir por mis inversiones?",
+    "¿Qué porcentajes se aplican a las deducciones de activos fijos?",
+    "¿Cómo se determina la deducción por gastos diferidos?",
+    "¿Qué tipos de inversiones puedo deducir?",
+    "¿Puedo deducir mis inversiones aunque no las haya pagado completas?"
   ]
 }

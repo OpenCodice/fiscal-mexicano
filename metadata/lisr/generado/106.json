@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1ca9f9728b2b9b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos Provisionales de Impuesto",
+  "denominacion_comun": "Pagos Provisionales del Impuesto",
   "temas": [
     "pagos provisionales",
     "impuesto sobre la renta",
-    "deducciones autorizadas",
+    "deducciones",
     "retenciones",
     "servicios profesionales",
     "personas morales",
-    "comprobantes fiscales"
+    "comprobante fiscal",
+    "acreditamiento"
   ],
   "terminos_coloquiales": [
-    "pagos provisionales",
+    "pago provisional",
     "ISR",
-    "retenciones de impuesto",
-    "comprobantes de retención"
+    "deducciones autorizadas",
+    "retención del impuesto",
+    "cómputo de deducciones",
+    "factura",
+    "comprobante de retención"
   ],
-  "resumen": "Los contribuyentes deben realizar pagos provisionales mensuales del impuesto sobre la renta, restando deducciones autorizadas e incluyendo retenciones por servicios profesionales. Estos pagos se determinan con base en ingresos obtenidos y se deben presentar ante las autoridades fiscales.",
+  "resumen": "Los contribuyentes deben hacer pagos provisionales mensuales del impuesto sobre la renta, que se calcularán restando las deducciones y participaciones de utilidades. Las personas morales deben retener un 10% del monto recibido por servicios profesionales y proporcionar un comprobante fiscal.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer mis pagos provisionales de ISR?",
-    "¿Qué deducciones puedo restar en mis pagos provisionales?",
-    "¿Cómo se calculan los pagos provisionales si presto servicios profesionales?",
-    "¿Qué sucede si ya hice pagos provisionales antes?",
-    "¿Qué retenciones aplican las personas morales sobre mis ingresos?"
+    "¿Cómo se calculan los pagos provisionales de ISR?",
+    "¿Qué deducciones puedo restar de mis ingresos?",
+    "¿Cómo funciona la retención del 10% para servicios profesionales?",
+    "¿Qué documentos necesito para comprobar mis retenciones?",
+    "¿Qué hacer si la persona moral no me entrega el comprobante fiscal?"
   ]
 }

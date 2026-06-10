@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:678112fc793990f1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones con partes relacionadas",
+  "denominacion_comun": "Precios de Transferencia",
   "temas": [
-    "precios de transferencia",
+    "operaciones con partes relacionadas",
     "ingresos acumulables",
     "deducciones autorizadas",
-    "partes relacionadas",
-    "ajustes razonables",
-    "operaciones comparables",
+    "métodos de comparación",
+    "parte relacionada",
     "fideicomisos",
-    "asociaciones en participación"
+    "regímenes fiscales preferentes"
   ],
   "terminos_coloquiales": [
     "precios de transferencia",
-    "PT",
-    "partes relacionadas",
-    "operaciones con partes relacionadas"
+    "parte relacionada",
+    "operaciones comparables",
+    "deducciones",
+    "ingresos",
+    "regímenes fiscales",
+    "Régimen de Precios de Transferencia"
   ],
-  "resumen": "Los contribuyentes que realicen operaciones con partes relacionadas deben determinar sus ingresos y deducciones basándose en precios y montos de contraprestaciones utilizados en operaciones comparables. Si no se cumplen estos criterios, las autoridades fiscales pueden ajustar estas cantidades utilizando métodos establecidos por la ley.",
+  "resumen": "El artículo establece las obligaciones de los contribuyentes al realizar operaciones con partes relacionadas, exigiendo que sus ingresos acumulables y deducciones sean determinados considerando precios y montos de contra prestaciones en operaciones comparables. Las autoridades fiscales pueden intervenir si no se cumplen estos lineamientos.",
   "preguntas_ejemplo": [
-    "¿Qué son las operaciones con partes relacionadas?",
-    "¿Cómo se determinan los precios de transferencia?",
-    "¿Cuáles son las obligaciones fiscales de las empresas multinacionales?",
+    "¿Qué son los precios de transferencia?",
+    "¿Cómo se determinan los ingresos acumulables en operaciones con partes relacionadas?",
+    "¿Qué pasa si un contribuyente no cumple con las normas de precios de transferencia?",
     "¿Qué se considera una operación comparable?",
-    "¿Qué sucede si no se usan precios de transferencia adecuados?"
+    "¿Cómo afectan los fideicomisos a los precios de transferencia?"
   ]
 }

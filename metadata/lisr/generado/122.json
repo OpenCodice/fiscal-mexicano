@@ -6,33 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4fb64d679d354594",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pérdidas en enajenación de bienes",
+  "denominacion_comun": "Pérdidas en Enajenación de Bienes",
   "temas": [
     "pérdidas fiscales",
     "enajenación de bienes",
-    "bienes inmuebles",
-    "acciones",
-    "partes sociales",
-    "certificados de aportación",
-    "tasa de impuesto",
-    "acreditamiento de impuestos",
-    "deducción de pérdidas"
+    "impuestos sobre la renta",
+    "deducción de pérdidas",
+    "acreditamiento de impuestos"
   ],
   "terminos_coloquiales": [
     "pérdidas por venta",
-    "deducción de pérdidas",
-    "Régimen General",
-    "LISR"
+    "reducir pérdidas",
+    "impuesto sobre la renta",
+    "ISR",
+    "ganancia en venta de propiedades"
   ],
-  "resumen": "El artículo establece cómo los contribuyentes pueden disminuir pérdidas sufridas en la venta de ciertos bienes, dividiendo la pérdida por los años transcurridos y acreditando impuestos en años posteriores. Si no se aprovechan estas deducciones, se pierde el derecho a hacerlo más adelante.",
+  "resumen": "Los contribuyentes pueden disminuir las pérdidas sufridas en la venta de bienes inmuebles y otros activos, dividiendo la pérdida entre los años entre la compra y la venta. También pueden acreditar estas pérdidas contra impuestos en años subsecuentes.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo disminuir mis pérdidas por la venta de un inmueble?",
-    "¿Qué condiciones debo cumplir para deducir pérdidas por enajenación de bienes?",
-    "¿Puedo acreditar las pérdidas en años futuros?",
-    "¿Qué sucede si no deduzco mi pérdida este año?",
-    "¿Qué bienes son considerados para la deducción de pérdidas?",
-    "¿Cómo se calcula la tasa de impuesto sobre las pérdidas?"
+    "¿Cómo puedo deducir pérdidas por la venta de una propiedad?",
+    "¿Qué sucede si no utilizo la deducción de pérdidas en un año?",
+    "¿Puedo acreditar mis pérdidas en años siguientes?",
+    "¿Cómo se calcula la parte de la pérdida que puedo deducir?",
+    "¿Qué tasa de impuesto aplicar si sufrí pérdidas en la venta de acciones?"
   ]
 }

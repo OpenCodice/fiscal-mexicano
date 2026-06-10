@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea2490a03ef11eec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de contribuyentes por ingresos por salarios",
+  "denominacion_comun": "Obligaciones de Contribuyentes por Ingresos de Sueldos",
   "temas": [
     "Registro Federal de Contribuyentes",
+    "Constancias fiscales",
     "Declaración anual",
-    "Constancias de ingresos",
-    "Retenciones de impuesto",
-    "Servicios personales subordinados"
+    "Retenciones de impuestos",
+    "Servicios personales subordinados",
+    "Subsidio para el empleo",
+    "Ingresos acumulables",
+    "Empleadores"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales",
-    "declaración de salarios",
-    "RFC",
-    "impuesto sobre la renta",
-    "ISR"
+    "obligaciones de declaración",
+    "inscripción al RFC",
+    "constancias de retención",
+    "declaración anual",
+    "ingresos por sueldos",
+    "ingresos de salarios",
+    "subsidio al empleo"
   ],
-  "resumen": "Los contribuyentes que obtienen ingresos por salarios deben cumplir con varias obligaciones, como proporcionar datos al empleador y presentar su declaración anual en ciertos casos. También deben solicitar constancias de ingresos y comunicar cualquier situación relevante a su empleador.",
+  "resumen": "Los contribuyentes que obtienen ingresos por sueldos deben cumplir con ciertas obligaciones, como proporcionar su RFC a los empleadores y presentar su declaración anual en casos específicos. También deben solicitar constancias fiscales y comunicar a su empleador si trabajan para otros empleadores que apliquen subsidios.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tengo si gano dinero por un salario?",
-    "¿Necesito presentar declaración anualmente si recibo ingresos de varios empleadores?",
-    "¿Cómo solicito mis constancias de ingresos?",
-    "¿Qué hacer si tengo varios empleadores y aplican subsidios?",
-    "¿Cuándo debo comunicarle a mi empleador sobre mis ingresos?"
+    "¿Qué debo hacer si cambio de empleo y mi nuevo patrón me pide el RFC?",
+    "¿Cuándo tengo que presentar mi declaración anual si trabajo con varios empleadores?",
+    "¿Qué constancias son necesarias para entregar a mi patrón?",
+    "¿Cómo se aplica el subsidio para el empleo en múltiples trabajos?",
+    "¿Qué ingresos debo reportar en mi declaración anual?",
+    "¿Qué sucede si supero los $400,000 de ingresos anuales?"
   ]
 }

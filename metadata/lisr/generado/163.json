@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:118992f633ca590d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Residentes en el extranjero con ingresos",
+  "denominacion_comun": "Residentes en el extranjero con ingresos de operaciones financieras",
   "temas": [
-    "operaciones financieras",
-    "retenciones de impuestos",
+    "retención de impuestos",
+    "operaciones financieras derivadas",
     "ganancias de capital",
+    "tasa de impuesto",
     "establecimientos permanentes",
-    "acciones y títulos",
-    "impuesto sobre la renta"
+    "acciones y títulos valores"
   ],
   "terminos_coloquiales": [
-    "residentes en el extranjero",
-    "ingresos de extranjeros",
-    "impuesto a extranjeros",
-    "renta de no residentes"
+    "impuesto a residentes en el extranjero",
+    "ganancias por inversiones",
+    "tasa del 25%",
+    "acciones",
+    "inversiones en el extranjero"
   ],
-  "resumen": "Este artículo establece las obligaciones fiscales para los residentes en el extranjero que obtienen ingresos por operaciones financieras en México. Se determina la retención de un impuesto sobre las ganancias obtenidas, dependiendo de si hay un establecimiento permanente o no en el país.",
+  "resumen": "Este artículo regula cómo los residentes en el extranjero que generan ingresos a través de operaciones financieras derivadas están obligados a pagar impuestos en México. La tasa de impuesto se determina sobre las ganancias obtenidas y puede variar dependiendo de la naturaleza de la operación.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos deben pagar los residentes en el extranjero por ingresos en México?",
-    "¿Cómo se calculan las ganancias de capital para extranjeros?",
-    "¿Qué es un establecimiento permanente para fines fiscales?",
-    "¿Qué sucede si un residente en el extranjero opera en acciones en México?",
-    "¿Cuál es la tasa de impuesto para extranjeros con inversiones en México?"
+    "¿Cuánto impuesto debo pagar si soy residente en el extranjero y tengo ganancias de acciones en México?",
+    "¿Qué operaciones financieras derivadas están sujetas a impuestos en México para residentes en el extranjero?",
+    "¿Cómo se calcula el impuesto por inversiones en títulos valores si vivo fuera de México?",
+    "¿Qué significa tener un establecimiento permanente en el país para pagar impuestos?",
+    "¿Cuándo se debe realizar la retención del impuesto sobre operaciones financieras?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3deaff4097c2817e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de terrenos para desarrollos inmobiliarios",
+  "denominacion_comun": "Deducción de terrenos en construcción y enajenación",
   "temas": [
-    "construcción",
+    "deducción de terrenos",
+    "construcción inmobiliaria",
     "enajenación",
-    "desarrollos inmobiliarios",
-    "deducción de costos",
     "ingresos acumulables",
-    "terrenos"
+    "costos directos e indirectos",
+    "opciones fiscales",
+    "actualización de monto",
+    "escritura pública"
   ],
   "terminos_coloquiales": [
     "deducción de terrenos",
-    "costo de adquisición de terrenos",
-    "terrenos para desarrollo",
-    "LISR",
-    "monto deducido"
+    "desarrollos inmobiliarios",
+    "ingresos de construcción",
+    "costos de terrenos",
+    "ganancias de enajenación"
   ],
-  "resumen": "Los contribuyentes que se dediquen a la construcción y enajenación de desarrollos inmobiliarios pueden deducir el costo de adquisición de terrenos bajo ciertas condiciones. Deben cumplir con requisitos específicos relacionados con los ingresos acumulables y la enajenación de los terrenos.",
+  "resumen": "Este artículo permite a los contribuyentes que se dediquen a la construcción y venta de desarrollos inmobiliarios deducir el costo de adquisición de terrenos en el ejercicio en que los compren, siempre que cumplan con ciertos requisitos. También establece obligaciones relacionadas con el valor de enajenación y la actualización de deducciones si no se enajena el terreno en un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Cómo deduzco el costo de adquisición de terrenos?",
-    "¿Qué requisitos debo cumplir para la deducción de terrenos?",
-    "¿Qué pasa si no enajeno el terreno después de tres años?",
-    "¿Cómo afecta el ingreso acumulable al momento de enajenar el terreno?",
-    "¿Qué información debo incluir en la escritura pública de compra?"
+    "¿Puedo deducir el costo de los terrenos que compré para construir?",
+    "¿Qué requisitos debo cumplir para deducir terrenos en la construcción?",
+    "¿Cómo se actualiza el costo de adquisición de un terreno?",
+    "¿Qué pasa si no vendo un terreno después de tres años?",
+    "¿Qué información debe tener la escritura pública de un terreno?"
   ]
 }

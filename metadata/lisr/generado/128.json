@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88c0adf29d0be9e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por Enajenación de Bienes",
+  "denominacion_comun": "Ingresos por enajenación de bienes",
   "temas": [
-    "obligaciones fiscales",
-    "información de ingresos",
-    "enajenación de bienes",
+    "información a autoridades",
+    "ingresos",
     "contraprestaciones",
-    "formatos electrónicos",
-    "autoridades fiscales"
+    "medios electrónicos",
+    "moneda nacional",
+    "moneda extranjera",
+    "reglas generales"
   ],
   "terminos_coloquiales": [
-    "ingresos por venta de bienes",
-    "declaración de enajenación",
-    "reportar ingresos",
-    "LISR",
-    "SAT"
+    "ventas",
+    "vender bienes",
+    "declarar ingresos",
+    "reportar ventas",
+    "SAT",
+    "SHCP"
   ],
-  "resumen": "Los contribuyentes que ganen dinero vendiendo bienes deben informar al SAT sobre las cantidades recibidas si son mayores a cien mil pesos, usando formatos electrónicos y dentro de un plazo específico. Las reglas del SAT pueden indicar casos donde no se requiera esta información.",
+  "resumen": "Los contribuyentes que vendan bienes deben informar al SAT sobre las cantidades recibidas en efectivo que superen un monto específico, dentro de un plazo determinado. Existen reglas que podrían eximir a algunos de presentar esta información.",
   "preguntas_ejemplo": [
-    "¿Qué debo informar si vendo un bien?",
-    "¿Cuándo tengo que reportar mis ingresos por enajenación?",
-    "¿Qué pasa si la venta es menor a cien mil pesos?",
-    "¿Dónde encuentro los formatos para reportar mis ingresos?",
-    "¿A quién debo enviar la información sobre la venta de mis bienes?"
+    "¿Cuándo debo informar al SAT sobre la venta de un bien?",
+    "¿Qué información tengo que reportar por la venta de mis propiedades?",
+    "¿Hay algún monto a partir del cual debo declarar mis ingresos por ventas?",
+    "¿Qué pasa si no reporto mis ingresos por enajenación de bienes?",
+    "¿Quién tiene acceso a la información que reporto al SAT?"
   ]
 }

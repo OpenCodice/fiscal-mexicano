@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ab16bf64cca94edf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajuste de Valores",
   "temas": [
-    "factor de ajuste",
+    "Indexación",
+    "Ajustes monetarios",
+    "Valores de bienes",
+    "Operaciones económicas",
     "Índice Nacional de Precios al Consumidor",
-    "valor de bienes",
-    "valor de operaciones",
-    "modificación de valor"
+    "Cálculo de inflación"
   ],
   "terminos_coloquiales": [
     "ajuste de precios",
     "actualización de valores",
-    "INPC"
+    "factor de ajuste",
+    "factor de actualización",
+    "Índice de precios"
   ],
-  "resumen": "Este artículo establece cómo calcular el ajuste o la actualización de los valores de bienes y operaciones según la variación de precios. Usa el Índice Nacional de Precios al Consumidor para determinar el factor de ajuste y el factor de actualización en diferentes periodos.",
+  "resumen": "Este artículo establece cómo se deben ajustar los valores de bienes y operaciones debido a cambios en los precios a lo largo del tiempo. Describe el proceso para calcular ambos, el ajuste y la actualización, utilizando el Índice Nacional de Precios al Consumidor.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ajuste de valor de un bien?",
-    "¿Qué es el factor de ajuste y cómo se aplica?",
-    "¿Cómo influye el INPC en la actualización de valores?",
-    "¿Qué procedimiento sigo para determinar el valor de una operación después de un periodo?",
-    "¿Cuál es la diferencia entre el factor de ajuste y el factor de actualización?"
+    "¿Cómo se calcula el ajuste de precios de un bien?",
+    "¿Qué es el factor de actualización y cómo se usa?",
+    "¿Cuál es el Índice Nacional de Precios al Consumidor?",
+    "¿Qué métodos hay para ajustar el valor de operaciones económicas?",
+    "¿Cómo afecta la inflación al valor de mis bienes?"
   ]
 }

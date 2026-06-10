@@ -6,33 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:520c7b9e48e45264",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre ingresos de reaseguradoras",
+  "denominacion_comun": "Impuesto sobre ingresos de residentes en el extranjero",
   "temas": [
     "ingresos por primas",
     "reaseguradoras",
-    "residentes en el extranjero",
-    "establecimiento permanente",
-    "tasa del 2%",
-    "retenciones",
-    "pagos",
-    "fuente de riqueza"
+    "fuente de riqueza",
+    "residente en el extranjero",
+    "establecimientos permanentes",
+    "retención de impuesto"
   ],
   "terminos_coloquiales": [
     "impuesto a reaseguradoras",
-    "primas reaseguradas",
-    "residente extranjero",
-    "IEPS",
+    "pago de primas",
+    "residente en el extranjero",
     "retención del 2%"
   ],
-  "resumen": "Si una reaseguradora recibe primas de un residente en el país o de un residente en el extranjero con establecimiento permanente en el país, se considera que la fuente de riqueza está en México. Se debe pagar un impuesto del 2% sobre el monto bruto de las primas, el cual se retiene al realizar el pago.",
+  "resumen": "Se establecen las condiciones para considerar que los ingresos por primas de reaseguradoras tienen fuente de riqueza en México. Se detalla que el impuesto aplicable se calculará sobre el monto total sin deducciones y se retendrá en el momento del pago.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por primas de reaseguradoras?",
-    "¿Qué se considera fuente de riqueza en México para reaseguradoras?",
-    "¿Quién realiza la retención del impuesto a reaseguradoras?",
-    "¿Cuál es la tasa del impuesto por ingresos de reaseguradoras?",
-    "¿Qué pasa si la reaseguradora está en el extranjero?",
-    "¿Qué documentos necesito para el pago de impuestos de reaseguro?"
+    "¿Cómo se calcula el impuesto por primas pagadas a reaseguradoras?",
+    "¿Qué se considera como fuente de riqueza para residentes en el extranjero?",
+    "¿Cuál es la tasa de impuesto sobre ingresos de reaseguradoras?",
+    "¿Qué significa tener un establecimiento permanente en México?",
+    "¿Cómo se realiza la retención de impuestos para residentes en el extranjero?"
   ]
 }

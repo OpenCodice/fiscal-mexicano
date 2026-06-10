@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:787e7dee772f148a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones No Deducibles",
+  "denominacion_comun": "Deducciones no deducibles",
   "temas": [
-    "Impuestos",
-    "Gastos no deducibles",
+    "Impuesto sobre la renta",
+    "Contribuciones",
+    "Gastos de viaje",
     "Viáticos",
-    "Obsequios",
     "Intereses",
-    "Reservas",
     "Pérdidas",
-    "Comprobantes fiscales"
+    "Provisión de reservas"
   ],
   "terminos_coloquiales": [
+    "gastos no deducibles",
     "deducciones",
-    "gastos implicados",
-    "deducciones no deducibles",
-    "LISR"
+    "impuesto sobre la renta",
+    "viáticos",
+    "gastos de viaje",
+    "intereses no deducibles"
   ],
-  "resumen": "El artículo 28 de la LISR especifica cuáles gastos no pueden ser deducidos para efectos fiscales por las personas morales. Incluye conceptos como impuestos, viáticos no justificados, obsequios y ciertos intereses, entre otros.",
+  "resumen": "El artículo establece una lista de conceptos que no son deducibles para los contribuyentes, incluyendo impuestos, gastos de representación, obsequios, y algunos viáticos. También menciona restricciones sobre deducciones de intereses y pérdidas en ciertas transacciones.",
   "preguntas_ejemplo": [
     "¿Qué gastos no puedo deducir en mi declaración?",
     "¿Los viáticos son deducibles?",
-    "¿Qué tipo de impuestos no se pueden deducir?",
-    "¿Se pueden deducir los gastos de representación?",
-    "¿Qué sucede con los gastos en comedores?"
+    "¿Qué impuestos no son deducibles para las empresas?",
+    "¿Puedo deducir los intereses de mis préstamos?",
+    "¿Hay límites para deducir los gastos de viaje?",
+    "¿Qué sucede con los obsequios que doy a mis clientes?"
   ]
 }

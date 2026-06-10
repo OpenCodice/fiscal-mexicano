@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8efc9b9dbfd7c7f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos de Residentes en el Extranjero",
   "temas": [
-    "impuestos",
-    "retenciones",
-    "servicios de construcción",
-    "representantes fiscales",
-    "fuente de riqueza"
+    "impuesto sobre ingresos",
+    "retención de impuesto",
+    "ingresos por servicios de construcción",
+    "deducciones autorizadas",
+    "representante en el país"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre ingresos",
-    "retenedores de impuestos",
-    "obras en México",
-    "LISR",
-    "tasa del 25%"
+    "cobro de obras",
+    "servicios de construcción",
+    "tasa del 25%",
+    "ingresos por construcción",
+    "retención de impuestos"
   ],
-  "resumen": "Se establece que los ingresos por servicios de construcción y relacionados se consideran en México si se realizan dentro del país. El impuesto aplicable es del 25% sobre el ingreso obtenido, y debe ser retenido por quien realice el pago. Si hay un representante en México, se puede aplicar una tasa máxima sobre ciertos ingresos después de deducciones.",
+  "resumen": "Se establece que los ingresos por servicios de construcción realizados en México se consideran generados en el país, y se aplicará una tasa del 25% sin deducciones. Si hay un representante en México, se pueden aplicar deducciones autorizadas y el representante calculará el impuesto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar si soy residente en el extranjero y realizo obras en México?",
-    "¿Cómo se calcula la retención de impuestos para servicios de construcción en México?",
-    "¿Qué tasa de impuesto se aplica a los ingresos por obras realizadas en el país?",
-    "¿Necesito un representante fiscal en México para pagar mis impuestos?",
-    "¿Puedo deducir gastos si soy residente en el extranjero que trabaja en México?"
+    "¿Cómo se determinan los impuestos para residentes en el extranjero que prestan servicios en México?",
+    "¿Qué tasa se aplica a los ingresos por construcción de obras en México?",
+    "¿Es necesario tener un representante en México para calcular el impuesto sobre estos ingresos?",
+    "¿Qué deducciones están permitidas para residentes en el extranjero con ingresos en México?",
+    "¿Cómo se realiza la retención de impuestos en estos casos?"
   ]
 }

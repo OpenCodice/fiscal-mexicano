@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7d0f8496d49fec7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
@@ -13,21 +14,23 @@
     "sociedades integradoras",
     "acciones con derecho a voto",
     "propiedad de acciones",
-    "intercambio de información",
-    "sociedades residentes en México"
+    "requisitos para integración",
+    "sociedades residentes",
+    "intercambio de información"
   ],
   "terminos_coloquiales": [
-    "Régimen de Grupos de Sociedades",
-    "sociedades integradoras",
-    "acciones",
-    "propiedad de acciones"
+    "agrupamiento de empresas",
+    "grupos de sociedades",
+    "sociedades controladoras",
+    "acción con voto",
+    "acción de goce"
   ],
-  "resumen": "Este régimen se aplica a las sociedades que cumplen ciertos requisitos, como ser residentes en México y poseer más del 80% de las acciones de otras sociedades. También especifica que no pueden tener más del 80% de sus acciones controladas por otras sociedades, salvo ciertas excepciones.",
+  "resumen": "El régimen establece los requisitos que deben cumplir las sociedades para ser consideradas integradoras, como la propiedad de más del 80% de las acciones de otras sociedades y ciertas limitaciones sobre la propiedad de sus acciones. Además, detalla cómo se deben considerar las acciones y partes sociales en este contexto.",
   "preguntas_ejemplo": [
-    "¿Qué se considera una sociedad integradora?",
-    "¿Cuáles son los requisitos para calificar como sociedad integradora?",
-    "¿Qué porcentaje de acciones deben poseer para ser una sociedad integradora?",
-    "¿Qué implicaciones tiene el intercambio de información para estas sociedades?",
-    "¿Cómo se determina la propiedad de acciones con derecho a voto?"
+    "¿Qué se necesita para que una sociedad sea considerada integradora?",
+    "¿Cuánto porcentaje de acciones debo poseer para ser parte de un grupo de sociedades?",
+    "¿Qué acciones no cuentan como acciones con derecho a voto?",
+    "¿Cuáles son los requisitos de residencia para las sociedades integradoras?",
+    "¿Cómo se relacionan las sociedades entre sí en este régimen?"
   ]
 }

@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e304e5f4d769581",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Discrepancia Fiscal",
   "temas": [
-    "Erogaciones",
-    "Ingresos declarados",
+    "personas físicas",
+    "erogaciones",
+    "ingresos declarados",
     "Registro Federal de Contribuyentes",
-    "Omisión de ingresos",
-    "Notificación de discrepancias",
-    "Pruebas de procedencia",
-    "Liquidación de ingresos gravados"
+    "presunción de ingresos",
+    "retenciones",
+    "información fiscal"
   ],
   "terminos_coloquiales": [
     "discrepancia fiscal",
-    "diferencia de ingresos",
-    "gastos no declarados",
-    "RFC"
+    "gastos",
+    "declaración de ingresos",
+    "RF",
+    "obligaciones fiscales"
   ],
-  "resumen": "El artículo establece que las personas físicas pueden ser sujetas a un procedimiento de discrepancia fiscal si sus erogaciones en un año son mayores a sus ingresos declarados. También menciona cómo se consideran las erogaciones y los procesos de notificación y aclaración a seguir por parte de las autoridades fiscales.",
+  "resumen": "El artículo establece que las personas físicas pueden ser objeto de discrepancia fiscal si sus erogaciones superan sus ingresos declarados. Se consideran erogaciones diversos gastos, adquisiciones y depósitos. Si no se presenta adecuada justificación, se presumirá que dicho monto son ingresos gravados.",
   "preguntas_ejemplo": [
-    "¿Qué es la discrepancia fiscal?",
-    "¿Cómo se determina si tengo discrepancia en mis ingresos?",
     "¿Qué pasa si mis gastos son mayores que mis ingresos declarados?",
-    "¿Qué debo hacer si me notifican una discrepancia fiscal?",
-    "¿Qué información pueden utilizar las autoridades fiscales para detectar discrepancias?",
-    "¿Cómo puedo comprobar que mis erogaciones no son ingresos gravados?"
+    "¿Cómo se determina la discrepancia fiscal en personas físicas?",
+    "¿Qué erogaciones se consideran para la discrepancia fiscal?",
+    "¿Qué sucede si no estoy en el RFC pero tengo erogaciones?",
+    "¿Qué plazos tengo para aclarar una discrepancia fiscal?"
   ]
 }

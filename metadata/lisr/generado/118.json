@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2023558a121ad8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso por arrendamiento",
+  "denominacion_comun": "Ingresos por arrendamiento",
   "temas": [
-    "Registro Federal de Contribuyentes",
-    "Contabilidad",
-    "Comprobantes fiscales",
-    "Declaraciones provisionales",
-    "Informes a autoridades fiscales",
-    "Fideicomisos"
+    "inscripción en el RFC",
+    "contabilidad",
+    "comprobantes fiscales",
+    "declaraciones provisionales",
+    "información a autoridades fiscales",
+    "fideicomisos"
   ],
   "terminos_coloquiales": [
-    "ingresos de arrendamiento",
-    "RIF",
-    "comprobantes fiscales",
-    "declaraciones de arrendamiento"
+    "rentas",
+    "alquiler",
+    "recibo de renta",
+    "pago de impuestos de arrendamiento",
+    "declaraciones de arrendatarios",
+    "SAT"
   ],
-  "resumen": "Los contribuyentes que obtengan ingresos por arrendamiento deben cumplir con varias obligaciones fiscales, como inscribirse en el RFC, llevar contabilidad y emitir comprobantes fiscales. También deben presentar declaraciones y reportar contraprestaciones en ciertos casos.",
+  "resumen": "Los contribuyentes que obtienen ingresos por arrendamiento deben inscribirse en el RFC, llevar contabilidad, expedir comprobantes fiscales y presentar declaraciones. También deben informar al SAT sobre ciertos ingresos recibidos en efectivo que superen un monto específico. En caso de fideicomisos, la institución fiduciaria se encarga de llevar la contabilidad y emitir comprobantes.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tengo si rento un inmueble?",
-    "¿Cómo debo reportar mis ingresos por arrendamiento?",
-    "¿Qué son los comprobantes fiscales y cómo los obtengo?",
-    "¿Debo hacer declaraciones si tengo ingresos por arrendamiento?",
-    "¿Qué pasa si no emito comprobantes fiscales por rentas?"
+    "¿Qué tengo que hacer para declarar mis ingresos por rentas?",
+    "¿Necesito un recibo de renta para mis pagos fiscales?",
+    "¿Cómo registro mis ingresos de alquiler en el RFC?",
+    "¿Qué información debo enviar al SAT sobre mis ingresos por arrendamiento?",
+    "¿Qué obligaciones tengo si mis ingresos son a través de un fideicomiso?"
   ]
 }

@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:59589e6dd31f17b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de Personas Físicas en Copropiedad",
+  "denominacion_comun": "Ingresos de personas físicas en copropiedad",
   "temas": [
     "copropiedad",
     "representante común",
-    "libros contables",
-    "comprobantes fiscales",
     "obligaciones fiscales",
     "retención de impuestos",
     "sociedad conyugal",
-    "sucesión",
-    "herederos"
+    "sucesiones",
+    "impuestos de herencia"
   ],
   "terminos_coloquiales": [
-    "copropietarios",
-    "grupo de copropietarios",
-    "representante fiscal",
-    "impuesto por sucesiones"
+    "ingresos en copropiedad",
+    "representante legal",
+    "herederos",
+    "pagos de impuestos",
+    "cuentas de copropietarios"
   ],
-  "resumen": "Cuando varias personas son copropietarias de bienes, deben designar a un representante común que maneje las obligaciones fiscales y contables. Este representante es responsable por las deudas fiscales y los copropietarios pueden ser responsables solidariamente. También se menciona el tratamiento fiscal de los ingresos en casos de sucesión.",
+  "resumen": "Cuando las personas físicas tienen ingresos de bienes en copropiedad, deben designar un representante común para cumplir con obligaciones fiscales. Este representante maneja los libros y los comprobantes fiscales, y los copropietarios son responsables solidariamente por cualquier incumplimiento. También se menciona cómo se manejan los impuestos en las sucesiones.",
   "preguntas_ejemplo": [
-    "¿Quién debe llevar los libros en una copropiedad?",
+    "¿Qué pasa si tengo ingresos de una propiedad en copropiedad?",
+    "¿Quién es el representante común en la copropiedad?",
     "¿Qué obligaciones fiscales tiene el representante común?",
     "¿Cómo se manejan los impuestos en una sucesión?",
-    "¿Los copropietarios son responsables por las deudas fiscales?",
-    "¿Qué pasa si hay varios herederos en una sucesión?",
-    "¿Cómo se acreditan los impuestos pagados por los herederos?"
+    "¿Los copropietarios son responsables de las deudas fiscales?"
   ]
 }

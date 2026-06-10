@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b72c7fed46ab1ff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Declaración Anual de Personas Físicas",
   "temas": [
-    "obligación de presentar declaración",
-    "ingresos acumulables",
-    "ingresos exentos",
+    "obligación de declaración",
     "impuesto anual",
-    "retención de impuestos",
-    "declaración de ingresos",
-    "servicio personal subordinado"
+    "ingresos acumulables",
+    "exenciones",
+    "retenciones",
+    "servicios personales",
+    "ingresos por intereses"
   ],
   "terminos_coloquiales": [
     "declaración anual",
-    "pago de impuestos",
     "impuesto sobre la renta",
-    "LISR",
-    "declaración de impuestos",
-    "declaración de personas físicas"
+    "ISR",
+    "ingresos acumulables",
+    "exenciones fiscales",
+    "retenciones de impuestos"
   ],
-  "resumen": "Las personas físicas deben presentar una declaración anual de ingresos en abril, a menos que sus ingresos acumulables no excedan ciertos límites. Si tienen ingresos por servicios subordinados, deben seguir lo que dice la ley.",
+  "resumen": "Las personas físicas deben presentar su declaración anual de impuestos en abril del año siguiente, excepto aquellos con ingresos bajos o que ya hayan pagado impuestos definitivos. Aquellos con ingresos totales superiores a $500,000 deben declarar todos sus ingresos, incluso los exentos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar mi declaración anual?",
-    "¿Qué ingresos son considerados acumulables para la declaración?",
-    "¿Puedo omitir la declaración si mis ingresos son bajos?",
-    "¿Qué pasa si obtengo ingresos por servicios subordinados?",
-    "¿Cómo se calcula el impuesto anual en la declaración?",
-    "¿Qué ingresos están exentos de declarar?"
+    "¿Cuándo debo presentar mi declaración anual de impuestos?",
+    "¿Qué ingresos debo declarar si obtuve más de $500,000?",
+    "¿Puedo omitir la declaración si mis ingresos son menores a $400,000?",
+    "¿Qué pasa si ya pagué impuestos definitivos?",
+    "¿Cómo afectan las retenciones a mi declaración anual?",
+    "¿Qué debo saber sobre ingresos por servicios personales?"
   ]
 }

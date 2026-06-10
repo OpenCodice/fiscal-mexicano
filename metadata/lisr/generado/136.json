@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e32b95ec19310c33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos por Intereses",
   "temas": [
+    "obligaciones fiscales",
     "Registro Federal de Contribuyentes",
-    "Declaración anual",
-    "Retenciones",
-    "Impuesto sobre la renta",
-    "Obligaciones fiscales"
+    "declaración anual",
+    "documentación fiscal",
+    "retenciones",
+    "pago de impuestos"
   ],
   "terminos_coloquiales": [
-    "Intereses",
-    "Declaración de intereses",
-    "ISR (Impuesto sobre la Renta)"
+    "intereses",
+    "declaración de intereses",
+    "RIF",
+    "impuesto sobre intereses"
   ],
-  "resumen": "Este artículo establece las obligaciones de las personas que obtienen ingresos por intereses, que incluyen registrarse en el RFC, presentar declaración anual y conservar la documentación correspondiente. No aplica a quienes opten por no acumular estos ingresos.",
+  "resumen": "Este artículo establece obligaciones para quienes generan ingresos por intereses, como inscribirse en el Registro Federal de Contribuyentes y presentar una declaración anual. También deben guardar la documentación relacionada con esos ingresos y proporcionar información al SAT si realizan pagos de intereses.",
   "preguntas_ejemplo": [
     "¿Qué obligaciones tengo si recibo intereses?",
-    "¿Necesito registrarme en el RFC si solo tengo ingresos por intereses?",
-    "¿Debo presentar declaración anual por mis ingresos de intereses?",
-    "¿Qué documentación debo conservar para mis ingresos por intereses?",
-    "¿Las instituciones que pagan intereses deben informar al SAT?"
+    "¿Necesito inscribirme en el RFC si obtengo ingresos por intereses?",
+    "¿Cuándo debo presentar mi declaración anual por ingresos por intereses?",
+    "¿Qué documentación debo conservar si recibo intereses?",
+    "¿Cómo y cuándo reporto los intereses que pago al SAT?"
   ]
 }

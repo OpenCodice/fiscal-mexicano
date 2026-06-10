@@ -6,13 +6,14 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47a743cb4b504086",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses",
   "temas": [
     "rendimientos de créditos",
     "deuda pública",
-    "bonos y obligaciones",
+    "bonos",
     "factoraje financiero",
     "arrendamiento financiero",
     "cesión de derechos",
@@ -20,18 +21,19 @@
   ],
   "terminos_coloquiales": [
     "intereses",
-    "rendimientos",
-    "ganancias por créditos",
-    "arrendamiento",
-    "factoraje",
-    "ganancia cambiaria"
+    "ganancias de créditos",
+    "rendimientos de bonos",
+    "gastos de financiamiento",
+    "préstamos",
+    "arrendamientos",
+    "acciones de fondos de inversión"
   ],
-  "resumen": "Este artículo define qué se considera como intereses para efectos fiscales, incluyendo rendimientos de créditos, operaciones de factoraje y arrendamientos financieros. También aborda cómo se tratan las ganancias y pérdidas cambiarias y las derivadas de la enajenación de acciones de fondos de inversión en deuda.",
+  "resumen": "El artículo establece qué se considera como intereses en diversas operaciones financieras, incluyendo créditos, bonos, y arrendamientos. También trata sobre el tratamiento fiscal de las ganancias cambiarias y la enajenación de acciones de fondos de inversión de deuda.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un interés según la ley?",
-    "¿Cómo se tratan los rendimientos de bonos y obligaciones?",
-    "¿Qué pasa con las ganancias cambiarias?",
-    "¿Qué se incluye en las operaciones de factoraje financiero?",
-    "¿Cómo se calcula el interés en arrendamientos financieros?"
+    "¿Qué son los intereses según la Ley del ISR?",
+    "¿Cómo se determinan los intereses en un contrato de arrendamiento financiero?",
+    "¿Qué rendimientos se consideran intereses en la Ley del ISR?",
+    "¿Cómo se tratan fiscalmente las ganancias cambiarias?",
+    "¿Qué implica la cesión de derechos en términos de intereses fiscales?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e565100d001c6c8b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por adquisición de bienes",
+  "denominacion_comun": "Ingresos por Adquisición de Bienes",
   "temas": [
-    "Donación",
-    "Tesoros",
-    "Prescripción",
-    "Construcciones en bienes inmuebles",
-    "Mejoras permanentes",
-    "Avalúo fiscal"
+    "donación",
+    "tesoros",
+    "prescripción",
+    "construcciones",
+    "instalaciones",
+    "mejoras permanentes"
   ],
   "terminos_coloquiales": [
-    "ingresos por donación",
-    "valor de tesoros",
-    "ingresos por prescripción",
-    "construcciones permanentes",
-    "avalúo fiscal"
+    "donación",
+    "tesoros encontrados",
+    "prescripción de bienes",
+    "mejoras en propiedades"
   ],
-  "resumen": "Los ingresos por adquisición de bienes incluyen donaciones, tesoros, adquisiciones por prescripción y construcciones o mejoras en inmuebles que beneficien al propietario. El ingreso se determina con base en el avalúo realizado por autoridades fiscales.",
+  "resumen": "Este artículo define qué se considera como ingresos derivados de la adquisición de bienes, incluyendo donaciones y tesoros. También menciona cómo se valúan ciertos ingresos por mejoras permanentes en inmuebles y cómo se obtienen esos ingresos al finalizar contratos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera como ingresos por donaciones?",
-    "¿Cómo se evalúa el valor de un tesoro para fines fiscales?",
-    "¿Qué ingresos se obtienen por prescripción?",
-    "¿Cuándo se considera ingreso una construcción en un bien inmueble?",
-    "¿Cómo se hace el avalúo para determinar ingresos por mejora permanente?",
-    "¿Qué artículos de la ley se relacionan con estos ingresos?"
+    "¿Qué se considera un ingreso por donación?",
+    "¿Cómo se valúan los tesoros encontrados?",
+    "¿Qué significa adquisición por prescripción?",
+    "¿Cuáles son las mejoras en bienes inmuebles que generan ingresos?",
+    "¿Cómo se determina el ingreso por construcción realizada en un inmueble?"
   ]
 }

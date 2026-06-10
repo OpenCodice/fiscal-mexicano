@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e16db4a4fd8248d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de Residentes en el Extranjero",
+  "denominacion_comun": "Ingresos de residentes en el extranjero",
   "temas": [
-    "Dividendos",
-    "Utilidades",
-    "Impuesto sobre la Renta",
-    "Establecimientos Permanentes",
-    "Cuentas de Utilidad Fiscal Neta",
-    "Remesas de Capital"
+    "dividendos",
+    "utilidades",
+    "personas morales",
+    "impuesto sobre la renta",
+    "establecimientos permanentes",
+    "remesas de capital",
+    "cuenta de utilidad fiscal neta"
   ],
   "terminos_coloquiales": [
-    "Impuesto a los dividendos",
-    "Utilidades distribuidas",
-    "ISR sobre utilidades",
-    "Residentes en el extranjero",
-    "Establecimientos permanentes",
-    "ISR"
+    "ingresos por dividendos",
+    "utilidades distribuidas",
+    "impuesto del 10%",
+    "reembolsos de capital"
   ],
-  "resumen": "El artículo establece que los ingresos por dividendos o utilidades distribuidos por personas morales se consideran de fuente nacional si la persona que los distribuye reside en México. Además, detalla las obligaciones fiscales de los establecimientos permanentes de residentes en el extranjero respecto a las utilidades y remesas que envían.",
+  "resumen": "Este artículo regula cómo se gravan los ingresos por dividendos o utilidades que distribuyen personas morales a residentes en el extranjero, estableciendo condiciones para la retención y cálculo del impuesto. También menciona la forma en que se tratan las remesas de capital y los reembolsos en las cuentas de estas entidades.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar por dividendos si soy residente en el extranjero?",
-    "¿Cómo se calculan las utilidades distribuidas por un establecimiento permanente?",
-    "¿Qué es la cuenta de utilidad fiscal neta para residentes en el extranjero?",
-    "¿Qué se considera un reembolso de capital en este contexto?",
-    "¿Cuál es la tasa de impuesto sobre las utilidades distribuidas?"
+    "¿Qué impuestos debo pagar por dividendos recibidos del extranjero?",
+    "¿Cómo se calcula el impuesto sobre utilidades distribuidas?",
+    "¿Qué es una cuenta de utilidad fiscal neta para un residente en el extranjero?",
+    "¿Qué impuestos aplican a los reembolsos de capital enviados al extranjero?",
+    "¿Cuál es la tasa del impuesto para los dividendos distribuidos a residentes en el extranjero?"
   ]
 }

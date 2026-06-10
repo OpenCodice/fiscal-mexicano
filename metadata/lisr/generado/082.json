@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:78be6fd61693d449",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Personas Morales con Fines No Lucrativos",
+  "denominacion_comun": "Personas Morales con Fines No Lucrativos",
   "temas": [
     "donativos deducibles",
-    "requisitos de entidades",
+    "autorización",
     "objeto social",
-    "transparencia",
     "gobierno corporativo",
-    "revocación de autorizaciones",
-    "información fiscal",
-    "patrimonio",
-    "personas morales"
+    "obligaciones fiscales",
+    "transparencia",
+    "información pública",
+    "revocación de autorización"
   ],
   "terminos_coloquiales": [
-    "donatarias",
-    "PMFNL",
-    "donativos deducibles",
-    "entidades no lucrativas",
+    "donatarias autorizadas",
+    "instituciones sin fines de lucro",
+    "organizaciones no lucrativas",
+    "ONG",
     "fundaciones",
     "patronatos"
   ],
-  "resumen": "Las personas morales con fines no lucrativos deben cumplir ciertos requisitos para recibir donativos deducibles, incluyendo el destino de sus activos y la transparencia en la información fiscal. La autorización puede ser revocada si no se cumplen estas obligaciones.",
+  "resumen": "Las personas morales con fines no lucrativos deben cumplir ciertos requisitos para ser consideradas como entidades autorizadas para recibir donativos deducibles. Esto incluye destinar sus activos a su objeto social y mantener la transparencia en su gestión financiera.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir las donatarias autorizadas?",
-    "¿Cómo se revoca la autorización para recibir donativos?",
-    "¿Qué información deben publicar las personas morales con fines no lucrativos?",
-    "¿Pueden las entidades no lucrativas involucrarse en política?",
-    "¿Qué pasa con el patrimonio de una donataria si pierde su autorización?"
+    "¿Qué son las personas morales con fines no lucrativos?",
+    "¿Cómo puedo recibir donativos deducibles?",
+    "¿Qué requisitos debo cumplir como donataria autorizada?",
+    "¿Qué pasa si me revocan la autorización para recibir donativos?",
+    "¿Cómo se informa sobre los donativos recibidos?",
+    "¿Qué significa tener un gobierno corporativo en una ONG?"
   ]
 }

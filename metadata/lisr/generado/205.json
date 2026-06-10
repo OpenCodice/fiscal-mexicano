@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f696d6041515ccf3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transparencia Fiscal de Figuras Jurídicas Extranjeras",
+  "denominacion_comun": "Transparencia Fiscal en Inversiones Extranjeras",
   "temas": [
-    "inversiones de capital",
+    "inversiones extranjeras",
+    "transparencia fiscal",
     "socios de figuras jurídicas",
-    "registros ante el SAT",
     "intereses y dividendos"
   ],
   "terminos_coloquiales": [
+    "inversiones de capital",
     "figuras jurídicas extranjeras",
-    "transparencia fiscal",
-    "ingresos acumulables"
+    "socios",
+    "régimen fiscal",
+    "transparencia"
   ],
-  "resumen": "Las figuras jurídicas extranjeras que administren inversiones en México gozarán de transparencia fiscal, siempre que sus integrantes cumplan con ciertos requisitos de documentación y residencia. Esto aplica solo a ciertas categorías de ingresos como intereses y dividendos, y es necesario mantener un registro ante el SAT.",
+  "resumen": "Las inversiones extranjeras que se consideren transparentes fiscalmente en México deben cumplir con ciertos requisitos, como registrar a sus miembros y tener acuerdos de intercambio de información. Si no se cumplen estas condiciones, no gozarán de dicha transparencia en su participación.",
   "preguntas_ejemplo": [
-    "¿Qué es la transparencia fiscal para figuras jurídicas extranjeras?",
-    "¿Cuáles son los requisitos para que un inversionista extranjero tenga transparencia fiscal en México?",
-    "¿Qué documento necesita presentar un administrador de una figura jurídica extranjera ante el SAT?",
-    "¿Los dividendos que reciben los socios deben ser acumulables para gozar de transparencia fiscal?",
-    "¿Cómo afecta la residencia de los integrantes en la transparencia fiscal de una figura jurídica?"
+    "¿Qué se necesita para que mis inversiones extranjeras sean transparentes fiscalmente en México?",
+    "¿Cuáles son los requisitos para que las figuras jurídicas extranjeras disfruten de la transparencia fiscal?",
+    "¿Qué documentos debo presentar para obtener transparencia fiscal en mis inversiones?",
+    "¿Qué sucede si uno de los miembros de la figura jurídica no reside en un país con acuerdo de intercambio de información?",
+    "¿Cómo afectan los ingresos no acumulados a la transparencia fiscal de las inversiones extranjeras?"
   ]
 }

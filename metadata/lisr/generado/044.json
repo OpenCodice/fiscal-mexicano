@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c8e56f05904d302",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajuste por Inflación",
+  "denominacion_comun": "Ajuste por inflación para personas morales",
   "temas": [
-    "personas morales",
     "deudas",
     "créditos",
-    "ajuste anual por inflación",
-    "Índice Nacional de Precios al Consumidor",
-    "factor de ajuste anual"
+    "saldos promedio",
+    "ajuste anual",
+    "Índice Nacional de Precios al Consumidor"
   ],
   "terminos_coloquiales": [
-    "ajuste inflacionario",
-    "aumento por inflación",
-    "ajuste anual",
-    "LISR"
+    "ajuste por inflación",
+    "deudas y créditos",
+    "factor de ajuste",
+    "INPC"
   ],
-  "resumen": "Las personas morales deben calcular el ajuste anual por inflación al cierre de su ejercicio, analizando sus deudas y créditos. Dependiendo de cuál saldo sea mayor, el ajuste puede ser acumulable o deducible.",
+  "resumen": "Las personas morales deben calcular el ajuste anual por inflación al final de cada ejercicio, considerando sus deudas y créditos. Dependiendo de cuál sea mayor, se determina si el ajuste es acumulable o deducible, utilizando el Índice Nacional de Precios al Consumidor para el cálculo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ajuste por inflación para una persona moral?",
-    "¿Qué pasa si tengo más deudas que créditos en mi empresa?",
-    "¿Cuál es el factor de ajuste anual según la LISR?",
-    "¿Se deben considerar los intereses en el cálculo del ajuste por inflación?",
-    "¿Cómo afecta el Índice Nacional de Precios al Consumidor al ajuste por inflación?"
+    "¿Cómo se calcula el ajuste por inflación para mi empresa?",
+    "¿Qué significa el saldo promedio de deudas y créditos?",
+    "¿Cuál es el efecto del INPC en el ajuste por inflación?",
+    "¿Qué debo considerar para el ajuste por inflación si tengo deudas en dólares?",
+    "¿El ajuste por inflación es deducible?",
+    "¿Cómo obtengo el factor de ajuste anual?"
   ]
 }

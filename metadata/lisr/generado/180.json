@@ -6,37 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4fc5cc21fc194036",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Métodos de valoración de operaciones entre partes relacionadas",
+  "denominacion_comun": "Métodos de precios de transferencia",
   "temas": [
-    "precios de transferencia",
-    "métodos de valoración",
-    "operaciones entre partes relacionadas",
-    "utilidad de operación",
-    "método de precio comparable",
-    "método de precio de reventa",
-    "método de costo adicionado",
-    "método de partición de utilidades",
-    "método residual de partición de utilidades",
-    "método de márgenes transaccionales"
+    "precio comparable",
+    "precio de reventa",
+    "costo adicionado",
+    "partición de utilidades",
+    "márgenes transaccionales"
   ],
   "terminos_coloquiales": [
     "precios de transferencia",
-    "métodos de precios de transferencia",
-    "método comparable",
-    "método de reventa",
-    "método adicionado",
-    "método de partición",
-    "método residual",
-    "método de márgenes"
+    "métodos de precios",
+    "partes relacionadas",
+    "comparables",
+    "utilidad bruta",
+    "costos",
+    "ingresos"
   ],
-  "resumen": "Este artículo establece diversos métodos que deben emplear los contribuyentes para determinar los precios o montos de contraprestaciones en operaciones entre partes relacionadas, asegurando que se ajusten a precios de mercado. Se prioriza el uso de ciertos métodos dependiendo de la situación de la operación.",
+  "resumen": "El artículo establece diferentes métodos que los contribuyentes deben aplicar para determinar el precio o monto de contraprestaciones en operaciones entre partes relacionadas, utilizando criterios como precios de operaciones comparables y márgenes de utilidad. Se busca que estas transacciones se realicen a precios de mercado.",
   "preguntas_ejemplo": [
-    "¿Qué son los precios de transferencia?",
-    "¿Cuáles son los métodos de valoración de operaciones entre partes relacionadas?",
-    "¿Cómo se determina el precio de una operación entre empresas relacionadas?",
-    "¿Qué hacer si un método de valoración no es apropiado?",
-    "¿Qué es el método de partición de utilidades?"
+    "¿Cuáles son los métodos de precios de transferencia?",
+    "¿Cómo se determina el precio de reventa en las operaciones relacionadas?",
+    "¿Qué es la partición de utilidades y cómo se aplica?",
+    "¿Cómo se asegura que los precios utilizados entre partes relacionadas sean de mercado?",
+    "¿Qué criterios se utilizan para seleccionar el método de precios de transferencia más adecuado?"
   ]
 }

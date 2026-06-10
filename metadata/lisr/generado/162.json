@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8933ca327b1ab28d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de residentes en el extranjero",
+  "denominacion_comun": "Residentes en el extranjero con ingresos por deuda pública",
   "temas": [
-    "deuda pública",
-    "operaciones de intercambio",
-    "impuesto sobre la renta",
-    "retención de impuestos",
-    "representante fiscal",
-    "ganancias",
-    "credenciales en moneda extranjera"
+    "operaciones de intercambio de deuda",
+    "ingresos en territorio nacional",
+    "impuesto sobre ingresos",
+    "tasa del 25%",
+    "tasa del 40%",
+    "ganancia sobre crédito",
+    "representante fiscal"
   ],
   "terminos_coloquiales": [
-    "Ingresos de residentes en el extranjero",
-    "Impuesto del 25%",
-    "Retención fiscal",
-    "Régimen fiscal",
-    "Impuesto del 40%",
-    "ISR"
+    "ingresos por deuda",
+    "intercambio de deuda pública",
+    "retención de impuestos",
+    "créditos",
+    "deuda extranjera"
   ],
-  "resumen": "El artículo establece que los ingresos de operaciones de intercambio de deuda pública por capital realizados por residentes en el extranjero se consideran localizados en México si el crédito corresponde a un residente mexicano. Se prevé una retención fiscal del 25% sobre el monto total, o una opción del 40% sobre ganancia neta si se cumplen ciertos requisitos.",
+  "resumen": "El artículo establece que los ingresos obtenidos por residentes en el extranjero en operaciones de deuda pública se consideran de fuente nacional si están relacionados con deudas de residentes en México. Se aplica un impuesto del 25% o del 40% dependiendo de ciertas condiciones, y la retención del impuesto debe realizarla el residente en México que esté involucrado en la operación.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el impuesto para un residente en el extranjero que obtiene ingresos por deuda pública?",
-    "¿Qué tasa de impuestos se aplica a los ingresos de extranjeros por operaciones de deuda en México?",
-    "¿Cuál es la opción de tasa del 40% para los residentes en el extranjero?",
-    "¿Qué requisitos debe cumplir un representante fiscal en México?",
-    "¿Cómo se calcula la ganancia en moneda extranjera?",
-    "¿Qué significa que los ingresos no estén sujetos a un régimen fiscal preferente?"
+    "¿Qué impuestos debo pagar si soy residente en el extranjero y tengo ingresos por deuda pública en México?",
+    "¿Cómo se calcula el impuesto sobre ingresos por operaciones de deuda?",
+    "¿Qué tasa de impuesto se aplica si tengo un representante fiscal en México?",
+    "¿Qué condiciones debo cumplir para optar por la tasa del 40%?",
+    "¿Qué sucede si el crédito está en moneda extranjera?"
   ]
 }

@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:93709bfefe0b85b7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancia por enajenación de terrenos y bienes",
+  "denominacion_comun": "Ganancia por Enajenación de Bienes",
   "temas": [
-    "ganancia por enajenación",
+    "ganancia",
+    "enajenación",
     "terrenos",
-    "títulos de propiedad",
+    "títulos valor",
     "bienes",
     "ajuste de inversión",
     "usufructo",
     "nuda propiedad"
   ],
   "terminos_coloquiales": [
-    "ganancia por venta de terrenos",
+    "ganancia por vender propiedades",
     "ajuste de inversión",
-    "enajenación de bienes",
-    "usos fiscales"
+    "terreno",
+    "acciones",
+    "certificados de depósito",
+    "venta de bienes"
   ],
-  "resumen": "Este artículo establece cómo determinar la ganancia obtenida por la venta de terrenos y otros bienes, restando el monto original de la inversión. Incluye reglas específicas para el ajuste de inversión y situaciones como fusiones o escisiones de sociedades.",
+  "resumen": "Este artículo establece cómo calcular la ganancia por la venta de terrenos y otros bienes, restando el monto original de la inversión y ajustándolo según ciertos factores. También especifica excepciones para la enajenación de acciones y el tratamiento de bienes obtenidos por fusión o escisión de sociedades.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo la ganancia por la venta de un terreno?",
-    "¿Qué ajustes se pueden hacer a la inversión original en la enajenación de bienes?",
-    "¿Qué pasa si vendí una propiedad que tuve por medio de una fusión?",
-    "¿Cómo se determina la ganancia si solo vendo el usufructo de un bien?",
-    "¿Puedo ajustar el precio de un terreno que compré hace años?"
+    "¿Cómo se calcula la ganancia por la venta de un terreno?",
+    "¿Qué se considera como inversión original en una enajenación?",
+    "¿Cómo se ajusta el monto original de la inversión?",
+    "¿Existen excepciones en la venta de acciones?",
+    "¿Cómo se determina la ganancia en la venta de usufructo o nuda propiedad?"
   ]
 }

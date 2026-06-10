@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7ab58296d39da309",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones de Personas Morales",
+  "denominacion_comun": "Deducciones Permitidas",
   "temas": [
     "devoluciones",
     "descuentos",
-    "bonificaciones",
     "costo de lo vendido",
-    "gastos netos",
+    "gastos",
     "inversiones",
     "créditos incobrables",
-    "cuotas IMSS",
     "intereses",
-    "ajuste por inflación"
+    "ajuste por inflación",
+    "reservas de pensiones"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "gastos deducibles",
-    "LISR",
-    "Ley de Impuesto sobre la Renta"
+    "devoluciones",
+    "descuentos",
+    "gastos de operación",
+    "intereses",
+    "fondos de pensiones",
+    "deducciones fiscales"
   ],
-  "resumen": "Las personas morales pueden deducir una serie de gastos y conceptos como devoluciones, descuentos, costos de bienes vendidos, y otros gastos relacionados con sus operaciones. También se pueden deducir cuotas al IMSS y ciertos tipos de intereses y pérdidas.",
+  "resumen": "El artículo establece las deducciones que los contribuyentes pueden realizar, como devoluciones, el costo de lo vendido, gastos netos, inversiones y cuotas al IMSS, entre otros. También menciona deducciones relacionadas a intereses y reservas para pensiones.",
   "preguntas_ejemplo": [
-    "¿Qué gastos pueden deducir las personas morales?",
-    "¿Cómo se calculan las deducciones fiscales en la LISR?",
-    "¿Cuáles son las condiciones para deducir cuotas al IMSS?",
-    "¿Se pueden deducir los anticipos a trabajadores?",
-    "¿Qué tipo de inversiones son deducibles?"
+    "¿Cuáles son las deducciones que puedo aplicar en mi declaración?",
+    "¿Puedo deducir los intereses que pagué este año?",
+    "¿Qué tipo de gastos son deducibles?",
+    "¿Cómo se trata la deducción de anticipos en la ley?",
+    "¿Qué condiciones deben cumplirse para deducir reservas de pensiones?"
   ]
 }

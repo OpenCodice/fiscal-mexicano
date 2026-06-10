@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be43c47ecd26a836",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pagos Provisionales del Impuesto sobre la Renta",
+  "denominacion_comun": "Pagos Provisionales",
   "temas": [
+    "impuesto sobre la renta",
     "coeficiente de utilidad",
     "utilidad fiscal",
-    "pagos provisionales",
-    "participación de los trabajadores en utilidades",
     "anticipos y rendimientos",
-    "pérdidas fiscales",
-    "declaraciones de pagos"
+    "participación de trabajadores",
+    "pérdida fiscal",
+    "declaraciones fiscales"
   ],
   "terminos_coloquiales": [
-    "pagos provisionales",
-    "ISR",
-    "coeficiente de utilidad"
+    "pago de impuestos",
+    "coeficiente de utilidad",
+    "utilidad fiscal",
+    "pago provisional",
+    "declaraciones de impuestos",
+    "ISR"
   ],
-  "resumen": "El artículo establece cómo deben calcularse y presentarse los pagos provisionales de impuesto sobre la renta que deben realizar las personas morales. Incluye aspectos sobre el coeficiente de utilidad, la deducción de utilidades distribuidas y pérdidas fiscales.",
+  "resumen": "Los contribuyentes deben hacer pagos provisionales mensuales de impuesto sobre la renta basados en su coeficiente de utilidad. Se deben considerar factores como anticipos, participación de trabajadores, y pérdidas fiscales para calcular la utilidad fiscal de dichos pagos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el coeficiente de utilidad para los pagos provisionales?",
-    "¿Cuáles son los conceptos que se pueden disminuir en la utilidad fiscal?",
-    "¿Qué debo hacer si no resultó coeficiente de utilidad en el último ejercicio?",
-    "¿Cómo afectan los anticipos y rendimientos a mis pagos provisionales?",
-    "¿Cuándo debo presentar las declaraciones de pagos provisionales?"
+    "¿Cuándo tengo que hacer mis pagos provisionales de ISR?",
+    "¿Cómo se calcula el coeficiente de utilidad para los pagos de impuestos?",
+    "¿Qué debo considerar para determinar la utilidad fiscal para mis pagos provisionales?",
+    "¿Puedo restar las pérdidas fiscales de años anteriores en mis pagos provisionales?",
+    "¿Qué pasa si no tengo impuesto a pagar en el mes?",
+    "¿Cómo afecta la participación de los trabajadores en mis pagos provisionales?"
   ]
 }

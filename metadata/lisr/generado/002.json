@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f03f6bd6aeb4149d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Establecimiento Permanente",
   "temas": [
     "definición",
-    "actividades empresariales",
-    "servicios personales",
     "ingresos atribuibles",
-    "residentes en el extranjero",
+    "residente en el extranjero",
+    "actividades empresariales",
+    "agente independiente",
     "fideicomisos",
-    "agentes independientes",
-    "construcción y servicios relacionados"
+    "duración de actividades",
+    "servicios personales independientes"
   ],
   "terminos_coloquiales": [
-    "establecimiento permanente",
-    "EP",
-    "negocios en el extranjero",
-    "ingresos por servicios",
-    "contratos con extranjeros"
+    "negocios en México",
+    "ingresos por actividades en el extranjero",
+    "establecimiento en el país",
+    "agente independiente",
+    "fideicomiso",
+    "contratos en México"
   ],
-  "resumen": "El artículo establece qué se considera un establecimiento permanente en México, detallando cómo se determinan los lugares de negocio y las condiciones bajo las cuales un residente en el extranjero tiene un establecimiento en el país. También menciona los ingresos que se consideran atribuibles a dicho establecimiento y las implicaciones fiscales de estos.",
+  "resumen": "El artículo establece que un establecimiento permanente es un lugar donde se realizan actividades empresariales o se prestan servicios. Se considera que un residente en el extranjero tiene un establecimiento permanente si realiza ciertas actividades a través de personas físicas o morales en México. Además, se detallan los tipos de ingresos que son atribuibles a estos establecimientos y se definen ciertas excepciones.",
   "preguntas_ejemplo": [
-    "¿Qué es un establecimiento permanente en México?",
-    "¿Bajo qué condiciones se considera que un extranjero tiene un establecimiento permanente?",
-    "¿Qué ingresos se atribuyen a un establecimiento permanente?",
-    "¿Cómo se determina si un agente es independiente o no?",
-    "¿Cuándo se considera que un servicio de construcción crea un establecimiento permanente?"
+    "¿Qué es un establecimiento permanente según la Ley del ISR?",
+    "¿Cuándo un extranjero se considera que tiene un establecimiento permanente en México?",
+    "¿Qué actividades empresariales generan ingresos atribuibles a un establecimiento permanente?",
+    "¿Qué significa ser un agente independiente en el contexto de esta ley?",
+    "¿Cómo se contabilizan los días de trabajo de los subcontratistas para el establecimiento permanente?",
+    "¿Cuáles son las obligaciones fiscales de un residente en el extranjero con establecimiento permanente en México?"
   ]
 }

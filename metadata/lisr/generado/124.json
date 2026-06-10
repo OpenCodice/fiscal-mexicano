@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d602360c5f4de625",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización del costo de adquisición de bienes",
+  "denominacion_comun": "Costo de adquisición de bienes",
   "temas": [
-    "costo comprobado de adquisición",
+    "actualización del costo de bienes",
     "inversiones deducibles",
-    "bienes inmuebles",
-    "bienes muebles",
-    "acciones",
-    "herencia",
-    "donación",
-    "fusión",
-    "escisión"
+    "enajenación de bienes inmuebles",
+    "enajenación de bienes muebles",
+    "costo de adquisición por herencia",
+    "costo de adquisición por donación",
+    "fusión y escisión de sociedades"
   ],
   "terminos_coloquiales": [
-    "actualización de costos",
-    "costo de enajenación",
-    "deducciones por enajenación",
-    "LISR",
-    "impuesto sobre la renta"
+    "actualizar costo de bienes",
+    "costo de venta",
+    "ganancias por venta de propiedades",
+    "bienes inmobiliarios",
+    "bienes muebles",
+    "enajenación de terrenos",
+    "inversiones no amortizables"
   ],
-  "resumen": "Este artículo establece cómo se debe actualizar el costo de adquisición de bienes al momento de su enajenación, aplicando distintos porcentajes de disminución según el tipo de bien y el tiempo desde su adquisición. También trata sobre el costo de adquisición de bienes obtenidos por herencia, legado o donación, así como en casos de fusión o escisión de sociedades.",
+  "resumen": "El artículo establece cómo actualizar el costo de adquisición de bienes inmuebles y bienes muebles al momento de su enajenación. Detalla los porcentajes de disminución según el tipo de bien y los requisitos para no disminuir el costo en ciertos casos. Además, aborda el tratamiento de bienes adquiridos por herencia, legado o donación, y situaciones de fusión o escisión de sociedades.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de enajenación de un inmueble?",
-    "¿Qué porcentaje se aplica para disminuir el costo de bienes muebles?",
-    "¿Qué pasa con el costo de adquisición si heredo un bien?",
-    "¿Cómo se actualiza el costo de adquisición de acciones de una sociedad fusionada?",
-    "¿Cuáles son las deducciones permitidas al vender un bien inmueble?"
+    "¿Cómo se calcula el costo de adquisición de un inmueble antes de venderlo?",
+    "¿Qué porcentaje se descuenta del costo de un vehículo al venderlo?",
+    "¿Cómo se actualiza el costo de adquisición por herencia?",
+    "¿Qué sucede con el costo de acciones en caso de fusión de empresas?",
+    "¿Puedo no disminuir el costo de un bien mueble por su antigüedad?"
   ]
 }

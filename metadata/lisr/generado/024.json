@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d7098df2905d3a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones a costo fiscal",
   "temas": [
     "restructuración de sociedades",
-    "autorización de enajenación de acciones",
-    "costo fiscal de acciones",
-    "capital social",
+    "enajenación de acciones",
+    "costo fiscal",
+    "contraprestación",
     "dictamen contable",
-    "operaciones relevantes",
-    "grupo de sociedades"
+    "grupo de sociedades",
+    "capital social"
   ],
   "terminos_coloquiales": [
-    "enajenación de acciones",
-    "autorización de enajenación",
-    "restricción de acciones",
-    "acciones a costo fiscal",
-    "restructuración de capital"
+    "venta de acciones",
+    "cambio de acciones",
+    "costo de acciones",
+    "reestructura de empresas",
+    "acciones de sociedades",
+    "REFIS"
   ],
-  "resumen": "El artículo establece que las autoridades fiscales pueden autorizar la enajenación de acciones a costo fiscal durante reestructuraciones de sociedades del mismo grupo, siempre que se cumplan varios requisitos, como la determinación del costo promedio de las acciones y la permanencia en propiedad directa del adquirente. También se exigen dictámenes y constancias específicas para validar dichas operaciones.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden autorizar la enajenación de acciones a costo fiscal en casos de reestructuración de sociedades que pertenezcan a un mismo grupo, siempre que se cumplan ciertos requisitos específicos relacionados con el costo, la propiedad de acciones y la presentación de documentos ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para enajenar acciones a costo fiscal?",
-    "¿Qué se necesita para obtener autorización de enajenación de acciones?",
-    "¿Qué implica una reestructuración de sociedades en términos fiscales?",
-    "¿Cómo se determina el costo fiscal de las acciones enajenadas?",
-    "¿Qué pasa si la enajenación de acciones no cumple con los requisitos establecidos?"
+    "¿Qué requisitos deben cumplirse para la venta de acciones sin pagar impuestos?",
+    "¿Cómo se determina el costo fiscal de las acciones en una reestructuración?",
+    "¿Qué documentos necesito presentar para autorizar la enajenación de acciones?",
+    "¿Cuánto tiempo deben quedarse las acciones en el mismo grupo después de la enajenación?",
+    "¿Qué pasa si la reestructuración no cumple con los requisitos fiscales?"
   ]
 }

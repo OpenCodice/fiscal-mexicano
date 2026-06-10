@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a5a805bd856f512",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo comprobado de adquisición de acciones",
+  "denominacion_comun": "Costo comprobado de acciones",
   "temas": [
+    "costo promedio",
     "acciones",
-    "costo comprobado",
-    "enajenaciones",
-    "sociedades escindidas",
-    "fusión de sociedades",
-    "capitalización de utilidades",
-    "cuenta de utilidad fiscal neta",
-    "fecha de adquisición"
+    "enajenación",
+    "fusión",
+    "escisión",
+    "utilidad fiscal neta",
+    "capitalización"
   ],
   "terminos_coloquiales": [
-    "costo promedio de acciones",
-    "costo comprobado de acciones",
-    "acciones de sociedades",
-    "acciones en enajenación",
-    "LISR"
+    "costo de adquisición de acciones",
+    "venta de acciones",
+    "acción de sociedad",
+    "acciones de fusión",
+    "acciones de escisión"
   ],
-  "resumen": "El artículo establece cómo se determina el costo comprobado de adquisición de acciones en diferentes escenarios, incluyendo enajenaciones, fusiones y escisiones. También menciona que no tendrán costo comprobado ciertas acciones obtenidas por capitalizaciones o reinversiones dentro de un período específico.",
+  "resumen": "El artículo establece cómo calcular el costo comprobado de adquisición de acciones en diferentes escenarios, como enajenaciones, fusiones y escisiones. También aclara qué acciones no tienen costo comprobado debido a capitalizaciones o reinversiones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo comprobado de las acciones en una enajenación?",
-    "¿Qué sucede con el costo de las acciones en una fusión de sociedades?",
-    "¿Qué acciones no tienen costo comprobado de adquisición?",
-    "¿Cómo se determina el saldo de la cuenta de utilidad fiscal neta?",
-    "¿Cuál es la fecha de adquisición de las acciones en caso de escisión?"
+    "¿Cómo se calcula el costo de mis acciones en una fusión?",
+    "¿Qué sucede con el costo comprobado de adquisición si vendo acciones?",
+    "¿Las acciones que recibo en una escisión tienen costo comprobado?",
+    "¿Cómo afecta la enajenación anterior al costo de mis acciones?",
+    "¿Qué acciones no tienen costo comprobado de adquisición?"
   ]
 }

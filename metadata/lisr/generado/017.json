@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2a260bfa423b5b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso de Personas Morales",
+  "denominacion_comun": "Ingreso de personas morales",
   "temas": [
-    "Enajenación de bienes",
-    "Prestación de servicios",
-    "Arrendamiento financiero",
-    "Contratos de obra",
-    "Deudas no cubiertas"
+    "enajenación de bienes",
+    "prestación de servicios",
+    "arrendamiento financiero",
+    "deudas no cubiertas",
+    "contratos de obra"
   ],
   "terminos_coloquiales": [
-    "Ingreso acumulable",
-    "Fecha de obtención de ingresos",
-    "Contratos de obra",
-    "Servicios personales independientes"
+    "ingresos",
+    "comprobantes fiscales",
+    "cobro de servicios",
+    "contratos de arrendamiento",
+    "obras"
   ],
-  "resumen": "El artículo establece cuándo se consideran obtenidos los ingresos para personas morales, dependiendo de diferentes situaciones como enajenación de bienes, prestación de servicios o arrendamientos. También detalla cómo los ingresos deben ser acumulables y las condiciones para ello.",
+  "resumen": "El artículo establece cómo y cuándo se consideran obtenidos los ingresos por enajenación de bienes y prestación de servicios, así como los ingresos por arrendamiento y deudas no cobradas. Define las condiciones que deben cumplirse para la determinación de estos ingresos.",
   "preguntas_ejemplo": [
-    "¿Cuándo se consideran obtenidos los ingresos por la venta de un bien?",
-    "¿Cómo se registran los ingresos por servicios prestados?",
-    "¿Qué ingresos se consideran acumulables en contratos de obra?",
-    "¿Cómo afectan las deudas no cubiertas a mis ingresos?",
-    "¿En qué momento debo reportar mis ingresos por arrendamiento financiero?"
+    "¿Cuándo se consideran obtenidos mis ingresos por servicios prestados?",
+    "¿Qué documentos necesito para comprobar mis ingresos?",
+    "¿Cómo se determina el ingreso por arrendamiento financiero?",
+    "¿Qué pasa si no cobro una deuda?",
+    "¿Cómo debo reportar mis ingresos por contratos de obra?"
   ]
 }

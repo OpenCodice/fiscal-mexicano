@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b8c822cc22c19a9e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de autorización para donativos deducibles",
+  "denominacion_comun": "Revocación de autorización de donatarias",
   "temas": [
     "donativos deducibles",
     "revocación de autorización",
     "organizaciones civiles",
     "fideicomisos",
-    "obligaciones fiscales",
-    "Servicio de Administración Tributaria",
-    "comprobantes fiscales"
+    "comprobantes fiscales",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
+    "donativos deducibles",
+    "donatarias",
     "revocación de donativos",
-    "autorización para donaciones",
-    "donatarias autorizadas",
-    "SATRD",
-    "donativos deducibles"
+    "SAT",
+    "comprobantes de donación"
   ],
-  "resumen": "El artículo detalla las causales para la revocación de la autorización de organizaciones y fideicomisos para recibir donativos deducibles. Si se incumplen ciertas obligaciones fiscales, se puede iniciar un procedimiento de revocación por parte del Servicio de Administración Tributaria.",
+  "resumen": "Este artículo establece las causales por las cuales se puede revocar la autorización de las organizaciones civiles y fideicomisos para recibir donativos deducibles del impuesto sobre la renta. También describe el procedimiento que el SAT debe seguir para llevar a cabo dicha revocación.",
   "preguntas_ejemplo": [
-    "¿Qué puede causar la revocación de la autorización para recibir donativos deducibles?",
-    "¿Cómo se lleva a cabo el procedimiento de revocación por el SAT?",
-    "¿Cuáles son las obligaciones fiscales de una donataria autorizada?",
-    "¿Qué pasa si se revoca la autorización para donativos deducibles?",
-    "¿Qué documentos necesito para evitar la revocación de mi autorización?"
+    "¿Cuáles son las razones por las que me pueden quitar la autorización para recibir donativos deducibles?",
+    "¿Qué debo hacer si mi autorización para recibir donativos deducibles ha sido revocada?",
+    "¿Qué documentos necesito para recuperar mi autorización de donataria?",
+    "¿Cómo puede el SAT revocar la autorización de mi organización para recibir donativos?",
+    "¿Cuánto tiempo tiene el SAT para emitir la resolución de revocación?"
   ]
 }

@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5d2249707902cf59",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento de impuestos pagados en el extranjero",
+  "denominacion_comun": "Acreditamiento del impuesto sobre la renta pagado en el extranjero",
   "temas": [
     "impuesto sobre la renta",
     "acreditamiento",
+    "ingresos en el extranjero",
     "dividendos",
+    "utilidades",
     "personas morales",
-    "sociedades extranjeras",
-    "documentación comprobatoria",
-    "doble tributación",
-    "registros contables"
+    "residentes en México",
+    "documentación comprobatoria"
   ],
   "terminos_coloquiales": [
-    "impuesto extranjero",
-    "acreditar impuesto extranjero",
-    "dividendos de afuera",
-    "impuesto sobre la renta en el extranjero",
-    "acuerdo de doble tributación",
-    "LISR"
+    "impuesto en el extranjero",
+    "acreditamiento de impuestos",
+    "dividendos de empresas extranjeras",
+    "utilidades recibidas",
+    "ISR extranjero"
   ],
-  "resumen": "Los residentes en México pueden acreditar el impuesto sobre la renta pagado en el extranjero contra el impuesto que deben pagar en México, bajo ciertas condiciones. Esto incluye el ingreso por dividendos recibidos de sociedades extranjeras y se requiere documentación para comprobar los pagos realizados.",
+  "resumen": "Los residentes en México pueden acreditar el impuesto sobre la renta pagado en el extranjero por ingresos obtenidos fuera del país. Este acreditamiento se aplica especialmente a ingresos por dividendos y utilidades de sociedades extranjeras, siempre que se cumplan ciertas condiciones de participación en el capital social y se conserve la documentación necesaria.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el impuesto que pagué en otro país?",
-    "¿Qué requisitos debo cumplir para acreditar impuestos de dividendos extranjeros?",
-    "¿Es posible acreditar impuestos pagados en el extranjero si tengo una empresa en México?",
-    "¿Qué documentos necesito para el acreditamiento de impuestos pagados en el extranjero?",
-    "¿Cuál es la fórmula para calcular el acreditamiento de impuestos extranjeros?"
+    "¿Cómo puedo acreditar el ISR que pagué en el extranjero?",
+    "¿Qué requisitos debo cumplir para acreditar impuestos pagados en otros países?",
+    "¿Se pueden acreditar los dividendos recibidos de sociedades extranjeras?",
+    "¿Qué documentos necesito para comprobar el impuesto pagado en el extranjero?",
+    "¿El monto que puedo acreditar tiene algún límite?",
+    "¿Qué sucede si soy residente en México y tengo ingresos por dividendos del extranjero?"
   ]
 }

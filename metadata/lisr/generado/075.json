@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f321868b9f35c1d2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de actividades agrícolas, ganaderas, silvícolas y pesqueras",
+  "denominacion_comun": "Obligaciones fiscales de personas morales",
   "temas": [
-    "obligaciones fiscales",
     "retenciones",
-    "constancias de retenciones",
-    "registro de ingresos y gastos",
     "documentación comprobatoria",
+    "ingresos",
+    "gastos",
+    "inversiones",
     "Registro Federal de Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "Régimen de actividades del campo",
-    "Régimen agropecuario",
-    "Régimen de personas morales",
-    "RIF",
-    "RFC"
+    "retenciones fiscales",
+    "gastos deducibles",
+    "ingresos fiscales",
+    "Registro de Contribuyentes",
+    "constancias de retenciones"
   ],
-  "resumen": "Las personas morales en este régimen deben cumplir con ciertas obligaciones fiscales, como hacer retenciones y llevar un registro de ingresos y gastos de sus integrantes. También deben emitir documentos comprobatorios de sus operaciones y estar registradas en el RFC.",
+  "resumen": "Las personas morales que actúan por cuenta de sus integrantes deben cumplir con ciertas obligaciones fiscales, como hacer retenciones y llevar un registro de ingresos y gastos. También están obligadas a emitir documentos comprobatorios y deben estar inscritas en el Registro Federal de Contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones fiscales tienen las personas morales en el régimen agrícola?",
-    "¿Cómo se manejan las retenciones en este régimen?",
-    "¿Qué documentos debo emitir como persona moral en este régimen?",
-    "¿Cómo llevar el registro de ingresos y gastos de mis integrantes?",
-    "¿Es necesario estar inscrito en el RFC para este régimen?",
-    "¿Qué es una constancia de retención?"
+    "¿Qué obligaciones fiscales tienen las personas morales?",
+    "¿Cómo se hacen las retenciones fiscales en personas morales?",
+    "¿Qué registros deben llevar las personas morales?",
+    "¿Qué es el Registro Federal de Contribuyentes para personas morales?",
+    "¿Qué tipo de documentación debe expedir una persona moral?",
+    "¿Cómo afectan los gastos deducibles a las personas morales?"
   ]
 }

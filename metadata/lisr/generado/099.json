@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e7d7be00d4dd7f18",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones por pagos de salarios",
+  "denominacion_comun": "Retenciones y Obligaciones por Salarios",
   "temas": [
-    "retenciones de impuesto",
-    "cálculo de impuesto anual",
+    "retenciones de impuestos",
     "comprobantes fiscales",
-    "constancias de registro",
-    "viáticos",
-    "declaración anual"
+    "declaración anual",
+    "servicios subordinados",
+    "Registro Federal de Contribuyentes",
+    "viáticos"
   ],
   "terminos_coloquiales": [
-    "obligaciones laborales",
-    "retenciones de salarios",
-    "pago de impuestos",
-    "comprobante de nómina",
-    "reporte de salarios",
-    "ISR"
+    "retenciones",
+    "impuesto sobre la renta",
+    "comprobante de pago",
+    "constancia de servicios",
+    "RFC"
   ],
-  "resumen": "Este artículo establece las obligaciones de quienes efectúan pagos por concepto de salarios, incluyendo la retención de impuestos, la entrega de comprobantes fiscales y la presentación de declaraciones. También se especifica la necesidad de verificar el registro de los trabajadores en el RFC.",
+  "resumen": "Este artículo establece las obligaciones de quienes efectúan pagos por servicios subordinados, incluyendo la retención de impuestos, la emisión de comprobantes fiscales y la presentación de declaraciones anuales. También se especifica la necesidad de inscribir a los trabajadores en el Registro Federal de Contribuyentes y el manejo de viáticos.",
   "preguntas_ejemplo": [
     "¿Qué retenciones debo hacer por salarios?",
-    "¿Cuándo debo entregar comprobantes fiscales a mis empleados?",
+    "¿Qué comprobantes debo emitir a mis empleados?",
+    "¿Cómo presento la declaración anual relacionada con mis trabajadores?",
     "¿Qué información necesito para inscribir a mis empleados en el RFC?",
-    "¿Cómo calculo el impuesto anual sobre los salarios?",
-    "¿Qué sucede si un trabajador recibe pagos de otro empleador?"
+    "¿Cuándo debo entregar las constancias de viáticos a mis empleados?"
   ]
 }

@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef983f96396df478",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos de personas físicas",
   "temas": [
     "pagos provisionales",
-    "tasa del 20%",
     "retenciones",
-    "declaraciones fiscales",
     "impuesto anual",
     "ingresos esporádicos",
-    "ingresos periódicos"
+    "ingresos periódicos",
+    "declaraciones",
+    "personas morales",
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "retenciones de impuestos",
     "pago provisional",
-    "declaración de ingresos",
-    "ingresos esporádicos",
-    "ingresos periódicos"
+    "retención de impuestos",
+    "impuesto sobre la renta",
+    "declarar ingresos",
+    "ingresos extra",
+    "pago de impuestos",
+    "ISR"
   ],
-  "resumen": "Las personas físicas que obtienen ingresos de manera esporádica o periódica deben hacer pagos provisionales de impuestos. Estos pagos se calculan aplicando una tasa del 20% o la tarifa correspondiente, y se deben declarar en ciertos plazos a las autoridades fiscales.",
+  "resumen": "El artículo establece que los contribuyentes derivados de ciertos ingresos deben realizar pagos provisionales de impuestos, ya sea de forma esporádica o periódica. Las personas morales que realicen pagos a estos contribuyentes tienen la obligación de retener impuestos y proporcionar comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo hago mi declaración de ingresos esporádicos?",
-    "¿Qué tasa debo aplicar para mis ingresos temporales?",
-    "¿Cuándo debo pagar impuestos si tengo ingresos periódicos?",
-    "¿Qué sucede si no retengo el impuesto correspondiente?",
-    "¿Cómo se calcula el pago provisional de mis ingresos?",
-    "¿Debo presentar declaración si no tengo ingresos cada mes?"
+    "¿Cómo se calculan los pagos provisionales sobre ingresos extra?",
+    "¿Qué se debe hacer si obtengo ingresos esporádicos?",
+    "¿Quién retiene impuestos si soy pagado por una empresa?",
+    "¿Qué es el comprobante fiscal y cuándo se entrega?",
+    "¿Qué tarifas se aplican para determinar retenciones de impuestos?",
+    "¿Cómo afecta el ingreso adicional a mi declaración de impuestos anual?"
   ]
 }

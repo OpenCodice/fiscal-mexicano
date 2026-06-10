@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6de5d4cf649358bd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre ingresos de entidades extranjeras",
+  "denominacion_comun": "Ingresos de Entidades Extranjeras",
   "temas": [
-    "residencia fiscal",
-    "entidades extranjeras transparentes",
-    "figuras jurídicas extranjeras",
-    "acreditamiento de impuestos",
-    "deducción de gastos",
-    "participación directa e indirecta",
-    "utilidad fiscal"
+    "impuesto sobre la renta",
+    "residentes en México",
+    "entidades extranjeras",
+    "entidades transparentes",
+    "deducciones fiscales",
+    "gastos",
+    "participación fiscal"
   ],
   "terminos_coloquiales": [
-    "entidades extranjeras",
-    "figuras extranjeras",
-    "IEE (Impuesto sobre Ingresos Extranjeros)"
+    "ingresos por entidades extranjeras",
+    "gastos deducibles",
+    "entidades transparentes",
+    "figuras jurídicas extranjeras",
+    "impuesto acreditable"
   ],
-  "resumen": "Los residentes en México y en el extranjero con establecimiento en el país deben pagar impuestos sobre los ingresos de entidades extranjeras transparentes que les correspondan. También pueden acumular ingresos de figuras jurídicas extranjeras y deducir gastos relacionados, siempre que cumplan con las normas fiscales aplicables.",
+  "resumen": "Los residentes en México y en el extranjero deben pagar impuestos sobre los ingresos que obtengan de entidades extranjeras, considerando su participación en ellas. Los ingresos de entidades parcialmente transparentes se acumulan en base a su utilidad fiscal, y se permite la deducción de gastos siempre que se cumplan las reglas fiscales. Además, se deberán llevar cuentas específicas para evitar duplicar la acumulación de ingresos.",
   "preguntas_ejemplo": [
     "¿Qué impuestos debo pagar por ingresos de entidades extranjeras?",
-    "¿Cómo se acumulan los ingresos de figuras jurídicas extranjeras?",
-    "¿Puedo deducir gastos de entidades extranjeras transparentes?",
-    "¿Qué pasa si tengo participación indirecta en una entidad extranjera?",
-    "¿Cómo se acredita el impuesto pagado por entidades extranjeras?"
+    "¿Cómo se determinan los ingresos por figuras jurídicas extranjeras?",
+    "¿Puedo deducir gastos de una entidad extranjera?",
+    "¿Qué es una entidad extranjera transparente fiscal?",
+    "¿Cómo debo llevar la contabilidad de mis ingresos extranjeros?",
+    "¿Qué pasa si no tengo control sobre una entidad extranjera?"
   ]
 }

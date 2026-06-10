@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3c3ac973d0651d1d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones para Personas Físicas",
   "temas": [
-    "deducciones",
-    "ingresos",
-    "gastos",
+    "deducciones permitidas",
+    "gastos deducibles",
+    "ingresos por actividades empresariales",
+    "servicios profesionales",
+    "impuestos locales",
     "inversiones",
-    "intereses",
-    "impuesto local",
-    "establecimientos permanentes"
+    "intereses pagados"
   ],
   "terminos_coloquiales": [
-    "deducciones personales",
-    "ingresos por actividades empresariales",
-    "gastos deducibles",
-    "LISR",
-    "deducciones para profesionistas"
+    "deducciones",
+    "gastos",
+    "ingresos por negocios",
+    "impuestos locales",
+    "gastos personales",
+    "inversiones en negocios",
+    "intereses",
+    "IMSS"
   ],
-  "resumen": "El artículo establece las deducciones que pueden aplicar las personas físicas que obtienen ingresos por actividades empresariales o servicios profesionales. Incluye deducciones por devoluciones, adquisiciones, gastos, inversiones, intereses y pagos de impuestos locales.",
+  "resumen": "Las personas físicas que generan ingresos a través de actividades empresariales o servicios profesionales pueden deducir diversos gastos relacionados con su actividad. Esto incluye devoluciones, adquisiciones de mercancías, gastos operativos, inversiones y cuotas del IMSS. Hay restricciones para algunos activos no deducibles, como terrenos y acciones.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones puedo hacer si soy un profesional independiente?",
-    "¿Qué gastos son deducibles para mi actividad empresarial?",
-    "¿Puedo deducir intereses de un préstamo relacionado con mi negocio?",
-    "¿Los pagos de impuestos locales son deducibles?",
-    "¿Qué tipos de inversiones puedo deducir?",
-    "¿Cómo afectan mis establecimientos permanentes a mis deducciones?"
+    "¿Qué gastos puedo deducir si soy persona física con actividad empresarial?",
+    "¿Cuáles son las deducciones disponibles para servicios profesionales?",
+    "¿Puedo deducir los intereses de un préstamo para mi negocio?",
+    "¿Qué tipo de inversiones son deducibles para personas físicas?",
+    "¿Los impuestos locales son deducibles de mis ingresos?",
+    "¿Qué pasa con las deducciones si tengo un establecimiento permanente en el extranjero?"
   ]
 }

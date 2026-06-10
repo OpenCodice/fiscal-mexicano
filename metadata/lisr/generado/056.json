@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:63e1d5c35d9c7b93",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intermediarios Financieros y Enajenación de Acciones",
+  "denominacion_comun": "Enajenación de acciones",
   "temas": [
     "intermediarios financieros",
-    "enajenación de acciones",
     "sociedades anónimas",
-    "bolsas de valores",
+    "bolsa de valores",
     "información fiscal"
   ],
   "terminos_coloquiales": [
-    "intermediarios financieros",
-    "enajenación de acciones",
-    "bolsas de valores",
-    "SACI",
-    "informes al SAT"
+    "venta de acciones",
+    "transacciones bursátiles",
+    "informar al SAT",
+    "acciones",
+    "RFID"
   ],
-  "resumen": "Los intermediarios financieros que realicen operaciones de enajenación de acciones en bolsa deben reportar al SAT información sobre estas transacciones, incluyendo datos de las personas involucradas y las acciones enajenadas.",
+  "resumen": "Los intermediarios financieros que operan en la venta de acciones deben reportar al SAT información sobre estas transacciones anualmente. Esto incluye datos como el nombre, domicilio y RFC de las personas involucradas.",
   "preguntas_ejemplo": [
-    "¿Qué deben informar los intermediarios financieros al SAT?",
-    "¿Cómo se reportan las enajenaciones de acciones?",
-    "¿Cuáles son las obligaciones de las sociedades anónimas en bolsa?",
-    "¿Qué información requieren para las enajenaciones de acciones?",
-    "¿Cuál es el plazo para informar al SAT sobre enajenaciones?"
+    "¿Qué tengo que informar sobre la venta de mis acciones?",
+    "¿Cuándo debo reportar las transacciones de acciones al SAT?",
+    "¿Qué datos necesito para el informe de enajenación de acciones?",
+    "¿Quiénes son considerados intermediarios financieros en la bolsa de valores?",
+    "¿Qué es una sociedad anónima en el contexto de la bolsa de valores?"
   ]
 }

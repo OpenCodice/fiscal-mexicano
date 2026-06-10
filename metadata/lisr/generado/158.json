@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f6324f9bef6e470",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de Residentes en el Extranjero",
+  "denominacion_comun": "Ingresos de residentes en el extranjero",
   "temas": [
-    "Ingresos por uso de bienes inmuebles",
-    "Contraprestaciones por derechos de uso",
-    "Retención de impuestos",
-    "Comprobantes fiscales",
-    "Impuestos sobre bienes muebles",
-    "Contratos de fletamento"
+    "Ingreso por bienes inmuebles",
+    "Contraprestaciones",
+    "Impuesto sobre ingresos",
+    "Comprobante fiscal",
+    "Bienes muebles",
+    "Fletamento",
+    "Retenciones"
   ],
   "terminos_coloquiales": [
-    "Ingresos de extranjeros",
-    "Renta de propiedades",
-    "Impuesto del 25%",
-    "Comprobantes para extranjeros"
+    "renta de propiedades",
+    "ingresos por alquiler",
+    "cobro por uso de bienes",
+    "comprobante de ingresos",
+    "retención de impuestos",
+    "fideicomiso"
   ],
-  "resumen": "Los residentes en el extranjero que obtienen ingresos por otorgar el uso de bienes inmuebles en México deben pagar un impuesto del 25% sobre esos ingresos. Además, estarán obligados a emitir comprobantes fiscales por las contraprestaciones recibidas.",
+  "resumen": "Este artículo establece que los ingresos que obtienen los residentes en el extranjero por el uso o goce de bienes inmuebles en México se consideran de fuente nacional, y deben pagar un impuesto. También se regula la obligación de expedir comprobantes fiscales por estas transacciones.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos deben pagar los extranjeros que rentan propiedades en México?",
-    "¿Cómo se determina el impuesto para los ingresos de bienes inmuebles?",
-    "¿Qué tipo de comprobantes fiscales se necesitan para ingresos de residentes en el extranjero?",
-    "¿Qué tasa se aplica a los ingresos por uso temporal de bienes muebles en México?",
-    "¿Hay excepciones para los ingresos provenientes de contratos de fletamento?"
+    "¿Qué impuestos debo pagar si soy residente en el extranjero y alquilo un inmueble en México?",
+    "¿Qué comprobantes necesito si recibo pagos por uso de propiedades en México?",
+    "¿Cómo se determina el impuesto sobre ingresos por bienes inmuebles?",
+    "¿Quién expide el recibo si la renta se paga a través de un fideicomiso?",
+    "¿Qué tasa de impuesto se aplica si soy extranjero y obtengo ingresos por bienes muebles en México?"
   ]
 }

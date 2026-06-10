@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d1739d5687ef0e5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses Reales",
+  "denominacion_comun": "Intereses reales",
   "temas": [
     "acumulación de ingresos",
-    "intereses reales",
+    "intereses percibidos",
     "ajuste por inflación",
-    "pérdidas fiscales",
+    "pérdida fiscal",
+    "saldo promedio de inversión",
     "reinversión de intereses"
   ],
   "terminos_coloquiales": [
     "intereses",
-    "intereses por inversiones",
-    "intereses acumulables",
-    "IR"
+    "intereses por ahorros",
+    "pérdidas fiscales",
+    "ajuste inflacionario"
   ],
-  "resumen": "Las personas físicas deben sumar los intereses reales a sus ingresos. Los intereses se consideran reales si exceden el ajuste por inflación, y las pérdidas por intereses se pueden disminuir de otros ingresos en ejercicios futuros.",
+  "resumen": "Las personas físicas deben incluir los intereses reales que perciben en sus ingresos. Estos intereses se ajustan por inflación y pueden generar pérdidas fiscales que se pueden deducir en años futuros.",
   "preguntas_ejemplo": [
-    "¿Cómo se acumulan los intereses que recibí este año?",
-    "¿Qué es un interés real y cómo se calcula?",
-    "¿Puedo deducir pérdidas por intereses no percibidos?",
-    "¿Los intereses reinvertidos se consideran ingresos?",
-    "¿Cómo afecta la inflación a los intereses que gano?"
+    "¿Cómo se calculan los intereses reales que debo declarar?",
+    "¿Qué pasa si mi ajuste por inflación es mayor que mis intereses?",
+    "¿Puedo deducir pérdidas por intereses no obtenidos?",
+    "¿Los intereses que reinvierto se consideran percibidos?",
+    "¿Cómo afecta la inflación a mis ingresos por intereses?"
   ]
 }

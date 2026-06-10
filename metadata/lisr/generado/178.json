@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a5de508a00c7d40",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entidades Extranjeras Controladas",
+  "denominacion_comun": "Declaración informativa de ingresos",
   "temas": [
-    "declaración informativa",
     "regímenes fiscales preferentes",
-    "ingresos generados",
+    "declaración informativa",
+    "ingresos sujetos a impuestos",
     "entidades extranjeras",
-    "obligaciones fiscales"
+    "obligaciones fiscales",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
     "declaración de ingresos",
-    "régimen fiscal preferente",
-    "declaración informativa",
-    "entidades extranjeras controladas"
+    "regímenes fiscales especiales",
+    "declaración de impuestos",
+    "ingresos de un régimen preferente"
   ],
-  "resumen": "Los contribuyentes deben presentar anualmente una declaración informativa sobre los ingresos generados en regímenes fiscales preferentes. Esto incluye reportar depósitos y retiros, y acompañar la declaración con la documentación requerida por el SAT.",
+  "resumen": "Este artículo establece que los contribuyentes deben presentar anualmente una declaración informativa sobre los ingresos generados que estén sujetos a regímenes fiscales preferentes. También se menciona que las instituciones financieras deben conservar copia de esta declaración si se presenta correctamente por el titular y los cotitulares.",
   "preguntas_ejemplo": [
-    "¿Qué es una declaración informativa de ingresos?",
-    "¿Quiénes deben presentar la declaración sobre regímenes fiscales preferentes?",
-    "¿Qué se considera un ingreso sujeto a un régimen fiscal preferente?",
-    "¿Qué obligaciones tienen las entidades extranjeras controladas?",
-    "¿Cuándo debo presentar la declaración informativa?"
+    "¿Cuándo debo presentar la declaración de ingresos?",
+    "¿Qué ingresos se consideran sujetos a regímenes fiscales preferentes?",
+    "¿Qué documentación necesito para la declaración informativa?",
+    "¿Qué pasa si no presento la declaración de ingresos?",
+    "¿Quiénes deben presentar la declaración informativa?"
   ]
 }

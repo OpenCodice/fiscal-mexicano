@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ecd0f0d3dfce2371",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por fideicomisos",
+  "denominacion_comun": "Ingresos por fideicomiso",
   "temas": [
-    "rentas",
     "fideicomisos",
+    "rendimientos",
     "ingresos del fideicomitente",
     "ingresos del fideicomisario",
     "pagos provisionales",
-    "comprobantes fiscales",
-    "tasa del 10%"
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "ingresos por fideicomisos",
-    "fideicomisarios",
-    "fideicomitentes",
-    "pago provisional",
-    "comprobante de ingresos",
-    "fideicomiso"
+    "ingresos por fideicomiso",
+    "fideicomitente",
+    "fideicomisario",
+    "comprobante fiscal",
+    "pagos provisionales"
   ],
-  "resumen": "Los ingresos generados por el uso de bienes inmuebles a través de fideicomisos se consideran ingresos del fideicomitente, a menos que se trate de fideicomisos irrevocables. En este caso, los ingresos son del fideicomisario. La institución fiduciaria debe hacer pagos provisionales y emitir comprobantes fiscales correspondientes.",
+  "resumen": "Los rendimientos por el uso de bienes inmuebles en fideicomisos son ingresos del fideicomitente, a menos que se trate de fideicomisos irrevocables. La institución fiduciaria debe hacer pagos provisionales y emitir comprobantes fiscales sobre los rendimientos anualmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se generan los ingresos en un fideicomiso?",
-    "¿Quién recibe los ingresos en un fideicomiso irrevocable?",
-    "¿Qué son los pagos provisionales en fideicomisos?",
-    "¿Cómo se calcula el impuesto sobre los ingresos de un fideicomiso?",
-    "¿Qué documentos fiscales debo recibir por ingresos de fideicomisos?"
+    "¿Quién recibe los ingresos de un fideicomiso?",
+    "¿Cuándo se hacen los pagos provisionales de los fideicomisos?",
+    "¿Qué es un comprobante fiscal en ingresos por fideicomiso?",
+    "¿Cuál es la tasa aplicada a los rendimientos de fideicomisos?",
+    "¿Qué sucede si el fideicomitente pierde el derecho sobre el bien inmueble?"
   ]
 }

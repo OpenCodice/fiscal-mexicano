@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1047ab3bf1efb63b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
+  "denominacion_comun": "Régimen opcional para grupos de sociedades",
   "temas": [
     "autorización",
-    "sociedades integradoras",
     "impuesto sobre la renta",
+    "sociedades integradas",
     "requisitos",
-    "solicitud de autorización",
-    "representante legal"
+    "Solicitud ante autoridades fiscales",
+    "conformidad por escrito",
+    "transmisión de autorización"
   ],
   "terminos_coloquiales": [
-    "Régimen Opcional",
-    "Régimen para Grupos",
-    "GRUPO",
-    "autorización fiscal"
+    "régimen de grupos",
+    "autorización fiscal",
+    "impuesto sobre la renta",
+    "sociedades",
+    "SAT"
   ],
-  "resumen": "Este artículo establece los requisitos que debe cumplir una sociedad integradora para obtener la autorización necesaria para determinar y enterar el impuesto sobre la renta en conjunto con otras sociedades. La autorización es personal para el contribuyente y no puede ser transferida.",
+  "resumen": "Este artículo establece los requisitos que debe cumplir una sociedad integradora para obtener autorización para determinar el impuesto sobre la renta de un grupo de sociedades. Incluye la necesidad de contar con la conformidad de los representantes legales y presentar la solicitud ante las autoridades fiscales en una fecha específica.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe cumplir una sociedad integradora?",
-    "¿Cómo solicito la autorización para el régimen opcional?",
-    "¿Qué pasa si no tengo la conformidad del representante legal?",
-    "¿Puedo transferir la autorización a otra persona?",
-    "¿Cuándo debo presentar la solicitud de autorización?"
+    "¿Qué requisitos debo cumplir para que mi grupo de sociedades tenga autorización fiscal?",
+    "¿Cómo puedo obtener la autorización para determinar el impuesto sobre la renta en un grupo de sociedades?",
+    "¿Qué pasa si no presento la solicitud a tiempo para el régimen opcional de grupos?",
+    "¿La autorización de este régimen puede ser transferida a otra persona?",
+    "¿Qué información necesito incluir en la solicitud de autorización para el régimen opcional?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ad2d67eab14977b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por salarios y servicios personales subordinados",
+  "denominacion_comun": "Ingresos por salarios y otras prestaciones",
   "temas": [
-    "Ingresos por salarios",
-    "Relaciones laborales",
-    "Honorarios",
-    "Prestaciones laborales",
-    "Retenciones",
-    "Comunicaciones al prestatario"
+    "ingresos por salarios",
+    "prestaciones laborales",
+    "honorarios",
+    "retenciones de impuesto",
+    "comunicaciones a prestatarios",
+    "opciones para adquirir acciones",
+    "servicios proporcionados a trabajadores"
   ],
   "terminos_coloquiales": [
-    "Ingresos por salarios",
-    "Retención de impuestos",
-    "Servicios personales subordinados",
-    "Relación laboral",
-    "LISR"
+    "salarios",
+    "prestaciones",
+    "honorarios",
+    "retenciones",
+    "comunicación de ingresos",
+    "acciones de regalo",
+    "autos para funcionarios"
   ],
-  "resumen": "El artículo establece que los ingresos por salarios y otras prestaciones derivadas de una relación laboral deben ser considerados para el cálculo del impuesto. Incluye también honorarios y ciertas situaciones específicas, como los ingresos por opción de acciones.",
+  "resumen": "Este artículo establece qué ingresos se consideran por la prestación de un servicio personal subordinado, incluyendo salarios y remuneraciones. También regula cómo se deben comunicar ciertos ingresos y qué ocurre si se exceden ciertos montos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera ingreso por salario según la ley?",
-    "¿Cómo se calculan los honorarios que debo declarar?",
-    "¿Qué pasa si mis ingresos de honorarios superan cierta cantidad?",
-    "¿Qué información debo comunicar al prestatario sobre mis ingresos?",
-    "¿Las prestaciones por terminación de la relación laboral son ingresos sujetos a impuesto?"
+    "¿Qué se considera ingreso por salario?",
+    "¿Cómo se calculan las retenciones de impuesto sobre salarios?",
+    "¿Qué honorarios entran en este artículo?",
+    "¿Qué debo comunicar a mi empleador sobre mis ingresos?",
+    "¿Qué pasa si mis ingresos exceden los setenta y cinco millones de pesos?",
+    "¿Cómo se trata el ingreso de acciones o títulos valor?"
   ]
 }

@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d47e09cad9ef4c5b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de Inversiones",
   "temas": [
-    "inversiones",
     "deducciones",
+    "inversiones",
     "monto original de la inversión",
-    "ejercicios irregulares",
-    "adaptación de deducciones",
-    "enajenación de bienes",
-    "ganancia por enajenación"
+    "bienes",
+    "fusión de sociedades",
+    "ajuste de deducción",
+    "ganancia de enajenación"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales de inversiones",
-    "deducción de activos",
-    "LISR",
-    "deducción de bienes",
-    "inversiones deducibles"
+    "deducción de inversiones",
+    "deducción fiscal",
+    "inversiones en automóviles",
+    "deducciones por inversión",
+    "LISR"
   ],
-  "resumen": "Las inversiones se deducen con base en porcentajes autorizados y se ajustan por el tiempo de uso del bien. El contribuyente puede elegir una deducción menor y aplicarla desde el ejercicio en que se utilice el bien. Si el bien se vende o deja de ser útil, se puede deducir la parte no deducida.",
+  "resumen": "Las inversiones se pueden deducir fiscalmente aplicando porcentajes máximos permitidos, dependiendo del tiempo que se usen durante el ejercicio. También se consideran costos adicionales relacionados con la adquisición del bien como parte del monto deducible.",
   "preguntas_ejemplo": [
-    "¿Cómo se deducen las inversiones según la LISR?",
-    "¿Cuándo debo empezar a deducir mis inversiones?",
-    "¿Qué pasa si vendo un bien que no he deducido completamente?",
-    "¿Cómo se calcula la deducción de inversiones en ejercicios irregulares?",
-    "¿Qué incluye el monto original de una inversión?",
-    "¿Puedo cambiar el porcentaje de deducción una vez elegido?"
+    "¿Cómo deduzco mis inversiones en mi negocio?",
+    "¿Qué se incluye en el monto original de la inversión?",
+    "¿Puedo cambiar el porcentaje de deducción que elegí?",
+    "¿Qué pasa si vendo un bien antes de deducir el total?",
+    "¿Cómo se calcula la ganancia al vender un bien deducible?"
   ]
 }

@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:32b67dfcd96dd1c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses y Créditos Respaldados",
+  "denominacion_comun": "Intereses y créditos respaldados",
   "temas": [
     "intereses",
-    "créditos concedidos",
+    "créditos",
     "personas morales",
     "dividendos",
-    "partes relacionadas",
-    "financiamiento",
-    "razón de negocios"
+    "acreedores",
+    "deudores",
+    "operaciones financieras",
+    "garantías"
   ],
   "terminos_coloquiales": [
-    "tratamiento fiscal de intereses",
-    "créditos ligados a dividendos",
-    "intereses por créditos",
-    "intereses no deducibles",
-    "créditos respaldados"
+    "intereses de créditos",
+    "créditos garantizados",
+    "dividendos",
+    "deuda",
+    "financiamiento"
   ],
-  "resumen": "Este artículo establece que ciertos intereses de créditos otorgados a personas morales por partes relacionadas pueden ser tratados fiscalmente como dividendos bajo condiciones específicas. Se detallan situaciones en las que esto aplica, incluyendo la garantía del crédito y la relación entre deudor y acreedor.",
+  "resumen": "El artículo establece que los intereses de créditos otorgados a personas morales pueden tratarse como dividendos bajo ciertas condiciones, como incumplimiento de pagos o si los intereses están condicionados a utilidades. También define los créditos respaldados y las operaciones que no calificarán como tales.",
   "preguntas_ejemplo": [
-    "¿Cuándo un interés se considera como un dividendo?",
-    "¿Qué son los créditos respaldados?",
-    "¿Qué condiciones deben cumplirse para que los intereses no sean deducibles?",
-    "¿Cómo se relacionan los intereses de créditos con las partes relacionadas?",
-    "¿Qué impacto fiscal tienen los incumplimientos en los créditos?",
-    "¿Qué tipo de operaciones se consideran créditos respaldados?"
+    "¿Qué son los intereses de créditos respaldados?",
+    "¿Cómo se tratan fiscalmente los intereses de personas morales?",
+    "¿Qué condiciones hacen que los intereses se consideren como dividendos?",
+    "¿Qué se entiende por créditos respaldados?",
+    "¿Cuándo un crédito no se considera respaldado según la ley?"
   ]
 }

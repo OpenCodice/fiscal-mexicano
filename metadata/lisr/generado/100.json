@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9eb32d6285297371",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre ingresos de personas físicas",
+  "denominacion_comun": "Impuesto sobre la Renta para Personas Físicas",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Actividades empresariales",
-    "Servicios profesionales",
-    "Establecimientos permanentes"
+    "personas físicas",
+    "actividades empresariales",
+    "servicios profesionales",
+    "ingresos",
+    "establecimientos permanentes",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "ISR",
-    "Impuesto a personas físicas",
-    "Régimen de actividades empresariales",
-    "Régimen de servicios profesionales"
+    "pagar impuestos",
+    "ingresos por servicios",
+    "deducción de impuestos",
+    "personas físicas",
+    "ISR"
   ],
-  "resumen": "Las personas físicas que ganan dinero por actividades empresariales o servicios profesionales deben pagar un impuesto. Los residentes en el extranjero con negocios en México también están obligados a pagar impuestos sobre sus ingresos aquí.",
+  "resumen": "Las personas físicas que obtienen ingresos de actividades empresariales o servicios profesionales están obligadas a pagar el ISR. También se aplica a personas físicas residentes en el extranjero con establecimientos permanentes en México, sobre los ingresos derivados de esas actividades.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben pagar el ISR por actividades empresariales?",
-    "¿Cómo se calcula el impuesto para servicios profesionales?",
+    "¿Quiénes tienen que pagar el ISR por actividades empresariales?",
     "¿Qué ingresos se consideran para el impuesto sobre la renta?",
-    "¿Los extranjeros que operan en México tienen que pagar impuestos?",
-    "¿Qué tipos de ingresos son considerados actividades empresariales?"
+    "¿Las personas que prestan servicios profesionales deben pagar impuestos?",
+    "¿Qué pasa con los ingresos de personas físicas en el extranjero?",
+    "¿Cómo se calculan los ingresos por actividades comerciales?"
   ]
 }

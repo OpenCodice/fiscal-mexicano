@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8448d24103435bf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del Impuesto Anual para Personas Físicas",
+  "denominacion_comun": "Declaración Anual de Impuesto",
   "temas": [
-    "cálculo del impuesto",
-    "ingresos obtenidos",
+    "personas físicas",
+    "impuesto del ejercicio",
+    "ingresos",
     "deducciones autorizadas",
-    "utilidad gravable",
-    "acreditamientos",
-    "devolución de impuesto",
-    "compensación de impuesto",
-    "actualización de cantidades",
-    "inflación"
-  ],
-  "terminos_coloquiales": [
-    "impuesto anual",
-    "declaración anual",
     "acreditamientos",
     "saldo a favor",
-    "compensación tributaria"
+    "actualización por inflación"
   ],
-  "resumen": "Este artículo establece cómo las personas físicas deben calcular el impuesto anual a partir de sus ingresos, después de aplicar deducciones. También menciona los mecanismos para acreditar impuestos pagados y las condiciones para solicitar devoluciones o compensaciones en caso de saldo a favor.",
+  "terminos_coloquiales": [
+    "declaraión anual",
+    "impuesto sobre la renta",
+    "ISR",
+    "pagos provisionales",
+    "devolución de impuestos",
+    "compensación de impuestos"
+  ],
+  "resumen": "Las personas físicas deben calcular su impuesto anual considerando sus ingresos y las deducciones autorizadas. También pueden acreditar impuestos pagados anticipadamente y solicitar devoluciones si el impuesto a cargo es menor que el total acreditado.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo mi impuesto anual como persona física?",
-    "¿Qué deducciones puedo aplicar al calcular mi impuesto?",
-    "¿Qué es un saldo a favor en mi declaración anual?",
-    "¿Cómo puedo solicitar la devolución de impuestos?",
-    "¿Qué hacer si mis pagos provisionales son superiores al impuesto a cargo?"
+    "¿Cómo calculo mi declaración anual de impuestos?",
+    "¿Qué deducciones puedo aplicar en mi declaración anual?",
+    "¿Qué es el saldo a favor en mi declaración?",
+    "¿Puedo solicitar la devolución de impuestos?",
+    "¿Qué factores se consideran para actualizar mis impuestos por inflación?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfca0b4d478cbee6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del impuesto anual por salarios",
+  "denominacion_comun": "Cálculo del Impuesto Anual por Retenciones",
   "temas": [
-    "retenciones",
+    "retenciones de impuestos",
     "impuesto anual",
+    "salarios",
     "servicios personales subordinados",
-    "devolución de impuestos",
-    "compensación de saldos"
+    "compensación de saldos",
+    "devoluciones de impuestos"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre la renta",
-    "ISR",
-    "deducción de impuestos",
-    "calculadora de ISR",
-    "retenciones de salarios"
+    "declaración anual",
+    "retenciones",
+    "saldo a favor",
+    "devolución de impuestos",
+    "impuesto sobre la renta (ISR)"
   ],
-  "resumen": "Este artículo establece cómo calcular el impuesto anual que deben presentar las personas físicas que prestan servicios personales subordinados. Se permite la disminución del impuesto local y se establecen reglas para la compensación de saldos a favor del contribuyente.",
+  "resumen": "El artículo establece cómo calcular el impuesto anual que deben pagar las personas que han recibido salarios, considerando las retenciones hechas durante el año. También menciona cómo se deben manejar los saldos a favor y las condiciones en las que no se aplica este cálculo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto anual si trabajo bajo un contrato de servicios?",
-    "¿Qué pasa si tengo saldos a favor en mi retención de impuestos?",
-    "¿Cuándo debo presentar el cálculo de mi impuesto anual?",
-    "¿Qué ocurre si mis ingresos superan los $400,000 al año?",
-    "¿Puedo pedir la devolución de impuestos si no compensé mis saldos a favor?"
+    "¿Cómo se calcula el impuesto anual sobre mis salarios?",
+    "¿Qué son las retenciones y cómo afectan mi declaración?",
+    "¿Puedo solicitar la devolución de impuestos si tengo saldo a favor?",
+    "¿Cuándo debo hacer el cálculo del impuesto anual?",
+    "¿Qué sucede si recibí ingresos superiores a $400,000?"
   ]
 }

@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1482022e869a329a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Inversiones",
+  "denominacion_comun": "Deducción de inversiones",
   "temas": [
-    "Deducciones fiscales",
-    "Inversiones",
-    "Gastos deducibles",
-    "Automóviles",
-    "Activos fijos",
-    "Regalías",
-    "Construcciones"
+    "deducciones",
+    "inversiones en automóviles",
+    "inversiones en activos fijos",
+    "gastos deducibles",
+    "comisiones",
+    "bienes por fusión o escisión",
+    "regalías"
   ],
   "terminos_coloquiales": [
-    "Deducciones de inversiones",
-    "Deducción de automóviles",
-    "Deducción de gastos",
-    "Deducción por mejoras",
-    "LISR"
+    "deducción de gastos",
+    "invertir en automóviles",
+    "inversiones en bienes",
+    "deducción de comisiones",
+    "fusión de sociedades",
+    "deducción de regalías"
   ],
-  "resumen": "Este artículo establece las reglas para deducir inversiones realizadas por personas morales, especificando qué tipo de gastos son deducibles y cuáles no, como automóviles y mejoras en activos fijos. Además, detalla las condiciones para la deducción de ciertos bienes y su relación con las actividades de la empresa.",
+  "resumen": "Este artículo establece las reglas para la deducción de inversiones, incluyendo qué se considera una inversión, límites para la deducción de automóviles y los requisitos para deducir ciertos bienes como aviones y casas. También se mencionan las deducciones relacionadas con comisiones y bienes adquiridos por fusión o escisión de sociedades.",
   "preguntas_ejemplo": [
-    "¿Qué inversiones puedo deducir en mi empresa?",
-    "¿Cuáles son las limitaciones para deducir autos en la LISR?",
-    "¿Puedo deducir gastos de mantenimiento de mis instalaciones?",
-    "¿Qué requisitos debo cumplir para deducir aviones o embarcaciones?",
-    "¿Las inversiones en casas habitación son deducibles?",
-    "¿Cómo se determina la deducción en caso de fusión de sociedades?"
+    "¿Cuáles son las reglas para deducir inversiones en mi empresa?",
+    "¿Puedo deducir la compra de un automóvil para mi negocio?",
+    "¿Qué inversiones no son deducibles según la ley?",
+    "¿Cómo se deducen las comisiones al emitir títulos de crédito?",
+    "¿Qué pasa con las inversiones hechas por fusión de empresas?",
+    "¿Qué inversiones en aviones puedo deducir?"
   ]
 }

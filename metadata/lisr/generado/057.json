@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30b00d839ae94712",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas fiscales",
   "temas": [
     "pérdida fiscal",
-    "utilidades fiscales",
+    "ingresos acumulables",
     "deducciones autorizadas",
-    "contribuyentes",
-    "escisión de sociedades",
-    "actualización de pérdidas"
+    "utilidades fiscales",
+    "actualización de pérdidas",
+    "transmisión de pérdidas",
+    "escisión de sociedades"
   ],
   "terminos_coloquiales": [
-    "perdidas",
-    "pérdidas fiscales",
-    "LISR",
+    "pérdida fiscal",
+    "declaración de impuestos",
     "deducciones",
     "utilidades",
-    "derecho a disminuir pérdidas"
+    "ley de ISR",
+    "impuesto sobre la renta"
   ],
-  "resumen": "Las pérdidas fiscales se calculan restando las deducciones autorizadas de los ingresos acumulables. Estas pérdidas se pueden utilizar para reducir utilidades fiscales en los siguientes diez ejercicios. Además, son personales y no se pueden transferir a otras personas.",
+  "resumen": "La pérdida fiscal se calcula como la diferencia entre los ingresos y las deducciones autorizadas, y puede disminuirse de utilidades fiscales en los diez ejercicios siguientes. Si no se aplica en un ejercicio, se pierde el derecho a hacerlo en ejercicios posteriores. Además, las pérdidas fiscales pueden dividirse entre sociedades en caso de escisión.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula una pérdida fiscal?",
-    "¿Cuánto tiempo tengo para aplicar mis pérdidas fiscales?",
-    "¿Puedo transferir mis pérdidas fiscales a otra empresa?",
-    "¿Qué pasa si no aplico mis pérdidas fiscales a tiempo?",
-    "¿Cómo se actualizan las pérdidas fiscales?",
-    "¿Qué sucede con las pérdidas fiscales en caso de escisión?"
+    "¿Qué es una pérdida fiscal?",
+    "¿Cómo se calcula la pérdida fiscal?",
+    "¿Puedo aplicar pérdidas fiscales de años anteriores?",
+    "¿Qué pasa si no utilizo mis pérdidas fiscales en un año?",
+    "¿Se pueden transferir las pérdidas fiscales a otra persona?",
+    "¿Qué ocurre con las pérdidas fiscales si hay escisión de sociedades?"
   ]
 }

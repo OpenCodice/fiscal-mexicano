@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:123a36ba82000d14",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Fondos de Inversión",
   "temas": [
+    "ganancias por enajenación de acciones",
+    "pérdidas fiscales",
     "impuesto sobre la renta",
-    "ganancias y pérdidas",
-    "acciones de fondos de inversión",
     "intereses acumulables",
-    "declaración anual",
-    "simplificación administrativa"
+    "fondos de inversión",
+    "deuda",
+    "renta variable"
   ],
   "terminos_coloquiales": [
     "fondos de inversión",
-    "ganancias de inversión",
-    "acciones de inversión",
+    "acciones",
+    "ganancias",
+    "pérdidas",
     "ISR",
-    "impuesto de fondos"
+    "interés acumulable"
   ],
-  "resumen": "Este régimen regula cómo las personas físicas deben calcular y declarar sus ingresos por ganancias de enajenación de acciones en fondos de inversión, así como el tratamiento de pérdidas y el pago del impuesto sobre la renta correspondiente. También permite que el Servicio de Administración Tributaria simplifique la determinación de intereses acumulables.",
+  "resumen": "El artículo establece cómo las personas físicas deben calcular y reportar las ganancias y pérdidas derivadas de la venta de acciones de fondos de inversión, así como su obligación de pagar el impuesto sobre la renta correspondiente. También se aborda la acumulación de intereses generados por estos fondos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias de los fondos de inversión?",
-    "¿Qué debo hacer si tengo pérdidas en la venta de acciones de un fondo?",
-    "¿Cómo se declaran los ingresos de fondos de inversión en mi declaración anual?",
-    "¿Qué implicaciones fiscales tienen los intereses de los fondos de inversión?",
-    "¿Puedo deducir pérdidas de años anteriores por enajenación de acciones?"
+    "¿Cómo se calculan las ganancias por la venta de acciones de un fondo de inversión?",
+    "¿Qué impuestos debo pagar por las ganancias de mi fondo de inversión?",
+    "¿Puedo deducir pérdidas de fondos de inversión en mis impuestos?",
+    "¿Qué son los intereses acumulables de un fondo de inversión?",
+    "¿Cómo afecta la enajenación de acciones en mis impuestos?"
   ]
 }

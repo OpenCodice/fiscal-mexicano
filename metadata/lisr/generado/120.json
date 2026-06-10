@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5062cbfd6abb424b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto por enajenación de bienes",
   "temas": [
+    "ingresos por enajenación",
+    "ganancia acumulable",
     "deducciones",
-    "ganancia",
-    "impuesto anual",
-    "ingresos acumulables",
+    "cálculo de impuesto",
     "tasa de impuesto",
-    "enajenación",
-    "declaración anual"
+    "pagos en parcialidades"
   ],
   "terminos_coloquiales": [
-    "impuesto por venta de propiedades",
-    "ganancia por enajenación",
-    "ingresos por venta de bienes",
-    "LISR",
-    "Artículo 120"
+    "venta de propiedades",
+    "impuesto por venta",
+    "ganancia por venta",
+    "deducciones fiscales",
+    "tasa de impuestos",
+    "ISR",
+    "IMPUESTO SOBRE LA RENTA"
   ],
-  "resumen": "Este artículo establece cómo calcular el impuesto anual que deben pagar las personas que obtienen ingresos por la venta de bienes. Permite realizar deducciones y determina si la ganancia se acumula o no para el cálculo del impuesto.",
+  "resumen": "Este artículo establece cómo se calcula el impuesto anual para personas que obtienen ingresos al vender bienes. Se indica la forma de determinar la ganancia y cómo se aplican las deducciones autorizadas para calcular el impuesto a pagar.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por venta de bienes?",
-    "¿Qué deducciones puedo aplicar al vender una propiedad?",
-    "¿Qué es la ganancia acumulable en la enajenación de bienes?",
-    "¿Cuál es la tasa de impuesto que debo pagar por la venta de un bien?",
-    "¿Puedo pagar el impuesto en parcialidades si vendí un inmueble?",
-    "¿Cómo determino el impuesto sobre ingresos acumulables por enajenación?"
+    "¿Cómo se calcula el impuesto por la venta de una propiedad?",
+    "¿Qué deducciones puedo aplicar al vender un bien?",
+    "¿Qué es la ganancia acumulable al vender bienes?",
+    "¿Cómo se determina la tasa de impuesto en la enajenación?",
+    "¿Puedo pagar el impuesto en parcialidades si vendo un bien?",
+    "¿Qué pasa si no he tenido ingresos en años anteriores antes de vender?"
   ]
 }

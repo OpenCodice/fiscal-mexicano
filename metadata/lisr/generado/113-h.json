@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a78cdf68211ae380",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Simplificado de Confianza",
   "temas": [
-    "impuesto sobre la renta",
-    "contribuyentes",
+    "pago del impuesto sobre la renta",
     "Registro Federal de Contribuyentes",
+    "comprobantes fiscales digitales",
     "obligaciones fiscales",
-    "comprobantes fiscales digitales"
+    "contribuyentes",
+    "reanudación de actividades"
   ],
   "terminos_coloquiales": [
     "RESICO",
-    "Régimen Simplificado",
-    "Régimen de Confianza",
-    "pago de impuestos sencillo"
+    "impuesto sobre la renta",
+    "registro de contribuyentes",
+    "comprobante fiscal",
+    "cumplimiento fiscal"
   ],
-  "resumen": "Los contribuyentes que eligen este régimen deben estar registrados, cumplir con ciertos requisitos de ingresos y estar al día con sus obligaciones fiscales. No deben estar en listas de posibles incumplidos publicadas por el SAT.",
+  "resumen": "Este régimen establece que los contribuyentes deben estar activos en el registro, no haber excedido ciertos ingresos en el ejercicio anterior y estar al día con sus obligaciones fiscales. Además, no deben estar en un listado específico del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para estar en el Régimen Simplificado de Confianza?",
-    "¿Cómo saber si estoy activo en el Registro Federal de Contribuyentes?",
-    "¿Cuáles son los ingresos máximos para el Régimen Simplificado?",
-    "¿Qué pasa si no cumplo mis obligaciones fiscales?",
-    "¿Dónde puedo encontrar la lista de contribuyentes incumplidos del SAT?"
+    "¿Qué requisitos debo cumplir para inscribirme en el RESICO?",
+    "¿Qué es el Régimen Simplificado de Confianza?",
+    "¿Cuáles son las obligaciones fiscales en este régimen?",
+    "¿Qué ingresos no pueden exceder mis comprobantes fiscales?",
+    "¿Cómo sé si estoy en el registro de contribuyentes?",
+    "¿Qué pasa si no estoy al corriente en mis obligaciones fiscales?"
   ]
 }

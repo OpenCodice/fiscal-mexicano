@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10a41db82567249a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ganancia por enajenación de acciones",
@@ -13,25 +14,24 @@
     "costo promedio por acción",
     "monto original ajustado",
     "pérdidas fiscales",
-    "reembolsos pagados",
-    "utilidad fiscal neta",
-    "acciones en circulación",
-    "diferencia pendiente de disminuir",
-    "actualización de costos"
+    "reembolsos",
+    "utilidades fiscales",
+    "diferencias pendientes"
   ],
   "terminos_coloquiales": [
-    "ganancia de acciones",
-    "costo de acciones",
+    "venta de acciones",
+    "ganancia por venta de acciones",
     "pérdidas fiscales",
     "reembolsos",
-    "utilidad neta"
+    "dividendos",
+    "LISR"
   ],
-  "resumen": "El artículo establece cómo calcular la ganancia por la venta de acciones, considerando el costo promedio y ajustando por pérdidas y reembolsos. También se detalla la forma de actualizar los montos involucrados y de asignar proporciones a los contribuyentes en caso de enajenación.",
+  "resumen": "Este artículo detalla cómo los contribuyentes deben calcular la ganancia al vender acciones, considerando el costo promedio y varios ajustes relacionados con pérdidas fiscales y reembolsos. Además, menciona cómo se actualizan estos costos y pérdidas en función de fechas específicas.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la ganancia por la venta de acciones?",
-    "¿Qué se incluye en el costo promedio de las acciones?",
-    "¿Cómo afectan las pérdidas fiscales al cálculo de la ganancia?",
-    "¿Qué son los reembolsos pagados y cómo se consideran?",
-    "¿Cómo se actualizan los costos al vender acciones?"
+    "¿Cómo se calcula la ganancia al vender acciones?",
+    "¿Qué incluye el costo promedio de mis acciones?",
+    "¿Cómo afectan las pérdidas fiscales a la venta de acciones?",
+    "¿Qué son los reembolsos en el contexto de acciones?",
+    "¿Cómo se actualizan las pérdidas y reembolsos en la enajenación de acciones?"
   ]
 }

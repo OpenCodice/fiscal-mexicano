@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30e8e9a2e5189596",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disposiciones Generales de la LISR",
+  "denominacion_comun": "Personas Morales y Sistema Financiero",
   "temas": [
-    "persona moral",
+    "personas morales",
+    "sociedades mercantiles",
     "acciones",
+    "certificados de participación",
     "sistema financiero",
     "previsión social",
     "depositarios de valores"
   ],
   "terminos_coloquiales": [
-    "personas morales",
-    "acciones y certificados",
-    "sistema financiero",
+    "sociedades",
+    "financieras",
+    "certificados de acciones",
     "previsión social",
-    "depositarios de valores"
+    "bancos",
+    "casa de bolsa"
   ],
-  "resumen": "El artículo establece definiciones y conceptos sobre personas morales, acciones, el sistema financiero y previsión social, así como quiénes son considerados depositarios de valores. Se especifican también las condiciones para que ciertas entidades sean parte del sistema financiero según sus actividades y estructura.",
+  "resumen": "El artículo especifica qué entidades se consideran 'personas morales' y describe las características del sistema financiero en el contexto de la ley. También define lo que se entiende por previsión social y los depositarios de valores.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por persona moral según la LISR?",
-    "¿Qué incluye la definición de acciones en esta ley?",
-    "¿Cuáles son los integrantes del sistema financiero?",
-    "¿Qué se considera previsión social en términos fiscales?",
-    "¿Quiénes son depositarios de valores en México?"
+    "¿Qué se entiende por persona moral en la ley?",
+    "¿Qué tipos de sociedades se consideran como personas morales?",
+    "¿Qué entidades conforman el sistema financiero según la ley?",
+    "¿Qué beneficios se consideran previsión social?",
+    "¿Quiénes son los depositarios de valores?"
   ]
 }

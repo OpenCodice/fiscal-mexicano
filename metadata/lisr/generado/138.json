@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88627ef90d9301b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre premios",
   "temas": [
-    "impuesto sobre premios",
-    "loterías",
+    "premios de loterías",
     "rifas",
+    "sorteos",
     "concursos",
-    "juegos con apuestas",
-    "tasa de retención",
+    "impuesto local",
+    "retención de impuestos",
     "declaración de ingresos"
   ],
   "terminos_coloquiales": [
-    "impuesto por premios",
     "premios de lotería",
-    "premios de rifas",
-    "premios de sorteos",
-    "impuesto por juegos",
-    "ISR premios"
+    "sorteos y rifas",
+    "impuesto a premios",
+    "retención de impuesto",
+    "declarar premios"
   ],
-  "resumen": "El impuesto por premios de loterías, rifas y juegos se calcula aplicando un porcentaje sobre el valor del premio. La retención de este impuesto se considera como pago definitivo en ciertos casos, pero si no se declara, deberá acumularse a otros ingresos.",
+  "resumen": "Este artículo establece que se debe pagar un impuesto del 1% sobre el valor de los premios de loterías, rifas, sorteos y concursos. Si la entidad federativa aplica un impuesto local que exceda del 6%, la tasa del impuesto será del 21%. La retención del impuesto es considerada como pago definitivo si el ganador lo declara correctamente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por premios de la lotería?",
-    "¿Qué porcentaje de impuestos se paga por ganancias en rifas?",
-    "¿Qué pasa si no declaro los premios que gané?",
-    "¿Las tasas de impuestos son diferentes en cada estado?",
-    "¿Cómo afecta la retención de impuestos a mis premios?"
+    "¿Cuál es el impuesto que debo pagar por mi premio de la lotería?",
+    "¿Cómo se calcula el impuesto por ganancia en rifas y sorteos?",
+    "¿Qué pasa si no declaro el premio que gané?",
+    "¿El impuesto sobre premios se retiene al momento de recibirlo?",
+    "¿Qué sucede si vivo en una entidad que cobra impuestos locales sobre premios?",
+    "¿Puedo acreditar la retención del impuesto en mi declaración anual?"
   ]
 }

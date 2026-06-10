@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b953e3c3985a8b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones en el Régimen Simplificado de Confianza",
@@ -14,6 +15,7 @@
     "descuentos",
     "bonificaciones",
     "adquisiciones de mercancías",
+    "materias primas",
     "gastos netos",
     "inversiones",
     "intereses pagados",
@@ -21,16 +23,18 @@
     "fondos de pensiones"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "deducciones permitidas",
+    "deducciones",
+    "facturas",
+    "gastos deducibles",
     "RESICO"
   ],
-  "resumen": "Este artículo establece las deducciones que pueden aplicar los contribuyentes del Régimen Simplificado de Confianza, incluyendo devoluciones, adquisiciones, intereses y cuotas al IMSS, entre otros. Se definen también los gastos e inversiones que no son deducibles.",
+  "resumen": "Este artículo establece las deducciones que pueden realizar los contribuyentes bajo el Régimen Simplificado de Confianza, incluyendo devoluciones, adquisiciones de mercancías y gastos relacionados con intereses y cuotas al IMSS. También se menciona la consideración de gastos e inversiones no deducibles.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las deducciones permitidas en el Régimen Simplificado de Confianza?",
-    "¿Puedo deducir los intereses pagados en mi actividad económica?",
-    "¿Qué tipos de gastos son considerados no deducibles?",
-    "¿Qué deducciones puedo hacer por las aportaciones al IMSS?",
-    "¿Cómo afectan las devoluciones y descuentos en mis deducciones fiscales?"
+    "¿Qué deducciones puedo hacer en el Régimen Simplificado de Confianza?",
+    "¿Puedo deducir los intereses que pago por préstamos?",
+    "¿Qué tipos de gastos son considerados deducibles?",
+    "¿Cómo afectan las devoluciones el cálculo de mis deducciones?",
+    "¿Puedo deducir las cuotas que pago al IMSS?",
+    "¿Qué son las deducciones no deducibles en este régimen?"
   ]
 }

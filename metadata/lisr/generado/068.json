@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35af958b0e752e4d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Desincorporación de sociedades",
+  "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
-    "Impuesto diferido",
-    "Fusión de sociedades",
-    "Escisión de sociedades",
-    "Aviso al SAT",
-    "Requisitos de integración"
+    "desincorporación",
+    "impuesto diferido",
+    "fusión de sociedades",
+    "escisión de sociedades",
+    "aviso al SAT"
   ],
   "terminos_coloquiales": [
-    "Desincorporación",
-    "Impuesto diferido",
-    "Fusión",
-    "Escisión",
+    "desincorporarse",
+    "pagar impuestos pendientes",
+    "sociedades fusionadas",
+    "sociedades escindidas",
     "SAT"
   ],
-  "resumen": "Las sociedades que dejan de estar integradas deben desincorporarse y pagar el impuesto diferido. En caso de fusión o escisión, se establecen obligaciones específicas para el pago del impuesto por parte de las sociedades involucradas.",
+  "resumen": "Este artículo establece las obligaciones de las sociedades que dejan de ser consideradas como integradas, así como el pago de impuestos diferidos en casos de fusión y escisión de sociedades. También se requiere presentar un aviso al SAT sobre estos cambios.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si una sociedad deja de ser considerada integrada?",
-    "¿Cómo se paga el impuesto diferido en una fusión?",
-    "¿Qué obligaciones tiene una sociedad escindente?",
-    "¿Cuándo se debe presentar el aviso al SAT?",
-    "¿Qué requisitos debo cumplir para seguir aplicando este régimen?"
+    "¿Qué debo hacer si mi sociedad ya no es parte de un grupo integrado?",
+    "¿Cómo se paga el impuesto diferido en una fusión de sociedades?",
+    "¿Qué sucede con los impuestos si se escinde una sociedad?",
+    "¿Qué información debo presentar al SAT tras una desincorporación?",
+    "¿Cuál es el plazo para pagar el impuesto diferido tras una escisión?"
   ]
 }

@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:296238ca08a24791",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones por Arrendamiento",
+  "denominacion_comun": "Deducciones por ingresos de arrendamiento",
   "temas": [
     "deducciones fiscales",
-    "impuesto predial",
+    "ingresos por arrendamiento",
     "gastos de mantenimiento",
     "intereses reales",
     "salarios y honorarios",
-    "primas de seguros",
+    "seguros",
     "inversiones en construcciones",
     "subarrendamiento"
   ],
   "terminos_coloquiales": [
-    "deducciones por rentas",
-    "gastos deducibles",
-    "LISR",
+    "deducciones por renta",
+    "gastos que puedo deducir",
+    "intereses de hipoteca",
+    "cuotas de mantenimiento",
+    "seguros de propiedad",
+    "ingresos por arrendar",
+    "subarrendar",
     "impuesto predial"
   ],
-  "resumen": "El artículo establece las deducciones que pueden realizar las personas físicas que obtienen ingresos por arrendamiento de bienes inmuebles. Estas incluyen impuestos, gastos de mantenimiento, intereses reales de préstamos, salarios y primas de seguros relacionados con los inmuebles.",
+  "resumen": "Este artículo establece las deducciones que pueden aplicar las personas físicas que obtienen ingresos por arrendamiento de bienes inmuebles. Incluye deducciones por impuestos prediales, gastos de mantenimiento, intereses de préstamos, salarios pagados y seguros, así como un esquema simplificado de deducción del 35% de los ingresos por arrendamiento.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones puedo hacer si arriendo un inmueble?",
-    "¿Puedo deducir el impuesto predial de mi renta?",
-    "¿Cuáles son los gastos deducibles por arrendamiento?",
-    "¿Qué implica el subarrendamiento en las deducciones fiscales?",
-    "¿Cómo se calcula el interés real en mis deducciones?",
-    "¿Qué pasa si uso parte del inmueble que arriendo?"
+    "¿Qué gastos puedo deducir si alquilo mi casa?",
+    "¿Puedo deducir el impuesto predial si tengo inquilinos?",
+    "¿Cómo se deducen los intereses de mi hipoteca?",
+    "¿Qué pasa si subarriendo una propiedad?",
+    "¿Cuáles son las deducciones por arrendamiento en la declaración de impuestos?"
   ]
 }

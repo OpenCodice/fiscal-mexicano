@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:430e9ac1bcc579b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sociedades Cooperativas de Producción",
+  "denominacion_comun": "Estímulos fiscales para sociedades cooperativas de producción",
   "temas": [
-    "Impuesto sobre la renta",
-    "Utilidades gravables",
-    "Cuotas de impuesto",
-    "Distribución de utilidades",
-    "Cuentas de utilidad gravable",
-    "Anticipos a socios"
+    "impuesto sobre la renta",
+    "sociedades cooperativas",
+    "utilidad gravable",
+    "distribución de utilidades",
+    "cuenta de utilidad gravable",
+    "rendimientos",
+    "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "Cooperativas de producción",
-    "Impuesto diferido",
-    "ISR cooperativas",
-    "Utilidad gravable",
-    "Rendimientos cooperativos"
+    "cooperativas de producción",
+    "impuesto de la cooperativa",
+    "utilidades no distribuidas",
+    "rendir cuentas",
+    "RENTAS"
   ],
-  "resumen": "Las sociedades cooperativas de producción pueden calcular el impuesto sobre la renta de sus socios de manera diferente, permitiendo diferir el pago del impuesto hasta que se distribuyan utilidades. Si no distribuyen utilidades en dos ejercicios, deben pagar el impuesto correspondiente.",
+  "resumen": "Las sociedades cooperativas de producción pueden aplicar reglas especiales para calcular el impuesto sobre la renta de sus socios, permitiendo diferir el pago del impuesto hasta que se distribuyan las utilidades. También deben llevar una cuenta de utilidad gravable y los ingresos que obtengan no generarán pagos provisionales del impuesto. Los rendimientos que den a sus socios se consideran ingresos por servicios personales.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto sobre la renta en sociedades cooperativas de producción?",
-    "¿Qué pasa si una cooperativa no distribuye utilidades a sus socios?",
-    "¿Qué significa diferir el impuesto en las cooperativas?",
-    "¿Cómo se manejan las cuentas de utilidad gravable en las cooperativas?",
-    "¿Cuándo deben pagar los socios el impuesto sobre la renta?"
+    "¿Cómo calculan el impuesto las cooperativas de producción?",
+    "¿Qué pasa si una cooperativa no distribuye sus utilidades?",
+    "¿Qué es la cuenta de utilidad gravable en una cooperativa?",
+    "¿Cuáles son los beneficios fiscales de las sociedades cooperativas de producción?",
+    "¿Se pagan impuestos provisionales en las cooperativas de producción?"
   ]
 }

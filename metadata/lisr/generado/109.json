@@ -6,35 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:45b0b654e788e03c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de Impuesto y Pérdidas Fiscales",
+  "denominacion_comun": "Utilidad y Pérdida Fiscal de Personas Físicas",
   "temas": [
     "impuesto del ejercicio",
     "utilidad fiscal",
     "deducciones autorizadas",
-    "participación de los trabajadores",
     "pérdida fiscal",
-    "actualización de pérdidas fiscales",
-    "renta gravable",
-    "actividad empresarial",
-    "servicios profesionales"
+    "participación de trabajadores en utilidades",
+    "renta gravable"
   ],
   "terminos_coloquiales": [
-    "cálculo del impuesto",
     "pérdidas fiscales",
-    "utilidad gravable",
+    "utilidades",
+    "impuesto",
     "deducciones",
-    "participación de utilidades",
-    "impuesto sobre la renta (ISR)"
+    "participación en utilidades",
+    "renta gravable"
   ],
-  "resumen": "Este artículo establece cómo los contribuyentes deben calcular su impuesto del ejercicio, determinando la utilidad fiscal y considerando deducciones autorizadas. También trata sobre cómo manejar las pérdidas fiscales y la participación de los trabajadores en las utilidades de las empresas.",
+  "resumen": "Este artículo establece cómo calcular la utilidad fiscal y la pérdida fiscal para las personas físicas con actividades empresariales y profesionales. También menciona la participación que deben recibir los trabajadores en las utilidades. Además, indica cómo se pueden aplicar las pérdidas fiscales en ejercicios posteriores.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto de mis actividades empresariales?",
-    "¿Qué son las pérdidas fiscales y cómo las puedo utilizar?",
-    "¿Cómo se determina la participación de los trabajadores en las utilidades?",
-    "¿Qué deducciones puedo aplicar para mi impuesto sobre la renta?",
-    "¿Cómo afecta la pérdida fiscal en mis declaraciones de años siguientes?",
-    "¿Se puede transmitir las pérdidas fiscales a otra persona?"
+    "¿Cómo se calcula la utilidad fiscal si tengo ingresos por actividad empresarial?",
+    "¿Qué debo hacer si mis deducciones superan mis ingresos?",
+    "¿Puedo aplicar mis pérdidas fiscales de años anteriores?",
+    "¿Cómo se calcula la participación de los trabajadores en las utilidades?",
+    "¿El derecho a las pérdidas fiscales se puede transmitir a alguien más?"
   ]
 }

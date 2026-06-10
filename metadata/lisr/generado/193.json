@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d37af60d260c89f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estímulos fiscales para capital de riesgo",
+  "denominacion_comun": "Inversión en Capital de Riesgo",
   "temas": [
     "fideicomisos",
     "impuesto sobre la renta",
     "ingresos",
-    "dividendos",
-    "intereses",
-    "ganancias de enajenación",
+    "acciones",
+    "valores",
+    "financiamientos",
+    "fideicomisarios",
     "aportaciones",
-    "reembolsos",
-    "constancias fiscales"
+    "ganancia",
+    "doble imposición"
   ],
   "terminos_coloquiales": [
-    "inversión en capital de riesgo",
-    "fideicomisos de inversión",
-    "ISR",
-    "impuesto a fideicomisarios"
+    "inversión de riesgo",
+    "fideicomiso",
+    "acciones",
+    "valores",
+    "intereses",
+    "ganancia por enajenación",
+    "ir por cedente"
   ],
-  "resumen": "El artículo establece las disposiciones fiscales que deben seguir las personas que invierten en capital de riesgo a través de fideicomisos. Describe cómo deben reportarse los ingresos, las cuentas a mantener por la institución fiduciaria y las obligaciones fiscales de los fideicomisarios.",
+  "resumen": "El artículo establece las obligaciones fiscales para las personas que invierten en capital de riesgo a través de fideicomisos, incluyendo la retención de impuestos y la necesidad de llevar cuentas específicas por tipos de ingresos. Además, regula la manera en que deben registrarse las aportaciones y reembolsos de fideicomisarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se reportan los impuestos de un fideicomiso de inversión?",
-    "¿Qué ingresos causan impuesto los fideicomisarios?",
-    "¿Qué registros deben llevar las instituciones fiduciarias?",
-    "¿Cómo se determinan las ganancias en la enajenación de derechos en un fideicomiso?",
-    "¿Qué pasa si no se cumplen los requisitos fiscales establecidos?"
+    "¿Cómo se gravan los ingresos de un fideicomiso en capital de riesgo?",
+    "¿Qué cuentas debe llevar la institución fiduciaria?",
+    "¿Qué sucede si un fideicomisario cede sus derechos?",
+    "¿Cómo se actualizan las cuentas de aportación en un fideicomiso?",
+    "¿Qué es un fideicomiso y cómo se grava fiscalmente?"
   ]
 }

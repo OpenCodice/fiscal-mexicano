@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:37f6505fd9322472",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Personas Morales No Lucrativas",
+  "denominacion_comun": "Régimen de personas morales con fines no lucrativos",
   "temas": [
     "impuesto sobre la renta",
     "contribuyentes",
+    "ingresos",
     "donativos deducibles",
-    "ingresos en moneda extranjera",
-    "fondos de inversión"
+    "disposiciones fiscales"
   ],
   "terminos_coloquiales": [
-    "personas morales no lucrativas",
-    "PMNL",
+    "ONG",
+    "asociaciones civiles",
+    "fundaciones",
     "donativos",
-    "impuestos",
-    "renta"
+    "RIF",
+    "regimen de no lucrativos"
   ],
-  "resumen": "Las personas morales no lucrativas son contribuyentes del impuesto sobre la renta si perciben ciertos ingresos, a menos que se trate de fondos de inversión o de entidades autorizadas para recibir donativos deducibles. La retención que se realice será un pago definitivo.",
+  "resumen": "Este artículo establece que las personas morales con fines no lucrativos serán contribuyentes del impuesto sobre la renta si perciben ingresos de ciertos capítulos de la ley. También menciona que algunos fondos de inversión no estarán sujetos a este impuesto bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Qué son las personas morales no lucrativas?",
-    "¿Cuándo tengo que pagar impuesto sobre la renta como persona moral no lucrativa?",
-    "¿Qué ingresos están sujetos al impuesto sobre la renta?",
-    "¿Qué significa ser contribuyente para una persona moral no lucrativa?",
-    "¿Qué son los donativos deducibles y cómo funcionan?"
+    "¿Qué impuestos pagan las ONG?",
+    "¿Las fundaciones tienen que pagar impuesto sobre la renta?",
+    "¿Qué condiciones deben cumplir las personas morales con fines no lucrativos?",
+    "¿Qué ingresos están sujetos a impuestos para las asociaciones civiles?",
+    "¿Cómo funcionan los donativos deducibles para las personas morales?",
+    "¿Los fondos de inversión de deuda pagan impuestos?"
   ]
 }

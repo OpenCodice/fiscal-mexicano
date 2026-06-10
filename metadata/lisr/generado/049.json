@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b8cc64f0b375ad67",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acumulación de ingresos por instituciones de crédito",
+  "denominacion_comun": "Acumulación de ingresos en instituciones de crédito",
   "temas": [
-    "instituciones de crédito",
-    "acumulación de ingresos",
-    "convenios con la SHCP",
+    "ingresos acumulables",
+    "convenios",
     "ajuste anual por inflación",
-    "créditos acumulables",
-    "Código Fiscal de la Federación"
+    "créditos",
+    "Secretaría de Hacienda",
+    "disminuciones de ingresos"
   ],
   "terminos_coloquiales": [
-    "acumulación de ingresos",
-    "ingresos por convenios",
+    "ingresos acumulables",
+    "convenciones con Hacienda",
     "ajuste por inflación",
-    "instituciones de crédito"
+    "créditos",
+    "instituciones financieras"
   ],
-  "resumen": "Las instituciones de crédito pueden sumar los ingresos de convenios con la Secretaría de Hacienda cuando los reciben. También, al calcular el ajuste anual por inflación, deben considerar ciertos créditos relacionados.",
+  "resumen": "Las instituciones de crédito pueden acumular los ingresos derivados de convenios con la Secretaría de Hacienda cuando se perciban en efectivo o bienes, después de hacer las deducciones correspondientes. También deben considerar ciertos créditos para el ajuste anual por inflación.",
   "preguntas_ejemplo": [
     "¿Cómo acumulan ingresos las instituciones de crédito?",
-    "¿Qué convenios con la SHCP se consideran para ingresos?",
-    "¿Cómo se determina el ajuste anual por inflación en estas instituciones?",
-    "¿Qué créditos son acumulables para las instituciones de crédito?",
-    "¿Qué ingresos se derivan de los convenios con la Secretaría de Hacienda?"
+    "¿Qué convenios se consideran para el ingreso acumulable?",
+    "¿Qué es el ajuste anual por inflación en las instituciones financieras?",
+    "¿Qué créditos se tienen en cuenta para el ajuste por inflación?",
+    "¿Cuándo se deben reconocer los ingresos de Hacienda?"
   ]
 }

@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:061bffa1e037e1a6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen Opcional para Grupos de Sociedades",
   "temas": [
-    "autorización",
-    "incorporación",
-    "sociedades integradas",
-    "avisos ante autoridades fiscales"
+    "autorización de opción",
+    "grupo de sociedades",
+    "incorporación de sociedades",
+    "avisos a autoridades fiscales",
+    "acciones con derecho a voto",
+    "percentual de participación",
+    "escisión de sociedades"
   ],
   "terminos_coloquiales": [
-    "Régimen de Grupos",
-    "Opcional para Grupos de Sociedades",
-    "Régimen de sociedades",
-    "Régimen de integración"
+    "opción para grupos",
+    "sociedades integradas",
+    "avisos fiscales",
+    "acciones",
+    "empresa escindida"
   ],
-  "resumen": "Este artículo establece las condiciones y procedimientos para que las sociedades integradas se autoricen y se incorporen a un grupo de sociedades, incluyendo la presentación de avisos ante las autoridades fiscales. La autorización tiene efectos a partir del ejercicio siguiente al que se otorga.",
+  "resumen": "Este artículo establece las reglas sobre la autorización y el proceso para que un grupo de sociedades se considere integrado bajo el régimen opcional. Se detalla cómo y cuándo las sociedades deben presentar avisos a las autoridades fiscales relacionadas con su autorización y participación en el grupo.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos hay para formar un grupo de sociedades?",
-    "¿Cómo se presenta la solicitud para la opción del régimen?",
-    "¿Qué pasa si una sociedad no se incorpora al grupo?",
-    "¿Cuál es el plazo para presentar el aviso de incorporación?",
-    "¿Qué sucede si se incorpora una sociedad no calificada como integrada?"
+    "¿Cómo se obtiene la autorización para el régimen de grupos de sociedades?",
+    "¿Qué es una sociedad integrada en el régimen opcional?",
+    "¿Cuáles son los pasos para incorporar sociedades al grupo?",
+    "¿Qué avisos debo presentar a las autoridades fiscales?",
+    "¿Qué sucede si no se incorpora una sociedad que debía ser parte del grupo?"
   ]
 }

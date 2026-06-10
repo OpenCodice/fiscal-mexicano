@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:075418002d6b1fce",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operación de Maquila",
+  "denominacion_comun": "Maquila",
   "temas": [
-    "Utilidad fiscal",
-    "Activos utilizados",
-    "Cálculo de inventarios",
-    "Deducción de inversiones",
-    "Gastos y cargos diferidos",
-    "Servicios personales en México"
+    "operaciones de maquila",
+    "utilidad fiscal",
+    "activos utilizados",
+    "cálculo de costos",
+    "gastos de operación",
+    "residentes en el extranjero",
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "Maquila",
-    "Régimen de Maquila",
-    "Operación de Maquila"
+    "maquila",
+    "empresa maquiladora",
+    "gastos de maquila",
+    "servicios en maquila"
   ],
-  "resumen": "El artículo 182 establece cómo las empresas maquiladoras deben determinar su utilidad fiscal en base a ciertos porcentajes sobre sus activos utilizados y costos de operación, así como las reglas para calcular el valor de inventarios y activos fijos utilizados en la operación de maquila.",
+  "resumen": "Este artículo establece cómo se determina la utilidad fiscal de las empresas maquiladoras, incluyendo el cálculo de activos y gastos para la operación de maquila. También menciona los requisitos de documentación y el tratamiento de costos y gastos en la declaración fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina la utilidad fiscal de una empresa maquiladora?",
-    "¿Qué activos se pueden considerar para el cálculo de la utilidad en maquilas?",
-    "¿Cómo se calculan los inventarios en una operación de maquila?",
-    "¿Qué gastos se pueden deducir en la operación de maquila?",
-    "¿Cuáles son las obligaciones fiscales para las empresas maquiladoras?"
+    "¿Cómo se calcula la utilidad fiscal de una maquiladora?",
+    "¿Qué activos se consideran para determinar la utilidad en operaciones de maquila?",
+    "¿Qué gastos puedo incluir en el cálculo de mi maquila?",
+    "¿Qué obligaciones tengo como empresa maquiladora respecto a la documentación fiscal?",
+    "¿Cómo se tratan los servicios de personas no residentes en la operación de maquila?"
   ]
 }

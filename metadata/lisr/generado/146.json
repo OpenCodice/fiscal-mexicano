@@ -6,31 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ab2774514f9f6302",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de personas físicas por operaciones financieras",
+  "denominacion_comun": "Ganancias y pérdidas de operaciones financieras",
   "temas": [
-    "ganancias y pérdidas",
-    "intereses acumulables",
-    "retenciones",
-    "operaciones financieras",
-    "deuda y capital",
+    "intereses",
+    "ganancias",
+    "pérdidas",
+    "operaciones financieras derivadas",
+    "retención de impuestos",
     "comprobantes fiscales",
-    "declaración anual"
+    "declaración anual",
+    "casas de bolsa",
+    "instituciones de crédito"
   ],
   "terminos_coloquiales": [
-    "ingresos por operaciones financieras",
-    "ganancias de bolsa",
-    "retenciones fiscales",
     "intereses",
-    "pérdidas deducibles"
+    "ganancias de inversiones",
+    "pérdidas de inversiones",
+    "retención de impuestos",
+    "comprobantes de impuestos",
+    "declaración de impuestos",
+    "casas de bolsa",
+    "bancos"
   ],
-  "resumen": "El artículo regula cómo se determinan los ingresos de las personas físicas provenientes de operaciones financieras, incluyendo la forma de calcular las ganancias y pérdidas, así como las retenciones que deben aplicarse sobre los intereses y ganancias acumulables. También establece la obligación de reportar estas operaciones a las autoridades fiscales.",
+  "resumen": "Este artículo regula cómo deben declararse las ganancias y pérdidas de las operaciones financieras de las personas físicas, indicando que las ganancias se acumulan en su declaración anual y se pueden disminuir con las pérdidas. También establece las obligaciones de retención de impuestos por parte de las instituciones involucradas en estas operaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias de mis inversiones?",
-    "¿Qué impuestos debo pagar por mis intereses acumulados?",
-    "¿Cómo se deducen las pérdidas en mis operaciones financieras?",
-    "¿Qué es la retención sobre intereses y cómo se aplica?",
-    "¿Qué reportes fiscales debo presentar por mis operaciones en bolsa?"
+    "¿Cómo debo declarar las ganancias por operaciones de bolsa?",
+    "¿Qué sucede si tengo más pérdidas que ganancias en mis inversiones?",
+    "¿Qué impuestos se retienen en mis operaciones financieras?",
+    "¿Cómo se calculan las ganancias de las operaciones financieras?",
+    "¿Qué comprobantes necesito para mis operaciones en bolsa?",
+    "¿Las pérdidas de mis inversiones se pueden usar para reducir impuestos?"
   ]
 }

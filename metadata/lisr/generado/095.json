@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4545fb1b91bba971",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre ingresos por separación",
   "temas": [
-    "ingresos por prima de antigüedad",
-    "indemnizaciones",
+    "ingresos por separación",
+    "primas de antigüedad",
     "retiro",
-    "cálculo de impuestos",
-    "sueldo mensual ordinario",
-    "tasa de impuesto"
+    "indemnizaciones",
+    "cálculo del impuesto anual"
   ],
   "terminos_coloquiales": [
-    "impuesto por separación",
-    "ingresos por indemnización",
-    "impuesto por retiro",
-    "LISR",
-    "artículo 95"
+    "impuesto por despido",
+    "primas de antigüedad",
+    "indemnización",
+    "ingresos por separación",
+    "último sueldo ordinario"
   ],
-  "resumen": "Este artículo establece cómo calcular el impuesto sobre los ingresos obtenidos por concepto de primas de antigüedad, retiro e indemnizaciones. Se especifican las fórmulas a seguir dependiendo del monto de las percepciones y del sueldo mensual ordinario del contribuyente.",
+  "resumen": "Este artículo establece cómo se calcula el impuesto anual sobre ingresos obtenidos por primas de antigüedad, retiro e indemnizaciones. Se determina a partir de separar una cantidad del último sueldo mensual y sumar o restar ciertos montos para calcular el impuesto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto por indemnización?",
-    "¿Qué sucede si mis ingresos por separación son menores a mi sueldo mensual?",
-    "¿Cómo se determina la tasa del impuesto sobre mis ingresos por retiro?",
-    "¿Qué se considera un ingreso por prima de antigüedad?"
+    "¿Cómo se calcula el impuesto por indemnización al ser despedido?",
+    "¿Qué monto se considera para el impuesto de mis primas de antigüedad?",
+    "¿Qué sucede si mis ingresos por separación son menores a mi último sueldo?",
+    "¿Cómo se aplica la tasa del impuesto en ingresos por retiro?",
+    "¿Qué se considera ingresos por separación según la ley?"
   ]
 }

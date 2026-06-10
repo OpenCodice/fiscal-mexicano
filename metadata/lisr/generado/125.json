@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:15d6be094db50c07",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avalúo de bienes en enajenación",
+  "denominacion_comun": "Avalúo en enajenación de bienes",
   "temas": [
-    "Avalúo",
-    "Corredor público",
-    "Ingreso por enajenación",
-    "Valor de contraprestación",
-    "Cotización bursátil"
+    "avalúo",
+    "enajenación de bienes",
+    "ingresos",
+    "contraprestación",
+    "valores bursátiles"
   ],
   "terminos_coloquiales": [
-    "Avalúo fiscal",
-    "Ingreso por venta de bienes",
-    "Valor de venta",
-    "Valor de enajenación"
+    "valoración de bienes",
+    "valor de avaluo",
+    "ingreso por venta",
+    "corredor público",
+    "SAT"
   ],
-  "resumen": "Los contribuyentes pueden solicitar un avalúo a través de corredores públicos o instituciones de crédito. Si el avalúo supera en más del 10% el precio de venta, la diferencia se considera ingreso para el adquirente y se ajusta el costo del bien.",
+  "resumen": "Los contribuyentes pueden pedir un avalúo para determinar el valor de los bienes que venden. Si el avalúo es más de un 10% superior al precio de venta, la diferencia se considera ingreso para el comprador y aumenta el costo del bien.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza un avalúo para la venta de un bien?",
-    "¿Qué pasa si el avalúo supera el precio pactado?",
-    "¿Cómo afecta el avalúo al ingreso del comprador?",
-    "¿Qué autoridades pueden realizar el avalúo?",
-    "¿Se considera la cotización bursátil en la enajenación de valores?"
+    "¿Cómo se realiza un avalúo para vender un bien?",
+    "¿Qué pasa si el valor del avalúo es mayor al precio de venta?",
+    "¿Quién puede hacer el avalúo de un bien?",
+    "¿Cómo afecta el avalúo a mis impuestos al vender un bien?",
+    "¿Qué se considera ingreso por enajenación de bienes?"
   ]
 }

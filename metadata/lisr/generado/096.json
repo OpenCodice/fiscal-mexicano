@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8547630c6a9efd59",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones por ingresos por salarios",
+  "denominacion_comun": "Retenciones por salarios y pagos provisionales",
   "temas": [
     "retenciones",
     "pagos provisionales",
-    "impuesto anual",
-    "salario mínimo",
+    "impuesto sobre la renta",
+    "salarios",
     "gratificación anual",
     "participación de utilidades",
     "honorarios",
-    "declaración mensual"
+    "servicios personales subordinados"
   ],
   "terminos_coloquiales": [
-    "retenciones de salarios",
-    "impuesto sobre salarios",
-    "retención ISR",
-    "declaración de retenciones"
+    "retenciones de impuesto",
+    "pagos de impuestos",
+    "aguinaldo",
+    "prima vacacional",
+    "prima dominical",
+    "honorarios",
+    "ISR"
   ],
-  "resumen": "Este artículo establece las obligaciones de retención de impuestos sobre los ingresos por salarios y otros pagos, así como los plazos y métodos para realizar estas retenciones y enteros. También menciona situaciones específicas como el salario mínimo y honorarios a ciertos directivos.",
+  "resumen": "Este artículo establece que quienes realicen pagos por salarios deben hacer retenciones de impuestos como pagos provisionales. Los cálculos de las retenciones dependen de diversos factores, incluyendo la naturaleza de los pagos y los ingresos obtenidos en el mes.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las retenciones de impuestos sobre mi salario?",
-    "¿Qué pasa si solo recibo un salario mínimo?",
-    "¿Cuándo debo presentar la declaración de mis retenciones?",
-    "¿Qué tipo de ingresos están sujetos a retención?",
-    "¿Cómo se manejan las retenciones de honorarios por servicios?"
+    "¿Cómo se calcula la retención de impuestos sobre mi salario?",
+    "¿Qué son los pagos provisionales y quién los debe hacer?",
+    "¿Se debe retener impuesto si solo se recibe un salario mínimo?",
+    "¿Qué se considera como ingreso para las retenciones?",
+    "¿Cuál es la fecha límite para enterar las retenciones de ISR?"
   ]
 }

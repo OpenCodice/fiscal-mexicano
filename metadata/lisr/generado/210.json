@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1025ae0c284a806d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones autorizadas",
+  "denominacion_comun": "Deducciones Autorizadas",
   "temas": [
-    "efectividad de pagos",
-    "deducciones por inversiones",
-    "primas de seguros",
+    "deducciones fiscales",
+    "gastos deducibles",
+    "inversiones",
     "comprobantes fiscales",
-    "requisitos de deducción"
+    "seguros y fianzas",
+    "pago de cheques"
   ],
   "terminos_coloquiales": [
-    "deducciones fiscales",
-    "deducciones autorizadas",
-    "deducciones de gastos"
+    "gastos que se pueden deducir",
+    "deducciones de impuestos",
+    "facturas",
+    "inversiones deducibles"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir las deducciones autorizadas para poder ser aplicadas, incluyendo que sean efectivamente erogadas y que sean indispensables para obtener ingresos. También menciona la forma de deducir inversiones y otros aspectos relacionados con los pagos y comprobantes fiscales.",
+  "resumen": "Este artículo establece los requisitos que deben cumplir las deducciones autorizadas para que sean válidas ante las autoridades fiscales. Se incluyen detalles sobre cómo y cuándo deben llevarse a cabo los pagos para que sean considerados efectivamente erogados.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben cumplir mis deducciones fiscales?",
-    "¿Cómo debo realizar la deducción de inversiones?",
-    "¿Cuándo se considera que un pago es efectivamente erogado?",
-    "¿Qué deducciones se pueden hacer por primas de seguros?",
-    "¿Cómo afecta el uso de cheques en mis deducciones?"
+    "¿Cuáles son los requisitos para deducir gastos en mi declaración?",
+    "¿Cómo se consideran los pagos con cheque para deducción?",
+    "¿Qué tipo de inversiones puedo deducir en mi impuesto?",
+    "¿Qué debo hacer si quiero deducir primas de seguros?",
+    "¿Las deducciones se pueden aplicar más de una vez?"
   ]
 }

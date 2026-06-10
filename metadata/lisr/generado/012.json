@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88d5f3eaf87a04ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Liquidación de Sociedades",
+  "denominacion_comun": "Declaración final de liquidación de sociedades",
   "temas": [
-    "Declaración final de liquidación",
-    "Pagos provisionales",
-    "Activos en el extranjero",
-    "Cambio de residencia fiscal",
-    "Responsabilidad del representante legal"
+    "liquidación de sociedades",
+    "declaración final",
+    "pagos provisionales",
+    "activos en el extranjero",
+    "cambio de residencia fiscal",
+    "representante legal",
+    "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
-    "Liquidación de empresas",
-    "Última declaración de liquidación",
-    "Impuesto de liquidación",
-    "Sociedad en liquidación"
+    "declaración de liquidación",
+    "pago de impuestos durante la liquidación",
+    "liquidar una sociedad",
+    "liquidación de empresa",
+    "cambio de residencia fiscal",
+    "representante legal"
   ],
-  "resumen": "El artículo establece que el liquidador de una sociedad debe presentar una declaración final tras la liquidación y cumplir con ciertos pagos provisionales. También define cómo se liquida una persona moral residente en México y la responsabilidad del representante legal en el proceso.",
+  "resumen": "Este artículo establece los procedimientos que deben seguir las sociedades en proceso de liquidación en México. Los liquidadores deben presentar declaraciones finales y pagos provisionales del impuesto sobre la renta, así como designar un representante legal responsable de cumplir con estas obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer al liquidar una sociedad?",
-    "¿Cuándo se presenta la declaración de liquidación?",
-    "¿Quién es responsable de los impuestos durante la liquidación?",
-    "¿Cómo se determina el valor de los activos al liquidar?",
-    "¿Qué pasa si la sociedad tiene activos en el extranjero?",
-    "¿Cuándo se considera que una persona moral se ha liquidado?"
+    "¿Qué debo hacer al liquidar mi empresa?",
+    "¿Cuándo se presenta la declaración final de liquidación?",
+    "¿Qué son los pagos provisionales durante la liquidación?",
+    "¿Qué pasa con los activos en el extranjero al liquidar una sociedad?",
+    "¿Quién es el responsable de los impuestos en una liquidación?"
   ]
 }
