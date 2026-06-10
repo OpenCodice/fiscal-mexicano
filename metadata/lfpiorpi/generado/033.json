@@ -1,0 +1,37 @@
+{
+  "clave": "033",
+  "documento": "lfpiorpi",
+  "etiqueta": "Artículo 33.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d4d8c2d0c333afe5",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Identificación de pagos en actos notariales",
+  "temas": [
+    "Fe Pública",
+    "actos u operaciones",
+    "identificación de pago",
+    "certificados",
+    "facturas",
+    "garantías",
+    "Beneficiario Controlador"
+  ],
+  "terminos_coloquiales": [
+    "comprobante",
+    "factura",
+    "forma de pago",
+    "clientes",
+    "usuarias"
+  ],
+  "resumen": "Este artículo establece que los notarios deben identificar cómo se pagarán las obligaciones relacionadas con ciertos actos u operaciones. Si el valor de la operación es alto, se requiere formalizar mediante documentos específicos; si es bajo, se admite una declaración de los clientes.",
+  "preguntas_ejemplo": [
+    "¿Cómo debo pagar si mi operación es mayor a ocho mil veces la UMA?",
+    "¿Qué documentos necesito si pago con un certificado o factura?",
+    "¿Qué pasa si ya pagué antes de firmar el documento?",
+    "¿Quiénes deben identificarse en estos actos u operaciones?",
+    "¿Qué es un Beneficiario Controlador?"
+  ]
+}
