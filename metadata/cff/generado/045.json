@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:346e0abff8bdb352",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Visitas Domiciliarias",
   "temas": [
+    "obligaciones de los visitados",
     "acceso a domicilio fiscal",
-    "contabilidad",
-    "verificación de bienes",
+    "verificación de contabilidad",
+    "copia de documentos",
     "actas parciales",
-    "copias certificadas"
+    "sistema de registro electrónico",
+    "equipos de cómputo"
   ],
   "terminos_coloquiales": [
-    "visitas fiscales",
-    "visitadores",
-    "acta fiscal"
+    "visita fiscal",
+    "inspección en el domicilio",
+    "contabilidad",
+    "acta de visita",
+    "copia certificada",
+    "archivos electrónicos"
   ],
-  "resumen": "Los representantes de los contribuyentes deben permitir el acceso a los visitadores fiscales y proporcionar la contabilidad necesaria. Pueden hacer copias de documentos durante la visita y es posible levantar actas parciales.",
+  "resumen": "Los contribuyentes deben permitir el acceso a su domicilio fiscal para las visitas de las autoridades fiscales, facilitando la contabilidad y documentos requeridos. Si llevan su contabilidad de forma electrónica, deben proporcionar el equipo necesario a los visitadores. Se levantarán actas parciales si se obtienen copias de la contabilidad.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si vienen a visitarme las autoridades fiscales?",
-    "¿Qué documentos tengo que mostrar en una visita domiciliaria?",
-    "¿Pueden llevarse mi contabilidad durante la visita?",
-    "¿Qué es un acta parcial en una visita fiscal?",
-    "¿Qué pasa si mi contabilidad está en formato electrónico?",
-    "¿Los visitadores pueden revisar mis bienes y mercancías?"
+    "¿Qué debo hacer si me visita la autoridad fiscal en mi domicilio?",
+    "¿Pueden llevarse mi contabilidad durante una visita fiscal?",
+    "¿Cómo debo preparar mis documentos para una visita domiciliaria?",
+    "¿Qué es un acta parcial y cuándo se levanta?",
+    "¿Qué pasa si uso registros electrónicos en mi contabilidad?"
   ]
 }

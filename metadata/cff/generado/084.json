@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7306ab0e5b13d154",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por Infracciones Fiscales",
+  "denominacion_comun": "Sanciones por infracciones fiscales",
   "temas": [
-    "multas",
-    "infracciones",
-    "contabilidad",
+    "infracciones fiscales",
     "sanciones",
-    "comprobantes fiscales",
-    "donativos deducibles"
+    "multa",
+    "contabilidad",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
+    "multas",
     "sanciones fiscales",
-    "multas por contabilidad",
-    "infracciones contables",
+    "multas de contabilidad",
     "comprobantes",
-    "donativos deducibles"
+    "gastos inexistentes"
   ],
-  "resumen": "El artículo establece las multas que se imponen por diversas infracciones relacionadas con la obligación de llevar contabilidad. Esto incluye sanciones por no registrar correctamente las operaciones y por emitir comprobantes fiscales sin los complementos necesarios.",
+  "resumen": "El artículo establece las multas que se pueden imponer a los contribuyentes que incumplen con la obligación de llevar contabilidad adecuada y emitir comprobantes fiscales correctos. Las sanciones varían dependiendo de la infracción cometida, con multas que pueden ser desde cantidades menores hasta sumas significativas en caso de reincidencia.",
   "preguntas_ejemplo": [
-    "¿Qué multas se aplican por no llevar la contabilidad correcta?",
-    "¿Cuáles son las sanciones si emití un comprobante fiscal sin los requisitos?",
-    "¿Qué pasa si cometo una infracción fiscal relacionada con donativos?",
-    "¿Qué multas puede imponer la autoridad fiscal por reincidencia?",
-    "¿Hay sanciones específicas para contribuyentes que registran gastos inexistentes?"
+    "¿Cuánto me pueden multar por no llevar contabilidad?",
+    "¿Qué sanciones existen si no emito comprobantes fiscales?",
+    "¿Qué pasa si registro un gasto inexistente en mi contabilidad?",
+    "¿Cómo se calculan las multas por infracciones fiscales?",
+    "¿Qué ocurre si tengo reincidencias en las infracciones fiscales?"
   ]
 }

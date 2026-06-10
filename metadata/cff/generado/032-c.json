@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a1a2a8562321eef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación en Factoraje",
+  "denominacion_comun": "Notificación en factoraje",
   "temas": [
     "empresas de factoraje",
-    "sociedades financieras",
     "derechos de crédito",
-    "notificación de deudores",
-    "factoraje financiero",
-    "plazo de notificación"
+    "notificación",
+    "deudores",
+    "contrato de factoraje",
+    "cobranza"
   ],
   "terminos_coloquiales": [
-    "notificación de factoraje",
-    "deudores de factoraje",
-    "factoraje financiero"
+    "factoraje",
+    "deudores",
+    "notificación de factoraje"
   ],
-  "resumen": "Las empresas de factoraje y las sociedades financieras deben notificar a los deudores sobre la transmisión de derechos de crédito. Esta notificación debe hacerse en un plazo no mayor a diez días desde que se realizó la transmisión.",
+  "resumen": "Las empresas de factoraje y las sociedades financieras deben notificar a los deudores sobre la transmisión de derechos de crédito. Esta notificación debe realizarse dentro de un plazo específico y se puede llevar a cabo por varios medios establecidos.",
   "preguntas_ejemplo": [
-    "¿Qué es la notificación en el factoraje?",
-    "¿Cuándo deben notificar las empresas de factoraje?",
-    "¿Quiénes deben recibir la notificación de derechos de crédito?",
-    "¿Qué pasa si no se notifica al deudor?",
-    "¿Cuáles son los plazos para la notificación en factoraje?"
+    "¿Qué es la notificación en factoraje?",
+    "¿Quiénes deben recibir la notificación de factoraje?",
+    "¿Cuánto tiempo tienen las empresas para notificar sobre la transmisión de derechos de crédito?",
+    "¿Qué tipos de factoraje requieren notificación?",
+    "¿Qué pasa si no se notifica al deudor en el plazo estipulado?"
   ]
 }

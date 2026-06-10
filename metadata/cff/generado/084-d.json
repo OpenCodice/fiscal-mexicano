@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a3fe63dcd463b216",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por infracciones fiscales",
+  "denominacion_comun": "Infracciones y multas",
   "temas": [
-    "infracciones fiscales",
     "multas",
-    "sistema financiero",
-    "Código Fiscal de la Federación"
+    "infracciones",
+    "omisiones",
+    "usuarios del sistema financiero"
   ],
   "terminos_coloquiales": [
-    "multas fiscales",
-    "multas por omisiones",
-    "CFF"
+    "multas por omisión",
+    "infracciones fiscales",
+    "sistema financiero"
   ],
-  "resumen": "Este artículo establece las multas impuestas por infracciones señaladas en el artículo 84-C del Código Fiscal de la Federación, diferenciando entre los contribuyentes regulares y los usuarios del sistema financiero.",
+  "resumen": "El artículo establece que se impondrán multas a quienes cometan infracciones relacionadas con omisiones en el cumplimiento de disposiciones fiscales, estableciendo diferentes montos dependiendo del tipo de infractor.",
   "preguntas_ejemplo": [
-    "¿Cuánto es la multa por infracciones fiscales?",
-    "¿Qué pasa si omito mis declaraciones?",
-    "¿Las multas son diferentes para el sistema financiero?",
-    "¿Qué dice el artículo 84-D del CFF?",
-    "¿Cuánto me multarán por no cumplir con mis obligaciones fiscales?"
+    "¿Cuánto es la multa por omisiones?",
+    "¿Qué pasa si no cumplo con mis obligaciones fiscales?",
+    "¿Quiénes están exentos de la multa?",
+    "¿Qué se considera una infracción según el artículo 84-D?",
+    "¿Qué multas hay para los usuarios del sistema financiero?"
   ]
 }

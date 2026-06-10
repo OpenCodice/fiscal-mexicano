@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd157a4b962a6aac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Hechos comprobatorios en materia fiscal",
+  "denominacion_comun": "Facultades de comprobación",
   "temas": [
-    "facultades de comprobación",
     "resoluciones fiscales",
-    "confidencialidad de información",
-    "validez de copias",
+    "documentos administrativos",
+    "plazos para contribuyentes",
+    "confidencialidad de la información",
+    "valor probatorio de documentos",
     "comprobantes fiscales digitales"
   ],
   "terminos_coloquiales": [
-    "información fiscal",
-    "pruebas fiscales",
-    "resoluciones de SHCP",
-    "CFF",
-    "comprobantes digitales"
+    "revisión fiscal",
+    "documentos fiscales",
+    "plazo para responder",
+    "información confidencial",
+    "copias certificadas",
+    "CFDI"
   ],
-  "resumen": "Este artículo establece que los hechos conocidos por las autoridades fiscales pueden ser utilizados para fundamentar resoluciones relacionadas con contribuciones federales. Se regula también el plazo que tienen los contribuyentes para manifestar lo que consideren respecto a documentos que les proporcionen otras autoridades y la validez de copias y reproducciones de documentos fiscales.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden utilizar ciertos documentos y datos para motivar sus resoluciones y fija un plazo para que los contribuyentes se manifiesten sobre documentos que les sean proporcionados. También señala la validez probatoria de copias de documentos y la presunción de certeza en los comprobantes fiscales digitales.",
   "preguntas_ejemplo": [
-    "¿Qué información puede usar la SHCP para sus resoluciones?",
-    "¿Cuánto tiempo tengo para responder a documentos fiscales que me envían otras autoridades?",
-    "¿Cuál es el valor de las copias de documentos fiscales?",
-    "¿Los comprobantes fiscales digitales son considerados válidos?",
-    "¿Cómo se protegen mis datos en procesos fiscales?"
+    "¿Qué pasa si las autoridades fiscales revisan mis documentos?",
+    "¿Cuánto tiempo tengo para responder a un requerimiento fiscal?",
+    "¿Las copias de mis documentos tienen el mismo valor que los originales?",
+    "¿Qué es un comprobante fiscal digital?",
+    "¿Cómo se maneja la información confidencial en revisiones fiscales?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a20136ff9db87edd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones por cigarros",
@@ -13,20 +14,19 @@
     "multas",
     "cigarros",
     "código de seguridad",
-    "ley del impuesto especial",
-    "fisco federal"
+    "infracciones fiscales"
   ],
   "terminos_coloquiales": [
     "multas por cigarros",
-    "infracciones fiscales",
-    "cajetillas de cigarros"
+    "cajetillas de cigarros",
+    "código de seguridad de cigarros"
   ],
-  "resumen": "Se imponen multas por cada cajetilla de cigarros que no tenga el código de seguridad correspondiente o que sea apócrifa. Además, las cajetillas aseguradas pasarán a ser propiedad del fisco para su destrucción.",
+  "resumen": "Se imponen multas por cada cajetilla de cigarros que no tenga el código de seguridad correspondiente o si este es falso. Las cajetillas infractoras serán aseguradas y destruidas por el fisco federal.",
   "preguntas_ejemplo": [
-    "¿Cuánto es la multa por cigarros sin código de seguridad?",
-    "¿Qué pasa con las cajetillas de cigarros apócrifas?",
-    "¿Quién se queda con las cajetillas de cigarros aseguradas?",
-    "¿Qué infracciones relacionadas con cigarros cubre el artículo 86-J?",
-    "¿Cómo se aplican las multas por violaciones en la venta de cigarros?"
+    "¿Cuánto es la multa por no tener el código de seguridad en cigarros?",
+    "¿Qué pasa si compro cigarros sin el código de seguridad?",
+    "¿Las cajetillas de cigarros sin código de seguridad se pueden destruir?",
+    "¿Qué infracciones están relacionadas con las cajetillas de cigarros?",
+    "¿Qué sucede si el código de seguridad en mis cigarros es falso?"
   ]
 }

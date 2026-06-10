@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd4ff96f21bd4455",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes embargados",
@@ -13,21 +14,21 @@
     "subasta pública",
     "enajenación",
     "bienes embargados",
-    "venta electrónica",
-    "lotes"
+    "medios electrónicos",
+    "venta en lotes",
+    "venta de piezas sueltas"
   ],
   "terminos_coloquiales": [
-    "venta de bienes embargados",
+    "subasta",
     "subasta electrónica",
-    "subasta pública",
-    "venta en lotes"
+    "venta de bienes embargados"
   ],
-  "resumen": "Los bienes embargados se deben vender en subasta pública usando medios electrónicos, salvo excepciones. La autoridad puede decidir si los bienes se venden en lotes o por separado.",
+  "resumen": "Este artículo establece que las enajenaciones deben realizarse mediante subasta pública utilizando medios electrónicos, salvo ciertas excepciones. Además, la autoridad puede decidir que los bienes embargados se vendan en lotes o como piezas individuales.",
   "preguntas_ejemplo": [
     "¿Cómo se venden los bienes embargados?",
-    "¿Qué requisitos hay para la enajenación de bienes embargados?",
-    "¿Se puede realizar la venta de bienes embargados en línea?",
-    "¿La venta de bienes embargados se hace en lotes o individualmente?",
-    "¿Qué es una subasta pública de bienes embargados?"
+    "¿Qué es una subasta pública electrónica?",
+    "¿Puede la autoridad vender bienes embargados en partes?",
+    "¿Cuándo se puede hacer una enajenación distinta a la subasta pública?",
+    "¿Qué implica la venta en lotes de bienes embargados?"
   ]
 }

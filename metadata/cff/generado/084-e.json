@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40753af9ddfd1ece",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones en Factoraje Financiero",
+  "denominacion_comun": "Infracciones en factoraje financiero",
   "temas": [
-    "infracciones",
     "factoraje financiero",
-    "notificación de créditos",
-    "sociedades financieras"
+    "notificación de transmisión de créditos",
+    "sociedades financieras",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "infracción de factoraje",
-    "sociedades de factoraje",
-    "SOFOM"
+    "factoring",
+    "notificación de créditos",
+    "sistemas de factoraje"
   ],
-  "resumen": "Se considera una infracción que las empresas de factoraje financiero y las sociedades financieras no notifiquen la transmisión de créditos de acuerdo con el artículo mencionado o se nieguen a recibir dicha notificación.",
+  "resumen": "Se establece que las empresas de factoraje financiero y sociedades financieras de objeto múltiple pueden incurrir en infracciones si no notifican la transmisión de créditos de un contrato de factoraje o si se niegan a recibir dicha notificación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una empresa de factoraje no notifica la transmisión de créditos?",
-    "¿Cuáles son las infracciones para las sociedades financieras en factoraje?",
-    "¿Qué se considera una falta en el factoraje financiero?",
-    "¿Cómo deben las sociedades de factoraje gestionar las notificaciones de créditos?"
+    "¿Qué pasa si una empresa de factoraje no notifica la transmisión de un crédito?",
+    "¿Cuáles son las obligaciones de las sociedades financieras de objeto múltiple en factoraje?",
+    "¿Qué infracciones pueden cometer las empresas de factoraje financiero?",
+    "¿Es obligatorio notificar la transmisión de créditos en factoraje financiero?",
+    "¿Qué sucede si se niega a recibir una notificación de factoraje?",
+    "¿Qué dice el Artículo 84-E sobre el factoraje financiero?"
   ]
 }

@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d72e0aa95ec0ea31",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad Solidaria",
+  "denominacion_comun": "Responsabilidad solidaria de contribuyentes",
   "temas": [
-    "Responsables solidarios",
-    "Contribuciones",
-    "Retenedores",
-    "Sociedades",
-    "Liquidación",
-    "Pagos provisionales",
-    "Adquisición de negociaciones",
-    "Control efectivo"
+    "retenedores",
+    "pagos provisionales",
+    "liquidadores",
+    "responsabilidad fiscal",
+    "sociedades",
+    "adquisición de negociaciones",
+    "patria potestad",
+    "servicios",
+    "sociedades escindidas",
+    "operaciones con partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "responsabilidad solidaria",
-    "retención de impuestos",
-    "socios responsables",
-    "dificultades fiscales",
+    "responsables fiscales",
     "contribuciones no pagadas",
-    "CFF"
+    "liquidadores",
+    "socios responsables",
+    "impuestos atrasados"
   ],
-  "resumen": "Este artículo establece quiénes son responsables solidarios de las contribuciones fiscales, incluyendo retenedores, liquidadores y gerentes de sociedades. También abarca situaciones donde se transfiere una negociación y las condiciones bajo las cuales se incurre en responsabilidad fiscal.",
+  "resumen": "El artículo establece quiénes son considerados responsables solidarios por las contribuciones fiscales de un contribuyente, incluyendo retenedores, liquidadores, y personas morales. También se especifica cómo se determina la responsabilidad en caso de adquirentes de negociaciones y varias situaciones que pueden generar esta responsabilidad.",
   "preguntas_ejemplo": [
-    "¿Quiénes son los responsables solidarios en el pago de impuestos?",
-    "¿Qué implica la responsabilidad solidaria para los socios de una empresa?",
-    "¿Cómo se determina la responsabilidad de los liquidadores en una quiebra?",
-    "¿Qué pasa si compro un negocio con deudas fiscales?",
-    "¿Las personas que administran una empresa son responsables de impuestos no pagados?",
-    "¿Qué condiciones llevan a una persona a ser responsable solidario por contribuciones?"
+    "¿Quiénes son los responsables fiscales en caso de impago de impuestos?",
+    "¿Qué implica ser responsable solidario de un contribuyente?",
+    "¿Cómo afecta la adquisición de un negocio a las contribuciones fiscales?",
+    "¿Qué sucede si un socio no paga sus impuestos?",
+    "¿Quiénes responden por las obligaciones fiscales de una sociedad en liquidación?"
   ]
 }

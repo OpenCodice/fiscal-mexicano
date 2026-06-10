@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:77a4fa3c30fae8b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Residencia Fiscal",
   "temas": [
-    "residencia fiscal",
     "personas físicas",
     "personas morales",
-    "centro de intereses",
-    "avisos fiscales",
     "cambio de residencia",
-    "régimen fiscal preferente"
+    "ingresos",
+    "acuerdo de intercambio de información",
+    "avisos fiscales",
+    "centro de intereses vitales"
   ],
   "terminos_coloquiales": [
     "residencia en México",
-    "residentes fiscales",
-    "cambio de residencia fiscal"
+    "cambio de residencia fiscal",
+    "cambio de residencia",
+    "avisos ante el SAT",
+    "funcionarios del Estado"
   ],
-  "resumen": "El artículo describe quiénes se consideran residentes fiscales en México, incluyendo a personas físicas y morales. También establece cómo se determina la residencia y las obligaciones relacionadas con cambios de residencia fiscal.",
+  "resumen": "El artículo establece quiénes son considerados residentes fiscales en México, tanto para personas físicas como morales. Se detalla cómo se determina la residencia, basándose en el lugar de la casa habitación y el centro de intereses vitales. También menciona las obligaciones al cambiar de residencia fiscal y cómo se manejan los avisos ante las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Quiénes son considerados residentes fiscales en México?",
-    "¿Qué requisitos debo cumplir para ser residente fiscal?",
-    "¿Qué pasa si cambio mi residencia fiscal?",
-    "¿Cómo se determina el centro de intereses vitales?",
-    "¿Debo avisar si dejo de ser residente fiscal?"
+    "¿Quiénes se consideran residentes fiscales en México?",
+    "¿Qué pasa si cambio mi residencia fiscal a otro país?",
+    "¿Necesito presentar un aviso si dejo de ser residente en México?",
+    "¿Cómo se define el centro de intereses vitales?",
+    "¿Qué requisito tengo que cumplir si me mudo a otro país?"
   ]
 }

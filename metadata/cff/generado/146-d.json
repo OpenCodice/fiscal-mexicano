@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d3e0a20c277a187f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Créditos Fiscales Incobrables",
+  "denominacion_comun": "Extinción de créditos fiscales",
   "temas": [
-    "extinción de créditos fiscales",
+    "créditos fiscales",
+    "subcuenta especial",
     "imposibilidad de cobro",
     "deudores",
-    "bien embargable",
-    "quiebra"
+    "quiebra",
+    "bienes embargables"
   ],
   "terminos_coloquiales": [
-    "créditos fiscales",
-    "cobro de deudas fiscales",
+    "deudas fiscales",
+    "créditos incobrables",
     "imposibilidad de cobrar",
-    "créditos incobrables"
+    "quiebra",
+    "deudores que no tienen dinero"
   ],
-  "resumen": "Los créditos fiscales registrados como incobrables se extinguen a los cinco años si no se pueden cobrar. Esto sucede si los deudores no tienen bienes para embargar o han fallecido sin dejar bienes.",
+  "resumen": "Los créditos fiscales registrados como incobrables se extinguen cinco años después de su registro si no se pueden cobrar. Esto ocurre cuando los deudores no tienen bienes, han fallecido o están en quiebra.",
   "preguntas_ejemplo": [
-    "¿Cuándo se extinguen los créditos fiscales incobrables?",
-    "¿Qué pasa si el deudor no tiene bienes embargables?",
-    "¿Cómo se considera la quiebra en relación con créditos fiscales?",
-    "¿Qué se necesita para extinguir un crédito fiscal?",
-    "¿Qué significa imposibilidad práctica de cobro?"
+    "¿Cuándo se extinguen los créditos fiscales?",
+    "¿Qué pasa si un deudor no tiene bienes embargables?",
+    "¿Qué significa que no se pueda cobrar una deuda fiscal?",
+    "¿Cuánto tiempo se espera para considerar un crédito fiscal como incobrable?",
+    "¿Qué sucede si el deudor muere sin dejar bienes?"
   ]
 }

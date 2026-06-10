@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b51454ab3c4e9bde",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Solicitud de datos para fiscalización",
+  "denominacion_comun": "Solicitudes de datos para fiscalización",
   "temas": [
-    "autoridades fiscales",
-    "contribuyentes",
     "fiscalización",
-    "comprobación",
-    "documentación"
+    "facultades de comprobación",
+    "informes",
+    "documentos",
+    "contribuyentes",
+    "responsables solidarios"
   ],
   "terminos_coloquiales": [
-    "datos fiscales",
-    "solicitud de información",
-    "revisión fiscal"
+    "revisión fiscal",
+    "solicitudes de información",
+    "fiscalizadores"
   ],
-  "resumen": "Las autoridades fiscales pueden pedir información a los contribuyentes para planear actos de fiscalización sin que eso signifique el inicio de una revisión. Esto incluye cualquier tipo de datos, informes o documentos necesarios.",
+  "resumen": "Las autoridades fiscales pueden pedir información y documentos a los contribuyentes y otros responsables sin iniciar formalmente un proceso de comprobación. Esto les ayuda a planear sus actividades de revisión fiscal en cualquier momento.",
   "preguntas_ejemplo": [
-    "¿Por qué me pide la autoridad fiscal información?",
-    "¿Qué datos pueden solicitarme para una revisión?",
-    "¿Inicia una revisión si solo piden información?",
-    "¿Cuándo se considera que la autoridad inicia una fiscalización?",
-    "¿Qué significa recibir una solicitud de datos fiscales?"
+    "¿Por qué me está pidiendo información la autoridad fiscal?",
+    "¿Qué tipo de documentos pueden solicitarme para fiscalización?",
+    "¿Se inicia una revisión fiscal cuando piden mis datos?",
+    "¿Qué puedo hacer si la autoridad fiscal me pide información?",
+    "¿Es obligatorio entregar la información solicitada por la autoridad fiscal?"
   ]
 }

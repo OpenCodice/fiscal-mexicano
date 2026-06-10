@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9a95c80cc8fe721",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recargos por falta de pago",
   "temas": [
     "recargos",
-    "indemnización",
-    "plazo de pago",
     "actualización de contribuciones",
-    "impuesto",
-    "cobro de cheques"
+    "indemnización",
+    "plazos de pago",
+    "cheques no pagados",
+    "aprovechamientos",
+    "garantías fiscales",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "recargos de impuestos",
-    "indemnización fiscal",
-    "plazos para pagar impuestos",
-    "recargos por mora",
-    "CFF"
+    "falta de pago",
+    "recargos",
+    "indemnización del 20%",
+    "cheques reclamados",
+    "pago a plazos"
   ],
-  "resumen": "El artículo establece que si no se paga a tiempo una contribución, se aplicarán recargos y la actualización del monto a partir de la fecha de pago debido. También se indican las condiciones en que serán calculados los recargos y las indemnizaciones relacionadas con cheques no pagados.",
+  "resumen": "El artículo establece que si no se cumplen los pagos de contribuciones o aprovechamientos en el plazo establecido, se generarán recargos que se calcularán sobre el monto actualizado de las obligaciones. También se menciona el procedimiento para el cobro de cheques no pagados y las condiciones para el pago a plazos, incluyendo la generación de recargos adicionales.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no pago mis impuestos a tiempo?",
-    "¿Cuáles son los recargos por mora en el pago de impuestos?",
-    "¿Cómo se calculan los recargos por falta de pago?",
-    "¿Qué indemnización debo pagar si un cheque de impuestos es rechazado?",
-    "¿Cuánto tiempo se pueden causar recargos?"
+    "¿Cómo se calculan los recargos por mora en mis contribuciones?",
+    "¿Qué debo hacer si mi cheque no fue cobrado por el fisco?",
+    "¿Puedo pagar mis impuestos a plazos y cuáles son las consecuencias?",
+    "¿Qué es la indemnización del 20% en caso de cheques no pagados?"
   ]
 }

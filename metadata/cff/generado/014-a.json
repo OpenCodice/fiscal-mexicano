@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12b0646893b79a09",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Préstamos de Títulos y Valores",
+  "denominacion_comun": "Préstamos de títulos o valores",
   "temas": [
     "enajenación",
     "préstamos",
     "títulos",
     "valores",
     "restitución",
-    "SAT",
-    "operaciones"
+    "requisitos",
+    "Servicio de Administración Tributaria"
   ],
   "terminos_coloquiales": [
+    "préstamos de acciones",
     "préstamos de valores",
-    "préstamos de títulos",
-    "no enajenación",
-    "operaciones del SAT"
+    "operaciones de préstamo",
+    "SAT"
   ],
-  "resumen": "El artículo establece que no hay enajenación en los préstamos de títulos o valores si se devuelven los bienes al prestamista antes del vencimiento. Si no se cumplen los requisitos, se considera que hubo enajenación en el momento del préstamo.",
+  "resumen": "Este artículo indica que no se considera enajenación en los préstamos de títulos o valores si se restituye lo prestado dentro del plazo y siguiendo las reglas del SAT. Si no se cumplen los requisitos, se entenderá que hubo enajenación sobre la operación de préstamo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no regreso los títulos al prestamista?",
-    "¿Cómo se consideran los préstamos de valores para el SAT?",
-    "¿Qué requisitos debo cumplir para no considerar una enajenación?",
-    "¿Qué sucede si no resto los títulos en el tiempo indicado?",
-    "¿Hay alguna regla específica para los préstamos de títulos?"
+    "¿Qué pasa si préstamo un título y no lo devuelvo a tiempo?",
+    "¿Cómo se considera fiscalmente un préstamo de acciones?",
+    "¿Cuáles son las reglas que debo seguir para préstamos de títulos?",
+    "¿Qué significa que no hay enajenación en los préstamos de valores?",
+    "¿Qué requisitos debo cumplir para evitar enajenación en el préstamo de títulos?"
   ]
 }

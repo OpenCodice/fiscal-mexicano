@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12b9dabc234d0d8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Visita Domiciliaria Fiscal",
+  "denominacion_comun": "Visitas Domiciliarias Fiscales",
   "temas": [
-    "actas de visita",
-    "hechos u omisiones",
-    "aseguramiento de documentos",
-    "derechos del contribuyente",
-    "designación de representantes",
+    "actas parciales",
+    "incumplimiento fiscal",
+    "comprobación fiscal",
     "información confidencial",
-    "validez de actas",
-    "plazos de presentación"
+    "derechos del contribuyente",
+    "presencia de testigos",
+    "sanciones"
   ],
   "terminos_coloquiales": [
     "visitas fiscales",
-    "actas parciales",
-    "acta final",
-    "acciones de los visitadores",
-    "derechos del contribuyente"
+    "actas de visita",
+    "auditorías fiscales",
+    "comprobación",
+    "representantes fiscales"
   ],
-  "resumen": "Este artículo establece las reglas para las visitas fiscales en el domicilio del contribuyente, incluyendo la levantada de actas, el aseguramiento de documentos y los derechos que tiene el contribuyente durante el proceso. También se mencionan plazos específicos y responsabilidades relacionadas con la información confidencial.",
+  "resumen": "El artículo regula las visitas en el domicilio fiscal, estableciendo cómo se levantan actas que documentan hechos y omisiones encontrados. También detalla los derechos del contribuyente respecto a la presentación de documentos y la designación de representantes para acceder a información confidencial.",
   "preguntas_ejemplo": [
-    "¿Qué sucede durante una visita domiciliaria del SAT?",
-    "¿Cómo se levantan las actas en una visita fiscal?",
-    "¿Cuáles son mis derechos si me visita un auditor fiscal?",
-    "¿Qué puedo hacer si no estoy de acuerdo con lo que se encuentra en la visita?",
-    "¿Qué plazos tengo para presentar documentos después de una visita fiscal?"
+    "¿Qué pasa si no estoy en mi domicilio fiscal durante una visita?",
+    "¿Cómo puedo presentar documentos durante una visita domiciliaria?",
+    "¿Cuál es el procedimiento si encuentro inconsistencias en el acta de visita?",
+    "¿Qué derechos tengo frente a las autoridades durante una visita fiscal?"
   ]
 }

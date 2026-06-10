@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:75ac0fdd328a9527",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reserva de información fiscal",
   "temas": [
     "confidencialidad",
-    "información fiscal",
-    "declaraciones",
-    "facultades de comprobación",
-    "créditos fiscales",
+    "datos fiscales",
+    "trámites tributarios",
+    "información pública",
+    "autoridades fiscales",
     "publicación de datos",
-    "procedimientos",
-    "seguridad de datos"
+    "créditos fiscales",
+    "entidades gubernamentales"
   ],
   "terminos_coloquiales": [
-    "reserva de datos",
-    "datos fiscales confidenciales",
-    "información protegida",
-    "CFF Artículo 69",
-    "SAT"
+    "información fiscal",
+    "datos de contribuyentes",
+    "confidencialidad tributaria",
+    "publicación de deudores",
+    "SAT",
+    "Secretaría de Hacienda"
   ],
-  "resumen": "El artículo establece que el personal oficial debe mantener reserva sobre las declaraciones y datos de contribuyentes, salvo excepciones específicas donde se pueda compartir esa información con autoridades competentes. También regula cuándo y cómo se pueden publicar ciertos datos de contribuyentes.",
+  "resumen": "El artículo establece que la información proporcionada por los contribuyentes es confidencial, pero hay excepciones donde puede ser revelada a otras autoridades o publicada, especialmente en caso de incumplimientos fiscales. Además, establece las condiciones en las que la información puede ser compartida con entidades como el Instituto Nacional de Estadística y Geografía.",
   "preguntas_ejemplo": [
-    "¿Qué información pueden compartir las autoridades fiscales?",
-    "¿Cuáles son las excepciones a la reserva de información fiscal?",
-    "¿Cómo puedo aclarar la publicación de mis datos fiscales?",
-    "¿Qué sucede si tengo un crédito fiscal firme?",
-    "¿Qué datos puede publicar el SAT?",
-    "¿Quiénes pueden acceder a mis datos fiscales?"
+    "¿Qué información fiscal se puede hacer pública?",
+    "¿Cuándo se puede revelar la información de un contribuyente?",
+    "¿Qué datos deben conservarse en reserva por las autoridades fiscales?",
+    "¿Cómo se manejan los créditos fiscales no pagados?",
+    "¿Qué sucede si no se presentan las declaraciones fiscales a tiempo?"
   ]
 }

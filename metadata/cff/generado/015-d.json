@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad9d3e6da61387d2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subcontratación de Personal",
+  "denominacion_comun": "Subcontratación de personal",
   "temas": [
     "deducción fiscal",
-    "acreditamiento",
+    "contratación",
     "subcontratación",
     "servicios especializados",
-    "grupo empresarial"
+    "efectos fiscales"
   ],
   "terminos_coloquiales": [
     "subcontratación",
-    "contratación de servicios",
     "deducción de impuestos",
-    "efectos fiscales"
+    "pago a contratistas"
   ],
-  "resumen": "Los pagos por subcontratación de personal no tendrán efectos fiscales de deducción o acreditamiento si se cumplen ciertas condiciones, como que los trabajadores hayan sido originalmente del contratante. Sin embargo, los pagos por servicios especializados pueden ser deducibles si se cumplen requisitos específicos.",
+  "resumen": "El artículo establece que los pagos por subcontratación de personal no se pueden deducir fiscalmente, a menos que los servicios sean especializados y no formen parte de la actividad principal de la empresa. También detalla condiciones bajo las cuales se pueden reconocer deducciones en ciertos casos específicos.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir gastos de subcontratación?",
-    "¿Cuándo se puede acreditar el IVA en subcontrataciones?",
-    "¿Qué requisitos debo cumplir para que la subcontratación sea deducible?",
-    "¿Los servicios compartidos entre empresas son deducibles?",
-    "¿Qué pasa si el personal subcontratado era antes empleado directo?"
+    "¿Puedo deducir los pagos a mi subcontratista?",
+    "¿Qué necesidades deben cumplir mis contratistas para que mis pagos sean deducibles?",
+    "¿Cuándo no puedo deducir gastos por subcontratación de personal?",
+    "¿Qué son los servicios especializados en subcontratación?",
+    "¿Qué requisitos deben cumplir mis contratistas para deducir pagos?"
   ]
 }

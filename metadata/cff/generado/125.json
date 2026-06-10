@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2fff5ca928520d96",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos de impugnación",
+  "denominacion_comun": "Recursos de impugnación fiscales",
   "temas": [
     "recurso de revocación",
-    "juicio administrativo",
-    "impugnación de actos",
-    "resoluciones administrativas"
+    "juicio ante el Tribunal Federal",
+    "resoluciones administrativas",
+    "actos administrativos",
+    "procedimientos de defensa",
+    "doble tributación"
   ],
   "terminos_coloquiales": [
+    "impugnación de actos fiscales",
     "recurso de revocación",
-    "juicio ante el Tribunal",
-    "impugnación",
-    "Tribunal Federal de Justicia Fiscal y Administrativa",
-    "TFJFA"
+    "juicio fiscal",
+    "recursos administrativos"
   ],
-  "resumen": "El interesado puede impugnar un acto a través del recurso de revocación o mediante un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. Si es necesario impugnar actos relacionados, se debe seguir la misma vía y las resoluciones de impuestos tienen procedimientos optativos para resolver controversias internacionales.",
+  "resumen": "El artículo establece que se puede impugnar un acto administrativo a través de un recurso de revocación o un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. También menciona que este recurso debe mantenerse si se trata de actos conectados y que hay procedimientos para resolver controversias en tratados de doble tributación.",
   "preguntas_ejemplo": [
     "¿Cómo puedo impugnar un acto administrativo?",
-    "¿Qué es un recurso de revocación?",
-    "¿Puedo presentar un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa?",
-    "¿Cuáles son las vías para impugnar resoluciones fiscales?",
-    "¿Qué hacer si necesito impugnar actos conexos?",
-    "¿Son obligatorios los procedimientos de resolución de controversias?"
+    "¿Qué es el recurso de revocación?",
+    "¿Cómo se presenta un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa?",
+    "¿Puedo impugnar varias resoluciones a la vez?",
+    "¿Qué hacer si me rechazan un recurso administrativo?",
+    "¿Cuáles son los procedimientos para evitar la doble tributación?"
   ]
 }

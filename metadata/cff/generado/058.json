@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8e4fae64c143279b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Utilidad Fiscal Presuntiva",
+  "denominacion_comun": "Determinación de Utilidad Fiscal",
   "temas": [
-    "Cálculo de utilidad fiscal",
-    "Coeficientes fiscales",
-    "Giros y actividades económicas",
-    "Pérdidas fiscales"
+    "coeficientes de utilidad",
+    "actividades económicas",
+    "ingresos brutos",
+    "pérdidas fiscales",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "Utilidad fiscal",
-    "Cálculo de impuestos",
-    "Coeficientes de utilidad",
-    "Presuntiva"
+    "utilidad fiscal",
+    "ingresos",
+    "pérdidas fiscales",
+    "impuesto sobre la renta",
+    "servicios independientes"
   ],
-  "resumen": "El artículo establece cómo las autoridades fiscales pueden determinar de manera presuntiva la utilidad fiscal de los contribuyentes mediante la aplicación de coeficientes a los ingresos brutos, y especifica distintos porcentajes según el tipo de actividad económica en la que se desenvuelven los contribuyentes. También menciona cómo se deben considerar las pérdidas fiscales de ejercicios anteriores.",
+  "resumen": "Las autoridades fiscales pueden determinar la utilidad fiscal de los contribuyentes aplicando diferentes coeficientes a sus ingresos brutos, dependiendo de su actividad económica. Se establecen porcentajes específicos para varias categorías de giros y actividades.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la utilidad fiscal si no tengo ingresos declarados?",
-    "¿Qué coeficiente debo aplicar según mi actividad económica?",
-    "¿Puedo restar pérdidas de años anteriores en mi cálculo de impuestos?",
-    "¿Qué giros están sujetos a los diferentes porcentajes de utilidad fiscal?",
-    "¿Cómo funcionan los porcentajes de la utilidad presuntiva?"
+    "¿Cómo se determina la utilidad fiscal?",
+    "¿Qué coeficientes se aplican a diferentes actividades económicas?",
+    "¿Qué sucede con las pérdidas fiscales de años anteriores?",
+    "¿Cuáles son los porcentajes aplicables para la industria y comercio?",
+    "¿Qué actividades están sujetas a los coeficientes del 6%, 12% o más?"
   ]
 }

@@ -6,15 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derogación del Artículo 224",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "El artículo ha sido derogado, lo que significa que ya no está en vigor y no se aplica.",
+  "temas": [
+    "derogación",
+    "artículo",
+    "ley",
+    "normatividad"
+  ],
+  "terminos_coloquiales": [
+    "se eliminó",
+    "ya no existe",
+    "anular",
+    "quitar",
+    "CFF 224"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no forma parte de la legislación vigente. Por lo tanto, no tiene efectos legales actuales.",
   "preguntas_ejemplo": [
     "¿Qué pasó con el Artículo 224 del CFF?",
-    "¿Está vigente el Artículo 224 de la Ley del ISR?",
-    "¿Dónde puedo encontrar las disposiciones que reemplazan al Artículo 224?"
+    "¿Está vigente el Artículo 224?",
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Qué implica la derogación de una ley?",
+    "¿Dónde puedo encontrar información sobre artículos derogados?"
   ]
 }

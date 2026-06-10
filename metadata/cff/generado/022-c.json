@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b9ec543e46114fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de Saldo a Favor",
+  "denominacion_comun": "Solicitud de Devolución",
   "temas": [
-    "Devolución",
-    "Saldo a favor",
-    "Solicitud electrónica",
-    "Firma electrónica avanzada"
+    "devolución de cantidades",
+    "solicitud electrónica",
+    "firma electrónica avanzada",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "Devolución de impuestos",
-    "Reembolso de saldo a favor",
-    "Devolución electrónica"
+    "devolución de impuestos",
+    "pedir devolución",
+    "solicitar reembolso",
+    "e.firma"
   ],
-  "resumen": "Los contribuyentes que tengan saldo a su favor deben solicitar la devolución de manera electrónica utilizando su firma electrónica avanzada.",
+  "resumen": "Los contribuyentes que tienen saldo a favor deben pedir la devolución mediante un formato en línea y con su firma electrónica avanzada. La devolución se refiere a cantidades que se les deben regresar por pagos en exceso.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución de mi saldo a favor?",
-    "¿Qué necesito para obtener un reembolso de impuestos?",
-    "¿Es obligatorio usar firma electrónica para la devolución?",
-    "¿Puedo solicitar la devolución en papel o solo en línea?",
-    "¿Qué hago si tengo saldo a favor y no sé cómo proceder?"
+    "¿Cómo pido una devolución de impuestos?",
+    "¿Qué es la e.firma y cómo la uso para solicitar mi reembolso?",
+    "¿Qué debo hacer si tengo un saldo a favor?",
+    "¿Puedo presentar mi solicitud de devolución en papel?",
+    "¿Qué formatos necesito para la solicitud de devolución?"
   ]
 }

@@ -6,26 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:75842ad0cc7232c5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Visitas Domiciliarias",
   "temas": [
     "inspección fiscal",
-    "actas de verificación",
-    "procedimiento fiscal",
-    "obligaciones fiscales"
+    "actas de visita",
+    "testigos",
+    "incumplimientos fiscales",
+    "resoluciones",
+    "diligencias",
+    "información fiscal"
   ],
   "terminos_coloquiales": [
-    "visitas a domicilio",
-    "inspección de Hacienda",
-    "verificación fiscal"
+    "verificación fiscal",
+    "visita de inspectores",
+    "negarse a firmar actas",
+    "salir de la verificación",
+    "visitas de la autoridad",
+    "inscripción en el RFC",
+    "fideicomisos"
   ],
-  "resumen": "El artículo establece cómo se realizarán las visitas domiciliarias a los contribuyentes y otras entidades. Se explica el procedimiento de verificación, la identificación de los inspectores y la obligación de levantar actas sobre los hallazgos realizados durante la visita.",
+  "resumen": "El artículo establece las normas para realizar visitas domiciliarias a los contribuyentes y otros sujetos relacionados, incluyendo la entrega de órdenes de verificación, la identificación de los visitadores, y la formalización de actas que documentan los hallazgos. También se detalla el procedimiento a seguir en caso de incumplimientos fiscales detectados.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan las visitas domiciliarias de la autoridad fiscal?",
-    "¿Qué debo hacer si me visitan para una inspección fiscal?",
-    "¿Qué pasa si me niegan a firmar el acta durante la visita domiciliaria?",
-    "¿Cuáles son mis derechos durante una visita domiciliaria?",
-    "¿Qué puede ocurrir si se detectan irregularidades en la visita domiciliaria?"
+    "¿Cómo se lleva a cabo una visita domiciliaria fiscal?",
+    "¿Qué ocurre si me niegan a firmar el acta de la visita?",
+    "¿Qué documentos deben presentar durante una visita de verificación?",
+    "¿Cuánto tiempo tengo para responder ante irregularidades encontradas?",
+    "¿Qué pasa si no estoy inscrito en el RFC durante la visita?",
+    "¿Quién puede ser testigo en una visita domiciliaria?"
   ]
 }

@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5fdf0e93005943c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Extinción de crédito fiscal por prescripción",
+  "denominacion_comun": "Extinción de crédito fiscal",
   "temas": [
     "crédito fiscal",
     "prescripción",
-    "plazos",
-    "suspensión de plazos",
-    "gestiones de cobro",
-    "domicilio fiscal"
+    "cobro",
+    "procedimiento administrativo",
+    "domicilio fiscal",
+    "interrupción de plazos",
+    "resolución de controversias"
   ],
   "terminos_coloquiales": [
-    "prescripción de créditos fiscales",
-    "plazo de prescripción",
-    "gestiones de cobro",
-    "créditos fiscales",
-    "CFF"
+    "crédito fiscal",
+    "prescripción",
+    "cobro de deudas fiscales",
+    "aviso de cambio de domicilio",
+    "interrupción de prescripción"
   ],
-  "resumen": "El crédito fiscal puede extinguirse por prescripción en cinco años, aunque este plazo puede interrumpirse con gestiones de cobro o reconocimiento del deudor. Existen situaciones que suspenden el plazo, como el cambio de domicilio fiscal sin aviso.",
+  "resumen": "El crédito fiscal se extingue por prescripción después de cinco años. El término para prescribir comienza cuando el pago puede ser exigido y se puede interrumpir con gestiones de cobro. Si el contribuyente cambia de domicilio sin notificar, también se suspenderán los plazos de prescripción.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para que se prescriba un crédito fiscal?",
-    "¿Qué interrumpe el plazo de prescripción de un crédito fiscal?",
-    "¿Cómo se suspende el plazo de prescripción?",
-    "¿Qué pasa si cambio de domicilio fiscal?",
-    "¿La autoridad puede declarar la prescripción de un crédito de oficio?"
+    "¿Cuánto tiempo tengo para que se extinga una deuda fiscal?",
+    "¿Cómo se interrumpe el plazo de prescripción de un crédito fiscal?",
+    "¿Qué sucede si no presento el aviso de cambio de domicilio fiscal?",
+    "¿Puede la autoridad declarar la prescripción de mis créditos fiscales?",
+    "¿Qué plazos se consideran para la prescripción de deudas fiscales?"
   ]
 }

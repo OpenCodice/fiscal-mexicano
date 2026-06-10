@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b9c4573d2010f95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aumento de multas fiscales",
+  "denominacion_comun": "Aumento de Multas",
   "temas": [
     "multas",
-    "infracciones",
     "contribuciones omitidas",
     "beneficio indebido",
     "reincidencia",
+    "infracciones",
     "aggravantes"
   ],
   "terminos_coloquiales": [
-    "multas fiscales",
     "aumento de multas",
-    "infracciones fiscales",
-    "CFF"
+    "multas fiscales",
+    "contribuciones no pagadas",
+    "sanciones por impuestos"
   ],
-  "resumen": "El artículo establece las reglas para el aumento de multas en casos de infracciones fiscales, dependiendo de la reincidencia y de ciertos agravantes. La autoridad fiscal determina el aumento de estas multas tras la comisión de las infracciones.",
+  "resumen": "Este artículo establece cómo se incrementan las multas en caso de infracciones relacionadas con contribuciones no pagadas. Dependiendo de la gravedad de la infracción y la reincidencia, las multas pueden aumentar significativamente.",
   "preguntas_ejemplo": [
-    "¿Cuánto se aumenta una multa si hay reincidencia?",
-    "¿Qué agravantes afectan el monto de las multas?",
-    "¿Cómo se determina el aumento de multas en casos específicos?",
-    "¿Qué pasa si ya pagué la multa antes de que me la aumenten?",
-    "¿A qué se refiere el artículo 75 sobre agravantes?"
+    "¿Cómo se calculan las multas por contribuciones no pagadas?",
+    "¿Qué pasa si reincido en una infracción fiscal?",
+    "¿Cuáles son las agravantes que aumentan las multas?",
+    "¿Puedo pagar la multa y aún así enfrentar un aumento?",
+    "¿Qué multas aplican si no se enteran contribuciones retenidas?"
   ]
 }

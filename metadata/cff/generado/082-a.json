@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:abf31761a1f585b4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones por revelación de esquemas reportables",
+  "denominacion_comun": "Infracciones de Esquemas Reportables",
   "temas": [
-    "infracciones fiscales",
     "esquemas reportables",
-    "asesoría fiscal",
-    "requerimientos de información"
+    "asesores fiscales",
+    "infracciones fiscales",
+    "revelación de información",
+    "declaración informativa",
+    "identificación de esquemas"
   ],
   "terminos_coloquiales": [
-    "no revelar esquemas",
-    "esquemas reportables",
-    "infracciones de asesores",
-    "SAR (Servicio de Administración Tributaria)"
+    "esquemas fiscales",
+    "reportes fiscales",
+    "no revelar un esquema",
+    "consultoría fiscal",
+    "SAT"
   ],
-  "resumen": "Este artículo detalla las infracciones que cometen los asesores fiscales al no revelar correctamente los esquemas reportables. Incluye la falta de revelación, errores en la información, y el incumplimiento de requerimientos por parte de la autoridad fiscal.",
+  "resumen": "El artículo establece las infracciones que pueden cometer los asesores fiscales relacionadas con la revelación de esquemas reportables, tales como no revelar información completa o hacerlo de manera extemporánea. También se mencionan las obligaciones de informar sobre ciertos cambios y proporcionar identificaciones a los contribuyentes.",
   "preguntas_ejemplo": [
     "¿Cuáles son las infracciones por no revelar esquemas reportables?",
-    "¿Qué pasa si un asesor fiscal no informa correctamente un esquema reportable?",
-    "¿Qué debe hacer un asesor si se le requiere información adicional sobre un esquema?",
-    "¿Cómo se consideran las revelaciones extemporáneas de esquemas reportables?",
-    "¿Cuáles son las consecuencias de no cumplir con la normativa sobre esquemas reportables?"
+    "¿Qué debo hacer si no tengo la información de un esquema reportable?",
+    "¿Qué pasa si no presento la declaración informativa sobre asesoría fiscal?",
+    "¿Qué infracciones pueden tener los asesores fiscales según el CFF?",
+    "¿Cómo se identifican los esquemas reportables?"
   ]
 }

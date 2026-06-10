@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1a41a819e4390dcf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Delito de contrabando",
+  "denominacion_comun": "Contrabando",
   "temas": [
-    "sanciones por contrabando",
-    "prisión por contrabando",
+    "sanciones",
+    "penalizaciones",
     "contribuciones omitidas",
     "cuotas compensatorias",
-    "mercancías prohibidas"
+    "mercancías prohibidas",
+    "licitaciones aduaneras"
   ],
   "terminos_coloquiales": [
     "contrabando",
-    "sanciones por contrabando",
-    "delito aduanero"
+    "delito de contrabando",
+    "sanción por contrabando"
   ],
-  "resumen": "El artículo establece las penas de prisión por el delito de contrabando según el monto de contribuciones omitidas o la naturaleza de las mercancías involucradas. Las sanciones varían desde tres meses hasta nueve años dependiendo de las circunstancias del contrabando y el valor de las cuotas compensatorias omitidas.",
+  "resumen": "El artículo establece las penas de prisión por el delito de contrabando, que varían según el monto de las contribuciones omitidas o el tipo de mercancías involucradas. También menciona consecuencias adicionales para el incumplimiento de regulaciones aduaneras.",
   "preguntas_ejemplo": [
-    "¿Qué penas puedo enfrentar por contrabando?",
-    "¿Cuáles son las sanciones si no pago contribuciones por mercancías?",
-    "¿Qué sucede si importo mercancías prohibidas?",
-    "¿Cuánto tiempo puedo ir a prisión por contrabando?",
-    "¿Qué es un delito aduanero?",
+    "¿Qué penas se aplican por el contrabando?",
+    "¿Qué sucede si se omiten contribuciones por contrabando?",
+    "¿Cuáles son las sanciones por tráfico de mercancías prohibidas?",
+    "¿Qué consecuencias hay por no tener permiso al importar?",
     "¿Cómo se determina el monto de las contribuciones omitidas?"
   ]
 }

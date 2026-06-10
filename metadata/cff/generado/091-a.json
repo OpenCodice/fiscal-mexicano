@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:55bf4558e35f5d7b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones en dictamen de estados financieros",
+  "denominacion_comun": "Infracciones de dictamen de estados financieros",
   "temas": [
-    "dictamen fiscal",
-    "contador público",
-    "omisión de contribuciones",
-    "infracciones fiscales"
+    "infracciones fiscales",
+    "dictamen de estados financieros",
+    "contadores públicos",
+    "omisiones de contribuciones"
   ],
   "terminos_coloquiales": [
-    "infracciones contables",
-    "omisión por contadores",
-    "dictamen de estados",
-    "infracciones por omisión"
+    "infracciones fiscales",
+    "dictamen contable",
+    "contador",
+    "contribuciones",
+    "omisión de pagos"
   ],
-  "resumen": "Este artículo establece las infracciones que pueden cometer los contadores públicos al no informar sobre omisiones de contribuciones en el dictamen de estados financieros. No se considera infracción si la omisión es menor al 10% o 15% de las contribuciones.",
+  "resumen": "Este artículo establece las infracciones que pueden cometer los contadores públicos al no reportar omisiones de contribuciones en sus informes. Si la omisión es menor al 10% de lo recaudado o trasladado, no se considera infracción.",
   "preguntas_ejemplo": [
-    "¿Qué infracciones pueden cometer los contadores en su dictamen fiscal?",
-    "¿Cuándo se considera que un contador ha incumplido en su dictamen?",
-    "¿Qué porcentaje de omisión es aceptable según el artículo 91-A?",
-    "¿Las infracciones por omisión son siempre sancionadas?",
-    "¿Cómo se late la omisión de contribuciones en los dictámenes?"
+    "¿Qué pasa si un contador no reporta omisiones en el dictamen?",
+    "¿Cuáles son las infracciones relacionadas con el dictamen de estados financieros?",
+    "¿Qué constituye una infracción para un contador público?",
+    "¿Hay excepciones a las infracciones por omisión de contribuciones?",
+    "¿Cómo afecta al contador no denunciar incumplimientos fiscales?"
   ]
 }

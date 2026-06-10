@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f234e7eecf28a84",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dictamen de Estados Financieros",
   "temas": [
-    "dictamen",
-    "estados financieros",
-    "contadores públicos",
-    "opción de dictaminación",
+    "actividades empresariales",
     "personas morales",
     "ingresos acumulables",
-    "plazos de presentación"
+    "contador público autorizado",
+    "dictamen",
+    "Impuesto sobre la Renta",
+    "plazos de presentación",
+    "declaración complementaria"
   ],
   "terminos_coloquiales": [
-    "dictamen fiscal",
-    "opción de dictaminación",
-    "EFS",
-    "estados financieros dictaminados"
+    "dictamen de auditoría",
+    "opción para dictaminar",
+    "estado financiero",
+    "declaración de impuestos",
+    "ISR",
+    "contable"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales las personas físicas con actividades empresariales y las personas morales pueden optar por dictaminar sus estados financieros por un contador público autorizado. Define criterios como ingresos acumulables y número de trabajadores para poder ejercer esta opción.",
+  "resumen": "Este artículo establece que las personas físicas y morales que cumplan ciertos criterios económicos pueden optar por dictaminar sus estados financieros por un contador público autorizado. También indica los plazos y procedimientos relacionados con esta opción y el cumplimiento de obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué es el dictamen de estados financieros?",
-    "¿Quiénes pueden optar por dictaminar sus estados financieros?",
-    "¿Cuáles son los criterios para dictaminar estados financieros?",
-    "¿Cuáles son los plazos para presentar el dictamen?",
-    "¿Qué pasa si hay diferencias de impuestos en el dictamen?"
+    "¿Quiénes pueden dictaminar sus estados financieros?",
+    "¿Cuáles son los criterios para optar por el dictamen?",
+    "¿Qué plazos debo considerar para presentar el dictamen?",
+    "¿Qué pasa si debo impuestos tras el dictamen?",
+    "¿Cómo se manifiesta la opción de dictaminar en la declaración de impuestos?"
   ]
 }

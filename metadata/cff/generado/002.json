@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b8118272a3820d7e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Clasificación de contribuciones",
   "temas": [
-    "Impuestos",
-    "Aportaciones de seguridad social",
-    "Contribuciones de mejoras",
-    "Derechos"
+    "impuestos",
+    "aportaciones de seguridad social",
+    "contribuciones de mejoras",
+    "derechos",
+    "recargos",
+    "sanciones",
+    "gastos de ejecución",
+    "indemnización"
   ],
   "terminos_coloquiales": [
-    "Impuestos",
-    "Seguridad social",
-    "Contribuciones",
-    "Derechos",
-    "CFF"
+    "impuestos",
+    "aportaciones a la seguridad social",
+    "contribuciones por obras",
+    "derechos",
+    "cargos adicionales",
+    "sanciones fiscales"
   ],
-  "resumen": "Este artículo clasifica las contribuciones en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos, definiendo cada una de ellas y su naturaleza según la ley. También menciona que los recargos y sanciones son accesorios de las contribuciones.",
+  "resumen": "El artículo clasifica las contribuciones en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos. También menciona que los recargos y sanciones son accesorios de las contribuciones.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los tipos de contribuciones en México?",
-    "¿Qué son los derechos en el contexto fiscal?",
+    "¿Qué son los impuestos según la ley?",
     "¿Cómo se definen las aportaciones de seguridad social?",
-    "¿Qué implica una contribución de mejora?",
-    "¿Qué son los recargos y sanciones en las contribuciones?"
+    "¿Qué son las contribuciones de mejoras?",
+    "¿Cuáles son los derechos que se deben pagar?",
+    "¿Qué son los recargos en el contexto de las contribuciones?",
+    "¿Existen sanciones por no pagar contribuciones?"
   ]
 }

@@ -6,23 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fa2d5920a44537b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Hechos y omisiones fiscales",
+  "denominacion_comun": "Contribuciones omitidas",
   "temas": [
-    "contribuciones omitidas",
-    "Secretaría de Hacienda",
-    "hechos fiscales",
-    "autoridades fiscales extranjeras"
+    "evasión fiscal",
+    "autoridades fiscales",
+    "hechos omitidos",
+    "prueba en contrario"
   ],
   "terminos_coloquiales": [
-    "hechos fiscales",
-    "omisiones fiscales"
+    "contribuciones no pagadas",
+    "multa fiscal"
   ],
-  "resumen": "La Secretaría de Hacienda considerará como ciertos los hechos u omisiones que conozcan las autoridades fiscales extranjeras, a menos que se presente prueba que indique lo contrario.",
+  "resumen": "La Secretaría de Hacienda y Crédito Público considerará ciertos los hechos u omisiones que las autoridades fiscales extranjeras informen, a menos que se presente prueba que demuestre lo contrario.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si hay contribuciones que no se han declarado?",
-    "¿Cómo se determinan las omisiones fiscales?",
-    "¿Las autoridades extranjeras pueden influir en la fiscalización?"
+    "¿Cómo se determinan las contribuciones que no he pagado?",
+    "¿Qué sucede si un extranjero reporta mis omisiones fiscales?",
+    "¿Puedo presentar pruebas para contradecir reportes de otras autoridades fiscales?",
+    "¿Qué consideraciones tiene la Secretaría de Hacienda sobre los hechos reportados por autoridades extranjeras?",
+    "¿Qué es lo que se entiende por contribuciones omitidas?"
   ]
 }

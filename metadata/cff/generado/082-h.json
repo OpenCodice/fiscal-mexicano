@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f086f0b1e299ee43",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por infracciones fiscales",
+  "denominacion_comun": "Infracciones y sanciones",
   "temas": [
     "infracciones fiscales",
     "sanciones",
@@ -16,17 +17,18 @@
     "multas"
   ],
   "terminos_coloquiales": [
-    "sanciones fiscales",
+    "infracciones fiscales",
+    "sanciones por facturas",
     "multas por comprobantes",
-    "infracciones CF",
-    "artículo 82-H"
+    "comprobantes fiscales",
+    "multa"
   ],
-  "resumen": "El artículo 82-H establece las sanciones económicas que se imponen a quienes cometan infracciones relacionadas con comprobantes fiscales. Las multas varían dependiendo de la falta cometida y son aplicadas por cada comprobante que incumpla con los requisitos establecidos.",
+  "resumen": "El artículo 82-H establece las sanciones que se imponen a quienes cometen infracciones relacionadas con los comprobantes fiscales. Estas sanciones varían según el incumplimiento de requisitos específicos de los comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué sanciones hay por no cumplir con los requisitos de los comprobantes fiscales?",
-    "¿Cuánto me multarán si tengo un comprobante incorrecto?",
-    "¿Qué infracciones pueden costarme una multa según el artículo 82-H?",
-    "¿Cuáles son las multas específicas por infracciones fiscales?",
-    "¿Qué dice la ley sobre las multas por comprobantes fiscales?"
+    "¿Qué sanciones hay por no cumplir con los requisitos de comprobantes fiscales?",
+    "¿Cuánto se multa por una factura incorrecta?",
+    "¿Qué son las infracciones fiscales según el artículo 82-H?",
+    "¿Cómo se aplican las multas por comprobantes fiscales?",
+    "¿Qué pasa si mi comprobante fiscal no es válido?"
   ]
 }

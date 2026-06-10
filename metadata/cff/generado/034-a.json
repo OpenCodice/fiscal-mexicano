@@ -6,12 +6,12 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d549c6ec0a8b7ae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resoluciones en operaciones con partes relacionadas",
+  "denominacion_comun": "Consulta de precios en operaciones con partes relacionadas",
   "temas": [
     "precios de transferencia",
-    "contraprestaciones",
     "partes relacionadas",
     "consultas fiscales",
     "tratados internacionales",
@@ -20,18 +20,17 @@
   ],
   "terminos_coloquiales": [
     "precios de transferencia",
-    "consulta de precios",
-    "resolución de contraprestaciones",
-    "tratado para evitar la doble tributación",
-    "acuerdos fiscales"
+    "consultas de precios",
+    "precios entre empresas",
+    "tratados para evitar doble tributación",
+    "contraprestaciones"
   ],
-  "resumen": "Este artículo permite que las autoridades fiscales respondan consultas sobre cómo se determinan precios o montos en operaciones con partes relacionadas. Las resoluciones pueden tener efectos retroactivos y están condicionadas a demostrar que los precios son comparables con los de partes independientes.",
+  "resumen": "Las autoridades fiscales pueden responder consultas sobre cómo se determinan los precios en operaciones entre empresas relacionadas, siempre que se presente la información necesaria. Las resoluciones tienen efectos en el año que se piden y en hasta tres años anteriores, y pueden estar sujetas a condiciones de precios de mercado.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los precios en operaciones con partes relacionadas?",
-    "¿Puedo consultar a la autoridad fiscal sobre mis contraprestaciones?",
-    "¿Las resoluciones sobre precios de transferencia son retroactivas?",
-    "¿Qué requisitos debo cumplir para que mi resolución sea válida?",
-    "¿Cómo funciona el tratado para evitar la doble tributación en mi caso?",
-    "¿Qué sucede si las operaciones no son comparables?"
+    "¿Cómo se determinan los precios en transacciones entre empresas relacionadas?",
+    "¿Qué información necesito para hacer una consulta sobre precios de transferencia?",
+    "¿Las resoluciones fiscales sobre precios de transferencia tienen efectos retroactivos?",
+    "¿Qué es un tratado para evitar la doble tributación?",
+    "¿Qué requisitos debo cumplir para que una resolución fiscal sea válida?"
   ]
 }

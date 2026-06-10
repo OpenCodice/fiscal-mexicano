@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:88274413c23cfa7f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones Fiscales",
+  "denominacion_comun": "Sanciones fiscales",
   "temas": [
+    "delitos fiscales",
     "sustitución de sanciones",
     "conmutación de sanciones",
-    "delitos fiscales",
     "adeudos fiscales",
     "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
     "sanciones fiscales",
     "delitos fiscales",
-    "CFF"
+    "Secretaría de Hacienda",
+    "beneficios fiscales"
   ],
-  "resumen": "No se pueden sustituir ni conmutar sanciones para quienes son sentenciados por delitos fiscales específicos. Además, se requiere comprobar que los adeudos fiscales estén satisfechos ante la Secretaría de Hacienda.",
+  "resumen": "Las sanciones por delitos fiscales no pueden ser sustituidas o conmutadas en ciertos casos específicos. Además, se necesita comprobar que los adeudos fiscales estén pagados o garantizados para poder acceder a beneficios.",
   "preguntas_ejemplo": [
-    "¿Puedo cambiar mi sanción fiscal por otra menos grave?",
-    "¿Qué pasa si tengo deudas fiscales y soy sentenciado por un delito fiscal?",
-    "¿Cuáles son los delitos fiscales que no permiten la conmutación de sanciones?",
-    "¿Qué se necesita para garantizar mis adeudos fiscales?",
-    "¿Quién determina si mis deudas fiscales están cubiertas?"
+    "¿Cuándo no se pueden sustituir las sanciones por delitos fiscales?",
+    "¿Qué requisitos se necesitan para cambiar una sanción fiscal?",
+    "¿Qué pasa si tengo adeudos fiscales y quiero solicitar una conmutación de pena?",
+    "¿Quién verifica que los adeudos fiscales estén cubiertos?",
+    "¿Qué delitos fiscales no permiten la substitución de sanciones?"
   ]
 }

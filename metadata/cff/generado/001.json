@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d258b41e4c2593df",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales",
+  "denominacion_comun": "Obligaciones Fiscales",
   "temas": [
     "contribuciones",
     "gastos públicos",
     "personas físicas",
     "personas morales",
+    "leyes fiscales",
     "tratados internacionales",
     "exenciones fiscales"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales",
-    "contribuciones obligatorias",
     "impuestos",
-    "CFF",
-    "Código Fiscal de la Federación"
+    "contribuciones",
+    "obligaciones fiscales",
+    "gastos del gobierno"
   ],
-  "resumen": "Las personas físicas y morales deben contribuir a los gastos públicos según las leyes fiscales. La Federación solo está obligada a pagar contribuciones si las leyes lo indican. Los estados extranjeros no pagan impuestos salvo en casos de reciprocidad.",
+  "resumen": "Este artículo establece que tanto las personas físicas como las morales deben contribuir a los gastos públicos según la ley. También menciona que se requieren leyes específicas para destinar contribuciones a fines concretos y aclara que algunos estados extranjeros no deben pagar impuestos bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Quiénes están obligados a pagar impuestos?",
-    "¿Qué son las contribuciones para gastos públicos?",
-    "¿Los extranjeros tienen que pagar impuestos en México?",
-    "¿Qué dice el Código Fiscal sobre contribuciones?",
-    "¿Cuándo puede la Federación pagar contribuciones?"
+    "¿Qué son las contribuciones según el Código Fiscal?",
+    "¿Quiénes están obligados a pagar impuestos en México?",
+    "¿Qué exenciones fiscales existen para estados extranjeros?",
+    "¿Cómo se destinan las contribuciones a gastos públicos específicos?",
+    "¿Qué obligaciones tienen las personas que no pagan contribuciones?"
   ]
 }

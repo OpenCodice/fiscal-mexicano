@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8aa4b44d9c2a2b34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones de instituciones financieras",
@@ -17,17 +18,19 @@
     "cuentas reportables"
   ],
   "terminos_coloquiales": [
-    "infracciones fiscales",
-    "declaración incompleta",
-    "declaración extemporánea",
-    "incumplimiento financiero"
+    "infracciones bancarias",
+    "declaración de impuestos",
+    "sanciones por información incompleta",
+    "multas a bancos",
+    "registro de cuentas extranjeras"
   ],
-  "resumen": "El artículo detalla las infracciones cometidas por instituciones financieras al no cumplir con la presentación de información anual y otros requerimientos establecidos. Incluye la falta de presentación de información o su entrega incompleta y extemporánea.",
+  "resumen": "Se establecen diversas infracciones que pueden cometer las instituciones financieras al no presentar la información requerida en sus declaraciones anuales, ya sea de forma incompleta, extemporánea o bajo formatos no autorizados. También se sanciona el incumplimiento en la identificación de cuentas reportables.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las infracciones que pueden cometer las instituciones financieras?",
-    "¿Qué pasa si no presento la declaración anual correctamente?",
-    "¿Qué información debo reportar como institución financiera?",
-    "¿Cuáles son las sanciones por incumplir con mis obligaciones fiscales?",
-    "¿Qué significa no llevar el registro especial de cuentas reportables?"
+    "¿Qué multas enfrentan los bancos por no presentar su declaración anual?",
+    "¿Cuáles son las obligaciones de las instituciones financieras sobre información fiscal?",
+    "¿Qué pasa si una institución bancaria presenta información incompleta a Hacienda?",
+    "¿Qué son las cuentas reportables y cómo deben registrarse?",
+    "¿Cuáles son las consecuencias de no cumplir con las normativas fiscales en la banca?",
+    "¿Qué infracciones puede cometer un banco según el artículo 82-E?"
   ]
 }

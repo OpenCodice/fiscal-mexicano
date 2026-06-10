@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:283d29041a77f70b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones fiscales",
+  "denominacion_comun": "Sanciones por defraudación fiscal",
   "temas": [
-    "defraudación fiscal",
     "deducciones falsas",
     "ingresos acumulables",
-    "retenciones de contribuciones",
-    "beneficios indebidos",
-    "simulaciones fiscales",
-    "declaraciones fiscales"
+    "retenciones",
+    "subsidios",
+    "simulación de actos",
+    "declaraciones definitivas",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "sanciones por omisiones",
-    "fraude fiscal",
-    "falta de declaraciones",
-    "multa por no pagar impuestos"
+    "obligaciones fiscales",
+    "sanciones fiscales",
+    "no declarar ingresos",
+    "no pagar impuestos",
+    "comprobantes digitales"
   ],
-  "resumen": "Este artículo establece las sanciones que corresponden a personas que cometen delitos fiscales, como declarar deducciones falsas o no enterar retenciones de impuestos. También se menciona que no se formulará queja si la persona regulariza su situación antes de que las autoridades fiscales detecten el problema.",
+  "resumen": "El artículo establece las sanciones para quienes presenten declaraciones con información falsa, omitan retenciones fiscales, simulen actos para obtener beneficios indebidos, o dejen de presentar declaraciones. También menciona que no habrá querella si se regulariza la situación antes de que la autoridad lo detecte.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las sanciones por no declarar mis ingresos?",
-    "¿Qué pasa si presento deducciones falsas?",
-    "¿Cómo puedo evitar problemas con la autoridad fiscal?",
-    "¿Qué hago si tengo discrepancias en mis declaraciones?",
-    "¿Qué sanciones hay por no pagar contribuciones retenidas?"
+    "¿Qué pasa si declaro menos ingresos de los que realmente tengo?",
+    "¿Cuáles son las sanciones por no entregar retenciones fiscales?",
+    "¿Qué sucede si simulo un contrato para obtener beneficios fiscales?",
+    "¿Cómo me puede afectar no presentar mis declaraciones a tiempo?",
+    "¿Qué requisitos deben cumplir mis comprobantes fiscales?"
   ]
 }

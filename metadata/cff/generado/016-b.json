@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ceccad7ebc6b5ff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interés sobre créditos y deudas",
+  "denominacion_comun": "Intereses y ajustes",
   "temas": [
     "interés",
+    "ajuste",
+    "unidades de inversión",
     "créditos",
     "deudas",
-    "arrendamiento financiero",
-    "ajuste en unidades de inversión"
-  ],
-  "terminos_coloquiales": [
-    "interés sobre créditos",
-    "ajuste de deudas",
     "arrendamiento financiero"
   ],
-  "resumen": "El artículo establece que el interés incluye ajustes que se realicen a créditos y deudas mediante unidades de inversión o índices. También se menciona el ajuste de los pagos en contratos de arrendamiento financiero.",
+  "terminos_coloquiales": [
+    "intereses",
+    "ajustes de crédito",
+    "arrendamiento",
+    "financiamiento"
+  ],
+  "resumen": "Este artículo establece que el interés incluye los ajustes realizados mediante unidades de inversión en créditos, deudas y pagos de arrendamientos financieros. Se menciona que se pueden aplicar índices o factores para estos ajustes.",
   "preguntas_ejemplo": [
-    "¿Qué se considera interés en créditos?",
-    "¿Cómo se ajustan las deudas según la ley?",
-    "¿Qué implica el ajuste en arrendamientos financieros?",
-    "¿Qué son las unidades de inversión en este contexto?",
-    "¿Cómo se determina el interés en operaciones financieras?"
+    "¿Qué consideraciones hay sobre los intereses en los créditos?",
+    "¿Cómo se aplican los ajustes a los arrendamientos financieros?",
+    "¿Qué son las unidades de inversión en relación a los intereses?",
+    "¿Se puede ajustar el importe de los pagos de arrendamiento?",
+    "¿Los ajustes en deudas también se consideran interés?"
   ]
 }

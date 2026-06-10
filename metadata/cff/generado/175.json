@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:faa6245061b57f30",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Avalúo de bienes embargados",
   "temas": [
-    "avalúo",
-    "enajenación",
-    "bienes inmuebles",
     "embargos",
-    "recursos",
-    "valuadores",
-    "dictamen"
+    "avalúo",
+    "peritos",
+    "recursos de revocación",
+    "compraventa",
+    "subasta",
+    "negociaciones"
   ],
   "terminos_coloquiales": [
-    "avalúo de embargos",
-    "valor de bienes embargados",
+    "avalúo de bienes",
+    "valoración de propiedades",
     "recurso de revocación",
-    "avalúo pericial"
+    "bien embargado"
   ],
-  "resumen": "El artículo establece que el avalúo de los bienes embargados será utilizado para su enajenación y debe ser realizado por la autoridad o un perito. Si hay desacuerdo con la valuación, se puede interponer un recurso de revocación.",
+  "resumen": "Este artículo establece cómo se determina el avalúo de bienes inmuebles embargados. Si el embargado o los acreedores no están conformes con la valuación, pueden impugnarla mediante un recurso de revocación. Además, se especifican los plazos en los que los peritos deben rendir su dictamen.",
   "preguntas_ejemplo": [
     "¿Cómo se determina el avalúo de un bien embargado?",
-    "¿Qué hacer si no estoy de acuerdo con el avalúo?",
-    "¿Qué plazos tengo para presentar un dictamen de un valuador?",
-    "¿Qué pasa si no designo un valuador en el plazo establecido?",
-    "¿Cuándo se considera aceptado el avalúo de la autoridad?"
+    "¿Qué puedo hacer si no estoy de acuerdo con el avalúo de la autoridad?",
+    "¿Cuáles son los plazos para entregar el dictamen de un perito?",
+    "¿Qué sucede si no designo un valuador en mi recurso de revocación?",
+    "¿Qué ocurre si el dictamen de mi perito es superior al avalúo de la autoridad?"
   ]
 }

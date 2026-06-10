@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b53992bc580b5e4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones del Registro Federal de Contribuyentes",
+  "denominacion_comun": "Infracciones al Registro Federal de Contribuyentes",
   "temas": [
-    "Solicitudes de inscripción",
-    "Avisos al registro",
-    "Errores en documentos fiscales",
-    "Domicilio fiscal",
-    "Actas constitutivas",
-    "Requerimientos de autoridades fiscales"
+    "inscripción",
+    "avisos",
+    "clave del registro",
+    "actas constitutivas",
+    "domicilio fiscal",
+    "asamblea",
+    "actas de socios",
+    "autenticidad de documentos"
   ],
   "terminos_coloquiales": [
-    "Infracciones RFC",
-    "Registro de Contribuyentes",
+    "Registro Federal de Contribuyentes",
     "RFC",
-    "Errores en RFC"
+    "inscripción al RFC",
+    "avisos al RFC",
+    "actas de la empresa",
+    "domicilio fiscal"
   ],
-  "resumen": "El artículo detalla las infracciones relacionadas con el registro federal de contribuyentes, incluyendo la falta de solicitud de inscripción y errores en la presentación de documentos. Establece responsabilidades sobre la correcta identificación en actas y avisos para evitar sanciones.",
+  "resumen": "El artículo establece diversas infracciones relacionadas con el Registro Federal de Contribuyentes, como no solicitar la inscripción cuando se está obligado, no presentar avisos o hacerlo extemporáneamente, y no utilizar la clave del registro correspondiente. También incluye infracciones relacionadas con documentos jurídicos y actas de asambleas de personas morales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me inscribo en el RFC a tiempo?",
-    "¿Cuáles son las infracciones por no presentar avisos al registro?",
-    "¿Qué errores se consideran sancionables en el registro de contribuyentes?",
-    "¿Qué hacer si mi domicilio fiscal está incorrecto en el RFC?",
-    "¿Qué consecuencias hay por no verificar la clave del RFC en documentos?"
+    "¿Cuáles son las infracciones al inscribirse en el RFC?",
+    "¿Qué sucede si no presento avisos al RFC a tiempo?",
+    "¿Qué claves debo usar en mis declaraciones ante el SAT?",
+    "¿Cuáles son las responsabilidades al autorizar actas constitutivas?",
+    "¿Qué pasa si mi domicilio fiscal no es el correcto?",
+    "¿Qué debo hacer si no recibo un requerimiento de la autoridad fiscal?"
   ]
 }

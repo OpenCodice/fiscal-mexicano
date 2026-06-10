@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:79fb4fa3159ed8b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobación de ingresos",
+  "denominacion_comun": "Presunción de operaciones",
   "temas": [
-    "comprobación fiscal",
-    "ingresos",
-    "documentos de terceros",
-    "operaciones contribuyentes"
+    "comprobación de ingresos",
+    "documentación de terceros",
+    "operaciones del contribuyente",
+    "authenticación de transacciones",
+    "razón social"
   ],
   "terminos_coloquiales": [
-    "comprobación de ingresos",
-    "ingresos fiscales",
-    "prueba en contrario"
+    "comprobar ingresos",
+    "documentos de terceros",
+    "razón social",
+    "comprobantes de operaciones"
   ],
-  "resumen": "Las autoridades fiscales pueden presumir que la información de terceros sobre un contribuyente corresponde a sus operaciones, a menos que se demuestre lo contrario. Esto aplica a documentos que mencionen al contribuyente o sus establecimientos, así como a pagos realizados en su nombre.",
+  "resumen": "Las autoridades fiscales pueden presuponer que la información de terceros sobre un contribuyente corresponde a sus operaciones, a menos que se demuestre lo contrario. Esto se aplica cuando la información se refiere al contribuyente por su nombre o cuando menciona a terceros en relación con la entrega o recepción de bienes o servicios.",
   "preguntas_ejemplo": [
-    "¿Cómo se comprueban mis ingresos ante la autoridad fiscal?",
-    "¿Qué documentos puedo presentar para demostrar mis operaciones?",
-    "¿Qué pasa si la información de terceros no coincide con mis registros?",
-    "¿Qué significa 'prueba en contrario' en la comprobación de ingresos?",
-    "¿Cómo afecta a mi empresa la comprobación de información de terceros?"
+    "¿Cómo se comprueban mis ingresos si hay documentos de terceros?",
+    "¿Qué pasa si hay indicios de que mis operaciones son con un tercero?",
+    "¿Las autoridades pueden asumir que las transacciones con terceros son mías?",
+    "¿Qué evidencia necesito para probar que no realicé una operación mencionada en documentos de terceros?",
+    "¿Qué significa que la información de terceros puede ser presunta como mía?"
   ]
 }

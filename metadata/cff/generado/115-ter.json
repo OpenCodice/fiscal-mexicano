@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3c31fe3685bb17ec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por declaración falsa",
+  "denominacion_comun": "Sanciones por datos falsos",
   "temas": [
-    "sanciones fiscales",
-    "delitos fiscales",
-    "documentación falsa",
+    "sanciones",
     "prisión",
-    "procedimientos administrativos"
+    "hechos falsos",
+    "documentación falsa",
+    "procedimientos administrativos",
+    "Hacienda Federal"
   ],
   "terminos_coloquiales": [
-    "declaraciones falsas",
-    "sanciones por datos falsos",
-    "delito fiscal"
+    "dar datos falsos",
+    "presentar documentos falsos",
+    "sanciones por fraude",
+    "delitos fiscales"
   ],
-  "resumen": "Se establece que se impondrá una sanción de prisión a quien declare hechos o datos falsos o presente documentación alterada. Este delito se perseguirá independientemente del estado del procedimiento administrativo iniciado.",
+  "resumen": "Se establece que se impondrá una sanción de tres a seis años de prisión a quien declare hechos o datos falsos o presente documentación falsa en procedimientos del Código. Además, este delito puede causar daño a la Hacienda Federal, que debe ser reparado.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si presento información falsa en mis declaraciones fiscales?",
-    "¿Cuáles son las sanciones por falsificar documentos para el SAT?",
-    "¿Qué delito cometo si declaro datos incorrectos en mis trámites fiscales?",
-    "¿Puede ir a la cárcel alguien por declarar datos falsos a la Hacienda?",
-    "¿Cómo se castiga la presentación de documentación alterada ante autoridades fiscales?"
+    "¿Qué pasa si presento documentos falsos en un trámite fiscal?",
+    "¿Cuáles son las sanciones por declarar datos falsos a Hacienda?",
+    "¿Qué delitos fiscales pueden llevar a prisión?",
+    "¿Es un delito presentar información falsa en procedimientos administrativos?",
+    "¿Qué consecuencias tiene el daño material a la Hacienda Federal?"
   ]
 }

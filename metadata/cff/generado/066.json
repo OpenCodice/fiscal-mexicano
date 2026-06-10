@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:67124f6b75bfe110",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago a plazos de contribuciones",
   "temas": [
-    "autorización de pago",
+    "pago a plazos",
     "contribuciones omitidas",
-    "multas",
-    "accesorios",
-    "plazos de pago",
-    "facultades de comprobación"
+    "solicitud de autorización",
+    "diferido",
+    "parcialidades",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
     "pago a plazos",
-    "créditos fiscales",
-    "revisión de adeudos",
-    "SAT"
+    "deuda fiscal",
+    "compensación de deudas",
+    "crédito fiscal"
   ],
-  "resumen": "Este artículo permite a los contribuyentes solicitar a las autoridades fiscales el pago a plazos de contribuciones no pagadas y sus accesorios, ya sea mediante programación de parcialidades o pago diferido. Los plazos varían, pero el contribuyente debe cumplir con ciertos requisitos y pagos previos.",
+  "resumen": "Las autoridades fiscales pueden permitir a los contribuyentes pagar a plazos las contribuciones omitidas y sus accesorios. El pago puede ser diferido o en parcialidades, y se deben cumplir ciertos requisitos, como pagar un porcentaje del adeudo al momento de la solicitud.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar el pago a plazos de mis contribuciones?",
-    "¿Qué requisitos necesito para pedir el pago diferido?",
-    "¿Cuánto tiempo tengo para pagar mis adeudos a plazos?",
-    "¿Qué pasa si no cumplo con los pagos autorizados?",
-    "¿Puedo cambiar la modalidad de pago a plazos una vez que he solicitado?",
-    "¿Qué ocurre si las autoridades fiscales niegan mi solicitud de pago a plazos?"
+    "¿Puedo pagar mis impuestos en parcialidades?",
+    "¿Cómo solicito el pago a plazos de mis contribuciones omitidas?",
+    "¿Cuánto tiempo tengo para pagar mis deudas fiscales?",
+    "¿Qué debo presentar para autorizar el pago a plazos?",
+    "¿Qué sucede si no cumplo con los pagos agendados?"
   ]
 }

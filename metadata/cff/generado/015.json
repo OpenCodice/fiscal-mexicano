@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0064588380379d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Arrendamiento Financiero",
   "temas": [
-    "contrato",
+    "contrato de arrendamiento",
     "bienes tangibles",
+    "uso o goce temporal",
     "pagos parciales",
-    "opciones terminales",
-    "tasa de interés"
+    "valor de adquisición",
+    "cargas financieras",
+    "opciones terminales"
   ],
   "terminos_coloquiales": [
-    "arrendamiento financiero",
     "arrendamiento",
-    "leasing"
+    "contrato de arrendamiento",
+    "bienes arrendados",
+    "arrendar bienes",
+    "arrendamiento financiero"
   ],
-  "resumen": "El arrendamiento financiero es un contrato donde una persona da a otra el uso temporal de bienes a cambio de pagos parciales. Al final del contrato, se pueden elegir diferentes opciones con respecto al bien arrendado.",
+  "resumen": "El arrendamiento financiero es un contrato donde una persona otorga el uso temporal de bienes a otra, quien debe realizar pagos por ese uso. Al final, el contrato permite ciertas opciones sobre el bien arrendado.",
   "preguntas_ejemplo": [
-    "¿Qué es un arrendamiento financiero?",
-    "¿Cómo se calcula la tasa de interés en un arrendamiento?",
-    "¿Qué opciones tengo al final del contrato de arrendamiento financiero?",
-    "¿Es necesario un contrato por escrito para el arrendamiento financiero?",
-    "¿Qué información debe incluir el contrato de arrendamiento financiero?"
+    "¿Qué es el arrendamiento financiero?",
+    "¿Cómo se define un contrato de arrendamiento financiero?",
+    "¿Cuáles son las obligaciones en un contrato de arrendamiento?",
+    "¿Qué pagos debo realizar en un arrendamiento financiero?",
+    "¿Qué opciones tengo al final de un contrato de arrendamiento financiero?"
   ]
 }

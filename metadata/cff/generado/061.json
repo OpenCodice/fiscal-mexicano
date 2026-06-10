@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ceb1f892e3738507",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Determinación Presuntiva de Ingresos",
   "temas": [
+    "presunción de ingresos",
     "determinación presuntiva",
-    "ingresos",
-    "comprobación fiscal",
     "contabilidad",
-    "impuesto sobre la renta"
+    "revisión fiscal",
+    "tasa de impuestos",
+    "impuesto sobre la renta",
+    "utilidad fiscal"
   ],
   "terminos_coloquiales": [
-    "determinación presuntiva",
     "ingresos presuntos",
-    "impuesto sobre la renta",
-    "ISR"
+    "revisión de impuestos",
+    "comprobación de ingresos",
+    "determinación de ingresos",
+    "IER",
+    "impuesto sobre la renta"
   ],
-  "resumen": "El artículo establece cómo se calculan los ingresos presuntivos de los contribuyentes que no pueden comprobar sus ingresos durante una revisión fiscal. Se pueden usar promedios de ingresos de períodos anteriores o de días específicos para estimar estos montos, que luego se gravan con la tasa correspondiente.",
+  "resumen": "El artículo establece cómo se determinarán los ingresos de un contribuyente cuando no puede comprobar sus ganancias durante un período de revisión. Si la contabilidad no es suficiente, se tomarán promedios de ingresos en base a días específicos para calcular lo que se debe pagar en impuestos.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el ingreso presuntivo si no puedo comprobar mis ingresos?",
-    "¿Qué sucede si no tengo contabilidad adecuada para justificar mis ingresos?",
-    "¿Qué métodos utilizan las autoridades fiscales para calcular mis ingresos si no puedo demostrarlo?",
-    "¿Cuál es el procedimiento para calcular el impuesto sobre la renta en caso de determinación presuntiva?",
-    "¿Qué significa que mis ingresos sean considerados presuntos por la autoridad fiscal?",
-    "¿Cómo se aplica la tarifa del ISR a los ingresos presuntivos?"
+    "¿Cómo se calcula el impuesto cuando no puedo comprobar mis ingresos?",
+    "¿Qué pasa si no tengo documentación fiscal durante la revisión?",
+    "¿Qué es la determinación presuntiva de ingresos?",
+    "¿Cómo se determinan mis ingresos si no tengo contabilidad adecuada?",
+    "¿Qué procedimiento se usa para calcular el impuesto sobre la renta si hay ingresos presuntos?"
   ]
 }

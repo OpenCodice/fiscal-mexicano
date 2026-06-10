@@ -6,35 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f66c33b94c117740",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prohibiciones para Contratar con Recursos Públicos",
+  "denominacion_comun": "Impedimentos para Contratar",
   "temas": [
     "créditos fiscales",
-    "contrataciones",
     "Registro Federal de Contribuyentes",
-    "declaraciones fiscales",
+    "comprobantes fiscales",
+    "contrataciones públicas",
+    "obligaciones fiscales",
     "subsidios",
-    "opinión de cumplimiento fiscal",
-    "impuesto sobre la renta",
-    "obligaciones fiscales"
+    "estímulos fiscales"
   ],
   "terminos_coloquiales": [
-    "no puedo contratar por deudas fiscales",
-    "prohibición de contratos públicos",
-    "cumplimiento fiscal",
-    "deuda con el SAT",
-    "RCF",
-    "no inscrito en el RFC",
-    "al IRS",
-    "opinión positiva"
+    "impedimentos para contratar",
+    "como contratar si tengo deudas fiscales",
+    "créditos fiscales pendientes",
+    "no estar en el RFC",
+    "subsidios fiscales"
   ],
-  "resumen": "Este artículo establece que diversas entidades no pueden contratar con recursos públicos a personas que tengan deudas fiscales, no estén inscritas en el Registro Federal de Contribuyentes o no cumplan con requisitos fiscales. Se permite un convenio para regularizar deudas fiscales antes de contratar.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales diversas autoridades y particulares no pueden contratar con personas que tengan deudas fiscales o que no cumplan con ciertas obligaciones fiscales. También menciona que los particulares podrán regularizar su situación fiscal en determinados plazos para poder acceder a contratos o subsidios.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si tengo deudas fiscales y quiero contratar con el gobierno?",
-    "¿Puedo ser proveedor si no estoy en el RFC?",
-    "¿Cómo puedo solucionar mis deudas fiscales para poder contratar?",
-    "¿Qué es la opinión de cumplimiento fiscal?",
-    "¿Qué implica no estar al corriente con el SAT para contratos públicos?"
+    "¿Puedo contratar si tengo deudas fiscales?",
+    "¿Qué requisitos debo cumplir para poder ser proveedor del gobierno?",
+    "¿Cómo me regularizo para no tener impedimentos en futuros contratos?",
+    "¿Qué pasa si no estoy inscrito en el RFC?",
+    "¿Qué implicaciones tiene no presentar mis declaraciones a tiempo?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0d63985798ff3cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Proveedores de certificación de CFDI",
   "temas": [
-    "certificación de comprobantes fiscales",
-    "comprobantes fiscales digitales",
-    "autorización de proveedores",
+    "certificación",
+    "comprobantes fiscales",
+    "CFDI",
+    "proveedores autorizados",
     "sello digital",
-    "requisitos para proveedores"
+    "requisitos",
+    "garantías"
   ],
   "terminos_coloquiales": [
+    "certificación de facturas",
+    "CFDI",
+    "comprobante fiscal digital",
     "proveedor de CFDI",
-    "certificación de CFDI",
-    "SAT",
-    "comprobantes fiscales digitales por Internet"
+    "sello digital del SAT"
   ],
-  "resumen": "El SAT puede autorizar a particulares para operar como proveedores de certificación de comprobantes fiscales digitales. Estos proveedores validan el cumplimiento de requisitos, asignan folios y aplican sellos digitales a los CFDI.",
+  "resumen": "El SAT puede autorizar a particulares para que actúen como proveedores de certificación de CFDI. Estos proveedores deben validar requisitos, asignar folios y colocar el sello digital del SAT. Además, deben cumplir con obligaciones y ofrecer garantías por su operación.",
   "preguntas_ejemplo": [
     "¿Qué es un proveedor de certificación de CFDI?",
-    "¿Cómo se certifican los comprobantes fiscales digitales?",
-    "¿Cuáles son los requisitos para ser proveedor autorizado del SAT?",
+    "¿Cómo se obtiene la autorización para certificar CFDI?",
+    "¿Cuáles son los requisitos para ser proveedor de comprobantes fiscales?",
     "¿Qué obligaciones tienen los proveedores de CFDI?",
-    "¿Qué es el sello digital del SAT?"
+    "¿Qué garantía se necesita para operar como proveedor de certificación?"
   ]
 }

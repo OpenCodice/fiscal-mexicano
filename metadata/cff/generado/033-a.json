@@ -6,26 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3aedf606240b198f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aclaraciones ante la Autoridad Fiscal",
+  "denominacion_comun": "Plazo para Aclaraciones Fiscales",
   "temas": [
     "notificaciones",
     "resoluciones fiscales",
     "plazos",
-    "medios de defensa"
+    "aclaraciones"
   ],
   "terminos_coloquiales": [
+    "notificación de resoluciones",
     "aclaraciones fiscales",
-    "aplazamiento de plazos",
-    "resoluciones administrativas"
+    "plazo de seis días"
   ],
-  "resumen": "Este artículo establece que los particulares pueden solicitar aclaraciones a la autoridad fiscal después de recibir ciertas resoluciones. Sin embargo, estas aclaraciones no interrumpen los plazos para ejercer otros medios de defensa y no se pueden impugnar las resoluciones emitidas.",
+  "resumen": "Este artículo establece que los particulares pueden hacer aclaraciones a las resoluciones fiscales dentro de un plazo de seis días tras recibir la notificación. Sin embargo, esto no interrumpe los plazos para presentar medios de defensa ni permite impugnar resoluciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Puedo pedir aclaraciones después de recibir una resolución fiscal?",
-    "¿Cuánto tiempo tengo para aclarar algo con la autoridad fiscal?",
-    "¿Las aclaraciones afectan mis plazos para apelar?",
-    "¿Puedo impugnar las resoluciones de la autoridad fiscal?",
-    "¿Qué debo hacer si no estoy de acuerdo con una notificación fiscal?"
+    "¿Cuánto tiempo tengo para aclarar una resolución fiscal?",
+    "¿Puedo impugnar una resolución después de hacer una aclaración?",
+    "¿Qué debo hacer si no estoy de acuerdo con una notificación de la autoridad fiscal?"
   ]
 }

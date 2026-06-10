@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:94fc79a26358730b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de enajenación de adquisiciones no registradas",
+  "denominacion_comun": "Enajenación de bienes no registrados",
   "temas": [
-    "contabilidad",
-    "enajenación",
     "adquisiciones",
+    "registrar contabilidad",
+    "presunción de enajenación",
     "utilidad bruta",
-    "caso fortuito",
-    "bienes faltantes",
-    "hidrocarburos"
+    "inventarios",
+    "hidrocarburos",
+    "petrolíferos"
   ],
   "terminos_coloquiales": [
-    "presunción de enajenación",
-    "valores de adquisición",
-    "pérdidas en inventarios"
+    "bien no registrado",
+    "alta de bienes",
+    "costo de adquisición",
+    "venta de producto",
+    "utilidad",
+    "valores de inventarios",
+    "hidrocarburo faltante"
   ],
-  "resumen": "Este artículo establece cómo se determina el valor de enajenación de bienes que no han sido registrados en la contabilidad del contribuyente. Si se omiten registros, se presume que dichos bienes fueron enajenados y se calcula su valor basado en el costo de adquisición y el porcentaje de utilidad bruta.",
+  "resumen": "Este artículo establece que si un contribuyente no registra sus adquisiciones, se sospechará que esos bienes fueron vendidos y se calculará su valor basado en la utilidad bruta. También aplica a bienes faltantes en inventarios, especialmente hidrocarburos o petrolíferos, que se calcularán a partir de registros de recepción y entrega.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no registro la compra de un bien?",
-    "¿Cómo se determina el valor de enajenación si no tengo documentos?",
-    "¿Qué es la presunción de que un bien no registrado fue enajenado?",
-    "¿Cómo afecta la falta de registro de mis adquisiciones a mis impuestos?",
-    "¿Qué se considera caso fortuito en la contabilidad?"
+    "¿Qué pasa si no registro las compras que hice?",
+    "¿Cómo se determina el valor de venta de un bien no registrado?",
+    "¿Qué se considera un bien faltante en inventarios?",
+    "¿Cómo afecta la utilidad bruta en la declaración de mis adquisiciones?",
+    "¿Qué debo hacer si no puedo registrar el costo de un bien?",
+    "¿Qué ocurre si no tengo un costo definido para mis hidrocarburos?"
   ]
 }

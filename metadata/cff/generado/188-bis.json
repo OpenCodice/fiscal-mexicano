@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51c52b9e8bbf1543",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes y solicitud de reembolso",
+  "denominacion_comun": "Bienes rematados",
   "temas": [
     "remate de bienes",
-    "impedimento jurídico",
-    "solicitud de reembolso",
     "entrega de bienes",
-    "abandonos fiscales"
+    "imposibilidad de entrega",
+    "solicitud de monto pagado",
+    "abandonos",
+    "procedimiento de enajenación"
   ],
   "terminos_coloquiales": [
     "remate",
-    "bienes embargados",
-    "solicitud de dinero",
-    "impedimento para entrega",
-    "abandonar postura"
+    "subasta",
+    "devolución del dinero",
+    "monto pagado",
+    "bienes incompletos"
   ],
-  "resumen": "El artículo establece que si un postor no recibe los bienes rematados por un impedimento legal, puede solicitar el reembolso del monto pagado. Si no lo hace en el plazo establecido, el importe de la postura se considera abandonado a favor del fisco.",
+  "resumen": "Si los bienes comprados en un remate no pueden ser entregados por un impedimento legal, el postor puede solicitar la devolución del dinero pagado. La autoridad tiene un plazo para entregar el monto o los bienes si el impedimento se soluciona. Si no se solicita la devolución en seis meses, el monto se considera abandonado a favor del fisco.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no puedo recibir los bienes que compré en un remate?",
-    "¿Cómo solicito el reembolso por un remate fallido?",
-    "¿Qué ocurre si no pido mi dinero después de un remate?",
-    "¿Cuánto tiempo tengo para pedir el reembolso de un bien rematado?",
-    "¿Qué significa que se cause abandono a favor del fisco?"
+    "¿Cuánto tiempo tengo para pedir la devolución del dinero en un remate?",
+    "¿Qué ocurre si la autoridad no puede entregarme los bienes que compré?",
+    "¿Qué hago si mis bienes rematados no me los entregan?",
+    "¿Qué significa que el monto pagado se considere abandonado?"
   ]
 }

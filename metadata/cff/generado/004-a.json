@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f2a03ef23a2bcc5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuestos Extranjeros",
+  "denominacion_comun": "Impuestos extranjeros",
   "temas": [
-    "Impuestos extranjeros",
-    "Cobro de impuestos",
-    "Asistencia mutua",
-    "Créditos fiscales"
+    "impuestos extranjeros",
+    "recaudación fiscal",
+    "tratados internacionales",
+    "notificación de créditos fiscales",
+    "ejecución de créditos fiscales"
   ],
   "terminos_coloquiales": [
-    "Impuestos del extranjero",
-    "Cobro internacional",
-    "Tratados de cobro"
+    "impuestos de otros países",
+    "cobro de impuestos extranjeros",
+    "tratados de recaudación",
+    "impuestos solicitados desde el extranjero"
   ],
-  "resumen": "Este artículo establece que los impuestos exigibles por Estados extranjeros, que sean solicitados a México, se regirán por las disposiciones del Código Fiscal en cuanto a la notificación y ejecución. La Secretaría de Hacienda se encargará de la recaudación de estos impuestos conforme a los tratados internacionales.",
+  "resumen": "Este artículo establece que los impuestos exigibles por Estados extranjeros, cuya recaudación se solicite a México, se regirán por las disposiciones del Código Fiscal. La Secretaría de Hacienda será responsable de su recaudación según los tratados internacionales correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se cobran los impuestos extranjeros en México?",
-    "¿Qué reglas se aplican para cobrar impuestos de otros países?",
-    "¿Qué es la asistencia mutua en cobranza de impuestos?",
-    "¿Quién se encarga de recaudar impuestos extranjeros en México?"
+    "¿Cómo se cobran los impuestos de otros países en México?",
+    "¿Qué dice la ley sobre la recaudación de impuestos extranjeros?",
+    "¿Quién se encarga de cobrar los impuestos exigibles por otras naciones?",
+    "¿Qué procedimientos se siguen para notificar créditos fiscales extranjeros en México?",
+    "¿Qué tratados internacionales afectan el cobro de impuestos en México?"
   ]
 }

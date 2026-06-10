@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:736776863d748ddc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de declaraciones y avisos",
+  "denominacion_comun": "Registro Federal de Contribuyentes",
   "temas": [
-    "Registro Federal de Contribuyentes",
-    "Declaraciones fiscales",
-    "Avisos y solicitudes",
-    "Firma electrónica",
-    "Medios electrónicos",
-    "Asistencia al contribuyente",
-    "Transferencia electrónica de fondos",
-    "Constancias fiscales"
+    "declaraciones",
+    "avisos",
+    "documentos digitales",
+    "firma electrónica",
+    "transferencia electrónica",
+    "asistencia al contribuyente",
+    "constancias",
+    "plazos"
   ],
   "terminos_coloquiales": [
-    "declaraciones de impuestos",
-    "avisos al SAT",
-    "presentación electrónica",
-    "constancias del SAT",
-    "pago de impuestos",
-    "SAT"
+    "RFC",
+    "declarar impuestos",
+    "hacer declaraciones",
+    "avisos fiscales",
+    "documentos fiscales",
+    "pagar impuestos"
   ],
-  "resumen": "Las personas están obligadas a presentar declaraciones y avisos ante el SAT, principalmente de forma digital y con firma electrónica. Existen reglas específicas para la presentación de documentos y cumplimiento de obligaciones fiscales, así como la posibilidad de recibir asistencia en oficinas del SAT.",
+  "resumen": "Este artículo establece que los contribuyentes deben presentar solicitudes, declaraciones y avisos en formato digital con firma electrónica, además de cumplir con ciertos requisitos establecidos por el Servicio de Administración Tributaria. También se menciona la posibilidad de presentar documentos en papel si no están digitalizados y detalla procedimientos específicos para la presentación de declaraciones y la recepción de constancias.",
   "preguntas_ejemplo": [
-    "¿Cómo presento mis declaraciones de impuestos?",
-    "¿Qué documentos necesito para enviar un aviso al SAT?",
+    "¿Cómo presento mi declaración de impuestos?",
+    "¿Qué es el RFC y cómo lo obtengo?",
+    "¿Necesito firma electrónica para mis avisos fiscales?",
     "¿Puedo presentar mis declaraciones en papel?",
-    "¿Cómo funciona la firma electrónica para las declaraciones?",
-    "¿Qué hago si no encuentro el formato para declarar?",
-    "¿Qué pasa si no presento todas mis declaraciones a tiempo?"
+    "¿Qué hago si no tengo las formas electrónicas a tiempo?",
+    "¿Dónde puedo solicitar una constancia de mis declaraciones?"
   ]
 }

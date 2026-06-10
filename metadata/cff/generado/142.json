@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9068be3c4c116e56",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
-    "suspensión de procedimientos",
-    "prórrogas para pagos",
+    "suspensión de procedimiento",
     "créditos fiscales",
+    "prórroga de pago",
     "resolución de controversias",
-    "gastos de ejecución"
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
-    "garantía fiscal",
-    "interés fiscal",
-    "suspensión de ejecución",
-    "prórroga fiscal"
+    "garantizar impuestos",
+    "suspensión de deudas fiscales",
+    "plazo para pagar",
+    "facilidades de pago"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales se puede garantizar el interés fiscal, como la solicitud de suspensión de procedimientos, prórrogas para el pago de créditos fiscales y la resolución de controversias. También señala que no se otorgará garantía para gastos de ejecución, a menos que el interés fiscal esté constituido únicamente por ellos.",
+  "resumen": "El artículo establece las condiciones bajo las cuales se puede garantizar el interés fiscal. Estas incluyen solicitudes de suspensión de procedimientos, prórrogas en el pago de créditos fiscales y la aplicación de resoluciones de controversias en tratados de doble tributación.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo solicitar la suspensión de un procedimiento fiscal?",
-    "¿Se puede pedir prórroga para el pago de impuestos?",
-    "¿Qué es la garantía del interés fiscal?",
-    "¿Qué debo hacer si tengo créditos fiscales a pagar?",
-    "¿Hay opciones para resolver controversias fiscales?"
+    "¿Cómo puedo suspender un procedimiento administrativo de ejecución?",
+    "¿Es posible obtener prórroga para pagar mis deudas fiscales?",
+    "¿Cuáles son las condiciones para garantizar el interés fiscal?",
+    "¿Qué hacer si necesito ayuda con el pago de créditos fiscales?",
+    "¿Dónde puedo acudir para resolver controversias fiscales?"
   ]
 }

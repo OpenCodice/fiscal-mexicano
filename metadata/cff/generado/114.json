@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:13afb92be430aa56",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por visitas y embargos",
+  "denominacion_comun": "Sanciones a Servidores Públicos",
   "temas": [
     "sanciones",
+    "servidores públicos",
     "visitas domiciliarias",
     "embargos",
-    "servidores públicos",
-    "verificación física de mercancías",
+    "verificación de mercancías",
     "recintos fiscales"
   ],
   "terminos_coloquiales": [
-    "sanciones a servidores públicos",
-    "visitas fiscales",
+    "lagrimones",
+    "prisión a servidores públicos",
     "embargos sin orden",
-    "verificación de mercancías"
+    "verificación de mercancías en transporte"
   ],
-  "resumen": "Se sanciona a los servidores públicos con prisión de uno a seis años si realizan visitas domiciliarias o embargos sin la orden escrita correspondiente. También se les sanciona por verificar mercancías en un lugar que no sea el reciento fiscal.",
+  "resumen": "Se establece que los servidores públicos que realicen visitas domiciliarias o embargos sin la debida autorización pueden enfrentar penas de prisión. También se sanciona a quienes verifiquen mercancías en lugares no autorizados.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un servidor público realiza un embargo sin orden?",
-    "¿Qué sanciones hay para las visitas domiciliarias sin mandato?",
-    "¿Los servidores pueden verificar mercancías en cualquier lugar?",
-    "¿Cuánto tiempo de prisión pueden recibir los servidores públicos por estas acciones?",
-    "¿Qué autoridad puede ordenar una visita domiciliaria?"
+    "¿Qué pasa si un servidor público hace un embargo sin orden?",
+    "¿Cuáles son las penas por visitas domiciliarias indebidas?",
+    "¿Quién puede verificar mercancías en transporte?",
+    "¿Qué sanciones hay para servidores públicos que actúan sin mandamiento escrito?",
+    "¿Dónde se pueden hacer verificaciones de mercancías?"
   ]
 }

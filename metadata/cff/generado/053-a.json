@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:273366f0d2a184c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de información fiscal",
+  "denominacion_comun": "Plazos para documentación del dictamen",
   "temas": [
-    "dictamen fiscal",
-    "contador público",
+    "contadores públicos",
+    "dictámenes fiscales",
     "plazos de entrega",
-    "documentación adicional"
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "plazos para dictamen",
-    "entrega de información",
-    "documentación fiscal"
+    "contadores",
+    "documentación de dictamen",
+    "papeles de trabajo"
   ],
-  "resumen": "Este artículo establece los plazos para que un contador público registrado presente la información y documentación relacionada con un dictamen fiscal. Dependiendo de la ubicación del contador y el tipo de información, los plazos varían entre seis y quince días.",
+  "resumen": "La disposición establece los plazos que deben cumplir los contadores públicos registrados para presentar documentación relacionada con el dictamen fiscal. Se especifican diferentes plazos dependiendo de la naturaleza de la documentación y la ubicación del contador.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para presentar el dictamen fiscal?",
-    "¿Qué plazos se aplican si el contador está en otra ciudad?",
-    "¿Qué tipo de documentación necesito entregar junto con el dictamen?",
-    "¿Cuándo deben entregarse los papeles de trabajo del dictamen?",
-    "¿Cuál es el plazo para enviar información adicional relacionada con el dictamen?"
+    "¿Cuánto tiempo tengo para entregar los papeles de trabajo de mi dictamen?",
+    "¿Qué documentos necesita el contador para un dictamen fiscal?",
+    "Si mi contador está en otra ciudad, ¿cuánto tiempo tiene para enviar la información?",
+    "¿Qué plazo tiene el contribuyente para proporcionar documentación relacionada con el dictamen?"
   ]
 }

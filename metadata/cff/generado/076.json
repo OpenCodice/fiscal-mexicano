@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:328ad51c2f5ea9d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por omisiones en el pago de contribuciones",
+  "denominacion_comun": "Multas por omisiones fiscales",
   "temas": [
-    "multas",
+    "infracciones fiscales",
     "contribuciones omitidas",
-    "infracciones",
-    "deudas no registradas",
-    "pérdidas fiscales",
-    "devoluciones indebidas"
+    "multas",
+    "devoluciones indebidas",
+    "pérdidas fiscales"
   ],
   "terminos_coloquiales": [
-    "multas por omisiones",
-    "pago de contribuciones",
-    "infracciones fiscales",
-    "CFF"
+    "multas fiscales",
+    "omisión de impuestos",
+    "pagos de impuestos atrasados",
+    "devolución de impuestos",
+    "pérdidas fiscales",
+    "deuda fiscal"
   ],
-  "resumen": "El artículo establece las multas que se aplican por omisiones en el pago de contribuciones y las condiciones en las que éstas se imponen. También describe cómo se calculan las multas y las reducciones posibles si se realizan los pagos en ciertos plazos.",
+  "resumen": "Este artículo establece las multas aplicables por omisiones en el pago de impuestos. Las multas varían dependiendo de si el contribuyente paga después de la notificación de una revisión o si las infracciones son relacionadas a devoluciones indebidas o pérdidas fiscales declaradas incorrectamente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago mis contribuciones a tiempo?",
-    "¿Cuánto es la multa por omisiones en el pago de contribuciones?",
-    "¿Puedo reducir la multa si pago a tiempo?",
-    "¿Qué multas hay por declarar pérdidas fiscales incorrectas?",
-    "¿Cómo se calculan las multas por devoluciones indebidas?"
+    "¿Qué pasa si no pago mis impuestos?",
+    "¿Cuánto es la multa por omitir contribuciones?",
+    "¿Se puede reducir la multa si pago a tiempo?",
+    "¿Qué ocurre si declaro pérdidas fiscales incorrectamente?",
+    "¿Qué puedo hacer si me notifican de una infracción fiscal?",
+    "¿Cómo se calcula la multa por devoluciones indebidas?"
   ]
 }

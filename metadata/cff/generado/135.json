@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35e37c970617401e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones fiscales",
   "temas": [
     "efectos de notificación",
     "copia del acto administrativo",
-    "autoridades fiscales",
-    "diligencias",
+    "notificación a terceros",
+    "firma de la persona",
+    "acta de notificación",
     "conocimiento del acto administrativo"
   ],
   "terminos_coloquiales": [
-    "notificación de actos administrativos",
-    "notificación fiscal"
+    "notificación",
+    "copia de notificación",
+    "autoridades fiscales",
+    "diligencia de notificación"
   ],
-  "resumen": "Las notificaciones de actos administrativos se consideran efectivas al día siguiente de ser hechas. Si las autoridades fiscales notifican, deben proporcionar una copia y registrar quién firmó. Si el interesado declara que conoce el acto, esto cuenta como notificación si lo hace antes de la fecha oficial.",
+  "resumen": "Las notificaciones fiscales tienen efectos al día siguiente de ser realizadas. Las autoridades deben proporcionar una copia del acto administrativo al interesado y recabar el nombre y firma de la persona con quien se entregue la notificación. Si el interesado manifiesta conocer el acto administrativo, esto cuenta como notificación efectiva.",
   "preguntas_ejemplo": [
     "¿Cuándo surte efecto una notificación fiscal?",
-    "¿Qué debo hacer si no recibí mi notificación?",
-    "¿Quién firma en una notificación hecha por las autoridades fiscales?",
-    "¿Qué pasa si me niegan a firmar la notificación?"
+    "¿Qué debe hacer la autoridad al notificarme?",
+    "¿Qué sucede si me niegan a firmar la notificación?",
+    "¿Cómo se considera que tengo conocimiento de un acto administrativo?",
+    "¿Qué es la copia del acto administrativo?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d3204b1e5d2efe9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Posturas en subastas",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "remate",
-    "postores",
-    "garantías",
-    "transferencia electrónica",
+    "posturas",
+    "subastas",
     "firma electrónica",
-    "Subastas SAT"
+    "transferencia electrónica",
+    "garantías"
   ],
   "terminos_coloquiales": [
+    "remate",
     "subasta",
-    "postura",
-    "SAT",
-    "garantía de subasta"
+    "oferta",
+    "firma electrónica",
+    "pago electrónico"
   ],
-  "resumen": "El artículo establece que las posturas en las subastas deben enviarse digitalmente con una firma electrónica avanzada y requieren una transferencia electrónica como garantía. Los fondos transferidos se devolverán después del remate, excepto aquellos que aseguran la obligación del postor admitido.",
+  "resumen": "Este artículo establece los procedimientos para participar en remates de bienes, incluyendo la necesidad de enviar posturas electrónicas con firma electrónica y realizar una transferencia electrónica como garantía. Los fondos transferidos se devuelven tras el remate, excepto los correspondientes al postor admitido.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo participar en una subasta del SAT?",
-    "¿Qué necesito para hacer una postura en una subasta?",
-    "¿Qué pasa con el dinero que transfiero para la garantía en una subasta?",
-    "¿Se puede usar otro método de identificación en lugar de la firma electrónica?",
-    "¿Cómo se confirma que mi postura fue recibida?"
+    "¿Cómo puedo participar en un remate de bienes?",
+    "¿Qué hago con la firma electrónica avanzada para las posturas?",
+    "¿Cuál es el procedimiento para enviar una oferta en una subasta?",
+    "¿Necesito hacer un pago previo para participar en un remate?",
+    "¿Cómo se devuelven los fondos después del remate?"
   ]
 }

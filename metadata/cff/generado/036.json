@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bbb1c10e3225a591",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Modificación de resoluciones administrativas",
+  "denominacion_comun": "Modificación de resoluciones fiscales",
   "temas": [
     "resoluciones administrativas",
     "Tribunal Federal de Justicia Fiscal",
-    "modificaciones",
     "créditos fiscales",
-    "autoridades fiscales",
-    "contribuyentes",
-    "defensa fiscal"
+    "Secretaría de Hacienda",
+    "modificación de resoluciones",
+    "derechos del contribuyente"
   ],
   "terminos_coloquiales": [
-    "modificación de resoluciones",
-    "revisión de créditos fiscales",
-    "TFJFA",
-    "Secretaría de Hacienda"
+    "cambios en resoluciones fiscales",
+    "modificar resoluciones",
+    "impugnaciones fiscales",
+    "revisiones fiscales",
+    "créditos fiscales"
   ],
-  "resumen": "Las resoluciones administrativas favorables a un particular solo pueden ser modificadas por el Tribunal Federal de Justicia Fiscal y Administrativa. Las autoridades fiscales pueden revisar estas resoluciones y modificar o revocar créditos fiscales si se demuestra que fueron emitidos en contravención de la ley.",
+  "resumen": "El Tribunal Federal de Justicia Fiscal y Administrativa es el único que puede modificar resoluciones administrativas favorables a un particular. La Secretaría de Hacienda puede modificar resoluciones generales sin que afecten efectos anteriores, y las autoridades fiscales pueden revisar resoluciones específicas si se demuestra que fueron emitidas incorrectamente, siempre que no existan impugnaciones previas.",
   "preguntas_ejemplo": [
     "¿Quién puede modificar una resolución administrativa favorable?",
-    "¿Qué pasa si las autoridades fiscales encuentran un error en una resolución?",
-    "¿Pueden los contribuyentes impugnar las decisiones de modificación de la Secretaría de Hacienda?",
-    "¿Qué es el Tribunal Federal de Justicia Fiscal y Administrativa?",
-    "¿Cuáles son los plazos para presentar defensa en caso de revisión de crédito fiscal?"
+    "¿Las modificaciones de la Secretaría de Hacienda afectan resoluciones anteriores?",
+    "¿Qué pasa si se demuestra que una resolución fiscal fue emitida incorrectamente?",
+    "¿Pueden los contribuyentes impugnar las resoluciones de la Secretaría de Hacienda?",
+    "¿Qué sucede si no presento medios de defensa ante una resolución fiscal?"
   ]
 }

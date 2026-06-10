@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f7508c7dc944641b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remates del SAT",
+  "denominacion_comun": "Remates fiscales",
   "temas": [
     "subastas",
     "postores",
-    "mejores posturas",
+    "mejora de posturas",
     "resultados de remate"
   ],
   "terminos_coloquiales": [
+    "subasta de bienes",
     "remates del SAT",
-    "subastas fiscales",
-    "posturas en remate"
+    "ofertas en línea"
   ],
-  "resumen": "El artículo establece que en la página del SAT se publicarán detalles sobre los remates, incluyendo el período y cómo los postores pueden presentar sus ofertas. También regula el proceso de mejora de posturas y la conclusión del remate.",
+  "resumen": "Este artículo regula el proceso de remates fiscales que lleva a cabo el Servicio de Administración Tributaria, detallando cómo se presentan las posturas, los plazos y la comunicación de resultados a los postores. Si hay mejores ofertas en los últimos minutos, se extenderá el tiempo para recibir nuevas posturas.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan los remates en el SAT?",
+    "¿Cómo funciona un remate fiscal del SAT?",
+    "¿Qué debo hacer para participar en una subasta de bienes?",
     "¿Cuánto tiempo dura un remate?",
-    "¿Qué pasa si hay varias posturas iguales en un remate?",
-    "¿Dónde puedo ver los resultados de un remate?",
-    "¿Cómo presentar una postura en un remate del SAT?"
+    "¿Qué pasa si hay varias ofertas iguales en un remate?",
+    "¿Cómo recibiré los resultados de una subasta en la que participé?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6347c513cc44b5d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones y sanciones fiscales",
+  "denominacion_comun": "Multas y sanciones fiscales",
   "temas": [
+    "infracciones",
     "multas",
     "reincidencia",
+    "sanciones",
     "clausura preventiva",
-    "establecimientos",
-    "artículo 86-E",
-    "resoluciones misceláneas"
+    "est establecimiento",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
-    "sanciones",
-    "clausura de negocio"
+    "sanciones de Hacienda",
+    "clausura de negocios"
   ],
-  "resumen": "Se imponen multas a quienes infrinjan lo señalado en el artículo 86-E del Código. En caso de reincidencia, se clausura el establecimiento por un periodo fijo.",
+  "resumen": "Este artículo establece que a quienes cometan infracciones se les impondrán multas que varían en un rango específico y, en caso de reincidencia, la clausura preventiva de su establecimiento por un plazo determinado. Las autoridades fiscales tendrán en cuenta ciertos criterios para establecer la duración de la clausura.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si infrinjo la ley fiscal?",
-    "¿Cuánto es la multa por infracciones fiscales?",
-    "¿Qué es la clausura preventiva de un establecimiento?",
-    "¿Qué sucede si reincido en mis infracciones fiscales?",
-    "¿Cómo se determinan las sanciones fiscales?"
+    "¿Qué multas puedo recibir por infracciones fiscales?",
+    "¿Cuáles son las sanciones si reincido en una falta?",
+    "¿Qué significa la clausura preventiva de un establecimiento?",
+    "¿Cómo determinan las autoridades fiscales el tiempo de clausura?",
+    "¿Qué infracciones están sujetas a sanciones en el Código Fiscal?"
   ]
 }

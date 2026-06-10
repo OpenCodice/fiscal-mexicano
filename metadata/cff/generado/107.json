@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a24a3faf50eeb595",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Delito de Contrabando Calificado",
+  "denominacion_comun": "Delito de contrabando",
   "temas": [
+    "delito",
     "contrabando",
-    "delitos fiscales",
-    "sanciones",
-    "documentos falsos",
     "violencia",
-    "empleados públicos"
+    "documentos falsos",
+    "calificación del delito",
+    "sanciones",
+    "prisión"
   ],
   "terminos_coloquiales": [
     "contrabando",
-    "delitos de contrabando",
+    "delito de contrabando",
+    "falsificación de documentos",
     "sanciones por contrabando"
   ],
-  "resumen": "El artículo describe las situaciones que califican el delito de contrabando, aumentando las sanciones si se comete con violencia, documentos falsos o por varias personas. Estas calificaciones incrementan la pena a prisión de tres meses a tres años.",
+  "resumen": "El artículo establece que el contrabando se calificará si se comete con violencia, en lugares no autorizados, haciéndose pasar por un funcionario, usando documentos falsos o por varias personas. La sanción aumentará si se aplican estas calificativas.",
   "preguntas_ejemplo": [
-    "¿Qué es el contrabando calificado?",
-    "¿Qué sanciones hay por contrabando con violencia?",
-    "¿Cuáles son las condiciones que aumentan la pena por contrabando?",
-    "¿Qué sucede si se usa un documento falso en un caso de contrabando?",
-    "¿Cómo se califica un delito de contrabando cometido por varias personas?"
+    "¿Qué es el contrabando?",
+    "¿Cuáles son las penas por contrabando con violencia?",
+    "¿Qué califica un delito de contrabando?",
+    "¿Qué se considera como documentos falsos en el contrabando?",
+    "¿Cuántas personas se necesitan para calificar el contrabando?"
   ]
 }

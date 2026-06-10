@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d27400176daf540a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sobreseimiento de recursos administrativos",
   "temas": [
-    "Desistimiento",
-    "Improcedencia",
-    "Acto impugnado",
-    "Efectos de la resolución"
+    "desistimiento",
+    "causas de improcedencia",
+    "actos impugnados",
+    "cesación de efectos"
   ],
   "terminos_coloquiales": [
-    "sobreseimiento",
-    "recursos administrativos",
-    "desistirse",
-    "improcedencia"
+    "abandonar un recurso",
+    "no hay resolución",
+    "cancelar un trámite",
+    "recursos administrativos"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales se puede sobreseer un recurso administrativo, como el desistimiento del promovente o la falta del acto impugnado. Si no hay un acto que impugnar o se han cesado los efectos del mismo, también se procede al sobreseimiento.",
+  "resumen": "El artículo establece las situaciones en las que se puede dar por terminado un recurso administrativo sin continuar con el procedimiento. Estos casos incluyen desistimientos, causas de improcedencia, falta de actos impugnados y cesación de efectos de dichos actos.",
   "preguntas_ejemplo": [
-    "¿Cuándo se puede archivar un recurso administrativo?",
-    "¿Qué significa desistirse de un recurso?",
-    "¿Qué sucede si la resolución impugnada ya no tiene efectos?",
-    "¿Qué son las causas de improcedencia en un recurso?",
-    "¿Qué pasa si no hay un acto impugnado en el expediente?"
+    "¿Cuándo puedo desistirme de un recurso administrativo?",
+    "¿Qué pasa si no hay resolución sobre mi recurso?",
+    "¿Cuáles son las causas para que no proceda un recurso?",
+    "¿Qué significa que un acto impugnado haya cesado sus efectos?",
+    "¿Puedo cancelar un recurso en cualquier momento?"
   ]
 }

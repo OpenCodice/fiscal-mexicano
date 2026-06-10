@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2a48c574df9c0dc5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resoluciones administrativas en materia fiscal",
+  "denominacion_comun": "Resoluciones administrativas fiscales",
   "temas": [
-    "resoluciones administrativas",
     "autorizaciones fiscales",
     "régimen fiscal",
-    "efectos fiscales",
-    "ejercicio fiscal"
+    "ejercicios fiscales",
+    "circunstancias administrativas"
   ],
   "terminos_coloquiales": [
     "resoluciones fiscales",
-    "autorizaciones de impuestos",
-    "régimen permitido",
-    "efectos de la resolución"
+    "autorizaciones",
+    "regímenes fiscales",
+    "efectos fiscales"
   ],
-  "resumen": "Las resoluciones administrativas en materia de impuestos que otorgan autorizaciones o determinan un régimen fiscal tienen efectos en el ejercicio fiscal correspondiente o en el anterior, si se solicitó a tiempo. Al final de dicho ejercicio, se pueden someter circunstancias a la autoridad fiscal para que tome decisiones al respecto.",
+  "resumen": "Las resoluciones administrativas que otorgan autorizaciones o determinan un régimen fiscal tendrán efectos en el ejercicio fiscal correspondiente o en el anterior si se solicitaron a tiempo. Al finalizar el ejercicio, los interesados pueden solicitar a la autoridad fiscal que dicte la resolución pertinente.",
   "preguntas_ejemplo": [
-    "¿Cuándo surten efectos las resoluciones fiscales?",
-    "¿Qué pasa si necesito una prórroga después de recibir una resolución?",
-    "¿Se puede solicitar una revisión a una resolución fiscal ya emitida?",
-    "¿Qué tipos de resoluciones administrativas hay en materia de impuestos?",
-    "¿Cómo funcionan las autorizaciones fiscales en el ejercicio fiscal?"
+    "¿Cuándo surten efecto las autorizaciones fiscales?",
+    "¿Qué pasa si solicité una resolución fiscal y no se da el mismo año?",
+    "¿Puedo apelar las decisiones de las resoluciones administrativas?",
+    "¿Cuáles son las autorizaciones que no aplican a este artículo?",
+    "¿Qué debo hacer al finalizar un ejercicio fiscal si tengo una resolución?"
   ]
 }

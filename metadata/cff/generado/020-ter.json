@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dcfaef14a22f7ae4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de la Unidad de Inversión",
+  "denominacion_comun": "Unidad de Inversión",
   "temas": [
-    "Unidad de Inversión",
+    "cálculo de UDI",
+    "publicación de valores",
     "Banco de México",
-    "Publicación diaria",
-    "Cálculo de UDI",
-    "Índice Nacional de Precios al Consumidor",
-    "Fechas de publicación"
+    "Índice Nacional de Precios al Consumidor"
   ],
   "terminos_coloquiales": [
-    "UDI",
-    "Unidad de Inversión",
-    "Valor de UDI",
-    "Índice de Precios",
-    "Banco de México"
+    "valor de la UDI",
+    "publicación UDI",
+    "unidad de inversión",
+    "INPC"
   ],
-  "resumen": "El Banco de México publica diariamente el valor de la Unidad de Inversión (UDI) y establece plazos para la publicación de este valor. Este cálculo se basa en el Índice Nacional de Precios al Consumidor (INPC) y se realiza en diferentes periodos del mes.",
+  "resumen": "El Banco de México publica diariamente el valor de la unidad de inversión (UDI) en el Diario Oficial de la Federación. Este valor se calcula utilizando el Índice Nacional de Precios al Consumidor para periodos específicos del mes.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el valor de la UDI?",
-    "¿Cuándo publica el Banco de México el valor de la UDI?",
-    "¿Qué es el INPC y cómo afecta a la UDI?",
-    "¿Cuál es la fórmula para calcular el valor de la UDI?",
-    "¿Qué días se considera para el cálculo de la UDI?"
+    "¿Cuándo publica el Banco de México el valor de la unidad de inversión?",
+    "¿Qué es el INPC y cómo se relaciona con la UDI?",
+    "¿Qué días se considera para el valor de la UDI?",
+    "¿Dónde se publica el valor de la UDI?"
   ]
 }

@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ffa9d21adfd8dced",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recursos improcedentes",
   "temas": [
     "actos administrativos",
     "interés jurídico",
-    "recurso administrativo",
+    "recursos administrativos",
+    "Tribunal Federal de Justicia Fiscal",
     "consentimiento",
-    "tribunales",
-    "impuestos internacionales",
+    "tratados internacionales",
     "créditos fiscales",
-    "prescripción"
+    "resoluciones liquidatorias",
+    "prescripción de créditos"
   ],
   "terminos_coloquiales": [
-    "recursos improcedentes",
-    "actos administrativos improcedentes",
-    "recurso de revocación",
-    "créditos fiscales",
-    "recurso administrativo"
+    "recurso",
+    "reclamo",
+    "juicio administrativo",
+    "impuestos",
+    "deudas fiscales"
   ],
-  "resumen": "El artículo establece que hay situaciones en las que un recurso no procederá, como cuando no afecta al interesado, cuando ya se impugnó en otro tribunal, o cuando se consiente la resolución. También menciona condiciones específicas sobre créditos fiscales y actos de autoridades extranjeras.",
+  "resumen": "El artículo establece que hay ciertas situaciones en las que no se puede interponer un recurso contra actos administrativos, como cuando no afectan el interés del recurrente o cuando se han consentido. También menciona casos específicos relacionados con resoluciones extranjeras y créditos fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuándo no se puede presentar un recurso?",
-    "¿Qué actos administrativos no se pueden impugnar?",
-    "¿Qué pasa si consiento una resolución?",
-    "¿Los actos de autoridades extranjeras se pueden impugnar?",
-    "¿Qué sucede con los créditos fiscales impugnados?"
+    "¿Cuándo no puedo impugnar un acto administrativo?",
+    "¿Qué actos administrativos no afectan mi interés?",
+    "¿Qué pasa si no presenté un recurso a tiempo?",
+    "¿Los actos extranjeros se pueden impugnar en México?",
+    "¿Qué requisitos deben cumplirse para que un recurso sea procedente?"
   ]
 }

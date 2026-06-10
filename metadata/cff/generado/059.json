@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd6195c04dd29f32",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comprobación de ingresos",
   "temas": [
     "presunciones fiscales",
-    "ingresos no declarados",
-    "comprobación contable",
+    "contabilidad",
     "depósitos bancarios",
-    "activos",
+    "ingresos no registrados",
+    "inventarios",
     "exportación de bienes"
   ],
   "terminos_coloquiales": [
-    "comprobación de ingresos",
-    "ingresos presuntos",
-    "depósitos omitidos",
-    "CFF Artículo 59"
+    "ingresos no reportados",
+    "gastos no comprobados",
+    "depósitos en cuentas",
+    "cheques de empresa",
+    "inventarios de la empresa"
   ],
-  "resumen": "El artículo establece varias presunciones sobre cómo las autoridades fiscales pueden asumir que ciertos ingresos o actividades son del contribuyente, incluso si no están registradas en su contabilidad. Esto incluye depósitos en cuentas bancarias y diferencias entre activos registrados y reales.",
+  "resumen": "Este artículo establece presunciones sobre cómo las autoridades fiscales pueden considerar ciertos ingresos y activos como parte de las contribuciones que debe pagar un contribuyente, basándose en la información de su contabilidad y otras fuentes. Se detalla cómo los depósitos en cuentas bancarias y otros actos pueden ser considerados ingresos no reportados si no están debidamente documentados en la contabilidad del contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si tengo depósitos en mi cuenta que no he declarado?",
-    "¿Cómo se consideran los ingresos no registrados en mi contabilidad?",
-    "¿Qué presunciones hace el SAT sobre mis ingresos?",
-    "¿Qué evidencia necesito para demostrar que cierta operación fue realizada por mí?",
-    "¿Cómo afectan mis cheques no registrados a mis obligaciones fiscales?"
+    "¿Qué pasa si mis depósitos bancarios no están en mi contabilidad?",
+    "¿Cómo se consideran los cheques que no corresponden a mis registros?",
+    "¿Qué presunciones puede hacer la autoridad sobre mis ingresos?",
+    "¿Los inventarios deben estar contabilizados para efectos fiscales?",
+    "¿Qué documentos necesito para demostrar la exportación de un bien?"
   ]
 }

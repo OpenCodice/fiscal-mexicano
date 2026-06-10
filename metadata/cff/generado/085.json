@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dbad737712251320",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones fiscales",
+  "denominacion_comun": "Infracciones de Comprobación",
   "temas": [
-    "facultad de comprobación",
-    "visita domiciliaria",
+    "visitas domiciliarias",
     "suministro de información",
     "contabilidad",
-    "documentación requerida",
-    "información confidencial",
+    "confidencialidad",
     "declaraciones falsas"
   ],
   "terminos_coloquiales": [
-    "infracciones fiscales",
-    "visita en el domicilio fiscal",
-    "obligaciones fiscales",
-    "CFF"
+    "inspección fiscal",
+    "revisión de contabilidad",
+    "datos fiscales",
+    "visita de la autoridad",
+    "infracciones fiscales"
   ],
-  "resumen": "Este artículo establece las infracciones relacionadas con la facultad de comprobación de las autoridades fiscales, incluyendo la negativa a proporcionar información, no conservar la contabilidad, y el uso indebido de información confidencial. También menciona las consecuencias de declarar falsamente el cumplimiento de requisitos fiscales.",
+  "resumen": "El artículo establece diversas infracciones relacionadas con el ejercicio de la facultad de comprobación por parte de las autoridades fiscales. Esto incluye negarse a recibir visitas domiciliarias, no proporcionar información y documentos requeridos, no conservar la contabilidad y divulgar información confidencial. También se considera una infracción declarar falsamente sobre el cumplimiento de requisitos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me niegan la visita de verificación en mi domicilio fiscal?",
-    "¿Cuáles son las infracciones por no entregar la contabilidad?",
-    "¿Qué información no puedo usar de mis clientes o proveedores?",
-    "¿Qué se considera declarar falsamente ante las autoridades fiscales?",
-    "¿Qué debo conservar durante una visita domiciliaria?"
+    "¿Qué sucede si no dejo que la autoridad fiscal entre a mi casa?",
+    "¿Estoy obligado a entregar mis documentos contables a la autoridad fiscal?",
+    "¿Cuáles son las consecuencias de no conservar mi contabilidad?",
+    "¿Puedo utilizar información fiscal confidencial para mi beneficio?",
+    "¿Qué pasa si miento sobre cumplir con requisitos fiscales?"
   ]
 }

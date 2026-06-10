@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eaef10340ea9e546",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recurso de Revocación",
   "temas": [
-    "derechos de propiedad",
-    "embargos",
-    "remate",
+    "propiedad de bienes",
+    "derechos embargados",
+    "remates",
     "créditos fiscales",
-    "impugnación de notificaciones"
+    "notificaciones"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "derechos del tercero"
+    "embargo",
+    "derechos sobre bienes",
+    "remate de bienes",
+    "créditos de contribuyentes"
   ],
-  "resumen": "El artículo establece que una persona que afirme ser propietaria de bienes embargados puede hacer uso del recurso de revocación antes de que se realice el remate. También señala que aquellos que tienen créditos a favor pueden exigir que se paguen antes que los créditos fiscales.",
+  "resumen": "Este artículo establece que una persona que declare ser propietaria de bienes embargados puede impugnar acciones antes del remate. También se aclara que si hay créditos a favor de esa persona, puede solicitarlos antes de que se destine el dinero del remate al pago de créditos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué es el recurso de revocación en embargos?",
-    "¿Cuándo puede un tercero hacer valer sus derechos sobre bienes embargados?",
-    "¿Cómo se protegen los créditos fiscales frente al remate?",
-    "¿Qué sucede si no impugno una notificación de embargo a tiempo?"
+    "¿Qué puedo hacer si un bien que me pertenece ha sido embargado?",
+    "¿Cómo puedo reclamar un crédito que tengo antes de un remate?",
+    "¿Qué es un recurso de revocación en el contexto de embargos?",
+    "¿Hasta cuándo puedo impugnar el remate de mis bienes?",
+    "¿Puedo asegurar que se cubran mis créditos antes de pagar los impuestos?"
   ]
 }

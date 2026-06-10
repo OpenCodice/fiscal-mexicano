@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e8007fc418b579e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inexistencia de operaciones fiscales",
+  "denominacion_comun": "Presunción de inexistencia de operaciones",
   "temas": [
     "comprobantes fiscales",
+    "notificaciones",
+    "plazos",
+    "documentación",
     "presunción de inexistencia",
-    "notificación tributaria",
-    "documentación y pruebas",
-    "solicitud de prórroga",
-    "lista de contribuyentes",
-    "efectos fiscales",
-    "sanciones",
-    "comprobación de operaciones"
+    "créditos fiscales",
+    "operaciones simuladas",
+    "situación fiscal"
   ],
   "terminos_coloquiales": [
-    "comprobantes falsos",
-    "operaciones simuladas",
-    "inexistencia de operaciones",
-    "lista negra",
-    "CFF 69-B"
+    "facturas",
+    "buzón tributario",
+    "comprobantes",
+    "operaciones inexistentes",
+    "listado de contribuyentes",
+    "SAT"
   ],
-  "resumen": "Este artículo establece que si la autoridad fiscal detecta que un contribuyente emite comprobantes sin tener la capacidad para cumplir con las operaciones, se presume que dichas operaciones no existen. Los contribuyentes notificados pueden presentar pruebas para desvirtuar esta presunción en un plazo determinado.",
+  "resumen": "Este artículo establece que si la autoridad fiscal detecta que un contribuyente emite comprobantes sin tener la capacidad para respaldarlos, se presumirán como inexistentes. La autoridad notificará a estos contribuyentes para que presenten pruebas que desvirtúen esta presunción. Si no lo hacen, sus operaciones no tendrán efectos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si emito un comprobante sin tener los servicios o productos?",
-    "¿Cómo puedo desvirtuar la inexistencia de operaciones que me señala la autoridad?",
-    "¿Cuáles son los plazos para responder a la notificación de la autoridad?",
-    "¿Qué sucede si no corroboro mis operaciones ante la autoridad fiscal?",
-    "¿Puedo solicitar más tiempo para presentar mis pruebas ante la autoridad?",
-    "¿Qué implica estar en la lista de contribuyentes sin efectos fiscales?"
+    "¿Qué pasa si emito una factura en operaciones que no realicé?",
+    "¿Cómo se notifica a un contribuyente sobre la inexistencia de sus operaciones?",
+    "¿Cuáles son los plazos para presentar pruebas ante la autoridad fiscal?",
+    "¿Qué ocurre si no puedo demostrar una operación respaldada por un comprobante?",
+    "¿Qué es el listado de contribuyentes publicados por el SAT?",
+    "¿Qué significa que una operación se considere como simulada?"
   ]
 }

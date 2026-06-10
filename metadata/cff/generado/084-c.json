@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0fcabcf67e3ad10f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones por omisión de información fiscal",
   "temas": [
-    "infracciones fiscales",
+    "infracciones",
     "usuarios de servicios",
     "cuentahabientes",
-    "obligaciones de información",
-    "datos fiscales",
-    "instituciones de crédito"
+    "obligaciones fiscales",
+    "información del RFC",
+    "datos incorrectos"
   ],
   "terminos_coloquiales": [
-    "infracciones por no dar información",
-    "omisión de datos",
-    "datos incorrectos en servicios",
-    "CFF"
+    "infracción fiscal",
+    "proporcionar RFC",
+    "consecuencias por no dar datos",
+    "errores en información",
+    "código fiscal"
   ],
-  "resumen": "Este artículo establece que los usuarios de servicios y cuentahabientes de bancos pueden incurrir en infracciones si no proporcionan la información requerida sobre su identidad y situación fiscal, o si dan datos falsos.",
+  "resumen": "Este artículo establece que los usuarios de servicios y cuentahabientes de instituciones de crédito pueden cometer infracciones si no proporcionan o dan datos incorrectos relacionados con su información fiscal, como su nombre y RFC. Las instituciones pueden requerir esta información para la correcta identificación de sus clientes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no doy mis datos fiscales completos?",
-    "¿Cuáles son las infracciones por no proporcionar información a mi banco?",
-    "¿Qué debo hacer si cometi una omisión en mis datos fiscales?",
-    "¿Cuáles son las consecuencias de dar datos incorrectos?",
-    "¿Los bancos pueden multarme por omitir mis datos fiscales?"
+    "¿Qué pasa si no doy mi RFC a mi banco?",
+    "¿Cuáles son las consecuencias por no proporcionar mi información fiscal?",
+    "¿Es una infracción dar datos incorrectos al banco?",
+    "¿Qué información debo dar a las instituciones de crédito?",
+    "¿Qué se considera omitir datos fiscales?"
   ]
 }

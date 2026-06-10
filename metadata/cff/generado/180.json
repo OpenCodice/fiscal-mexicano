@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:36e4a49596e48781",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de Bienes Embargados",
+  "denominacion_comun": "Remate de bienes embargados",
   "temas": [
     "postura",
     "interés fiscal",
     "remate",
-    "enajenación a plazos"
+    "enajenación",
+    "bienes embargados"
   ],
   "terminos_coloquiales": [
-    "remate de bienes",
-    "embargo",
-    "interés fiscal",
-    "remate a plazos"
+    "remate",
+    "oferta de contado",
+    "subasta de bienes",
+    "bienes embargados",
+    "enajenar a plazos"
   ],
-  "resumen": "Este artículo establece las condiciones para el remate de bienes embargados, indicando que la postura debe cubrir al menos el interés fiscal. También menciona que si la postura es menor al interés fiscal, se rematarán los bienes de contado.",
+  "resumen": "El artículo establece que en todo remate se debe ofrecer al menos una parte en efectivo para cubrir el interés fiscal. Si la oferta es menor al interés, los bienes se rematarán de contado. También menciona que los bienes pueden ser vendidos a plazos bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si la postura en un remate no cubre el interés fiscal?",
-    "¿Se puede rematar a plazos los bienes embargados?",
-    "¿Cuánto debo ofrecer en un remate de bienes embargados?",
-    "¿Cuál es el procedimiento si el importe de la postura es menor al interés fiscal?",
-    "¿Qué es el interés fiscal en un remate?"
+    "¿Qué es un remate de bienes embargados?",
+    "¿Cómo se determina el monto de la postura en un remate?",
+    "¿Qué pasa si la oferta en un remate es menor al interés fiscal?",
+    "¿Se pueden vender bienes embargados a plazos?",
+    "¿Cuáles son las obligaciones del embargado en un remate?"
   ]
 }

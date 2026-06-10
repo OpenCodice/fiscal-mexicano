@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f0839c1f4150061",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Beneficiario Controlador",
   "temas": [
-    "definición",
-    "personas físicas",
-    "control de sociedades",
+    "control de entidades",
+    "derechos de uso",
     "fideicomisos",
     "transacciones",
-    "derechos de voto",
-    "administración de sociedades"
+    "decisiones en asambleas",
+    "titularidad de valores"
   ],
   "terminos_coloquiales": [
-    "beneficiario controlador",
-    "controlador fiscal",
-    "personas morales",
-    "fideicomiso",
-    "SAT"
+    "controlador",
+    "dueño efectivo",
+    "fideicomitente",
+    "administrador"
   ],
-  "resumen": "El beneficiario controlador es la persona física o grupo de personas que, de alguna manera, obtiene beneficios o ejerce control sobre una persona moral o fideicomiso. Esto incluye decisiones sobre asambleas y administración de estas figuras jurídicas.",
+  "resumen": "El beneficiario controlador es la persona o grupo de personas que obtiene beneficios o ejerce control sobre una entidad, fideicomiso u otro acto jurídico. También se detalla cómo se ejerce este control a través de la participación en decisiones importantes y la titularidad de valores.",
   "preguntas_ejemplo": [
-    "¿Quién es considerado beneficiario controlador en un fideicomiso?",
-    "¿Qué significa ejercer el control de una persona moral?",
-    "¿Cómo se determina quién es el beneficiario controlador?",
-    "¿Qué criterios se utilizan para identificar a un beneficiario controlador?",
-    "¿El SAT tiene reglas para el beneficiario controlador?",
-    "¿Qué derechos tienen los beneficiarios controladores?"
+    "¿Quién es el beneficiario controlador en un fideicomiso?",
+    "¿Qué significa ser controlador de una empresa?",
+    "¿Cómo se determina el control en una persona moral?",
+    "¿Qué derechos tiene un beneficiario controlador?",
+    "¿Cuáles son las obligaciones de un fideicomitente?"
   ]
 }

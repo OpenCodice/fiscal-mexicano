@@ -6,29 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae5f1ccdf3b4dda6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comprobantes Fiscales Digitales",
   "temas": [
-    "Requisitos de comprobantes",
-    "Expedición de CFDI",
-    "Datos a incluir",
-    "Comprobantes para turistas",
-    "Deducciones fiscales",
-    "Cancelación de comprobantes"
+    "requisitos comprobantes",
+    "SAT",
+    "Registro Federal de Contribuyentes",
+    "factura electrónica",
+    "donativos deducibles",
+    "arrendamiento",
+    "importación",
+    "cancelación de comprobantes"
   ],
   "terminos_coloquiales": [
+    "factura",
     "CFDI",
-    "Comprobante Fiscal Digital",
-    "comprobante electrónico",
-    "factura digital"
+    "comprobante fiscal digital",
+    "RTN",
+    "donativo",
+    "arrendar",
+    "vehículo",
+    "pago en efectivo",
+    "importación"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir los comprobantes fiscales digitales, incluyendo datos del emisor y receptor, así como detalles de la operación. Estos comprobantes son necesarios para deducciones fiscales y deben seguir pautas establecidas por el SAT.",
+  "resumen": "El artículo establece los requisitos específicos que deben contener los comprobantes fiscales digitales, incluyendo información sobre el emisor, el receptor, y detalles sobre la operación que respalda. Estos requisitos son necesarios para garantizar la validez fiscal de los comprobantes.",
   "preguntas_ejemplo": [
-    "¿Qué datos debe tener un comprobante fiscal digital?",
-    "¿Cómo se cancelan los CFDI?",
-    "¿Qué requisitos hay para comprobantes de ventas a turistas?",
-    "¿Qué información se necesita para deducir un donativo?",
-    "¿Cómo expido un comprobante para servicios de transportación escolar?"
+    "¿Qué información debe tener una factura electrónica?",
+    "¿Cómo se cancelan los comprobantes fiscales digitales?",
+    "¿Qué requisitos hay para los donativos deducibles?",
+    "¿Cómo se emite un comprobante para un arrendamiento?",
+    "¿Qué hacer si un comprobante no cumple con los requisitos?"
   ]
 }

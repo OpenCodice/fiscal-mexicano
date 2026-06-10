@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aafc1056816330fb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intervención de Autoridades Fiscales",
+  "denominacion_comun": "Intervención fiscal",
   "temas": [
-    "intervenciones",
+    "interventor",
     "autoridades fiscales",
-    "designación de interventores",
-    "mandatos",
-    "cambios de interventor"
+    "negociación",
+    "designación de interventor"
   ],
   "terminos_coloquiales": [
+    "interventor",
     "intervención fiscal",
     "cambio de interventor"
   ],
-  "resumen": "Este artículo establece que si se inicia una intervención por parte de una autoridad que ya cuenta con otras intervenciones, se nombrará un nuevo interventor que también se encargará de las otras. Además, se debe informar a las autoridades que ordenaron las intervenciones anteriores o posteriores sobre este cambio.",
+  "resumen": "El artículo establece que si una negociación ya tiene un interventor designado por otra autoridad, se nombrará uno nuevo que también se encargará de las intervenciones existentes. Además, se informará a las autoridades que ordenaron las intervenciones anteriores sobre cualquier cambio de interventor.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si hay un cambio de interventor en una intervención fiscal?",
-    "¿Cómo se designa un nuevo interventor si ya hay uno anterior?",
-    "¿Las autoridades tienen que ser informadas sobre el nuevo interventor?",
-    "¿Qué pasa si ya hay una intervención por otra autoridad?",
-    "¿Se puede nombrar un interventor diferente a los ya designados?"
+    "¿Qué pasa si ya hay un interventor y se necesita uno nuevo?",
+    "¿Cómo se designa un interventor en negociaciones fiscales?",
+    "¿Qué autoridades deben ser informadas sobre el cambio de interventor?",
+    "¿El nuevo interventor se encarga de otras intervenciones también?",
+    "¿Qué sucede si la negociación está bajo otras autoridades?"
   ]
 }

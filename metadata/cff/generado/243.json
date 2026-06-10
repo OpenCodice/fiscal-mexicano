@@ -6,17 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposición",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Esta disposición ha sido derogada, por lo que ya no tiene validez legal.",
+  "denominacion_comun": "Derogación del Artículo 243",
+  "temas": [
+    "derogación",
+    "legislación",
+    "Artículo 243",
+    "CFF"
+  ],
+  "terminos_coloquiales": [
+    "derogado",
+    "ya no aplica"
+  ],
+  "resumen": "El Artículo 243 del Código Fiscal de la Federación ha sido derogado, lo que significa que ya no tiene validez legal. Esto implica que las disposiciones que contenía ya no son relevantes.",
   "preguntas_ejemplo": [
-    "¿Qué artículos han sido derogados?",
+    "¿Qué pasó con el Artículo 243 del CFF?",
+    "¿Está vigente el Artículo 243 del Código Fiscal?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Cuáles son las consecuencias de la derogación de un artículo?",
-    "¿Dónde puedo encontrar las disposiciones vigentes?",
-    "¿Cómo afecta la derogación a mis obligaciones fiscales?"
+    "¿Qué disposiciones se eliminaron en el Artículo 243?",
+    "¿Cuáles son las implicaciones de la derogación del Artículo 243?"
   ]
 }

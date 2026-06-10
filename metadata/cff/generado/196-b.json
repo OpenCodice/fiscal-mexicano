@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0139244673a66524",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interrupción de plazos de abandono",
+  "denominacion_comun": "Plazos de Abandono",
   "temas": [
+    "recursos administrativos",
+    "demanda judicial",
+    "interrupción de plazos",
+    "consulta entre autoridades"
+  ],
+  "terminos_coloquiales": [
     "plazos de abandono",
     "recurso administrativo",
     "demanda",
-    "consultas entre autoridades",
-    "esquemas reportables"
+    "juicio",
+    "consulta"
   ],
-  "terminos_coloquiales": [
-    "interrupción de plazos",
-    "plazos de abandono",
-    "recurso administrativo"
-  ],
-  "resumen": "El artículo establece que los plazos de abandono se pueden interrumpir mediante la presentación de un recurso administrativo o una demanda, así como por consultas entre autoridades. Estas interrupciones solo aplican si la resolución final no confirma la que se impugnó.",
+  "resumen": "El artículo establece que los plazos de abandono se interrumpen cuando se interpone un recurso administrativo o una demanda, así como por consultas entre autoridades que afecten la entrega de bienes. La interrupción se aplica solo si la resolución final no confirma la decisión impugnada.",
   "preguntas_ejemplo": [
-    "¿Qué significa que se interrumpan los plazos de abandono?",
-    "¿Cómo se puede interrumpir un plazo de abandono?",
-    "¿Qué tipos de recursos interrumpen los plazos de abandono?",
-    "¿Qué sucede si se consulta entre autoridades?",
-    "¿Cuándo no se interrumpen los plazos de abandono?"
+    "¿Qué sucede con los plazos de abandono si interpongo un recurso?",
+    "¿Los plazos se interrumpen si presento una demanda?",
+    "¿Qué pasa si hay una consulta entre autoridades sobre mis bienes?",
+    "¿Cuándo se consideran interrumpidos los plazos según el artículo 196-B?",
+    "¿Qué efectos tiene la resolución de un recurso en los plazos de abandono?"
   ]
 }

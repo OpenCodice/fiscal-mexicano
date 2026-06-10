@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:72ae4f3cf77e5716",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazos de caducidad en fiscalidad",
+  "denominacion_comun": "Plazos de caducidad en materia fiscal",
   "temas": [
-    "facultades fiscales",
+    "facultades de las autoridades fiscales",
+    "determinar contribuciones omitidas",
+    "imposición de sanciones",
     "plazos de caducidad",
-    "sanciones fiscales",
-    "declaraciones fiscales"
+    "declaraciones fiscales",
+    "suspensión de plazos",
+    "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
-    "plazos de la autoridad",
-    "caducidad de facultades",
-    "plazos fiscales",
-    "CFF"
+    "plazos de caducidad",
+    "autoridades fiscales",
+    "declaraciones de impuestos",
+    "sanciones fiscales",
+    "comprobación fiscal"
   ],
-  "resumen": "Este artículo establece los plazos de caducidad para que las autoridades fiscales puedan determinar contribuciones omitidas o imponer sanciones. Generalmente, estos plazos son de cinco o diez años, dependiendo de ciertas condiciones como la presentación de declaraciones y actas de incumplimiento.",
+  "resumen": "Este artículo establece los plazos en los que las autoridades fiscales pueden ejercer sus facultades para determinar impuestos omitidos y aplicar sanciones. Los plazos de caducidad varían dependiendo de la situación del contribuyente y pueden suspenderse en ciertos casos. Después de transcurridos estos plazos, los contribuyentes pueden solicitar que se declare la extinción de estas facultades.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tiene la autoridad fiscal para cobrar impuestos no declarados?",
-    "¿Qué pasa si no presenté mi declaración a tiempo?",
-    "¿Cuándo se extinguen las facultades de la autoridad fiscal?",
-    "¿Qué plazos se consideran para sanciones fiscales?",
-    "¿Cómo influyen las declaraciones complementarias en los plazos de caducidad?"
+    "¿Cuánto tiempo tiene la autoridad fiscal para cobrar impuestos que no se han pagado?",
+    "¿Qué sucede si no presento mi declaración de impuestos a tiempo?",
+    "¿Cuáles son las causas que pueden suspender el plazo para que la autoridad fiscal actúe?",
+    "¿Qué debo hacer para que se declaren extinguidas las facultades de la autoridad fiscal?",
+    "¿Cómo se cuentan los plazos de caducidad en el pago de impuestos?"
   ]
 }

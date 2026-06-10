@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:37fa566808493177",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Diligencias fiscales",
+  "denominacion_comun": "Días y Horas Hábiles Fiscales",
   "temas": [
-    "horarios de diligencias",
+    "diligencias fiscales",
+    "horario de trabajo",
     "notificaciones",
     "visitas domiciliarias",
     "embargos precautorios",
-    "buzón tributario"
+    "buzón tributario",
+    "verificación de mercancías"
   ],
   "terminos_coloquiales": [
-    "horas hábiles",
-    "horas inhábiles",
-    "diligencias fiscales",
-    "notificaciones fiscales"
+    "horario fiscal",
+    "días hábiles",
+    "notificación de impuestos",
+    "visita de la autoridad",
+    "embargo",
+    "buzón tributario"
   ],
-  "resumen": "Las diligencias realizadas por autoridades fiscales deben hacerse en horas hábiles, aunque pueden continuar en horas inhábiles si se inician en horas hábiles. El buzón tributario seguirá el horario de la Zona Centro de México.",
+  "resumen": "El artículo establece que las diligencias de las autoridades fiscales se deben realizar en días y horas hábiles. Se permite que ciertas diligencias se realicen en horas inhábiles si están relacionadas con el cumplimiento de contribuciones. Además, el buzón tributario sigue el horario de la Zona Centro de México.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las horas hábiles para las diligencias fiscales?",
-    "¿Se puede notificar en horas inhábiles?",
-    "¿Cómo funcionan las visitas domiciliarias?",
-    "¿Qué dice la ley sobre el buzón tributario?",
-    "¿Qué son los embargos precautorios y cuándo se aplican?"
+    "¿Cuáles son los días y horas hábiles para que me notifiquen?",
+    "¿Pueden realizar una visita fiscal en un día inhábil?",
+    "¿Cómo se regula el buzón tributario?",
+    "¿Qué sucede si una diligencia inicia en horas hábiles?",
+    "¿Las verificaciones de mercancías son 24/7?"
   ]
 }

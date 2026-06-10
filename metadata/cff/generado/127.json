@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6af14eee412a406a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "procedimiento administrativo",
-    "ejecución fiscal",
+    "máximo plazo",
     "remate",
-    "violaciones a la ley",
     "notificación",
     "embargo"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "proceso de ejecución",
-    "plazo de impugnación"
+    "impugnación",
+    "plazo para reclamar"
   ],
-  "resumen": "El artículo establece los plazos y condiciones para interponer un recurso de revocación cuando se considera que un procedimiento administrativo de ejecución no se llevó a cabo conforme a la ley. Se especifica que ciertas violaciones deben ser reclamadas antes del remate o en específico a partir de otros actos relacionados con el embargo.",
+  "resumen": "Establece que si se interpone un recurso de revocación por violaciones al procedimiento administrativo de ejecución, estas deben hacerse valer antes de la publicación del remate y dentro de un plazo específico. En ciertos casos, el plazo se contaría a partir de la notificación del requerimiento de pago o del embargo.",
   "preguntas_ejemplo": [
-    "¿Cómo interpongo un recurso de revocación?",
-    "¿Qué plazos tengo para reclamar violaciones en un procedimiento de ejecución?",
-    "¿Qué sucede si el remate ya fue publicado?",
-    "¿Puedo impugnar actos antes del remate?",
-    "¿Cuándo empiezan a contar los plazos para la impugnación?"
+    "¿Cómo puedo impugnar un remate?",
+    "¿Cuáles son los plazos para presentar un recurso de revocación?",
+    "¿Qué debo hacer si no se ajusta la ejecución a la ley?",
+    "¿Se puede reclamar después del remate?",
+    "¿Qué pasa con los bienes inembargables en el procedimiento?"
   ]
 }

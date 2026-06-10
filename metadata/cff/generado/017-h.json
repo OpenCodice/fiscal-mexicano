@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fab377b2cc854b92",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de certificados",
+  "denominacion_comun": "Revocación de certificados de sello digital",
   "temas": [
     "revocación de certificados",
     "certificados de sello digital",
-    "certificados de firma electrónica",
     "procedimiento de subsanación",
-    "presunción de inexistencia de operaciones",
-    "comprobantes fiscales",
-    "confidencialidad de datos"
+    "cancelación de certificados"
   ],
   "terminos_coloquiales": [
     "revocación de certificados",
-    "cancelación de certificados",
-    "SAT",
-    "certificado de sello digital"
+    "certificado digital",
+    "sellos digitales",
+    "página del SAT"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales el Servicio de Administración Tributaria puede cancelar o revocar certificados, incluyendo solicitudes de los firmantes, resoluciones judiciales, y situaciones específicas de contribuyentes, como la emisión de comprobantes fiscales falsos.",
+  "resumen": "El artículo establece las circunstancias bajo las cuales un certificado de sello digital emitido por el SAT puede quedar sin efectos, así como los procedimientos para solicitar la revocación o subsanación de irregularidades. También menciona los derechos de los terceros de buena fe ante la revocación de certificados.",
   "preguntas_ejemplo": [
     "¿Cuándo se puede cancelar un certificado de sello digital?",
-    "¿Qué debo hacer si mi certificado de firma electrónica es revocado?",
-    "¿Cuáles son las causas para la revocación de un certificado por el SAT?",
-    "¿Cómo puedo subsanar las irregularidades para obtener un nuevo certificado?",
-    "¿Qué sucedió con mi certificado de sello digital si el SAT lo revocó?",
-    "¿Cuál es el procedimiento para revocar un certificado según este artículo?"
+    "¿Qué hago si mi certificado fue revocado?",
+    "¿Cómo puedo recuperar un certificado de sello digital?",
+    "¿Qué pasa con el certificado si fallece el titular?",
+    "¿Cuáles son las causas de revocación del certificado digital?"
   ]
 }

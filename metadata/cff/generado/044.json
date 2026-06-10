@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fcff5b16c929ee78",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Visitas en Domicilio Fiscal",
+  "denominacion_comun": "Visitas en el Domicilio Fiscal",
   "temas": [
-    "orden de visita",
-    "citatorio",
+    "visitadores",
+    "domicilio fiscal",
+    "bienestar del contribuyente",
+    "testigos",
     "aseguramiento de bienes",
-    "testigos en visitas",
-    "sustitución de autoridades"
+    "citación"
   ],
   "terminos_coloquiales": [
-    "visita fiscal",
-    "inspección en domicilio",
-    "visitas de la autoridad",
-    "CFF"
+    "visitas fiscales",
+    "citación",
+    "acta de visita",
+    "aseguramiento",
+    "testigos",
+    "auxilio de autoridades fiscales"
   ],
-  "resumen": "El artículo regula cómo deben llevarse a cabo las visitas en el domicilio fiscal por parte de las autoridades. Establece el procedimiento para la identificación de visitadores, el papel de los testigos y qué sucede si el visitado no se encuentra presente.",
+  "resumen": "El artículo establece el procedimiento para las visitas en el domicilio fiscal por parte de las autoridades fiscales, incluyendo la identificación de visitadores, la designación de testigos y el aseguramiento de bienes si hay irregularidades. Las visitas se pueden realizar en el domicilio declarado por el contribuyente o en el anterior si se conserva el local.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no estoy en mi domicilio cuando vienen a visitarme?",
-    "¿Cómo se llevan a cabo las visitas en el domicilio fiscal?",
-    "¿Qué debo hacer si no quiero firmar el acta de la visita?",
-    "¿Puede alguien sustituir a los testigos en una visita fiscal?",
-    "¿Qué ocurre si descubren bienes no declarados durante la visita?"
+    "¿Qué pasa si no estoy en mi domicilio fiscal cuando llega la visita?",
+    "¿Quién puede ser testigo durante una visita fiscal?",
+    "¿Qué ocurre si los testigos no quieren firmar el acta de visita?",
+    "¿Pueden las autoridades fiscales asegurarse de bienes si los encuentran en una visita?",
+    "¿Qué debo hacer si cambio de domicilio después de recibir una citación?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:05b16efd7e59d3b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Buzón Tributario",
   "temas": [
-    "notificación fiscal",
     "comunicación electrónica",
-    "requerimientos de la autoridad",
+    "notificaciones fiscales",
     "documentos digitales",
-    "medios de contacto",
-    "promociones electrónicas"
+    "cumplimiento de obligaciones"
   ],
   "terminos_coloquiales": [
     "buzón tributario",
     "notificación electrónica",
-    "SAT",
-    "avisos fiscales"
+    "consultas fiscales",
+    "avisos del SAT"
   ],
-  "resumen": "El Buzón Tributario es un sistema de comunicación electrónica asignado a contribuyentes, donde la autoridad fiscal notifica actos administrativos y los contribuyentes pueden realizar trámites digitales. Es importante que los contribuyentes mantengan actualizados sus medios de contacto para recibir notificaciones correctamente.",
+  "resumen": "El buzón tributario es un sistema donde los contribuyentes pueden recibir notificaciones y cumplir con sus obligaciones fiscales a través de documentos digitales. Es obligatorio habilitarlo y mantener actualizados los medios de contacto para recibir avisos del SAT.",
   "preguntas_ejemplo": [
-    "¿Qué es el Buzón Tributario?",
-    "¿Cómo habilitar mi Buzón Tributario?",
-    "¿Qué pasa si no consulto mi Buzón Tributario?",
-    "¿Qué tipos de avisos recibiré en mi Buzón Tributario?",
-    "¿Cómo puedo realizar promociones electrónicas al SAT?"
+    "¿Qué es el buzón tributario?",
+    "¿Cómo puedo habilitar mi buzón tributario?",
+    "¿Qué debo hacer si no recibo notificaciones del SAT?",
+    "¿Cuáles son las obligaciones relacionadas con el buzón tributario?",
+    "¿Qué pasa si no mantengo actualizados mis datos de contacto?"
   ]
 }

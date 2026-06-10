@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ddb911d403da094",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de Revocación",
+  "denominacion_comun": "Recurso administrativo",
   "temas": [
-    "plazos",
     "buzón tributario",
-    "notificaciones",
-    "sucesión",
+    "plazo para interponer recurso",
     "suspensión de plazos",
-    "incapacidad"
+    "representación legal"
   ],
   "terminos_coloquiales": [
-    "recurso",
-    "recurso administrativo",
-    "CFF",
-    "revocación"
+    "reclamo fiscal",
+    "días para apelar",
+    "fallecimiento y recursos",
+    "contingencias fiscales"
   ],
-  "resumen": "El artículo establece que el recurso de revocación debe presentarse a través del buzón tributario dentro de los 30 días posteriores a la notificación. También detalla las condiciones bajo las cuales se suspenden los plazos para presentar el recurso, como en casos de fallecimiento, incapacidad o controversias fiscales internacionales.",
+  "resumen": "Este artículo establece que los recursos deben presentarse a través del buzón tributario dentro de un plazo específico tras la notificación. Adicionalmente, se detallan condiciones para la suspensión de este plazo, como el fallecimiento del particular afectado o la incapacidad judicial.",
   "preguntas_ejemplo": [
-    "¿Cómo presento un recurso de revocación?",
-    "¿Cuánto tiempo tengo para interponer un recurso después de una notificación?",
-    "¿Qué sucede si la persona afectada fallece antes de interponer el recurso?",
-    "¿Se puede suspender el plazo para presentar un recurso?",
-    "¿Cuáles son las condiciones para la suspensión del recurso de revocación?"
+    "¿Cuánto tiempo tengo para presentar un recurso fiscal?",
+    "¿Qué pasará si muero durante el proceso de un recurso?",
+    "¿Se me puede dar más tiempo para apelar si tengo un tutor?",
+    "¿Cómo se presenta un recurso por el buzón tributario?",
+    "¿Qué sucede si solicito la resolución de controversias con otro país?",
+    "¿Bajo qué condiciones se suspende el plazo para presentar un recurso?"
   ]
 }

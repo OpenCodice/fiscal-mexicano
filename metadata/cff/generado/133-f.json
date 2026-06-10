@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:754fc0c46555c4d7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de Revocación",
+  "denominacion_comun": "Recurso de revocación",
   "temas": [
     "dictamen pericial",
     "audiencia especial",
-    "derechos del promovente",
-    "valoración de pruebas",
-    "perito",
-    "resolución de recursos"
+    "pruebas periciales",
+    "autoridad administrativa",
+    "promovente",
+    "resoluciones impugnadas"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "recurso administrativo",
-    "dictamen de perito"
+    "dictamen de perito",
+    "audiencia",
+    "prueba pericial"
   ],
-  "resumen": "El artículo establece que si se presenta un dictamen pericial en un recurso de revocación, la autoridad puede valorar tanto el dictamen como la idoneidad del perito, quien puede ser citado a una audiencia especial para resolver dudas. La autoridad también puede ordenar un nuevo dictamen pericial si lo considera necesario.",
+  "resumen": "El artículo establece que en un recurso de revocación, la autoridad puede valorar un dictamen pericial y citar al perito para una audiencia donde responderá preguntas. También permite que la autoridad solicite otro dictamen si es necesario para entender mejor los hechos.",
   "preguntas_ejemplo": [
-    "¿Qué es el recurso de revocación?",
-    "¿Cómo se presenta un dictamen pericial en un recurso?",
-    "¿Qué puede hacer la autoridad con el dictamen pericial?",
-    "¿El perito puede ser citado a declarar?",
-    "¿Qué pasa si la autoridad ordena otro dictamen pericial?"
+    "¿Qué pasa si presento un dictamen pericial en un recurso de revocación?",
+    "¿El perito puede ser llamado a responder preguntas en la audiencia?",
+    "¿La autoridad puede pedir otro dictamen pericial?",
+    "¿Cuánto tiempo antes se debe avisar al perito sobre la audiencia?",
+    "¿Quiénes pueden acudir a la audiencia del recurso de revocación?"
   ]
 }

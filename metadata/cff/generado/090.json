@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a486972ebd3011c7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones fiscales",
+  "denominacion_comun": "Sanciones por infracciones fiscales",
   "temas": [
     "multas",
     "infracciones fiscales",
     "asesoría fiscal",
-    "criterios de autoridades fiscales",
-    "contribución omitida",
-    "honorarios",
-    "opinion escrita"
+    "criterios de las autoridades",
+    "honorarios de servicios"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
-    "infracciones",
-    "sanciones",
-    "CFF",
-    "artículo 90"
+    "sanciones por asesoría",
+    "consejos erróneos",
+    "multas por infracciones"
   ],
-  "resumen": "Se establecen multas por infracciones a las disposiciones fiscales y se prevé un aumento de la multa si la asesoría o servicios prestados son distintos a los criterios de las autoridades fiscales. La agravante se puede evitar si se menciona en la opinión escrita que el criterio es diverso.",
+  "resumen": "Este artículo establece las sanciones económicas que se aplicarán a quienes cometan infracciones a las disposiciones fiscales, y detalla que las multas pueden aumentar si la asesoría o los servicios prestados son diferentes a los criterios de las autoridades fiscales. También menciona que no habrá agravante si se especifica por escrito que el criterio es distinto al de las autoridades.",
   "preguntas_ejemplo": [
-    "¿Qué multas pueden aplicarse por infracciones fiscales?",
-    "¿Cómo se determina el monto de una multa fiscal?",
-    "¿Qué pasa si la asesoría fiscal no sigue los criterios oficiales?",
-    "¿Es posible evitar una agravante en una multa?",
-    "¿Qué se considera una infracción a las disposiciones fiscales?"
+    "¿Qué multas hay por infringir las leyes fiscales?",
+    "¿Cómo se determinan las multas por asesoría incorrecta?",
+    "¿Qué sucede si sigo un criterio diferente al de las autoridades fiscales?",
+    "¿Hay una forma de evitar las agravantes en las multas fiscales?",
+    "¿Cuánto puedo ser multado por no seguir las disposiciones fiscales?"
   ]
 }

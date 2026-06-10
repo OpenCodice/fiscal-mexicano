@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad51a6750a9d9f09",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes fiscales falsos",
+  "denominacion_comun": "Delitos fiscales relacionados con comprobantes",
   "temas": [
-    "sanciones",
-    "delitos fiscales",
     "comprobantes fiscales",
-    "Hacienda Federal",
-    "plataformas digitales",
+    "delitos fiscales",
+    "sanciones penales",
+    "daño a la Hacienda Federal",
     "servidores públicos",
-    "querella"
+    "plataformas digitales"
   ],
   "terminos_coloquiales": [
+    "facturas falsas",
     "comprobantes falsos",
-    "delito de facturas",
-    "sanciones fiscales"
+    "comprar o vender facturas",
+    "delitos fiscales",
+    "sanciones por facturas",
+    "Hacienda"
   ],
-  "resumen": "Este artículo establece sanciones de prisión para quienes expidan o adquieran comprobantes fiscales que amparen operaciones inexistentes o falsas. También menciona la responsabilidad de plataformas digitales que publiciten estos comprobantes y de servidores públicos que cometan este delito.",
+  "resumen": "Este artículo establece sanciones de prisión para quienes expidan o adquieran comprobantes fiscales falsos o que amparen operaciones inexistentes. También se penaliza a las plataformas que faciliten la compra y venta de estos comprobantes y se requiere una querella de la Secretaría de Hacienda para proceder penalmente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si compro facturas falsas?",
-    "¿Cuáles son las sanciones por emitir comprobantes fiscales falsos?",
-    "¿Este delito aplica a plataformas digitales?",
-    "¿Necesito hacer una denuncia para que se tome acción sobre este delito?",
-    "¿Un servidor público puede ser sancionado por delitos fiscales?"
+    "¿Qué sanciones hay por usar facturas falsas?",
+    "¿Qué pasa si vendo un comprobante fiscal falso?",
+    "¿Las plataformas digitales pueden ser sancionadas por publicidad de facturas?",
+    "¿A quién debo acusar si veo un anuncio de compra de facturas falsas?",
+    "¿Qué sucede si un servidor público está involucrado en la venta de comprobantes falsos?"
   ]
 }

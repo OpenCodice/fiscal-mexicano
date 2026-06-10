@@ -6,31 +6,38 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:203b5d6cdae4aed5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aseguramiento Precursorio",
+  "denominacion_comun": "Aseguramiento precautorio",
   "temas": [
-    "Aseguramiento de bienes",
-    "Contribuyentes",
-    "Adeudos fiscales",
-    "Levantamiento de aseguramiento",
-    "Actas circunstanciadas",
-    "Facultades de las autoridades fiscales",
-    "Procedimientos fiscales"
+    "medidas de apremio",
+    "adeudos fiscales",
+    "bienes asegurados",
+    "negociación",
+    "notificación",
+    "levantamiento de aseguramiento",
+    "acta circunstanciada",
+    "registros fiscales"
   ],
   "terminos_coloquiales": [
-    "Aseguramiento",
-    "Aseguramiento precautorio",
-    "Aseguramiento de bienes",
-    "CFF (Código Fiscal de la Federación)"
+    "aseguramiento de bienes",
+    "bloqueo de cuentas",
+    "productos financieros",
+    "productos de inversión",
+    "bienes inmuebles",
+    "mercancías",
+    "marbetes",
+    "depósitos bancarios",
+    "diligencias fiscales"
   ],
-  "resumen": "El artículo establece los procedimientos y condiciones bajo las cuales las autoridades fiscales pueden asegurar provisionalmente los bienes de contribuyentes y responsables solidarios por adeudos fiscales. Incluye las razones para realizar el aseguramiento y los tipos de bienes que pueden ser asegurados.",
+  "resumen": "El artículo establece las reglas para el aseguramiento precautorio de bienes de contribuyentes cuando hay adeudos fiscales presuntos. Este aseguramiento se puede realizar sobre diversos tipos de bienes y bajo ciertas condiciones, como la falta de localización del contribuyente o la aparición de riesgos de ocultamiento de bienes. También se detallan los procedimientos para levantar dicho aseguramiento.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede la autoridad fiscal asegurar mis bienes?",
-    "¿Qué pasa si no puedo ser localizado por la autoridad fiscal?",
-    "¿Cuáles son los bienes que pueden ser asegurados?",
-    "¿Cómo funciona el levantamiento del aseguramiento precautorio?",
-    "¿Qué es un acta circunstanciada en el aseguramiento de bienes?",
-    "¿Qué debo hacer si mis bienes están asegurados injustamente?"
+    "¿Qué es el aseguramiento precautorio de bienes?",
+    "¿En qué situaciones puede la autoridad fiscal asegurar mis bienes?",
+    "¿Cómo se levanta un aseguramiento precautorio?",
+    "¿Qué bienes pueden ser asegurados por la autoridad fiscal?",
+    "¿Qué debo hacer si me notifican de un aseguramiento precautorio?",
+    "¿Cuáles son las consecuencias de no poder ser localizado por la autoridad fiscal?"
   ]
 }

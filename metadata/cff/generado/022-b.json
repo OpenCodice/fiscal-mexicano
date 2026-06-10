@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dddb2c887230b8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de impuestos",
+  "denominacion_comun": "Devolución de Impuestos",
   "temas": [
-    "devolución fiscal",
-    "cuenta del contribuyente",
-    "comprobantes",
-    "plazos de devolución",
-    "suspensión de plazos"
+    "devolución de impuestos",
+    "plazo de devolución",
+    "comprobante de pago",
+    "número de cuenta",
+    "suspensión de plazo",
+    "error en cuenta"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
-    "código fiscal",
-    "comprobante de devolución",
-    "número de cuenta"
+    "regreso de impuestos",
+    "número de cuenta",
+    "estado de cuenta",
+    "comprobante de la devolución"
   ],
-  "resumen": "Las autoridades fiscales devolverán impuestos mediante depósito en la cuenta del contribuyente. Para ello, el contribuyente debe proporcionar su número de cuenta en la solicitud de devolución. Si hay problemas con la cuenta, el plazo para la devolución se suspenderá hasta que se solucione.",
+  "resumen": "Las autoridades fiscales devolverán el dinero a los contribuyentes mediante un depósito en su cuenta si proporcionan la información correcta. Si hay problemas con la cuenta, el plazo para la devolución se suspenderá hasta que se resuelvan los problemas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo solicitar la devolución de mis impuestos?",
-    "¿Qué información necesito para la devolución fiscal?",
-    "¿Qué pasa si mi cuenta bancaria está cancelada?",
-    "¿Cuándo se suspenden los plazos de devolución?",
-    "¿Qué comprobantes necesito para la devolución?"
+    "¿Cómo puedo obtener la devolución de mis impuestos?",
+    "¿Qué pasa si mi cuenta bancaria es incorrecta para la devolución?",
+    "¿Cuánto tiempo tarda la devolución de impuestos?",
+    "¿Qué documento necesito para comprobar mi devolución?",
+    "¿Qué sucede si el banco no puede hacer el depósito de la devolución?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1a0a2fafa44b4f3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones fiscales por alteración de instrumentos",
+  "denominacion_comun": "Sanciones fiscales",
   "temas": [
     "sanciones",
     "prisión",
-    "control fiscal",
-    "marbetes",
-    "mantenimiento de registros"
+    "aparatos de control",
+    "sellos y marcas oficiales",
+    "máquinas registradoras",
+    "marbetes y precintos"
   ],
   "terminos_coloquiales": [
     "sanciones fiscales",
-    "prisión por alteración",
-    "alteración de sellos",
-    "altera máquinas registradoras"
+    "prisión por delitos fiscales",
+    "aparatos fiscales",
+    "marbetes",
+    "precintos"
   ],
-  "resumen": "Este artículo pena con prisión de tres meses a seis años a quienes alteren o destruyan instrumentos fiscales, como sellos o máquinas registradoras. También se castiga a quienes tengan marbetes o precintos sin la debida autorización.",
+  "resumen": "El artículo establece sanciones de tres meses a seis años de prisión para quienes alteren o destruyan aparatos de control y marcas fiscales o enajenen marbetes sin autorización. También incluye sanciones para la alteración de máquinas registradoras.",
   "preguntas_ejemplo": [
     "¿Qué pasa si altero un sello fiscal?",
-    "¿Cuáles son las sanciones por destruir una máquina registradora?",
-    "¿Qué debo hacer si encuentro un marbete que no compré legalmente?",
-    "¿Cuánto tiempo de prisión es por alterar instrumentos fiscales?"
+    "¿Cuáles son las consecuencias de no tener marbetes legales?",
+    "¿Qué delitos fiscales pueden llevar a prisión?",
+    "¿Qué significa alterar una máquina registradora?",
+    "¿Cuánto tiempo de prisión podría enfrentar por alterar un aparato de control?"
   ]
 }

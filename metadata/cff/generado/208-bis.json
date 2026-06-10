@@ -6,17 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derogación del Artículo 208 Bis",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido eliminado de la legislación, por lo que ya no tiene efecto legal.",
+  "temas": [
+    "derogación",
+    "artículo fiscal",
+    "CFF",
+    "disposición legal"
+  ],
+  "terminos_coloquiales": [
+    "se derogó",
+    "ya no aplica"
+  ],
+  "resumen": "El Artículo 208 Bis del Código Fiscal de la Federación ha sido derogado y ya no está en vigor. Esto significa que la disposición asociada a este artículo ya no tiene efecto legal.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 208 Bis del CFF?",
-    "¿El Artículo 208 Bis todavía es válido?",
-    "¿Dónde puedo encontrar información sobre la derogación del Artículo 208 Bis?",
-    "¿Qué implicaciones tiene la eliminación del Artículo 208 Bis?",
-    "¿Cuál es el contenido del Artículo 208 Bis antes de su derogación?"
+    "¿Qué pasó con el Artículo 208 Bis?",
+    "¿El Artículo 208 Bis todavía está vigente?",
+    "¿Cuáles son las implicaciones de la derogación del Artículo 208 Bis?",
+    "¿Qué significa que se haya derogado el Artículo 208 Bis?"
   ]
 }

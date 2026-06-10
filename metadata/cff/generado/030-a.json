@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d4c6dd9325735f06",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información contable electrónica",
+  "denominacion_comun": "Contabilidad Electrónica",
   "temas": [
-    "contabilidad electrónica",
-    "obligaciones fiscales",
-    "información de clientes",
-    "información de proveedores",
-    "prestadores de servicios",
+    "registros electrónicos",
+    "obligaciones de información",
+    "clientes y proveedores",
     "clave del RFC",
-    "organismos descentralizados",
-    "servicios de seguridad social"
+    "prestadores de servicios",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
     "contabilidad digital",
-    "reportes electrónicos",
+    "contabilidad en línea",
+    "reportar clientes",
+    "reportar proveedores",
     "RFC",
-    "registros fiscales"
+    "servicios de seguridad social"
   ],
-  "resumen": "Los contribuyentes que usen contabilidad electrónica deben proporcionar información sobre sus clientes y proveedores a las autoridades fiscales cuando se les solicite. Aquellos que operen con el público en general solo deben reportar información de proveedores.",
+  "resumen": "Los contribuyentes deben proporcionar información de su contabilidad y datos de sus clientes y proveedores a las autoridades fiscales cuando se lo soliciten. Aquellos que solo operan con el público en general deben reportar solo a sus proveedores. Además, los prestadores de servicios deben pedir datos para la clave RFC.",
   "preguntas_ejemplo": [
-    "¿Qué información debo proporcionar a las autoridades fiscales si llevo mi contabilidad electrónica?",
-    "¿Cuáles son mis obligaciones si solo hago ventas al público?",
-    "¿Los prestadores de servicios deben dar información al SAT?",
-    "¿Cómo identifican a los contribuyentes los organismos de seguridad social?",
-    "¿Qué datos necesito para formar mi clave del RFC?"
+    "¿Qué información debo enviar a la autoridad fiscal sobre mis clientes?",
+    "¿Cuáles son mis obligaciones si llevo mi contabilidad electrónicamente?",
+    "¿Qué datos necesitan los prestadores de servicios para el RFC?",
+    "Si solo vendo al público, ¿qué información debo reportar?",
+    "¿Cómo identifico a mis clientes y proveedores ante el SAT?"
   ]
 }

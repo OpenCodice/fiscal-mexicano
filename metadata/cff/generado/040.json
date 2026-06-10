@@ -6,33 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47e8971b0c004a4d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medidas de apremio fiscales",
+  "denominacion_comun": "Medidas de Apremio",
   "temas": [
-    "facultades de las autoridades fiscales",
-    "auxilio de la fuerza pública",
-    "multa",
-    "aseguramiento precautorio",
-    "desobediencia a la autoridad",
-    "documentación fiscal",
-    "contabilidad",
-    "fuerza mayor"
+    "fuerza pública",
+    "multas",
+    "aseguramiento de bienes",
+    "desobediencia a autoridad",
+    "cumplimiento de obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "medidas de apremio",
     "multas fiscales",
-    "auxilio policial fiscal",
-    "aseguramiento de bienes",
-    "Y A - 40A"
+    "respuesta de la autoridad",
+    "sanciones",
+    "apoyo de seguridad",
+    "auditoría"
   ],
-  "resumen": "Las autoridades fiscales pueden usar diversas medidas de apremio cuando los contribuyentes impiden el desarrollo de sus funciones. Esto incluye solicitar ayuda a la policía, imponer multas y asegurar bienes relacionados con las obligaciones fiscales, entre otras acciones.",
+  "resumen": "Las autoridades fiscales pueden usar medidas de apremio, como solicitar fuerza pública o imponer multas, si los contribuyentes impiden el ejercicio de sus funciones. También se puede practicar el aseguramiento de bienes en ciertos casos. No se aplican estas medidas si los contribuyentes demuestran que no pueden atender las solicitudes por razones justificadas.",
   "preguntas_ejemplo": [
-    "¿Qué medidas puede tomar la autoridad fiscal si no cumplo con mis obligaciones?",
-    "¿Qué pasa si no quiero dejar entrar a los inspectores fiscales?",
-    "¿Pueden imponerme una multa si no entrego la información solicitada?",
-    "¿Qué significa el artículo 40 del CFF?",
-    "¿Cómo puedo evitar las medidas de apremio de la autoridad fiscal?",
-    "¿En qué situaciones no se aplican las medidas de apremio?"
+    "¿Qué puede hacer la autoridad fiscal si no atiendo sus requerimientos?",
+    "¿Cuáles son las sanciones si ignoro una solicitud de información del SAT?",
+    "¿Bajo qué circunstancias se puede solicitar ayuda de la fuerza pública en asuntos fiscales?",
+    "¿Qué significa el aseguramiento de bienes por parte de la autoridad?",
+    "¿Qué debo hacer si no puedo cumplir con una solicitud de la autoridad fiscal?"
   ]
 }

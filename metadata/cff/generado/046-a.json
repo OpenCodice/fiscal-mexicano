@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5ce219af6f77d24b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazos de Comprobación Fiscal",
+  "denominacion_comun": "Plazos de visitas y revisiones fiscales",
   "temas": [
+    "plazos de comprobación",
     "visitas domiciliarias",
     "revisiones de gabinete",
-    "plazos de comprobación",
-    "suspensión de plazos"
+    "suspensión de plazos",
+    "fallecimiento del contribuyente",
+    "huelgas",
+    "solicitudes de información"
   ],
   "terminos_coloquiales": [
+    "revisión fiscal",
+    "visita de la autoridad",
     "plazo de auditoría",
-    "tiempo de revisión",
-    "comprobación fiscal",
-    "CFF"
+    "huelga",
+    "suspensión de auditoría"
   ],
-  "resumen": "El artículo establece los plazos que tienen las autoridades fiscales para concluir visitas y revisiones a los contribuyentes, así como las condiciones bajo las cuales estos plazos pueden suspenderse. Se especifica que el plazo general es de doce meses, aunque hay excepciones que pueden extenderlo hasta dos años.",
+  "resumen": "El artículo establece los plazos máximos para que las autoridades fiscales concluyan las visitas y revisiones a los contribuyentes, así como las circunstancias que pueden suspender estos plazos. Incluye plazos específicos para contribuyentes del sistema financiero y para aquellos que requieren información internacional.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tienen las autoridades fiscales para concluir una revisión?",
-    "¿Cuándo se suspenden los plazos de auditoría?",
-    "¿Qué pasa si no se concluye la revisión en el tiempo establecido?",
-    "¿Los plazos son diferentes para los contribuyentes del sistema financiero?",
-    "¿Qué sucede si interpongo un medio de defensa durante la revisión?"
+    "¿Cuánto tiempo tiene la autoridad para concluir una revisión fiscal?",
+    "¿En qué casos se pueden suspender los plazos de auditoría?",
+    "¿Qué sucede si no notifican el resultado de la revisión en el tiempo establecido?",
+    "¿Qué pasa si hay una huelga durante la revisión fiscal?",
+    "¿Qué implica el fallecimiento del contribuyente para los plazos de auditoría?",
+    "¿Cuáles son las circunstancias que pueden aumentar el plazo de las visitas fiscales?"
   ]
 }

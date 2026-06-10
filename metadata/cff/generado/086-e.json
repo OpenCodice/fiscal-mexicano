@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ecf23aa085fdc511",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones en bebidas alcohólicas y tabacos",
+  "denominacion_comun": "Infracciones en el control de bebidas y tabacos",
   "temas": [
     "infracciones",
     "control físico",
@@ -16,21 +17,24 @@
     "cerveza",
     "bebidas refrescantes",
     "tabacos labrados",
-    "Ley del Impuesto Especial sobre Producción y Servicios"
+    "producción",
+    "envasado"
   ],
   "terminos_coloquiales": [
-    "infracciones de bebidas",
-    "infracciones de tabacos",
+    "infracciones",
+    "bebidas alcohólicas",
+    "cerveza",
+    "refrescos",
+    "tabacos",
     "control de producción",
-    "INEGI"
+    "control volumétrico"
   ],
-  "resumen": "Se consideran infracciones para los fabricantes y productores de bebidas alcohólicas y tabacos no llevar el control físico adecuado o hacerlo de forma incorrecta, conforme a la ley correspondiente.",
+  "resumen": "El artículo establece que los fabricantes y productores de bebidas alcohólicas, cerveza, refrescos y tabacos pueden incurrir en infracciones si no mantienen el control físico adecuado según la ley. También se menciona que las infracciones incluyen no llevar los controles volumétricos requeridos.",
   "preguntas_ejemplo": [
-    "¿Qué infracciones están relacionadas con bebidas alcohólicas?",
-    "¿Qué debo hacer para llevar el control físico de bebidas refrescantes?",
-    "¿Cuáles son las consecuencias de no llevar el control adecuado de tabacos labrados?",
-    "¿Qué dice la ley sobre las infracciones en la producción de cerveza?",
-    "¿Cuáles son las obligaciones de los productores de bebidas alcohólicas según la ley?",
-    "¿Cómo se define el control volumétrico en bebidas?"
+    "¿Qué infracciones existen para los productores de cerveza?",
+    "¿Qué controles debo llevar si envaso bebidas alcohólicas?",
+    "¿Cuáles son las consecuencias de no tener control físico de tabacos?",
+    "¿Qué regula el artículo 19 sobre bebidas refrescantes?",
+    "¿Qué pasa si no sigo las normas de control de producción en bebidas?"
   ]
 }

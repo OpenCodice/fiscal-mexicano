@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6fd8705d25d39292",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facultades de comprobación",
+  "denominacion_comun": "Facultades de Comprobación",
   "temas": [
-    "autoridades fiscales",
-    "comprobación",
-    "incumplimiento",
-    "contribuciones omitidas",
+    "incumplimiento fiscal",
+    "determinación de contribuciones",
     "oficio de observaciones",
-    "documentación",
+    "documentación fiscal",
     "responsable solidario"
   ],
   "terminos_coloquiales": [
-    "comprobación fiscal",
-    "oficio de observaciones",
-    "incumplimiento fiscal"
+    "revisión fiscal",
+    "multas",
+    "avisos de la autoridad",
+    "documentos fiscales"
   ],
-  "resumen": "Las autoridades fiscales pueden detectar incumplimientos y determinar las contribuciones omisas mediante resoluciones. Si conocen hechos que pueden implicar incumplimiento, informarán al contribuyente para que presente documentación que aclare la situación.",
+  "resumen": "Las autoridades fiscales pueden detectar incumplimientos a las disposiciones fiscales y determinar las contribuciones que no se han pagado. Si encuentran evidencias de incumplimiento, deben notificar al contribuyente para que este tenga la oportunidad de presentar pruebas que desmientan las acusaciones.",
   "preguntas_ejemplo": [
-    "¿Qué pueden hacer las autoridades fiscales si detectan un incumplimiento?",
-    "¿Qué es un oficio de observaciones?",
-    "¿Cómo puedo defenderme de un incumplimiento señalado por la autoridad fiscal?",
-    "¿Qué acciones debo tomar si recibo un oficio de observaciones?",
-    "¿Cuáles son las facultades de comprobación de la autoridad fiscal?",
-    "¿Qué ocurre si no presento la documentación requerida?"
+    "¿Qué pasa si la autoridad fiscal encuentra errores en mis impuestos?",
+    "¿Me pueden notificar si hay problemas con mis contribuciones?",
+    "¿Qué debo hacer si recibo un oficio de observaciones de la autoridad fiscal?",
+    "¿Cómo puedo defenderme de un incumplimiento fiscal señalado por la autoridad?",
+    "¿Cuáles son mis derechos si me están revisando mis documentos fiscales?"
   ]
 }

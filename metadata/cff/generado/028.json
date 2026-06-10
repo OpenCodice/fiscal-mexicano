@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:076514b7b9437a22",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Contabilidad Fiscal",
   "temas": [
-    "Libros contables",
-    "Registros fiscales",
-    "Controles volumétricos",
-    "Hidrocarburos",
-    "Documentación comprobatoria",
-    "Requerimientos informáticos"
+    "registros contables",
+    "controles volumétricos",
+    "hidrocarburos",
+    "certificados de operación",
+    "documentación comprobatoria",
+    "medios electrónicos",
+    "información contable"
   ],
   "terminos_coloquiales": [
-    "Contabilidad",
-    "CFF",
-    "Reglamento del CFF",
-    "Controles volumétricos"
+    "llevar la contabilidad",
+    "registros fiscales",
+    "contabilidad de hidrocarburos",
+    "reportes de volumen",
+    "sistema de registro contable",
+    "SAT",
+    "certificados de funcionamiento"
   ],
-  "resumen": "Este artículo detalla las obligaciones de contabilidad para personas sujetas a disposiciones fiscales, incluyendo la obligación de llevar registros contables y, en el caso de empresas relacionadas con hidrocarburos, de contar con controles volumétricos. También señala que deben generar reportes de información de forma periódica y cumplir con requisitos específicos establecidos por el SAT.",
+  "resumen": "El artículo establece las obligaciones de las personas que deben llevar contabilidad, incluyendo la documentación e información necesaria. También se menciona la importancia de controles volumétricos para aquellos que manejan hidrocarburos y la necesidad de asegurar el correcto funcionamiento de sistemas informáticos para este propósito.",
   "preguntas_ejemplo": [
-    "¿Qué es lo que debo incluir en mi contabilidad fiscal?",
-    "¿Qué documentos necesito para cumplir con la normativa de hidrocarburos?",
-    "¿Cómo llevo registros volumétricos de mis operaciones?",
-    "¿Cuáles son los requisitos para mis libros contables?",
-    "¿Qué información debo reportar al SAT mensualmente?"
+    "¿Qué debo incluir en mi contabilidad según la ley?",
+    "¿Cómo debo llevar mis registros de hidrocarburos?",
+    "¿Cuáles son las obligaciones fiscales para la contabilidad electrónica?",
+    "¿Qué información debo reportar al SAT cada mes?",
+    "¿Qué certificados necesito para mis equipos de contabilidad?",
+    "¿Qué son los controles volumétricos y cómo se llevan?"
   ]
 }

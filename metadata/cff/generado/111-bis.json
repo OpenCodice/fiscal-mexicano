@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8c34005679c5726",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por controles volumétricos de hidrocarburos",
+  "denominacion_comun": "Sanciones por Hidrocarburos",
   "temas": [
-    "sanciones penales",
-    "controles volumétricos",
+    "sanciones",
     "hidrocarburos",
     "petrolíferos",
-    "falsificación de registros",
+    "controles volumétricos",
+    "certificados",
+    "comprobantes fiscales",
     "procedencia ilícita"
   ],
   "terminos_coloquiales": [
     "sanciones por hidrocarburos",
-    "delito de hidrocarburos",
+    "sanciones a petrolíferos",
     "controles de volumen",
-    "sanción por falsificación",
-    "procedencia ilícita"
+    "certificados de operación",
+    "comprobantes fiscales falsos",
+    "venta de hidrocarburos",
+    "delitos fiscales"
   ],
-  "resumen": "Se establecen sanciones de prisión para aquellos que no cumplan con los controles volumétricos de hidrocarburos, alteren registros o comercialicen productos de procedencia ilícita. Además, se requiere una querella de la Secretaría de Hacienda para proceder penalmente.",
+  "resumen": "El artículo establece sanciones penales que van de 3 a 12 años de prisión para quienes no cumplan con las regulaciones sobre controles volumétricos de hidrocarburos y petrolíferos, así como para quienes enajenen productos de procedencia ilícita. También menciona la falsificación de certificados y comprobantes fiscales relacionados.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no tengo los controles volumétricos de hidrocarburos?",
-    "¿Cuáles son las sanciones por falsificar registros de hidrocarburos?",
-    "¿Qué significa enajenar hidrocarburos de procedencia ilícita?",
-    "¿Qué debo hacer si tengo un problema con los controles volumétricos?",
-    "¿Cómo se determina la procedencia ilícita de los hidrocarburos?"
+    "¿Cuáles son las sanciones por vender petrolíferos sin permiso?",
+    "¿Qué implica la falsificación de comprobantes fiscales en la venta de hidrocarburos?",
+    "¿Cómo se determina la procedencia ilícita de hidrocarburos?",
+    "¿Qué debo hacer si mis registros de volumen no coinciden?",
+    "¿Cuáles son los requisitos fiscales para los comprobantes de compra de hidrocarburos?"
   ]
 }

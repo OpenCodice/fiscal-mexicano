@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1c3d23acea3c1058",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compensación de Acreditamientos",
+  "denominacion_comun": "Compensación de adeudos fiscales",
   "temas": [
     "compensación",
     "devolución",
     "recargos",
-    "saldos a favor",
+    "contribuyentes",
     "impuestos",
-    "obligaciones fiscales",
-    "notificaciones"
+    "facultades de comprobación",
+    "saldo a favor",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "compensación de impuestos",
     "devolución de impuestos",
-    "recargos por compensación",
-    "saldos a favor",
-    "SAT"
+    "saldo a favor",
+    "impuestos a pagar",
+    "avisos de compensación"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden compensar saldos a favor contra adeudos propios de un mismo impuesto. Además, se detalla el proceso para solicitar devoluciones y las condiciones bajo las cuales se puede hacer la compensación.",
+  "resumen": "Este artículo establece que los contribuyentes pueden compensar los saldos a favor que tengan contra sus adeudos fiscales, siempre que sean del mismo impuesto. Además, se detalla el procedimiento para solicitar la devolución de lo que les corresponde después de la compensación y las limitaciones que existen en este proceso.",
   "preguntas_ejemplo": [
     "¿Cómo puedo compensar mis impuestos?",
-    "¿Qué debo hacer si tengo un saldo a favor?",
-    "¿Cuáles son los requisitos para solicitar una devolución?",
-    "¿Qué sucede si hago una compensación indebida?",
-    "¿El SAT me notifica sobre compensaciones?"
+    "¿Qué documentos necesito para solicitar la compensación?",
+    "¿Puedo devolver impuestos si ya compensé?",
+    "¿Hay plazos para presentar el aviso de compensación?",
+    "¿Qué hacer si la compensación no procede?"
   ]
 }

@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8c48be629c79162",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Revisiones Electrónicas",
   "temas": [
-    "Facultades de comprobación",
-    "Resolución provisional",
-    "Regularización de contribuciones",
-    "Buzón tributario",
-    "Plazos de revisión",
-    "Multas",
-    "Información adicional"
+    "resolución provisional",
+    "irregularidades fiscales",
+    "preliquidación",
+    "plazos de respuesta",
+    "documentación tributaria",
+    "buzón tributario",
+    "créditos fiscales",
+    "sanciones fiscales"
   ],
   "terminos_coloquiales": [
-    "Revisión electrónica",
-    "Resolución provisional",
-    "Regularización de impuestos",
-    "Buzón tributario"
+    "revisión fiscal",
+    "notificación de irregularidades",
+    "rescatar situación fiscal",
+    "pago de impuestos omitidos",
+    "multa del 20%",
+    "días hábiles para responder"
   ],
-  "resumen": "El artículo establece cómo se llevarán a cabo las revisiones electrónicas por parte de las autoridades fiscales, incluyendo la notificación de resoluciones provisionales y plazos para que los contribuyentes puedan responder y regularizar su situación fiscal. Se menciona también el uso del buzón tributario para notificaciones.",
+  "resumen": "El artículo establece el procedimiento para realizar revisiones electrónicas a los contribuyentes, incluyendo el proceso de notificación de irregularidades y la opción de corregir la situación fiscal mediante el pago de contribuciones omitidas. También se especifican los plazos para responder y las consecuencias de no hacerlo.",
   "preguntas_ejemplo": [
-    "¿Cómo funcionan las revisiones electrónicas de la autoridad fiscal?",
-    "¿Qué debo hacer si recibo una resolución provisional?",
-    "¿Cuánto tiempo tengo para responder a una revisión electrónica?",
-    "¿Qué sanciones hay si no regularizo mis contribuciones?",
-    "¿Qué es el buzón tributario y cómo lo uso?",
-    "¿Puedo corregir mi situación fiscal después de una revisión?"
+    "¿Qué pasa si recibo una notificación de irregularidades fiscales?",
+    "¿Cuánto tiempo tengo para responder a una revisión fiscal?",
+    "¿Qué es una resolución provisional en el contexto de la revisión electrónica?",
+    "¿Qué significa aceptar los hechos en una revisión fiscal?",
+    "¿Puedo corregir mi situación fiscal después de recibir una notificación?",
+    "¿Qué pasa si no respondo a la solicitud de información de la autoridad?"
   ]
 }

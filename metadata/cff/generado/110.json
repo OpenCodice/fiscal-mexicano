@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2244d88db1ca68a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por incumplimiento en el RFC",
+  "denominacion_comun": "Sanciones en el RFC",
   "temas": [
     "inscripción en el RFC",
-    "falsedad en datos",
-    "uso indebido del RFC",
-    "suplantación de identidad",
+    "sanciones fiscales",
+    "identidad de contribuyentes",
+    "buzón tributario",
     "cambio de domicilio fiscal"
   ],
   "terminos_coloquiales": [
-    "sanciones fiscales",
-    "incumplimiento RFC",
-    "suplantación",
-    "omisión de inscripción",
-    "RFC"
+    "Registro Federal de Contribuyentes",
+    "sanciones por no registrarse",
+    "sanciones por datos falsos",
+    "buzón tributario",
+    "cambio de domicilio",
+    "suplantación de identidad"
   ],
-  "resumen": "El artículo establece sanciones que van de tres meses a tres años de prisión para quienes no se inscriban en el registro federal de contribuyentes, proporcionen información falsa, usen múltiples claves del RFC, alteren información del buzón tributario, o suplan la identidad de un contribuyente. También contempla excepciones si se subsana la omisión antes de ser descubiertos por la autoridad fiscal.",
+  "resumen": "Este artículo establece las sanciones, que van de tres meses a tres años de prisión, para quienes omitan registrarse en el RFC, proporcionen información falsa, usen múltiples claves del RFC o suplantan identidades. También se considera la falta de aviso por cambio de domicilio fiscal como una infracción grave.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me inscribo en el RFC a tiempo?",
-    "¿Cuáles son las consecuencias de dar información falsa al RFC?",
-    "¿Qué es la suplantación de identidad en el contexto fiscal?",
-    "¿Qué debo hacer si cambio de domicilio fiscal?",
-    "¿Qué sanciones puedo enfrentar por no presentar mi aviso de cambio de domicilio?"
+    "¿Qué pasa si no me registro en el RFC?",
+    "¿Qué sanciones hay por dar información falsa al RFC?",
+    "¿Qué sucede si cambio de domicilio y no aviso al RFC?",
+    "¿Está penado suplantar la identidad de un contribuyente?",
+    "¿Cuáles son las consecuencias de no presentar el aviso de cambio de domicilio en el RFC?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eec289e767761cef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
     "revelación de esquemas",
     "declaración informativa",
+    "Servcio de Administración Tributaria",
     "sanciones",
+    "esquemas personalizables",
+    "plazos de revelación",
     "identificación de esquemas"
   ],
   "terminos_coloquiales": [
-    "esquemas fiscales",
-    "reportes al SAT",
-    "ESR",
-    "declaración de esquemas"
+    "esquemas de impuestos",
+    "declaración de impuestos",
+    "SAT",
+    "reveleción de esquemas fiscales"
   ],
-  "resumen": "Los asesores fiscales y contribuyentes deben revelar esquemas reportables al SAT en un tiempo específico. La información presentada no implica aceptación de los efectos fiscales y puede ser usada para investigaciones bajo ciertas condiciones.",
+  "resumen": "Este artículo regula la revelación de esquemas reportables por parte de asesores fiscales y contribuyentes. Establece plazos para la presentación de información y las condiciones bajo las cuales el Servicio de Administración Tributaria debe manejar esta información.",
   "preguntas_ejemplo": [
-    "¿Qué son los esquemas reportables?",
-    "¿Cómo se deben revelar los esquemas al SAT?",
-    "¿Cuánto tiempo tengo para informar sobre un esquema reportable?",
-    "¿Qué sucede si no revelo un esquema reportable?",
-    "¿Qué información se necesita para la declaración informativa?",
-    "¿Qué sanciones hay por no cumplir con la revelación?"
+    "¿Qué son los esquemas reportables en impuestos?",
+    "¿Cómo se presenta una declaración informativa de un esquema reportable?",
+    "¿Qué pasa si no revelo un esquema reportable a tiempo?",
+    "¿Cuál es el plazo para reportar un esquema personalizado?",
+    "¿Qué información me puede solicitar el SAT sobre un esquema reportable?",
+    "¿Qué sanciones existen por no cumplir con la revelación de esquemas?"
   ]
 }

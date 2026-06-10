@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1564945425eec801",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes por la autoridad fiscal",
+  "denominacion_comun": "Embargo de bienes",
   "temas": [
-    "embargo",
     "créditos exigibles",
-    "depósitos bancarios",
+    "embargo",
     "bienes inmuebles",
     "bienes intangibles",
-    "valores mobiliarios"
+    "depósitos bancarios",
+    "valores mobiliarios",
+    "notificación de embargo",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
-    "embargo fiscal",
-    "buzón tributario",
-    "créditos de fácil cobro",
-    "valores",
-    "embargo de bienes"
+    "embargo",
+    "notificación de embargo",
+    "dudas sobre embargos",
+    "bienes embargados"
   ],
-  "resumen": "La autoridad fiscal puede embargar bienes del contribuyente como depósitos bancarios, bienes inmuebles y valores, notificando el embargo a través de diversos medios. Se deben seguir procedimientos específicos una vez que se notifica el embargo.",
+  "resumen": "La autoridad fiscal puede embargar bienes de un contribuyente para satisfacer créditos exigibles. Este embargo puede incluir depósitos bancarios, bienes inmuebles, y valores mobiliarios, y se notifica al deudor a través de diferentes medios como buzón tributario o edictos.",
   "preguntas_ejemplo": [
-    "¿Qué bienes puede embargar la autoridad fiscal?",
-    "¿Cómo se notifica un embargo al contribuyente?",
-    "¿Qué es el buzón tributario en el proceso de embargo?",
-    "¿Cuáles son los créditos exigibles que se pueden embargar?",
-    "¿Qué significa la declaratoria de embargo?"
+    "¿Qué puede embargar la autoridad fiscal?",
+    "¿Cómo se notifica un embargo?",
+    "¿Cuáles son los bienes que pueden ser objeto de embargo?",
+    "¿Qué sucede después de la notificación del embargo?",
+    "¿Qué es un embargo de bienes intangibles?"
   ]
 }

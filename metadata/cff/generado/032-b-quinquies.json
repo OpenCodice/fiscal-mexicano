@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:736615ac23c6bee1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Beneficiarios Controladores",
   "temas": [
     "personas morales",
+    "fiduciarias",
     "fideicomisos",
     "actualización de información",
-    "beneficiarios controladores",
-    "modificaciones",
-    "responsabilidades",
-    "reglas generales"
+    "modificaciones de beneficiarios"
   ],
   "terminos_coloquiales": [
     "beneficiarios controladores",
-    "actualización de beneficiarios",
-    "información fiscal"
+    "fideicomisos",
+    "personas morales",
+    "cambio de beneficiarios"
   ],
-  "resumen": "Las entidades como personas morales y fiduciarias deben mantener actualizada la información sobre los beneficiarios controladores. Si hay cambios en estos beneficiarios, tienen un plazo de quince días para hacer la actualización.",
+  "resumen": "Las personas morales y fiduciarias deben mantener actualizada la información sobre los beneficiarios controladores. Si hay cambios en la identidad o participación de estos beneficiarios, deben actualizarla en un plazo de quince días.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si cambian los beneficiarios de un fideicomiso?",
-    "¿Cuánto tiempo tengo para actualizar la información de beneficiarios controladores?",
-    "¿Qué entidades están obligadas a informar sobre beneficiarios controladores?",
-    "¿Qué pasa si no actualizo la información de mis beneficiarios?",
-    "¿El SAT emite reglas sobre los beneficiarios controladores?"
+    "¿Qué son los beneficiarios controladores?",
+    "¿Cómo actualizo la información de mis beneficiarios?",
+    "¿Qué plazo tengo para informar cambios en beneficiarios?",
+    "¿A quién se le aplica esto de los beneficiarios controladores?",
+    "¿Qué pasa si no actualizo mis beneficiarios a tiempo?"
   ]
 }

@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7a5b4bdceb7386b8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones contables",
+  "denominacion_comun": "Infracciones por no llevar contabilidad",
   "temas": [
-    "Contabilidad",
-    "Comprobantes fiscales",
-    "Obligaciones fiscales",
-    "Registros contables",
-    "Inventarios",
-    "Donativos deducibles",
-    "Máquinas registradoras"
+    "contabilidad",
+    "comprobantes fiscales digitales",
+    "obligaciones fiscales",
+    "valores de inventarios",
+    "estado financiero",
+    "donativos deducibles",
+    "operaciones inexistentes",
+    "partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "Infracciones contables",
-    "Infracciones fiscales",
-    "CFF",
-    "Comprobantes digitales",
-    "CDI",
-    "Contabilidad no regulada"
+    "llevar contabilidad",
+    "libros contables",
+    "comprobantes fiscales",
+    "CFDI",
+    "incumplir obligaciones fiscales",
+    "dictaminar estados financieros",
+    "donativos",
+    "operaciones ficticias"
   ],
-  "resumen": "El Artículo 83 establece diversas infracciones relacionadas con la obligación de llevar contabilidad, como no llevarla, no registrar operaciones correctamente, o expedir comprobantes fiscales sin cumplir requisitos. Estas infracciones pueden ser detectadas por las autoridades durante sus facultades de comprobación.",
+  "resumen": "Este artículo detalla las infracciones relacionadas con la obligación de llevar contabilidad y las consecuencias por el incumplimiento de las normas fiscales. Se especifica la obligación de emitir comprobantes fiscales digitales y conservar la contabilidad disponible para las autoridades. También se mencionan sanciones por la emisión de comprobantes que validen operaciones inexistentes.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las infracciones por no llevar contabilidad?",
-    "¿Qué pasa si no expido mis comprobantes fiscales correctamente?",
-    "¿Qué infracciones pueden encontrar las autoridades en mi contabilidad?",
-    "¿Qué obligaciones tengo sobre mis registros contables?",
-    "¿Qué sucede si utilizo comprobantes fiscales de terceros?"
+    "¿Qué pasa si no llevo contabilidad?",
+    "¿Cuáles son las sanciones por no expedir CFDI?",
+    "¿Qué debo hacer si me piden un dictamen de mis estados financieros?",
+    "¿Qué infracciones se aplican por no cumplir con la contabilidad?",
+    "¿Cómo afectan los donativos deducibles a mis obligaciones fiscales?"
   ]
 }

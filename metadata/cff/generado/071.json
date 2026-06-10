@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:868d26df1981b3c4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones fiscales",
   "temas": [
     "responsabilidad",
     "infracciones",
-    "multa",
-    "cumplimiento de obligaciones"
+    "multas",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "infracciones fiscales",
+    "multas",
     "multas fiscales",
-    "responsabilidad fiscal"
+    "responsables de infracciones"
   ],
-  "resumen": "Este artículo establece que las personas que cometen infracciones fiscales o no cumplen con sus obligaciones son responsables y deben pagar multas. Si hay varios responsables, cada uno pagará la totalidad de la multa impuesta.",
+  "resumen": "El artículo establece que las personas son responsables por las infracciones fiscales que cometan, así como por no cumplir con sus obligaciones en los tiempos establecidos. Si hay varios responsables, cada uno deberá pagar el total de la multa impuesta.",
   "preguntas_ejemplo": [
-    "¿Quiénes son responsables de las infracciones fiscales?",
-    "¿Qué pasa si no cumplo con mis obligaciones fiscales?",
-    "¿Cómo se imponen las multas fiscales?",
-    "¿Tienen que pagar todos los responsables la misma multa?",
-    "¿Cuáles son las consecuencias de las infracciones fiscales?"
+    "¿Quién es responsable si cometo una infracción fiscal?",
+    "¿Qué pasa si no cumplo con mis obligaciones fiscales a tiempo?",
+    "¿Qué multas me pueden imponer por violar las disposiciones fiscales?",
+    "Si hay varias personas involucradas en una infracción, ¿tienen que pagar cada una la multa?",
+    "¿Qué se considera una infracción fiscal según el Código?"
   ]
 }

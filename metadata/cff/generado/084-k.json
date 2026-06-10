@@ -6,28 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:65b09e641e3cbf04",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones de personas morales",
+  "denominacion_comun": "Infracciones por falta de información",
   "temas": [
-    "infracciones",
+    "infracciones fiscales",
     "personas morales",
-    "información fiscal",
+    "información tributaria",
     "estados de cuenta"
   ],
   "terminos_coloquiales": [
-    "infracción fiscal",
-    "no entrega de información",
-    "Art. 84-K",
-    "Art. 84-I",
-    "Art. 32-E"
+    "no entregar informes",
+    "falta de información al SAT",
+    "infracciones de empresas"
   ],
-  "resumen": "Este artículo establece que las personas morales pueden incurrir en una infracción si no proporcionan al SAT la información de sus estados de cuenta. Es importante cumplir con esta obligación para evitar sanciones.",
+  "resumen": "El artículo establece que las personas morales pueden incurrir en una infracción si no proporcionan al SAT la información de sus estados de cuenta. Esta obligación está regulada para asegurar la correcta supervisión tributaria.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una persona moral no entrega su información al SAT?",
-    "¿Cuáles son las infracciones que pueden cometer las personas morales?",
-    "¿Qué debo entregar al SAT respecto a mis estados de cuenta?",
-    "¿Qué dice el artículo 84-K sobre las infracciones fiscales?",
-    "¿A qué artículos se refiere el artículo 84-K sobre personas morales?"
+    "¿Qué pasa si no entrego la información de mis estados de cuenta al SAT?",
+    "¿Cuáles son las infracciones por no reportar información tributaria?",
+    "¿Las empresas tienen que enviar sus estados de cuenta al SAT?"
   ]
 }

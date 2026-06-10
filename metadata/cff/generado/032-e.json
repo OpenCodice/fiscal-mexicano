@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:507f27b950889445",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información de tarjetas y monederos electrónicos",
+  "denominacion_comun": "Estados de cuenta",
   "temas": [
-    "Estados de cuenta",
-    "Tarjetas de crédito",
-    "Tarjetas de débito",
-    "Monederos electrónicos",
-    "Comprobación fiscal",
-    "Información fiscal",
-    "Entidades financieras"
+    "tarjetas de crédito",
+    "tarjetas de débito",
+    "monederos electrónicos",
+    "información fiscal",
+    "comprobación fiscal",
+    "autoridades fiscales",
+    "entidades financieras"
   ],
   "terminos_coloquiales": [
-    "Estados de cuenta",
-    "Tarjetas de crédito",
-    "Tarjetas de débito",
-    "Monedero electrónico",
+    "estados de cuenta",
+    "tarjetas de crédito",
+    "tarjetas de débito",
+    "monederos electrónicos",
     "SAT",
-    "Comprobación fiscal"
+    "comprobación fiscal"
   ],
-  "resumen": "Las personas morales que emiten tarjetas de crédito, débito o monederos electrónicos deben expedir estados de cuenta. Las autoridades fiscales pueden solicitar información de estos estados directamente a las entidades financieras cuando inician una comprobación fiscal.",
+  "resumen": "El artículo establece que las personas morales que emiten ciertos tipos de tarjetas deben expedir estados de cuenta. Además, las autoridades fiscales pueden solicitar información de estos estados de cuenta a las entidades que las emiten cuando estén en ejercicio de sus facultades de comprobación.",
   "preguntas_ejemplo": [
-    "¿Qué información deben proporcionar las tarjetas de crédito al SAT?",
-    "¿Cómo verifica el SAT los estados de cuenta de tarjetas?",
-    "¿Qué son los monederos electrónicos en términos fiscales?",
-    "¿Las tarjetas de débito también deben emitir estados de cuenta?",
-    "¿Qué puede hacer el SAT si inicia una revisión fiscal sobre un contribuyente?"
+    "¿Qué deben hacer las empresas que emiten tarjetas de crédito con sus estados de cuenta?",
+    "¿Puede el SAT pedir información sobre mis estados de cuenta?",
+    "¿Qué tipo de tarjetas están sujetas a estas disposiciones?",
+    "¿Cómo se verifica la información de los estados de cuenta por las autoridades fiscales?",
+    "¿Qué es un monedero electrónico según la ley?",
+    "¿Qué pasa si tengo una tarjeta de débito?"
   ]
 }

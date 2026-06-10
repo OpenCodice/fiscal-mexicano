@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4f44a7c82ce7022d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actualización de contribuciones",
   "temas": [
-    "monto de contribuciones",
-    "actualización de cantidades",
+    "contribuciones",
+    "aprovechamientos",
+    "devoluciones",
     "Índice Nacional de Precios al Consumidor",
-    "devoluciones fiscales",
     "factor de actualización",
-    "operaciones aritméticas",
-    "valores de bienes"
+    "ajustes monetarios",
+    "naturaleza jurídica",
+    "operaciones aritméticas"
   ],
   "terminos_coloquiales": [
     "actualización de impuestos",
-    "factor de actualización",
+    "cálculo de impuestos",
+    "ajuste de cantidades",
     "INPC",
-    "contribuciones actualizadas"
+    "devoluciones de impuestos"
   ],
-  "resumen": "Este artículo establece cómo se actualizarán las contribuciones y devoluciones fiscales en función del Índice Nacional de Precios al Consumidor. El factor de actualización se calculará con base en el índice de precios, y existen reglas específicas sobre cómo se debe llevar a cabo esta actualización.",
+  "resumen": "Este artículo establece cómo se actualizarán las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal basándose en el Índice Nacional de Precios al Consumidor. La actualización se realiza cuando el incremento acumulado supera el 10%.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan las contribuciones fiscales?",
-    "¿Qué es el Índice Nacional de Precios al Consumidor?",
-    "¿Cómo se calcula el factor de actualización?",
-    "¿Qué pasa si el monto es menor a 1?",
-    "¿Cuándo se debe hacer la actualización de devoluciones?"
+    "¿Cómo se actualizan mis impuestos?",
+    "¿Qué es el factor de actualización de contribuciones?",
+    "¿Cómo se calcula el Índice Nacional de Precios al Consumidor?",
+    "¿Qué sucede si el INPC no se publica?",
+    "¿Las cantidades actualizadas son deducibles?"
   ]
 }

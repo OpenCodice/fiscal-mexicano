@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e523c633d3e0ddf5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Incumplimiento de Declaraciones",
+  "denominacion_comun": "Omisión en la presentación de declaraciones",
   "temas": [
-    "multas por omisión",
-    "requerimientos fiscales",
-    "declaraciones periódicas",
-    "ejecución de créditos fiscales",
-    "responsabilidad solidaria",
-    "plazos de cumplimiento"
+    "multas",
+    "declaraciones",
+    "requerimientos",
+    "procedimiento administrativo",
+    "crédito fiscal",
+    "desobediencia",
+    "responsable solidario"
   ],
   "terminos_coloquiales": [
-    "declaración omitida",
-    "multa fiscal",
-    "requerimiento de información",
-    "crédito fiscal"
+    "no presentar declaraciones",
+    "multas por omitir declaraciones",
+    "requerimientos de información",
+    "declaraciones omitidas",
+    "crédito fiscal",
+    "declaraciones periódicas"
   ],
-  "resumen": "El artículo establece las consecuencias de no presentar declaraciones y reportes fiscales en los plazos establecidos, incluyendo multas y requerimientos de información. También detalla el proceso para hacer efectivo el crédito fiscal por incumplimiento.",
+  "resumen": "Este artículo establece las consecuencias de no presentar declaraciones y avisos en los plazos señalados. Las autoridades fiscales pueden imponer multas, requerir la información omisa y en ciertos casos, cobrar montos basados en declaraciones anteriores. Además, la omisión repetida puede llevar a acciones administrativas por desobediencia.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no presento mi declaración a tiempo?",
-    "¿Cuántas veces pueden requerirme la información faltante?",
-    "¿Qué multas puedo recibir por omisiones en mis declaraciones?",
-    "¿Qué debo hacer si recibo un requerimiento de la autoridad fiscal?",
-    "¿Cómo se determina el monto de la multa por no presentar una declaración?"
+    "¿Cuáles son las multas por no presentar declaraciones?",
+    "¿Qué debo hacer si recibo un requerimiento de información?",
+    "¿Cómo se calcula el monto a pagar si omito presentar una declaración?",
+    "¿Qué implica el procedimiento administrativo de ejecución?",
+    "¿Qué ocurre si no atiendo tres requerimientos de la autoridad?"
   ]
 }

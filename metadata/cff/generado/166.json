@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b67f8d408b87fd2d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Interventor Administrador",
@@ -18,17 +19,14 @@
   ],
   "terminos_coloquiales": [
     "interventor",
-    "facultades del interventor",
-    "poderes del interventor",
-    "actuación del interventor"
+    "facultades administrativas",
+    "actos de administración"
   ],
-  "resumen": "El interventor administrador tiene plenos poderes para gestionar la sociedad, incluyendo actos de dominio y administración, y no está subordinado al consejo de administración o a los socios. Además, puede actuar como dueño en negociaciones que no constituyan una sociedad.",
+  "resumen": "El interventor administrador tiene plenas facultades para administrar la sociedad, incluyendo actos de dominio y pleitos. No está sujeto a la aprobación de la asamblea o consejo de administración. También puede actuar con autoridad plena en negocios que no son sociedades.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las facultades del interventor administrador?",
-    "¿El interventor necesita la aprobación del consejo para actuar?",
-    "¿Qué puede hacer un interventor en una sociedad intervenida?",
-    "¿El interventor tiene poderes especiales?",
-    "¿Puede el interventor administrar negocios que no son sociedades?",
-    "¿Qué actos está autorizado a realizar el interventor?"
+    "¿Qué puede hacer un interventor administrador?",
+    "¿El interventor necesita permiso del consejo para actuar?",
+    "¿Cuáles son las facultades que tiene el interventor en una sociedad?",
+    "¿Qué tipo de actos puede realizar un interventor administrador?"
   ]
 }

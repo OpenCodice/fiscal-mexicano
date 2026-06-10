@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c5175b420026ecef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aprovechamientos y productos",
   "temas": [
-    "Ingresos del Estado",
-    "Aprovechamientos",
-    "Multas",
-    "Contraprestaciones",
-    "Bienes del dominio privado"
+    "ingresos del Estado",
+    "multas",
+    "sanciones",
+    "gastos de operación",
+    "servicios del Estado",
+    "bien raíz"
   ],
   "terminos_coloquiales": [
-    "Aprovechamientos",
-    "Productos",
-    "Multas"
+    "ingresos estatales",
+    "multas",
+    "recargos",
+    "sanciones",
+    "servicios públicos",
+    "productos del Estado"
   ],
-  "resumen": "El artículo describe los ingresos que percibe el Estado como aprovechamientos, que no son contribuciones. También menciona productos como contraprestaciones por servicios del Estado y el destino de las multas impuestas por infracciones no fiscales.",
+  "resumen": "El artículo define los aprovechamientos como ingresos que recibe el Estado por funciones de derecho público que no son contribuciones y explica que los recargos y sanciones son accesorios de estos ingresos. También se menciona que las multas por infracciones no fiscales pueden ser usadas para cubrir gastos de las dependencias encargadas de su aplicación, y se definen los productos como contraprestaciones por servicios prestados por el Estado.",
   "preguntas_ejemplo": [
-    "¿Qué son los aprovechamientos del Estado?",
-    "¿Cómo se clasifican los ingresos del Estado?",
-    "¿Qué se considera como productos en la ley fiscal?",
-    "¿Qué pasa con las multas impuestas por infracciones no fiscales?",
-    "¿Cómo se utilizan las multas recaudadas por el Estado?"
+    "¿Qué son los aprovechamientos en el contexto fiscal?",
+    "¿Se pueden destinar las multas a cubrir gastos del Estado?",
+    "¿Qué ingresos recibe el Estado además de impuestos?",
+    "¿Cuál es la diferencia entre aprovechamientos y productos?",
+    "¿Cómo se clasifican las multas y recargos que impone el Estado?"
   ]
 }

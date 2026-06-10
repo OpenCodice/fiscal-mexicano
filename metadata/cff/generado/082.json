@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df18031c5689d691",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones y multas fiscales",
+  "denominacion_comun": "Multas por incumplimiento fiscal",
   "temas": [
     "declaraciones",
-    "multas",
     "comprobantes fiscales",
-    "solicitudes",
     "avisos",
-    "reportes",
-    "infracciones",
-    "plazos"
+    "reportes de información",
+    "sanciones",
+    "plazos",
+    "información contable",
+    "incumplimiento"
   ],
   "terminos_coloquiales": [
-    "multas fiscales",
-    "infracciones",
-    "declaración extemporánea",
-    "CFF",
-    "comprobantes fiscales digitales",
+    "multas",
+    "declaración de impuestos",
+    "no presentar documentos",
+    "retardos",
+    "reportes",
+    "avisos a Hacienda",
+    "SAE",
     "SAT"
   ],
-  "resumen": "El artículo establece las multas que se impondrán a quienes cometan infracciones relacionadas con la presentación de declaraciones y otros documentos exigidos por las autoridades fiscales. Las multas varían dependiendo de la naturaleza de la infracción y pueden ser bastante elevadas.",
+  "resumen": "El artículo establece diversas multas que se aplican a los contribuyentes que no cumplan con sus obligaciones fiscales relacionadas con declaraciones, avisos y otros documentos ante el SAT. Las sanciones varían dependiendo del tipo de incumplimiento y su gravedad.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las multas por no presentar mi declaración a tiempo?",
-    "¿Qué pasa si no envío mis reportes al SAT?",
-    "¿Cuánto me multa el SAT por no presentar comprobantes fiscales?",
-    "¿Hay multas por errores en las declaraciones fiscales?",
-    "¿Qué infracciones están relacionadas con los comprobantes fiscales digitales?"
+    "¿Qué multas puedo recibir por no presentar mi declaración a tiempo?",
+    "¿Cuánto me pueden multar por no enviar mis reportes al SAT?",
+    "¿Qué pasa si no presento avisos a Hacienda?",
+    "¿Cuáles son las sanciones por errores en mis declaraciones?",
+    "¿Hay multas específicas por no cumplir con los requisitos de los comprobantes fiscales?",
+    "¿Qué ocurre si olvido presentar algún documento fiscal?"
   ]
 }

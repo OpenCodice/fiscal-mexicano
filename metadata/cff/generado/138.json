@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:327c2b68fd9aa4f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multa por notificación ilegal",
+  "denominacion_comun": "Multas por notificaciones ilegales",
   "temas": [
     "notificaciones",
     "multas",
-    "prácticas ilegales",
-    "salario mínimo"
+    "salario mínimo",
+    "mala práctica",
+    "Distrito Federal"
   ],
   "terminos_coloquiales": [
-    "multas por notificaciones",
-    "notificaciones ilegales",
-    "multas del notificador"
+    "multas por notificación",
+    "notificación ilegal"
   ],
-  "resumen": "Este artículo establece que si se anula una notificación hecha de manera ilegal, el notificador tendrá que pagar una multa equivalente a diez veces el salario mínimo general diario del área correspondiente.",
+  "resumen": "Si una notificación se hace de forma ilegal, la persona que la realizó deberá pagar una multa equivalente a diez veces el salario mínimo diario de la zona. Esto se aplica en el contexto del Distrito Federal.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me notifican de forma ilegal?",
-    "¿Cuánto es la multa por una notificación mal hecha?",
-    "¿Quién tiene que pagar si hay una notificación ilegal?",
-    "¿Qué implica dejar sin efectos una notificación?"
+    "¿Qué pasa si me notifican algo de forma ilegal?",
+    "¿Cuánto tengo que pagar si realizo una notificación incorrecta?",
+    "¿Qué es una notificación ilegal?",
+    "¿Cuáles son las consecuencias de una mala práctica en notificaciones?",
+    "¿Dónde se aplica esta multa?"
   ]
 }

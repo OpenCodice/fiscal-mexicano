@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33fc0441e85f48a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cumplimiento espontáneo de obligaciones fiscales",
+  "denominacion_comun": "Multas y omisiones fiscales",
   "temas": [
-    "multas fiscales",
-    "obligaciones fiscales",
+    "multas",
+    "infracciones fiscales",
+    "cumplimiento de obligaciones",
     "fuerza mayor",
     "caso fortuito",
-    "omisión de contribuciones",
-    "autoridades fiscales",
-    "determinación de contribuciones"
+    "contribuciones omitidas",
+    "responsabilidad de funcionarios"
   ],
   "terminos_coloquiales": [
-    "cumplimiento fiscal espontáneo",
-    "multas por omisiones",
-    "obligaciones fuera de plazo",
-    "SAT"
+    "multas fiscales",
+    "infracciones",
+    "omisión de pago",
+    "cumplimiento tardío",
+    "pago de impuestos",
+    "cargos por omisiones"
   ],
-  "resumen": "No se sancionará a los contribuyentes que cumplan sus obligaciones fiscales de forma espontánea, incluso si lo hacen fuera de los plazos establecidos, a menos que la omisión sea descubierta por las autoridades o corregida tras una notificación. En ciertos casos, los accesorios de las omisiones son responsabilidad de funcionarios públicos o notarios.",
+  "resumen": "El artículo establece que no se imponen multas si las obligaciones fiscales se cumplen de forma espontánea, incluso si es después de los plazos. Sin embargo, si las omisiones son descubiertas por las autoridades fiscales o se corrigen solo después de notificaciones, no se considera cumplimiento espontáneo. Además, hay clausulas sobre quién es responsable en caso de omisiones específicas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago mis impuestos a tiempo?",
-    "¿Me pueden multar si regularizo mi situación fiscal después de la fecha límite?",
-    "¿Cuáles son las consecuencias de no cumplir con mis obligaciones fiscales?",
-    "¿Qué es el cumplimiento espontáneo en fiscalización?",
-    "¿Cómo afecta la fuerza mayor a las multas fiscales?",
-    "¿Quién es responsable de pagar los accesorios por omisiones fiscales?"
+    "¿Cuándo no me pueden multar por presentar mis impuestos tarde?",
+    "¿Qué pasa si incumplo mis obligaciones fiscales por fuerza mayor?",
+    "¿Quién paga las multas si hay omisiones en mis contribuciones?",
+    "¿Qué significa cumplimiento espontáneo en el pago de impuestos?",
+    "¿Las multas se aplican si corrijo mi omisión después de una visita fiscal?"
   ]
 }

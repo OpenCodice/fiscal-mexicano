@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f4e20bd76fd16070",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Causación de contribuciones",
+  "denominacion_comun": "Causación y pago de contribuciones",
   "temas": [
     "Contribuciones",
-    "Causación",
-    "Determinación",
-    "Pago",
-    "Declaración",
-    "Retención",
-    "Procedimiento fiscal",
-    "Obligaciones de los contribuyentes"
+    "Determinación de contribuciones",
+    "Plazos de pago",
+    "Retenciones",
+    "Declaraciones",
+    "Información a autoridades",
+    "Opciones de cumplimiento"
   ],
   "terminos_coloquiales": [
-    "Cómo se causan las contribuciones",
-    "Pago de impuestos",
-    "Declaración de impuestos",
-    "Retenciones fiscales"
+    "impuestos",
+    "pago de impuestos",
+    "declaración de impuestos",
+    "retenedores",
+    "créditos fiscales",
+    "recibo de impuestos",
+    "plazo de pago"
   ],
-  "resumen": "Las contribuciones se causan según las situaciones previstas en las leyes fiscales vigentes en el momento de su ocurrencia. Los contribuyentes son responsables de determinar sus contribuciones y deben pagar en el plazo señalado por las leyes respectivas.",
+  "resumen": "Las contribuciones se causan al realizar situaciones jurídicas o de hecho, y deben pagarse en las fechas establecidas. Los contribuyentes son responsables de determinar sus contribuciones y deben presentar la información necesaria a las autoridades fiscales en un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Cuándo se deben pagar las contribuciones?",
-    "¿Cómo se determinan las contribuciones a cargo de un contribuyente?",
-    "¿Qué pasa si no se retiene la contribución correspondiente?",
-    "¿Qué documentos necesito para hacer un pago de créditos fiscales?",
-    "¿Puedo cambiar la opción elegida para cumplir mis obligaciones fiscales?"
+    "¿Cuándo se causan los impuestos?",
+    "¿Cómo y cuándo se debe pagar el impuesto?",
+    "¿Qué es la retención de contribuciones?",
+    "¿Qué debo hacer si soy retenedor?",
+    "¿Qué documentos necesito para pagar créditos fiscales?",
+    "¿Puedo cambiar la opción de cumplimiento fiscal durante el año?"
   ]
 }

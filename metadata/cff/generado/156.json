@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7833be991490d2b2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Señalamiento de bienes",
   "temas": [
-    "ejecutor",
-    "bienes",
     "embargo",
+    "bienes",
+    "diligencias",
+    "ejecutor",
     "gravamen",
-    "diligencia",
-    "deudor",
-    "acta"
+    "copropiedad",
+    "sociedad conyugal"
   ],
   "terminos_coloquiales": [
-    "embargo de bienes",
+    "embargo",
+    "señalar bienes",
+    "bienes embargables",
     "ejecutor",
-    "graban bienes",
-    "bienes embargados"
+    "acta de embargo"
   ],
-  "resumen": "El ejecutor puede señalar bienes sin seguir un orden estricto si el deudor no proporciona bienes suficientes o señala bienes no adecuados. Además, debe asegurarse de que los bienes seleccionados sean fáciles de vender o realizar.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales un ejecutor puede señalar bienes para el embargo, evitando el orden habitual si ciertos criterios no se cumplen. Se mencionan también las obligaciones del deudor respecto a los bienes que se van a embargar.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer el ejecutor si el deudor no señala bienes suficientes?",
-    "¿Cuáles son los tipos de bienes que se pueden embargar?",
-    "¿Qué información debe proporcionar el deudor sobre los bienes?",
-    "¿Qué sucede si los bienes están en copropiedad?",
-    "¿Cuánto tiempo tiene el deudor para acreditar la situación de los bienes?"
+    "¿Qué bienes puede señalar un ejecutor?",
+    "¿Cuándo puede un ejecutor ignorar el orden de señalamiento de bienes?",
+    "¿Qué información debe proporcionar el deudor sobre sus bienes?",
+    "¿Qué sucede si el deudor no señala bienes suficientes?",
+    "¿Cuáles son las características de los bienes que se pueden embargar?",
+    "¿Qué es un gravamen real y cómo afecta al embargo?"
   ]
 }

@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5111eee259b53b4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revisión de dictamen fiscal",
+  "denominacion_comun": "Revisión de dictámenes fiscales",
   "temas": [
     "facultades de comprobación",
     "contador público",
-    "dictamen",
-    "información fiscal",
+    "dictamen fiscal",
+    "papeles de trabajo",
+    "cumplimiento fiscal",
     "auditoría",
-    "requerimiento de información"
+    "revisión electrónica",
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "revisión de dictamen",
+    "revisión de dictámenes",
+    "dictamen del contador",
     "auditoría fiscal",
-    "fiscalización",
-    "CFF",
-    "Código Fiscal de la Federación"
+    "papeles de trabajo",
+    "facultades de revisión",
+    "certificado de sello digital"
   ],
-  "resumen": "Este artículo establece el procedimiento que deben seguir las autoridades fiscales para revisar dictámenes emitidos por contadores públicos. Se detalla la información que se puede solicitar y las condiciones bajo las cuales se pueden ejercer facultades de comprobación sobre el contribuyente.",
+  "resumen": "Este artículo regula cómo las autoridades fiscales deben llevar a cabo la revisión de dictámenes y la información presentada por el contador público. Se establecen procedimientos específicos para requerir información y los plazos para la presentación de documentos.",
   "preguntas_ejemplo": [
     "¿Cómo se revisan los dictámenes fiscales?",
-    "¿Qué información puede pedir la autoridad al contador público?",
-    "¿Cuáles son las facultades de comprobación de las autoridades fiscales?",
-    "¿Qué pasa si la información del dictamen es incompleta?",
-    "¿Cuáles son las condiciones para no seguir el orden de revisión?"
+    "¿Qué información debe presentar el contador público para la revisión?",
+    "¿Cuáles son los plazos para exhibir los papeles de trabajo?",
+    "¿Qué sucede si no se presenta la información requerida?",
+    "¿Las autoridades fiscales pueden pedir información a terceros?"
   ]
 }

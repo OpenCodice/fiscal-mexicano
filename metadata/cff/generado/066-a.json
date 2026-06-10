@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76be37fca7e11d57",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de Pago a Plazos",
+  "denominacion_comun": "Autorización de pago a plazos",
   "temas": [
     "pagos a plazos",
-    "parcialidades",
+    "partialidades",
     "recargos",
     "garantía del interés fiscal",
-    "revocación de autorización",
     "contribuciones omitidas",
-    "deuda fiscal"
+    "revocación de autorización",
+    "moneda",
+    "proceso administrativo"
   ],
   "terminos_coloquiales": [
     "pago a plazos",
-    "pago en parcialidades",
-    "garantía fiscal",
-    "recargos por prórroga",
-    "autorización de pago"
+    "cuotas",
+    "recargos",
+    "interés fiscal",
+    "garantía",
+    "no pago",
+    "deuda fiscal"
   ],
-  "resumen": "Este artículo establece los lineamientos para que los contribuyentes puedan solicitar autorización para pagar sus deudas fiscales en parcialidades o de forma diferida. También se indica cómo deben ser calculadas las parcialidades y las consecuencias de no cumplir con los pagos.",
+  "resumen": "Este artículo regula la autorización para pagar contribuciones a plazos, detallando cómo deben calcularse las parcialidades y qué sucede si no se realizan los pagos a tiempo. También establece las condiciones bajo las cuales se puede revocar esta autorización.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar mis impuestos en parcialidades?",
-    "¿Qué pasa si no cumplo con mis pagos a plazos?",
-    "¿Necesito garantía del interés fiscal para pagar a plazos?",
-    "¿Cuáles son las consecuencias si me retraso en mi pago parcial?",
-    "¿Qué sucede si hago pagos de contribuciones retenidas?",
-    "¿Puedo obtener autorización para pagar a plazos mis deudas fiscales?"
+    "¿Cómo puedo pagar mis impuestos a plazos?",
+    "¿Qué pasa si no pago a tiempo mis cuotas?",
+    "¿Qué es la garantía del interés fiscal?",
+    "¿Puedo solicitar un pago a plazos si tengo deudas anteriores?",
+    "¿Qué recargos aplican si no pago mis parcialidades?",
+    "¿Cuáles son las condiciones para que se revoque mi autorización de pago a plazos?"
   ]
 }

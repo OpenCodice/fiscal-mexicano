@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9e83afda252a741b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Remate de bienes muebles",
   "temas": [
+    "oferentes",
     "remate",
-    "bienes muebles",
     "transferencia electrónica",
     "comprobantes fiscales",
-    "entrega de bienes",
+    "adjudicación de bienes",
     "almacenaje"
   ],
   "terminos_coloquiales": [
-    "remate",
-    "bienes de remate",
-    "SAT"
+    "subasta",
+    "remate de cosas",
+    "comprar bienes en remate",
+    "pagar con transferencia",
+    "entregar recibos",
+    "bienes adjudicados"
   ],
-  "resumen": "El artículo establece el procedimiento para la compra de bienes muebles en un remate, donde el postor debe pagar la cantidad ofrecida y entregar comprobantes fiscales para recibir los bienes adjudicados. Si no retira los bienes, se generan cargos por almacenaje.",
+  "resumen": "Este artículo trata sobre el proceso de adjudicación de bienes muebles en un remate. El postor ganador debe pagar la cantidad ofrecida mediante transferencia electrónica y entregar los comprobantes fiscales correspondientes en un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Cómo se hace el pago en un remate de bienes muebles?",
-    "¿Qué debo hacer después de ganar un remate?",
-    "¿Cuáles son los requisitos para recibir los bienes de un remate?",
-    "¿Qué pasa si no retiro los bienes después de ganarlos?",
-    "¿Qué son los comprobantes fiscales digitales en un remate?"
+    "¿Cómo se paga en un remate de bienes muebles?",
+    "¿Qué sucede si no entrego el comprobante fiscal después de un remate?",
+    "¿Cuánto tiempo tengo para recoger los bienes después de ganarlos en un remate?",
+    "¿Qué pasa si no retiro los bienes en el plazo establecido?",
+    "¿Qué documentos necesito para reclamar mis bienes en un remate?"
   ]
 }

@@ -6,15 +6,19 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 247",
+  "denominacion_comun": "Derogación",
   "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no tiene vigencia legal.",
+  "terminos_coloquiales": [
+    "derogación",
+    "se deroga"
+  ],
+  "resumen": "Este artículo ya no está en vigor, lo que significa que la disposición ha sido eliminada del código fiscal.",
   "preguntas_ejemplo": [
     "¿Qué significa que un artículo esté derogado?",
-    "¿Cuáles son las implicaciones de la derogación del Artículo 247?",
-    "¿Qué artículo lo reemplaza si es que hubo uno?"
+    "¿Qué pasa con las leyes que han sido derogadas?",
+    "¿Dónde puedo encontrar información sobre artículos derogados?"
   ]
 }

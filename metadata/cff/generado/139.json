@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:760d28c6e861ce2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificaciones por Estrados",
@@ -13,18 +14,22 @@
     "notificaciones",
     "estrados",
     "documentos fiscales",
-    "plazos de notificación"
+    "plazo de notificación",
+    "fechas",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "notificación por estrados",
-    "notificación fiscal"
+    "notificaciones",
+    "publicar documentos",
+    "plazo de aviso",
+    "notificación en línea"
   ],
-  "resumen": "Las autoridades fiscales pueden notificar documentos mediante su publicación en una página electrónica durante diez días. La fecha de notificación se considera como el décimo primer día después de la publicación.",
+  "resumen": "Este artículo establece el procedimiento para las notificciones fiscales mediante la publicación de documentos en internet. La notificación se considera efectiva después de diez días de su publicación.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza una notificación por estrados?",
-    "¿Qué plazo tengo para responder a una notificación fiscal?",
-    "¿Cuál es la fecha de notificación si un documento se publica en línea?",
-    "¿Dónde puedo ver las notificaciones por estrados?",
-    "¿Qué se considera como fecha de notificación en este caso?"
+    "¿Cómo se realizan las notificaciones fiscales?",
+    "¿Cuál es el plazo para que se considere efectiva una notificación?",
+    "¿Dónde se publican los documentos para notificaciones?",
+    "¿Qué día se cuenta para la notificación si se publica un documento?",
+    "¿Qué se considera notificación por estrados?"
   ]
 }

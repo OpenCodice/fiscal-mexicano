@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33e3ae6860a9cec1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo y oposición de bienes",
+  "denominacion_comun": "Embargo de bienes",
   "temas": [
-    "embargo",
-    "terceros",
-    "propiedad",
-    "pruebas documentales",
-    "resoluciones provisionales",
-    "notificaciones"
+    "oposición de terceros",
+    "prueba de propiedad",
+    "embargo provisional",
+    "ratificación de resolución",
+    "recurso de revocación"
   ],
   "terminos_coloquiales": [
-    "oposición al embargo",
-    "bien embargado",
-    "derechos de propiedad"
+    "embargo",
+    "oposición de bienes",
+    "documentos de propiedad",
+    "recurso de revocación"
   ],
-  "resumen": "El artículo establece que si una persona se opone al embargo de bienes alegando ser el dueño, el embargo no se llevará a cabo si demuestra su propiedad con documentos adecuados. Si no se presentan pruebas suficientes, se continuará con el embargo y se notificará al afectado sobre su derecho a hacer un recurso de revocación.",
+  "resumen": "Este artículo establece que si un tercero se opone al embargo de bienes alegando ser su propietario, el embargo no se llevará a cabo si presenta pruebas documentales suficientes. Si no hay pruebas suficientes, el embargo puede continuar y se notificará al interesado sobre su derecho a presentar un recurso de revocación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me embargan un bien que creo que es mío?",
-    "¿Puedo oponerme al embargo de mis bienes?",
-    "¿Qué documentación necesito para demostrar que soy el propietario?",
-    "¿Qué significa una resolución provisional en un embargo?",
-    "¿Cómo puedo hacer valer un recurso de revocación tras un embargo?"
+    "¿Qué ocurre si alguien se opone a un embargo?",
+    "¿Cómo puedo demostrar que soy dueño de un bien que quieren embargar?",
+    "¿Qué es el recurso de revocación en un proceso de embargo?",
+    "¿Qué significa que una resolución sea provisional durante un embargo?",
+    "¿Qué pasa si la oficina ejecutora considera insuficientes las pruebas de propiedad?"
   ]
 }

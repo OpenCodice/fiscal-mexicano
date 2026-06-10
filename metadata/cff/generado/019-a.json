@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:86d6fa395b5c0b7b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Firma Electrónica Avanzada",
   "temas": [
-    "Documentos digitales",
-    "Firma electrónica",
-    "Personas morales",
-    "Representante legal",
-    "Poder ante fedatario",
-    "Trámites ante el SAT"
+    "personas morales",
+    "documentos digitales",
+    "firma electrónica",
+    "poder legal",
+    "representante legal",
+    "Servicio de Administración Tributaria",
+    "trámites fiscales"
   ],
   "terminos_coloquiales": [
-    "Fiel",
-    "Firma digital",
-    "Poder notarial"
+    "e.firma",
+    "firma digital",
+    "quién firma los documentos",
+    "poder notarial"
   ],
-  "resumen": "El artículo establece que las personas morales pueden presentar documentos digitales usando su propia firma electrónica avanzada o la de su representante legal. La firma del representante es válida si tiene un poder notarial que se le otorgó ante un fedatario público.",
+  "resumen": "Las personas morales pueden usar su firma electrónica avanzada o la de su representante legal para presentar documentos digitales. Si utilizan su propia firma, deben emplear los datos de creación en todos sus trámites fiscales ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo presentar documentos digitales como persona moral?",
-    "¿Qué requisitos necesita mi representante para usar la firma electrónica?",
-    "¿Es necesario un poder notarial para la firma electrónica avanzada?",
-    "¿Qué pasa si no uso la firma electrónica para mis trámites?",
-    "¿Quién puede firmar documentos digitales en nombre de una persona moral?"
+    "¿Cómo se presenta un documento digital con firma electrónica?",
+    "¿Quién puede firmar en nombre de una persona moral?",
+    "¿Qué es la firma electrónica avanzada?",
+    "¿Necesito un poder notarial para usar la firma electrónica de una empresa?",
+    "¿Qué trámites se pueden hacer con la firma electrónica avanzada?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e6dc5a159b442cc3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Tentativa de delitos",
   "temas": [
     "delitos",
-    "tentativa",
     "sanciones",
     "prisión",
-    "desistimiento"
+    "interrupción",
+    "voluntad"
   ],
   "terminos_coloquiales": [
-    "delito en intento",
-    "tentativa penal",
-    "sanción tentativa"
+    "intento de delito",
+    "delito",
+    "sanción",
+    "prisión"
   ],
-  "resumen": "La tentativa de un delito es cuando una persona comienza a cometerlo, pero no lo termina por causas ajenas. Se puede sancionar con prisión, pero si la persona se detiene, no habrá sanción a menos que sus acciones iniciales sean un delito por sí mismas.",
+  "resumen": "La tentativa de cometer un delito es castigada, siempre que se inicie su ejecución. Si se interrumpe el delito por causas fuera del control del autor, no habrá sanción. Si la persona se echa atrás de la consumación del delito, tampoco será sancionada a menos que sus actos ya constituyan un delito.",
   "preguntas_ejemplo": [
-    "¿Qué es la tentativa de un delito?",
-    "¿Cuáles son las consecuencias de intentar cometer un delito?",
-    "¿Qué pasa si me detengo antes de completar un delito?",
-    "¿Se castiga la tentativa de delito?",
-    "¿Qué sanción hay para una tentativa de delito?"
+    "¿Qué pasa si intento cometer un delito pero no lo logro?",
+    "¿Es punible el intento de delito?",
+    "¿Qué sanciones hay si se interrumpe un delito?",
+    "Si decido no seguir adelante con un delito, ¿me pueden sancionar?",
+    "¿Qué es la tentativa de un delito?"
   ]
 }

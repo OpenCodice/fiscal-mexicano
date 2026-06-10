@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cee45461db550263",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas del Registro Federal de Contribuyentes",
+  "denominacion_comun": "Multas por infracciones al RFC",
   "temas": [
-    "Infracciones fiscales",
-    "Multas",
     "Registro Federal de Contribuyentes",
-    "Ley del Impuesto sobre la Renta"
+    "multas",
+    "infracciones",
+    "declaraciones",
+    "contribuyentes",
+    "resoluciones misceláneas"
   ],
   "terminos_coloquiales": [
-    "multas RFC",
-    "multas por irregularidades",
-    "sanciones fiscales"
+    "multas del RFC",
+    "infracciones fiscales",
+    "multas por no declarar",
+    "multas de declaraciones",
+    "multa por no estar en el RFC"
   ],
-  "resumen": "Este artículo establece las multas que se imponen a quienes cometen infracciones relacionadas con el Registro Federal de Contribuyentes. Las multas varían según la infracción y pueden ser cuantiosas.",
+  "resumen": "El artículo establece diversas multas que se imponen a las infracciones relacionadas con el Registro Federal de Contribuyentes. Las multas varían dependiendo de la infracción y pueden ser desde montos fijos hasta un porcentaje de las contribuciones declaradas.",
   "preguntas_ejemplo": [
-    "¿Cuánto me pueden multar por irregularidades en el RFC?",
-    "¿Qué sanciones hay si no presento mi declaración?",
-    "¿Cuáles son las multas por no estar en el Registro Federal de Contribuyentes?",
+    "¿Cuánto me pueden multar si no estoy al día con el RFC?",
+    "¿Qué infracciones al RFC tienen más multa?",
+    "¿Cuáles son las multas si omito información en mis declaraciones?",
+    "¿Qué pasa si no me registré en el RFC?",
     "¿Cómo se calculan las multas por infracciones fiscales?"
   ]
 }

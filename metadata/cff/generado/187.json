@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:220712a5d68eba70",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transferencia de bienes",
+  "denominacion_comun": "Propiedad de bienes adquiridos",
   "temas": [
+    "bienes",
     "propiedad",
     "gravámenes",
     "inmuebles",
     "registro público"
   ],
   "terminos_coloquiales": [
-    "transacción de bienes",
-    "cancelación de gravámenes"
+    "comprar propiedad",
+    "bienes inmuebles",
+    "cancelar gravámenes"
   ],
-  "resumen": "Cuando se adquieren bienes, estos pasan a ser propiedad del comprador libres de deudas. Si son inmuebles, la autoridad se encargará de notificar al registro público correspondiente sobre esta propiedad en un tiempo no mayor a quince días.",
+  "resumen": "Cuando se adquieren bienes, estos pasan a ser propiedad del comprador sin deudas. Si son inmuebles, la autoridad debe informar al registro público para cancelar cualquier gravamen en un plazo máximo de quince días.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los gravámenes al adquirir un inmueble?",
-    "¿Cómo se realizan las transferencias de propiedad?",
-    "¿Qué plazo tiene la autoridad para cancelar gravámenes?",
-    "¿Qué es el registro público en la compra de bienes?",
-    "¿Los bienes son míos al comprarlos?"
+    "¿Qué pasa con los gravámenes al comprar un inmueble?",
+    "¿Cómo se cancela un gravamen en la propiedad?",
+    "¿Qué documentos se necesitan para registrar la propiedad después de comprarla?",
+    "¿Cuánto tiempo tiene la autoridad para registrar un inmueble?",
+    "¿Los bienes pasan a ser míos al comprarlos inmediatamente?"
   ]
 }

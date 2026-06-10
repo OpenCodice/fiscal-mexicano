@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8aea7edbee82988d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Gastos de Ejecución",
+  "denominacion_comun": "Gastos de ejecución fiscal",
   "temas": [
     "crédito fiscal",
     "gastos de ejecución",
     "embargo",
     "remate",
-    "diligencias administrativas",
-    "avalúos",
-    "honorarios"
+    "avalúo",
+    "contribuciones"
   ],
   "terminos_coloquiales": [
-    "gastos de ejecución",
-    "cobros por ejecución",
-    "procedimiento de ejecución"
+    "cobro de deudas fiscales",
+    "embargo de bienes",
+    "remate de propiedades",
+    "gastos por ejecución",
+    "honorarios de peritos",
+    "costo de avalúo"
   ],
-  "resumen": "Este artículo establece que las personas físicas y morales deben pagar un porcentaje del crédito fiscal como gastos de ejecución en ciertos procedimientos administrativos. También se indican los gastos extraordinarios que pueden surgir a partir de embargos y otros eventos relacionados.",
+  "resumen": "El artículo establece que tanto las personas físicas como las morales deben pagar un 2% del crédito fiscal como gastos de ejecución en diversos procedimientos. Además, se determinan los costos que deben cubrirse por el embargo y remate de bienes, así como otros gastos extraordinarios relacionados con estos procesos.",
   "preguntas_ejemplo": [
-    "¿Qué gastos debo pagar si me embargan bienes?",
-    "¿Cuánto es el costo por gastos de ejecución?",
-    "¿Qué sucede si el crédito fiscal es menor a 630 pesos?",
-    "¿Qué gastos se consideran extraordinarios en un remate?",
-    "¿Quién determina los gastos de ejecución?",
-    "¿Qué se hace con los ingresos por gastos de ejecución?"
+    "¿Cuánto tengo que pagar por gastos de ejecución?",
+    "¿Qué gastos se generan durante un embargo?",
+    "¿Qué ocurre si el costo de un avalúo es más alto que el declarado?",
+    "¿Cómo se determina el monto de los gastos de ejecución?",
+    "¿A dónde van los ingresos por gastos de ejecución?"
   ]
 }

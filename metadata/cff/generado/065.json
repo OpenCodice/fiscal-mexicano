@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03d87cf995f1fe4d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de Contribuciones Omitidas",
+  "denominacion_comun": "Pago de contribuciones omitidas",
   "temas": [
     "contribuciones omitidas",
     "créditos fiscales",
     "facultades de comprobación",
+    "pago de impuestos",
     "plazos de pago",
-    "notificación",
-    "accesorios"
+    "garantías fiscales"
   ],
   "terminos_coloquiales": [
-    "contribuciones no pagadas",
-    "créditos fiscales",
-    "pago de impuestos atrasados"
+    "impuestos no pagados",
+    "deuda fiscal",
+    "pago de impuestos",
+    "créditos fiscales"
   ],
-  "resumen": "Las contribuciones no pagadas que las autoridades fiscales determinen deben ser pagadas o garantizadas en un plazo de treinta días después de su notificación. Hay excepciones para ciertos créditos fiscales específicos.",
+  "resumen": "Este artículo establece que las contribuciones omitidas y otros créditos fiscales deben pagarse o garantizarse dentro de un plazo de 30 días tras su notificación. Hay una excepción para ciertos créditos fiscales que deben pagarse antes de un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago mis contribuciones a tiempo?",
-    "¿Cuánto tiempo tengo para pagar una contribución omitida?",
+    "¿Qué pasa si no pago mis impuestos a tiempo?",
+    "¿Cuánto tiempo tengo para pagar las contribuciones que debo?",
     "¿Qué son los créditos fiscales y cómo se pagan?",
-    "¿Qué siguen las autoridades si determinen que debo impuestos?",
-    "¿Cómo se notifican las contribuciones omitidas?",
-    "¿Qué son los accesorios de los créditos fiscales?"
+    "¿Qué debo hacer si las autoridades fiscales me notifican una deuda?",
+    "¿Hay excepciones para el pago de créditos fiscales?"
   ]
 }

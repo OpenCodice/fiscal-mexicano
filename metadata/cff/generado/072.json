@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3067ef81f0461830",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Comunicación de infracciones fiscales",
   "temas": [
     "funcionarios públicos",
     "infracciones fiscales",
-    "responsabilidad",
-    "comunicación a la autoridad",
-    "reservas de información"
+    "responsabilidad fiscal",
+    "comunicación a la autoridad"
   ],
   "terminos_coloquiales": [
-    "reportes de infracciones",
-    "comunicaciones fiscales",
-    "responsabilidad de funcionarios"
+    "reportar infracciones",
+    "funcionarios fiscales",
+    "responsabilidad por omisiones",
+    "guardar reserva"
   ],
-  "resumen": "Los funcionarios públicos deben informar sobre infracciones fiscales a la autoridad fiscal dentro de ciertos plazos. Algunos funcionarios están exentos de esta obligación si deben guardar reserva sobre la información que manejan.",
+  "resumen": "Los funcionarios y empleados públicos deben informar a la autoridad fiscal sobre infracciones fiscales que conozcan en un plazo de quince días para evitar responsabilidades. Sin embargo, algunos funcionarios están exentos de esta obligación por razones de reserva o por participar en la asistencia al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué deben hacer los funcionarios si conocen de infracciones fiscales?",
-    "¿Hay excepciones para funcionarios sobre la comunicación de infracciones?",
+    "¿Qué hacen los funcionarios si ven una infracción fiscal?",
     "¿Cuánto tiempo tienen los empleados públicos para reportar infracciones fiscales?",
-    "¿Los funcionarios fiscales tienen pasos diferentes para reportar infracciones?",
-    "¿Qué información deben resguardar algunos funcionarios en relación a infracciones fiscales?"
+    "¿Quiénes están exentos de reportar infracciones fiscales?",
+    "¿Qué pasa si un funcionario no reporta una infracción?",
+    "¿Cómo se protege la información confidencial que conocen los funcionarios?"
   ]
 }

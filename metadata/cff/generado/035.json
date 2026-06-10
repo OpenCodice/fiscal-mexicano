@@ -6,27 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:831f61cdf415df99",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Criterios de aplicación fiscal",
   "temas": [
     "funcionarios fiscales",
-    "criterios de aplicación",
     "disposiciones fiscales",
-    "Diario Oficial de la Federación",
-    "derechos de los particulares"
+    "derechos de los contribuyentes",
+    "publicaciones oficiales"
   ],
   "terminos_coloquiales": [
-    "criterios fiscales",
-    "guías fiscales",
-    "DOF"
+    "criterio fiscal",
+    "publicación en el DOF"
   ],
-  "resumen": "Los funcionarios fiscales pueden comunicar criterios sobre cómo aplicar las disposiciones fiscales. Estos criterios no generan obligaciones para los ciudadanos a menos que se publiquen en el Diario Oficial de la Federación, donde sí pueden derivar derechos.",
+  "resumen": "Los funcionarios fiscales pueden dar a conocer criterios sobre cómo aplicar las disposiciones fiscales, pero esto no crea obligaciones para los particulares. Los derechos solo se derivan cuando estos criterios se publican en el Diario Oficial de la Federación.",
   "preguntas_ejemplo": [
     "¿Qué son los criterios fiscales?",
-    "¿Cómo se publican los criterios de aplicación fiscal?",
-    "¿Qué derechos tengo con respecto a los criterios fiscales?",
+    "¿Dónde se publican los criterios de aplicación?",
     "¿Los criterios fiscales son obligatorios?",
-    "¿Dónde puedo encontrar los criterios fiscales publicados?"
+    "¿Qué derechos tengo con los criterios fiscales?",
+    "¿Qué papel juega el Diario Oficial de la Federación en esto?"
   ]
 }

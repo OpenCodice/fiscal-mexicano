@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1c33b1b0f7a373e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asociación en Participación",
+  "denominacion_comun": "Asociación en participación",
   "temas": [
-    "Asociación en participación",
-    "Obligaciones fiscales",
-    "Personalidad jurídica",
-    "Actividades empresariales",
-    "Residencia fiscal"
+    "obligaciones fiscales",
+    "personalidad jurídica",
+    "actividades empresariales",
+    "residencia fiscal",
+    "denominación social"
   ],
   "terminos_coloquiales": [
+    "asociación en participación",
     "A. en P.",
-    "Asociación",
-    "Convenio fiscal"
+    "asociado",
+    "convenio empresarial"
   ],
-  "resumen": "La asociación en participación es un grupo de personas que realizan actividades empresariales y comparten utilidades o pérdidas. Tiene personalidad jurídica para efectos fiscales y debe cumplir con las mismas obligaciones que las personas morales.",
+  "resumen": "La asociación en participación es un conjunto de personas que realizan actividades empresariales y comparten utilidades o pérdidas. Esta figura tiene obligaciones fiscales similares a las de las personas morales y debe identificarse con una denominación o razón social específica.",
   "preguntas_ejemplo": [
     "¿Qué es una asociación en participación?",
-    "¿Qué obligaciones fiscales tiene una asociación en participación?",
+    "¿Cuáles son las obligaciones fiscales de una asociación en participación?",
     "¿Cómo se identifica una asociación en participación?",
-    "¿Qué significa A. en P. en el nombre de una empresa?",
-    "¿Las asociaciones en participación tienen personalidad jurídica?"
+    "¿Qué requisitos debe cumplir una asociación en participación en México?",
+    "¿Qué significa A. en P. en la asociación en participación?"
   ]
 }

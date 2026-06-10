@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b93dd1fe6c37f20c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos de Revocación",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
-    "pruebas en recursos",
-    "exhibición de documentos",
-    "valoración de pruebas",
-    "confesión del recurrente",
-    "documentos digitales"
+    "pruebas",
+    "documentación",
+    "valorización de pruebas",
+    "resoluciones",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
-    "recurso de revocación",
-    "pruebas supervenientes",
-    "diligencias",
+    "recursos fiscales",
+    "pruebas en el recurso de revocación",
     "documentos digitales",
-    "CFF"
+    "plazo para pruebas"
   ],
-  "resumen": "El artículo establece las reglas sobre la admisión y valoración de pruebas en el recurso de revocación, señalando las limitaciones y las condiciones para la presentación de pruebas. Se especifica que las autoridades pueden solicitar documentos relacionados con el caso y que la valoración de pruebas se ajustará a las disposiciones legales aplicables.",
+  "resumen": "El artículo establece las reglas para la admisión y valoración de pruebas en el recurso de revocación, excluyendo ciertas pruebas como las testimoniales. También detalla que se pueden presentar pruebas adicionales antes de la resolución del recurso y aclara cómo se valorarán los documentos públicos y digitales.",
   "preguntas_ejemplo": [
-    "¿Qué pruebas puedo presentar en un recurso de revocación?",
-    "¿Se admiten documentos digitales en el recurso de revocación?",
-    "¿Qué sucede si las pruebas han sido presentadas después del anuncio?",
+    "¿Qué tipo de pruebas se pueden presentar en un recurso de revocación?",
+    "¿Cuál es el plazo para presentar pruebas en el recurso de revocación?",
+    "¿Qué requisitos tienen los documentos digitales en un recurso de revocación?",
     "¿Cómo se valoran las pruebas en el recurso de revocación?",
-    "¿Qué tipo de pruebas están prohibidas en el recurso de revocación?"
+    "¿Qué pasa si la autoridad adquiere una convicción diferente sobre los hechos?"
   ]
 }

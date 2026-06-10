@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:efbcaf91c2223871",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Posturas en Documentos Digitales",
+  "denominacion_comun": "Posturas en procedimientos fiscales",
   "temas": [
-    "Requisitos de posturas",
-    "Datos requeridos",
+    "documento digital",
+    "postores",
+    "requisitos",
     "Transferencias electrónicas",
-    "Notificaciones"
+    "notificaciones"
   ],
   "terminos_coloquiales": [
-    "Documentos digitales",
-    "Posturas",
-    "Datos de postor",
+    "ofertas fiscales",
+    "datos del postor",
     "SAT",
-    "Requisitos de posturas"
+    "transferencias bancarias"
   ],
-  "resumen": "Este artículo establece los datos que deben incluirse en un documento digital para realizar posturas, tanto de personas físicas como de sociedades. Si no se cumplen los requisitos, el SAT no aceptará las posturas como legales.",
+  "resumen": "Este artículo detalla los requisitos que debe incluir un documento digital para las posturas en procedimientos fiscales, tanto para personas físicas como morales. Si no se cumplen estos requisitos, el SAT no considerará las posturas como legales.",
   "preguntas_ejemplo": [
-    "¿Qué datos necesito para hacer una postura digital?",
-    "¿Cuáles son los requisitos de posturas ante el SAT?",
-    "¿Qué pasa si mi postura no cumple con los requisitos?",
-    "¿Cómo se realizan las transferencias electrónicas de fondos para posturas?",
-    "¿Qué información debo proporcionar si soy una sociedad?"
+    "¿Qué datos necesito para hacer una postura fiscal?",
+    "¿Cómo debe ser el documento digital para posturas?",
+    "¿Qué pasa si mi postura no cumple con los requisitos del SAT?",
+    "¿Qué información bancaria necesito incluir en mi postura?",
+    "¿Cómo se deben presentar las notificaciones en este proceso?"
   ]
 }

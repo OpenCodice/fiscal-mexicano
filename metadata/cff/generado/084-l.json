@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ca25ca6e30a9f10",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por infracciones fiscales",
+  "denominacion_comun": "Infracciones y multas",
   "temas": [
     "multas",
-    "infracciones fiscales",
     "personas morales",
-    "información de estado de cuenta"
+    "infracciones fiscales",
+    "información requerida"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
-    "sanciones",
-    "infracción artículo 84-K"
+    "infracción fiscal",
+    "persona moral"
   ],
-  "resumen": "Se imponen multas a las personas morales que no proporcionen la información del estado de cuenta requerida. Las multas varían entre $516,600.00 y $1,033,190.00.",
+  "resumen": "Este artículo establece que las personas morales que no proporcionen la información del estado de cuenta requerida serán multadas con cantidades significativas. La multa varía dependiendo de la infracción cometida.",
   "preguntas_ejemplo": [
-    "¿Qué multas hay para las personas morales que no entregan información?",
-    "¿Cuánto se puede multar por no proporcionar el estado de cuenta?",
-    "¿Qué pasa si una persona moral comete una infracción fiscal?",
-    "¿Qué es la infracción del artículo 84-K?",
-    "¿A qué se refiere la multa del artículo 84-L?"
+    "¿Qué pasa si una persona moral no entrega la información que se le solicita?",
+    "¿Cuánto es la multa por no proporcionar datos fiscales?",
+    "¿Quiénes son considerados personas morales en la ley?",
+    "¿Qué infracciones pueden llevar a multas según la ley?",
+    "¿Cómo se calcula la multa por infracciones fiscales?"
   ]
 }

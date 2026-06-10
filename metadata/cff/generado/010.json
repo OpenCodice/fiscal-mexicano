@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:830ed8ae1a3e5124",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Domicilio fiscal",
+  "denominacion_comun": "Domicilio Fiscal",
   "temas": [
-    "Domicilio de personas físicas",
-    "Domicilio de personas morales",
-    "Actividades empresariales",
-    "Localización de contribuyentes"
+    "personas físicas",
+    "personas morales",
+    "actividad empresarial",
+    "localización de domicilio",
+    "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "Domicilio fiscal",
-    "Domicilio de contribuyente",
-    "Domicilio de negocio",
-    "CFF"
+    "domicilio fiscal",
+    "ubicación del negocio",
+    "casa habitación",
+    "sede administrativa"
   ],
-  "resumen": "El artículo establece qué se considera como domicilio fiscal para personas físicas y morales, dependiendo de su actividad económica y localización. Si no se designa un domicilio adecuado, se podrá utilizar el registrado ante entidades financieras.",
+  "resumen": "El artículo define el domicilio fiscal para personas físicas y morales, estableciendo condiciones específicas para determinar cuál es el lugar que se considerará como domicilio. Si no se presenta una declaración de domicilio adecuada, las autoridades fiscales pueden actuar en cualquier lugar donde se realicen actividades.",
   "preguntas_ejemplo": [
-    "¿Qué es un domicilio fiscal?",
-    "¿Cómo se determina el domicilio fiscal de una persona física?",
-    "¿Dónde debe estar el domicilio fiscal de una persona moral?",
-    "¿Qué pasa si no tengo un domicilio fiscal?",
-    "¿Se considera mi casa como domicilio fiscal?",
-    "¿Qué sucede si designo un domicilio ficticio?"
+    "¿Dónde debo declarar mi domicilio fiscal?",
+    "¿Qué pasa si no tengo un local de negocio?",
+    "¿Cómo se determina el domicilio fiscal de una empresa?",
+    "¿Qué sucede si no manifiesto mi domicilio fiscal?",
+    "¿Qué se considera como domicilio fiscal para personas morales?"
   ]
 }

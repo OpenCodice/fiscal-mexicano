@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7118ff50d04d655b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes embargados",
   "temas": [
     "embargo",
     "enajenación",
-    "bienes embargados",
+    "bienes",
     "créditos exigibles",
-    "plazos de embargo",
-    "resoluciones firmes"
+    "plazos",
+    "resoluciones",
+    "defensa"
   ],
   "terminos_coloquiales": [
-    "venta de bienes embargados",
-    "embargo de bienes",
-    "bienes embargados",
-    "enajenación",
-    "CFF"
+    "vender bienes embargados",
+    "subasta de embargos",
+    "embargos",
+    "bienes embargados"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales se puede llevar a cabo la enajenación de bienes que han sido embargados. La enajenación se puede realizar en diversos escenarios, como cuando se fija la base o cuando los créditos se vuelven exigibles y no se pagan.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales se puede proceder a la enajenación de bienes que han sido embargados. Incluye situaciones como la fijación de una base, el requerimiento de pagos no realizados y la firmeza de resoluciones de impugnación.",
   "preguntas_ejemplo": [
-    "¿Cuándo se pueden vender bienes embargados?",
-    "¿Qué pasa si no se propone comprador en el plazo establecido?",
-    "¿En qué circunstancias un bien embargado puede ser enajenado?",
-    "¿Qué significa la resolución firme en el contexto de embargos?",
-    "¿Cómo se determina la base para la enajenación de bienes embargados?"
+    "¿Cuándo se puede vender un bien embargado?",
+    "¿Qué pasa si no pago un crédito después de un embargo?",
+    "¿Qué condiciones se deben cumplir para la enajenación de bienes embargados?",
+    "¿Qué hacer si el embargado no encuentra comprador?",
+    "¿Se puede vender un bien embargado si hay un medio de defensa en curso?"
   ]
 }

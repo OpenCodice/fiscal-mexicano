@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2091268131328401",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones al buzón tributario",
+  "denominacion_comun": "Infracciones por buzón tributario",
   "temas": [
-    "infracciones fiscales",
-    "buzón tributario",
     "multas",
-    "medios de contacto"
+    "buzón tributario",
+    "medios de contacto",
+    "infracciones fiscales"
   ],
   "terminos_coloquiales": [
-    "multa por buzón",
-    "infracción buzón tributario",
-    "no habilitación del buzón",
-    "ART. 86-D"
+    "buzón del SAT",
+    "infracción de buzón tributario",
+    "no registrar buzón",
+    "actualizar contactos",
+    "multa por buzón"
   ],
-  "resumen": "Se establece que se impondrá una multa a quien no habilite el buzón tributario o no registre y actualice sus medios de contacto, de acuerdo con lo que indica el artículo 86-C. Las multas oscilan entre ciertos montos.",
+  "resumen": "Este artículo establece las multas que se imponen por no habilitar el buzón tributario y por no registrar o actualizar los medios de contacto correspondientes. Las multas pueden variar entre ciertos montos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no tengo habilitado mi buzón tributario?",
-    "¿Cuánto es la multa por no registrar mis medios de contacto?",
-    "¿Qué infracciones están relacionadas con el buzón tributario?",
-    "¿Qué dice el artículo 86-D sobre multas?",
-    "¿Cómo actualizo mis medios de contacto para evitar multas?"
+    "¿Qué pasa si no habilito mi buzón tributario?",
+    "¿Cuánto es la multa por no actualizar mis datos de contacto en el SAT?",
+    "¿Qué infracciones están relacionadas con el buzón del SAT?",
+    "¿Qué se considera una infracción al buzón tributario?",
+    "¿Cuáles son las consecuencias de no registrar mi buzón tributario?",
+    "¿Qué hacer si me multan por no tener habilitado el buzón tributario?"
   ]
 }

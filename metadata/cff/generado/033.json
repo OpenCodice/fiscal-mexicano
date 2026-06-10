@@ -6,32 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f15bb0a5cc7ef4b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asistencia al Contribuyente",
+  "denominacion_comun": "Asistencia y Orientación Fiscal",
   "temas": [
+    "asistencia al contribuyente",
     "orientación fiscal",
-    "derechos del contribuyente",
+    "cumplimiento de obligaciones fiscales",
+    "síndicos fiscales",
     "declaraciones fiscales",
-    "síndicos",
-    "programas de prevención",
-    "cumplimiento voluntario",
-    "información tributaria"
+    "programas de cumplimiento",
+    "información tributaria",
+    "resolución de problemas del contribuyente"
   ],
   "terminos_coloquiales": [
-    "apoyo a contribuyentes",
-    "asesoría fiscal",
-    "síndicos fiscales",
+    "ayuda fiscal",
+    "orientación de impuestos",
+    "declaraciones de impuestos",
+    "síndicos",
+    "citas fiscales",
     "SAT",
-    "declaraciones prellenadas"
+    "declaración prellenada"
   ],
-  "resumen": "Las autoridades fiscales brindan asistencia gratuita a los contribuyentes, explicando sus obligaciones fiscales y ofreciendo orientación para el cumplimiento. También implementan programas para resolver problemas y promover el cumplimiento voluntario de las disposiciones fiscales.",
+  "resumen": "Este artículo establece que las autoridades fiscales deben proporcionar asistencia gratuita a los contribuyentes, facilitar la presentación de declaraciones y promover el cumplimiento voluntario. También se menciona la figura de los síndicos, quienes ayudarán a los contribuyentes a resolver problemas fiscales.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo obtener ayuda para mis obligaciones fiscales?",
-    "¿Qué son los síndicos y cómo me pueden ayudar?",
-    "¿Cómo puedo corregir mi situación fiscal?",
-    "¿El SAT tiene asesoría en línea?",
-    "¿Qué pasa si no presento mis declaraciones a tiempo?",
-    "¿Existen programas para ayudarme con mis impuestos?"
+    "¿Dónde puedo obtener ayuda con mis impuestos?",
+    "¿Qué son los síndicos fiscales y cómo funcionan?",
+    "¿Cómo puedo presentar mis declaraciones fácilmente?",
+    "¿Qué hacer si tengo problemas con mis obligaciones fiscales?",
+    "¿El SAT ofrece servicios de orientación?",
+    "¿Qué es una declaración prellenada y cómo la obtengo?"
   ]
 }

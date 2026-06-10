@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6ef49dd4c446fa2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones Fiscales",
+  "denominacion_comun": "Infracciones fiscales",
   "temas": [
-    "obligaciones fiscales",
-    "declaraciones",
-    "reportes",
-    "información",
-    "pago de contribuciones",
-    "avisos",
-    "documentación",
-    "sanciones fiscales"
+    "declaraciones fiscales",
+    "pagos de contribuciones",
+    "avisos fiscales",
+    "errores en declaraciones",
+    "información requerida",
+    "cumplimiento de plazos",
+    "constancias fiscales",
+    "reportes de información"
   ],
   "terminos_coloquiales": [
-    "infracciones fiscales",
     "no presentar declaraciones",
-    "errores en declaraciones",
-    "pago extemporáneo",
-    "requerimientos de SAT",
-    "avisos fuera de tiempo"
+    "multas fiscales",
+    "avisos al SAT",
+    "pago de impuestos",
+    "errores en avisos",
+    "información del SAT",
+    "no presentar reportes",
+    "plazos fiscales"
   ],
-  "resumen": "El artículo 81 del Código Fiscal de la Federación establece diversas infracciones relacionadas con la obligación de pago de contribuciones y la presentación de documentos y declaraciones ante las autoridades fiscales. Estas infracciones incluyen no presentar información en tiempo, hacerlo de manera incorrecta o no cumplir con los requerimientos establecidos por el SAT.",
+  "resumen": "El artículo establece diferentes infracciones relacionadas con el incumplimiento de las obligaciones fiscales, como no presentar declaraciones o pagos en tiempo, presentar información errónea, y no cumplir con los requerimientos del SAT. Estas infracciones pueden resultar en multas y sanciones para los contribuyentes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mis declaraciones a tiempo?",
-    "¿Cuáles son las sanciones por no pagar contribuciones?",
-    "¿Qué se considera una infracción fiscal?",
-    "¿Qué documentos debo presentar ante el SAT?",
-    "¿Cuáles son las consecuencias de errores en mis declaraciones fiscales?"
+    "¿Qué pasa si no presento mi declaración a tiempo?",
+    "¿Cuáles son las multas por errores en mis declaraciones?",
+    "¿Qué debo hacer si no puedo cumplir con mis pagos de impuestos?",
+    "¿Cómo puedo reclamar una multa del SAT?",
+    "¿Qué información debo proporcionar al SAT?",
+    "¿Cuáles son las consecuencias de no presentar avisos al SAT?"
   ]
 }

@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e525fd84239fb6f5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificados del SAT",
+  "denominacion_comun": "Certificados de Sellos Digitales",
   "temas": [
-    "certificados fiscales",
+    "certificados",
     "sellos digitales",
     "firma electrónica avanzada",
-    "prestadores de servicios de certificación",
-    "identificación del certificador",
-    "vigencia de certificados"
+    "vigencia de certificados",
+    "prestadores de servicios de certificación"
   ],
   "terminos_coloquiales": [
-    "certificados del SAT",
-    "sellos digitales",
-    "firmas electrónicas",
-    "CFF 17-G"
+    "certificado de sello digital",
+    "certificado",
+    "e.firma",
+    "firma electrónica"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir los certificados emitidos por el Servicio de Administración Tributaria, incluyendo datos como el titular, la vigencia y la tecnología utilizada para la firma electrónica. También menciona las condiciones para los certificados emitidos por prestadores de servicios de certificación autorizados por el Banco de México.",
+  "resumen": "El artículo establece los requisitos que deben cumplir los certificados emitidos por el Servicio de Administración Tributaria, incluyendo información sobre el titular, vigencia y tecnología usada. También menciona requisitos específicos para certificados emitidos por prestadores de servicios de certificación autorizados por el Banco de México.",
   "preguntas_ejemplo": [
-    "¿Qué datos debe contener un certificado del SAT?",
-    "¿Cómo saber si un certificado de sello digital es válido?",
-    "¿Qué requisitos tienen los certificados de firmas electrónicas?",
-    "¿Qué información necesito para obtener un certificado fiscal?",
-    "¿Cuáles son las limitantes de los certificados del SAT?"
+    "¿Qué datos debe contener un certificado de sello digital?",
+    "¿Cómo saber si mi e.firma es válida?",
+    "¿Cuáles son los requisitos para los certificados de firmas electrónicas?",
+    "¿Qué información incluye el certificado emitido por el SAT?",
+    "¿Cuál es el período de vigencia de un certificado de sello digital?"
   ]
 }

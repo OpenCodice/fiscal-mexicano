@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7c73e83435c156a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones y multas en el Código Fiscal de la Federación",
+  "denominacion_comun": "Multas por infracciones fiscales",
   "temas": [
+    "infracciones fiscales",
     "multas",
     "marbetes",
     "precintos",
-    "infracciones",
-    "códigos QR",
-    "cancelación de folios"
+    "envases vacíos",
+    "código QR"
   ],
   "terminos_coloquiales": [
-    "multas por marbetes",
-    "infracciones fiscales",
-    "código fiscal",
-    "SAT",
-    "fracciones del CFF",
-    "cancelación de marbetes"
+    "multas",
+    "sanciones fiscales",
+    "marbetes falsos",
+    "precintos alterados",
+    "envases sin marbete",
+    "clausura de establecimientos"
   ],
-  "resumen": "Este artículo establece un rango de multas para diversas infracciones relacionadas con marbetes y precintos. Se especifican sanciones para casos como el uso indebido de marbetes y la falta de lectura del código QR ante el consumidor.",
+  "resumen": "El artículo establece las multas aplicables a quienes cometan infracciones relacionadas con marbetes, precintos y envases vacíos, así como sanciones en caso de reincidencia. También menciona la posibilidad de cancelar folios de marbetes o precintos en caso de infracciones específicas.",
   "preguntas_ejemplo": [
-    "¿Cuánto es la multa por un marbete falso?",
-    "¿Qué pasa si no se lee el código QR del marbete?",
-    "¿Cuáles son las infracciones relacionadas con marbetes?",
-    "¿Puedo perder mis marbetes si cometo una infracción?",
-    "¿Qué multas impone el SAT por marbetes?",
-    "¿Cuáles son las consecuencias de repetir una infracción según el CFF?"
+    "¿Qué multas hay por marbetes falsos?",
+    "¿Cuánto me pueden multar por no tener marbete?",
+    "¿Qué pasa si uso un marbete de forma indebida?",
+    "¿Qué sanciones hay por no presentar el código QR?",
+    "¿Me pueden clausurar mi negocio por infracciones fiscales?"
   ]
 }

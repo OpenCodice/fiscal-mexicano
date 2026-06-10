@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0cfd79da171b35a3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facultades de comprobación para devoluciones",
+  "denominacion_comun": "Devoluciones fiscales",
   "temas": [
-    "devolución de impuestos",
     "facultades de comprobación",
+    "solicitudes de devolución",
     "plazos de verificación",
-    "saldo a favor"
+    "saldo a favor",
+    "información de terceros",
+    "resoluciones fiscales",
+    "intereses por devoluciones",
+    "documentación requerida"
   ],
   "terminos_coloquiales": [
-    "devoluciones fiscales",
-    "verificación de devoluciones",
+    "devolución de impuestos",
     "saldo a favor",
-    "plazos de comprobación"
+    "solicitud de devolución",
+    "revisión fiscal",
+    "comprobación de impuestos"
   ],
-  "resumen": "Este artículo establece las facultades que tiene la autoridad fiscal para comprobar las solicitudes de devoluciones de impuestos. También determina los plazos que tienen para llevar a cabo estas verificaciones y las acciones que deben seguir una vez finalizadas.",
+  "resumen": "Este artículo establece las reglas para que la autoridad fiscal verifique las solicitudes de devolución de impuestos. Define los plazos para concluir la verificación y cómo se debe proceder si hay solicitudes múltiples por la misma contribución. También detalla las acciones que deben tomar tanto la autoridad como el contribuyente durante el proceso.",
   "preguntas_ejemplo": [
     "¿Cuánto tiempo tiene la autoridad para verificar mi devolución de impuestos?",
-    "¿Qué pasa si no concluyen la comprobación a tiempo?",
-    "¿Pueden solicitarme información a terceros durante la verificación?",
-    "¿Qué sucede si tengo varias solicitudes de devolución?",
-    "¿Cuándo recibiré mi dinero después de la devolución?"
+    "¿Qué pasa si no concluyen la revisión en el tiempo señalado?",
+    "¿Puedo presentar documentos que justifiquen mi devolución?",
+    "¿Qué sucede si mi solicitud de devolución es revisada varias veces?",
+    "¿Cómo se calculan los intereses si no me devuelven a tiempo?"
   ]
 }

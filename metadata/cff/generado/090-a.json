@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:82f28ef08dd1a548",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sanciones a concesionarios de telecomunicaciones",
   "temas": [
     "multas",
     "concesionarios",
-    "red pública de telecomunicaciones",
-    "bloqueo de servicios digitales"
+    "bloqueo de servicios",
+    "telecomunicaciones",
+    "Ley del IVA"
   ],
   "terminos_coloquiales": [
-    "sanciones telecom",
-    "multas a telecomunicaciones"
+    "multa por no bloquear servicios",
+    "concesionario de telecomunicaciones",
+    "bloquear acceso digital",
+    "desbloquear servicios",
+    "Ley del Impuesto al Valor Agregado"
   ],
-  "resumen": "Se imponen multas a los concesionarios de telecomunicaciones que no bloqueen o desbloqueen el acceso a servicios digitales según lo establecido en la ley. Este incumplimiento se sanciona por cada mes que pase sin cumplir las órdenes correspondientes.",
+  "resumen": "Se establece que los concesionarios de telecomunicaciones en México recibirán una multa si no cumplen con la orden de bloquear o desbloquear el acceso a servicios digitales en un plazo determinado. La multa se aplica por cada mes que no se cumpla con la orden.",
   "preguntas_ejemplo": [
-    "¿Qué sanciones hay para los concesionarios de telecomunicaciones?",
-    "¿Cuánto es la multa por no bloquear un servicio digital?",
-    "¿Qué pasa si un concesionario no cumple con la orden de bloqueo?",
-    "¿Cuánto tiempo tiene un concesionario para cumplir con la orden de desbloqueo?",
-    "¿Se repite la multa cada mes si no cumplen las órdenes?",
-    "¿Qué artículo establece las sanciones para los concesionarios?"
+    "¿Qué sucede si un concesionario no bloquea un servicio digital?",
+    "¿Cuál es la sanción por no cumplir con las órdenes de bloqueo?",
+    "¿Los concesionarios pueden ser multados por no desbloquear servicios?",
+    "¿Cuál es el plazo para cumplir con la orden de bloqueo?",
+    "¿Qué artículo de la Ley del IVA regula estas multas?"
   ]
 }

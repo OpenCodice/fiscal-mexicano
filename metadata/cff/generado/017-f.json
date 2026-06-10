@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bae88366f34997e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Certificación de firmas electrónicas avanzadas",
+  "denominacion_comun": "Servicios de certificación de firmas electrónicas",
   "temas": [
-    "verificación de identidad",
-    "certificados de firmas electrónicas",
+    "certificación de firmas",
+    "identidad electrónica",
     "documentos digitales",
-    "responsabilidad del SAT",
-    "servicios de autenticación",
-    "registros de certificados"
+    "verificación de firmas",
+    "autenticación electrónica",
+    "sellos digitales",
+    "registros de certificados",
+    "limitaciones de uso"
   ],
   "terminos_coloquiales": [
     "firma electrónica",
-    "SAT",
-    "certificado de firma electrónica avanzada",
-    "verificación de firmas electrónicas"
+    "e.firma",
+    "certificados de firma",
+    "certificados de e.firma",
+    "autenticación por e.firma"
   ],
-  "resumen": "El Servicio de Administración Tributaria ofrece servicios para certificar firmas electrónicas avanzadas, lo que incluye verificar la identidad de los usuarios y la integridad de documentos digitales. Además, proporciona información sobre los certificados y permite la verificación de los mismos por parte de terceros.",
+  "resumen": "El Servicio de Administración Tributaria proporciona servicios para certificar firmas electrónicas avanzadas, verificar identidades y documentar la integridad de los documentos digitales. También autoriza a terceros a ofrecer información y acceso a los registros de certificados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo verificar mi firma electrónica avanzada?",
-    "¿Qué servicios ofrece el SAT para la certificación de firmas?",
-    "¿Qué información se necesita para obtener un certificado de firma electrónica?",
-    "¿Cuál es la responsabilidad del SAT sobre los certificados emitidos?",
-    "¿Cómo acceso al registro de certificados de firmas electrónicas?"
+    "¿Qué es una firma electrónica y cómo funciona?",
+    "¿Cómo puedo verificar la validez de un certificado de e.firma?",
+    "¿Qué servicios ofrece el SAT para la certificación de firmas electrónicas?",
+    "¿Cómo puedo obtener un certificado de firma electrónica avanzada?",
+    "¿Cuáles son las limitaciones de uso de una firma electrónica?",
+    "¿Qué requisitos debo cumplir para utilizar la e.firma?"
   ]
 }

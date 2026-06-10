@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:590d4426bdc93e13",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Traba de bienes embargados",
+  "denominacion_comun": "Embargo de bienes",
   "temas": [
     "embargo",
     "bienes",
-    "diligencia",
-    "depositario",
-    "autoridades fiscales",
     "derecho de prelación",
-    "controversia",
+    "autoridades fiscales",
+    "depositario",
+    "tribunales judiciales",
     "interés fiscal"
   ],
   "terminos_coloquiales": [
-    "traba de bienes",
-    "embargo fiscal",
-    "bienes embargados"
+    "embargo de bienes",
+    "derecho de prelación",
+    "conflicto de embargos",
+    "interés de Hacienda"
   ],
-  "resumen": "El artículo establece que si los bienes destinados para una traba ya están embargados o sujetos a cédula hipotecaria, se procederá con la diligencia correspondiente, entregando los bienes a un depositario designado. También señala el procedimiento cuando los bienes están embargados por autoridades fiscales locales y cómo se manejarán las controversias que surjan.",
+  "resumen": "El artículo establece que los bienes embargados por autoridades no fiscales se seguirán embargando y se entregarán a un depositario designado. Si los bienes ya están embargados por autoridades fiscales locales, se procederá de manera similar, pero se informará a la autoridad local y se resolverán las controversias en tribunales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis bienes están embargados por otras autoridades?",
-    "¿Cómo se procede con bienes ya embargados en una traba?",
-    "¿Quién designa al depositario de los bienes embargados?",
-    "¿Qué sucede si hay inconformidad respecto a la traba?",
-    "¿Cómo se garantiza el interés fiscal en el proceso?"
+    "¿Qué pasa si mis bienes ya están embargados por otra autoridad?",
+    "¿Cómo se determina quién se queda con los bienes embargados?",
+    "¿Qué hacer si hay un conflicto entre embargos de diferentes autoridades?",
+    "¿Cómo se garantiza el interés fiscal durante un embargo?",
+    "¿Qué autoridad decide sobre el depósito de bienes embargados?"
   ]
 }

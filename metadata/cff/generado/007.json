@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70823b8ed991bc66",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Vigencia de leyes fiscales",
+  "denominacion_comun": "Entrada en vigor de leyes fiscales",
   "temas": [
-    "entrada en vigor",
-    "publicación oficial",
-    "Diario Oficial de la Federación",
-    "disposiciones fiscales"
+    "leyes fiscales",
+    "reglamentos",
+    "disposiciones administrativas",
+    "publicación",
+    "Diario Oficial de la Federación"
   ],
   "terminos_coloquiales": [
-    "fecha de entrada",
-    "vigencia de la ley",
-    "DOF"
+    "cuando entran en vigor las leyes fiscales",
+    "publicaciones en el Diario Oficial",
+    "vigencia de leyes",
+    "nuevas leyes fiscales"
   ],
-  "resumen": "Las leyes fiscales y sus reglamentos comienzan a aplicarse al día siguiente de su publicación en el Diario Oficial de la Federación, a menos que indiquen una fecha específica de inicio. Esto es importante para conocer cuándo deben cumplirse las nuevas obligaciones fiscales.",
+  "resumen": "Las leyes fiscales y sus reglamentos comienzan a aplicarse al día siguiente de su publicación en el Diario Oficial de la Federación, a menos que se indique una fecha diferente. Esto aplica en toda la República.",
   "preguntas_ejemplo": [
-    "¿Cuándo entra en vigor una nueva ley fiscal?",
+    "¿Cuándo entran en vigor las nuevas leyes fiscales?",
     "¿Dónde se publican las leyes fiscales?",
-    "¿Qué pasa si la ley dice que entra en vigor en una fecha posterior?",
-    "¿Cómo sé si una disposición fiscal ya es aplicable?",
-    "¿Qué significa que la ley fiscales se publique en el DOF?"
+    "¿Qué significa que una ley fiscal esté vigente?",
+    "¿Qué pasa si no hay fecha de entrada en vigor en una ley?",
+    "¿Cómo me entero de las nuevas disposiciones fiscales?"
   ]
 }

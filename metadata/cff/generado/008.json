@@ -6,23 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5459edbee5b0458",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Territorio Nacional",
+  "denominacion_comun": "Territorio nacional",
   "temas": [
-    "Definición de México",
-    "Territorio Nacional",
-    "Zona Económica Exclusiva",
-    "Límites del País"
+    "territorio nacional",
+    "zona económica exclusiva",
+    "efectos fiscales",
+    "Constitución Política"
   ],
   "terminos_coloquiales": [
-    "territorio nacional",
-    "zona económica exclusiva"
+    "México",
+    "territorio",
+    "fronteras",
+    "mar territorial"
   ],
-  "resumen": "El artículo define a México y su territorio nacional según lo que establece la Constitución. Incluye también la zona económica exclusiva que se encuentra fuera del mar territorial.",
+  "resumen": "El artículo define lo que se considera como territorio nacional para efectos fiscales, incluyendo la zona económica exclusiva fuera del mar territorial. Esto es relevante para entender la aplicación de las leyes fiscales en México.",
   "preguntas_ejemplo": [
-    "¿Qué se considera territorio nacional en México?",
-    "¿Qué es la zona económica exclusiva?",
-    "¿Cómo se define México en términos fiscales?"
+    "¿Qué se considera territorio nacional para efectos fiscales?",
+    "¿Cuál es la zona económica exclusiva de México?",
+    "¿Qué incluye el concepto de México en el contexto fiscal?",
+    "¿Qué establece la Constitución sobre el territorio nacional?",
+    "¿Cómo afecta el territorio nacional a las leyes fiscales?"
   ]
 }

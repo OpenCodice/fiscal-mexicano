@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e16ffaa834fe399",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Garantías Fiscales",
+  "denominacion_comun": "Ejecución de garantías fiscales",
   "temas": [
-    "ejecución administrativa",
     "garantías fiscales",
-    "fianza",
-    "depósito en dinero",
-    "cartas de crédito",
-    "obligaciones fiscales",
-    "recargos"
+    "procedimiento administrativo de ejecución",
+    "fianzas",
+    "depósito de dinero",
+    "títulos y valores",
+    "recargos",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "garantías fiscales",
-    "ejecución de garantías",
-    "fianza fiscal",
-    "depósitos de garantía",
-    "cobro de deudas fiscales"
+    "fianza",
+    "depósito bancario",
+    "crédito fiscal",
+    "cobro de deudas fiscales",
+    "carta de crédito",
+    "recargos por falta de pago"
   ],
-  "resumen": "Este artículo establece el procedimiento administrativo para hacer efectivas las garantías que aseguran el interés fiscal, ya sean depósitos en dinero o fianzas. Se detallan las acciones que debe tomar la autoridad fiscal y las obligaciones de las instituciones emisoras de pólizas de fianza y las casas de bolsa o instituciones de crédito relacionadas.",
+  "resumen": "Este artículo establece cómo se hacen efectivas las garantías fiscales a través de un procedimiento administrativo. Incluye detalles sobre el uso de fianzas y depósitos de dinero, así como las consecuencias por no cumplir con los pagos de obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué ocurre si no pago mi deuda fiscal garantizada con una fianza?",
-    "¿Cómo se ejecutan las garantías fiscales?",
-    "¿Qué debería hacer si recibo un requerimiento de pago de la autoridad fiscal?",
-    "¿Cuáles son las consecuencias de no cumplir con el pago de garantías fiscales?",
-    "¿Puedo oponerme a la venta de mis fianzas fiscales?"
+    "¿Cómo se ejecuta una garantía fiscal?",
+    "¿Qué pasa si no pago mi fianza a tiempo?",
+    "¿Qué son los recargos por falta de pago de créditos fiscales?",
+    "¿Qué debo hacer si recibo un requerimiento de pago de una institución de fianzas?",
+    "¿Cómo se venden los títulos o valores en caso de ejecución de garantías?"
   ]
 }

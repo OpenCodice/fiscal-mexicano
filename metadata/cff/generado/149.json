@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a600b31b9e71a08b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Preferencia del fisco federal",
+  "denominacion_comun": "Preferencia de créditos fiscales",
   "temas": [
     "créditos fiscales",
-    "preferencia del fisco",
+    "preferencia",
     "garantías",
-    "inscripción en registro público",
-    "juicios universales",
+    "juicios",
     "quiebra",
-    "suspensión de pagos",
-    "concurso"
+    "concursos"
   ],
   "terminos_coloquiales": [
-    "preferencia fiscal",
     "créditos del fisco",
-    "garantías fiscales",
+    "pago de impuestos",
+    "deudas fiscales",
     "juicio de quiebra"
   ],
-  "resumen": "El fisco federal tiene preferencia para cobrar créditos fiscales antes que otras deudas, salvo en ciertos casos como deudas de alimentos o salarios. Para que esto aplique, las garantías deben estar debidamente inscritas y el fisco no participa en juicios de quiebra.",
+  "resumen": "El fisco federal tiene prioridad para cobrar deudas fiscales, a menos que estas estén garantizadas por prenda o hipoteca, alimentos, sueldos devengados del último año o indemnizaciones. Para esto, las garantías deben estar registradas y en caso de créditos por alimentos, se debe haber presentado una demanda.",
   "preguntas_ejemplo": [
-    "¿Qué deudas tiene preferencia el fisco federal?",
-    "¿Cómo se inscriben las garantías para el fisco?",
-    "¿Qué ocurre si estoy en quiebra y tengo deudas fiscales?",
-    "¿El fisco puede cobrar mis salarios devengados?",
-    "¿Cuáles son las excepciones a la preferencia del fisco?",
-    "¿Qué requisitos debo cumplir para que aplique la excepción de la preferencia fiscal?"
+    "¿Quién tiene preferencia para cobrar deudas fiscales?",
+    "¿Qué excepciones hay para los créditos fiscales?",
+    "¿Qué debo hacer si tengo deudas garantizadas?",
+    "¿Cómo se procede en casos de quiebra con deudas fiscales?",
+    "¿Qué pasa si tengo una demanda de alimentos y deudas fiscales?"
   ]
 }

@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca34a1dde9acf043",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Nombramiento de interventor administrador",
   "temas": [
-    "interventor",
-    "administrador",
+    "interventores",
+    "administradores",
     "registro público",
-    "negociación intervenida"
+    "domicilio",
+    "negociación"
   ],
   "terminos_coloquiales": [
     "interventor",
     "administrador",
+    "anotación en el registro",
     "registro de interventores"
   ],
-  "resumen": "El nombramiento de un interventor administrador debe registrarse en el registro público correspondiente al lugar donde se encuentra la negociación que está siendo intervenida.",
+  "resumen": "El nombramiento de un interventor administrador debe ser registrado en el registro público correspondiente al lugar donde se lleva a cabo la negociación intervenida.",
   "preguntas_ejemplo": [
-    "¿Cómo se registra el nombramiento de un interventor?",
-    "¿Qué se necesita para nombrar a un administrador en una negociación?",
-    "¿Dónde se anota el nombramiento de un interventor?",
-    "¿Qué es un interventor administrador?"
+    "¿Cómo se nombra a un interventor administrador?",
+    "¿Dónde se debe registrar el nombramiento de un interventor?",
+    "¿Qué es un registro público en relación a negociaciones?",
+    "¿Es necesario anotar el nombramiento en el registro público?",
+    "¿Qué implica ser un interventor administrador?"
   ]
 }

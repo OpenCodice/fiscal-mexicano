@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6200b3e8b30a1496",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Extinción de créditos fiscales",
@@ -13,24 +14,20 @@
     "créditos fiscales",
     "entidades paraestatales",
     "liquidación",
-    "extinción de créditos",
-    "patrimonio",
-    "auditoría externa",
-    "cobro de créditos",
-    "cancelación de cuentas"
+    "extinción",
+    "gobierno federal"
   ],
   "terminos_coloquiales": [
-    "extinción de deudas fiscales",
-    "cancelación de créditos",
-    "liquidación de entidades",
-    "créditos fiscales en liquidación"
+    "cancelación de deudas fiscales",
+    "créditos fiscales que ya no se cobran",
+    "deudas de entidades en liquidación"
   ],
-  "resumen": "Se establece que los créditos fiscales a cargo de entidades en liquidación o extinción se extinguen automáticamente sin necesidad de autorización, siempre que cumplan ciertos requisitos. Estos incluyen tener un dictamen de auditoría que confirme la falta de activos para el cobro de esos créditos.",
+  "resumen": "El artículo establece que los créditos fiscales a cargo de entidades paraestatales en proceso de liquidación se extinguirán automáticamente si se cumplen ciertos requisitos, como la falta de activos para el cobro. Además, se requiere que el Servicio de Administración y Enajenación de Bienes informe a las autoridades fiscales sobre esta situación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los créditos fiscales de una entidad en liquidación?",
-    "¿Se pueden cancelar deudas fiscales de una entidad paraestatal que está cerrando?",
-    "¿Qué requisitos se necesitan para extinguir créditos fiscales?",
-    "¿Cómo se informan las autoridades fiscales sobre la extinción de créditos?",
-    "¿Qué es un dictamen de auditoría externa en este contexto?"
+    "¿Qué pasa con las deudas fiscales de una entidad paraestatal en liquidación?",
+    "¿Se pueden cancelar créditos fiscales sin autorización?",
+    "¿Qué requisitos se necesitan para extinguir créditos fiscales de entidades en liquidación?",
+    "¿Quién debe informar a Hacienda sobre la extinción de créditos fiscales?",
+    "¿Qué significa que un crédito fiscal se extinga de pleno derecho?"
   ]
 }

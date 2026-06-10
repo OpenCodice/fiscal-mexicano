@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:492a0afed93ad44c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información de operaciones fiscales",
+  "denominacion_comun": "Información Financiera",
   "temas": [
     "operaciones financieras",
     "partes relacionadas",
     "cambio de residencia fiscal",
     "reorganizaciones corporativas",
     "enajenaciones",
-    "aportaciones",
     "pérdidas fiscales",
-    "dividendos"
+    "pago de dividendos"
   ],
   "terminos_coloquiales": [
-    "información fiscal trimestral",
-    "reportes de operaciones",
-    "CFF Art. 31-A"
+    "información contable",
+    "operaciones con empresas relacionadas",
+    "cambio de domicilio fiscal",
+    "reestructuraciones",
+    "venta de activos",
+    "declaración de pérdidas",
+    "distribución de utilidades"
   ],
-  "resumen": "El artículo establece que los contribuyentes deben presentar información trimestral sobre diversas operaciones financieras relacionadas con su contabilidad. Esto incluye situaciones como operaciones con partes relacionadas y cambios en la residencia fiscal, entre otros.",
+  "resumen": "Los contribuyentes deben reportar trimestralmente diversas operaciones financeiras basadas en su contabilidad. Si presentan información incompleta o errónea, tienen un plazo para corregirla. No cumplir con esta obligación puede resultar en sanciones.",
   "preguntas_ejemplo": [
-    "¿Qué operaciones debo reportar trimestralmente?",
-    "¿Cómo presento la información de mis operaciones financieras?",
-    "¿Qué pasa si presento información incompleta?",
-    "¿Cuáles son las consecuencias de no cumplir con el reporte de operaciones?",
-    "¿Qué se considera como operaciones relevantes según el artículo 31-A?"
+    "¿Qué tipo de operaciones financieras debo reportar?",
+    "¿Cuándo debo enviar la información trimestral al SAT?",
+    "¿Qué pasa si mi reporte está incompleto?",
+    "¿Qué son las operaciones con partes relacionadas?",
+    "¿Cómo se manejan las pérdidas fiscales en la declaración?",
+    "¿Hay un formato específico para presentar esta información?"
   ]
 }

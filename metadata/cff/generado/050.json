@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:061ef8132ed2a610",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resolución de contribuciones omitidas",
+  "denominacion_comun": "Determinación de contribuciones omitidas",
   "temas": [
-    "visitas a contribuyentes",
+    "resolución de contribuciones",
+    "plazos de notificación",
     "facultades de comprobación",
-    "contribuciones omitidas",
-    "plazos de resolución",
-    "medios de defensa",
-    "impugnación de resoluciones"
+    "actas finales de visita"
   ],
   "terminos_coloquiales": [
-    "resolución de contribuciones",
-    "revisión fiscal",
-    "visitas de la autoridad",
-    "acta de inspección"
+    "avisos de contribuciones",
+    "revisiones fiscales",
+    "plazo de respuesta",
+    "defensa ante la autoridad",
+    "buzón tributario"
   ],
-  "resumen": "Las autoridades fiscales tienen un plazo para notificar a los contribuyentes sobre contribuciones que no se han pagado, después de realizar visitas o revisiones. Si se presentan medios de defensa, este plazo se suspende hasta que se resuelva el asunto. Si no se emite la resolución a tiempo, las actuaciones quedan sin efectos.",
+  "resumen": "Este artículo establece que las autoridades fiscales deben determinar las contribuciones omitidas a los contribuyentes mediante una resolución que se notificará en un plazo máximo de seis meses. También menciona que si los contribuyentes interponen recursos, dicho plazo se suspenderá hasta que se resuelva el medio de defensa.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me notifican la resolución a tiempo?",
-    "¿Cuánto tiempo tienen las autoridades para determinar las contribuciones omitidas?",
-    "¿Qué sucede si interpongo un recurso contra el acta de revisión?",
-    "¿Cuál es el plazo para impugnar una resolución fiscal?",
-    "¿Qué se considera un incumplimiento fiscal durante una revisión?"
+    "¿Qué pasa si no recibo la resolución de mis contribuciones a tiempo?",
+    "¿Cuánto tiempo tiene la autoridad para notificarme sobre contribuciones omitidas?",
+    "¿Qué hago si quiero impugnar el acta final de la visita?",
+    "¿Qué sucede si se interponen medios de defensa durante el proceso?",
+    "¿Cómo se determina el plazo para impugnar la resolución de contribuciones?"
   ]
 }

@@ -6,34 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:411711c8f4416d85",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presunción de transmisión indebida de pérdidas fiscales",
+  "denominacion_comun": "Pérdidas fiscales indebidas",
   "temas": [
+    "presunción de transmisión indebida",
     "pérdidas fiscales",
-    "transmisión indebida",
-    "restructuración",
-    "escisión",
-    "fusión",
-    "deducciones",
-    "operaciones entre partes relacionadas",
+    "grupo fiscal",
+    "restructuración de sociedades",
+    "deducciones fiscales",
+    "notificación a contribuyentes",
     "buzón tributario",
-    "prórroga",
-    "notificación"
+    "prórroga de plazos"
   ],
   "terminos_coloquiales": [
-    "transmisión de pérdidas",
-    "perdidas fiscales",
-    "pérdidas fiscales indebidas",
-    "CFF",
-    "Artículo 69-B Bis"
+    "pérdidas fiscales",
+    "perder deducciones",
+    "cambio de accionistas",
+    "reestructuraciones",
+    "escisiones",
+    "fusiones",
+    "buzón tributario"
   ],
-  "resumen": "La autoridad fiscal puede suponer que ha habido una transmisión indebida de derechos a disminuir pérdidas fiscales en ciertos casos como reestructuraciones o cambios de accionistas. Se notificará al contribuyente para que pueda desvirtuar dicha sospecha y demostrar que su situación es legítima.",
+  "resumen": "El artículo establece que la autoridad fiscal puede presuponer la transmisión indebida de pérdidas fiscales si identifica ciertas condiciones en un contribuyente. También describe el proceso de notificación y la posibilidad de solicitar prórrogas para presentar documentación y desvirtuar la presunción.",
   "preguntas_ejemplo": [
-    "¿Qué es la transmisión indebida de pérdidas fiscales?",
-    "¿Cuáles son los supuestos para considerar que hay transmisión indebida de pérdidas?",
-    "¿Cómo puedo desvirtuar la notificación de la autoridad fiscal sobre mis pérdidas?",
-    "¿Qué plazo tengo para responder a la autoridad sobre la presunción de transmisión de pérdidas?",
-    "¿Qué sucede si no corregí mi situación fiscal después de la notificación?"
+    "¿Cómo sabe la autoridad si hice una transmisión indebida de pérdidas fiscales?",
+    "¿Qué sucede si no desvirtuo la presunción sobre mis pérdidas fiscales?",
+    "¿Puedo pedir más tiempo para responder a la autoridad sobre mis pérdidas fiscales?",
+    "¿Qué procesos debo seguir si mi registro de contribuyente está cancelado?",
+    "¿Cuáles son las consecuencias de no corregir mi situación fiscal después de recibir la notificación?"
   ]
 }

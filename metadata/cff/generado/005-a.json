@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:721b4b9b617d7098",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Razón de Negocios",
@@ -13,23 +14,28 @@
     "actos jurídicos",
     "beneficio fiscal",
     "razón de negocios",
-    "comprobación fiscal",
-    "opinión colegiada",
-    "presunción fiscal"
+    "presunción de falta de razón de negocios",
+    "opinión de órgano colegiado",
+    "beneficio económico",
+    "recaracterización",
+    "contribuciones"
   ],
   "terminos_coloquiales": [
     "razón de negocios",
-    "presunción de beneficio fiscal",
-    "código fiscal",
-    "actos sin razón de negocios"
+    "beneficio fiscal",
+    "deducciones",
+    "exenciones",
+    "actos fiscales",
+    "SAT",
+    "Secretaría de Hacienda"
   ],
-  "resumen": "El artículo establece que los actos jurídicos sin razón de negocios que generan un beneficio fiscal tienen efectos fiscales correspondientes. La autoridad fiscal puede presumir la falta de razón de negocios y debe seguir un proceso específico antes de desconocer estos actos. Además, define lo que se considera como beneficios fiscales y económicos.",
+  "resumen": "Este artículo establece que los actos jurídicos deben tener una razón de negocios para obtener beneficios fiscales. Si no la tienen, la autoridad fiscal puede presuponer que son válidos, pero debe informar al contribuyente. También habla sobre la opinión de un órgano colegiado y menciona qué se considera un beneficio fiscal y económico.",
   "preguntas_ejemplo": [
-    "¿Qué es la razón de negocios en la fiscalidad?",
-    "¿Cómo puede la autoridad fiscal presumir que un acto no tiene razón de negocios?",
-    "¿Qué sucede si no hay una razón de negocios para un beneficio fiscal?",
-    "¿Qué tipo de beneficios fiscales se consideran bajo este artículo?",
-    "¿Cuál es el proceso para que la autoridad fiscal evalúe actos jurídicos?",
-    "¿Qué se entiende por beneficio económico razonablemente esperado?"
+    "¿Qué implica no tener razón de negocios en mis actos jurídicos?",
+    "¿Cómo puedo demostrar que mis actos jurídicos tienen una razón de negocios?",
+    "¿Qué pasa si la autoridad fiscal presume que no tengo razón de negocios?",
+    "¿Qué beneficios fiscales se pueden obtener si demuestro razón de negocios?",
+    "¿Qué es un órgano colegiado en el contexto de la razón de negocios?",
+    "¿Cómo se determina el beneficio económico razonablemente esperado?"
   ]
 }

@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:57db8e6cd1db7491",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones por buzón tributario",
+  "denominacion_comun": "Buzón Tributario",
   "temas": [
-    "buzón tributario",
     "infracciones fiscales",
-    "medios de contacto",
+    "obligaciones del contribuyente",
+    "buzón tributario",
     "actualización de datos"
   ],
   "terminos_coloquiales": [
-    "infracción por buzón",
-    "no actualizar el buzón",
-    "artículo 17-K"
+    "buzón tributario",
+    "no registrar el buzón",
+    "actualizar datos fiscales"
   ],
-  "resumen": "No habilitar el buzón tributario o no mantener actualizados los medios de contacto se considera una infracción. Esto implica que los contribuyentes deben cumplir con esta obligación para evitar sanciones.",
+  "resumen": "El artículo establece que no habilitar o no actualizar el buzón tributario es considerado una infracción por parte de los contribuyentes. Esto implica que se deben mantener los datos de contacto actualizados conforme a la normativa fiscal.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no habilito mi buzón tributario?",
-    "¿Cuáles son las infracciones relacionadas con el buzón tributario?",
-    "¿Tengo que actualizar mis medios de contacto para el SAT?",
-    "¿Qué dice el artículo 17-K sobre el buzón tributario?",
-    "¿Cuáles son las consecuencias de no tener el buzón habilitado?"
+    "¿Cuáles son las consecuencias de no actualizar mis datos fiscales?",
+    "¿Qué infracciones se pueden cometer respecto al buzón tributario?",
+    "¿Es obligatorio tener habilitado el buzón tributario?",
+    "¿Qué debo hacer para mantener mi buzón tributario actualizado?"
   ]
 }

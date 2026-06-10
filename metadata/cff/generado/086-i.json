@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8972bcb4a7fc1606",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones sobre tabacos",
+  "denominacion_comun": "Infracciones por tabacos",
   "temas": [
     "infracciones",
     "cigarros",
     "tabacos labrados",
     "código de seguridad",
-    "Ley del Impuesto Especial",
-    "artículo 19",
-    "artículo 19-A"
+    "Ley del Impuesto Especial sobre Producción y Servicios"
   ],
   "terminos_coloquiales": [
+    "cigarros",
+    "tabaco",
+    "ventas de tabacos",
     "venta de cigarros",
-    "cajetillas de tabaco",
-    "infracciones fiscales",
-    "código de seguridad",
-    "IEPS"
+    "código de seguridad"
   ],
-  "resumen": "Se considera infracción almacenar, vender o distribuir cajetillas de cigarros y otros tabacos labrados en México si no tienen el código de seguridad adecuado. Los puros y tabacos hechos a mano están excluidos.",
+  "resumen": "Se considera una infracción almacenar, vender o distribuir cigarros y tabacos labrados en México que no tengan el código de seguridad requerido o que este sea falso. Existen excepciones para los puros y los tabacos hechos a mano.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si vendo cigarros sin código de seguridad?",
-    "¿Cuáles son las infracciones relacionadas con el tabaco?",
-    "¿Qué tipos de tabacos están excluidos de estas reglas?",
-    "¿Qué es el código de seguridad en el tabaco?",
-    "¿Hay sanciones por distribución de cigarros sin el código correcto?"
+    "¿Qué pasa si vendo cigarros sin el código de seguridad?",
+    "¿Cuáles son las infracciones relacionadas con el tabaco en México?",
+    "¿Se puede vender tabacos labrados sin cumplir con la ley?",
+    "¿Qué tipos de tabacos están exentos de las regulaciones?",
+    "¿Qué es el código de seguridad para tabacos?"
   ]
 }

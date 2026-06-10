@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e644e82357232d1e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Presunción de legalidad de actos fiscales",
@@ -13,19 +14,21 @@
     "actos fiscales",
     "resoluciones fiscales",
     "presunción de legalidad",
-    "carga de la prueba"
+    "carga de la prueba",
+    "negativa de actos",
+    "hechos afirmativos"
   ],
   "terminos_coloquiales": [
-    "actos fiscales legales",
-    "resoluciones de autoridad",
-    "presunción de legalidad"
+    "actos de la autoridad",
+    "resoluciones de impuestos",
+    "presunción legal"
   ],
-  "resumen": "Los actos y resoluciones de las autoridades fiscales se consideran legales, pero si alguien los niega, las autoridades deben probar que son válidos, a menos que la negación implique otro hecho.",
+  "resumen": "Los actos y resoluciones de las autoridades fiscales se consideran legales, pero deben demostrar su validez si la persona afectada los niega de manera clara. Si la negativa implica otra afirmación, la carga de la prueba puede cambiar.",
   "preguntas_ejemplo": [
-    "¿Los actos de la autoridad fiscal son siempre legales?",
-    "¿Qué pasa si rechazo una resolución de la autoridad fiscal?",
-    "¿Quién tiene que comprobar la legalidad de un acto fiscal?",
-    "¿Qué significa la presunción de legalidad en impuestos?",
-    "¿Bajo qué circunstancias se puede negar un acto fiscal?"
+    "¿Qué pasa si no estoy de acuerdo con un acto fiscal?",
+    "¿Las resoluciones fiscales siempre son legales?",
+    "¿Qué debo hacer si la autoridad fiscal toma una decisión que no acepto?",
+    "¿Cómo puedo negar un acto de la autoridad fiscal?",
+    "¿Quién debe probar la legalidad de un acto fiscal?"
   ]
 }

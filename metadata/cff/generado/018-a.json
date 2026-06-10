@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23862403e9f5c8c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos para promociones fiscales",
+  "denominacion_comun": "Promociones ante autoridades fiscales",
   "temas": [
     "consultas fiscales",
     "solicitudes de autorización",
-    "requisitos de presentación",
+    "requisitos de promociones",
     "información del contribuyente",
-    "monto de operaciones",
     "hechos y circunstancias",
-    "razones de negocio"
+    "facultades de comprobación",
+    "plazos para resoluciones"
   ],
   "terminos_coloquiales": [
+    "consultas fiscales",
+    "solicitudes ante Hacienda",
     "promociones fiscales",
-    "requisitos de promociones",
-    "artículo 18-A",
-    "CFF"
+    "requisitos para solicitar a Hacienda"
   ],
-  "resumen": "Este artículo establece los requisitos que deben cumplir las promociones fiscales cuando no hay forma oficial para consultas o solicitudes. Se solicitan datos del contribuyente, descripción de actividades y montos de las operaciones.",
+  "resumen": "El artículo establece los requisitos que deben cumplir las promociones presentadas ante las autoridades fiscales, incluyendo información sobre el contribuyente, descripciones de operaciones y actividades, y antecedentes de consultas previas. Si no se cumplen estos requisitos, se aplicará lo dispuesto en el artículo 18 del mismo código.",
   "preguntas_ejemplo": [
+    "¿Qué requisitos necesito para hacer una consulta a Hacienda?",
+    "¿Cómo presento una solicitud de autorización ante la autoridad fiscal?",
     "¿Qué información debo incluir en una promoción fiscal?",
-    "¿Cuáles son los requisitos para presentar una consulta a la autoridad fiscal?",
-    "¿Qué pasa si no cumplo con los requisitos en una solicitud fiscal?",
-    "¿Qué se requiere para presentar solicitudes de autorización tributaria?",
-    "¿Cómo describo las actividades de mi negocio en una promoción fiscal?"
+    "¿Qué sucede si no cumplo con los requisitos de mi solicitud ante Hacienda?",
+    "¿Qué datos son necesarios para señalar en la promoción fiscal?"
   ]
 }

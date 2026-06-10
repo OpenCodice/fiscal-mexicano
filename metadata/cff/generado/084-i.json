@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:65632d46a89018cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones por emisión de estados de cuenta",
   "temas": [
-    "infracciones",
+    "infracción",
     "tarjetas de crédito",
     "tarjetas de débito",
     "monederos electrónicos",
-    "obligaciones fiscales",
-    "estado de cuenta"
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "infracciones por tarjetas",
-    "tarjetas no reportadas",
-    "monederos electrónicos",
+    "no dar estados de cuenta",
+    "tarjetas",
+    "monederos",
     "SAT"
   ],
-  "resumen": "Se considera una infracción no expedir estados de cuenta que cumplan con las disposiciones aplicables para tarjetas de crédito, de débito y monederos electrónicos autorizados por el SAT.",
+  "resumen": "Se establece que es una infracción no expedir los estados de cuenta de tarjetas y monederos electrónicos según las reglas del SAT. Esto aplica a las personas que emiten estos productos financieros.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no expido estados de cuenta de tarjetas?",
-    "¿Cuáles son las infracciones por emisión de tarjetas de débito?",
-    "¿Qué obligaciones tengo al manejar monederos electrónicos?",
-    "¿Qué hace el SAT si no cumplo con las normas de cuentas?",
-    "¿Qué tipo de infracciones hay en relación con las tarjetas de crédito?"
+    "¿Qué pasa si no emito estados de cuenta de mi tarjeta?",
+    "¿Qué es lo que debo hacer con los estados de cuenta de un monedero electrónico?",
+    "¿Cuáles son las consecuencias de no cumplir con las obligaciones del SAT en este tema?",
+    "¿Qué se considera una infracción en relación con tarjetas y monederos electrónicos?",
+    "¿Quién es responsable de emitir los estados de cuenta obligatorios?"
   ]
 }

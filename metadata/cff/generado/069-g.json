@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0800eb180f45258b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acuerdo Conclusivo",
   "temas": [
     "reducción de multas",
     "sanciones fiscales",
-    "acuerdo conclusivo",
-    "derechos del contribuyente"
+    "derechos del contribuyente",
+    "resoluciones fiscales"
   ],
   "terminos_coloquiales": [
-    "reducción de multas",
     "acuerdo conclusivo",
-    "Ley de Derechos del Contribuyente"
+    "reducir multas",
+    "bajar sanciones"
   ],
-  "resumen": "El contribuyente que firme un acuerdo conclusivo puede reducir sus multas completamente en la primera ocasión. Para las siguientes ocasiones, la reducción dependerá de lo que indique la Ley Federal de los Derechos del Contribuyente.",
+  "resumen": "El contribuyente que firme un acuerdo conclusivo puede reducir al 100% las multas una sola vez. Si firma más de una vez, se aplicarán reducciones de sanciones según lo que dice otra ley. Esta reducción no da derecho a devoluciones ni compensaciones.",
   "preguntas_ejemplo": [
-    "¿Qué es un acuerdo conclusivo?",
     "¿Cómo puedo reducir las multas fiscales?",
-    "¿Cuánto se puede reducir en el acuerdo conclusivo?",
-    "¿Qué pasa después de un acuerdo conclusivo?",
-    "¿Qué establece la Ley de Derechos del Contribuyente sobre las sanciones?"
+    "¿Qué es un acuerdo conclusivo?",
+    "¿Puedo bajar la sanción si firmo nuevamente?",
+    "¿Qué pasa si firmo un acuerdo conclusivo más de una vez?",
+    "¿Hay algún beneficio por firmar un acuerdo conclusivo?"
   ]
 }

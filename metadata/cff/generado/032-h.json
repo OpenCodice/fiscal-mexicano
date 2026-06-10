@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2fd8b96bb7766950",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración de situación fiscal",
+  "denominacion_comun": "Información fiscal anual",
   "temas": [
-    "contribuyentes",
-    "declaración anual",
+    "declaración de impuestos",
+    "situación fiscal",
     "ingresos acumulables",
     "sociedades mercantiles",
-    "entidades paraestatales",
     "personas morales",
-    "operaciones con el extranjero"
+    "establecimientos permanentes",
+    "partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "declaración fiscal",
-    "ingresos declarados",
-    "Régimen opcional para grupos de sociedades",
-    "personas morales"
+    "declaración anual",
+    "impuesto sobre la renta",
+    "régimen opcional para grupos de sociedades",
+    "entidades paraestatales",
+    "personas morales extranjeras",
+    "relación con residentes en el extranjero"
   ],
-  "resumen": "Este artículo establece quiénes deben presentar información sobre su situación fiscal en su declaración anual, incluyendo límites de ingresos y tipos de contribuyentes como sociedades, entidades paraestatales y personas morales. También se menciona la obligación de informar sobre operaciones entre contribuyentes y residentes en el extranjero.",
+  "resumen": "Los contribuyentes deben presentar información sobre su situación fiscal al realizar su declaración anual. Esto incluye ciertos requisitos para diferentes tipos de contribuyentes, como sociedades y entidades paraestatales.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben presentar la declaración de situación fiscal?",
-    "¿Qué ingresos se consideran para la declaración anual?",
-    "¿Qué tipos de sociedades están obligadas a informar sobre su situación fiscal?",
-    "¿Las personas morales en el extranjero tienen que declarar en México?",
-    "¿Cómo se actualiza el monto para declarar ingresos acumulables?"
+    "¿Qué información debo presentar en mi declaración anual?",
+    "¿Quiénes están obligados a informar sobre su situación fiscal?",
+    "¿Qué son los ingresos acumulables para el impuesto sobre la renta?",
+    "¿Qué requisitos tienen las sociedades mercantiles en su declaración?",
+    "¿Cómo afectan las operaciones con extranjeros a mi declaración?"
   ]
 }

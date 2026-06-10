@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3261c80eec41e25",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Determinación Presuntiva de Ingresos",
   "temas": [
-    "determinación presuntiva",
     "ingresos brutos",
-    "actos o actividades",
-    "comprobación fiscal",
+    "contribuciones",
     "gasolinas",
-    "diésel",
+    "diesel",
     "gas natural",
     "gas licuado",
-    "instalaciones metropolitanas"
+    "instalaciones",
+    "regulación",
+    "fiscalización"
   ],
   "terminos_coloquiales": [
-    "determinación de ingresos",
-    "presunción de ingresos",
-    "CFF",
-    "ingresos sobre gasolina",
-    "ingresos sobre diésel"
+    "ingresos",
+    "auto",
+    "gasolina",
+    "diesel",
+    "gas natural",
+    "gas LP",
+    "estaciones de servicio"
   ],
-  "resumen": "El artículo establece cómo las autoridades fiscales pueden calcular los ingresos brutos de los contribuyentes usando diferentes métodos, incluyendo la información de contabilidad, declaraciones anteriores y datos de terceros. También se especifican ciertos procedimientos para el cálculo de ingresos en el caso de hidrocarburos en zonas metropolitanas.",
+  "resumen": "Este artículo establece cómo las autoridades fiscales pueden calcular los ingresos brutos de los contribuyentes mediante distintos procedimientos, incluidos datos contables, declaraciones y información de terceros. También se mencionan métodos específicos para determinar ingresos en el ámbito de las gasolinas y otros petrolíferos.",
   "preguntas_ejemplo": [
-    "¿Cómo determinan mis ingresos si no tengo contabilidad?",
-    "¿Qué métodos utilizan las autoridades fiscales para calcular mis ingresos brutos?",
-    "¿Cómo se calcula el ingreso por venta de gasolinas?",
-    "¿Qué pasa si no tengo pruebas de mis ventas de hidrocarburos?",
-    "¿Qué información necesitan las autoridades fiscales para determinar mis ingresos?"
+    "¿Cómo determina la autoridad mis ingresos brutos?",
+    "¿Qué métodos usan las autoridades fiscales para calcular mis contribuciones?",
+    "¿Qué procedimientos se aplican para responder a facultades de revisión?",
+    "¿Cómo se calculan mis ingresos si vendo gasolina?",
+    "¿Qué pasa si tengo una estación de servicio en una zona metropolitana?"
   ]
 }

@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0463801b86af4534",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prohibición de Adquisición en Remates",
+  "denominacion_comun": "Prohibición de adquirir bienes en remate",
   "temas": [
-    "remates",
-    "prohibiciones",
-    "sanciones",
-    "procedimientos administrativos"
+    "remate",
+    "bienes",
+    "fisco",
+    "sanciones"
   ],
   "terminos_coloquiales": [
-    "remate",
-    "bueno en remate",
-    "prohibido comprar en remate",
-    "remate nulo"
+    "remates",
+    "bienes embargados",
+    "compra en remate"
   ],
-  "resumen": "No se permite adquirir bienes en remates si eres parte del fisco o has intervenido en el procedimiento. Cualquier remate hecho en violación a esta regla será considerado nulo.",
+  "resumen": "No se puede comprar bienes que se rematan si has estado involucrado en el proceso administrativo del fisco. Si alguien lo hace, la compra es nula y habrá sanciones para los infractores.",
   "preguntas_ejemplo": [
-    "¿Quién no puede comprar en un remate?",
-    "¿Qué pasa si alguien compra bienes prohibidos en un remate?",
-    "¿Es válido un remate si hay una infracción?",
-    "¿Qué consecuencias hay por violar las reglas de remate?"
+    "¿Puedo comprar un bien en remate si trabajé en la oficina del fisco?",
+    "¿Qué pasa si adquiero un bien rematado de manera prohibida?",
+    "¿Qué sanciones hay por infringir la prohibición de compra en remate?",
+    "¿Es posible comprar bienes del fisco en remates públicos?",
+    "¿Qué se entiende por remate nulo en términos fiscales?"
   ]
 }

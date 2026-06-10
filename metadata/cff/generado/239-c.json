@@ -6,15 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo derogado",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ya no está en vigor, por lo que su contenido no aplica.",
+  "denominacion_comun": "Derogación del Artículo 239-C",
+  "temas": [
+    "derogación",
+    "legislación fiscal",
+    "CFF"
+  ],
+  "terminos_coloquiales": [
+    "ya no aplica",
+    "fuera de la ley"
+  ],
+  "resumen": "El Artículo 239-C ha sido derogado, lo que significa que ya no tiene efecto legal. Las disposiciones que antes se contenían en este artículo ya no son aplicables.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 239-C?",
-    "¿Está vigente el Artículo 239-C del CFF?",
-    "¿Qué significa que un artículo esté derogado?"
+    "¿Qué significa que se haya derogado el Artículo 239-C?",
+    "¿Cuáles son las implicaciones de la derogación de este artículo?",
+    "¿Este artículo ya no se aplica en la legislación fiscal?",
+    "¿Qué parte de la ley fue afectada por la derogación del artículo?",
+    "¿Existen nuevas leyes que reemplacen el Artículo 239-C?"
   ]
 }

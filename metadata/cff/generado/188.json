@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b401156a2889b4e7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Adjudicación de Inmuebles",
   "temas": [
-    "inmuebles",
+    "escritura",
     "adjudicación",
-    "ejecución",
+    "inmueble",
+    "autoridad ejecutora",
     "desocupación",
-    "propiedad"
+    "terceros",
+    "acreditación legal"
   ],
   "terminos_coloquiales": [
-    "adjudicación de propiedades",
-    "desalojo",
-    "escritura de propiedad",
-    "inmuebles adjudicados"
+    "comprar una casa",
+    "adjudicación de bienes",
+    "desocupar un inmueble"
   ],
-  "resumen": "Este artículo trata sobre el proceso de entrega de un inmueble adjudicado después de firmar la escritura correspondiente. Establece que se puede ordenar la desocupación del inmueble si está habitado por personas que no pueden demostrar legalmente su derecho a estar allí.",
+  "resumen": "El artículo establece que tras firmar la escritura de adjudicación de un inmueble, la autoridad correspondiente debe asegurarse de que se entregue al nuevo propietario, incluso ordenando la desocupación si el inmueble está habitado por alguien que no pueda demostrar su derecho a ocuparlo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa después de que se adjudica un inmueble?",
-    "¿Se puede desalojar a quien vive en un inmueble adjudicado?",
-    "¿Qué ordenes puede girar la autoridad ejecutora?",
-    "¿Qué se necesita para demostrar el uso legal de un inmueble?",
-    "¿Cómo se lleva a cabo la entrega de un inmueble adjudicado?"
+    "¿Qué pasa después de firmar la escritura de un inmueble?",
+    "¿Puede la autoridad desalojar a alguien de un inmueble adjudicado?",
+    "¿Qué requisitos se tienen que cumplir para la entrega de un inmueble?",
+    "¿Quién se encarga de la entrega del inmueble tras la adjudicación?",
+    "¿Qué sucede si hay personas habitando el inmueble adjudicado?"
   ]
 }

@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e15e0dee0c18da6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Terceros Colaboradores Fiscales",
   "temas": [
     "información fiscal",
-    "documentación",
     "comprobantes fiscales",
-    "contribuyentes",
-    "reserva de identidad",
+    "reservas de identidad",
     "sorteos fiscales",
-    "empresas simuladoras"
+    "operaciones inexistentes",
+    "colaboración fiscal"
   ],
   "terminos_coloquiales": [
     "tercero colaborador fiscal",
-    "colaborador fiscal",
     "información de contribuyentes",
-    "facturas simuladas"
+    "facturación simulada",
+    "comprobantes falsos"
   ],
-  "resumen": "Las autoridades fiscales pueden recibir información de terceros que no han estado directamente involucrados en la emisión de comprobantes fiscales, para ayudar en la identificación de contribuyentes con prácticas fiscales inapropiadas. La identidad de estos colaboradores se mantiene en reserva.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden utilizar información de terceros colaboradores fiscales para investigar contribuyentes involucrados en operaciones inexistentes. Estos terceros pueden dar información sin que su identidad sea revelada y pueden participar en sorteos fiscales si su información es verificable.",
   "preguntas_ejemplo": [
     "¿Quiénes son los terceros colaboradores fiscales?",
-    "¿Qué información pueden proporcionar los colaboradores fiscales?",
-    "¿Cómo se mantiene la reserva de identidad de un tercero colaborador fiscal?",
-    "¿Pueden participar los terceros colaboradores en sorteos fiscales?",
-    "¿Qué sucede si un colaborador aporta información sobre operaciones simuladas?"
+    "¿Cómo se protege la identidad de un tercero colaborador?",
+    "¿Qué información pueden proporcionar los terceros colaboradores?",
+    "¿Qué pasa si un tercero colaborador tiene datos sobre facturas falsas?",
+    "¿Pueden los colaboradores participar en sorteos fiscales?"
   ]
 }

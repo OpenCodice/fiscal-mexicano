@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b1c6df1584f9267",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Información Fiscal",
+  "denominacion_comun": "Presentación de Información Fiscal",
   "temas": [
     "retenciones de ISR",
-    "pagos a residentes en el extranjero",
+    "pagos a extranjeros",
     "proveedores",
     "IVA",
     "IEPS",
-    "formatos electrónicos"
+    "información electrónica",
+    "plazo de presentación"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales",
-    "reportes fiscales",
-    "retenciones",
+    "retenciones de impuestos",
+    "pago de impuestos",
+    "información fiscal",
+    "facturas",
     "ISR",
     "IVA",
     "IEPS"
   ],
-  "resumen": "Las entidades del gobierno deben presentar información sobre retenciones de impuesto sobre la renta y pagos a proveedores, así como la relación con residentes en el extranjero. Esta información se debe reportar electrónicamente antes del día 17 del mes siguiente.",
+  "resumen": "Este artículo establece la obligación de la Federación, Entidades Federativas, el Distrito Federal y Municipios de presentar información sobre retenciones de impuestos y pagos a proveedores ante las autoridades fiscales. La información debe entregarse electrónicamente a más tardar el día 17 del mes siguiente.",
   "preguntas_ejemplo": [
-    "¿Qué información debo reportar sobre retenciones de ISR?",
-    "¿Cuándo tengo que presentar mis reportes fiscales?",
-    "¿Qué información sobre mis proveedores es obligatoria presentar?",
-    "¿A quiénes debo reportar si les hice pagos?",
-    "¿Qué es el Título V de la Ley del Impuesto sobre la Renta?"
+    "¿Qué información fiscal debo presentar sobre retenciones de impuestos?",
+    "¿Cuándo se debe entregar la información sobre pagos a proveedores?",
+    "¿Qué tipo de información relacionada con el ISR necesito reportar?",
+    "¿Cómo presento la información de pagos a residentes en el extranjero?",
+    "¿Qué formatos utilizar para la presentación electrónica de información fiscal?"
   ]
 }

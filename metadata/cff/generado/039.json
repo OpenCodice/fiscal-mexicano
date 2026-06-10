@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40758388c6673712",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facultades del Ejecutivo Federal en materia fiscal",
   "temas": [
-    "Condonación de impuestos",
-    "Exención de contribuciones",
-    "Estímulos fiscales",
-    "Procedimientos fiscales"
+    "condonación de contribuciones",
+    "exención fiscal",
+    "subsidios fiscales",
+    "estímulos fiscales",
+    "medidas administrativas fiscales"
   ],
   "terminos_coloquiales": [
-    "Condonación",
-    "Exención",
-    "Estímulos Fiscales",
-    "Resoluciones del Ejecutivo",
-    "CFF"
+    "perdonar impuestos",
+    "no pagar impuestos",
+    "ayuda fiscal",
+    "descuentos fiscales"
   ],
-  "resumen": "El Artículo 39 del CFF otorga al Ejecutivo Federal la facultad de condonar o eximir impuestos, y de dictar medidas sobre administración y pago de contribuciones. También puede conceder subsidios o estímulos fiscales en situaciones especiales.",
+  "resumen": "El Ejecutivo Federal puede condonar o eximir el pago de impuestos en ciertos casos, así como dictar medidas para facilitar el cumplimiento de las obligaciones fiscales. También puede conceder subsidios o estímulos fiscales, especificando los detalles de estas ayudas.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer el Ejecutivo Federal respecto a los impuestos?",
-    "¿Qué es la condonación de contribuciones?",
-    "¿Se pueden exentar impuestos durante desastres?",
-    "¿Qué estímulos fiscales puede otorgar el Gobierno?",
-    "¿Cómo se regulan las medidas fiscales en situaciones de crisis?"
+    "¿Cuándo puedo no pagar impuestos?",
+    "¿Qué son los estímulos fiscales?",
+    "¿El gobierno puede perdonar mis deudas fiscales?",
+    "¿Qué requisitos debo cumplir para recibir ayuda fiscal?",
+    "¿Cómo se administran los subsidios fiscales?"
   ]
 }

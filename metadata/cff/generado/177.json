@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3e76e5881132515c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de acreedores en remates fiscales",
+  "denominacion_comun": "Notificación de acreedores en remates",
   "temas": [
     "acreedores",
     "certificado de gravámenes",
-    "buzón tributario",
     "remate",
-    "publicación de convocatoria"
+    "notificación",
+    "buzón tributario",
+    "convocatoria"
   ],
   "terminos_coloquiales": [
-    "notificación de acreedores",
-    "remate fiscal",
+    "notificación de deudores",
+    "remate",
     "buzón tributario"
   ],
-  "resumen": "Se notificará a los acreedores registrados en el certificado de gravámenes acerca del remate de bienes, ya sea de forma personal o a través del buzón tributario. Si no es posible notificar de alguna manera, se considerará como notificados con la publicación de la convocatoria en la página de las autoridades fiscales.",
+  "resumen": "Este artículo establece cómo deben ser notificados los acreedores en el proceso de remate de bienes, especificando que deben recibir notificación personal o a través del buzón tributario. Si no es posible, se considerarán notificados con la publicación de la convocatoria en la página de las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifica a los acreedores en un remate fiscal?",
-    "¿Qué es el certificado de gravámenes y cómo se utiliza?",
-    "¿Qué pasa si no puedo notificar a los acreedores personalmente?",
-    "¿Dónde se publica la convocatoria para el remate?",
-    "¿Qué información debe contener la convocatoria del remate?"
+    "¿Cómo se notifican a los acreedores en un remate?",
+    "¿Qué es un certificado de gravámenes?",
+    "¿Qué pasa si no se puede notificar a un acreedor personalmente?",
+    "¿Cómo funciona el buzón tributario en el proceso de remate?",
+    "¿Qué información debe contener la convocatoria para notificar a los acreedores?"
   ]
 }

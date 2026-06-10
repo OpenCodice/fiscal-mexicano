@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aee7d14d04c25f73",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Beneficiarios Controladores",
   "temas": [
-    "Obligación de informar",
-    "Beneficiarios controladores",
-    "Fideicomisos",
-    "Intercambio de información",
-    "Notificación por el SAT",
-    "Coadyuvancia de registros públicos",
-    "Contratos y actos jurídicos"
+    "obligaciones fiscales",
+    "beneficiarios controladores",
+    "información fiscal",
+    "fideicomisos",
+    "registros públicos",
+    "entidades financieras",
+    "colaboración entre autoridades"
   ],
   "terminos_coloquiales": [
-    "Información de beneficiarios",
-    "Identificación de beneficiarios",
-    "SAT",
-    "Fideicomisos",
-    "Obligaciones fiscales"
+    "beneficiarios",
+    "información para el SAT",
+    "fideicomisos",
+    "identificación de beneficiarios",
+    "intervención de notarios"
   ],
-  "resumen": "Las entidades y personas mencionadas deben informar y conservar datos sobre sus beneficiarios controladores. Esta información puede ser solicitada por el SAT y debe entregarse en plazos específicos. Además, algunas entidades ayudan al SAT a verificar esta información.",
+  "resumen": "Las personas morales y fiduciarias deben obtener y conservar información sobre sus beneficiarios controladores y proporcionarla al SAT cuando lo requiera. Esta información puede ser compartida con autoridades fiscales extranjeras bajo ciertos tratados.",
   "preguntas_ejemplo": [
-    "¿Quiénes son los beneficiarios controladores?",
-    "¿Qué información debo proporcionar al SAT?",
-    "¿Cuáles son los plazos para entregar la información?",
-    "¿Qué pasa si no entrego la información a tiempo?",
-    "¿Cómo se verifica la identidad de los beneficiarios?",
-    "¿Qué entidades ayudan al SAT en esta tarea?"
+    "¿Qué son los beneficiarios controladores?",
+    "¿Cómo debo reportar la información de los beneficiarios al SAT?",
+    "¿Qué pasa si no proporciono la información requerida sobre beneficiarios?",
+    "¿Cuál es el plazo para entregar la información de beneficiarios controladores?",
+    "¿Qué entidades están obligadas a obtener información de beneficiarios controladores?"
   ]
 }

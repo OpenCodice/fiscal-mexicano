@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d89cf5512f8f993e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación Presuntiva de Utilidad Fiscal",
+  "denominacion_comun": "Determinación presuntiva de utilidad fiscal",
   "temas": [
-    "Autoridades fiscales",
-    "Utilidad fiscal",
-    "Declaraciones",
-    "Contabilidad",
-    "Controles volumétricos",
-    "Irregularidades fiscales"
+    "utilidad fiscal",
+    "remanente distribuible",
+    "comprobación fiscal",
+    "contabilidad",
+    "irregularidades fiscales",
+    "hidrocarburos",
+    "maquinas registradoras",
+    "controles volumétricos"
   ],
   "terminos_coloquiales": [
-    "determinación presuntiva",
-    "utilidad presuntiva",
-    "CFF",
-    "Ley del Impuesto sobre la Renta"
+    "oposición a la revisión de la autoridad",
+    "no presentar declaración",
+    "irregularidades en contabilidad",
+    "hidrocarburos",
+    "controles volumétricos",
+    "diferencias en volumen",
+    "comprobantes fiscales"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales las autoridades fiscales pueden determinar de manera presuntiva la utilidad fiscal de los contribuyentes que no cumplan con sus obligaciones tributarias, especialmente en la presentación de declaraciones y en el manejo de su contabilidad.",
+  "resumen": "Las autoridades fiscales pueden establecer la utilidad fiscal de los contribuyentes si obstaculizan la comprobación, no presentan declaraciones, o presentan irregularidades en su contabilidad. También se aplican reglas específicas para contribuyentes relacionados con hidrocarburos y petrolíferos.",
   "preguntas_ejemplo": [
-    "¿Qué puede pasar si no presento mi declaración a tiempo?",
-    "¿Cómo determina la autoridad mis ingresos si no tengo libros contables?",
-    "¿Cuáles son las irregularidades que pueden llevar a una determinación presuntiva?",
-    "¿Qué obligaciones debo cumplir sobre control de inventarios?",
-    "¿Qué son los controles volumétricos y para qué sirven?"
+    "¿Qué pasa si no presento mi declaración de impuestos?",
+    "¿Cómo puede la autoridad determinar mi utilidad fiscal?",
+    "¿Qué irregularidades se pueden presentar en mi contabilidad?",
+    "¿Qué sanciones hay si no presento los controles volumétricos de hidrocarburos?",
+    "¿Qué sucede si altero los registros de mis ventas de hidrocarburos?",
+    "¿Cuáles son mis obligaciones sobre el uso de máquinas registradoras fiscales?"
   ]
 }

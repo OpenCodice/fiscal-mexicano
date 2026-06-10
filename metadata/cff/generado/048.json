@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cd9da0df29a8bf52",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de comprobación fiscal",
+  "denominacion_comun": "Facultades de Comprobación",
   "temas": [
-    "solicitudes de información",
-    "oficios de observaciones",
+    "solicitud de información",
+    "plazos de respuesta",
+    "observaciones fiscales",
+    "designación de representantes",
+    "información confidencial",
     "corrección de situación fiscal",
-    "confidencialidad de información",
-    "plazos para respuesta",
-    "responsabilidad de representantes"
+    "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
+    "revisión fiscal",
     "oficio de observaciones",
-    "revisión de gabinete",
-    "respuesta a requerimientos",
-    "facultades de comprobación"
+    "corregir situación fiscal",
+    "auditoría",
+    "representantes fiscales"
   ],
-  "resumen": "El artículo establece cómo las autoridades fiscales pueden solicitar información a los contribuyentes fuera de una visita domiciliaria, detallando los plazos y requisitos para proporcionar dicha información. También menciona las consecuencias de no desvirtuar observaciones realizadas por la autoridad fiscal.",
+  "resumen": "Este artículo regula cómo las autoridades fiscales pueden solicitar información y documentación a los contribuyentes fuera de una visita domiciliaria. También establece plazos para presentar respuestas y cómo los contribuyentes pueden designar representantes para acceder a información confidencial necesaria para corregir su situación fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si recibo un oficio de observaciones de la autoridad fiscal?",
-    "¿Cuánto tiempo tengo para responder a una solicitud de información fiscal?",
-    "¿Qué pasa si no presento documentos para desvirtuar las observaciones?",
-    "¿Quién puede ser mi representante durante una revisión fiscal?",
-    "¿Qué implica la responsabilidad por la divulgación de información confidencial?"
+    "¿Qué pasa si no respondo a una solicitud de la autoridad fiscal?",
+    "¿Cómo puedo corregir mi situación fiscal?",
+    "¿Qué son los oficios de observaciones?",
+    "¿Puedo designar a alguien para que me ayude con la revisión fiscal?",
+    "¿Qué información confidencial puede pedir la autoridad fiscal?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:30a826720c443d6f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resolución de Recursos",
+  "denominacion_comun": "Resolución de recursos fiscales",
   "temas": [
-    "actos administrativos",
+    "recursos",
     "agravios",
-    "ilegalidad",
+    "actos administrativos",
+    "ilegalidades",
     "juicio contencioso administrativo",
-    "corrección de errores"
+    "modificación de créditos fiscales"
   ],
   "terminos_coloquiales": [
-    "resolución de recursos",
-    "recurso administrativo",
-    "recursos fiscales"
+    "recurso fiscal",
+    "apelar",
+    "actos de la autoridad",
+    "impuesto",
+    "plazos de impugnación"
   ],
-  "resumen": "Este artículo establece cómo se deben resolver los recursos administrativos, examinando los agravios presentados por el recurrente y la capacidad de la autoridad para corregir errores. También señala que los actos administrativos pueden ser revocados si hay ilegalidades manifiestas, y describe cómo se deben expresar estas resoluciones y sus plazos de impugnación.",
+  "resumen": "El artículo establece cómo se deben resolver los recursos fiscales presentados por los contribuyentes, analizando los agravios y permitiendo a la autoridad corregir errores y revocar actos administrativos cuando se detecten ilegalidades. También detalla que la resolución debe especificar los actos modificados y los plazos para impugnar decisiones.",
   "preguntas_ejemplo": [
-    "¿Cómo se resuelven los recursos administrativos?",
-    "¿Qué pasa si encuentro un error en un acto administrativo?",
+    "¿Cómo se resuelve un recurso fiscal?",
+    "¿Qué pueden hacer si la autoridad comete un error en su acto administrativo?",
     "¿Cuáles son los plazos para impugnar una resolución?",
-    "¿Puedo impugnar parte de un acto administrativo?",
-    "¿Qué significa ilegalidad manifiesta en un recurso?"
+    "¿La autoridad puede modificar sus propios actos?",
+    "¿Cómo se analizan los agravios en un recurso fiscal?"
   ]
 }

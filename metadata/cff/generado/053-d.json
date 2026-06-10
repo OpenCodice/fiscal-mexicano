@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c509d455c5e1714",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Facultades de comprobación",
   "temas": [
-    "toma de muestras",
-    "análisis de mercancías",
-    "identificación de bienes",
-    "custodia de muestras",
+    "muestras",
+    "bienes",
+    "mercancías",
+    "análisis",
+    "identificación",
+    "cuantificación",
     "acta de muestreo",
-    "auxilio de terceros"
+    "terceros"
   ],
   "terminos_coloquiales": [
-    "muestras de mercancía",
-    "facultades fiscales",
-    "muestras fiscales"
+    "muestras fiscales",
+    "toma de muestras",
+    "análisis de mercancías",
+    "terceros auxiliares",
+    "acta de muestreo"
   ],
-  "resumen": "Las autoridades fiscales pueden tomar muestras de bienes o mercancías con la ayuda de terceros, siguiendo un procedimiento específico. Cada muestra se etiquetará y se utilizará para análisis, custodia y entrega al contribuyente.",
+  "resumen": "Las autoridades fiscales pueden tomar muestras de bienes o mercancías difíciles de identificar, y pueden contar con la ayuda de terceros para ello. Las muestras deben llevar un registro y la autoridad levantará un acta sobre el proceso de muestreo.",
   "preguntas_ejemplo": [
-    "¿Cómo se toman las muestras de mercancías?",
-    "¿Qué pasa con las muestras que toma la autoridad fiscal?",
-    "¿Qué requisitos deben cumplir los terceros que ayudan en el muestreo?",
-    "¿Qué información debe tener la etiqueta de las muestras obtenidas?",
-    "¿Cómo se notifican los resultados del análisis de las muestras?"
+    "¿Cómo se toman las muestras en una revisión fiscal?",
+    "¿Qué pasos deben seguir las autoridades fiscales para el muestreo?",
+    "¿Qué sucede con las muestras tomadas por las autoridades fiscales?",
+    "¿Quién puede ayudar a las autoridades fiscales en la toma de muestras?",
+    "¿Qué es un acta de muestreo?"
   ]
 }

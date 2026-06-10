@@ -6,16 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo derogado",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado, por lo que ya no está en vigor.",
+  "denominacion_comun": "Derogación del artículo",
+  "temas": [
+    "derogación",
+    "artículo",
+    "legislación",
+    "fiscal",
+    "CFF"
+  ],
+  "terminos_coloquiales": [
+    "se deroga",
+    "derogación"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor y no se aplica más.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el artículo 212 del CFF?",
-    "¿Está vigente el artículo 212 de la ley?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Qué legislación sustituye al artículo 212?"
+    "¿Cuál es el impacto de la derogación de un artículo?",
+    "¿Qué se debe hacer ahora que este artículo ha sido derogado?"
   ]
 }

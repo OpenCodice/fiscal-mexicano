@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a0b8bbc21260008e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones de actos administrativos",
+  "denominacion_comun": "Notificaciones Electrónicas",
   "temas": [
     "buzón tributario",
-    "notificaciones electrónicas",
+    "notificación electrónica",
     "acuse de recibo",
-    "notificaciones por correo",
-    "notificaciones por estrados",
-    "notificaciones por edictos",
+    "actos administrativos",
     "plazo de notificación",
-    "responsabilidad del contribuyente"
+    "correo certificado",
+    "documentos digitales",
+    "sello digital"
   ],
   "terminos_coloquiales": [
-    "notificaciones fiscales",
+    "notificaciones",
     "buzón tributario",
-    "notificaciones electrónicas",
-    "SAT"
+    "notificación por correo",
+    "documentos en línea",
+    "recibo electrónico",
+    "avisos de notificación"
   ],
-  "resumen": "Este artículo establece cómo se deben realizar las notificaciones de actos administrativos a los contribuyentes, incluyendo la notificación a través del buzón tributario y otros métodos como correo o edictos. Además, especifica los plazos y responsabilidades del contribuyente respecto a la apertura de documentos digitales.",
+  "resumen": "Las notificaciones de actos administrativos pueden realizarse de manera electrónica a través del buzón tributario, donde se considera completada al generar un acuse de recibo. Los contribuyentes tienen un plazo para abrir estos documentos digitales, y si no lo hacen, se considera que la notificación se ha efectuado al cuarto día.",
   "preguntas_ejemplo": [
-    "¿Cómo se realizan las notificaciones fiscales?",
-    "¿Qué es el buzón tributario?",
-    "¿Qué hacer si no recibo la notificación en el buzón tributario?",
-    "¿Cuánto tiempo tengo para abrir los documentos digitales?",
-    "¿Qué sucede si no abro el documento digital a tiempo?",
-    "¿El SAT puede notificar a terceros?"
+    "¿Cómo funcionan las notificaciones en el buzón tributario?",
+    "¿Qué plazo tengo para abrir un documento digital enviado por la autoridad fiscal?",
+    "¿Qué sucede si no abro un documento en mi buzón tributario a tiempo?",
+    "¿Cómo se genera el acuse de recibo para una notificación electrónica?",
+    "¿Qué es un aviso de notificación y cuándo lo recibiré?"
   ]
 }

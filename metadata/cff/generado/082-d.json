@@ -6,24 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3c4d5a9ae35b35c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por esquema reportable",
+  "denominacion_comun": "Sanciones por infracciones a esquemas reportables",
   "temas": [
+    "sanciones",
+    "esquemas reportables",
     "infracciones fiscales",
-    "sanciones económicas",
-    "beneficios fiscales",
-    "esquemas reportables"
+    "beneficios fiscales"
   ],
   "terminos_coloquiales": [
     "multas por esquemas reportables",
-    "sanciones por esquemas fiscales"
+    "sanciones fiscales",
+    "multas",
+    "infracciones fiscales"
   ],
-  "resumen": "El artículo establece las sanciones económicas aplicables a quienes infrinjan las disposiciones sobre revelación de esquemas reportables. Las multas varían dependiendo de la gravedad de la infracción y del beneficio fiscal involucrado.",
+  "resumen": "El artículo establece las sanciones económicas que se aplicarán a quienes infrinjan las disposiciones sobre la revelación de esquemas reportables. Las multas varían dependiendo de la fracción de la infracción cometida y pueden ser significativas en relación con el beneficio fiscal obtenido.",
   "preguntas_ejemplo": [
-    "¿Qué sanciones hay por no reportar esquemas fiscales?",
-    "¿Cuáles son las multas por esquemas reportables según el artículo 82-D?",
-    "¿Qué pasa si no revelo un esquema reportable?",
-    "¿Cuánto es la multa por un esquema reportable?"
+    "¿Qué sanciones hay por no reportar un esquema?",
+    "¿Cuánto me pueden multar si revelo mal un esquema reportable?",
+    "¿Qué pasa si cometo una infracción sobre esquemas reportables?",
+    "¿Hay multas específicas según la gravedad de la infracción de un esquema reportable?",
+    "¿Cómo se determina el monto de la multa por esquemas reportables?"
   ]
 }

@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:78913a4967f12ea5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Defraudación Fiscal",
+  "denominacion_comun": "Defraudación fiscal",
   "temas": [
     "delito fiscal",
-    "omisión de pago",
     "sanciones",
-    "ingresos de procedencia ilícita",
+    "omisión de pagos",
+    "beneficio indebido",
     "comprobantes fiscales",
     "documentos falsos",
-    "estímulos fiscales"
+    "registros contables",
+    "pérdidas fiscales"
   ],
   "terminos_coloquiales": [
-    "defraudación fiscal",
-    "delito fiscal",
-    "CFF",
-    "Código Fiscal de la Federación"
+    "no pagar impuestos",
+    "evadir impuestos",
+    "delito de fraude fiscal",
+    "recuperación de contribuciones",
+    "impuesto no pagado",
+    "declarar ingresos falsos",
+    "estímulos fiscales"
   ],
-  "resumen": "El artículo establece que se comete defraudación fiscal al omitir el pago de contribuciones usando engaños. Las penas varían según el monto defraudado y las conductas pueden calificar el delito, aumentando las sanciones. Si se paga lo adeudado antes de ser detectado, puede haber beneficios.",
+  "resumen": "El artículo establece que la defraudación fiscal ocurre cuando se omite el pago de contribuciones o se obtiene un beneficio indebido, pudiendo ser sancionada con prisión. Se describen las condiciones bajo las cuales se considera que se comete este delito y las penas correspondientes según el monto defraudado.",
   "preguntas_ejemplo": [
     "¿Qué es la defraudación fiscal?",
-    "¿Cuáles son las penas por defraudación fiscal?",
-    "¿Se puede calificar el delito de defraudación fiscal?",
-    "¿Qué pasa si pago lo defraudado antes de ser descubierto?",
-    "¿Qué conductas califican el delito de defraudación fiscal?"
+    "¿Cuáles son las sanciones por no pagar impuestos?",
+    "¿Cómo se determina el delito de defraudación fiscal?",
+    "¿Qué pasa si declaras ingresos falsos?",
+    "¿Cómo se puede evitar una querella por defraudación fiscal?",
+    "¿Qué se considera un beneficio indebido en materia fiscal?"
   ]
 }

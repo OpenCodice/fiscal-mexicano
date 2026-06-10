@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c6c93d257625ff0d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Causación y pago de contribuciones",
+  "denominacion_comun": "Pago de contribuciones",
   "temas": [
-    "Contribuciones",
-    "Moneda nacional",
-    "Tipo de cambio",
-    "Índice Nacional de Precios",
-    "Medios de pago",
-    "Acreditamiento de impuestos",
-    "Comercio exterior"
+    "moneda nacional",
+    "tipo de cambio",
+    "acreditamiento de impuestos",
+    "medios de pago",
+    "contribuciones al comercio exterior",
+    "cheques",
+    "transferencias electrónicas",
+    "tarjetas de crédito y débito",
+    "ajustes de pago"
   ],
   "terminos_coloquiales": [
-    "Pago de impuestos",
-    "Causación de contribuciones",
-    "Tipo de cambio en impuestos",
-    "Contribuciones en moneda extranjera",
-    "IMSS",
-    "IVA"
+    "pago de impuestos",
+    "pago en efectivo",
+    "tarjetas",
+    "cheques",
+    "transferencia bancaria",
+    "IVA",
+    "cambio de moneda",
+    "contribuciones"
   ],
-  "resumen": "Este artículo establece que las contribuciones se pagarán en moneda nacional y cómo se determinarán a través del tipo de cambio y el Índice Nacional de Precios. También aborda los medios aceptados para realizar estos pagos.",
+  "resumen": "El artículo establece que las contribuciones se pagarán en moneda nacional y se regularán conforme al tipo de cambio publicado por el Banco de México. Además, se aceptan diversos medios de pago como cheques, transferencias y tarjetas de crédito, y se especifica el proceso para determinar el monto a pagar.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el tipo de cambio para mis impuestos?",
-    "¿Puedo pagar mis contribuciones en dólares?",
-    "¿Qué medios de pago son aceptados para mis impuestos?",
-    "¿Cómo se ajustan los montos a pagar de mis contribuciones?",
-    "¿Cuándo se utiliza el Índice Nacional de Precios para el pago de impuestos?"
+    "¿Cómo se paga el impuesto en el extranjero?",
+    "¿Qué tipo de cambio se utiliza para los pagos de contribuciones?",
+    "¿Cuáles son los medios aceptados para pagar mis impuestos?",
+    "¿Se puede pagar en efectivo mis contribuciones?",
+    "¿Qué sucede si impugno un cobro de impuestos?"
   ]
 }

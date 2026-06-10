@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c6fbedb0138eda4e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Simulación de actos jurídicos",
+  "denominacion_comun": "Simulación de Actos Jurídicos",
   "temas": [
-    "comprobación fiscal",
+    "simulación fiscal",
     "actos jurídicos",
-    "simulación",
+    "autoridades fiscales",
+    "comprobación fiscal",
     "partes relacionadas",
-    "beneficio fiscal"
+    "beneficio fiscal",
+    "resoluciones fiscales"
   ],
   "terminos_coloquiales": [
-    "simulación fiscal",
     "actos simulados",
-    "parte relacionada",
-    "CFF"
+    "trucos fiscales",
+    "relaciones entre empresas",
+    "beneficio fiscal",
+    "comprobación de ingresos"
   ],
-  "resumen": "El artículo establece que las autoridades fiscales pueden determinar la simulación de actos jurídicos para efectos fiscales, especificando cómo deben fundar y motivar dicha determinación. También menciona los elementos que deben incluir al identificar la simulación y el beneficio fiscal obtenido.",
+  "resumen": "Las autoridades fiscales pueden identificar y determinar la simulación de actos jurídicos en procedimientos de comprobación. Deben fundar y motivar su determinación, analizando las operaciones entre partes relacionadas y el beneficio fiscal obtenido.",
   "preguntas_ejemplo": [
-    "¿Qué es la simulación de actos jurídicos en materia fiscal?",
-    "¿Cómo puede la autoridad fiscal detectar actos simulados?",
-    "¿Qué se considera una parte relacionada en términos fiscales?",
-    "¿Cuáles son las consecuencias de la simulación fiscal?",
-    "¿Qué información debe incluir una resolución sobre simulación de actos jurídicos?"
+    "¿Qué se entiende por simulación de actos jurídicos en la fiscalidad?",
+    "¿Cómo pueden las autoridades fiscales detectar actos simulados?",
+    "¿Qué implica ser parte relacionada en términos fiscales?",
+    "¿Cuáles son las consecuencias de simular un acto jurídico?",
+    "¿Qué debe incluir la resolución de la autoridad al detectar simulación?",
+    "¿Cómo se determina el beneficio fiscal en caso de simulación?"
   ]
 }

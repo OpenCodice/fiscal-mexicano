@@ -6,17 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo Derogado",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado y ya no está en vigor.",
+  "denominacion_comun": "Derogación",
+  "temas": [
+    "derogación",
+    "normativa",
+    "ley",
+    "código fiscal"
+  ],
+  "terminos_coloquiales": [
+    "se quitó",
+    "ya no está",
+    "derogó",
+    "se eliminó"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no está en vigor y no se aplica. Antes establecía ciertas disposiciones que ya no son válidas.",
   "preguntas_ejemplo": [
-    "¿Qué pasó con el Artículo 209 del CFF?",
-    "¿Está vigente el Artículo 209 del Código Fiscal?",
-    "¿Qué significa que se haya derogado el Artículo 209?",
-    "¿Cuáles son las implicaciones de la derogación del Artículo 209?",
-    "¿Dónde puedo encontrar información sobre artículos derogadas en el CFF?"
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Por qué ya no se aplica el Artículo 209 del CFF?",
+    "¿Qué disposiciones se eliminaron con la derogación?",
+    "¿Cómo afecta la derogación de este artículo a los contribuyentes?"
   ]
 }

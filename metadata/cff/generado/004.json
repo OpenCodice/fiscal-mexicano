@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d5bd47b8eb7bb89b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Créditos fiscales",
   "temas": [
-    "créditos fiscales",
     "contribuciones",
     "aprovechamientos",
+    "responsabilidades",
     "recaudación",
     "Secretaría de Hacienda",
     "Servicio de Administración Tributaria"
   ],
   "terminos_coloquiales": [
-    "créditos del Estado",
-    "cobro de créditos fiscales",
-    "SAE",
-    "SHCP"
+    "deuda fiscal",
+    "recuperar impuestos",
+    "gobierno cobrando",
+    "SAT",
+    "créditos del gobierno"
   ],
-  "resumen": "Los créditos fiscales son los derechos de cobro que tiene el Estado por contribuciones y otros conceptos. La recaudación de estos ingresos la realiza la Secretaría de Hacienda, y el Servicio de Administración Tributaria se encarga de cobrar los créditos fiscales que le remiten otras autoridades.",
+  "resumen": "Los créditos fiscales son montos que el Estado tiene derecho a cobrar de contribuciones y otros ingresos. La recaudación de estos créditos se realiza a través de la Secretaría de Hacienda y debe seguir ciertas reglas establecidas por el SAT.",
   "preguntas_ejemplo": [
     "¿Qué son los créditos fiscales?",
-    "¿Quién se encarga de la recaudación de créditos fiscales?",
-    "¿Cuáles son los tipos de contribuciones que se consideran créditos fiscales?",
-    "¿Cómo se remiten los créditos fiscales al SAT?",
-    "¿Qué organismos pueden generar créditos fiscales?"
+    "¿Cómo puedo saber si tengo deudas con el SAT?",
+    "¿Qué ingresos recauda el gobierno?",
+    "¿Quién se encarga de cobrar mis impuestos?",
+    "¿Cuáles son los requisitos para el cobro de créditos fiscales?"
   ]
 }

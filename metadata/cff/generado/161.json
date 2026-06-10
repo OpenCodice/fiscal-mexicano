@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a9b6ec1355e7c117",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Entrega de bienes embargados",
+  "denominacion_comun": "Embargo de bienes",
   "temas": [
     "embargo",
-    "depositario",
-    "oficina ejecutora",
+    "bien inmueble",
     "plazo de entrega",
+    "valores",
+    "dinero",
+    "inventario",
     "crédito fiscal"
   ],
   "terminos_coloquiales": [
-    "bien embargado",
-    "plazo de entrega de bienes",
-    "crédito fiscal",
-    "valores embargados"
+    "embargo",
+    "bienes embargados",
+    "dinero embargado",
+    "valores mobiliarios",
+    "alhajas",
+    "metales preciosos"
   ],
-  "resumen": "Este artículo establece el procedimiento para la entrega de bienes embargados al ejecutor, indicando los plazos y las condiciones bajo las cuales se deben entregar dichos bienes y cómo se aplicará el dinero embargado para cubrir créditos fiscales.",
+  "resumen": "Este artículo establece las reglas para la entrega de bienes embargados, como dinero y valores, a la oficina ejecutora. Los bienes deben entregarse dentro de un plazo específico después del embargo, y el dinero obtenido se destina a cubrir créditos fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para entregar los bienes embargados?",
-    "¿Qué pasa con el dinero embargado?",
-    "¿Cómo se aplica el dinero de los bienes embargados al crédito fiscal?",
-    "¿Qué bienes están sujetos a embargo?",
-    "¿Quién es el depositario en el proceso de embargo?"
+    "¿Cómo se entregan los bienes embargados?",
+    "¿Cuánto tiempo tengo para entregar el dinero embargado?",
+    "¿Qué sucede con el dinero obtenido del embargo?",
+    "¿Qué bienes pueden ser embargados?",
+    "¿Cómo se calcula el monto a cubrir por un embargo?"
   ]
 }

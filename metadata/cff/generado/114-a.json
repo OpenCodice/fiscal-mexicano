@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cf382556f1c57a69",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones a Servidores Públicos",
+  "denominacion_comun": "Sanciones a servidores públicos",
   "temas": [
-    "sanciones",
-    "servidores públicos",
+    "prisión",
     "amenazas",
+    "contribuyentes",
     "denuncias",
-    "delitos fiscales",
-    "acción penal"
+    "querellas",
+    "delitos fiscales"
   ],
   "terminos_coloquiales": [
     "sanciones a funcionarios",
     "amenazas a contribuyentes",
-    "denuncias improcedentes"
+    "denuncia falsa",
+    "querella improcedente"
   ],
-  "resumen": "Se castiga con prisión a los servidores públicos que amenacen a contribuyentes con denuncias por delitos fiscales. También se aumenta la pena si la denuncia es notoriamente improcedente.",
+  "resumen": "Se establece que los servidores públicos que amenacen a contribuyentes con denuncias penales pueden ser sancionados con prisión. Las sanciones se incrementan si la denuncia es notoriamente improcedente.",
   "preguntas_ejemplo": [
-    "¿Qué sanciones hay para servidores públicos que amenazan a contribuyentes?",
-    "¿Qué pasa si un funcionario hace una denuncia falsa?",
-    "¿Cuánto tiempo de prisión puede recibir un servidor público por amenazar a un contribuyente?",
-    "¿Qué se considera una denuncia improcedente?",
-    "¿A quién puedo acudir si un servidor público me amenaza?",
-    "¿Cuál es la pena para un funcionario que amenaza con una denuncia?"
+    "¿Qué pasa si un funcionario amenaza a un contribuyente?",
+    "¿Qué sanciones hay para los servidores públicos que hacen denuncias falsas?",
+    "¿Cuánto tiempo de prisión puede recibir un funcionario por amenazar a un contribuyente?",
+    "¿Qué se considera una denuncia notoriamente improcedente?",
+    "¿Cómo se sanciona a un servidor público que amenaza a un contribuyente?"
   ]
 }

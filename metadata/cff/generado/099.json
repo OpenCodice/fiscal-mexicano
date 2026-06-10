@@ -6,25 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9ea4e1aafe1fc39e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Delito continuado",
   "temas": [
-    "pena",
-    "delito",
+    "delitos",
+    "penas",
     "intención delictuosa",
-    "disposición legal"
+    "conductas"
   ],
   "terminos_coloquiales": [
-    "delito en serie",
-    "delito reiterado"
+    "delito continuado",
+    "aumento de pena"
   ],
-  "resumen": "El artículo establece que en casos de delito continuado, la pena puede incrementarse hasta en un 50%. Se considera delito continuado cuando hay múltiples acciones delictivas realizadas con la misma intención y bajo la misma disposición legal, aunque varíen en gravedad.",
+  "resumen": "El delito continuado es aquel que se comete a través de múltiples acciones, pero con la misma intención delictuosa y bajo la misma ley. La pena por este tipo de delito puede incrementarse hasta en un 50%.",
   "preguntas_ejemplo": [
     "¿Qué es un delito continuado?",
-    "¿Puede aumentarse la pena por un delito continuado?",
-    "¿Cómo se determina si un delito es continuado?",
-    "¿Qué significa pluralidad de conductas en un delito?",
-    "¿Qué relación hay entre intención delictuosa y delito continuado?"
+    "¿Cómo se incrementa la pena por un delito continuado?",
+    "¿Qué significa unidad de intención delictuosa?",
+    "¿Qué se considera pluralidad de conductas en delitos?",
+    "¿La pena aumenta en todos los delitos continuados?"
   ]
 }

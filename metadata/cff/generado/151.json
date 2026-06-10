@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:02acc97c4c5ff018",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embargo de bienes por créditos fiscales",
   "temas": [
     "créditos fiscales",
     "embargo de bienes",
-    "negociaciones",
     "depósitos",
-    "seguros",
-    "entidades financieras",
-    "notificación",
-    "liberación de recursos"
+    "bienes raíces",
+    "negocios",
+    "notificaciones",
+    "derechos reales"
   ],
   "terminos_coloquiales": [
-    "embargo fiscal",
+    "embargo",
     "crédito fiscal",
-    "ejecución de embargo",
-    "CFF"
+    "deuda con el fisco",
+    "notificación de embargo",
+    "deudas fiscales"
   ],
-  "resumen": "Las autoridades fiscales pueden embargar bienes y depósitos de un deudor para recuperar créditos fiscales. Se deben seguir procedimientos específicos para informar y notificar al contribuyente sobre los embargos realizados y liberar cualquier monto en exceso que se haya tomado.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden embargar bienes para cobrar créditos fiscales. Esto incluye embargar cuentas, bienes raíces y negociaciones, siempre que se notifique al contribuyente y se respeten ciertos límites en el monto del embargo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago un crédito fiscal?",
-    "¿Cómo puedo evitar un embargo fiscal?",
-    "¿Qué bienes pueden embargarme por deudas fiscales?",
-    "¿Qué debo hacer si mi banco embargó mis cuentas?",
-    "¿Cuánto tiempo tienen para notificarme sobre un embargo?"
+    "¿Qué pasa si no pago mi deuda con el fisco?",
+    "¿Cómo funciona el embargo de cuentas por créditos fiscales?",
+    "¿Qué bienes pueden embargarme si debo impuestos?",
+    "¿Cómo me notificarán de un embargo?",
+    "¿Pueden embargar más de lo que debo al fisco?"
   ]
 }

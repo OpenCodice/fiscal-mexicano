@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:610fe693739cb580",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Índice Nacional de Precios al Consumidor",
   "temas": [
-    "cálculo de precios",
-    "ciudades",
-    "entidades federativas",
+    "cotizaciones de precios",
     "productos y servicios",
-    "sectores económicos",
-    "frecuencia de cotización",
-    "fórmula de Laspeyres",
-    "publicación oficial"
+    "categorías de consumo",
+    "metodología de cálculo",
+    "población de ciudades",
+    "ramas económicas"
   ],
   "terminos_coloquiales": [
-    "Índice de Precios",
+    "precios al consumidor",
+    "precios en ciudades",
     "INPC",
-    "cálculo de precios al consumidor",
-    "cotizaciones de precios"
+    "costo de vida",
+    "inflación",
+    "productos básicos"
   ],
-  "resumen": "El artículo establece cómo se calcula el Índice Nacional de Precios al Consumidor, destacando la necesidad de cotizar precios en diversas ciudades y productos. El índice se calcula mensualmente y se basa en una fórmula específica, considerando diferentes categorías de consumo.",
+  "resumen": "Este artículo establece cómo se calcula el Índice Nacional de Precios al Consumidor (INPC) en México, incluyendo la selección de ciudades y productos, así como las frecuencias de las cotizaciones de precios. El INPC se utiliza para medir la inflación y el costo de vida en el país.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el Índice Nacional de Precios al Consumidor?",
-    "¿Qué ciudades se incluyen en el INPC?",
-    "¿Cuántos productos y servicios se utilizan para calcular el INPC?",
-    "¿Qué es la fórmula de Laspeyres?",
-    "¿Con qué frecuencia se cotizan los precios de alimentos?"
+    "¿Qué ciudades se utilizan para el cálculo del INPC?",
+    "¿Cuántos productos se consideran para el Índice Nacional de Precios al Consumidor?",
+    "¿Con qué frecuencia se actualizan los precios para el INPC?",
+    "¿Qué metodología se usa para calcular el INPC?"
   ]
 }

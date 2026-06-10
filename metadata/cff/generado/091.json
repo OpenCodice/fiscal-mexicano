@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8aa247a4a8dbcf00",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones fiscales",
+  "denominacion_comun": "Sanciones fiscales",
   "temas": [
     "sanciones",
     "multas",
-    "disposiciones fiscales",
-    "reglamento fiscal"
+    "infracciones fiscales",
+    "disposiciones fiscales"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
-    "sanciones fiscales",
-    "infracciones fiscales"
+    "sanciones por no pagar",
+    "multa",
+    "infracción"
   ],
-  "resumen": "Se establecen sanciones económicas para quien infrinja las disposiciones fiscales, con multas que varían entre montos específicos. Las multas son impuestas por resoluciones de la autoridad fiscal.",
+  "resumen": "Este artículo establece que cualquier infracción a las disposiciones fiscales será sancionada con una multa que varía entre $490.00 y $4,640.00. Se refiere a las sanciones por incumplimiento de las obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuánto es la multa por infringir las disposiciones fiscales?",
-    "¿Qué pasa si no cumplo con las normas fiscales?",
-    "¿Qué tipo de infracciones están sancionadas?",
-    "¿Cómo se determinan las multas fiscales?",
-    "¿A quién puedo acudir si me multan por infracciones fiscales?"
+    "¿Qué pasa si no cumplo con las disposiciones fiscales?",
+    "¿Cuánto me pueden multar por una infracción fiscal?",
+    "¿Qué tipos de infracciones están sujetas a multas?",
+    "¿Cómo sé si estoy incurriendo en una infracción fiscal?",
+    "¿Hay multas específicas para diferentes infracciones fiscales?"
   ]
 }

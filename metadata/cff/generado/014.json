@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f1855ed59da64c5e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de Bienes",
   "temas": [
     "transmisión de propiedad",
+    "adjudicación",
+    "aporte a sociedad",
+    "arrendamiento financiero",
     "fideicomiso",
-    "derechos de crédito",
-    "factoraje financiero",
     "cesión de derechos",
-    "bienes tangibles",
-    "fusión de sociedades",
-    "escisión de sociedades"
+    "factoraje financiero",
+    "fusión de sociedades"
   ],
   "terminos_coloquiales": [
     "venta de bienes",
-    "traspaso de propiedad",
-    "enajenación",
-    "fideicomisos",
+    "donación",
+    "asociarse",
+    "leasing",
+    "fideicomiso",
     "cesión de derechos",
-    "factoraje"
+    "factoraje",
+    "fusión de empresas"
   ],
-  "resumen": "El artículo define qué se entiende por enajenación de bienes, incluyendo diferentes formas como venta, arrendamiento financiero, y transmisión de derechos. Se especifican ejemplos y situaciones en que se considera que hay enajenación, así como ciertas excepciones.",
+  "resumen": "El Artículo 14 del Código Fiscal de la Federación define qué se considera como enajenación de bienes, incluyendo la venta, donaciones y diferentes formas de transmisión de derechos sobre propiedades. También establece condiciones específicas sobre cómo se llevan a cabo estas transacciones y su tratamiento fiscal.",
   "preguntas_ejemplo": [
     "¿Qué se considera enajenación de bienes?",
-    "¿Cómo se transmiten los derechos en un fideicomiso?",
-    "¿Qué implica la enajenación de bienes a través de factoraje?",
-    "¿Cuándo se considera que hay enajenación de bienes tangibles?",
-    "¿Qué pasa con la enajenación en casos de fusión o escisión de sociedades?"
+    "¿Cuándo se considera que hay una venta de un bien?",
+    "¿Cómo afecta el fideicomiso a la transmisión de propiedad?",
+    "¿Qué implica la cesión de derechos en un fideicomiso?",
+    "¿Cuándo se considera que una sociedad se ha fusionado?",
+    "¿Qué es un contrato de factoraje financiero?"
   ]
 }

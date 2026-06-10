@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6e93c832229bf883",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acuerdo Conclusivo",
+  "denominacion_comun": "Acuerdo conclusivo",
   "temas": [
-    "defensa del contribuyente",
-    "procuraduría",
-    "acuerdo",
-    "procedimiento",
+    "Procuraduría de la Defensa del Contribuyente",
+    "procedimiento fiscal",
+    "acuerdo entre partes",
     "mesas de trabajo"
   ],
   "terminos_coloquiales": [
-    "Procuraduría del Contribuyente",
-    "acuerdo conclusivo",
-    "mesas de trabajo"
+    "acuerdo fiscal",
+    "resolución de conflictos fiscales",
+    "defensores del contribuyente",
+    "mesas de diálogo"
   ],
-  "resumen": "La Procuraduría de la Defensa del Contribuyente tiene un plazo para concluir el procedimiento después de recibir la respuesta de la autoridad fiscal. Se busca un acuerdo entre la autoridad y el contribuyente, que puede ser promovido a través de mesas de trabajo.",
+  "resumen": "La Procuraduría de la Defensa del Contribuyente tiene un plazo para finalizar el procedimiento de acuerdo conclusivo. Puede convocar a mesas de trabajo para facilitar un acuerdo entre el contribuyente y la autoridad fiscal.",
   "preguntas_ejemplo": [
     "¿Qué es un acuerdo conclusivo?",
-    "¿Cuánto tiempo tiene la Procuraduría para resolver un caso?",
-    "¿Cómo se lleva a cabo el procedimiento para llegar a un acuerdo?",
-    "¿Qué hace la Procuraduría del Contribuyente?",
-    "¿Qué son las mesas de trabajo en este contexto?"
+    "¿Cómo funciona la Procuraduría de la Defensa del Contribuyente?",
+    "¿Qué plazo tiene la Procuraduría para finalizar un procedimiento?",
+    "¿Qué sucede si hay un acuerdo entre el contribuyente y la autoridad?",
+    "¿Puede la Procuraduría convocar a mesas de trabajo?"
   ]
 }

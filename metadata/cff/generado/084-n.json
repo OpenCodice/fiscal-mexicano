@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4628ace0e4868b88",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por infracciones fiscales",
+  "denominacion_comun": "Multas por infracciones",
   "temas": [
-    "multas",
     "infracciones fiscales",
-    "beneficiario controlador",
-    "personas morales"
+    "multas",
+    "beneficiarios controladores",
+    "personas morales",
+    "fideicomisos"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
-    "sanciones por infracciones",
-    "infracciones CFF",
-    "Artículo 84-N"
+    "infracciones a la ley",
+    "sanciones",
+    "multas por beneficiarios",
+    "multas para empresas"
   ],
-  "resumen": "El artículo establece multas que se imponen por infracciones relacionadas con los beneficiarios controladores de personas morales, fideicomisos o figuras jurídicas. Estas multas varían en monto dependiendo de la fracción correspondiente infringida.",
+  "resumen": "Este artículo establece las multas que se aplicarán a quienes cometan infracciones relacionadas con los beneficiarios controladores en personas morales, fiduciarias o figuras jurídicas. Las multas varían dependiendo de la gravedad de la infracción y el número de beneficiarios involucrados.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar si soy un beneficiario controlador?",
-    "¿Qué multas hay por violar las disposiciones del CFF?",
-    "¿A quién se le aplican las multas del artículo 84-N?",
-    "¿Qué infracciones están sancionadas en el artículo 84-N?",
-    "¿Cuáles son los montos de las multas para personas morales?"
+    "¿Cuánto es la multa por no reportar a un beneficiario controlador?",
+    "¿Qué sanciones hay para las empresas que tienen beneficiarios controladores?",
+    "¿Cuáles son las multas por infracciones fiscales relacionadas con fideicomisos?",
+    "¿Cómo se determina el monto de la multa en el artículo 84-N?",
+    "¿Qué infracciones a la ley fiscal resultan en multas altas?"
   ]
 }

@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3d592ac0e62758df",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facultades de comprobación",
+  "denominacion_comun": "Facultades de Comprobación",
   "temas": [
-    "comprobación fiscal",
-    "revisión de contribuciones",
+    "facultades fiscales",
+    "comprobación de contribuciones",
+    "rubros específicos",
     "hechos diferentes",
-    "documentación fiscal"
+    "documentación de contribuyentes"
   ],
   "terminos_coloquiales": [
+    "revisión de impuestos",
     "facultades de revisión",
-    "revisión fiscal",
-    "comprobación de impuestos"
+    "documentos fiscales",
+    "comprobación de datos"
   ],
-  "resumen": "Este artículo establece que las autoridades fiscales pueden revisar conceptos específicos de contribuciones no revisados antes. También permite volver a revisar los mismos rubros si se comprueban hechos diferentes, basándose en información de terceros o documentos no presentados previamente.",
+  "resumen": "Las autoridades fiscales pueden revisar ciertos conceptos de contribuciones que no han sido revisados antes. Si se comprueban hechos diferentes, pueden volver a revisar y determinar contribuciones omitidas basado en nueva información o documentación presentada.",
   "preguntas_ejemplo": [
-    "¿Qué poderes tienen las autoridades fiscales para revisar mis contribuciones?",
-    "¿Pueden volver a investigar si presentan nuevos hechos?",
-    "¿Qué tipo de documentos necesito para sustentar una revisión fiscal?",
-    "¿Qué son los hechos diferentes en la comprobación fiscal?",
-    "¿Se puede revisar lo que ya fue revisado antes?"
+    "¿Qué puede revisar la autoridad fiscal?",
+    "¿Cuándo pueden volver a revisar mis impuestos?",
+    "¿Qué documentación necesito para la revisión fiscal?",
+    "¿Qué son los hechos diferentes en la revisión de impuestos?",
+    "¿Pueden revisar mis contribuciones si presento declaraciones complementarias?"
   ]
 }

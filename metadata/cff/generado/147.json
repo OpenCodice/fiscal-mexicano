@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e8c3159a49bcfec",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derecho de preferencia en créditos fiscales",
+  "denominacion_comun": "Preferencia en créditos fiscales",
   "temas": [
-    "controversias fiscales",
-    "fisco federal",
-    "fiscales locales",
-    "derecho de preferencia",
     "créditos fiscales",
-    "impuestos sobre la propiedad raíz",
-    "embargo"
+    "fisco federal",
+    "fiscos locales",
+    "preferencia de pago",
+    "tribunales judiciales",
+    "garantías constituidas",
+    "impuestos sobre la propiedad"
   ],
   "terminos_coloquiales": [
-    "preferencia fiscal",
-    "créditos fiscales",
-    "derecho de cobro",
-    "fisco federal",
-    "fisco local"
+    "deuda con el fisco",
+    "pago de impuestos",
+    "derecho de preferencia",
+    "preferencia en el cobro"
   ],
-  "resumen": "Este artículo establece cómo se resolverán las controversias entre el fisco federal y los fiscos locales en relación al derecho de preferencia para el cobro de créditos fiscales. La preferencia se asigna al fisco que tenga créditos por impuestos sobre bienes raíces o al primer embargante en otros casos.",
+  "resumen": "Este artículo establece cómo se resolverán las controversias entre el fisco federal y los fiscos locales en relación con los créditos fiscales y su derecho de preferencia en el cobro. Dependiendo del tipo de crédito, se determina cuál fisco tiene prioridad para recibir el pago.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si hay un conflicto entre el fisco federal y un fisco local?",
-    "¿Cómo se determina quién tiene derecho de preferencia en el cobro de impuestos?",
-    "¿Qué significa ser el primer embargante en términos fiscales?",
-    "¿Qué tipo de créditos fiscales tienen preferencia?",
-    "¿Cómo se resuelven las controversias sobre pagos de impuestos sobre propiedades?",
-    "¿Quién cobra primero si hay deudas con varios fiscos?"
+    "¿Quién tiene prioridad para cobrar mis impuestos?",
+    "¿Qué pasa si debo impuestos federales y locales?",
+    "¿Cómo se resuelven las disputas entre el fisco federal y los locales?",
+    "¿Qué es el derecho de preferencia en créditos fiscales?",
+    "¿Cómo se determina el fisco embargante en un conflicto?"
   ]
 }

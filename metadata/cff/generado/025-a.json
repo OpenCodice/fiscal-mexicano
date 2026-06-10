@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9b99bec081ea6676",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subsidios y Acreditamiento Fiscal",
+  "denominacion_comun": "Reintegro de subsidios",
   "temas": [
     "subsidios",
-    "acreditamiento fiscal",
-    "contribuciones federales",
+    "reintegro",
+    "acreditamiento",
     "estímulos fiscales",
-    "devoluciones",
-    "recargos"
+    "contribuciones federales",
+    "devoluciones"
   ],
   "terminos_coloquiales": [
-    "devolución de subsidios",
-    "acreditamiento indebido",
-    "recargos por subsidios",
-    "subsidios y contribuciones",
-    "subsidio no reclamable"
+    "devolver subsidios",
+    "pagar recargos",
+    "acreditar subsidios",
+    "declaraciones complementarias",
+    "reintegro de dinero"
   ],
-  "resumen": "El artículo establece que si alguien recibe un subsidio de manera indebida, debe devolverlo y pagar recargos. También indica que los subsidios solo pueden acreditarse contra contribuciones hasta el monto que realmente se debe.",
+  "resumen": "Si una persona recibe un subsidio de manera indebida, tiene que devolverlo y pagar recargos. Además, los subsidios solo se pueden utilizar hasta el monto de las contribuciones que realmente se deben pagar al fisco.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si recibí un subsidio que no me correspondía?",
-    "¿Cómo debo reintegrar un subsidio indebidamente recibido?",
-    "¿Qué son los recargos por subsidios?",
-    "¿Puedo acreditar un subsidio en mis contribuciones?",
-    "¿Qué sucede si el subsidio es mayor a lo que debo pagar?"
+    "¿Qué hago si recibí un subsidio por error?",
+    "¿Cómo se calculan los recargos por subsidios indebidamente recibidos?",
+    "¿Se puede acreditar un subsidio que no debería haber recibido?",
+    "¿Qué pasa si el subsidio es mayor que la contribución que debo pagar?",
+    "¿Cómo se realiza una declaración complementaria si se pagó de más?"
   ]
 }

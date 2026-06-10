@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3264e7772d74829",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Buzón Tributario",
   "temas": [
     "uso del buzón tributario",
-    "autorización de uso",
-    "consentimiento de particulares",
-    "bases de información"
+    "consentimiento de los particulares",
+    "organismos autónomos",
+    "información depositada",
+    "derechos y obligaciones de los contribuyentes"
   ],
   "terminos_coloquiales": [
-    "buzón tributario",
-    "uso del buzón",
-    "SAT",
-    "CFF"
+    "buzón del SAT",
+    "buzón fiscal",
+    "buzón tributario"
   ],
-  "resumen": "El artículo establece que el SAT puede autorizar el uso del buzón tributario por parte de las autoridades y organismos con el consentimiento de los contribuyentes. Además, las bases de información en el buzón no pueden ser utilizadas para efectos fiscales.",
+  "resumen": "El artículo establece que el SAT puede autorizar el uso del buzón tributario con el consentimiento de los particulares o entre ellos. Además, aclara que la información en el buzón no se puede utilizar para fines fiscales según la ley.",
   "preguntas_ejemplo": [
-    "¿Qué es el buzón tributario?",
-    "¿Quién puede autorizar el uso del buzón tributario?",
-    "¿Qué requisitos necesito para utilizar el buzón tributario?",
-    "¿Pueden las autoridades usar la información del buzón para multas?",
-    "¿Qué pasa con la información depositada en el buzón tributario?"
+    "¿Qué es el buzón tributario del SAT?",
+    "¿Quién puede usar el buzón fiscal?",
+    "¿Cuáles son las reglas para el uso del buzón tributario?",
+    "¿La información en el buzón tributario se puede usar para fines fiscales?",
+    "¿Qué requisitos necesito para utilizar el buzón del SAT?"
   ]
 }

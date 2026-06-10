@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9317580bd1ff870",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intervención de Negociación",
+  "denominacion_comun": "Intervención de Negociaciones",
   "temas": [
     "interventor",
-    "caja",
-    "ingresos",
-    "controles bancarios",
+    "caja de la oficina",
+    "ingresos en efectivo",
+    "costos y gastos",
+    "transacciones bancarias",
     "irregularidades",
     "medidas provisionales",
     "administración",
     "concurso mercantil"
   ],
   "terminos_coloquiales": [
-    "intervención",
-    "control de ingresos",
-    "movimientos de cuentas",
+    "interventor",
+    "operaciones de negociaciones",
+    "gastos operativos",
+    "ingresos en efectivo",
+    "transacciones",
     "medidas urgentes",
-    "administración de la negociación"
+    "cese de intervención",
+    "administración de negocios"
   ],
-  "resumen": "El interventor debe separar los salarios y gastos necesarios antes de retirar un porcentaje de los ingresos en efectivo de la negociación. También debe aprobar cualquier movimiento financiero que no sea por salarios. Si hay irregularidades, puede dictar medidas para proteger los intereses fiscales.",
+  "resumen": "El artículo establece las funciones del interventor en caso de intervención de una negociación, incluyendo la separación de salarios y gastos, así como el manejo y control de ingresos y transacciones. Además, señala las acciones a seguir en caso de detectar irregularidades.",
   "preguntas_ejemplo": [
-    "¿Qué hace un interventor en una negociación?",
-    "¿Cuánto puede retirar el interventor de los ingresos?",
-    "¿Qué sucede si hay irregularidades en la negociación?",
-    "¿Quién aprueba los movimientos de dinero en una negociación intervenida?",
-    "¿Qué medidas toma el interventor ante problemas fiscales?",
-    "¿Qué es la administración de la negociación?"
+    "¿Qué hace el interventor en una negociación intervenida?",
+    "¿Cuánto dinero se puede retirar de la caja de la negociación?",
+    "¿Qué pasa si el interventor encuentra irregularidades?",
+    "¿Cómo se controlan los movimientos de la negociación intervenida?",
+    "¿Qué medidas puede tomar la oficina ejecutora si no se cumplen las instrucciones del interventor?"
   ]
 }

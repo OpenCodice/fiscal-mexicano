@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4f56f4f7cf460396",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones y Multas",
+  "denominacion_comun": "Infracciones y multas",
   "temas": [
-    "sanciones fiscales",
+    "infracciones fiscales",
     "multas",
-    "infracciones",
-    "resoluciones misceláneas"
+    "resoluciones misceláneas",
+    "actualizaciones",
+    "legislación fiscal"
   ],
   "terminos_coloquiales": [
     "multas fiscales",
     "sanciones",
-    "infracción",
-    "infracción al artículo 84-E"
+    "infracciones"
   ],
-  "resumen": "Este artículo establece un rango de multas para quienes cometen infracciones relacionadas con el artículo 84-E. Las multas oscilan entre dos cantidades específicas.",
+  "resumen": "Este artículo menciona las multas que se imponen por ciertas infracciones fiscales, estableciendo un rango de cantidades. También se hace referencia a la recopilación y actualización de estas multas en resoluciones misceláneas fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué multas hay por infracción al artículo 84-E?",
-    "¿Cuánto es el monto de la multa por infracciones fiscales?",
-    "¿Qué sanciones se imponen por las infracciones indicadas?",
-    "¿Cómo se determina la multa por una infracción fiscal?"
+    "¿Cuáles son las multas por infracciones fiscales?",
+    "¿Qué dice la ley sobre las sanciones por incumplimiento?",
+    "¿Cómo se actualizan las multas fiscales?"
   ]
 }

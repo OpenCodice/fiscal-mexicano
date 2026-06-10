@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cc94ba9cb666f599",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Abandono de bienes a favor del fisco",
+  "denominacion_comun": "Abandono de bienes",
   "temas": [
-    "abando de bienes",
+    "bienes",
     "fisco federal",
-    "embargo",
-    "notificación",
-    "bienes en depósito",
-    "transferencia de bienes"
+    "abandonos",
+    "embargos",
+    "notificaciones",
+    "devolución de bienes"
   ],
   "terminos_coloquiales": [
     "abandonar bienes",
     "bienes embargados",
-    "propiedad del fisco",
-    "notificación fiscal"
+    "retirar bienes",
+    "bienes en poder del fisco",
+    "bien en depósito"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales los bienes pueden ser considerados en abandono y pasar a ser propiedad del fisco federal. Esto puede ocurrir si no se retiran de su lugar de disposición dentro de ciertos plazos o si se encuentran embargados sin acción de defensa por un periodo determinado.",
+  "resumen": "Este artículo establece las circunstancias bajo las cuales los bienes pueden considerarse en abandono y pasar a propiedad del fisco federal. Se detallan los plazos y condiciones para el retiro de los bienes por parte de los interesados.",
   "preguntas_ejemplo": [
-    "¿Cuándo un bien puede ser considerado en abandono?",
-    "¿Qué sucede si no retiro mis bienes embargados?",
-    "¿Cuáles son las consecuencias de no recoger bienes en depósito?",
-    "¿Cómo me notifican si mis bienes han causado abandono?",
-    "¿Qué bienes pasan a ser propiedad del fisco federal?"
+    "¿Qué pasa si no retiro mis bienes después de un embargo?",
+    "¿Cuánto tiempo tengo para retirar mis bienes después de que se me notifique?",
+    "¿Qué son los bienes en abandono para el fisco?",
+    "¿Qué sucede si no hay respuesta a la notificación de abandono?",
+    "¿Cómo se transfiere un bien que ha causado abandono al fisco?"
   ]
 }

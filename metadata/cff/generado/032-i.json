@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:227743d9c18ed40c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Órganos Certificadores",
   "temas": [
     "autorización",
-    "verificación",
     "personas morales",
+    "certificación",
+    "verificación",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "certificadores",
-    "órganos de certificación",
+    "organismos certificadores",
+    "certificados fiscales",
     "SAT",
-    "auditores autorizados"
+    "requisitos para autorización"
   ],
-  "resumen": "El SAT puede autorizar a personas morales para que actúen como órganos certificadores. Estos se encargan de verificar que terceros autorizados cumplan con sus requisitos y obligaciones para mantener sus autorizaciones.",
+  "resumen": "El SAT puede autorizar a personas morales para que actúen como órganos certificadores, encargados de verificar que terceros cumplan con los requisitos para obtener autorizaciones. Estos órganos deben seguir las reglas establecidas por el SAT y los terceros autorizados deben facilitar las verificaciones necesarias.",
   "preguntas_ejemplo": [
-    "¿Qué son los órganos certificadores del SAT?",
-    "¿Cómo se obtiene la autorización para ser un órgano certificador?",
-    "¿Qué obligaciones tienen los terceros autorizados con los certificadores?",
-    "¿Quién regula a los órganos certificadores?",
-    "¿Qué verifica un órgano certificador?"
+    "¿Qué son los órganos certificadores?",
+    "¿Quién puede ser un órgano certificador?",
+    "¿Qué requisitos deben cumplir los órganos certificadores?",
+    "¿Cómo se obtiene una certificación del SAT?",
+    "¿Qué obligaciones tienen las personas morales autorizadas?"
   ]
 }

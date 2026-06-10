@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fcb371a0f5ba1eff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingreso por bienes y servicios",
   "temas": [
-    "percepción de ingresos",
-    "valores de mercado",
-    "contraprestación por servicios",
-    "transferencia electrónica de fondos"
+    "valor de bienes",
+    "contraprestación",
+    "ingreso por servicios",
+    "transferencia electrónica",
+    "moneda nacional",
+    "moneda extranjera"
   ],
   "terminos_coloquiales": [
     "ingreso por servicios",
-    "contraprestación",
-    "cobro de ingresos",
-    "ingresos en moneda nacional"
+    "cobro de servicios",
+    "transferencias electrónicas",
+    "valores de mercado",
+    "avalúo"
   ],
-  "resumen": "Este artículo establece cómo se debe considerar el ingreso cuando se perciben bienes o servicios, definiendo su valor en moneda nacional. También aclara que el pago a través de transferencias electrónicas se considera cobrado al realizarse la transferencia.",
+  "resumen": "El artículo establece cómo se determina el ingreso por la percepción de bienes y servicios, considerando su valor en moneda nacional. También indica que en transferencias electrónicas, el ingreso se reconoce al momento de realizar la transferencia, sin necesidad de conformidad del receptor.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el ingreso por bienes que vendo?",
-    "¿Qué valor se toma en cuenta para ingresos en servicios?",
-    "Si recibo un pago por transferencia, ¿cuándo lo cuento como ingreso?",
-    "¿Cómo se afecta el ingreso si el pago es en moneda extranjera?",
-    "¿Qué pasa si se proporcionan bienes junto con un servicio?"
+    "¿Cómo se determina el ingreso cuando vendo un producto?",
+    "¿Cuándo se considera cobrado un servicio pagado por transferencia?",
+    "¿Qué valor se usa para calcular el ingreso en bienes?",
+    "¿Cómo se trata un pago en moneda extranjera?",
+    "¿Qué implica la contraprestación al otorgar un servicio?"
   ]
 }

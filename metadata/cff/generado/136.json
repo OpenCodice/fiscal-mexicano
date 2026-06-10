@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47511112f538a9e6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones Fiscales",
+  "denominacion_comun": "Notificaciones fiscales",
   "temas": [
     "notificaciones",
+    "oficinas fiscales",
     "domicilio fiscal",
     "registro federal de contribuyentes",
     "sociedades en liquidación",
-    "procedimientos administrativos"
+    "liquidadores"
   ],
   "terminos_coloquiales": [
     "notificaciones fiscales",
-    "notificaciones en el SAT",
+    "notificaciones personales",
     "domicilio fiscal",
-    "RFC",
-    "sociedades en liquidación"
+    "RFC"
   ],
-  "resumen": "El artículo establece cómo se pueden hacer las notificaciones a los contribuyentes, ya sea en las oficinas fiscales, en el domicilio señalado para el RFC o en otro domicilio designado. También aclara que las notificaciones son válidas incluso si no se realizan en el domicilio adecuado y menciona las reglas específicas para sociedades en liquidación.",
+  "resumen": "Este artículo establece los procedimientos y lugares donde se pueden realizar notificaciones a los contribuyentes por parte de las autoridades fiscales. Las notificaciones son válidas aunque no se efectúen en el domicilio indicado.",
   "preguntas_ejemplo": [
     "¿Dónde se pueden hacer las notificaciones fiscales?",
     "¿Qué pasa si no estoy en mi domicilio fiscal?",
-    "¿Es válida la notificación si se entrega a otro lugar?",
-    "¿Cómo se notifican a las sociedades en liquidación?",
-    "¿Qué debe incluir una notificación fiscal?"
+    "¿Cómo se realizan las notificaciones a las sociedades en liquidación?",
+    "¿Es válida una notificación personal fuera del domicilio fiscal?",
+    "¿Quién puede recibir las notificaciones en una sociedad?"
   ]
 }

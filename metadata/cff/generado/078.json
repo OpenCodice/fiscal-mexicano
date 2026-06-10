@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:53d2bf4853af8045",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por omisiones en declaraciones",
+  "denominacion_comun": "Multas por omisión de contribuciones",
   "temas": [
     "omisión de contribuciones",
-    "multas",
     "error aritmético",
-    "declaraciones fiscales",
+    "multas",
+    "plazo de pago",
+    "notificación",
+    "accesorios",
     "reducción de multas"
   ],
   "terminos_coloquiales": [
-    "multa por error",
-    "multa por omisión",
-    "20-25% de multa",
-    "multas fiscales"
+    "multas por errores en declaraciones",
+    "pago de impuestos",
+    "impuestos omitidos"
   ],
-  "resumen": "Si hay un error aritmético en las declaraciones de contribuciones, se puede imponer una multa del 20% al 25% de lo omitido. Si se paga la contribución omitida con sus accesorios dentro de 15 días, la multa se reduce a la mitad sin necesidad de una resolución administrativa.",
+  "resumen": "Este artículo establece que si hay una omisión de contribuciones por un error de cálculo en las declaraciones, se aplicará una multa del 20% al 25% del monto omitido. Si se paga la cantidad adeudada dentro de un plazo determinado, la multa se reduce a la mitad.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si cometo un error en mi declaración de impuestos?",
-    "¿Cuánto es la multa por omitir contribuciones?",
-    "¿Puedo reducir la multa si pago pronto?",
-    "¿Qué ocurre si hay un error aritmético en mi declaración fiscal?",
-    "¿Hay forma de evitar la multa por omisión de contribuciones?"
+    "¿Qué pasa si cometo un error en mis impuestos?",
+    "¿Cuánto es la multa por no declarar correctamente?",
+    "¿Puedo reducir la multa si pago a tiempo?",
+    "¿Qué significa omitir contribuciones?",
+    "¿Cómo se calcula la multa por omisión de impuestos?"
   ]
 }

@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2584989ed6f92d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Excedentes de adjudicación",
   "temas": [
-    "adjudicación",
+    "crédito fiscal",
     "excedentes",
-    "deuda fiscal",
+    "bien adjudicado",
+    "enajenación",
     "remate",
-    "entrega de bienes",
-    "orden de autoridad competente",
+    "entrega de excedentes",
     "gastos de administración"
   ],
   "terminos_coloquiales": [
-    "excedentes",
-    "bienes adjudicados",
-    "remate judicial",
-    "SAT",
-    "entrega de excedentes"
+    "devolución de sobrantes",
+    "adjudicación de bienes",
+    "remate de bienes",
+    "cobro de excedentes"
   ],
-  "resumen": "Este artículo establece que si hay excedentes tras la adjudicación de bienes por deudas fiscales, se entregarán al deudor o a un tercero designado, siempre y cuando no exista una orden de autoridad que lo impida. También regula qué sucede con esos excedentes en caso de que no se realice la enajenación del bien en un plazo determinado.",
+  "resumen": "Este artículo establece que los excedentes de una adjudicación deben entregarse al deudor o a una persona designada, una vez cubierto el crédito fiscal. Si no se realiza la enajenación del bien en un plazo de 24 meses, los excedentes se entregarán de acuerdo a ciertas condiciones. Además, se indica que en caso de remate, el producto obtenido se aplicará para cubrir gastos y se entregarán los remanentes al contribuyente, salvo que haya una orden diferente de la autoridad.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los excedentes después de una adjudicación?",
-    "¿Cómo se entregan los excedentes si no se concreta el remate?",
-    "¿Qué debo hacer si hay excedentes de bienes administrativos?",
-    "¿Se puede otorgar un poder a alguien para recibir los excedentes?",
-    "¿Qué sucede si hay órdenes de autoridad sobre la entrega de excedentes?"
+    "¿Qué pasa con los excedentes de una adjudicación?",
+    "¿Cuáles son las condiciones para la entrega de excedentes de bienes?",
+    "¿Cómo se debe entregar el remanente después de un remate?",
+    "¿Qué sucede si no se vende un bien dentro del plazo establecido?",
+    "¿A quién se le entregan los excedentes en caso de adjudicación?"
   ]
 }

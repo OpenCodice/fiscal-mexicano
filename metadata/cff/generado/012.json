@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e54e91d9077d6370",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cómputo de plazos fiscales",
+  "denominacion_comun": "Cómputo de plazos",
   "temas": [
-    "plazos",
-    "días hábiles",
+    "plazos administrativos",
+    "días inhábiles",
     "vacaciones fiscales",
-    "suspensión de plazos"
+    "prórrogas",
+    "suspensión de plazos",
+    "cálculo de plazos"
   ],
   "terminos_coloquiales": [
-    "cómputo de plazos",
-    "días inhábiles",
-    "prórroga de plazos",
-    "CFF"
+    "plazos",
+    "días no hábiles",
+    "días de descanso",
+    "vacaciones",
+    "prórroga",
+    "plazos fiscales"
   ],
-  "resumen": "El artículo establece cómo se deben calcular los plazos fiscales, indicando que no se incluyen ciertos días como sábados, domingos y festivos. Además, menciona que los plazos pueden prorrogarse si el último día cae en un día inhábil.",
+  "resumen": "Este artículo establece cómo se computan los plazos en materia fiscal, especificando qué días no se consideran hábiles y las condiciones para prorrogar plazos. Se aclara que ciertos días festivos y vacaciones generales no se cuentan, a menos que se trate de plazos para hacer declaraciones y pagos de contribuciones.",
   "preguntas_ejemplo": [
-    "¿Qué días no cuentan para los plazos fiscales?",
-    "¿Cómo se computan los plazos si caen en un fin de semana?",
-    "¿Puedo prorrogar un plazo si el último día es feriado?",
-    "¿Qué son los días inhábiles para las obligaciones fiscales?",
-    "¿Qué sucede si el día de pago cae en viernes?"
+    "¿Cuáles son los días que no cuentan para los plazos fiscales?",
+    "¿Cómo se prorrogan los plazos si un día cae en fin de semana?",
+    "¿Qué sucede si el último día del plazo es un día inhábil?",
+    "¿Las vacaciones de las autoridades fiscales afectan los plazos?",
+    "¿Qué días son considerados hábiles para presentar mis declaraciones?"
   ]
 }

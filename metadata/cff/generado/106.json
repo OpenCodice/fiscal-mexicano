@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:48c1f93ac44dcc61",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Mercancías de uso personal",
   "temas": [
-    "mercanías",
-    "uso personal",
-    "estancia legal",
+    "merchancías",
+    "consumo personal",
     "documentación aduanal",
-    "comprobante fiscal",
-    "artículos domésticos"
+    "comprobantes fiscales",
+    "estancia legal",
+    "artículos domésticos",
+    "productos sanitarios",
+    "medicamentos"
   ],
   "terminos_coloquiales": [
-    "mercancías personales",
-    "documentación aduanal",
-    "comprobante fiscal digital",
+    "uso personal",
     "cosméticos",
-    "artículos de uso cotidiano"
+    "ropa",
+    "alimentos",
+    "comprobante fiscal",
+    "nota de venta",
+    "carta de porte"
   ],
-  "resumen": "El artículo describe qué se considera mercancías de uso personal y cómo se comprueba su estancia legal en el país. Incluye ejemplos de artículos personales y requisitos documentales para mercancías extranjeras.",
+  "resumen": "El artículo establece qué mercancías se consideran de uso personal y cómo se debe comprobar su estancia legal en el país. Incluye alimentos, ropa, productos de aseo y medicamentos, y menciona la documentación necesaria para su legalidad.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de mercancías se consideran de uso personal?",
-    "¿Cómo puedo comprobar la estancia legal de mis mercancías en México?",
-    "¿Qué documentos necesito para traer mercancías personales al país?",
-    "¿Cuáles son los requisitos para un comprobante fiscal digital?",
-    "¿Qué artículos están excluidos como mercancías de uso personal?"
+    "¿Qué mercancías puedo introducir al país como uso personal?",
+    "¿Cómo compruebo la estancia legal de mis productos en México?",
+    "¿Qué documentos necesito para la entrada de artículos domésticos?",
+    "¿Qué son los comprovantes fiscales digitales por Internet?",
+    "¿Se puede llevar comida y bebida al entrar a México?"
   ]
 }

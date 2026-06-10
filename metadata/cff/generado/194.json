@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a54b055e1cf13d44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes",
+  "denominacion_comun": "Remate de bienes del fisco",
   "temas": [
-    "créditos fiscales",
     "remate",
     "enajenación",
     "adjudicación",
-    "bienes al fisco"
+    "crédito fiscal"
   ],
   "terminos_coloquiales": [
     "remate de bienes",
-    "venta de bienes",
-    "cobro de créditos fiscales"
+    "subasta de bienes",
+    "bien del fisco"
   ],
-  "resumen": "Cuando se rematan, enajenan o adjudican bienes al fisco, el dinero obtenido se usará para pagar deudas fiscales, siguiendo el orden establecido en otro artículo del Código Fiscal de la Federación.",
+  "resumen": "El dinero obtenido del remate, venta o adjudicación de bienes que pertenecen al fisco se usará para pagar deudas fiscales según lo que dice el Artículo 20 de la ley.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con el dinero de un remate de bienes?",
-    "¿Cómo se cubren los créditos fiscales con bienes adjudicados?",
-    "¿Cuáles son las reglas para el remate de bienes al fisco?",
-    "¿Qué es un remate y cómo afecta mis obligaciones fiscales?",
-    "¿Dónde se regula la enajenación de bienes del fisco?"
+    "¿Qué pasa con los bienes que remata el fisco?",
+    "¿Cómo se usan los ingresos del remate de bienes del fisco?",
+    "¿Qué es la adjudicación de bienes al fisco?",
+    "¿Dónde se regula el remate de bienes del fisco?",
+    "¿Qué es la enajenación de bienes del fisco?"
   ]
 }

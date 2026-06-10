@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:efbc066f8a3c9957",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sanciones fiscales",
@@ -13,23 +14,27 @@
     "sanciones",
     "prisión",
     "operaciones contables",
-    "documentación fiscal",
+    "registros fiscales",
+    "pérdidas",
+    "declaraciones informativas",
     "información confidencial",
-    "declaraciones fiscales"
+    "documentación falsa"
   ],
   "terminos_coloquiales": [
     "sanciones fiscales",
-    "prisión por incumplimiento",
-    "omisión de declaraciones",
+    "prisión por fraude",
     "libros contables",
-    "CFF"
+    "registros de impuestos",
+    "no presentar declaración",
+    "información secreta",
+    "documentos falsos"
   ],
-  "resumen": "El artículo establece sanciones de prisión por varios ilícitos fiscales, como llevar registros contables falsos, ocultar información y no presentar declaraciones informativas. Si la persona subsana el problema antes de que la autoridad lo descubra, no se formulará querella en su contra.",
+  "resumen": "Este artículo establece sanciones de prisión para quienes cometan ciertas irregularidades en sus registros contables y fiscales. Se incluye la ocultación de información, la falsedad en la declaración de pérdidas y el uso indebido de información confidencial.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no llevo mis libros contables correctamente?",
-    "¿Cuáles son las sanciones por no presentar la declaración informativa a tiempo?",
-    "¿Puede alguien ir a prisión por ocultar información fiscal?",
-    "¿Qué sucede si presento información falsa en mis registros?",
-    "¿Qué debo hacer si tengo errores en mis operaciones contables?"
+    "¿Qué pasa si no presento mi declaración a tiempo?",
+    "¿Cuáles son las sanciones por alterar libros contables?",
+    "¿Qué delitos pueden resultar en prisión relacionados con impuestos?",
+    "¿Qué sucede si tengo documentación falsa en mis registros?",
+    "¿Puedo ser sancionado por no llevar mis libros contables correctamente?"
   ]
 }

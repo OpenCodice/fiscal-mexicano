@@ -6,15 +6,23 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposiciones fiscales",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado y ya no tiene validez legal.",
+  "denominacion_comun": "Derogación de artículo",
+  "temas": [
+    "derogación",
+    "disposición fiscal",
+    "reglamento"
+  ],
+  "terminos_coloquiales": [
+    "se eliminó",
+    "ya no aplica"
+  ],
+  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene validez y no se aplica más en la ley fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué disposiciones fiscales han sido derogadas?",
     "¿Qué significa que un artículo esté derogado?",
-    "¿Existen consecuencias al derogar una ley fiscal?"
+    "¿Qué disposiciones fiscales ya no están en vigor?",
+    "¿El artículo 241 del CFF aún es válido?"
   ]
 }

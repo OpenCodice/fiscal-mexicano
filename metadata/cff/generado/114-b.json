@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ec258e24db3727a0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por revelación de información fiscal",
+  "denominacion_comun": "Sanciones por revelación de información",
   "temas": [
     "sanciones",
     "servidores públicos",
@@ -17,14 +18,17 @@
     "autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "sanción por filtración",
-    "protección de datos fiscales"
+    "prisión para funcionarios",
+    "revelar datos fiscales",
+    "filtración de información",
+    "datos de instituciones financieras"
   ],
-  "resumen": "Se establece una sanción de prisión de uno a seis años para los servidores públicos que revelen información del sistema financiero a terceros de manera indebida. Esto es un mecanismo para proteger la privacidad de la información fiscal.",
+  "resumen": "Se establece una sanción de prisión de uno a seis años para los servidores públicos que revelen información confidencial proporcionada por instituciones financieras a las autoridades fiscales. Esto es una violación a la confidencialidad establecida en la ley.",
   "preguntas_ejemplo": [
     "¿Qué pasa si un servidor público filtra información fiscal?",
-    "¿Cuáles son las penas por revelar datos financieros?",
-    "¿Qué sanciones existen para la divulgación de información fiscal?",
-    "¿Cómo protege la ley la información de los contribuyentes?"
+    "¿Cuáles son las sanciones por revelar datos de instituciones financieras?",
+    "¿Quiénes pueden ser sancionados por violar la confidencialidad fiscal?",
+    "¿Qué tipo de información está protegida por la ley?",
+    "¿Cuánto tiempo de prisión puede recibir un funcionario que revele secretos fiscales?"
   ]
 }

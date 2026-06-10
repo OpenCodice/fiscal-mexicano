@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:57b1c95978716c8f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ejercicio Fiscal",
   "temas": [
-    "cálculo de contribuciones",
-    "ejercicio fiscal",
-    "personas morales",
-    "liquidación de sociedades",
-    "fusión de sociedades",
-    "escisión de sociedades",
-    "ejercicio irregular",
-    "mes de calendario"
+    "Cálculo de contribuciones",
+    "Ejercicios fiscales",
+    "Sociedades en liquidación",
+    "Fusiones y escisiones"
   ],
   "terminos_coloquiales": [
-    "calculo de impuestos",
     "año fiscal",
-    "contribuciones anuales",
-    "ejercicio irregular"
+    "ejercicio irregular",
+    "liquidación de sociedades",
+    "fusión de empresas",
+    "escisión de sociedades"
   ],
-  "resumen": "El artículo establece que los ejercicios fiscales coinciden con el año calendario y detalla cómo se define un ejercicio fiscal para las personas morales que inician actividades después del 1 de enero. También menciona cómo se termina un ejercicio fiscal en casos de liquidación, fusión o escisión de sociedades.",
+  "resumen": "El artículo establece que los ejercicios fiscales coinciden con el año de calendario y que, si una sociedad inicia actividades después del 1 de enero, su ejercicio fiscal será irregular. También menciona que el ejercicio fiscal termina anticipadamente en casos de liquidación, fusión o escisión de sociedades.",
   "preguntas_ejemplo": [
-    "¿Qué es un ejercicio fiscal?",
-    "¿Cómo se calcula el impuesto para una sociedad en liquidación?",
-    "¿Qué ocurre si una empresa inicia actividades después del 1 de enero?",
-    "¿Qué significa tener un ejercicio fiscal irregular?",
-    "¿Los ejercicios fiscales son iguales al año calendario?"
+    "¿Qué es un ejercicio fiscal irregular?",
+    "¿Cómo se determina el ejercicio fiscal de una sociedad?",
+    "¿Qué pasa con el ejercicio fiscal cuando una sociedad se fusiona?",
+    "¿Cuándo termina el ejercicio fiscal en caso de liquidación?",
+    "¿Cómo se calculan las contribuciones por mes?"
   ]
 }

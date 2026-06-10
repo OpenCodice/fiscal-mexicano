@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9934ccfab03aa8be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Créditos fiscales y garantías",
+  "denominacion_comun": "Transferencia de Recursos por Créditos Fiscales",
   "temas": [
-    "créditos fiscales",
-    "garantías",
+    "crédito fiscal",
+    "garantía del interés fiscal",
     "transferencia de recursos",
-    "comunicaciones con entidades financieras",
-    "reintegro de fondos",
-    "inmovilización de cuentas",
-    "interés fiscal"
+    "entidades financieras",
+    "cuentas inmovilizadas",
+    "reintegro de cantidades",
+    "fisco federal",
+    "notificación al contribuyente"
   ],
   "terminos_coloquiales": [
-    "créditos fiscales",
-    "garantías fiscales",
-    "transferencias de fondos",
+    "pago de deudas fiscales",
+    "transferencias bancarias por impuestos",
     "inmovilización de cuentas",
-    "reintegro de excedentes"
+    "devolución de dinero",
+    "fiscal",
+    "interés fiscal"
   ],
-  "resumen": "El artículo establece cómo se debe proceder cuando un crédito fiscal es firme, incluyendo la inmovilización de cuentas y la transferencia de recursos si el interés fiscal no está garantizado. También se aborda el procedimiento para el reintegro de cantidades transferidas en exceso.",
+  "resumen": "Este artículo establece el procedimiento que debe seguir la autoridad fiscal cuando un crédito fiscal está firme y no se proporciona garantía suficiente. Detalla cómo se realiza la transferencia de recursos desde cuentas inmovilizadas y los plazos que deben observar las entidades financieras y el contribuyente. También menciona el derecho del contribuyente a solicitar un reintegro si se transfiere un monto superior al debido.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si tengo un crédito fiscal y mis cuentas están inmovilizadas?",
-    "¿Cómo puedo recuperar un monto transferido en exceso por la autoridad fiscal?",
-    "¿Qué pasa si no garantizo el interés fiscal antes de que el crédito fiscal sea firme?",
-    "¿Cuáles son mis derechos si se transfiere un monto mayor al crédito fiscal?",
-    "¿Cómo la autoridad fiscal se comunica con las entidades financieras sobre la transferencia de recursos?"
+    "¿Qué pasa si no presento garantía para un crédito fiscal?",
+    "¿Cómo se realiza la transferencia de fondos de mi cuenta si debo impuestos?",
+    "¿Qué debo hacer si el monto transferido es mayor al crédito fiscal?",
+    "¿Cuánto tiempo tiene la autoridad fiscal para notificarme sobre la transferencia?",
+    "¿Cuáles son mis derechos respecto al reintegro de fondos transferidos?"
   ]
 }

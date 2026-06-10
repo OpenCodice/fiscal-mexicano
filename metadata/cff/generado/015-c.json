@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd1322b7afb6b46a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Entidades Financieras",
   "temas": [
-    "Instituciones de crédito",
-    "Seguros de vida",
-    "Fondos de retiro",
-    "Uniones de crédito",
-    "Casas de bolsa",
-    "Sociedades financieras populares",
-    "Sociedades de inversión"
+    "instituciones de crédito",
+    "seguros de vida",
+    "fondos para el retiro",
+    "sociedades de inversión",
+    "sociedades cooperativas de ahorro y préstamo"
   ],
   "terminos_coloquiales": [
-    "entidades financieras",
-    "instituciones financieras",
-    "sociedades de inversión",
-    "sociedades cooperativas"
+    "banco",
+    "aseguradora",
+    "fondos de pensiones",
+    "sociedad de inversión",
+    "coop",
+    "caja de ahorro"
   ],
-  "resumen": "El artículo define las entidades financieras y menciona qué instituciones caen en esta categoría. Además, estipula que las sociedades cooperativas de ahorro y préstamo deben cumplir con las obligaciones de las entidades financieras para ser consideradas como tales.",
+  "resumen": "El artículo define qué es una entidad financiera e incluye diversas instituciones como bancos y aseguradoras. También establece que las sociedades cooperativas de ahorro y préstamo deben cumplir con ciertas obligaciones para ser consideradas como tales.",
   "preguntas_ejemplo": [
-    "¿Qué es una entidad financiera?",
-    "¿Qué tipos de instituciones son consideradas entidades financieras?",
-    "¿Las sociedades cooperativas de ahorro son consideradas entidades financieras?",
-    "¿Qué obligaciones tienen las entidades financieras?",
-    "¿Cuáles son los requisitos para las entidades financieras según el Código Fiscal?"
+    "¿Qué tipos de instituciones se consideran entidades financieras?",
+    "¿Cómo se define una entidad financiera en el Código Fiscal?",
+    "¿Las cooperativas de ahorro son consideradas entidades financieras?",
+    "¿Qué obligaciones tienen las sociedades cooperativas de ahorro y préstamo?",
+    "¿Qué es un fondo para el retiro según esta ley?"
   ]
 }

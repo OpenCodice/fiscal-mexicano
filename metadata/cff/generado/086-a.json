@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dafa0a44213fd8d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones de Marbetes en Bebidas Alcohólicas",
+  "denominacion_comun": "Infracciones relacionadas con marbetes de bebidas alcohólicas",
   "temas": [
     "marbetes",
     "precintos",
-    "envases",
     "bebidas alcohólicas",
     "infracciones fiscales",
-    "Ley del Impuesto Especial sobre Producción y Servicios"
+    "Ley del Impuesto Especial sobre Producción y Servicios",
+    "código QR",
+    "destrucción de envases",
+    "acreditación legal"
   ],
   "terminos_coloquiales": [
-    "infracciones de marbetes",
-    "incorrecto uso de marbetes",
-    "falsos marbetes",
-    "marbete QR"
+    "marbete",
+    "precinto",
+    "etiqueta de bebidas",
+    "bebidas alcohólicas",
+    "destrucción de botellas",
+    "código QR",
+    "impuesto sobre bebidas",
+    "Ley de bebidas"
   ],
-  "resumen": "El artículo establece las infracciones relacionadas con marbetes y precintos en envases de bebidas alcohólicas, incluyendo no adherirlos, usarlos incorrectamente o carecer de ellos. También menciona las obligaciones de destrucción de envases vacíos y la legalidad de su adquisición.",
+  "resumen": "El artículo establece diversas infracciones relacionadas con el incumplimiento en el uso y adhesión de marbetes y precintos en las bebidas alcohólicas, así como la obligación de destruir envases vacíos y verificar la legalidad de los marbetes. También menciona el uso incorrecto de estos y la obligación de leer códigos QR en ciertos establecimientos.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las infracciones por no usar marbetes en bebidas alcohólicas?",
-    "¿Qué se considera un uso incorrecto de marbetes?",
-    "¿Qué sucede si un marbete es falso o alterado?",
-    "¿Cómo debo destruir envases vacíos de bebidas alcohólicas?",
-    "¿Qué debo hacer si me informan sobre el incumplimiento de medidas sanitarias?",
-    "¿Qué infracciones se relacionan con el código QR del marbete?"
+    "¿Cuáles son las infracciones por no tener marbetes en bebidas alcohólicas?",
+    "¿Qué debo hacer si el marbete de mi bebida está alterado?",
+    "¿Qué sanciones puedo enfrentar por no destruir envases vacíos de bebidas alcohólicas?",
+    "¿Es obligatorio que los marbetes tengan un código QR?",
+    "¿Qué pasa si uso marbetes de manera incorrecta?"
   ]
 }

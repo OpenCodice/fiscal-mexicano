@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da0dcc3d396354bd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Destrucción de mercancías",
   "temas": [
     "donación de mercancías",
-    "deterioro de bienes",
-    "implicaciones fiscales",
     "bienes básicos",
-    "instituciones autorizadas"
+    "impuesto sobre la renta",
+    "entidades autorizadas",
+    "detrimento de mercancías"
   ],
   "terminos_coloquiales": [
-    "destrucción de bienes",
-    "donación de alimentos",
-    "donativos deducibles",
-    "CFF",
-    "Ley del ISR"
+    "destrucción de mercancías",
+    "donar comida",
+    "donación de productos",
+    "productos en mal estado"
   ],
-  "resumen": "Los contribuyentes deben ofrecer mercancías deterioradas como donación a instituciones antes de destruirlas, especialmente si son bienes básicos para la subsistencia humana. Esto aplica si el costo de estos bienes fue deducido en el impuesto sobre la renta.",
+  "resumen": "Los contribuyentes deben ofrecer mercancías deterioradas, que dedujeron para el impuesto sobre la renta, en donación a instituciones autorizadas antes de proceder a su destrucción. Estas mercancías deben estar relacionadas con la alimentación o salud de personas en escasos recursos.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si tengo mercancías deterioradas?",
-    "¿Puedo destruir bienes básicos que ya no puedo vender?",
-    "¿A quién puedo donar mercancías que han perdido su valor?",
-    "¿Cuáles son los requisitos para donar alimentos?",
-    "¿Qué implica donar mercancías antes de destrucción?"
+    "¿Qué debo hacer con mercancías en mal estado?",
+    "¿Puedo destruir productos que no se venden?",
+    "¿Cómo se dona comida deteriorada?",
+    "¿Qué requisitos hay para donar mercancías?",
+    "¿A quién se le puede donar productos que ya no puedo vender?"
   ]
 }

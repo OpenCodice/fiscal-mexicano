@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76e6eb35ef0f96fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones de Casas de Bolsa",
+  "denominacion_comun": "Infracciones casas de bolsa",
   "temas": [
     "infracciones",
     "casas de bolsa",
-    "información",
-    "contribuyentes",
-    "acciones"
+    "información fiscal",
+    "acciones",
+    "enajenación",
+    "Ley del Impuesto sobre la Renta"
   ],
   "terminos_coloquiales": [
-    "infracción casas de bolsa",
+    "falta en casas de bolsa",
     "no dar información",
-    "comercio de acciones"
+    "enajenación de acciones",
+    "impuesto sobre la renta"
   ],
-  "resumen": "Las casas de bolsa pueden cometer una infracción si no proporcionan la información requerida sobre los contribuyentes que venden acciones a través de ellas.",
+  "resumen": "El artículo establece que las casas de bolsa cometen una infracción si no proporcionan la información requerida sobre los contribuyentes que venden acciones a través de su intermediación.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si una casa de bolsa no da la información de sus clientes?",
-    "¿Cuáles son las infracciones que pueden cometer las casas de bolsa?",
+    "¿Qué pasa si una casa de bolsa no da la información de un cliente?",
+    "¿Cuáles son las infracciones de las casas de bolsa?",
     "¿Qué información deben proporcionar las casas de bolsa?",
-    "¿Qué sucede si no se reportan las enajenaciones de acciones?",
-    "¿A quién afecta no dar información en el comercio de acciones?"
+    "¿Qué es la enajenación de acciones en la ley fiscal?"
   ]
 }

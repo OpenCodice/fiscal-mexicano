@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bf8398a202fa78ff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acceso a información de servicios digitales",
+  "denominacion_comun": "Acceso a información fiscal de servicios digitales",
   "temas": [
     "servicios digitales",
-    "fiscalización en línea",
     "obligaciones fiscales",
-    "acceso a información",
+    "acceso en línea",
     "bloqueo de servicios",
-    "convenios tecnológicos"
+    "informática",
+    "tecnologías de la información",
+    "convenios fiscales"
   ],
   "terminos_coloquiales": [
-    "acceso en línea",
-    "fiscalización digital",
+    "acceso a la información fiscal",
+    "bloqueo de plataformas digitales",
+    "tax compliance",
     "SAT",
-    "bloqueo de servicio digital"
+    "obligaciones de los contribuyentes"
   ],
-  "resumen": "Los contribuyentes que ofrecen servicios digitales deben permitir que las autoridades fiscales accedan a su información en línea para comprobar que cumplen con sus obligaciones. Si no lo hacen, pueden perder temporalmente el acceso a sus servicios.",
+  "resumen": "Los contribuyentes que brinden servicios digitales deben permitir el acceso a sus registros a las autoridades fiscales para comprobar que cumplen con sus obligaciones. Si no lo hacen, podrían enfrentar un bloqueo temporal de sus servicios digitales.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tienen los proveedores de servicios digitales con el SAT?",
-    "¿Qué pasa si no cumplo con las obligaciones de acceso a información?",
-    "¿Cómo se verifica que cumplo con mis obligaciones fiscales como proveedor digital?",
-    "¿Qué es el bloqueo temporal de servicios digitales?",
-    "¿Con quién celebra convenios el SAT en materia de tecnologías de la información?"
+    "¿Qué obligaciones tengo si ofrezco servicios digitales?",
+    "¿Qué pasa si no permito el acceso a mi información fiscal?",
+    "¿Cómo puedo cumplir con las reglas del SAT sobre servicios digitales?",
+    "¿Qué quiere decir el bloqueo temporal de acceso a mis servicios?",
+    "¿Con quién debo firmar convenios para temas fiscales y tecnología?",
+    "¿Qué tipo de información necesita el SAT de mis registros digitales?"
   ]
 }

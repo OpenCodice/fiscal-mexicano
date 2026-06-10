@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:125f9acf7c1a2c94",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones del titular del certificado",
+  "denominacion_comun": "Obligaciones del titular del certificado de la e.firma",
   "temas": [
     "certificado",
     "firma electrónica avanzada",
-    "revocación de certificado",
-    "responsabilidad jurídica"
+    "obligaciones",
+    "revocación",
+    "responsabilidad"
   ],
   "terminos_coloquiales": [
-    "certificado SAT",
+    "e.firma",
     "firma electrónica",
-    "recertificación",
-    "obligaciones del certificado"
+    "certificado de firma"
   ],
-  "resumen": "El titular de un certificado del SAT debe actuar con diligencia para proteger sus datos de firma y asegurarse de que la información relacionada con el certificado sea precisa. También debe revocar el certificado si hay riesgo para la privacidad de sus datos.",
+  "resumen": "El titular de un certificado de la e.firma debe actuar con diligencia para proteger sus datos y asegurarse de que la información relacionada con el certificado es correcta. También debe solicitar su revocación si hay riesgos para la privacidad.",
   "preguntas_ejemplo": [
-    "¿Cuáles son mis responsabilidades al tener un certificado del SAT?",
-    "¿Qué debo hacer si creo que mis datos de firma han sido comprometidos?",
-    "¿Cómo puedo revocar mi certificado de firma electrónica?",
-    "¿Qué pasa si no cumplo con las obligaciones del certificado?",
-    "¿Qué implica actuar con diligencia en el uso de mi certificado?"
+    "¿Cuáles son las obligaciones de quien tiene una e.firma?",
+    "¿Qué debo hacer si creo que mi certificado de firma está en riesgo?",
+    "¿Qué pasa si no cumplo con las obligaciones del certificado de firma electrónica?",
+    "¿Cómo puedo revocar mi e.firma?",
+    "¿Es responsable el titular del certificado por información incorrecta en el mismo?"
   ]
 }

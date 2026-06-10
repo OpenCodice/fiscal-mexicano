@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bfee0f86db06aaf6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones por Edictos",
+  "denominacion_comun": "Notificaciones por edictos",
   "temas": [
-    "notificaciones",
-    "edictos",
+    "notificaciones fiscales",
     "publicaciones",
     "Diario Oficial de la Federación",
-    "medios de comunicación"
+    "diarios de circulación",
+    "página electrónica",
+    "actos administrativos"
   ],
   "terminos_coloquiales": [
-    "notificación por edictos",
-    "publicaciones fiscales",
-    "DOF"
+    "notificaciones por edictos",
+    "avisos fiscales",
+    "publicaciones en prensa"
   ],
-  "resumen": "Este artículo establece cómo deben hacerse las notificaciones por edictos, incluyendo los medios y el tiempo de publicación. Se considera como fecha de notificación la de la última publicación realizada.",
+  "resumen": "El artículo establece cómo se deben realizar las notificaciones fiscales por edictos a través de publicaciones en diferentes medios. La fecha de notificación se considera la de la última publicación realizada.",
   "preguntas_ejemplo": [
-    "¿Cómo se hacen las notificaciones por edictos?",
-    "¿Cuánto tiempo duran las publicaciones de edictos?",
-    "¿Dónde se publican los edictos fiscales?",
-    "¿Qué medios se utilizan para notificaciones fiscales?",
-    "¿Cuál es la fecha de notificación en un edicto?"
+    "¿Cómo se llevan a cabo las notificaciones fiscales por edictos?",
+    "¿En qué medios se publican las notificaciones por edictos?",
+    "¿Cuál es la fecha de notificación según el artículo 140?",
+    "¿Qué información debe contener una publicación de notificación?",
+    "¿Cuánto tiempo se publican las notificaciones en el Diario Oficial?"
   ]
 }

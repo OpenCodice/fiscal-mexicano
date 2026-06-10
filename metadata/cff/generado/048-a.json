@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:68568bf693b4bab8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revisión de documentos fiscales",
+  "denominacion_comun": "Revisión de gabinete",
   "temas": [
-    "solicitud de información",
+    "solicitudes de información",
     "oficio de observaciones",
-    "plazos de respuesta",
     "corrección de situación fiscal",
     "sanciones fiscales",
-    "derechos del contribuyente"
+    "plazos de respuesta",
+    "derechos de los contribuyentes"
   ],
   "terminos_coloquiales": [
-    "revisión de gabinete",
+    "revisión de documentos",
     "oficio de observaciones",
-    "comprobación fiscal",
-    "CFF"
+    "plazo para corregir",
+    "sanciones fiscales",
+    "informe requerido"
   ],
-  "resumen": "El artículo establece el procedimiento que deben seguir las autoridades fiscales para solicitar información y documentos a los contribuyentes, así como los plazos y derechos que estos tienen para responder y corregir su situación fiscal si es necesario. También se menciona el trato a las omisiones y las posibles sanciones.",
+  "resumen": "Este artículo establece el procedimiento que deben seguir las autoridades fiscales cuando solicitan información o documentos a ciertos contribuyentes. También detalla los plazos para responder a dichas solicitudes y las consecuencias de no corregir las irregularidades detectadas.",
   "preguntas_ejemplo": [
-    "¿Cuál es el proceso si me piden documentación fiscal?",
-    "¿Qué es un oficio de observaciones?",
-    "¿Cuánto tiempo tengo para presentar los documentos solicitados?",
-    "¿Qué pasa si no respondo a la solicitud de información?",
-    "¿Puedo corregir mi situación fiscal después de una revisión?"
+    "¿Qué pasa si no respondo a una solicitud de la autoridad fiscal?",
+    "¿Cuánto tiempo tengo para desvirtuar un oficio de observaciones?",
+    "¿Qué significa corregir mi situación fiscal ante la autoridad?",
+    "¿Qué sucede si no presento los documentos requeridos?",
+    "¿Cuál es el plazo que tiene la autoridad para concluir una revisión?"
   ]
 }

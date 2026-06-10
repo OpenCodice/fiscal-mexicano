@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7dd8505d84c85348",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses por Devolución de Saldo a Favor",
+  "denominacion_comun": "Intereses por devoluciones fiscales",
   "temas": [
-    "devoluciones fiscales",
+    "devoluciones",
+    "intereses",
     "saldos a favor",
-    "pagos indebidos",
-    "intereses de devolución",
-    "plazos de devolución"
+    "pago indebido",
+    "resoluciones administrativas",
+    "sentencias judiciales"
   ],
   "terminos_coloquiales": [
-    "intereses por devolución",
-    "saldo a favor",
-    "pago indevido",
-    "devolución tardía"
+    "devolución de impuestos",
+    "devolver saldo a favor",
+    "intereses de devolución",
+    "devolución de pago indebido",
+    "intereses acumulados"
   ],
-  "resumen": "Este artículo establece que las autoridades fiscales deben pagar intereses sobre las devoluciones efectuadas fuera de los plazos establecidos. Los intereses se calculan desde el momento en que se niega la devolución o se presenta un recurso administrativo, dependiendo de cada caso.",
+  "resumen": "Este artículo establece cómo se calcularán los intereses que el fisco federal debe pagar a los contribuyentes cuando hay retrasos en la devolución de saldos a favor o pagos indebidos. Además, detalla los plazos y condiciones bajo los cuales se generan estos intereses.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo que esperar para que me devuelvan un saldo a favor?",
-    "¿Qué pasa si me niegan la devolución y luego la autorizan?",
-    "¿Cómo se calculan los intereses sobre los pagos indebidos?",
-    "¿El fisco tiene un límite para pagar intereses por devoluciones?",
-    "¿Qué sucede si los intereses que me pagan son menos de lo que debería recibir?"
+    "¿Qué pasa si tarda la devolución de mi saldo a favor?",
+    "¿Cómo se calculan los intereses en caso de devolución tardía?",
+    "¿Qué ocurre si se niega mi solicitud de devolución y luego se concede?",
+    "¿Cuándo se generan intereses por un pago indebido?",
+    "¿El fisco puede negarse a pagarme los intereses de mi devolución?"
   ]
 }

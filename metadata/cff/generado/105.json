@@ -6,33 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9181789fcdd175b8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por Fraude Aduanero",
+  "denominacion_comun": "Sanciones por contrabando",
   "temas": [
     "contrabando",
     "mercancías extranjeras",
-    "documentación aduanera",
-    "sanciones administrativas",
-    "tráfico prohibido",
-    "certificación de origen falso",
-    "documentación falsa",
-    "veículos importados",
-    "reglas de importación"
+    "documentación legal",
+    "importación y exportación",
+    "vehículos importados",
+    "certificación falsa",
+    "sanciones fiscales",
+    "transacciones aduaneras"
   ],
   "terminos_coloquiales": [
-    "sanciones aduaneras",
-    "fraude fiscal",
     "contrabando",
-    "necesito saber sobre sanciones por contrabando",
-    "CFF (Código Fiscal de la Federación)"
+    "sanciones de contrabando",
+    "mercancías ilegales",
+    "documentos de importación",
+    "permiso aduanal",
+    "certificado de origen",
+    "multa por contrabando",
+    "infracciones aduaneras"
   ],
-  "resumen": "El artículo especifica las sanciones que se aplican por contrabando y otras violaciones relacionadas con la importación y comercio de mercancías. Incluye delitos como la falta de documentación adecuada y la falsificación de datos aduaneros.",
+  "resumen": "Este artículo establece las sanciones aplicables a quienes realicen actos de contrabando, como comerciar o tener mercancías extranjeras sin la documentación adecuada, así como las implicaciones para funcionarios públicos que faciliten estas acciones. También contempla sanciones relacionadas con la falsificación de documentos y la omisión de declarar cantidades de dinero en efectivo al cruzar fronteras.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las sanciones por tráfico de mercancías?",
-    "¿Qué penalizaciones hay por no declarar mercancías en aduana?",
-    "¿Qué se considera contrabando según el Código Fiscal?",
-    "¿Qué documentos se necesitan para importar mercadería legalmente?",
-    "¿Qué pasa si presento documentación falsa en aduana?"
+    "¿Qué pasa si compro mercancía extranjera sin los documentos correctos?",
+    "¿Cuáles son las multas por contrabando de bebidas alcohólicas?",
+    "¿Qué sanciones hay para funcionarios que permiten contrabando?",
+    "¿Qué debo hacer si tengo que declarar dinero en la aduana?",
+    "¿Qué ocurre si certifique falsamente el origen de un producto?",
+    "¿Cómo puedo evitar sanciones al importar un vehículo?"
   ]
 }

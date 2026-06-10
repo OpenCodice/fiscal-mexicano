@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0920cbf5b7624af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cargas fiscales",
+  "denominacion_comun": "Disposiciones fiscales generales",
   "temas": [
-    "disposiciones fiscales",
-    "cargas a los particulares",
-    "excepciones",
-    "infracciones y sanciones",
-    "interpretación de la ley",
-    "normas supletorias"
-  ],
-  "terminos_coloquiales": [
     "cargas fiscales",
     "excepciones fiscales",
     "infracciones",
     "sanciones",
-    "interpretación de normas"
+    "interpretación jurídica",
+    "normas fiscales",
+    "derecho fiscal"
   ],
-  "resumen": "Las normas fiscales que imponen cargas a los ciudadanos y las que establecen excepciones son de aplicación estricta. En caso de no haber una norma específica, se aplicarán las disposiciones del derecho federal común, siempre que no contravengan la naturaleza del derecho fiscal.",
+  "terminos_coloquiales": [
+    "leyes fiscales",
+    "cargas a los particulares",
+    "sanciones fiscales"
+  ],
+  "resumen": "Las normas fiscales que imponen obligaciones a los ciudadanos son de cumplimiento estricto. También se incluyen las que determinan excepciones y las que establecen infracciones y sanciones. Si no hay una norma clara, se aplican las leyes del derecho federal común que no contradigan el derecho fiscal.",
   "preguntas_ejemplo": [
     "¿Qué son las cargas fiscales?",
-    "¿Cómo se aplican las excepciones fiscales?",
-    "¿Qué sucede si no hay una norma fiscal clara?",
-    "¿Qué infracciones y sanciones pueden existir en el ámbito fiscal?",
-    "¿Cómo se interpretan las disposiciones fiscales?"
+    "¿Cuáles son las sanciones por incumplimiento fiscal?",
+    "¿Cómo se interpretan las normas fiscales?",
+    "¿Qué pasa si no hay una norma fiscal específica?",
+    "¿Qué normas establecen excepciones a las cargas fiscales?"
   ]
 }

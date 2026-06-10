@@ -6,23 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
+  "denominacion_comun": "Derogación de disposiciones fiscales",
   "temas": [
     "derogación",
+    "disposiciones fiscales",
     "legislación fiscal",
-    "CFF",
-    "modificaciones legislativas"
+    "Código Fiscal de la Federación"
   ],
   "terminos_coloquiales": [
-    "artículo derogado",
-    "CFF derogado"
+    "se deroga",
+    "quitan la ley"
   ],
-  "resumen": "Este artículo ha sido derogado, lo que significa que ya no tiene validez en la legislación fiscal. Cualquier disposición anterior que contenía ya no se aplica.",
+  "resumen": "Este artículo establece la derogación de ciertas disposiciones fiscales. Como resultado, las normas que antes estaban en vigor ya no son aplicables.",
   "preguntas_ejemplo": [
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Cuáles son las consecuencias de la derogación de un artículo en la ley?",
-    "¿Dónde puedo encontrar información sobre artículos derogados del CFF?"
+    "¿Qué significa que se haya derogado un artículo de la ley fiscal?",
+    "¿Cuáles son las consecuencias de la derogación de disposiciones fiscales?",
+    "¿Qué artículos han sido derogados en el Código Fiscal de la Federación?",
+    "¿Cómo me afecta la derogación de una ley fiscal?",
+    "¿Dónde puedo ver qué disposiciones fiscales ya no están vigentes?",
+    "¿Qué debo hacer si me basaba en un artículo que ahora está derogado?"
   ]
 }

@@ -6,25 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d7d12faeebf1fbf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones fiscales",
+  "denominacion_comun": "Notificación de Obligaciones Fiscales",
   "temas": [
-    "notificaciones personales",
+    "notificación",
+    "ciudadano",
+    "diligencia",
     "citatorio",
-    "diligencias",
+    "honorarios",
     "incumplimiento"
   ],
   "terminos_coloquiales": [
-    "notificación fiscal",
-    "citatorio fiscal"
+    "cita para notificación",
+    "avisos fiscales",
+    "requerimientos de pago",
+    "cumplimiento de obligaciones"
   ],
-  "resumen": "El artículo describe el proceso de notificación personal, incluyendo la entrega de un citatorio si la persona no está presente. Si no se encuentra a nadie, se puede fijar el citatorio en el acceso del domicilio y se menciona el procedimiento si la persona citada no acude a la cita. Además, se indica que si hay incumplimientos, se generarán honorarios a cargo del infractor.",
+  "resumen": "Este artículo establece el procedimiento para la notificación personal de obligaciones fiscales, indicando cómo se debe dejar un citatorio si no se encuentra al destinatario y cuándo se puede llevar a cabo la notificación con otras personas presentes en el domicilio. Además, menciona que los honorarios por notificaciones se deducirán de quien no cumpla con sus obligaciones.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no estoy en casa cuando me notifican?",
-    "¿Cómo se realiza una notificación fiscal?",
-    "¿Qué es un citatorio fiscal?",
+    "¿Cómo se deja un citatorio para notificación?",
     "¿Qué sucede si no acudo a la cita de notificación?",
-    "¿Qué costos puede generar un incumplimiento en las notificaciones?"
+    "¿Quién asume los costos por la notificación si no cumplí con mis obligaciones?",
+    "¿Qué hago si me niegan la recepción del citatorio?",
+    "¿Cuáles son los pasos de una notificación fiscal?"
   ]
 }

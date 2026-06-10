@@ -6,34 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:436531cf80bf5e5f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de Entidades Financieras",
+  "denominacion_comun": "Obligaciones de entidades financieras",
   "temas": [
-    "anotaciones de cheques",
-    "procesamiento de pagos",
-    "información a autoridades fiscales",
+    "cheques",
+    "cuentas bancarias",
+    "pagos de contribuciones",
     "fideicomisos",
-    "declaraciones fiscales",
-    "retenciones de IVA",
-    "servicios bancarios",
-    "clientes bancarios"
+    "información fiscal",
+    "retenciones",
+    "registros fiscales"
   ],
   "terminos_coloquiales": [
-    "obligaciones bancarias",
-    "reglas de la SHCP",
-    "registro federal de contribuyentes (RFC)",
+    "bancos",
+    "cobros",
+    "gastos de recaudación",
+    "información de cuentas",
     "fideicomisos",
     "SAT",
-    "cheques",
-    "declaraciones fiscales"
+    "RTF",
+    "RTU"
   ],
-  "resumen": "Este artículo establece las obligaciones que deben cumplir las entidades financieras y sociedades cooperativas de ahorro y préstamo, como anotar información en cheques, procesar pagos de contribuciones y proporcionar datos a las autoridades fiscales. También detalla la información que deben recopilar sobre sus cuentahabientes y cómo deben manejar fideicomisos.",
+  "resumen": "El artículo establece las obligaciones que deben cumplir las entidades financieras y sociedades cooperativas de ahorro y préstamo en relación con la gestión de cuentas, pagos de contribuciones y la información fiscal que deben proporcionar. También se detallan las condiciones para la retención de impuestos y la presentación de información sobre fideicomisos.",
   "preguntas_ejemplo": [
-    "¿Qué información deben anotar los bancos en los cheques?",
-    "¿Cuáles son las obligaciones de las entidades financieras con el SAT?",
-    "¿Cómo deben las instituciones de crédito manejar la información de sus clientes?",
-    "¿Qué información sobre fideicomisos deben presentar los bancos?",
-    "¿Qué responsabilidades tienen los bancos al procesar pagos de impuestos?"
+    "¿Qué obligaciones tienen los bancos respecto a los cheques?",
+    "¿Cómo deben reportar las entidades financieras sus pagos al SAT?",
+    "¿Qué información fiscal deben proporcionar los fideicomisos?",
+    "¿Los bancos pueden cobrar por servicios fiscales?",
+    "¿Qué datos deben recopilar las entidades financieras de sus clientes?",
+    "¿Cómo verifica el SAT que los cuentahabientes están en el RFC?"
   ]
 }

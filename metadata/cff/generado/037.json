@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:687757e71aa1bfcd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazos de Respuesta de Autoridades Fiscales",
+  "denominacion_comun": "Plazos de resolución fiscal",
   "temas": [
-    "plazos de respuesta",
-    "resolución de instancias",
+    "resoluciones fiscales",
+    "plazos",
+    "consultas fiscales",
     "medios de defensa",
-    "consultas fiscales"
+    "requerimientos"
   ],
   "terminos_coloquiales": [
-    "plazos de respuesta de la SAT",
-    "respuesta a peticiones fiscales",
-    "consulta a la autoridad",
-    "CFF Art. 37"
+    "resolución de la autoridad",
+    "plazo de respuesta",
+    "consultas a Hacienda",
+    "defensa fiscal"
   ],
-  "resumen": "Las autoridades fiscales deben resolver las solicitudes en un plazo de tres meses. Si no hay resolución, se puede considerar como respuesta negativa e interponer medios de defensa. Para consultas específicas, el plazo es de ocho meses.",
+  "resumen": "Las autoridades fiscales deben resolver las solicitudes en un plazo de tres meses. Si no lo hacen, se puede considerar que su respuesta fue negativa. Para consultas, el plazo es de ocho meses.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tiene la autoridad fiscal para responder?",
-    "¿Qué hago si no recibo respuesta de la SAT?",
-    "¿Cuándo puedo interponer un medio de defensa?",
-    "¿En cuánto tiempo deberían resolver mi consulta fiscal?",
-    "¿Qué pasa si no cumplo con los requisitos que me piden?"
+    "¿Cuánto tiempo tiene Hacienda para responder mi solicitud?",
+    "¿Qué pasa si no me responden en el plazo establecido?",
+    "¿Puedo impugnar la respuesta si no obtengo resolución en tres meses?",
+    "¿Cuál es el plazo para que me resuelvan una consulta?",
+    "¿Qué ocurre si no cumplo con los requisitos que me piden?",
+    "¿Qué puedo hacer si mi solicitud no es contestada?"
   ]
 }

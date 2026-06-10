@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ce781e9835123be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de Revocación",
+  "denominacion_comun": "Recurso de revocación",
   "temas": [
-    "actos fiscales",
     "fianzas",
     "obligaciones fiscales",
-    "garantías"
+    "actos administrativos",
+    "recursos fiscales"
   ],
   "terminos_coloquiales": [
-    "recurso administrativo",
-    "revocación de acto",
-    "fianzas fiscales"
+    "recurso de revocación",
+    "fianzas fiscales",
+    "actos de autoridad"
   ],
-  "resumen": "El recurso de revocación no se puede presentar contra actos que buscan hacer efectivas las fianzas por obligaciones fiscales que tienen terceros como responsables.",
+  "resumen": "El artículo establece que no se puede presentar un recurso de revocación contra actos que busquen hacer efectivas las fianzas que garantizan las obligaciones fiscales de terceros. Especifica que este recurso no es aplicable en ese contexto.",
   "preguntas_ejemplo": [
-    "¿Se puede interponer un recurso de revocación si hay fianzas involucradas?",
-    "¿Qué pasa si un tercero debe pagar una fianza fiscal?",
-    "¿Cuándo no se admite un recurso de revocación?",
-    "¿Existen excepciones al recurso de revocación en materias fiscales?",
-    "¿Qué actos no son sujetos al recurso de revocación?"
+    "¿Puedo impugnar un acto que ejecuta fianzas por obligaciones fiscales?",
+    "¿Qué actos no se pueden recurrir mediante un recurso de revocación?",
+    "¿Las fianzas otorgadas en garantía de impuestos son impugnables?",
+    "¿Cómo funcionan los recursos de revocación en temas fiscales?"
   ]
 }

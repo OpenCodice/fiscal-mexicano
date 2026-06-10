@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:928464307549d0a7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
     "revelación de esquemas",
-    "información de asesores fiscales",
-    "beneficios fiscales",
-    "obligaciones fiscales",
-    "residentes en el extranjero",
-    "mecanismos reportables",
     "información fiscal",
-    "esquemas personalizados"
+    "asesores fiscales",
+    "contribuyentes",
+    "beneficios fiscales",
+    "personas morales",
+    "residencia fiscal",
+    "identificación fiscal"
   ],
   "terminos_coloquiales": [
-    "reportes fiscales",
-    "informes de esquemas",
+    "reportar esquemas",
     "esquemas fiscales",
     "asesores fiscales",
-    "ER (Esquemas Reportables)"
+    "código fiscal",
+    "clave del RFC"
   ],
-  "resumen": "El artículo establece los requisitos para revelar esquemas reportables, incluyendo información sobre asesores fiscales, contribuyentes, y detalles del esquema. También se abordan las obligaciones de los contribuyentes residentes en el extranjero y las descripciones de beneficios fiscales obtenidos o esperados.",
+  "resumen": "El artículo establece las obligaciones de los asesores fiscales y contribuyentes para revelar información sobre esquemas reportables. Deben incluir datos como nombres, claves en el registro federal de contribuyentes y descripciones detalladas de los esquemas y beneficios fiscales esperados.",
   "preguntas_ejemplo": [
-    "¿Qué información necesito para reportar un esquema fiscal?",
-    "¿Quiénes deben revelar esquemas reportables?",
-    "¿Cuáles son los detalles que debo incluir en mi reporte fiscal?",
-    "¿Cómo afectan los esquemas reportables a los contribuyentes extranjeros?",
-    "¿Qué es un esquema reportable personalizado?"
+    "¿Qué debo reportar si soy asesor fiscal?",
+    "¿Cuáles son los datos necesarios para revelar un esquema reportable?",
+    "¿Qué información se requiere sobre los beneficiarios de un esquema?",
+    "¿Cómo se identifican los esquemas reportables?",
+    "¿Qué hacer si un contribuyente no tiene clave en el RFC?",
+    "¿Qué es un esquema reportable?"
   ]
 }

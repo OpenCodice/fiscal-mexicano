@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e5318cad1f4a577e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Multas a casas de bolsa",
   "temas": [
-    "infracciones",
     "multas",
-    "informes",
-    "código fiscal"
+    "infracciones",
+    "casas de bolsa",
+    "informes no proporcionados"
   ],
   "terminos_coloquiales": [
     "multas casas de bolsa",
     "multas por informes",
-    "infracciones CFF"
+    "infracción a casas de bolsa"
   ],
-  "resumen": "Se impone una multa a las casas de bolsa que no proporcionen los informes requeridos, con montos que oscilan entre ciertas cantidades. Esto busca asegurar el cumplimiento de las obligaciones fiscales.",
+  "resumen": "Se imponen multas a las casas de bolsa que no proporcionen informes según lo establecido en el artículo 84-G. Las multas varían en monto dependiendo de la infracción cometida.",
   "preguntas_ejemplo": [
     "¿Qué multas pueden recibir las casas de bolsa?",
+    "¿Qué pasa si una casa de bolsa no proporciona un informe?",
     "¿Cuánto es la multa por no entregar informes?",
-    "¿Qué pasa si una casa de bolsa incumple con el artículo 84-G?",
-    "¿Qué sanciones establece el CFF para casas de bolsa?",
-    "¿Dónde se indican las multas para casas de bolsa?"
+    "¿Qué infracciones están relacionadas con casas de bolsa?",
+    "¿Dónde se regula las multas a casas de bolsa?"
   ]
 }

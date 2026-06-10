@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7cd7b4e920203bb3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embargo de bienes",
   "temas": [
+    "embargo",
+    "actos de inspección",
+    "vigilancia",
     "diligencia de embargo",
-    "domicilio fiscal",
-    "acta circunstanciada",
-    "notificación",
-    "inspección y vigilancia",
-    "aseguramiento de bienes"
+    "notificaciones",
+    "buzón tributario"
   ],
   "terminos_coloquiales": [
-    "embargo",
-    "notificación de embargo",
-    "inspección fiscal",
-    "bienes embargados"
+    "embargo de bienes",
+    "actos de inspección",
+    "requerimiento de pago",
+    "notificación de embargo"
   ],
-  "resumen": "Este artículo describe el procedimiento que debe seguir un ejecutor al realizar un embargo de bienes, incluyendo la identificación y formalidades necesarias. También menciona el aseguramiento de bienes durante actos de inspección y vigilancia por parte de las autoridades fiscales.",
+  "resumen": "El artículo establece cómo se debe realizar el embargo de bienes del deudor y las formalidades necesarias para notificaciones. También menciona el proceso de aseguramiento de bienes en inspecciones fiscales. Se debe levantar un acta circunstanciada del embargo.",
   "preguntas_ejemplo": [
-    "¿Qué ocurre durante un embargo de bienes?",
-    "¿Cómo se notifica un embargo?",
-    "¿Cuáles son los pasos para una inspección fiscal?",
-    "¿Qué es un acta circunstanciada en un embargo?",
-    "¿Quién puede realizar una diligencia de embargo?"
+    "¿Cómo se realiza un embargo de bienes?",
+    "¿Qué se necesita para un requerimiento de pago?",
+    "¿Qué formalidades deben seguirse durante un embargo?",
+    "¿Cómo se notifican los embargos?",
+    "¿Qué es el buzón tributario?"
   ]
 }

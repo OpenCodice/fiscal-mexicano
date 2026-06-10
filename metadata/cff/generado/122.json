@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ba9e063c14bd9693",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interposición de recurso",
+  "denominacion_comun": "Recurso de revocación",
   "temas": [
     "requisitos del recurso",
-    "resoluciones impugnadas",
+    "actos impugnados",
     "agravios",
     "pruebas",
     "hechos controvertidos",
-    "representación fiscal"
+    "representación legal"
   ],
   "terminos_coloquiales": [
-    "cómo interponer un recurso",
-    "recurso fiscal",
-    "recurso administrativo"
+    "recurso",
+    "recurso de revocación",
+    "quejas fiscales",
+    "impugnación"
   ],
-  "resumen": "El artículo establece cómo debe ser el escrito para interponer un recurso, incluyendo los requisitos que debe cumplir. También menciona las consecuencias de no cumplir con estos requisitos y la necesidad de acreditar la representación en ciertos casos.",
+  "resumen": "Este artículo establece los requisitos que debe cumplir el escrito para interponer un recurso de revocación ante la autoridad fiscal, incluyendo la identificación del acto impugnado y la presentación de agravios y pruebas. Si no se cumplen estos requisitos, el recurso puede ser desechado.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para interponer un recurso fiscal?",
-    "¿Qué pasa si no señalo la resolución que impugno?",
-    "¿Cómo puedo presentar pruebas en un recurso?",
-    "¿Qué hacer si no tengo un abogado para interponer un recurso?",
-    "¿Cuáles son los agravios que debo mencionar en el recurso?"
+    "¿Qué requisitos debe tener un recurso de revocación?",
+    "¿Cómo puedo impugnar una resolución fiscal?",
+    "¿Qué pasa si no presento los agravios en el recurso?",
+    "¿Qué debo incluir en mi escrito para el recurso de revocación?",
+    "¿Qué sucede si no cumplo con los plazos establecidos para el recurso?"
   ]
 }

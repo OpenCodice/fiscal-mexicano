@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f92ff461b4bb39eb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Levantamiento de intervención",
   "temas": [
     "crédito fiscal",
-    "intervención",
     "enajenación",
     "registro público",
     "cancelación de inscripción"
   ],
   "terminos_coloquiales": [
-    "levantamiento de intervención",
-    "cancelación de intervención"
+    "cancelar intervención",
+    "satisfacción de crédito fiscal",
+    "ventas",
+    "inscripción en el registro"
   ],
-  "resumen": "El artículo establece que la intervención se levantará cuando se pague el crédito fiscal o se enajene la negociación. En estos casos, se notificará al registro público para cancelar la inscripción correspondiente.",
+  "resumen": "El levantamiento de una intervención ocurre cuando se paga un crédito fiscal o se vende un negocio. En esos casos, se debe notificar al registro público para cancelar la inscripción correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cuándo se levanta una intervención fiscal?",
-    "¿Qué pasa si se paga el crédito fiscal?",
+    "¿Cuándo se levanta una intervención?",
+    "¿Qué pasa si pago mi crédito fiscal?",
     "¿Cómo se cancela una inscripción en el registro público?",
-    "¿Qué significa enajenar la negociación?",
-    "¿Qué se debe hacer cuando se paga un crédito fiscal?"
+    "¿Qué significa enajenación en términos fiscales?",
+    "¿Qué sucede cuando vendo mi negocio relacionado con un crédito fiscal?"
   ]
 }

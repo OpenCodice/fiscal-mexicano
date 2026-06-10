@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8cf65f1fbb43e8f3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "Asesor fiscal",
-    "Número de identificación",
-    "Esquema reportable",
-    "Declaración anual",
-    "Modificaciones",
-    "Servicio de Administración Tributaria"
+    "revelación de esquemas",
+    "número de identificación",
+    "declaración anual",
+    "información al SAT",
+    "modificaciones",
+    "cumplimiento fiscal"
   ],
   "terminos_coloquiales": [
-    "Número de identificación del esquema",
-    "Esquema reportable",
+    "esquemas reportables",
+    "número de identificación",
     "SAT",
-    "Revelación de esquemas"
+    "asesor fiscal"
   ],
-  "resumen": "Los asesores fiscales deben proporcionar el número de identificación de los esquemas reportables a los contribuyentes. Estos contribuyentes deben incluir dicho número en sus declaraciones anuales y notificar al SAT sobre modificaciones a la información reportada.",
+  "resumen": "El artículo establece que los asesores fiscales deben informar y proporcionar el número de identificación de esquemas reportables a los contribuyentes. Además, los contribuyentes deben incluir este número en su declaración anual y reportar cualquier modificación al SAT dentro de un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Qué es un esquema reportable?",
-    "¿Cómo se obtiene el número de identificación del esquema?",
-    "¿Qué debo hacer si cambio un esquema reportable?",
-    "¿Qué obligaciones tienen los asesores fiscales sobre los esquemas reportables?",
-    "¿Dónde incluyo el número de identificación en mi declaración?"
+    "¿Qué son los esquemas reportables?",
+    "¿Cómo se obtiene el número de identificación de un esquema reportable?",
+    "¿Cuándo debo incluir el número de identificación en mi declaración anual?",
+    "¿Qué modificaciones debo reportar al SAT sobre esquemas reportables?",
+    "¿Qué obligaciones tienen los asesores fiscales respecto a esquemas reportables?"
   ]
 }

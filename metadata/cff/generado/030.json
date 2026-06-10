@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:120f4a3ccdbca210",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Conservación de Documentos Fiscales",
+  "denominacion_comun": "Conservación de documentación fiscal",
   "temas": [
-    "conservación de contabilidad",
+    "contabilidad",
     "documentación fiscal",
     "plazos de conservación",
     "actas de asamblea",
-    "aumentos y disminuciones de capital",
-    "comprobación de pérdidas fiscales",
-    "cédula de identificación fiscal"
+    "cuentas financieras",
+    "firmas electrónicas",
+    "perdidas fiscales",
+    "obligaciones de los contribuyentes"
   ],
   "terminos_coloquiales": [
-    "guardar documentos fiscales",
-    "tiempo de conservación",
-    "contabilidad guardada",
-    "documentos para el SAT",
-    "actas en asambleas",
-    "CIF"
+    "guardar papeles fiscales",
+    "conservar documentos fiscales",
+    "obligaciones contables",
+    "cédula de identificación fiscal",
+    "comprobantes de propiedad",
+    "actas de asamblea",
+    "e.firma"
   ],
-  "resumen": "El artículo establece que los contribuyentes deben conservar su contabilidad y documentos fiscales durante plazos específicos, que pueden llegar hasta seis años. También menciona qué documentos necesitan ser guardados en casos de aumentos o disminuciones de capital y otros actos fiscales.",
+  "resumen": "Este artículo establece que las personas que deben llevar contabilidad y aquellas que no están obligadas, deben conservar su documentación relacionada con las obligaciones fiscales por un cierto tiempo. Los documentos deben estar a disposición de las autoridades fiscales y se especifican los plazos de conservación dependiendo del tipo de documento.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo debo guardar mi contabilidad?",
-    "¿Qué documentos fiscales debo conservar?",
-    "¿Qué pasa si no tengo la documentación requerida para el SAT?",
-    "¿Cuándo comienza el plazo para conservar mis documentos?",
-    "¿Qué documentos necesito al aumentar mi capital social?",
-    "¿Debo conservar documentos si tengo un préstamo?"
+    "¿Cuánto tiempo debo guardar mis documentos fiscales?",
+    "¿Qué papeles tengo que mantener disponibles para la autoridad fiscal?",
+    "¿Qué pasa si no tengo mis registros contables en el tiempo correcto?",
+    "¿Qué documentos necesito para comprobar pérdidas fiscales?",
+    "¿Debo conservar las actas de asamblea y por cuánto tiempo?",
+    "¿Cómo debo manejar mi cédula de identificación fiscal?"
   ]
 }

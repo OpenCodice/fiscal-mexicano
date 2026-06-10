@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:05e3ebeec72285a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sorteos de lotería fiscal",
+  "denominacion_comun": "Sorteos de Lotería Fiscal",
   "temas": [
-    "Sorteos",
-    "Premios",
-    "Impuestos federales",
-    "Comprobantes fiscales",
-    "Participación",
-    "Normas presupuestales",
-    "Exenciones fiscales",
-    "Impuestos estatales"
+    "sorteos",
+    "premios",
+    "comprobantes fiscales",
+    "participación",
+    "impuestos",
+    "exenciones"
   ],
   "terminos_coloquiales": [
-    "sorteos fiscales",
+    "sorteo",
+    "premios de lotería",
     "lotería fiscal",
-    "premios de impuestos"
+    "SAT",
+    "comprobantes fiscales digitales",
+    "exención de impuestos"
   ],
-  "resumen": "El artículo establece que el Servicio de Administración Tributaria puede organizar sorteos de lotería fiscal y regula la participación, los premios y los impuestos aplicables a estos sorteos. Además, los premios no serán considerados ingresos acumulables para efectos fiscales.",
+  "resumen": "El artículo establece que el SAT puede realizar sorteos de lotería fiscal donde participen ciertos contribuyentes. Los premios no se consideran ingresos acumulables y están exentos de ciertos impuestos. Además, se regulan aspectos como la participación y el manejo de los premios.",
   "preguntas_ejemplo": [
     "¿Qué es la lotería fiscal?",
-    "¿Quiénes pueden participar en los sorteos fiscales?",
-    "¿Los premios de los sorteos se consideran ingresos?",
-    "¿Qué impuestos se aplican a los premios de lotería fiscal?",
-    "¿Cómo se determinan las bases de los sorteos fiscales?"
+    "¿Cómo puedo participar en el sorteo del SAT?",
+    "¿Los premios de la lotería fiscal son gravables?",
+    "¿Qué requisitos debo cumplir para participar en los sorteos?",
+    "¿Qué pasa con los impuestos si gano un premio?",
+    "¿Qué tipo de comprobantes se requieren para participar?"
   ]
 }

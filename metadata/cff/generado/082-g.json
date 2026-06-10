@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:01fdb4c4db063318",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones de Proveedores de Certificación",
+  "denominacion_comun": "Infracciones de Comprobantes Fiscales",
   "temas": [
-    "infracciones fiscales",
-    "comprobantes fiscales digitales",
+    "infracciones",
+    "comprobantes fiscales",
     "proveedores de certificación",
-    "timbre fiscal digital",
-    "especificaciones técnicas"
+    "timbres fiscales",
+    "especificaciones informáticas"
   ],
   "terminos_coloquiales": [
-    "infracciones de CFDI",
-    "proveedores certificados",
-    "obligaciones de los proveedores",
-    "SAT",
-    "comprobantes digitales"
+    "factura",
+    "comprobante fiscal digital",
+    "CFDI",
+    "proveedor de facturas",
+    "SAT"
   ],
-  "resumen": "Se establecen infracciones para los proveedores de certificación que no cumplan con las especificaciones del SAT para la validación y envío de comprobantes fiscales digitales. Esto incluye incumplimientos relacionados con la estructura, el timbre fiscal y la vigencia de los estándares técnicos.",
+  "resumen": "Este artículo describe las infracciones que pueden cometer los proveedores de certificación autorizados al no cumplir con las especificaciones del Servicio de Administración Tributaria relacionadas con los comprobantes fiscales digitales. Incluye aspectos sobre estructura, timbrado y plazos.",
   "preguntas_ejemplo": [
-    "¿Qué infracciones pueden cometer los proveedores de certificación?",
-    "¿Qué obligaciones tienen los proveedores de comprobantes digitales?",
-    "¿Qué pasa si el comprobante fiscal no cumple con las especificaciones del SAT?",
-    "¿Cuándo se considera que un CFDI es inválido por un proveedor?",
-    "¿Qué sanciones se aplican a los proveedores que incumplen las normas del SAT?"
+    "¿Qué infracciones pueden cometer los proveedores de CFDI?",
+    "¿Qué pasa si el timbre fiscal no cumple con las normas del SAT?",
+    "¿Qué requisitos debe cumplir un proveedor de facturas?",
+    "¿Qué sucede si se envía un comprobante certificado por un proveedor diferente?",
+    "¿Qué ocurre si un comprobante fiscal no es vigente?"
   ]
 }

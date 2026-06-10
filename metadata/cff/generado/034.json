@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ca7e5d84fdba0a60",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consultas fiscales",
+  "denominacion_comun": "Consultas a la autoridad fiscal",
   "temas": [
-    "autoridades fiscales",
-    "consultas individuales",
-    "respuestas fiscales",
-    "obligaciones de la autoridad",
-    "criterios administrativos",
+    "consultas fiscales",
+    "respuestas de la autoridad",
+    "criterios de interpretación",
     "plazo de respuesta",
     "impugnación de resoluciones"
   ],
   "terminos_coloquiales": [
-    "consultas ante la autoridad",
-    "respuestas a consultas",
-    "CFF",
-    "consultas fiscales"
+    "preguntar a Hacienda",
+    "respuesta de la autoridad",
+    "consultar a la SAT",
+    "impugnar respuesta",
+    "respuesta no vinculante"
   ],
-  "resumen": "Las autoridades fiscales deben responder solo a consultas específicas de contribuyentes y están obligadas a seguir sus propias respuestas si cumplen ciertos requisitos. Sin embargo, estas respuestas no son obligatorias para los contribuyentes y pueden ser impugnadas.",
+  "resumen": "El artículo establece que las autoridades fiscales están obligadas a responder consultas de contribuyentes sobre situaciones específicas y concretas. Las respuestas no son vinculantes para los particulares, quienes pueden impugnarlas si no coinciden con la realidad o si ha cambiado la legislación aplicable.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para que la autoridad fiscal responda mi consulta?",
-    "¿Las respuestas a las consultas son obligatorias para mí?",
-    "¿Cuánto tiempo se tarda la autoridad en responder una consulta?",
-    "¿Qué pasa si la realidad de mi consulta cambia después de presentarla?",
-    "¿Puedo impugnar la respuesta que me dio la autoridad fiscal?"
+    "¿Cómo puedo preguntar a Hacienda sobre mi situación tributaria?",
+    "¿Cuánto tiempo tarda la SAT en contestar mis consultas?",
+    "¿Qué hago si no estoy de acuerdo con la respuesta de la autoridad?",
+    "¿Las respuestas que me da la SAT son obligatorias para mí?",
+    "¿Qué antecedentes necesito para hacer una consulta a la autoridad fiscal?"
   ]
 }

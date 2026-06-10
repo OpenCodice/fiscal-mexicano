@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:451dc584e685f848",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Delitos Fiscales",
+  "denominacion_comun": "Delitos fiscales",
   "temas": [
     "procedimientos penales",
     "querella",
     "perjuicio fiscal",
-    "cuantificación de daño",
     "medidas cautelares",
+    "reparación del daño",
     "garantías económicas",
-    "imputados",
-    "reparación del daño"
+    "cuantificación de perjuicio",
+    "denuncia ante el Ministerio Público",
+    "sanciones fiscales"
   ],
   "terminos_coloquiales": [
     "delitos fiscales",
-    "fiscalía",
     "querella",
     "daño fiscal",
-    "caución",
-    "SHP"
+    "sanciones",
+    "garantías",
+    "medidas precautorias"
   ],
-  "resumen": "Este artículo establece que la Secretaría de Hacienda y Crédito Público actúa como víctima en delitos fiscales y regula cómo debe proceder penalmente, incluyendo la formulación de querellas y la cuantificación del perjuicio. También se mencionan las medidas cautelares y las condiciones para la sobreseimiento de procesos.",
+  "resumen": "El artículo establece que la Secretaría de Hacienda y Crédito Público puede actuar como víctima en juicios penales por delitos fiscales. Para proceder, debe formular una querella o declaración de perjuicio y puede solicitar el sobreseimiento si se pagan las contribuciones adeudadas. También se detalla la cuantificación del daño fiscal y las medidas cautelares en el procedimiento penal.",
   "preguntas_ejemplo": [
-    "¿Qué debe hacer la SHP si detecta un delito fiscal?",
-    "¿Cómo se cuantifica el daño en delitos fiscales?",
-    "¿Cuáles son las medidas cautelares en casos de delitos fiscales?",
-    "¿Qué pasa si un imputado no comparece ante el juez?",
-    "¿Cuándo se puede sobreseer un juicio fiscal?"
+    "¿Qué pasos sigue la Secretaría de Hacienda en delitos fiscales?",
+    "¿Cómo se determina el perjuicio en un delito fiscal?",
+    "¿Qué es necesario para presentar una querella por un delito fiscal?",
+    "¿Qué ocurre si se paga el interés fiscal en un juicio penal?",
+    "¿Cuáles son las medidas cautelares en delitos fiscales?"
   ]
 }

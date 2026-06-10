@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d072c7cae1372008",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acuerdo Conclusivo",
   "temas": [
     "Procuraduría de la Defensa del Contribuyente",
-    "tramite de acuerdo conclusivo",
-    "hechos y omisiones",
-    "requerimiento a la autoridad revisora",
-    "plazo para respuesta"
+    "tramite de acuerdos",
+    "hechos u omisiones",
+    "requerimiento a la autoridad",
+    "multa"
   ],
   "terminos_coloquiales": [
     "acuerdo conclusivo",
-    "Procuraduría",
-    "PDC"
+    "defensa del contribuyente",
+    "trámite de acuerdos",
+    "multas por omisiones"
   ],
-  "resumen": "El acuerdo conclusivo es un trámite que un contribuyente realiza ante la Procuraduría de la Defensa del Contribuyente para resolver discrepancias sobre hechos u omisiones que no acepta. La autoridad revisora debe dar respuesta en un plazo específico a la solicitud presentada.",
+  "resumen": "El artículo establece que el contribuyente puede tramitar un acuerdo conclusivo ante la Procuraduría de la Defensa del Contribuyente, donde debe señalar los hechos con los que no esté de acuerdo. La autoridad debe responder en un plazo establecido y si no lo hace, puede haber una multa.",
   "preguntas_ejemplo": [
     "¿Qué es un acuerdo conclusivo?",
-    "¿Cómo tramitar un acuerdo conclusivo?",
-    "¿Qué pasa si la autoridad no responde a mi acuerdo conclusivo?",
-    "¿Cuánto tiempo tiene la autoridad para aceptar un acuerdo conclusivo?",
-    "¿Qué información debo incluir en mi escrito para el acuerdo conclusivo?"
+    "¿Cómo puedo tramitar un acuerdo conclusivo?",
+    "¿Qué pasa si la autoridad no responde a mi solicitud de acuerdo?",
+    "¿Cuáles son las consecuencias de no aceptar un acuerdo conclusivo?",
+    "¿Quién se encarga de la defensa del contribuyente?"
   ]
 }

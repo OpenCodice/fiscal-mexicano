@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5e059b8d64e6e9cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Esquemas Reportables",
+  "denominacion_comun": "Esquemas reportables",
   "temas": [
-    "obligaciones fiscales",
-    "revelación de esquemas",
-    "asesores fiscales",
+    "revelación de esquemas reportables",
+    "obligaciones de contribuyentes",
     "beneficios fiscales",
-    "residencia fiscal"
+    "asesores fiscales"
   ],
   "terminos_coloquiales": [
-    "revelación de esquemas",
-    "esquemas reportables",
-    "CFF 198",
-    "obligaciones de contribuyentes"
+    "reportar esquemas fiscales",
+    "esquemas fiscales",
+    "esquemas de evasión",
+    "SAT",
+    "persona moral",
+    "persona física"
   ],
-  "resumen": "Los contribuyentes deben revelar los esquemas reportables bajo ciertas condiciones, como la ausencia de un número de identificación por parte del asesor fiscal o cuando el esquema es diseñado por el propio contribuyente. Esto también aplica a contribuyentes con operaciones que generen beneficios fiscales en México.",
+  "resumen": "Los contribuyentes deben revelar los esquemas reportables bajo ciertas circunstancias, como la falta de un número de identificación del esquema por parte de un asesor fiscal o cuando el esquema haya sido diseñado por ellos mismos. Estas obligaciones aplican tanto a residentes en México como a quienes tienen establecimiento permanente en el país.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo revelar un esquema reportable?",
-    "¿Qué es un esquema reportable según el CFF?",
-    "¿Quiénes son los obligados a revelar esquemas reportables?",
-    "¿Qué pasa si mi asesor fiscal no me da la identificación del esquema?",
-    "¿Cómo afecta mi residencia fiscal a la revelación de esquemas?"
+    "¿Cuándo debo reportar un esquema fiscal?",
+    "¿Qué pasa si mi asesor fiscal no me da el ID del esquema?",
+    "¿Qué significa un esquema reportable?",
+    "¿Quiénes están obligados a revelar esquemas reportables?",
+    "¿Cómo afecta un esquema reportable a mis impuestos?"
   ]
 }

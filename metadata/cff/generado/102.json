@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff226dec93224654",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Delito de contrabando",
   "temas": [
     "contrabando",
-    "introducción de mercancías",
-    "exportación prohibida",
-    "omisión de contribuciones",
-    "permisos de importación",
-    "franja fronteriza"
+    "contribuciones",
+    "importación",
+    "exportación",
+    "permisos",
+    "franja fronteriza",
+    "recintos fiscales"
   ],
   "terminos_coloquiales": [
     "contrabando",
-    "delito fiscal",
-    "mercancías de contrabando"
+    "mercancías",
+    "impuestos",
+    "cuotas compensatorias",
+    "aduana"
   ],
-  "resumen": "El artículo establece que se considera contrabando introducir o extraer mercancías sin pagar las contribuciones correspondientes, sin permiso requerido o comerciar mercancías prohibidas. Además, incluye situaciones específicas donde no se formulará la denuncia por omisiones menores a ciertos montos.",
+  "resumen": "El artículo establece que el contrabando consiste en introducir o extraer mercancías del país sin pagar las contribuciones necesarias o sin el permiso de la autoridad. Además, detalla situaciones específicas donde se comete este delito, especialmente en relación a mercancías de importación o exportación prohibida.",
   "preguntas_ejemplo": [
     "¿Qué se considera contrabando en México?",
-    "¿Qué delitos fiscales están relacionados con el contrabando?",
-    "¿Cuáles son las consecuencias de omitir el pago de impuestos al importar mercancías?",
-    "¿Qué mercancías no se pueden importar o exportar?",
-    "¿Es necesario un permiso para importar ciertas mercancías?"
+    "¿Cuáles son las consecuencias de no pagar impuestos de importación?",
+    "¿Qué mercancías están prohibidas para importar o exportar?",
+    "¿Es necesario un permiso para importar algunas mercancías?",
+    "¿Qué ocurre si se extraen mercancías de los recintos fiscales sin autorización?"
   ]
 }

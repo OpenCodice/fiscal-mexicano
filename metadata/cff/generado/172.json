@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7fd162b8d224c2c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bien embargado",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
     "enajenación",
-    "bienes embargados",
+    "bienes",
     "crédito fiscal",
-    "remate",
-    "autoridades fiscales"
+    "negociaciones",
+    "recuperación de ingresos"
   ],
   "terminos_coloquiales": [
-    "remate de bienes",
-    "venta de embargos",
-    "enajenación de bienes",
-    "remate fiscal"
+    "remate",
+    "venta de bienes",
+    "bienes embargados",
+    "subasta"
   ],
-  "resumen": "Las autoridades fiscales pueden vender bienes o derechos embargados si el dinero recaudado en tres meses no cubre una parte del crédito fiscal. Esto incluye reglas específicas para negociaciones con ingresos en periodos establecidos.",
+  "resumen": "Las autoridades fiscales pueden vender bienes o derechos si no se recauda lo suficiente para cubrir un porcentaje del crédito fiscal en un tiempo determinado. Esto se aplica a las negociaciones que generan ingresos en períodos específicos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no se recauda suficiente dinero en tres meses por un bien embargado?",
-    "¿Cómo se determina el porcentaje que debe cubrirse del crédito fiscal?",
-    "¿Las autoridades fiscales pueden vender bienes de forma separada?",
-    "¿Qué es el remate de bienes embargados?",
-    "¿Qué ocurre si los ingresos de una negociación son estacionales?"
+    "¿Qué pasa si no se recauda suficiente dinero en un remate?",
+    "¿Cuándo puede el fisco vender bienes embargados?",
+    "¿Qué porcentaje del crédito fiscal se debe cubrir para evitar la enajenación?",
+    "¿Cómo funcionan las subastas de bienes fiscales?",
+    "¿Qué criterios se siguen para la enajenación de bienes?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d3ed72c8baaa7682",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acuerdos Conclusivos",
+  "denominacion_comun": "Acuerdos conclusivos",
   "temas": [
     "acuerdos fiscales",
-    "defensa tributaria",
-    "doble tributación",
     "resoluciones de autoridad",
-    "incontrovertibilidad"
+    "controversias fiscales",
+    "doble tributación",
+    "hechos incontrovertibles"
   ],
   "terminos_coloquiales": [
     "acuerdo conclusivo",
-    "acuerdo fiscal",
-    "a favor del contribuyente"
+    "pleitos fiscales",
+    "resolución de conflictos fiscales"
   ],
-  "resumen": "Los acuerdos conclusivos entre el contribuyente y la autoridad son definitivos y no pueden ser impugnados. Una vez alcanzados, no se pueden presentar medios de defensa si los hechos del acuerdo no son falsos.",
+  "resumen": "Los acuerdos concluyentes entre un contribuyente y la autoridad no pueden ser impugnados ni causar conflictos posteriores. Estos acuerdos son definitivos entre ambas partes y no crean precedentes para otros casos.",
   "preguntas_ejemplo": [
-    "¿Qué son los acuerdos conclusivos en la legislación fiscal?",
-    "¿Puedo impugnar un acuerdo conclusivo con la autoridad tributaria?",
-    "¿Qué efectos tienen los acuerdos fiscales entre el contribuyente y la autoridad?",
-    "¿Los acuerdos conclusivos generan precedentes en la ley?",
-    "¿Qué pasa si se descubre que los hechos en un acuerdo conclusivo son falsos?"
+    "¿Qué pasa si firmo un acuerdo conclusivo con la autoridad?",
+    "¿Puedo impugnar un acuerdo conclusivo que firmé?",
+    "¿Los acuerdos fiscales crean precedentes para otros contribuyentes?",
+    "¿Qué ocurre si hay hechos falsos en un acuerdo conclusivo?",
+    "¿Cómo se manejan las controversias fiscales tras un acuerdo?",
+    "¿Los acuerdos concluyentes son definitivos en el proceso fiscal?"
   ]
 }

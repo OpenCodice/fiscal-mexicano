@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b10aaa493b9de41a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones del Interventor Administrador",
+  "denominacion_comun": "Interventor Administrador",
   "temas": [
     "rendición de cuentas",
     "recaudación de ingresos",
-    "negociación intervenida",
-    "ventas diarias",
-    "implica al fisco federal"
+    "enajenación de bienes",
+    "remate de negociaciones"
   ],
   "terminos_coloquiales": [
-    "interventor administrador",
-    "recaudación",
-    "cuentas mensuales",
-    "ingresos diarios"
+    "interventor",
+    "cobrar dinero",
+    "dar cuentas",
+    "vender bienes"
   ],
-  "resumen": "El interventor administrador debe rendir cuentas mensuales y recaudar un porcentaje de las ventas en la negociación intervenida, entregando lo recaudado al fisco. No puede vender los bienes del activo fijo de esta negociación.",
+  "resumen": "El interventor administrador debe rendir cuentas mensuales y recaudar un porcentaje de las ventas en la negociación intervenida. No puede vender los bienes fijos del negocio, y en casos de enajenación, debe seguir ciertos procedimientos de remate.",
   "preguntas_ejemplo": [
     "¿Cuáles son las obligaciones del interventor administrador?",
     "¿Cómo se recauda el 10% de las ventas?",
-    "¿Qué no puede hacer el interventor administrador?",
-    "¿A quién se entregan los ingresos recaudados?",
-    "¿Qué pasa con la enajenación de bienes en la negociación intervenida?"
+    "¿Qué pasa si el interventor quiere vender los bienes de la negociación?",
+    "¿Qué procedimiento se sigue para el remate de bienes?"
   ]
 }

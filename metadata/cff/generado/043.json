@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d95c2843b0758a14",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Orden de visita",
+  "denominacion_comun": "Órdenes de visita",
   "temas": [
-    "visitas",
-    "requisitos",
+    "visita domiciliaria",
+    "lugar de visita",
+    "personas designadas",
     "notificación",
-    "sustitución",
-    "personas autorizadas"
+    "verificación",
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "orden de visita",
-    "visita fiscal",
-    "requisitos de visita"
+    "visitas fiscales",
+    "órdenes de verificación",
+    "visitas de la autoridad",
+    "auditoría",
+    "inspectores"
   ],
-  "resumen": "Este artículo establece que en la orden de visita se deben incluir el lugar y las personas que realizarán la visita, así como las condiciones para su sustitución. También se menciona la necesidad de identificar al visitado en caso de visitas domiciliarias.",
+  "resumen": "El artículo establece que en las órdenes de visita se deben indicar los lugares de la visita, los nombres de las personas que la realizarán y los requisitos específicos de la visita domiciliaria. También se menciona la importancia de notificar cualquier cambio en la designación de estas personas.",
   "preguntas_ejemplo": [
-    "¿Qué debe incluir una orden de visita?",
-    "¿Quién puede realizar una visita fiscal?",
-    "¿Cómo se notifican los cambios en los visitadores?",
-    "¿Qué información se necesita para identificar al visitado?"
+    "¿Qué debe contener una orden de visita fiscal?",
+    "¿Quién puede realizar una visita domiciliaria?",
+    "¿Cómo se notifican los cambios en las personas designadas para la visita?",
+    "¿Qué pasa si no se conoce el nombre del visitado en una verificación?",
+    "¿Cuáles son los requisitos para una visita por parte de la autoridad?"
   ]
 }
