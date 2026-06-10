@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0749936cc6996116",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Límite de ingresos para donativos deducibles",
+  "denominacion_comun": "Donativos Deducibles",
   "temas": [
-    "donativos",
     "personas morales",
     "fideicomisos",
-    "ingresos deducibles",
-    "tratados internacionales"
+    "donativos",
+    "ingresos",
+    "regalías",
+    "tratados internacionales",
+    "deducción fiscal"
   ],
   "terminos_coloquiales": [
-    "donativos extranjeros",
-    "ingresos de donativos",
-    "fideicomisos y donativos",
-    "límite de ingresos",
-    "deducción de donativos"
+    "donativos deducibles",
+    "donaciones",
+    "ingresos de bienes inmuebles",
+    "regalías"
   ],
-  "resumen": "El artículo establece que las personas morales y fideicomisos que reciben donativos deducibles en el extranjero no pueden obtener más de un tercio de sus ingresos de ciertos conceptos cada año. Estos conceptos incluyen ingresos por uso de bienes, intereses, dividendos y regalías, así como utilidades de actividades no relacionadas con su objeto social.",
+  "resumen": "Este artículo establece que las personas morales y fideicomisos autorizados para recibir donativos deducibles no pueden recibir más de un tercio de sus ingresos anuales de ciertos conceptos. Esto incluye ingresos por el uso de bienes inmuebles, intereses y regalías.",
   "preguntas_ejemplo": [
-    "¿Cuánto puedo recibir en donativos del extranjero?",
-    "¿Qué ingresos cuentan para el límite de donativos?",
-    "¿Los fideicomisos pueden recibir donativos deducibles?",
-    "¿Qué pasa si recibo más de un tercio de mis ingresos en donativos?",
-    "¿Qué tipos de ingresos no están permitidos para donativos?"
+    "¿Qué ingresos no puedo recibir si soy una persona moral que recibe donativos?",
+    "¿Cómo afectan los tratados internacionales a los donativos deducibles?",
+    "¿Qué pasa si recibo más de una tercera parte de mis ingresos en donativos?",
+    "¿Pueden los fideicomisos recibir donativos deducibles?",
+    "¿Qué conceptos se consideran para calcular mis ingresos como persona moral?"
   ]
 }

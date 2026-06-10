@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a46611d59c36af04",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de impuestos sobre certificados bursátiles",
+  "denominacion_comun": "Retención de impuestos por certificados bursátiles",
   "temas": [
-    "certificados bursátiles",
+    "certificados bursátiles fiduciarios",
     "fideicomisos",
-    "retenciones fiscales",
+    "retención de impuestos",
     "intermediarios financieros",
-    "SAT"
+    "constancias fiscales",
+    "reglas del SAT"
   ],
   "terminos_coloquiales": [
+    "certificados bursátiles",
     "retención de impuestos",
-    "certificados bursátiles fiduciarios",
+    "constancia de retención",
     "fideicomiso",
     "intermediario financiero"
   ],
-  "resumen": "El artículo establece que los intermediarios financieros deben retener impuestos y proporcionar constancias para los certificados bursátiles emitidos por fideicomisos, cumpliendo con las reglas del SAT.",
+  "resumen": "El artículo establece que los intermediarios financieros deben retener impuestos y proporcionar constancias por certificados bursátiles fiduciarios emitidos bajo ciertas condiciones. Esto debe hacerse de acuerdo con las reglas que emita el SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se retienen impuestos de los certificados bursátiles?",
-    "¿Qué responsabilidades tienen los intermediarios financieros con los fideicomisos?",
-    "¿Qué son los certificados bursátiles fiduciarios?",
-    "¿Qué reglas fiscales aplica el SAT a los certificados bursátiles?",
-    "¿Cómo se obtienen las constancias de retención?"
+    "¿Qué es un certificado bursátil fiduciario?",
+    "¿Cómo se realiza la retención de impuestos por certificados bursátiles?",
+    "¿Qué requisitos debe cumplir un fideicomiso para emitir certificados bursátiles?",
+    "¿Qué información debe proporcionar el intermediario financiero?",
+    "¿Qué reglas del SAT se aplican a la retención de impuestos en fiduciarios?"
   ]
 }

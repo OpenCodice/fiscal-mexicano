@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:819529fbae4bc481",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación fiscal para donativos",
+  "denominacion_comun": "Documentación de donativos",
   "temas": [
+    "obligaciones fiscales",
     "donativos deducibles",
-    "documentación fiscal",
-    "consultas públicas",
-    "personas morales",
     "fideicomisos",
-    "obligaciones fiscales"
+    "declaraciones fiscales",
+    "documentación pública",
+    "SAT",
+    "consultas fiscales"
   ],
   "terminos_coloquiales": [
-    "dónde ver la documentación de donativos",
-    "cómo checar donativos deducibles",
-    "documentos fiscales de asociaciones",
-    "consulta de obligaciones fiscales"
+    "donativos deducibles",
+    "fideicomisos",
+    "documentos fiscales",
+    "declaraciones",
+    "consulta en el SAT"
   ],
-  "resumen": "Este artículo establece que la documentación relacionada con donativos deducibles debe estar disponible para el público en el domicilio fiscal y en el sitio web del SAT. La documentación debe incluir declaraciones de los últimos tres años y estar accesible durante el tiempo que se tenga autorización.",
+  "resumen": "El artículo establece que la documentación relacionada con donativos deducibles debe estar disponible para el público y debe incluir declaraciones fiscales de los últimos tres años. También indica que la documentación sobre el uso de donativos debe estar disponible durante el plazo mencionado en el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo consultar la documentación de donativos?",
-    "¿Cuánto tiempo deben guardar los documentos fiscales?",
-    "¿Qué tipo de documentación necesitan las personas morales?",
-    "¿Cómo puedo verificar los donativos recibidos?",
-    "¿Qué documentos son necesarios para cumplir con obligaciones fiscales?"
+    "¿Dónde puedo consultar la documentación de los donativos deducibles?",
+    "¿Cuánto tiempo debo guardar las declaraciones fiscales de donativos?",
+    "¿Qué documentos necesito para comprobar el uso de donativos?",
+    "¿El SAT tiene un programa electrónico para consultar documentaciones fiscales?",
+    "¿Qué obligaciones fiscales tienen los fideicomisos autorizados para donativos?",
+    "¿Cómo puedo acceder a la documentación fiscal de mi organización?"
   ]
 }

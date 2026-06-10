@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6ec96842947befc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajuste anual por inflación en créditos y deudas",
   "temas": [
-    "cancelación de créditos",
-    "cancelación de deudas",
+    "cancelación de operaciones",
+    "créditos",
+    "deudas",
     "ajuste anual por inflación",
-    "saldo promedio",
-    "contribuyentes"
+    "saldo promedio anual"
   ],
   "terminos_coloquiales": [
-    "cómo se cancelan deudas",
-    "ajuste por inflación de créditos",
-    "qué hacer al cancelar un crédito",
-    "deudas y ajustes de inflación",
-    "cancelar operaciones fiscales"
+    "calcular ajustes por inflación",
+    "cancelar deudas",
+    "cancelar créditos",
+    "ajuste inflacionario",
+    "créditos cancelados",
+    "deudas canceladas"
   ],
-  "resumen": "Este artículo describe el procedimiento que deben seguir los contribuyentes al cancelar créditos y deudas, específicamente en relación con el ajuste anual por inflación. Se detalla cómo calcular los saldos promedios y las excepciones para pequeños montos.",
+  "resumen": "Este artículo establece las reglas para la cancelación de créditos y deudas en relación al ajuste anual por inflación. Dependiendo del tiempo en que se realice la cancelación, se deben restar ciertos saldos promedios al cálculo del ajuste anual por inflación.",
   "preguntas_ejemplo": [
-    "¿Cómo manejo el ajuste anual por inflación si cancelo una deuda?",
-    "¿Qué sucede si cancelo un crédito antes del cuarto mes del siguiente año?",
-    "¿Puedo evitar el ajuste por inflación si el monto es bajo?",
-    "¿Cómo se calcula el saldo promedio de mis deudas?",
-    "¿Qué condiciones debo cumplir para cancelar un crédito sin hacer ajustes?"
+    "¿Cómo se calculan los ajustes por inflación al cancelar un crédito?",
+    "¿Qué pasa si cancelo una deuda antes de julio?",
+    "¿Qué debo hacer si mis créditos cancelados son menores al 5% de mis ingresos?",
+    "¿Cuándo no tengo que hacer el ajuste anual por inflación?",
+    "¿Cómo influye la cancelación de deudas en el saldo promedio anual?"
   ]
 }

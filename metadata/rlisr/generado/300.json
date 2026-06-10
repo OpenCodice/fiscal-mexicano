@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c7af2cc337e8083a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento del Impuesto",
+  "denominacion_comun": "Acreditamiento de impuestos",
   "temas": [
-    "Impuesto",
-    "Contribuyentes",
-    "Régimen fiscal preferente",
-    "Ingresos extranjeros",
-    "Acreditamiento",
-    "Entidades jurídicas"
+    "impuesto",
+    "ingresos",
+    "fuente de riqueza",
+    "regímenes fiscales preferentes",
+    "entidades",
+    "figuras jurídicas"
   ],
   "terminos_coloquiales": [
-    "impuesto extranjero",
-    "acreditar impuestos",
-    "impuesto sobre ingresos",
-    "regímenes fiscales",
-    "pago de impuestos en el extranjero"
+    "impuesto en el extranjero",
+    "acreditar impuesto",
+    "ingresos en el extranjero"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden acreditar el impuesto pagado en el extranjero sobre ingresos de fuentes ubicadas fuera de México, siempre que puedan comprobar dicho pago y cumplan con ciertos requisitos. Esto aplica a ingresos gravables en México recibidos a través de entidades o figuras jurídicas.",
+  "resumen": "Este artículo establece que los contribuyentes que obtienen ingresos de fuentes en el extranjero pueden acreditar el impuesto pagado en el extranjero, siempre que cumplan con ciertos requisitos. Esto aplica a aquellos que perciben ingresos sujetos a regímenes fiscales preferentes a través de entidades o figuras jurídicas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el impuesto que pagué en el extranjero?",
-    "¿Qué requisitos necesito para acreditar impuestos extranjeros?",
-    "¿Este artículo me ayuda con mis ingresos de afuera?",
-    "¿Cuáles son las entidades que permiten el acreditamiento de impuestos?",
-    "¿Qué significa régimen fiscal preferente en este contexto?"
+    "¿Cómo puedo acreditar los impuestos que pagué en el extranjero?",
+    "¿Qué regímenes fiscales preferentes permiten el acreditamiento de impuestos?",
+    "¿Cuáles son los requisitos para acreditar impuestos pagados en el extranjero?",
+    "¿Qué se considera fuente de riqueza en el extranjero?",
+    "¿Puedo acreditar el impuesto si tengo una empresa en el extranjero?"
   ]
 }

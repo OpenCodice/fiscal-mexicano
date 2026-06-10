@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d07cd8b8e58099a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reservas para Pensiones",
+  "denominacion_comun": "Reservas para Pensiones y Jubilaciones",
   "temas": [
-    "contribuyentes",
     "reservas",
-    "planes de pensiones",
+    "pensiones",
     "jubilaciones",
     "balance actuarial",
-    "informes de administración",
+    "informes de inversiones",
+    "documentación fiscal",
+    "aportaciones",
     "metodología de cálculos"
   ],
   "terminos_coloquiales": [
-    "ahorros para jubilación",
-    "plan de pensiones",
-    "reserva de pensiones",
-    "información sobre pensiones"
+    "pensiones",
+    "jubilaciones",
+    "fondos de pensiones",
+    "informe de inversiones",
+    "balance actuarial"
   ],
-  "resumen": "Los contribuyentes que tengan un plan de pensiones o jubilaciones deben guardar ciertos documentos relacionados con las reservas de este plan. Esto incluye un balance actuarial, informes de las instituciones que manejan el fondo y la metodología de cálculos para el siguiente año.",
+  "resumen": "Los contribuyentes deben formular y conservar documentos relacionados con las reservas de pensiones y jubilaciones, incluyendo balances actuariales e informes sobre inversiones. Esta información debe ser presentada para su revisión por las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para mi plan de pensiones?",
-    "¿Cómo se calculan las reservas para jubilación?",
-    "¿Qué información debe incluir el informe del fondo de pensiones?",
-    "¿Cada cuándo debo actualizar los documentos de mi plan de jubilación?",
-    "¿Se deben separar las reservas para diferentes tipos de pensiones?"
+    "¿Qué documentos debo presentar para mis reservas de pensiones?",
+    "¿Cómo se calcula el balance actuarial para jubilaciones?",
+    "¿Qué información necesito proporcionar sobre las inversiones de mi fondo de pensiones?",
+    "¿Cuándo debo actualizar la documentación de mis reservas de jubilación?",
+    "¿Es necesario llevar la información de reservas de pensiones y primas de antigüedad por separado?"
   ]
 }

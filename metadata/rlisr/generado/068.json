@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5060de8b174addfb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exceso de reservas para pensiones",
+  "denominacion_comun": "Reservas para pensiones",
   "temas": [
     "reservas",
     "fondos de pensiones",
     "jubilaciones",
-    "cuotas de retiro",
-    "Ley del Seguro Social",
-    "aportes de trabajadores"
+    "primas de antigüedad",
+    "subcuenta de retiro",
+    "cesantía en edad avanzada",
+    "vejez"
   ],
   "terminos_coloquiales": [
-    "exceso de reservas",
-    "fondos de pensiones",
-    "disposición de reservas",
-    "cuotas de jubilación",
-    "aportes complementarios",
-    "Ahorro para el Retiro"
+    "ahorros para pensiones",
+    "dinero de jubilación",
+    "subcuenta de retiro",
+    "impuesto sobre excedente",
+    "aportaciones complementarias"
   ],
-  "resumen": "Los contribuyentes pueden usar el exceso de sus reservas para fondos de pensiones y jubilaciones para cubrir cuotas de retiro. Deben pagar un impuesto sobre la diferencia entre el exceso utilizado y las cuotas pagadas. Además, si hay aportaciones de los trabajadores, este exceso se transfiere a la subcuenta de aportaciones complementarias.",
+  "resumen": "Los contribuyentes pueden usar el excedente de reservas para fondos de pensiones para pagar cuotas de retiro. Se aplica un impuesto sobre la diferencia entre lo que se dispone y las cuotas pagadas. Si hay aportaciones de trabajadores, el excedente debe transferirse a su subcuenta de aportaciones complementarias.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si tengo exceso de reservas para pensiones?",
-    "¿Cómo se utiliza el excedente de las reservas para jubilaciones?",
-    "¿Qué impuestos debo pagar al disponer de reservas de pensiones?",
-    "¿Dónde se transfieren las aportaciones de los trabajadores?",
-    "¿Qué cuotas de retiro se pueden cubrir con las reservas?",
-    "¿Qué es la subcuenta de aportaciones complementarias?"
+    "¿Puedo usar mis ahorros para pensiones para pagar cuotas de retiro?",
+    "¿Qué impuesto debo pagar si dispongo de mis reservas de jubilación?",
+    "¿Cómo se determina el excedente de reservas para fondos de pensiones?",
+    "¿Qué pasa con las aportaciones de mis trabajadores al fondo de pensiones?",
+    "¿Dónde se transfiere el excedente si hay aportaciones de trabajadores?"
   ]
 }

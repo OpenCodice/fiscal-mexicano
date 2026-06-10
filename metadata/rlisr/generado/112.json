@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e4ec8c0ebeee8498",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe de contraprestaciones y donativos",
+  "denominacion_comun": "Informe de donativos y contraprestaciones",
   "temas": [
-    "información de donativos",
+    "donativos",
     "contraprestaciones",
-    "efectivo",
-    "piezas de oro y plata",
-    "montos superiores a cien mil pesos",
-    "plazos de presentación",
-    "tipos de pago"
+    "moneda nacional",
+    "moneda extranjera",
+    "oro",
+    "plata",
+    "informes fiscales"
   ],
   "terminos_coloquiales": [
-    "declaración de donativos",
-    "informe de dinero recibido",
-    "informar donaciones",
-    "reportar pagos grandes"
+    "informe de donativos",
+    "reportar donativos",
+    "donativos en efectivo",
+    "dinero en efectivo",
+    "regalos grandes",
+    "ORO",
+    "PLATA"
   ],
-  "resumen": "Los contribuyentes deben reportar los donativos o contraprestaciones que superen ciertos montos, ya sea en efectivo o en oro y plata. Este informe debe presentarse en un plazo específico después de recibir el monto que supera el límite establecido.",
+  "resumen": "Los contribuyentes deben informar sobre donativos y contraprestaciones recibidos en efectivo o en piezas de oro y plata, si superan un monto específico. Este informe debe presentarse al día siguiente del período correspondiente cuando se exceda ese monto.",
   "preguntas_ejemplo": [
-    "¿Cuándo tengo que reportar los donativos que recibí?",
-    "¿Qué tipo de pagos debo informar si son en efectivo?",
-    "¿Cuánto dinero en donativos puedo recibir sin tener que informar?",
-    "¿Qué pasa si recibo donativos en diferentes formas de pago?",
-    "¿Cuál es el límite que me obliga a hacer un informe?"
+    "¿Qué donativos debo informar?",
+    "¿Cómo reporto un donativo en efectivo?",
+    "¿Cuánto debo recibir para tener que reportar un donativo?",
+    "¿Qué pasa si recibo dinero en diferentes pagos?",
+    "¿Debo informar si recibo donativos en oro o plata?",
+    "¿Cuál es el plazo para presentar el informe de donativos?"
   ]
 }

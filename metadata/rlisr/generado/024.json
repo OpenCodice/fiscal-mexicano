@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e98456720e35bb3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ajuste del costo de acciones",
+  "denominacion_comun": "Ajuste al costo de acciones",
   "temas": [
-    "cuenta de utilidad fiscal neta",
-    "reembolsos",
+    "saldo de utilidad fiscal",
+    "costo de adquisición",
+    "enajenación de acciones",
     "pérdidas fiscales",
-    "costo comprobado de adquisición",
-    "acciones enajenadas",
-    "diferencias en ajuste"
+    "ajuste de acciones",
+    "diferencias fiscales"
   ],
   "terminos_coloquiales": [
-    "ajuste de costo de acciones",
-    "cómo afecta la venta de acciones",
-    "pérdidas fiscales y su manejo",
-    "reembolsos y su impacto fiscal"
+    "costo de acciones",
+    "ajuste de acciones",
+    "capital de acciones",
+    "pérdidas fiscales",
+    "saldo de utilidad fiscal",
+    "enajenación de acciones"
   ],
-  "resumen": "Este artículo establece cómo ajustar el costo de las acciones al momento de su enajenación, considerando las utilidades y pérdidas fiscales. Si las diferencias entre utilidades y pérdidas afectan el costo de adquisición, se deben hacer ajustes en el cálculo del costo de las acciones.",
+  "resumen": "Esta disposición regula cómo se ajusta el costo de las acciones en función de las diferencias determinadas entre el saldo de la cuenta de utilidad fiscal y el costo comprobado de adquisición. Se establecen criterios para cuando la diferencia es menor o mayor que el costo de adquisición.",
   "preguntas_ejemplo": [
-    "¿Cómo se ajusta el costo de las acciones al vender?",
-    "¿Qué pasa si tengo pérdidas fiscales y vendo acciones?",
-    "¿Qué son los reembolsos y cómo afectan mis impuestos?",
-    "¿Qué diferencias debo considerar al calcular el costo de enajenación de acciones?"
+    "¿Cómo se ajusta el costo de mis acciones después de una enajenación?",
+    "¿Qué hacer si tengo pérdidas fiscales y vendo mis acciones?",
+    "¿Cómo se determina el saldo de mi cuenta de utilidad fiscal?",
+    "¿Qué significa el ajuste al costo comprobado de adquisición?",
+    "¿Qué sucede si el saldo de utilidad fiscal es mayor al costo de las acciones?"
   ]
 }

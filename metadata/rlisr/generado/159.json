@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cf50fcda3fec6fba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos por derechos de autor",
   "temas": [
-    "impuestos",
     "derechos de autor",
-    "ingresos",
     "pagos provisionales",
-    "retenciones"
+    "retenciones",
+    "ingresos",
+    "salarios mínimos"
   ],
   "terminos_coloquiales": [
-    "derechos de autor",
-    "pago de derechos",
-    "impuesto sobre ingresos de creadores",
-    "ingresos por publicaciones"
+    "ingresos por derechos de autor",
+    "pago de derechos de autor",
+    "retención del 10%",
+    "castigo por ingresos altos"
   ],
-  "resumen": "Este artículo establece cómo se deben tratar los ingresos de los creadores por la publicación de sus obras y las obligaciones fiscales que tienen. También menciona las condiciones para que no se aplique retención sobre los pagos realizados por derechos de autor, según ciertos límites de ingresos.",
+  "resumen": "Este artículo trata sobre los ingresos que los creadores obtienen por permitir la publicación de sus obras y las obligaciones fiscales relacionadas. Establece que se deben hacer pagos provisionales y la retención del 10% depende de los ingresos anuales en relación a los salarios mínimos.",
   "preguntas_ejemplo": [
-    "¿Qué son los ingresos por derechos de autor?",
-    "¿Cómo se calculan los impuestos sobre los ingresos de creadores?",
-    "¿Cuándo se debe aplicar la retención del 10% a los pagan derechos de autor?",
-    "¿Qué pasa si mis ingresos por derechos de autor superan el límite establecido?",
-    "¿Qué tengo que hacer para facturar los ingresos por derechos de autor?"
+    "¿Cómo se calcula la retención por derechos de autor?",
+    "¿Cuáles son los ingresos que se consideran para el impuesto en derechos de autor?",
+    "¿Los pagos de derechos de autor están sujetos a retención?",
+    "¿Qué pasa si mis ingresos por derechos de autor superan los salarios mínimos?",
+    "¿Debo pagar impuestos si mis ingresos por derechos de autor son bajos?"
   ]
 }

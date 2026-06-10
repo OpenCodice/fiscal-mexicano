@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fdf7dff94e5c9dda",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses de créditos hipotecarios",
+  "denominacion_comun": "Deducción de intereses de créditos hipotecarios",
   "temas": [
     "créditos hipotecarios",
     "intereses",
-    "deducción",
-    "copropiedad"
+    "deducciones",
+    "copropiedad",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "intereses de la hipoteca",
+    "créditos hipotecarios",
     "deducción de intereses",
-    "créditos de vivienda",
-    "gastos de hipoteca"
+    "impuestos",
+    "cónyuge",
+    "propiedad compartida"
   ],
-  "resumen": "Este artículo regula cómo se consideran los intereses pagados en créditos hipotecarios cuando hay varios deudores. También establece que en ciertos casos, uno de los cónyuges puede deducir la totalidad de los intereses si solo uno tiene ingresos acumulables.",
+  "resumen": "El artículo establece cómo se deben considerar los intereses pagados de créditos hipotecarios entre copropietarios, indicando que si no hay especificación, se asume que los pagos son en partes iguales. Además, permite que un cónyuge deduzca la totalidad de los intereses si solo él tiene ingresos acumulables.",
   "preguntas_ejemplo": [
-    "¿Cómo se dividen los intereses de una hipoteca entre varios deudores?",
-    "¿Puedo deducir los intereses de mi hipoteca si soy el único que recibe ingresos?",
-    "¿Qué pasa si mi cónyuge y yo somos copropietarios de la casa?",
-    "¿Los intereses de hipoteca se dividen equitativamente entre los dueños?",
-    "¿Cómo se manejan los intereses hipotecarios si hay más de un dueño?"
+    "¿Cómo se dividen los intereses de un crédito hipotecario entre copropietarios?",
+    "¿Puede una persona deducir todos los intereses de su crédito hipotecario si su cónyuge no tiene ingresos?",
+    "¿Qué pasa si no se especifica cómo se pagan los intereses en un crédito hipotecario?"
   ]
 }

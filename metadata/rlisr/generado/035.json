@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ea75b747ab8d9569",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reservas para fondos de pensiones",
+  "denominacion_comun": "Planes de pensiones y jubilaciones",
   "temas": [
-    "fondos de pensiones",
-    "jubilaciones",
+    "reservas para pensiones",
+    "fondos de jubilación",
     "aportaciones patronales",
     "opción de incorporación",
-    "términos y condiciones",
-    "vigencia de planes"
+    "vigencia de planes",
+    "administración de fondos"
   ],
   "terminos_coloquiales": [
-    "reservas para pensiones",
-    "plan de jubilación",
-    "aportaciones para el retiro",
-    "opciones de pensiones",
-    "requisitos para pensiones"
+    "plan de pensiones",
+    "fondo de jubilación",
+    "aportaciones a pensiones",
+    "pensiones de trabajadores",
+    "jubilaciones"
   ],
-  "resumen": "El artículo establece las condiciones que deben cumplir los planes de pensiones y jubilaciones de personal, tales como la opción de elección del trabajador y límites en las aportaciones. Además, especifica que estos planes deben ser administrados por instituciones autorizadas y tener una vigencia mínima.",
+  "resumen": "El artículo establece requisitos para los planes de pensiones y jubilaciones de los trabajadores, incluyendo la opción de incorporar al trabajador al plan y límites a las aportaciones. Además, indica que dichos planes deben tener un mínimo de vigencia y ser administrados por entidades específicas.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para un plan de pensiones?",
-    "¿Los trabajadores pueden elegir su plan de jubilación?",
-    "¿Qué límites hay para las aportaciones a pensiones?",
-    "¿Quién puede administrar un plan de jubilación?",
-    "¿Cuánto tiempo debe durar un plan de pensiones?"
+    "¿Qué requisitos debo cumplir para ofrecer un plan de pensiones a mis empleados?",
+    "¿Qué porcentaje del salario puedo aportar a un fondo de jubilación?",
+    "¿Cómo puedo asegurarme de que un plan de pensiones sea válido?",
+    "¿Quién puede administrar un fondo de pensiones?",
+    "¿Qué opciones tiene un trabajador en cuanto a su incorporación en el plan de pensiones?"
   ]
 }

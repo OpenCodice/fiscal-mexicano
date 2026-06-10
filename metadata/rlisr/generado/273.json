@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c78d18e6e5e60c16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Prima por Opción de Compra de Acciones",
+  "denominacion_comun": "Opción de Compra de Acciones",
   "temas": [
     "ingreso acumulable",
     "prima de opción de compra",
     "acciones",
     "títulos valor",
-    "costo comprobado",
-    "enajenación"
+    "costo comprobado"
   ],
   "terminos_coloquiales": [
-    "deducción de primas",
     "compra de acciones",
-    "costo de acción",
-    "vender títulos valores",
-    "opción de compra"
+    "opción de compra",
+    "costo de acciones"
   ],
-  "resumen": "El artículo permite a los contribuyentes reducir su ingreso acumulable al restar el monto de la prima pagada por una opción de compra de acciones. Además, establece que al vender estas acciones, se considera como costo el valor usado para determinar el ingreso acumulable al ejercer la opción de compra.",
+  "resumen": "El artículo permite a los contribuyentes disminuir del ingreso acumulable el monto de la prima pagada por la opción de compra de acciones. Además, establece que al enajenar estas acciones, se debe considerar el costo comprobado de adquisición basado en el ingreso acumulable al ejercer la opción.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir la prima de una opción de compra de acciones?",
-    "¿Cómo se calcula el costo de adquisición de acciones?",
-    "¿Qué pasa si vendo acciones que compré mediante una opción?",
-    "¿Qué debo considerar al calcular ingresos acumulables por acciones?",
-    "¿Puedo restar el monto de la prima al declarar impuestos?"
+    "¿Cómo se puede deducir la prima por opción de compra de acciones?",
+    "¿Qué costo debo considerar al vender acciones adquiridas por opción de compra?",
+    "¿Qué es el ingreso acumulable en relación con las acciones?",
+    "¿Puedo restar la prima de opción de compra de mis ingresos?",
+    "¿Cómo se mide el costo comprobado de acciones adquiridas?"
   ]
 }

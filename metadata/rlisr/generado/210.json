@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed5e39decdbd28b7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de adquisición",
+  "denominacion_comun": "Cálculo del costo de adquisición",
   "temas": [
-    "bien inmueble",
-    "obra de arte",
+    "bienes",
+    "obras de arte",
     "automóviles",
     "metales preciosos",
-    "perlas",
+    "piedras preciosas",
     "joyería",
+    "costo de adquisición",
     "autorización fiscal"
   ],
   "terminos_coloquiales": [
-    "costo de bienes",
-    "valor de coches antiguos",
-    "joyería y metales preciosos",
-    "reducción de costo por antigüedad"
+    "costo de venta",
+    "bienes que no deprecian",
+    "autos clásicos",
+    "joyas",
+    "perlas",
+    "obras de arte"
   ],
-  "resumen": "El artículo establece que ciertos bienes, como obras de arte, automóviles antiguos y metales preciosos, no verán disminuido su costo de adquisición debido a su antigüedad. Además, para otros bienes, se necesita autorización de la autoridad fiscal para no disminuir ese costo.",
+  "resumen": "Este artículo establece que no se debe disminuir el costo de adquisición de ciertos bienes como obras de arte, automóviles antiguos y joyería con metales o piedras preciosas. También menciona que otros bienes pueden estar exentos de esta regla, pero requieren autorización previa de la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Por qué no se puede disminuir el costo de un automóvil antiguo?",
-    "¿Qué bienes están exentos de la reducción de costo de adquisición?",
-    "¿Necesito un permiso para no bajar el costo de algún bien?",
-    "¿Cómo se determina el costo de adquisición de obras de arte?",
-    "¿Qué pasa con los metales preciosos y las joyas en la declaración de impuestos?"
+    "¿Qué bienes no disminuyen su costo de adquisición?",
+    "¿Cómo se calcula el costo de venta de un auto antiguo?",
+    "¿Los metales y piedras preciosas afectan el costo de adquisición?",
+    "¿Necesito autorización para no disminuir el costo de algún bien?",
+    "¿Qué se considera una obra de arte según la ley?"
   ]
 }

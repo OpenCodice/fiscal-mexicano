@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:86743bd792b6e0e6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de Impuesto",
+  "denominacion_comun": "Retenciones de Impuestos",
   "temas": [
     "retenciones",
-    "impuesto",
     "salario",
-    "días trabajados",
-    "procedimiento",
-    "SAT"
+    "impuesto",
+    "trabajo realizado"
   ],
   "terminos_coloquiales": [
-    "cómo hacer retenciones",
-    "retención de impuestos sobre salarios",
-    "cálculo de retenciones",
-    "impuesto sobre trabajo",
-    "procedimiento para retenciones"
+    "retenciones de impuestos",
+    "pago de impuestos",
+    "impuesto sobre salarios",
+    "número de días trabajados",
+    "SAT"
   ],
-  "resumen": "Este artículo habla sobre cómo calcular las retenciones de impuestos para personas que pagan por trabajo realizado y no por días trabajados. Establece un procedimiento que incluye considerar los días efectivos de trabajo y aplicar tarifas específicas.",
+  "resumen": "Este artículo establece el procedimiento para calcular las retenciones de impuestos cuando el pago se basa en la cantidad de trabajo realizado, considerando los días efectivamente trabajados. Se determina el impuesto a retener a partir del salario y el número de días trabajados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la retención de impuestos si pagamos por trabajo realizado?",
-    "¿Qué debo considerar al hacer retenciones de impuestos sobre salarios?",
-    "¿Qué tarifa debo usar para retener impuestos en pagos por trabajo?",
-    "¿Cómo se determina el número de días de trabajo para calcular la retención?",
-    "¿Qué procedimiento sigue el SAT para las retenciones de impuestos?"
+    "¿Cómo se calculan las retenciones de impuestos si no se paga por días laborados?",
+    "¿Qué procedimiento debo seguir para retener impuestos por trabajo realizado?",
+    "¿Qué información necesito para calcular el impuesto a retener?",
+    "¿Cómo aplica el SAT en el cálculo de las retenciones?",
+    "¿Qué significa retención de impuestos sobre salario?"
   ]
 }

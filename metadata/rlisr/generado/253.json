@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2e8a346ba845f249",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informes de Intereses Hipotecarios",
+  "denominacion_comun": "Intereses Hipotecarios",
   "temas": [
-    "intereses hipotecarios",
+    "sistema financiero",
+    "créditos hipotecarios",
+    "intereses devengados",
+    "obligaciones fiscales",
     "comprobantes fiscales",
-    "información del deudor",
-    "SAT",
-    "intereses pagados",
-    "créditos hipotecarios"
+    "SAT"
   ],
   "terminos_coloquiales": [
-    "recibo de intereses de hipoteca",
-    "comprobante de intereses",
-    "información de créditos hipotecarios",
-    "datos del deudor hipotecario"
+    "intereses de hipoteca",
+    "crédito hipotecario",
+    "recibo de intereses",
+    "constancia de intereses",
+    "comprobante fiscal"
   ],
-  "resumen": "Las instituciones financieras deben proporcionar comprobantes fiscales a los deudores hipotecarios con información sobre sus intereses. Esto incluye datos del deudor, ubicación del inmueble y los intereses devengados y pagados durante el año.",
+  "resumen": "Las instituciones financieras que cobran intereses de créditos hipotecarios deben incluir información específica en el comprobante fiscal que entregan a los deudores. También deben proporcionar dicha información al SAT antes del 15 de febrero de cada año.",
   "preguntas_ejemplo": [
-    "¿Qué información debe tener el comprobante de intereses hipotecarios?",
-    "¿Qué datos se requieren para los créditos hipotecarios?",
-    "¿Qué tengo que incluir en mis documentos fiscales sobre la hipoteca?",
-    "¿Cómo reporto los intereses hipotecarios al SAT?",
-    "¿Cuándo debo presentar la información de mis intereses hipotecarios?"
+    "¿Qué datos deben incluir en el comprobante de intereses hipotecarios?",
+    "¿Cuándo debo recibir la constancia de intereses de mi hipoteca?",
+    "¿Qué es lo que tienen que reportar las instituciones financieras al SAT sobre mis intereses hipotecarios?",
+    "¿Cómo puedo saber los intereses que pagué de mi hipoteca en el año?",
+    "¿Qué información debe contener el recibo de intereses de hipoteca?"
   ]
 }

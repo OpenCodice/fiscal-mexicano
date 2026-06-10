@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d4106c37f2e5cb3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de Impuestos en Jubilaciones",
+  "denominacion_comun": "Exención de Impuesto sobre Jubilación y Pensión",
   "temas": [
     "jubilación",
     "pensión",
     "pago único",
     "impuesto",
-    "salario mínimo",
-    "exención fiscal"
+    "salario mínimo"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre jubilación",
-    "pago de pensiones sin impuestos",
-    "jubilación exenta de impuestos",
-    "pago único sin impuestos"
+    "jubilación",
+    "pensión",
+    "pago único",
+    "impuesto sobre jubilación"
   ],
-  "resumen": "El artículo establece que si un trabajador y empleador acuerdan un pago único por jubilación o pensión que no supere un monto específico, no se pagará impuesto por esa cantidad. Sin embargo, si el pago excede este monto, se aplicará impuesto sobre el excedente.",
+  "resumen": "El artículo establece que si un trabajador acuerda con su empleador recibir su jubilación o pensión como un pago único, no pagará impuestos si el monto no supera un límite determinado. Si el pago excede ese límite, se aplicará un impuesto sobre el excedente.",
   "preguntas_ejemplo": [
-    "¿Cuánto se puede recibir sin pagar impuestos al jubilarse?",
-    "¿Qué pasa si el pago único por mi pensión es muy alto?",
-    "¿Hay impuestos si recibo mi jubilación en un solo pago?",
-    "¿Qué límites hay para la exención de impuestos en jubilaciones?",
-    "¿Me cobrarán impuestos si mi pensión supera el salario mínimo?",
-    "¿Cómo funciona la exención de impuestos en pagos de jubilación?"
+    "¿Cuánto se puede recibir de jubilación sin pagar impuestos?",
+    "¿Qué pasa si el pago único de mi pensión es más de lo permitido?",
+    "¿Necesito pagar impuestos si recibo mi jubilación de una sola vez?",
+    "¿Cómo se calcula el impuesto sobre mi pensión si excedo el límite?",
+    "¿Qué significa pago único en la jubilación?"
   ]
 }

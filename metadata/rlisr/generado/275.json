@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7e06fc8cc6cc38c8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opciones de pago del Impuesto para residentes en el extranjero",
+  "denominacion_comun": "Pago de Impuesto para Residentes en el Extranjero",
   "temas": [
-    "Impuesto",
-    "Personas físicas",
-    "Residentes en el extranjero",
-    "Retención",
-    "Pago",
-    "Responsabilidad solidaria"
+    "personas físicas",
+    "impuesto",
+    "retención",
+    "servicio personal subordinado",
+    "representante en México",
+    "entero"
   ],
   "terminos_coloquiales": [
-    "Cómo pagan los extranjeros impuestos en México",
-    "Opciones de pago de impuestos para residentes fuera de México",
-    "Retención de impuestos extranjeros",
-    "Impuesto extranjero en México"
+    "impuesto para extranjeros",
+    "pago de impuesto",
+    "retención de impuestos",
+    "entregar impuestos",
+    "salarios en el extranjero"
   ],
-  "resumen": "Este artículo establece las formas en que las personas físicas residentes en el extranjero pueden pagar su impuesto. Pueden optar por la retención del impuesto por parte de un tercero, realizar el pago a través de un responsable en México, o a través de un representante del residente en el extranjero.",
+  "resumen": "Las personas físicas que residen en el extranjero y deben pagar el impuesto pueden hacerlo mediante retención por parte de un empleador, pago por un residente en México, o a través de un representante en el país. La elección del método de pago debe mantenerse durante el año fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo pueden pagar impuestos los residentes en el extranjero?",
-    "¿Qué opciones tienen los extranjeros para cumplir con sus obligaciones fiscales en México?",
-    "¿Quién puede retener el impuesto por un residente del extranjero?",
-    "¿Qué plazo tienen para pagar el impuesto las personas físicas que residen fuera del país?",
-    "¿Pueden cambiar la forma de pago que eligieron los extranjeros para sus impuestos?"
+    "¿Cómo pagan los impuestos las personas que viven en el extranjero?",
+    "¿Qué opciones tienen los extranjeros para pagar impuestos en México?",
+    "¿Qué es la retención de impuestos para residentes en el extranjero?",
+    "¿Puede un representante en México pagar el impuesto de una persona que vive afuera?",
+    "¿Cuándo deben enterar el impuesto las personas en el extranjero?"
   ]
 }

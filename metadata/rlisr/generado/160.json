@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dc33d6514bd839c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingreso acumulable por prestaciones de previsión social",
@@ -16,17 +17,17 @@
     "contribuyente"
   ],
   "terminos_coloquiales": [
-    "ingresos por prestaciones",
-    "exceso en prestaciones",
-    "ingreso adicional",
-    "cuánto se considera ingreso"
+    "ingresos extras",
+    "ingresos gravables",
+    "prestaciones",
+    "limite de prestaciones"
   ],
-  "resumen": "Cuando las prestaciones de previsión social son mayores a ciertos límites, el excedente se suma como ingreso del contribuyente. Esto afecta la cantidad de ingresos que deben declararse.",
+  "resumen": "Este artículo establece que si las prestaciones de previsión social superan ciertos límites, el monto que exceda será considerado como un ingreso acumulable para el contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis prestaciones de previsión social son muy altas?",
-    "¿El exceso de prestaciones se considera ingreso?",
-    "¿Cómo afectará mis impuestos el excedente de prestaciones?",
-    "¿Qué límites hay para las prestaciones de previsión social?",
-    "¿Cómo se calcula el ingreso acumulable por prestaciones?"
+    "¿Qué pasa si mis prestaciones de previsión social son mayores a lo permitido?",
+    "¿Tengo que declarar el excedente de mis prestaciones como ingreso?",
+    "¿Qué son las prestaciones de previsión social?",
+    "¿Cómo afectan mis ingresos las prestaciones que recibo?",
+    "¿Cuáles son los límites para las prestaciones de previsión social?"
   ]
 }

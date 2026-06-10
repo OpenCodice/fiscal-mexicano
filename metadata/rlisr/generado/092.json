@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14430634efada33b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses y Obligaciones de Fondos para el Retiro",
+  "denominacion_comun": "Obligaciones de Administradoras de Fondos para el Retiro",
   "temas": [
-    "Información al SAT",
-    "Intereses nominales",
-    "Intereses reales",
-    "Salario y retenciones",
-    "Cuentas individuales"
+    "fondos para el retiro",
+    "retenciones",
+    "interés nominal",
+    "interés real",
+    "información al SAT",
+    "trabajador afiliado",
+    "beneficiario"
   ],
   "terminos_coloquiales": [
-    "Reportes de fondos de retiro",
-    "Intereses de ahorros para el retiro",
-    "Datos de trabajadores al SAT",
-    "Retenciones de fondos de pensión"
+    "AFORE",
+    "intereses",
+    "retiro",
+    "cuenta individual",
+    "SAT"
   ],
-  "resumen": "Este artículo establece las obligaciones de las administradoras de fondos para el retiro de informar al SAT sobre los datos de sus trabajadores afiliados, incluyendo sus intereses y saldos. También se detalla cómo se deben calcular los intereses nominales y reales de las acciones de inversión.",
+  "resumen": "Las AFORE deben enviar anualmente al SAT información sobre los trabajadores afiliados, incluyendo su nombre y clave del RFC, así como detalles de los intereses pagados y el saldo de su cuenta. Si los recursos se entregan a un beneficiario diferente al trabajador, también se deberá informar su nombre y clave correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué información deben enviar las administradoras de fondos para el retiro al SAT?",
-    "¿Cómo se calcula el interés nominal de una acción?",
-    "¿Qué información se necesita si el pago se hace a un beneficiario diferente?",
-    "¿Cómo se determina el interés real en fondos de retiro?",
-    "¿Qué datos de los trabajadores se reportan al SAT?"
+    "¿Qué información debe enviar mi AFORE al SAT?",
+    "¿Cómo se calcula el interés nominal en mi cuenta de AFORE?",
+    "¿Qué datos se requieren si el pago de recursos es para un beneficiario?",
+    "¿Qué es el interés real y cómo se calcula?",
+    "¿Cuándo debe mi AFORE entregar la información al SAT?"
   ]
 }

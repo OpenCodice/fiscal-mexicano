@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d625b8fd1e9d59b1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de servicios personales subordinados",
+  "denominacion_comun": "Acreditamiento de servicios personales subordinados",
   "temas": [
+    "servicio personal subordinado",
+    "residente en México",
     "prestación de servicios",
-    "residencia fiscal",
+    "identificación fiscal",
     "constancias trimestrales",
-    "registro contable"
+    "registro contable",
+    "residente en el extranjero"
   ],
   "terminos_coloquiales": [
-    "registro de servicios en México",
-    "constancias de trabajo en el extranjero",
-    "días trabajados en México",
-    "servicios personales y residencia"
+    "trabajo en México",
+    "constancia de servicios",
+    "residente extranjero",
+    "registro de días",
+    "servicios en instalaciones en México"
   ],
-  "resumen": "Este artículo establece los requisitos que deben cumplir las personas residentes en México para registrar a los prestadores de servicios personales subordinados del extranjero. Incluye la obligación de llevar un registro contable y emitir constancias trimestrales sobre los días de trabajo de estas personas.",
+  "resumen": "Este artículo establece los requisitos para acreditar que un prestador de servicios personales subordinados ha estado menos de 183 días en México. Se requiere que el residente mexicano lleve un registro contable y emita constancias trimestrales a los residentes en el extranjero que presten servicios en su instalación.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para registrar a un trabajador extranjero en México?",
-    "¿Cómo se comprueba la estancia de un servicio en México?",
-    "¿Qué información debe incluir la constancia para el residente en el extranjero?",
-    "¿Cada cuánto tiempo se deben emitir las constancias?",
-    "¿Qué hacer si un trabajador extranjero ha estado en varias empresas en México?"
+    "¿Qué requisitos hay para que un trabajador extranjero no pague impuestos en México?",
+    "¿Cómo debo llevar el registro de mis trabajadores extranjeros?",
+    "¿Qué información debe tener la constancia que emito a los residentes extranjeros?",
+    "¿Cuándo se deben emitir las constancias para los trabajadores extranjeros?",
+    "¿Qué pasa si un trabajador extranjero trabaja en diferentes empresas en México?",
+    "¿Qué documentos necesito conservar sobre los trabajadores extranjeros?"
   ]
 }

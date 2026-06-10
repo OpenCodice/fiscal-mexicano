@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7b2d54360f576e6d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de intereses en créditos hipotecarios",
+  "denominacion_comun": "Deducción de intereses hipotecarios",
   "temas": [
-    "créditos hipotecarios",
-    "deducciones",
-    "intereses",
-    "ingresos",
-    "uso temporal del bien"
-  ],
-  "terminos_coloquiales": [
     "deducción de intereses",
     "créditos hipotecarios",
-    "deducción por uso del inmueble",
-    "intereses no deducibles"
+    "ingresos por uso temporal",
+    "regla de no doble deducción"
   ],
-  "resumen": "Este artículo establece que si un deudor de un crédito hipotecario gana ingresos por el uso temporal del inmueble y deduce los intereses de ese crédito, no podrá deducir nuevamente esos mismos intereses. Es una regla sobre cómo aplicar deducciones en ciertos casos con créditos hipotecarios.",
+  "terminos_coloquiales": [
+    "intereses de hipoteca",
+    "deuda de casa",
+    "deducción de intereses",
+    "gastos de hipoteca"
+  ],
+  "resumen": "Este artículo establece que si los deudores de créditos hipotecarios reciben ingresos por el uso temporal del bien y deducen intereses en un ejercicio, no podrán deducir esos intereses nuevamente. Es decir, no se permite la doble deducción de intereses hipotecarios.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los intereses de mi crédito hipotecario si alquilo la casa?",
-    "¿Qué pasa si deduzco intereses y también recibo ingresos por uso del inmueble?",
-    "¿Hay restricciones en la deducción de intereses por créditos hipotecarios?",
-    "¿Se pueden deducir los mismos intereses más de una vez?",
-    "¿Cómo se aplican las deducciones en créditos hipotecarios?"
+    "¿Puedo deducir los intereses de mi hipoteca si alquilo mi casa?",
+    "¿Qué pasa si hago una deducción por intereses y también recibo ingresos de alquiler?",
+    "¿No puedo deducir intereses hipotecarios si tengo ingresos por el uso de mi casa?",
+    "¿Qué normas rigen la deducción de intereses en créditos hipotecarios?",
+    "¿Cuándo no puedo deducir los intereses de mi hipoteca?"
   ]
 }

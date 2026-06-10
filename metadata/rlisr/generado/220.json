@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9d3583f3afdb4c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses de fondos de inversión",
+  "denominacion_comun": "Fondos de Inversión en Deuda",
   "temas": [
-    "fondos de inversión",
     "intereses nominales",
     "gastos administrativos",
+    "personas físicas",
     "instrumentos de deuda",
-    "personas físicas"
+    "distribución de gastos",
+    "ingresos netos"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan los intereses de fondos",
-    "intereses para fondos de inversión",
-    "gastos deducibles en inversiones",
-    "intereses devengados diarios"
+    "intereses de fondos de inversión",
+    "gastos deducibles",
+    "rendimiento de inversiones",
+    "acción de fondo de inversión"
   ],
-  "resumen": "Este artículo establece cómo los fondos de inversión en instrumentos de deuda deben calcular los intereses devengados para sus accionistas personas físicas, considerando tanto los intereses gravados como los exentos. También describe la distribución de gastos administrativos que son deducibles relacionados con esos ingresos.",
+  "resumen": "Los fondos de inversión en instrumentos de deuda calculan diariamente los intereses devengados y distribuyen los gastos administrativos deducibles entre los ingresos. También restan los gastos correspondientes para determinar los ingresos netos diarios.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses de un fondo de inversión?",
-    "¿Qué gastos se pueden deducir de los ingresos de un fondo?",
-    "¿Cuál es la diferencia entre intereses gravados y exentos en fondos de inversión?",
-    "¿Cómo se asignan los gastos administrativos a los ingresos de los fondos de inversión?"
+    "¿Cómo se calculan los intereses de los fondos de inversión?",
+    "¿Qué gastos son deducibles en los fondos de inversión?",
+    "¿Cómo se determina el rendimiento neto en un fondo de inversión?",
+    "¿Qué instrumentos de deuda gravados existen para personas físicas?",
+    "¿Cómo se distribuyen los gastos administrativos en los fondos de inversión?"
   ]
 }

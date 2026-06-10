@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:23ad529b65ef8364",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones fiscales",
   "temas": [
-    "incumplimiento de deducciones",
-    "requisitos fiscales",
-    "plazos de presentación",
+    "incumplimiento",
+    "deducciones",
+    "declaración del ejercicio",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "deducciones de impuestos",
-    "cumplimiento de deducciones",
-    "fechas de impuestos",
-    "declaración de impuestos"
+    "deducciones",
+    "declarar impuestos",
+    "cumplir con el SAT"
   ],
-  "resumen": "El artículo establece que no se considerará incumplido un requisito para deducciones si se cumple a tiempo con las obligaciones fiscales adecuadas. Esto se aplica siempre que se hayan pagado las cantidades adeudadas y sus recargos correspondientes.",
+  "resumen": "Este artículo establece que no se considerará como incumplido el requisito para las deducciones si se cumplen ciertas obligaciones antes de la presentación de la declaración del ejercicio y se han pagado las cantidades adeudadas con sus recargos. Esto busca facilitar el cumplimiento de las obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no cumplo con los requisitos de deducción?",
-    "¿Cuáles son las obligaciones que debo cumplir para mis deducciones?",
-    "¿Hasta cuándo puedo presentar mi declaración para que no haya problemas?",
-    "¿Cómo se actualizan las cantidades adeudadas?",
-    "¿Qué son los recargos en mis deducciones fiscales?"
+    "¿Qué pasa si no presento mis deducciones a tiempo?",
+    "¿Puedo regularizar mis deducciones después de la fecha de presentación?",
+    "¿Cuáles son los requisitos para deducir gastos ante el SAT?",
+    "¿Qué debo hacer si no pagué mis impuestos a tiempo?",
+    "¿Las deducciones se pueden realizar aunque haya habido retrasos?"
   ]
 }

@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff3a6613aaf9af84",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Donación de bienes básicos",
   "temas": [
     "donación",
     "bienes básicos",
+    "medicamentos",
     "productos perecederos",
+    "instituciones autorizadas",
     "avisos al SAT",
-    "destrucción de productos",
+    "caducidad",
     "condiciones de conservación"
   ],
   "terminos_coloquiales": [
-    "donar cosas",
+    "donar bienes",
     "donación de alimentos",
-    "donar productos perecederos",
+    "donación de ropa",
+    "donación de medicamentos",
+    "caducidad de productos",
     "avisar al SAT",
-    "destruir productos",
-    "reglas de donación"
+    "donativos deducibles"
   ],
-  "resumen": "Los contribuyentes deben ofrecer en donación bienes básicos como alimentos, ropa o medicinas antes de destruirlos. Deben presentar un aviso al SAT con información sobre la caducidad y conservación de los productos.",
+  "resumen": "Los contribuyentes deben ofrecer a instituciones autorizadas sus bienes básicos que ya no pueden ser utilizados antes de destruirlos. Deben presentar un aviso al SAT en línea y proporcionar información sobre las condiciones y caducidad de los productos a donar.",
   "preguntas_ejemplo": [
-    "¿Cómo dono productos que no puedo usar?",
-    "¿Qué debo hacer antes de destruir alimentos?",
-    "¿Cuánto tiempo antes tengo que avisar al SAT?",
-    "¿Qué información necesito para donar medicamentos?",
-    "¿Puedo donar productos que están a punto de caducar?"
+    "¿Qué debo hacer si tengo alimentos que no puedo vender?",
+    "¿Cómo dono medicamentos que están a punto de caducar?",
+    "¿Cuándo tengo que avisar al SAT si quiero destruir productos perecederos?",
+    "¿Qué requisitos debo cumplir para donar bienes básicos?",
+    "¿Puedo donar ropa y alimentos que ya no voy a usar?",
+    "¿Cómo se manejan los bienes que se echan a perder?"
   ]
 }

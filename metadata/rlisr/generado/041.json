@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b02c7436563c467a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Erogaciones a través de terceros",
   "temas": [
-    "Erogaciones",
-    "Contribuciones",
-    "Viáticos",
-    "Gastos de viaje",
-    "Comprobantes fiscales"
+    "cheques nominativos",
+    "traspasos",
+    "comprobante fiscal",
+    "contribuyente",
+    "gastos de viaje"
   ],
   "terminos_coloquiales": [
-    "gastos a través de terceros",
-    "pagos a terceros",
-    "cheques nominativos",
-    "comprobante fiscal"
+    "pagar a alguien más",
+    "gastos con terceros",
+    "comprobante",
+    "cheque",
+    "traspaso de dinero"
   ],
-  "resumen": "El artículo establece que cuando un contribuyente hace pagos a través de un tercero, debe hacerlo mediante cheques a su nombre o transferencias bancarias. Además, si el tercero paga en nombre del contribuyente, esos pagos deben contar con un comprobante fiscal a nombre del contribuyente.",
+  "resumen": "El artículo establece que cuando un contribuyente realiza pagos a través de un tercero, debe hacerlo mediante cheques o traspasos y asegurarse de contar con comprobantes fiscales a su nombre. Algunas excepciones son para contribuciones y gastos de viaje.",
   "preguntas_ejemplo": [
-    "¿Cómo debo hacer un pago a un tercero?",
-    "¿Es necesario un comprobante fiscal para gastos a través de terceros?",
-    "¿Qué tipos de gastos no se incluyen en estas reglas?",
-    "¿Qué documento necesito para comprobar pagos hechos por otro?",
-    "¿Puedo usar efectivo para pagar a un tercero?",
-    "¿Qué pasa si no emito un comprobante fiscal?"
+    "¿Cómo debo pagar los gastos a un tercero?",
+    "¿Qué tipo de comprobante necesito si pago a través de someone más?",
+    "¿Puedo hacer un traspaso de dinero a nombre de otra persona?",
+    "¿Qué son los cheques nominativos y cuándo los debo usar?",
+    "¿Hay excepciones para los pagos a terceros?"
   ]
 }

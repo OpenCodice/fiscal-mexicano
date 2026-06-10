@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:82904c3ec0f887e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de declaración de ingresos",
+  "denominacion_comun": "Declaración de ingresos por servicios personales subordinados",
   "temas": [
-    "contribuyentes",
-    "declaración",
+    "declaración de impuestos",
     "servicios personales subordinados",
     "ingresos",
-    "empleadores"
+    "exención de declaración"
   ],
   "terminos_coloquiales": [
-    "¿Tengo que declarar mis ingresos?",
-    "exención de declaración",
-    "ingresos por trabajo",
-    "servicio personal",
-    "declaración de impuestos"
+    "declaración de impuestos",
+    "ingresos por trabajos",
+    "servicios personales",
+    "no presentar declaración"
   ],
-  "resumen": "Si dejaste de trabajar y recibiste ingresos solo de un patrón, es posible que no tengas que presentar tu declaración fiscal si no sobrepasas un límite específico. Sin embargo, si tus ingresos vienen de más de un empleador al mismo tiempo, esta exención no aplica.",
+  "resumen": "Los contribuyentes que dejen de trabajar antes del fin del año pueden no presentar su declaración de impuestos si sus ingresos solo provienen de un servicio personal en el país y no superan un monto específico. Esto no aplica si los ingresos son de ciertas actividades estipuladas en la ley.",
   "preguntas_ejemplo": [
-    "¿Cuándo no tengo que presentar mi declaración?",
-    "¿Qué pasa si dejé de trabajar el año pasado?",
-    "¿Cuáles son los límites para no declarar ingresos?",
-    "¿Puedo no declarar si tengo dos empleadores?",
-    "¿Qué ingresos cuentan para esta exención?"
+    "¿Puedo no presentar mi declaración si dejé de trabajar?",
+    "¿Cuáles son los requisitos para no declarar mis ingresos?",
+    "¿Qué ingresos no cuentan para la exención de declaración?",
+    "¿Qué tipo de trabajos permiten evitar la presentación de la declaración?",
+    "¿Cuándo debo presentar mi declaración si solo trabajé para un empleador?"
   ]
 }

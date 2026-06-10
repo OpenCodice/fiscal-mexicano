@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f63a585847ed2cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen fiscal preferente",
+  "denominacion_comun": "Ingreso de entidades extranjeras",
   "temas": [
     "ingresos",
+    "régimen fiscal preferente",
     "entidades extranjeras",
     "control efectivo",
-    "dividendos",
-    "impuesto"
+    "distribución de utilidades",
+    "impuesto",
+    "figuras jurídicas transparentes"
   ],
   "terminos_coloquiales": [
     "ingresos de empresas extranjeras",
-    "régimen fiscal",
-    "control de ingresos",
-    "dividendos de entidades extranjeras"
+    "entidades transparentes",
+    "impuesto sobre ingresos",
+    "distribución de dividendos"
   ],
-  "resumen": "Este artículo establece que los ingresos generados por entidades extranjeras que son transparentes fiscales no se consideran sujetos a régimen fiscal preferente si el contribuyente no tiene control sobre ellas. El impuesto se pagará cuando se distribuyan los ingresos.",
+  "resumen": "Los ingresos de entidades extranjeras que son fiscalmente transparentes no se consideran sujetos a un régimen fiscal preferente si el contribuyente no tiene control sobre ellas. El impuesto se paga en el momento en que se distribuyen los ingresos o utilidades al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos no son considerados como régimen fiscal preferente?",
-    "¿Cómo se manejan los ingresos de entidades extranjeras?",
-    "¿Cuándo debo pagar impuestos por ingresos extranjeros?",
-    "¿Qué significa ser una entidad fiscalmente transparente?",
-    "¿Qué pasa si no tengo control sobre una entidad extranjera?"
+    "¿Qué ingresos no se consideran sujetos a régimen fiscal preferente?",
+    "¿Cuándo tengo que pagar impuestos sobre ingresos de entidades extranjeras?",
+    "¿Qué significa que una entidad sea fiscalmente transparente?",
+    "¿Qué pasa si no tengo control efectivo sobre una empresa extranjera?",
+    "¿Cómo se distribuyen los ingresos de entidades extranjeras?"
   ]
 }

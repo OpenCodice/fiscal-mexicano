@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:36d41d7bf3b4e06c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dividendos y utilidades en fideicomisos",
+  "denominacion_comun": "Dividendos y Utilidades en Fideicomisos",
   "temas": [
-    "ingresos por dividendos",
-    "utilidades distribuidas",
-    "personas morales",
+    "dividendos",
+    "utilidades",
     "fideicomisos",
+    "personas morales",
+    "personas físicas",
     "retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "dividendos a través de fideicomisos",
-    "utilidades en fideicomisos",
-    "retención de impuestos sobre dividendos",
-    "distribución de utilidades",
-    "ingresos de fideicomisos"
+    "ingresos por dividendos",
+    "utilidades distribuidas",
+    "fideicomiso",
+    "retención de impuestos"
   ],
-  "resumen": "Este artículo establece que los ingresos por dividendos o utilidades de personas morales que se reciban a través de fideicomisos se consideran obtenidos directamente de la persona moral original. La fiduciaria debe realizar retenciones conforme a la ley.",
+  "resumen": "Los ingresos por dividendos obtenidos a través de un fideicomiso se consideran directamente de la persona moral que los distribuyó. Las personas físicas o morales deberán acumular estos ingresos o adicionarlos a la utilidad fiscal, y la fiduciaria tiene la obligación de retener impuestos según lo establecido en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se consideran los dividendos recibidos a través de un fideicomiso?",
-    "¿Qué hace la fiduciaria con respecto a la retención de impuestos?",
-    "¿Cómo se distribuyen las utilidades entre los fideicomisarios?",
-    "¿Qué leyes se aplican a los fideicomisos en relación con los dividendos?",
-    "¿Qué pasa si recibo dividendos de una persona moral a través de un fideicomiso?"
+    "¿Cómo se consideran los ingresos por dividendos de un fideicomiso?",
+    "¿Qué debo hacer si recibo utilidades a través de un fideicomiso?",
+    "¿La fiduciaria tiene obligaciones fiscales al distribuir dividendos?",
+    "¿Cómo se retienen impuestos en los fideicomisos?",
+    "¿Qué pasa con los dividendos que yo recibo si son a través de un fideicomiso?"
   ]
 }

@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40ad816d586f5a4d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Método Intercuartil",
   "temas": [
     "precios",
-    "márgenes de utilidad",
     "contraprestaciones",
-    "mediana",
-    "percentiles",
-    "límites de rango",
-    "métodos estadísticos"
+    "márgenes de utilidad",
+    "método estadístico",
+    "limites inferior y superior"
   ],
   "terminos_coloquiales": [
-    "cómo ajustar precios",
+    "precios de mercado",
     "rango de precios",
-    "método para calcular márgenes",
-    "cómo determinar límites de utilidad",
-    "cálculo de mediana"
+    "método intercuartil",
+    "margen de utilidad",
+    "información de precios"
   ],
-  "resumen": "Este artículo explica cómo ajustar precios y márgenes de utilidad utilizando el método intercuartil. Muestra cómo calcular la mediana y los percentiles, así como los límites inferior y superior del rango de precios aceptables.",
+  "resumen": "El artículo establece cómo ajustar el rango de precios, montos de contraprestaciones o márgenes de utilidad mediante el método intercuartil. Se describen los pasos para calcular la mediana y los percentiles que permiten definir límites superior e inferior del rango.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula la mediana de los precios?",
-    "¿Qué es el percentil vigésimo quinto?",
-    "¿Cómo se determina el límite superior de un rango de precios?",
-    "¿Se pueden usar otros métodos para ajustar precios?",
-    "¿Cuál es el método intercuartil en la legislación fiscal?"
+    "¿Cómo se ajusta el rango de precios utilizando el método intercuartil?",
+    "¿Qué es la mediana y cómo se calcula?",
+    "¿Cuáles son los límites inferior y superior de un rango de precios?",
+    "¿Se pueden utilizar otros métodos estadísticos para determinar precios?",
+    "¿Qué información se necesita para aplicar este método?"
   ]
 }

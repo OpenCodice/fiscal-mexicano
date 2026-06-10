@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e2b2e30102d6dfe9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Estimativa diaria del INPC",
   "temas": [
     "Índice Nacional de Precios al Consumidor",
+    "ajuste de precios",
     "cálculo de estimativas",
-    "ajuste diario",
     "premios"
   ],
   "terminos_coloquiales": [
-    "cálculo del INPC diario",
-    "estimación del precio diario",
-    "ajuste de precios",
-    "precios de premios"
+    "ajuste diario de precios",
+    "cálculo del INPC",
+    "estimativas del índice",
+    "premios"
   ],
-  "resumen": "Este artículo establece cómo calcular la estimativa diaria del Índice Nacional de Precios al Consumidor. La estimativa se obtiene mediante divisiones y multiplicaciones del índice de precios de meses anteriores, ajustando de forma diaria.",
+  "resumen": "Este artículo establece cómo calcular la estimativa diaria del Índice Nacional de Precios al Consumidor (INPC) utilizando índices de meses anteriores. Se detallan los pasos para obtener esta estimativa y cómo se aplica un factor diario de ajuste basado en cálculos previos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el INPC diario?",
-    "¿Qué fórmula se usa para ajustar los precios?",
-    "¿Cómo afecta el ajuste diario a los premios?",
-    "¿Qué es la estimativa diaria del INPC?",
-    "¿Cuándo se utiliza el INPC en los premios?"
+    "¿Cómo se calcula la estimativa diaria del INPC?",
+    "¿Qué es el factor diario de ajuste del INPC?",
+    "¿Cómo afecta el índice de precios de un mes anterior a los cálculos actuales?",
+    "¿Se puede calcular el INPC hasta el cienmillonésimo?",
+    "¿Qué pasos seguir para ajustar los precios de premios según el INPC?"
   ]
 }

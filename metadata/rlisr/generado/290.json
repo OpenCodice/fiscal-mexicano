@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f1452f7685d97b2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de intereses para residentes en el extranjero",
+  "denominacion_comun": "Devolución de Impuestos para Residentes en el Extranjero",
   "temas": [
     "operaciones financieras",
-    "deuda",
     "diferencias en efectivo",
-    "deducción de impuestos",
-    "devolución de impuestos"
+    "deducciones",
+    "ingresos por intereses",
+    "impuesto",
+    "residentes en el extranjero",
+    "retenciones"
   ],
   "terminos_coloquiales": [
-    "deducción de intereses",
     "devolución de impuestos",
-    "intereses para extranjeros",
-    "pagos en exceso",
-    "impuestos en el extranjero"
+    "intereses",
+    "deducción de impuestos",
+    "gente en el extranjero"
   ],
-  "resumen": "Este artículo trata sobre cómo se pueden deducir ciertos pagos de intereses que un residente en el extranjero haya hecho a un residente en el país. Si se paga más impuestos de lo que corresponde, se puede solicitar la devolución de lo que se pagó de más.",
+  "resumen": "Este artículo establece que los residentes en el extranjero pueden deducir las diferencias de efectivo que paguen a residentes en el país para calcular sus ingresos por intereses. Además, si pagan más impuesto del que les corresponde, pueden solicitar la devolución del exceso pagado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir los intereses que pagué?",
-    "¿Qué pasa si pagué de más en impuestos?",
-    "¿Puedo recuperar impuestos pagados en exceso?",
-    "¿Qué implicaciones tienen las operaciones financieras para residentes en el extranjero?",
-    "¿Cómo se manejan las deducciones para pagos a residentes en el país?"
+    "¿Cómo puedo deducir impuestos si soy residente en el extranjero?",
+    "¿Qué diferencias en efectivo se pueden considerar para deducciones?",
+    "¿Puedo recibir una devolución de impuestos si pagué de más?",
+    "¿Qué requisitos tengo para solicitar la devolución de impuestos?",
+    "¿Cómo funcionan los impuestos sobre intereses para residentes en el extranjero?"
   ]
 }

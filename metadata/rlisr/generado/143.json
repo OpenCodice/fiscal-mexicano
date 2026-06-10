@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a98e4e1a9036efdc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de gastos comunes en condominios",
+  "denominacion_comun": "Deducción de gastos comunes en condominio",
   "temas": [
-    "Impuesto",
-    "Propiedad en condominio",
-    "Deducción",
-    "Gastos comunes",
-    "Contribuyentes"
+    "impuesto",
+    "deducción",
+    "gastos comunes",
+    "propiedad en condominio",
+    "requisitos",
+    "reglamento"
   ],
   "terminos_coloquiales": [
-    "gastos de condominio deducibles",
-    "deducción de mantenimiento",
-    "impuestos en condominios",
-    "gastos compartidos"
+    "deducir gastos",
+    "gastos de condominio",
+    "inmuebles en condominio"
   ],
-  "resumen": "Los contribuyentes que paguen impuestos y utilicen inmuebles en régimen de condominio pueden deducir los gastos comunes relacionados, siempre que cumplan ciertos requisitos. Esto permite reducir la carga fiscal de los gastos que comparten entre vecinos.",
+  "resumen": "Los contribuyentes que paguen un impuesto relacionado con actividades en inmuebles en condominio pueden deducir los gastos comunes, siempre que cumplan con ciertos requisitos establecidos en el reglamento.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los gastos de mi condominio?",
-    "¿Qué gastos comunes son deducibles en impuestos?",
-    "¿Cómo funciona la deducción de gastos de mantenimiento en un condominio?",
-    "¿Cuáles son los requisitos para deducir gastos compartidos?",
-    "¿Qué tipo de impuestos se aplican a los condominios?"
+    "¿Puedo deducir mis gastos de condominio?",
+    "¿Qué gastos comunes son deducibles en un condominio?",
+    "¿Cuáles son los requisitos para deducir gastos en un inmueble en condominio?"
   ]
 }

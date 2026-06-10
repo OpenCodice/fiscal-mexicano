@@ -6,27 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8783711930be3fb6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos Deducibles",
+  "denominacion_comun": "Donativos y sus gastos de administración",
   "temas": [
-    "destino de los donativos",
+    "donativos",
     "gastos de administración",
-    "autorización para recibir donativos",
-    "inversiones de donatarias",
-    "comprobantes fiscales"
+    "remuneraciones",
+    "inversiones",
+    "personas morales",
+    "fideicomisos",
+    "comprobantes fiscales",
+    "instituciones de enseñanza"
   ],
   "terminos_coloquiales": [
-    "donativos deducibles",
-    "gastos de una donataria",
-    "recibir donativos",
-    "comprobante de donación"
+    "aportes",
+    "contribuciones",
+    "deducciones de donativos",
+    "certificados de donaciones",
+    "deducciones fiscales",
+    "donatarias",
+    "títulos de crédito"
   ],
-  "resumen": "El artículo establece cómo deben usar los donativos las organizaciones autorizadas, limitando los gastos administrativos y exigiendo que los donativos sean utilizados solo para sus fines sociales. También establece las condiciones bajo las cuales pueden hacer inversiones y recibir donativos de otras instituciones educativas.",
+  "resumen": "El artículo establece que los donativos y sus rendimientos deben destinarse a fines específicos de las donatarias y limita el porcentaje que puede usarse para gastos de administración. También regula cómo las donatarias deben manejar las inversiones y el tipo de comprobantes fiscales que deben emitir al recibir donativos.",
   "preguntas_ejemplo": [
-    "¿Qué gastos puede cubrir una donataria con los donativos que recibe?",
-    "¿Cómo deben utilizar las donatarias los donativos que reciben?",
-    "¿Qué requisitos deben cumplir las instituciones educativas para recibir donativos?",
-    "¿Qué tipo de comprobantes fiscales deben emitir las donatarias?"
+    "¿Qué gastos de administración puede cubrir una donataria?",
+    "¿Cómo se manejan los donativos en las donatarias?",
+    "¿Qué tipo de inversiones pueden hacer las donatarias?",
+    "¿Qué comprobantes deben emitir al recibir donativos?",
+    "¿Las instituciones de enseñanza pueden donar a otras instituciones?"
   ]
 }

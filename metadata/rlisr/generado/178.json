@@ -6,30 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f3c9bdf18fe4fcc4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de Impuesto",
+  "denominacion_comun": "Retenciones de Impuestos",
   "temas": [
     "retenciones",
     "impuestos",
-    "pago",
-    "tarifa",
-    "actualización",
-    "ajustes"
+    "pagos",
+    "tarifas"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan las retenciones",
-    "tarifa vigente para retenciones",
-    "ajustes en retenciones de impuestos",
-    "retención de impuestos para pagos",
-    "cambio en tarifas de retención"
+    "retenciones de impuestos",
+    "pago de impuestos",
+    "ajuste de retenciones"
   ],
-  "resumen": "El artículo establece cómo las personas que deben hacer retenciones de impuestos pueden calcular estas retenciones cuando los pagos abarcan dos meses y una tarifa se actualiza. Permite usar la tarifa vigente al inicio del periodo y hacer ajustes en pagos futuros.",
+  "resumen": "Las personas que deben hacer retenciones de impuestos pueden usar la tarifa vigente al inicio del periodo para calcular la retención de pagos que abarcan dos meses. Después, deberán ajustar la retención en el siguiente pago correspondiente.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula la retención de impuestos si el pago abarca dos meses?",
-    "¿Qué tarifa debo usar para la retención en pagos de dos meses?",
-    "¿Qué hacer si la tarifa de retención se actualiza?",
-    "¿Debo ajustar las retenciones en pagos futuros?",
-    "¿Qué implicaciones tiene actualizar la tarifa de retención?"
+    "¿Qué tarifa debo usar para las retenciones de este mes?",
+    "¿Qué hago si la tarifa cambia durante el periodo de pago?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10c5715a3402a0dd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devoluciones y descuentos",
@@ -13,21 +14,29 @@
     "devoluciones",
     "descuentos",
     "bonificaciones",
-    "ejercicio fiscal"
+    "ingresos acumulados",
+    "deducciones autorizadas",
+    "coeficiente de utilidad",
+    "pérdida fiscal",
+    "pronto pago"
   ],
   "terminos_coloquiales": [
-    "devolución de impuestos",
-    "descuentos fiscales",
-    "bonificaciones en compras",
-    "ajustes fiscales"
+    "devoluciones",
+    "descuentos",
+    "bonificaciones",
+    "ingresos",
+    "deducciones",
+    "utilidad fiscal",
+    "pérdida fiscal",
+    "pronto pago"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden restar devoluciones, descuentos o bonificaciones de sus ingresos y deducciones en el ejercicio en que se efectúan, en lugar de hacerlo en el ejercicio en que se generaron. Esto aplica bajo ciertas condiciones, como no modificar significativamente el coeficiente de utilidad.",
+  "resumen": "Los contribuyentes pueden restar devoluciones, descuentos o bonificaciones a los ingresos acumulados y deducciones autorizadas en el ejercicio en que se efectúan, en lugar del ejercicio en que se acumularon. Esto se permite bajo ciertas condiciones, incluso si no se cumplen todos los requisitos establecidos.",
   "preguntas_ejemplo": [
-    "¿Puedo restar una devolución de mi ingreso este año?",
-    "¿Cómo se aplican los descuentos fiscales en mis deducciones?",
-    "¿Qué condiciones debo cumplir para restar bonificaciones?",
-    "¿Es posible ajustar mis impuestos por descuentos que me da el proveedor?",
-    "¿Cuándo puedo considerar las bonificaciones en mi declaración?",
-    "¿Qué pasa si la devolución afecta mi utilidad fiscal?"
+    "¿Cómo puedo restar las devoluciones que recibí el año pasado?",
+    "¿Qué debo hacer con los descuentos que me ofrecieron en mis compras?",
+    "¿Puedo considerar las bonificaciones en mis deducciones de este ejercicio?",
+    "¿Cómo afecta un descuento a mi utilidad fiscal?",
+    "¿Qué condiciones debo cumplir para restar las devoluciones que recibí?",
+    "¿Los descuentos del proveedor cuentan para mis deducciones?"
   ]
 }

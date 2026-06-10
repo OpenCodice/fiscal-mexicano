@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b1f2cf337f47ce2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de reservas",
@@ -13,23 +14,20 @@
     "deducción fiscal",
     "reservas de pasivo",
     "reservas de activo",
-    "requisitos de deducción",
     "impuestos provisionales",
-    "impuestos definitivos"
+    "ingresos no gravables"
   ],
   "terminos_coloquiales": [
-    "cómo deduzco reservas",
     "deducción de reservas",
-    "reservas no deducibles",
     "impuestos de terceros",
-    "cancelación de reservas"
+    "cancelaciones de reservas"
   ],
-  "resumen": "Este artículo establece que las reservas de pasivo o complementarias de activo pueden ser deducibles si se cumplen ciertos requisitos. Además, aclara que las cancelaciones de reservas que no fueron deducibles no se consideran ingresos del ejercicio.",
+  "resumen": "El artículo establece que las reservas de pasivo o complementarias de activo pueden ser deducibles en el ejercicio si se cumplen ciertos requisitos. Además, se aclara que las cancelaciones de reservas no se consideran ingresos del ejercicio si sus incrementos anteriores no fueron deducibles.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo deducir reservas en mi declaración?",
-    "¿Qué requisitos hay para deducir reservas de activo?",
-    "¿Qué pasa si no deduje una reserva en el ejercicio pasado?",
-    "¿Las cancelaciones de reservas cuentan como ingreso?",
-    "¿Qué documentos necesito para la deducción de impuestos?"
+    "¿Qué reservas puedo deducir en mi declaración?",
+    "¿Cómo se consideran las cancelaciones de reservas en mis ingresos?",
+    "¿Qué requisitos debo cumplir para deducir reservas?",
+    "¿Qué impuestos debo retener al respecto?",
+    "¿Qué pasa si no deduje reservas el año pasado?"
   ]
 }

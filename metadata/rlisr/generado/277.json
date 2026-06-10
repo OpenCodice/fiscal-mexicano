@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:48b268680f1e7903",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de días para residencia fiscal",
+  "denominacion_comun": "Cómputo de días fiscales",
   "temas": [
-    "Residencia fiscal",
-    "Cálculo de días",
-    "Presencia en el país",
-    "Días no contados"
+    "cálculo de días",
+    "presencia física",
+    "viajes de trabajo",
+    "vacaciones",
+    "interrupciones laborales"
   ],
   "terminos_coloquiales": [
-    "días para la residencia",
-    "cálculo de días",
-    "cuántos días debo estar en México",
-    "requisitos para ser residente fiscal"
+    "días fiscales",
+    "días en el país",
+    "trabajo en el extranjero",
+    "vacaciones",
+    "huelgas",
+    "permisos",
+    "días de descanso"
   ],
-  "resumen": "Este artículo establece cómo se deben contar los días para determinar si una persona es residente fiscal en el país. Incluye días de llegada y salida, así como otros días del año, pero no cuenta los días completos en que la persona no está presente en México.",
+  "resumen": "Este artículo establece cómo se deben calcular los días que se consideran para efectos fiscales en relación con la presencia física en el país. Incluye días de llegada y partida, y considera diversas interrupciones laborales y días festivos. No se cuentan los días sin presencia física en el país.",
   "preguntas_ejemplo": [
-    "¿Cuántos días tengo que estar en México para ser residente fiscal?",
-    "¿Se cuentan los fines de semana para la residencia fiscal?",
-    "¿Qué días no se consideran para el cálculo de residencias fiscales?",
-    "¿Qué pasa si estoy en México parte de un día?",
-    "¿Los días festivos cuentan para la residencia fiscal?"
+    "¿Cómo se cuentan los días para efectos fiscales?",
+    "¿Qué días se incluyen en el cómputo de días fiscales?",
+    "¿Se consideran los días de vacaciones en el cálculo fiscal?",
+    "¿Qué pasa si solo estoy en el país parte del día?",
+    "¿Los días de huelga afectan el cálculo de días fiscales?"
   ]
 }

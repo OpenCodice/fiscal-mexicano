@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a71fda404ce9225b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Percepciones laborales",
+  "denominacion_comun": "Percepciones y separación laboral",
   "temas": [
+    "percepciones",
     "prima de antigüedad",
     "retiro",
     "indemnizaciones",
-    "pagos por separación"
+    "pago por separación"
   ],
   "terminos_coloquiales": [
-    "dinero por antigüedad",
-    "indemnización por trabajo",
-    "pago de separación",
-    "cálculo de percepciones"
+    "pago por separación",
+    "indemnización",
+    "dinero por despido"
   ],
-  "resumen": "El artículo establece cómo se determina el total de percepciones laborales al considerar pagos como primas de antigüedad e indemnizaciones, restando ciertos montos establecidos en la ley.",
+  "resumen": "Este artículo trata sobre las percepciones que se reciben por conceptos como prima de antigüedad, retiro e indemnizaciones al momento de una separación laboral, restando ciertos montos establecidos legalmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula mi prima por antigüedad?",
-    "¿Qué incluye el pago por separación?",
-    "¿Qué importancia tienen las indemnizaciones en mi finiquito?",
-    "¿Cómo se determina el total de mis percepciones laborales?",
-    "¿Qué descuentos se aplican a mis indemnizaciones?"
+    "¿Qué cantidad se considera como percepción al separarme de mi trabajo?",
+    "¿Cómo se calcula la prima de antigüedad en caso de despido?",
+    "¿Qué pagos se incluyen en las indemnizaciones por separación?",
+    "¿Qué significa la reducción de percepciones en caso de separación laboral?",
+    "¿Qué conceptos se toman en cuenta para el pago por separación?"
   ]
 }

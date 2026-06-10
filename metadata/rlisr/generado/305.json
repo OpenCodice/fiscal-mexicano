@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0e10a6d49835489b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Subcuenta de Ahorro a Largo Plazo",
+  "denominacion_comun": "Aportaciones a la subcuenta de ahorro a largo plazo",
   "temas": [
     "aportaciones",
-    "subcuenta",
-    "ahorro a largo plazo",
+    "subcuenta de ahorro",
     "cuenta individual",
-    "administradora de fondos",
+    "Sistemas de Ahorro para el Retiro",
+    "retiradas",
     "depósitos",
-    "retiros",
-    "retenciones"
+    "intereses",
+    "SAT"
   ],
   "terminos_coloquiales": [
     "ahorro para el retiro",
-    "subcuenta de ahorro",
-    "dinero guardado",
-    "fondos de ahorro",
-    "ahorro a largo plazo"
+    "subcuenta de ahorro a largo plazo",
+    "retiro de fondos",
+    "SAT"
   ],
-  "resumen": "Los contribuyentes pueden aplicar disposiciones fiscales a sus aportaciones en la subcuenta de ahorro a largo plazo. La administradora de fondos debe tener información disponible para el SAT sobre depósitos y retiros en esta subcuenta.",
+  "resumen": "El artículo establece que los contribuyentes pueden aplicar lo dispuesto en otro artículo de la Ley a las aportaciones de su subcuenta de ahorro a largo plazo. También señala que la administradora de fondos para el retiro debe mantener información disponible para el SAT sobre los depósitos y retiros.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo aportar a mi subcuenta de ahorro a largo plazo?",
-    "¿Qué debe contener el contrato con la administradora de fondos?",
-    "¿Qué información debe proporcionar la administradora al SAT?",
+    "¿Qué puedo hacer con mis aportaciones a la subcuenta de ahorro para el retiro?",
+    "¿Cómo afectan mis retiros de la subcuenta a la declaración fiscal?",
+    "¿Qué información debe mantener mi administradora de fondos para el retiro?",
     "¿Puedo ceder mis ahorros de la subcuenta como garantía?",
-    "¿Qué pasa con los intereses generados en la subcuenta?"
+    "¿Qué implica el artículo 185 de la Ley para mis ahorros?",
+    "¿Cómo se reportan los depósitos a la subcuenta al SAT?"
   ]
 }

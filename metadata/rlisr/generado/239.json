@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:edc9cbabb29be9f5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acumulación de ingresos por intereses y ganancia cambiaria",
+  "denominacion_comun": "Ingresos por intereses y ganancia cambiaria",
   "temas": [
-    "ingresos por intereses",
+    "intereses",
     "ganancia cambiaria",
     "depósitos en el extranjero",
     "inversiones",
-    "Sistema Financiero",
+    "SAT",
     "factor de acumulación"
   ],
   "terminos_coloquiales": [
-    "ingresos de bancos en el extranjero",
-    "ganancias de inversiones en el extranjero",
-    "cómo calcular mis ingresos",
-    "impuestos por intereses",
-    "SAT y ganancia cambiaria"
+    "intereses generados",
+    "ganancia por cambio de moneda",
+    "depósitos en el extranjero",
+    "inversiones en el extranjero",
+    "factor SAT"
   ],
-  "resumen": "Las personas que reciben intereses o ganancias de inversiones en el extranjero pueden elegir cómo calcular sus ingresos acumulables. El SAT publicará un factor de acumulación cada año para ayudar en este cálculo.",
+  "resumen": "Las personas físicas con ingresos por intereses y ganancia cambiaria de inversiones en el extranjero pueden calcular sus ingresos acumulables de dos maneras: usando un artículo de la ley o aplicando un factor publicado por el SAT. Este factor se calcula tomando en cuenta varios aspectos económicos anuales.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los ingresos por intereses en el extranjero?",
-    "¿Qué es la ganancia cambiaria?",
-    "¿Dónde puedo encontrar el factor de acumulación del SAT?",
-    "¿Qué opciones tengo para reportar mis ingresos por inversiones en el extranjero?",
-    "¿Cuándo publica el SAT los factores de acumulación?"
+    "¿Cómo cálculo mis ingresos por intereses en depósitos extranjeros?",
+    "¿Qué es el factor de acumulación que publica el SAT?",
+    "¿Puedo optar por dos métodos para calcular mi ganancia cambiaria?",
+    "¿Qué incluye el cálculo del factor de acumulación del SAT?",
+    "¿Dónde puedo encontrar el factor de acumulación para cada año?",
+    "¿Qué son las ganancias cambiarias y cómo afectan mis impuestos?"
   ]
 }

@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a81062837382230d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Constancia de gastos comunes",
   "temas": [
     "gastos comunes",
     "comprobantes fiscales",
+    "constancia",
+    "impuestos",
+    "personas físicas",
     "servicios",
-    "arrendamientos",
-    "bien enajenado"
+    "arrendamiento",
+    "enajenación"
   ],
   "terminos_coloquiales": [
-    "recibo de gastos compartidos",
     "comprobante de gastos comunes",
-    "constancia de gastos",
-    "gastos de grupo"
+    "recibo de gastos compartidos",
+    "gastos compartidos",
+    "constancia de gasto",
+    "RFC",
+    "CURP"
   ],
-  "resumen": "Este artículo establece que los grupos coordinados deben comprobar sus gastos comunes mediante una constancia emitida por el contribuyente que pidió los comprobantes. La constancia debe incluir información específica sobre las partes involucradas, la operación y el monto de los gastos.",
+  "resumen": "Este artículo establece que los integrantes de un grupo que realice gastos comunes deben comprobar esos gastos mediante una constancia. La constancia debe incluir información específica sobre los participantes y la operación realizada.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para comprobar gastos compartidos?",
-    "¿Cómo se elabora una constancia de gastos comunes?",
-    "¿Qué información debe contener un recibo de gastos comunes?",
-    "¿Quién puede emitir una constancia de gastos?",
-    "¿Qué es un comprobante de gastos comunes?"
+    "¿Qué es una constancia de gastos comunes?",
+    "¿Cómo se deben comprobar los gastos compartidos?",
+    "¿Qué información debe tener la constancia de gastos comunes?",
+    "¿Qué requisitos hay para presentar un comprobante de gastos?",
+    "¿Qué datos necesita incluir el RFC en la constancia?"
   ]
 }

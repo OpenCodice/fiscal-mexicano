@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:21155a023af43094",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de Viáticos en Declaración Anual",
+  "denominacion_comun": "Viáticos",
   "temas": [
-    "viáticos",
-    "ingresos",
     "declaración anual",
-    "contribuyentes",
+    "ingresos por viáticos",
+    "límite de viáticos",
     "servicio personal subordinado"
   ],
   "terminos_coloquiales": [
+    "gastos de viaje",
+    "viáticos",
     "declaración de impuestos",
-    "ingresos por viáticos",
-    "exención de viáticos",
-    "viáticos y declaración",
-    "dinero no declarado"
+    "ingresos",
+    "patrón"
   ],
-  "resumen": "Los contribuyentes no tienen que reportar en su declaración anual los ingresos por viáticos si no superan ciertos límites. Si los viáticos son menores a un monto específico y no representan más del 10% de los ingresos totales del año, no es necesario incluirlos.",
+  "resumen": "Los contribuyentes no tienen que reportar en su declaración anual los ingresos por viáticos que no superen $500,000, siempre y cuando no representen más del 10% de los ingresos del patrón. Esto incluye el costo de boletos de transporte pagados por el patrón.",
   "preguntas_ejemplo": [
-    "¿Cuánto puedo recibir de viáticos sin declararlo?",
-    "¿Qué ingresos no tengo que reportar en mi declaración?",
-    "¿Los viáticos cuentan como ingresos en la declaración anual?",
-    "¿Qué pasa si mis viáticos son menores a $500,000?",
-    "¿Cómo se calculan los viáticos que no necesito declarar?"
+    "¿Cuánto puedo recibir de viáticos sin reportarlo?",
+    "¿Los viáticos que pago a mis empleados cuentan para su declaración de impuestos?",
+    "¿Qué límites existen para los viáticos en la declaración de impuestos?",
+    "¿Necesito justificar los viáticos pagados por mi patrón?",
+    "¿Qué pasa si mis viáticos superan el 10% de mis ingresos?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1aeec1790fd37d3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre intereses",
+  "denominacion_comun": "Intereses de depósitos y créditos",
   "temas": [
-    "contribuyentes",
-    "impuesto del ejercicio",
-    "intereses",
-    "depósitos en el extranjero",
-    "créditos y préstamos"
+    "Impuesto del ejercicio",
+    "Intereses",
+    "Depósitos en el extranjero",
+    "Préstamos a residentes",
+    "Ajuste anual por inflación",
+    "Pérdidas fiscales"
   ],
   "terminos_coloquiales": [
-    "impuesto por intereses",
-    "intereses extranjeros",
-    "pérdidas por intereses",
-    "opción de declarar intereses",
-    "deducción de intereses"
+    "intereses",
+    "depósitos en el extranjero",
+    "préstamos a extranjeros",
+    "pérdida fiscal"
   ],
-  "resumen": "Los contribuyentes personas físicas pueden optar por un régimen para calcular el impuesto sobre los intereses obtenidos de depósitos y préstamos, ya sea en el extranjero o en México. Si las deducciones por ajuste anual son mayores que los intereses ganados, se considera una pérdida que se puede aplicar en el ejercicio actual o en los siguientes cuatro años.",
+  "resumen": "Los contribuyentes pueden optar por un régimen especial para calcular el impuesto sobre los ingresos obtenidos por intereses de depósitos y préstamos. Si los ajustes por inflación superan los intereses ganados, se reconoce una pérdida que se puede compensar en años posteriores.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los impuestos sobre los intereses que gané?",
-    "¿Puedo deducir las pérdidas de intereses este año?",
-    "¿Qué opciones tengo para declarar mis intereses?",
-    "¿Los intereses de préstamos en el extranjero se gravan?",
-    "¿Cuántos años puedo aplicar mis pérdidas por intereses?"
+    "¿Qué impuestos se aplican a los intereses de mis depósitos en el extranjero?",
+    "¿Qué pasa si mis intereses son menores que la inflación?",
+    "¿Puedo cambiar de régimen si opto por el cálculo de intereses extranjeros?",
+    "¿Cómo se manejan las pérdidas por intereses en la declaración anual?",
+    "¿Qué tipos de préstamos están sujetos a este régimen?"
   ]
 }

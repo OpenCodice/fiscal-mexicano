@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b44a488718231ef9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Programas de Escuela Empresa",
   "temas": [
     "donativos deducibles",
-    "contribuyentes",
+    "personas morales",
     "obligaciones fiscales",
-    "personas autorizadas"
+    "contribuyentes",
+    "autorización",
+    "asociaciones civiles",
+    "educación"
   ],
   "terminos_coloquiales": [
     "escuela empresa",
-    "donaciones a escuelas",
-    "programas educativos",
-    "deducción de impuestos"
+    "donativos",
+    "donatarias",
+    "deducción de impuestos",
+    "programas educativos"
   ],
-  "resumen": "Los programas de escuela empresa que no tienen personalidad jurídica y están vinculados a instituciones que pueden recibir donativos deducibles no son considerados como contribuyentes del Impuesto. Además, la institución donataria es responsable de las actividades y obligaciones fiscales de estos programas.",
+  "resumen": "Los programas de escuela empresa que no tienen personalidad jurídica propia no son contribuyentes del impuesto sobre la renta. La donataria autorizada es responsable de cumplir con las obligaciones fiscales y recibirá los donativos deducibles correspondientes.",
   "preguntas_ejemplo": [
     "¿Los programas de escuela empresa tienen que pagar impuestos?",
-    "¿Qué son los donativos deducibles?",
-    "¿Quién es responsable de los impuestos en un programa escuela empresa?",
-    "¿Cómo funcionan los donativos a las escuelas?",
-    "¿Qué tipo de instituciones pueden recibir donativos deducibles?"
+    "¿Qué son los donativos deducibles para una escuela empresa?",
+    "¿Quién se encarga de las obligaciones fiscales en un programa de escuela empresa?",
+    "¿Pueden recibir donativos las escuelas que no tienen personalidad jurídica?",
+    "¿Qué tipo de autorización necesita un programa de escuela empresa?",
+    "¿Cómo se relacionan las donatarias con los programas de escuela empresa?"
   ]
 }

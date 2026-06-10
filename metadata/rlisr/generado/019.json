@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5e598f1278c226d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estimación de obras",
+  "denominacion_comun": "Estimaciones de obra",
   "temas": [
-    "autorización",
+    "residencial",
+    "supervisión de obra",
+    "estimaciones",
     "aprobación",
-    "estimación",
-    "supervisión",
-    "obra"
+    "conformidad"
   ],
   "terminos_coloquiales": [
-    "cómo se aprueba una estimación",
-    "firma de estimación de obra",
-    "quién autoriza estimaciones",
-    "fecha de aprobación de obra"
+    "chequeo de avance",
+    "firma de estimaciones",
+    "aprobación de obra"
   ],
-  "resumen": "Se considera que una estimación de obra está autorizada cuando la persona encargada de la supervisión la firma. Esta firma indica que se está de acuerdo con el avance de la obra.",
+  "resumen": "El artículo establece que una estimación de obra se considera autorizada en el momento que la persona encargada de supervisar firme su conformidad. Esto asegura que el avance de la obra sea verificado y aprobado formalmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se aprueba una estimación de avance en la obra?",
-    "¿Quién puede firmar la estimación de obra?",
-    "¿Qué se necesita para que una estimación sea válida?",
-    "¿Cuándo se considera que una estimación está autorizada?"
+    "¿Cuándo se considera aprobada una estimación de obra?",
+    "¿Quién firma la conformidad de la estimación?",
+    "¿Qué significa que una estimación esté autorizada?",
+    "¿Cómo se verifica el avance de la obra?",
+    "¿Qué documentos son necesarios para la aprobación de estimaciones?"
   ]
 }

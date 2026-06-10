@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c81539611e3ba4c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración anual de personas físicas",
+  "denominacion_comun": "Declaración Anual para Servidores Públicos",
   "temas": [
     "personas físicas",
     "ingresos",
-    "servicios personales subordinados",
+    "servicio personal subordinado",
     "declaración anual",
     "deducciones"
   ],
   "terminos_coloquiales": [
-    "declaración de impuestos",
+    "declaración",
     "declaración anual",
-    "deducción de impuestos",
-    "impuestos a favor"
+    "cambiar saldo a favor",
+    "ingresos salariales"
   ],
-  "resumen": "Las personas que solo reciben ingresos por servicios subordinados pueden presentar su declaración anual si tienen un saldo a su favor por deducciones. Esto es útil para quienes no están obligados a hacerlo normalmente.",
+  "resumen": "Las personas que solo reciben ingresos por un trabajo subordinado y no tienen obligación de presentar la declaración anual pueden hacerlo si tienen un saldo a favor por deducciones permitidas. Esto les permite recuperar el monto de impuestos pagados.",
   "preguntas_ejemplo": [
-    "¿Puedo presentar mi declaración anual si solo tengo un sueldo?",
-    "¿Qué pasa si no estoy obligado a declarar pero tengo saldo a favor?",
+    "¿Tengo que presentar mi declaración si solo trabajo bajo un contrato?",
+    "¿Cómo puedo obtener un saldo a favor en mi declaración?",
     "¿Qué deducciones puedo aplicar en mi declaración anual?",
-    "¿Qué tipo de ingresos me permiten hacer la declaración?",
-    "¿Cómo saber si debo presentar mi declaración de impuestos?",
-    "¿Cuándo puedo reclamar un saldo a favor en mis impuestos?"
+    "Si no estoy obligado a declarar, ¿puedo hacerlo de todas formas?",
+    "¿Qué es la declaración anual para trabajadores subordinados?"
   ]
 }

@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8b4c106696708b9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ganancias por enajenación de inmuebles en copropiedad",
+  "denominacion_comun": "Ganancia por enajenación de inmuebles",
   "temas": [
-    "enajenación de inmuebles",
     "copropiedad",
     "ganancia",
-    "deducciones"
+    "enajenación de inmuebles",
+    "deducciones",
+    "sucesiones"
   ],
   "terminos_coloquiales": [
-    "venta de propiedades en copropiedad",
-    "ganancias por venta de casas compartidas",
-    "impuestos por venta de inmuebles",
-    "cómo se reparte la ganancia en copropiedad"
+    "venta de propiedades",
+    "ganancias por venta",
+    "deducciones fiscales",
+    "herencias",
+    "casa compartida"
   ],
-  "resumen": "Cuando varias personas son copropietarias de un inmueble y lo venden, cada uno debe calcular su ganancia de acuerdo a su parte de propiedad. Si no se pueden identificar las deducciones, se dividen proporcionalmente entre los copropietarios.",
+  "resumen": "Este artículo establece cómo deben determinarse las ganancias en la venta de inmuebles que pertenecen a varias personas. Cada copropietario calculará su parte de la ganancia y, si no se pueden identificar las deducciones, estas se repartirán conforme a los derechos de copropiedad.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias al vender una casa compartida?",
-    "¿Qué pasa si no puedo identificar las deducciones en una venta en copropiedad?",
-    "¿Cómo afecta la venta de un inmueble en copropiedad a los impuestos de cada dueño?",
-    "¿Qué debo hacer si soy heredero y vendo una propiedad en conjunto con otros?"
+    "¿Cómo se calcula la ganancia si tengo una propiedad con otras personas?",
+    "¿Qué sucede con las deducciones en la venta de una casa compartida?",
+    "¿Qué debo hacer si soy heredero y quiero vender un inmueble?",
+    "¿Cómo se aplica la ley para las ganancias en ventas de inmuebles heredados?"
   ]
 }

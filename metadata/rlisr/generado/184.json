@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:518c142af722cf01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aplicabilidad de artículos",
+  "denominacion_comun": "Aplicación de disposiciones fiscales",
   "temas": [
-    "disposiciones del Título IV",
-    "Capítulo II",
-    "artículos del Título II",
-    "personas físicas con actividades empresariales",
-    "actividades profesionales"
+    "reglamento fiscal",
+    "personas físicas",
+    "actividades empresariales",
+    "actividades profesionales",
+    "artículos aplicables"
   ],
   "terminos_coloquiales": [
-    "aplicabilidad de leyes",
+    "reglamento de la Ley del ISR",
+    "disposiciones fiscales",
     "artículos aplicables",
-    "Régimen de Personas Físicas",
-    "Título IV"
+    "personas físicas con actividad empresarial"
   ],
-  "resumen": "Este artículo establece que los artículos del Título II de la Ley son aplicables en el contexto del Capítulo II del Título IV, así como los artículos del reglamento correspondiente. Esto se refiere a las personas físicas que realizan actividades empresariales y profesionales.",
+  "resumen": "Este artículo establece que ciertas disposiciones del Título IV, Capítulo II de la Ley son aplicables según los artículos del Título II de la Ley, junto con los artículos del Reglamento pertinentes. Se refiere a la normativa que rige a las personas físicas con actividades empresariales y profesionales.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los artículos aplicables para personas físicas en el Capítulo II?",
-    "¿Qué disposición menciona la aplicabilidad de artículos entre Títulos?",
-    "¿Qué se dice sobre las personas con actividades empresariales en este artículo?",
-    "¿Cómo se relacionan los Títulos de la Ley entre sí?",
-    "¿Qué artículos del reglamento son relevantes para el Título IV?"
+    "¿Qué disposiciones fiscales aplican a las personas físicas con actividades empresariales?",
+    "¿Cómo se relacionan los artículos del Título II con el Capítulo II del Título IV?",
+    "¿Dónde encuentro el reglamento que aplica a actividades profesionales?",
+    "¿Qué artículos del Reglamento son relevantes para este capítulo?",
+    "¿Qué significa que sean aplicables determinados artículos de la Ley?"
   ]
 }

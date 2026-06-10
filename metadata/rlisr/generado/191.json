@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a0ff13056bc32e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Establecimientos permanentes y servicios profesionales",
+  "denominacion_comun": "Establecimiento Permanente",
   "temas": [
-    "establecimiento permanente",
     "servicios profesionales",
     "ingresos",
-    "contribuyentes"
+    "establecimientos permanentes",
+    "disposición de locales"
   ],
   "terminos_coloquiales": [
-    "trabajo independiente",
-    "servicios de un profesional",
-    "negocio permanente",
-    "ingresos por servicios"
+    "local para servicios",
+    "servicios profesionales",
+    "establecimiento permanente",
+    "ingresos no esporádicos"
   ],
-  "resumen": "Cuando un contribuyente tiene un local para ofrecer servicios profesionales, esos ingresos no se ven como esporádicos. Esto implica que deben ser considerados de manera continua.",
+  "resumen": "El artículo establece que si un contribuyente utiliza un local como establecimiento permanente para prestar servicios profesionales, los ingresos que genere no se consideran esporádicos. Esto implica una regularidad en la obtención de dichos ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un establecimiento permanente?",
-    "¿Cómo se trata el ingreso por servicios de un profesional?",
-    "¿Los ingresos por servicios son esporádicos si tengo un local?",
-    "¿Qué implicaciones fiscales tiene contar con un establecimiento permanente?",
-    "¿Qué significa prestar servicios desde un local para la fiscalidad?"
+    "¿Qué se considera un establecimiento permanente para servicios profesionales?",
+    "¿Los ingresos de servicios en un local se consideran esporádicos?",
+    "¿Cómo afecta el uso de un local a mis ingresos por servicios profesionales?",
+    "¿Qué implica tener un local para prestar servicios profesionales?",
+    "¿Cuándo se clasifica un ingreso como no esporádico?"
   ]
 }

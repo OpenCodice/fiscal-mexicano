@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c13cd8e4bbc57f10",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de Impuesto por Enajenación de Acciones",
+  "denominacion_comun": "Exenciones por tratado para residentes",
   "temas": [
-    "tratados de doble imposición",
     "exenciones fiscales",
-    "acciones y títulos valor",
-    "operaciones en bolsa",
-    "residencia fiscal"
+    "doble imposición",
+    "enajenación de acciones",
+    "activos en bolsa",
+    "intermediarios financieros",
+    "identificación fiscal"
   ],
   "terminos_coloquiales": [
-    "no pagar impuestos por acciones",
-    "tratado para evitar doble imposición",
-    "exención por venta de acciones",
-    "cómo evitar pagar impuestos en Bolsa"
+    "residente en otro país",
+    "tratado internacional",
+    "acciones",
+    "bolsa de valores",
+    "número de registro",
+    "retención de impuestos"
   ],
-  "resumen": "Los residentes en países con tratados fiscales con México pueden estar exentos de impuestos al vender acciones, siempre que se cumplan ciertos requisitos. Deben entregar información al intermediario financiero para beneficiarse de esta exención.",
+  "resumen": "Esta disposición establece que los residentes en países con tratados para evitar la doble imposición pueden estar exentos del pago de impuestos al vender acciones, siempre que se cumplan ciertas condiciones. También señala que el contribuyente debe proporcionar documentación al intermediario para evitar retenciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden evitar pagar impuestos al vender acciones?",
-    "¿Qué debo hacer para estar exento de impuestos por enajenación de acciones?",
-    "¿Qué información necesita el intermediario para aplicar la exención?",
-    "¿Cuándo estoy exento del pago de impuestos por acciones?",
-    "¿Qué es el tratado de doble imposición?"
+    "¿Cómo puedo evitar la doble imposición si soy residente en otro país?",
+    "¿Qué requisitos debo cumplir para no pagar impuestos al vender acciones?",
+    "¿Cómo funciona la retención de impuestos en estos casos?",
+    "¿Qué información necesito dar al intermediario financiero?",
+    "¿Qué es un tratado para evitar la doble imposición?"
   ]
 }

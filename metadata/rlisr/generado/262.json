@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3977267ec876abc1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso Exento en Declaración Anual",
+  "denominacion_comun": "Ingresos Exentos y R.F.C.",
   "temas": [
-    "ingresos exentos",
-    "registro federal de contribuyentes",
     "declaración anual",
-    "obligaciones fiscales"
+    "ingresos exentos",
+    "inscripción R.F.C.",
+    "ingresos por enajenación",
+    "herencias",
+    "legados"
   ],
   "terminos_coloquiales": [
-    "declaración de ingresos exentos",
-    "registra ingresos sin pagar impuestos",
-    "cómo declarar ingresos exentos",
-    "ingresos libres de impuestos"
+    "ingresos libres de impuestos",
+    "R.F.C.",
+    "declaración de impuestos",
+    "avisos fiscales"
   ],
-  "resumen": "El artículo establece que las personas físicas deben informar sobre sus ingresos exentos en la declaración anual y cumplir con requisitos específicos de registro ante el SAT dependiendo del monto de sus ingresos. Si sus ingresos exentos exceden una cierta cantidad, deben registrarse en el RFC.",
+  "resumen": "Las personas físicas deben informar sobre sus ingresos exentos en la declaración anual. Si reciben ingresos por la venta de su casa, herencias o legados que superen los $500,000, deben inscribirse en el R.F.C. sin necesidad de presentar un aviso adicional si cumplen con ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cómo debo declarar mis ingresos exentos?",
-    "¿Tengo que registrarme si solo vendo mi casa?",
-    "¿Qué ingresos se consideran exentos de impuestos?",
-    "¿Qué pasa si mis ingresos son mayores a $500,000?",
-    "¿Necesito un aviso si ya estoy registrado en el RFC?"
+    "¿Qué son los ingresos exentos en la declaración anual?",
+    "¿Necesito inscribirme en el R.F.C. si vendo mi casa?",
+    "¿Cuáles son los ingresos que no se gravan con impuestos?",
+    "¿Qué pasa si mis ingresos superan los $500,000?",
+    "¿Cómo informo sobre herencias en mi declaración?",
+    "¿Debo presentar un aviso si tengo ingresos exentos?"
   ]
 }

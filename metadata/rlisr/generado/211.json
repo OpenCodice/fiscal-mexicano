@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:95f031de17e5e536",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de adquisición en herencias",
+  "denominacion_comun": "Costo de adquisición de inmuebles",
   "temas": [
     "herencia",
     "legado",
     "donación",
-    "bienes inmuebles",
+    "inmuebles",
     "valor de avalúo",
-    "dominio pleno",
-    "Registro Agrario Nacional"
+    "fecha de adquisición",
+    "ejidatario",
+    "dominio pleno"
   ],
   "terminos_coloquiales": [
-    "costo de propiedad heredada",
-    "valor de la herencia",
-    "avaluos de casa heredada",
-    "fecha de adquisición de herencia"
+    "costo de compra de terrenos",
+    "herencia de propiedades",
+    "valor de la casa",
+    "fecha de compra",
+    "título de propiedad"
   ],
-  "resumen": "Este artículo establece cómo se determina el costo de adquisición de inmuebles recibidos por herencia, legado o donación, específicamente para ejidatarios. Se considera el valor de avalúo y la fecha de expedición del título de propiedad del Registro Agrario Nacional.",
+  "resumen": "El artículo establece cómo se determina el costo de adquisición de un inmueble recibido por herencia, legado o donación, considerando el valor de avalúo y la fecha de expedición del título de propiedad. Esto aplica específicamente a inmuebles en los que un ejidatario ha asumido el dominio pleno.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de una herencia de propiedades?",
-    "¿Qué valor se toma para las casas heredadas?",
-    "¿Qué es el dominio pleno en herencias?",
-    "¿Qué documentos necesito para registrar una propiedad heredada?",
-    "¿Cómo se determina la fecha de adquisición de un inmueble heredado?"
+    "¿Cómo se determina el costo de un inmueble heredado?",
+    "¿Qué valor se utiliza para calcular impuestos sobre una propiedad recibida por herencia?",
+    "¿Cuál es la fecha de adquisición de un inmueble donado?",
+    "¿Qué se considera como título de propiedad en este caso?",
+    "¿Los ejidatarios tienen un tratamiento especial al adquirir propiedades?"
   ]
 }

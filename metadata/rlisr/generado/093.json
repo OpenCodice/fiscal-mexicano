@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a413a8ac7f9c7568",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Información financiera para el SAT",
+  "denominacion_comun": "Información sobre intereses y enajenación de acciones",
   "temas": [
-    "sistema financiero",
     "intereses",
-    "acciones",
-    "información fiscal",
-    "RFC",
-    "CURP",
+    "ganancia por enajenación de acciones",
+    "pérdida por enajenación de acciones",
+    "identificación de contribuyentes",
+    "sistema financiero",
+    "reportes al SAT",
     "fideicomisos"
   ],
   "terminos_coloquiales": [
-    "reportes del banco al SAT",
-    "intereses que paga el banco",
-    "que información dan los bancos al SAT",
-    "declaración de intereses y acciones",
-    "bancos y contribuyentes"
+    "intereses bancarios",
+    "ganancias de inversiones",
+    "pérdidas de inversiones",
+    "clave RFC",
+    "número de identificación fiscal",
+    "fideicomiso"
   ],
-  "resumen": "Este artículo establece que las instituciones financieras deben proporcionar información al SAT sobre los intereses pagados y las ganancias o pérdidas de acciones de sus clientes, usando identificadores como el RFC o CURP. También se detalla qué hacer si hay discrepancias en los registros.",
+  "resumen": "Las instituciones financieras deben reportar información sobre intereses y ganancias o pérdidas de acciones a las autoridades fiscales, identificando a los contribuyentes mediante su RFC o número de identificación fiscal. Si hay inconsistencias, deben informar el nombre y domicilio del contribuyente al SAT.",
   "preguntas_ejemplo": [
-    "¿Qué información deben dar los bancos al SAT?",
-    "¿Cómo se reportan los intereses al SAT?",
-    "¿Qué pasa si no tengo RFC?",
-    "¿Qué deben informar los bancos sobre los fideicomisos?",
-    "¿Qué sucede si hay un error en mis datos ante el SAT?"
+    "¿Cómo se reportan los intereses que pago en el banco al SAT?",
+    "¿Qué información deben enviar las instituciones financieras sobre mis ganancias de acciones?",
+    "¿Qué hacer si mi RFC no coincide con el del SAT?",
+    "¿Qué documentos necesito si no tengo RFC pero soy residente en el extranjero?",
+    "¿Cómo se identifican los fideicomisos ante el SAT?",
+    "¿Qué información debo proporcionar si no tengo RFC?"
   ]
 }

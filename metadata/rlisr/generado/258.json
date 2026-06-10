@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:440b2a1966877f2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aportaciones a Fondos de Retiro",
+  "denominacion_comun": "Aportaciones a planes de retiro",
   "temas": [
-    "Aportaciones",
-    "Planes de Retiro",
-    "Pensión",
-    "Jubilación",
-    "Requisitos de Permanencia",
-    "Salario Anual",
-    "Contribuyentes"
+    "aportaciones",
+    "fondos de pensiones",
+    "jubilación",
+    "requisitos de permanencia",
+    "ingresos",
+    "salario anual"
   ],
   "terminos_coloquiales": [
-    "aporte a mi fondo de retiro",
-    "cómo funcionan las aportaciones a pensiones",
-    "límites de aportación a jubilación",
-    "requisitos para planes de retiro",
-    "qué pasa si dispongo de mi fondo de pensión"
+    "planes de pensiones",
+    "jubilaciones",
+    "aportaciones a la jubilación",
+    "ahorros para la jubilación"
   ],
-  "resumen": "Este artículo trata sobre las aportaciones que los contribuyentes pueden hacer a planes personales de retiro y a fondos de pensiones, así como los requisitos que deben cumplir. También menciona las implicaciones fiscales si se disponen de estos fondos antes de la jubilación.",
+  "resumen": "Se consideran aportaciones a planes personales de retiro las realizadas por el trabajador a fondos de pensiones, siempre que se cumplan ciertos requisitos. Si se retiran esas aportaciones para otros fines, se considerarán ingresos gravables.",
   "preguntas_ejemplo": [
-    "¿Qué son las aportaciones a los fondos de pensiones?",
-    "¿Cuánto puedo aportar a mi plan de retiro?",
-    "¿Qué pasa si retiro mi dinero de un fondo de pensión?",
-    "¿Cuáles son los requisitos para realizar aportaciones a mi jubilación?",
-    "¿Cómo se calcula el porcentaje de aportación permitido?"
+    "¿Qué son las aportaciones a planes de retiro?",
+    "¿Cómo se contabilizan las aportaciones a fondos de pensiones?",
+    "¿Qué pasa si retiro mi ahorro de pensión antes de jubilarme?",
+    "¿Cuánto puedo aportar a mi plan de pensiones?",
+    "¿Qué requisitos debo cumplir para mis aportaciones a jubilación?"
   ]
 }

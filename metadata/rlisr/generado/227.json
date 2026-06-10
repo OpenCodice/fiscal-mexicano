@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:734881359df39321",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Factor de intereses",
+  "denominacion_comun": "Cálculo de factor para intereses",
   "temas": [
+    "intereses",
+    "factor financiero",
     "Índice Nacional de Precios al Consumidor",
-    "Calculo de intereses",
-    "Sistema financiero",
-    "Inversiones",
-    "Estimativas diarias"
+    "inversión",
+    "estimativa diaria"
   ],
   "terminos_coloquiales": [
-    "cómo calcular intereses",
+    "cálculo de intereses",
     "factor de intereses",
-    "índice de precios",
-    "cálculo de inversiones"
+    "INPC",
+    "sistema financiero"
   ],
-  "resumen": "Este artículo establece cómo calcular un factor aplicable a intereses generados por inversiones, basándose en el Índice Nacional de Precios al Consumidor. Se consideran los días correspondientes a la inversión para determinar dicho factor.",
+  "resumen": "Este artículo explica cómo las instituciones financieras deben calcular un factor que se aplica a los intereses generados por inversiones, usando el Índice Nacional de Precios al Consumidor. Se detalla el procedimiento para obtener este factor en base a la estimativa diaria del INPC.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el factor de intereses para mis inversiones?",
-    "¿Qué es el Índice Nacional de Precios al Consumidor y cómo afecta mis intereses?",
-    "¿Cuál es la fórmula para determinar el factor aplicable a los intereses?",
-    "¿Qué pasa si la inversión dura varios días?",
-    "¿Dónde puedo encontrar el Índice Nacional de Precios al Consumidor?"
+    "¿Qué es el Índice Nacional de Precios al Consumidor en relación a los intereses?",
+    "¿Cómo influye el INPC en el cálculo de mis intereses?",
+    "¿Qué pasos debo seguir para conocer el factor aplicable a mis intereses?",
+    "¿Las instituciones financieras usan el mismo método para calcular intereses?"
   ]
 }

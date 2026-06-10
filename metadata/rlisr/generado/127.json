@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f00bea160e1f045",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones fiscales de asociaciones civiles",
@@ -13,21 +14,23 @@
     "asociaciones civiles",
     "obligaciones fiscales",
     "impuesto",
-    "cámaras empresariales"
+    "cuotas anuales",
+    "ingresos",
+    "cámaras empresariales",
+    "confederaciones empresariales"
   ],
   "terminos_coloquiales": [
-    "impuestos de asociaciones",
-    "asociaciones fiscales",
-    "cuotas anuales",
-    "cámaras y confederaciones",
-    "obligaciones fiscales de ASOCIV"
+    "asociaciones civiles",
+    "impuesto sobre la renta",
+    "cuotas",
+    "obligaciones fiscales"
   ],
-  "resumen": "Las asociaciones civiles que tengan el mismo objetivo que las cámaras empresariales pueden pagar impuestos solo por ciertas cuotas de sus miembros. Por otros ingresos, deben cumplir con diferentes reglas fiscales.",
+  "resumen": "Las asociaciones civiles con un objeto social similar al de las cámaras y confederaciones empresariales pueden cumplir con sus obligaciones fiscales solo por los ingresos de cuotas de sus miembros. Para otros ingresos, deben seguir diferentes reglas fiscales según la ley.",
   "preguntas_ejemplo": [
+    "¿Qué obligaciones fiscales tienen las asociaciones civiles?",
     "¿Cómo deben pagar impuestos las asociaciones civiles?",
-    "¿Las asociaciones civiles tienen obligaciones fiscales?",
-    "¿Qué ingresos están exentos de impuestos para asociaciones?",
-    "¿Qué pasa si una asociación no paga sus impuestos?",
-    "¿Qué son las cuotas anuales ordinarias y extraordinarias?"
+    "¿Qué ingresos son considerados para el impuesto en asociaciones civiles?",
+    "¿Pueden las asociaciones cumplir con sus obligaciones fiscales solo por las cuotas de sus miembros?",
+    "¿Qué tipos de ingresos deben tributar las asociaciones civiles?"
   ]
 }

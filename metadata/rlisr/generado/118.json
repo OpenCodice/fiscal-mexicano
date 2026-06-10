@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3abf691de85a7431",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Utilidad distribuida por reducción de capital",
+  "denominacion_comun": "Reembolso por reducción de capital",
   "temas": [
-    "reembolso por acción",
+    "utilidad distribuida",
+    "reducción de capital",
     "cuenta de capital de aportación",
-    "utilidad fiscal neta",
-    "reducción de capital"
+    "cuenta de utilidad fiscal neta"
   ],
   "terminos_coloquiales": [
-    "cómo se distribuyen las utilidades",
-    "reembolso de acciones",
-    "reducción de capital en mi empresa",
-    "cuánto puedo reembolsar",
-    "utilidades fiscales",
-    "calculadora de reembolso"
+    "reembolso",
+    "reducción de capital",
+    "utilidades",
+    "cuenta de aportaciones",
+    "reducción de acciones"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden disminuir el reembolso por acción con el saldo de la cuenta de capital de aportación y la cuenta de utilidad fiscal neta al calcular la utilidad distribuida. Sin embargo, esta disminución no puede exceder el monto total del reembolso o la utilidad distribuida determinada.",
+  "resumen": "Este artículo establece las condiciones para que los contribuyentes disminuyan el reembolso por acción al calcular la utilidad distribuida por la reducción de capital. También señala qué cuentas pueden utilizarse para realizar estas disminuciones.",
   "preguntas_ejemplo": [
-    "¿Qué es una utilidad distribuida por reducción de capital?",
-    "¿Cómo afecta el reembolso por acción a mis impuestos?",
-    "¿Puedo restar algo del reembolso de acciones?",
-    "¿Qué es la cuenta de capital de aportación?",
-    "¿Cómo calculo la utilidad fiscal neta?"
+    "¿Cómo se calcula la utilidad distribuida al reducir capital?",
+    "¿Puedo disminuir el reembolso al distribuir utilidades por reducción de capital?",
+    "¿Qué cuentas se consideran al hacer un reembolso por reducción de capital?",
+    "¿Qué pasa si el reembolso es menor que la cuenta de capital de aportación?",
+    "¿Cómo afectan las utilidades fiscales a la reducción de capital?"
   ]
 }

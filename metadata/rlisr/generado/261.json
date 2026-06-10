@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80deedd54cb89fac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaraciones fiscales por fallecimiento",
+  "denominacion_comun": "Declaraciones por fallecimiento",
   "temas": [
-    "declaraciones fiscales",
     "fallecimiento",
-    "sucesiones",
-    "impuesto sobre la renta",
-    "herederos",
-    "legatarios",
-    "ingresos devengados"
+    "declaración de impuestos",
+    "herencia",
+    "ingresos no percibidos",
+    "impuesto sobre la renta"
   ],
   "terminos_coloquiales": [
-    "declaración de impuestos por muerte",
-    "declaraciones de herencia",
-    "impuestos después de fallecimiento",
-    "ingresos del fallecido",
-    "obligaciones fiscales del albacea"
+    "declaración de herencia",
+    "pago de impuestos de sucesión",
+    "declaración post mortem",
+    "herencia",
+    "sucesión"
   ],
-  "resumen": "El artículo establece que el albacea debe presentar una declaración de impuestos por los ingresos del fallecido dentro de los noventa días después de asumir el cargo. También detalla cómo se tratan los ingresos no percibidos en vida del autor de la sucesión, algunos de los cuales están exentos de impuestos para los herederos.",
+  "resumen": "Este artículo establece que el albacea debe presentar una declaración de impuestos en nombre del fallecido dentro de los noventa días posteriores al nombramiento. Los ingresos no percibidos en vida del fallecido tienen tratamientos fiscales específicos según su naturaleza.",
   "preguntas_ejemplo": [
-    "¿Qué debe hacer el albacea después de un fallecimiento?",
-    "¿Qué ingresos se declaran tras una sucesión?",
-    "¿Los herederos deben pagar impuestos por los ingresos no percibidos del fallecido?",
-    "¿Cuáles son las excepciones al pago del impuesto para herederos?",
-    "¿Cuál es el plazo para presentar la declaración tras el fallecimiento?"
+    "¿Qué debo hacer si alguien fallece y tenía que presentar declaraciones de impuestos?",
+    "¿Cómo se declaran los ingresos de una persona que ha fallecido?",
+    "¿Qué sucede con los impuestos de sucesión?",
+    "¿Los herederos tienen que pagar impuestos por los ingresos no percibidos del fallecido?",
+    "¿Qué ingresos están exentos de impuestos en caso de fallecimiento?"
   ]
 }

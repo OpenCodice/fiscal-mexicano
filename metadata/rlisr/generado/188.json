@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:205ae70cf7bd1e71",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de peajes",
   "temas": [
-    "Deducción fiscal",
-    "Peajes",
-    "Comprobantes fiscales",
-    "Identificación automática vehicular"
+    "deducciones",
+    "cuotas de peaje",
+    "comprobantes fiscales",
+    "sistemas de identificación vehicular",
+    "sistemas electrónicos de pago"
   ],
   "terminos_coloquiales": [
-    "¿Puedo deducir peajes?",
-    "Comprobante de peaje",
-    "Gastos de carretera",
-    "Peajes deducibles"
+    "deducir peajes",
+    "comprobantes de peaje",
+    "tarjeta de peaje",
+    "pago electrónico de peajes"
   ],
-  "resumen": "Los contribuyentes pueden deducir los gastos de peaje en carreteras con identificación automática si cuentan con el comprobante fiscal y el complemento de pago correspondiente.",
+  "resumen": "Este artículo establece que los contribuyentes pueden deducir las cuotas de peaje si cuentan con un comprobante fiscal y un complemento de pago. Es necesario que los peajes sean pagados en carreteras con sistemas de identificación automática vehicular.",
   "preguntas_ejemplo": [
-    "¿Qué comprobantes necesito para deducir peajes?",
-    "¿Cómo deduzco los gastos de peaje en mis impuestos?",
-    "¿Qué requisitos debo cumplir para deducir peajes?",
-    "¿Puedo usar solo el recibo de peaje para deducción?",
-    "¿Qué es el complemento de la tarjeta de identificación vehicular?"
+    "¿Puedo deducir los peajes que pago en carretera?",
+    "¿Qué necesito para deducir los peajes pagados?",
+    "¿Cómo obtengo un comprobante fiscal para mis peajes?",
+    "¿Qué son los sistemas de identificación automática vehicular?",
+    "¿Los peajes pagados con tarjeta son deducibles?"
   ]
 }

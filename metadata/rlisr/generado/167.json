@@ -6,26 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:82925632cdb5cae1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Salario mínimo y retenciones",
+  "denominacion_comun": "Retención de Impuestos",
   "temas": [
     "salario mínimo",
     "retención de impuestos",
-    "solicitudes del trabajador",
-    "área geográfica"
+    "trabajadores",
+    "pagos",
+    "solicitud por escrito"
   ],
   "terminos_coloquiales": [
-    "cómo se calcula el salario mínimo",
-    "retenciones de impuestos en el salario",
-    "puedo elegir mi salario mínimo",
-    "salario mínimo en mi domicilio"
+    "retención de impuestos",
+    "salario mínimo",
+    "casa habitación",
+    "trabajadores",
+    "comunicación escrita"
   ],
-  "resumen": "El artículo establece que los trabajadores pueden solicitar que se considere el salario mínimo de su casa habitación para ciertos pagos. Esta solicitud tiene efectos después de quince días y afecta la retención de impuestos correspondiente.",
+  "resumen": "Este artículo establece cómo los trabajadores pueden solicitar que se considere el salario mínimo de su casa para la retención de impuestos. La solicitud debe hacerse por escrito y surtir efectos después de quince días. Mientras el trabajador no comunique un cambio, se seguirá considerando el salario mínimo de su casa.",
   "preguntas_ejemplo": [
-    "¿Puedo pedir que se use mi salario mínimo en mi casa?",
-    "¿Qué pasa si mi patrón no acepta mi solicitud sobre el salario mínimo?",
-    "¿Cuánto tiempo tarda en aplicarse mi solicitud de salario mínimo?",
-    "¿Hasta cuándo se usa el salario mínimo de mi casa para las retenciones?"
+    "¿Cómo hago para que me retengan impuestos según mi salario mínimo?",
+    "¿Qué necesito para cambiar mi salario mínimo considerado para la retención?",
+    "¿Cuánto tiempo tarda en hacer efecto mi solicitud de retención de impuestos?",
+    "¿Puedo elegir entre mi casa o el lugar donde trabajo para la retención de impuestos?",
+    "¿Qué pasa si no comunico un cambio en mi solicitud de retención?",
+    "¿A quién debo enviar mi solicitud para la retención de impuestos?"
   ]
 }

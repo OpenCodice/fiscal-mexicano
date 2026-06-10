@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:10f8921659023739",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de entidades extranjeras",
+  "denominacion_comun": "Regímenes fiscales preferentes",
   "temas": [
     "ingresos",
-    "regímenes fiscales preferentes",
-    "declaración informativa",
-    "personas morales",
-    "residencia fiscal"
+    "entidades extranjeras",
+    "declaraciones informativas",
+    "persona moral",
+    "residentes en México"
   ],
   "terminos_coloquiales": [
-    "ingresos de empresas extranjeras",
-    "declaración de ingresos",
-    "regímenes fiscales",
-    "obligaciones fiscales de empresas",
-    "participación en sociedades extranjeras"
+    "ingresos de entidades extranjeras",
+    "regímenes fiscales preferentes",
+    "declaración informativa",
+    "persona moral"
   ],
-  "resumen": "Las personas que viven en México no cuentan como ingresos los que provienen de entidades extranjeras si están participando a través de una empresa mexicana. Sin embargo, la empresa mexicana sí debe considerar estos ingresos para su declaración informativa.",
+  "resumen": "Las personas residentes en México que participan indirectamente en entidades extranjeras no consideran como ingresos sujetos a regímenes fiscales preferentes lo que se genera en dichas entidades. Además, la persona moral residente en México que participa en estas entidades es la que debe considerar esos ingresos como suyos y hacer la declaración informativa correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos no tengo que declarar si invierto en una empresa extranjera?",
-    "¿Cómo se reportan los ingresos de figuras jurídicas foráneas?",
-    "¿Qué obligaciones tengo si participo en empresas fuera de México?",
+    "¿Qué ingresos de entidades extranjeras no tengo que declarar?",
+    "¿Quién debe presentar la declaración informativa por ingresos de entidades extranjeras?",
+    "¿Cómo se consideran los ingresos si participo indirectamente en una entidad extranjera?",
     "¿Qué es un régimen fiscal preferente?",
-    "¿Debo presentar declaraciones por ingresos de empresas extranjeras?"
+    "¿Cuál es la obligación de una persona moral residente en México respecto a entidades extranjeras?"
   ]
 }

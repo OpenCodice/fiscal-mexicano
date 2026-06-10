@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5bb8c849b68f705b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingreso acumulable por obra inmueble",
+  "denominacion_comun": "Ingresos por contratos de obra",
   "temas": [
     "contratos de obra",
-    "ingreso acumulable",
-    "estimaciones de obra",
-    "planos y diseños"
+    "ingresos acumulables",
+    "avance mensual",
+    "presupuesto",
+    "ejecución de obra",
+    "estimaciones",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "ingreso por avance de obra",
-    "ingreso acumulado en construcción",
-    "obras sin estimaciones",
-    "cobros en obras"
+    "ingresos por obra",
+    "contratos de construcción",
+    "obra inmueble",
+    "avance de obra"
   ],
-  "resumen": "Los contribuyentes de obras inmuebles pueden considerar como ingreso acumulable el avance mensual de sus proyectos si no están obligados a presentar estimaciones frecuentes. Esto aplica para todas las obras que realicen en un ejercicio fiscal.",
+  "resumen": "Este artículo permite a los contribuyentes que tienen contratos de obra considerar como ingreso acumulable el avance mensual de la obra, si no están obligados a presentar estimaciones frecuentes. Se aplica a todas las obras que realice el contribuyente en el ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo contabilizar los ingresos de mis obras?",
-    "¿Qué ingresos puedo acumular si no presento estimaciones?",
-    "¿Puede un contratista considerar avances mensuales como ingresos?",
-    "¿Qué implica no presentar estimaciones por obra ejecutada?",
-    "¿Cuándo puedo considerar el avance de mis obras como ingreso?"
+    "¿Cómo se calcula el ingreso acumulable por avances en obra?",
+    "¿Qué condiciones se deben cumplir para considerar los ingresos por obra?",
+    "Si tengo un contrato de obra, ¿puedo acumular ingresos mensualmente?",
+    "¿Qué pasa si mis estimaciones de obra son trimestrales?",
+    "¿Puedo acumular el avance de varias obras bajo un mismo contrato?",
+    "¿Qué es el ingreso acumulable en el contexto de obra inmueble?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c23119ecf2c24cd3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversiones en remesas",
+  "denominacion_comun": "Remesas de Inversiones",
   "temas": [
-    "remesas",
     "inversiones",
-    "establishment permanente",
-    "personas morales extranjeras"
+    "remesas",
+    "establecimientos permanentes",
+    "personas morales extranjeras",
+    "valor en aduana",
+    "valor de mercado",
+    "deducción"
   ],
   "terminos_coloquiales": [
-    "dinero de afuera",
-    "transferencias internacionales",
-    "inversiones extranjeras",
-    "envíos de capital"
+    "remesas de capital",
+    "inversiones en el extranjero",
+    "inversiones de empresas extranjeras",
+    "cálculos de remesas",
+    "deducciones fiscales"
   ],
-  "resumen": "El artículo establece cómo se valoran las inversiones que forman parte de las remesas de un establecimiento permanente de una empresa extranjera. Se debe considerar el menor valor entre el precio de aduana y el valor de mercado del bien.",
+  "resumen": "El artículo establece cómo se valuarán las inversiones que se consideran remesas para un establecimiento permanente de personas morales extranjeras. Se deben tomar en cuenta el valor en aduana y el de mercado para determinar su aporte a la cuenta de remesas o su disminución en la cuenta de capital.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el valor de las remesas?",
-    "¿Qué se considera una inversión extranjera?",
-    "¿Cómo afectan las remesas a mi empresa?",
-    "¿Cuál es el proceso para reportar remesas de capital?",
-    "¿Qué pasa si el valor del bien cambia en el mercado?",
-    "¿Qué establece la ley para las empresas extranjeras?"
+    "¿Cómo se valoran las remesas de inversiones de empresas extranjeras?",
+    "¿Qué se considera una remesa en el contexto de inversiones?",
+    "¿Cómo afecta el valor en aduana a las remesas de capital?",
+    "¿Qué partes no deducidas se deben considerar para las remesas?",
+    "¿Qué importancia tiene el valor de mercado en las remesas de inversiones?"
   ]
 }

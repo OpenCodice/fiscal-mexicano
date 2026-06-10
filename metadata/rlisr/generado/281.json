@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19f2d64875be20cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Diferimiento del Impuesto en Reestructuraciones",
   "temas": [
-    "restructuración de sociedades",
-    "impuesto sujeto a diferimiento",
-    "transmisión de acciones",
-    "dictamen contador público",
-    "autorización de diferimiento"
+    "impuesto",
+    "diferimiento",
+    "reestructuraciones",
+    "sociedades",
+    "acciones",
+    "dictamen fiscal"
   ],
   "terminos_coloquiales": [
     "diferimiento de impuestos",
-    "cambio de acciones",
-    "reestructura de empresas",
-    "dictamen fiscal"
+    "reestructuración de empresas",
+    "cambio de propiedad",
+    "autorización de diferimiento"
   ],
-  "resumen": "Este artículo trata sobre el diferimiento del impuesto en reestructuraciones de sociedades y establece que se causará cuando se transmitan acciones. También menciona que se requiere un dictamen de un contador público para obtener la autorización de este diferimiento.",
+  "resumen": "Este artículo trata sobre el diferimiento del impuesto en casos de reestructuración de sociedades dentro de un grupo. Se establece que el impuesto se causará cuando ocurra la transmisión de acciones y se requiere un dictamen de un contador público para la autorización del diferimiento.",
   "preguntas_ejemplo": [
-    "¿Cuándo se causa el impuesto en una reestructuración?",
-    "¿Necesito un dictamen para diferir impuestos?",
-    "¿Qué pasa con las acciones en una reestructuración?",
-    "¿Cómo se obtiene la autorización de diferimiento de impuestos?"
+    "¿Qué es el diferimiento del impuesto en reestructuraciones?",
+    "¿Cuándo se causa el impuesto en la transmisión de acciones?",
+    "¿Qué documentos necesito para obtener la autorización de diferimiento?",
+    "¿Quién puede emitir el dictamen para el diferimiento de impuestos?",
+    "¿Qué implica una reestructuración de sociedades?"
   ]
 }

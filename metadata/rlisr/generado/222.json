@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1646c7984b765f10",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rendimientos de fondos de inversión",
+  "denominacion_comun": "Rendimientos de Fondos de Inversión",
   "temas": [
-    "fondos de inversión",
     "rendimientos acumulables",
-    "accionistas",
-    "personas físicas",
-    "ingresos gravables",
-    "gastos"
+    "fondos de inversión",
+    "instrumentos de deuda",
+    "renta variable",
+    "acciones",
+    "gastos",
+    "personas físicas"
   ],
   "terminos_coloquiales": [
-    "ganancias de fondos",
-    "rendimientos de inversiones",
-    "cómo se calculan los rendimientos",
-    "impuesto sobre rendimientos"
+    "rendimientos de fondos",
+    "fondos de inversión",
+    "acciones",
+    "ingresos gravables"
   ],
-  "resumen": "Este artículo establece cómo se calculan los rendimientos acumulables de los accionistas personas físicas en fondos de inversión, considerando los ingresos gravables netos de gastos. Se basa en asignaciones diarias por accionista de los ingresos devengados.",
+  "resumen": "Este artículo establece cómo se calculan los rendimientos acumulables de los accionistas personas físicas en los fondos de inversión, considerando ingresos gravables netos de gastos. Se deben tener en cuenta ciertos artículos de la Ley para su correcto cálculo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los rendimientos de mis inversiones?",
-    "¿Qué ingresos se consideran gravables en los fondos de inversión?",
-    "¿Cómo afectan los gastos a mis rendimientos de inversión?",
-    "¿Qué significa rendimiento acumulable en un fondo de inversión?"
+    "¿Cómo se calculan los rendimientos de mi fondo de inversión?",
+    "¿Qué son los ingresos gravables en los fondos de inversión?",
+    "¿Qué gastos se deben considerar al calcular los rendimientos acumulables?",
+    "¿Cómo afecta la renta variable en mis ingresos de fondos?",
+    "¿Los fondos de inversión en deuda tienen el mismo cálculo que los de renta variable?"
   ]
 }

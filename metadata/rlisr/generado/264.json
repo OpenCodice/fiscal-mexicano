@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:906bef242a406ecf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones por gastos médicos",
   "temas": [
-    "deducciones fiscales",
     "gastos médicos",
+    "deducciones fiscales",
     "honorarios médicos",
+    "compras de lentes",
+    "análisis clínicos",
+    "prótesis",
     "medicinas",
-    "lentes ópticos"
+    "alquiler de aparatos médicos"
   ],
   "terminos_coloquiales": [
-    "gastos médicos deducibles",
-    "deducción de medicinas",
-    "deducción por lentes",
-    "honorarios de médicos deducibles",
-    "gastos de salud"
+    "deducciones de impuestos",
+    "gastos de salud",
+    "lentes graduados",
+    "factura de médicos",
+    "comprar lentes",
+    "honorarios de enfermeras"
   ],
-  "resumen": "Este artículo habla sobre los tipos de gastos médicos que se pueden deducir de impuestos, incluyendo medicinas, honorarios a enfermeras y el costo de lentes ópticos. También establece un límite para la deducción de gafas graduadas.",
+  "resumen": "El artículo establece que se pueden deducir gastos médicos indispensables, incluyendo compras de aparatos médicos, medicinas, y honorarios a profesionales de la salud. También se incluye la compra de lentes ópticos graduados hasta un monto específico por persona.",
   "preguntas_ejemplo": [
-    "¿Qué gastos médicos puedo deducir en mi declaración?",
-    "¿Cuánto puedo deducir por lentes ópticos?",
-    "¿Los honorarios de enfermeras son deducibles?",
-    "¿Qué tipos de medicinas son deducibles?",
-    "¿Hay un límite para deducir gastos médicos?"
+    "¿Qué gastos médicos puedo deducir en mis impuestos?",
+    "¿Puedo deducir el costo de mis lentes graduados?",
+    "¿Qué tipo de honorarios médicos son deducibles?",
+    "¿Cuánto puedo deducir por medicinas compradas?",
+    "¿Necesito algún documento para deducir mis gastos médicos?",
+    "¿Los análisis clínicos también se pueden deducir?"
   ]
 }

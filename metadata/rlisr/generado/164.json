@@ -6,24 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:81dbf3911e46f119",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuestos para Comisionistas",
+  "denominacion_comun": "Comisiones",
   "temas": [
-    "comisiones",
-    "retención de impuestos",
+    "retención de impuesto",
+    "comisionistas",
     "declaración anual",
-    "comprobantes fiscales"
+    "comprobantes fiscales",
+    "opción de retención"
   ],
   "terminos_coloquiales": [
-    "cómo pagar impuestos de comisiones",
-    "retención de impuestos para comisionistas",
-    "declaración de ingresos por comisiones"
+    "ingresos por comisiones",
+    "retener impuesto",
+    "comprobantes",
+    "declaración de impuestos",
+    "pagar impuestos de comisiones"
   ],
-  "resumen": "Este artículo establece que los comisionistas pueden optar por que sus comitentes realicen la retención del Impuesto sobre la Renta en lugar de seguir otras disposiciones fiscales. Para ello, deben comunicarlo por escrito y cumplir con ciertos procedimientos relacionados con el cálculo y entrega de comprobantes fiscales.",
+  "resumen": "Los comisionistas que reciban ingresos por comisiones pueden optar por que su comitente les retenga el impuesto correspondiente. Deben comunicar esta opción por escrito y cumplir con ciertas obligaciones, como solicitar comprobantes fiscales y presentar su declaración anual consolidando sus ingresos.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona la retención de impuestos para las comisiones?",
-    "¿Qué debo hacer para que mi comitente retenga mis impuestos?",
-    "¿Qué comprobantes necesito para declarar mis ingresos por comisiones?"
+    "¿Cómo debo reportar mis ingresos por comisiones?",
+    "¿Qué pasos seguir para que mi comitente retenga el impuesto?",
+    "¿Qué comprobantes fiscales necesito para mi declaración anual?",
+    "¿Qué pasa si solo tengo ingresos por comisiones en un año?",
+    "¿Cómo se calcula el impuesto sobre comisiones?"
   ]
 }

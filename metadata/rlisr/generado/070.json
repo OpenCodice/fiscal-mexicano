@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7d2c7e6121a2edf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondos de pensiones y jubilaciones",
   "temas": [
-    "rendimientos",
-    "inversión",
-    "fondos de pensiones",
-    "jubilaciones",
-    "instituciones financieras",
-    "administradoras de fondos",
-    "seguro social"
+    "rendimientos de fondos",
+    "inversiones de pensiones",
+    "instituciones de seguros",
+    "fondos para el retiro"
   ],
   "terminos_coloquiales": [
-    "dinero de pensiones",
+    "fondo de pensiones",
+    "jubilaciones",
     "ahorros para el retiro",
-    "fondos de jubilación",
-    "inversión para la jubilación",
-    "seguro de pensiones"
+    "primas de antigüedad"
   ],
-  "resumen": "Este artículo establece que los rendimientos generados por los fondos de pensiones y jubilaciones deben permanecer dentro del fondo hasta que se utilicen para los fines que fueron destinados. Esto se aplica a las inversiones realizadas por instituciones autorizadas.",
+  "resumen": "Este artículo establece que los rendimientos obtenidos de las inversiones de fondos de pensiones y jubilaciones deben permanecer en el propio fondo hasta que sean destinados a los fines establecidos. Se refiere a diferentes instituciones que manejan estos fondos.",
   "preguntas_ejemplo": [
     "¿Qué pasa con los rendimientos de mi fondo de pensiones?",
-    "¿Dónde se invierte el dinero de las pensiones?",
-    "¿Puedo retirar los rendimientos de mis ahorros para el retiro?",
+    "¿Puedo retirar los rendimientos de mi jubilación?",
     "¿Qué instituciones manejan fondos de pensiones?",
-    "¿Hasta cuándo se quedan los rendimientos en el fondo de jubilación?"
+    "¿Cómo se invierten los ahorros para el retiro?",
+    "¿Qué son las primas de antigüedad en los fondos de pensiones?"
   ]
 }

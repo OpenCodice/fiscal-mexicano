@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:376cfce06294d68c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acumulación de ingresos en sociedad conyugal",
+  "denominacion_comun": "Impuesto sobre la Renta en sociedad conyugal",
   "temas": [
     "sociedad conyugal",
-    "acumulación de ingresos",
+    "impuestos",
+    "ingresos",
     "deducciones",
     "ascendientes",
     "descendientes",
     "representante común",
-    "registro de contribuyentes"
+    "registro federal de contribuyentes"
   ],
   "terminos_coloquiales": [
-    "cómo se presentan los ingresos de la pareja",
-    "declarar ingresos de la familia",
-    "impuestos de pareja",
-    "ingresos de hijos dependientes"
+    "renta en pareja",
+    "renta conyugal",
+    "impuesto sobre la renta",
+    "sociedad conyugal",
+    "intereses",
+    "declara ingreso común",
+    "impuesto por ingresos de pareja"
   ],
-  "resumen": "Este artículo permite a los integrantes de una sociedad conyugal optar por acumular los ingresos de ambos y deducir los gastos relacionados. Además, establece opciones para que los contribuyentes con hijos dependientes menores o incapacitados también acumulen ingresos y realiza indicaciones sobre el registro federal de contribuyentes y la presentación de declaraciones.",
+  "resumen": "Este artículo permite que los integrantes de una sociedad conyugal opten por acumular todos sus ingresos y realizar deducciones correspondientes. También establece que los ascendientes o descendientes con ingresos menores pueden optar por acumular sus ingresos al del contribuyente, y detalla las obligaciones sobre el registro en el RFC y la declaración de ingresos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo manejar los ingresos de mi pareja en la declaración de impuestos?",
-    "¿Qué puedo hacer si mis hijos menores de edad tienen ingresos?",
-    "¿Es necesario registrarse si no se van a declarar ingresos?",
-    "¿Cómo se presentan los pagos de impuestos en la sociedad conyugal?"
+    "¿Cómo declaro los ingresos de mi pareja si somos parte de una sociedad conyugal?",
+    "¿Puedo acumular los ingresos de mis hijos en mi declaración?",
+    "¿Qué deducciones puedo hacer si soy parte de una sociedad conyugal?",
+    "¿Necesito inscribirme en el RFC si no tengo otros ingresos?",
+    "¿Quién puede ser el representante común para pagar el impuesto?",
+    "¿Qué debo hacer para declarar intereses generados en cuentas compartidas?"
   ]
 }

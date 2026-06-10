@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7002b8f6ac0f1cd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Definición de automóvil",
   "temas": [
-    "automóvil",
     "vehículos",
+    "automóviles",
     "transporte",
     "pasajeros",
     "motocicletas"
   ],
   "terminos_coloquiales": [
-    "¿Qué es un automóvil?",
-    "definición de auto",
-    "vehículos terrestres",
-    "los autos que se cuentan como tales"
+    "auto",
+    "carro",
+    "vehículo de pasajeros",
+    "motocicleta"
   ],
-  "resumen": "Esta disposición define qué se entiende por automóvil en el contexto de la ley y el reglamento, especificando que es un vehículo terrestre para el transporte de hasta diez pasajeros. También aclara que las motocicletas no están incluidas en esta definición.",
+  "resumen": "El artículo establece que un automóvil es un vehículo terrestre que puede transportar hasta diez pasajeros, incluyendo al conductor. Las motocicletas no están incluidas en esta definición.",
   "preguntas_ejemplo": [
-    "¿Qué vehículos se consideran automóviles?",
-    "¿Los automóviles incluyen motocicletas?",
-    "¿Cuántos pasajeros puede llevar un automóvil según la ley?",
-    "¿Qué vehículos no se consideran automóviles?"
+    "¿Qué se considera un automóvil según la ley?",
+    "¿Cuántos pasajeros puede transportar un automóvil?",
+    "¿Las motocicletas cuentan como automóviles?",
+    "¿Cuál es la definición legal de un vehículo de pasajeros?"
   ]
 }

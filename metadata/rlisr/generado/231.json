@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bdff3786608ab246",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de Dividendos",
+  "denominacion_comun": "Dividendos en Fondos de Inversión",
   "temas": [
     "fondos de inversión",
     "dividendos",
+    "acción",
     "accionistas",
-    "acciones",
     "personas físicas",
-    "personas morales"
+    "personas morales",
+    "impuesto acreditable"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan los dividendos",
-    "dividendos de acciones",
-    "accionistas y dividendos",
-    "fondos de inversión y pagos",
-    "información de dividendos"
+    "dividendos",
+    "acciones",
+    "fondos de inversión",
+    "acción de un fondo",
+    "persona física",
+    "persona moral"
   ],
-  "resumen": "El artículo establece cómo los fondos de inversión deben calcular los dividendos que corresponden a sus accionistas, considerando la cantidad de acciones en circulación y la inversión de cada accionista. Además, se indica que esta información se debe proporcionar a los accionistas personas físicas.",
+  "resumen": "Este artículo trata sobre cómo los fondos de inversión deben calcular los dividendos que corresponden a sus accionistas. Se determina el monto de los dividendos por acción y se calcula el total a favor de cada accionista. También se aplica a los accionistas personas morales.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los dividendos que recibo?",
-    "¿Qué debo hacer para saber cuánto me toca de dividendos?",
-    "¿Qué información deben darme los fondos de inversión sobre los dividendos?",
-    "¿Los dividendos son diferentes para personas físicas y morales?",
-    "¿Cómo se distribuyen los dividendos entre los accionistas?"
+    "¿Cómo se calculan los dividendos que recibiré de mi fondo de inversión?",
+    "¿Qué pasos deben seguir los fondos para calcular mis dividendos?",
+    "¿Cómo se determina el impuesto sobre los dividendos que percibo?",
+    "¿Los fondos de inversión también deben informar a accionistas personas morales sobre los dividendos?",
+    "¿Qué información deben proporcionarme sobre los dividendos recibidos?"
   ]
 }

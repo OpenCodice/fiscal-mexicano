@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6332ad4caf344a50",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones de las Personas Morales",
   "temas": [
-    "personas morales",
     "ingresos",
     "deducciones",
-    "liquidaciones",
     "comprobantes fiscales",
+    "liquidaciones",
     "actividades agrícolas",
     "actividades ganaderas",
     "actividades pesqueras",
     "actividades silvícolas"
   ],
   "terminos_coloquiales": [
-    "responsabilidades de empresas",
-    "obligaciones fiscales de sociedades",
-    "cómo deben reportar las empresas",
-    "comprobantes de ingresos de empresas"
+    "pago de impuestos",
+    "comprobante fiscal",
+    "informes de ingresos",
+    "liquidación de ingresos",
+    "gastos y deducciones"
   ],
-  "resumen": "Las personas morales que operan en ciertas actividades deben considerar solo sus ingresos a través de la entidad y no individualmente. También deben emitir liquidaciones a sus integrantes, donde se detallan ingresos y gastos, y emitir comprobantes fiscales correspondientes.",
+  "resumen": "El artículo establece que las personas morales dedicadas a actividades agrícolas, ganaderas, pesqueras o silvícolas deben considerar únicamente los ingresos obtenidos a través de ellas. Además, deben emitir a sus integrantes un comprobante fiscal que refleje sus ingresos, gastos e impuestos correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué deben hacer las empresas con sus ingresos?",
-    "¿Cómo reportan las deducciones las personas morales?",
-    "¿Qué información debe contener una liquidación de ingresos?",
-    "¿Quiénes son responsables de emitir comprobantes fiscales?",
-    "¿Cómo deben manejar los ingresos los integrantes de una sociedad agrícola?"
+    "¿Qué comprobantes fiscales deben emitir las personas morales?",
+    "¿Cómo se manejan los ingresos de los integrantes en una persona moral?",
+    "¿Qué información debe contener una liquidación de ingresos y gastos?",
+    "¿Las personas morales pueden deducir los ingresos de sus integrantes?",
+    "¿Qué actividades se incluyen en las obligaciones fiscales de una persona moral?"
   ]
 }

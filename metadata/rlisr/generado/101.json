@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7af1ef235453934f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto para Coordinados en Autotransporte",
+  "denominacion_comun": "Régimen de Autotransporte Terrestre",
   "temas": [
-    "Impuesto",
-    "Coordinados",
-    "Autotransporte",
-    "Declaración anual",
-    "Obligaciones fiscales",
-    "Ingresos",
-    "Tasa marginal"
+    "autotransporte",
+    "obligaciones fiscales",
+    "declaración anual",
+    "ingresos",
+    "coordinados",
+    "impuesto"
   ],
   "terminos_coloquiales": [
-    "Impuesto autotransporte",
-    "Declaración para autotransportistas",
-    "Pago de impuestos de coordinados",
-    "Impuesto de carga y pasajeros"
+    "transportistas",
+    "carga",
+    "pasajeros",
+    "foráneos",
+    "declaración de impuestos",
+    "opción de pago"
   ],
-  "resumen": "Este artículo se refiere a las responsabilidades fiscales de las personas que trabajan en autotransporte y que pertenecen a grupos coordinados. Si optan por que solo algunos paguen el impuesto, deben solicitar información a los demás para calcular el impuesto de manera adecuada.",
+  "resumen": "El artículo establece reglas para las personas físicas que trabajan en el autotransporte terrestre y que pueden optar por que solo algunos de sus coordinados realicen el pago del impuesto sobre los ingresos. También deben presentar declaración anual por ingresos no declarados mediante pagos definitivos.",
   "preguntas_ejemplo": [
-    "¿Cómo debo pagar el impuesto si soy parte de un grupo coordinado?",
-    "¿Qué obligaciones fiscales tengo como autotransportista?",
-    "¿Qué hacer si solo algunos de mis coordinados pagan el impuesto?",
-    "¿Tengo que presentar declaración anual si no todos optan por el pago?",
-    "¿Cómo calculo el impuesto que debo enterar por mis ingresos?"
+    "¿Cómo declaro mis ingresos si soy transportista?",
+    "¿Qué pasa si solo uno de mis coordinados paga el impuesto?",
+    "¿Qué información necesito para calcular mi impuesto sobre el autotransporte?",
+    "¿Debo presentar declaración anual si no he hecho pagos definitivos?",
+    "¿Cuáles son mis obligaciones fiscales como transportista?"
   ]
 }

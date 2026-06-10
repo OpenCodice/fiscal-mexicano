@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3e5d07c21ae3a2da",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de impuestos",
+  "denominacion_comun": "Retenciones para nuevos prestadores de servicios",
   "temas": [
-    "contribuyentes",
-    "ingresos",
-    "prestatarios",
-    "comunicaciones",
-    "retenciones",
-    "obligaciones fiscales"
+    "retenciones fiscales",
+    "comunicaciones a prestatarios",
+    "ingresos por servicios",
+    "exenciones fiscales"
   ],
   "terminos_coloquiales": [
-    "no presentar retenciones",
-    "comunicar ingresos",
-    "retenciones de impuestos",
-    "obligación de impuestos",
-    "proceso de retenciones"
+    "retenciones",
+    "comunicar al cliente",
+    "prestatario",
+    "no presentar comunicación"
   ],
-  "resumen": "Este artículo establece que los contribuyentes que obtengan ciertos ingresos no están obligados a presentar una comunicación específica al prestatario durante el primer año. Sin embargo, tienen la opción de solicitar que se les realicen las retenciones correspondientes en lugar de cumplir con otra obligación fiscal.",
+  "resumen": "Los contribuyentes que inician la prestación de servicios a un prestatario pueden optar por no presentar una comunicación sobre las retenciones de impuestos durante su primer año. Sin embargo, pueden elegir informar al prestatario para que realice las retenciones correspondientes en ese periodo.",
   "preguntas_ejemplo": [
-    "¿Debo presentar retenciones si comencé a trabajar hace poco?",
-    "¿Puedo optar por que me retengan impuestos sin hacer una comunicación?",
-    "¿Cuáles son mis obligaciones fiscales al inicio de un nuevo trabajo?",
-    "¿Qué pasa si no comunico mis ingresos al prestatario?",
-    "¿Cómo funcionan las retenciones en el primer año de trabajo?"
+    "¿De qué manera puedo hacer mis retenciones si empiezo a trabajar con un nuevo cliente?",
+    "¿Qué pasa si no presento la comunicación de retenciones en mi primer año?",
+    "¿Puedo optar por avisar a mi cliente sobre las retenciones que debe hacer?",
+    "¿Cuáles son mis obligaciones fiscales cuando inicio un contrato con un prestatario?",
+    "¿Los nuevos prestadores de servicios tienen algún tipo de exención fiscal?"
   ]
 }

@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0423daf3b1c12d22",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de gastos deducibles",
   "temas": [
     "gastos deducibles",
     "servicios públicos",
-    "comprobantes fiscales",
     "contribuciones locales",
+    "comprobantes fiscales",
     "declaración anual"
   ],
   "terminos_coloquiales": [
-    "deducción de impuestos",
-    "gastos de servicios",
-    "compras deducibles",
-    "facturas de servicios",
-    "declarar gastos"
+    "gastos deducibles",
+    "recibos de servicios",
+    "comprobantes",
+    "deducir gastos"
   ],
-  "resumen": "Se permite deducir gastos por servicios públicos o contribuciones locales aunque el comprobante se reciba después de la prestación del servicio, siempre y cuando se tenga el comprobante al momento de declarar. Esto aplica si los gastos se causaron en el mismo ejercicio.",
+  "resumen": "El artículo establece que se pueden deducir ciertos gastos de servicios públicos y contribuciones locales aunque el comprobante fiscal sea emitido después de que se cause el gasto, siempre y cuando se tenga el comprobante al momento de presentar la declaración fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir una factura de servicios si la recibí después de pagar?",
-    "¿Qué requisitos debo cumplir para deducir gastos de contribuciones locales?",
-    "¿Cuándo debo tener el comprobante para poder deducir mis gastos?",
-    "¿Los gastos deducibles se pueden incluir en la declaración del año en curso?",
-    "¿Qué tipos de gastos son considerados deducibles?"
+    "¿Puedo deducir un recibo de luz si lo recibí después de pagar?",
+    "¿Hasta cuándo tengo que tener el comprobante para poder deducirlo?",
+    "¿Qué tipo de gastos puedo considerar como deducibles?",
+    "¿Qué pasa si mi recibo de agua lo recibí después de la fecha de servicio?",
+    "¿Cómo funcionan las deducciones de contribuciones locales?",
+    "¿Qué debo hacer si no tengo el comprobante al momento de la declaración?"
   ]
 }

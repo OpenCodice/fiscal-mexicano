@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:06ffdc8fda352b47",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Disminución de pagos provisionales",
   "temas": [
-    "autorización",
     "pagos provisionales",
-    "solicitud",
-    "autoridad fiscal"
+    "autorización fiscal",
+    "disminución de pagos",
+    "plazo de solicitud",
+    "ingresos"
   ],
   "terminos_coloquiales": [
-    "bajar los pagos de impuestos",
-    "disminución de impuestos",
-    "solicitud de reducción de pagos",
-    "autorización de pago provisional"
+    "disminuir pagos de impuestos",
+    "pago provisional",
+    "autorización de pagos",
+    "pago de impuestos a la autoridad",
+    "impuestos",
+    "declaración de impuestos"
   ],
-  "resumen": "Este artículo explica cómo solicitar una autorización para disminuir los pagos provisionales de impuestos. La solicitud debe presentarse un mes antes de que se realice el pago correspondiente.",
+  "resumen": "El artículo detalla el procedimiento para solicitar la autorización para disminuir pagos provisionales ante la autoridad fiscal. La solicitud debe presentarse un mes antes de la fecha del primer pago provisional que se desee disminuir.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo disminuir mis pagos provisionales?",
-    "¿Qué necesito para solicitar la reducción de pagos de impuestos?",
-    "¿Cuándo debo presentar la solicitud para bajar mis pagos provisionales?",
-    "¿A quién le tengo que pedir la autorización para disminuir mis pagos?",
-    "¿Qué pasa si tengo varios pagos provisionales que quiero reducir?"
+    "¿Cómo puedo pedir una disminución en mis pagos provisionales?",
+    "¿Cuándo debo solicitar la disminución de impuestos?",
+    "¿Qué debo hacer para disminuir mis pagos de impuestos?",
+    "¿Cuáles son los plazos para presentar la solicitud de disminución?",
+    "¿Puedo disminuir varios pagos provisionales a la vez?"
   ]
 }

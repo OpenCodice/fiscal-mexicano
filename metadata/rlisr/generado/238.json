@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1d0c12fa3fb7984b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de impuestos en seguros de vida",
+  "denominacion_comun": "Beneficios de seguros de vida",
   "temas": [
-    "seguros de vida",
+    "instituciones de seguros",
+    "beneficios de seguros",
+    "contratos de seguros de vida",
     "retención de impuestos",
-    "beneficiarios",
-    "contratos de seguros"
+    "designación de beneficiarios"
   ],
   "terminos_coloquiales": [
-    "impuestos seguros de vida",
-    "retención en seguros",
-    "quién paga impuestos del seguro",
-    "beneficiarios del seguro",
-    "seguros pagados por el empleador"
+    "seguro de vida",
+    "pago de seguros",
+    "retención de impuestos",
+    "beneficiarios de seguro",
+    "cónyuge",
+    "concubinato"
   ],
-  "resumen": "Las aseguradoras no retendrán impuestos en los beneficios de seguros de vida si el pago se hace al asegurado o a sus beneficiarios designados, siempre que la prima la haya pagado el empleador. Si el pago se hace a otras personas, sí se aplicará la retención correspondiente.",
+  "resumen": "Las aseguradoras no harán retención de impuestos sobre los beneficios de seguros de vida pagados a los beneficiarios designados por el asegurado, siempre que la prima haya sido pagada por el empleador. Sin embargo, si parte del beneficio va a otros, se debe realizar la retención correspondiente.",
   "preguntas_ejemplo": [
-    "¿Por qué no me retienen impuestos en mi seguro de vida?",
-    "¿Quiénes son los beneficiarios que no pagan impuestos?",
-    "¿Qué pasa si el empleador paga la prima del seguro?",
-    "¿Tengo que pagar impuestos si el seguro se paga a mis hijos?",
-    "¿Cuándo se aplica la retención en los seguros de vida?"
+    "¿Quiénes son los beneficiarios de un seguro de vida?",
+    "¿El seguro de vida tiene retenciones de impuestos?",
+    "Si mi empleador paga mi seguro de vida, ¿hay retención de impuestos?",
+    "¿Qué sucede si el pago del seguro de vida es a otra persona que no es el asegurado?",
+    "¿Qué tipo de seguros no hacen retención de impuestos?"
   ]
 }

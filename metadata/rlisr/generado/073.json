@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8033e7f38a0a1cfc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cambio en deducción de inversiones",
+  "denominacion_comun": "Deducción de inversiones",
   "temas": [
     "deducción de inversiones",
     "cambio de deducción",
-    "períodos fiscales",
-    "pérdida fiscal"
+    "pérdida fiscal",
+    "periodo de cinco años"
   ],
   "terminos_coloquiales": [
-    "cambiar deducciones",
-    "modificar deducción de inversiones",
-    "deducción por cinco años"
+    "cambiar la deducción de inversiones",
+    "modificar deducciones",
+    "pérdida fiscal",
+    "artículo 31",
+    "artículo 20"
   ],
-  "resumen": "El artículo establece que es posible cambiar la deducción de inversiones una vez cada cinco años. Si no han pasado esos cinco años, se puede cambiar de nuevo bajo ciertas condiciones específicas.",
+  "resumen": "Este artículo establece que se puede cambiar el porcentaje de deducción de inversiones una vez cada cinco años por bien. Si no ha pasado este tiempo, se puede cambiar nuevamente bajo ciertas condiciones sin que esto genere una pérdida fiscal.",
   "preguntas_ejemplo": [
-    "¿Cada cuánto puedo cambiar la deducción de mis inversiones?",
-    "¿Qué requisitos hay para cambiar deducciones antes de cinco años?",
-    "¿Puedo hacer cambios si tengo pérdidas fiscales?",
-    "¿Cuántas veces se puede cambiar la deducción de inversiones?",
-    "¿Qué condiciones se requieren para hacer cambios en deducciones?"
+    "¿Cuánto tiempo debo esperar para cambiar mi deducción de inversiones?",
+    "¿Qué requisitos debo cumplir para cambiar la deducción antes de cinco años?",
+    "¿Qué es una pérdida fiscal en relación a las deducciones?",
+    "¿Puedo cambiar la deducción si he tenido pérdidas fiscales recientes?",
+    "¿Cada cuánto puedo modificar la deducción de mis inversiones?"
   ]
 }

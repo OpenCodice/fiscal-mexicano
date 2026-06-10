@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:21a1c3c88760bfcf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes por prescripción",
+  "denominacion_comun": "Costo de enajenación por prescripción",
   "temas": [
     "enajenación de bienes",
-    "prescripción adquisitiva",
+    "prescripción",
+    "costo de adquisición",
     "avalúo",
-    "deducciones",
-    "costos",
-    "sentencias",
-    "demanda"
+    "deducciones"
   ],
   "terminos_coloquiales": [
-    "venta de propiedades prescriptas",
-    "costo de bienes por prescripción",
-    "avalúo para impuestos",
-    "cómo calcular el costo de bienes",
-    "deducciones en la enajenación"
+    "venta de bienes",
+    "prescripción de propiedades",
+    "costo fiscal",
+    "avalúo de bienes",
+    "impuestos por venta"
   ],
-  "resumen": "Este artículo explica cómo determinar el costo de bienes que se adquieren por prescripción, usando el avalúo que se hizo al adquirirlos y aplicando ciertas deducciones. También aclara qué hacer si no se puede determinar cuándo se completó la prescripción.",
+  "resumen": "Este artículo establece cómo se determina el costo de enajenación de bienes adquiridos por prescripción, basándose en el avalúo utilizado para el pago de impuestos al adquirirlos y considerando deducciones. Si no hubo avalúo al adquirir, se realiza uno en el momento de consumarse la prescripción.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de un bien adquirido por prescripción?",
-    "¿Qué sucede si no hay avalúo al momento de la adquisición?",
-    "¿Puedo deducir algo si compré una propiedad por prescripción?",
-    "¿Qué pasa si no sé cuándo se consumó la prescripción?",
-    "¿Se aplica lo mismo si hay una sentencia involucrada?"
+    "¿Cómo se determina el costo de un bien que adquirí por prescripción?",
+    "¿Qué pasa si no tenía avalúo al comprar un bien y ahora lo vendo?",
+    "¿Qué deducciones se aplican al calcular el costo de enajenación por prescripción?",
+    "¿Qué debo hacer si no sé cuándo se consumó la prescripción de una propiedad?",
+    "¿Aplica la misma regla si el bien tiene vicios ocultos?"
   ]
 }

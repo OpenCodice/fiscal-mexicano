@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33d5c22cdce0e637",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para liberar erogaciones",
+  "denominacion_comun": "Autorizaciones para erogaciones",
   "temas": [
-    "autorizaciones fiscales",
-    "erogaciones",
+    "solicitudes de autorización",
+    "pagos a proveedores",
     "zonas rurales",
     "servicios financieros",
-    "aislamiento"
+    "aislamiento",
+    "infraestructura de transporte",
+    "elementos de prueba",
+    "vigencia de autorizaciones",
+    "revisión anual"
   ],
   "terminos_coloquiales": [
-    "cómo dejar de pagar",
-    "autorización para pagos",
-    "pagar sin servicios",
-    "liberar pagos en el campo",
-    "condiciones para erogaciones"
+    "liberación de pago",
+    "autorizaciones fiscales",
+    "gastos a proveedores",
+    "poblaciones rurales",
+    "pagos en efectivo"
   ],
-  "resumen": "El artículo establece cómo las autoridades fiscales pueden autorizar a contribuyentes para que no paguen ciertas erogaciones en zonas rurales sin servicios financieros. Se deben considerar factores como el aislamiento del proveedor y el acceso a infraestructura de transporte.",
+  "resumen": "Este artículo establece cómo las autoridades fiscales pueden autorizar la liberación de la obligación de pagar ciertos gastos en áreas rurales donde no hay servicios financieros. Las autorizaciones serán revisadas anualmente y se tomarán en cuenta varias circunstancias y elementos de prueba proporcionados por el contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo pedir una autorización para no pagar erogaciones?",
-    "¿Qué requisitos necesito para liberar mis pagos?",
-    "¿Cómo afecta el aislamiento de mi proveedor a mis pagos?",
-    "¿Cada cuánto se revisan las autorizaciones?",
-    "¿Qué pasa si las condiciones de mi zona cambian?"
+    "¿Cómo puedo solicitar una autorización para no pagar a proveedores en zonas rurales?",
+    "¿Qué criterios se usan para liberar pagos a proveedores?",
+    "¿Existen requisitos para obtener la autorización de gasto?",
+    "¿Con qué frecuencia se revisan las autorizaciones para erogaciones?",
+    "¿Qué pasa si la población donde compro no tiene servicios financieros?"
   ]
 }

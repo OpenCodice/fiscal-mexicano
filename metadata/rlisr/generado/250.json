@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:27519e2538cf7821",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de intereses hipotecarios",
   "temas": [
-    "intereses deducibles",
-    "préstamos hipotecarios",
+    "intereses hipotecarios",
+    "deducción",
+    "préstamos",
     "unidades de inversión",
     "subcuenta de vivienda",
-    "Ley del Seguro Social",
-    "fuerzas armadas"
+    "Seguro Social",
+    "Sistema de Ahorro para el Retiro"
   ],
   "terminos_coloquiales": [
-    "deducción de intereses",
     "intereses de hipoteca",
-    "intereses de crédito",
-    "intereses pagados",
-    "deducibilidad hipotecaria"
+    "deducir intereses",
+    "préstamo hipotecario",
+    "unidades de inversión",
+    "subcuenta de vivienda",
+    "casa"
   ],
-  "resumen": "Este artículo establece que se pueden deducir los intereses reales pagados por préstamos hipotecarios en el ejercicio correspondiente. También se incluyen los intereses pagados con recursos de ciertas subcuentas de vivienda y relacionados con créditos en unidades de inversión.",
+  "resumen": "Este artículo establece que se pueden deducir los intereses reales pagados de préstamos hipotecarios en un ejercicio fiscal. También se permite la deducción de intereses relacionados con créditos hipotecarios en unidades de inversión y pagos desde cuentas de vivienda específicas.",
   "preguntas_ejemplo": [
-    "¿Qué intereses de mi hipoteca puedo deducir?",
-    "¿Los intereses moratorios son deducibles?",
-    "¿Puedo deducir los intereses pagados con mi subcuenta de vivienda?",
-    "¿Qué son los intereses devengados en unidades de inversión?",
-    "¿Qué leyes respaldan la deducción de intereses hipotecarios?"
+    "¿Puedo deducir los intereses de mi hipoteca?",
+    "¿Qué intereses hipotecarios son deducibles?",
+    "¿Cómo funcionan las deducciones en préstamos hipotecarios?",
+    "¿Qué son las unidades de inversión en préstamos hipotecarios?",
+    "¿Puedo usar ahorros de mi subcuenta de vivienda para pagar intereses?"
   ]
 }

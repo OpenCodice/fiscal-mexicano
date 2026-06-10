@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:974037f95a639d21",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Garantías en enajenaciones inmobiliarias",
+  "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
-    "enajenaciones",
+    "interés fiscal",
+    "enajenación de bienes",
     "escritura pública",
     "pago en parcialidades",
-    "interés fiscal",
-    "responsabilidad solidaria",
-    "garantías"
+    "garantías fiscales",
+    "recargos",
+    "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
-    "garantías fiscales",
-    "pago a plazos de propiedades",
-    "interés en escritura de bienes",
-    "cómo asegurar el impuesto",
-    "garantías en compra de casas"
+    "interés fiscal",
+    "garantía del impuesto",
+    "pago en parcialidades",
+    "escritura",
+    "bien inmueble"
   ],
-  "resumen": "Este artículo trata sobre cómo se debe establecer el pago en parcialidades al vender un inmueble, indicando que se debe garantizar el interés fiscal en la escritura pública. También menciona que la garantía puede incluir recargos y debe ser aceptada por la autoridad fiscal.",
+  "resumen": "El artículo establece que en las enajenaciones de bienes, si se pacta el pago en parcialidades, se debe dejar constancia de la garantía del interés fiscal en la escritura pública. Esta garantía puede incluir recargos y debe ser aceptada por la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para comprar una casa a plazos?",
-    "¿Cómo puedo garantizar el pago del impuesto en la escritura?",
-    "¿Qué pasa si no puedo pagar el impuesto completo de inmediato?",
-    "¿Qué implica la responsabilidad solidaria en las escrituras?",
-    "¿Cuáles son los requisitos para las garantías fiscales al vender un inmueble?"
+    "¿Cómo se garantiza el interés fiscal en una enajenación?",
+    "¿Qué se debe incluir en la escritura para el pago en parcialidades?",
+    "¿Qué son los recargos en el interés fiscal?",
+    "¿Qué pasa si no se garantiza el interés fiscal?",
+    "¿Qué implica la responsabilidad solidaria en la escritura pública?"
   ]
 }

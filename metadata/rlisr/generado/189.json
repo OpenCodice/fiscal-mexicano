@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b312b33c337722d8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de cheques",
+  "denominacion_comun": "Deducción de erogaciones",
   "temas": [
-    "deducción fiscal",
-    "comprobantes fiscales",
+    "deducciones",
     "cheques",
+    "comprobante fiscal",
     "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "deducir cheques",
-    "cheques fuera de plazo",
-    "deducción de gastos",
-    "deducción de comprobantes"
+    "gastar con cheque",
+    "deducir gastos",
+    "deducción por cheques",
+    "comprobante",
+    "deducción de erogaciones"
   ],
-  "resumen": "Se permite deducir gastos pagados con cheques incluso si han pasado más de cuatro meses, siempre que pertenezcan al mismo ejercicio fiscal. Si el cheque se cobra en el siguiente ejercicio, también se puede deducir si no pasan cuatro meses desde la fecha del comprobante.",
+  "resumen": "El artículo establece que se pueden deducir gastos pagados con cheque, incluso si han pasado más de cuatro meses desde la fecha del comprobante hasta el cobro del cheque, siempre y cuando pertenezcan al mismo ejercicio fiscal. Si el cheque se cobra en el ejercicio siguiente, también se puede deducir en ese ejercicio, siempre que no pasen más de cuatro meses entre las fechas mencionadas.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir un cheque que cobré después de cuatro meses?",
-    "¿Cómo deduzco las erogaciones si uso cheques?",
-    "¿Qué pasa si el cheque se cobra en un ejercicio diferente?",
-    "¿Cuánto tiempo tengo para deducir un gasto con cheque?",
-    "¿Qué requisitos debo seguir para deducir un cheque?"
+    "¿Puedo deducir un gasto si pagué con cheque hace más de cuatro meses?",
+    "¿Qué requisitos hay para deducir un cheque en el siguiente ejercicio fiscal?",
+    "¿Cómo afecta la fecha del comprobante fiscal a la deducción de mis gastos?",
+    "¿Qué pasa si cobro un cheque y la fecha del comprobante es del año anterior?",
+    "¿Es posible deducir erogaciones si no se ha cobrado el cheque a tiempo?"
   ]
 }

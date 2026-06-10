@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a278bf17a5d96e5c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de gastos por casa habitación",
+  "denominacion_comun": "Deducciones en casa habitación",
   "temas": [
-    "deducciones fiscales",
     "ingresos",
+    "deducciones",
     "casa habitación",
-    "comprobantes fiscales",
+    "comprobante fiscal",
     "impuesto predial",
-    "contribuciones locales"
+    "inversiones",
+    "actividades económicas"
   ],
   "terminos_coloquiales": [
-    "deducción de renta",
+    "deducir renta",
     "gastos de casa",
     "deducción por casa",
-    "impuestos de casa",
-    "cuánto puedo deducir"
+    "impuesto predial",
+    "gastos de vivienda"
   ],
-  "resumen": "Los contribuyentes que usan una parte de su casa para ingresos pueden deducir cierta parte de los gastos de renta y otros impuestos de esa propiedad. Esto se calcula en base al área que destinen a dichas actividades en relación con el total del inmueble.",
+  "resumen": "Los contribuyentes que generen ingresos de ciertas actividades pueden deducir parte de los gastos relacionados con su casa habitación, incluyendo rentas y contribuciones locales. Esto se hace si se destina una parte del inmueble a las actividades generadoras de ingresos y se cuenta con los comprobantes fiscales adecuados.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir la renta de mi casa?",
-    "¿Qué gastos de mi casa puedo deducir?",
+    "¿Puedo deducir el alquiler de mi casa si trabajo desde ahí?",
+    "¿Qué parte de mis gastos de vivienda puedo deducir?",
+    "¿Necesito un comprobante fiscal para deducir renta?",
     "¿Cómo se calcula la deducción por mi casa habitación?",
-    "¿Necesito un comprobante para deducir rentas?",
-    "¿Qué impuestos puedo reducir si uso mi casa para trabajo?"
+    "¿Puedo deducir el impuesto predial de mi casa?",
+    "¿Qué actividades generan derecho a deducción en casa habitación?"
   ]
 }

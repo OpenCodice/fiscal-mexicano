@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d96283939be3b38",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de operaciones",
@@ -14,23 +15,23 @@
     "créditos",
     "deudas",
     "devoluciones",
+    "descuentos",
     "bonificaciones",
-    "contratos",
-    "descuentos"
+    "contratos"
   ],
   "terminos_coloquiales": [
-    "cómo cancelar una operación",
-    "devolución de bienes",
-    "qué es una bonificación",
-    "descuento en factura",
-    "anular un contrato"
+    "cancelar compras",
+    "devolver productos",
+    "descuentos",
+    "bonificaciones",
+    "anular contratos"
   ],
-  "resumen": "El artículo describe qué se considera una cancelación de una operación relacionada con créditos o deudas, incluyendo devoluciones, descuentos y nulidades de contratos. Explica las diferentes formas en que se puede llevar a cabo una cancelación.",
+  "resumen": "Este artículo define qué se entiende por cancelación de una operación relacionada con créditos y deudas. Incluye aspectos como la devolución de bienes, descuentos, bonificaciones, y la nulidad de contratos.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por cancelación de una deuda?",
-    "¿Cómo puedo devolver un producto y que se considere cancelación?",
-    "¿Qué significa obtener un descuento en una operación?",
-    "¿Se puede anular un contrato después de firmarlo?",
-    "¿Qué ocurre si cancelo una operación parcialmente?"
+    "¿Qué significa cancelar una compra?",
+    "¿Cómo se devuelve un producto?",
+    "¿Cuándo puedo solicitar un descuento?",
+    "¿Qué es una bonificación en una venta?",
+    "¿Qué pasa si anulo un contrato?"
   ]
 }

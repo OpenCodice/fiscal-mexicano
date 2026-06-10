@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f9e9be88da7ecb36",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuestos en Servicios Profesionales",
+  "denominacion_comun": "Opción de retención de impuestos para servicios profesionales",
   "temas": [
-    "prestación de servicios profesionales",
     "retención de impuestos",
+    "servicios profesionales",
     "comprobantes fiscales",
     "declaración anual"
   ],
   "terminos_coloquiales": [
-    "cómo se retiene el impuesto en servicios",
-    "comprobantes de servicios profesionales",
-    "opción de retención de impuestos",
-    "declaración de ingresos por servicios"
+    "opción de retención",
+    "impuesto sobre la renta",
+    "ISR",
+    "comprobante fiscal",
+    "declaración de impuestos"
   ],
-  "resumen": "Este artículo establece que los prestadores de servicios profesionales pueden optar por que se les retenga el impuesto sobre los ingresos generados, siempre que se comunique por escrito al prestatario. También detalla los procedimientos para la retención y la obligación de proporcionar comprobantes fiscales.",
+  "resumen": "Este artículo permite a los prestadores de servicios profesionales optar por la retención del impuesto sobre la renta en función de los trabajos realizados, en lugar de los días laborados, siempre que se comunique al prestatario por escrito. Además, establece las obligaciones tanto del prestador como del prestatario con respecto a la retención y la documentación fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona la retención de impuestos para servicios profesionales?",
-    "¿Qué debo hacer para que me retengan el impuesto en un trabajo específico?",
-    "¿Cuándo tengo que presentar mi declaración si opto por la retención?",
-    "¿Qué comprobantes necesito para la retención de impuestos?",
-    "¿Puedo cambiar la opción de retención en cualquier momento?"
+    "¿Cómo funcionará la retención de impuestos en mis servicios profesionales?",
+    "¿Qué debo hacer si el cliente prefiere que le retenga el impuesto?",
+    "¿Qué comprobantes debo entregar y cuándo?",
+    "¿Qué pasa si solo tengo ingresos por servicios de un solo cliente?",
+    "¿Cómo presento mi declaración anual si elijo esta opción?",
+    "¿Qué obligaciones tiene el prestatario en este proceso?"
   ]
 }

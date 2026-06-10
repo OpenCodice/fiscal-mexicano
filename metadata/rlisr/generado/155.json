@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dcbf30e4ebef9c1e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acreditación de casa habitación",
   "temas": [
-    "contribuyentes",
     "inmuebles",
-    "documentación",
-    "fedatario público",
+    "documentación comprobatoria",
     "casa habitación",
-    "comprobación",
-    "validez documental"
+    "fedatario público",
+    "comprobantes fiscales",
+    "estado de cuenta"
   ],
   "terminos_coloquiales": [
-    "comprobar que mi casa es habitación",
-    "documentos para vender mi casa",
-    "acreditar domicilio",
-    "pruebas de residencia",
-    "cómo demostrar que vivo aquí"
+    "casa habitación",
+    "documentos para la casa",
+    "comprar casa",
+    "credencial para votar",
+    "recibos de luz",
+    "estado de cuenta"
   ],
-  "resumen": "Se exige a los contribuyentes comprobar que su inmueble es su casa habitación mediante ciertos documentos. El fedatario público debe validar esta información al formalizar la operación de enajenación.",
+  "resumen": "Los contribuyentes deben comprobar que su inmueble es su casa habitación mediante documentos específicos ante un fedatario público. Esto incluye comprobantes como la credencial del INE, recibos de servicios y estados de cuenta bancarios.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para acreditar que mi casa es mi residencia?",
-    "¿Cómo puedo demostrar que vivo en la propiedad que estoy vendiendo?",
-    "¿Qué hace el fedatario público en este proceso?",
-    "¿Puedo usar recibos de luz para comprobar mi domicilio?",
-    "¿Quién puede presentar los comprobantes de residencia?"
+    "¿Qué documentos necesito para comprobar que mi casa es mi habitación?",
+    "¿Cómo puedo acreditar la propiedad de mi casa ante un notario?",
+    "¿Qué tipos de comprobantes son válidos para formalizar la operación de mi casa?",
+    "¿Debo presentar documentos a nombre de otra persona para acreditar mi casa?",
+    "¿Qué es un fedatario público y cuál es su papel en la operación?",
+    "¿Se puede usar un recibo de luz para comprobar mi casa?"
   ]
 }

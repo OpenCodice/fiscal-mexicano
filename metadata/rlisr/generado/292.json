@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e09e8499bb079504",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de impuestos por enajenación de títulos de crédito",
+  "denominacion_comun": "Retención de Impuestos por Títulos de Crédito",
   "temas": [
-    "Retención de impuestos",
-    "Títulos de crédito",
-    "Aviso de traspaso",
-    "Obligaciones fiscales"
+    "retención de impuestos",
+    "títulos de crédito",
+    "obligaciones fiscales",
+    "avisos fiscales",
+    "intermediarios",
+    "depositarios"
   ],
   "terminos_coloquiales": [
-    "cómo informar sobre la venta de títulos",
-    "requisitos para traspasar títulos de crédito",
-    "documentación para retener impuestos",
-    "qué hacer al vender un título de crédito"
+    "retención de impuestos",
+    "avisos de retención",
+    "títulos de crédito",
+    "intermediarios financieros"
   ],
-  "resumen": "Este artículo establece los requisitos que debe cumplir el aviso para liberarse de la obligación de pagar impuestos al enajenar títulos de crédito. Incluye información sobre el vendedor, el intermediario y detalles de la transacción.",
+  "resumen": "Este artículo establece los requisitos para que un depositario pueda liberarse de la obligación de pagar el impuesto sobre los ingresos de la venta de títulos de crédito. El aviso que debe presentar incluye información sobre el traspaso y los involucrados en la transacción.",
   "preguntas_ejemplo": [
-    "¿Qué información necesito para traspasar títulos de crédito?",
-    "¿Cómo presento un aviso para no pagar el impuesto?",
-    "¿Cuáles son los requisitos fiscales al vender un título?",
-    "¿En qué plazo debo presentar el aviso de traspaso?",
-    "¿Qué datos debo incluir en el aviso para la autoridad fiscal?"
+    "¿Cómo puedo liberarme de la retención de impuestos en la venta de títulos de crédito?",
+    "¿Qué información debo incluir en el aviso de retención fiscal?",
+    "¿Cuánto tiempo tengo para presentar el aviso de retención?",
+    "¿Qué ocurre si no presento el aviso a tiempo?",
+    "¿Cuáles son las obligaciones fiscales al vender títulos de crédito?"
   ]
 }

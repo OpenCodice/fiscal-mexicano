@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:43ad50cb96760efe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto sobre la renta de personas morales",
+  "denominacion_comun": "Régimen de inversión en fideicomisos",
   "temas": [
     "personas morales",
     "fideicomisos",
@@ -17,17 +18,16 @@
     "financiamiento"
   ],
   "terminos_coloquiales": [
-    "impuesto a empresas",
-    "renta de sociedades",
-    "fideicomisos y impuestos",
-    "ganancias de fideicomisos"
+    "inversión en fideicomisos",
+    "fideicomiso",
+    "ingresos de fideicomisos"
   ],
-  "resumen": "Las personas morales que tributen bajo el Título III de la Ley y que inviertan en fideicomisos están sujetas a ciertas disposiciones por los ingresos que reciben. Esto incluye ingresos de acciones y valores del fideicomiso y financiamiento a sociedades promovidas.",
+  "resumen": "Las personas morales que invierten en fideicomisos están sujetas a las disposiciones del Título III de la Ley por los ingresos obtenidos de las acciones y valores del fideicomiso. Esto incluye los ingresos derivados de su venta y financiamiento a sociedades promovidas.",
   "preguntas_ejemplo": [
-    "¿Cómo se grava a las empresas que invierten en fideicomisos?",
-    "¿Qué ingresos deben declarar las personas morales?",
-    "¿Qué implicaciones fiscales tienen los fideicomisos para empresas?",
-    "¿Las acciones en fideicomisos generan impuestos para las sociedades?",
-    "¿Cómo afecta el financiamiento a la tributación de sociedades en fideicomisos?"
+    "¿Qué obligaciones tienen las personas morales que invierten en fideicomisos?",
+    "¿Cómo se gravan los ingresos de un fideicomiso para una empresa?",
+    "¿Qué dice la ley sobre los ingresos provenientes de fideicomisos?",
+    "¿Qué tipo de ingresos deben reportar las personas morales por su inversión en fideicomisos?",
+    "¿Cómo afecta el financiamiento otorgado a las sociedades promovidas a las personas morales?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c3171a5a1f8c49c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Definiciones del RLISR",
+  "denominacion_comun": "Definiciones del reglamento",
   "temas": [
+    "Impuesto sobre la renta",
     "Ley del Impuesto sobre la Renta",
-    "Impuesto sobre la Renta",
     "Secretaría de Hacienda",
     "Servicio de Administración Tributaria"
   ],
   "terminos_coloquiales": [
-    "definiciones de impuestos",
-    "ley de impuestos",
-    "qué es el SAT",
-    "secretaría de hacienda"
+    "ISR",
+    "impuesto sobre la renta",
+    "Ley del ISR",
+    "SHCP",
+    "SAT"
   ],
-  "resumen": "El artículo establece definiciones claves relacionadas con la ley del impuesto sobre la renta y las entidades involucradas, como la Secretaría de Hacienda y el SAT.",
+  "resumen": "Este artículo establece definiciones clave para el reglamento, indicando qué se entiende por la Ley del Impuesto sobre la Renta, el impuesto sobre la renta, la Secretaría de Hacienda y el Servicio de Administración Tributaria.",
   "preguntas_ejemplo": [
-    "¿Qué es la Ley del Impuesto sobre la Renta?",
-    "¿Quién es el SAT?",
-    "¿Qué significa la Secretaría de Hacienda?",
-    "¿Qué impuestos cubre esta ley?",
-    "¿Cuáles son las definiciones importantes para entender el RLISR?"
+    "¿Qué es el ISR?",
+    "¿Qué significa SAT?",
+    "¿Cuál es la Ley del Impuesto sobre la Renta?",
+    "¿Qué organismo es la Secretaría de Hacienda?",
+    "¿A qué se refiere el impuesto sobre la renta?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:82c3497c31f6a2f3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses reales acumulables",
   "temas": [
-    "Fondos de inversión",
-    "Intereses nominales",
-    "Accionistas personas físicas",
-    "Cálculo de intereses"
+    "fondos de inversión",
+    "intereses nominales",
+    "accionistas personas físicas",
+    "instrumentos de deuda",
+    "cálculo de intereses",
+    "acciones en circulación"
   ],
   "terminos_coloquiales": [
-    "Cálculo de intereses en fondos",
-    "Intereses de fondos de inversión",
-    "Intereses a accionistas",
-    "Intereses acumulables"
+    "intereses de fondos de inversión",
+    "intereses acumulables",
+    "accionistas",
+    "acciones",
+    "fondo de inversión"
   ],
-  "resumen": "Este artículo establece cómo calcular los intereses reales acumulables para los accionistas personas físicas de fondos de inversión. Se toma en cuenta los intereses nominales, el número de acciones y el rendimiento diario de la cartera.",
+  "resumen": "Este artículo establece cómo calcular los intereses reales acumulables que corresponden a los accionistas personas físicas de fondos de inversión. Se detalla cómo restar y sumar intereses nominales y reales de acuerdo con la cantidad de acciones y los días en los que se tienen estas acciones en el fondo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses de mis acciones en un fondo de inversión?",
-    "¿Qué son los intereses acumulables en fondos de inversión?",
-    "¿Cómo se determinan los intereses para accionistas personas físicas?",
-    "¿Qué base se usa para calcular mis intereses en el fondo?",
-    "¿Cada cuándo se calculan los intereses acumulables de las acciones?"
+    "¿Cómo se calculan los intereses de los fondos de inversión?",
+    "¿Qué son los intereses reales acumulables para los accionistas?",
+    "¿Cómo afectan los gastos en el cálculo de intereses en los fondos de inversión?",
+    "¿Qué fórmula se utiliza para obtener los intereses acumulables diarios?",
+    "¿Cómo se determina el total de intereses por acción al final del ejercicio?"
   ]
 }

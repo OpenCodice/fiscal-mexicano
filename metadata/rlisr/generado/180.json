@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dcfd957bf5a0e8c5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de saldos a favor",
+  "denominacion_comun": "Devoluciones de impuestos a trabajadores",
   "temas": [
-    "saldos a favor",
-    "devolución",
-    "trabajador",
+    "devoluciones",
+    "saldo a favor",
     "declaración",
-    "compensación",
-    "Código Fiscal"
+    "trabajadores",
+    "Código Fiscal",
+    "compensación"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
-    "saldos a favor en mi declaración",
-    "cómo pedir devolución",
-    "no compensaron mi saldo",
-    "dinero que me deben"
+    "saldo a favor",
+    "declaración anual",
+    "compensar impuestos"
   ],
-  "resumen": "Este artículo establece que los trabajadores pueden solicitar la devolución de saldos a favor cuando no se puedan compensar. Solo necesitan haber presentado su declaración para hacerlo, sin necesidad de avisar al patrón.",
+  "resumen": "Este artículo establece que los trabajadores pueden solicitar la devolución de saldos a favor sin necesidad de compensarlos, siempre que hayan presentado su declaración. Se deben seguir las disposiciones del Código Fiscal aplicables para dicha solicitud.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pedir la devolución de mi saldo a favor?",
-    "¿Qué necesito para solicitar la devolución de impuestos?",
-    "Si no compensaron mi saldo, ¿puedo seguir pidiendo devolución?",
-    "¿Debo avisar a mi patrón para solicitar la devolución?",
-    "¿Qué artículos debo considerar para la devolución de impuestos?",
-    "¿Qué hago si tengo un saldo a favor y no lo han compensado?"
+    "¿Cómo puedo solicitar la devolución de mi saldo a favor?",
+    "¿Necesito informar a mi patrón para pedir la devolución de impuestos?",
+    "¿Puedo pedir la devolución de impuestos si no compensé mi saldo?",
+    "¿Cuál es el proceso para que un trabajador recupere su saldo a favor?",
+    "¿Qué documentos necesito para solicitar la devolución de impuestos?"
   ]
 }

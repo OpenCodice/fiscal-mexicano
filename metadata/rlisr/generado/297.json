@@ -6,27 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:79269d3d08630d89",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de entidades extranjeras",
+  "denominacion_comun": "Ingresos Pasivos",
   "temas": [
-    "ingresos",
     "enajenación de bienes",
-    "servicios prestados",
-    "jurisdicción",
-    "deducciones"
+    "servicios prestados en el extranjero",
+    "ingresos no pasivos",
+    "jurisdicción extranjera"
   ],
   "terminos_coloquiales": [
-    "ingresos de empresas extranjeras",
-    "bienes fuera del país",
-    "servicios fuera de México",
-    "deducciones en el extranjero"
+    "ingresos de ventas fuera de México",
+    "servicios en el extranjero",
+    "bienes fuera del país"
   ],
-  "resumen": "Los contribuyentes pueden no considerar ciertos ingresos como pasivos si provienen de enajenaciones de bienes o servicios realizados fuera de México, siempre que no estén relacionados con deducciones autorizadas en la ley.",
+  "resumen": "Esta disposición establece que los ingresos por la venta de bienes o la prestación de servicios fuera de México no se consideran ingresos pasivos bajo ciertas condiciones. Esto aplica cuando los bienes no provienen de México o los pagos por servicios no generan deducciones autorizadas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los ingresos de bienes vendidos fuera de México?",
-    "¿Los servicios prestados en el extranjero generan ingresos pasivos?",
-    "¿Cómo se clasifican los ingresos de una entidad extranjera?",
-    "¿Qué debo considerar para no reportar ciertos ingresos como pasivos?"
+    "¿Qué ingresos se consideran no pasivos si se generan en el extranjero?",
+    "¿Cómo se manejan los ingresos por enajenación de bienes fuera de México?",
+    "¿Cuándo los servicios prestados en el extranjero no se consideran ingresos pasivos?",
+    "¿Qué condiciones deben cumplirse para que los ingresos generados en el extranjero no se consideren pasivos?"
   ]
 }

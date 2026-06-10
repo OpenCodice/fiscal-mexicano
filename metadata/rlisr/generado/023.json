@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3cf7da5996b36301",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ajuste de acciones",
   "temas": [
-    "costo de adquisición",
+    "monto original ajustado",
     "acciones",
-    "utilidad fiscal",
-    "diferencias a ajustar"
+    "costo comprobado",
+    "utilidad fiscal neta"
   ],
   "terminos_coloquiales": [
-    "cómo se ajusta el precio de las acciones",
-    "ajuste de costo de acciones",
-    "costo fiscal de acciones"
+    "ajuste de acciones",
+    "costo de acciones",
+    "compra de acciones",
+    "utilidades fiscales",
+    "costo de adquisición"
   ],
-  "resumen": "El artículo trata sobre cómo los contribuyentes pueden ajustar el costo de adquisición de acciones al considerar diferencias fiscales de ejercicios anteriores. Esto implica sumar ciertas cantidades relacionadas con la utilidad fiscal generada desde la compra de las acciones hasta su venta.",
+  "resumen": "Este artículo establece cómo calcular el monto ajustado de las acciones que un contribuyente adquirió, considerando el costo comprobado y ajustes por utilidades fiscales previas. Permite añadir ciertos montos al costo original de adquisición.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo ajustado de mis acciones?",
-    "¿Qué diferencias debo considerar al vender acciones?",
-    "¿Cómo afecta la utilidad fiscal al precio de mis acciones?"
+    "¿Cómo se ajusta el costo de mis acciones?",
+    "¿Qué debo considerar al calcular el costo de adquisición de acciones?",
+    "¿Qué son las utilidades fiscales netas y cómo afectan mis acciones?",
+    "¿Puedo agregar ajustes previos al costo de mis acciones?",
+    "¿Qué información necesito para determinar el monto ajustado de mis acciones?"
   ]
 }

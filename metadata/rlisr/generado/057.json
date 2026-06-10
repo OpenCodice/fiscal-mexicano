@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eda58692fd4a4d16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de viáticos",
@@ -15,21 +16,23 @@
     "gastos de viaje",
     "comprobantes fiscales",
     "servicios personales",
-    "servicios profesionales"
+    "servicios profesionales",
+    "establecimiento del contribuyente"
   ],
   "terminos_coloquiales": [
+    "gastos de viaje",
+    "viáticos",
+    "comprobantes",
     "deducción de viáticos",
-    "gastos de viaje deducibles",
-    "comprobantes de gastos",
-    "viáticos dentro de 50 km",
-    "gastos por viajes de trabajo"
+    "SAT"
   ],
-  "resumen": "El artículo establece que los viáticos y gastos de viaje son deducibles si benefician a alguien que trabaja para el contribuyente y se trasladan fuera de un área de 50 kilómetros. Además, se deben presentar comprobantes fiscales específicos para respaldar estos gastos.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales los viáticos o gastos de viaje son deducibles para el contribuyente. Los gastos deben estar respaldados por comprobantes fiscales y, dependiendo de quién recibe el servicio, pueden ser expedidos a nombre del contribuyente o de la persona que presta el servicio.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir viáticos si viajo más de 50 km?",
-    "¿Qué comprobantes necesito para los gastos de viaje?",
-    "¿Los viáticos para mis empleados son deducibles?",
-    "¿Cómo se maneja la deducción de gastos de viaje para servicios profesionales?",
-    "¿Qué requisitos debo cumplir para deducir viáticos a nombre de mis trabajadores?"
+    "¿Cuáles son los requisitos para deducir viáticos?",
+    "¿Los gastos de viaje son deducibles si los comprobantes están en el extranjero?",
+    "¿A nombre de quién deben estar los comprobantes para deducir viáticos?",
+    "¿Qué debo hacer para deducir gastos de viaje de mis empleados?",
+    "¿Existen límites en la deducción de viáticos?",
+    "¿Qué relación debe haber entre los viáticos y el establecimiento del contribuyente?"
   ]
 }

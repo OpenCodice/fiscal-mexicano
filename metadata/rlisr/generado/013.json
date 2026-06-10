@@ -6,24 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b3bd3f46292c063",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de fuente extranjera",
+  "denominacion_comun": "Pagos provisionales",
   "temas": [
-    "pagos provisionales",
-    "impuesto en el extranjero",
-    "contribuyentes",
-    "fuente de riqueza"
+    "ingresos",
+    "fuente de riqueza",
+    "impuesto pagado en el extranjero",
+    "establecimientos en el extranjero"
   ],
   "terminos_coloquiales": [
-    "ingresos de fuera",
-    "pago de impuestos en el extranjero",
-    "impuestos sobre ingresos extranjeros"
+    "pagos provisionales",
+    "ingresos extranjeros",
+    "fuente de riqueza en el extranjero"
   ],
-  "resumen": "Los contribuyentes pueden excluir ciertos ingresos de origen extranjero al calcular sus pagos provisionales si ya pagaron impuestos por esos ingresos en el país donde se generan. Esto aplica incluso si esos ingresos no están relacionados con sus establecimientos en el extranjero.",
+  "resumen": "Los contribuyentes pueden excluir de sus pagos provisionales los ingresos de fuente de riqueza que estén en el extranjero, siempre y cuando ya se haya pagado el impuesto en ese país. Esto es aplicable incluso si esos ingresos no están relacionados con sus establecimientos fuera del país.",
   "preguntas_ejemplo": [
-    "¿Puedo no incluir ingresos de mi negocio en el extranjero en mis impuestos?",
-    "¿Qué pasa si ya pagué impuestos en el país donde tengo ingresos?",
-    "¿Los ingresos de afuera cuentan para mis pagos provisionales?"
+    "¿Puedo excluir ingresos extranjeros de mis pagos provisionales?",
+    "¿Qué implica pagar impuestos en el país de origen de mis ingresos?",
+    "¿Cómo determinan los ingresos de establecimientos en el extranjero?",
+    "¿Qué se considera una fuente de riqueza ubicada en el extranjero?",
+    "¿Tengo que incluir todos mis ingresos en mis pagos provisionales?"
   ]
 }

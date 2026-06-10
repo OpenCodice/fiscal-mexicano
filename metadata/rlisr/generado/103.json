@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:74328bf420d898ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Constancia de gastos comunes",
+  "denominacion_comun": "Constancia de Gastos Comunes",
   "temas": [
-    "copropiedad",
     "gastos comunes",
-    "actividades agrícolas",
+    "copropiedad",
     "servicios",
-    "impuestos",
-    "comprobantes"
+    "constancia",
+    "impuestos"
   ],
   "terminos_coloquiales": [
-    "comprobantes de gastos compartidos",
+    "gastos compartidos",
+    "gastos en grupo",
+    "comprobante de gastos",
     "constancia de gastos",
-    "gastos en copropiedad",
-    "gastos agrícolas",
-    "gastos de grupo"
+    "CFDI"
   ],
-  "resumen": "Este artículo establece los requisitos para comprobar los gastos comunes en una copropiedad de personas físicas dedicadas a actividades agrícolas, silvícolas, ganaderas o pesqueras. Se debe utilizar una constancia que detalle el monto y los impuestos relacionados, además de información sobre las personas involucradas en la transacción.",
+  "resumen": "El artículo establece que en casos de copropiedad, los contribuyentes pueden comprobar gastos necesarios para actividades agrícolas, ganaderas, silvícolas o pesqueras mediante una constancia que detalle el monto total y los impuestos. La constancia debe incluir datos específicos sobre los involucrados y la operación.",
   "preguntas_ejemplo": [
     "¿Qué es una constancia de gastos comunes?",
-    "¿Cuáles son los requisitos para comprobar gastos en una copropiedad?",
-    "¿Cómo se registran los gastos en actividades agrícolas?",
-    "¿Qué información debe tener la constancia de gastos?",
-    "¿Qué datos necesito para mis comprobantes de gastos compartidos?"
+    "¿Cómo se comprueban los gastos en copropiedad?",
+    "¿Qué información debe contener la constancia de gastos?",
+    "¿Puede un grupo de personas comprobar gastos agrícolas?",
+    "¿Qué tipo de actividades se consideran para gastos comunes?"
   ]
 }

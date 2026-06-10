@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5aaf544f1c207424",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inventario físico y estado financiero",
+  "denominacion_comun": "Inventario físico de existencias",
   "temas": [
-    "inventario físico",
     "estado de posición financiera",
+    "inventario físico",
     "existencias",
-    "conteos físicos parciales",
+    "conteos parciales",
     "corrección de saldos"
   ],
   "terminos_coloquiales": [
-    "cómo hacer el inventario",
-    "cuándo hacer el inventario",
+    "inventario",
     "estado financiero",
-    "existencias",
-    "corrección de saldo"
+    "cuentas",
+    "existencias"
   ],
-  "resumen": "Los contribuyentes deben realizar un inventario físico total de sus existencias al formular su estado financiero. Este inventario puede hacerse al final del mes anterior o mediante conteos parciales durante el ejercicio fiscal.",
+  "resumen": "Este artículo establece que los contribuyentes deben realizar un inventario físico total de sus existencias para formular su estado de posición financiera. El inventario puede hacerse al final del mes anterior o mediante conteos parciales a lo largo del ejercicio, realizando las correcciones necesarias para determinar los saldos correctos.",
   "preguntas_ejemplo": [
-    "¿Cómo debo hacer mi inventario físico?",
-    "¿Cuándo tengo que hacer el inventario para el estado financiero?",
-    "¿Qué es un estado de posición financiera?",
-    "¿Qué pasa si hago un conteo físico parcial?",
-    "¿Cómo corrijo el saldo de existencias?"
+    "¿Cómo hago mi inventario para el estado de posición financiera?",
+    "¿Qué es un inventario físico complementario?",
+    "¿Cuándo debo realizar el inventario de mis existencias?",
+    "¿Es obligatorio hacer un inventario total o parcial?",
+    "¿Qué correcciones debo hacer en mis saldos después del inventario?"
   ]
 }

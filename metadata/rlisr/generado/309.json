@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ff933a615eb17fae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fideicomisos y servicios independientes",
@@ -13,20 +14,23 @@
     "fideicomisos",
     "servicios independientes",
     "ingresos",
-    "impuesto"
+    "impuesto",
+    "institución fiduciaria",
+    "tenedores de certificados",
+    "contraprestación"
   ],
   "terminos_coloquiales": [
-    "fideicomisos en México",
-    "servicios prestados por fideicomisos",
-    "ingresos de fideicomisos",
-    "impuestos sobre ingresos"
+    "fideicomiso",
+    "servicios autónomos",
+    "impuesto sobre ingresos",
+    "certificados de fideicomiso"
   ],
-  "resumen": "El artículo establece condiciones para que un fideicomiso preste servicios independientes a sociedades mexicanas. Los ingresos por estos servicios no pueden ser más del diez por ciento de los ingresos totales del fideicomiso durante el ejercicio fiscal correspondiente.",
+  "resumen": "El artículo establece que los fideicomisos pueden prestar servicios independientes bajo ciertas condiciones, como que estos ingresos no representen más del 10% de sus ingresos totales. También indica cómo deben contabilizarse y la forma en que se trata el impuesto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe cumplir un fideicomiso para prestar servicios independientes?",
-    "¿Cuál es el límite de ingresos por servicios independientes para un fideicomiso?",
-    "¿Cómo se calcula el porcentaje de ingresos de servicios en un fideicomiso?",
-    "¿Qué implicaciones fiscales tienen los ingresos de un fideicomiso por servicios independientes?",
-    "¿La institución fiduciaria retiene impuestos por servicios prestados?"
+    "¿Qué ingresos puede tener un fideicomiso por servicios independientes?",
+    "¿Cómo se calculan los ingresos de un fideicomiso?",
+    "¿Qué obligaciones fiscales tiene un fideicomiso que presta servicios?",
+    "¿Los tenedores de certificados tienen retenciones en los pagos por servicios independientes?",
+    "¿Qué requisitos deben cumplir los fideicomisos para prestar servicios a sociedades no listadas?"
   ]
 }

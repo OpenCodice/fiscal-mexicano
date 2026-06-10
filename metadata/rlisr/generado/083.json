@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28471449220cd380",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Costo de lo vendido",
   "temas": [
+    "costos de producción",
+    "control de inventarios",
+    "materias primas",
+    "productos terminados",
+    "productos semiterminados",
+    "deducciones fiscales",
+    "registro contable"
+  ],
+  "terminos_coloquiales": [
+    "costo de lo vendido",
     "inventarios",
     "materias primas",
     "productos terminados",
-    "costos",
-    "deducción fiscal"
+    "total de compras"
   ],
-  "terminos_coloquiales": [
-    "cómo calcular el costo de lo vendido",
-    "registro de inventarios",
-    "deducción de materias primas",
-    "inventario de productos",
-    "precio de venta"
-  ],
-  "resumen": "Este artículo permite a los contribuyentes que no pueden identificar el valor de sus adquisiciones estimar el costo de lo vendido a través de un control de inventarios. Se toman en cuenta las existencias y adquisiciones de materias primas y productos, así como el inventario al final del ejercicio.",
+  "resumen": "Este artículo establece cómo los contribuyentes pueden determinar el costo de lo vendido a través de un control de inventarios. Deben identificar las existencias y adquisiciones de materias primas, productos semiterminados y productos terminados durante el ejercicio fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo calcular el costo de lo vendido?",
-    "¿Qué debo registrar en mi inventario?",
-    "¿Qué son las materias primas en mi negocio?",
-    "¿Cómo afecta el inventario a mis impuestos?",
-    "¿Qué información necesito para deducir mis costos?"
+    "¿Cómo calculo el costo de lo vendido en mi negocio?",
+    "¿Qué registros debo llevar para las materias primas?",
+    "¿Cómo hago un inventario de productos semiterminados?",
+    "¿Qué debo considerar para determinar mis existencias al final del ejercicio?",
+    "¿Puedo deducir los costos de productos terminados?"
   ]
 }

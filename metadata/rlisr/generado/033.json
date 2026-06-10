@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2f030092b60ff5c0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de gastos en transporte aéreo",
+  "denominacion_comun": "Deducciones para transporte aéreo",
   "temas": [
-    "deducción de ingresos",
-    "gastos estimados",
+    "deducciones",
     "transporte aéreo",
-    "recargos",
-    "declaración de impuestos"
+    "gastos estimados",
+    "ingresos",
+    "recargos"
   ],
   "terminos_coloquiales": [
-    "gastos que se pueden deducir",
-    "deducciones para aerolíneas",
-    "cómo deducir gastos en transporte",
-    "recargos por deducciones"
+    "gastos de avión",
+    "deducción de gastos",
+    "deducción transporte aéreo"
   ],
-  "resumen": "Los contribuyentes del transporte aéreo pueden deducir gastos estimados de ingresos por transportación no utilizada. Si estos gastos superan un límite, se generan recargos que deben pagarse al presentar la declaración fiscal.",
+  "resumen": "Los contribuyentes que operan en el transporte aéreo de pasajeros pueden deducir ciertos gastos relacionados con servicios de transporte no utilizados. Si los gastos estimados superan un porcentaje de los gastos realmente erogados, deberán pagar recargos adicionales.",
   "preguntas_ejemplo": [
-    "¿Qué gastos pueden deducir las aerolíneas?",
+    "¿Qué gastos puedo deducir si tengo una aerolínea?",
     "¿Cómo funcionan las deducciones para el transporte aéreo?",
-    "¿Qué pasa si mis deducciones son mayores a mis gastos reales?",
-    "¿Cuáles son los recargos por deducciones excesivas?",
-    "¿Debo incluir los gastos estimados en mi declaración de impuestos?"
+    "¿Qué pasa si deduzco más de lo que realmente gasté en el año?",
+    "¿Debo acumular gastos estimados de un año anterior?",
+    "¿Qué recargos aplican si mis deducciones son altas?"
   ]
 }

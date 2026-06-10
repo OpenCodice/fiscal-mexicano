@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:76e6c90b01273821",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donaciones a instituciones",
+  "denominacion_comun": "Donaciones",
   "temas": [
+    "bienestar social",
     "donaciones",
-    "bienes",
-    "instituciones",
-    "registro",
-    "control",
+    "entidades donatarias",
+    "control de bienes",
     "cuotas de recuperación"
   ],
   "terminos_coloquiales": [
-    "cómo donar a una institución",
-    "donaciones a ONGs",
-    "recibir donaciones",
-    "cómo se manejan las donaciones",
-    "requisitos para instituciones donatarias"
+    "donaciones",
+    "entidades donatarias",
+    "registro de donaciones",
+    "bienes donados",
+    "donar bienes"
   ],
-  "resumen": "Las instituciones que quieren recibir donaciones deben manifestar su interés al SAT y usar los bienes para su objeto social, sin poder venderlos. Pueden cobrar cuotas de recuperación, pero deben llevar un control de las donaciones recibidas y su uso.",
+  "resumen": "Las instituciones que quieren recibir donaciones deben presentar un aviso al SAT y usar las donaciones para su objetivo social. No pueden vender estas donaciones, aunque pueden cobrar un porcentaje mínimo por su manejo, siempre que lleven un registro de los bienes recibidos y entregados.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para recibir donaciones?",
-    "¿Puedo vender los bienes que recibo como donación?",
-    "¿Cómo manejo las cuotas de recuperación de donaciones?",
-    "¿Qué tipo de registro debo llevar si recibo donaciones?",
-    "¿Puedo usar las donaciones para fines diferentes a mi objeto social?"
+    "¿Qué requisitos debe cumplir una organización para recibir donaciones?",
+    "¿Pueden las entidades donatarias cobrar algo por las donaciones que reciben?",
+    "¿Cómo deben llevar el control de los bienes donados?",
+    "¿Qué pasa si una donataria no utiliza la donación para su objeto social?",
+    "¿Existe un límite para las cuotas de recuperación de donaciones?"
   ]
 }

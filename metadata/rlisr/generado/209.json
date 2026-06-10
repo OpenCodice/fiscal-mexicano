@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:40efd2b46125fa24",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Proporciones de bienes inmuebles",
+  "denominacion_comun": "Proporciones de terrenos y construcciones",
   "temas": [
     "costo de adquisición",
     "avalúo",
+    "valores catastrales",
     "terrenos",
-    "construcción",
-    "valores catastrales"
+    "construcciones"
   ],
   "terminos_coloquiales": [
-    "cómo calcular el valor de un terreno",
-    "valor de la propiedad",
-    "costo de compra de un inmueble",
-    "distribución del precio de una casa",
-    "qué son los valores catastrales"
+    "costo de compra",
+    "valor del terreno",
+    "valor de la construcción",
+    "avalúo",
+    "valores catastrales"
   ],
-  "resumen": "Este artículo explica cómo los contribuyentes pueden determinar la proporción entre el terreno y la construcción en el costo de adquisición de un inmueble. Se pueden usar avalúos o valores catastrales para hacer este cálculo.",
+  "resumen": "Se establece cómo los contribuyentes pueden determinar la proporción del costo entre el terreno y la construcción al adquirir un bien. Esto puede hacerse tomando en cuenta el avalúo o los valores catastrales en la fecha de adquisición.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de un terreno y una construcción?",
-    "¿Qué hacer si no puedo separar el costo de un inmueble?",
-    "¿Qué es un avalúo y cómo afecta el precio de una propiedad?",
-    "¿Qué son los valores catastrales y cómo se utilizan?",
-    "¿Puedo usar el avalúo para calcular el costo de compra?"
+    "¿Cómo se determina el costo del terreno y la construcción al comprar un inmueble?",
+    "¿Qué proporción debo usar si no puedo separar el costo del terreno y la construcción?",
+    "¿Es válido usar el avalúo de la propiedad para calcular el costo?",
+    "¿Qué son los valores catastrales y cómo afectan la compra de un inmueble?",
+    "¿Cómo afecta el valor de un avalúo en mi declaración de impuestos?"
   ]
 }

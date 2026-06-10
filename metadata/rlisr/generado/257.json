@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b82f947c55bf45cc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interés real deducible de créditos hipotecarios",
+  "denominacion_comun": "Intereses Deducibles de Créditos Hipotecarios",
   "temas": [
-    "intereses nominales",
+    "intereses deducibles",
+    "créditos hipotecarios",
+    "moneda nacional",
+    "unidades de inversión",
+    "dólares",
     "ajuste por inflación",
-    "créditos en moneda nacional",
-    "créditos en unidades de inversión",
-    "créditos en dólares"
+    "índice de precios"
   ],
   "terminos_coloquiales": [
-    "cómo deducir intereses de hipotecas",
-    "interés de crédito hipotecario",
-    "ajuste por inflación en hipotecas",
-    "deducción de intereses de préstamo"
+    "intereses de hipoteca",
+    "créditos en pesos",
+    "créditos en UDI",
+    "créditos en dólares",
+    "ajuste inflacionario",
+    "cálculo de intereses"
   ],
-  "resumen": "El artículo establece cómo calcular el interés real deducible de los créditos hipotecarios, considerando factores como el ajuste por inflación y el tipo de cambio en el caso de créditos en dólares. Se explican distintas fórmulas según el tipo de crédito.",
+  "resumen": "Este artículo establece cómo se deben calcular los intereses reales deducibles de los créditos hipotecarios, dependiendo de si son en moneda nacional, unidades de inversión o dólares. Se incluyen ajustes por inflación y conversiones de moneda cuando sea necesario.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el interés deducible de mi crédito hipotecario?",
-    "¿Qué es el ajuste por inflación en los intereses de hipoteca?",
-    "¿Puedo deducir intereses de créditos en dólares?",
-    "¿Cómo afecta la inflación a mis pagos de interés hipotecario?"
+    "¿Cómo se calculan los intereses deducibles de mi crédito hipotecario?",
+    "¿Qué debo considerar para deducir los intereses de una hipoteca en pesos?",
+    "¿Los intereses de mi crédito en dólares son deducibles?",
+    "¿Cómo afecta la inflación a mis intereses deducibles de hipoteca?",
+    "¿Qué es el ajuste por inflación en el cálculo de intereses?",
+    "¿Cómo se manejan los créditos en UDI para deducción de impuestos?"
   ]
 }

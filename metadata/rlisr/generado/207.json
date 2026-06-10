@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af360785bf47ad0a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disminución de Pérdidas",
+  "denominacion_comun": "Pérdidas fiscales",
   "temas": [
-    "pérdidas fiscales",
+    "pérdidas",
+    "deducciones",
     "ingresos",
-    "declaración anual",
-    "deducciones"
+    "declaración anual"
   ],
   "terminos_coloquiales": [
-    "cómo reportar pérdidas",
-    "deducción de pérdidas",
-    "declarar pérdidas",
-    "pérdidas en la declaración"
+    "perder dinero",
+    "declaración de impuestos",
+    "deducciones fiscales"
   ],
-  "resumen": "El artículo establece que si un contribuyente sufre una pérdida, debe disminuirla de sus demás ingresos en su declaración anual, después de hacer las deducciones necesarias. Esto se aplica en el mismo año en que ocurre la pérdida.",
+  "resumen": "El artículo establece que si un contribuyente sufre una pérdida, debe disminuirla de sus ingresos en la declaración anual, después de realizar las deducciones que correspondan. Esta regulación busca equilibrar los ingresos y las pérdidas en el año fiscal en cuestión.",
   "preguntas_ejemplo": [
-    "¿Cómo reporto una pérdida en mi declaración?",
-    "¿Puedo restar mis pérdidas de otros ingresos?",
-    "¿Qué deducciones debo considerar si tengo pérdidas?",
-    "¿Qué pasa si tengo pérdidas en el mismo año fiscal?"
+    "¿Cómo se manejan las pérdidas en mi declaración de impuestos?",
+    "¿Puedo restar pérdidas de mis ingresos?",
+    "¿Qué deducciones debo hacer si tengo pérdidas?",
+    "¿Qué debo hacer con mis pérdidas en la declaración anual?"
   ]
 }

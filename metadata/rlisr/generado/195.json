@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5225720944b68701",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones fiscales",
   "temas": [
     "deducciones",
-    "ingresos",
     "declaración anual",
+    "ingresos",
     "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "deducciones por pérdidas",
-    "ingresos y deducciones",
-    "declaración de impuestos",
-    "cómo deducir"
+    "deducciones fiscales",
+    "declaración de impuestos"
   ],
-  "resumen": "Si tus deducciones son mayores que tus ingresos, puedes usar esa diferencia para reducir otros ingresos a declarar en tu declaración anual. Sin embargo, hay ingresos específicos que no pueden ser afectados por esta deducción.",
+  "resumen": "Las deducciones que superen los ingresos pueden ser deducidas de otros ingresos en la declaración anual del contribuyente, salvo algunas excepciones. Esto permite ajustar la base gravable para el pago de impuestos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis deducciones son más que mis ingresos?",
-    "¿Puedo deducir pérdidas en mi declaración de impuestos?",
-    "¿Cómo afectarán mis deducciones a lo que debo declarar?",
-    "¿Hay ingresos que no puedo deducir de mis ganancias?"
+    "¿Cómo puedo deducir mis gastos fiscales?",
+    "¿Qué deducciones puedo incluir en mi declaración anual?",
+    "Si mis deducciones son mayores que mis ingresos, ¿qué hago?",
+    "¿Puedo deducir gastos de mis ingresos anuales?",
+    "¿Qué excepciones hay para deducir ingresos?"
   ]
 }

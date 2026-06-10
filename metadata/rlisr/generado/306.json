@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9323903f49fcd42b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingreso acumulable por enajenación de terrenos",
   "temas": [
-    "enajenación",
-    "terreno",
+    "enajenación de terrenos",
     "ingreso acumulable",
-    "deducciones",
-    "valor actualizado"
+    "monto deducido",
+    "actualización de ingresos"
   ],
   "terminos_coloquiales": [
     "venta de terrenos",
-    "ingresos por venta",
-    "cómo calcular ingresos por enajenación"
+    "ingresos por venta de propiedad",
+    "monto deducible"
   ],
-  "resumen": "Cuando un contribuyente vende parte de un terreno que compró, debe calcular el ingreso que debe sumar a sus impuestos aplicando un porcentaje al costo deducido de la parte que no vendió. Este monto se actualiza según ciertas normas.",
+  "resumen": "Este artículo establece cómo un contribuyente debe calcular el ingreso acumulable cuando vende una parte de un terreno que ha adquirido. Se aplica un porcentaje al monto deducido correspondiente a la parte del terreno no vendida.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el ingreso acumulable al vender un terreno?",
-    "¿Qué porcentaje se aplica al vender parte de un terreno?",
-    "¿Qué deducciones puedo hacer al vender un terreno?",
-    "¿Cómo se actualiza el monto de un terreno enajenado?"
+    "¿Qué porcentaje se aplica al monto deducido de la venta de terrenos?",
+    "¿Qué debo considerar al enajenar parte de un terreno?",
+    "¿Cómo se actualiza el ingreso acumulable por la venta de terrenos?",
+    "¿Qué significa monto deducido en este contexto?"
   ]
 }

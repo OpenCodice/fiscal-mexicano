@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:229ad548c43a8654",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditación de residencia fiscal",
+  "denominacion_comun": "Acreditación de Residencia Fiscal",
   "temas": [
     "residencia fiscal",
     "doble tributación",
@@ -16,17 +17,17 @@
     "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo comprobar que vivo en otro país",
-    "acreditar residencia en el extranjero",
-    "evitar pagar impuestos dos veces",
-    "documentos para demostrar residencia"
+    "comprobar que vivo en otro país",
+    "acreditar residencia",
+    "constancia de residencia",
+    "doble imposición"
   ],
-  "resumen": "Este artículo establece que los contribuyentes pueden acreditar su residencia fiscal en otro país mediante una constancia o documentos emitidos por autoridades del país en cuestión. La documentación debe ser de un ejercicio fiscal reciente y tendrá vigencia durante el año en que se expida.",
+  "resumen": "Este artículo establece que los contribuyentes pueden acreditar su residencia fiscal en otro país usando una constancia de residencia o documentación emitida por la autoridad fiscal del país correspondiente. Las constancias tienen vigencia durante el año en que se expiden.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo probar que soy residente en otro país?",
+    "¿Cómo puedo demostrar que soy residente en otro país para el impuesto?",
     "¿Qué documentos necesito para evitar la doble tributación?",
-    "¿La constancia de residencia tiene fecha de caducidad?",
-    "¿Puedo usar documentos de años anteriores para acreditar mi residencia?",
-    "¿Qué es un tratado para evitar la doble tributación?"
+    "¿Cuánto tiempo es válida la constancia de residencia fiscal?",
+    "¿Puedo usar la declaración del ejercicio pasado para comprobar mi residencia?",
+    "¿Qué es una constancia de residencia y cómo se obtiene?"
   ]
 }

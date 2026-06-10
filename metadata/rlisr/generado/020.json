@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:42cd2cb8f5e7c752",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cambio de opción fiscal",
+  "denominacion_comun": "Cambio de opción de régimen fiscal",
   "temas": [
-    "cambio de opción",
-    "contribuyente",
+    "cambio de régimen",
     "fusiones",
     "enajenación de acciones",
     "sociedades integradas",
     "escisión de sociedades"
   ],
   "terminos_coloquiales": [
-    "cambiar opción fiscal",
-    "modificar estatus fiscal",
+    "cambio de régimen fiscal",
+    "cambio de opción",
     "fusión de empresas",
     "venta de acciones",
-    "escisión de empresa"
+    "sociedad integrada",
+    "escisión"
   ],
-  "resumen": "El artículo establece que los contribuyentes pueden cambiar su opción fiscal una sola vez antes de cinco años, bajo ciertas condiciones como fusiones, venta de acciones significativas o escisiones de la sociedad.",
+  "resumen": "Este artículo permite a los contribuyentes cambiar su opción de régimen fiscal una vez, bajo ciertas condiciones como fusiones, enajenación de acciones, o cambios en la estructura de la sociedad. Este cambio debe hacerse antes de que transcurra un plazo de cinco años desde el último cambio.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo cambiar mi opción fiscal?",
-    "¿Qué pasa si mi empresa se fusiona?",
-    "¿Puedo modificar mi estatus fiscal si vendo acciones?",
-    "¿Qué es una sociedad integrada y cómo afecta mi opción fiscal?",
-    "¿Qué condiciones permiten un cambio en la opción fiscal?"
+    "¿Cuándo puedo cambiar mi régimen fiscal?",
+    "¿Qué pasa si mi sociedad se fusiona?",
+    "¿Puedo cambiar mi opción si vendo acciones?",
+    "¿Qué es una sociedad integrada?",
+    "¿Bajo qué condiciones puedo escindir mi sociedad?"
   ]
 }

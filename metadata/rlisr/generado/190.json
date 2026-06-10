@@ -6,27 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:65e736a1b312e6c9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento por pagos esporádicos",
+  "denominacion_comun": "Acreditamiento de retenciones",
   "temas": [
     "ingresos esporádicos",
+    "retenciones",
     "pagos provisionales",
-    "retenciones fiscales",
     "personas morales"
   ],
   "terminos_coloquiales": [
-    "deducciones de pagos",
-    "acreditar retenciones",
-    "ingresos irregulares",
-    "cómo manejar pagos esporádicos"
+    "ingresos esporádicos",
+    "retenciones",
+    "pago provisional"
   ],
-  "resumen": "Este artículo permite que los contribuyentes acrediten retenciones de impuestos cuando reciben ingresos de manera esporádica de personas morales. Se refiere a cómo hacer el cálculo y acreditar las retenciones en los pagos provisionales.",
+  "resumen": "Este artículo establece que si el ingreso esporádico proviene de una persona moral, el contribuyente puede acreditar las retenciones hechas en sus pagos provisionales. Esto facilita el manejo de las retenciones fiscales sobre estos ingresos.",
   "preguntas_ejemplo": [
-    "¿Puedo acreditar impuestos si recibo un ingreso único de una empresa?",
-    "¿Cómo se manejan las retenciones de pagos esporádicos?",
-    "¿Qué pasa si una persona moral me hace un pago provisional?",
-    "¿Qué debo hacer si recibo ingresos esporádicos?",
-    "¿Se pueden deducir los pagos esporádicos que recibí?"
+    "¿Cómo puedo acreditar las retenciones en mis ingresos esporádicos?",
+    "¿Qué son los pagos provisionales sobre ingresos de personas morales?",
+    "¿Puedo aplicar retenciones de otras personas morales a mis ingresos esporádicos?"
   ]
 }

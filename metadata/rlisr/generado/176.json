@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a4518b7c484b64e4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones de impuestos",
+  "denominacion_comun": "Retenciones de ISR",
   "temas": [
     "retenciones",
-    "ingresos",
+    "ISR",
     "pagos",
-    "tarifas",
-    "periodos"
+    "tarifa",
+    "periodos",
+    "calculaciones"
   ],
   "terminos_coloquiales": [
-    "quitar impuestos",
+    "retenciones de impuestos",
+    "ISR",
     "retener dinero",
-    "pago de impuestos",
-    "tarifa de retención",
-    "cómo se retiene"
+    "retención quincenal",
+    "retención semanal"
   ],
-  "resumen": "Las personas que deben hacer retenciones pueden elegir entre dos métodos al realizar pagos en ciertos periodos. Pueden aplicar la retención según lo establecido o usar una tarifa publicada por el SAT calculada en semanas, decenas o quincenas.",
+  "resumen": "Este artículo permite a las personas que deben hacer retenciones de ISR elegir entre diferentes métodos de cálculo de las retenciones según el periodo de pago. Pueden optar por seguir lo que dice el artículo 96 de la ley o aplicar una tarifa calculada en semanas o quincenas.",
   "preguntas_ejemplo": [
-    "¿Cómo se hace la retención de impuestos?",
-    "¿Cuáles son las tarifas para retenciones?",
-    "¿Qué periodo debo considerar para la retención?",
-    "¿Puedo elegir cómo retener el impuesto?",
-    "¿Dónde encuentro las tarifas del SAT?"
+    "¿Cómo calcular la retención de ISR en quincenas?",
+    "¿Qué opciones tengo para hacer retenciones de impuestos?",
+    "¿Qué periodo de pago afecta la retención de ISR?",
+    "¿Dónde puedo encontrar las tarifas de ISR publicadas por el SAT?"
   ]
 }

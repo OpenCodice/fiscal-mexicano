@@ -6,32 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fd9f73e3b4c7dbd0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de primas de seguros médicos",
+  "denominacion_comun": "Deducción de seguros médicos",
   "temas": [
+    "primas de seguros",
+    "gastos médicos",
     "deducciones fiscales",
-    "seguros de gastos médicos",
-    "beneficiarios",
-    "trabajadores",
-    "cónyuge",
-    "concubinato",
-    "ascendientes",
-    "descendientes"
+    "beneficios familiares"
   ],
   "terminos_coloquiales": [
-    "deducción de seguros médicos",
-    "quién puede beneficiarse del seguro",
-    "primas deducibles",
-    "seguros para empleados",
-    "familiares en seguros médicos"
+    "seguros médicos",
+    "deducir seguros",
+    "gastos de salud"
   ],
-  "resumen": "Los contribuyentes pueden deducir el pago de primas de seguros de gastos médicos si los beneficios se extienden a sus trabajadores y también a sus familiares directos como cónyuges y descendientes. Esto incluye a personas con las que se vive en concubinato.",
+  "resumen": "Los contribuyentes pueden deducir las primas de seguros de gastos médicos que paguen si los beneficios también son para su cónyuge, pareja en concubinato, o familiares directos. Esto permite una mayor deducción en su declaración fiscal.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los seguros médicos de mi familia?",
-    "¿Quiénes son los beneficiarios aceptados para deducción de seguros?",
-    "¿Qué tipos de seguros puedo deducir en mis impuestos?",
-    "¿Las primas de seguros de mis empleados son deducibles?",
-    "¿Qué requisitos debo cumplir para deducir gastos médicos?"
+    "¿Puedo deducir el seguro médico de mi esposa?",
+    "¿Quiénes pueden beneficiarse de mis seguros médicos para la deducción?",
+    "¿Se pueden deducir los seguros médicos de mis hijos en mi declaración?",
+    "¿Qué seguros médicos son deducibles de impuestos?",
+    "¿Cómo funciona la deducción de seguros médicos en México?"
   ]
 }

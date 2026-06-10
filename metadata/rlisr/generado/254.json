@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:39666530ff825a53",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de intereses hipotecarios",
   "temas": [
-    "intereses reales",
+    "deducción de intereses",
     "créditos hipotecarios",
-    "deducción fiscal",
-    "saldo insoluto"
+    "saldo insoluto",
+    "unidades de inversión",
+    "intereses reales",
+    "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "deducir intereses de mi hipoteca",
-    "intereses de crédito hipotecario",
-    "deducción de intereses",
-    "salto del saldo de crédito",
-    "cuánto puedo deducir de hipoteca"
+    "deducir intereses",
+    "intereses hipotecarios",
+    "crédito de casa",
+    "saldo de hipoteca",
+    "UI",
+    "deducción de intereses en la hipoteca"
   ],
-  "resumen": "Los contribuyentes pueden deducir los intereses reales de créditos hipotecarios pagados en el mismo año, siempre que el saldo del crédito no supere un monto específico. Si el saldo es mayor, solo se podrán deducir los intereses en proporción al monto permitido.",
+  "resumen": "Los contribuyentes pueden deducir los intereses reales pagados de créditos hipotecarios en el mismo ejercicio, siempre que el saldo insoluto no exceda cierta cantidad. Si el saldo supera esa cantidad, solo se pueden deducir los intereses en proporción a un límite establecido.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los intereses de mi hipoteca?",
+    "¿Puedo deducir los intereses que pagué de mi crédito hipotecario?",
     "¿Cuál es el límite para deducir intereses hipotecarios?",
-    "¿Qué intereses se pueden deducir de mi declaración?",
-    "¿Cómo afecta el saldo insoluto al monto que puedo deducir?",
-    "¿Qué debo considerar para deducir mis intereses hipotecarios?"
+    "¿Qué significa saldo insoluto en mi hipoteca?",
+    "¿Cómo se calculan los intereses deducibles de mi casa?",
+    "¿Qué son las unidades de inversión y cómo afectan mi deducción?",
+    "¿Cuándo puedo deducir los intereses de mi crédito de casa?"
   ]
 }

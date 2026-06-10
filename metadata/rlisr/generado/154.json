@@ -6,27 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de21e8bf3585721d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Casa habitación del contribuyente",
+  "denominacion_comun": "Casa Habitación",
   "temas": [
     "superficie del terreno",
+    "área de construcciones",
     "casa habitación",
-    "construcciones",
-    "área cubierta"
+    "artículo 93"
   ],
   "terminos_coloquiales": [
-    "casa habitación",
-    "tamaño del terreno",
-    "área de la casa",
-    "construcción de vivienda"
+    "casa",
+    "vivienda",
+    "casa habitación"
   ],
-  "resumen": "El artículo establece que para determinar lo que se considera casa habitación, se incluye el terreno que no supere tres veces el área construida de la casa. Esto aclara qué parte del terreno está relacionada con la vivienda del contribuyente.",
+  "resumen": "El artículo establece que la casa habitación de un contribuyente incluye el terreno que no supere tres veces el área de las construcciones relacionadas con esa vivienda.",
   "preguntas_ejemplo": [
-    "¿Qué incluye la casa habitación para el cálculo fiscal?",
-    "¿Cómo se mide el terreno de una casa?",
-    "¿Cuánto terreno se considera parte de una casa habitación?",
-    "¿Qué significa área cubierta en una vivienda?",
-    "¿Cuáles son las dimensiones de la casa habitación para impuestos?"
+    "¿Qué se considera casa habitación para fines fiscales?",
+    "¿Cuánto terreno se incluye en la definición de casa habitación?",
+    "¿Qué área se toma en cuenta para la casa habitación?",
+    "¿Cómo se mide la superficie del terreno de mi casa habitación?"
   ]
 }

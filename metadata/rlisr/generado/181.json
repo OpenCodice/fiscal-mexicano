@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aadc86c331ab9591",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de escrito para declaración",
+  "denominacion_comun": "Presentación de escrito para declaración anual",
   "temas": [
-    "plazos de presentación",
     "declaración anual",
-    "retenciones",
-    "obligaciones fiscales"
+    "retenedores",
+    "impuesto anual",
+    "trabajadores",
+    "plazo de presentación"
   ],
   "terminos_coloquiales": [
-    "qué hacer para declarar",
-    "plazo para presentar escrito",
     "declaración de impuestos",
-    "cómo funcionan las retenciones"
+    "trabajadores que presentan declaración",
+    "plazo para presentar escrito"
   ],
-  "resumen": "El artículo establece que deben presentarse ciertos escritos para la declaración anual antes de fin de año y que los retenedores no calcularán el impuesto si se presenta este escrito a tiempo.",
+  "resumen": "Este artículo indica que los trabajadores obligados a presentar su declaración anual deben entregar un escrito a su retenedor antes del 31 de diciembre. Si presentan este escrito, los retenedores no calcularán el impuesto anual para ellos.",
   "preguntas_ejemplo": [
-    "¿Cuándo tengo que presentar el escrito para mi declaración?",
-    "¿Qué pasa si no presento el escrito a tiempo?",
-    "¿Los retenedores hacen el cálculo del impuesto anual automáticamente?",
-    "¿Qué trabajadores necesitan presentar este escrito?",
-    "¿Qué debo hacer para cumplir con mis obligaciones fiscales?"
+    "¿Cuándo debo presentar el escrito para mi declaración anual?",
+    "¿Qué pasa si no entrego el escrito antes del 31 de diciembre?",
+    "¿Los retenedores calculan el impuesto anual para todos los trabajadores?",
+    "¿Qué escrito debo presentar para no pagar el impuesto anual?",
+    "¿A quién debo entregar el escrito para mi declaración anual?"
   ]
 }

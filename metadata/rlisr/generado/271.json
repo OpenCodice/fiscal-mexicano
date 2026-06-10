@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9304627c0605596d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuesto para residentes en el extranjero",
+  "denominacion_comun": "Impuesto por Enajenación de Bienes",
   "temas": [
     "residentes en el extranjero",
-    "impuesto sobre ingresos",
+    "operaciones financieras",
     "enajenación de bienes",
-    "retención de impuestos",
-    "liquidación de operaciones"
+    "retención de impuestos"
   ],
   "terminos_coloquiales": [
-    "impuesto para extranjeros",
-    "retención de impuestos para no residentes",
-    "cobro de impuestos para operaciones en México",
-    "impuesto por vender bienes en México"
+    "impuesto sobre ganancias",
+    "pago de impuestos",
+    "retención fiscal",
+    "bien enajenado",
+    "operación financiera"
   ],
-  "resumen": "Los residentes en el extranjero que realicen operaciones financieras en México están sujetos a impuestos por la venta de bienes. Si liquidan en efectivo, se les retiene el impuesto sobre la ganancia obtenida.",
+  "resumen": "Este artículo establece que los residentes en el extranjero que enajenen bienes o títulos deberán pagar impuestos sobre las ganancias derivadas de estas operaciones. Si la operación se liquida en efectivo, se calculará la retención de impuestos sobre la prima actualizada correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué impuestos debo pagar si vendo bienes en México desde el extranjero?",
-    "¿Cómo se calcula la retención de impuestos para extranjeros?",
-    "Si soy extranjero, ¿qué pasa si liquido una operación en especie en México?",
-    "¿Qué sucede si no pago la operación al liquidar bienes en México?",
-    "¿Qué impuestos aplican a las enajenaciones de bienes por extranjeros?"
+    "¿Qué impuestos debo pagar si vendo bienes desde el extranjero?",
+    "¿Cómo se calcula la retención de impuestos por operaciones financieras desde el extranjero?",
+    "¿Los residentes en el extranjero tienen que pagar impuestos por enajenación de bienes en México?",
+    "¿Qué sucede si una operación financiera se liquida en efectivo?",
+    "¿Cómo afecta la prima actualizada a la retención de impuestos?"
   ]
 }

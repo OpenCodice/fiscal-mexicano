@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2518a6cac9bf1db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pagos en efectivo",
   "temas": [
-    "reportes de pagos",
+    "información fiscal",
     "contribuyentes",
-    "plazo de presentación",
+    "pagos",
+    "efectivo",
     "moneda nacional",
-    "moneda extranjera",
-    "superación de montos"
+    "moneda extranjera"
   ],
   "terminos_coloquiales": [
-    "reportar pagos grandes",
-    "dónde informar sobre pagos",
-    "plazo para reportar ingresos",
-    "recibí mucho dinero en efectivo"
+    "pagos en efectivo",
+    "cantidad en efectivo"
   ],
-  "resumen": "Los contribuyentes deben reportar los pagos en efectivo que superen cierta cantidad dentro de un plazo específico después de recibir el último pago. Esto aplica a pagos en moneda nacional o extranjera.",
+  "resumen": "Los contribuyentes deben presentar información si reciben cantidades en efectivo que superen los seiscientos mil pesos en un ejercicio, y deben hacerlo en un plazo de quince días después de recibir el último pago. Esto aplica tanto para moneda nacional como extranjera.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo reportar si recibí más de 600 mil pesos?",
-    "¿Qué tengo que hacer si me pagan en efectivo?",
-    "¿Cuánto tiempo tengo para informar sobre los pagos recibidos?",
-    "¿Es necesario reportar si son varios pagos en un mismo año?",
-    "¿Qué tipos de moneda se consideran para este reporte?"
+    "¿Qué debo hacer si recibo más de seiscientos mil pesos en efectivo?",
+    "¿Cuánto tiempo tengo para reportar los pagos en efectivo?",
+    "¿Qué pasa si recibo pagos en moneda extranjera?",
+    "¿Cómo se reportan las cantidades recibidas en efectivo?",
+    "¿A quién le tengo que informar sobre los pagos en efectivo?"
   ]
 }

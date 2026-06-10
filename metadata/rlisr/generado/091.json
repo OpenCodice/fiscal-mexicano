@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:087519a662320bfc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondos y Cajas de Ahorro",
@@ -13,21 +14,20 @@
     "avisos fiscales",
     "fondos de ahorro",
     "cajas de ahorro",
-    "trabajadores",
-    "personas morales"
+    "administración de fondos",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "avisos de ahorro",
-    "cajas para empleados",
-    "fondos de ahorro para trabajadores",
-    "avisos ante el SAT"
+    "cajas de ahorro",
+    "fondos de ahorro",
+    "avisos al SAT"
   ],
-  "resumen": "Las entidades que administran fondos y cajas de ahorro de trabajadores deben avisar a las autoridades fiscales según lo que determine el SAT.",
+  "resumen": "Los fondos y cajas de ahorro de trabajadores y las personas morales que los administran deben presentar un aviso ante las autoridades fiscales según lo indique el SAT. Esto es un requisito para cumplir con las obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer con mi caja de ahorro?",
-    "¿Cómo presento un aviso de fondos de ahorro?",
-    "¿Qué requisitos tengo que cumplir para administrar un fondo de ahorro?",
-    "¿Quién debe presentar el aviso ante el SAT?",
-    "¿Qué dice la ley sobre las cajas de ahorro?"
+    "¿Qué avisos debo presentar si tengo una caja de ahorro?",
+    "¿Cuáles son las obligaciones fiscales de los fondos de ahorro?",
+    "¿Cómo se reportan los fondos de ahorro al SAT?",
+    "¿Qué requisitos tienen las personas morales que administran cajas de ahorro?",
+    "¿Dónde encuentro información sobre la administración de fondos de ahorro?"
   ]
 }

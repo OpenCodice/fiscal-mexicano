@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f5d422b75cd5b910",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de declaración de rentas",
+  "denominacion_comun": "Rentas de inmuebles",
   "temas": [
     "declaraciones fiscales",
     "ingresos por rentas",
-    "obligaciones de contribuyentes",
-    "pagos provisionales"
+    "pagos provisionales",
+    "salarios mínimos"
   ],
   "terminos_coloquiales": [
-    "declaración de rentas",
-    "impuestos por alquiler",
-    "obligaciones fiscales por rentas",
-    "declaraciones de ingresos"
+    "alquilar propiedades",
+    "declara rentas",
+    "debido de renta",
+    "rentas temporales"
   ],
-  "resumen": "Los contribuyentes que obtienen ingresos por alquiler de inmuebles deben presentar declaraciones fiscales si sus ingresos superan un cierto monto en el primer año. También deben hacer pagos provisionales durante ese año, sin importar el total que reciban en otros periodos.",
+  "resumen": "Los contribuyentes que solo reciban ingresos por el alquiler de inmuebles deben presentar declaraciones fiscales cuando sus ingresos superen un cierto monto. Deben seguir haciendo pagos provisionales durante el año en que se generen estos ingresos, sin importar cuánto ganen en otros períodos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo declarar mis ingresos por rentas?",
-    "¿Qué obligaciones tengo si alquilo un inmueble?",
-    "¿Cómo se calculan los pagos provisionales por rentas?",
-    "¿Qué pasa si mis ingresos por rentas son bajos?",
-    "¿Cuándo se presentan las declaraciones fiscales por alquileres?"
+    "¿Cuándo debo presentar mi declaración si solo alquilo un inmueble?",
+    "¿Qué pasa si mis ingresos por rentas superan diez salarios mínimos?",
+    "¿Tengo que pagar impuestos si solo recibo ingresos de rentas?",
+    "¿Cómo se realizan los pagos provisionales de mis rentas?",
+    "¿Qué declaraciones debo hacer por alquiler de mi propiedad?"
   ]
 }

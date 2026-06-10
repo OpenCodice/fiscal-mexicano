@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d365a1e48fa34c80",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de enajenación de acciones",
+  "denominacion_comun": "Enajenación de acciones",
   "temas": [
-    "residente en el extranjero",
+    "residentes en el extranjero",
+    "sociedades en México",
     "enajenación de acciones",
-    "sociedad residente en México",
     "reorganización",
+    "reestructuración",
     "fusión",
     "escisión",
-    "documentación requerida"
+    "documentación fiscal"
   ],
   "terminos_coloquiales": [
-    "notificación de venta de acciones",
-    "aviso al SAT sobre acciones",
-    "documentos para enajenación",
-    "reportar fusión de empresa",
-    "avisar cambios en acciones",
-    "proceso de escisión"
+    "vender acciones",
+    "avisos fiscales",
+    "reorganizaciones",
+    "fusiones",
+    "escisiones"
   ],
-  "resumen": "Los residentes en el extranjero que vendan acciones de una empresa mexicana deben avisar a la autoridad fiscal antes de la venta. Este aviso debe incluir documentación sobre la fusión, escisión u operación similar que se va a realizar.",
+  "resumen": "El artículo establece que un residente en el extranjero que desee vender acciones de una sociedad mexicana debe presentar un aviso a la autoridad fiscal un mes antes de la venta. Además, dependiendo del tipo de operación, se debe anexar cierta documentación relacionada con la fusión, escisión o reorganización.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si voy a vender acciones de una empresa en México?",
-    "¿Cuándo tengo que avisar al SAT sobre la enajenación de acciones?",
-    "¿Qué documentos necesito para notificar la fusión de mi empresa?",
-    "¿Es obligatorio informar sobre la reestructuración de acciones?",
-    "¿Qué pasa si no presento el aviso de enajenación a tiempo?"
+    "¿Qué debo hacer si soy un residente en el extranjero y quiero vender acciones en México?",
+    "¿Necesito presentar un aviso antes de vender mis acciones?",
+    "¿Qué documentos se requieren para la fusión de acciones?",
+    "¿Cómo se informa sobre la reestructuración de una sociedad?",
+    "¿Qué sucede si solo quiero realizar una escisión?"
   ]
 }

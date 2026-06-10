@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:383cd86959c610a1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Informe de contraprestaciones",
   "temas": [
-    "informes de ingresos",
-    "contraprestaciones en efectivo",
-    "piezas de oro y plata",
+    "contraprestaciones",
+    "efectivo",
+    "piezas de oro",
+    "piezas de plata",
+    "información fiscal",
     "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "declarar ingresos en efectivo",
-    "informar pagos altos",
-    "reportar dinero en efectivo",
-    "cuánto debo declarar",
-    "información sobre pagos"
+    "pagos en efectivo",
+    "informe de pagos",
+    "informar ingresos",
+    "cien mil pesos",
+    "oro y plata"
   ],
-  "resumen": "Los contribuyentes deben informar sobre los pagos que reciben en efectivo o en piezas de oro y plata si superan un monto específico. Este informe debe hacerse de forma mensual si se rebasan ciertos límites y se refiere a pagos en una sola operación o en varias.",
+  "resumen": "Los contribuyentes deben informar sobre pagos en efectivo, oro o plata que superen ciertos montos. Esto también aplica a pagos fraccionados que, en conjunto, excedan el límite establecido. La información debe ser presentada mensualmente.",
   "preguntas_ejemplo": [
-    "¿Cuánto dinero en efectivo debo reportar?",
-    "¿Qué ingresos en oro y plata tengo que declarar?",
-    "¿Cuáles son mis obligaciones si recibo pagos altos?",
-    "¿Cada cuánto debo informar sobre mis ingresos?",
-    "¿Qué sucede si mezclo efectivo y otros métodos de pago?"
+    "¿Qué debo informar si recibo pagos en efectivo y supera el monto límite?",
+    "¿Cómo reportar ingresos en efectivo y en piezas de oro?",
+    "¿Cuándo debo presentar el informe de mis contraprestaciones?",
+    "¿Qué sucede si realizo varios pagos en efectivo que suman más de cien mil pesos?",
+    "¿Está incluido el pago con cheque en el informe de contraprestaciones?",
+    "¿Qué pasa si recibo parte de mi pago en efectivo y parte por transferencia?"
   ]
 }

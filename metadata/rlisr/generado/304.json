@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c01cb16893e8a1e2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contratos de seguros para pensiones",
+  "denominacion_comun": "Planes de pensiones en seguros",
   "temas": [
-    "Planes de pensiones",
-    "Contratos de seguro",
-    "Edad de jubilación",
-    "Primas deducibles",
-    "Beneficios por fallecimiento",
-    "Anualidades",
-    "Modificación de esquemas",
-    "Rescate y dividendos",
-    "Pago de indemnizaciones"
+    "contratos de seguros",
+    "planes de pensiones",
+    "jubilación",
+    "retiro",
+    "primas deducibles",
+    "anualidades",
+    "invalidez",
+    "fallecimiento"
   ],
   "terminos_coloquiales": [
-    "seguros de pensiones",
-    "contrato de jubilación",
-    "plan de retiro",
-    "seguros para el retiro",
-    "póliza de pensiones"
+    "seguro de pensiones",
+    "jubilación",
+    "retiro",
+    "prima deducible",
+    "anualidad",
+    "invalidez",
+    "póliza de seguro"
   ],
-  "resumen": "Este artículo regula los contratos de seguros que están relacionados con planes de pensiones, estableciendo requisitos sobre su contenido, duración y beneficios. También menciona que las cantidades recibidas por los contratantes no se consideran como jubilaciones o pensiones.",
+  "resumen": "El artículo establece las condiciones para los contratos de seguros que incluyen planes de pensiones relacionados con la jubilación o retiro. Los contratos deben cumplir ciertos requisitos y podrían ofrecer beneficios en caso de invalidez o fallecimiento del asegurado.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debe tener un contrato de seguro de pensión?",
-    "¿A qué edad puedo retirar mi pensión según el contrato de seguro?",
-    "¿Qué sucede si fallezco antes de jubilarme en un contrato de seguro?",
-    "¿Puedo modificar el esquema de mi contrato de seguro de pensión?",
-    "¿Qué beneficios de invalidez se ofrecen en los planes de pensiones?"
+    "¿Qué requisitos debe tener un seguro de pensiones?",
+    "¿Cómo se determina la edad de jubilación en los contratos de seguro?",
+    "¿Qué beneficios ofrece un plan de pensiones en caso de fallecimiento?",
+    "¿Puedo modificar mi plan de pensiones después de contratarlo?",
+    "¿Qué sucede si cancelo mi contrato de seguro de pensiones?"
   ]
 }

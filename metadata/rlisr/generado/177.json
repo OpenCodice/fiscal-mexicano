@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bac1ffeb875b984e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retenciones fiscales",
+  "denominacion_comun": "Retenciones de Impuesto",
   "temas": [
     "retenciones",
     "impuesto",
-    "comprobante fiscal",
-    "pagos",
-    "trabajadores"
+    "comprobantes fiscales",
+    "servicios personales",
+    "cálculo de retención",
+    "modificación de cantidades"
   ],
   "terminos_coloquiales": [
-    "cómo calcular retenciones",
-    "retenciones de impuestos",
-    "comprobantes de retención",
-    "pago de impuestos de trabajadores"
+    "retenciones fiscales",
+    "impuesto a retener",
+    "comprobante fiscal",
+    "pago de sueldos",
+    "cálculo de impuestos"
   ],
-  "resumen": "Los empleadores pueden optar por calcular las retenciones fiscales mensualmente según lo indicado en la ley, debiendo expedir el comprobante correspondiente. Deben determinar el monto total pagado a los trabajadores y aplicar un procedimiento específico para calcular el impuesto a retener.",
+  "resumen": "Este artículo establece cómo las personas que deben hacer retenciones de impuestos pueden calcular y expedir los comprobantes fiscales de acuerdo con las cantidades pagadas a los trabajadores. También menciona que si hay cambios en los montos, se debe recalcular el impuesto a retener.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto que debo retener a mis empleados?",
-    "¿Qué es un comprobante fiscal de retención?",
-    "¿Puedo hacer la retención de impuestos mensualmente?",
-    "¿Cómo afecta el cálculo del pago si hay modificaciones en las cantidades?"
+    "¿Cómo se calcula la retención de impuestos para empleados?",
+    "¿Qué es un comprobante fiscal y cuándo se debe entregar?",
+    "¿Qué hacer si cambio los pagos a mis trabajadores?",
+    "¿Cómo afecta el monto del servicio personal en la retención de impuestos?",
+    "¿Es obligatorio recálcular el impuesto si hay cambios en los pagos?"
   ]
 }

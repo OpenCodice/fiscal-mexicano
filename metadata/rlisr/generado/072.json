@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a7e1cebdd9fbc7d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disposición sobre fondos de pensiones",
+  "denominacion_comun": "Inversiones en fondos de pensiones",
   "temas": [
-    "fondos de pensiones",
+    "pensiones",
     "jubilaciones",
-    "aportaciones patronales",
-    "subcuentas de retiro",
-    "transferencias de fondos"
+    "aportaciones",
+    "recursos acumulables",
+    "subcuentas",
+    "planes personales de retiro",
+    "Seguro Social"
   ],
   "terminos_coloquiales": [
-    "ahorros para el retiro",
-    "jubilación",
     "fondos de pensiones",
-    "subcuenta de aportaciones",
-    "SRP"
+    "jubilación",
+    "pensión",
+    "ahorros para el retiro",
+    "aportaciones del patrón"
   ],
-  "resumen": "Esta disposición establece que, si un trabajador termina su relación laboral antes de jubilarse, las aportaciones y rendimientos de su plan de pensiones deben ser transferidos a una subcuenta específica o a un plan personal de retiro. Además, si el trabajador recibe recursos antes de cumplir con los requisitos, estos se consideran ingresos acumulables.",
+  "resumen": "El artículo establece que si un trabajador termina su relación laboral antes de poder acceder a su jubilación o pensión, las aportaciones del empleador y sus rendimientos no se pueden transferir a otro plan de pensiones. Estas deben ser depositadas en una subcuenta de aportaciones complementarias o en cuentas de planes personales de retiro. Además, cualquier recurso recibido por el trabajador antes de que se cumplan los requisitos se considerará ingreso acumulable.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con mis ahorros si dejo de trabajar antes de jubilarme?",
+    "¿Qué pasa con mis fondos de pensiones si dejo de trabajar antes de jubilarme?",
+    "¿Se pueden transferir mis aportaciones si no accedo a la pensión?",
     "¿Qué son las subcuentas de aportaciones complementarias?",
-    "¿Las aportaciones de mi empleador son transferibles?",
-    "¿Cómo se consideran los ingresos de mis fondos de pensión?",
-    "¿Qué sucede si quiero sacar mi dinero antes de la jubilación?"
+    "¿Las aportaciones del patrón se consideran ingresos acumulables?",
+    "¿Qué recursos se entregan a los trabajadores de un fondo de pensiones?"
   ]
 }

@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51abc384c900e098",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención de ingresos por depósitos de arrendamiento",
+  "denominacion_comun": "Depósitos en arrendamiento",
   "temas": [
     "ingresos acumulables",
-    "depósitos",
-    "arrendamiento",
-    "obligaciones contractuales"
+    "depósitos de arrendamiento",
+    "contrato de arrendamiento",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
     "depósitos de renta",
-    "ingresos por arrendar",
-    "dinero de garantía",
     "renta",
-    "contrato de arrendamiento"
+    "ingresos por alquiler",
+    "arrendador"
   ],
-  "resumen": "Los depósitos que hace un arrendatario para garantizar el contrato de arrendamiento no se consideran ingresos acumulables hasta que se apliquen a una obligación. Si se utilizan, se cuentan como ingresos en el mes en que se usan.",
+  "resumen": "El artículo 16 establece que los depósitos recibidos por el arrendador para garantizar el cumplimiento del contrato de arrendamiento no se consideran ingresos acumulables, siempre y cuando se devuelvan al finalizar el contrato. Sin embargo, si esos depósitos se aplican para cumplir obligaciones del contrato, se consideran ingresos acumulables en el mes que se apliquen.",
   "preguntas_ejemplo": [
-    "¿Los depósitos que recibo por renta son ingresos acumulables?",
-    "¿Qué pasa con el dinero que me da el inquilino como garantía?",
-    "¿Debo reportar el depósito de renta como ingreso?",
-    "Cuando devuelvo el depósito, ¿eso afecta mis ingresos?",
-    "¿Cuándo se considera un depósito como ingreso para mí?"
+    "¿Los depósitos de renta cuentan como ingresos acumulables?",
+    "¿Qué pasa con los depósitos que se quedan en lugar de devolverlos?",
+    "¿Cómo afectarán los depósitos a mis impuestos de renta?",
+    "¿Cuándo debo considerar un depósito como ingreso acumulable?",
+    "¿Qué debo hacer si aplico un depósito a mis obligaciones?"
   ]
 }

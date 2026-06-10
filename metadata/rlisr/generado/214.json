@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52f84ff0462cb359",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo y pago de impuestos por notarios",
+  "denominacion_comun": "Impuesto sobre Enajenaciones",
   "temas": [
-    "impuesto",
     "notarios",
+    "corredores",
+    "jueces",
+    "fe pública",
     "enajenaciones",
-    "funciones notariales",
-    "escritura pública"
+    "impuesto",
+    "escrituras públicas"
   ],
   "terminos_coloquiales": [
-    "impuesto que deben pagar los notarios",
-    "cálculo de impuestos en escrituras",
-    "enajenaciones notariales",
-    "quién paga el impuesto por una venta"
+    "impuesto por vender propiedades",
+    "notarios",
+    "corredores",
+    "jueces",
+    "escrituras"
   ],
-  "resumen": "Los notarios y otros fedatarios están obligados a calcular y pagar el impuesto por las enajenaciones que realicen según la ley. Esto incluye casos especiales en los que se firme por un juez aunque el enajenante esté en rebeldía.",
+  "resumen": "Los notarios, corredores, jueces y otros fedatarios deben calcular y pagar el impuesto correspondiente por las enajenaciones de inmuebles, incluso si la escritura se realizó en situaciones especiales. Esto aplica cuando hay disposiciones legales específicas que deben seguirse.",
   "preguntas_ejemplo": [
-    "¿Los notarios tienen que pagar impuestos por las escrituras que firman?",
-    "¿Qué impuesto se aplica en las enajenaciones notariales?",
-    "¿Los jueces también pueden firmar escrituras y qué implica eso en términos de impuestos?",
-    "¿Cómo calculan los notarios los impuestos por enajenaciones?",
-    "¿Qué pasa si un juez firma una escritura en lugar del enajenante?"
+    "¿Qué impuesto se paga al vender una propiedad?",
+    "¿Los notarios tienen que calcular impuestos por enajenaciones?",
+    "¿Qué pasa si un juez firma una escritura pública?",
+    "¿Quiénes son los fedatarios en el proceso de venta de un inmueble?",
+    "¿Cómo se determina el impuesto por la venta de un inmueble?"
   ]
 }

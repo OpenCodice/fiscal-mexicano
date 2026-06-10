@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7a67cff04b165dcd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Designación de representante en el país",
+  "denominacion_comun": "Representante en el país",
   "temas": [
-    "implicaciones fiscales",
-    "declaraciones de impuestos",
+    "designación de representante",
+    "declaración de impuestos",
     "acciones",
     "residentes en el extranjero"
   ],
   "terminos_coloquiales": [
-    "designar representante",
-    "impuesto por enajenación de acciones",
+    "representante fiscal",
     "declaración de impuestos",
-    "acción de residentes en el extranjero"
+    "impuesto por enajenación",
+    "acciones"
   ],
-  "resumen": "Este artículo establece los plazos para designar un representante en el país que cumpla con ciertos requisitos relacionados con la declaración de impuestos por la venta de acciones de residentes en el extranjero.",
+  "resumen": "Este artículo establece que el representante en el país debe ser designado antes de presentar la declaración de impuestos por la venta de acciones realizadas por un residente en el extranjero. Además, se deben cumplir ciertos requisitos para esta designación.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo designar un representante en México?",
-    "¿Qué requisitos debe cumplir el representante?",
-    "¿Cuál es el plazo para declarar impuestos por enajenación de acciones?",
-    "¿Qué pasa si soy residente en el extranjero y vendo acciones?",
-    "¿Qué declaración tengo que presentar como residente en el extranjero?"
+    "¿Cuándo debo nombrar a un representante en el país?",
+    "¿Qué requisitos necesita mi representante fiscal?",
+    "¿Con qué fecha debo presentar la declaración de impuestos por la venta de acciones?",
+    "¿Qué debo hacer si soy residente en el extranjero y vendo acciones?",
+    "¿Qué implica la designación de un representante en el país?"
   ]
 }

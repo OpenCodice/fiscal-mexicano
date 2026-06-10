@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e70b4ee602700f4a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos por Servicios Personales Subordinados",
+  "denominacion_comun": "Ingresos por servicios personales subordinados",
   "temas": [
     "ingresos",
-    "servicios personales",
     "becas",
-    "ayuda económica",
-    "compensaciones"
+    "ayudas",
+    "compensaciones",
+    "servicios personales",
+    "rentas"
   ],
   "terminos_coloquiales": [
-    "ingresos por becas",
-    "compensaciones por servicios",
-    "ayudas económicas",
-    "rentas y transporte",
-    "servicios subordinados"
+    "ingresos por trabajo",
+    "becas",
+    "ayuda para renta",
+    "compensación de transporte",
+    "dinero por servicios"
   ],
-  "resumen": "Se consideran ingresos aquellos importes de becas y cualquier compensación que se entregue a personas que deben prestar servicios. Esto incluye el dinero o bienes dados por ayuda para renta, transporte, entre otros.",
+  "resumen": "El artículo establece que se consideran ingresos todos los bienes o dinero recibidos por prestar un servicio personal subordinado, incluyendo becas y compensaciones por renta o transporte, sin importar cómo se les nombre.",
   "preguntas_ejemplo": [
-    "¿Qué se considera ingreso si recibo una beca?",
-    "¿Los beneficios en dinero cuentan como ingresos?",
-    "¿Qué tipos de compensaciones se deben declarar?",
-    "¿Las ayudas para transporte son ingresos?",
-    "¿Cómo se consideran los ingresos por servicios subordinados?"
+    "¿Qué se considera ingreso por un servicio personal?",
+    "¿Los ingresos de una beca cuentan como ingresos fiscales?",
+    "¿Qué compensaciones se deben declarar como ingreso?",
+    "¿Se consideran ingresos las ayudas para renta de casa?",
+    "¿Cómo se clasifican los ingresos por becas?"
   ]
 }

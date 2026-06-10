@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f9c512b2131e3193",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donaciones de bienes deteriorados",
+  "denominacion_comun": "Donaciones de bienes por contribuyentes",
   "temas": [
-    "contribuyentes",
-    "donatarias",
-    "bienes deteriorados",
     "donaciones",
+    "bienes perdidos",
     "convenios",
-    "SAT",
-    "avisos"
+    "registro en el SAT",
+    "información a presentar",
+    "bienes destruidos"
   ],
   "terminos_coloquiales": [
-    "donar cosas que ya no sirven",
-    "regalar bienes destruidos",
+    "donar bienes",
+    "registros de donaciones",
+    "donatarias",
     "convenios de donación",
-    "donaciones periódicas",
-    "informar al SAT sobre donaciones"
+    "avisos de donación",
+    "SAT"
   ],
-  "resumen": "Los contribuyentes pueden donar bienes deteriorados a donatarias y deben registrar el convenio en el SAT. También deben informar anualmente sobre los bienes donados y los que fueron destruidos.",
+  "resumen": "Los contribuyentes pueden celebrar convenios con donatarias para donar bienes que han perdido valor. Estas donaciones deben registrarse en el SAT, y los contribuyentes deben informar anualmente sobre los bienes donados o destruidos. Si las donatarias no recogen los bienes a tiempo, el contribuyente puede destruirlos.",
   "preguntas_ejemplo": [
-    "¿Cómo dono bienes que ya no sirven?",
-    "¿Qué debo hacer para registrar una donación con una donataria?",
-    "¿El SAT requiere información sobre mis donaciones?",
-    "¿Qué pasa si la donataria no recoge mis bienes?",
-    "¿Cuándo debo informar al SAT sobre las donaciones que hice?"
+    "¿Cómo dono bienes que ya no tienen valor?",
+    "¿Qué debo hacer para registrar un convenio de donación?",
+    "¿Cada cuánto debo informar al SAT sobre mis donaciones?",
+    "¿Qué pasa si la donataria no recoge los bienes que le doné?",
+    "¿Qué información necesito proporcionar al SAT sobre las donaciones?"
   ]
 }

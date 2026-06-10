@@ -6,25 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd3e27621ca57ac7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enteros de pagos semanales",
+  "denominacion_comun": "Pagos Semanales",
   "temas": [
-    "retención",
+    "retención de impuestos",
     "pagos semanales",
-    "obligaciones del retenedor",
-    "enteros"
+    "enteros de impuestos",
+    "periodo de retención"
   ],
   "terminos_coloquiales": [
-    "¿Cómo se hacen los pagos semanales?",
-    "¿Qué es el entero de la retención?",
-    "Pagos semanales de retención",
-    "Obligaciones del retenedor semanal"
+    "retener impuestos",
+    "pago semanal",
+    "entre semana"
   ],
-  "resumen": "El artículo establece que si los pagos se realizan semanalmente, el retenedor puede hacer los enteros de acuerdo al número de esos pagos en el periodo correspondiente.",
+  "resumen": "El artículo establece que si los pagos se realizan semanalmente, el retenedor debe considerar el número de pagos semanales al hacer las retenciones de impuestos correspondiente. Esto se relaciona con las obligaciones de retención de impuestos sobre los ingresos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo hacer los enteros si pago semanalmente?",
-    "¿Cómo cambio la forma de hacer los enteros por pagos semanales?",
-    "¿Qué considera el retenedor para los enteros en pagos semanales?"
+    "¿Cómo se calcula la retención si hago pagos semanales?",
+    "¿Qué debo considerar al hacer enteros por pagos semanales?",
+    "¿Puedo realizar pagos semanales y cómo afecta la retención de impuestos?",
+    "¿Qué dice la ley sobre la retención de impuestos en pagos semanales?",
+    "¿Cómo afectan los pagos semanales a mis obligaciones fiscales?"
   ]
 }

@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:97adc105aaab1404",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción por refacciones en activo fijo",
+  "denominacion_comun": "Inversiones en activo fijo",
   "temas": [
-    "inversiones de activo fijo",
+    "deducción de inversiones",
     "refacciones",
-    "deducción fiscal",
-    "comprobante fiscal"
+    "comprobante fiscal",
+    "activo fijo",
+    "mantenimiento"
   ],
   "terminos_coloquiales": [
-    "deducción de refacciones",
-    "gastos en mantenimiento",
-    "inversiones en activos",
-    "compras de refacciones"
+    "inversiones en maquinaria",
+    "compras de refacciones",
+    "deducir refacciones",
+    "activo fijo",
+    "factura"
   ],
-  "resumen": "Los contribuyentes pueden incluir el costo de refacciones en la inversión de un activo fijo si se adquieren juntas. También pueden deducir refacciones compradas después para reemplazar las originales, siempre que cumplan con los requisitos establecidos.",
+  "resumen": "Los contribuyentes pueden deducir el costo de refacciones junto con la inversión en activo fijo, siempre y cuando se cumplan ciertos requisitos en la Ley. Si compran refacciones para reemplazar las originales, también pueden deducir esas compras en el ejercicio correspondiente.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el costo de refacciones si las compro junto con un activo fijo?",
-    "¿Cómo se manejan las deducciones de refacciones en mi contabilidad?",
-    "¿Qué requisitos debo cumplir para deducir refacciones en activos?",
-    "¿Es necesario que las refacciones estén en el mismo comprobante que el activo fijo?",
-    "¿Puedo deducir refacciones que compre después de adquirir un activo fijo?"
+    "¿Puedo deducir el costo de refacciones al comprar maquinaria?",
+    "¿Qué requisitos debo cumplir para deducir refacciones de activo fijo?",
+    "¿Cómo se deben documentar las refacciones en la factura?",
+    "¿Se puede deducir refacciones compradas posteriormente a la inversión original?",
+    "¿Qué es una deducción autorizada en el caso de refacciones?"
   ]
 }

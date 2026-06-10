@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad809abf4a94bda5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inversión en Fideicomisos",
+  "denominacion_comun": "Porcentaje de Inversión en Fideicomisos",
   "temas": [
-    "patrimonio del fideicomiso",
-    "porcentaje de inversión",
-    "acciones no listadas",
+    "fideicomisos",
+    "inversiones",
+    "patrimonio",
+    "acciones",
     "financiamiento",
-    "reserva complementaria"
+    "institución fiduciaria"
   ],
   "terminos_coloquiales": [
-    "cómo invertir en fideicomisos",
-    "inversión en acciones mexicanas",
-    "fideicomisos y su patrimonio",
-    "financiamiento mediante fideicomisos"
+    "fideicomiso",
+    "inversión en acciones",
+    "porcentaje de inversión",
+    "inversiones en México"
   ],
-  "resumen": "Este artículo establece los requisitos de inversión que deben cumplir los fideicomisos en relación a su patrimonio, que debe estar en acciones de sociedades mexicanas no listadas o en financiamiento. Si no se cumple con este requisito, no se considerará que el fideicomiso está en regla.",
+  "resumen": "Este artículo regula el porcentaje de inversión que debe mantener un fideicomiso en acciones de sociedades mexicanas no listadas, estipulando que al cuarto año al menos el ochenta por ciento del patrimonio debe estar invertido. Si no se cumple este requisito, se considera fuera de la normatividad establecida.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para que un fideicomiso cumpla con los requisitos de inversión?",
-    "¿Cuál es el porcentaje mínimo de inversión requerido en acciones?",
-    "¿Cómo se calcula el patrimonio de un fideicomiso?",
-    "¿Qué pasa si un fideicomiso no cumple con la inversión a tiempo?",
-    "¿Qué son las reservas complementarias en un fideicomiso?"
+    "¿Cuánto del patrimonio de un fideicomiso debe estar invertido en acciones?",
+    "¿Qué pasa si un fideicomiso no cumple con el porcentaje de inversión requerido?",
+    "¿Cómo se determina el valor del patrimonio de un fideicomiso?",
+    "¿Qué tipo de acciones debe invertir un fideicomiso?",
+    "¿Qué es una institución fiduciaria en relación a fideicomisos?"
   ]
 }

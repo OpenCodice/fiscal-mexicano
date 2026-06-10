@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b339f2e6007aaf2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de Aportaciones Voluntarias",
+  "denominacion_comun": "Aportaciones voluntarias de retiro",
   "temas": [
+    "deducción",
     "aportaciones voluntarias",
-    "deducción fiscal",
-    "empleador",
+    "subcuenta de retiro",
+    "comunicaciones al empleador",
     "comprobantes fiscales",
     "declaración anual"
   ],
   "terminos_coloquiales": [
+    "aportaciones de retiro",
+    "ahorro para el retiro",
     "deducción de aportaciones",
-    "cómo deducir aportaciones de retiro",
-    "aportaciones al ahorro",
-    "declaración de impuestos",
-    "comprobante de ingresos"
+    "comprobante fiscal",
+    "declaración anual"
   ],
-  "resumen": "Este artículo permite a los contribuyentes deducir las aportaciones voluntarias a su subcuenta de retiro, siempre que sigan ciertos requisitos, como avisar al empleador y mantener un monto constante cada mes. También detalla las obligaciones del empleador para reportar estas aportaciones.",
+  "resumen": "Este artículo permite a los contribuyentes deducir las aportaciones voluntarias que realicen a su subcuenta de retiro, siempre que cumplan con ciertos requisitos de comunicación y comprobación. Además, establece que el empleador debe retener y reportar esas aportaciones en los comprobantes fiscales del trabajador.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mis aportaciones voluntarias a la subcuenta de retiro?",
-    "¿Qué requisitos debo cumplir para deducir mis aportaciones voluntarias?",
-    "¿Cómo debe mi empleador reportar mis aportaciones voluntarias?",
-    "¿Qué pasa si no presento mi declaración anual?",
-    "¿Qué información debe contener el comprobante fiscal de mis aportaciones?"
+    "¿Puedo deducir las aportaciones que hago a mi fondo de retiro?",
+    "¿Qué requisitos debo cumplir para deducir mis ahorros de retiro?",
+    "¿Qué información debe incluir el comprobante fiscal que me da mi empleador?",
+    "¿Cómo afectan mis aportaciones voluntarias mi declaración anual?",
+    "¿Cuáles son los límites para deducir mis aportaciones voluntarias?"
   ]
 }

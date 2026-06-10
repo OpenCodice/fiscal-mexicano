@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03ddc18c406b7ff9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos de residentes en el extranjero",
   "temas": [
-    "ingresos",
     "salarios",
     "prestaciones laborales",
-    "residencia fiscal",
-    "territorio nacional"
+    "relación laboral",
+    "ingresos en territorio nacional",
+    "residentes en el extranjero"
   ],
   "terminos_coloquiales": [
-    "ingresos de extranjeros",
-    "salarios de residentes fuera",
-    "prestaciones laborales en México"
+    "sueldos",
+    "ingresos por salarios",
+    "prestaciones",
+    "ingresos laborales",
+    "trabajo desde el extranjero"
   ],
-  "resumen": "Este artículo establece que para calcular los ingresos de los residentes en el extranjero se consideran solo los ingresos por salarios y prestaciones laborales generados en México. Esto incluye cualquier ingreso derivado de su relación laboral en el país.",
+  "resumen": "Este artículo establece que para calcular los ingresos de residentes en el extranjero se deben considerar solo los ingresos por salarios y otras prestaciones laborales generadas en México. Se incluye cualquier ingreso relacionado con la relación laboral en territorio nacional.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos son considerados para los extranjeros que trabajan en México?",
-    "¿Cómo se calculan los salarios de residentes en el extranjero?",
-    "¿Qué tipo de prestaciones laborales deben reportar los extranjeros en México?"
+    "¿Qué ingresos se consideran para residentes en el extranjero?",
+    "¿Cuáles son los salarios que cuentan si trabajo desde otro país?",
+    "¿Qué prestaciones laborales se incluyen si soy residente fuera de México?",
+    "¿Se consideran ingresos por prestaciones laborales en México para quienes viven en el extranjero?",
+    "¿Qué tipo de ingresos tengo que reportar si trabajo en México pero vivo en el extranjero?"
   ]
 }

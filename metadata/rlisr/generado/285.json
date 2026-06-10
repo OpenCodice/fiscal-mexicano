@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb478491a591418f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Informe de enajenación de acciones",
+  "denominacion_comun": "Enajenación de acciones",
   "temas": [
     "acciones",
-    "enajenaciones",
     "capital contable",
-    "valor presente",
-    "métodos de valuación"
+    "valor contable",
+    "contador público",
+    "dictamen",
+    "utilidades",
+    "flujos de efectivo",
+    "cotización bursátil"
   ],
   "terminos_coloquiales": [
-    "valor de acciones",
     "venta de acciones",
-    "dictamen del contador",
+    "valor de acciones",
+    "informe contable",
+    "metodología de valuación",
     "precio de venta de acciones"
   ],
-  "resumen": "El artículo establece que el contador público debe incluir en su informe detalles sobre el valor contable de las acciones enajenadas, incluyendo el capital contable, flujos de efectivo, y métodos utilizados para determinar el precio de venta. También se requiere justificar la selección de los métodos utilizados.",
+  "resumen": "Este artículo establece que al enajenar acciones entre partes relacionadas, el contador público debe detallar en su informe diversos aspectos como el capital contable, los métodos de valuación y la cotización bursátil relevante. También se requiere explicar por qué se eligió cada método para determinar el precio de venta.",
   "preguntas_ejemplo": [
-    "¿Qué información debe contener el informe del contador sobre la venta de acciones?",
-    "¿Cómo se determina el precio de venta de las acciones enajenadas?",
-    "¿Qué métodos puede usar el contador para valorar las acciones?",
-    "¿Qué detalles sobre el capital contable deben incluirse en el dictamen?",
-    "¿Cómo se justifica el método de valuación elegido por el contribuyente?"
+    "¿Qué debe incluir el informe del contador sobre la venta de acciones?",
+    "¿Cómo se determina el valor contable de las acciones enajenadas?",
+    "¿Qué métodos de valuación se pueden usar para acciones?",
+    "¿Qué pasa si se considera el capital contable actualizado al vender acciones?",
+    "¿Cómo se reporta la cotización de acciones en el dictamen contable?"
   ]
 }

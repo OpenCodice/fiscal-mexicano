@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0316b0b4b0e83259",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adquisiciones por prescripción",
+  "denominacion_comun": "Prescripción de bienes",
   "temas": [
-    "valor de bienes",
+    "adquisiciones",
+    "prescripción",
     "avalúo",
-    "prescripción adquisitiva",
-    "sentencia",
-    "demanda",
     "vicios de actos",
-    "impuestos"
+    "impuesto"
   ],
   "terminos_coloquiales": [
-    "cómo se valúa un bien comprado por prescripción",
-    "qué pasa si no sé la fecha de la prescripción",
-    "ingresos no gravados por prescripción",
-    "prescripción positiva y bienes"
+    "usar prescripción",
+    "valor de bienes",
+    "actos sin vicios",
+    "prescripción positiva",
+    "no pagar impuestos"
   ],
-  "resumen": "El valor de los bienes adquiridos por prescripción se determina con un avalúo en la fecha en que se consumó la prescripción. Si no se sabe la fecha exacta, se usa la de la demanda. Los ingresos por bien purgados de vicios no están gravados si ya se pagaron los impuestos correspondientes.",
+  "resumen": "Este artículo regula cómo se determina el valor de los bienes adquiridos por prescripción y establece que los ingresos derivados de la purga de vicios no estarán gravados si se pagó el impuesto correspondiente por los actos relacionados. También menciona cómo definir la fecha de la prescripción.",
   "preguntas_ejemplo": [
     "¿Cómo se determina el valor de un bien adquirido por prescripción?",
-    "¿Qué sucede si no tengo la fecha de la prescripción?",
-    "¿Los ingresos de la prescripción positiva están gravados?",
-    "¿Qué significa purgar vicios en la adquisición de bienes?",
-    "¿Qué impuestos se deben pagar por una adquisición por prescripción?"
+    "¿Cuándo no se paga impuesto por adquisiciones mediante prescripción?",
+    "¿Qué se considera como fecha de prescripción?",
+    "¿Qué pasa si no puedo identificar la fecha en que se consumó la prescripción?",
+    "¿Los ingresos por purgar vicios están gravados?"
   ]
 }

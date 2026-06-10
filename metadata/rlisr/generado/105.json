@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eccae4d1203884b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reducción de Impuestos para Actividades Primarias",
+  "denominacion_comun": "Régimen de Actividades Primarias",
   "temas": [
+    "contribuyentes",
     "actividades agrícolas",
     "actividades silvícolas",
     "actividades ganaderas",
     "actividades pesqueras",
     "reducción de impuestos",
-    "obligaciones fiscales"
+    "pagos provisionales"
   ],
   "terminos_coloquiales": [
-    "impuestos para campesinos",
-    "descuentos fiscales en agricultura",
-    "reducción de tarifas para ganaderos",
-    "ahorro en impuestos pesqueros"
+    "régimen agrícola",
+    "régimen ganadero",
+    "régimen pesquero",
+    "régimen silvícola"
   ],
-  "resumen": "Los contribuyentes que se dedican a actividades como la agricultura, ganadería, silvicultura o pesca y que cumplen con sus obligaciones fiscales, pueden obtener una reducción en sus pagos provisionales de impuestos.",
+  "resumen": "Los contribuyentes que se dediquen únicamente a actividades como agricultura, ganadería, silvicultura o pesca, y que cumplan con sus obligaciones fiscales, pueden beneficiarse de una reducción en los pagos provisionales de impuestos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar menos impuestos si soy agricultor?",
-    "¿Qué requisitos debo cumplir para obtener una reducción de impuestos en actividades silvícolas?",
-    "¿Existen descuentos fiscales para los ganaderos?",
-    "¿Qué implica cumplir con las obligaciones fiscales para acceder a reducciones de impuestos?",
-    "¿Puedo tener un descuento en mis impuestos si pesco profesionalmente?"
+    "¿Qué beneficios fiscales hay para los agricultores?",
+    "¿Puedo reducir mis impuestos si solo hago actividad ganadera?",
+    "¿Qué requisitos debo cumplir para aplicar la reducción en impuestos para actividades pesqueras?",
+    "¿Cómo funcionan los pagos provisionales para los contribuyentes de actividades silvícolas?",
+    "¿Qué significa el régimen de actividades primarias en la ley fiscal?"
   ]
 }

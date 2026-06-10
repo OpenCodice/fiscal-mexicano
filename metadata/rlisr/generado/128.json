@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2600281d697a8b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Comprobantes de donativos",
+  "denominacion_comun": "Donativos Deducibles",
   "temas": [
-    "personas morales",
     "fideicomiso",
-    "donativos deducibles",
+    "donativos",
     "comprobantes fiscales",
+    "deducciones",
     "contabilidad"
   ],
   "terminos_coloquiales": [
-    "recibos de donativos",
-    "facturas de donaciones",
-    "comprobantes para donativos",
-    "fideicomisos y donaciones"
+    "donativos deducibles",
+    "recibos de donación",
+    "fideicomiso",
+    "comprobantes fiscales"
   ],
-  "resumen": "Las empresas y fiduciarias que manejan fideicomisos para donativos deducibles deben usar comprobantes específicos solo para esas donaciones. También deben seguir las reglas para comprobantes de otras actividades y mantener una contabilidad unificada para todas sus operaciones.",
+  "resumen": "Las personas morales y fiduciarias que manejan fideicomisos para recibir donativos deducibles deben usar comprobantes fiscales solo para estas operaciones. Además, deben seguir los requisitos fiscales y mantener una contabilidad adecuada para todas sus actividades.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de comprobantes se necesitan para hacer donativos?",
-    "¿Puedo usar los mismos recibos para donaciones y otras operaciones?",
-    "¿Cómo se manejan los donativos en la contabilidad de una empresa?",
-    "¿Qué requisitos deben cumplir los comprobantes de donativos deducibles?"
+    "¿Qué son los donativos deducibles?",
+    "¿Cómo se deben expedir los comprobantes de donativos?",
+    "¿Qué requisitos fiscales debo seguir para donativos?",
+    "¿Puedo usar los recibos de donación para otras operaciones?",
+    "¿Qué incluye la contabilidad para fideicomisos?"
   ]
 }

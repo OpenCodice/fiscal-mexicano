@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0943b8b65bb26a07",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de cheques",
+  "denominacion_comun": "Deducción de Erogaciones con Cheque",
   "temas": [
-    "deducción fiscal",
-    "cheques",
+    "deducción",
+    "erogaciones",
     "comprobantes fiscales",
-    "ejercicios fiscales"
+    "cheques",
+    "ejercicio fiscal"
   ],
   "terminos_coloquiales": [
-    "deducción de cheques",
-    "cómo deducir un cheque",
-    "plazos para deducción",
-    "deducir con comprobantes"
+    "deducción de gastos",
+    "cheque",
+    "comprobante",
+    "compras con cheque"
   ],
-  "resumen": "Se permite deducir erogaciones con cheque aunque pasen más de cuatro meses entre la fecha del comprobante y el cobro, siempre que se trate del mismo ejercicio. Si el cheque se cobra en el ejercicio siguiente, se puede deducir siempre que no haya pasado más de cuatro meses desde el comprobante.",
+  "resumen": "Se permite la deducción de erogaciones realizadas con cheque, incluso si ha pasado más de cuatro meses desde la fecha del comprobante fiscal hasta el cobro del cheque, siempre que ambas fechas sean del mismo ejercicio. Si el cheque se cobra en el ejercicio siguiente, se puede deducir en ese nuevo ejercicio bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir un cheque aunque pase más de cuatro meses?",
-    "¿Qué pasa si cobro un cheque en el ejercicio siguiente?",
-    "¿Cuándo puedo deducir un gasto con cheque?",
-    "¿Qué requisitos debo cumplir para deducir cheques?"
+    "¿Cuándo puedo deducir gastos si pagué con un cheque?",
+    "¿Puedo deducir un cheque que no he cobrado dentro del plazo?",
+    "¿Qué sucede si cobro un cheque en un ejercicio diferente al del comprobante?",
+    "¿Cuánto tiempo tengo para deducir un cheque?",
+    "¿Qué requisitos debo cumplir para deducir un gasto con cheque?"
   ]
 }

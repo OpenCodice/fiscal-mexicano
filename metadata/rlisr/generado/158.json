@@ -6,24 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:123f041c81b2a061",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Traspaso de recursos entre sociedades de inversión",
+  "denominacion_comun": "Traspaso de recursos de fondos de retiro",
   "temas": [
-    "traspaso de recursos",
     "sociedades de inversión",
     "fondos para el retiro",
-    "aportar al retiro"
+    "aportaciones voluntarias",
+    "subcuentas de retiro",
+    "cesantía en edad avanzada",
+    "ahorro a largo plazo",
+    "seguro de retiro"
   ],
   "terminos_coloquiales": [
-    "movimiento de ahorros para el retiro",
-    "cambio de fondos de inversión",
-    "traspaso de dinero entre fondos de pensiones"
+    "traspaso de recursos",
+    "fondos de retiro",
+    "ahorro para el retiro",
+    "subcuentas de ahorro",
+    "afore"
   ],
-  "resumen": "Este artículo establece el tratamiento fiscal que se dará al traspaso de recursos entre sociedades o administradoras de fondos para el retiro. Específicamente aborda las subcuentas de aportaciones y su tratamiento según la ley correspondiente.",
+  "resumen": "Este artículo regula el traspaso de recursos entre diferentes sociedades y administradoras de fondos para el retiro. Específicamente, hace referencia a recursos provenientes de subcuentas relacionadas con el retiro y aportaciones voluntarias.",
   "preguntas_ejemplo": [
-    "¿Cómo se traspasan los recursos de mi fondo de retiro?",
-    "¿Qué impuestos debo considerar al mover mis inversiones de fondos para el retiro?",
-    "¿Puedo cambiar de administradora para mi ahorro para el retiro sin consecuencias fiscales?"
+    "¿Cómo puedo traspasar mis ahorros de una AFORE a otra?",
+    "¿Qué pasa con mi dinero si cambio de administradora de fondos para el retiro?",
+    "¿Se pueden mover los recursos de mi subcuenta de ahorro para el retiro?",
+    "¿Cuáles son los tipos de aportaciones que se pueden traspasar?",
+    "¿Qué leyes regulan los traspasos entre fondos de retiro?"
   ]
 }

@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bd4d75555a5b7a4b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones fiscales",
+  "denominacion_comun": "Deducciones de Inversión",
   "temas": [
-    "cambios en deducción",
+    "deducciones fiscales",
+    "cambios de deducción",
     "porcentajes de deducción",
-    "plazo para cambios",
-    "actividad preponderante"
+    "inversión",
+    "cambio de actividad",
+    "ingresos fiscales"
   ],
   "terminos_coloquiales": [
-    "cambiar porcentajes de deducción",
-    "deducciones de impuestos",
-    "reglas de deducción",
-    "plazos para deducciones"
+    "deducción de impuestos",
+    "cambio de deducción",
+    "cambio de actividad",
+    "deducción menor"
   ],
-  "resumen": "Los contribuyentes pueden usar porcentajes de deducción diferentes a los establecidos, pero estos son obligatorios y solo se pueden cambiar bajo ciertas condiciones. Si se necesita realizar un segundo cambio, deben pasar al menos cinco años desde el último cambio, excepto si se cumplen ciertas condiciones específicas.",
+  "resumen": "Los contribuyentes pueden elegir porcentajes de deducción menores a los autorizados, pero deben aplicarlos al monto original de la inversión. Los cambios de porcentaje son obligatorios y solo pueden ser modificados después de cinco años, salvo ciertas excepciones como un cambio de actividad o si no ha tenido deducciones mayores que sus ingresos en los últimos tres años.",
   "preguntas_ejemplo": [
-    "¿Puedo cambiar los porcentajes de deducción que estoy aplicando?",
-    "¿Cuánto tiempo debo esperar para cambiar mis deducciones?",
-    "¿Qué condiciones debo cumplir para cambiar mis porcentajes de deducción?",
-    "¿Qué sucede si cambio mi actividad preponderante?",
-    "¿Puedo hacer cambios en mis deducciones si no me ha ido bien en los últimos años?"
+    "¿Cómo puedo cambiar los porcentajes de deducción en mis inversiones?",
+    "¿Cuánto tiempo tengo que esperar para cambiar mis deducciones de impuestos?",
+    "¿Bajo qué condiciones puedo cambiar el porcentaje de deducción que elijo?",
+    "¿Qué sucede si cambió mi actividad preponderante?",
+    "¿Qué requisitos debo cumplir para hacer un cambio en mis deducciones fiscales?"
   ]
 }

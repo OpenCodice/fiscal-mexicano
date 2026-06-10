@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:43b21dd50866230c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cuentas personales especiales",
+  "denominacion_comun": "Cuentas personales especiales para el ahorro",
   "temas": [
     "depósitos",
     "inversiones",
     "retenciones",
-    "comprobantes fiscales"
+    "comprobantes fiscales",
+    "intereses"
   ],
   "terminos_coloquiales": [
-    "cuentas de ahorro especiales",
-    "depósitos especiales",
-    "inversiones en cuentas",
-    "retenciones de impuestos"
+    "cuentas de ahorro",
+    "depósitos en cuenta",
+    "inversiones bancarias",
+    "intereses de ahorros",
+    "LISR"
   ],
-  "resumen": "El artículo establece que las cuentas personales especiales para el ahorro son depósitos o inversiones que deben ser reportados a la institución de crédito. Además, estas cuentas no pueden cederse ni usarse como garantía.",
+  "resumen": "Las cuentas personales especiales para el ahorro son depósitos o inversiones que se realizan en una institución de crédito, siempre y cuando se declare por escrito que se efectúan bajo el artículo 185 de la LISR. La institución de crédito debe incluir una leyenda específica en el comprobante fiscal y realizar las retenciones correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué son las cuentas personales especiales?",
-    "¿Qué debo hacer para abrir una cuenta de ahorro especial?",
-    "¿Cómo se manejan las retenciones en estas cuentas?",
-    "¿Se pueden ceder las cantidades de estas cuentas?"
+    "¿Qué son las cuentas personales especiales para el ahorro?",
+    "¿Cómo se manejan las retenciones en mis depósitos bancarios?",
+    "¿Qué información debe tener el comprobante fiscal de mis inversiones?",
+    "¿Puedo ceder o dar en garantía mis inversiones hechas bajo este artículo?",
+    "¿Qué se considera un depósito para efectos del artículo 185 de la LISR?"
   ]
 }

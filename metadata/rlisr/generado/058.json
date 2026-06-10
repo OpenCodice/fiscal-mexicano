@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a143aaa8a064ccb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de gastos de vehículo",
+  "denominacion_comun": "Deducción de gastos de automóvil",
   "temas": [
     "deducción de gastos",
-    "gasolina",
     "automóvil",
+    "gasolina",
     "servicios personales subordinados",
     "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
-    "deducciones en el uso del carro",
-    "gastos de auto deducibles",
-    "deducir gasolina",
-    "gastos de viaje en vehículo",
-    "días de trabajo y gastos de auto"
+    "gastos de auto",
+    "gastos de gasolina",
+    "deducciones de gasolina",
+    "deducciones de auto",
+    "compras de gasolina",
+    "comprobantes"
   ],
-  "resumen": "Este artículo permite que los contribuyentes deduzcan gastos relacionados con la utilización de un automóvil para prestar servicios relacionados con su trabajo. Los gastos deducibles incluyen gasolina y otros costos, siempre que cumplan ciertos requisitos y se justifiquen con comprobantes fiscales.",
+  "resumen": "Este artículo establece que los contribuyentes pueden deducir gastos relacionados con el uso de un automóvil propiedad de un empleado para actividades del contribuyente. No se puede deducir más de 93 centavos por kilómetro y hay requisitos adicionales que cumplir.",
   "preguntas_ejemplo": [
-    "¿Qué gastos de automóvil puedo deducir?",
-    "¿Puedo deducir la gasolina si uso el auto para mi trabajo?",
-    "¿Qué requisitos debo cumplir para deducir gastos de viaje en vehículo?",
-    "¿Cuánto se puede deducir por kilómetro recorrido?",
-    "¿Qué comprobantes necesito para justificar mis gastos de auto?"
+    "¿Puedo deducir mis gastos de gasolina si utilizo el auto de un empleado?",
+    "¿Cuánto puedo deducir por kilómetro recorrido en mi auto?",
+    "¿Qué comprobantes fiscales necesito para deducir gastos de automóvil?",
+    "¿Cuáles son los requisitos para deducir gastos de gasolina?",
+    "¿Hay un límite de kilómetros que puedo deducir para el uso del automóvil?",
+    "¿Qué pasa si el auto utilizado no es de mi propiedad?"
   ]
 }

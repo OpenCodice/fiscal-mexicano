@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ff8bf940d0d136c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones para evitar retenciones",
+  "denominacion_comun": "Retenciones de Impuesto para Personas Morales",
   "temas": [
-    "retención de impuestos",
-    "personas morales",
-    "declaraciones fiscales",
-    "Impuesto sobre la Renta"
+    "Retención de Impuesto",
+    "Declaración de Impuestos",
+    "Personas Morales",
+    "Registro Federal de Contribuyentes",
+    "No lucrativas"
   ],
   "terminos_coloquiales": [
-    "evitar retenciones",
+    "retención de impuestos",
+    "pago de impuestos",
     "copia de declaración",
-    "personas morales y retenciones",
-    "sello digital"
+    "copia del acuse",
+    "RFC"
   ],
-  "resumen": "Las personas morales deben presentar una copia de su última declaración para evitar la retención del Impuesto. Si son nuevos o son entidades sin fines de lucro, deben presentar un registro de inscripción en el RFC.",
+  "resumen": "Este artículo establece que las personas morales deben presentar una copia sellada o recibo electrónico de su última declaración de impuestos para evitar la retención de impuestos. También menciona que las personas morales no lucrativas deben mostrar su solicitud de inscripción en el RFC.",
   "preguntas_ejemplo": [
-    "¿Qué debo presentar para no tener retenciones?",
-    "¿Las personas morales tienen que enviar su declaración?",
-    "¿Qué es necesario para evitar la retención del impuesto?",
-    "¿Qué documentos necesito si soy una persona moral nueva?",
-    "¿Cómo evitar la retención de impuestos si soy una ONG?"
+    "¿Qué debo presentar para evitar la retención del impuesto?",
+    "¿Qué documentos necesitan las personas morales para su declaración?",
+    "¿Cómo compruebo que he presentado mi declaración de impuestos?",
+    "¿Qué pasa si soy una organización no lucrativa?",
+    "¿Dónde puedo obtener la copia de mi declaración de impuestos?"
   ]
 }

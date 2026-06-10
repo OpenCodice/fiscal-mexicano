@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2c512ccec70e0dff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictamen de Enajenación de Acciones",
+  "denominacion_comun": "Dictamen por enajenación de acciones",
   "temas": [
     "enajenación de acciones",
     "dictamen fiscal",
-    "presentación de documentos",
-    "representante del contribuyente"
+    "representante del contribuyente",
+    "presentación de dictamen",
+    "SAT",
+    "impuesto causado"
   ],
   "terminos_coloquiales": [
-    "cómo presentar un dictamen",
-    "documentos para enajenación de acciones",
-    "obligaciones fiscales por venta de acciones",
-    "requisitos del dictamen de acciones"
+    "venta de acciones",
+    "dictamen de acciones",
+    "firmar el dictamen",
+    "carta del SAT"
   ],
-  "resumen": "Este artículo establece los procedimientos para presentar un dictamen relacionado con la enajenación de acciones. Se requiere que este dictamen sea firmado y presentado ante la autoridad fiscal dentro de plazos específicos tras la declaración del impuesto correspondiente.",
+  "resumen": "Este artículo establece las reglas para presentar el dictamen relacionado con la venta de acciones. El dictamen debe ser firmado por el representante del contribuyente y presentado ante la autoridad fiscal en un plazo determinado después de la declaración de impuesto.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para presentar un dictamen de enajenación?",
-    "¿Cuándo debo presentar el dictamen ante la autoridad fiscal?",
-    "¿Quién puede firmar el dictamen de acciones?",
+    "¿Cuándo debo presentar el dictamen por la venta de mis acciones?",
+    "¿Qué requisitos necesito para el dictamen fiscal de enajenación de acciones?",
+    "¿Cómo se firma el dictamen para el SAT?",
     "¿Qué pasa si no presento el dictamen a tiempo?",
-    "¿Cuál es el plazo para presentar el dictamen de enajenación de acciones?"
+    "¿A quién entrego el dictamen de acciones?"
   ]
 }

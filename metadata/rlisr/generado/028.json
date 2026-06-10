@@ -6,24 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1cc533a4f2b81cc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Estados financieros consolidados",
+  "denominacion_comun": "Estados Financieros Consolidados",
   "temas": [
-    "consolidación",
     "contabilidad",
     "normas financieras",
-    "principios contables"
+    "principios de contabilidad",
+    "restructuración"
   ],
   "terminos_coloquiales": [
-    "cómo hacer estados financieros",
-    "estados financieros para impuestos",
-    "consolidación de estados financieros"
+    "reportes financieros",
+    "balance consolidado",
+    "principios contables",
+    "NIIF",
+    "GAAP"
   ],
-  "resumen": "El artículo establece que los estados financieros consolidados deben elaborarse según normas contables y financieras aplicables, incluyendo normas estadounidenses y normas internacionales. También considera el impacto de reestructuraciones en estos estados.",
+  "resumen": "El artículo establece que los estados financieros consolidados deben elaborarse de acuerdo con las normativas que regulen a los contribuyentes en materia contable y financiera, incluyendo normas internacionales y principios contables específicos. También se considera la reestructuración en su elaboración.",
   "preguntas_ejemplo": [
     "¿Qué son los estados financieros consolidados?",
-    "¿Qué normas debo seguir para elaborar mis estados financieros?",
-    "¿Cómo afectan las reestructuraciones a mis estados financieros?"
+    "¿Cómo se deben elaborar los estados financieros según la ley?",
+    "¿Qué normas de contabilidad se aplican a los estados financieros consolidados?",
+    "¿Qué implica la reestructuración en los estados financieros?",
+    "¿Qué principios contables debo seguir para mis reportes financieros?"
   ]
 }

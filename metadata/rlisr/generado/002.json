@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4bc7cdbbb3bfa9aa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligación de presentar avisos",
+  "denominacion_comun": "Obligaciones de Avisos Fiscales",
   "temas": [
+    "presentación de avisos",
+    "autoridades fiscales",
     "plazos",
     "formas",
-    "avisos fiscales",
     "Código Fiscal de la Federación",
-    "Reglamento",
+    "Reglamento del Código Fiscal",
     "disposiciones generales",
     "SAT"
   ],
   "terminos_coloquiales": [
-    "avisos que hay que presentar",
+    "avisos fiscales",
     "plazos para avisos",
-    "cómo y cuándo presentar avisos",
-    "requisitos para avisos fiscales"
+    "reglamento de avisos",
+    "presentar avisos"
   ],
-  "resumen": "Este artículo establece que cuando la ley o su reglamento indiquen la obligación de presentar avisos a las autoridades fiscales, se deben cumplir los plazos y formas que marque el Código Fiscal de la Federación y el SAT.",
+  "resumen": "Este artículo establece que cuando la ley o su reglamento indiquen la obligación de presentar avisos, estos deben enviarse según los plazos y formas que el Código Fiscal de la Federación y el SAT determinen.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo presentar un aviso ante las autoridades fiscales?",
-    "¿Qué formas hay que seguir para presentar avisos fiscales?",
-    "¿Dónde encuentro los plazos para presentar mis avisos?",
+    "¿Cómo debo presentar mis avisos fiscales?",
+    "¿Cuáles son los plazos para presentar avisos ante el SAT?",
+    "¿Dónde encuentro las formas para presentar avisos fiscales?",
     "¿Qué dice el Código Fiscal sobre la presentación de avisos?",
-    "¿El SAT tiene reglas para los avisos fiscales?"
+    "¿Qué disposiciones generales del SAT debo seguir para mis avisos?"
   ]
 }

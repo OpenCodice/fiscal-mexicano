@@ -6,28 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9df4d5f6580f88e9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Jubilaciones y pensiones",
+  "denominacion_comun": "Jubilaciones y Pensiones",
   "temas": [
     "jubilaciones",
     "pensiones",
     "haberes de retiro",
-    "obligaciones",
-    "pagos",
-    "sustitución de obligaciones"
+    "pagos de pensiones"
   ],
   "terminos_coloquiales": [
     "jubilación",
     "pensión",
-    "haberes",
-    "cambio de pago"
+    "ahorro para el retiro",
+    "pago de pensión"
   ],
-  "resumen": "Este artículo establece que las jubilaciones, pensiones y haberes de retiro mantienen su carácter, incluso si se acuerda cambiar los pagos periódicos por uno o varios pagos únicos.",
+  "resumen": "Las jubilaciones, pensiones y haberes de retiro mantienen su carácter aunque se realicen pagos únicos en lugar de pagos periódicos. Esto significa que se puede acordar pagar de una sola vez sin perder los derechos relacionados con estos beneficios.",
   "preguntas_ejemplo": [
-    "¿Se puede cambiar una pensión mensual por un pago único?",
-    "¿Qué pasa con mi jubilación si decido recibir un solo pago?",
-    "¿Las pensiones siguen siendo válidas si se modifican los términos de pago?",
-    "¿Qué son los haberes de retiro y cómo funcionan?"
+    "Si cambio mi pensión mensual por un pago único, ¿pierdo mi derecho a la pensión?",
+    "¿Las jubilaciones son diferentes a los haberes de retiro?",
+    "¿Qué pasa si decido recibir mi jubilación en un solo pago?"
   ]
 }

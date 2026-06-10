@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c90e77116ab9da23",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago en parcialidades de impuesto",
+  "denominacion_comun": "Pago en parcialidades",
   "temas": [
-    "ganancia enajenación",
-    "pago provisional",
-    "parte acumulable",
-    "parte no acumulable",
-    "interés fiscal",
-    "garantía fiscal",
-    "renovación de garantía"
+    "enajenación",
+    "ganancia acumulable",
+    "impuesto",
+    "garantía",
+    "recargos"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos a plazos",
-    "impuesto por venta a plazos",
-    "garantía para impuestos",
-    "como pagar impuestos en parcialidades"
+    "pago a plazos",
+    "ganancia",
+    "impuesto a la venta",
+    "garantía fiscal"
   ],
-  "resumen": "El artículo establece cómo se debe proceder cuando se pacta el pago de impuestos sobre ganancias por enajenación en parcialidades. Se determina la ganancia acumulable y no acumulable, así como la necesidad de garantizar el interés fiscal mediante una garantía que se debe renovar anualmente.",
+  "resumen": "Este artículo establece el procedimiento para el pago del impuesto en caso de enajenación en parcialidades. Se determina la ganancia acumulable y se garantiza el interés fiscal mediante una garantía que deberá renovarse anualmente hasta liquidar el impuesto correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el impuesto si vendo algo a plazos?",
-    "¿Qué debo hacer si recibo pagos parciales por la venta?",
-    "¿Cómo se calcula la ganancia acumulable?",
-    "¿Qué es la renovación de la garantía fiscal?",
-    "¿Por qué es importante el interés fiscal en las enajenaciones?"
+    "¿Qué pasa si vendo algo en varios pagos?",
+    "¿Cómo calculo el impuesto si recibo el pago a plazos?",
+    "¿Qué es una garantía fiscal y cuándo debo presentarla?",
+    "¿Necesito renovar la garantía cada año?",
+    "¿Qué ocurre si no renuevo la garantía a tiempo?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a833bbc7647a063f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de intereses",
+  "denominacion_comun": "Intereses Deducibles",
   "temas": [
     "intereses deducibles",
-    "tasa de interés",
+    "tasa mensual promedio",
+    "créditos",
     "préstamos",
-    "monedas",
-    "deducciones fiscales"
+    "deducción fiscal"
   ],
   "terminos_coloquiales": [
-    "intereses que se pueden deducir",
-    "cómo deducir intereses",
-    "deducción de préstamos",
-    "intereses de créditos",
-    "tasas de interés deducibles"
+    "intereses deducibles",
+    "deducción de intereses",
+    "tasa de interés más baja",
+    "créditos en monedas",
+    "créditos interbancarios",
+    "LIBOR"
   ],
-  "resumen": "Este artículo establece cómo se determinan los intereses deducibles que un contribuyente puede restar de sus ingresos, considerando tasas promedio mensuales y específicas de otros préstamos. También establece condiciones para las tasas de interés de préstamos en diferentes monedas y regulaciones sobre intereses pagados a terceros.",
+  "resumen": "Este artículo establece cómo se determinan los intereses deducibles para los contribuyentes que otorgan préstamos. Se calcula una tasa mensual promedio y se compara con la tasa más baja de los préstamos otorgados por la empresa, lo que impacta en la deducción que se puede realizar por los intereses pagados.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses deducibles?",
-    "¿Qué tasa de interés puedo deducir?",
-    "¿Se pueden deducir intereses de préstamos a trabajadores?",
-    "¿Qué pasa si la tasa de interés de mi préstamo es más alta?",
-    "¿Cómo afecta la moneda de un préstamo a su deducción?"
+    "¿Cómo se calculan los intereses deducibles de los préstamos?",
+    "¿Qué es la tasa mensual promedio para deducción de intereses?",
+    "¿Cómo afecta la tasa de interés que ofrezco a la deducción fiscal?",
+    "¿Qué hacer si no tengo créditos suficientes en la moneda del préstamo?",
+    "¿Qué tasa se considera si otorgo un préstamo en dólares?"
   ]
 }

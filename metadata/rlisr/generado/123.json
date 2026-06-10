@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f809672401dab718",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses pagados a residentes en el extranjero",
   "temas": [
-    "residentes en el país",
-    "pagos por intereses",
+    "intereses",
     "residentes en el extranjero",
     "comprobantes fiscales",
-    "beneficiarios efectivos",
+    "títulos de crédito",
     "agentes pagadores"
   ],
   "terminos_coloquiales": [
-    "intereses a extranjeros",
-    "comprobantes de intereses",
-    "pagos de intereses al extranjero",
-    "certificado de intereses",
-    "intereses de títulos de crédito"
+    "intereses",
+    "comprobantes fiscales",
+    "notas de interés",
+    "residentes en el extranjero",
+    "agentes pagadores"
   ],
-  "resumen": "Este artículo establece que los residentes en México que realicen pagos de intereses a residentes en el extranjero deben expedir comprobantes fiscales solo a los beneficiarios que lo soliciten. También se requiere que los beneficiarios demuestren su calidad como tales para recibir los comprobantes.",
+  "resumen": "Los residentes en México que paguen intereses a personas en el extranjero pueden emitir comprobantes fiscales solo si los beneficiarios lo solicitan. Además, deben proporcionar información para la emisión de estos comprobantes y expedirlos a los agentes pagadores correspondientes si no se han emitido previamente.",
   "preguntas_ejemplo": [
-    "¿Cómo se reportan los intereses pagados a extranjeros?",
-    "¿Quién puede solicitar un comprobante fiscal por intereses?",
-    "¿Qué información necesito para obtener un comprobante fiscal?",
-    "¿Los agentes pagadores necesitan comprobantes fiscales?",
-    "¿Qué hacer si no se expedieron comprobantes fiscales a los beneficiarios efectivos?"
+    "¿Cómo se expiden los comprobantes fiscales por intereses pagados a extranjeros?",
+    "¿Qué información necesito para certificar a un beneficiario extranjero?",
+    "¿Los comprobantes fiscales son obligatorios para todos los pagos de intereses?",
+    "¿Qué debo hacer si no tengo el comprobante fiscal de un interés?",
+    "¿Quiénes son considerados beneficiarios efectivos de intereses?"
   ]
 }

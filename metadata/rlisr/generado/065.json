@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e5287b1a032667c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reservas para fondos de pensiones",
+  "denominacion_comun": "Reserva para Fondos de Pensiones",
   "temas": [
     "fondos de pensiones",
     "jubilaciones",
-    "reservas",
     "aportaciones",
-    "deducciones",
-    "gastos de administración",
-    "utilidades y pérdidas actuariales",
-    "avisos a autoridades fiscales"
+    "deducciones fiscales",
+    "sistema actuarial",
+    "beneficios",
+    "gastos de administración"
   ],
   "terminos_coloquiales": [
-    "ahorros para el retiro",
-    "fondo de pensiones",
-    "ahorros de jubilación",
+    "ahorros para pensión",
+    "fondo de jubilación",
     "aportaciones a pensiones",
     "deducción de pensiones"
   ],
-  "resumen": "El artículo establece cómo deben crearse y calcularse las reservas para fondos de pensiones, incluyendo las aportaciones y las condiciones para su deducibilidad. También menciona que los trabajadores pueden aportar, pero sus aportaciones no son deducibles para el contribuyente.",
+  "resumen": "Este artículo establece cómo se deben crear y calcular las reservas para fondos de pensiones o jubilaciones, incluyendo la deducción de aportaciones y su incremento y decremento. También se menciona la obligación de presentar aviso a las autoridades fiscales sobre la creación o cambios en el fondo.",
   "preguntas_ejemplo": [
-    "¿Cómo se crean las reservas para fondos de pensiones?",
-    "¿Puedo deducir las aportaciones a un fondo de jubilación?",
-    "¿Qué pasa si hay pérdidas en el fondo de pensiones?",
-    "¿Cuáles son los plazos para avisar a la autoridad fiscal sobre cambios en el fondo?",
-    "¿Las aportaciones de los trabajadores son deducibles?"
+    "¿Cómo se calcula la reserva para un fondo de pensiones?",
+    "¿Puedo deducir las aportaciones a mi fondo de jubilación?",
+    "¿Qué pasa con las aportaciones de los trabajadores al fondo de pensiones?",
+    "¿Qué debo hacer si cambio mi fondo de pensión?",
+    "¿Cómo afectan las pérdidas de capital al fondo de jubilación?",
+    "¿Tengo que avisar a la autoridad fiscal sobre mi fondo de pensiones?"
   ]
 }

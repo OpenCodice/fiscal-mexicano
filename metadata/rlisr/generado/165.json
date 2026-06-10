@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:54eb1c77efb809ff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exenciones por jubilaciones y pensiones",
+  "denominacion_comun": "Retenciones sobre pensiones",
   "temas": [
-    "retención de impuestos",
-    "exenciones fiscales",
-    "jubilaciones",
+    "exenciones",
     "pensiones",
-    "ingresos",
+    "jubilaciones",
+    "haberes de retiro",
+    "retenciones",
     "declaración anual"
   ],
   "terminos_coloquiales": [
+    "ingresos por pensiones",
+    "retiro",
+    "jubilación",
     "exención de impuestos",
-    "exención por jubilación",
-    "pensiones y retenciones",
-    "cómo evitar retención de impuestos",
-    "impuesto sobre pensiones"
+    "retenciones de impuestos",
+    "salario mínimo",
+    "declaración de impuestos"
   ],
-  "resumen": "El artículo regula cómo deben manejarse las exenciones fiscales para jubilaciones y pensiones, especificando los ingresos que se toman en cuenta y las condiciones bajo las cuales no se realizará retención de impuestos. Además, menciona la obligación de informar los ingresos recibidos de diferentes fuentes.",
+  "resumen": "Este artículo establece cómo deben calcular las retenciones e impuestos sobre las pensiones y jubilaciones que reciben los contribuyentes. Si los ingresos no superan un monto específico, no se realizarán retenciones. También se menciona la necesidad de informar a quienes realizan los pagos sobre la cantidad total recibida de otras fuentes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con mis pensiones si recibo pagos de varias personas?",
-    "¿Cómo sé si me deben retener impuestos de mi jubilación?",
-    "¿Cuándo debo informar a mis pagadores sobre mis ingresos?",
-    "¿Qué es la exención mensual en mis ingresos?",
-    "¿Cómo se calcula la retención de impuestos sobre mi pensión?"
+    "¿Cómo calculo el impuesto sobre mi pensión?",
+    "¿Qué monto de mis ingresos por jubilación está exento de impuestos?",
+    "¿Debo informar a mis pagadores sobre otros ingresos que recibo?",
+    "¿Qué sucede si mis ingresos de pensiones exceden el límite establecido?",
+    "¿Cómo se realiza la retención de impuestos sobre mis haberes de retiro?"
   ]
 }

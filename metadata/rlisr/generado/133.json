@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:72404495b127df82",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fideicomisos para donativos deducibles",
+  "denominacion_comun": "Fideicomisos y Donativos Deducibles",
   "temas": [
     "fideicomisos",
-    "donativos deducibles",
+    "donativos",
+    "deducción fiscal",
     "obligaciones fiscales",
-    "instituciones fiduciarias",
-    "asociaciones civiles"
+    "instituciones fiduciarias"
   ],
   "terminos_coloquiales": [
-    "fideicomisos para donaciones",
-    "donativos que se pueden deducir",
-    "fideicomisos y donativos",
-    "requisitos para donativos",
-    "fideicomisos y obligaciones fiscales"
+    "donativos deducibles",
+    "fideicomisos",
+    "deducción de impuestos"
   ],
-  "resumen": "Los fideicomisos pueden recibir donativos deducibles si cumplen con ciertos requisitos legales. Las instituciones que manejan estos fideicomisos deben seguir las mismas reglas fiscales que las asociaciones civiles que reciben donativos.",
+  "resumen": "Los fideicomisos que tengan ciertas finalidades específicas pueden ser autorizados para recibir donativos deducibles del impuesto, siempre que cumplan con los requisitos fiscales. Las instituciones que administran estos fideicomisos deben seguir las mismas obligaciones fiscales que las asociaciones o sociedades civiles que reciben donativos.",
   "preguntas_ejemplo": [
     "¿Qué fideicomisos pueden recibir donativos deducibles?",
-    "¿Cuáles son las obligaciones fiscales de un fideicomiso?",
-    "¿Los fideicomisos para donaciones tienen que cumplir requisitos?",
-    "¿Qué se necesita para hacer un donativo deducible?",
-    "¿Las instituciones fiduciarias tienen obligaciones fiscales especiales?"
+    "¿Cuáles son las obligaciones fiscales de los fideicomisos?",
+    "¿Qué requisitos deben cumplir los fideicomisos para ser autorizados?",
+    "¿Pueden las instituciones fiduciarias recibir donativos deducibles?",
+    "¿Cómo funciona la deducción de donativos en fideicomisos?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ce585fe32dd90a72",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo y entero del impuesto en enajenaciones",
+  "denominacion_comun": "Enajenación de inmuebles",
   "temas": [
-    "Impuesto de enajenación",
-    "Funciones notariales",
-    "Requisitos para notarios",
-    "Declaraciones fiscales"
+    "Impuesto sobre enajenación",
+    "Notarios",
+    "Corredores",
+    "Fedatarios",
+    "Activos de la empresa"
   ],
   "terminos_coloquiales": [
-    "Impuesto por venta de propiedades",
-    "Cálculo de impuestos para notarios",
-    "Requisitos fiscales para notarios",
-    "Impuesto de enajenación de inmuebles"
+    "venta de propiedades",
+    "cálculo de impuestos",
+    "declaración de impuestos",
+    "Impuesto sobre la Renta",
+    "ISR"
   ],
-  "resumen": "Los notarios y fedatarios no necesitan calcular impuestos en enajenaciones de inmuebles si se cumplen ciertos requisitos de declaración por parte de las personas físicas. Sin embargo, si los enajenantes son contribuyentes en un régimen específico, sí deben calcular y pagar el impuesto correspondiente.",
+  "resumen": "Este artículo establece que ciertos fedatarios están exentos de calcular e informar un impuesto cuando se venden inmuebles que son parte del activo de la empresa. Si los contribuyentes pertenecen a un régimen específico, deberán calcular y declarar ese impuesto.",
   "preguntas_ejemplo": [
-    "¿Los notarios siempre tienen que calcular impuestos al vender propiedades?",
-    "¿Qué requisitos deben presentar las personas para que los notarios no calculen impuestos?",
-    "¿Cómo se manejan los impuestos si el vendedor es una empresa?",
-    "¿Qué documentos necesitan los notarios para las enajenaciones de inmuebles?",
-    "¿Qué pasa si no tengo la declaración del impuesto de enajenación al vender mi propiedad?"
+    "¿Los notarios tienen que calcular impuestos al vender un inmueble?",
+    "¿Qué pasa si el inmueble es parte de una empresa?",
+    "¿Qué documentos necesito para vender una propiedad como persona física?",
+    "¿Quiénes están exentos de calcular el impuesto en la venta de inmuebles?",
+    "¿Qué es el artículo 126 de la Ley de ISR?",
+    "¿Cómo declaro una enajenación de un inmueble?"
   ]
 }

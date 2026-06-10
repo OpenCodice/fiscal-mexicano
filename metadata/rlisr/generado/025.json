@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ccfe6dab80a040a7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo promedio de acciones en escisiones",
+  "denominacion_comun": "Escisión de sociedades",
   "temas": [
-    "costo promedio",
-    "acciones",
-    "sociedades",
-    "escisiones",
+    "acción",
     "capital contable",
-    "asamblea de accionistas"
+    "asamblea de accionistas",
+    "escisión",
+    "sociedades"
   ],
   "terminos_coloquiales": [
-    "cómo se evalúan las acciones",
-    "distribución de acciones en escisiones",
-    "costo de acciones escindidas",
-    "qué significa escisión",
-    "acciones de empresas"
+    "división de empresas",
+    "restructuración de sociedades",
+    "acciones",
+    "capital",
+    "escisiones"
   ],
-  "resumen": "Este artículo explica cómo se determina el costo promedio por acción al realizar una escisión de una sociedad, basándose en el capital contable aprobado por los accionistas.",
+  "resumen": "El artículo establece cómo se debe calcular el costo promedio por acción en una escisión de sociedades, basándose en la proporción del capital contable aprobado por la asamblea de accionistas. Esto aplica a las sociedades que se escinden.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuyen las acciones en una escisión?",
-    "¿Qué es el costo promedio de acciones?",
-    "¿Qué documentos necesito para calcular el costo de acciones tras una escisión?",
-    "¿Cómo afecta el capital contable en la escisión de una empresa?"
+    "¿Cómo se determina el costo de acciones en una escisión?",
+    "¿Qué es una escisión de sociedades?",
+    "¿Qué decisiones toma la asamblea de accionistas en una escisión?",
+    "¿Cómo afecta la escisión al capital contable de una empresa?",
+    "¿Qué significa dividir acciones en una escisión?"
   ]
 }

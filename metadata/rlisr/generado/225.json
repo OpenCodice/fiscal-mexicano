@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:edb7800087ff2a21",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses acumulables en sociedades de inversión",
+  "denominacion_comun": "Intereses acumulables de sociedades de inversión",
   "temas": [
-    "intereses nominales",
     "intereses reales",
+    "intereses nominales",
     "sociedades de inversión",
     "aportes voluntarios",
-    "cálculo de intereses"
+    "fondos para el retiro",
+    "instrumentos de deuda",
+    "cartera accionaria",
+    "valores gravados",
+    "inversionistas"
   ],
   "terminos_coloquiales": [
-    "intereses en fondos de retiro",
-    "cálculo de intereses en inversiones",
-    "sociedades de inversión",
     "intereses acumulables",
-    "como se calculan los intereses"
+    "fondos de retiro",
+    "sociedades de inversión",
+    "inversionistas"
   ],
-  "resumen": "El artículo establece cómo las sociedades de inversión deben calcular los intereses reales acumulables de los inversionistas provenientes de aportaciones voluntarias. Se detallan los pasos para determinar los intereses nominales y reales considerando diferentes factores de los instrumentos de deuda.",
+  "resumen": "El artículo establece cómo las sociedades de inversión deben calcular los intereses acumulables y nominales de sus inversionistas, diferenciando entre instrumentos gravados y exentos. Los cálculos deben hacerse diariamente y reflejar la participación de cada inversionista en la sociedad.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los intereses acumulables en mi inversión?",
-    "¿Qué son los intereses nominales y cómo se obtienen?",
-    "¿Cuáles son las obligaciones de las sociedades de inversión respecto a los intereses?",
-    "¿Qué factor se utiliza para calcular los intereses reales acumulables?",
-    "¿Cómo se determina la participación diaria de un inversionista en la sociedad?"
+    "¿Cómo se calculan los intereses sobre mi inversión en fondos de retiro?",
+    "¿Qué son los intereses nominales y cómo se determinan?",
+    "¿Cómo afectan los intereses gravados a mis aportaciones voluntarias?",
+    "¿Qué debo saber sobre la cartera accionaria de mi sociedad de inversión?",
+    "¿Cuál es la diferencia entre intereses reales y nominales?",
+    "¿Cómo se calculan los intereses acumulables de mis inversiones?"
   ]
 }

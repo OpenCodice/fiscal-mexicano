@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f8acc50242c6d65f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Viáticos en el extranjero",
+  "denominacion_comun": "Viáticos para comisiones al extranjero",
   "temas": [
     "viáticos",
-    "servidores públicos",
     "comisiones oficiales",
-    "comprobantes fiscales",
+    "servidores públicos",
+    "gastos en el extranjero",
     "hospedaje",
-    "pasajes de avión",
-    "gastos efectuados"
+    "pasajes",
+    "comprobantes fiscales"
   ],
   "terminos_coloquiales": [
+    "viáticos",
     "gastos de viaje",
-    "comisiones en el extranjero",
-    "reembolsos de viáticos",
-    "pago de viáticos",
-    "reporte de gastos"
+    "comprobantes de viaje"
   ],
-  "resumen": "Este artículo regula cómo deben comprobarse los viáticos de los servidores públicos en comisiones oficiales en el extranjero. Se requieren comprobantes fiscales para gastos como hospedaje y pasajes de avión, y estas reglas también aplican a personas físicas bajo ciertas condiciones.",
+  "resumen": "Este artículo regula cómo se deben comprobar los viáticos de servidores públicos que viajan al extranjero por comisiones oficiales, así como las condiciones para que personas físicas puedan recibir estos viáticos. Se requiere que los gastos estén respaldados con comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo se comprueban los viáticos cuando un servidor público viaja al extranjero?",
-    "¿Qué comprobantes necesito para mis gastos de viaje como servidor público?",
-    "¿Puedo recibir viáticos si soy una persona física y no un servidor público?",
-    "¿Cuáles son las reglas para los viáticos en las comisiones oficiales?",
-    "¿Qué gastos puedo incluir en mi informe de comisión en el extranjero?"
+    "¿Cómo puedo comprobar los viáticos de un viaje al extranjero?",
+    "¿Qué gastos se consideran viáticos para servidores públicos?",
+    "¿Qué tipo de comprobantes necesito para viáticos internacionales?",
+    "¿Los viáticos son aplicables a personas distintas a servidores públicos?",
+    "¿Cómo se determinan los montos de los viáticos en el extranjero?"
   ]
 }

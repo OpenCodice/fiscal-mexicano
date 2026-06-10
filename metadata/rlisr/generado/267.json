@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:db28ca1ee2e548db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos y deducciones fiscales",
+  "denominacion_comun": "Donativos",
   "temas": [
-    "donativos",
-    "deducción fiscal",
-    "bienes",
+    "donativos deducibles",
+    "bien donado",
+    "cantidad ajustada",
     "monumentos artísticos",
-    "organismos descentralizados"
+    "historicos",
+    "donativos no deducibles"
   ],
   "terminos_coloquiales": [
-    "reglas de donaciones",
-    "donar bienes",
-    "deducciones por donativos",
-    "impuestos sobre donativos"
+    "donativos",
+    "bien donado",
+    "ayuda económica",
+    "donaciones",
+    "monumentos",
+    "artículos históricos"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales los donativos pueden ser deducidos. En particular, menciona que los donativos de ciertos bienes no son deducibles y define cómo calcular el monto a donar según las normas fiscales.",
+  "resumen": "El artículo establece las condiciones bajo las cuales los donativos de bienes pueden ser deducibles o no. Los bienes donados que ya han sido deducidos no podrán volver a serlo, y se especifica cómo se debe ajustar el costo de adquisición de los bienes donados. También menciona que los monumentos artísticos o históricos donados a entidades públicas son considerados dentro de los donativos deducibles.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de donativos son deducibles?",
-    "¿Puedo deducir donaciones de bienes?",
-    "¿Cómo se calculan las donaciones no deducibles?",
-    "¿Los monumentos artísticos donados son deducibles?",
-    "¿Qué sucede si dono un bien que ya deduje anteriormente?"
+    "¿Qué donativos son deducibles?",
+    "¿Cómo se calcula el monto de un donativo?",
+    "¿Los monumentos donados son deducibles?",
+    "¿Qué pasa si ya deduje un bien y luego lo dono?",
+    "¿Los donativos son siempre deducibles?"
   ]
 }

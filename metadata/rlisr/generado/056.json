@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a90c179c1ba37779",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Capital contable",
@@ -14,24 +15,23 @@
     "acciones",
     "partes sociales",
     "enajenación",
-    "reinversión",
-    "capitalización de utilidades",
-    "estado de posición financiera",
-    "normas de información financiera"
+    "utilidades",
+    "actualización",
+    "estado de posición financiera"
   ],
   "terminos_coloquiales": [
-    "cómo se calcula el capital contable",
-    "qué es el capital contable por acción",
-    "capital social",
-    "enajenación de acciones",
-    "actualización de capital contable"
+    "capital por acción",
+    "valor de acciones",
+    "capital contable actualizado",
+    "reinversión",
+    "SAT"
   ],
-  "resumen": "El artículo establece cómo calcular el capital contable por acción o parte social al momento de una enajenación. Este capital se determina dividiendo el capital contable total entre el número de acciones o partes sociales actualizadas.",
+  "resumen": "Este artículo establece cómo se debe calcular el capital contable por acción o parte social al momento de una enajenación. Incluye la necesidad de actualizar este capital de acuerdo con normas financieras o disposiciones del SAT.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el capital contable en la enajenación de acciones?",
-    "¿Qué incluye el capital contable de una empresa?",
-    "¿Cómo se actualiza el capital contable?",
-    "¿Cuándo se considera la reinversión en el cálculo del capital contable?",
-    "¿Qué es un estado de posición financiera?"
+    "¿Cómo se calcula el capital contable por acción?",
+    "¿Qué se incluye en el capital contable actualizado?",
+    "¿Qué pasa si no sigo las normas de información financiera para el capital contable?",
+    "¿Qué es la reinversión de utilidades en el capital contable?",
+    "¿Cuándo se actualiza el capital contable para una enajenación?"
   ]
 }

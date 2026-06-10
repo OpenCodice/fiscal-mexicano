@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:71cd6cbfa94ab961",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operaciones financieras derivadas",
   "temas": [
     "ingresos acumulables",
     "deducciones autorizadas",
-    "ganancias y pérdidas",
-    "readquisición de títulos"
+    "ganancias",
+    "pérdidas",
+    "readquisición de títulos",
+    "emisor de títulos"
   ],
   "terminos_coloquiales": [
-    "dinero de operaciones financieras",
-    "ganancias de acciones",
-    "pérdidas en inversiones",
-    "recuperar títulos",
-    "cálculo de ingresos"
+    "ingresos",
+    "deducciones",
+    "ganancias",
+    "pérdidas",
+    "títulos financieros"
   ],
-  "resumen": "Este artículo habla sobre cómo se considera el ingreso acumulable o la deducción en las operaciones de financiamiento cuando se readquieren títulos. Se establece que se debe calcular la diferencia entre el precio de readquisición y el monto recibido por la venta inicial.",
+  "resumen": "Este artículo establece cómo se consideran las ganancias y pérdidas en las operaciones financieras derivadas cuando el emisor readquiere los títulos antes de su vencimiento. Se aplica la diferencia entre el precio de readquisición y el precio de venta de los títulos, ajustada por el tiempo transcurrido.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las ganancias al readquirir títulos?",
-    "¿Qué se considera ingreso acumulable en operaciones financieras?",
-    "¿Cuándo puedo deducir pérdidas de inversiones?",
-    "¿Qué pasa si readquiero un título antes de su vencimiento?",
-    "¿Cómo afecta la readquisición de títulos a mis impuestos?"
+    "¿Cómo se calcula la ganancia en la readquisición de títulos?",
+    "¿Qué se considera como ingreso acumulable en operaciones financieras?",
+    "¿Puedo deducir las pérdidas por readquisición de títulos?",
+    "¿Cuándo se considera una operación de títulos como ganancia?",
+    "¿Qué significa readquirir títulos antes de su vencimiento?"
   ]
 }

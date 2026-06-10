@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c9fb9979c9394c19",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuestos sobre Intereses",
+  "denominacion_comun": "Retenciones de Impuestos sobre Intereses",
   "temas": [
-    "impuesto sobre intereses",
-    "retención fiscal",
+    "impuesto sobre la renta",
+    "retenciones",
+    "intereses",
     "residentes en México",
     "instituciones de crédito",
-    "información a la autoridad"
+    "información fiscal"
   ],
   "terminos_coloquiales": [
+    "intereses",
     "retención de impuestos",
-    "intereses pagados",
-    "bancos extranjeros",
-    "exención de impuestos"
+    "bancos",
+    "residencias fiscales"
   ],
-  "resumen": "Este artículo establece que no se realizará retención del impuesto sobre los intereses pagados a residentes en México por instituciones de crédito extranjeras, siempre que se informe a la autoridad fiscal sobre estos pagos. Las instituciones deben identificar a los beneficiarios de los intereses.",
+  "resumen": "El artículo establece que no se aplicará retención del impuesto sobre los intereses pagados a residentes en México por bancos ubicados en el extranjero, siempre y cuando estos informen a la autoridad fiscal sobre los intereses pagados a los contribuyentes identificados correctamente.",
   "preguntas_ejemplo": [
-    "¿Cuándo no se retiene impuesto sobre intereses?",
-    "¿Qué información deben proporcionar los bancos extranjeros?",
-    "¿Cómo afecta esto a los residentes en México?",
-    "¿Qué requisitos deben cumplir las instituciones de crédito?",
-    "¿Qué sucede si los bancos no informan a la autoridad?"
+    "¿Cuándo no se aplica la retención de impuestos sobre intereses?",
+    "¿Qué bancos están exentos de retener impuestos sobre intereses?",
+    "¿Qué información necesita un banco para no retener impuestos?",
+    "¿Cómo se identifican a los contribuyentes para la retención de impuestos?",
+    "¿Qué tipo de ingresos no tienen retención de impuestos según la ley?"
   ]
 }

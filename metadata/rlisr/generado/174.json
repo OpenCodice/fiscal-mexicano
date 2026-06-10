@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b507e931d76a1a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de Impuesto sobre Gratificaciones",
+  "denominacion_comun": "Retención de Impuestos por Gratificaciones",
   "temas": [
-    "gratificación anual",
+    "gratificaciones anuales",
     "participación de utilidades",
     "primas dominicales",
     "primas vacacionales",
-    "cálculo de retenciones",
-    "impuesto sobre la renta"
+    "cálculo de impuestos",
+    "tasa de retención",
+    "ingresos ordinarios"
   ],
   "terminos_coloquiales": [
-    "cómo calcular la retención de impuestos",
-    "retención de gratificaciones",
-    "impuesto a las utilidades",
-    "cálculo de impuestos sobre primas"
+    "aguinaldo",
+    "utilidades",
+    "primas",
+    "impuesto sobre la renta",
+    "ISR"
   ],
-  "resumen": "Este artículo trata sobre cómo se deben calcular las retenciones de impuestos sobre ciertas remuneraciones como gratificaciones anuales y primas por utilidades. Establece un procedimiento específico para determinar el impuesto a retener basado en el salario del trabajador y otros ingresos ordinarios.",
+  "resumen": "El artículo establece cómo calcular el Impuesto a retener sobre las gratificaciones anuales, participación de utilidades y primas. Se detallan los pasos para dividir la remuneración y aplicar la tasa correspondiente para determinar el impuesto final a retener.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el impuesto sobre las gratificaciones?",
-    "¿Qué es la participación de utilidades y cómo se grava?",
-    "¿Cómo se determinan las retenciones por prima vacacional?",
-    "¿Qué tasa se aplica para la retención de impuestos sobre primas dominicales?"
+    "¿Cómo se calcula el impuesto sobre el aguinaldo?",
+    "¿Qué tasa se aplica a las utilidades?",
+    "¿Qué procedimientos debo seguir para retener el impuesto de las primas vacacionales?",
+    "¿Cómo se determina el impuesto a retener de las gratificaciones?",
+    "¿Cuánto de impuesto se descuenta por las primas dominicales?"
   ]
 }

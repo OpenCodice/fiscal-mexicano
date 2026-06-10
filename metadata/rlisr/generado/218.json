@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0602cc468fdc7f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de pérdidas",
+  "denominacion_comun": "Deducciones y Pérdidas Fiscales",
   "temas": [
     "deducciones",
     "ingresos",
+    "pérdidas fiscales",
     "declaración anual",
-    "pérdidas fiscales"
+    "artículo 131",
+    "artículo 115",
+    "artículo 122"
   ],
   "terminos_coloquiales": [
-    "deducción de pérdidas",
-    "cómo bajar impuestos",
-    "ingresos y deducciones",
-    "pérdidas fiscales en la declaración"
+    "deducciones fiscales",
+    "ingresos acumulables",
+    "pérdida fiscal",
+    "declaración de impuestos"
   ],
-  "resumen": "Si tus deducciones son mayores que tus ingresos en un año, puedes restar esa diferencia de otros ingresos en tu declaración anual. Hay ciertas excepciones relacionadas con ingresos específicos que no se pueden ajustar.",
+  "resumen": "Cuando las deducciones son mayores que los ingresos en un año, la diferencia se puede restar de otros ingresos en la declaración anual, exceptuando ciertos tipos de ingresos. Esto se realiza después de aplicar ciertas deducciones y considerar las pérdidas fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis deducciones son más altas que mis ingresos?",
-    "¿Puedo deducir pérdidas de otros ingresos?",
-    "¿Cómo afectan las deducciones a mi declaración anual?",
-    "¿Qué ingresos no puedo ajustar con mis deducciones?",
-    "¿Qué artículos de la ley debo consultar para deducciones?"
+    "¿Qué hago si mis deducciones son mayores que mis ingresos?",
+    "¿Puedo restar pérdidas fiscales de mis ingresos?",
+    "¿Cómo afecta esto mi declaración anual?",
+    "¿Qué artículos de la ley mencionan las deducciones?",
+    "¿Cuáles son los ingresos no deducibles en mi declaración?"
   ]
 }

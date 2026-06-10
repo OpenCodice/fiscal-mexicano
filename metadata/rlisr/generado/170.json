@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d326442da767a9c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disminución de ingresos por opciones de compra",
+  "denominacion_comun": "Opción de compra de acciones",
   "temas": [
+    "prima de opción de compra",
     "ingreso acumulable",
-    "opción de compra",
-    "prima pagada",
+    "costo comprobado",
     "acciones",
-    "títulos valor",
-    "costo comprobado"
+    "títulos valor"
   ],
   "terminos_coloquiales": [
-    "bajar mis ingresos",
-    "descontar prima de acciones",
-    "costo de título valor",
-    "cómo se calcula la opción de compra"
+    "opción de compra",
+    "acciones",
+    "títulos valores",
+    "prima",
+    "ingreso",
+    "costo"
   ],
-  "resumen": "Este artículo trata sobre la posibilidad de disminuir el ingreso acumulable al pagar una prima por una opción de compra de acciones o títulos valor. También establece cómo se debe calcular el costo al enajenar aquellos bienes después de ejercer la opción de compra.",
+  "resumen": "Este artículo permite que los contribuyentes descuenten de su ingreso acumulable la prima pagada por una opción de compra de acciones o títulos valor. Además, establece que al vender esas acciones o títulos, el contribuyente puede considerar el valor de la opción como costo comprobado.",
   "preguntas_ejemplo": [
-    "¿Puedo bajar mis ingresos por la prima de opciones de compra?",
-    "¿Cómo se calcula el costo de mis acciones después de ejercer la opción?",
-    "¿Qué se considera ingreso acumulable en el caso de opciones de compra?"
+    "¿Puedo deducir la prima de una opción de compra de acciones?",
+    "¿Cómo se determina el costo de las acciones que compré mediante una opción?",
+    "¿Qué implica el ingreso acumulable al ejercer la opción de compra?",
+    "¿Es posible actualizar el monto de la prima pagada por la opción de compra?",
+    "¿Cómo afecta la venta de títulos valores en mi declaración de impuestos?"
   ]
 }

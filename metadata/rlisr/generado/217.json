@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ba0da3dd9e0b7855",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de inmuebles",
   "temas": [
     "valor de avalúo",
     "contraprestación",
-    "pago provisional",
-    "excepciones de enajenación",
     "escritura pública",
-    "impuesto local",
+    "impuesto por enajenación",
+    "compraventa de inmuebles",
     "promesa de compraventa",
+    "impuesto local de adquisición",
     "personas físicas y morales"
   ],
   "terminos_coloquiales": [
-    "venta de propiedades",
-    "cálculo de impuestos al vender casa",
-    "escritura de compra-venta",
-    "impuesto por enajenación",
-    "valores para el inmueble"
+    "venta de casas",
+    "venta de terrenos",
+    "impuestos por venta de inmuebles",
+    "avalúo de propiedades",
+    "escritura de compraventa",
+    "compraventa",
+    "valor catastral"
   ],
-  "resumen": "El artículo establece las condiciones en las que se debe calcular el pago provisional por enajenación de inmuebles en escritura pública cuando el valor de avalúo supera la contraprestación. También menciona excepciones para ciertos tipos de enajenaciones y condiciones que deben cumplirse para no calcular este impuesto.",
+  "resumen": "El artículo establece reglas para calcular el impuesto por la enajenación de inmuebles cuando el avalúo excede un cierto porcentaje del precio de venta. Las condiciones y excepciones son detalladas, incluyendo programas de vivienda y contratos de promesa de compraventa. Además, se menciona cómo deben proceder los fedatarios públicos en estos casos.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo calcular el impuesto por enajenación de un inmueble?",
-    "¿Qué es el valor de avalúo en la compra de una propiedad?",
-    "¿Qué excepciones hay para no pagar impuesto al vender una casa?",
-    "¿Qué requisitos debe cumplir un contrato de promesa de compraventa?",
-    "¿Cómo afecta el valor de avalúo al monto de impuestos al vender mi casa?"
+    "¿Cómo se calcula el impuesto por la venta de un inmueble?",
+    "¿Qué pasa si el avalúo de mi casa es mayor que el precio de venta?",
+    "¿Existen excepciones para calcular impuestos en la venta de propiedades?",
+    "¿Qué requisitos necesito para elevar a escritura una compraventa de inmueble?",
+    "¿Cómo afecta el valor catastral al impuesto de enajenación?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b4af44d6de93e924",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de inventarios",
   "temas": [
-    "deducción fiscal",
-    "inventarios",
-    "gastos",
-    "inversión",
+    "gastos deducibles",
+    "deducción de inversiones",
     "consumo propio",
-    "registro contable",
-    "costo de lo vendido"
+    "inventarios",
+    "registro contable"
   ],
   "terminos_coloquiales": [
-    "cómo deduzco inventarios",
-    "deducción de mercancías",
-    "gastos por consumo propio",
-    "qué puedo deducir de mis inventarios"
+    "gastos para uso personal",
+    "deducción por consumo propio",
+    "contabilidad para inventarios"
   ],
-  "resumen": "Los contribuyentes pueden deducir el costo de inventarios utilizados para consumo propio como gasto o inversión, siempre que cumplan con ciertos requisitos y no lo incluyan en el costo de lo vendido. También deben llevar un registro contable adecuado.",
+  "resumen": "Los contribuyentes pueden deducir el costo de los inventarios que usen para consumo propio, siempre que este gasto no se incluya en el costo de lo vendido y cumplan con los requisitos establecidos por la ley. También se requiere un adecuado registro contable.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mercancías que uso para mi negocio?",
+    "¿Puedo deducir el costo de mercancías que uso personalmente?",
     "¿Qué requisitos debo cumplir para deducir mis inventarios?",
-    "¿Cómo se registra contablemente el consumo propio de inventarios?",
-    "¿Cuál es el tratamiento fiscal para los gastos en inventarios?"
+    "¿Cómo registro fiscalmente el consumo de mis mercancías?",
+    "¿Qué gastos puedo incluir en mi deducción de inventarios?",
+    "¿El consumo personal de materias primas se puede deducir?"
   ]
 }

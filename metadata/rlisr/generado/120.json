@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e575b793be1ffc06",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Compra de acciones",
   "temas": [
     "capital contable",
-    "utilidad distribuida",
+    "utilidades distribuidas",
     "registro de acciones",
     "recolocación de acciones",
     "acciones propias"
   ],
   "terminos_coloquiales": [
-    "cómo se cuenta el capital al comprar acciones",
-    "qué son las utilidades distribuidas",
-    "cómo se registran las acciones compradas",
-    "requisitos para la compra de acciones",
-    "acciones de la empresa"
+    "capital contable",
+    "utilidades",
+    "acciones",
+    "compra de acciones",
+    "recolocación de acciones"
   ],
-  "resumen": "Este artículo trata sobre cómo los contribuyentes deben calcular el capital contable y las utilidades distribuidas al comprar acciones. También establece la obligación de llevar un registro detallado de la compra, recolocación o cancelación de acciones propias.",
+  "resumen": "El artículo regula cómo las sociedades deben calcular el capital contable y las utilidades distribuidas relacionadas con la compra de acciones. Se requiere un registro detallado de las acciones compradas y su manejo, incluyendo recolocaciones y cancelaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el capital contable al comprar acciones?",
-    "¿Qué registro debo llevar al comprar acciones de mi propia empresa?",
-    "¿Qué pasa si excedo el límite de acciones compradas?",
-    "¿Cómo se actualizan las utilidades distribuidas?",
-    "¿Qué significa que las acciones compradas primero son las que se recolocan?"
+    "¿Cómo se calcula el capital contable en la compra de acciones?",
+    "¿Qué son las utilidades distribuidas en la compra de acciones?",
+    "¿Qué registro debo llevar al comprar acciones propias?",
+    "¿Cómo afecta el límite del 5% en las acciones compradas?",
+    "¿Qué pasa si excedo el límite de tenencia de acciones?"
   ]
 }

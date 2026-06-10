@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee9e47f179a8f70b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Costo de inversiones en inmuebles",
+  "denominacion_comun": "Costo de Inversiones en Inmuebles",
   "temas": [
-    "valor de enajenación",
+    "enajenante",
     "costo de inversiones",
-    "avalúo de construcciones",
-    "mejoras y ampliaciones"
+    "construcciones",
+    "mejoras",
+    "ampliaciones",
+    "avalúo",
+    "terreno"
   ],
   "terminos_coloquiales": [
-    "cómo calcular el costo de un inmueble",
-    "valor de la construcción",
-    "costo de mejoras en casas",
-    "avalúo de propiedades"
+    "costo de obras",
+    "costo de construcciones",
+    "valor del terreno",
+    "avaluar una construcción"
   ],
-  "resumen": "Este artículo establece cómo se determina el costo de las inversiones en construcciones, mejoras y ampliaciones de inmuebles, considerando el valor del aviso de terminación de obra y el avalúo correspondiente. Si no se puede comprobar el costo, se puede considerar hasta un 80% del valor del avalúo como costo.",
+  "resumen": "Este artículo establece cómo considerar el costo de inversiones en construcciones, mejoras y ampliaciones cuando no se puede comprobar el gasto. Se menciona el factor del avalúo y cómo calcular el costo a partir de este valor.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el costo de una construcción para una venta?",
-    "¿Qué pasa si no tengo comprobantes de inversión en mi propiedad?",
-    "¿Cuándo se utiliza el avalúo para determinar el costo de un inmueble?",
-    "¿Qué hacer si el avalúo es mucho menor que el valor que declare?",
-    "¿Puedo ajustar el costo de mis inversiones si no tengo documentación?"
+    "¿Cómo puedo calcular el costo de las mejoras en mi propiedad?",
+    "¿Qué hago si no tengo comprobantes de mis construcciones?",
+    "¿Cómo afecta el avalúo al costo de mis inversiones en inmuebles?",
+    "¿Qué considerar como costo si no puedo comprobar mis inversiones?",
+    "¿Qué pasa si el avalúo es más bajo que el valor reportado?",
+    "¿Qué porcentaje puedo considerar como costo si no tengo comprobantes?"
   ]
 }

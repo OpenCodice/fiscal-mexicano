@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9d98734b9164d47e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Depósitos en efectivo",
   "temas": [
-    "depósitos",
-    "efectivo",
+    "créditos",
     "préstamos",
-    "financiamiento",
-    "instituciones financieras"
+    "financiamientos",
+    "depósitos",
+    "persona física",
+    "persona moral"
   ],
   "terminos_coloquiales": [
-    "depósitos en efectivo",
     "dinero en efectivo",
+    "pagos en efectivo",
+    "créditos",
     "préstamos",
-    "pagos",
-    "financiamientos"
+    "financiamiento",
+    "depósitos en efectivo"
   ],
-  "resumen": "El artículo establece que se consideran depósitos en efectivo las cantidades que se utilizan para pagar un crédito o préstamo, siempre que superen el monto que se debe por esos conceptos.",
+  "resumen": "Este artículo define que se consideran como depósitos en efectivo las cantidades destinadas a pagar un crédito, préstamo o financiamiento que sean mayores a lo adeudado. Es decir, si el monto que se usa para el pago supera la deuda, también se cuenta como depósito en efectivo.",
   "preguntas_ejemplo": [
     "¿Qué se considera un depósito en efectivo?",
-    "¿Cuánto dinero puedo usar para pagar un préstamo?",
-    "¿Qué sucede si pago más de lo que debo en un préstamo?",
-    "¿Los depósitos en efectivo cuentan como pago de deuda?",
-    "¿Qué incluye un depósito en efectivo?"
+    "¿Cuáles son las cantidades que se deben declarar como depósitos?",
+    "¿Los pagos de préstamos se consideran depósitos en efectivo?",
+    "¿Cómo se clasifica un crédito en términos de depósitos?",
+    "¿Qué monto de un financiamiento se cuenta como depósito?"
   ]
 }

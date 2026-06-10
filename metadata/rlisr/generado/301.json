@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6cb85fc03c52a9fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración Informativa de Estados de Cuenta",
+  "denominacion_comun": "Declaraciones informativas",
   "temas": [
     "declaraciones fiscales",
     "estados de cuenta",
+    "ingresos",
     "regímenes fiscales preferentes",
-    "responsabilidades del contribuyente"
+    "autorizaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "declaración de ingresos",
-    "estados de cuenta que no se entregan",
-    "obligaciones fiscales",
-    "qué pasa si no presento estados de cuenta"
+    "declaraciones",
+    "estados de cuenta",
+    "regimenes fiscales",
+    "información fiscal"
   ],
-  "resumen": "Los contribuyentes no necesitan enviar ciertos estados de cuenta con su declaración informativa, pero deben conservarlos y entregarlos si las autoridades fiscales lo piden. Si no presentan estos documentos a tiempo, se considerará que la declaración no fue presentada.",
+  "resumen": "Los contribuyentes no deben incluir ciertos estados de cuenta en su declaración informativa, pero deben guardarlos y presentarlos a las autoridades fiscales si se les solicita. Si no se entregan a tiempo, se considera que la declaración no se presentó.",
   "preguntas_ejemplo": [
-    "¿Debo enviar mis estados de cuenta con la declaración?",
-    "¿Qué pasa si no entrego los estados de cuenta a tiempo?",
-    "¿Qué documentos tengo que conservar para mi declaración?",
-    "¿Qué son los regímenes fiscales preferentes?",
-    "¿Qué ocurre si las autoridades me piden mis estados de cuenta?"
+    "¿Qué estados de cuenta debo presentar en mi declaración informativa?",
+    "¿Qué pasa si no presento la información requerida a tiempo?",
+    "¿Cuáles son los regímenes fiscales preferentes que debo tener en cuenta?",
+    "¿Qué documentos debo conservar para mis declaraciones fiscales?",
+    "¿Cómo afecta la falta de presentación de mis estados de cuenta a mi declaración?"
   ]
 }

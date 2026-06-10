@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eeda43db1fda047e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ingresos de operaciones financieras",
+  "denominacion_comun": "Ingresos de operaciones financieras derivadas",
   "temas": [
-    "personas físicas",
     "ingresos",
     "operaciones financieras",
     "tipo de cambio",
     "divisas",
     "certificados de la Tesorería",
-    "tasa de interés",
+    "tasa de interés interbancaria",
     "retenciones",
-    "declaraciones"
+    "declaraciones fiscales"
   ],
   "terminos_coloquiales": [
-    "ingresos de divisas",
-    "retenciones de operaciones financieras",
-    "declaraciones de ingresos",
-    "cómo declarar ingresos en divisas"
+    "ingresos por divisas",
+    "opciones financieras",
+    "ingresos por tasas de interés",
+    "certificados de la Tesorería",
+    "retenciones fiscales"
   ],
-  "resumen": "Este artículo establece que las personas físicas que reciben ingresos de operaciones financieras relacionadas con divisas y tasas de interés deben seguir ciertas reglas sobre retenciones y frecuencia de sus declaraciones. Se hace referencia a otros artículos para obtener más detalles sobre estos requisitos.",
+  "resumen": "Este artículo se refiere a los ingresos que obtienen las personas físicas de operaciones financieras derivadas relacionadas con divisas y tasas de interés. Indica que deben seguir las normas sobre retenciones y la periodicidad de las declaraciones correspondientes a estos ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué tengo que hacer si tengo ingresos en divisas?",
-    "¿Cómo se hacen las retenciones por ingresos financieros?",
-    "¿Con qué frecuencia debo declarar mis ingresos de operaciones financieras?",
+    "¿Qué debo saber sobre los ingresos por operaciones financieras derivadas?",
+    "¿Cómo se declaran los ingresos de divisas?",
+    "¿Cuáles son las retenciones aplicables a mis ingresos financieros?",
     "¿Qué son los certificados de la Tesorería y cómo afectan mis impuestos?",
-    "¿Cuáles son los requisitos para deducir ingresos de operaciones financieras?"
+    "¿Cada cuánto debo declarar mis ingresos por tasas de interés?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:18fd57cf7133c723",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de erogaciones en zonas rurales",
+  "denominacion_comun": "Liberación de obligación de pago",
   "temas": [
-    "autorizaciones fiscales",
-    "erogaciones",
+    "autorización",
+    "pago",
     "cheques",
-    "tarjetas de crédito",
+    "tarjetas",
     "monederos electrónicos",
-    "poblaciones rurales",
+    "zonas rurales",
     "servicios financieros"
   ],
   "terminos_coloquiales": [
-    "liberar pagos en zonas rurales",
-    "autorización de pagos con tarjeta en el campo",
-    "pagar sin efectivo en áreas rurales",
-    "cheques en comunidades sin banco"
+    "liberar pagos",
+    "pago con cheques",
+    "tarjetas de crédito",
+    "tarjetas de débito",
+    "monederos",
+    "poblaciones rurales"
   ],
-  "resumen": "Las autoridades fiscales pueden autorizar el pago sin usar efectivo en poblaciones rurales donde no hay servicios financieros. Esto incluye el uso de cheques, tarjetas y monederos electrónicos aprobados por el SAT.",
+  "resumen": "El artículo establece que las autoridades fiscales pueden autorizar la liberación de pagos para erogaciones realizadas en zonas rurales sin servicios financieros, utilizando cheques, tarjetas o monederos electrónicos autorizados por el SAT.",
   "preguntas_ejemplo": [
-    "¿Puedo usar mi tarjeta de crédito en una zona rural?",
-    "¿Cómo pido autorización para liberar mis pagos en el campo?",
-    "¿Qué erogaciones están permitidas en zonas sin servicios financieros?",
-    "¿Existen excepciones para pagar con cheques en áreas rurales?",
-    "¿Qué requisitos hay para usar monederos electrónicos en el campo?"
+    "¿Se puede pagar en zonas rurales sin usar efectivo?",
+    "¿Qué métodos de pago son válidos en áreas sin servicios financieros?",
+    "¿Cómo puedo solicitar la liberación de la obligación de pagar con cheques?",
+    "¿Qué es un monedero electrónico y cómo se usa para pagar?",
+    "¿Hay excepciones para pagos en zonas rurales?"
   ]
 }

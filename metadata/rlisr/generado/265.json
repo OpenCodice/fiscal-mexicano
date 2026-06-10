@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa158f948b92afbb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones para funcionarios en el extranjero",
+  "denominacion_comun": "Deducciones por ingresos en el extranjero",
   "temas": [
     "deducciones fiscales",
-    "funcionarios del Estado",
-    "impuesto anual",
-    "residencia en el extranjero",
+    "funcionarios en el extranjero",
     "declaración anual",
-    "obligaciones fiscales"
+    "impuesto anual"
   ],
   "terminos_coloquiales": [
-    "deducciones para trabajadores en el extranjero",
-    "funcionarios que trabajan fuera",
-    "impuestos de empleados en el extranjero",
-    "declaración de impuestos en el extranjero"
+    "deducciones",
+    "funcionarios en el extranjero",
+    "declaración ante el consulado",
+    "SAT"
   ],
-  "resumen": "Los funcionarios del Estado que trabajen en el extranjero por más de 183 días podrán hacer deducciones en su impuesto anual, incluso si los pagos se hicieron a personas fuera del país. Si no tienen representante legal en México, pueden presentar su declaración ante un consulado mexicano o por correo.",
+  "resumen": "Los funcionarios del Estado que estén en el extranjero por más de 183 días pueden deducir ciertos ingresos al calcular su impuesto anual, incluso si las deducciones son a beneficiarios afuera de México. Si no tienen representante legal en México, pueden presentar su declaración anual en el consulado o por correo.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir mis impuestos si trabajo en el extranjero?",
-    "¿Cómo presento mi declaración si soy funcionario y vivo fuera de México?",
-    "¿Qué deducciones puedo hacer si trabajo más de 183 días en otro país?",
-    "¿Dónde debo enviar mi declaración anual si estoy en el extranjero?",
-    "¿Qué pasa si pago a personas fuera de México?"
+    "¿Puedo deducir impuestos si trabajo en el extranjero?",
+    "¿Cómo presento mi declaración si estoy fuera del país?",
+    "¿Qué deducciones puedo hacer si soy funcionario en el extranjero?",
+    "¿Dónde presento mi declaración anual si no tengo representante legal en México?",
+    "¿Qué ingresos puedo deducir si estoy fuera más de 183 días?"
   ]
 }

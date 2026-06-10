@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2a0173cb482e73d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Promedio de prestaciones",
@@ -13,23 +14,19 @@
     "prestaciones laborales",
     "trabajadores sindicalizados",
     "trabajadores no sindicalizados",
-    "determinar promedio anual",
-    "erogaciones deducibles",
-    "previsión social"
+    "deducciones fiscales"
   ],
   "terminos_coloquiales": [
-    "cálculo de prestaciones",
-    "promedio de prestaciones anuales",
-    "prestaciones de empleados",
-    "cuánto recibe un trabajador",
-    "deducción de prestaciones"
+    "promedio de prestaciones",
+    "trabajadores sindicalizados",
+    "trabajadores no sindicalizados"
   ],
-  "resumen": "Esta disposición establece cómo se calcula el promedio de prestaciones cubiertas a trabajadores sindicalizados y no sindicalizados. Se basa en dividir el total de prestaciones entre el número de trabajadores en el ejercicio anterior.",
+  "resumen": "El artículo establece cómo calcular el promedio anual de prestaciones cubiertas a los trabajadores, tanto sindicalizados como no sindicalizados, dividiendo el total de prestaciones entre el número de trabajadores. Esto es importante para las deducciones fiscales correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el promedio de prestaciones para trabajadores?",
-    "¿Qué pasa con las prestaciones de los trabajadores no sindicalizados?",
-    "¿Cuál es la fórmula para determinar el promedio de erogaciones por prestaciones?",
-    "¿Qué se considera una erogación deducible en prestaciones?",
-    "¿Cómo se afecta el cálculo según el número de empleados?"
+    "¿Cómo se calcula el promedio de prestaciones para los trabajadores sindicalizados?",
+    "¿Cuál es el procedimiento para determinar las deducciones por prestaciones de trabajadores no sindicalizados?",
+    "¿Qué son las prestaciones de previsión social y cómo se afectan las deducciones fiscales?",
+    "¿Qué artículos de la ley se refieren a los trabajadores sindicalizados y no sindicalizados?",
+    "¿Cómo se determina el promedio aritmético para las prestaciones a trabajadores?"
   ]
 }

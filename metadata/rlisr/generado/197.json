@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:871f4ddda41f819e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducciones en pagos provisionales",
+  "denominacion_comun": "Deducciones de ingresos por arrendamiento",
   "temas": [
     "deducciones fiscales",
-    "pagos provisionales",
-    "ingresos por alquiler",
-    "bien inmueble"
+    "ingresos por arrendamiento",
+    "bienes inmuebles",
+    "declaraciones fiscales"
   ],
   "terminos_coloquiales": [
-    "deducciones de impuestos",
-    "pagos de renta deducibles",
-    "cómo deducir rentas",
-    "deducir alquiler"
+    "deducciones",
+    "arrendar departamentos",
+    "renta de casas",
+    "recuperar deducciones",
+    "uso de bienes",
+    "declaración anual"
   ],
-  "resumen": "El artículo establece cómo los contribuyentes pueden hacer deducciones por ingresos obtenidos del uso de bienes inmuebles. Permite deducir parte de los ingresos del periodo correspondiente y manejar deducciones no aplicadas en periodos siguientes.",
+  "resumen": "Los contribuyentes que obtienen ingresos por arrendar bienes inmuebles pueden deducir ciertos montos en sus declaraciones fiscales. Dependiendo del tipo de uso del bien, las deducciones pueden variar y se pueden considerar en periodos siguientes si no se utilizan en el periodo correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué deducciones puedo hacer si alquilo una propiedad?",
-    "¿Cuánto puedo deducir por el uso de un inmueble?",
-    "¿Puedo deducir rentas de un año anterior?",
-    "¿Qué pasa si mis ingresos son menores que mis deducciones?",
-    "¿Cómo funcionan los pagos provisionales para arrendadores?"
+    "¿Cómo puedo deducir los ingresos que obtengo por rentar mi casa?",
+    "¿Puedo recuperar las deducciones en otro periodo?",
+    "¿Qué debo hacer si mis ingresos por arrendamiento son menores que las deducciones?",
+    "¿Cómo se calculan las deducciones por arrendar un inmueble?",
+    "¿Cuánto puedo deducir si rento un local comercial?"
   ]
 }

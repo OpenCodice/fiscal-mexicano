@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6eb7a1b536934317",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inventario físico para empresas",
+  "denominacion_comun": "Inventario físico total",
   "temas": [
     "contribuyentes",
+    "personas físicas",
     "actividades empresariales",
     "estado de posición financiera",
-    "inventarios",
+    "inventario",
     "existencias"
   ],
   "terminos_coloquiales": [
-    "cómo hacer un inventario",
-    "inventario de productos",
-    "requisitos para inventarios",
-    "estado financiero",
-    "contabilidad de negocios"
+    "inventario",
+    "estado financiero"
   ],
-  "resumen": "Los contribuyentes que obtienen ingresos de actividades empresariales deben hacer un inventario físico de sus existencias para cumplir con sus obligaciones fiscales relacionadas con su estado financiero.",
+  "resumen": "Los contribuyentes personas físicas que ganan dinero de actividades empresariales deben hacer un inventario físico total de sus existencias para cumplir con sus obligaciones fiscales. Esto está relacionado con el estado de posición financiera que deben presentar.",
   "preguntas_ejemplo": [
-    "¿Qué es un inventario físico?",
-    "¿Cómo se elabora un estado de posición financiera?",
-    "¿Qué debo incluir en mi inventario?",
-    "¿Quiénes deben hacer inventarios?",
-    "¿Qué obligaciones tienen los contribuyentes con actividades empresariales?"
+    "¿Qué es un inventario físico total?",
+    "¿Cómo hago un inventario para mis negocios?",
+    "¿Qué obligaciones fiscales tengo como persona física con ingresos empresariales?",
+    "¿Qué información necesito para el estado de posición financiera?",
+    "¿Cómo se relaciona el inventario con mis ingresos?"
   ]
 }

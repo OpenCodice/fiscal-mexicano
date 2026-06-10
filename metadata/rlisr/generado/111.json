@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3efea2e4d21c5a62",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de operaciones con títulos valor",
   "temas": [
     "títulos valor",
     "registros contables",
-    "obligaciones fiscales",
-    "estados de cuenta"
+    "estados de cuenta",
+    "sistema financiero"
   ],
   "terminos_coloquiales": [
-    "cómo llevar registro de títulos",
-    "obligaciones de los contribuyentes",
-    "registros contables en el sistema financiero"
+    "valores",
+    "acciones",
+    "bonos",
+    "títulos",
+    "registros contables"
   ],
-  "resumen": "El artículo establece que para cumplir con la obligación de registrar operaciones con títulos valor, el contribuyente debe conservar los estados de cuenta que lo demuestren, proporcionados por las instituciones financieras.",
+  "resumen": "El artículo aborda la obligación de los contribuyentes de llevar un registro de las operaciones realizadas con títulos valor. Esto se cumple al conservar los estados de cuenta que reflejen dichas operaciones, emitidos por instituciones del sistema financiero.",
   "preguntas_ejemplo": [
-    "¿Cómo llevo el registro de mis operaciones con títulos valor?",
-    "¿Qué documentos necesito para cumplir con mis obligaciones fiscales?",
-    "¿Es suficiente conservar los estados de cuenta para los registros contables?",
-    "¿Qué dice la ley sobre el registro de operaciones con títulos valor?",
-    "¿Quién me proporciona los estados de cuenta para mis registros?"
+    "¿Cómo debo llevar el registro de mis operaciones con acciones?",
+    "¿Es obligatorio conservar los estados de cuenta de mis inversiones en títulos?",
+    "¿Qué documentos necesito para cumplir con la ley sobre títulos valor?",
+    "¿Qué son los títulos valor y cómo se llevan sus registros?",
+    "¿Dónde obtengo los estados de cuenta para mis inversiones?"
   ]
 }

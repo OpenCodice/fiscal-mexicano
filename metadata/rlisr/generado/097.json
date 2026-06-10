@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4b46014c491d0365",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto diferido",
   "temas": [
-    "impuestos",
+    "impuesto",
     "pagos provisionales",
-    "sociedad integra",
-    "cumplimiento fiscal"
+    "sociedades",
+    "difusión de impuestos"
   ],
   "terminos_coloquiales": [
     "impuesto diferido",
     "pago de impuestos",
-    "difusión de pagos",
-    "sociedad integradora"
+    "sociedades integradoras"
   ],
-  "resumen": "Este artículo establece la obligación de las sociedades integradas o integradoras de pagar el impuesto que se difirió en los pagos provisionales una vez que dejen de aplicar ciertas disposiciones. El pago debe realizarse dentro del mes siguiente a que esto ocurra, y se deben actualizar los montos de los impuestos desde el momento en que debieron pagarse.",
+  "resumen": "Este artículo establece que las sociedades que dejen de aplicar lo dispuesto en un capítulo específico de la Ley deberán enterar el impuesto diferido en un plazo establecido. El impuesto debe actualizarse desde el momento en que debió realizarse cada pago provisional hasta que se efectúe el pago correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo pagar el impuesto que no pagué antes?",
-    "¿Qué pasa si una sociedad deja de aplicar ciertas reglas fiscales?",
-    "¿Cómo se actualiza el monto del impuesto diferido?",
-    "¿Qué plazo tengo para hacer el pago del impuesto diferido?",
+    "¿Qué debo hacer si mi sociedad deja de aplicar el Capítulo VI de la Ley?",
+    "¿Cuál es el plazo para pagar el impuesto diferido?",
+    "¿Cómo se actualiza el impuesto que se difirió en los pagos provisionales?",
+    "¿Qué sucede si no realizo el pago del impuesto diferido a tiempo?",
     "¿Qué son los pagos provisionales en este contexto?"
   ]
 }

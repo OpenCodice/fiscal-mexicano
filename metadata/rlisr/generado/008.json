@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4c1a10fdd15411a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas cambiarias",
   "temas": [
     "casas de cambio",
     "centros cambiarios",
+    "tipo de cambio",
     "pérdidas cambiarias",
-    "tipo de cambio promedio",
     "divisas",
-    "operaciones de compra",
-    "operaciones de venta"
+    "fluctuación de moneda"
   ],
   "terminos_coloquiales": [
-    "cómo calcular pérdidas en divisas",
-    "tipos de cambio en casas de cambio",
-    "promedio de tipo de cambio",
-    "qué pasa si no vendo divisas",
-    "pérdidas cambiarias en pesos"
+    "pérdidas por divisas",
+    "tipo de cambio promedio",
+    "cambio de moneda",
+    "dinero en efectivo",
+    "dólar",
+    "tipo de cambio"
   ],
-  "resumen": "El artículo explica cómo las casas de cambio deben calcular las pérdidas cambiarias debido a la fluctuación del tipo de cambio. Pueden usar un tipo de cambio promedio de sus operaciones del día o, si no han realizado operaciones, el tipo de cambio que publica el Banco de México.",
+  "resumen": "Este artículo establece cómo las casas de cambio y centros cambiarios deben calcular las pérdidas cambiarias debidas a la fluctuación del tipo de cambio en sus operaciones de compra y venta de divisas. Si no hay operaciones, deben utilizar el tipo de cambio publicado por el Banco de México.",
   "preguntas_ejemplo": [
-    "¿Cómo calculo las pérdidas por cambios en el tipo de cambio?",
-    "¿Qué tipo de cambio debo usar si no vendí divisas?",
-    "¿Cómo se determina el tipo de cambio promedio en un día?",
-    "¿Qué pasa si solo compré divisas y no vendí?",
-    "¿Dónde encuentro el tipo de cambio que publica el Banco de México?"
+    "¿Cómo se calculan las pérdidas cambiarias en una casa de cambio?",
+    "¿Qué debe hacer un centro cambiario si no realizó operaciones de compra y venta?",
+    "¿Cómo se determina el tipo de cambio promedio para compras y ventas?",
+    "¿Qué tipo de cambio usar si no hay operaciones de divisas?",
+    "¿Cómo afectan las fluctuaciones de moneda a las casas de cambio?"
   ]
 }

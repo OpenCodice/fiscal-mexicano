@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3c107da2245bb118",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de erogaciones con cheque",
   "temas": [
-    "deducción fiscal",
-    "cheques",
+    "deducción",
     "ingresos",
-    "comprobantes fiscales"
+    "comprobantes fiscales",
+    "cheques",
+    "plazos"
   ],
   "terminos_coloquiales": [
-    "cómo deducir pagos con cheques",
-    "deducción de cheques",
-    "plazos para cobrar cheques",
-    "deducción de erogaciones"
+    "deducción de gastos",
+    "ingresos por cheques",
+    "comprobantes",
+    "cheques"
   ],
-  "resumen": "El artículo establece que se pueden deducir los pagos realizados con cheques si se cobran en un plazo de cuatro meses desde la fecha del comprobante fiscal. Esto aplica a ciertos ingresos de contribuyentes específicos.",
+  "resumen": "Este artículo establece que los contribuyentes pueden deducir erogaciones pagadas con cheque, siempre que el comprobante fiscal y el cobro del cheque no excedan cuatro meses, salvo que ambas fechas sean dentro del mismo ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para cobrar un cheque y que me lo cuenten como deducción?",
-    "¿Puedo deducir pagos hechos con cheque?",
-    "¿Qué necesito para la deducción de un cheque?",
-    "¿Qué dice la ley sobre la deducción de erogaciones con cheque?"
+    "¿Puedo deducir un pago que hice con cheque?",
+    "¿Cuánto tiempo tengo para cobrar un cheque y deducirlo?",
+    "¿Qué debo considerar para deducir pagos con cheques?",
+    "¿Cómo funciona la deducción de erogaciones realizadas con cheque?",
+    "¿Cuáles son los requisitos para deducir pagos hechos con cheque?"
   ]
 }

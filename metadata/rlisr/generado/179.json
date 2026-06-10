@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:283ee2e9a2cc90df",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Compensación de saldos a favor",
+  "denominacion_comun": "Compensación de Saldos a Favor",
   "temas": [
-    "retención de impuestos",
+    "retenciones",
     "trabajadores",
-    "comprobantes fiscales",
-    "devolución de impuestos"
+    "compensación",
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "compensar impuestos",
-    "saldo a favor trabajador",
-    "devolución de retenciones",
-    "impuestos a compensar"
+    "compensar sueldos",
+    "saldos a favor",
+    "devolución de impuestos",
+    "retenciones de sueldo"
   ],
-  "resumen": "Este artículo permite que un retenedor compense saldos a favor de un trabajador contra retenciones de otro trabajador, siempre que ambos trabajen para el mismo patrón y se cumplan ciertos requisitos. Además, si la compensación es parcial, se debe indicar en el comprobante fiscal correspondiente.",
+  "resumen": "El artículo establece que un empleador puede compensar los saldos a favor de un trabajador contra las retenciones de otro trabajador si ambos laboran para el mismo patrón y no tienen la obligación de declarar. También se detalla que, si la compensación es parcial, el empleador debe mostrarlo en el comprobante fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Puedo compensar mi saldo a favor con otro trabajador?",
-    "¿Qué requisitos debo cumplir para la compensación de impuestos?",
-    "¿Cómo se indica la compensación en el comprobante fiscal?",
-    "¿Qué sucede si solo necesito una parte de mi saldo a favor?",
-    "¿Es obligatorio presentar declaración anual para compensar saldos?"
+    "¿Puedo usar el saldo a favor de un trabajador para compensar lo que debo a otro?",
+    "¿Qué requisitos debo cumplir para compensar salarios?",
+    "¿Qué es lo que se debe mostrar en el comprobante fiscal para la compensación?",
+    "¿Qué pasa si la compensación es solo parcial?",
+    "¿Qué trabajadores pueden beneficiarse de esta compensación?",
+    "¿Es necesario presentar declaración anual para hacer la compensación?"
   ]
 }

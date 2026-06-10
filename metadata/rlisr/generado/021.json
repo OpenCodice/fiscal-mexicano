@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a0a9808bb8ed0826",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acumulación de ingresos en bienes de activo fijo",
+  "denominacion_comun": "Acumulación de ingresos en contratos de fabricación",
   "temas": [
-    "fabricación de bienes",
     "ingresos",
     "contratos de suministro",
     "activo fijo",
-    "estimaciones",
+    "acumulación",
+    "efectivo",
     "entregas parciales"
   ],
   "terminos_coloquiales": [
-    "cómo se acumulan ingresos",
-    "ingresos por bienes de largo proceso",
-    "suministro de bienes",
-    "cuando se pagan ingresos"
+    "ingresos de contratos",
+    "fabricación de bienes",
+    "ganancias",
+    "contratos de suministro",
+    "activo fijo"
   ],
-  "resumen": "Los contribuyentes que fabrican bienes de activo fijo pueden acumular sus ingresos cuando los reciben en efectivo o cuando se autorizan las estimaciones para su cobro. También pueden hacerlo al recibir entregas parciales, siempre que no se realicen estimaciones de avance.",
+  "resumen": "Los contribuyentes que fabrican bienes de activo fijo pueden acumular los ingresos de sus contratos cuando los reciban en efectivo o cuando sean autorizadas las estimaciones para su cobro. Esto se aplica también a entregas parciales, sin considerar estimaciones de avance.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo acumular mis ingresos por contratos de suministro?",
-    "¿Cómo se manejan las estimaciones para el cobro de ingresos?",
-    "¿Qué ocurre si hago entregas parciales de bienes?",
-    "¿Qué significa activo fijo en este contexto?"
+    "¿Cuándo debo acumular los ingresos de mis contratos de fabricación?",
+    "¿Qué opciones tengo para acumular ingresos de contratos de suministro?",
+    "¿Qué dice la ley sobre la acumulación de ingresos en la fabricación de bienes?",
+    "¿Cómo afectan las entregas parciales en la acumulación de ingresos?",
+    "¿Qué es un activo fijo en términos de acumulación de ingresos?",
+    "¿Puedo acumular ingresos si no he recibido el efectivo aún?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:99f2c852f4cb51a9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aportaciones voluntarias en fondos de retiro",
+  "denominacion_comun": "Aportaciones Voluntarias al Retiro",
   "temas": [
-    "aportes voluntarios",
-    "retiros",
-    "administradoras de fondos",
-    "datos al SAT",
-    "deducciones",
-    "subcuentas",
-    "retenciones"
+    "Aportaciones Voluntarias",
+    "Fondos para el Retiro",
+    "Retiro de Aportaciones",
+    "Deducción Fiscal",
+    "Subcuentas de Ahorro",
+    "Retención de Impuestos"
   ],
   "terminos_coloquiales": [
-    "retiros de ahorro",
+    "retiro de fondos",
+    "aportaciones",
     "ahorros para el retiro",
-    "aportaciones a fondos de ahorro",
-    "deducción de aportes",
-    "información de aportaciones al SAT"
+    "subcuenta de ahorro",
+    "deducir aportaciones",
+    "SAT",
+    "AFORE"
   ],
-  "resumen": "Este artículo regula cómo las administradoras de fondos para el retiro deben manejar los aportes voluntarios de los contribuyentes, incluyendo cómo y cuándo retener impuestos y registrar la información ante el SAT. También establece qué hacer cuando los contribuyentes hacen retiros de esas aportaciones.",
+  "resumen": "El artículo establece las obligaciones de las administradoras de fondos para el retiro respecto a la gestión de aportaciones voluntarias de los contribuyentes. Detalla cómo deben manejarse los depósitos y retiros, así como la retención de impuestos según el estado del contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cómo debo manejar mis aportaciones voluntarias en mi fondo de retiro?",
-    "¿Qué información tiene que reportar mi administradora al SAT?",
-    "¿Cuándo se aplica una retención en mis retiros de aportaciones voluntarias?",
-    "¿Qué sucede si decido no deducir mis aportaciones voluntarias?",
-    "¿Cómo puedo transferir mis aportaciones entre subcuentas?"
+    "¿Cómo puedo retirar mis aportaciones voluntarias de la AFORE?",
+    "¿Qué pasa si no deduzco mis aportaciones al retiro?",
+    "¿La AFORE me retiene impuestos al hacer un retiro?",
+    "¿Qué debo hacer para que mis aportaciones sean deducibles?",
+    "¿Qué información debe reportar mi AFORE al SAT?",
+    "¿Cómo se transfieren los recursos entre subcuentas de AFORE?"
   ]
 }

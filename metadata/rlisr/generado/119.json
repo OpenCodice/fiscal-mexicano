@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:08f37efcf2b8f174",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reembolso de partes sociales",
@@ -14,21 +15,22 @@
     "capital social",
     "utilidad fiscal neta",
     "capital de aportación",
-    "asociación en participación"
+    "asociación en participación",
+    "aportaciones reembolsadas"
   ],
   "terminos_coloquiales": [
-    "reembolso de inversiones",
-    "reintegro de capital",
-    "distribución de utilidades",
-    "capital social de empresas"
+    "reembolso de acciones",
+    "partes sociales",
+    "utilidades",
+    "asociaciones en participación",
+    "capital de aportación"
   ],
-  "resumen": "Este artículo explica cómo las personas morales pueden determinar el monto de las cuentas de utilidad y aportación al reembolsar partes sociales. También se refiere a cómo se calcula esto en el caso de una asociación en participación.",
+  "resumen": "Este artículo establece cómo las personas morales pueden determinar el monto de las cuentas de utilidad fiscal neta y capital de aportación de acuerdo con la proporción de partes sociales reembolsadas. También regula el tratamiento de las utilidades en asociaciones en participación en función de las aportaciones reembolsadas.",
   "preguntas_ejemplo": [
     "¿Cómo se determina el reembolso de partes sociales en una empresa?",
-    "¿Qué se considera al calcular utilidades en una asociación?",
-    "¿Cómo se distribuyen las utilidades entre socios?",
-    "¿Qué es la utilidad fiscal neta y cómo afecta a los socios?",
-    "¿Cómo se hace el reembolso de capital en una sociedad?",
-    "¿Qué implica el capital de aportación en una asociación?"
+    "¿Qué es el capital social en una asociación en participación?",
+    "¿Cómo se reparten las utilidades en un contrato de asociación?",
+    "¿Cuáles son las cuentas que se consideran para el reembolso de aportaciones?",
+    "¿Cómo afectan las partes sociales a las utilidades fiscales de una empresa?"
   ]
 }

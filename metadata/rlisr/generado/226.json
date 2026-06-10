@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:969aa1ac34edce37",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rendimientos de Contratos con Instituciones Financieras",
+  "denominacion_comun": "Rendimientos financieros",
   "temas": [
-    "contratos",
+    "contratos financieros",
     "rendimientos",
-    "sistema financiero",
-    "obligaciones de los contribuyentes",
-    "cotitulares"
+    "cotitulares",
+    "designación de percibidores"
   ],
   "terminos_coloquiales": [
-    "quién recibe los rendimientos",
-    "contratos con bancos",
-    "rendimientos en cuentas compartidas",
-    "cuándo se dividen los ingresos"
+    "intereses",
+    "ganancias de inversión",
+    "rendimientos de cuentas",
+    "bancos",
+    "sistema financiero"
   ],
-  "resumen": "Este artículo establece que en los contratos con instituciones financieras se debe especificar quién recibirá los rendimientos. Si no se menciona, se asume que los rendimientos son para el titular y los cotitulares en partes iguales, a menos que se demuestre lo contrario.",
+  "resumen": "El artículo establece que en los contratos celebrados con instituciones financieras, debe señalarse quién recibirá los rendimientos. Si no se especifica, se asume que los rendimientos corresponden al titular y a todos los cotitulares en la misma proporción, a menos que se demuestre lo contrario.",
   "preguntas_ejemplo": [
-    "¿Quiénes son los que pueden recibir los rendimientos de un contrato con un banco?",
-    "¿Qué pasa si no se menciona claramente quién recibe los ingresos?",
-    "¿Cómo se dividen los rendimientos si hay varios titulares?",
-    "¿Qué debo indicar en el contrato para que no haya confusiones sobre los rendimientos?",
-    "¿Qué se entiende si las designaciones son vagas en un contrato financiero?"
+    "¿Quién recibe los intereses de mi cuenta bancaria?",
+    "Si tengo un cotitular, ¿los rendimientos se dividen entre nosotros?",
+    "¿Qué pasa si no se especifica quién percibe los rendimientos en un contrato financiero?",
+    "¿Cómo se determinan los rendimientos si hay varias personas en un contrato?",
+    "¿Qué significa que los rendimientos correspondan a todos los cotitulares?"
   ]
 }

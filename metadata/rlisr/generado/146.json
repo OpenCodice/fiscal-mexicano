@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:177b65aa74c2554a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Impuesto sobre Sucesiones",
   "temas": [
-    "usuario",
-    "declaraciones",
-    "ingresos",
-    "deducciones",
+    "representante legal",
+    "pagos provisionales",
+    "declaración anual",
     "herederos",
-    "legatarios"
+    "declaración complementaria",
+    "ingresos acumulables",
+    "impuesto pagado",
+    "sucesión"
   ],
   "terminos_coloquiales": [
     "impuesto de herencia",
-    "declaración de sucesión",
-    "pago de impuestos de herederos",
-    "declaración complementaria por herencia"
+    "declaración de sucesiones",
+    "herencia",
+    "ingresos de la sucesión"
   ],
-  "resumen": "El representante legal de una sucesión debe realizar los pagos provisionales del impuesto y presentar la declaración anual. Los herederos pueden declarar ingresos de la sucesión y acreditar impuestos pagados en ejercicios anteriores.",
+  "resumen": "El representante legal de una sucesión es responsable de realizar los pagos provisionales del impuesto y presentar la declaración anual. Los herederos pueden presentar declaraciones complementarias por ingresos no reportados de los cinco ejercicios anteriores tras la liquidación de la sucesión.",
   "preguntas_ejemplo": [
-    "¿Quién paga el impuesto de una herencia?",
-    "¿Cómo se presenta la declaración de herencia?",
-    "¿Qué puedo hacer con los ingresos de la sucesión?",
-    "¿Puedo declarar impuestos de herencia de años anteriores?",
-    "¿Qué ingresos se consideran parte de la sucesión?"
+    "¿Quién paga el impuesto de herencia?",
+    "¿Cómo presento la declaración de sucesiones?",
+    "¿Puedo hacer una declaración complementaria por ingresos de la herencia?",
+    "¿Qué ingresos se consideran de una sucesión?",
+    "¿Qué ocurre si no exerzo la opción de pago definitivo en la herencia?"
   ]
 }

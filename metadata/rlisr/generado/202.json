@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:83cb3a5f5a31b02a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación y determinación de tasa",
+  "denominacion_comun": "Enajenación de bienes",
   "temas": [
-    "personas físicas",
+    "tasa de enajenación",
     "ingresos acumulables",
-    "enajenación",
-    "determinación de tasa"
+    "ejercicios fiscales",
+    "personas físicas"
   ],
   "terminos_coloquiales": [
-    "qué pasa si no tengo ingresos",
-    "cómo calculo la tasa de enajenación",
-    "enajenación sin ingresos acumulables"
+    "vender propiedades",
+    "ganancias por venta",
+    "tasa de impuesto",
+    "ingresos no reportados"
   ],
-  "resumen": "Las personas que no hayan tenido ingresos en los cuatro años anteriores a la venta de un bien pueden calcular su tasa de enajenación de manera diferente. Esto se basa en un artículo específico de la Ley.",
+  "resumen": "Las personas físicas que no hayan tenido ingresos acumulables en los cuatro años anteriores a la venta de un bien pueden calcular su tasa de impuestos basándose en esos ejercicios sin ingresos. Esto les permite beneficiarse al momento de enajenar.",
   "preguntas_ejemplo": [
-    "¿Qué significa que no tenga ingresos acumulables?",
-    "¿Cómo puedo calcular la tasa si no he tenido ingresos?",
-    "¿Qué opciones tengo si en los últimos años no he vendido nada?",
-    "¿Qué dice la Ley sobre la enajenación sin ingresos previos?"
+    "¿Cómo se calcula la tasa de impuesto al vender un bien?",
+    "¿Qué pasa si no he tenido ingresos los últimos años al vender?",
+    "¿Quiénes pueden aplicar esta norma de enajenación?",
+    "¿Qué se considera un ingreso acumulable para el impuesto?",
+    "¿Puedo vender y no pagar impuestos si no he tenido ingresos?"
   ]
 }

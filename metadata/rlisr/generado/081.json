@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f55d556035435649",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Deducción de costos de lo vendido",
+  "denominacion_comun": "Deducción de costo de ventas",
   "temas": [
     "deducción fiscal",
     "costo de lo vendido",
     "adquisiciones",
     "servicios",
-    "registro contable"
+    "registros contables"
   ],
   "terminos_coloquiales": [
-    "deducción de compras",
-    "cómo deducir gastos",
-    "gastos que se pueden restar",
-    "registro de gastos pendientes"
+    "deducir gastos",
+    "costo de ventas",
+    "compras no pagadas",
+    "servicios a pagar"
   ],
-  "resumen": "Este artículo trata sobre cómo los contribuyentes pueden deducir el costo de mercancías y servicios adquiridos, incluso si no han sido pagados. Además, establece la necesidad de llevar un registro de las compras y servicios por pagar para calcular correctamente la deducción.",
+  "resumen": "Este artículo establece que los contribuyentes pueden deducir el costo de lo vendido por adquisiciones y servicios, incluso si no han sido pagados, siempre que se lleve un registro contable adecuado. El saldo de este registro se utiliza como base para el costo de lo vendido en el ejercicio fiscal correspondiente.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir gastos si no he pagado?",
-    "¿Cómo llevo el control de mis deducciones?",
-    "¿Qué tengo que registrar para deducir el costo de lo vendido?",
-    "¿Qué significa costo de lo vendido en la deducción fiscal?",
-    "¿Qué requisitos debo cumplir para deducir mis compras?"
+    "¿Puedo deducir el costo de mercancías que aún no he pagado?",
+    "¿Cómo registro las compras y servicios que debo pagar?",
+    "¿Qué requisitos debo cumplir para deducir mis gastos?",
+    "¿Qué es el saldo inicial de compras por pagar?",
+    "¿Cómo afecta el costo de lo vendido a mis declaraciones fiscales?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c0ea5d8f3811c03",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducción de inversiones",
   "temas": [
-    "deducción de inversiones",
-    "documentación contable",
-    "avisos ante el SAT",
-    "ejercicios fiscales",
-    "costo de lo vendido"
+    "deducción fiscal",
+    "contabilidad",
+    "documentación",
+    "SAT",
+    "inversiones"
   ],
   "terminos_coloquiales": [
     "deducción de inversiones",
-    "documentos para deducción",
-    "aviso a SAT"
+    "gastos deducibles",
+    "documentos fiscales",
+    "avisos al SAT"
   ],
-  "resumen": "El artículo establece que las inversiones deducibles requieren documentación que demuestre su uso para necesidades especiales y un aviso al SAT antes de deducirlas. Es necesario conservar esta documentación para ejercicios posteriores.",
+  "resumen": "Este artículo establece que las inversiones son deducibles siempre y cuando el contribuyente conserve la documentación que acredite su uso por necesidades especiales y presente un aviso ante el SAT en el tiempo requerido. Para deducciones en ejercicios posteriores, se debe conservar la documentación correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué inversiones puedo deducir en mi contabilidad?",
-    "¿Qué documentos necesito para hacer una deducción?",
-    "¿Cómo presento el aviso al SAT para deducciones?",
-    "¿Qué pasa si no conservo la documentación de mis deducciones?",
-    "¿Cuándo debo presentar el aviso al SAT?"
+    "¿Qué requisitos debo cumplir para deducir mis inversiones?",
+    "¿Cómo puedo presentar un aviso al SAT para deducir inversiones?",
+    "¿Qué documentos necesito para justificar mis deducciones?",
+    "¿Puedo deducir mis inversiones en años posteriores?",
+    "¿Cuál es el plazo para presentar el aviso al SAT?"
   ]
 }

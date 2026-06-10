@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8beb4d3bba48ec48",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditamiento del Impuesto Retenido",
+  "denominacion_comun": "Acreditamiento de Impuestos",
   "temas": [
     "impuesto retenido",
     "pagos provisionales",
+    "constancias fiscales",
     "comprobantes fiscales",
     "retenciones",
-    "contribuyentes"
+    "ingresos",
+    "calendario fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo acreditar el impuesto",
-    "retenciones fiscales",
-    "comprobantes de impuestos",
-    "impuesto que me retuvieron"
+    "declaraciones de impuestos",
+    "comprobantes de retenciones",
+    "recibos de retención"
   ],
-  "resumen": "Los contribuyentes pueden acreditar el impuesto que se les ha retenido contra los pagos provisionales sin necesidad de presentar comprobantes en sus declaraciones. Los comprobantes fiscales deben emitirse anualmente y reflejar todas las retenciones del año anterior.",
+  "resumen": "Los contribuyentes pueden acreditar el impuesto que les fue retenido contra sus pagos provisionales sin necesidad de presentar comprobantes con sus declaraciones. Los comprobantes fiscales se pueden emitir anualmente, incluyendo todas las retenciones del año anterior.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo acreditar el impuesto que me retuvieron?",
-    "¿Necesito presentar los comprobantes para mis pagos provisionales?",
-    "¿Qué información debe contener el comprobante fiscal anual?",
-    "¿Qué son las retenciones y cómo afectan mis pagos de impuestos?",
-    "¿Qué debo hacer si me retuvieron un impuesto?"
+    "¿Puedo acreditar el impuesto que me retuvieron en mis pagos provisionales?",
+    "¿Necesito presentar comprobantes fiscales con mis declaraciones?",
+    "¿Cuándo debo expedir los comprobantes de retención?",
+    "¿Qué información debe incluir un comprobante fiscal anual?",
+    "¿Qué pasa si no tengo los comprobantes fiscales al hacer mis declaraciones?"
   ]
 }

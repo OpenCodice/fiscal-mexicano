@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4f525985be521df0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de inmuebles por adjudicación",
+  "denominacion_comun": "Enajenación de inmuebles",
   "temas": [
-    "enajenación",
-    "ingresos",
-    "inmuebles",
+    "ingresos por enajenación",
     "adjudicación judicial",
     "adjudicación fiduciaria",
-    "pago provisional"
+    "pago provisional",
+    "valor de avalúo"
   ],
   "terminos_coloquiales": [
-    "vender un inmueble en remate",
-    "ganancias por remate de propiedad",
-    "cómo se gravan los remates",
-    "ingresos por adjudicación de bienes"
+    "vender propiedades",
+    "comprar propiedades",
+    "remate de bienes",
+    "ingreso por venta de inmuebles"
   ],
-  "resumen": "Las personas que venden inmuebles en un remate judicial o fiduciario deben considerar ciertos aspectos para calcular sus impuestos, como el momento de la enajenación y la diferencia entre el precio de remate y el avalúo del bien.",
+  "resumen": "Este artículo establece que las personas que venden inmuebles en un remate judicial o fiduciario consideran que la venta ocurre cuando se finque el remate. También señala cómo determinar el ingreso cuando se adquieren bienes en estas circunstancias, basado en la diferencia entre el precio de remate y el avalúo.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que vendí un inmueble en un remate?",
-    "¿Qué debo considerar para mis impuestos al vender un inmueble judicialmente?",
-    "¿Cómo se calcula el ingreso por venta de una propiedad adjudicada?",
-    "¿Qué es el pago provisional en la venta de inmuebles?",
-    "¿Qué pasa si compro un inmueble en un remate?"
+    "¿Cuándo se considera que se vendió un inmueble en un remate?",
+    "¿Cómo se determina el ingreso por la compra de un bien inmueble en remate?",
+    "¿Qué es el pago provisional en la venta de propiedades?",
+    "¿Cómo afecta el avalúo en la compra de inmuebles en adjudicación judicial?",
+    "¿Qué significa adjudicación fiduciaria en la venta de bienes?"
   ]
 }

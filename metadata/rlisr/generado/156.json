@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3763ff7a7249d6d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prima de seguro de vida y exenciones fiscales",
+  "denominacion_comun": "Seguro de vida en relación laboral",
   "temas": [
-    "seguro de vida",
-    "exenciones fiscales",
+    "prima de seguro",
     "empleador",
-    "beneficiarios"
+    "exención de impuestos",
+    "beneficiarios del asegurado"
   ],
   "terminos_coloquiales": [
-    "impuestos sobre seguros",
-    "pago de prima de seguro",
-    "beneficios de seguros",
-    "relación laboral y seguros"
+    "pago de seguro de vida",
+    "exención de impuestos por seguros",
+    "empleador y asegurado",
+    "seguro de vida en el trabajo",
+    "beneficiarios"
   ],
-  "resumen": "Este artículo establece que cuando un empleador paga la prima de un seguro de vida para un empleado, este se considera el mismo empleador. La exención del impuesto sobre cantidades pagadas por instituciones de seguros solo aplica si se paga directamente al asegurado o a sus beneficiarios.",
+  "resumen": "El artículo establece que el pago de la prima del seguro de vida por parte del empleador no se considera distinto al asegurado. Además, la exención de impuestos aplicará solo si la institución de seguros paga directamente a los beneficiarios designados por el asegurado.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si el empleador paga el seguro de vida de su empleado?",
-    "¿Quiénes son los beneficiarios del seguro de vida?",
-    "¿Se pagan impuestos sobre las cantidades recibidas de seguros?",
-    "¿Cómo afecta el pago de la prima de seguro a los impuestos del empleador?"
+    "¿El pago del seguro de vida cuenta como un beneficio laboral?",
+    "¿Quiénes son los beneficiarios válidos de un seguro de vida en el trabajo?",
+    "¿Qué implicaciones fiscales tiene el pago de una prima de seguro de vida por el empleador?",
+    "¿Cómo se aplica la exención de impuestos en el seguro de vida de empleados?",
+    "¿Qué sucede si los beneficios del seguro se pagan a terceros?"
   ]
 }
