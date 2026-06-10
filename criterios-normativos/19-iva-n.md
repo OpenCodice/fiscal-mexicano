@@ -1,0 +1,13 @@
+# Criterio 19/IVA/N — Prestación de servicios a sociedades dedicadas a actividades agrícolas
+
+y ganaderas.
+
+El artículo 2o.-A, fracción II, inciso a) de la Ley del IVA establece que se calculará el impuesto aplicando la tasa del 0%, cuando se presten los servicios a que se refiere ese numeral directamente a los agricultores y ganaderos, siempre que se destinen a actividades agropecuarias.
+
+El artículo 11 del Reglamento de dicha Ley señala que se entiende que los servicios se prestan directamente a los agricultores y ganaderos, cuando sea en virtud de contratos celebrados con asociaciones u organizaciones que los agrupen o con alguna institución de crédito que actúe en su carácter de fiduciaria en los que los agricultores, los ganaderos u organizaciones que los agrupen sean fideicomisarios, cuando no se hayan designado fideicomisarios o estos no puedan individualizarse y cuando se trate de fideicomisos de apoyo a dichos agricultores o ganaderos.
+
+El artículo 16, fracciones III y IV y último párrafo del CFF, dispone que empresa es la persona física o moral que realiza actividades agrícolas y ganaderas, asimismo, el artículo 74, sexto párrafo de la Ley del ISR, señala que se consideran personas morales dedicadas exclusivamente a las actividades agrícolas, ganaderas, pesqueras o silvícolas, aquéllas cuyos ingresos por dichas actividades representan cuando menos el 90% de sus ingresos totales, sin incluir los ingresos por las enajenaciones de activos fijos o activos fijos y terrenos, de su propiedad que hubiesen estado afectos a su actividad. Por su parte, el artículo 113-E, último párrafo de la Ley del ISR, establece que se consideran personas físicas dedicadas exclusivamente a las actividades agrícolas, ganaderas, silvícolas o pesqueras, cuando el total de sus ingresos representan el 100% por estas actividades.
+
+De una interpretación armónica de las disposiciones legales antes expuestas se desprende que una empresa, persona física o moral, que realiza actividades agrícolas y ganaderas también gozará de la tasa del 0% a que se refiere el artículo 2o.-A, fracción II, inciso a) de la Ley del IVA, cuando esta reciba directamente los servicios que en el citado inciso se señalan y los mismos sean destinados a actividades agropecuarias.
+
+Origen Primer antecedente 2014 Oficio 600-04-07-2014-6142 de 14 de agosto de 2014, mediante el cual se dan a conocer de manera anticipada los nuevos criterios normativos aprobados en el tercer trimestre 2014. Oficio 600-04-07-2014-87371 de 17 de diciembre de 2014, a través del cual se da a conocer el Boletín 2014, con el número de criterio normativo 20/2014/IVA.
