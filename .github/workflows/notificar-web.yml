@@ -15,6 +15,9 @@ on:
     paths-ignore:
       - 'README.md'
       - '.github/**'
+      # Los commits por documento del enricher (con PR_TOKEN) dispararían un
+      # reingest por documento; el enricher manda UN dispatch al terminar todo.
+      - 'metadata/*/generado/**'
 
 permissions: {}
 
