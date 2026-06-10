@@ -1,0 +1,37 @@
+{
+  "clave": "4.5.4",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 4.5.4. Definiciones específicas para depósito fiscal",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5584e794ee049aca",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Depósito Fiscal",
+  "temas": [
+    "aduanas",
+    "mercancías",
+    "pedimentos",
+    "RFC",
+    "bodegas",
+    "cupo electrónico"
+  ],
+  "terminos_coloquiales": [
+    "depósito fiscal",
+    "aduana",
+    "mercancías en depósito",
+    "pedimento",
+    "RFC",
+    "cartas de cupo"
+  ],
+  "resumen": "El depósito fiscal es un régimen que permite guardar mercancías en aduanas mientras se realizan los trámites necesarios. Se deben seguir ciertas normas al llenar el pedimento y declarar información específica sobre el importador y la ubicación de las mercancías.",
+  "preguntas_ejemplo": [
+    "¿Qué es el depósito fiscal?",
+    "¿Cómo se declara un pedimento de mercancías en depósito fiscal?",
+    "¿Qué clave se usa para el RFC en el pedimento?",
+    "¿Qué se necesita para cancelar la carta de cupo electrónica?",
+    "¿Dónde se deben almacenar las mercancías en depósito fiscal?"
+  ]
+}

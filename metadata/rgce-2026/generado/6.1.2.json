@@ -1,0 +1,39 @@
+{
+  "clave": "6.1.2",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 6.1.2. Rectificación de pedimentos en el RFC",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:18e06ff8e6fbec99",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Rectificación de pedimentos en el RFC",
+  "temas": [
+    "RFC",
+    "rectificación de pedimentos",
+    "importador",
+    "exportador",
+    "documentación aduanal",
+    "errores mecanográficos",
+    "denominación social"
+  ],
+  "terminos_coloquiales": [
+    "cambiar RFC",
+    "corrección de pedimento",
+    "pedimento de importación",
+    "afectaciones por fusión",
+    "rectificar datos",
+    "abreviaciones"
+  ],
+  "resumen": "La regla permite rectificar la clave del RFC de un importador o exportador en el pedimento en casos específicos, como cambios de razón social o errores mecanográficos. La rectificación debe hacerse a más tardar el 31 de marzo del ejercicio fiscal inmediato posterior al de la presentación del pedimento original.",
+  "preguntas_ejemplo": [
+    "¿Cómo cambio el RFC en un pedimento?",
+    "¿Qué hacer si cometí un error en el RFC del pedimento?",
+    "¿Puedo rectificar el nombre del importador en el pedimento?",
+    "¿Cuándo debo hacer la rectificación del pedimento?",
+    "¿Qué documentos necesito para corregir el RFC en el pedimento?",
+    "¿Qué son los errores mecanográficos en el RFC?"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "clave": "3.1.7",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.7. Transferencia de información para el cruce fronterizo",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:98865077dbef6615",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transferencia de información para el cruce fronterizo",
+  "temas": [
+    "despacho de mercancías",
+    "contenerización",
+    "pedimento",
+    "selección automatizada",
+    "documentación aduanera",
+    "vehículos",
+    "importaciones"
+  ],
+  "terminos_coloquiales": [
+    "tráfico terrestre",
+    "despacho aduanero",
+    "documentos de importación",
+    "modelo M1.11",
+    "CAAT",
+    "vehículos de autotransporte",
+    "consolidación de carga"
+  ],
+  "resumen": "Esta regla establece que al introducir mercancías por tráfico terrestre, se debe declarar el tipo de contenedor y vehículo de autotransporte. Además, es necesario presentar el pedimento y los documentos correspondientes ante el módulo de selección automatizado.",
+  "preguntas_ejemplo": [
+    "¿Qué documentos necesito para el despacho de mercancías por tierra?",
+    "¿Cómo se declara el tipo de contenedor y vehículo al importar?",
+    "¿Es necesario presentar físicamente las mercancías en todas las importaciones?",
+    "¿Qué es el CAAT y cómo se incluye en el trámite?",
+    "¿Qué operaciones están exentas de la regla de presentación de mercancías?"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "clave": "6.1.4",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 6.1.4. mercancías",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:368c586ec05dfef6",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Rectificación de pedimentos",
+  "temas": [
+    "despacho aduanero",
+    "trato arancelario preferencial",
+    "mercancías originarias",
+    "acuerdos comerciales",
+    "certificado de origen"
+  ],
+  "terminos_coloquiales": [
+    "rectificar pedimento",
+    "trato arancelario",
+    "mercancías de tratados",
+    "prueba de origen",
+    "certificado de origen"
+  ],
+  "resumen": "Se permite la rectificación de pedimentos después del despacho aduanero para solicitar trato arancelario preferencial. Se debe incluir la prueba de origen o el certificado de origen correspondiente al pedimento rectificado.",
+  "preguntas_ejemplo": [
+    "¿Cómo rectifico un pedimento aduanero?",
+    "¿Qué requisitos necesito para el trato arancelario preferencial?",
+    "¿Qué es un certificado de origen y cómo se presenta?",
+    "¿Qué mercancías pueden optar por trato arancelario preferencial?",
+    "¿Dónde encuentro la clave de identificadores para el pedimento?"
+  ]
+}

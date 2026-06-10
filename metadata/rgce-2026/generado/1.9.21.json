@@ -1,0 +1,40 @@
+{
+  "clave": "1.9.21",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.21. Ventanilla Digital",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7ab4f0fd62933fc7",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión Electrónica de Información para Transporte Marítimo",
+  "temas": [
+    "transmisión de documentos",
+    "información de mercancías",
+    "agentes internacionales de carga",
+    "conocimientos de embarque",
+    "importación",
+    "exportación",
+    "Ventanilla Digital",
+    "requisitos de transmisión"
+  ],
+  "terminos_coloquiales": [
+    "documento electrónico de carga",
+    "transmitir información",
+    "agente de carga",
+    "conocimiento de embarque",
+    "Ventanilla Digital",
+    "importación",
+    "exportación"
+  ],
+  "resumen": "La regla establece que los agentes internacionales de carga deben transmitir electrónicamente información sobre las mercancías que transportan. Esta transmisión debe realizarse en plazos específicos según el tipo de operación, ya sea importación o exportación, y debe cumplir con ciertos requisitos técnicos.",
+  "preguntas_ejemplo": [
+    "¿Qué información debo enviar a la Ventanilla Digital para mis mercancías?",
+    "¿Cuánto tiempo antes de zarpar debo transmitir datos para exportación?",
+    "¿Qué es un conocimiento de embarque y cómo lo uso en la transmisión?",
+    "¿Qué hacer si tengo que modificar datos después de enviar la información?",
+    "¿Dónde encuentro los lineamientos para transmitir a la Ventanilla Digital?"
+  ]
+}

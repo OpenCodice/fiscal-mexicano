@@ -1,0 +1,36 @@
+{
+  "clave": "1.9.5",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.5. Procedimiento para la trasmisión de información por empresas aéreas",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7a87c121d0274706",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Procedimiento para la transmisión de información por empresas aéreas",
+  "temas": [
+    "información electrónica",
+    "pasajeros",
+    "tripulación",
+    "formatos US/EDIFACT",
+    "formatos UN/EDIFACT",
+    "plazos de entrega"
+  ],
+  "terminos_coloquiales": [
+    "información de pasajeros",
+    "API",
+    "Advance Passenger Information",
+    "datos de vuelo",
+    "transmisión electrónica"
+  ],
+  "resumen": "Establece el procedimiento para que las empresas aéreas transmitan electrónicamente la información de pasajeros y tripulantes al SAT. La información debe enviarse a tiempo y contener ciertos datos básicos como nombre, fecha de nacimiento y detalles del vuelo.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben enviar las aerolíneas al SAT?",
+    "¿Cuándo debe transmitirse la información de los pasajeros?",
+    "¿Qué formatos se utilizan para la transmisión de datos?",
+    "¿Qué datos se requieren sobre la tripulación en los reportes?",
+    "¿Cuáles son los plazos para enviar información de vuelos?"
+  ]
+}

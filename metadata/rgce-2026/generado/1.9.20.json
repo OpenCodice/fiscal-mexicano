@@ -1,0 +1,40 @@
+{
+  "clave": "1.9.20",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.20. Ventanilla Digital",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b8f6ab2cb5fbc080",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión Electrónica de Información Marítima",
+  "temas": [
+    "Ventanilla Digital",
+    "documento electrónico",
+    "transportación marítima",
+    "importación",
+    "exportación",
+    "información de carga",
+    "manifestación de contenido",
+    "mercancías peligrosas"
+  ],
+  "terminos_coloquiales": [
+    "ventanilla digital",
+    "documento de transporte",
+    "carga marítima",
+    "importación/exportación",
+    "buque",
+    "agente naviero"
+  ],
+  "resumen": "Las empresas de transportación marítima deben transmitir a la Ventanilla Digital un documento electrónico con información sobre la carga, el buque y otros detalles relevantes. Esta transmisión debe hacerse con anticipación y cumplir con ciertos requisitos establecidos por la norma.",
+  "preguntas_ejemplo": [
+    "¿Cómo transmito la información de un envío marítimo?",
+    "¿Qué datos necesito para el documento de transporte?",
+    "¿Cuándo debo enviar la información antes de zarpar?",
+    "¿Qué hacer si hay cambios en la información de carga?",
+    "¿Cuáles son los requisitos para las exportaciones marítimas?",
+    "¿Qué es la Ventanilla Digital?"
+  ]
+}

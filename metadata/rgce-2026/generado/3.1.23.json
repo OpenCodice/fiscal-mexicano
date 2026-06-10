@@ -1,0 +1,35 @@
+{
+  "clave": "3.1.23",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.23. Rectificación de la cantidad de mercancía en los Pedimentos Parte II",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:00543bc0486998b3",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Rectificación de mercancías en pedimentos",
+  "temas": [
+    "importación de mercancías",
+    "pedimentos",
+    "diferencias de cantidad",
+    "rectificación",
+    "sistemas de pesaje",
+    "contribuciones",
+    "certificados de peso"
+  ],
+  "terminos_coloquiales": [
+    "ajustes de cantidades",
+    "cambio en pedimentos",
+    "importar mercancías",
+    "rectificación de pedimento"
+  ],
+  "resumen": "Esta regla establece que cuando la cantidad de mercancía declarada en un pedimento de importación varía en más de un 2% respecto a los registros de los sistemas de pesaje autorizados, se debe presentar un pedimento de rectificación. Además, para minerales, se requiere un certificado de peso o volumen.",
+  "preguntas_ejemplo": [
+    "¿Cómo rectifico la cantidad de mercancía en un pedimento?",
+    "¿Qué debo hacer si la cantidad que importé no coincide con lo declarado?",
+    "¿Necesito un certificado para minerales en los pedimentos?",
+    "¿Cuál es el procedimiento para hacer ajustes en pedimentos de importación?"
+  ]
+}

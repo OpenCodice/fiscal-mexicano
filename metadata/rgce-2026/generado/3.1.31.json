@@ -1,0 +1,39 @@
+{
+  "clave": "3.1.31",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.31. mercancías",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1c02b949cade8285",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Despacho de Mercancías",
+  "temas": [
+    "documentación aduanera",
+    "e-document",
+    "pedimentos",
+    "exportación e importación",
+    "e.firma",
+    "manifestaciones bajo protesta",
+    "reconocimiento aduanero"
+  ],
+  "terminos_coloquiales": [
+    "documentos para despacho",
+    "pedimento",
+    "documentos digitales",
+    "importar mercancías",
+    "exportar mercancías",
+    "firma electrónica"
+  ],
+  "resumen": "Esta regla establece los documentos que deben presentarse para el despacho de mercancías, incluyendo la obligación de digitalizar ciertos documentos y declarar e-documents en el pedimento. También detalla cómo se deben manejar los documentos y el papel de los agentes aduanales.",
+  "preguntas_ejemplo": [
+    "¿Qué documentos necesito para despachar mercancías?",
+    "¿Cómo se usa el e-document en el pedimento?",
+    "¿Qué es la e.firma y cómo funciona en el despacho aduanal?",
+    "¿Debo presentar el pedimento original para importar o exportar?",
+    "¿Cuándo se requiere la firma bajo protesta en los documentos aduaneros?",
+    "¿Qué pasa si se requiere reconocimiento aduanero?"
+  ]
+}

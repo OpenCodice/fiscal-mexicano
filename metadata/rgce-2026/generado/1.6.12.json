@@ -1,0 +1,39 @@
+{
+  "clave": "1.6.12",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.6.12. Opción para efectuar el pago del IGI por empresas con Programa IMMEX",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c21af1de1f2cbfc7",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Pago del IGI para empresas IMMEX",
+  "temas": [
+    "IGI",
+    "Programa IMMEX",
+    "importación temporal",
+    "pedimento",
+    "cambio de régimen",
+    "mercancías",
+    "valor en aduana"
+  ],
+  "terminos_coloquiales": [
+    "pago del IGI",
+    "empresas IMMEX",
+    "importación",
+    "cambio de régimen",
+    "pedimentos",
+    "mercancías temporales"
+  ],
+  "resumen": "Las empresas con Programa IMMEX pueden pagar el Impuesto General de Importación (IGI) al tramitar el pedimento de importación temporal, siempre que el valor en aduana no sea provisional. Además, al cambiar de importación temporal a definitiva, deben declarar el pago ya realizado en los pedimentos correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Cómo pago el IGI si tengo un programa IMMEX?",
+    "¿Qué debo hacer para importar mercancías temporalmente con el IMMEX?",
+    "¿Cuál es el procedimiento para el cambio de régimen de importación?",
+    "¿Qué información necesito poner en el pedimento para el IGI?",
+    "¿Hay algún requisito para el valor en aduana en el IMMEX?",
+    "¿Qué debo declarar al cambiar de importación temporal a definitiva?"
+  ]
+}

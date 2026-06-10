@@ -1,0 +1,38 @@
+{
+  "clave": "1.9.19",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.19. comercialización de la mercancía",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c9028aa5de9c58c5",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Comercialización de la mercancía",
+  "temas": [
+    "datos de valor de mercancía",
+    "CFDI",
+    "información del proveedor",
+    "información del destinatario",
+    "información del comprador",
+    "descripción de mercancía",
+    "identificación individual de mercancía"
+  ],
+  "terminos_coloquiales": [
+    "factura",
+    "documento equivalente",
+    "datos de valor",
+    "comercialización",
+    "CFDI"
+  ],
+  "resumen": "Esta disposición detalla la información que se debe proporcionar sobre la comercialización de mercancías, incluyendo datos del proveedor, destinatario y comprador, así como información sobre el valor y descripción de la mercancía. Se enfatiza la importancia de datos específicos como el número de serie y marca comercial en caso de que la mercancía sea identificable individualmente.",
+  "preguntas_ejemplo": [
+    "¿Qué información debe incluirse en un CFDI para la comercialización de mercancías?",
+    "¿Qué datos del proveedor y destinatario necesito para emitir una factura?",
+    "¿Cómo debo reportar el valor de la mercancía en mis documentos fiscales?",
+    "¿Qué se entiende por descripción comercial detallada de una mercancía?",
+    "¿Qué información se requiere si el comprador es diferente al destinatario?",
+    "¿Cuáles son los datos necesarios para identificar individualmente una mercancía?"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "clave": "1.9.7",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.7. empresas aéreas",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f2dd67a23d70a920",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión Electrónica de Información para Empresas Aéreas",
+  "temas": [
+    "transmisión de datos",
+    "información de pasajeros",
+    "información de tripulantes",
+    "vuelos regulares",
+    "vuelos no regulares",
+    "sanciones",
+    "información incompleta",
+    "información incorrecta",
+    "información extemporánea"
+  ],
+  "terminos_coloquiales": [
+    "datos de pasajeros",
+    "información de vuelos",
+    "API",
+    "PNR",
+    "DCS",
+    "transmisión de información aérea"
+  ],
+  "resumen": "Esta regla establece las condiciones bajo las cuales se considera que la transmisión electrónica de información de pasajeros y tripulantes es omitida, incompleta, incorrecta o extemporánea. Se detallan las excepciones y circunstancias que pueden justificar la no transmisión o errores en la misma.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no transmito la información de mis pasajeros?",
+    "¿Cuáles son las sanciones por no enviar los datos a tiempo?",
+    "¿Qué se considera información incompleta en un vuelo?",
+    "¿Qué debo hacer si hay fallas en el sistema al transmitir datos?",
+    "¿Cómo se manejan los retrasos en la transmisión de información?"
+  ]
+}

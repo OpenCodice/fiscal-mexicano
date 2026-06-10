@@ -1,0 +1,43 @@
+{
+  "clave": "1.9.9",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.9. Intercambio de información de agentes de carga internacional",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:338847c6d721ca7a",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Intercambio de información de agentes de carga internacional",
+  "temas": [
+    "transmisión electrónica de datos",
+    "importaciones",
+    "exportaciones",
+    "información de mercancías",
+    "buques",
+    "agentes de carga internacional",
+    "SAAI",
+    "rectificación de información",
+    "merchandises peligrosas",
+    "conexión al SAAI"
+  ],
+  "terminos_coloquiales": [
+    "transmitir información de carga",
+    "agentes de carga",
+    "importar mercancías",
+    "exportar productos",
+    "SAAI",
+    "información de embarque",
+    "contener mercancías",
+    "carga a granel"
+  ],
+  "resumen": "Los agentes de carga internacional deben transmitir electrónicamente información sobre mercancías a las autoridades competentes según los lineamientos establecidos. Esta información debe incluir detalles como el nombre del buque, el consignatario y la descripción de la mercancía, y puede rectificarse antes de que se presente a despacho.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben enviar los agentes de carga internacional?",
+    "¿Cómo se transmite la información de importaciones y exportaciones?",
+    "¿Cuáles son los plazos para transmitir datos al SAAI?",
+    "¿Qué hacer si la información transmitida es incorrecta?",
+    "¿Cómo se manejan las mercancías peligrosas en la documentación?"
+  ]
+}

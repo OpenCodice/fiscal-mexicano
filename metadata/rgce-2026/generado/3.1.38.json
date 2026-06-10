@@ -1,0 +1,36 @@
+{
+  "clave": "3.1.38",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.38. Transmisión de información contenida en el CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a1a894551c1838b7",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión de CFDI para exportación",
+  "temas": [
+    "exportación de mercancías",
+    "CFDI",
+    "pedimento",
+    "folios fiscales",
+    "complemento del CFDI",
+    "acuse de valor"
+  ],
+  "terminos_coloquiales": [
+    "factura electrónica",
+    "exportar mercancías",
+    "archivo electrónico del CFDI",
+    "pedimento A1",
+    "CFDI para exportación"
+  ],
+  "resumen": "Esta regla establece la obligación de transmitir el archivo electrónico del CFDI y registrar los números de folios fiscales en el pedimento al exportar mercancías de manera definitiva. Además, se requiere incorporar datos del complemento que el SAT publique.",
+  "preguntas_ejemplo": [
+    "¿Cómo debo transmitir el CFDI para mis exportaciones?",
+    "¿Qué información tengo que incluir en el pedimento al exportar?",
+    "¿Es necesario enviar el acuse de valor si transmito el CFDI?",
+    "¿Qué es el pedimento A1 en la exportación?",
+    "¿Qué datos debo incluir del complemento del CFDI?"
+  ]
+}

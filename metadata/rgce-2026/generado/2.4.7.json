@@ -1,0 +1,37 @@
+{
+  "clave": "2.4.7",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 2.4.7. Transmisión de información por parte del SEPOMEX",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:18c3afcd0c094d05",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión de información por parte del SEPOMEX",
+  "temas": [
+    "merchancía",
+    "guías postales",
+    "entrada y salida",
+    "documento electrónico",
+    "información aduanera",
+    "peso y valor",
+    "prohibición de importación y exportación"
+  ],
+  "terminos_coloquiales": [
+    "información de envíos postales",
+    "guía postal",
+    "SEPOMEX",
+    "importación de mercancías",
+    "exportación de mercancías"
+  ],
+  "resumen": "El SEPOMEX debe enviar electrónicamente información detallada sobre las guías y envíos postales antes de que estos ingresen o salgan del país. Esto incluye datos como el remitente, destinatario, descripción de la mercancía y más, especialmente si la mercancía está prohibida.",
+  "preguntas_ejemplo": [
+    "¿Qué información debe enviar el SEPOMEX antes de que llegue un envío postal?",
+    "¿Cuáles son los requisitos para la transmisión de datos por parte del SEPOMEX?",
+    "¿Qué sucede si la mercancía a enviar está prohibida?",
+    "¿Qué datos se requieren en la guía postal?",
+    "¿Cómo se reporta el peso y el valor de la mercancía por el SEPOMEX?"
+  ]
+}

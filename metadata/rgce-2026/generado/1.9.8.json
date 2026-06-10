@@ -1,0 +1,42 @@
+{
+  "clave": "1.9.8",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.8. Transmisión de información de empresas de transportación marítima",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1a50c863c753d5a3",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión de información de empresas de transportación marítima",
+  "temas": [
+    "información marítima",
+    "manifiesto de carga",
+    "importaciones",
+    "exportaciones",
+    "transmisión electrónica",
+    "SAAI",
+    "carga a granel",
+    "mercancías peligrosas",
+    "rectificación de datos",
+    "consignatario"
+  ],
+  "terminos_coloquiales": [
+    "datos de carga",
+    "transmisión de información",
+    "SAAI",
+    "manifiesto",
+    "carga marítima",
+    "importación",
+    "exportación"
+  ],
+  "resumen": "Las empresas de transportación marítima deben enviar electrónicamente información sobre mercancías transportadas en sus buques. Esta transmisión debe realizarse antes del arribo de la mercancía y puede hacerse en español o inglés. Los detalles específicos que deben incluirse en la información son variados, desde el nombre del buque hasta la cantidad y tipo de mercancía.",
+  "preguntas_ejemplo": [
+    "¿Qué información necesita transmitir una empresa de transportación marítima?",
+    "¿Cómo se debe hacer la transmisión de datos al SAAI?",
+    "¿Qué sucede si un buque transporta mercancía a granel?",
+    "¿Cuánto tiempo antes del arribo debo enviar la información?",
+    "¿Qué pasa si tengo que corregir la información enviada?"
+  ]
+}

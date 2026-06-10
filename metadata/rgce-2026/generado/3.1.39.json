@@ -1,0 +1,38 @@
+{
+  "clave": "3.1.39",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.39. Verificación del número o números de folio fiscal del CFDI",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ebda101965b3fd89",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Verificación de folio fiscal del CFDI",
+  "temas": [
+    "CFDI",
+    "folio fiscal",
+    "exportadores",
+    "agentes aduanales",
+    "contribuciones",
+    "SAT",
+    "verificación"
+  ],
+  "terminos_coloquiales": [
+    "folio fiscal",
+    "factura",
+    "CFDI",
+    "verificar CFDI",
+    "SAT",
+    "número de folio"
+  ],
+  "resumen": "La regla establece que los exportadores y agentes aduanales deben verificar que el número de folio fiscal de un CFDI coincida con el que aparece en el Portal del SAT al determinar las contribuciones aplicables.",
+  "preguntas_ejemplo": [
+    "¿Cómo verifico el folio fiscal de un CFDI?",
+    "¿Qué debo hacer si el número de folio en mi CFDI no coincide con el del SAT?",
+    "¿Quiénes están obligados a verificar el folio fiscal del CFDI?",
+    "¿Qué es un folio fiscal y por qué es importante?",
+    "¿Dónde encuentro el folio fiscal de mi CFDI?"
+  ]
+}

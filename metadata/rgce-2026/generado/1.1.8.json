@@ -1,0 +1,37 @@
+{
+  "clave": "1.1.8",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.1.8. Obtención y empleo del certificado de sello digital",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2872e7f334a8248c",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Certificado de Sello Digital",
+  "temas": [
+    "sello digital",
+    "certificado de firma",
+    "transmisiones aduaneras",
+    "e.firma",
+    "comercio exterior",
+    "VUCEM",
+    "digitalización de documentos"
+  ],
+  "terminos_coloquiales": [
+    "sello digital",
+    "certificado digital",
+    "firma electrónica",
+    "e.firma",
+    "documentos digitales"
+  ],
+  "resumen": "El certificado de sello digital se utiliza para realizar transmisiones a la autoridad aduanera y debe ser solicitado con la e.firma vigente. Dependiendo del uso, se debe especificar en el campo correspondiente el tipo de trámite, como comercio exterior o VUCEM.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo obtener un certificado de sello digital?",
+    "¿Qué es un sello digital y para qué se utiliza?",
+    "¿Cómo se usa la e.firma para solicitar el certificado de sello digital?",
+    "¿Qué trámites puedo realizar con el certificado de sello digital?",
+    "¿Cuáles son los requisitos para usar el sello digital en aduanas?"
+  ]
+}

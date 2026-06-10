@@ -1,0 +1,38 @@
+{
+  "clave": "1.4.12",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.4.12. declaración inexacta del NICO",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:74e15c78dc3178ba",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Suspensión de agentes aduanales en el SEA",
+  "temas": [
+    "suspensión",
+    "agentes aduanales",
+    "despacho de mercancías",
+    "rectificación del pedimento",
+    "cuenta aduanera de garantía",
+    "cambio de situación",
+    "ficha de trámite"
+  ],
+  "terminos_coloquiales": [
+    "suspensión de agentes aduanales",
+    "agente aduanal",
+    "despacho aduanal",
+    "rectificar pedimento",
+    "cuenta de garantía",
+    "SEA"
+  ],
+  "resumen": "Los agentes aduanales e importadores suspendidos pueden presentar una rectificación del pedimento para desvirtuar la suspensión y reanudar el despacho de mercancías. Deben dar aviso a la autoridad aduanera para que se levante la suspensión en un plazo establecido si cumplen con los requisitos correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Qué puedo hacer si mi agente aduanal está suspendido?",
+    "¿Cómo levanto la suspensión de despacho de mercancías?",
+    "¿Qué es una cuenta aduanera de garantía?",
+    "¿Cómo se rectifica un pedimento?",
+    "¿Cuáles son los requisitos para desvirtuar una suspensión en el SEA?"
+  ]
+}

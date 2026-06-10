@@ -1,0 +1,35 @@
+{
+  "clave": "1.1.4",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.1.4. Pago a través del Esquema e5cinco",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1ec194e6433120bf",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Pago e5cinco",
+  "temas": [
+    "pago electrónico",
+    "recibo de pago",
+    "sello digital",
+    "comprobante de pago",
+    "SAT",
+    "acción de pago"
+  ],
+  "terminos_coloquiales": [
+    "pago en línea",
+    "pago por internet",
+    "esquema e5cinco",
+    "recibo SAT"
+  ],
+  "resumen": "El esquema e5cinco permite realizar pagos electrónicos, requeridos para el artículo 31 del CFF, y se debe presentar un recibo con sello digital o el original del comprobante de pago de la institución correspondiente. El acceso se realiza a través de una aplicación en el Portal del SAT.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo hacer un pago usando e5cinco?",
+    "¿Qué recibo necesito para el pago electrónico?",
+    "¿Dónde encuentro la aplicación para e5cinco?",
+    "¿Qué es el recibo con sello digital?",
+    "¿Qué comprobante de pago debo presentar?"
+  ]
+}

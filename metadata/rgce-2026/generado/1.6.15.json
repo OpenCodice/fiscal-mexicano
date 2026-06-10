@@ -1,0 +1,36 @@
+{
+  "clave": "1.6.15",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.6.15. establecido en el TLCUE, en el TLCAELC y en el ACC",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9aa7de75e0330151",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Retorno de Mercancías",
+  "temas": [
+    "IGI",
+    "productos originarios",
+    "prueba de origen",
+    "programas de diferimiento",
+    "compensación",
+    "pedimento de retorno"
+  ],
+  "terminos_coloquiales": [
+    "devolución de mercancías",
+    "retorno de productos",
+    "IGI",
+    "prueba de origen",
+    "productos no originarios"
+  ],
+  "resumen": "La regla establece los procedimientos para retornar mercancías a varios países y los requisitos respecto al pago del IGI por materiales no originarios. Se detallan las condiciones bajo las cuales se debe determinar y pagar el impuesto, así como las opciones para solicitar una devolución o compensación del mismo.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo devolver mercancías que importé?",
+    "¿Qué requisitos debo cumplir para el retorno de productos?",
+    "¿Dónde indico la clave de la prueba de origen en el pedimento?",
+    "¿Qué es el IGI y cuándo debo pagarlo?",
+    "¿Qué pasa si no pagué el IGI al retornar las mercancías?"
+  ]
+}

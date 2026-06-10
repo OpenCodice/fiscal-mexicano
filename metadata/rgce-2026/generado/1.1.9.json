@@ -1,0 +1,33 @@
+{
+  "clave": "1.1.9",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.1.9. de autorizaciones o concesiones otorgadas por el SAT",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:817a2efb557335d1",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Negativa ficta",
+  "temas": [
+    "impugnación",
+    "suspensión de operaciones",
+    "derechos del contribuyente",
+    "medios de defensa"
+  ],
+  "terminos_coloquiales": [
+    "negativa ficta",
+    "impugnar",
+    "suspensión de actividades",
+    "defensa fiscal"
+  ],
+  "resumen": "La disposición establece que si un interesado impugna una negativa ficta, solo podrá concluir operaciones ya iniciadas en la fecha de notificación de la suspensión y no podrá iniciar nuevas. Esto aplica hasta que se resuelva el medio de defensa presentado.",
+  "preguntas_ejemplo": [
+    "¿Qué hacer si me niegan un trámite y quiero impugnar la negativa?",
+    "¿Puedo seguir operando si estoy impugnando una negativa ficta?",
+    "¿Qué implica la suspensión de operaciones tras una negativa ficta?",
+    "¿Cuáles son mis derechos si me notifican una negativa ficta?",
+    "¿Cómo se presenta un medio de defensa contra una negativa del SAT?"
+  ]
+}

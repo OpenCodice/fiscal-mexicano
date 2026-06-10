@@ -1,0 +1,32 @@
+{
+  "clave": "1.4.6",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.4.6. Monto de operaciones que debe ocuparse el agente aduanal",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a90a58599edc6d5b",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Monto de operaciones agentes aduanales",
+  "temas": [
+    "operaciones de importación",
+    "operaciones de exportación",
+    "valor de mercancías",
+    "agentes aduanales"
+  ],
+  "terminos_coloquiales": [
+    "agente aduanal",
+    "operaciones de importación y exportación",
+    "límites de valor aduanal"
+  ],
+  "resumen": "Esta regla establece el límite de valor que debe manejar un agente aduanal para las operaciones de importación y exportación, tanto para el régimen general como para empresas en la Franja o Región Fronteriza. Se mencionan valores específicos en dólares americanos que determinan estas operaciones.",
+  "preguntas_ejemplo": [
+    "¿Cuál es el monto máximo de operaciones que puede manejar un agente aduanal?",
+    "¿Qué límite de valor se aplica a las importaciones en la Franja Fronteriza?",
+    "¿Los agentes aduanales tienen un límite en las operaciones de exportación?",
+    "¿Qué pasa si el valor de la mercancía supera el límite establecido para agentes aduanales?",
+    "¿Qué requisitos hay para que una operación se considere simplificada?"
+  ]
+}

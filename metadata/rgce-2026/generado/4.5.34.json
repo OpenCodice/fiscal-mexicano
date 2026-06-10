@@ -1,0 +1,35 @@
+{
+  "clave": "4.5.34",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 4.5.34. fiscal",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d5a0b2319d0cab49",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Depósito Fiscal",
+  "temas": [
+    "cambio de régimen aduanero",
+    "mercancías",
+    "almacén general de depósito",
+    "plazo de arribo",
+    "contribuciones",
+    "cuotas compensatorias"
+  ],
+  "terminos_coloquiales": [
+    "depósito fiscal",
+    "cambio de régimen aduanero",
+    "mercancías ilegales",
+    "plazo de entrega"
+  ],
+  "resumen": "El régimen de depósito fiscal establece que no se puede cambiar el régimen aduanero ni transferir mercancías hasta que estas lleguen al almacén general de depósito dentro de un plazo específico. Si las mercancías no llegan a tiempo, se consideran ilegales y se deben pagar contribuciones y multas correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no llega mi mercancía al depósito fiscal a tiempo?",
+    "¿Puedo cambiar el régimen de mis mercancías en depósito fiscal?",
+    "¿Qué debo hacer si mis mercancías son consideradas ilegales?",
+    "¿Cuánto tiempo tengo para que mis mercancías lleguen al almacén general de depósito?",
+    "¿Qué son las cuotas compensatorias en el régimen de depósito fiscal?"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "clave": "3.1.33",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.33. copias simples",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:93433ed83d3d4812",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Despacho Electrónico de Mercancías",
+  "temas": [
+    "documentos aduaneros",
+    "mecanismo de selección automatizado",
+    "modelo M1.7",
+    "transmisión electrónica",
+    "pedimentos",
+    "consolidación de carga",
+    "código de barras",
+    "importaciones"
+  ],
+  "terminos_coloquiales": [
+    "despacho aduanero",
+    "documento de operación",
+    "pedimento",
+    "DODA",
+    "aviso consolidado",
+    "documento electrónico"
+  ],
+  "resumen": "La regla establece cómo se debe realizar la transmisión electrónica de documentos para el despacho de mercancías en aduanas, incluyendo el uso del modelo M1.7 y los requisitos de información necesaria para dicha transmisión. Se busca simplificar el proceso utilizando sistemas informáticos en las aduanas del país.",
+  "preguntas_ejemplo": [
+    "¿Cómo se hace el despacho electrónico de mercancías?",
+    "¿Qué documentos necesito para importar mercancías?",
+    "¿Qué es el modelo M1.7 en el despacho aduanero?",
+    "¿Cómo transmito información para el despacho de mercancías?",
+    "¿Qué información debo incluir en el pedimento?"
+  ]
+}

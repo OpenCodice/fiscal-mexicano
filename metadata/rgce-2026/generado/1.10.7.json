@@ -1,0 +1,38 @@
+{
+  "clave": "1.10.7",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.10.7. Requisitos para la transmisión electrónica del pedimento",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5680e887dbf9aeb2",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión electrónica del pedimento",
+  "temas": [
+    "e.firma",
+    "sello digital",
+    "representante legal",
+    "autorizados",
+    "comercio exterior",
+    "empresas de mensajería"
+  ],
+  "terminos_coloquiales": [
+    "transmisión de pedimento",
+    "pedimento electrónico",
+    "firma electrónica",
+    "sello digital",
+    "representante",
+    "menajería y paquetería"
+  ],
+  "resumen": "Se establece que los autorizados deben utilizar la e.firma o el sello digital vigente y activo para la transmisión electrónica del pedimento a través de su representante legal. Además, se menciona que las empresas de mensajería también pueden realizar esta transmisión con su propio sello digital.",
+  "preguntas_ejemplo": [
+    "¿Cómo se hace la transmisión electrónica del pedimento?",
+    "¿Qué es la e.firma y cómo se utiliza en la transmisión de pedimentos?",
+    "¿Pueden las empresas de mensajería transmitir pedimentos?",
+    "¿Qué requisitos debe cumplir un representante legal para la transmisión electrónica?",
+    "¿Qué sucede si hay varios representantes legales para un autorizado?",
+    "¿Cuál es el proceso para utilizar el sello digital en la transmisión de pedimentos?"
+  ]
+}

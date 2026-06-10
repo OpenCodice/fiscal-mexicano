@@ -1,0 +1,38 @@
+{
+  "clave": "1.2.4",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.2.4. Horario de recepción de documentos",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7fe2feaca1879d68",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Horario de recepción de documentos",
+  "temas": [
+    "declaraciones",
+    "promociones",
+    "formatos",
+    "avisos",
+    "horarios",
+    "Ventanilla Digital",
+    "SAT",
+    "ANAM"
+  ],
+  "terminos_coloquiales": [
+    "horarios para presentar documentos",
+    "horario del SAT",
+    "Ventanilla Digital",
+    "horario de recepción",
+    "horario de la ANAM"
+  ],
+  "resumen": "Esta regla establece los horarios de recepción de documentos, como declaraciones y promociones, en diferentes unidades administrativas, incluyendo el SAT y la ANAM, así como a través de la Ventanilla Digital. Indica también que los días inhábiles se excluyen del horario de recepción.",
+  "preguntas_ejemplo": [
+    "¿Cuál es el horario para presentar declaraciones en el SAT?",
+    "¿A qué hora cierra la Ventanilla Digital para recibir documentos?",
+    "¿Cuándo se consideran hábiles los días para presentar formatos?",
+    "¿Qué horarios tiene la ANAM para recibir promociones?",
+    "¿Puedo presentar documentos después de las 18:00 horas?"
+  ]
+}

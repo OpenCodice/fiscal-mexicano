@@ -1,0 +1,39 @@
+{
+  "clave": "3.1.15",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.15. Procedimiento para tramitar un documento aduanero",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1f54a8c4d427e818",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Despacho de Mercancías",
+  "temas": [
+    "documento aduanero",
+    "pedimento",
+    "e.firma",
+    "sello digital",
+    "agentes aduanales",
+    "importadores",
+    "exportadores",
+    "código de barras"
+  ],
+  "terminos_coloquiales": [
+    "despacho aduanero",
+    "pedimento de importación",
+    "sello digital",
+    "e.firma",
+    "formato de aviso consolidado",
+    "SAT"
+  ],
+  "resumen": "La regla establece los procedimientos que deben seguir los agentes aduanales, importadores y exportadores para el despacho de mercancías, incluyendo la utilización de documentos y firma electrónica. También especifica los requisitos para la impresión de los formularios necesarios como el pedimento y el aviso consolidado.",
+  "preguntas_ejemplo": [
+    "¿Qué documentos necesito para el despacho aduanero?",
+    "¿Cómo tramito el pedimento de importación?",
+    "¿Qué es la e.firma y cómo la utilizo?",
+    "¿Qué información debe contener el aviso consolidado?",
+    "¿Quiénes pueden actuar como agentes aduanales?"
+  ]
+}

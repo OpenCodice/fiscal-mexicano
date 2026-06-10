@@ -1,0 +1,39 @@
+{
+  "clave": "1.9.16",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.16. Número de acuse de valor individual",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:41f2c2372023a6a2",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Número de acuse de valor individual",
+  "temas": [
+    "transmisión electrónica",
+    "datos aduaneros",
+    "pedimento",
+    "CFDI",
+    "e.firma",
+    "Hidrocarburos",
+    "mercancías",
+    "régimen aduanero"
+  ],
+  "terminos_coloquiales": [
+    "acuse de valor",
+    "datos de importación",
+    "CFDI de mercancías",
+    "registro fiscal",
+    "sello digital",
+    "pedimento aduanal"
+  ],
+  "resumen": "Los contribuyentes deben enviar electrónicamente ciertos datos a la autoridad aduanera antes de despachar mercancías. Esto incluye información sobre el valor, identificación fiscal y otros detalles específicos en el pedimento aduanal.",
+  "preguntas_ejemplo": [
+    "¿Qué datos debo enviar antes de despachar mis mercancías?",
+    "¿Cómo obtengo el número de acuse de valor?",
+    "¿Qué es la e.firma y cómo la utilizo en mis trámites aduaneros?",
+    "¿Cuáles son las responsabilidades al transmitir datos aduaneros?",
+    "¿Qué hacer si mi CFDI tiene información en inglés?"
+  ]
+}

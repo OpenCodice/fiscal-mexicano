@@ -1,0 +1,36 @@
+{
+  "clave": "4.6.9",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 4.6.9. transporte ferroviario",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4fc6d1b8fb854359",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transporte Ferroviario",
+  "temas": [
+    "tránsito interno",
+    "tránsito internacional",
+    "transmisión electrónica",
+    "Ventanilla Digital",
+    "agentes aduanales",
+    "pedimento"
+  ],
+  "terminos_coloquiales": [
+    "transporte de mercancías",
+    "tren de carga",
+    "tránsito ferroviario",
+    "pedimento aduanal",
+    "SAT"
+  ],
+  "resumen": "Las empresas de transporte ferroviario deben enviar información electrónicamente a la Ventanilla Digital para operaciones de tránsito interno e internacional. También, los agentes aduanales deben presentar el pedimento de forma electrónica según las disposiciones aplicables.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben enviar las empresas de transporte ferroviario?",
+    "¿Cómo se realiza el tránsito de mercancías por tren?",
+    "¿Qué es la Ventanilla Digital en aduanas?",
+    "¿Qué deben hacer los agentes aduanales con el pedimento?",
+    "¿Cuál es la regla que regula el transporte ferroviario?"
+  ]
+}

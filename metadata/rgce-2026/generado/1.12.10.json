@@ -1,0 +1,40 @@
+{
+  "clave": "1.12.10",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.12.10. Monto de las operaciones que debe ocuparse la agencia aduanal",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e79b38a144b8bfac",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Monto de operaciones de agencia aduanal",
+  "temas": [
+    "agencias aduanales",
+    "importación",
+    "exportación",
+    "valor de operaciones",
+    "pedimento simplificado",
+    "Decreto de la Franja Fronteriza",
+    "región fronteriza"
+  ],
+  "terminos_coloquiales": [
+    "agencia aduanal",
+    "operaciones de aduana",
+    "importar",
+    "exportar",
+    "valores aduanales",
+    "dólares",
+    "infraestructura aduanal"
+  ],
+  "resumen": "Las agencias aduanales deben ocuparse de las operaciones de importación y exportación que no superen ciertos montos en dólares. Para las empresas en la región fronteriza, este monto puede ser mayor si se utiliza un pedimento simplificado.",
+  "preguntas_ejemplo": [
+    "¿Cuál es el límite de valor para las operaciones de una agencia aduanal?",
+    "¿Cuánto puedo importar sin necesidad de clasificar mercancías?",
+    "¿Qué es un pedimento simplificado en aduanas?",
+    "¿Las operaciones de exportación también tienen un límite de valor?",
+    "¿Qué monto se aplica para las agencias en la región fronteriza?",
+    "¿Qué operaciones deben manejar las agencias aduanales?"
+  ]
+}

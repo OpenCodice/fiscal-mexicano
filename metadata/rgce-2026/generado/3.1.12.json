@@ -1,0 +1,35 @@
+{
+  "clave": "3.1.12",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.12. Diferencias de clasificación arancelaria en los certificados o certificaciones de origen",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b8cad6204b766ca6",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Diferencias de clasificación arancelaria",
+  "temas": [
+    "clasificación arancelaria",
+    "prueba de origen",
+    "certificación de origen",
+    "acuerdos comerciales",
+    "pedimento",
+    "autoridad aduanera"
+  ],
+  "terminos_coloquiales": [
+    "clasificación de mercancías",
+    "certificado de origen",
+    "acuerdo comercial",
+    "pedimento de importación"
+  ],
+  "resumen": "Esta regla establece que si la clasificación arancelaria de una mercancía varía entre el certificado de origen y lo declarado en el pedimento, se aceptará el certificado siempre que cumpla ciertos requisitos. Esto incluye casos donde se utilizan diferentes sistemas de clasificación o cuando hay errores en la clasificación determinada por la autoridad aduanera.",
+  "preguntas_ejemplo": [
+    "¿Qué hacer si la clasificación de mi mercancía en el certificado de origen es diferente a la del pedimento?",
+    "¿Aceptan el certificado de origen si hay una diferencia en la clasificación arancelaria?",
+    "¿Qué condiciones permiten que la prueba de origen sea válida en caso de discrepancia?",
+    "¿Cómo afecta un error en la clasificación arancelaria en la importación?",
+    "¿Cuál es el procedimiento si la autoridad aduanera determina que hay una inexactitud en la clasificación?"
+  ]
+}

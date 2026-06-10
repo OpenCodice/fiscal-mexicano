@@ -1,0 +1,36 @@
+{
+  "clave": "3.1.22",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.22. Procedimiento de transmisión en operaciones por ferrocarril con Pedimentos Parte II",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4a7809528cfa098e",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Procedimiento de transmisión para operaciones por ferrocarril",
+  "temas": [
+    "pedimentos",
+    "transmisión electrónica",
+    "Ventanilla Digital",
+    "operaciones aduaneras",
+    "ferrocarril",
+    "documentación aduanera"
+  ],
+  "terminos_coloquiales": [
+    "transmisión de pedimentos",
+    "pedimentos en ferrocarril",
+    "documentación aduanal",
+    "acceso a Ventanilla Digital",
+    "e.firma"
+  ],
+  "resumen": "La regla establece el procedimiento que deben seguir los agentes aduanales, importadores y exportadores para transmitir electrónicamente la información de los pedimentos relacionados con operaciones por ferrocarril. Esta transmisión se realiza a través de la Ventanilla Digital y permite modificar los datos antes de recibir el acuse de recepción exitoso.",
+  "preguntas_ejemplo": [
+    "¿Cómo transmito un pedimento por ferrocarril?",
+    "¿Qué información debo presentar en la Ventanilla Digital?",
+    "¿Es necesario presentar físicamente el pedimento?",
+    "¿Puedo modificar los datos después de la transmisión?",
+    "¿Qué necesito para usar mi e.firma en las operaciones aduaneras?"
+  ]
+}

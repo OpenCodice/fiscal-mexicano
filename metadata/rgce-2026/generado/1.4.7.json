@@ -1,0 +1,34 @@
+{
+  "clave": "1.4.7",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.4.7. Encargo conferido para operaciones con pedimentos consolidados",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:287045c702ff2266",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Encargo para pedimentos consolidados",
+  "temas": [
+    "pedimentos consolidados",
+    "agentes aduanales",
+    "Programa IMMEX",
+    "documento de encargo",
+    "operaciones aduanales",
+    "sociedades de agentes aduanales"
+  ],
+  "terminos_coloquiales": [
+    "pedido consolidado",
+    "agente aduanal",
+    "IMMEX"
+  ],
+  "resumen": "Esta regla establece que el documento que comprueba el encargo a un agente aduanal ampara todas las operaciones de un pedimento consolidado. También se permite amparar operaciones correspondientes a un periodo de seis meses para empresas con Programa IMMEX, y en ciertos casos, se puede presentar el encargo a nombre de cualquiera de los agentes en una sociedad de agentes aduanales.",
+  "preguntas_ejemplo": [
+    "¿Qué es un pedimento consolidado?",
+    "¿Cómo se ampara el encargo dado a un agente aduanal?",
+    "¿Qué requisitos hay para empresas IMMEX respecto a pedimentos consolidados?",
+    "¿Pueden varios agentes aduanales compartir un mismo encargo?",
+    "¿Cuánto tiempo puede abarcar un documento de encargo?"
+  ]
+}

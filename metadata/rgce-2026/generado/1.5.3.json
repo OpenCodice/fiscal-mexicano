@@ -1,0 +1,32 @@
+{
+  "clave": "1.5.3",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.5.3. Fórmula para determinar operaciones como actividades vulnerables",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7106818a73ef43d6",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Cálculo de Actividades Vulnerables",
+  "temas": [
+    "valor de mercancía",
+    "operaciones",
+    "actividades vulnerables",
+    "pedimento",
+    "valor comercial",
+    "unidad de medida"
+  ],
+  "terminos_coloquiales": [
+    "cálculo de actividades vulnerables",
+    "valor de productos",
+    "pedimento aduanal"
+  ],
+  "resumen": "Esta regla establece cómo determinar si una operación se considera actividad vulnerable basándose en el valor de la mercancía. Se obtiene dividiendo el valor comercial de la mercancía consignado en el pedimento por la unidad de medida comercial correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Cómo se calcula el valor de una mercancía para actividades vulnerables?",
+    "¿Qué se requiere para que una operación se considere actividad vulnerable?",
+    "¿Qué es el pedimento en relación con el valor de mercancía?"
+  ]
+}

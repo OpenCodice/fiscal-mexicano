@@ -1,0 +1,45 @@
+{
+  "clave": "1.4.10",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.4.10. Datos que alteran la información estadística",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a6701ac3fd6202a1",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Datos que alteran la información estadística",
+  "temas": [
+    "clave de pedimento",
+    "tipo de operación",
+    "número de pedimento",
+    "clave del país vendedor",
+    "clave del medio de transporte",
+    "importe de fletes",
+    "importe de seguros",
+    "importe de embalajes",
+    "valor agregado",
+    "número de patente de agente aduanal"
+  ],
+  "terminos_coloquiales": [
+    "clave de pedimento",
+    "tipo de operación",
+    "número de pedimento",
+    "país vendedor",
+    "medio de transporte",
+    "fletes",
+    "seguros",
+    "embalajes",
+    "valor agregado",
+    "patente de agente aduanal"
+  ],
+  "resumen": "La disposición establece que la información estadística solo se considera alterada si hay inexactitud en ciertos campos relacionados con el pedimento aduanero y otros datos relevantes. Esto incluye claves y importes que son fundamentales para el despacho aduanero.",
+  "preguntas_ejemplo": [
+    "¿Qué datos pueden alterar la información estadística en el despacho aduanero?",
+    "¿Cuáles son los campos que se consideran para determinar la alteración de información estadística?",
+    "¿Qué pasa si hay un error en la clave de pedimento?",
+    "¿Qué información es crucial para la estadística aduanera?",
+    "¿Cómo afecta el importe de fletes a la información estadística?"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "clave": "1.9.15",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.15. Guía aérea electrónica",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:52d03000b05cebe2",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Guía aérea electrónica",
+  "temas": [
+    "transmisión electrónica",
+    "información de carga",
+    "agentes de carga",
+    "empresas de mensajería",
+    "importación",
+    "exportación",
+    "Ventanilla Digital"
+  ],
+  "terminos_coloquiales": [
+    "guía aérea",
+    "información de carga",
+    "transmisión de datos",
+    "importación",
+    "exportación",
+    "CAAT",
+    "guía aérea House",
+    "guía aérea Master"
+  ],
+  "resumen": "La regla establece que los agentes internacionales de carga y las empresas de mensajería deben transmitir electrónicamente información sobre las mercancías consignadas en la Guía Aérea House a la Ventanilla Digital, eliminando la necesidad de presentación física ante aduana. Incluye plazos específicos para la transmisión de datos en casos de importación y exportación.",
+  "preguntas_ejemplo": [
+    "¿Qué es la Guía Aérea House?",
+    "¿Cómo se transmite información de carga electrónicamente?",
+    "¿Cuáles son los plazos para la transmisión de datos en importaciones?",
+    "¿Qué datos se requieren para la Guía Aérea en la Ventanilla Digital?",
+    "¿Qué empresas deben usar la Guía Aérea electrónica?"
+  ]
+}

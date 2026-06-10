@@ -1,0 +1,37 @@
+{
+  "clave": "1.9.6",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.6. Información a transmitir por empresas aéreas en vuelos no regulares",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fcb83f0d6fab9780",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Información a transmitir por empresas aéreas",
+  "temas": [
+    "transporte aéreo internacional",
+    "vuelos no regulares",
+    "transmisión electrónica",
+    "información de pasajeros",
+    "tripulación",
+    "datos de la empresa"
+  ],
+  "terminos_coloquiales": [
+    "vuelos privados",
+    "taxis aéreos",
+    "información de pasajeros",
+    "Datos de vuelo",
+    "transmisión de información",
+    "RFC"
+  ],
+  "resumen": "Las empresas de transporte aéreo internacional no regular deben enviar electrónicamente información de pasajeros, tripulación y datos de la empresa antes de despegar. Esto incluye datos como nombre, nacionalidad, y detalles del vuelo.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben enviar las empresas aéreas antes de un vuelo?",
+    "¿Cuándo tengo que transmitir los datos de los pasajeros?",
+    "¿Qué datos se requieren para los vuelos privados?",
+    "¿Cómo se transmite la información de la tripulación?",
+    "¿Qué pasa si no transmito la información a tiempo?"
+  ]
+}

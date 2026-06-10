@@ -1,0 +1,40 @@
+{
+  "clave": "3.1.9",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.9. precautorio en términos del artículo 151, fracción VI de la Ley",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ddefe5832b9318ff",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Domicilio Fiscal en Importaciones",
+  "temas": [
+    "domicilio fiscal",
+    "importaciones",
+    "pedimento",
+    "embargo precautorio",
+    "comercio exterior",
+    "registro en el RFC",
+    "notificaciones",
+    "trámites aduanales"
+  ],
+  "terminos_coloquiales": [
+    "domicilio",
+    "RFC",
+    "importador",
+    "pedimento aduanal",
+    "cambio de domicilio",
+    "embargo"
+  ],
+  "resumen": "Esta regla establece que no se considerará falso el domicilio fiscal del importador si se declara un domicilio diferente al registrado en el RFC, siempre que se cumplan ciertos requisitos. La autoridad aduanera podrá liberar las mercancías si se demuestra que el domicilio declarado tiene alguna justificación válida.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el domicilio del importador no coincide con el del RFC?",
+    "¿Cómo puedo desvirtuar un embargo precautorio por un domicilio falso?",
+    "¿Qué documentos necesito para corregir el domicilio fiscal en un pedimento?",
+    "¿Qué requisitos se deben cumplir para que el domicilio declarado sea válido?",
+    "¿Cómo se acredita que el domicilio fiscal es correcto?",
+    "¿Qué errores pueden considerarse para justificar un domicilio inexacto?"
+  ]
+}

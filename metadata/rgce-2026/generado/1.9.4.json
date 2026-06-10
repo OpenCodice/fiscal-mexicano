@@ -1,0 +1,38 @@
+{
+  "clave": "1.9.4",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.4. Información a transmitir por empresas aéreas",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:cf7c7d4e4b2a8a7c",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Transmisión Electrónica de Información de Empresas Aéreas",
+  "temas": [
+    "pasajeros",
+    "reservaciones",
+    "itinerarios",
+    "equipaje",
+    "información de vuelo",
+    "contacto del pasajero",
+    "servicios especiales"
+  ],
+  "terminos_coloquiales": [
+    "información de vuelos",
+    "transmisión de datos de pasajeros",
+    "PNR",
+    "Sistemas de Reservaciones de Pasajeros",
+    "DCS",
+    "equipaje documentado"
+  ],
+  "resumen": "Las empresas aéreas deben transmitir electrónicamente a la ANAM información detallada sobre cada pasajero y su viaje, incluyendo datos de reservación, itinerarios y equipaje. Esta información se debe enviar en momentos clave, como el cierre del vuelo y antes del despegue.",
+  "preguntas_ejemplo": [
+    "¿Qué información deben enviar las aerolíneas sobre los pasajeros?",
+    "¿Cómo transmiten las empresas aéreas los datos de vuelo?",
+    "¿Qué es el Passenger Name Record (PNR)?",
+    "¿Cuándo se debe enviar la información sobre el equipaje?",
+    "¿Qué datos se requieren al cierre del vuelo?"
+  ]
+}

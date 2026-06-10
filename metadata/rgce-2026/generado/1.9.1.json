@@ -1,0 +1,38 @@
+{
+  "clave": "1.9.1",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.1. Requisitos para trámites a través del SEA",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2621392691444c8a",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Trámites a través del SEA",
+  "temas": [
+    "certificado de e.firma",
+    "sello digital",
+    "RFC activo",
+    "notificaciones por correo electrónico",
+    "cambio de nombre en RFC",
+    "responsabilidades de los usuarios",
+    "autorización de captura de información"
+  ],
+  "terminos_coloquiales": [
+    "trámites en línea",
+    "e.firma",
+    "sello digital",
+    "RFC",
+    "notificaciones",
+    "cambiar RFC"
+  ],
+  "resumen": "Esta disposición establece los requisitos para que las personas físicas y morales realicen trámites a través del SEA. Es necesario contar con una e.firma vigente, un RFC activo y proporcionar una dirección de correo electrónico para notificaciones.",
+  "preguntas_ejemplo": [
+    "¿Qué se necesita para hacer trámites en el SEA?",
+    "¿Cómo mantengo actualizada mi dirección de correo en el SEA?",
+    "¿Puedo usar un sello digital en lugar de la e.firma?",
+    "¿Qué hago si cambio el nombre de mi empresa y afecta el RFC?",
+    "¿Quién puede registrar la información de mis trámites en el SEA?"
+  ]
+}

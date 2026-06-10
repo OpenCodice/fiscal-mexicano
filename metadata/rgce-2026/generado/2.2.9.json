@@ -1,0 +1,35 @@
+{
+  "clave": "2.2.9",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 2.2.9. Salida de mercancías cuyo plazo de abandono haya finalizado",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3b74c4228e938a98",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Salida de mercancías con plazo de abandono",
+  "temas": [
+    "plazo de abandono",
+    "salida de mercancías",
+    "régimen aduanero",
+    "pedimento",
+    "recinto fiscalizado"
+  ],
+  "terminos_coloquiales": [
+    "sacar mercancías",
+    "regresar mercancías",
+    "pedimento aduanero",
+    "M1.1",
+    "M1.5"
+  ],
+  "resumen": "Las mercancías que han pasado el plazo de abandono pueden ser retiradas para someterse a un régimen aduanero, siempre que no haya habido notificación por parte de la autoridad aduanera. El propietario debe presentar ciertos documentos para acreditar la propiedad de las mercancías.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa con las mercancías que ya no reclamo?",
+    "¿Cómo puedo sacar mercancías con plazo de abandono?",
+    "¿Qué documentos necesito para retirar mercancías del recinto fiscalizado?",
+    "¿Qué es un pedimento aduanero?",
+    "¿Puede la autoridad aduanera notificarme después del plazo de abandono?"
+  ]
+}

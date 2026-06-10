@@ -1,0 +1,36 @@
+{
+  "clave": "3.1.16",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 3.1.16. Valor de la información transmitida al SEA",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:df563fd52ed2a8eb",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Valor de la información transmitida al SEA",
+  "temas": [
+    "pedimento",
+    "información electrónica",
+    "autoridad aduanera",
+    "CFDI",
+    "documento equivalente",
+    "agente aduanal",
+    "agencia aduanal"
+  ],
+  "terminos_coloquiales": [
+    "declaración aduanera",
+    "pedimento electrónico",
+    "CFDI aduanero",
+    "información aduanera"
+  ],
+  "resumen": "La disposición establece que la información del pedimento y del CFDI transmitida electrónicamente a la autoridad aduanera se considerará como la información declarada por el contribuyente y, en su caso, por el agente o la agencia aduanal. Esto se aplica a los documentos digitales enviados.",
+  "preguntas_ejemplo": [
+    "¿Qué información se considera declarada al transmitir un pedimento?",
+    "¿Cómo se trata la información del CFDI en el contexto aduanero?",
+    "¿Qué efectos tiene enviar información electrónica a la aduana?",
+    "¿Quién es responsable de la información transmitida electrónicamente?",
+    "¿Qué es el procedimiento de declaración aduanera electrónica?"
+  ]
+}

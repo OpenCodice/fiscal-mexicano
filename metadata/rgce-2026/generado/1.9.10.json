@@ -1,0 +1,40 @@
+{
+  "clave": "1.9.10",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 1.9.10. Aviso de información de carga aérea",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:940611bceb2db6f0",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Aviso de información de carga aérea",
+  "temas": [
+    "transmisión electrónica",
+    "Guía Aérea Master",
+    "manifiesto de carga aérea",
+    "importación",
+    "exportación",
+    "Ventanilla Digital",
+    "empresas de transportación aérea"
+  ],
+  "terminos_coloquiales": [
+    "carga aérea",
+    "transmisión de datos",
+    "exportar mercancías",
+    "importar mercancías",
+    "Guía Aérea",
+    "Ventanilla Digital",
+    "MANIFIESTO"
+  ],
+  "resumen": "Las empresas de transportación aérea deben transmitir electrónicamente información sobre mercancías en la Guía Aérea Master y en el manifiesto de carga aérea a las autoridades aduaneras. Esta transmisión puede hacerse en español o inglés y no se requiere presentar los documentos ante la aduana.",
+  "preguntas_ejemplo": [
+    "¿Qué información se debe transmitir para la carga aérea?",
+    "¿Cómo se realiza la transmisión electrónica de datos?",
+    "¿Cuáles son los plazos para transmitir información de importación y exportación?",
+    "¿Qué es la Guía Aérea Master?",
+    "¿Se pueden corregir los datos ya enviados a la Ventanilla Digital?",
+    "¿Qué hacer si cambio el aeropuerto de aterrizaje por fuerza mayor?"
+  ]
+}

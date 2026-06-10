@@ -1,0 +1,36 @@
+{
+  "clave": "2.4.14",
+  "documento": "rgce-2026",
+  "etiqueta": "Regla 2.4.14. Autorización para despacho por lugar distinto al autorizado en embarcaciones",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d95fc98a90e37621",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Despacho aduanero en lugar distinto",
+  "temas": [
+    "despacho aduanero",
+    "importación",
+    "embarcaciones",
+    "medios de transporte marítimo",
+    "control aduanero"
+  ],
+  "terminos_coloquiales": [
+    "despacho en otro lugar",
+    "embarque diferente",
+    "autorización de despacho",
+    "pedimentos de importación",
+    "agentes aduanales",
+    "NNICO"
+  ],
+  "resumen": "Se permite el despacho de embarcaciones y mercancías en un lugar distinto al autorizado cuando no puedan ingresar al puerto debido a características del transporte. Se debe solicitar autorización a la aduana con antelación y proporcionar información específica sobre la carga y el transporte.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo despachar mercancías en un lugar diferente al puerto?",
+    "¿Qué requisitos debo cumplir para importar un barco en un sitio distinto?",
+    "¿Qué hacer si mi embarcación no puede ingresar al puerto?",
+    "¿Cuáles son los documentos necesarios para el despacho aduanero?",
+    "¿Qué es el NICO y cómo se utiliza en el despacho?"
+  ]
+}
