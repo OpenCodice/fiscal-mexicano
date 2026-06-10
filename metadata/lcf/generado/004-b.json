@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:86324869cbdad4ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Extracción de Hidrocarburos",
   "temas": [
+    "recursos del fondo",
     "distribución de recursos",
     "entidades federativas",
-    "compensación",
-    "secretaría de hacienda",
-    "fondo de estabilización"
+    "compensación a municipios",
+    "ajuste anual"
   ],
   "terminos_coloquiales": [
     "fondo de hidrocarburos",
-    "reparto de petróleo",
-    "recursos para estados",
-    "dinero del petróleo"
+    "recursos de petróleo",
+    "compensación por extracción",
+    "gas natural",
+    "FEXHI"
   ],
-  "resumen": "Este artículo establece cómo se conforma y distribuye el Fondo de Extracción de Hidrocarburos a las entidades federativas basado en su extracción de petróleo y gas. También menciona que los municipios recibirán un porcentaje de estos recursos.",
+  "resumen": "El artículo regula el Fondo de Extracción de Hidrocarburos, que se compone de recursos transferidos del Fondo Mexicano del Petróleo y que se distribuyen entre las entidades encargadas de la extracción de petróleo y gas. Además, establece compensaciones para municipios y un fondo de estabilización relacionado.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuyen los recursos del fondo de extracción de hidrocarburos?",
+    "¿Cómo se distribuyen los recursos del Fondo de Extracción de Hidrocarburos?",
     "¿Qué porcentaje reciben los municipios del fondo?",
-    "¿Qué es el fondo de estabilización de extracción de hidrocarburos?",
-    "¿Quién administra el fondo de extracción de hidrocarburos?",
-    "¿Cómo afecta la producción de gas a la distribución del fondo?"
+    "¿Qué es el Fondo de Estabilización de Extracción de Hidrocarburos?",
+    "¿Cómo se ajustan los recursos anualmente?",
+    "¿Qué entidades reciben ingresos por este fondo?"
   ]
 }

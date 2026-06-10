@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:07a670d30f920e71",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recaudación del Impuesto sobre la Renta",
+  "denominacion_comun": "Participación en la recaudación del ISR",
   "temas": [
-    "recaudación",
-    "impuesto sobre la renta",
-    "entidades federativas",
-    "servicios personales",
-    "retenciones",
-    "participaciones"
+    "Sistema Nacional de Coordinación Fiscal",
+    "Impuesto sobre la Renta",
+    "Retenciones de ISR",
+    "Salarios",
+    "Entidades federativas",
+    "Municipios",
+    "Organismos autónomos"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre la renta en municipios",
-    "cómo se reparten los impuestos",
-    "recaudación por salarios",
-    "quién recibe el impuesto"
+    "ISR",
+    "Impuesto sobre la Renta",
+    "salario",
+    "retenciones",
+    "participación federal"
   ],
-  "resumen": "Este artículo establece que las entidades en el Sistema Nacional de Coordinación Fiscal deben entregar el total de la recaudación del impuesto sobre la renta que corresponde a los salarios pagados a personal subordinado. También se menciona que deben cumplir con ciertas condiciones para que esto sea aplicable.",
+  "resumen": "Las entidades en el Sistema Nacional de Coordinación Fiscal participarán en la recaudación del ISR por los salarios pagados por ellas. Además, deberán enterar el 100% de las retenciones de ISR correspondientes a los ingresos por salarios laborados en sus áreas.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuye el impuesto sobre la renta en las entidades?",
-    "¿Qué entidades deben entregar el impuesto sobre la renta a la Federación?",
-    "¿Qué pasa con la recaudación del impuesto si el salario no se paga?",
-    "¿Qué condiciones deben cumplir las entidades para participar en la recaudación?",
-    "¿Los municipios reciben una parte del impuesto sobre la renta?"
+    "¿Cómo participan las entidades en la recaudación del ISR?",
+    "¿Qué es el Sistema Nacional de Coordinación Fiscal?",
+    "¿Cuánto deben retener las entidades por el ISR?",
+    "¿Qué pasa con los salarios pagados por las entidades federativas?",
+    "¿Cómo se calcula el ISR que deben entregar a la Federación?"
   ]
 }

@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:50e238b060507540",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "INDETEC",
   "temas": [
-    "instituto público",
     "coordinación fiscal",
     "legislación tributaria",
     "consultoría fiscal",
-    "capacitación",
-    "desarrollo técnico"
+    "capacitación técnica"
   ],
   "terminos_coloquiales": [
+    "Instituto de haciendas públicas",
     "INDETEC",
-    "Instituto de haciendas",
-    "consultor fiscal",
-    "capacitación fiscal"
+    "coordinación de impuestos",
+    "estudios fiscales"
   ],
-  "resumen": "El INDETEC es un organismo público que realiza estudios sobre la coordinación fiscal y la legislación tributaria. Además, sugiere medidas para equilibrar la distribución de ingresos entre la Federación y las entidades, y capacita a funcionarios en temas fiscales.",
+  "resumen": "El INDETEC es un organismo público dedicado a la coordinación fiscal y desarrollo técnico de las haciendas públicas. Sus funciones incluyen realizar estudios sobre legislación tributaria y capacitar a funcionarios fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué es el INDETEC?",
+    "¿Qué hace el INDETEC?",
     "¿Cuáles son las funciones del Instituto para el Desarrollo Técnico de las Haciendas Públicas?",
-    "¿Cómo se coordina la acción impositiva federal y local?",
-    "¿Qué programas desarrolla el INDETEC?",
-    "¿Quiénes capacitan en temas fiscales?",
-    "¿Qué estudios realiza el INDETEC?"
+    "¿Cómo se coordina la acción impositiva entre la Federación y las entidades?",
+    "¿Dónde puedo encontrar información sobre capacitación para funcionarios fiscales?",
+    "¿Qué estudios realiza el INDETEC sobre la legislación tributaria?"
   ]
 }

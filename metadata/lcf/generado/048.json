@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3f013c1ff6c0ccd7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Informes de Fondos de Aportaciones Federales",
   "temas": [
-    "informes",
+    "informes de recursos",
+    "Estados",
+    "Distrito Federal",
     "Fondos de Aportaciones Federales",
-    "Secretaría de Hacienda",
-    "Estados y Municipios",
     "transparencia",
-    "presupuesto",
-    "gasto público"
+    "Secretaría de Hacienda",
+    "reportes trimestrales",
+    "Congreso de la Unión",
+    "publicación de informes",
+    "presupuesto local"
   ],
   "terminos_coloquiales": [
-    "informes de dinero de los estados",
-    "información sobre fondos federales",
-    "reportes de recursos públicos",
-    "gastos de los estados",
-    "informes trimestrales"
+    "informes de estados",
+    "fondos federales",
+    "reportes de recursos",
+    "presupuesto estatal"
   ],
-  "resumen": "Los Estados y el Distrito Federal deben enviar informes sobre cómo usan los recursos de los Fondos de Aportaciones Federales. La Secretaría de Hacienda hace públicos estos reportes y los entrega al Congreso de la Unión.",
+  "resumen": "Los Estados y el Distrito Federal deben enviar informes trimestrales sobre el ejercicio y destino de los Fondos de Aportaciones Federales a la Secretaría de Hacienda. Además, deben publicar esta información en sus páginas electrónicas y otros medios locales para que sea accesible al público.",
   "preguntas_ejemplo": [
-    "¿Qué informes deben enviar los estados sobre los fondos federales?",
-    "¿Cómo se publican los gastos del gobierno estatal?",
-    "¿Qué plazo tienen los estados para reportar el uso de fondos?",
-    "¿Dónde puedo consultar informes de recursos públicos?",
-    "¿Qué información entrega la Secretaría de Hacienda al Congreso?"
+    "¿Qué informes deben enviar los Estados sobre los fondos federales?",
+    "¿Cómo se publica la información de los Fondos de Aportaciones Federales?",
+    "¿Qué plazo tienen los Estados para entregar los reportes de recursos?",
+    "¿Dónde se puede consultar la información sobre los fondos federales?",
+    "¿Qué entidades deben reportar a la Secretaría de Hacienda?"
   ]
 }

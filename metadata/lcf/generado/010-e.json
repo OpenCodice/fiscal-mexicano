@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:37f774f97a6bffa1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro Estatal Vehicular",
   "temas": [
-    "entidades fiscales",
-    "registro vehicular",
-    "datos de vehículos",
-    "contribuyentes",
-    "Secretaría de Hacienda"
+    "Sistema Nacional de Coordinación Fiscal",
+    "Registro de vehículos",
+    "Contribuyentes",
+    "Intercambio de información"
   ],
   "terminos_coloquiales": [
     "registro de autos",
     "datos de vehículos",
-    "vehículos registrados",
-    "información del coche"
+    "número de placa",
+    "RFCP"
   ],
-  "resumen": "Las entidades que forman parte del Sistema Nacional de Coordinación Fiscal deben mantener un registro de los vehículos que se inscriben en su territorio. Este registro incluye detalles del vehículo y del propietario, enlazándose con la información de la Secretaría de Hacienda.",
+  "resumen": "Las entidades que forman parte del Sistema Nacional de Coordinación Fiscal deben mantener un registro de los vehículos que los contribuyentes inscriben, incluyendo información como el número de identificación vehicular y datos del propietario. Este registro estará conectado a los sistemas de la Secretaría de Hacienda para facilitar el intercambio de información.",
   "preguntas_ejemplo": [
+    "¿Qué es el registro estatal vehicular?",
     "¿Qué información se necesita para registrar un vehículo?",
-    "¿Cómo se lleva el registro de los autos en mi estado?",
-    "¿Dónde encuentro los datos de mi vehículo registrado?",
-    "¿Qué entidades tienen que hacer un registro vehicular?",
-    "¿Cómo afecta esto a los contribuyentes?",
-    "¿Cuáles son los datos que deben incluirse en el registro estatal?"
+    "¿Cómo se relaciona el registro de autos con los contribuyentes?",
+    "¿Qué entidades deben llevar un registro vehicular?",
+    "¿Cómo se asegura el intercambio de información sobre vehículos?",
+    "¿Qué datos debe tener el registro de un vehículo?"
   ]
 }

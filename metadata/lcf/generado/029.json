@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a5ce7e6ae7b5cd5e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Aportaciones para los Servicios de Salud",
   "temas": [
+    "aportaciones",
     "entidades federativas",
-    "convenio de coordinación",
-    "Ley General de Salud",
-    "IMSS-BIENESTAR"
+    "servicios de salud",
+    "convenios de coordinación",
+    "ley general de salud"
   ],
   "terminos_coloquiales": [
-    "fondo de salud",
-    "aportaciones de salud",
+    "Fondo de Aportaciones",
     "servicios de salud",
-    "convenio del IMSS",
-    "apoyo a salud estatal"
+    "IMSS-BIENESTAR",
+    "convenio de coordinación"
   ],
-  "resumen": "Este artículo menciona cómo las entidades federativas manejarán sus aportaciones del Fondo de Aportaciones para los Servicios de Salud, especialmente aquellas que no firman un convenio con el IMSS-BIENESTAR. El fondo también será aplicable para aquellas que sí suscriban el convenio.",
+  "resumen": "Este artículo establece que las entidades federativas utilizarán las aportaciones del Fondo de Aportaciones para los Servicios de Salud según lo que les corresponda, ya sea que suscriban o no un convenio con el IMSS-BIENESTAR. También aclara que el fondo es aplicable a quienes firmen dicho convenio.",
   "preguntas_ejemplo": [
     "¿Qué es el Fondo de Aportaciones para los Servicios de Salud?",
-    "¿Qué entidades pueden acceder a este fondo?",
-    "¿Qué sucede si una entidad no firma el convenio con el IMSS?",
-    "¿Cómo se utilizan las aportaciones del fondo?",
-    "¿Qué dice la Ley General de Salud sobre este fondo?"
+    "¿Qué deben hacer las entidades federativas que no firman el convenio con IMSS-BIENESTAR?",
+    "¿Cómo se utilizan las aportaciones del Fondo de Aportaciones?",
+    "¿Qué condiciones se establecen para las entidades que suscriben el convenio?",
+    "¿Cuál es la relación entre la Ley General de Salud y las entidades federativas?"
   ]
 }

@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0b07ac3c8d895342",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reuniones sobre educación y presupuesto",
+  "denominacion_comun": "Coordinación de Recursos para Educación",
   "temas": [
+    "recursos transferidos",
     "educación básica",
-    "recursos educativos",
-    "equidad en educación",
-    "información financiera",
-    "planeación educativa",
-    "programación educativa",
-    "evaluación educativa"
+    "planificación educativa",
+    "evaluación del sistema educativo",
+    "información financiera"
   ],
   "terminos_coloquiales": [
-    "reuniones de educación",
-    "recursos para escuelas",
-    "presupuesto educativo",
-    "análisis de educación"
+    "reunión de autoridades educativas",
+    "apoyo a la educación",
+    "transferencias educativas"
   ],
-  "resumen": "Las autoridades se reunirán al menos una vez al año para discutir cómo mejorar el uso de los recursos destinados a la educación básica. Los gobiernos estatales deben enviar información necesaria al Ejecutivo Federal para ayudar en la planificación y evaluación del sistema educativo.",
+  "resumen": "El artículo establece que las autoridades federales y estatales deben reunirse al menos una vez al año para analizar cómo mejorar la equidad y el uso de los recursos destinados a la educación básica. Además, los gobiernos estatales deben proporcionar información al gobierno federal para cumplir con sus funciones educativas.",
   "preguntas_ejemplo": [
-    "¿Con qué frecuencia se reúnen las autoridades para discutir educación?",
-    "¿Qué tipo de información deben enviar los gobiernos estatales?",
-    "¿Cuál es el objetivo de estas reuniones sobre educación y presupuesto?",
-    "¿Cómo se busca mejorar la equidad en la educación?",
-    "¿Qué recursos se destinarán a la educación básica?"
+    "¿Cómo se coordinan los recursos para la educación básica?",
+    "¿Con qué frecuencia se reúnen las autoridades educativas?",
+    "¿Qué información deben enviar los gobiernos estatales al federal?",
+    "¿Qué se busca lograr con las reuniones de autoridades educativas?",
+    "¿Qué papel tiene la Secretaría de Educación Pública en este proceso?"
   ]
 }

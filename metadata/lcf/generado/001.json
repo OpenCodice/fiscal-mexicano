@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a2741f009bf51509",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Ley de Coordinación Fiscal",
+  "denominacion_comun": "Coordinación Fiscal",
   "temas": [
-    "coordinación fiscal",
-    "participación de ingresos",
-    "entidades federativas",
-    "haciendas públicas",
-    "organismos fiscales",
-    "colaboración administrativa",
+    "sistema fiscal",
+    "participación de estados",
+    "ingresos federales",
+    "reglas de colaboración administrativa",
     "transparencia",
     "contabilidad gubernamental"
   ],
   "terminos_coloquiales": [
-    "coordinación de impuestos",
-    "participación de estados en impuestos",
-    "ley de impuestos federales",
-    "distribución de recursos fiscales",
-    "ley de haciendas locales"
+    "entidades federativas",
+    "estados",
+    "ley de coordinación fiscal",
+    "sistema nacional de coordinación fiscal",
+    "municipios"
   ],
-  "resumen": "La Ley coordina el sistema fiscal entre la Federación y las entidades federativas, estableciendo cómo se distribuyen los ingresos federales. También regula la colaboración administrativa entre autoridades fiscales y promueve la transparencia en la información financiera de estas entidades.",
+  "resumen": "Esta ley busca coordinar el sistema fiscal de la Federación con los estados y municipios para establecer cómo participan en los ingresos federales y fijar reglas de colaboración entre las autoridades fiscales. Además, se busca asegurar la transparencia y la contabilidad en la información financiera que generen estas entidades.",
   "preguntas_ejemplo": [
-    "¿Cómo se reparten los impuestos entre la Federación y los estados?",
-    "¿Qué es la Ley de Coordinación Fiscal?",
-    "¿Qué entidades participan en el sistema de coordinación fiscal?",
-    "¿Cómo se asegura la transparencia en la información fiscal?",
-    "¿Qué reglas existen para la colaboración entre las autoridades fiscales?"
+    "¿Cómo participa mi estado en los ingresos federales?",
+    "¿Qué es el Sistema Nacional de Coordinación Fiscal?",
+    "¿Qué reglas hay para la colaboración entre las autoridades fiscales?",
+    "¿Cómo se distribuyen los fondos entre entidades federativas?",
+    "¿Qué información financiera deben reportar los municipios?"
   ]
 }

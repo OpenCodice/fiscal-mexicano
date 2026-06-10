@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fae9ecf99396aaae",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derechos Estatales y Municipales",
+  "denominacion_comun": "Derechos estatales y municipales",
   "temas": [
-    "coordinación en derechos",
-    "licencias y permisos",
-    "registros",
+    "licencias",
+    "permisos",
+    "autorizaciones",
+    "registro civil",
     "uso de vías públicas",
-    "actos de inspección",
-    "concesiones",
+    "inspección y vigilancia",
     "derechos diferenciales"
   ],
   "terminos_coloquiales": [
-    "cobros por licencias",
-    "permisos estatales",
-    "derechos municipales",
-    "reglamento de licencias",
-    "autorizaciones locales"
+    "licencias de construcción",
+    "licencias para conducir",
+    "permisos para bebidas alcohólicas",
+    "derechos de uso de la vía pública",
+    "registros de propiedad",
+    "concesiones",
+    "inspección",
+    "derechos municipales"
   ],
-  "resumen": "El artículo establece que las entidades federativas no podrán mantener derechos estatales o municipales en ciertas áreas como licencias y permisos, aunque hay excepciones específicas. También aclara que las contribuciones se consideran derechos a pesar de su denominación en cada legislación local.",
+  "resumen": "El artículo establece que las entidades federativas que se coordinen en derechos no podrán cobrar derechos estatales o municipales por ciertas licencias, permisos y autorizaciones. También menciona que los derechos no podrán ser diferenciales según el tipo de actividad del contribuyente y destaca la facultad de los estados y municipios para exigir ciertos cobros.",
   "preguntas_ejemplo": [
-    "¿Qué derechos no pueden cobrar las entidades federativas?",
-    "¿Cuáles son las excepciones en licencias y permisos?",
-    "¿Cómo se manejan los derechos diferenciales?",
-    "¿Qué ocurre con la inspección y vigilancia de permisos?",
-    "¿Se pueden exigir cobros por licencias en algunas situaciones?"
+    "¿Qué licencias están exentas de derechos estatales?",
+    "¿Pueden cobrar derechos diferenciales por actividad comercial?",
+    "¿Qué requisitos deben cumplir las licencias para bebidas alcohólicas?",
+    "¿Los permisos de uso de vías públicas requieren algún cobro?",
+    "¿Qué actos de inspección y vigilancia están permitidos?"
   ]
 }

@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:44617eb9d3034e7f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autoridades fiscales",
+  "denominacion_comun": "Autoridades fiscales estatales",
   "temas": [
-    "Sistema Nacional de Coordinación Fiscal",
-    "Autoridades fiscales federales",
-    "Recursos y medios de defensa",
-    "Interpretación de disposiciones fiscales",
-    "Reglas de colaboración administrativa"
+    "coordinación fiscal",
+    "autoridades fiscales",
+    "recursos y medios de defensa",
+    "acuerdos fiscales"
   ],
   "terminos_coloquiales": [
-    "fiscalidad municipal",
-    "autoridades fiscales estatales",
-    "defensa fiscal",
-    "acuerdos fiscales",
-    "criterios fiscales"
+    "autoridades fiscales federales",
+    "secretaría de hacienda",
+    "leyes federales"
   ],
-  "resumen": "El artículo establece que las autoridades fiscales de las entidades adheridas al Sistema Nacional de Coordinación Fiscal actúan como autoridades fiscales federales y que solo se aceptarán los recursos establecidos por leyes federales en contra de sus actos. También menciona que la Secretaría de Hacienda tiene la facultad de fijar criterios de interpretación y aplicación fiscal.",
+  "resumen": "Las autoridades fiscales de los estados que están en el Sistema Nacional de Coordinación Fiscal se consideran como federales para ciertos actos. Solo se pueden impugnar esos actos con recursos establecidos por las leyes federales. La Secretaría de Hacienda tiene la autoridad para fijar criterios de interpretación y aplicación de estas disposiciones fiscales.",
   "preguntas_ejemplo": [
     "¿Qué son las autoridades fiscales federales?",
-    "¿Cómo actúan los municipios en el sistema fiscal?",
-    "¿Qué recursos hay contra actos fiscales de las entidades?",
-    "¿Quién fija los criterios fiscales para los municipios?",
-    "¿Qué leyes rigen los medios de defensa en materia fiscal?"
+    "¿Cómo funcionan los recursos en contra de actos fiscales estatales?",
+    "¿Qué criterios establece la Secretaría de Hacienda para las entidades?",
+    "¿Qué es el Sistema Nacional de Coordinación Fiscal?",
+    "¿Qué acuerdos fiscales se pueden hacer con los municipios?"
   ]
 }

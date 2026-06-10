@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dea4e41e861f700e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Aportaciones Múltiples",
   "temas": [
     "presupuesto",
-    "recaudación",
-    "fondo de aportaciones",
-    "gastos federales"
+    "recaudación federal",
+    "aportaciones",
+    "fondo público"
   ],
   "terminos_coloquiales": [
-    "fondo de aportaciones",
-    "presupuesto federal",
-    "monto del fondo",
-    "recaudación federal"
+    "FAM",
+    "aportaciones al estado",
+    "dinero federal",
+    "presupuesto federal"
   ],
-  "resumen": "El Fondo de Aportaciones Múltiples se establece anualmente en el presupuesto de egresos, basado en un porcentaje de la recaudación federal participable, que se estima según la Ley de Ingresos. Este monto se usa solo como referencia.",
+  "resumen": "El Fondo de Aportaciones Múltiples se calculará cada año en el presupuesto del gobierno federal y corresponderá a un porcentaje de la recaudación federal. Este monto se utilizará como referencia para el ejercicio fiscal correspondiente.",
   "preguntas_ejemplo": [
     "¿Qué es el Fondo de Aportaciones Múltiples?",
-    "¿Cómo se determina el monto del fondo de aportaciones?",
-    "¿De qué depende la recaudación que afecta al fondo?",
-    "¿Qué relación tiene el presupuesto con el fondo de aportaciones?"
+    "¿Cómo se calcula el monto del FAM?",
+    "¿Qué porcentaje de la recaudación se usa para el Fondo de Aportaciones Múltiples?",
+    "¿Dónde se determina el Fondo de Aportaciones Múltiples?",
+    "¿Cuál es la relación entre el FAM y el presupuesto federal?"
   ]
 }

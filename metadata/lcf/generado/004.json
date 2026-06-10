@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:00d5a1ec2995d8f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Fiscalización y Recaudación",
   "temas": [
     "recaudación federal",
-    "anticipos",
-    "distribución de recursos",
-    "impuestos locales",
-    "derechos",
     "participaciones federales",
-    "cálculo del fondo"
+    "fiscalización",
+    "recursos estatales",
+    "impuestos locales"
   ],
   "terminos_coloquiales": [
     "fondo de fiscalización",
-    "dinero que reciben estados",
-    "anticipos del fondo",
-    "cálculo de participación",
-    "recursos fiscales"
+    "recaudación de impuestos",
+    "apoyo fiscal",
+    "distribución de recursos"
   ],
-  "resumen": "El Fondo de Fiscalización y Recaudación se forma con un porcentaje de la recaudación federal y se distribuye entre las entidades federativas. Ellas reciben anticipos mensuales y una distribución trimestral según varios parámetros fiscales.",
+  "resumen": "El artículo establece cómo se conforma y distribuye el Fondo de Fiscalización y Recaudación, que se basa en un porcentaje de la recaudación federal participable. Las entidades reciben anticipos y se distribuyen recursos trimestralmente según formulas específicas.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el Fondo de Fiscalización?",
-    "¿Qué porcentaje de la recaudación se destina al Fondo?",
-    "¿Los estados reciben anticipos del Fondo?",
-    "¿Qué impuestos se consideran para el cálculo del fondo?",
-    "¿Cómo se distribuyen los recursos del Fondo entre estados?"
+    "¿Qué es el Fondo de Fiscalización y Recaudación?",
+    "¿Cómo se distribuyen los recursos del fondo de fiscalización?",
+    "¿Qué porcentaje se destina al Fondo de Fiscalización?",
+    "¿Qué requisitos deben cumplir las entidades para recibir el fondo?",
+    "¿Cómo se determina la participación de cada entidad en el año actual?"
   ]
 }

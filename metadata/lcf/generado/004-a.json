@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8da3c15c06c724b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Compensación",
   "temas": [
-    "recaudación",
+    "recaudación de impuestos",
     "entidades federativas",
     "distribución de recursos",
-    "impuesto sobre producción",
-    "Fondo de Compensación",
-    "producto interno bruto",
-    "transferencias fiscales"
+    "Producto Interno Bruto",
+    "Secretaría de Hacienda",
+    "gasolinas",
+    "diésel"
   ],
   "terminos_coloquiales": [
+    "impuestos sobre gasolinas",
+    "recaudación fiscal",
+    "distribución de dinero a estados",
     "fondo de compensación",
-    "cómo se distribuyen los impuestos",
-    "dinero para estados",
-    "recaudación de gasolinas",
-    "ayuda a estados pobres"
+    "recursos para municipios"
   ],
-  "resumen": "El artículo establece que una parte de la recaudación de impuestos se destinará a las entidades federativas y otro porcentaje a un Fondo de Compensación para ayudar a las que tienen menores niveles de ingreso. La distribución de estos recursos se hace en función del consumo y el ingreso per cápita de cada estado.",
+  "resumen": "Este artículo regula cómo se distribuye la recaudación de impuestos por el expendio de gasolinas y diésel entre las entidades federativas y establece un Fondo de Compensación para las que tienen menores niveles de ingreso. También menciona cómo los municipios recibirán un porcentaje de esos recursos.",
   "preguntas_ejemplo": [
-    "¿Cómo se reparte la recaudación de impuestos entre los estados?",
-    "¿Qué es el Fondo de Compensación?",
-    "¿A qué estados les llega el dinero del Fondo de Compensación?",
-    "¿Qué porcentaje de la recaudación reciben los municipios?",
-    "¿Cómo se calcula el ingreso per cápita para el fondo?"
+    "¿Cómo se distribuyen los impuestos de las gasolinas?",
+    "¿Qué es el Fondo de Compensación y a quién beneficia?",
+    "¿Qué porcentaje reciben los municipios de la recaudación fiscal?",
+    "¿Qué requisitos deben cumplir las entidades para recibir sus recursos?",
+    "¿Cómo se determina el Producto Interno Bruto per cápita de un estado?"
   ]
 }

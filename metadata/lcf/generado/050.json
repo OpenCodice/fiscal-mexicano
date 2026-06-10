@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:241e419fd6d4c1af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones de Entidades Federativas y Municipios",
@@ -15,22 +16,20 @@
     "Fondos",
     "Registro de Obligaciones",
     "Financiamientos",
-    "Pagos",
-    "Garantías"
+    "Deuda Pública"
   ],
   "terminos_coloquiales": [
-    "deudas de municipios",
-    "fondos de infraestructura",
-    "financiamiento estatal",
-    "obligaciones fiscales",
-    "cómo se manejan los fondos"
+    "deuda de municipios",
+    "fondos estatales",
+    "registros de deuda",
+    "financiamientos municipales"
   ],
-  "resumen": "El artículo establece cómo pueden las Entidades Federativas y Municipios usar las aportaciones de ciertos fondos para garantizar y pagar obligaciones. Estas obligaciones deben inscribirse en un registro y hay límites en el uso de los recursos.",
+  "resumen": "Este artículo establece cómo las Entidades Federativas y los Municipios pueden utilizar aportaciones de ciertos fondos para garantizar o pagar obligaciones contraídas con la Federación y otras entidades. También detalla límites y requisitos para la contratación de estas obligaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo pueden los municipios financiar sus deudas?",
-    "¿Qué fondos se pueden utilizar para garantías?",
-    "¿Cuáles son las condiciones para inscribir obligaciones?",
-    "¿Hay un límite en el uso de fondos para pagar deudas?",
-    "¿Qué pasa si un municipio no puede cumplir con sus obligaciones?"
+    "¿Qué reglas existen para las deudas de los municipios?",
+    "¿Cómo pueden los municipios usar los fondos estatales para sus obligaciones?",
+    "¿Qué procedimientos se deben seguir para registrar las obligaciones de los municipios?",
+    "¿Cuál es el límite de uso de los fondos para pagar deudas en dos años fiscales?",
+    "¿Cómo afecta la autorización de las legislaturas locales a las obligaciones de las entidades federativas?"
   ]
 }

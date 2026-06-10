@@ -6,32 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:06aaf1aee7a7d1d9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aportaciones Federales",
   "temas": [
+    "Fondo de Aportaciones Múltiples",
     "desayunos escolares",
     "apoyos alimentarios",
     "asistencia social",
-    "infraestructura educativa",
-    "educación básica",
-    "educación media superior",
-    "educación superior",
-    "transparencia"
+    "infraestructura educativa"
   ],
   "terminos_coloquiales": [
-    "dinero para escuelas",
-    "apoyos del gobierno",
-    "ayuda alimentaria",
-    "fondos para educación",
-    "desayunos en las escuelas"
+    "aportes del gobierno",
+    "desayunos escolares",
+    "apoyo social",
+    "infraestructura escolar"
   ],
-  "resumen": "Las aportaciones federales se dividen en un 46% para desayunos escolares y asistencia social, y un 54% para infraestructura educativa. Las entidades deben informar a la población sobre lo que reciben y las acciones realizadas.",
+  "resumen": "El artículo establece que las aportaciones federales se dividen entre el apoyo a desayunos escolares y asistencia social, y la construcción de infraestructura en educación. También obliga a las entidades a informar sobre los montos y acciones realizadas con dichos recursos.",
   "preguntas_ejemplo": [
-    "¿A dónde va el dinero de las aportaciones federales?",
-    "¿Qué se hace con los fondos para escuelas?",
-    "¿Cómo se distribuyen los apoyos alimentarios?",
-    "¿Qué información tienen que dar los estados sobre las aportaciones?",
-    "¿Cuánto se destina a desayunos escolares?"
+    "¿Qué porcentajes se destinan a desayunos escolares y a infraestructura educativa?",
+    "¿Qué es el Fondo de Aportaciones Múltiples?",
+    "¿Cómo se informa a los ciudadanos sobre el uso de estos recursos?",
+    "¿Qué tipo de infraestructura se puede construir con estos fondos?",
+    "¿Qué son los apoyos alimentarios en este contexto?"
   ]
 }

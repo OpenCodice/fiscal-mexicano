@@ -6,29 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b32f4052e7e9cddf",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo General de Participaciones",
   "temas": [
     "recaudación federal",
-    "distribución de fondos",
-    "impuestos excluidos",
+    "distribución de recursos",
+    "impuestos locales",
     "derechos de minería",
-    "participaciones estatales"
+    "impuesto sobre automóviles nuevos",
+    "colegios",
+    "participaciones federales",
+    "convenios de colaboración"
   ],
   "terminos_coloquiales": [
-    "fondo de participaciones",
-    "dinero para estados",
+    "Fondo de Participaciones",
+    "recursos federales",
+    "apoyo a estados",
     "recaudación de impuestos",
-    "distribución de ingresos",
-    "apoyo fiscal a estados"
+    "participaciones",
+    "impuesto de autos",
+    "trabajo con municipios"
   ],
-  "resumen": "El Fondo General de Participaciones se forma con una parte de la recaudación federal que obtiene el gobierno, excluyendo ciertos impuestos y derechos. Este fondo se distribuye a las entidades de acuerdo a una fórmula específica para apoyar sus finanzas.",
+  "resumen": "El Fondo General de Participaciones se forma con un porcentaje de la recaudación federal y se distribuye a las entidades federativas. Incluye varios conceptos, como impuestos y derechos de minería, y tiene fórmulas específicas para su distribución entre estados y municipios.",
   "preguntas_ejemplo": [
-    "¿Cómo se forma el fondo de participaciones?",
-    "¿Qué impuestos están excluidos del fondo general?",
-    "¿Cómo se distribuye el dinero entre los estados?",
-    "¿Qué es la recaudación federal participable?",
-    "¿Cuánto recibe cada estado del fondo de participaciones?"
+    "¿Qué es el Fondo General de Participaciones?",
+    "¿Cómo se calcula la distribución de los recursos federales a los estados?",
+    "¿Qué impuestos se consideran para el Fondo de Participaciones?",
+    "¿Cuánto reciben los municipios por el impuesto sobre automóviles nuevos?",
+    "¿Cómo afecta la recaudación federal participable a los estados?",
+    "¿Qué ocurre si la recaudación es menor que en años anteriores?"
   ]
 }

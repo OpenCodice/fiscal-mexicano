@@ -6,32 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee64a472947ed4ef",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Participación de Entidades Federativas en Recaudación",
+  "denominacion_comun": "Participación de entidades en el IEPS",
   "temas": [
-    "impuesto especial",
-    "recaudación",
-    "entidades federativas",
-    "cerveza",
-    "bebidas alcohólicas",
-    "tabacos labrados",
-    "distribución de ingresos"
+    "Sistema Nacional de Coordinación Fiscal",
+    "Impuesto Especial sobre Producción y Servicios",
+    "Recaudación",
+    "Bienes gravados"
   ],
   "terminos_coloquiales": [
-    "cómo se reparten los impuestos",
-    "participación de estados en impuestos",
-    "impuesto a la cerveza",
-    "impuestos sobre bebidas",
-    "recaudación de impuestos locales",
-    "dinero de impuestos a estados"
+    "IEPS",
+    "impuesto sobre cerveza",
+    "impuesto sobre bebidas",
+    "impuesto sobre tabacos"
   ],
-  "resumen": "Las entidades federativas que están en el Sistema Nacional de Coordinación Fiscal reciben una parte de la recaudación del impuesto especial sobre producción y servicios. La cantidad que reciben depende del tipo de bien gravado, como cerveza y tabacos labrados.",
+  "resumen": "Las entidades federativas que están en el Sistema Nacional de Coordinación Fiscal participarán en la recaudación del IEPS por ciertos bienes, como cerveza y tabacos, en proporciones específicas. Los municipios recibirán un porcentaje mínimo de lo que le corresponde al estado.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuyen los impuestos de la cerveza entre los estados?",
-    "¿Qué porcentaje recibe cada estado del impuesto sobre bebidas alcohólicas?",
-    "¿Los municipios también reciben parte de los impuestos recaudados?",
-    "¿Cómo se liquida la participación de los estados en el impuesto especial?",
-    "¿Qué sucede con los ingresos por impuestos a tabacos labrados?"
+    "¿Qué bienes están gravados con el IEPS?",
+    "¿Cómo se distribuye la recaudación del impuesto sobre bebidas?",
+    "¿Qué porcentaje recibe cada entidad federativa del IEPS?",
+    "¿Los municipios reciben parte del IEPS?",
+    "¿Cómo se calcula la participación de las entidades en el impuesto?"
   ]
 }

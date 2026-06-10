@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:685b7551b8527790",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recaudación de ingresos federales",
+  "denominacion_comun": "Recaudación de Ingresos Federales",
   "temas": [
     "recaudación",
     "ingresos federales",
     "compensación",
-    "cuentas de recaudación",
-    "impuestos de automóviles nuevos",
-    "plazos y recargos"
+    "información financiera",
+    "entidades",
+    "intereses",
+    "inflación"
   ],
   "terminos_coloquiales": [
-    "cómo se recaudan los impuestos",
-    "cuánto es lo que se tiene que pagar",
-    "cuándo se reciben los pagos de impuestos",
-    "qué pasa si no se paga a tiempo"
+    "recaudación de impuestos",
+    "deuda fiscal",
+    "compensación de impuestos",
+    "Secretaría de Hacienda",
+    "intereses de recargos"
   ],
-  "resumen": "El artículo establece que la recaudación de ingresos federales debe hacerse por oficinas autorizadas y que las entidades deben rendir cuentas sobre su recaudación. Además, se especifican procedimientos de compensación y las consecuencias de faltas en el pago.",
+  "resumen": "Este artículo establece cómo se deben recaudar los ingresos federales y cómo las entidades deben rendir cuentas a la Secretaría de Hacienda. También menciona las consecuencias de no realizar el entero de las cantidades recaudadas a tiempo, incluyendo la actualización por inflación y el cobro de intereses.",
   "preguntas_ejemplo": [
-    "¿Quién se encarga de recaudar los ingresos federales?",
-    "¿Qué pasa si no se entrega la recaudación a tiempo?",
-    "¿Cómo funcionan los pagos a las entidades por parte de la Secretaría?",
-    "¿Qué información debe rendir la entidad sobre su recaudación?",
-    "¿Se pueden realizar compensaciones entre ingresos y pagos?"
+    "¿Cómo debe hacerse la recaudación de impuestos federales?",
+    "¿Qué pasa si no entero los impuestos en tiempo?",
+    "¿Qué información debo rendir a la Secretaría de Hacienda?",
+    "¿Cuáles son las consecuencias de no concentrar los ingresos?",
+    "¿Puedo compensar impuestos no recaudados con otros fondos?"
   ]
 }

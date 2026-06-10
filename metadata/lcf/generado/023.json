@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:93475825e474e32b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Órganos del Instituto",
   "temas": [
     "director general",
     "asamblea general",
-    "estatutarios",
     "reglamentos",
     "programas",
     "presupuesto",
     "consejo directivo",
-    "Comisión Permanente"
+    "Comisión Permanente de Funcionarios Fiscales"
   ],
   "terminos_coloquiales": [
-    "quién dirige el instituto",
-    "cómo se aprueban las reglas del instituto",
-    "quién toma decisiones en el instituto",
-    "asamblea del instituto",
-    "consejo del instituto"
+    "director general",
+    "asamblea general",
+    "reglamentos",
+    "presupuesto",
+    "Consejo Directivo"
   ],
-  "resumen": "El artículo describe los órganos del Instituto, incluyendo el director general, la asamblea general y el consejo directivo. Define sus roles y funciones en la gestión del Instituto.",
+  "resumen": "El artículo describe los órganos que conforman el Instituto, incluyendo el director general, la asamblea general y el consejo directivo. La Reunión Nacional de Funcionarios Fiscales actuará como asamblea general, y la Comisión Permanente de Funcionarios Fiscales funcionará como consejo directivo.",
   "preguntas_ejemplo": [
-    "¿Quién es el director del instituto?",
-    "¿Qué decide la asamblea general?",
-    "¿Qué funciones tiene el consejo directivo?",
-    "¿Cómo se aprueban los programas del instituto?",
-    "¿Qué estatus tiene la Comisión Permanente en el instituto?"
+    "¿Quién es el director general del Instituto?",
+    "¿Qué funciones tiene la asamblea general?",
+    "¿Cuál es el consejo directivo del Instituto?",
+    "¿Cómo se aprueban los reglamentos y el presupuesto?",
+    "¿Qué es la Reunión Nacional de Funcionarios Fiscales?",
+    "¿Qué hace la Comisión Permanente de Funcionarios Fiscales?"
   ]
 }

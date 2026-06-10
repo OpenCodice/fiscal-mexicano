@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:af27b54b5a3e11ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondos de Aportaciones Federales",
   "temas": [
-    "aportaciones federales",
+    "aportes federales",
     "embargabilidad",
-    "administración de fondos",
     "fiscalización",
-    "evaluación de recursos",
+    "administración de fondos",
+    "recursos educativos",
+    "nómina educativa",
+    "evaluación de desempeño",
     "responsabilidades administrativas"
   ],
   "terminos_coloquiales": [
-    "fondos que no se pueden embargar",
+    "fondos para educación",
     "aportes del gobierno",
-    "dinero de fondos federales",
-    "recursos para municipios",
-    "supervisión de fondos"
+    "control de fondos",
+    "gastos operativos",
+    "servicios personales",
+    "nómina",
+    "AF",
+    "Fondo de Aportaciones"
   ],
-  "resumen": "Las aportaciones federales no pueden ser embargadas ni utilizadas para fines distintos a los establecidos por la ley. Su manejo y uso deben ser fiscalizados y evaluados por las autoridades correspondientes.",
+  "resumen": "Este artículo establece que las aportaciones que reciben las entidades y municipios no pueden ser embargadas y deben ser usadas solamente para los fines que la ley establece. Además, se regula la administración, fiscalización y evaluación del uso de estos recursos para asegurar su correcta aplicación.",
   "preguntas_ejemplo": [
-    "¿Pueden embargar los fondos que recibe mi municipio?",
-    "¿Cómo se administran las aportaciones federales?",
-    "¿Quién supervisa el uso del dinero de los fondos?",
-    "¿Qué pasa si los fondos no se usan correctamente?",
-    "¿Cuáles son las responsabilidades por el manejo indebido de estos fondos?"
+    "¿Qué son los fondos de aportaciones federales?",
+    "¿Los fondos de educación pueden ser embargados?",
+    "¿Quién fiscaliza el uso de los recursos de los fondos?",
+    "¿Cómo se evalúa el desempeño en la administración de estos fondos?",
+    "¿Qué ocurre si no se utilizan los fondos para los fines establecidos?"
   ]
 }

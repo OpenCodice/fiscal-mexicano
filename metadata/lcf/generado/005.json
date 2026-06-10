@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:96691a92716f8b42",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de participaciones fiscales",
+  "denominacion_comun": "Participaciones Entidades",
   "temas": [
     "participaciones",
     "entidades",
@@ -18,17 +19,17 @@
     "Fondo de Fiscalización y Recaudación"
   ],
   "terminos_coloquiales": [
-    "cálculo de participaciones",
-    "distribución de recursos",
-    "fondos fiscales",
-    "recursos estatales"
+    "participaciones",
+    "Fondo General de Participaciones",
+    "Fondo de Fomento Municipal",
+    "Fondo de Fiscalización"
   ],
-  "resumen": "Este artículo establece que los cálculos de participaciones fiscales se aplicarán a todas las entidades, incluso si no están en el Sistema Nacional de Coordinación Fiscal. Las participaciones de entidades que no estén adheridas serán deducidas de ciertos fondos.",
+  "resumen": "El artículo establece que los cálculos de participaciones se realizarán para todas las entidades, independientemente de su adhesión al Sistema Nacional de Coordinación Fiscal. Las participaciones de las entidades que dejen de estar adheridas serán deducidas de ciertos fondos.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan las participaciones para los estados?",
-    "¿Qué pasa si una entidad no está en el Sistema Nacional de Coordinación Fiscal?",
-    "¿De dónde se deducen las participaciones si se sale del sistema?",
-    "¿Qué fondos se ven afectados si una entidad deja el sistema de coordinación?",
-    "¿Qué son las participaciones y cómo se distribuyen?"
+    "¿Cómo se calculan las participaciones para las entidades?",
+    "¿Qué sucede si una entidad deja de estar en el Sistema Nacional de Coordinación Fiscal?",
+    "¿De dónde se descuentan las participaciones de entidades no adheridas?",
+    "¿Qué fondos se ven afectados por las participaciones?",
+    "¿Todas las entidades reciben participaciones de la misma manera?"
   ]
 }

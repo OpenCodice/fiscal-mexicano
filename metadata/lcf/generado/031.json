@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:148d974ed14aa70e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asignación de recursos fiscales",
+  "denominacion_comun": "Distribución de recursos federales",
   "temas": [
-    "distribución de recursos",
-    "monto aprobado",
-    "cálculo de déficit",
+    "fórmula de asignación de recursos",
+    "distribución porcentual",
+    "déficit de entidades federativas",
+    "gasto total federal",
     "población abierta",
-    "gasto total",
-    "Presupuesto de Egresos"
+    "presupuesto mínimo per cápita"
   ],
   "terminos_coloquiales": [
-    "cómo se distribuyen los recursos",
-    "fórmula para asignar dinero",
-    "monto para cada estado",
-    "recursos de salud",
-    "cálculo de presupuesto estatal"
+    "dinero para estados",
+    "asignación de recursos",
+    "recursos federales",
+    "gasto estatal",
+    "déficit estatal"
   ],
-  "resumen": "Este artículo establece cómo se asignan los recursos fiscales a las entidades federativas, utilizando fórmulas basadas en el déficit y otros factores. La Secretaría de Salud debe dar a conocer las cifras necesarias para este cálculo cada año.",
+  "resumen": "El artículo describe cómo se asignan los recursos del presupuesto federal a las entidades federativas utilizando una fórmula que considera su déficit y otros indicadores como la población y el gasto. La Secretaría de Salud publicará anualmente las cifras necesarias para este cálculo.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el dinero que recibe cada estado?",
-    "¿Qué factores influyen en la asignación de recursos fiscales?",
-    "¿Quién publica las cifras necesarias para el cálculo de los recursos?",
-    "¿Qué es el déficit en términos fiscales?",
-    "¿Cómo afecta la población de un estado al dinero que recibe?"
+    "¿Cómo se distribuyen los recursos federales entre los estados?",
+    "¿Qué se considera para calcular el presupuesto de una entidad federativa?",
+    "¿Cómo afecta el gasto total a la asignación de recursos?",
+    "¿Cuáles son los criterios para determinar el déficit de un estado?",
+    "¿Quién publica las cifras para la distribución de recursos?"
   ]
 }

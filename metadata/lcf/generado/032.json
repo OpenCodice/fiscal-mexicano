@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aaa38d174327904c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Aportaciones para la Infraestructura Social",
   "temas": [
-    "Presupuesto de Egresos",
+    "presupuesto",
+    "recaudación federal",
+    "infraestructura social",
     "recursos federales",
-    "recaudación federal participable",
-    "Fondo para Infraestructura Social",
-    "distribución de recursos"
+    "transferencias a entidades",
+    "municipios",
+    "demarcaciones territoriales"
   ],
   "terminos_coloquiales": [
-    "fondo de infraestructura",
-    "aportes para infraestructura social",
-    "dinero para obras sociales",
-    "recursos para municipios"
+    "Fondo de Infraestructura Social",
+    "apoyo a municipios",
+    "recursos para infraestructura",
+    "dinero del gobierno",
+    "Fondo para Infraestructura Municipal"
   ],
-  "resumen": "Este artículo establece cómo se determina y distribuye el Fondo de Aportaciones para la Infraestructura Social anualmente. Se especifica el porcentaje de la recaudación federal que se destina a este fondo y cómo se entrega a los diferentes niveles de gobierno.",
+  "resumen": "El Fondo de Aportaciones para la Infraestructura Social se asigna anualmente a través del Presupuesto de Egresos de la Federación. Este fondo se distribuye a entidades y municipios para proyectos de infraestructura social, basado en un porcentaje de la recaudación federal participable.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el Fondo de Aportaciones para la Infraestructura Social?",
-    "¿Qué porcentaje de la recaudación federal se destina a este fondo?",
-    "¿Cuándo se entregan los recursos del fondo a los municipios?",
-    "¿Qué se necesita para acceder a los fondos para infraestructura social?",
-    "¿Quién maneja la distribución del fondo?"
+    "¿Cómo se determina el monto del Fondo de Aportaciones para la Infraestructura Social?",
+    "¿Qué porcentaje de la recaudación se destina a este fondo?",
+    "¿Cómo se distribuyen los recursos del Fondo de Infraestructura Social a los municipios?",
+    "¿Qué requisitos hay para que los municipios reciban estos fondos?",
+    "¿Cuál es la función del Fondo para la Infraestructura Social?"
   ]
 }

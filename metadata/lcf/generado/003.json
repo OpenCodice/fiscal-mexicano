@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6c21cf439ad8cd23",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligación de Publicación de Información Fiscal",
+  "denominacion_comun": "Obligaciones de la Secretaría de Hacienda",
   "temas": [
-    "Secretaría de Hacienda",
-    "Calendario de entrega",
-    "Participaciones federales",
-    "Finanzas públicas",
-    "Informes trimestrales"
+    "calendario de entrega",
+    "fondo general",
+    "fondo de fomento municipal",
+    "recaudación federal participable",
+    "participaciones a entidades federativas",
+    "informes trimestrales",
+    "finanzas públicas"
   ],
   "terminos_coloquiales": [
-    "calendario de pagos",
-    "informes de finanzas",
-    "cuánto dinero recibe cada estado",
-    "participaciones a municipios"
+    "entrega de fondos",
+    "participaciones",
+    "informes de Hacienda",
+    "finanzas de estados"
   ],
-  "resumen": "La Secretaría de Hacienda debe publicar un calendario con información sobre el dinero que recibirán las entidades federativas, así como incluir datos sobre la recaudación y participaciones en informes trimestrales. Esto asegura transparencia en la distribución de recursos.",
+  "resumen": "La Secretaría de Hacienda debe publicar un calendario sobre la entrega de fondos a las entidades federativas y reportar la recaudación federal. También debe incluir en sus informes trimestrales el monto de las participaciones entregadas a las entidades.",
   "preguntas_ejemplo": [
-    "¿Cuándo se publica el calendario de participaciones a estados?",
-    "¿Qué información incluye el informe trimestral de Hacienda?",
-    "¿Qué fondos reciben los municipios y cómo se determinan?",
-    "¿Dónde puedo ver cuánto recibe cada entidad del gobierno?"
+    "¿Qué fondos entrega la Secretaría de Hacienda a los estados?",
+    "¿Cómo se calcula la participación que recibe cada entidad federativa?",
+    "¿Qué información se incluye en los informes trimestrales de Hacienda?",
+    "¿Cuándo se publica el calendario de entrega de fondos?",
+    "¿Qué es la recaudación federal participable?"
   ]
 }

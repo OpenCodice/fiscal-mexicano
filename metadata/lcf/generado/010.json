@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:48c5227b4966427f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adhesión al Sistema Nacional de Coordinación Fiscal",
+  "denominacion_comun": "Sistema Nacional de Coordinación Fiscal",
   "temas": [
-    "Sistema Nacional de Coordinación Fiscal",
-    "Convenios",
+    "adhesión",
+    "convenios",
+    "participaciones",
     "Secretaría de Hacienda",
-    "Legislatura",
-    "Participaciones",
-    "Publicación de convenios"
+    "publicación oficial",
+    "legislatura",
+    "impuestos especiales"
   ],
   "terminos_coloquiales": [
-    "cómo unirse al sistema fiscal",
-    "participaciones fiscales",
+    "Sistema de Coordinación Fiscal",
     "acuerdo con Hacienda",
-    "terminar convenio fiscal"
+    "pago de participaciones",
+    "convenio fiscal",
+    "legislación fiscal"
   ],
-  "resumen": "Las entidades que deseen unirse al Sistema Nacional de Coordinación Fiscal deben firmar un convenio con la Secretaría de Hacienda, que se debe aprobar por su legislatura. También pueden terminar este convenio con autorización legislativa y deben publicar estos actos en los diarios oficiales correspondientes.",
+  "resumen": "Las entidades que quieran unirse al Sistema Nacional de Coordinación Fiscal deben hacer un convenio con la Secretaría de Hacienda, que además tiene que ser aprobado por la legislatura local. También pueden separarse del sistema, y este proceso debe publicarse oficialmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se puede unir mi estado al sistema fiscal?",
-    "¿Qué requisitos hay para firmar un convenio con Hacienda?",
-    "¿Se puede cancelar un convenio fiscal?",
-    "¿Qué documentos se publican al unirse al sistema fiscal?",
-    "¿Qué pasa si mi entidad no se adhiere al sistema?"
+    "¿Cómo me adhiero al Sistema Nacional de Coordinación Fiscal?",
+    "¿Qué pasos sigo para celebrar un convenio con Hacienda?",
+    "¿Se puede dar de baja un convenio del sistema fiscal?",
+    "¿Qué implica la participación en los impuestos especiales?",
+    "¿Dónde se publica el convenio de adhesión al sistema fiscal?"
   ]
 }

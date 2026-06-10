@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70461eeb3ab864ea",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Participaciones de Municipios",
+  "denominacion_comun": "Participación de los Municipios",
   "temas": [
-    "Recaudación federal",
-    "Participaciones municipales",
+    "recaudación federal",
+    "municipios colindantes",
     "Fondo de Fomento Municipal",
-    "Impuesto predial",
-    "Coordinación fiscal"
+    "distribución de recursos",
+    "coordinación fiscal",
+    "derechos de agua",
+    "impuesto predial",
+    "Fondo Mexicano del Petróleo"
   ],
   "terminos_coloquiales": [
-    "cómo reciben dinero los municipios",
-    "participaciones de municipios",
-    "fondo de apoyo a municipios",
-    "recaudación para municipios"
+    "dinero para municipios",
+    "fondo municipal",
+    "participación de municipios",
+    "coordinación en derechos",
+    "convenciones entre estados y municipios"
   ],
-  "resumen": "El artículo establece cómo se distribuyen las participaciones de la recaudación federal a los municipios, incluyendo aquellos colindantes con la frontera y litorales, así como el manejo del Fondo de Fomento Municipal. También detalla las condiciones para la coordinación en el cobro del impuesto predial.",
+  "resumen": "Este artículo establece cómo participarán los municipios en la recaudación federal y la distribución de fondos, especialmente para aquellos colindantes con la frontera y litorales. Se detalla la fórmula para la distribución de estas participaciones y las condiciones para el acceso a los fondos municipales.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el dinero que reciben los municipios de la federación?",
+    "¿Cómo se distribuye el dinero entre los municipios?",
+    "¿Qué porcentaje de la recaudación federal participa mi municipio?",
     "¿Qué es el Fondo de Fomento Municipal?",
-    "¿Qué requisitos deben cumplir los municipios para recibir participaciones?",
-    "¿Cómo se calcula la recaudación de impuestos en los municipios?",
-    "¿Qué municipios reciben dinero del Fondo Mexicano del Petróleo?"
+    "¿Los municipios fronterizos reciben más dinero?",
+    "¿Qué requisitos deben cumplir los municipios para acceder a estos fondos?"
   ]
 }

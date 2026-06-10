@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:12f8c954de6f6382",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aportaciones de agua y descargas",
+  "denominacion_comun": "Garantías de Pago de Agua",
   "temas": [
+    "derechos",
+    "aprovechamientos",
+    "agua",
+    "descargas",
     "municipios",
-    "distrito federal",
-    "derechos de agua",
-    "descargas residuales",
-    "garantías",
-    "incumplimiento",
-    "Comisión Nacional del Agua"
+    "fondo",
+    "retenciones",
+    "infraestructura"
   ],
   "terminos_coloquiales": [
     "pago de agua",
-    "deudas de agua",
-    "retenciones de pago",
-    "fondo de agua",
-    "obligaciones de pago de agua"
+    "adeudos de agua",
+    "derechos de agua",
+    "descargas de aguas residuales",
+    "Comisión Nacional del Agua",
+    "CNA"
   ],
-  "resumen": "El artículo establece que los municipios pueden usar aportaciones de un fondo como garantía para pagar derechos relacionados con el agua. Si no cumplen, la Comisión Nacional del Agua puede retener los fondos para cubrir el adeudo por el suministro o descargas de aguas residuales.",
+  "resumen": "Este artículo permite que las aportaciones de un fondo se utilicen como garantía para el pago de derechos y aprovechamientos relacionados con el agua por parte de los municipios. Si un municipio incumple en sus pagos, la Comisión Nacional del Agua puede solicitar que se retenga dinero del fondo para cubrir la deuda.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un municipio no paga por el servicio de agua?",
-    "¿Puede el gobierno retener fondos de un municipio por deudas de agua?",
-    "¿Cómo se utilizan las aportaciones del fondo de agua?",
-    "¿Qué organismos están involucrados en el manejo de deudas por agua?",
-    "¿Qué criterios siguen para retener pagos a los municipios?"
+    "¿Qué pasa si un municipio no paga sus derechos por agua?",
+    "¿Se puede usar el fondo para garantizar el pago de servicios de agua?",
+    "¿Cuáles son las obligaciones de pago de las demarcaciones por agua?",
+    "¿Qué hace la Comisión Nacional del Agua si hay incumplimiento?",
+    "¿Qué tipo de deudas se pueden cubrir con este fondo?"
   ]
 }

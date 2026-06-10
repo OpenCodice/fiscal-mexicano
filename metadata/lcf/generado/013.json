@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cf5ad73e741ec426",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Convenios de Coordinación Fiscal",
   "temas": [
-    "Administración de ingresos",
-    "Convenios de coordinación",
+    "administración de ingresos federales",
     "Registro Federal de Contribuyentes",
-    "Recaudación",
-    "Fiscalización"
+    "recaudación",
+    "fiscalización",
+    "administración fiscal",
+    "gobiernos de entidades",
+    "convenios",
+    "publicación de convenios"
   ],
   "terminos_coloquiales": [
-    "acuerdos fiscales",
-    "convenios entre gobiernos",
-    "coordinación de ingresos",
-    "gobierno federal y estatal"
+    "convenios fiscales",
+    "coordinación fiscal",
+    "ingresos federales",
+    "administración de impuestos"
   ],
-  "resumen": "El Gobierno Federal y las Entidades pueden hacer convenios para coordinar la administración de ingresos. Estos convenios detallan los ingresos, facultades y limitaciones, y se publican para tener efecto conforme se acuerde.",
+  "resumen": "Este artículo establece que el Gobierno Federal y los Gobiernos de las Entidades pueden celebrar convenios para coordinar la administración de los ingresos federales. Los convenios deben detallar los ingresos, las facultades y sus limitaciones, y ser publicados para tener efectos legales.",
   "preguntas_ejemplo": [
     "¿Qué son los convenios de coordinación fiscal?",
-    "¿Cómo se organizan los ingresos federales entre gobiernos?",
-    "¿Qué funciones tiene el Registro Federal de Contribuyentes en estos convenios?",
-    "¿Se pueden terminar los convenios de coordinación?",
-    "¿Dónde se publican los convenios fiscales?"
+    "¿Quién administra los ingresos federales en las entidades?",
+    "¿Qué se especifica en los convenios fiscales?",
+    "¿Cómo se publican los convenios de coordinación?",
+    "¿Se pueden terminar los convenios de coordinación?"
   ]
 }

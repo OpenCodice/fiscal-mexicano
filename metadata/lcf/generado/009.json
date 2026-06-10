@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c92ca965a808fb3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Participaciones de Entidades y Municipios",
@@ -13,21 +14,23 @@
     "inembargabilidad",
     "retenciones",
     "Fondo General de Participaciones",
-    "garantías",
-    "compensaciones"
+    "Fondo de Fomento Municipal",
+    "compensaciones",
+    "obligaciones",
+    "legislaturas locales"
   ],
   "terminos_coloquiales": [
-    "participaciones municipales",
-    "dinero público no embargable",
-    "fondo de participaciones",
-    "dinero para municipios"
+    "participaciones federales",
+    "aportes municipales",
+    "dinero de los Municipios",
+    "inembargables"
   ],
-  "resumen": "Las participaciones que reciben las Entidades y Municipios no pueden ser embargadas, salvo en ciertos casos específicos. También se permiten afectaciones a las participaciones bajo condiciones autorizadas por las legislaturas locales.",
+  "resumen": "Las participaciones que reciben las Entidades y los Municipios son inembargables y no se pueden retener, excepto en ciertos casos relacionados con fondos específicos. Se permite que los Municipios acuerden afectar sus participaciones bajo ciertas condiciones.",
   "preguntas_ejemplo": [
-    "¿Se pueden embargar las participaciones de los municipios?",
-    "¿Qué fondos son inembargables para las entidades?",
-    "¿Qué implicaciones tienen las retenciones sobre las participaciones?",
-    "¿Cómo se manejan las compensaciones entre participaciones y obligaciones?",
-    "¿Qué se necesita para afectar participaciones en garantía?"
+    "¿Las participaciones que reciben los Municipios pueden ser embargadas?",
+    "¿Qué fondos pueden afectar las Entidades y los Municipios?",
+    "¿Las participaciones federales están sujetas a retención?",
+    "¿Cómo se realizan compensaciones entre participaciones y obligaciones?",
+    "¿Qué requisitos se necesitan para afectar participaciones en garantía?"
   ]
 }

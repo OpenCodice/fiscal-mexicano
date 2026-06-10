@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e41f38f832c11695",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fondo de Aportaciones",
+  "denominacion_comun": "Fondo de Aportaciones Municipales",
   "temas": [
     "distribución de fondos",
     "municipios",
     "demarcaciones territoriales",
     "población residente",
-    "población flotante",
-    "Secretaría de Hacienda",
-    "Instituto Nacional de Estadística"
+    "población flotante"
   ],
   "terminos_coloquiales": [
-    "distribución de dinero a municipios",
-    "fondo para municipios",
-    "aportes a demarcaciones",
-    "plata para ciudades"
+    "apoyo económico a municipios",
+    "recursos para municipios",
+    "Fondo de Aportaciones",
+    "FAPEM"
   ],
-  "resumen": "El artículo regula cómo se distribuye un fondo para fortalecer a los municipios y demarcaciones del Distrito Federal, basándose en el número de habitantes de cada entidad. La distribución se realiza utilizando información estadística del Instituto Nacional de Estadística.",
+  "resumen": "El Ejecutivo Federal repartirá un fondo a los municipios y demarcaciones territoriales basado en la población de cada entidad. Se asignará un porcentaje mayor a la población residente y un porcentaje menor a la población flotante.",
   "preguntas_ejemplo": [
-    "¿Cómo se reparte el dinero del fondo a los municipios?",
-    "¿Qué criterios se usan para distribuir los recursos a las demarcaciones?",
-    "¿Quién se encarga de la distribución del fondo?",
-    "¿Cómo se determina el porcentaje de recursos para cada demarcación?",
-    "¿Qué información se usa para repartir el fondo entre los municipios?"
+    "¿Cómo se distribuyen los fondos a los municipios?",
+    "¿Qué criterios se utilizan para asignar el presupuesto a las demarcaciones territoriales?",
+    "¿Por qué se considera la población flotante en la distribución de recursos?",
+    "¿Quién gestiona el fondo de aportaciones para los municipios?",
+    "¿Qué porcentaje del fondo se destina a la población residente?",
+    "¿Cómo afecta el número de habitantes a la asignación de recursos?"
   ]
 }

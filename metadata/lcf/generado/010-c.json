@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6eae297eaebc8a16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuestos locales sobre la venta",
+  "denominacion_comun": "Impuestos locales sobre bienes gravados",
   "temas": [
     "Sistema Nacional de Coordinación Fiscal",
     "Impuestos locales",
-    "Bienes sujetos a impuestos",
-    "Requisitos para establecer impuestos"
+    "Impuesto Especial sobre Producción y Servicios",
+    "Venta de bienes",
+    "Consumo final",
+    "Recaudación",
+    "Convenios con el Ejecutivo Federal"
   ],
   "terminos_coloquiales": [
-    "Impuesto local de venta",
-    "Cómo se aplican los impuestos sobre ventas",
-    "Condiciones de impuestos locales",
-    "Impuestos a la venta en mi estado"
+    "impuestos locales",
+    "venta de bienes",
+    "consumo de bienes",
+    "impuesto especial",
+    "4.5% sobre bienes"
   ],
-  "resumen": "Este artículo establece que las entidades pueden imponer impuestos locales sobre la venta de ciertos bienes, siempre y cuando cumplan con una serie de requisitos. Se especifica que el impuesto no debe trasladarse de forma separada al consumidor y que debe ser del 4.5% sobre el precio de venta.",
+  "resumen": "Las entidades que forman parte del Sistema Nacional de Coordinación Fiscal pueden establecer impuestos locales sobre la venta o consumo final de ciertos bienes, siempre que se cumplan requisitos específicos. Estos impuestos no deben trasladarse por separado y se aplican sobre el precio de enajenación cuando se perciben los ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos deben seguir los estados para poner impuestos sobre la venta?",
-    "¿Cómo afecta el impuesto local al precio de los bienes?",
-    "¿Puedo saber qué porcentaje se aplica a los impuestos locales de venta?",
-    "¿Qué pasa con los impuestos si son impuestos en la venta de bienes?"
+    "¿Qué impuestos pueden aplicar las entidades locales sobre la venta de bienes?",
+    "¿Cuáles son los requisitos para establecer un impuesto local según el artículo 10-C?",
+    "¿Cómo se recauda el impuesto sobre bienes gravados?",
+    "¿Qué porcentaje de recaudación reciben los municipios?",
+    "¿Se puede trasladar el impuesto al consumidor final?"
   ]
 }

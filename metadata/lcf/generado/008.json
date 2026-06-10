@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f871b3e3de92cb73",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Participaciones fiscales",
   "temas": [
-    "participaciones",
+    "entidades",
+    "municipios",
+    "federación",
     "créditos fiscales",
-    "convenciones administrativas",
-    "Secretaría de Hacienda",
-    "ingresos federales"
+    "convenios de colaboración",
+    "incentivos"
   ],
   "terminos_coloquiales": [
-    "participaciones del gobierno",
-    "apoyo financiero",
-    "dinero de impuestos",
-    "convenciones de colaboración"
+    "participaciones",
+    "créditos fiscales",
+    "incentivos fiscales",
+    "Secretaría de Hacienda"
   ],
-  "resumen": "Este artículo trata sobre cómo se determinan y pagan las participaciones fiscales entre la Federación, los Municipios y las Entidades. También menciona que la Secretaría de Hacienda informará sobre el uso de estas participaciones.",
+  "resumen": "Este artículo establece que las entidades, municipios y la federación deben pagar créditos fiscales que resulten de la aplicación de leyes de ingresos federales y que la Secretaría de Hacienda informará sobre el comportamiento de las participaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuyen las participaciones fiscales?",
-    "¿Qué son los créditos fiscales en este contexto?",
-    "¿Qué información proporciona la Secretaría de Hacienda sobre las participaciones?",
-    "¿Cómo afecta esto a los Municipios?",
-    "¿Qué incentivos pueden establecerse en convenios administrativos?"
+    "¿Qué son las participaciones fiscales?",
+    "¿Cómo se determinan los créditos fiscales?",
+    "¿Qué incentivos hay en los convenios de colaboración?",
+    "¿Quién informa sobre las participaciones?",
+    "¿Qué leyes regulan las participaciones de entidades y municipios?"
   ]
 }

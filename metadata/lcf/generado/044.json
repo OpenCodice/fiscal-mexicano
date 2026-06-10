@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5daa7295a7215081",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Aportaciones para la Seguridad Pública",
   "temas": [
     "recursos federales",
-    "presupuesto de egresos",
+    "Presupuesto de Egresos",
     "distribución de fondos",
-    "reportes trimestrales"
+    "seguridad pública",
+    "información pública",
+    "reportes trimestrales",
+    "convenios de coordinación"
   ],
   "terminos_coloquiales": [
-    "dinero para seguridad",
     "fondo de seguridad",
-    "aportes a la seguridad pública",
-    "presupuesto de seguridad"
+    "apoyo a la seguridad",
+    "dinero para seguridad",
+    "recursos de seguridad pública",
+    "Secretariado Ejecutivo"
   ],
-  "resumen": "Este artículo establece cómo se constituye y distribuye el Fondo de Aportaciones para la Seguridad Pública, que se financia con recursos federales. También detalla la responsabilidad de las entidades para reportar el uso de estos recursos de manera trimestral.",
+  "resumen": "El artículo establece la constitución y distribución del Fondo de Aportaciones para la Seguridad Pública, que se alimenta de recursos federales. Define las responsabilidades del Ejecutivo y la Secretaría de Gobernación en la gestión y asignación de estos recursos a los Estados y el Distrito Federal para fortalecer la seguridad pública.",
   "preguntas_ejemplo": [
-    "¿De dónde vienen los recursos para la seguridad pública?",
-    "¿Cómo se distribuyen los fondos de seguridad entre los estados?",
-    "¿Qué deben reportar los estados sobre el uso del fondo de seguridad?",
-    "¿Cuáles son los criterios para asignar los recursos del fondo?",
-    "¿Con qué frecuencia se entregan los fondos a los estados?"
+    "¿Cómo se forman los fondos para la seguridad pública?",
+    "¿Quién administra el dinero destinado a la seguridad pública?",
+    "¿Con qué criterios se distribuyen los recursos de seguridad a los estados?",
+    "¿Qué información debe reportar mi estado sobre el fondo de seguridad?",
+    "¿Cuándo se entregan los recursos de este fondo?"
   ]
 }

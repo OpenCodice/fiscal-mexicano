@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:152350ace9721a56",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Administración de Nómina en Educación",
+  "denominacion_comun": "Sistema de administración de nómina",
   "temas": [
-    "nómina",
-    "pagos",
-    "recursos",
-    "personal educativo",
-    "validación de nómina",
-    "transferencias electrónicas",
+    "pago de nómina",
+    "servicios personales",
+    "registro de movimientos",
     "comprobación de erogaciones",
-    "retenciones",
-    "aprobación de pagos"
+    "retenciones fiscales",
+    "aportaciones federales"
   ],
   "terminos_coloquiales": [
-    "pago de maestros",
-    "nómina de educación",
-    "registro de nómina",
-    "pagos administrativos",
-    "transferencias a docentes"
+    "nómina",
+    "pagos de salarios",
+    "recibo de nómina",
+    "RETENCIONES",
+    "SEP",
+    "SHCP"
   ],
-  "resumen": "Este artículo establece cómo se administrará la nómina para el pago de servicios personales en el ámbito educativo, especificando las responsabilidades de la Secretaría de Educación Pública y las entidades federativas en el registro y verificación de dicha nómina. También detalla cómo se debe realizar el pago a través de transferencias electrónicas y las retenciones necesarias por impuestos y seguridad social.",
+  "resumen": "El artículo regula el sistema de administración de nómina para el pago de servicios personales en el sector educativo, estableciendo la responsabilidad de las autoridades educativas y las coordinaciones necesarias para los pagos. También trata sobre las retenciones fiscales y el comprobante de los pagos realizados a los empleados.",
   "preguntas_ejemplo": [
-    "¿Cómo se registran los pagos a los maestros?",
-    "¿Qué pasos se siguen para validar la nómina educativa?",
-    "¿Cuáles son los requisitos para realizar pagos retroactivos a los empleados?",
-    "¿Cómo se manejan las retenciones de impuestos en los salarios de los docentes?",
-    "¿Qué información se necesita para comprobar los pagos realizados a los trabajadores educativos?"
+    "¿Cómo se realiza el pago de la nómina en educación?",
+    "¿Qué información deben registrar las entidades federativas sobre los movimientos del personal?",
+    "¿Cómo se garantizan los pagos a los empleados del servicio educativo?",
+    "¿Qué retenciones se aplican a los pagos de nómina?",
+    "¿Cómo se deben comprobar las erogaciones realizadas a los trabajadores?"
   ]
 }

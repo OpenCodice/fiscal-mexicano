@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c35250a078ea22f1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Fondo de Aportaciones Múltiples",
   "temas": [
-    "distribución de fondos",
+    "distribución de recursos",
     "entidades federativas",
     "Presupuesto de Egresos",
     "Secretaría de Salud",
     "Secretaría de Educación Pública",
-    "monto por entidad"
+    "monto por entidad",
+    "fórmula de distribución"
   ],
   "terminos_coloquiales": [
-    "dónde está el fondo de aportaciones",
-    "cómo se distribuyen los recursos",
-    "monto que recibe cada estado",
-    "fondo de salud y educación"
+    "aportes estatales",
+    "dinero para estados",
+    "recursos federales",
+    "FAM"
   ],
-  "resumen": "El Fondo de Aportaciones Múltiples se reparte entre las entidades federativas según las reglas del Presupuesto de Egresos. Las Secretarías de Salud y Educación Pública informan sobre el monto que le corresponde a cada entidad y cómo se distribuyen los recursos.",
+  "resumen": "El Fondo de Aportaciones Múltiples se reparte entre las entidades federativas según las reglas del Presupuesto de Egresos. Las Secretarías de Salud y Educación Pública informan anualmente sobre los montos y fórmulas de distribución de este fondo.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuye el Fondo de Aportaciones Múltiples entre los estados?",
-    "¿Qué información publican las Secretarías de Salud y Educación sobre el fondo?",
-    "¿Cuánto recibe cada estado del Fondo de Aportaciones Múltiples?",
-    "¿Cuáles son las reglas de distribución del fondo?",
-    "¿Qué variables se utilizan para la distribución de los recursos?"
+    "¿Cómo se distribuye el Fondo de Aportaciones Múltiples?",
+    "¿Qué entidades reciben recursos del FAM?",
+    "¿Qué información publica la Secretaría de Salud sobre el fondo?",
+    "¿Cuál es la fórmula para distribuir el dinero entre los estados?",
+    "¿Qué componentes incluye el Fondo de Aportaciones Múltiples?",
+    "¿Cuándo se da a conocer el monto correspondiente a cada entidad?"
   ]
 }

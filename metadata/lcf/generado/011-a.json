@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0d7265919abce3e0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de inconformidad",
+  "denominacion_comun": "Recurso de Inconformidad",
   "temas": [
     "Sistema Nacional de Coordinación Fiscal",
-    "derechos",
-    "recursos ante Hacienda",
-    "representación de contribuyentes",
-    "resolución de conflictos fiscales"
+    "Recursos de Inconformidad",
+    "Contribuyentes",
+    "Devoluciones de impuestos",
+    "Representantes comunes"
   ],
   "terminos_coloquiales": [
-    "quejas contra Hacienda",
-    "reclamos fiscales",
-    "recurso de inconformidad",
-    "defender mis derechos fiscales"
+    "queja fiscal",
+    "recurso",
+    "impuesto",
+    "devolución",
+    "defensa fiscal"
   ],
-  "resumen": "Este artículo establece que las personas pueden presentar un recurso de inconformidad ante Hacienda si creen que han sido afectadas por disposiciones fiscales. El recurso puede ser presentado de forma colectiva por contribuyentes que tengan un representante común y se tramitará siguiendo reglas específicas.",
+  "resumen": "El artículo establece que las personas afectadas por el incumplimiento de disposiciones fiscales pueden presentar un recurso de inconformidad ante la Secretaría de Hacienda en un plazo determinado. Este recurso puede ser presentado por un grupo de contribuyentes a través de un representante común, y se tramitará conforme a las disposiciones del Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo presentar un reclamo a Hacienda?",
-    "¿Qué es un recurso de inconformidad ante la Secretaría de Hacienda?",
-    "¿Qué hacer si no estoy de acuerdo con un requerimiento fiscal?",
-    "¿Puedo presentar una queja colectiva en materia fiscal?",
-    "¿Qué plazos debo seguir para impugnar una decisión de Hacienda?"
+    "¿Cómo puedo presentar un recurso de inconformidad?",
+    "¿Qué plazo tengo para recurrir después de una notificación?",
+    "¿Quién puede ser mi representante en el recurso de inconformidad?",
+    "¿Qué puedo hacer si me cobran de más en mis impuestos?",
+    "¿Dónde se presenta el recurso de inconformidad?"
   ]
 }

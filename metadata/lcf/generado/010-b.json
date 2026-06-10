@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9a918e0e2396e517",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "No coordinación en derechos",
+  "denominacion_comun": "Coordinación en Derechos",
   "temas": [
-    "coordinación fiscal",
-    "cobro de derechos",
-    "declaratorias",
-    "Secretaría de Hacienda"
+    "Sistema Nacional de Coordinación Fiscal",
+    "Declaratoria de derechos",
+    "Violaciones en derechos",
+    "Publicación oficial",
+    "Suprema Corte de Justicia"
   ],
   "terminos_coloquiales": [
-    "no cobrar derechos",
-    "entidades públicas y derechos",
-    "declaratoria de derechos",
-    "coordinación de impuestos"
+    "derechos",
+    "cobro de derechos",
+    "coordinación fiscal",
+    "Secretaría de Hacienda",
+    "publicación en el DOF"
   ],
-  "resumen": "Este artículo establece que las Entidades pueden no coordinarse en el cobro de derechos, pero deben seguir adheridas al Sistema Nacional de Coordinación Fiscal. La Secretaría de Hacienda tiene el poder de declarar qué entidades no tienen derechos establecidos o suspendidos.",
+  "resumen": "Las Entidades pueden no coordinarse en derechos, pero seguirán adheridas al Sistema Nacional de Coordinación Fiscal. La Secretaría de Hacienda emitirá declaratorias sobre el cobro de derechos y notificará a las entidades en caso de violaciones a esta normativa.",
   "preguntas_ejemplo": [
-    "¿Qué significa no coordinarse en derechos?",
-    "¿Cómo afecta a las entidades no cobrar derechos?",
-    "¿Qué puede hacer la Secretaría de Hacienda en caso de incumplimiento?",
-    "¿Qué pasa si una entidad no está de acuerdo con la declaratoria?",
-    "¿Dónde se publican las declaratorias de derechos?"
+    "¿Qué pasa si una entidad no coordina sus derechos?",
+    "¿Cómo se publica la declaratoria de derechos?",
+    "¿Qué debo hacer si hay una violación en el cobro de derechos?",
+    "¿Dónde se publican las resoluciones de la Secretaría de Hacienda?",
+    "¿Cuál es el proceso si un estado no está de acuerdo con la declaratoria?"
   ]
 }
