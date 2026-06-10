@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a5351b54dc38496b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pago y acreditamiento del IVA por importaciones",
   "temas": [
-    "importación de bienes",
-    "IVA provisional",
-    "acreditamiento del IVA",
+    "IVA",
+    "importaciones",
+    "bienestar fiscal",
+    "acreditamiento",
     "maquinaria y equipo",
-    "actividades gravadas",
     "impuesto general de importación"
   ],
   "terminos_coloquiales": [
-    "IVA en importaciones",
-    "acreditamiento de IVA",
-    "IVA en maquinaria",
-    "IVA 0%",
-    "importación de equipos"
+    "pago de IVA en importaciones",
+    "acreditar IVA",
+    "importar maquinaria",
+    "IVA provisional"
   ],
-  "resumen": "Este criterio establece que el pago del IVA por importaciones es provisional y debe hacerse junto con el impuesto general de importación. Las empresas que importan maquinaria y equipo pueden acreditar el IVA pagado si cumplen con ciertos requisitos.",
+  "resumen": "El criterio establece que el pago del IVA por la importación de bienes tangibles es provisional y se realiza junto con el impuesto general de importación. Las empresas que importan maquinaria para sus actividades pueden acreditar el IVA que pagaron bajo ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga el IVA por importaciones?",
-    "¿Qué documentos necesito para acreditar el IVA de una importación?",
-    "¿Puedo acreditar el IVA si importo maquinaria?",
-    "¿Qué tasa de IVA se aplica a las importaciones?",
-    "¿Cuándo se considera provisional el pago del IVA?"
+    "¿Cómo se paga el IVA al importar maquinaria?",
+    "¿Puedo acreditar el IVA que pagué por importaciones?",
+    "¿Qué pasa si importo bienes a tasa del 0%?",
+    "¿El pago del IVA por importaciones es provisional?",
+    "¿Cuáles son los requisitos para acreditar el IVA en importaciones?"
   ]
 }

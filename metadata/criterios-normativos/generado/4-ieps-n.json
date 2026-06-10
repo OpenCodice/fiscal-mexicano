@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd418563b459efe8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Concepto de leche para efectos del IEPS",
+  "denominacion_comun": "Concepto de leche para el IEPS",
   "temas": [
-    "Leche",
-    "Impuesto Especial sobre Producción y Servicios (IEPS)",
-    "Exenciones fiscales",
-    "Normas Oficiales Mexicanas",
-    "Bebidas saborizadas",
-    "Productos lácteos"
+    "leche",
+    "bebidas saborizadas",
+    "exención IEPS",
+    "mezcla de leche",
+    "normas oficiales",
+    "grasa vegetal",
+    "fórmulas para lactantes"
   ],
   "terminos_coloquiales": [
-    "Leche para IEPS",
-    "Definición de leche",
-    "Exención de IEPS en leche",
-    "IEPS leche",
-    "NOM leche"
+    "leche",
+    "leche saborizada",
+    "productos lácteos",
+    "bebidas azucaradas",
+    "fórmulas para bebés"
   ],
-  "resumen": "La Ley del IEPS establece que la leche y sus mezclas con grasa vegetal no están sujetas a este impuesto, siempre que cumplan con ciertas especificaciones. Esto incluye la leche en diversas presentaciones y sus formulaciones para lactantes, según regulaciones sanitarias.",
+  "resumen": "La ley establece que la leche y sus derivados están exentos del IEPS siempre que cumplan con ciertas especificaciones. Se consideran leche las secreciones naturales de las glándulas mamarias de animales y mezclas de leche con grasa vegetal, entre otros productos. Esta disposición también incluye las fórmulas para lactantes.",
   "preguntas_ejemplo": [
-    "¿Qué productos lácteos no pagan IEPS?",
-    "¿Qué se considera leche según la ley?",
-    "¿La leche saborizada está exenta del IEPS?",
-    "¿Qué normas regulan la leche para el IEPS?",
-    "¿Cómo se define la mezcla de leche con grasa vegetal?"
+    "¿Qué productos están exentos de IEPS por ser considerados leche?",
+    "¿Qué características debe tener un producto para ser clasificado como leche?",
+    "¿Se paga IEPS por la leche saborizada?",
+    "¿Qué normativas regulan el concepto de leche para efectos del IEPS?",
+    "¿La mezcla de leche con grasa vegetal se considera leche para el IEPS?"
   ]
 }

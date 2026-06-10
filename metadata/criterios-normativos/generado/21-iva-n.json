@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85236c6135d19535",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención del IVA en importaciones",
+  "denominacion_comun": "IVA en importaciones por entidades públicas",
   "temas": [
-    "IVA",
+    "exención del IVA",
     "importaciones",
-    "exenciones fiscales",
+    "entidades públicas",
     "derechos federales",
     "trámite aduanero"
   ],
   "terminos_coloquiales": [
-    "IVA en importaciones",
-    "exención IVA",
-    "trámite aduanero",
-    "importaciones sin IVA"
+    "IVA",
+    "importaciones",
+    "gobierno",
+    "entidades federativas",
+    "derechos de aduana"
   ],
-  "resumen": "La Ley del IVA establece que la Federación y otros organismos públicos no están obligados a pagar el IVA por actos que den lugar al pago de derechos. Sin embargo, esto no aplica a las importaciones, ya que el IVA debe pagarse independientemente de otros derechos por servicios de trámite aduanero.",
+  "resumen": "La Ley del IVA establece que la Federación, los Estados, los Municipios y sus organismos descentralizados no tienen que pagar el IVA por las operaciones que generan derechos, pero esta exención no aplica para el IVA en importaciones. Aunque se paguen derechos por el trámite aduanero, esto no exime del IVA en las importaciones.",
   "preguntas_ejemplo": [
-    "¿Los municipios tienen que pagar IVA por importaciones?",
-    "¿Qué dice la ley sobre el IVA en importar cosas?",
-    "¿Existen exenciones de IVA para entidades públicas en importaciones?",
-    "¿Qué implica el derecho de trámite aduanero en el pago de IVA?",
-    "¿La Federación paga IVA por las importaciones que realiza?"
+    "¿El gobierno tiene que pagar IVA por importar cosas?",
+    "¿Qué pasa con el IVA en importaciones de entidades públicas?",
+    "¿Hay exención de IVA para las importaciones que hace un municipio?",
+    "¿Qué derechos se pagan en el trámite aduanero?",
+    "¿Las instituciones de seguridad social pagan IVA por importaciones?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f5eb2d55482a992",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operación de maquila",
   "temas": [
-    "Ley del ISR",
-    "Proceso de transformación",
-    "Importación temporal",
-    "Retorno al extranjero",
-    "Merchancías",
-    "Criterios normativos"
+    "transformación de mercancías",
+    "importación temporal",
+    "procesos de fabricación",
+    "dilución y limpieza",
+    "etiquetado y clasificación"
   ],
   "terminos_coloquiales": [
-    "Maquila",
-    "Transformación de mercancías",
-    "ISR",
-    "Criterio 48"
+    "maquila",
+    "transformación",
+    "importación temporal",
+    "procesos de maquila"
   ],
-  "resumen": "La Ley del ISR establece que la operación de maquila incluye la transformación de mercancías que son importadas temporalmente y retornadas al extranjero. Los procesos de transformación incluyen dilución, lavado, ajuste, empacado, y otros procedimientos que alteran o modifican los insumos.",
+  "resumen": "El criterio establece que se considera operación de maquila a la transformación de mercancías que son importadas temporalmente y posteriormente retornadas al extranjero. Incluye diversos procesos de modificación y acondicionamiento de los insumos.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un proceso de transformación en la maquila?",
-    "¿Cuáles son las condiciones para que una operación de maquila cumpla con la Ley del ISR?",
-    "¿Qué procesos están incluidos en el concepto de transformación según la Ley del ISR?",
-    "¿Cómo se define la importación temporal de mercancías en el contexto de la maquila?",
-    "¿Qué ocurre con las mercancías que son transformadas en el proceso de maquila?"
+    "¿Qué se considera una operación de maquila?",
+    "¿Cuáles son los procesos de transformación permitidos en la maquila?",
+    "¿Qué mercancías pueden ser importadas temporalmente para maquila?",
+    "¿Cómo se aplica la Ley del ISR a las operaciones de maquila?"
   ]
 }

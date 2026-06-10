@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:417d44dd1654e412",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de colmenas polinizadoras",
   "temas": [
-    "IVA",
-    "tasa del 0%",
+    "Ley del IVA",
+    "tasa cero",
     "colmenas",
+    "abejas",
     "enajenación",
-    "animales y vegetales"
+    "impuesto",
+    "productos agrícolas"
   ],
   "terminos_coloquiales": [
-    "venta de colmenas",
-    "colmenas con abejas",
-    "IVA en colmenas",
-    "tasa Cero IVA"
+    "vender colmenas",
+    "colmenas de abejas",
+    "tasa del 0%",
+    "animales no industrializados"
   ],
-  "resumen": "La enajenación de colmenas polinizadoras se grava a la tasa del 0% de IVA, siempre que incluya el conjunto de abejas y no solo los compartimentos para la miel. Solo la parte correspondiente a la cámara de cría es gravada con dicha tasa.",
+  "resumen": "La enajenación de colmenas polinizadoras está gravada a la tasa del 0% bajo la Ley del IVA. Sin embargo, solo la parte de la colmena con las abejas está exenta, mientras que otros compartimentos y marcos usados para la explotación de miel están sujetos a la tasa general.",
   "preguntas_ejemplo": [
-    "¿Qué tasa de IVA se aplica a la venta de colmenas polinizadoras?",
-    "¿La venta de colmenas con abejas está gravada?",
-    "¿Qué partes de una colmena están sujetas al IVA del 0%?",
-    "¿Cuál es la diferencia entre la cámara de cría y la cámara de almacenamiento en colmenas?",
-    "¿Qué pasa con los costos de marcos y bastidores al vender colmenas?"
+    "¿Qué tasa se aplica a la venta de colmenas polinizadoras?",
+    "¿Los compartimentos adicionales de una colmena están gravados?",
+    "¿Qué se considera enajenación de colmenas bajo la Ley del IVA?",
+    "¿Las colmenas de abejas tienen tasa cero de IVA?",
+    "¿Qué partes de la colmena están gravadas a tasa general?"
   ]
 }

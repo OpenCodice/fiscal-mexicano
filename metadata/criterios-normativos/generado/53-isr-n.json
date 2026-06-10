@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ead34f5127936298",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Momento de percepción de dividendos",
+  "denominacion_comun": "Dividendo o utilidad percibido",
   "temas": [
-    "dividendos",
-    "utilidades",
-    "impuesto adicional",
-    "retención de impuestos"
+    "Dividendos",
+    "Utilidades",
+    "Impuesto adicional",
+    "Acumulación de ingresos",
+    "Retenciones",
+    "Acciones",
+    "Aumento de capital",
+    "Reducción de capital"
   ],
   "terminos_coloquiales": [
-    "cuando se considera recibido un dividendo",
-    "percepción de utilidades",
+    "dividendos",
+    "utilidades",
     "impuesto del 10%",
-    "ISR sobre dividendos"
+    "retención de impuesto",
+    "acciones",
+    "ingresos por dividendos"
   ],
-  "resumen": "Establece que los dividendos o utilidades se consideran percibidos cuando se paga el reembolso por reducción de capital o liquidación de la persona moral. Este ingreso debe acumularse en el año correspondiente y se aplica un impuesto adicional del 10% en esta situación.",
+  "resumen": "El artículo establece que los dividendos o utilidades se consideran percibidos cuando se paga el reembolso por reducción de capital o liquidación de la persona moral. El impuesto adicional del 10% no se causa al momento de la distribución, sino cuando se considera que se han percibido. Las acciones recibidas no tendrán costo comprobado de adquisición.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que recibí un dividendo?",
-    "¿Qué impuesto se aplica a las utilidades distribuidas?",
-    "¿Cómo se acumulan los ingresos por dividendos?",
-    "¿Qué pasa si la persona moral desaparece después de distribuir dividendos?",
-    "¿Hay retención de impuestos en la distribución de utilidades?",
-    "¿Cuál es el porcentaje de impuesto sobre los dividendos?"
+    "¿Cuándo se considera que he percibido mis dividendos?",
+    "¿Qué impuestos debo pagar al recibir utilidades de mi empresa?",
+    "¿Cómo se determina el ingreso por dividendos según la ley?",
+    "¿Qué pasa con las acciones que recibo como dividendos?",
+    "¿Cuál es el impuesto adicional que se aplica a los dividendos?",
+    "¿Qué debo tener en cuenta al aumentar mi capital social?"
   ]
 }

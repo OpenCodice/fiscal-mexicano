@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:21dc790826a6a87f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Imposición de multas por omisión",
+  "denominacion_comun": "Imposición de multas",
   "temas": [
     "multas fiscales",
     "infracciones",
     "contribuciones",
     "declaraciones",
-    "obligaciones formales"
+    "obligaciones formales",
+    "documentación aduanera"
   ],
   "terminos_coloquiales": [
-    "multas fiscales",
-    "infracción de contribuciones",
-    "omisión de declaraciones",
-    "CFF",
-    "artículo 75"
+    "multas",
+    "infracciones fiscales",
+    "declaraciones no presentadas",
+    "omisiones",
+    "SAT"
   ],
-  "resumen": "La normativa establece cómo se imponen las multas por omisión en el pago de contribuciones y la presentación de declaraciones. Solo se aplicará la multa mayor cuando existen múltiples infracciones relacionadas con las mismas obligaciones, y se aplicará una multa por cada contribución no declarada u obligación no cumplida.",
+  "resumen": "El criterio establece que cuando se incumplen diferentes disposiciones fiscales que implican varias multas, solo se aplicará la multa mayor. Si hay omisiones en el pago de contribuciones, esto se considera como múltiples infracciones y se aplicará una multa por cada obligación incumplida.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mis declaraciones fiscales a tiempo?",
-    "¿Cuántas multas me pueden poner por omitir el pago de varias contribuciones?",
-    "¿Se aplica una sola multa si me retraso en varias declaraciones?",
-    "¿Cómo se determina la multa si infrinjo varias disposiciones fiscales?",
-    "¿Es posible que me multen por no presentar un solo formato?",
-    "¿Qué debo hacer si no he podido pagar mis contribuciones a tiempo?"
+    "¿Qué pasa si debo presentar varias declaraciones y solo presento una?",
+    "¿Cómo se calcula la multa si no pago varias contribuciones?",
+    "Si incumplo con una obligación formal, ¿se me puede multar por cada contribución?",
+    "¿Qué sucede si no presento la documentación aduanera a tiempo?",
+    "¿Se aplican multas diferentes por declarar varias contribuciones de forma incorrecta?",
+    "¿Cuál es la multa aplicable si omito el pago de impuestos?"
   ]
 }

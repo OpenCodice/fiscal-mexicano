@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:80a7a0ffeb03389f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención IVA comisiones créditos hipotecarios",
+  "denominacion_comun": "Exención del IVA en créditos hipotecarios",
   "temas": [
-    "exención IVA",
-    "comisiones",
+    "exención del IVA",
     "créditos hipotecarios",
-    "adquisición de bienes inmuebles",
-    "casa habitación"
+    "comisiones",
+    "contraprestaciones",
+    "casa habitación",
+    "autorización de créditos",
+    "bien inmueble"
   ],
   "terminos_coloquiales": [
-    "exención IVA",
-    "comisiones por créditos hipotecarios",
-    "IVA en créditos",
-    "comisiones exentas"
+    "no pago IVA en comisiones de hipoteca",
+    "exención IVA hipoteca",
+    "comisiones por crédito hipotecario",
+    "créditos para vivienda",
+    "comisiones por hipotecas"
   ],
-  "resumen": "La Ley del IVA establece que no se pagará impuesto por las comisiones relacionadas con créditos hipotecarios destinados a vivienda, siempre y cuando estas se originen hasta la autorización del crédito. Sin embargo, las comisiones que se generen después de esta autorización no están exentas.",
+  "resumen": "La Ley del IVA establece que no se pagará dicho impuesto por las comisiones relacionadas con el otorgamiento de créditos hipotecarios para adquisición o mejora de viviendas, siempre que se originen hasta la autorización del crédito. Esto incluye aportar el costo de estas comisiones aunque se paguen después de dicha autorización.",
   "preguntas_ejemplo": [
-    "¿Tengo que pagar IVA por las comisiones de mi crédito hipotecario?",
-    "¿Qué comisiones están exentas de IVA en los créditos hipotecarios?",
-    "¿Cuándo se aplica la exención de IVA en créditos hipotecarios?",
-    "¿Qué dice la Ley del IVA sobre las comisiones en hipotecas?",
-    "¿Cuál es el criterio sobre el IVA en créditos de vivienda?"
+    "¿Qué comisiones no pagan IVA en créditos hipotecarios?",
+    "¿Cuándo se paga IVA en comisiones por hipoteca?",
+    "¿Qué dice la Ley del IVA sobre créditos para vivienda?",
+    "¿Cuáles son las condiciones para la exención de IVA en hipotecas?",
+    "¿Qué contraprestaciones están exentas de IVA en créditos hipotecarios?"
   ]
 }

@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:da78c04f1e6c9df6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Alimentos preparados",
+  "denominacion_comun": "Alimentos preparados en lugar de venta",
   "temas": [
     "IVA",
-    "Alimentos",
-    "Consumo",
-    "Enajenación",
-    "Cocción",
-    "Utensilios",
-    "Proceso de elaboración"
+    "alimentos preparados",
+    "consumo en el lugar",
+    "enajenación"
   ],
   "terminos_coloquiales": [
-    "Comida lista para llevar",
-    "Alimentos consumibles",
-    "IVA de alimentos preparados"
+    "alimentos listos para comer",
+    "comida para llevar",
+    "alimentos en el establecimiento",
+    "IVA alimentos"
   ],
-  "resumen": "La Ley del IVA considera como alimentos preparados aquellos que pueden consumirse en el lugar de venta sin requerir un proceso adicional de elaboración, siempre que se proporcionen los utensilios necesarios para su calentamiento o cocción.",
+  "resumen": "Se consideran alimentos preparados aquellos que se pueden consumir en el lugar de venta sin necesidad de más elaboración, siempre que se dispongan de los utensilios necesarios para calentarlos o cocinarlos.",
   "preguntas_ejemplo": [
-    "¿Qué son los alimentos preparados según la Ley del IVA?",
-    "¿Qué incluye la legislación sobre IVA para alimentos consumibles?",
-    "¿Cuáles son los requisitos para que un alimento sea considerado preparado?",
-    "¿Se aplica IVA a la comida lista para llevar?",
-    "¿Qué utensilios se deben proporcionar para calentar alimentos preparados?"
+    "¿Qué se considera un alimento preparado para consumo en el lugar de venta?",
+    "¿Los alimentos que puedo calentar en el restaurante entran en la categoría de IVA?",
+    "¿Qué tipos de alimentos están sujetos a IVA si se consumen en el establecimiento?",
+    "¿Cómo se clasifica la comida para llevar en términos de IVA?",
+    "¿Qué requisitos deben cumplir los alimentos en el lugar de enajenación para el IVA?"
   ]
 }

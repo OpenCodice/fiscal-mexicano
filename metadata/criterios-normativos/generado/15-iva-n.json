@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:32f0b1be03334f70",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de refacciones para equipo agrícola",
+  "denominacion_comun": "IVA en refacciones agrícolas",
   "temas": [
     "IVA",
     "refacciones",
     "maquinaria agrícola",
-    "tasa del 0%",
-    "tasa del 16%",
     "enajenación",
-    "obligaciones fiscales"
+    "tasa del 16%"
   ],
   "terminos_coloquiales": [
     "IVA en refacciones",
-    "refacciones agrícolas",
-    "maquinaria ganadera",
-    "IVA del 16%",
-    "refacciones para maquinaria"
+    "refacciones para maquinaria",
+    "pago de IVA",
+    "maquinaria agrícola"
   ],
-  "resumen": "El artículo establece que la enajenación de maquinaria y equipo agrícola se grava con una tasa del 0%, pero las refacciones para estos equipos deben pagar IVA a la tasa del 16%.",
+  "resumen": "El IVA se aplica a la enajenación de refacciones para maquinaria y equipo agrícola a una tasa del 16%. Sin embargo, la venta de maquinaria completa puede estar exenta de IVA con una tasa del 0%.",
   "preguntas_ejemplo": [
-    "¿Qué IVA se paga por refacciones de maquinaria agrícola?",
-    "¿Las refacciones para equipo ganadero tienen IVA?",
-    "¿Qué dice la ley sobre la venta de refacciones agrícolas?",
-    "¿Cuál es la tasa de IVA para refacciones de maquinaria?",
-    "¿Existen excepciones para el IVA en refacciones agrícolas?"
+    "¿Cuánto IVA se aplica a las refacciones de maquinaria agrícola?",
+    "¿Se paga IVA al vender maquinaria agrícola completa?",
+    "¿Cuál es la tasa de IVA para refacciones agrícolas?",
+    "¿Qué tipo de productos se consideran refacciones para maquinaria agrícola?",
+    "¿Qué dice la ley sobre el IVA en la enajenación de equipo agrícola?"
   ]
 }

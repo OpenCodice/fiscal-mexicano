@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c374bfeff9e42a3a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Base del IVA por emisión de vales",
+  "denominacion_comun": "Base del IVA en vales y monederos electrónicos",
   "temas": [
     "IVA",
-    "servicios",
-    "comisión",
+    "prestación de servicios",
     "vales",
     "monederos electrónicos",
-    "base del impuesto",
-    "contraprestación"
+    "contraprestación",
+    "comisión",
+    "exclusiones"
   ],
   "terminos_coloquiales": [
-    "IVA por vales",
-    "comisiones de vales",
-    "base IVA vales",
-    "IVA en monederos electrónicos"
+    "IVA en vales",
+    "IVA en monederos",
+    "comisión por vales",
+    "comisión por monederos"
   ],
-  "resumen": "Para calcular el IVA en la prestación de servicios de emisión de vales y monederos electrónicos, se considera como base el total de la contraprestación pactada, que es la comisión por el servicio, excluyendo el valor nominal de los vales y monederos electrónicos.",
+  "resumen": "El criterio establece que la base del IVA para el servicio de emisión de vales y monederos electrónicos será el monto de la contraprestación conocida como comisión, sin incluir el valor nominal de dichos vales y monederos. Esto significa que solo se considerará el total acordado por el servicio prestado.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA en la emisión de vales?",
-    "¿Qué se incluye en la base del IVA por servicios de vales?",
-    "¿Cuál es la diferencia entre el valor nominal de los vales y la base del IVA?",
-    "¿Qué pasa con la comisión por la emisión de monederos electrónicos y el IVA?",
-    "¿Cómo debo reportar el IVA por vales en mi declaración?"
+    "¿Cómo se calcula el IVA en servicios de emisión de vales?",
+    "¿Qué se incluye en la base del IVA para monederos electrónicos?",
+    "¿La comisión por vales se considera base para el IVA?",
+    "¿Qué parte del servicio de vales no se incluye en la base del IVA?",
+    "¿Cómo se determina el valor de la contraprestación para el IVA en monederos?"
   ]
 }

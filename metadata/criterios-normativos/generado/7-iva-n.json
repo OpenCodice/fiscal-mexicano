@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f6872e53d397dac8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de pieles frescas",
   "temas": [
-    "Ley del IVA",
-    "Enajenación",
-    "Pieles frescas",
-    "Impuesto",
-    "Animales",
-    "Vegetales",
-    "Tasa del 0%"
+    "IVA",
+    "enajenación",
+    "animales",
+    "vegetales",
+    "pieles frescas",
+    "tasa del 0%",
+    "industrialización"
   ],
   "terminos_coloquiales": [
-    "IVA pieles",
     "venta de pieles",
-    "impuesto sobre pieles frescas"
+    "pieles de animales",
+    "IVA sobre pieles",
+    "tasa cero por enajenación",
+    "animales no industrializados"
   ],
-  "resumen": "La Ley del IVA establece que la enajenación de pieles frescas o conservadas de animales que no estén industrializadas se grava a una tasa del 0%. Esto incluye pieles que no estén precurtidas, curtidas o preparadas de otra manera.",
+  "resumen": "La Ley del IVA aplica una tasa del 0% al enajenarse pieles frescas de animales que no estén industrializados, con algunas excepciones. Las pieles se consideran no industrializadas si no están preparadas de ninguna forma específica.",
   "preguntas_ejemplo": [
-    "¿Qué impuesto se aplica a la venta de pieles frescas?",
-    "¿Las pieles se consideran industrializadas?",
-    "¿En qué casos se aplica una tasa del 0% en el IVA?",
-    "¿Cuáles son las características de las pieles que no están sujetas a IVA?",
-    "¿Qué dice la ley sobre la enajenación de pieles de animales?"
+    "¿Qué tasa se aplica a la venta de pieles frescas?",
+    "¿Las pieles de animales están sujetas al IVA?",
+    "¿Qué se considera piel no industrializada?",
+    "¿Puedo vender pieles de mascotas sin pagar IVA?",
+    "¿Cuáles son las excepciones en la enajenación de pieles?"
   ]
 }

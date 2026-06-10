@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1d15daf21efaba01",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses y deducción de ISR",
+  "denominacion_comun": "Intereses y pago de ISR a cargo de terceros",
   "temas": [
-    "Deducción de ISR",
+    "Deducciones",
+    "ISR",
     "Intereses",
-    "Retención de ISR",
-    "Pagos a cargo de terceros",
-    "Ingresos por intereses",
-    "Contribuyentes extranjeros"
+    "Residentes en el extranjero",
+    "Retenciones",
+    "Ingresos"
   ],
   "terminos_coloquiales": [
-    "Intereses no deducibles",
-    "Pago de ISR a cargo de terceros",
-    "Retención de ISR",
-    "ISR sobre intereses",
-    "Ley del ISR"
+    "no deducir pagos de ISR",
+    "intereses no deducibles",
+    "pago de impuestos",
+    "retenciones de ISR",
+    "impuesto a cargo de terceros",
+    "ISR"
   ],
-  "resumen": "Las cantidades adicionales que se pagan para asegurar que el ingreso neto recibido por un residente en el extranjero sea igual al monto total antes de la retención se consideran ingresos por intereses y no deducibles como pago de ISR a cargo de terceros. Estos ingresos deben tratarse como tales para calcular la retención correspondiente.",
+  "resumen": "Las cantidades pagadas por concepto de ISR a cargo de terceros no son deducibles. Si se paga un impuesto para asegurar que el monto neto recibido sea igual al que habría recibido sin retención, estas cantidades adicionales se consideran intereses y no se consideran pago del ISR a cargo de terceros.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir los intereses pagados a un residente en el extranjero?",
-    "¿Cómo se calculan los intereses para la retención de ISR?",
-    "¿Qué pagos a terceros son deducibles según la Ley del ISR?",
-    "¿Los intereses pueden considerarse como pago de ISR a cargo de terceros?",
-    "¿Cómo afecta la retención de ISR a los ingresos de un residente extranjero?"
+    "¿Se pueden deducir los pagos de ISR que realice un tercero?",
+    "¿Qué ocurre con los intereses pagados en relación al ISR?",
+    "¿Los pagos realizados para cubrir el ISR cuentan como deducibles?",
+    "¿Cómo se clasifican las cantidades pagadas por un tercero por concepto de ISR?",
+    "¿Qué efectos tienen las retenciones de ISR sobre los ingresos por intereses?"
   ]
 }

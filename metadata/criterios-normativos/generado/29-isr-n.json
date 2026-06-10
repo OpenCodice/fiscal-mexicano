@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fe0540aa79f8d8c9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exención del ISR para sociedades cooperativas",
+  "denominacion_comun": "Sociedades cooperativas de consumo y el ISR",
   "temas": [
     "sociedades cooperativas",
     "ISR",
-    "exención fiscal",
-    "personas morales",
+    "ingresos",
     "enajenación de bienes",
-    "fin de lucro"
+    "personas morales no lucrativas"
   ],
   "terminos_coloquiales": [
-    "sociedades cooperativas de consumo",
-    "exención de ISR",
-    "ISR cooperativas"
+    "cooperativas de consumo",
+    "cooperativas",
+    "ISR para cooperativas"
   ],
-  "resumen": "Las sociedades cooperativas de consumo no están obligadas a pagar el ISR por los ingresos que obtienen al enajenar bienes a sus miembros. Esto se debe a que su finalidad es social y sin ánimo de lucro.",
+  "resumen": "Las sociedades cooperativas de consumo no están obligadas a pagar el ISR sobre los ingresos que obtienen por enajenar bienes distintos de su activo fijo a sus miembros, ya que su finalidad es social y no lucrativa.",
   "preguntas_ejemplo": [
-    "¿Las sociedades cooperativas de consumo tienen que pagar ISR?",
-    "¿Qué ingresos están exentos del ISR para cooperativas?",
-    "¿Qué pasa si una cooperativa vende bienes a sus miembros?",
-    "¿Las cooperativas están obligadas a pagar impuestos?",
-    "¿Cuáles son las condiciones para que una cooperativa no pague ISR?"
+    "¿Las cooperativas de consumo pagan ISR?",
+    "¿Qué impuestos deben pagar las sociedades cooperativas?",
+    "¿Las cooperativas están exentas del ISR por venta de bienes?",
+    "¿Qué ingresos no causan ISR en cooperativas de consumo?"
   ]
 }

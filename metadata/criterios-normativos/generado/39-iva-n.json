@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:df8f6e7d82f366ac",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Rollos de película o acolchados plásticos",
   "temas": [
-    "Ley del IVA",
-    "Herbicidas",
+    "Impuesto al Valor Agregado",
     "Plaguicidas",
-    "Tasa del 0%",
-    "Enajenación",
-    "Uso agrícola"
+    "Herbicidas",
+    "Exenciones fiscales",
+    "Regulaciones agrícolas"
   ],
   "terminos_coloquiales": [
     "rollos plásticos",
-    "acolchados plásticos",
     "plásticos para cultivo",
-    "IVA en plaguicidas"
+    "herbicidas",
+    "plaguicidas",
+    "IVA"
   ],
-  "resumen": "Los rollos de película o acolchados plásticos utilizados en la agricultura no se consideran plaguicidas ni herbicidas según la Ley del IVA. Por lo tanto, su venta se encuentra sujeta a la tasa general del IVA.",
+  "resumen": "Los rollos de película o acolchados plásticos no son considerados plaguicidas ni herbicidas y, por lo tanto, la venta de estos productos para uso agrícola está sujeta a la tasa general del IVA.",
   "preguntas_ejemplo": [
-    "¿Los rollos de película plástica están gravados con IVA?",
-    "¿Cuál es la diferencia entre un herbicida y un acolchado plástico?",
-    "¿Los plaguicidas incluyen a los rollos de acolchado?",
-    "¿Qué tasa de IVA se aplica a los rollos de plástico para cultivo?",
-    "¿Los acolchados plásticos se consideran insumos agrícolas?"
+    "¿Se le aplica IVA a los rollos de plástico para cultivo?",
+    "¿Qué productos están exentos del IVA en la agricultura?",
+    "¿Los rollos acolchados se consideran herbicidas?",
+    "¿Qué define a un plaguicida según la ley?",
+    "¿Cuál es la tasa de IVA para rollos plásticos usados en agricultura?"
   ]
 }

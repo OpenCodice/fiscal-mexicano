@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dbfa0006eb704e5f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de bienes de activo fijo en actividades petroleras",
   "temas": [
     "ISR",
-    "ganancias por enajenación",
-    "deducción de pérdidas",
-    "contratos de hidrocarburos"
+    "activos fijos",
+    "enajenación",
+    "ganancias",
+    "pérdidas",
+    "contratos petroleros",
+    "derechos fiscales",
+    "deducción"
   ],
   "terminos_coloquiales": [
-    "enajenación de activos fijos",
-    "ganancias por venta de activos",
-    "deducción de pérdidas fiscales",
-    "LISH"
+    "vender materiales petroleros",
+    "ganancia por venta de activos",
+    "perdidas por enajenación",
+    "contratos de producción compartida",
+    "ISR",
+    "FMP"
   ],
-  "resumen": "Los contratistas de actividades petroleras deben acumular como ingreso las ganancias por la venta de activos fijos, y pueden deducir pérdidas si cumplen con ciertos requisitos. Además, los ingresos derivados de dicha enajenación pueden ser entregados al Estado Mexicano.",
+  "resumen": "Los contratistas que venden activos fijos generados en actividades petroleras deben acumular las ganancias de la venta como ingreso, y pueden deducir las pérdidas si corresponde. Además, ciertos montos de venta deben ser entregados al Estado Mexicano o pueden ser descontados de las contraprestaciones del contratista.",
   "preguntas_ejemplo": [
-    "¿Cómo se gravan las ganancias por la venta de activos fijos en el sector petrolero?",
-    "¿Qué debo hacer si enajeno un activo fijo en actividades petroleras?",
-    "¿Puedo deducir las pérdidas por la enajenación de bienes petroleros?",
-    "¿Qué impuestos debo considerar al vender activos de hidrocarburos?",
-    "¿Cómo afecta la enajenación de activos fijos mi declaración de ISR?"
+    "¿Cómo se grava la venta de activos fijos en actividades petroleras?",
+    "¿Qué debo hacer si vendo materiales generados en contratos de petróleo?",
+    "¿Puedo deducir pérdidas de la venta de activos fijos petroleros?",
+    "¿Qué es el FMP y cómo afecta la enajenación de activos?",
+    "¿Qué implica acumular ingresos por la venta de activos en el ISR?"
   ]
 }

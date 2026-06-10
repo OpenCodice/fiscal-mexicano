@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f0df9f4a32a2833",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dádivas a servidores públicos",
   "temas": [
-    "deducción de gastos",
-    "dádivas",
-    "atenciones",
-    "servidores públicos",
+    "deducción fiscal",
+    "gastos no deducibles",
     "cohecho",
-    "ilícitos fiscales"
+    "erogaciones",
+    "derecho fiscal"
   ],
   "terminos_coloquiales": [
+    "regalos a funcionarios",
+    "obsequios a servidores públicos",
+    "atenciones a servidores públicos",
     "dádivas",
-    "obsequios a funcionarios",
-    "regalos a servidores públicos",
-    "gastos deducibles",
-    "ISR",
-    "Ley del ISR"
+    "gastos indebidos",
+    "ISR"
   ],
-  "resumen": "Las dádivas, obsequios o atenciones a servidores públicos no son deducibles para el ISR, ya que se consideran erogaciones que contravienen leyes de orden público. Esto aplica incluso si estas erogaciones se realizan en el extranjero.",
+  "resumen": "Las erogaciones que consisten en dar dinero, bienes o servicios a servidores públicos no son deducibles para efectos del ISR, ya que se consideran contrarias a las leyes de orden público. Esto incluye cualquier tipo de dádiva, incluso en el extranjero.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir obsequios que le doy a un funcionario?",
-    "¿Las dádivas a servidores públicos son deducibles en mi declaración de ISR?",
-    "¿Qué gastos relacionados con servidores públicos no puedo deducir?",
-    "¿Qué dice la Ley del ISR sobre regalos a funcionarios públicos?",
-    "¿Por qué no se permiten las deducciones por dádivas en el ISR?"
+    "¿Puedo deducir los regalos que le hice a un servidor público?",
+    "¿Son deducibles los gastos en atenciones para funcionarios?",
+    "¿Qué son las dádivas y por qué no se pueden deducir?",
+    "¿Qué pasa si le doy un obsequio a un servidor público extranjero?",
+    "¿Cuáles son las erogaciones no deducibles según la Ley del ISR?"
   ]
 }

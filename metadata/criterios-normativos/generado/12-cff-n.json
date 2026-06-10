@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4bbb29afa9951e1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión del plazo de caducidad",
+  "denominacion_comun": "Suspensión de caducidad",
   "temas": [
-    "plazo de caducidad",
+    "caducidad",
     "facultades de comprobación",
     "medios de defensa",
-    "interposición de recurso",
-    "juicio fiscal"
+    "autoridades fiscales",
+    "plazo de suspensión",
+    "recurso",
+    "juicio"
   ],
   "terminos_coloquiales": [
-    "suspensión de caducidad",
-    "facultades de comprobación",
-    "CFF",
-    "artículo 67"
+    "suspensión del plazo",
+    "plazo de caducidad",
+    "defensas fiscales"
   ],
-  "resumen": "El plazo de caducidad de las facultades de comprobación se suspende si se presenta un medio de defensa. Esto significa que el tiempo en que se interpone un recurso no cuenta para el plazo de cinco años establecido por la ley.",
+  "resumen": "Este criterio establece que el plazo para que operen las facultades de comprobación de las autoridades fiscales se suspende cuando se presenta un medio de defensa, sin importar la resolución que se emita. La autoridad fiscal debe verificar que las facultades no hayan caducado al ejercerse nuevamente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con el plazo de caducidad si interpongo un recurso?",
-    "¿Se detiene la caducidad al presentar medios de defensa?",
-    "¿Qué dice el artículo 67 del CFF sobre la suspensión del plazo?",
+    "¿Qué pasa con el plazo de caducidad si interpongo un juicio?",
+    "¿Se suspende el plazo de comprobación si hago una defensa?",
     "¿Cuánto tiempo se suspende el plazo de caducidad?",
-    "¿Qué debo hacer si la autoridad fiscal vuelve a comprobar mis facultades?"
+    "¿Las facultades de comprobación se extinguen con la defensa?",
+    "¿Qué medios de defensa pueden suspender el plazo?"
   ]
 }

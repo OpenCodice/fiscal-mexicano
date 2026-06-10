@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5a5a0b3f57824946",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operaciones con partes relacionadas",
   "temas": [
-    "Personas morales",
-    "Ingreso acumulable",
-    "Deducciones autorizadas",
-    "Métodos de precios",
-    "Operaciones comparables"
+    "personas morales",
+    "ingresos acumulables",
+    "deducciones autorizadas",
+    "precios de transferencia",
+    "operaciones comparables",
+    "residencia fiscal",
+    "métodos de valuación"
   ],
   "terminos_coloquiales": [
-    "Partes relacionadas",
-    "ISR",
-    "Precios de transferencia"
+    "precio de transferencia",
+    "deducciones",
+    "ingresos",
+    "requisitos fiscales",
+    "partes relacionadas"
   ],
-  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben determinar sus ingresos y deducciones usando precios y montos de operaciones comparables. También deben aplicar ciertos métodos establecidos en la ley, sin importar la residencia fiscal de las partes involucradas.",
+  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben determinar sus ingresos y deducciones en base a precios de mercado. También deben aplicar métodos específicos para calcular estas cifras, sin importar si las partes están en México o en el extranjero.",
   "preguntas_ejemplo": [
-    "¿Qué son las operaciones con partes relacionadas?",
-    "¿Cómo se determinan los ingresos acumulables para partes relacionadas?",
-    "¿Qué métodos se aplican para precios de transferencia?",
-    "¿Las personas morales extranjeras tienen las mismas obligaciones?",
-    "¿Qué deducciones se pueden considerar en estas operaciones?"
+    "¿Qué debo considerar al realizar operaciones con partes relacionadas?",
+    "¿Cómo determino mis ingresos acumulables en estas operaciones?",
+    "¿Qué métodos debo aplicar para calcular mis deducciones?",
+    "¿Las reglas son diferentes si mis partes relacionadas están en otro país?",
+    "¿Qué son los precios de transferencia y cómo me afectan?",
+    "¿Cuáles son mis obligaciones fiscales si tengo partes relacionadas?"
   ]
 }

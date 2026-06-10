@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ecd7db9ef606d98",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devoluciones indebidas",
   "temas": [
-    "CFF",
-    "contribuciones",
-    "devoluciones",
-    "saldos a favor",
     "créditos fiscales",
+    "saldos a favor",
+    "devoluciones",
     "obligaciones tributarias",
-    "recargos"
+    "recargos",
+    "intereses",
+    "erogaciones indebidas"
   ],
   "terminos_coloquiales": [
     "devoluciones fiscales",
-    "saldos indebidos",
-    "CFF",
-    "devoluciones de impuestos"
+    "dinero mal devuelto",
+    "saldo a favor",
+    "CFF"
   ],
-  "resumen": "Las autoridades fiscales deben devolver las cantidades pagadas indebidamente, pero si esta devolución no procede, se generarán recargos sobre esas cantidades. Las devoluciones improcedentes se consideran erogaciones indebidas relacionadas con las contribuciones de los particulares.",
+  "resumen": "La disposición establece que las autoridades fiscales deberán devolver las cantidades pagadas indebidamente, pero si se realiza una devolución que no procede, se generarán recargos e intereses. Las devoluciones improcedentes se consideran erogaciones indebidas relacionadas con las obligaciones tributarias.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si me devuelven un saldo a favor que no era correcto?",
-    "¿Qué son las devoluciones indebidas en el CFF?",
-    "¿Se generan intereses si la devolución del impuesto no es procedente?",
-    "¿Cómo afectan las devoluciones indebidas a mis obligaciones fiscales?",
-    "¿Qué debo hacer si me hicieron una devolución indebida?"
+    "¿Se puede recuperar un saldo a favor que fue devuelto indebidamente?",
+    "¿Qué pasa si me regresan dinero que no debieron devolver?",
+    "¿Qué recargos tengo que pagar si devuelven algo que no debía?",
+    "¿Cuáles son las obligaciones fiscales relacionadas con las devoluciones?",
+    "¿Cómo se consideran las devoluciones de saldos a favor improcedentes?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c6a9643d5cd38d93",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Distribución de dividendos",
@@ -14,7 +15,6 @@
     "dividendos",
     "personas físicas",
     "personas morales",
-    "acreditamiento de ISR",
     "actividades agrícolas",
     "actividades ganaderas",
     "actividades pesqueras",
@@ -23,15 +23,19 @@
   "terminos_coloquiales": [
     "dividendos",
     "utilidades",
-    "ISR sobre dividendos",
-    "impuesto sobre la renta"
+    "deducción de ISR",
+    "ISR pagado",
+    "sociedades agrícolas",
+    "sociedades ganaderas",
+    "sociedades pesqueras",
+    "sociedades silvícolas"
   ],
-  "resumen": "Este criterio establece que las personas físicas deben acumular los dividendos recibidos de personas morales que se dediquen a actividades específicas y pueden acreditar el ISR pagado por la sociedad en su declaración anual. No hay excepciones para el cálculo del impuesto en estos casos.",
+  "resumen": "Las personas físicas deben acumular los dividendos recibidos de sociedades dedicadas a actividades específicas y pueden acreditar el ISR pagado por estas sociedades en su declaración anual. Esto aplica sin excepciones, incluso si la sociedad aplicó un factor reducido para calcular su ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo se acredita el ISR pagado por dividendos?",
-    "¿Qué impuestos debo considerar al recibir dividendos de una empresa agrícola?",
-    "¿Las personas morales aplican alguna excepción al distribuir dividendos?",
-    "¿Qué actividades se consideran para el cálculo del ISR sobre dividendos?",
-    "¿Cómo se determina el impuesto en la declaración de un contribuyente que recibe utilidades?"
+    "¿Cómo se calculan los dividendos en mi declaración de impuestos?",
+    "¿Puedo acreditar el ISR que pagó la sociedad que me dio dividendos?",
+    "¿Qué pasa si recibo dividendos de una empresa agrícola?",
+    "¿Los dividendos cuentan como ingresos acumulables?",
+    "¿Qué impuestos debo considerar al recibir utilidades de una sociedad?"
   ]
 }

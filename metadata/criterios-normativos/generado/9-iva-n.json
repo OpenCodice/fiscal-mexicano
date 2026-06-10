@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:551e8b6d6514c42a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Medicamentos en servicios hospitalarios",
+  "denominacion_comun": "Suministro de medicamentos en hospitales",
   "temas": [
     "IVA",
-    "medicamentos",
+    "medicinas de patente",
     "hospitalización",
     "servicios de salud",
-    "tasa cero",
-    "tasa general",
-    "enajenación",
-    "contraprestación"
+    "tasa del IVA",
+    "contraprestación",
+    "enajenación de bienes"
   ],
   "terminos_coloquiales": [
-    "IVA en medicamentos",
-    "medicinas hospitalarias",
-    "servicios médicos",
-    "medicamentos de patente",
-    "CFF"
+    "medicinas en hospitales",
+    "hospitalización",
+    "cobro de IVA en medicamentos",
+    "IVA en servicios de salud"
   ],
-  "resumen": "Esta disposición establece que los medicamentos de patente proporcionados durante la hospitalización se consideran parte de un servicio y están gravados al 16% de IVA, en lugar de aplicarse la tasa del 0%.",
+  "resumen": "Cuando se proporcionan medicamentos de patente como parte de los servicios en un hospital, se aplicar la tasa del 16% de IVA, ya que esto se considera un servicio y no una venta de medicamentos. Por lo tanto, los medicamentos no están exentos de IVA en este contexto.",
   "preguntas_ejemplo": [
-    "¿Qué IVA se aplica a los medicamentos en un hospital?",
-    "¿Los medicamentos de patente tienen IVA en servicios médicos?",
-    "¿Cómo se gravan los medicamentos en la hospitalización?",
-    "¿Qué dice la ley sobre los medicamentos y el IVA en hospitales?",
-    "¿Qué tasa de IVA se aplica si hay medicamentos en el servicio de salud?"
+    "¿Por qué se cobra IVA en medicamentos en hospitales?",
+    "¿Qué tasa de IVA aplican a los medicamentos suministrados en hospitales?",
+    "¿Los medicamentos que se dan en un hospital tienen IVA?",
+    "¿Cómo se calcula el IVA en servicios de salud que incluyen medicamentos?",
+    "¿Cuándo se aplica la tasa del 0% de IVA a medicinas en hospitales?",
+    "¿Qué dice la Ley del IVA sobre los medicamentos y los servicios hospitalarios?"
   ]
 }

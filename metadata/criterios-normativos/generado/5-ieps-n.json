@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:472b976aa8485445",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Productos lácteos y productos lácteos combinados",
+  "denominacion_comun": "IEPS productos lácteos",
   "temas": [
-    "IEPS",
     "bebidas saborizadas",
     "azúcares",
     "edulcorantes",
     "productos lácteos",
-    "regulación sanitaria",
-    "Normas Oficiales Mexicanas"
+    "impuesto especial",
+    "normas oficiales",
+    "regulación sanitaria"
   ],
   "terminos_coloquiales": [
-    "IEPS productos lácteos",
-    "bebidas saborizadas",
-    "productos lácteos combinados"
+    "impuesto a productos lácteos",
+    "bebidas no alcohólicas",
+    "azúcar en bebidas",
+    "edulcorantes en productos",
+    "IEPS"
   ],
-  "resumen": "Los productos lácteos y combinados que contienen azúcares o edulcorantes disueltos en agua están sujetos al IEPS. Este impuesto se aplica en su enajenación o importación, según lo establecido en la Ley del IEPS.",
+  "resumen": "Los productos lácteos y productos lácteos combinados que contengan azúcares o edulcorantes disueltos en agua están sujetos al impuesto especial sobre producción y servicios (IEPS). Esta disposición aplica si se cumplen ciertas condiciones relacionadas con el proceso de elaboración de estos productos.",
   "preguntas_ejemplo": [
-    "¿Qué productos lácteos están afectados por el IEPS?",
-    "¿Cómo se determina el IEPS para bebidas saborizadas?",
-    "¿Qué especificaciones deben cumplir los productos lácteos?",
-    "¿Qué implica añadir azúcares en la elaboración de productos lácteos?",
-    "¿Qué Normas Oficiales Mexicanas regulan los productos lácteos?"
+    "¿Qué productos lácteos tienen que pagar IEPS?",
+    "¿Cómo se define una bebida saborizada según la ley?",
+    "¿Cuándo se aplican impuestos a los productos lácteos?",
+    "¿Qué son los edulcorantes y cómo afectan el IEPS?",
+    "¿Hay excepciones para el IEPS en productos lácteos?",
+    "¿Qué normativas regulan los productos lácteos en México?"
   ]
 }

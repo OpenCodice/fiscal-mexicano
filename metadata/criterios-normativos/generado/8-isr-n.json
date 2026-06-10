@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1481b28a10b70a4b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "ISR por dividendos o utilidades",
   "temas": [
+    "impuesto sobre la renta",
     "dividendos",
     "utilidades",
     "personas morales",
-    "impuesto",
-    "distribución",
-    "obligaciones fiscales"
+    "cálculo de impuestos"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre dividendos",
-    "impuesto sobre utilidades",
-    "ISR dividendos",
-    "ISR utilidades"
+    "impuesto por dividendos",
+    "distribución de utilidades",
+    "ISR sobre utilidades",
+    "personas morales",
+    "ISR",
+    "dividendos"
   ],
-  "resumen": "Las personas morales que distribuyan dividendos o utilidades deben calcular y pagar el impuesto sobre estos montos, excepto en ciertos casos establecidos en la ley. En situaciones específicas, no están obligadas a calcular este impuesto sobre las utilidades distribuidas.",
+  "resumen": "Las personas morales que distribuyen dividendos o utilidades deben calcular el impuesto correspondiente, excepto en ciertos casos mencionados en la Ley del ISR, donde no tienen esta obligación. Esto aplica a las fracciones específicas del artículo 140 de la ley.",
   "preguntas_ejemplo": [
-    "¿Cuándo deben las personas morales pagar impuesto por dividendos?",
-    "¿Qué reglas rigen el impuesto sobre las utilidades distribuidas?",
-    "¿Existen excepciones para el impuesto por dividendos?",
-    "¿Cómo se determina si se debe calcular el ISR sobre utilidades?",
-    "¿Qué dice la Ley del ISR sobre la distribución de dividendos?"
+    "¿Cuándo deben las personas morales pagar impuestos por dividendos?",
+    "¿Qué montos se consideran dividendos para el cálculo del ISR?",
+    "¿Qué excepciones existen para no pagar ISR sobre utilidades?",
+    "¿Cómo se determina el impuesto sobre dividendos conforme a la Ley del ISR?",
+    "¿Qué fracciones del artículo 140 liberan a las empresas de pagar impuestos sobre distribuciones?"
   ]
 }

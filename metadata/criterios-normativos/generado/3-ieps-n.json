@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad4805d522cf7c44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "IEPS Gasolinas",
   "temas": [
     "Impuesto Especial sobre Producción y Servicios",
-    "Importación de gasolina",
-    "Enajenación de gasolina",
-    "Definición de gasolina"
+    "Gasolina",
+    "Importación de combustibles",
+    "Enajenación de gasolinas"
   ],
   "terminos_coloquiales": [
-    "IEPS",
-    "Impuesto gasolina",
-    "Gasolinas gravadas"
+    "impuesto a la gasolina",
+    "pago de IEPS",
+    "gasolina",
+    "IEPS"
   ],
-  "resumen": "El IEPS se aplica a todas las personas que enajenen o importen gasolina en México, sin distinción de tipo. La gasolina se define como un combustible líquido obtenido de la refinación del petróleo.",
+  "resumen": "Todos los tipos de gasolina que se importen o enajenen en México deben pagar el IEPS. La ley no hace distinción entre los diferentes tipos de gasolina existentes.",
   "preguntas_ejemplo": [
-    "¿Todos los tipos de gasolina pagan IEPS?",
-    "¿Qué es la gasolina según la Ley del IEPS?",
-    "¿Quiénes deben pagar el IEPS por gasolina?",
-    "¿Qué tipos de gasolinas están gravados por el IEPS?",
-    "¿Cómo se define la gasolina bajo la ley?"
+    "¿Todos los tipos de gasolina tienen que pagar IEPS?",
+    "¿Qué gasolinas están sujetas al IEPS?",
+    "¿Quiénes deben pagar el IEPS por la importación de gasolina?",
+    "¿Cuál es la definición legal de gasolina según el IEPS?",
+    "¿El IEPS se aplica a la gasolina sin plomo?"
   ]
 }

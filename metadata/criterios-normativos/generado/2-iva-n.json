@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:886dea220926f940",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Indemnización por cheque no pagado",
   "temas": [
     "IVA",
-    "cheque",
-    "indemnización",
-    "daños y perjuicios",
-    "base para el cálculo del IVA",
+    "Indemnización",
+    "Cheque",
+    "Resarcimiento",
     "Ley General de Títulos y Operaciones de Crédito"
   ],
   "terminos_coloquiales": [
-    "indemnización por cheque",
-    "cheque no pagado",
-    "IVA cheque",
-    "Ley del IVA"
+    "indemnización",
+    "cheque no cobrado",
+    "pago de cheque",
+    "daños y perjuicios"
   ],
-  "resumen": "Si un cheque librado para pagar un servicio gravado por el IVA no es pagado por causas del librador, la indemnización que recibe el tenedor no se considera para calcular el IVA. Esto se debe a que es una compensación por un incumplimiento, no por una actividad gravada.",
+  "resumen": "Cuando un cheque no es pagado por el librador, la indemnización que recibe el tenedor no está sujeta al pago del IVA. Esto es porque la indemnización proviene de una ley distinta y no del acto que originó el cheque.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mi cheque no es pagado?",
-    "¿La indemnización por un cheque no pagado se incluye en el IVA?",
-    "¿Qué dice la ley sobre cheques no pagados y el IVA?",
-    "¿Cómo se maneja el IVA en caso de indemnización por cheque?",
-    "¿Qué indemnización recibo si mi cheque no es pagado?"
+    "¿Debo pagar IVA por la indemnización de un cheque que no fue pagado?",
+    "¿Qué pasa con el IVA si me indemnizan por un cheque no cobrado?",
+    "¿La indemnización por un cheque no pagado se considera ingreso gravable?",
+    "¿Cuáles son las consecuencias fiscales de un cheque no pagado?",
+    "¿Cómo afecta a mi IVA la indemnización que recibo por un cheque?"
   ]
 }

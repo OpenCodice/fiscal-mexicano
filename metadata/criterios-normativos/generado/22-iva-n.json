@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a38f29d4be330af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de la proporción de acreditamiento del IVA",
+  "denominacion_comun": "Cálculo de acreditamiento del IVA",
   "temas": [
-    "actividades gravadas",
     "actividades exentas",
-    "acreditamiento de IVA",
-    "cálculo proporcional",
+    "acreditamiento del IVA",
+    "proporción de acreditamiento",
+    "Servicios gratuitos",
+    "valor de mercado",
     "contraprestación"
   ],
   "terminos_coloquiales": [
-    "acreditamiento de IVA",
-    "IVA exento",
-    "proporción de acreditamiento",
-    "actividades gravadas y exentas"
+    "como calcular el IVA",
+    "IVA de actividades exentas",
+    "acreditamiento de IVA gratis",
+    "IVA por servicios gratuitos"
   ],
-  "resumen": "Esta disposición establece cómo debe calcularse el acreditamiento del IVA cuando se realizan actividades gravadas y exentas, considerando la proporción de los ingresos obtenidos. Además, aclara que los servicios prestados de forma gratuita no generan IVA, salvo ciertas excepciones.",
+  "resumen": "Este criterio establece cómo calcular el acreditamiento del IVA cuando se realizan actividades gravadas y exentas. Se aclara que las actividades gratuitas no generan IVA, excepto si los beneficiarios son integrantes de la empresa. Para calcular el acreditamiento, se usará el valor de mercado cuando no haya contraprestación.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el acreditamiento de IVA si realizo actividades exentas y gravadas?",
-    "¿Qué sucede con el IVA en servicios prestados gratuitamente?",
-    "¿Cómo se determina el valor de actividades exentas a título gratuito para el cálculo del IVA?",
-    "¿Qué constituye una contraprestación en la Ley del IVA?",
-    "¿Qué debo considerar para el acreditamiento si mis actividades son mixtas?"
+    "¿Cómo se calcula el IVA si hago actividades gratuitas?",
+    "¿Puedo acreditar IVA por servicios a título gratuito?",
+    "¿Qué sucede con el IVA si mi cliente no me paga en efectivo?",
+    "¿Qué se considera valor de mercado para acreditar el IVA?",
+    "¿Cuáles son las actividades exentas del IVA?"
   ]
 }

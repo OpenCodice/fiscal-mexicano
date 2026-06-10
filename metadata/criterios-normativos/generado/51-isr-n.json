@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b18ca87ec965069e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actualización en el ISR",
+  "denominacion_comun": "Actualización de ISR",
   "temas": [
-    "Cálculo del ISR",
-    "Ingreso acumulable",
-    "Actualización de valores",
-    "Devoluciones",
-    "Compensación de saldos"
+    "cálculo del ISR",
+    "devoluciones",
+    "compensación de saldos",
+    "ingreso acumulable",
+    "efectos del tiempo",
+    "valores",
+    "contribuyentes"
   ],
   "terminos_coloquiales": [
-    "ISR",
-    "Ingreso no acumulable",
-    "Actualización fiscal"
+    "actualización del ISR",
+    "devolución de impuestos",
+    "cálculo de impuestos",
+    "ingreso no acumulable",
+    "saldo a favor",
+    "ISR"
   ],
-  "resumen": "La actualización del ISR es para reconocer cómo los valores cambian con el tiempo y los precios. Las devoluciones y compensaciones a favor del contribuyente no cuentan como ingreso acumulable para el cálculo del ISR.",
+  "resumen": "La actualización correspondiente a devoluciones y compensaciones de saldos a favor no se considera ingreso acumulable para el cálculo del ISR. Esto implica que no se toma en cuenta para fines fiscales el aumento en valores por el paso del tiempo.",
   "preguntas_ejemplo": [
-    "¿Qué se considera ingreso acumulable en el ISR?",
-    "¿Cómo se hace la actualización en el ISR?",
-    "¿Las devoluciones afectan mis ingresos acumulables?",
-    "¿Qué pasa con los saldos a favor en el ISR?",
-    "¿Cuál es el tratamiento fiscal de la actualización en el ISR?"
+    "¿La actualización de un saldo a favor afecta mi ingreso acumulable?",
+    "¿Cualquier devolución de impuestos se considera ingreso acumulable?",
+    "¿Qué efectos tiene la actualización del ISR en mis declaraciones?",
+    "¿Cómo se calcula la actualización del ISR?",
+    "¿Qué debe considerarse como ingreso acumulable para el ISR?"
   ]
 }

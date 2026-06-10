@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1494b92cfde7ebd0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdida Fiscal",
   "temas": [
-    "determinación de contribuciones",
+    "determinación de pérdidas",
     "créditos fiscales",
     "acreditamientos fiscales",
-    "cálculo de pérdida fiscal",
-    "actualización de pérdida fiscal"
+    "base del impuesto",
+    "resultado fiscal",
+    "utilidad fiscal"
   ],
   "terminos_coloquiales": [
     "pérdida fiscal",
-    "ISR",
-    "impuesto sobre la renta"
+    "crédito fiscal",
+    "acreditamiento",
+    "calcular pérdidas"
   ],
-  "resumen": "La pérdida fiscal se calcula según las disposiciones vigentes cuando se causa el impuesto sobre la renta. Esto incluye el derecho a créditos y acreditamientos fiscales como parte del mecanismo para determinar las contribuciones.",
+  "resumen": "La pérdida fiscal se calcula de acuerdo con las disposiciones vigentes en el momento en que se causa el impuesto sobre la renta (ISR). Se puede disminuir de la utilidad fiscal para determinar el resultado fiscal y su cálculo se realiza conforme a la normativa aplicable en el momento de su causación.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula la pérdida fiscal?",
-    "¿Qué tengo que hacer para disminuir mi pérdida fiscal?",
-    "¿Qué créditos fiscales están relacionados con la pérdida fiscal?",
-    "¿Cuándo se debe actualizar la pérdida fiscal?",
-    "¿Las disposiciones vigentes afectan el cálculo de la pérdida fiscal?"
+    "¿Qué es una pérdida fiscal disminuible?",
+    "¿Cuándo puedo acreditar una pérdida fiscal?",
+    "¿Qué normas rigen la pérdida fiscal?",
+    "¿Cómo afecta la pérdida fiscal a mi impuesto sobre la renta?"
   ]
 }

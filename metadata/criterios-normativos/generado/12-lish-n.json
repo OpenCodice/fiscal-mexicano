@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0af331cedd0e7dd9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reserva de abandono",
+  "denominacion_comun": "Provisión de reserva de abandono",
   "temas": [
-    "Deducciones fiscales",
-    "Obligaciones contractuales",
-    "Provisión",
-    "Reservas financieras",
-    "Ley del ISR"
+    "ISR",
+    "reservas",
+    "deducciones",
+    "obligaciones fiscales",
+    "contratistas",
+    "retiro de activos",
+    "Norma de Información Financiera C-18",
+    "gastos deducibles"
   ],
   "terminos_coloquiales": [
     "reserva de abandono",
-    "no deducible",
-    "LISH",
-    "ISR"
+    "deducción de provisiones",
+    "gastos no deducibles",
+    "ISR",
+    "Norma C-18"
   ],
-  "resumen": "La provisión de reserva de abandono no es deducible según la Ley del ISR. Esta reserva debe ser creada por los contratistas conforme a las normas y lineamientos específicos de la Comisión Nacional de Hidrocarburos.",
+  "resumen": "La provisión de reserva de abandono creada conforme a la Norma de Información Financiera C-18 no es deducible para efectos del ISR. Esto se debe a que las provisiones para reservas complementarias no son deducibles según la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Qué es la reserva de abandono?",
-    "¿Por qué no es deducible la provisión de reserva de abandono?",
-    "¿Qué obligaciones tienen los contratistas respecto a la reserva de abandono?",
-    "¿Qué establece la Ley del ISR sobre las reservas de abandono?",
-    "¿Cómo se registra la provisión de reserva de abandono?"
+    "¿Las reservas de abandono son deducibles del ISR?",
+    "¿Qué pasa con las provisiones para gastos de abandono?",
+    "¿Cómo se manejan las reservas de abandono en la declaración de impuestos?",
+    "¿Qué establece la Norma de Información Financiera C-18 sobre reservas?",
+    "¿Cuáles son las obligaciones fiscales de los contratistas respecto al abandono?"
   ]
 }

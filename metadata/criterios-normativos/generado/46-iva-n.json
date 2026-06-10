@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8da00bb8f67e19ed",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención del 6% al IVA",
+  "denominacion_comun": "Retención del IVA",
   "temas": [
-    "retención de IVA",
-    "personas morales",
+    "IVA",
+    "retención",
     "servicios",
     "subcontratación",
-    "contratantes",
-    "actividad empresarial",
-    "disposiciones fiscales"
+    "personas morales",
+    "personas físicas"
   ],
   "terminos_coloquiales": [
-    "retención de IVA",
-    "IVA de subcontratación",
+    "retención del IVA",
+    "servicios subcontratados",
+    "IVA sobre servicios",
     "contratistas",
-    "Criterio 46/IVA/N"
+    "personal contratado"
   ],
-  "resumen": "El artículo establece que las personas morales y físicas que contratan servicios donde se pone personal a su disposición deben retener el 6% del IVA sobre el pago. Esto aplica independientemente de cómo se denomine la obligación contractual.",
+  "resumen": "La Ley del IVA establece que las personas morales y físicas que reciben ciertos servicios deben retener el 6% del IVA de la contraprestación pagada. Esto aplica cuando el personal de un contratista trabaja bajo la dirección o supervisión del contratante, sin importar el término contractual usado.",
   "preguntas_ejemplo": [
-    "¿Quién debe retener el 6% del IVA?",
-    "¿Qué servicios están sujetos a la retención del IVA?",
-    "¿Cómo se aplica la retención de IVA en subcontratación?",
-    "¿Qué significa poner personal a disposición del contratante?",
-    "¿Cuál es la tasa de retención del IVA para servicios?"
+    "¿Cuándo debo retener el IVA a un servicio que recibo?",
+    "¿Qué porcentaje de IVA debo retener en servicios subcontratados?",
+    "¿Aplica la retención del 6% a todos los servicios que contrato?",
+    "¿Qué pasa si el personal contratado no trabaja bajo mi supervisión?",
+    "¿Quiénes son responsables de retener el IVA en servicios?"
   ]
 }

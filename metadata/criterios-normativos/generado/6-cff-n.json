@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb54daa35cead28b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pesca deportiva",
@@ -14,21 +15,20 @@
     "servicios turísticos",
     "comercio marítimo",
     "navegación",
-    "transporte de personas",
-    "recursos naturales"
+    "pesca recreativa"
   ],
   "terminos_coloquiales": [
     "pesca deportiva",
     "servicios de pesca",
-    "turismo acuático"
+    "turismo acuático",
+    "navegación recreativa"
   ],
-  "resumen": "Los servicios turísticos relacionados con la pesca deportiva son considerados actividades comerciales, ya que las empresas de turismo que facilitan estos servicios están realizando actos de comercio según la ley.",
+  "resumen": "Se consideran como actividad comercial los servicios turísticos relacionados con la pesca deportiva, donde se facilitan elementos para la recreación en el medio acuático. Las empresas de turismo, al proporcionar estos servicios, realizan actos de comercio según la ley.",
   "preguntas_ejemplo": [
-    "¿Qué son los servicios turísticos de pesca deportiva?",
-    "¿La pesca deportiva se considera una actividad comercial?",
-    "¿Qué estipula la ley sobre la pesca y el turismo?",
-    "¿Cómo se regula el comercio marítimo en relación con la pesca?",
-    "¿Qué empresas ofrecen servicios de pesca deportiva?",
-    "¿Es legal cobrar por servicios de pesca deportiva?"
+    "¿Qué se considera pesca deportiva?",
+    "¿Los servicios de pesca son actividades comerciales?",
+    "¿Qué leyes regulan el comercio marítimo relacionado con la pesca?",
+    "¿Cómo classifica la ley los servicios turísticos en pesca?",
+    "¿Qué actividades están permitidas en la navegación recreativa?"
   ]
 }

@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e26eedeb24bfa1a4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenaciones de alcohol",
+  "denominacion_comun": "Enajenación de alcohol",
   "temas": [
     "IEPS",
-    "enajenación de alcohol",
-    "enajenación de alcohol desnaturalizado",
-    "contribuyentes",
     "impuesto",
-    "exenciones"
+    "enajenación",
+    "alcohol",
+    "alcohol desnaturalizado",
+    "comercialización",
+    "tasa impositiva"
   ],
   "terminos_coloquiales": [
-    "impuesto sobre el alcohol",
-    "enajenación de alcohol",
-    "IEPS alcohol"
+    "venta de alcohol",
+    "impuesto especial sobre producción y servicios (IEPS)",
+    "alcohol desnaturalizado",
+    "vino",
+    "cerveza"
   ],
-  "resumen": "Los contribuyentes del IEPS deben pagar el impuesto por la enajenación de alcohol y alcohol desnaturalizado, no solo en la primera enajenación, sino también en las enajenaciones subsecuentes. Sin embargo, pueden estar exentos si cumplen con ciertas obligaciones fiscales.",
+  "resumen": "Este criterio establece que tanto las personas físicas como morales que enajenen alcohol o alcohol desnaturalizado en México son contribuyentes del IEPS, ya que se aplica una tasa del 50% tanto a la primera venta como a las enajenaciones subsecuentes.",
   "preguntas_ejemplo": [
-    "¿Qué es el IEPS en la venta de alcohol?",
-    "¿Se paga impuesto en las ventas subsecuentes de alcohol?",
-    "¿Quiénes son contribuyentes del IEPS por alcohol?",
-    "¿Cuáles son las exenciones para el impuesto sobre alcohol?",
-    "¿Qué productos están sujetos al IEPS?"
+    "¿Qué es el impuesto IEPS sobre la venta de alcohol?",
+    "¿Se paga impuesto por la reventa de alcohol?",
+    "¿Cuál es la tasa del IEPS para el alcohol desnaturalizado?",
+    "¿Qué obligaciones tienen los vendedores de alcohol respecto al IEPS?",
+    "¿Las enajenaciones subsecuentes de alcohol también generan IEPS?",
+    "¿Quiénes son contribuyentes del IEPS en las enajenaciones de alcohol?"
   ]
 }

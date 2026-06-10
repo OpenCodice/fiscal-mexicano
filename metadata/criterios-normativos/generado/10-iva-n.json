@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef80b23ffd64b2b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Productos destinados a la alimentación",
+  "denominacion_comun": "Productos de alimentación",
   "temas": [
     "IVA",
-    "alimentación humana",
-    "alimentación animal",
-    "tasa del 0%",
+    "productos alimenticios",
     "insumos",
-    "materias primas"
+    "materias primas",
+    "tasa del 0%",
+    "tasa general"
   ],
   "terminos_coloquiales": [
-    "IVA alimentos",
-    "productos alimenticios",
-    "alimentos 0%",
-    "materias primas para alimentos"
+    "comida",
+    "alimentos",
+    "productos para animales",
+    "ingredientes",
+    "IVA 0%"
   ],
-  "resumen": "Se consideran productos destinados a la alimentación aquellos que se consumen sin necesidad de transformación adicional. Las materias primas que se utilizan en la industrialización de estos productos pueden estar sujetas a una tasa del 0%, excepto cuando se trata de aditivos o sustancias químicas.",
+  "resumen": "Este criterio establece qué se considera productos destinados a la alimentación, tanto humana como animal, y aclara que la venta de ciertos insumos para su industrialización puede estar sujeta a tasas diferentes de IVA. Los productos que se ingieren directamente sin transformación están sujetos a una tasa del 0%.",
   "preguntas_ejemplo": [
-    "¿Qué productos están exentos del IVA?",
-    "¿Cómo se clasifica un alimento para el IVA?",
-    "¿Qué insumos pueden llevar una tasa del 0% en IVA?",
-    "¿Qué pasa con los aditivos en productos alimenticios?",
-    "¿Cuándo se aplica la tasa general del IVA en alimentos?"
+    "¿Qué productos están exentos de IVA?",
+    "¿Cuál es la tasa de IVA para alimentos?",
+    "¿Los insumos para alimentos tienen IVA?",
+    "¿Qué insumos son considerados para la alimentación?",
+    "¿Qué pasa con los aditivos en los alimentos y el IVA?"
   ]
 }

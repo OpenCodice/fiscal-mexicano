@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:93968cceed53dec9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Subsidio para el empleo",
   "temas": [
-    "devolución de impuestos",
-    "acreditamiento del ISR",
-    "subsidio para el empleo",
-    "mecanismo de recuperación",
-    "cantidad pagada indebidamente"
+    "ISR",
+    "devolución",
+    "acreditamiento",
+    "subsidio"
   ],
   "terminos_coloquiales": [
-    "devolución de subsidio",
+    "devolución de impuestos",
+    "subsidio para el empleo",
     "ISR",
-    "subsidio",
-    "recuperación de impuestos",
-    "CFF"
+    "saldo a favor"
   ],
-  "resumen": "El subsidio para el empleo se puede recuperar a través de una devolución del ISR cuando se han realizado pagos indebidos. Si un patrón tiene un saldo a favor tras aplicar el acreditamiento del ISR, puede solicitar su devolución conforme a la ley.",
+  "resumen": "El criterio establece que los empleadores pueden acreditar contra el ISR las cantidades pagadas a sus trabajadores por concepto de subsidio para el empleo. Si hay un remanente tras el acreditamiento, este puede ser solicitado como devolución.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo recuperar el subsidio para el empleo que pagué?",
-    "¿Qué requisitos debo cumplir para solicitar la devolución del ISR?",
-    "¿Qué debo hacer si tengo un saldo a favor por el subsidio para el empleo?",
-    "¿Cuánto tiempo tengo para solicitar la devolución del ISR?",
-    "¿Puedo acreditar el subsidio contra el ISR retenido de terceros?"
+    "¿Cómo recupero el subsidio para el empleo que pagué?",
+    "¿Puedo acreditar el subsidio para el empleo contra mi ISR?",
+    "¿Qué hago si tengo saldo a favor por subsidio para el empleo?",
+    "¿Cómo funciona la devolución de subsidio para el empleo?",
+    "¿Qué requisitos debo cumplir para solicitar la devolución?"
   ]
 }

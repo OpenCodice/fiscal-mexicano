@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:03377b8ec9290e8a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Servicios Digitales de Intermediación",
   "temas": [
-    "Ley del IVA",
-    "Servicios digitales",
-    "Intermediación",
-    "Plataformas digitales",
-    "Contraprestación",
-    "Obligaciones fiscales"
+    "servicios digitales",
+    "intermediación",
+    "plataformas digitales",
+    "obligaciones fiscales",
+    "bienestar del consumidor"
   ],
   "terminos_coloquiales": [
-    "Servicios digitales",
-    "Intermediación en línea",
-    "Plataformas de servicios",
-    "IVA digital"
+    "plataformas de intermediación",
+    "servicios en línea",
+    "tiendas digitales",
+    "comisiones",
+    "venta en línea"
   ],
-  "resumen": "Los servicios digitales de intermediación son aquellos que facilitan la conexión entre oferentes y demandantes de bienes o servicios a través de plataformas digitales. Estas plataformas pueden cobrar una contraprestación y son responsables de cumplir con ciertas obligaciones fiscales según la legislación.",
+  "resumen": "La Ley del IVA define los servicios digitales de intermediación como aquellos que permiten a oferentes y demandantes de bienes o servicios interactuar a través de una plataforma digital. Estas plataformas deben cumplir con ciertas obligaciones fiscales cuando facilitan estas transacciones.",
   "preguntas_ejemplo": [
     "¿Qué son los servicios digitales de intermediación?",
-    "¿Qué obligaciones tienen las plataformas que ofrecen servicios de intermediación?",
-    "¿Cómo se define un servicio digital según la Ley del IVA?",
-    "¿Qué implica prestar servicios digitales de intermediación?",
-    "¿Cuáles son las características de las plataformas digitales de intermediación?"
+    "¿Cómo funcionan las plataformas que venden productos de otros?",
+    "¿Cuáles son las obligaciones fiscales de una tienda en línea?",
+    "¿Qué impuestos debo cobrar si soy un intermediario digital?",
+    "¿Qué se considera un servicio digital bajo la Ley del IVA?"
   ]
 }

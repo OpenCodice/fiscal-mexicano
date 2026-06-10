@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7242909749c815f0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificación por correo certificado",
   "temas": [
     "notificación fiscal",
     "correo certificado",
-    "acusado de recibo",
-    "personas morales"
+    "acuse de recibo",
+    "personas morales",
+    "oficina de partes",
+    "correspondencia"
   ],
   "terminos_coloquiales": [
-    "notificación por correo",
+    "notificar por correo",
+    "notificación por correo postal",
     "correo con acuse",
-    "notificación fiscal",
-    "CFF"
+    "notificación a empresas"
   ],
-  "resumen": "La notificación de actos administrativos puede hacerse por correo certificado con acuse de recibo, pero se basa en lo establecido en la Ley del Servicio Postal Mexicano, que regula cómo debe llevarse a cabo. Las personas morales deben contar con una oficina de recepción para que estas notificaciones sean válidas.",
+  "resumen": "El CFF permite notificaciones fiscales a través de correo certificado con acuse de recibo, siempre que se cumplan ciertos requisitos. Para las personas morales, se considera válida la entrega si es en la oficina de correspondencia y se utiliza el sello correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifica un acto administrativo por correo certificado?",
-    "¿Qué requisitos debe cumplir una persona moral para recibir notificaciones fiscales?",
-    "¿Es válida la notificación a través de correo certificado?",
-    "¿Qué dice el CFF sobre las notificaciones fiscales?",
-    "¿Qué es el acuso de recibo en las notificaciones fiscales?",
-    "¿Cómo se acredita una notificación por correo a personas morales?"
+    "¿Cómo se notifican los actos administrativos por correo?",
+    "¿Qué requisitos hay para las notificaciones fiscales a empresas?",
+    "¿Es válida una notificación si se envía por correo certificado?",
+    "¿Qué es el acuse de recibo en el correo certificado?",
+    "¿Cómo debe recibir una empresa la correspondencia oficial?"
   ]
 }

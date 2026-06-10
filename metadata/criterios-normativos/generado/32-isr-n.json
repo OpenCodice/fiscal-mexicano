@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:73f269ff87ee49f6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones con Partes Relacionadas",
+  "denominacion_comun": "Operaciones con partes relacionadas",
   "temas": [
-    "precios de transferencia",
+    "partes relacionadas",
     "documentación comprobatoria",
     "ingresos acumulables",
     "deducciones autorizadas",
-    "personas morales",
+    "precios de transferencia",
     "métodos de valoración"
   ],
   "terminos_coloquiales": [
+    "contabilidad",
+    "documentación fiscal",
     "precios de transferencia",
     "partes relacionadas",
-    "documentación fiscal"
+    "deducciones"
   ],
-  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben llevar un registro adecuado y conservar la documentación que acredite los precios y montos utilizados en dichas operaciones, comparándolos con aquellos de partes independientes. También deben aplicar métodos específicos para determinar sus ingresos y deducciones.",
+  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben llevar un control de sus ingresos y deducciones, asegurándose de que los precios utilizados se alineen con los que se darían en transacciones entre partes independientes. También deben aplicar métodos específicos para determinar estos precios y conservar la documentación que lo compruebe.",
   "preguntas_ejemplo": [
-    "¿Qué son las operaciones con partes relacionadas?",
-    "¿Cómo debo documentar mis ingresos con partes relacionadas?",
-    "¿Cuáles son los métodos para determinar precios de transferencia?",
-    "¿Qué documentación necesito para mis deducciones?",
-    "¿Qué implica la obligación de conservar documentación comprobatoria?"
+    "¿Qué debo conservar si realizo operaciones con partes relacionadas?",
+    "¿Cómo determino mis ingresos acumulables en operaciones con partes relacionadas?",
+    "¿Qué son los precios de transferencia?",
+    "¿Qué métodos debo aplicar para mis transacciones con partes relacionadas?",
+    "¿Cuáles son las obligaciones fiscales al tener partes relacionadas?"
   ]
 }

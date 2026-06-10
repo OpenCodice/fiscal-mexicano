@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7acd4d3ace334dbb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones por no presentar información del IVA",
+  "denominacion_comun": "Infracciones por presentación de declaraciones",
   "temas": [
-    "Infracciones fiscales",
-    "Declaraciones de IVA",
-    "Medios electrónicos",
-    "Errores en información fiscal"
+    "IVA",
+    "declaraciones fiscales",
+    "sanciones",
+    "información incompleta"
   ],
   "terminos_coloquiales": [
-    "Infracciones de IVA",
-    "Declaraciones incompletas",
-    "Requerimientos fiscales",
-    "CFF",
-    "Ley del IVA"
+    "no entregar la declaración",
+    "errores en la declaración",
+    "sanciones fiscales",
+    "IVA",
+    "CFF"
   ],
-  "resumen": "Se establecen las infracciones por no presentar la información correspondiente sobre el IVA a través de medios y formatos electrónicos. Esto incluye no proporcionar la información, no cumplir con los plazos, o presentar datos incompletos o erróneos.",
+  "resumen": "Esta disposición trata sobre las infracciones relacionadas con la obligación de presentar la información del IVA en los plazos y formatos establecidos. Se especifican las conductas infractoras que pueden ser sancionadas, como no proporcionar información o hacerlo de manera incompleta.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las infracciones por no presentar información del IVA?",
-    "¿Qué pasa si no cumplo con los plazos para declarar IVA?",
-    "¿Qué errores son considerados infracciones en la declaración de IVA?",
-    "¿Cómo puedo evitar sanciones por informes del IVA?",
-    "¿Qué sucede si no presento información del IVA a tiempo?"
+    "¿Qué pasa si no presento mi declaración de IVA a tiempo?",
+    "¿Cuáles son las sanciones por errores en la declaración de IVA?",
+    "¿Qué información debo entregar sobre mis proveedores para el IVA?",
+    "¿Qué ocurre si no cumplo con un requerimiento de la autoridad fiscal?",
+    "¿Qué infracciones están relacionadas con la presentación de declaraciones?"
   ]
 }

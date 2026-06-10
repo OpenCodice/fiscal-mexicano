@@ -6,25 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8f54e0862841af30",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Crédito Fiscal",
+  "denominacion_comun": "Crédito fiscal firme",
   "temas": [
-    "firmeza del crédito fiscal",
+    "impugnación",
+    "desistimiento",
     "plazos legales",
-    "consentimiento de los particulares",
-    "medios de defensa"
+    "medios de defensa",
+    "resolución",
+    "validez del acto"
   ],
   "terminos_coloquiales": [
-    "crédito fiscal firme",
-    "plazos de impugnación",
-    "defensa fiscal"
+    "crédito fiscal",
+    "créditos fiscales",
+    "firmeza de un crédito",
+    "medio de defensa",
+    "plazo para impugnar"
   ],
-  "resumen": "Un crédito fiscal se considera firme cuando no ha sido impugnado dentro de los plazos legales, o si ha sido impugnado y no se ha continuado con el proceso. También se establece que puede ser firme si se desiste el demandante o se confirma la validez del acto impugnado.",
+  "resumen": "Un crédito fiscal se considera firme cuando no se impugna dentro de los plazos legales, o si se desiste el particular de la impugnación. También es firme si una resolución confirma su validez y no admite más medios de defensa.",
   "preguntas_ejemplo": [
-    "¿Cuándo un crédito fiscal se considera firme?",
-    "¿Qué pasa si no impugno un crédito fiscal a tiempo?",
-    "¿Qué sucede si me desisto de mi impugnación?",
-    "¿Cómo se confirma la validez de un crédito fiscal?"
+    "¿Cuándo se considera firme un crédito fiscal?",
+    "¿Qué sucede si me desisto de impugnar un crédito fiscal?",
+    "¿Cuáles son los plazos legales para impugnar un crédito fiscal?",
+    "¿Qué significa que un crédito fiscal sea firme?",
+    "¿Puedo seguir impugnando un crédito fiscal si ya hubo una resolución?",
+    "¿Cómo afecta el desistimiento a un crédito fiscal?"
   ]
 }

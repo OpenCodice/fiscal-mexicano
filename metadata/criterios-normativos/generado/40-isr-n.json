@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a234666fcac66860",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dividendos o utilidades distribuidos",
   "temas": [
-    "ingresos acumulables",
-    "personas físicas",
-    "dividendos",
-    "utilidades distribuídas",
-    "situaciones jurídicas"
+    "Ingreso acumulable",
+    "Personas físicas",
+    "Dividendos",
+    "Utilidades distribuidas",
+    "Situaciones jurídicas",
+    "Omisiones de ingresos",
+    "Compras indebidamente registradas",
+    "Autoridades fiscales"
   ],
   "terminos_coloquiales": [
-    "dividendos",
-    "utilidades",
     "ingresos por dividendos",
-    "ISR",
-    "Ley del ISR"
+    "utilidades",
+    "distribución de utilidades",
+    "preguntar sobre dividendos",
+    "ISR por dividendos"
   ],
-  "resumen": "Los ingresos por dividendos o utilidades distribuidos deben ser acumulados por las personas físicas en el momento en que se generan, según lo indica la Ley del ISR. Esto incluye diversas situaciones jurídicas que afectan la utilidad fiscal.",
+  "resumen": "Las personas físicas deben acumular los ingresos por dividendos o utilidades distribuidos junto con sus demás ingresos. Estos ingresos se consideran acumulables al momento en que se generan ciertas situaciones jurídicas específicas, como omisiones o compras indebidamente registradas.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo acumular los dividendos que recibo?",
-    "¿Qué son las utilidades distribuidas en el contexto del ISR?",
-    "¿Cómo afectan las omisiones de ingresos a mis dividendos acumulables?",
-    "¿Qué dice la Ley del ISR sobre los ingresos por dividendos?",
-    "¿Las personas físicas tienen que declarar los dividendos recibidos?"
+    "¿Cuándo debo acumular los ingresos por dividendos?",
+    "¿Qué son las utilidades distribuidas?",
+    "¿Cuáles son las situaciones que generan ingresos acumulables por dividendos?",
+    "¿Cómo afecta a los impuestos recibir dividendos de una empresa?",
+    "¿Qué se considera como omisión de ingresos en el ISR?",
+    "¿Debo registrar las utilidades distribuidas en mi declaración de impuestos?"
   ]
 }

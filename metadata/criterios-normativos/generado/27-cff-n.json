@@ -6,28 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8b64264eb530d684",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acuerdo Conclusivo",
   "temas": [
-    "calificación de hechos",
-    "omisiones fiscales",
     "facultades de comprobación",
     "incumplimiento fiscal",
-    "procedimiento administrativo"
+    "calificación de hechos",
+    "calificación de omisiones",
+    "resoluciones fiscales",
+    "actas parciales",
+    "oficios de observaciones",
+    "resoluciones provisionales"
   ],
   "terminos_coloquiales": [
-    "Acuerdo Conclusivo",
-    "negociación con la autoridad",
+    "acuerdo conclusivo",
     "revisión fiscal",
+    "cálculo de irregularidades",
+    "no estoy de acuerdo con la auditoría",
+    "código fiscal",
     "CFF"
   ],
-  "resumen": "El artículo 69-C del CFF permite a los contribuyentes solicitar un acuerdo conclusivo si no están de acuerdo con los hechos u omisiones señalados durante una revisión fiscal. Esta solicitud puede hacerse dentro de un plazo específico, siempre que la autoridad haya calificado previamente los hechos en cuestión.",
+  "resumen": "El Acuerdo Conclusivo permite a los contribuyentes solicitar una revisión de los hechos y omisiones registrados por la autoridad durante una auditoría fiscal. Esto se puede hacer en cualquier momento durante el proceso de revisión, dentro de un plazo específico después de que se notifique el acta final o la resolución provisional.",
   "preguntas_ejemplo": [
-    "¿Qué es un acuerdo conclusivo en la revisión fiscal?",
+    "¿Qué es un acuerdo conclusivo en la auditoría fiscal?",
+    "¿Cómo puedo impugnar la calificación de hechos de la autoridad?",
     "¿Cuáles son los plazos para solicitar un acuerdo conclusivo?",
-    "¿Qué requisitos debe cumplir la autoridad para calificar hechos u omisiones?",
-    "¿Cómo se determina un incumplimiento fiscal en un acuerdo conclusivo?",
-    "¿Qué sucede si no estoy de acuerdo con la calificación de la autoridad?"
+    "¿Qué información necesito para pedir una revisión de mi situación fiscal?",
+    "¿Qué sucede si no estoy de acuerdo con el acta final de la auditoría?",
+    "¿Qué implica la calificación de hechos en el proceso de revisión fiscal?"
   ]
 }

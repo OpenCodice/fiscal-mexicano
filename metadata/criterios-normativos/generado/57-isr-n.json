@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7fec43d3c1c8708a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donativos de Donatarias Autorizadas",
+  "denominacion_comun": "Donativos deducibles de donatarias autorizadas",
   "temas": [
     "donativos",
+    "deducibilidad",
     "donatarias autorizadas",
-    "deducciones fiscales",
-    "organizaciones",
-    "beneficencia",
-    "actividades autorizadas"
+    "fundaciones",
+    "patronatos",
+    "reconocimiento recíproco"
   ],
   "terminos_coloquiales": [
-    "donativos deducibles",
-    "donatarias",
     "donaciones",
+    "deducción de donativos",
     "fundaciones",
-    "patronatos"
+    "patronatos",
+    "donatarias",
+    "deducibles"
   ],
-  "resumen": "Las donatarias autorizadas pueden recibir donativos deducibles siempre que destinen sus ingresos a actividades autorizadas. Existen disposiciones complementarias que regulan la deducibilidad de donativos entre México y Estados Unidos.",
+  "resumen": "Las entidades como fundaciones y patronatos pueden recibir donativos deducibles si sus ingresos se destinan a actividades autorizadas. Los donativos de residentes de México a entidades en EE. UU. pueden ser deducibles, pero no se permite a la inversa.",
   "preguntas_ejemplo": [
-    "¿Qué donativos se pueden deducir en el ISR?",
-    "¿Qué requisitos deben cumplir las donatarias para recibir donativos?",
-    "¿Puedo deducir donativos a organizaciones en Estados Unidos?",
-    "¿Qué pasa si una donataria apoya a otras entidades?",
-    "¿Cuáles son los límites de deducción para donativos internacionales?"
+    "¿Qué donativos son deducibles para fundaciones?",
+    "¿Puedo recibir donativos de Estados Unidos y que sean deducibles?",
+    "¿Qué requisitos debo cumplir para ser donataria autorizada?",
+    "¿Qué pasa si una fundación en México dona a una en Estados Unidos?",
+    "¿Cómo funcionan las deducciones de donativos?"
   ]
 }

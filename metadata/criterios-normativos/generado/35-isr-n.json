@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:53a7095d17c848f5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Precios de Transferencia",
+  "denominacion_comun": "Operaciones con partes relacionadas",
   "temas": [
-    "operaciones con partes relacionadas",
+    "personas morales",
     "ingresos acumulables",
     "deducciones autorizadas",
-    "métodos de valoración",
-    "guías de la OCDE"
+    "precios de transferencia",
+    "operaciones comparables",
+    "Guías de la OCDE"
   ],
   "terminos_coloquiales": [
     "precios de transferencia",
-    "PT",
     "partes relacionadas",
-    "operaciones comparables"
+    "deducciones",
+    "ingresos",
+    "OCDE"
   ],
-  "resumen": "Las personas morales que realizan operaciones con partes relacionadas deben determinar sus ingresos y deducciones basándose en precios utilizados en transacciones entre partes independientes. Además, deben aplicar las Guías de la OCDE sobre precios de transferencia para empresas multinacionales.",
+  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben calcular sus ingresos y deducciones basándose en precios utilizados en transacciones con partes independientes. Deben seguir los métodos establecidos en la Ley del ISR y aplicar las Guías de la OCDE que sean congruentes con la legislación mexicana.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los ingresos acumulables en operaciones con partes relacionadas?",
-    "¿Qué son y cómo se aplican las guías de precios de transferencia?",
-    "¿Cuáles son los métodos establecidos para evaluar operaciones con partes relacionadas?",
-    "¿Qué implica operar con partes relacionadas según la Ley del ISR?",
-    "¿Cómo afectan las guías de la OCDE a las empresas en México?"
+    "¿Cómo se determinan los ingresos acumulables de una persona moral?",
+    "¿Qué son las operaciones con partes relacionadas?",
+    "¿Cómo se aplican los precios de transferencia?",
+    "¿Qué métodos debo seguir para mis deducciones?",
+    "¿Qué dicen las Guías de la OCDE sobre este tema?"
   ]
 }

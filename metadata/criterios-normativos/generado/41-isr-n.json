@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f9d2dcd2b1ebd427",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de saldos a favor por ISR",
+  "denominacion_comun": "Devolución de saldos a favor a personas físicas",
   "temas": [
     "devolución de impuestos",
+    "saldos a favor",
+    "ISR",
     "dividendos",
-    "personas físicas",
-    "acreditamiento de ISR",
-    "saldo a favor",
+    "acreditamiento de impuestos",
     "compensación de impuestos"
   ],
   "terminos_coloquiales": [
-    "devolución de ISR",
-    "acreditamiento de ISR",
-    "saldo a favor por dividendos",
-    "declara tu ISR",
-    "ISR en declaración anual"
+    "devolución de impuestos",
+    "ISR",
+    "saldos a favor",
+    "dividendos",
+    "devolución de ISR"
   ],
-  "resumen": "Las personas físicas que reciban dividendos pueden acreditar el ISR pagado por la sociedad distribuidora en su declaración anual. Si el impuesto a cargo es menor que el acreditamiento, pueden solicitar la devolución del saldo a favor derivado de este acreditamiento.",
+  "resumen": "Las personas físicas que reciban dividendos pueden acreditar el ISR pagado por la sociedad que los distribuyó en su declaración anual. Si el impuesto a cargo es menor que el acreditable, se puede solicitar la devolución del saldo a favor por el ISR efectivamente pagado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo devolver el saldo a favor de mi ISR?",
-    "¿Qué requisitos necesito para acreditar el ISR de los dividendos?",
-    "¿Puedo solicitar la devolución si el impuesto a mi cargo es menor?",
-    "¿Qué pasos debo seguir para solicitar la devolución por dividendos?",
-    "¿Qué significa el acreditamiento de ISR para personas físicas?"
+    "¿Cómo puedo solicitar la devolución del saldo a favor por ISR?",
+    "¿Puedo acreditar el ISR que pagó la sociedad que me dio dividendos?",
+    "¿Qué necesito para recibir mi devolución de impuestos como persona física?",
+    "¿Qué sucede si el ISR que tengo que pagar es menor que el que puedo acreditar?",
+    "¿Dónde encuentro información sobre la devolución de saldos a favor por dividendos?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:651d07e06db58b74",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración del ejercicio del ISR por fideicomisos",
+  "denominacion_comun": "Declaración del ejercicio del ISR para fiduciarias",
   "temas": [
-    "fideicomiso",
-    "declaración del ISR",
+    "fideicomisos",
     "obligaciones fiscales",
-    "resultados fiscales",
-    "pérdidas fiscales"
+    "resultado fiscal",
+    "pérdida fiscal",
+    "declaraciones de ISR",
+    "pago de impuestos"
   ],
   "terminos_coloquiales": [
-    "ISR fideicomisos",
-    "declaración fideicomitente",
-    "obligaciones fiduciarias",
-    "Criterio 10/ISR/N"
+    "fiduciaria",
+    "declaración de impuestos",
+    "resultado fiscal de fideicomisos",
+    "fideicomitentes",
+    "pérdida fiscal",
+    "CFDI"
   ],
-  "resumen": "La fiduciaria no está obligada a presentar la declaración del ejercicio del ISR por las actividades empresariales realizadas a través de un fideicomiso. Los fideicomisarios acumulan ingresos y pueden acreditar pagos provisionales, pero la presentación de la declaración recae en la fiduciaria solo en ciertos casos.",
+  "resumen": "La fiduciaria no está obligada a presentar la declaración del ejercicio del ISR por las actividades empresariales realizadas a través de un fideicomiso. Los fideicomisarios deben acumular el resultado fiscal correspondiente a sus ingresos, mientras que la fiduciaria cumplirá ciertas obligaciones como la de pagar impuestos y expedir comprobantes fiscales.",
   "preguntas_ejemplo": [
-    "¿La fiduciaria tiene que presentar la declaración del ISR?",
-    "¿Cómo se determina la obligación fiscal en un fideicomiso?",
-    "¿Qué pasa si no hay fideicomisarios designados?",
-    "¿Qué ingresos acumulan los fideicomisarios?",
-    "¿Cuáles son las obligaciones fiscales de la fiduciaria?"
+    "¿La fiduciaria debe presentar declaración del ISR?",
+    "¿Qué obligaciones tiene una fiduciaria respecto a fideicomisos?",
+    "¿Cómo se acumulan los ingresos de los fideicomisarios?",
+    "¿Qué pasa con las pérdidas fiscales en un fideicomiso?",
+    "¿Qué información debe proporcionar la fiduciaria año con año?"
   ]
 }

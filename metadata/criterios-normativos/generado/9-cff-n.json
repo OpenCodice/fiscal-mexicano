@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5b147fc3bafcfda7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Visitas Domiciliarias para Cumplimiento Fiscal",
+  "denominacion_comun": "Visitas Domiciliarias",
   "temas": [
-    "visitas domiciliarias",
-    "cumplimiento de obligaciones fiscales",
+    "Cumplimiento de obligaciones fiscales",
     "CFDI",
     "RFC",
-    "autoridades fiscales",
-    "actas de inspección",
-    "documentación fiscal",
-    "mercancías de procedencia extranjera"
+    "Visitas de verificación",
+    "Documentación de mercancías",
+    "Actas de visita",
+    "Irregularidades fiscales"
   ],
   "terminos_coloquiales": [
     "visitas fiscales",
-    "inspecciones fiscales",
-    "verificaciones fiscales",
-    "CFF",
-    "CFDI"
+    "verificaciones en el domicilio",
+    "actas de inspección",
+    "CFF"
   ],
-  "resumen": "Las autoridades fiscales pueden realizar visitas domiciliarias para verificar que los contribuyentes cumplan con sus obligaciones fiscales, como la expedición de CFDIs y la correcta operación de documentos y registros. Durante estas visitas, deben levantarse actas que documenten los hallazgos, aunque no se requieren actas parciales o finales.",
+  "resumen": "Las autoridades fiscales pueden realizar visitas domiciliarias para verificar si los contribuyentes cumplen con sus obligaciones fiscales, incluyendo la emisión de CFDI y la correcta documentación de mercancías. Estas visitas deben documentarse adecuadamente, sin la necesidad de actas parciales.",
   "preguntas_ejemplo": [
-    "¿Qué pueden hacer las autoridades fiscales en una visita domiciliaria?",
-    "¿Qué actos se registran en las visitas a domicilio?",
-    "¿Cuáles son mis obligaciones al recibir una visita fiscal?",
-    "¿Qué es un acta circunstanciada en una visita domiciliaria?",
-    "¿Las visitas fiscales siempre requieren actas parciales?",
-    "¿Qué documentación debo tener durante una visita domiciliaria?"
+    "¿Qué es una visita domiciliaria fiscal?",
+    "¿Qué verifican las visitas domiciliarias del SAT?",
+    "¿Qué tengo que mostrar durante una visita domiciliaria?",
+    "¿Se necesita un acta final en la visita domiciliaria?",
+    "¿Cuáles son mis obligaciones en una verificación domiciliaria?"
   ]
 }

@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1775cbc7840be756",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operaciones financieras derivadas de capital",
   "temas": [
     "divisas",
-    "retención de impuestos",
+    "no retención",
     "intereses",
     "ganancias",
-    "pérdidas",
-    "mercados reconocidos"
+    "mercados reconocidos",
+    "operaciones financieras"
   ],
   "terminos_coloquiales": [
-    "operaciones de divisas",
+    "cambio de divisa",
+    "ganancias en divisas",
     "no retención de intereses",
-    "derivados de capital"
+    "operaciones de divisas"
   ],
-  "resumen": "Las operaciones financieras derivadas de capital referenciadas al tipo de cambio de una divisa no están sujetas a la retención de impuestos sobre las ganancias obtenidas. Esto significa que no se consideran como operaciones de deuda ni implican la retención de intereses.",
+  "resumen": "Este criterio establece que las ganancias de las operaciones financieras derivadas de capital referenciadas al tipo de cambio de una divisa no están sujetas a retención de intereses. Además, aclara que no se consideran como operaciones derivadas de deuda ni de intereses.",
   "preguntas_ejemplo": [
-    "¿Qué son las operaciones financieras derivadas de capital?",
-    "¿Por qué no se retienen impuestos en las operaciones de divisas?",
-    "¿Cómo se clasifican las ganancias de las operaciones financieras?",
-    "¿Qué dice la Ley del ISR sobre la retención de intereses?",
-    "¿Qué diferencia hay entre derivadas de capital y de deuda?"
+    "¿Debo pagar impuestos por ganancias en operaciones de cambio de divisas?",
+    "¿Qué operaciones de divisas no están sujetas a retención de impuestos?",
+    "¿Cómo se consideran las ganancias de operaciones financieras derivadas de capital?",
+    "¿Qué es una operación financiera derivada de capital?"
   ]
 }

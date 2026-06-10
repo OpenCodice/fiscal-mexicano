@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1676038128b89c63",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Porcentajes de deducción para contratistas y asignatarios",
+  "denominacion_comun": "Porcentajes de deducción para contratistas",
   "temas": [
-    "deducción de inversiones",
+    "deducciones",
+    "ISR",
     "contratistas",
     "asignatarios",
-    "ISR",
-    "LISH",
-    "exploración de hidrocarburos",
-    "activos fijos",
-    "infraestructura de transporte"
+    "inversiones",
+    "actividades de hidrocarburos",
+    "infraestructura",
+    "depreciación"
   ],
   "terminos_coloquiales": [
-    "deducciones para contratistas",
-    "deducciones para asignatarios",
-    "porcentajes de deducción LISH",
+    "gastos deducibles",
+    "deducción de impuestos",
+    "deducción para contratistas",
+    "deducción por inversiones",
     "LISH",
-    "deducciones ISR"
+    "Ley de ISR"
   ],
-  "resumen": "Este criterio establece que los contratistas y asignatarios deben aplicar los porcentajes de deducción especificados en la LISH para las inversiones en actividades de exploración y extracción de hidrocarburos, en lugar de los establecidos en la Ley del ISR. Las deducciones se limitan a las inversiones destinadas a estas actividades específicas.",
+  "resumen": "La LISH establece que los contratistas y asignatarios deben aplicar porcentajes específicos de deducción para inversiones en actividades relacionadas con la exploración y extracción de hidrocarburos, en lugar de los porcentajes generales de la Ley del ISR. Solo las inversiones destinadas a estas actividades se sujetan a las nuevas deducciones.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los porcentajes de deducción para contratistas en la LISH?",
-    "¿Qué inversiones se pueden deducir según la LISH?",
-    "¿Cómo afecta la LISH a las deducciones de ISR para asignatarios?",
-    "¿Qué actividades están cubiertas por los porcentajes de deducción de la LISH?",
-    "¿Los contratistas pueden aplicar los porcentajes de la Ley del ISR?",
-    "¿Qué artículos de la LISH se refieren a las deducciones para hidrocarburos?"
+    "¿Qué porcentajes de deducción aplican los contratistas?",
+    "¿Cuáles son las deducciones específicas para inversiones en hidrocarburos?",
+    "¿Qué artículos de la LISH regulan las deducciones para contratistas?",
+    "¿Cómo se determina el ISR para asignatarios?",
+    "¿Las inversiones en infraestructura se pueden deducir?"
   ]
 }

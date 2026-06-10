@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:93d14a349e316124",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses moratorios en IVA",
+  "denominacion_comun": "Intereses moratorios",
   "temas": [
     "Ley del IVA",
-    "Intereses moratorios",
-    "Exenciones fiscales",
-    "Servicios prestados",
-    "Impuesto al Valor Agregado"
+    "intereses",
+    "servicios",
+    "exenciones"
   ],
   "terminos_coloquiales": [
-    "intereses moratorios",
+    "no pagar IVA por intereses",
     "intereses normales",
-    "IVA intereses",
-    "Ley del IVA"
+    "intereses moratorios"
   ],
-  "resumen": "La Ley del IVA establece que no se pagará impuesto por la prestación de servicios relacionados con intereses, incluyendo tanto los intereses normales como los moratorios. No hay distinción en este concepto según la ley.",
+  "resumen": "La Ley del IVA indica que no se debe pagar el impuesto sobre los servicios relacionados con intereses, incluyendo tanto los normales como los moratorios. No se hace distinción entre estos tipos de intereses en los casos señalados por la ley.",
   "preguntas_ejemplo": [
-    "¿Se paga IVA por intereses moratorios?",
-    "¿Cuándo se exime de pagar IVA en intereses?",
-    "¿Qué dice la ley sobre intereses normales y moratorios en IVA?",
-    "¿Hay impuestos en la prestación de servicios relacionados con intereses?",
-    "¿La Ley del IVA excluye algún tipo de intereses?"
+    "¿Tengo que pagar IVA por los intereses moratorios?",
+    "¿Qué dice la Ley del IVA sobre los intereses?",
+    "¿Se exime el IVA en servicios relacionados con intereses?",
+    "¿Los intereses normales y moratorios están sujetos al IVA?",
+    "¿Qué servicios no pagan IVA en relación con intereses?"
   ]
 }

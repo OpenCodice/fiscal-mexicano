@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:36134114851322c6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Enajenación de acciones a costo fiscal",
   "temas": [
     "enajenación de acciones",
     "costo fiscal",
-    "restructuración de sociedades",
-    "grupo de sociedades"
+    "reestructuración de sociedades",
+    "grupo de sociedades",
+    "mismo grupo",
+    "requisitos fiscales",
+    "autoridad fiscal"
   ],
   "terminos_coloquiales": [
     "venta de acciones",
-    "acciones a costo fiscal",
-    "ISR acciones",
-    "grupos fiscales"
+    "acciones a precio fiscal",
+    "acciones de empresas",
+    "grupo de sociedades",
+    "ISR"
   ],
-  "resumen": "La Ley del ISR permite la enajenación de acciones a costo fiscal entre sociedades que pertenecen a un mismo grupo, siempre que se cumplan ciertos requisitos. La sociedad emisora de las acciones no necesita estar constituida en México si las otras dos sí lo están.",
+  "resumen": "Este criterio establece que las autoridades fiscales pueden autorizar la enajenación de acciones a costo fiscal si las sociedades enajenante y adquirente pertenecen al mismo grupo y se cumplen ciertos requisitos. Las sociedades enajenante y adquirente deben estar constituidas en México, pero la sociedad emisora de las acciones no necesita estarlo.",
   "preguntas_ejemplo": [
-    "¿Se puede vender acciones a costo fiscal entre sociedades del mismo grupo?",
-    "¿Qué requisitos son necesarios para enajenar acciones sin pagar ISR?",
-    "¿La sociedad emisora de acciones tiene que estar en México?",
-    "¿Qué se considera un grupo para efectos fiscales en la enajenación de acciones?",
-    "¿Cómo se determina si las sociedades pertenecen al mismo grupo fiscal?"
+    "¿Cómo se pueden vender acciones a costo fiscal?",
+    "¿Qué se requiere para que una sociedad venda acciones sin pagar impuestos?",
+    "¿Qué condiciones deben cumplirse para la enajenación de acciones a costo fiscal?",
+    "¿Las sociedades que venden acciones tienen que estar legalmente constituidas en México?",
+    "¿Qué significa pertenecer al mismo grupo de sociedades para efectos fiscales?"
   ]
 }

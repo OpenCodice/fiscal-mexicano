@@ -6,35 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4b42e10e3222eff9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Preparaciones alimenticias y su gravamen",
+  "denominacion_comun": "Preparaciones alimenticias y IEPS",
   "temas": [
     "alimentos no básicos",
-    "densidad calórica",
     "tasa del IEPS",
+    "densidad calórica",
     "botanas",
     "preparaciones alimenticias",
-    "proceso adicional",
-    "gravamen",
-    "consumo directo"
+    "proceso adicional"
   ],
   "terminos_coloquiales": [
-    "IEPS alimentos",
-    "botanas gravadas",
-    "alimentos preparados",
-    "gravamen de comidas",
-    "preparaciones alimenticias",
-    "alimentos listos",
-    "alimentos no básicos"
+    "impuesto a alimentos",
+    "impresión de alimentos",
+    "botanas",
+    "alimentos fritos",
+    "preparaciones alimenticias"
   ],
-  "resumen": "La Ley del IEPS establece que ciertos alimentos con alta densidad calórica están sujetos a un impuesto. Los alimentos que requieren un proceso adicional para ser consumidos no están gravados, mientras que las botanas sí pueden estarlo dependiendo de su preparación.",
+  "resumen": "La Ley del IEPS establece un impuesto para alimentos no básicos con alta densidad calórica. Las preparaciones que requieren un proceso adicional antes de ser consumidas no están gravadas, así como ciertos tipos de botanas que ya están elaboradas.",
   "preguntas_ejemplo": [
-    "¿Qué alimentos no requieren IEPS?",
-    "¿Cómo se gravan las botanas según la ley?",
-    "¿Cuál es la densidad calórica para gravar alimentos?",
-    "¿Qué significa que un alimento requiera un proceso adicional?",
-    "¿Qué es el gravamen del IEPS para alimentos?",
-    "¿Cómo afecta el IEPS a las preparaciones alimenticias?"
+    "¿Cuáles son los alimentos que pagan IEPS?",
+    "¿Qué son las botanas gravadas por IEPS?",
+    "¿Qué tipo de preparaciones están exentas del IEPS?",
+    "¿Qué densidad calórica se considera para el impuesto?",
+    "¿Los alimentos fritos están sujetos a IEPS?"
   ]
 }

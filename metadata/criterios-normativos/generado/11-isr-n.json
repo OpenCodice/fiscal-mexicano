@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3348bab2853961b2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Reparto Adicional de Utilidades",
+  "denominacion_comun": "Reparto adicional de utilidades",
   "temas": [
-    "Participación de utilidades",
-    "Renta gravable",
-    "Relación laboral",
-    "Competencia del SAT",
-    "Liquidaciones de impuestos",
-    "Contratos colectivos de trabajo"
+    "trabajadores",
+    "participación de utilidades",
+    "renta gravable",
+    "requisitos fiscales",
+    "SAT",
+    "relación laboral"
   ],
   "terminos_coloquiales": [
-    "Reparto de utilidades",
-    "Participación de trabajadores",
-    "Utilidades",
-    "SAT"
+    "reparto de utilidades",
+    "utilidades",
+    "participación de los trabajadores",
+    "impuesto omitido"
   ],
-  "resumen": "Este criterio establece que la autoridad fiscal puede determinar el reparto adicional de utilidades a los trabajadores sin necesidad de verificar la existencia de una relación laboral. También se aclara que el SAT tiene competencia para intervenir en la participación de los trabajadores en las utilidades de las empresas.",
+  "resumen": "El criterio establece que la autoridad fiscal puede determinar el reparto adicional de utilidades a los trabajadores de empresas, sin comprobar la existencia de una relación laboral. Además, cualquier acuerdo entre empleadores y trabajadores en contratos colectivos será considerado al aplicar las normas fiscales sobre este tema.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el reparto adicional de utilidades?",
-    "¿El SAT verifica si hay trabajadores para hacer el reparto de utilidades?",
-    "¿Qué pasa si la base gravable de la empresa es mayor?",
-    "¿Cómo afecta un contrato colectivo al reparto de utilidades?",
-    "¿Las empresas siempre deben repartir utilidades a sus trabajadores?"
+    "¿Cómo se determina el reparto de utilidades a los trabajadores?",
+    "¿El SAT necesita comprobar si hay trabajadores para aplicar el reparto de utilidades?",
+    "¿Qué pasa si se pactan condiciones diferentes en los contratos colectivos sobre utilidades?",
+    "¿Dónde se regula el procedimiento para la participación de utilidades?",
+    "¿Qué implica el reparto adicional de utilidades?"
   ]
 }

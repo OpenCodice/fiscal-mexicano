@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33c70811dfdd1011",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transmisión de deudas",
   "temas": [
     "IVA",
-    "Sustitución de deudor",
-    "Contraprestación",
-    "Obligaciones de pago",
-    "Aceptación de deudas"
+    "sustitución de deudor",
+    "enajenación de bienes",
+    "obligación de pago",
+    "documentos o vales",
+    "contraprestación",
+    "consentimiento del acreedor"
   ],
   "terminos_coloquiales": [
-    "cambio de deudor",
-    "sustitución de deuda",
-    "aceptación de deuda"
+    "Cambio de deudas",
+    "deuda asumida",
+    "pagar con documentos",
+    "aceptación de deudor",
+    "sustituto deudor"
   ],
-  "resumen": "Cuando un tercero asume la obligación de pago en la enajenación de bienes, se considera que el IVA se ha pagado en el momento en que se acepta esa sustitución de deudor. Esto significa que el nuevo deudor debe cumplir con las obligaciones del antiguo, a menos que se indique lo contrario.",
+  "resumen": "Cuando un deudor sustituido asume la obligación de pago de un tercero, se considera que el IVA se pagó en la fecha en que se acepta esta sustitución. Si el acreedor no tiene acuerdo en contrario, se entiende que acepta la nueva obligación del deudor sustituto.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que se ha pagado el IVA en la transmisión de deudas?",
-    "¿Qué significa la sustitución de deudor en la ley del IVA?",
-    "¿Cómo afecta la aceptación de un tercero en la obligación de pago?",
-    "¿Qué pasa si el nuevo deudor es insolvente?",
-    "¿Es necesario el consentimiento del acreedor para la sustitución de deudor?"
+    "¿Cuándo se considera que el IVA fue pagado al cambiar deudores?",
+    "¿Qué implica la aceptación de un deudor sustituto?",
+    "¿El acreedor puede exigir al deudor original después de un cambio?",
+    "¿Qué documentos se necesitan para este tipo de transacciones?",
+    "¿Cómo afecta la insolvencia del nuevo deudor en la obligación de pago?"
   ]
 }

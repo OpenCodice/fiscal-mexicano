@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cad007f9205bfdfb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Contraprestaciones a contratistas en hidrocarburos",
+  "denominacion_comun": "Contraprestaciones en contratos de hidrocarburos",
   "temas": [
-    "contratistas",
+    "ISR",
     "contraprestaciones",
     "exploración de hidrocarburos",
-    "acumulación de ingresos",
-    "Ley del ISR"
+    "producción contractual",
+    "ingresos",
+    "acumulación de ingresos"
   ],
   "terminos_coloquiales": [
-    "contratistas de hidrocarburos",
-    "pago de contratistas",
+    "pagos a contratistas",
+    "ingresos por hidrocarburos",
+    "contratos de extracción",
     "Ley del ISR",
-    "LISH",
-    "contraprestaciones",
-    "Regla de acumulación"
+    "LISH"
   ],
-  "resumen": "Las contraprestaciones a favor del contratista por la exploración y extracción de hidrocarburos solo se pagarán cuando se obtenga la producción contractual. Mientras no exista dicha producción, no se podrán exigir los pagos y tampoco se otorgarán anticipos.",
+  "resumen": "Este criterio establece que los pagos a contratistas en la exploración y extracción de hidrocarburos solo se realizarán una vez que se obtenga la producción contractual. Los ingresos derivados de estas contraprestaciones deben acumularse según lo que dicta la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Cuándo se deben pagar las contraprestaciones a los contratistas?",
-    "¿Qué dice la Ley del ISR sobre los ingresos de los contratistas?",
-    "¿Cómo se acumulan los ingresos de los contratistas en hidrocarburos?",
-    "¿Qué requisitos deben cumplirse para que un contratista reciba su pago?",
-    "¿Las contraprestaciones de hidrocarburos se consideran ingresos inmediatos?"
+    "¿Cuándo se acumulan los ingresos de un contrato de hidrocarburos?",
+    "¿Qué dice la ley sobre los pagos a contratistas en la extracción de hidrocarburos?",
+    "¿Se puede exigir un anticipo a los contratistas en el sector de hidrocarburos?",
+    "¿Cómo se determinan las contraprestaciones en la Ley del ISR?",
+    "¿Qué es la producción contractual en los contratos de hidrocarburos?"
   ]
 }

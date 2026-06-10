@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1bc62c327119f20b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Préstamos a socios y accionistas",
   "temas": [
-    "Dividendos",
-    "Utilidades distribuidas",
-    "Préstamos",
-    "Erogaciones no deducibles",
-    "Impuesto sobre la renta",
-    "Cuenta de Utilidad Fiscal Neta"
+    "dividendos",
+    "utilidades distribuidas",
+    "préstamos",
+    "socios",
+    "accionistas",
+    "impuesto sobre la renta",
+    "erogaciones no deducibles"
   ],
   "terminos_coloquiales": [
-    "Préstamos a socios",
-    "Préstamos a accionistas",
-    "Dividendos no deducibles",
-    "ISR",
-    "Ley del ISR"
+    "préstamos a socios",
+    "préstamos a accionistas",
+    "dividendos",
+    "ISR"
   ],
-  "resumen": "Los préstamos a socios y accionistas se consideran como dividendos si no cumplen con los requisitos establecidos en la Ley del ISR. Además, las personas morales que distribuyen estos dividendos deberán calcular el impuesto correspondiente si no provienen de la Cuenta de Utilidad Fiscal Neta.",
+  "resumen": "Se consideran dividendos los préstamos a socios y accionistas que no cumplan con ciertos requisitos. Además, las personas morales deben calcular el impuesto correspondiente si distribuyen dividendos que no provienen de la Cuenta de Utilidad Fiscal Neta.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un socio recibe un préstamo de la empresa?",
-    "¿Cómo se consideran los préstamos a accionistas en la Ley del ISR?",
-    "¿Qué impuestos debo pagar por los dividendos que no provienen de la utilidad fiscal?",
-    "¿Qué son las erogaciones no deducibles a socios o accionistas?",
-    "¿Cómo afecta un préstamo a la distribución de utilidades?"
+    "¿Cuáles son las consecuencias fiscales de prestar dinero a socios?",
+    "¿Cómo se clasifican los préstamos a accionistas en el ISR?",
+    "¿Qué se considera como dividendos en la Ley del ISR?",
+    "¿Qué deben hacer las empresas al distribuir utilidades que no sean de la Cuenta de Utilidad Fiscal Neta?",
+    "¿Existen requisitos específicos para los préstamos a socios?"
   ]
 }

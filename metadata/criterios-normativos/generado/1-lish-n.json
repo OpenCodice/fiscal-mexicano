@@ -6,9 +6,10 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b68d0ade6a91c2f7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devoluciones y descuentos de derechos",
+  "denominacion_comun": "Devoluciones y ajustes fiscales",
   "temas": [
     "devoluciones",
     "descuentos",
@@ -16,20 +17,22 @@
     "derechos",
     "hidrocarburos",
     "LISH",
-    "LFD"
+    "regímenes tributarios"
   ],
   "terminos_coloquiales": [
-    "devoluciones de derechos",
-    "descuentos en derechos",
-    "bonificaciones en derechos",
-    "derechos de hidrocarburos"
+    "devoluciones de impuestos",
+    "descuentos fiscales",
+    "bonificaciones de impuestos",
+    "derechos sobre hidrocarburos",
+    "régimen de derechos LISH"
   ],
-  "resumen": "Los derechos que se pagan por actividades relacionadas con los hidrocarburos, a partir de 2015, no deben ser ajustados o modificados debido a devoluciones, descuentos o bonificaciones de periodos anteriores. Esto significa que los derechos correspondientes no se afectan por situaciones fiscales previas.",
+  "resumen": "Esta disposición establece que los derechos correspondientes al título tercero de la LISH no deben ser afectados por devoluciones, descuentos o bonificaciones relacionados con hidrocarburos de periodos anteriores al 1 de enero de 2015. También aclara que los regímenes tributarios de los derechos de los hidrocarburos de 2014 y los del título tercero de la LISH son distintos.",
   "preguntas_ejemplo": [
-    "¿Se pueden aplicar devoluciones a los derechos de hidrocarburos de años anteriores?",
-    "¿Qué pasa con los descuentos de derechos después de 2015?",
-    "¿Los derechos de la LISH pueden ser bonificados por ejercicios previos?",
-    "¿Cuál es el tratamiento de las devoluciones en la LISH?",
-    "¿Es posible ajustar los derechos de hidrocarburos por descuentos anteriores?"
+    "¿Pueden aplicarse devoluciones a los derechos de la LISH?",
+    "¿Cómo se manejan los descuentos fiscales para hidrocarburos?",
+    "¿Qué bonificaciones se pueden otorgar en el régimen de derechos LISH?",
+    "¿Qué derechos de hidrocarburos son aplicables desde 2015?",
+    "¿Los derechos de hidrocarburos de 2014 pueden ajustarse por devoluciones?",
+    "¿Existen modificaciones a los derechos establecidos en la LISH?"
   ]
 }

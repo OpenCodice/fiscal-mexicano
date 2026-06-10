@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1f9428e8a4f748ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación de oro y IVA",
+  "denominacion_comun": "Importación de oro",
   "temas": [
-    "IVA en importaciones",
-    "exenciones",
-    "oro",
-    "tasa del 0%",
-    "condicionantes"
+    "IVA",
+    "importación",
+    "exención",
+    "oro"
   ],
   "terminos_coloquiales": [
-    "IVA en oro",
+    "importación de oro",
+    "IVA oro",
     "exención de IVA",
-    "importación de joyas",
-    "Ley del IVA"
+    "oro con mínimo del 80%",
+    "exento de IVA"
   ],
-  "resumen": "No se paga IVA en la importación de oro con contenido del 80% o más. Existen condicionantes para el IVA en la enajenación de oro, que pueden excluir ciertas importaciones.",
+  "resumen": "No se pagará IVA en la importación de oro que cumpla con un contenido mínimo del 80%. Sin embargo, otras importaciones de productos de oro pueden estar sujetas a condiciones que excluyen su exención de IVA.",
   "preguntas_ejemplo": [
-    "¿Cuándo se paga IVA en la importación de oro?",
-    "¿Qué exenciones de IVA aplican para el oro?",
-    "¿Qué requisitos tiene que cumplir el oro para estar exento de IVA?",
-    "¿El IVA es aplicable a la importación de productos de oro?",
-    "¿Qué dice la Ley del IVA sobre la importación de oro?"
+    "¿Cuándo no se paga IVA en la importación de oro?",
+    "¿Qué contenido mínimo debe tener el oro para estar exento de IVA?",
+    "¿Las enajenaciones de oro están sujetas a IVA?",
+    "¿Qué condiciones debo cumplir para importar oro sin pagar IVA?",
+    "¿Qué pasa si quiero importar productos de oro que no cumplen con el contenido mínimo?"
   ]
 }

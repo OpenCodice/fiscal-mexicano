@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:92af4c0b5d297a1c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "IEPS en productos de confitería y helados",
+  "denominacion_comun": "Productos de confitería y helados con chicle",
   "temas": [
     "IEPS",
-    "productos de confitería",
-    "helados",
-    "density calórica",
+    "IVA",
+    "alimentos no básicos",
     "chicles",
     "gomas de mascar",
-    "tasa del IEPS",
-    "tasa del IVA"
+    "densidad calórica",
+    "tasa tributaria"
   ],
   "terminos_coloquiales": [
-    "IEPS",
-    "productos de confitería",
-    "tasa del 8%",
-    "tasa del 16%",
     "chicles",
-    "gomas de mascar"
+    "goma de mascar",
+    "productos de confitería",
+    "helados",
+    "agujas de productos de confitería"
   ],
-  "resumen": "Los productos de confitería y helados que contengan chicles o gomas de mascar con alta densidad calórica se gravan al 8% del IEPS. Si el producto es chicle o goma de mascar pura, se gravará al 16% del IVA.",
+  "resumen": "La enajenación o importación de alimentos no básicos con alta densidad calórica que contengan chicles está gravada con el IEPS del 8%. Si el producto es chicle puro, se gravará con una tasa del 16% de IVA, sin IEPS si se cumplen ciertas condiciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué tasa de IEPS aplican los helados con chicle?",
-    "¿Los chicles pagan IVA o IEPS?",
-    "¿Qué tipo de productos son considerados como confitería?",
-    "¿Cuál es la densidad calórica que determina la tasa del IEPS?",
-    "¿Cómo se gravan los productos de confitería con gomas de mascar?"
+    "¿Qué productos de confitería tienen IEPS?",
+    "¿Cuánto se paga de IVA por chicles?",
+    "¿Qué es la densidad calórica en productos alimenticios?",
+    "¿Los helados están gravados con IEPS?",
+    "¿Qué tasa de impuestos tienen los chicles?",
+    "¿Cómo se grava la importación de goma de mascar?"
   ]
 }

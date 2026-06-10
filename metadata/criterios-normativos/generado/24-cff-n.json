@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:04443bb21a99157d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Contribuciones retenidas",
   "temas": [
-    "obligaciones de los retenedores",
-    "entero de contribuciones",
-    "responsabilidad solidaria",
-    "autorización de pago a plazos",
-    "reducción de multas y recargos"
+    "retención de impuestos",
+    "responsabilidad del retenedor",
+    "pago a plazos",
+    "reducción de multas",
+    "cobro de contribuciones"
   ],
   "terminos_coloquiales": [
-    "retención de impuestos",
-    "responsables solidarios",
-    "CFF"
+    "retenedores",
+    "impuestos retenidos",
+    "pago de impuestos",
+    "responsabilidad solidaria"
   ],
-  "resumen": "Los retenedores tienen la obligación de retener impuestos a los contribuyentes y, si no lo hacen, deben pagar la cantidad que no retuvieron. Además, pueden solicitar pago a plazos y reducir multas, pero no en casos de contribuciones retenidas.",
+  "resumen": "Los retenedores deben realizar la retención de contribuciones a los contribuyentes. Si no lo hacen, son responsables de pagar la cantidad que debieron retener y pueden solicitar beneficios como el pago a plazos y reducción de multas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si el retenedor no retiene impuestos?",
-    "¿Puede un retenedor pagar impuestos que no retuvo?",
-    "¿Cómo funciona la responsabilidad solidaria del retenedor?",
-    "¿Qué beneficios puede obtener un retenedor si no realiza la retención?",
-    "¿Qué artículos del CFF regulan las contribuciones retenidas?"
+    "¿Qué pasa si el retenedor no realiza la retención de impuestos?",
+    "¿Cuáles son las obligaciones de los retenedores en cuanto a las contribuciones?",
+    "¿Pueden los retenedores solicitar pago a plazos si no retienen el impuesto?",
+    "¿Qué significa ser responsable solidario en términos de retención de impuestos?",
+    "¿Cómo afectan las multas a un retenedor que no realiza la retención?"
   ]
 }

@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6d85925e4f1ff590",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo del ajuste anual por inflación",
+  "denominacion_comun": "Ajuste anual por inflación",
   "temas": [
-    "Ajuste anual",
-    "Inflación",
-    "IVA",
-    "Impuesto acreditable",
-    "Créditos fiscales",
-    "Saldo a favor",
-    "Impuesto a pagar"
+    "IVA acreditable",
+    "determinación de ajustes",
+    "Ley del ISR",
+    "créditos fiscales"
   ],
   "terminos_coloquiales": [
-    "Ajuste por inflación",
-    "IVA acreditable",
-    "Ajuste anual ISR"
+    "ajuste por inflación",
+    "IVA",
+    "ajuste anual",
+    "impuesto acreditable"
   ],
-  "resumen": "El ajuste anual por inflación no debe considerar el IVA acreditable, ya que este no se considera un crédito exigible a la autoridad fiscal. El ajuste se calcula según lo que establece la Ley del ISR.",
+  "resumen": "El ajuste anual por inflación no debe considerar el IVA acreditable, ya que este no es un crédito exigible a la autoridad fiscal. Solo se determina de acuerdo con la Ley del ISR y los artículos específicos que regulan este cálculo.",
   "preguntas_ejemplo": [
     "¿Cómo se calcula el ajuste anual por inflación?",
-    "¿Se incluye el IVA en el ajuste anual por inflación?",
-    "¿Qué es el IVA acreditable?",
-    "¿Qué significa un saldo a favor en el IVA?",
-    "¿Cómo afecta el IVA al cálculo del ajuste anual?"
+    "¿El IVA acreditable cuenta para el ajuste por inflación?",
+    "¿Qué dice la Ley del ISR sobre el ajuste anual?",
+    "¿Qué impuestos debo considerar al hacer mi ajuste anual?"
   ]
 }

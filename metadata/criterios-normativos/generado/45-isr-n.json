@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f0623018456f669e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Devolución de saldos a favor",
   "temas": [
+    "impuesto anual",
+    "devolución",
+    "trabajador",
+    "retenciones",
+    "solicitud",
+    "cantidad a favor"
+  ],
+  "terminos_coloquiales": [
     "devolución de impuestos",
-    "saldos a favor",
+    "saldo a favor",
     "declaración anual",
     "compensación de retenciones"
   ],
-  "terminos_coloquiales": [
-    "solicitar devolución",
-    "saldo a favor",
-    "devolución de ISR"
-  ],
-  "resumen": "Los trabajadores pueden solicitar la devolución de las cantidades no compensadas siempre que exista un saldo a favor y se haya presentado la declaración del ejercicio. No es necesario que el patrón compense las cantidades primero.",
+  "resumen": "El trabajador puede solicitar la devolución de saldos a favor si presenta su declaración anual y hay cantidades no compensadas. No es necesario que el patrón compense estas cantidades en las retenciones futuras.",
   "preguntas_ejemplo": [
     "¿Cómo puedo solicitar la devolución de mi saldo a favor?",
-    "¿Qué necesito para que me devuelvan el ISR?",
-    "¿Mi patrón tiene que compensar las retenciones antes de que yo pida la devolución?",
-    "¿Qué hago si tengo un saldo a favor en mi declaración anual?",
-    "¿Es necesario notificar a mi patrón que haré mi declaración por mi cuenta?"
+    "¿Qué debo hacer si mi patrón no me compensó las cantidades retenidas?",
+    "¿Cuáles son los requisitos para la devolución de impuestos del trabajador?",
+    "¿Es necesario que el patrón compense el saldo antes de que yo lo pida?"
   ]
 }

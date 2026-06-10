@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:be33cc3b4e191d10",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Establecimiento permanente",
@@ -20,14 +21,19 @@
   ],
   "terminos_coloquiales": [
     "establecimiento permanente",
-    "EP"
+    "sucursal",
+    "agencia",
+    "oficina",
+    "fábrica",
+    "minas",
+    "canteras"
   ],
-  "resumen": "El establecimiento permanente se refiere a cualquier lugar de negocios donde se llevan a cabo actividades empresariales o se prestan servicios personales. Se considera como tal sucursales, agencias, oficinas, fábricas, entre otros.",
+  "resumen": "Un establecimiento permanente se refiere a cualquier lugar de negocios donde se realicen actividades empresariales o se presten servicios. Incluye ejemplos como sucursales, oficinas y fábricas, que deben cumplir ciertas características para ser considerados como tales.",
   "preguntas_ejemplo": [
-    "¿Qué se considera un establecimiento permanente según la Ley del ISR?",
-    "¿Cuáles son los ejemplos de establecimiento permanente?",
-    "¿Qué características debe tener un lugar para ser considerado establecimiento permanente?",
-    "¿Incluye la Ley del ISR a las sucursales como establecimientos permanentes?",
-    "¿Qué dice la Ley del ISR sobre las agencias y su estatus como establecimiento permanente?"
+    "¿Qué se considera un establecimiento permanente?",
+    "¿Cuáles son los ejemplos de establecimiento permanente según la ley?",
+    "¿Cómo se define un lugar de negocios para efectos fiscales?",
+    "¿Qué tipos de oficinas se cuentan como establecimiento permanente?",
+    "¿Las sucursales entran en la categoría de establecimiento permanente?"
   ]
 }

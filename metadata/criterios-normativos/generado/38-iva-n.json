@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:06069c587ab4ac90",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tasa del IVA para la enajenación de sal",
+  "denominacion_comun": "Tasa del IVA en enajenación de sal",
   "temas": [
-    "IVA",
-    "enajenación",
+    "tasa del IVA",
     "sal",
     "productos alimenticios",
-    "tasa 0%"
+    "aditivos alimenticios"
   ],
   "terminos_coloquiales": [
-    "IVA de sal",
-    "sal alimenticia",
-    "tasa cero IVA",
-    "Criterio 38/IVA/N"
+    "IVA sobre sal",
+    "sal comestible",
+    "sal para alimentos"
   ],
-  "resumen": "La enajenación de sal, aunque es un aditivo alimenticio, está gravada a la tasa del 0% del IVA si se destina a la alimentación humana o animal. Esto aplica independientemente de su uso en industrias no alimenticias.",
+  "resumen": "La enajenación de sal destinada a la alimentación está gravada a una tasa del 0% de IVA, incluso si se utiliza en industrias no alimenticias. Esto incluye la sal que se consume directamente o se combina con otros productos para la alimentación.",
   "preguntas_ejemplo": [
-    "¿Qué tasa de IVA se aplica a la venta de sal?",
-    "¿La sal tiene tasa 0% en IVA?",
-    "¿Se considera la sal un producto alimenticio?",
-    "¿Qué tipos de sal están sujetos a IVA bajo el criterio 38/IVA/N?",
-    "¿Cómo se clasifica la sal en la Ley del IVA?",
-    "¿Qué pasa con la sal para uso industrial?"
+    "¿Qué tasa de IVA tiene la sal que compro?",
+    "¿La sal para alimentos paga IVA?",
+    "¿El IVA es diferente para la sal industrial y la sal comestible?",
+    "¿Se aplica IVA a la sal si la uso en una industria diferente a la alimenticia?",
+    "¿Qué es la sal según la Ley del IVA?"
   ]
 }

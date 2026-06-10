@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2077b0640afe37f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Dividendos y utilidades distribuidos",
@@ -13,26 +14,25 @@
     "acumulación de ingresos",
     "personas físicas",
     "dividendos",
-    "utilidades distribuidas",
-    "títulos valor",
+    "utilidades",
+    "títulos valores",
     "partes sociales",
-    "utilidad fiscal",
+    "ingresos acumulables",
+    "deducciones autorizadas",
     "operaciones entre partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "ingresos por dividendos",
-    "utilidades pagadas",
-    "dividendos de acciones",
-    "utilidades en partes sociales",
-    "ISR dividendos"
+    "dividendos",
+    "utilidades",
+    "ingresos por títulos",
+    "ingresos por acciones"
   ],
-  "resumen": "Las personas físicas deben acumular los ingresos por dividendos o utilidades distribuidos que perciben. Esto incluye ingresos por omisiones o compras inexistentes, así como la utilidad fiscal determinada por las autoridades fiscales sobre sus inversiones.",
+  "resumen": "Las personas físicas deben acumular los ingresos percibidos por dividendos o utilidades distribuidos. Esto aplica al propietario del título valor o al titular de las partes sociales, y los ingresos se determinan considerando ciertas omisiones y la utilidad fiscal definida por las autoridades fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué son los dividendos y cómo se gravan?",
-    "¿Cómo se acumulan las utilidades distribuidas en el ISR?",
-    "¿Qué ingresos debo considerar como dividendos?",
-    "¿Cuándo debo declarar los dividendos que recibo?",
-    "¿Cómo afecta la utilidad fiscal a mis ingresos por dividendos?",
-    "¿Quiénes son considerados propietarios de los títulos valor en el ISR?"
+    "¿Qué ingresos debo incluir por dividendos?",
+    "¿Cómo afectan los dividendos a mis impuestos?",
+    "¿Quién está obligado a acumular utilidades distribuidas?",
+    "¿Qué se considera un ingreso por títulos valores?",
+    "¿Cuáles son las implicaciones fiscales de recibir dividendos?"
   ]
 }

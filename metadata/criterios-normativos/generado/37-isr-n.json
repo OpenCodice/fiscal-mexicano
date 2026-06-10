@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ad0c9fdf891e914d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Acciones extranjeras cotizadas",
   "temas": [
     "ISR",
-    "enajenación de acciones",
+    "ganancias",
+    "acciones",
     "sociedades extranjeras",
+    "enajenación",
     "tasa del 10%",
-    "bolsas de valores",
-    "valores autorizados",
-    "intermediación financiera"
+    "Bolsa Mexicana de Valores",
+    "Sistema Internacional de Cotizaciones"
   ],
   "terminos_coloquiales": [
     "acciones extranjeras",
-    "ISR acciones cotizadas",
-    "tasa ISR acciones",
-    "acciones en el extranjero"
+    "acciones en el extranjero",
+    "tasa del 10%",
+    "ISR",
+    "sociedades extranjeras"
   ],
-  "resumen": "Las ganancias de la enajenación de acciones emitidas por sociedades extranjeras cotizadas están sujetas a una tasa del 10% de ISR. Esto aplica a acciones de bolsas de valores concesionadas y no requiere un intermediario del mercado de valores mexicano para su venta.",
+  "resumen": "Las personas físicas deben pagar un ISR del 10% sobre las ganancias obtenidas por la venta de acciones emitidas por sociedades extranjeras que están cotizadas en bolsas de valores. Esta obligación se aplica sin importar si la venta se realiza a través de un intermediario del mercado de valores mexicano.",
   "preguntas_ejemplo": [
-    "¿Qué tasa de ISR se aplica a las acciones extranjeras cotizadas?",
-    "¿Cómo se grava la ganancia por la venta de acciones de sociedades extranjeras?",
-    "¿Necesito un intermediario para vender acciones extranjeras en México?",
-    "¿Qué acciones extranjeras están sujetas a ISR en México?",
-    "¿Cuál es el procedimiento para la enajenación de acciones extranjeras en México?"
+    "¿Qué impuesto se paga por vender acciones extranjeras?",
+    "¿Cuál es la tasa del ISR para ganancias de acciones de sociedades extranjeras?",
+    "¿Las ganancias por la enajenación de acciones extranjeras están sujetas a impuesto?",
+    "¿Se puede vender acciones extranjeras sin un intermediario?",
+    "¿Qué acciones extranjeras están autorizadas para cotizar en México?"
   ]
 }

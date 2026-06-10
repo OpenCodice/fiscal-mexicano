@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7a68121711ece4b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Registro de operaciones contables",
+  "denominacion_comun": "Registro de operaciones contables de asignatarios y contratistas",
   "temas": [
     "contabilidad",
     "moneda nacional",
-    "contratistas",
-    "asientos contables",
+    "hidrocarburos",
     "costos y gastos",
-    "Ley de Ingresos sobre Hidrocarburos"
+    "contratistas",
+    "registros contables",
+    "lámina de hidrocarburos",
+    "Secretaría de Hacienda"
   ],
   "terminos_coloquiales": [
-    "registro contable",
     "contabilidad de hidrocarburos",
-    "LISH",
-    "sistema monetario mexicano"
+    "registro contable",
+    "peso mexicano",
+    "costo de extracción",
+    "gastos de operación"
   ],
-  "resumen": "Las personas obligadas a llevar contabilidad deben registrar sus operaciones en moneda nacional. Esto se aplica especialmente a los contratistas en el sector de hidrocarburos, quienes deben seguir ciertas reglas y lineamientos establecidos por la Secretaría de Hacienda.",
+  "resumen": "Los contratistas deben llevar su contabilidad en moneda nacional, específicamente en pesos mexicanos. Esto incluye consignar todos los registros contables, costos y gastos relacionados con la exploración y extracción de hidrocarburos según las disposiciones fiscales vigentes.",
   "preguntas_ejemplo": [
-    "¿Cómo debo llevar la contabilidad de mis operaciones?",
-    "¿Qué moneda debo usar para mis registros contables?",
-    "¿Cuáles son las reglas para los contratistas en la contabilidad de hidrocarburos?",
-    "¿Qué dice la LISH sobre el registro de asientos contables?",
-    "¿Es obligatorio usar el peso mexicano para la contabilidad?"
+    "¿Cómo deben llevar su contabilidad los contratistas de hidrocarburos?",
+    "¿Qué moneda deben utilizar para el registro contable en México?",
+    "¿Cuáles son las obligaciones contables para los asignatarios en contratos de hidrocarburos?",
+    "¿Qué disposiciones fiscales regulan el registro de operaciones contables de contratistas?",
+    "¿Deben los contratistas registrar costos y gastos en peso mexicano?"
   ]
 }

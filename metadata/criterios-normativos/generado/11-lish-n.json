@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:36c33f5a531bc942",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aportaciones a fideicomisos de inversión",
   "temas": [
     "fideicomisos",
     "aportaciones",
-    "ingreso acumulable",
-    "contratos de hidrocarburos",
+    "ingresos acumulables",
+    "contratistas",
+    "costos de abandono",
     "producción compartida",
-    "costos de abandono"
+    "intereses"
   ],
   "terminos_coloquiales": [
-    "aportaciones fideicomisarias",
     "fideicomiso de abandono",
-    "ISR",
-    "Ley del ISR"
+    "aporte al fideicomiso",
+    "ingresos para contratistas",
+    "intereses generados"
   ],
-  "resumen": "Los contratistas de exploración y extracción de hidrocarburos deben constituir un fideicomiso para fondear operaciones de abandono. Los intereses generados al calcular las aportaciones al fideicomiso se restan de los costos de abandono y se consideran ingreso acumulable para efectos fiscales.",
+  "resumen": "Los contratistas que manejan fideicomisos de inversión para operaciones de abandono deben considerar como ingreso acumulable los intereses que se restan de las aportaciones trimestrales al fideicomiso. Esto significa que, al disminuir las aportaciones por los intereses generados, el contratista incrementa su patrimonio.",
   "preguntas_ejemplo": [
     "¿Cómo se calculan las aportaciones al fideicomiso de abandono?",
-    "¿Qué son los fideicomisos de inversión en hidrocarburos?",
-    "¿Cómo afecta el ISR a los contratistas con fideicomisos?",
-    "¿Qué ingresos se consideran acumulables en este contexto?",
-    "¿Cuáles son las obligaciones fiscales de los contratistas de hidrocarburos?"
+    "¿Qué ingresos debe considerar un contratista según la Ley del ISR?",
+    "¿Qué pasa con los intereses generados en un fideicomiso de inversión?",
+    "¿Cómo influye el fideicomiso en los costos de abandono?",
+    "¿Qué obligaciones tienen los contratistas en la producción compartida?"
   ]
 }

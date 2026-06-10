@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2800cd0eeac06d1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Derecho de exploración de hidrocarburos",
   "temas": [
-    "Deducción",
-    "Utilidad compartida",
-    "Pagos provisionales",
-    "Base anual",
-    "Derechos fiscales",
-    "Ley de Ingresos sobre Hidrocarburos"
+    "deducción fiscal",
+    "pago provisional",
+    "utilidad compartida",
+    "base gravable"
   ],
   "terminos_coloquiales": [
-    "Derecho de exploración",
-    "Deducción de pagos",
-    "Utilidad compartida",
-    "LISH"
+    "derecho de exploración",
+    "hidrocarburos",
+    "pago de derecho",
+    "utilidad compartida"
   ],
-  "resumen": "El derecho de exploración de hidrocarburos pagado se puede deducir de los ingresos para calcular los pagos provisionales mensuales del derecho por la utilidad compartida, pero no es deducible para el pago anual de este derecho. Esto se establece en la Ley de Ingresos sobre Hidrocarburos (LISH).",
+  "resumen": "El derecho de exploración de hidrocarburos puede disminuirse solo en los pagos provisionales mensuales del derecho por la utilidad compartida, pero no se permite su deducción en el cálculo del pago anual. Las disposiciones fiscales son de aplicación estricta en la determinación de la base del impuesto.",
   "preguntas_ejemplo": [
-    "¿Se puede deducir el derecho de exploración de hidrocarburos en el pago anual?",
-    "¿Cómo se calcula la utilidad compartida?",
-    "¿Qué derechos fiscales se aplican a la exploración de hidrocarburos?",
-    "¿Qué deducciones son válidas para el derecho de utilidad compartida?",
-    "¿Cuál es la diferencia entre pagos provisionales y pagos anuales de la utilidad compartida?"
+    "¿Puedo deducir el derecho de exploración de hidrocarburos en mi pago anual?",
+    "¿Cómo se calcula el derecho por utilidad compartida?",
+    "¿Qué deducciones se permiten para el derecho de exploración de hidrocarburos?",
+    "¿Cuándo se puede restar el derecho de exploración al calcular pagos provisionales?",
+    "¿Qué dice la LISH sobre el derecho de exploración de hidrocarburos?"
   ]
 }

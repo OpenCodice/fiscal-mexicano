@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ad520a1a9dfda6e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ingresos por honorarios",
   "temas": [
     "Ley del ISR",
-    "Honorarios",
     "Servicios profesionales",
-    "Ingresos por actividades empresariales"
+    "Actividades empresariales",
+    "Criterios normativos"
   ],
   "terminos_coloquiales": [
-    "ingresos por honorarios",
+    "honorarios",
+    "ingresos por servicios",
     "servicios profesionales",
-    "Ley del ISR",
-    "Título V"
+    "ISR"
   ],
-  "resumen": "La Ley del ISR establece los ingresos por honorarios y por la prestación de servicios profesionales, diferenciando entre estos y los ingresos por actividades empresariales. Se refiere específicamente a los ingresos que se consideran bajo el artículo 100 de la misma ley.",
+  "resumen": "La Ley del ISR clasifica los ingresos por honorarios como aquellos provenientes de la prestación de un servicio profesional. Estos ingresos se detallan en el artículo 100 de la misma ley y son diferentes de los ingresos por actividades empresariales.",
   "preguntas_ejemplo": [
-    "¿Qué ingresos se consideran por honorarios según la Ley del ISR?",
-    "¿Cuáles son los requisitos para la prestación de un servicio profesional?",
-    "¿Qué diferencia hay entre ingresos por honorarios y por actividades empresariales?",
-    "¿Qué dice el artículo 100 de la Ley del ISR sobre ingresos por servicios?",
-    "¿Dónde se encuentran las disposiciones sobre ingresos por honorarios?"
+    "¿Qué ingresos se consideran honorarios según la Ley del ISR?",
+    "¿Cómo se clasifican los ingresos por servicios profesionales?",
+    "¿Qué dice la Ley del ISR sobre los ingresos por actividades empresariales?",
+    "¿Cuáles son las diferencias entre honorarios y actividades empresariales en la ley?",
+    "¿Dónde encuentro información sobre ingresos por servicios profesionales en la Ley del ISR?"
   ]
 }

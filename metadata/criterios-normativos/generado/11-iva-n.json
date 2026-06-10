@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3ce49d0ffc214201",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Suplementos alimenticios",
   "temas": [
     "IVA",
-    "alimentos",
-    "exenciones",
-    "tasa del 0%",
-    "importación",
     "productos alimenticios",
-    "legislación fiscal"
+    "exenciones",
+    "importación",
+    "tasa del 0%"
   ],
   "terminos_coloquiales": [
     "suplementos",
-    "suplementos dietéticos",
-    "IVA en suplementos",
-    "no exentos de IVA"
+    "nutrición",
+    "dietéticos",
+    "vitaminas",
+    "minerales"
   ],
-  "resumen": "Los suplementos alimenticios no se consideran productos destinados a la alimentación según la Ley del IVA, lo que significa que no están sujetos a la tasa del 0% ni exentos en su importación. Su uso es opcional y pueden contener advertencias sobre su consumo.",
+  "resumen": "Los suplementos alimenticios no son considerados productos destinados a la alimentación según la Ley del IVA, por lo que no aplican la tasa del 0% en su venta ni están exentos en su importación. Esto se debe a que se busca hacer un distingo entre ellos y otros productos alimenticios por razones fiscales.",
   "preguntas_ejemplo": [
-    "¿Los suplementos alimenticios tienen IVA?",
-    "¿Por qué los suplementos no están exentos de IVA?",
-    "¿Qué dice la ley sobre los suplementos alimenticios?",
-    "¿Los suplementos dietéticos son productos alimenticios?",
-    "¿Cómo se clasifican los suplementos en la legislación fiscal?"
+    "¿Por qué no se aplica tasa del 0% a los suplementos alimenticios?",
+    "¿Los suplementos alimenticios están exentos de IVA?",
+    "¿Qué se considera un producto alimenticio en la Ley del IVA?",
+    "¿Qué pasa con la importación de suplementos alimenticios?",
+    "¿Qué dice la Ley del IVA sobre suplementos?"
   ]
 }

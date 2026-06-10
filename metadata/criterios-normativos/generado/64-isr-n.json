@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6b637ee7770252dc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intereses pagados a residentes en el extranjero",
   "temas": [
-    "Impuesto sobre la Renta",
-    "Intereses",
-    "Residentes en el extranjero",
-    "Retención de impuesto",
-    "Tasas de interés",
-    "Criterios normativos",
-    "Operaciones entre personas relacionadas",
-    "Sociedades financieras de objeto múltiple"
+    "Ley del ISR",
+    "intereses",
+    "residentes en el extranjero",
+    "retención de impuestos",
+    "sociedades financieras",
+    "títulos de crédito"
   ],
   "terminos_coloquiales": [
-    "retención de intereses",
+    "intereses por créditos",
     "impuesto sobre intereses",
-    "intereses a extranjeros",
-    "Ley del ISR",
-    "ISR"
+    "pago de intereses al extranjero",
+    "retención del 4.9%",
+    "sociedades de objeto múltiple"
   ],
-  "resumen": "La disposición establece cómo se gravan los intereses pagados a residentes en el extranjero, determinando que el impuesto se retiene en el país y aplicando una tasa específica. También define casos en los que la tasa de retención no es aplicable según la participación accionaria de los beneficiarios.",
+  "resumen": "Este criterio regula el tratamiento fiscal de los intereses pagados a residentes en el extranjero, estableciendo que se retendrán impuestos si se superan ciertos porcentajes de participación en la empresa. También detalla cómo se calcula la tasa de retención sobre estos intereses.",
   "preguntas_ejemplo": [
-    "¿Cómo se debe calcular la retención de impuestos sobre intereses pagados a extranjeros?",
-    "¿Qué tasa se aplica a los intereses pagados a residentes en el extranjero?",
-    "¿Hay alguna limitación para la retención de impuestos sobre intereses si tengo acciones en la empresa?",
-    "¿Qué pasa si un beneficiario recibe más del 5% de los intereses de los títulos?",
-    "¿A qué entidades se aplica la tasa del 4.9% en intereses?",
-    "¿Cómo afectan las sociedades financieras a la retención de intereses para residentes en el extranjero?"
+    "¿Qué impuestos debo pagar sobre intereses a extranjeros?",
+    "¿Cómo se calcula la retención por intereses pagados a no residentes?",
+    "¿Existen excepciones para la retención del 4.9% en intereses a extranjeros?",
+    "¿Qué son las sociedades financieras de objeto múltiple en este contexto?",
+    "¿Qué significa ser accionista de más del 10% en relación con los intereses?",
+    "¿Cómo afecta la ley del ISR a los intereses de títulos de crédito?"
   ]
 }

@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f69c9ad55cec9081",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Garantía del interés fiscal",
   "temas": [
     "créditos fiscales",
     "contribuciones omitidas",
-    "garantías",
-    "Sistema Bancario Mexicano",
+    "sistema bancario",
+    "resoluciones fiscales",
     "exención de garantías"
   ],
   "terminos_coloquiales": [
+    "garantizar impuestos",
     "interés fiscal",
-    "garantía fiscal",
-    "créditos fiscales",
-    "CFF"
+    "relevados de garantía",
+    "créditos con el SAT",
+    "bancos sin garantía"
   ],
-  "resumen": "Las instituciones del Sistema Bancario Mexicano no están obligadas a otorgar garantía del interés fiscal. Esto se refiere a que no necesitan constituir depósitos o fianzas cuando tienen créditos fiscales exigibles a favor del fisco federal.",
+  "resumen": "Las instituciones del Sistema Bancario Mexicano no están obligadas a otorgar la garantía del interés fiscal. Esto se debe a que, mientras no estén en liquidación, se les considera con solvencia suficiente para cumplir con sus obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Quiénes están relevados de garantizar el interés fiscal?",
-    "¿Qué establece el CFF sobre la garantía del interés fiscal?",
-    "¿Las instituciones bancarias deben garantizar créditos fiscales?",
-    "¿Qué es el interés fiscal en el contexto del CFF?",
-    "¿Cuáles son las formas de garantizar el interés fiscal según la ley?"
+    "¿Los bancos tienen que garantizar los impuestos?",
+    "¿Qué significa estar relevado de la garantía del interés fiscal?",
+    "¿Cómo afecta la garantía del interés fiscal a los créditos fiscales?",
+    "¿Cuáles son las instituciones que no necesitan otorgar garantías fiscales?",
+    "¿Qué sucede si hay contribuciones omitidas?"
   ]
 }

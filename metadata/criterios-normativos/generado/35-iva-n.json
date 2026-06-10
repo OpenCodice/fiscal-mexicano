@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:408984c8cc978d0d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Importación de servicios",
   "temas": [
-    "IVA",
-    "importación de servicios",
-    "residentes en el extranjero",
-    "causación del impuesto",
-    "contraprestación",
-    "aprovechamiento de servicios"
+    "Causación del IVA",
+    "Servicios prestados en el extranjero",
+    "Residentes en el extranjero",
+    "Contraprestación",
+    "Aprovechamiento en territorio nacional"
   ],
   "terminos_coloquiales": [
-    "IVA por servicios importados",
-    "importación de servicios",
-    "IVA a residentes en el extranjero",
-    "ISRE"
+    "impuesto por importar servicios",
+    "IVA importación servicios",
+    "servicios de particulares en el extranjero"
   ],
-  "resumen": "Se considera importación de servicios cuando se aprovechan en México los servicios prestados por no residentes. El impuesto se causa en el momento en que se paga la contraprestación por dichos servicios.",
+  "resumen": "Se considera importación de servicios cuando se aprovechan en México servicios prestados por residentes en el extranjero. El IVA se causa en el momento en que se paga efectivamente la contraprestación por esos servicios.",
   "preguntas_ejemplo": [
-    "¿Qué se considera importación de servicios en México?",
-    "¿Cuándo se causa el IVA por servicios prestados por extranjeros?",
-    "¿Qué pasa si un residente en el extranjero presta un servicio en México?",
-    "¿Cómo se calcula el IVA por importación de servicios?",
-    "¿Qué artículos de la Ley del IVA están relacionados con la importación de servicios?"
+    "¿Cuándo debo pagar IVA por servicios importados?",
+    "¿Qué servicios están considerados como importación de servicios?",
+    "¿Cómo se causa el IVA en servicios de residentes en el extranjero?",
+    "¿Qué pasa si contrato un servicio en el extranjero?",
+    "¿Qué significa aprovechar servicios en territorio nacional?"
   ]
 }

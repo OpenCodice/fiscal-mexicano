@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:163a488d2d5e79b7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pérdidas por créditos incobrables",
   "temas": [
-    "deducciones fiscales",
+    "deducción de pérdidas",
     "créditos incobrables",
-    "notoria imposibilidad de cobro",
-    "contribuyentes",
-    "información fiscal"
+    "notoria imposibilidad práctica de cobro",
+    "actividades empresariales",
+    "informe al deudor",
+    "plazo de prescripción",
+    "ingreso acumulable"
   ],
   "terminos_coloquiales": [
     "créditos incobrables",
-    "deducción de pérdidas",
-    "Ley del ISR",
-    "imposibilidad práctica de cobro"
+    "pérdidas fiscales",
+    "recuperación de deudas",
+    "deducción de deudas perdidas",
+    "Ley del ISR"
   ],
-  "resumen": "La ley establece que las pérdidas por créditos incobrables se pueden deducir si se demuestra la imposibilidad de cobro o si se cumplen ciertos requisitos. También se requiere informar al deudor sobre la deducción para que este acumule el ingreso correspondiente.",
+  "resumen": "El artículo establece que se pueden deducir las pérdidas por créditos incobrables si se cumplen ciertos requisitos, como demostrar la imposibilidad de cobro. También obliga al acreedor a informar al deudor sobre la deducción para que este acumule el ingreso correspondiente.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para deducir un crédito incobrable?",
-    "¿Cuáles son los requisitos para la deducción de créditos incobrables?",
-    "¿Qué significa notoria imposibilidad de cobro?",
-    "¿Cómo informo a un deudor sobre una deducción de crédito incobrable?",
-    "¿Qué pasa si el deudor es una empresa?"
+    "¿Cómo puedo deducir pérdidas por créditos que no he podido cobrar?",
+    "¿Qué debo hacer si tengo créditos incobrables?",
+    "¿Cuándo se considera que hay imposibilidad de cobrar un crédito?",
+    "¿Cuál es el procedimiento para informar al deudor sobre créditos incobrables?",
+    "¿Qué pasa con las pérdidas por créditos incobrables en la Ley del ISR?"
   ]
 }

@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8500620b11d590de",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Partes Relacionadas",
+  "denominacion_comun": "Partes relacionadas en el ISR",
   "temas": [
     "personas morales",
     "ingresos acumulables",
     "deducciones autorizadas",
-    "contraprestaciones",
-    "asociaciones en participación"
+    "precios de transferencia",
+    "definición de partes relacionadas"
   ],
   "terminos_coloquiales": [
-    "partes relacionadas",
-    "ISR",
-    "operaciones con partes relacionadas"
+    "operaciones con partes relacionadas",
+    "precios entre partes relacionadas",
+    "parte relacionada",
+    "transactions con partes relacionadas"
   ],
-  "resumen": "Las personas morales que realicen operaciones con partes relacionadas deben determinar sus ingresos y deducciones basándose en precios y montos de operaciones comparables. Dos o más personas son consideradas partes relacionadas si tienen participación en la administración, control o capital una de la otra.",
+  "resumen": "La Ley del ISR define a las partes relacionadas y establece que las personas morales deben considerar precios de operaciones comparables para determinar ingresos y deducciones. Se considera que dos o más personas son partes relacionadas si hay participación en la administración, control o capital de las mismas.",
   "preguntas_ejemplo": [
-    "¿Qué son las partes relacionadas en la Ley del ISR?",
-    "¿Cómo se determinan los ingresos acumulables para partes relacionadas?",
-    "¿Qué sucede si una empresa tiene operaciones con partes relacionadas?",
-    "¿Cuáles son las reglas para las deducciones autorizadas en operaciones con partes relacionadas?",
-    "¿Cómo se identifican las partes relacionadas según la ley?"
+    "¿Qué son las partes relacionadas en el ISR?",
+    "¿Cómo se determinan las deducciones para partes relacionadas?",
+    "¿Qué debo considerar al calcular mis ingresos acumulables con partes relacionadas?",
+    "¿Qué establece la Ley del ISR sobre precios de transferencia?",
+    "¿Cómo se define la relación entre personas morales según el ISR?"
   ]
 }

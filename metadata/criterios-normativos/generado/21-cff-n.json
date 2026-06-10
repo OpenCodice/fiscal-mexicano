@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b799a2a3159853fc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación en CFF",
+  "denominacion_comun": "Notificación de actos administrativos",
   "temas": [
     "notificación",
     "actos administrativos",
-    "derechos del contribuyente",
-    "buzón tributario"
+    "buzón tributario",
+    "correo certificado",
+    "citatorios",
+    "requerimientos"
   ],
   "terminos_coloquiales": [
     "notificación personal",
-    "notificación por correo certificado",
-    "notificación electrónica",
-    "notificación vía buzón tributario"
+    "correo de notificación",
+    "buzón tributario",
+    "notificación de requerimientos",
+    "citación"
   ],
-  "resumen": "El artículo 134, fracción I del CFF establece tres medios alternativos de notificación para citatorios y actos administrativos: de forma personal, por correo certificado o a través del buzón tributario. Esto garantiza que el contribuyente sea informado adecuadamente sobre el acto administrativo.",
+  "resumen": "El artículo 134, fracción I del CFF establece que la notificación de actos administrativos se puede realizar de manera personal, por correo certificado o a través del buzón tributario. Estos métodos aseguran que el contribuyente esté informado y pueda responder adecuadamente.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los medios de notificación de un acto administrativo?",
-    "¿Qué debo hacer si no recibo una notificación personal?",
-    "¿Cómo se considera válida una notificación por buzón tributario?",
-    "¿Qué implicaciones tiene una notificación enviada por correo certificado?",
-    "¿Puedo responder a un citatorio notificado electrónicamente?"
+    "¿Cómo se me notifican los requerimientos fiscales?",
+    "¿Qué métodos existen para notificar actos administrativos?",
+    "¿Qué es el buzón tributario y cómo funciona?",
+    "¿Pueden notificarme por correo certificado?",
+    "¿Qué debo hacer si no recibo la notificación?"
   ]
 }

@@ -6,27 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b32bfc800d13fff0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plaguicidas e IEPS",
+  "denominacion_comun": "Plaguicidas y su impuesto",
   "temas": [
     "impuesto sobre plaguicidas",
     "categoría de peligro",
     "toxicidad aguda",
     "registro sanitario",
-    "importación de plaguicidas"
+    "permiso de importación",
+    "Norma Oficial Mexicana",
+    "enajenación de plaguicidas"
   ],
   "terminos_coloquiales": [
-    "impuesto plaguicidas",
-    "IEPS plaguicidas",
-    "categoría toxicológica"
+    "impuesto a plaguicidas",
+    "plaguicidas",
+    "toxicos",
+    "NOM-232",
+    "registro sanitario de plaguicidas",
+    "permiso para importar plaguicidas"
   ],
-  "resumen": "El criterio establece que las personas que enajenan o importan plaguicidas están obligadas a pagar el IEPS, según la categoría de peligro de toxicidad aguda determinada por una norma oficial. Para ello, es necesario contar con un registro sanitario y, en su caso, un permiso de importación.",
+  "resumen": "El criterio establece que el impuesto a los plaguicidas se aplica según la categoría de peligro de toxicidad aguda, la cual debe determinarse conforme a normas específicas. Para hacerlo, se requiere un registro sanitario vigente y, en su caso, un permiso de importación emitido por la autoridad competente.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para calcular el IEPS de plaguicidas?",
-    "¿Qué es la categoría de peligro de toxicidad aguda en plaguicidas?",
-    "¿Cómo acredita la Comisión Federal el peligro de toxicidad aguda?",
-    "¿Qué implica un registro sanitario para los plaguicidas?",
-    "¿Quién regula la importación de plaguicidas en México?"
+    "¿Quiénes deben pagar el impuesto sobre plaguicidas?",
+    "¿Qué es la categoría de peligro de toxicidad aguda?",
+    "¿Cómo se obtienen los permisos para importar plaguicidas?",
+    "¿Qué requisitos establece la NOM-232 para los plaguicidas?",
+    "¿Qué documentos necesito para acreditar la toxicidad de un plaguicida?"
   ]
 }

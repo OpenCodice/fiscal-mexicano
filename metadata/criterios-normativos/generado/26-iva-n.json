@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d55ee894cc350b69",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Casa habitación y IVA",
+  "denominacion_comun": "IVA en enajenación de casa habitación",
   "temas": [
     "enajenación",
-    "exenciones",
-    "servicios de construcción",
     "casa habitación",
-    "instalaciones",
-    "construcción adherida al suelo"
+    "exención del IVA",
+    "servicios de construcción",
+    "inmuebles"
   ],
   "terminos_coloquiales": [
-    "IVA casa habitación",
-    "exención de IVA",
+    "casa",
+    "venta de casa",
+    "no pago de IVA",
     "servicios de construcción",
-    "construcciones para casa",
-    "casa habitación IVA",
-    "Criterio IVA"
+    "construcción de casa"
   ],
-  "resumen": "La ley establece que no se pagará IVA en la venta de construcciones destinadas a casa habitación. Sin embargo, ciertos servicios de construcción no están exentos del impuesto por sí mismos.",
+  "resumen": "La ley establece que no se pagará IVA en la venta de inmuebles destinados a casa habitación ni en ciertos servicios de construcción relacionados, siempre que se trate de obras adheridas al suelo. Sin embargo, servicios parciales como instalaciones hidráulicas o eléctricas no están exentos.",
   "preguntas_ejemplo": [
-    "¿Se paga IVA al vender una casa habitación?",
-    "¿Cuáles servicios de construcción están exentos de IVA?",
-    "¿Qué dice la ley sobre la enajenación de casa habitación y el IVA?",
-    "¿Los trabajos de instalación en casa habitación tienen IVA?",
-    "¿Qué servicios no están exentos al construir una casa?",
-    "¿El IVA se aplica a la construcción de casas prefabricadas?"
+    "¿Tengo que pagar IVA si vendo mi casa?",
+    "¿Qué servicios de construcción están exentos de IVA para casas?",
+    "¿Qué significa la exención de IVA en la venta de casas?",
+    "¿Puedo realizar mejoras en mi casa sin pagar IVA?",
+    "¿Qué tipos de construcción no están exentos de IVA?",
+    "¿Se paga IVA por la venta de un inmueble destinado a vivienda?"
   ]
 }

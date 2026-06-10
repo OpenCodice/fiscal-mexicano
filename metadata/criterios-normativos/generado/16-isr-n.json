@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:28010390efc29bd3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intereses devengados",
+  "denominacion_comun": "Deducción de intereses devengados",
   "temas": [
-    "deducción de intereses",
+    "intereses devengados",
+    "deducción fiscal",
     "comprobantes fiscales",
     "requisitos de deducibilidad",
-    "gastos indispensables",
-    "intereses moratorios"
+    "intereses moratorios",
+    "contabilidad",
+    "inversiones en negocios"
   ],
   "terminos_coloquiales": [
     "deducción de intereses",
-    "intereses a cargo",
-    "Ley del ISR",
-    "ISRL",
-    "intereses devengados"
+    "intereses bancarios",
+    "gastos financieros",
+    "ISR",
+    "intereses sobre préstamos"
   ],
-  "resumen": "La Ley del ISR permite deducir los intereses devengados durante el ejercicio, siempre que se cumplan ciertos requisitos. Estos incluyen que los gastos sean indispensables para la actividad del contribuyente y que estén debidamente registrados en contabilidad.",
+  "resumen": "La Ley del ISR permite la deducción de intereses devengados en el ejercicio siempre que cumplan con ciertos requisitos de deducibilidad y estén debidamente registrados en contabilidad. Sin embargo, se excluyen los intereses moratorios de esta deducción.",
   "preguntas_ejemplo": [
-    "¿Qué intereses puedo deducir según la Ley del ISR?",
-    "¿Cuáles son los requisitos para deducir intereses devengados?",
-    "¿Los intereses moratorios son deducibles?",
-    "¿Qué comprobantes necesito para deducir intereses?",
-    "¿Qué significa que un gasto sea indispensable para mi actividad?",
-    "¿Cómo puedo registrar los intereses en mi contabilidad?"
+    "¿Puedo deducir los intereses que pagué este año?",
+    "¿Qué requisitos debo cumplir para deducir intereses devengados?",
+    "¿Cuáles son los intereses que no puedo deducir?",
+    "¿Necesito comprobantes para deducir intereses bancarios?",
+    "¿Los intereses por préstamos son deducibles en mi declaración de ISR?"
   ]
 }

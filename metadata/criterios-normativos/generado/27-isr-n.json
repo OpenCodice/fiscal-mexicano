@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a848a803ef38ba9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Actualización de pérdidas fiscales",
   "temas": [
-    "pérdida fiscal",
-    "actualización",
-    "INPC",
+    "pérdidas fiscales",
+    "factor de actualización",
     "Ley del ISR",
-    "factor de actualización"
+    "INPC",
+    "determinación de valor",
+    "ejercicios fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo actualizar pérdidas fiscales",
-    "método de actualización",
-    "ISR",
-    "factor aplicable"
+    "pérdidas fiscales",
+    "actualización de pérdidas",
+    "Ley del ISR",
+    "INPC",
+    "factor de actualización"
   ],
-  "resumen": "La Ley del ISR establece que las pérdidas fiscales de un ejercicio deben actualizarse usando un factor que se calcula con base en el INPC. Este factor se obtiene dividiendo el INPC del mes de diciembre del ejercicio en que ocurrió la pérdida, entre el del mes de julio del mismo ejercicio.",
+  "resumen": "El criterio establece cómo se debe actualizar el monto de las pérdidas fiscales que se han acumulado durante un ejercicio fiscal, utilizando un factor que depende del INPC. Este proceso tiene lugar desde la segunda mitad del ejercicio en que se registró la pérdida hasta el final del mismo ejercicio.",
   "preguntas_ejemplo": [
-    "¿Cómo se actualizan las pérdidas fiscales según la Ley del ISR?",
-    "¿Qué es el factor de actualización para pérdidas fiscales?",
-    "¿Cómo se calcula el INPC para pérdidas fiscales?",
-    "¿En qué periodo se debe realizar la actualización de pérdidas fiscales?",
-    "¿Qué establece el artículo 57 de la Ley del ISR sobre pérdidas fiscales?"
+    "¿Cómo actualizo mis pérdidas fiscales según la Ley del ISR?",
+    "¿Qué es el factor de actualización de pérdidas fiscales?",
+    "¿Cómo se determina el INPC para actualizar pérdidas fiscales?",
+    "¿Cuándo debo aplicar el factor de actualización a mis pérdidas fiscales?",
+    "¿Qué artículos de la Ley del ISR regulan las pérdidas fiscales?",
+    "¿Cómo se calcula el valor de una pérdida fiscal en mi declaración?"
   ]
 }

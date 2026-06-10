@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b2fc06ce8b5fa2c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de cantidades y acumulación de intereses",
+  "denominacion_comun": "Devolución de intereses ISR",
   "temas": [
-    "devolución de impuestos",
+    "devueltas de impuestos",
     "intereses acumulables",
+    "personas morales",
+    "personas físicas",
     "retención de ISR",
-    "personas físicas y morales"
+    "autoridad fiscal",
+    "cálculo de intereses",
+    "devoluciones extemporáneas"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
-    "intereses por devolución",
-    "ISR de intereses",
-    "CFF",
-    "Ley del ISR"
+    "intereses sobre devoluciones",
+    "retención de impuestos",
+    "ISR",
+    "devolución de intereses"
   ],
-  "resumen": "Cuando la autoridad fiscal devuelve cantidades y paga intereses, estos se consideran acumulables para el ISR. La autoridad debe indicar que los intereses son sujetos a retención para personas físicas.",
+  "resumen": "La autoridad fiscal debe considerar los intereses generados por devoluciones como ingresos acumulables para el ISR. En el caso de personas físicas, se debe retener el ISR correspondiente al pagar esos intereses.",
   "preguntas_ejemplo": [
-    "¿Cuándo se consideran acumulables los intereses por devolución de impuestos?",
-    "¿Qué pasa con los intereses que paga la autoridad fiscal en una devolución?",
-    "¿Hay retención de impuestos sobre intereses devueltos?",
-    "¿Cómo se calculan los intereses por devoluciones extemporáneas?",
-    "¿Cuál es el tratamiento fiscal de los intereses devueltos por la autoridad?"
+    "¿Cómo se calcula el ISR de los intereses que me devolvió la autoridad fiscal?",
+    "¿Los intereses que me pagaron por la devolución de impuestos son acumulables?",
+    "¿Qué debo hacer si la autoridad fiscal me devuelve intereses?",
+    "¿Tengo que pagar impuestos sobre los intereses de la devolución de ISR?",
+    "¿Qué implica la retención de ISR sobre los intereses de devoluciones?"
   ]
 }

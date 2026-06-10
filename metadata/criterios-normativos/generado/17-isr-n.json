@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8ea5fc340ab39988",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Operaciones con Recursos de Procedencia Ilícita",
+  "denominacion_comun": "Operaciones con Recursos Ilícitos",
   "temas": [
     "deducciones autorizadas",
-    "erogaciones no deducibles",
+    "recursos de procedencia ilícita",
     "ley de orden público",
-    "prevención del lavado de dinero"
+    "sanciones administrativas"
   ],
   "terminos_coloquiales": [
-    "deducciones ilegales",
-    "recursos ilícitos",
-    "Ley de Prevención de Lavado",
-    "LPL",
-    "errores en deducciones"
+    "dinero sucio",
+    "operaciones ilegales",
+    "deducciones",
+    "ISR"
   ],
-  "resumen": "Las erogaciones relacionadas con actos u operaciones prohibidos por la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita no pueden deducirse para el ISR. Cualquier gasto ligado a actividades ilícitas es considerado no deducible y se anula conforme a la ley.",
+  "resumen": "Las erogaciones relacionadas con operaciones consideradas ilícitas no pueden deducirse para efectos del ISR. Cualquier gasto derivado de actos prohibidos por la ley será considerado nulo y no contribuible.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si gasto en algo relacionado con recursos ilícitos?",
-    "¿Puedo deducir gastos si están conectados a actividades ilegales?",
-    "¿Qué se considera una erogación no deducible según la ley?",
-    "¿Qué dice la Ley de Prevención de Lavado de Dinero sobre las deducciones?",
-    "¿Cómo afecta la ley mis deducciones fiscales?"
+    "¿Qué gastos no puedo deducir por operaciones ilícitas?",
+    "¿Cuáles son las implicaciones de hacer transacciones con dinero sucio?",
+    "¿Qué dice la ley sobre el uso de recursos de procedencia ilícita?",
+    "¿Puedo deducir gastos si están relacionados con actividades ilegales?",
+    "¿Qué consecuencias hay si deduzco gastos de operaciones prohibidas?"
   ]
 }

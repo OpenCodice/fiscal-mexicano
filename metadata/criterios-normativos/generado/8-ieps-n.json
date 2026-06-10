@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:522cf91ec985b7b1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Gelatina o grenetina comestible",
+  "denominacion_comun": "Gelatina o grenetina",
   "temas": [
     "IEPS",
-    "gravedad de impuesto",
     "productos de confitería",
     "densidad calórica",
-    "azúcares",
     "edulcorantes"
   ],
   "terminos_coloquiales": [
-    "gelatina",
+    "gelatina comestible",
     "grenetina",
-    "impuesto sobre gelatina"
+    "dulces",
+    "productos de confitería",
+    "IEPS"
   ],
-  "resumen": "La gelatina o grenetina de grado comestible estará sujeta al pago del IEPS si contiene azúcares u otros edulcorantes y su densidad calórica es de 275 kilocalorías o mayor por cada 100 gramos.",
+  "resumen": "La gelatina o grenetina de grado comestible está sujeta al pago del IEPS si contiene azúcares u otros edulcorantes y tiene una densidad calórica de 275 kilocalorías o más por cada 100 gramos. Se considera parte de los productos de confitería según la Ley del IEPS.",
   "preguntas_ejemplo": [
-    "¿Cuándo se paga el IEPS por la gelatina?",
-    "¿La gelatina que compré tiene que pagar impuestos?",
-    "¿Qué alimentos están gravados con el IEPS?",
-    "¿Qué significa que un producto de confitería pague IEPS?",
-    "¿Cuánto es el IEPS para la gelatina?"
+    "¿Cuándo debo pagar IEPS por la gelatina?",
+    "¿La grenetina está sujeta a impuestos?",
+    "¿Qué productos son considerados de confitería según la ley?",
+    "¿Cuál es la densidad calórica mínima para que la gelatina deba pagar IEPS?",
+    "¿Qué ingredientes hacen que la gelatina pague IEPS?"
   ]
 }

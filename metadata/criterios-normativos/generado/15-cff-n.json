@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bac89b75994b39e7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Nulidad y revocación de resoluciones fiscales",
+  "denominacion_comun": "Declaración de nulidad y revocación",
   "temas": [
+    "nulidad lisa y llana",
+    "revocación de resoluciones",
     "cumplimiento espontáneo",
-    "orden de visita domiciliaria",
-    "requerimiento fiscal",
-    "resolución administrativa",
-    "sentencias del Tribunal",
     "multas fiscales"
   ],
   "terminos_coloquiales": [
-    "nulidad de actos fiscales",
-    "revocación de resolución",
-    "Cumplimiento Espontáneo",
-    "CFF"
+    "anular una multa",
+    "revocación de una resolución",
+    "cumplimiento de obligaciones",
+    "orden de visita",
+    "requerimiento"
   ],
-  "resumen": "El artículo 73 del CFF establece que el cumplimiento de obligaciones fiscales puede considerarse espontáneo si se corrige después de una orden de visita, siempre que no se emita una nueva solicitud de verificación. Si el acto es declarado nulo, no se impondrán multas, salvo que se reconozca la legalidad del acto en un recurso administrativo.",
+  "resumen": "El cumplimiento de obligaciones fiscales puede ser considerado espontáneo si se anula una resolución que impuso una multa, siempre y cuando no haya nuevas gestiones de la autoridad. Si se reconoce la legalidad de la actuación de la autoridad, la multa puede ser impuesta posteriormente.",
   "preguntas_ejemplo": [
-    "¿Qué es una nulidad lisa y llana en el ámbito fiscal?",
-    "¿Cuándo se considera cumplido el pago de impuestos de forma espontánea?",
-    "¿Qué efectos tiene una orden de visita domiciliaria en mis obligaciones fiscales?",
-    "¿Cómo puedo revocar una resolución fiscal?",
-    "¿Puedo evitar multas si cumplo después de una notificación fiscal?"
+    "¿Cómo se puede anular una multa fiscal?",
+    "¿Qué es una revocación de resolución en términos fiscales?",
+    "¿Cuándo se considera que una obligación fiscal se cumplió de manera espontánea?",
+    "¿Qué pasa si la autoridad me hace una orden de visita y luego se anula?",
+    "¿Se puede volver a multar si se revoca una resolución previa?"
   ]
 }

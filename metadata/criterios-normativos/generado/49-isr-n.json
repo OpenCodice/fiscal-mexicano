@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5edfb85259f26a93",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Criterio de maquila",
+  "denominacion_comun": "Operación de maquila",
   "temas": [
     "Ley del ISR",
     "Programa de Maquila",
     "Maquinaria y equipo",
-    "Transformación y reparación",
-    "Mercancías importadas",
-    "Industria manufacturera",
-    "Contratos de maquila",
-    "Condiciones de operación"
+    "Transformación de mercancías",
+    "Importación temporal",
+    "Procesos de manufactura",
+    "Herramientas y refacciones"
   ],
   "terminos_coloquiales": [
-    "Criterio 49/ISR/N",
-    "Régimen de Maquila",
-    "Maquila",
-    "Equipos de maquila"
+    "maquila",
+    "programa de maquila",
+    "transformación de mercancías",
+    "maquinaria",
+    "importar mercancías",
+    "herramientas"
   ],
-  "resumen": "Este criterio establece que las operaciones de maquila deben realizarse con maquinaria y equipo que es propiedad del residente en el extranjero con el que se tiene un contrato. Además, se especifica que herramientas, instrumentos, moldes y refacciones no se consideran como maquinaria en este contexto.",
+  "resumen": "La operación de maquila debe realizarse con maquinaria y equipo propiedad del residente en el extranjero que tenga un contrato de maquila. Las empresas pueden importar temporalmente mercancías específicas para llevar a cabo los procesos de manufactura.",
   "preguntas_ejemplo": [
-    "¿Qué maquinaria se puede usar en las operaciones de maquila?",
-    "¿Qué requisitos debo cumplir para la operación de maquila según la Ley del ISR?",
-    "¿Cuáles son las mercancías que se pueden importar en un programa de maquila?",
-    "¿Qué incluye el contrato de maquila?",
-    "¿Se pueden usar herramientas y refacciones en la maquila?",
-    "¿Cuáles son las condiciones para el proceso de manufactura en la maquila?"
+    "¿Qué maquinaria se puede usar en la operación de maquila?",
+    "¿Cuáles son las condiciones para operar bajo el Programa de Maquila?",
+    "¿Qué mercancías se pueden importar temporalmente para maquila?",
+    "¿Cómo se define un contrato de maquila en la Ley del ISR?",
+    "¿Qué herramientas están permitidas en el proceso productivo de maquila?"
   ]
 }

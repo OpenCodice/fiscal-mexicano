@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:94016b73f77f4a20",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Deducciones de vehículos pick up",
   "temas": [
-    "deducciones del ISR",
-    "vehículos pick up",
-    "camiones de carga",
+    "deducciones",
+    "vehículos",
+    "Ley del ISR",
+    "camiones",
     "automóviles",
-    "Ley del ISR"
+    "inversiones",
+    "reglamento",
+    "clasificación"
   ],
   "terminos_coloquiales": [
-    "deducción de pick up",
-    "deducción de camiones",
+    "deducciones de pick up",
     "camiones de carga",
+    "gastos de vehículos",
+    "autos",
+    "IVA",
     "Ley del ISR"
   ],
-  "resumen": "Los vehículos pick up se consideran camiones de carga para efectos fiscales y no deben ser clasificados como automóviles. Por lo tanto, las deducciones aplicables son distintas a las de los automóviles convencionales.",
+  "resumen": "La Ley del ISR establece que los vehículos pick up son considerados camiones de carga y no automóviles. Esto afecta su deducibilidad fiscal, donde las inversiones en automóviles tienen límites específicos y deducciones máximas permitidas.",
   "preguntas_ejemplo": [
-    "¿Los pick up son deducibles como automóviles?",
-    "¿Cuál es el tratamiento fiscal de los camiones de carga?",
-    "¿Qué vehículos son considerados para deducción en la Ley del ISR?",
-    "¿Cómo se clasifican los vehículos para deducciones fiscales?",
-    "¿Qué debo saber sobre la deducción de vehículos pick up?"
+    "¿Puedo deducir un pick up en mis impuestos?",
+    "¿Cuál es el límite de deducción para vehículos de carga?",
+    "¿Qué tipo de vehículos se consideran camiones según la Ley del ISR?",
+    "¿Los pick up son considerados automóviles para fines fiscales?",
+    "¿Qué deducciones se aplican a los vehículos de carga?"
   ]
 }

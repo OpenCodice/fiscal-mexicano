@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:004e01951e38164d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medidas de apremio",
@@ -13,25 +14,26 @@
     "desobediencia",
     "resistencia",
     "autoridad fiscal",
+    "mandato legítimo",
     "multas",
-    "asesoramiento",
-    "resistencia a mandato",
-    "sanciones",
-    "facultades de comprobación"
+    "aseguramiento precautorio",
+    "fuerza pública",
+    "causa de fuerza mayor"
   ],
   "terminos_coloquiales": [
-    "medidas de apremio",
     "sanciones fiscales",
-    "desobediencia a autoridad",
-    "CFF",
-    "Código Penal"
+    "medidas coercitivas",
+    "mandatos fiscales",
+    "multas",
+    "desobediencia a la autoridad",
+    "resistencia a la autoridad"
   ],
-  "resumen": "Las medidas de apremio son acciones que puede tomar la autoridad fiscal ante la desobediencia o resistencia de los contribuyentes a cumplir con un mandato. Estas medidas deben agotarse en un orden específico antes de proceder penalmente.",
+  "resumen": "Las autoridades fiscales pueden aplicar medidas de apremio para sancionar a contribuyentes que desobedezcan o se resistan a un mandato. Estas medidas deben agotarse en un orden específico antes de proceder penalmente contra el infractor.",
   "preguntas_ejemplo": [
-    "¿Qué son las medidas de apremio en el CFF?",
-    "¿Cuáles son las medidas que puede tomar la autoridad fiscal?",
-    "¿Qué pasa si me resisto a un mandato de la autoridad fiscal?",
-    "¿Se pueden aplicar multas por desobediencia fiscal?",
-    "¿Qué medidas se deben seguir antes de un procedimiento penal fiscal?"
+    "¿Qué medidas puede tomar la autoridad fiscal si un contribuyente no cumple?",
+    "¿Cuáles son las consecuencias de desobedecer un mandato fiscal?",
+    "¿Se pueden aplicar multas por resistencia a órdenes fiscales?",
+    "¿Es necesario agotar todas las medidas antes de proceder penalmente?",
+    "¿Qué se considera una causa de fuerza mayor ante requerimientos fiscales?"
   ]
 }

@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2d528c4c29ce7801",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Traslado de IVA a tasa incorrecta",
+  "denominacion_comun": "Traslado de IVA a una tasa incorrecta",
   "temas": [
-    "obligación de pago del IVA",
+    "IVA",
     "tasa del 16%",
     "tasa del 0%",
     "actos exentos",
     "acreditamiento de IVA",
-    "traslado indebido",
+    "cobro indebido",
     "ISR",
     "gastos"
   ],
   "terminos_coloquiales": [
-    "cobro de IVA incorrecto",
-    "IVA a tasa equivocada",
-    "traslado indevido de IVA"
+    "cobro incorrecto de IVA",
+    "IVA mal trasladado",
+    "IVA exento",
+    "deducibilidad de IVA",
+    "gastos no acreditables"
   ],
-  "resumen": "Cuando un contribuyente cobra IVA a una tasa incorrecta, el monto cobrado en exceso no puede considerarse como IVA. Esto afecta tanto al que cobra como al que paga, ya que el que cobró deberá acumularlo para ISR y el que pagó lo verá como un gasto, no como impuesto acreditable.",
+  "resumen": "El criterio establece que si un contribuyente aplica una tasa incorrecta al IVA al realizar operaciones, lo cobrado en exceso no se considera IVA y no puede ser acreditado. Además, el contribuyente que recibió el cobro indebido debe registrarlo como gasto en lugar de impuesto acreditable.",
   "preguntas_ejemplo": [
     "¿Qué pasa si cobré IVA a una tasa incorrecta?",
-    "¿Cómo se afecta mi ISR si traslado un IVA que no es correcto?",
-    "¿Puedo acreditar un IVA que cobré a tasa incorrecta?",
-    "¿Qué hago si me cobraron IVA que no debía?",
-    "¿Qué implica el traslado indebido de IVA?"
+    "¿Puedo acreditar un IVA que no me trasladaron correctamente?",
+    "¿Cómo debo contabilizar un IVA que me cobraron de más?",
+    "¿Qué debo hacer si el impuesto que pagué no es el correcto?",
+    "¿El IVA mal trasladado cuenta como gasto?"
   ]
 }

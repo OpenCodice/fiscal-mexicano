@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d1f92be14400c6f2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Medicinas de patente",
@@ -18,20 +19,21 @@
     "antígenos",
     "vacunas",
     "homeopatía",
-    "veterinarias"
+    "medicinas veterinarias"
   ],
   "terminos_coloquiales": [
-    "medicinas de patente",
-    "IVA en medicinas",
-    "productos farmacéuticos"
+    "medicinas",
+    "fármacos",
+    "vacunas",
+    "homeopatías",
+    "medicinas veterinarias"
   ],
-  "resumen": "Las medicinas de patente incluyen especialidades farmacéuticas, estupefacientes, substancias psicotrópicas, antígenos y vacunas. Los productos que requieran mezclarse con otras sustancias o procesos industriales no se consideran medicinas de patente y deben pagar la tasa general del IVA.",
+  "resumen": "Se consideran medicinas de patente aquellas especialidades farmacéuticas y productos relacionados que no requieran un proceso de elaboración adicional. La enajenación e importación de productos que necesiten transformarse para ser catalogados como medicinas de patente estarán gravados con la tasa general del IVA.",
   "preguntas_ejemplo": [
-    "¿Qué son las medicinas de patente según la ley?",
-    "¿Los productos homeopáticos están gravados con IVA?",
-    "¿Qué productos están exentos de IVA al vender medicinas?",
-    "¿Qué ocurre si una medicina necesita un proceso de elaboración?",
-    "¿Cuál es la clasificación para las sustancias psicotrópicas en el IVA?",
-    "¿Las vacunas tienen IVA o están exentas?"
+    "¿Qué son las medicinas de patente según la Ley del IVA?",
+    "¿Qué productos no se consideran medicinas de patente?",
+    "¿Cómo se grava la enajenación de ciertas medicinas?",
+    "¿Las vacunas se consideran medicinas de patente?",
+    "¿Qué pasa con las sustancias que requieren mezcla para ser medicinas?"
   ]
 }

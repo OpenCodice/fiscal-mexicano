@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:044a4d57b0e5b48b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aumento de la pérdida fiscal en declaraciones complementarias",
+  "denominacion_comun": "Aumento de la pérdida fiscal",
   "temas": [
     "pérdida fiscal",
-    "declaraciones complementarias",
     "utilidad fiscal",
+    "declaraciones complementarias",
     "amortización",
-    "derecho a disminuir",
+    "derechos del contribuyente",
     "ejercicios fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo aumentar la pérdida fiscal",
-    "declaraciones de corrección",
-    "utilidad fiscal incrementada",
-    "pérdida convertida en utilidad",
+    "perder la pérdida fiscal",
+    "declaración complementaria",
+    "utilidad fiscal",
+    "aumentar la pérdida",
     "ISR",
-    "derecho a disminuir pérdidas"
+    "impuesto sobre la renta"
   ],
-  "resumen": "La normativa establece que si un contribuyente no reduce su pérdida fiscal del ejercicio anterior, perderá el derecho a hacerlo en años posteriores. Sin embargo, si incrementa su utilidad fiscal a través de ciertas declaraciones, podrá seguir amortizando la pérdida fiscal anterior.",
+  "resumen": "Los contribuyentes no pueden disminuir la pérdida fiscal de años anteriores si no lo hicieron en el ejercicio correspondiente. Además, si declaran aumentos en su utilidad, no pierden el derecho a disminuir esa cantidad igual a la utilidad incrementada.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no disminuyo mi pérdida fiscal?",
-    "¿Puedo aumentar mi pérdida fiscal con declaraciones complementarias?",
-    "¿Cómo se calcula la utilidad fiscal después de un incremento?",
-    "¿Qué debo hacer si la autoridad fiscal aumenta mi utilidad declarada?",
-    "¿Cuánto tiempo tengo para disminuir una pérdida fiscal?"
+    "¿Puedo reportar un aumento en mi utilidad fiscal?",
+    "¿Cómo afecta la declaración complementaria a mi pérdida fiscal?",
+    "¿Cuántos ejercicios puedo utilizar la pérdida fiscal?",
+    "¿Qué sucede si convierto mi pérdida en utilidad fiscal?"
   ]
 }

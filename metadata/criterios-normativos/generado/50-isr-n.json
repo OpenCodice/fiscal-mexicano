@@ -6,32 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:35d01b9bf009b11f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Operación de maquila",
   "temas": [
-    "Decreto IMMEX",
     "ISR",
-    "Maquinaria y equipo",
-    "Contratos de maquila",
-    "Estímulos fiscales",
-    "Contribuyentes",
-    "Propiedad",
-    "Residente en el extranjero"
+    "Decreto IMMEX",
+    "maquinaria y equipo",
+    "contrato de maquila",
+    "propiedad de maquinaria",
+    "estímulos fiscales",
+    "residente en el extranjero"
   ],
   "terminos_coloquiales": [
-    "Operación maquiladora",
-    "Maquila",
-    "Decreto IMMEX",
-    "ISR para maquilas"
+    "maquila",
+    "estímulos fiscales a la industria",
+    "contrato de maquila",
+    "maquinaria",
+    "IMMEX"
   ],
-  "resumen": "El criterio establece las condiciones bajo las cuales al menos el 30% de la maquinaria utilizada en la operación de maquila debe ser propiedad del residente en el extranjero con el que se tiene un contrato de maquila. El 70% restante puede ser propiedad de diversas partes, sin restricciones específicas.",
+  "resumen": "El criterio establece que los contribuyentes que cumplieron con sus obligaciones fiscales al 31 de diciembre de 2009 deben tener al menos el 30% de la maquinaria en la operación de maquila propiedad del residente en el extranjero con quien tienen un contrato. El restante 70% de la maquinaria puede ser de su propiedad o de partes relacionadas.",
   "preguntas_ejemplo": [
-    "¿Qué porcentaje de maquinaria debe ser propiedad del residente en el extranjero en una maquila?",
-    "¿Qué estipula el Decreto IMMEX sobre la propiedad de la maquinaria en la operación de maquila?",
-    "¿Cuáles son las obligaciones fiscales para maquiladoras según el ISR?",
-    "¿Puedo usar maquinaria de terceros en mi operación de maquila?",
-    "¿Cómo se determina la propiedad de la maquinaria en la maquila?",
-    "¿Qué pasa si no cumplo con el porcentaje de maquinaria requerido?"
+    "¿Cuánto de la maquinaria debe ser propiedad del residente en el extranjero en una maquila?",
+    "¿Qué porcentaje de maquinaria en operaciones de maquila se puede tener de forma independiente?",
+    "¿Qué estipulaciones se deben cumplir para los estímulos fiscales en maquilas?",
+    "¿Cómo afecta el contrato de maquila a la propiedad de la maquinaria?",
+    "¿Qué implica el Decreto IMMEX para los maquiladores?"
   ]
 }

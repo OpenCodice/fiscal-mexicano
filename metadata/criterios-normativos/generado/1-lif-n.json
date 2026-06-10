@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9db42d6f6a09d07",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Créditos fiscales impugnados",
   "temas": [
-    "condonación de créditos fiscales",
-    "créditos fiscales pagados",
-    "reintegro de montos",
+    "condonación de créditos",
+    "créditos fiscales",
+    "deuda tributaria",
     "medios de defensa",
-    "procedimiento administrativo de ejecución"
+    "procedimiento administrativo",
+    "interés fiscal"
   ],
   "terminos_coloquiales": [
+    "deuda de impuestos",
     "créditos fiscales",
-    "condonación",
-    "deuda tributaria",
-    "CFF",
-    "LIF"
+    "impugnación de impuestos",
+    "condonación de impuestos",
+    "CFF"
   ],
-  "resumen": "Este criterio aborda la condonación de créditos fiscales que han sido impugnados y establece que los créditos fiscales pagados no pueden ser condonados. Además, se contempla la posibilidad de reintegrar montos entregados por el contribuyente si se desisten de su medio de defensa.",
+  "resumen": "Este criterio establece que los créditos fiscales impugnados pueden ser condonados siempre que el contribuyente haya desistido de su medio de defensa. Además, aclara que los créditos fiscales pagados no pueden ser condonados y que el monto entregado por el contribuyente podría ser susceptible de reintegro.",
   "preguntas_ejemplo": [
-    "¿Se puede condonar un crédito fiscal que ya pagué?",
-    "¿Qué pasa si impugno un crédito fiscal?",
-    "¿Puedo recuperar el dinero de un crédito fiscal impugnado?",
-    "¿Cuáles son los requisitos para la condonación de créditos fiscales?",
-    "¿Qué es un procedimiento administrativo de ejecución?"
+    "¿Puedo condonar un crédito fiscal que ya pagué?",
+    "¿Qué pasa con los créditos fiscales que impugno?",
+    "¿Cuál es el proceso para solicitar la condonación de un crédito fiscal?",
+    "¿El monto que entregué para asegurar el crédito fiscal se me puede regresar?",
+    "¿Qué sucede si me desisto de impugnar un crédito fiscal?"
   ]
 }

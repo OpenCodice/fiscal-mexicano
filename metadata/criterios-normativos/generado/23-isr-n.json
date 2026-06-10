@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3dacbe560d8aca97",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Capitalización delgada",
   "temas": [
     "pérdidas cambiarias",
-    "deudas",
-    "capital contable",
+    "deudas extranjeras",
+    "partes relacionadas",
+    "deducciones",
     "intereses",
-    "partes relacionadas"
+    "capital contable"
   ],
   "terminos_coloquiales": [
-    "pérdidas cambiarias no deducibles",
-    "capitalización delgada",
-    "Ley del ISR"
+    "pérdidas cambiarias",
+    "deudas con el extranjero",
+    "intereses no deducibles",
+    "capital",
+    "deuda relacionada"
   ],
-  "resumen": "Las pérdidas cambiarias que surjan de deudas que superen tres veces el capital contable del contribuyente no son deducibles, especialmente si estas deudas son con partes relacionadas en el extranjero.",
+  "resumen": "Las pérdidas cambiarias generadas por deudas que superan el triple del capital contable del contribuyente y que provienen de partes relacionadas en el extranjero no son deducibles. Esta disposición busca regular cómo se deben tratar estas pérdidas en la Ley del ISR.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir las pérdidas cambiarias de deudas con partes relacionadas?",
-    "¿Qué es la capitalización delgada en el contexto del ISR?",
-    "¿Cómo afecta el capital contable a las deducciones de intereses?",
-    "¿Cuáles son las reglas para deducir intereses de deudas extranjeras?",
-    "¿Las deudas con partes relacionadas son siempre deducibles?"
+    "¿Las pérdidas cambiarias son deducibles en mi declaración?",
+    "¿Qué pasa si tengo deudas con partes relacionadas en el extranjero?",
+    "¿Cómo afecta la capitalización delgada mis deducciones fiscales?",
+    "¿Qué significa que las deudas superen el capital contable?",
+    "¿Hay excepciones para deducir intereses de deudas con el extranjero?"
   ]
 }

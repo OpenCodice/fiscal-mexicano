@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3dbdb25978fedb26",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Erogaciones para hidrocarburos",
+  "denominacion_comun": "Erogaciones para la utilidad compartida",
   "temas": [
-    "costos y gastos deducibles",
-    "utilidad compartida",
+    "costos deducibles",
+    "gastos deducibles",
     "exploración de hidrocarburos",
-    "transporte de hidrocarburos",
-    "entrega de hidrocarburos"
+    "extracción de petróleo",
+    "transportación de hidrocarburos"
   ],
   "terminos_coloquiales": [
-    "deducción de costos",
-    "gastos en petróleo",
-    "utilidad compartida",
-    "LISH"
+    "gastos de exploración",
+    "costos de extracción",
+    "hidrocarburos",
+    "derecho por la utilidad compartida",
+    "utilidad compartida"
   ],
-  "resumen": "La normativa establece que se consideran deducibles los costos y gastos necesarios para la extracción, exploración, transportación y entrega de hidrocarburos, con ciertas excepciones y siguiendo lineamientos específicos. Esto aplica para determinar la base del derecho por la utilidad compartida.",
+  "resumen": "Se consideran deducibles los costos y gastos necesarios para la exploración, extracción, transportación y entrega de hidrocarburos para determinar la base del derecho por la utilidad compartida, a excepción de ciertas inversiones. Se deben seguir los lineamientos establecidos por la normatividad aplicable.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los gastos deducibles para la utilidad compartida?",
-    "¿Qué costos puedo deducir al extraer hidrocarburos?",
-    "¿Cómo se determinan las erogaciones deducibles en la LISH?",
+    "¿Qué erogaciones son deducibles para la utilidad compartida?",
+    "¿Puedo deducir los costos de transporte de hidrocarburos?",
+    "¿Cuáles gastos son considerados necesarios para la exploración de petróleo?",
     "¿Qué inversiones no son deducibles según la LISH?",
-    "¿Qué lineamientos debo seguir para deducir costos de hidrocarburos?",
-    "¿Cómo se aplica la deducción de gastos en la entrega de hidrocarburos?"
+    "¿Qué normas debo seguir para deducir gastos de extracción?"
   ]
 }

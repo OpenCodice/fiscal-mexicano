@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2aaf456ea9736cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Donatarias autorizadas",
+  "denominacion_comun": "Donatarias Autorizadas",
   "temas": [
-    "Requisitos para donatarias",
+    "Requisitos para ser donataria",
+    "Donativos deducibles",
     "Actividades permitidas",
-    "Destino de activos",
-    "Revocación de autorización",
-    "Estatutos sociales"
+    "Objetivo social",
+    "Liquidación de entidades",
+    "Patrimonio de donatarias"
   ],
   "terminos_coloquiales": [
-    "Donatarios autorizados",
-    "Deducciones por donativos",
-    "ISR",
-    "Ley del ISR"
+    "donatarias",
+    "donativos deducibles",
+    "asociaciones sin fines de lucro",
+    "ONG",
+    "organismos de beneficencia"
   ],
-  "resumen": "Las instituciones sin fines de lucro deben cumplir ciertos requisitos para ser consideradas donatarias autorizadas, incluyendo realizar actividades específicas y destinar sus activos a estos fines. Si se revoca su autorización, deben donar su patrimonio a otras entidades autorizadas.",
+  "resumen": "Las instituciones autorizadas para recibir donativos deducibles deben realizar actividades específicas y destinar sus activos a su objeto social. Al momento de liquidarse, deben entregar su patrimonio a otras entidades autorizadas. La autorización puede ser revocada y, en tal caso, también deben destinar su patrimonio adecuadamente.",
   "preguntas_ejemplo": [
     "¿Qué se necesita para ser donataria autorizada?",
-    "¿Qué actividades puede realizar una donataria?",
-    "¿Qué pasa si se revoca la autorización de donataria?",
-    "¿Cómo se debe destinar el patrimonio de una donataria al liquidarse?",
-    "¿Qué dice la Ley del ISR sobre donatarias?"
+    "¿Qué tipos de actividades pueden realizar las donatarias?",
+    "¿Qué pasa si una donataria se liquida?",
+    "¿Cómo puedo recibir donativos deducibles?",
+    "¿Cuáles son los beneficios de ser una donataria autorizada?"
   ]
 }

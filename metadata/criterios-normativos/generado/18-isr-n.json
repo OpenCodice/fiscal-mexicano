@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ed02af6eb4c73652",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Concentración de transacciones de tesorería",
+  "denominacion_comun": "Deducciones y acreditamiento del IVA",
   "temas": [
-    "deducción de IVA",
+    "deducciones autorizadas",
     "acreditamiento del IVA",
-    "cuentas centralizadoras",
-    "transacciones entre empresas",
-    "personas morales"
+    "comprobantes fiscales",
+    "transacciones de tesorería",
+    "personas morales",
+    "concentración de pagos"
   ],
   "terminos_coloquiales": [
-    "concentración de tesorería",
-    "centralizadora",
-    "deducciones fiscales",
-    "acreditamiento de IVA"
+    "deducciones",
+    "IVA",
+    "pago con tarjeta",
+    "transacciones entre empresas",
+    "flujos de efectivo",
+    "grupo de empresas"
   ],
-  "resumen": "Las personas morales que forman parte de un grupo y centralizan sus transacciones de tesorería a través de una empresa del grupo pueden cumplir con los requisitos de deducibilidad del ISR y del acreditamiento del IVA incluso si no hay flujos de efectivo directos entre las entidades. Esto significa que pueden deducir y acreditar el IVA de sus operaciones sin necesidad de realizar pagos físicos.",
+  "resumen": "El criterio establece que las personas morales que centralizan sus transacciones de tesorería a través de una empresa del mismo grupo pueden cumplir con los requisitos de deducibilidad del ISR y acreditamiento del IVA, incluso si no hay flujos de efectivo. Esto facilita la deducción y acreditamiento de gastos relacionados.",
   "preguntas_ejemplo": [
-    "¿Puedo deducir el IVA si centralizo mis pagos en una empresa del grupo?",
-    "¿Qué requisitos debo cumplir para acreditar el IVA en transacciones entre empresas del mismo grupo?",
-    "¿Cómo funciona la deducibilidad en las concentraciones de tesorería?",
-    "¿Qué es una cuenta centralizadora y cómo afecta mis impuestos?",
-    "¿Las operaciones entre empresas del grupo son deducibles?"
+    "¿Cómo puedo deducir el IVA si centralizo mis pagos?",
+    "¿Qué requisitos debo cumplir para las deducciones en mi empresa?",
+    "¿Las transacciones entre empresas del mismo grupo cuentan para el acreditamiento del IVA?",
+    "¿Puedo usar monederos electrónicos para mis deducciones fiscales?",
+    "¿Qué pasa si no hay flujos de efectivo entre mis empresas?"
   ]
 }

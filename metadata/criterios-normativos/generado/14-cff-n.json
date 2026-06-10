@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b2cb2a4952308780",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Aplicación de multas en el CFF",
   "temas": [
     "infracciones",
     "multas",
-    "Código Fiscal de la Federación",
     "sanciones",
-    "reformas",
+    "reforma fiscal",
     "situaciones jurídicas",
-    "derogaciones"
+    "aplicación de la ley"
   ],
   "terminos_coloquiales": [
-    "multas fiscales",
-    "infracciones fiscales",
-    "CFF",
-    "sanciones por infracciones"
+    "multa",
+    "infracción",
+    "sanción",
+    "código fiscal",
+    "CFF"
   ],
-  "resumen": "El CFF establece que las multas son aplicadas de acuerdo con la ley vigente en el momento en que se comete la infracción. Si una infracción es derogada, no se pueden aplicar multas correspondientes a esa infracción.",
+  "resumen": "El criterio establece que las multas se aplican de acuerdo a la ley vigente en el momento de la infracción y no pueden ser modificadas una vez notificadas. Si una infracción es suprimida por reforma, no se aplican las multas correspondientes a ella.",
   "preguntas_ejemplo": [
-    "¿Cómo se aplican las multas si cambia la ley?",
-    "¿Qué pasa si me notifican una multa y luego la sanción se reduce?",
-    "¿Se aplican multas por infracciones que ya fueron derogadas?",
-    "¿Cuál es el criterio para determinar la multa menor?",
-    "¿Cómo se aplican las sanciones en el CFF?"
+    "¿Cómo se aplican las multas por infracciones fiscales?",
+    "¿Qué sucede si se reforma una sanción después de cometer una infracción?",
+    "¿Se puede modificar una multa después de ser notificada?",
+    "¿Qué pasa si una infracción es eliminada por la ley?",
+    "¿Cuál es el criterio para determinar la multa menor?"
   ]
 }

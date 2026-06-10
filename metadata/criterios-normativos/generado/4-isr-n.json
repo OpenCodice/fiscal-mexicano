@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8c497f31cf7566ab",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acreditación de residencia fiscal",
+  "denominacion_comun": "Residencia fiscal",
   "temas": [
-    "residencia fiscal",
-    "tratados para evitar la doble tributación",
+    "acreditación de residencia fiscal",
+    "tratados para evitar doble tributación",
     "certificación de residencia",
     "declaración del ISR"
   ],
   "terminos_coloquiales": [
-    "certificación de residencia",
-    "residencia en el extranjero",
-    "acreditación fiscal",
+    "comprobar residencia fiscal",
+    "certificado de residencia",
+    "declaración del último ejercicio",
     "ISR"
   ],
-  "resumen": "Los contribuyentes pueden acreditar su residencia fiscal en otro país usando certificaciones de residencia o la declaración del último ejercicio del ISR si ese país tiene un tratado con México para evitar la doble tributación.",
+  "resumen": "La ley establece que los contribuyentes pueden acreditar su residencia fiscal en un país con el que México tiene un tratado para evitar la doble tributación, usando certificaciones de residencia o su declaración del último ejercicio del ISR.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo probar que soy residente fiscal en otro país?",
-    "¿Qué necesito para acreditar mi residencia fiscal en el extranjero?",
-    "¿Existen requisitos específicos para la certificación de residencia?",
-    "¿Cómo funciona el tratado para evitar la doble tributación?",
-    "¿Qué dice el artículo 6 del Reglamento del ISR sobre residencia fiscal?"
+    "¿Cómo puedo comprobar mi residencia fiscal en el extranjero?",
+    "¿Qué documentos necesito para acreditar mi residencia fiscal?",
+    "¿Qué es la certificación de residencia?",
+    "¿Puedo usar mi declaración del ISR para acreditar mi residencia?",
+    "¿Cómo funcionan los tratados para evitar la doble tributación?"
   ]
 }

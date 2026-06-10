@@ -6,28 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6be2450d6c0e810a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos administrativos",
+  "denominacion_comun": "Recursos administrativos y formularios de pago",
   "temas": [
-    "recurso de revocación",
+    "recursos de revocación",
     "formularios múltiples de pago",
     "cartas invitación",
-    "resoluciones fiscales",
-    "procedimiento administrativo"
+    "citatorios",
+    "interés jurídico",
+    "resoluciones definitivas"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "formularios de pago",
-    "cartas invitación",
-    "citación"
+    "carta invitación",
+    "formulario de pago",
+    "citatorio",
+    "queja fiscal"
   ],
-  "resumen": "Los formularios múltiples de pago y las cartas invitación no son resoluciones definitivas en materia fiscal, por lo que no pueden ser impugnados mediante un recurso de revocación. Estas resoluciones no afectan el interés jurídico de los contribuyentes y, por lo tanto, se desecharía el recurso por improcedente.",
+  "resumen": "Los formularios múltiples de pago, las cartas invitación y los citatorios no son resoluciones que afectan el interés jurídico de los contribuyentes ni constituyen resoluciones definitivas, por lo tanto, se desecharán como improcedentes si se presenta un recurso de revocación en relación a ellos.",
   "preguntas_ejemplo": [
-    "¿Puedo impugnar una carta invitación del SAT?",
-    "¿Qué es un formulario múltiple de pago?",
-    "¿Cuándo procede el recurso de revocación en materia fiscal?",
-    "¿Las citaciones del SAT son resoluciones definitivas?",
-    "¿Qué hacer si recibo un citatorio del SAT?"
+    "¿Puedo presentar un recurso de revocación por un citatorio?",
+    "¿Qué pasa si me envían una carta invitación?",
+    "¿Los formularios de pago son resoluciones fiscales?",
+    "¿Cómo proceden los recursos de revocación en temas administrativos?",
+    "¿Qué tipo de resoluciones pueden ser impugnadas?"
   ]
 }

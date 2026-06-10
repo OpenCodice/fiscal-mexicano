@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52cd7c5614dcf0a0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Discrepancia fiscal",
   "temas": [
-    "comprobación de obligaciones fiscales",
+    "obligaciones fiscales",
+    "ingresos declarados",
+    "erogaciones",
+    "notificación",
     "acta parcial",
-    "notificación de discrepancia",
-    "ingresos y erogaciones"
+    "oficio de observaciones",
+    "autoridades fiscales",
+    "comprobación"
   ],
   "terminos_coloquiales": [
     "discrepancia fiscal",
-    "CFF",
-    "Ley del ISR"
+    "notificación de discrepancias",
+    "oficio de discrepancia",
+    "acta de discrepancia"
   ],
-  "resumen": "La discrepancia fiscal se presenta cuando las erogaciones de un contribuyente superan sus ingresos declarados. Las autoridades fiscales notifican al contribuyente sobre esta discrepancia y le solicitan información para justificarla.",
+  "resumen": "Este criterio establece cómo las autoridades fiscales informarán a los contribuyentes sobre discrepancias entre sus ingresos declarados y sus erogaciones. Se requiere que el contribuyente demuestre el origen de los recursos si sus gastos son mayores a lo que han reportado como ingresos.",
   "preguntas_ejemplo": [
-    "¿Qué es una discrepancia fiscal?",
+    "¿Qué es la discrepancia fiscal?",
     "¿Cómo me notifican si tengo discrepancia en mis ingresos?",
-    "¿Qué debo hacer si tengo discrepancias en mis declaraciones fiscales?",
-    "¿Qué información me pueden solicitar las autoridades fiscales por discrepancia?",
-    "¿Qué sucede si no justifico mi discrepancia fiscal?"
+    "¿Qué debo hacer si mis erogaciones son mayores que mis ingresos declarados?",
+    "¿Puedo responder a la autoridad fiscal sobre la discrepancia?",
+    "¿Qué documentos se requieren para aclarar una discrepancia fiscal?"
   ]
 }

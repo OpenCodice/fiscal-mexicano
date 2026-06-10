@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eed31e8ddf1a841d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Caducidad de las facultades de la autoridad fiscal",
+  "denominacion_comun": "Caducidad de las facultades fiscales",
   "temas": [
     "plazo de caducidad",
-    "suspensión de plazos",
     "facultades de comprobación",
-    "recurso administrativo",
+    "suspensión de plazos",
+    "recursos administrativos",
     "juicio",
     "resolución definitiva"
   ],
   "terminos_coloquiales": [
-    "caducidad",
-    "plazo de verificación",
-    "suspensión de caducidad"
+    "caducidad de facultades",
+    "plazo fiscal",
+    "facultades de la autoridad",
+    "recursos ante el SAT"
   ],
-  "resumen": "Este criterio aborda cómo el plazo de caducidad de las facultades de la autoridad fiscal puede suspenderse debido a recursos administrativos o juicios. Se establece que el periodo de caducidad no debe exceder de diez años y se computa tanto la suspensión como el tiempo en que no se suspende.",
+  "resumen": "El criterio establece que la suspensión del plazo de caducidad de las facultades de la autoridad fiscal, cuando se interpone algún recurso administrativo o juicio, es independiente del plazo de diez años. Este cómputo debe incluir el tiempo de suspensión junto con el tiempo no suspendido.",
   "preguntas_ejemplo": [
-    "¿Qué significa la caducidad de las facultades fiscales?",
-    "¿Cómo se suspende el plazo de caducidad?",
-    "¿Cuánto tiempo tiene la autoridad fiscal para ejercer sus facultades?",
-    "¿Qué sucede si interpongo un recurso administrativo?",
-    "¿El plazo de caducidad se reinicia con un juicio?",
-    "¿Cómo se calcula el plazo de diez años?"
+    "¿Cuánto tiempo tiene la autoridad fiscal para revisar mis impuestos?",
+    "¿Qué pasa si interpongo un recurso administrativo?",
+    "¿Cómo se calcula el plazo de caducidad?",
+    "¿Qué significa la suspensión de plazos en el CFF?",
+    "¿Cuándo inicia el plazo de las facultades de comprobación?"
   ]
 }

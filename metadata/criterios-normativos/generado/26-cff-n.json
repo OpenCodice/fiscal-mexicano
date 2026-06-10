@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3be0504b51779deb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Saldo a favor y pago de lo indebido",
   "temas": [
     "devoluciones fiscales",
+    "pagos indebidos",
     "saldo a favor",
-    "pago indebido",
-    "obligaciones tributarias"
+    "contribuciones",
+    "reintegro",
+    "sentencias judiciales"
   ],
   "terminos_coloquiales": [
     "devolución de impuestos",
+    "pago de más",
     "saldo a favor",
-    "pago en exceso",
-    "CFF"
+    "reintegro de contribuciones"
   ],
-  "resumen": "La ley establece que las autoridades fiscales deben devolver lo que se ha pagado indebidamente y también las cantidades que se consideran saldo a favor en las declaraciones de los contribuyentes. La diferencia entre ambos conceptos es fundamental para determinar cuál cantidad debe ser reembolsada.",
+  "resumen": "Este criterio establece que las autoridades fiscales deben devolver tanto los pagos indebidos como los saldos a favor que hayan sido declarado por los contribuyentes. Se diferencia entre ambos conceptos y la forma en que deben ser tratados dependiendo de su origen y de las sentencias judiciales pertinentes.",
   "preguntas_ejemplo": [
-    "¿Qué es un saldo a favor en impuestos?",
-    "¿Cómo solicito la devolución de un pago indebido?",
-    "¿Qué diferencias hay entre saldo a favor y pago indebido?",
-    "¿La autoridad fiscal tiene que devolver dinero si pagué de más?",
-    "¿Cómo se define el pago de lo indebido según la ley?",
-    "¿Qué debo hacer si mi saldo a favor no se ha devuelto?"
+    "¿Qué es un saldo a favor?",
+    "¿Qué sucede si pagué de más en mis impuestos?",
+    "¿Cómo se determina un pago indebido?",
+    "¿Me devolverán el impuesto que pagué por error?",
+    "¿Qué hacer si la devolución es por sentencia judicial?"
   ]
 }

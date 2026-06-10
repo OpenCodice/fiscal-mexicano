@@ -6,32 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9f137ca734e8f1fe",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Compensación del IVA",
   "temas": [
-    "Saldo a favor",
-    "Acreditamiento",
-    "Devolución",
-    "Compensación",
-    "Impuesto a cargo",
-    "Recargos",
-    "Actualización"
+    "saldo a favor",
+    "acreditamiento del IVA",
+    "devolución de IVA",
+    "compensación de impuestos",
+    "impuesto a cargo",
+    "actualización y recargos"
   ],
   "terminos_coloquiales": [
-    "IVA a favor",
-    "Devolución de IVA",
-    "Compensar IVA",
-    "CFF",
-    "Artículo 6o. del IVA"
+    "devolución de IVA",
+    "compensar impuestos",
+    "saldo a favor de IVA",
+    "acreditamiento del IVA"
   ],
-  "resumen": "Los contribuyentes pueden utilizar su saldo a favor del IVA para cubrir el impuesto que deben en meses siguientes, solicitar su devolución o compensarlo con otros impuestos. Esto se puede hacer de acuerdo con los artículos correspondientes de la ley fiscal.",
+  "resumen": "El artículo establece que los contribuyentes pueden utilizar su saldo a favor del IVA para compensar impuestos a cargo en meses posteriores, solicitar su devolución o realizar compensaciones contra otros impuestos, conforme a lo dispuesto en el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si tengo un saldo a favor en IVA?",
-    "¿Cómo se compensa el IVA a favor?",
-    "¿Puedo pedir la devolución de mi saldo a favor de IVA?",
-    "¿Qué impuestos puedo compensar con mi saldo a favor de IVA?",
-    "¿Cuál es el proceso para acreditarlo contra otros impuestos?",
-    "¿Qué dice el artículo 6o. de la Ley del IVA sobre el saldo a favor?"
+    "¿Cómo puedo compensar mi saldo a favor de IVA?",
+    "¿Qué hacer si tengo un saldo a favor en mi IVA?",
+    "¿Puedo solicitar la devolución del IVA?",
+    "¿Cómo se acredita el saldo a favor del IVA?",
+    "¿Qué impuestos puedo compensar con mi saldo a favor de IVA?"
   ]
 }

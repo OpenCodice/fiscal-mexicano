@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e0c8dcb0d1918a50",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remanente de saldo a favor del IVA",
+  "denominacion_comun": "Saldos a favor del IVA",
   "temas": [
-    "saldos a favor",
     "acreditamiento",
-    "devolución de IVA",
-    "pago del IVA",
-    "contribuyentes"
+    "devolución",
+    "saldos a favor",
+    "remanentes",
+    "impuesto",
+    "declarante",
+    "meses posteriores"
   ],
   "terminos_coloquiales": [
     "saldo a favor",
-    "remanente de IVA",
-    "devolución de saldo a favor"
+    "acreditamiento del IVA",
+    "devolución del IVA",
+    "remanente del saldo a favor",
+    "IVA"
   ],
-  "resumen": "Cuando un contribuyente tiene un saldo a favor en su declaración de IVA, solo puede acreditarlo contra impuestos en los meses siguientes hasta agotarlo. No es posible acumular saldos a favor pendientes de acreditar ni solicitar su devolución si queda un remanente después de un acreditamiento.",
+  "resumen": "Si un contribuyente tiene un saldo a favor del IVA, solo puede acreditarlo contra impuestos en los meses siguientes hasta que se agote. No se pueden acumular saldos a favor pendientes ni solicitar devoluciones por remanentes.",
   "preguntas_ejemplo": [
-    "¿Qué hago con un saldo a favor de IVA que no he utilizado?",
-    "¿Puedo devolver un remanente de saldo a favor del IVA?",
-    "¿Cómo se acredita un saldo a favor del IVA en el siguiente mes?",
-    "¿Es posible acumular saldos a favor del IVA de varios meses?",
-    "¿Qué dice la ley sobre el saldo a favor de IVA?"
+    "¿Qué debo hacer si tengo un saldo a favor del IVA?",
+    "¿Puedo pedir devolución de un remanente de saldo a favor del IVA?",
+    "¿Cuánto tiempo tengo para acreditar mi saldo a favor del IVA?",
+    "¿Qué sucede con mi saldo a favor del IVA si no lo utilizo?",
+    "¿Se puede acumular el saldo a favor del IVA de varios meses?"
   ]
 }

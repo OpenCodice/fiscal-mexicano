@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d70edb5c74add6ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Instituciones educativas y donativos deducibles",
   "temas": [
     "cuotas de inscripción",
     "colegiaturas",
-    "instituciones educativas",
+    "ingresos por actividades",
     "donativos deducibles",
-    "ingresos no relacionados",
-    "impuesto",
-    "Ley del ISR"
+    "personas morales",
+    "fideicomisos"
   ],
   "terminos_coloquiales": [
-    "donativos a escuelas",
-    "deducción de donativos",
-    "educación y deducciones",
-    "escuelas con donativos deducibles"
+    "escuelas",
+    "donativos deducibles",
+    "colegiaturas",
+    "cuotas de inscripción",
+    "instituciones autorizadas",
+    "deducciones educativas"
   ],
-  "resumen": "Las instituciones educativas autorizadas pueden recibir donativos deducibles y no son contribuyentes del ISR por las cuotas de inscripción y colegiaturas. Pueden tener otros ingresos, pero deben ser menores al 10% de sus ingresos totales.",
+  "resumen": "Las instituciones educativas autorizadas no son contribuyentes del ISR y pueden recibir donativos deducibles. Los ingresos por colegiaturas y cuotas de inscripción son considerados como cuotas de recuperación y no se incluyen en el límite de ingresos permitidos para actividades distintas a su razón social.",
   "preguntas_ejemplo": [
-    "¿Qué escuelas pueden recibir donativos deducibles?",
-    "¿Las cuotas de mi escuela son deducibles?",
-    "¿Qué ingresos son considerados cuotas de recuperación?",
-    "¿Las instituciones educativas pagan ISR por las colegiaturas?",
-    "¿Cuánto pueden ingresar las escuelas por otros conceptos?"
+    "¿Las colegiaturas son deducibles de impuestos?",
+    "¿Qué ingresos pueden recibir las escuelas sin afectar su estatus de donatarias?",
+    "¿Qué se considera cuota de recuperación en instituciones educativas?",
+    "¿Las asociaciones educativas pueden recibir donativos deducibles?",
+    "¿Cómo afectan las cuotas de inscripción al impuesto sobre la renta de las escuelas?"
   ]
 }

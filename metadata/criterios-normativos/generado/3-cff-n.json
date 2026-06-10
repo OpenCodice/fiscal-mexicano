@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:410ead709e56afd9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Principios de contabilidad generalmente aceptados",
+  "denominacion_comun": "Principios de contabilidad y normas de información financiera",
   "temas": [
-    "Contabilidad",
-    "Normas de información financiera",
-    "Obligaciones fiscales",
-    "Contribuyentes"
+    "contabilidad",
+    "normas de información financiera",
+    "principios generalmente aceptados",
+    "Ley del ISR",
+    "LISH"
   ],
   "terminos_coloquiales": [
-    "PCGA",
-    "NIF",
-    "Normas contables",
-    "Normas internacionales",
-    "Contabilidad mexicana"
+    "contabilidad",
+    "normas contables",
+    "IFRS",
+    "GAAP",
+    "normas mexicanas de contabilidad"
   ],
-  "resumen": "Este criterio establece que las disposiciones fiscales se aplican a los principios de contabilidad generalmente aceptados, ya sean nacionales o internacionales. Se deben usar los principios vigentes en el momento de determinación de las contribuciones del contribuyente correspondiente.",
+  "resumen": "Esta disposición establece que las normas y principios de contabilidad aplicables son aquellos vigentes al momento de su aplicación, sin importar si son nacionales o internacionales. Se hace una distinción entre normas mexicanas, estadounidenses e internacionales y se debe aplicar la que corresponda al contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los principios de contabilidad que debo seguir?",
-    "¿Las normas de información financiera son las mismas en México y en otros países?",
-    "¿Qué hago si mis principios de contabilidad no son de México?",
-    "¿Qué normas debo aplicar para mi contabilidad fiscal?",
-    "¿Cómo se relacionan las NIF con el CFF?"
+    "¿Qué normas de contabilidad debo seguir?",
+    "¿Son las normas internacionales aceptables para mi contabilidad?",
+    "¿Cómo saber qué principio contable aplicar?",
+    "¿Qué pasa si mis normas contables son de otro país?",
+    "¿Qué criterios normativos debo considerar para mi información financiera?"
   ]
 }

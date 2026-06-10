@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ac7b80123e4f3d9c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Envases de bebidas embotelladas",
   "temas": [
-    "deducción de costos",
     "costo de lo vendido",
+    "productos terminados",
     "activos fijos",
-    "mercancías",
     "envases",
-    "producción de bebidas"
+    "mercancías",
+    "embotelladoras"
   ],
   "terminos_coloquiales": [
-    "deducción de envases",
-    "costo de envases",
-    "activos fijos bebidas",
-    "envases como activos",
-    "Ley del ISR"
+    "envases de bebidas",
+    "costo de artículos vendidos",
+    "activos",
+    "mercancías embotelladas"
   ],
-  "resumen": "Los envases usados para vender bebidas embotelladas pueden considerarse como parte del costo de lo vendido si son parte del producto terminado. Si los envases no se venden, se consideran activos fijos que se demeritan por el uso y el tiempo.",
+  "resumen": "Los envases de bebidas embotelladas pueden ser considerados como parte del costo de lo vendido o como activos fijos, dependiendo de si forman parte integral del producto enajenado. Si son canjeados por otros envases, se consideran activos fijos debido a su uso y devaluación en el tiempo.",
   "preguntas_ejemplo": [
-    "¿Se pueden deducir los costos de los envases de bebidas embotelladas?",
-    "¿Los envases se consideran activos fijos?",
-    "¿Qué se incluye en el costo de lo vendido para embotelladoras?",
-    "¿Cómo se clasifican los envases en la Ley del ISR?",
-    "¿Qué pasa con los envases que no se venden?"
+    "¿Puedo deducir el costo de los envases de bebidas embotelladas?",
+    "¿Los envases son considerados mercancía o activo fijo?",
+    "¿Qué dice la Ley del ISR sobre el costo de lo vendido en bebidas?",
+    "¿Cómo se clasifican los envases en la contabilidad de una embotelladora?",
+    "¿Qué criterios debo seguir para clasificar envases como activos fijos?"
   ]
 }
