@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b5b06c4453048936",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación de vehículos usados",
+  "denominacion_comun": "Importación de vehículos usados en la Franja Fronteriza Norte",
   "temas": [
-    "Residencia en la Franja Fronteriza Norte",
-    "Importación de vehículos automotores",
-    "Excepción para vehículos usados",
-    "Regiones específicas para importación"
+    "importación de vehículos",
+    "Franja Fronteriza Norte",
+    "residencia",
+    "vehículos automotores usados",
+    "Baja California",
+    "Baja California Sur",
+    "Sonora",
+    "Cananea"
   ],
   "terminos_coloquiales": [
-    "Importar carro usado",
-    "Traer auto de otro país",
-    "Vehículos de la frontera",
-    "Cars from the border"
+    "importar un auto usado",
+    "comprar un coche usado en la frontera",
+    "autos usados en la frontera",
+    "vehículos de frontera"
   ],
-  "resumen": "Las personas que viven en ciertas áreas del norte de México pueden importar vehículos usados para quedarse en su región. Esto aplica específicamente a la Franja Fronteriza Norte y algunas partes de Sonora.",
+  "resumen": "Las personas que viven en la Franja Fronteriza Norte y ciertas áreas de Baja California y Sonora pueden importar vehículos usados para quedarse en estas zonas. Esto es posible siempre que se cumpla con el requisito de residencia en esos lugares.",
   "preguntas_ejemplo": [
-    "¿Puedo importar un carro usado si vivo en la frontera?",
-    "¿Cuáles son los requisitos para traer un auto usado a México?",
-    "¿Dónde puedo importar vehículos automotores usados?",
-    "¿Qué estados permiten la importación de autos usados?",
-    "¿Necesito alguna autorización para importar un carro usado en la frontera?"
+    "¿Puedo importar un auto usado si vivo en la frontera?",
+    "¿Cuáles son las reglas para comprar un coche en la Franja Fronteriza?",
+    "¿Qué estados permiten la importación de vehículos usados?",
+    "¿Necesito ser residente para importar un auto usado?",
+    "¿Puedo quedarme con un vehículo usado importado en Baja California?"
   ]
 }

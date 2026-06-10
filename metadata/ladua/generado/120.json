@@ -6,27 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:55dcda26a8b9f908",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retiro de mercancías en depósito fiscal",
+  "denominacion_comun": "Depósito fiscal de mercancías",
   "temas": [
-    "depósito fiscal",
+    "almacenamiento de mercancías",
     "importación",
     "exportación",
     "maquiladoras",
-    "impuestos al comercio exterior"
+    "contribuciones",
+    "cuotas compensatorias",
+    "retiro de mercancías",
+    "trámite aduanero"
   ],
   "terminos_coloquiales": [
+    "guardar mercancías",
     "sacar mercancías del depósito",
-    "retiro de mercancías",
-    "importación desde depósito fiscal",
-    "exportación desde depósito fiscal"
+    "importar cosas",
+    "exportar cosas",
+    "maquiladoras",
+    "derechos aduaneros"
   ],
-  "resumen": "El artículo establece que las mercancías en depósito fiscal pueden retirarse para ser importadas o exportadas, cumpliendo con ciertos requisitos y pagando impuestos. Además, se mencionan las condiciones para retornar mercancías al extranjero sin impuestos.",
+  "resumen": "El artículo establece las condiciones bajo las cuales las mercancías en depósito fiscal pueden ser retiradas para importación o exportación. Se deberá pagar previamente los impuestos y derechos correspondientes al comercio exterior. Además, existen disposiciones para el retorno de mercancías al extranjero sin el pago de impuestos en ciertos casos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo retirar mercancías de un depósito fiscal?",
-    "¿Cuáles son los impuestos que debo pagar al retirar mercancías?",
-    "¿Puedo exportar productos que están en depósito fiscal?",
-    "¿Qué requisitos debo cumplir para importar mercancías de un depósito fiscal?"
+    "¿Cómo puedo retirar mercancías del depósito fiscal?",
+    "¿Qué impuestos debo pagar al importar o exportar mercancías del depósito?",
+    "¿Puedo exportar mercancías que están en depósito fiscal?",
+    "¿Qué es la maquila y cómo afecta al depósito fiscal?",
+    "¿Qué requisitos hay que cumplir para sacar mercancías del depósito?"
   ]
 }

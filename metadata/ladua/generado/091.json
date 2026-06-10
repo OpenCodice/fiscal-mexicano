@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e29512470d6a0cca",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen aduanero",
+  "denominacion_comun": "Regímenes Aduaneros",
   "temas": [
     "introducción de mercancías",
     "extracción de mercancías",
     "pedimento",
-    "cumplimiento de obligaciones",
+    "régimen aduanero",
+    "obligaciones aduaneras",
     "cuotas compensatorias"
   ],
   "terminos_coloquiales": [
-    "regimen aduanero",
-    "pedimento aduanero",
-    "cumplimiento aduanero",
-    "pago de cuotas"
+    "importación",
+    "exportación",
+    "pedimento aduanero"
   ],
-  "resumen": "Las personas que traen o sacan mercancías del país deben especificar el régimen aduanero en su pedimento y declarar bajo protesta que están cumpliendo con todas las obligaciones relacionadas, incluyendo el pago de las cuotas compensatorias.",
+  "resumen": "Toda persona que quiera traer o sacar mercancías del país debe declarar el régimen aduanero que solicita y certificar, con veracidad, que cumple con sus obligaciones y formalidades, incluyendo el pago de cuotas compensatorias.",
   "preguntas_ejemplo": [
-    "¿Qué debo poner en el pedimento aduanero?",
-    "¿Cuáles son mis obligaciones al importar mercancías?",
-    "¿Qué son las cuotas compensatorias en el régimen aduanero?",
-    "¿Cómo aseguro que cumplo con el proceso aduanero?",
-    "¿Qué es un régimen aduanero?"
+    "¿Qué debo hacer para importar mercancías?",
+    "¿Cómo se declara el régimen aduanero en el pedimento?",
+    "¿Qué son las cuotas compensatorias en aduanas?",
+    "¿Qué obligaciones tengo al exportar mercancías?",
+    "¿Qué información debe incluirse en el pedimento aduanero?"
   ]
 }

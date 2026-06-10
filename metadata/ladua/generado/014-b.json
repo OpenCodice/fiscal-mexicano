@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dd87c4dba4045fad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Manejo de mercancías en recintos fiscalizados",
+  "denominacion_comun": "Concesiones de servicios aduanales",
   "temas": [
-    "concesión",
-    "autorización",
+    "concesiones",
+    "authorizaciones",
     "servicios de manejo",
     "almacenaje",
     "custodia de mercancías",
+    "recintos fiscalizados",
     "obligaciones fiscales",
-    "pago de aprovechamiento"
+    "pago de aprovechamientos"
   ],
   "terminos_coloquiales": [
-    "licencia para manejar mercancías",
-    "servicios de almacén",
-    "custodia de bienes",
-    "pago de tarifas fiscales"
+    "servicios aduanales",
+    "almacenaje de mercancías",
+    "custodia de mercancías",
+    "concesiones de aduanas"
   ],
-  "resumen": "Este artículo establece las obligaciones que deben cumplir los particulares que manejan, almacenan o custodian mercancías en recintos fiscalizados, así como el pago que deben realizar por estos servicios. Las tarifas por estos servicios son acordadas entre las partes involucradas.",
+  "resumen": "Los particulares que obtienen concesiones para manejar, almacenar y custodiar mercancías en recintos fiscalizados deben cumplir con ciertas obligaciones y pagar un aprovechamiento. Las tarifas por estos servicios son negociadas entre las partes involucradas.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para manejar mercancías?",
-    "¿Cómo se determinan las tarifas por servicio de almacén?",
-    "¿Qué tipo de obligaciones tengo si manejo mercancías en recintos fiscalizados?",
-    "¿Debo pagar algo adicional por almacenar mercancías?",
-    "¿Qué pasa si no cumplo con las obligaciones fiscales al manejar mercancías?"
+    "¿Qué debo hacer si quiero obtener una concesión para manejar mercancías en aduanas?",
+    "¿Cuáles son las obligaciones de los concesionarios en recintos fiscalizados?",
+    "¿Cómo se determina el costo de los servicios de almacenaje?",
+    "¿Qué es el aprovechamiento que se debe pagar?",
+    "¿Es necesario cumplir con alguna normativa específica para la custodia de mercancías?"
   ]
 }

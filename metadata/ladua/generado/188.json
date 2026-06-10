@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:697bae658faba641",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones por clave confidencial",
+  "denominacion_comun": "Infracciones por clave confidencial de identidad",
   "temas": [
-    "clave confidencial",
     "infracciones aduaneras",
+    "clave confidencial",
     "pedimento",
     "trámites aduaneros"
   ],
   "terminos_coloquiales": [
-    "fallos en clave de identidad",
-    "errores en pedimento",
-    "identidad revocada"
+    "infracción por clave confidencial",
+    "clave de identidad",
+    "trámites con pedimento",
+    "clave confidencial revocada"
   ],
-  "resumen": "Se considera una infracción utilizar una clave confidencial de identidad errónea o que haya sido revocada al presentar un pedimento o hacer trámites. Esto afecta la validez de los procesos aduaneros.",
+  "resumen": "Se consideran infracciones las acciones de utilizar una clave confidencial de identidad equivocada o revocada al presentar un pedimento o realizar trámites. Esto afecta el proceso aduanero y puede tener consecuencias legales.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si uso una clave equivocada?",
-    "¿Qué es una clave confidencial revocada?",
-    "¿Cuáles son las infracciones al hacer un pedimento?",
-    "¿Qué errores debo evitar en mis trámites aduaneros?"
+    "¿Qué pasa si uso una clave confidencial equivocada?",
+    "¿Se puede presentar un pedimento con una clave revocada?",
+    "¿Cuáles son las infracciones relacionadas con claves confidenciales en aduanas?",
+    "¿Qué es una clave confidencial de identidad en el contexto aduanero?",
+    "¿Qué trámites requieren una clave confidencial?"
   ]
 }

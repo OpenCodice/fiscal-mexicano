@@ -6,33 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a1f33e76b65f87af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Definiciones de vehículos y personas",
+  "denominacion_comun": "Definiciones de vehículos y zonas en legislación aduanera",
   "temas": [
-    "persona física",
-    "franja fronteriza",
-    "región parcial del estado de Sonora",
-    "año modelo",
-    "automóvil",
-    "vehículo comercial",
-    "camión mediano",
-    "vehículo usado"
+    "Persona Física",
+    "Franja Fronteriza Norte",
+    "Región Parcial del Estado de Sonora",
+    "Año Modelo",
+    "Automóvil",
+    "Vehículo comercial",
+    "Camión mediano",
+    "Vehículo usado"
   ],
   "terminos_coloquiales": [
-    "definiciones en la ley aduanera",
-    "qué es una persona física",
-    "franja del norte",
-    "vehículos en frontera",
-    "tipos de vehículos",
-    "vehículos usados"
+    "persona física",
+    "zona fronteriza",
+    "Sonora",
+    "año modelo",
+    "auto",
+    "vehículo comercial",
+    "camión",
+    "auto usado"
   ],
-  "resumen": "El artículo establece definiciones importantes relacionadas con personas y vehículos dentro del contexto de la ley aduanera. Incluye términos como persona física, tipos de vehículos y límites geográficos para la franja fronteriza.",
+  "resumen": "Este artículo define diversos términos relacionados con la legislación aduanera, incluyendo qué se entiende por persona física, límites de la franja fronteriza norte y diferentes tipos de vehículos. Estas definiciones son importantes para la aplicación de la ley en el contexto aduanero.",
   "preguntas_ejemplo": [
-    "¿Qué es una persona física en la ley?",
-    "¿Cuáles son los límites de la franja fronteriza?",
-    "¿Qué define un vehículo comercial?",
-    "¿Qué se considera un vehículo usado?",
-    "¿Cuáles son los distintos tipos de vehículos según la ley?"
+    "¿Qué es una persona física según la ley aduanera?",
+    "¿Cuáles son los límites de la franja fronteriza norte?",
+    "¿Qué se considera un vehículo usado para la importación?",
+    "¿Cómo se define un camión mediano en la legislación aduanera?",
+    "¿Qué incluye la definición de automóvil según la ley?"
   ]
 }

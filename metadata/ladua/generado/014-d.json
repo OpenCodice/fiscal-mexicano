@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ceff1b0f5b5f4942",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recinto Fiscalizado Estratégico",
   "temas": [
     "habilitación de inmuebles",
     "régimen aduanero",
-    "requisitos fiscales",
-    "autorización",
-    "administración de recintos",
-    "supervisión de mercancías",
-    "control aduanero"
+    "autoridad aduanera",
+    "responsabilidades administrativas",
+    "plazo de autorización",
+    "requisitos de seguridad"
   ],
   "terminos_coloquiales": [
-    "cómo habilitar un recinto aduanero",
-    "requisitos para recinto fiscalizado",
-    "autorización de inmuebles en aduana",
-    "gestión de recinto fiscalizado",
-    "control de mercancías en recinto"
+    "recinto fiscalizado estratégico",
+    "autorización de uso de inmueble",
+    "SAT",
+    "licencia de recinto",
+    "control de mercancías"
   ],
-  "resumen": "Las personas que usen un inmueble cerca de una aduana pueden solicitar su habilitación como recinto fiscalizado estratégico para manejar mercancías. Deben cumplir ciertos requisitos que establece el SAT, incluyendo la solvencia económica y la instalación de sistemas de control y seguridad.",
+  "resumen": "Las personas que tengan el uso de un inmueble cerca de una aduana pueden solicitar al SAT su habilitación como recinto fiscalizado estratégico. Deben cumplir requisitos técnicos, administrativos y fiscales, y la autorización puede otorgarse por hasta 20 años, renovable.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para habilitar un inmueble como recinto fiscalizado?",
-    "¿Cuáles son los requisitos para obtener la autorización de un recinto aduanero?",
-    "¿Puede renovarse la autorización de un recinto fiscalizado?"
+    "¿Qué es un recinto fiscalizado estratégico?",
+    "¿Cómo puedo habilitar un inmueble para la aduana?",
+    "¿Cuáles son los requisitos para obtener la autorización del SAT?",
+    "¿Qué pasa si no cumplo con las obligaciones del recinto fiscalizado?",
+    "¿Cuánto tiempo dura la autorización de un recinto fiscalizado estratégico?"
   ]
 }

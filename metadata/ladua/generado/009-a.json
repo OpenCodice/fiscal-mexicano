@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ddf87fa25dcdf7d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones electrónicas aduaneras",
+  "denominacion_comun": "Notificaciones en el sistema electrónico aduanero",
   "temas": [
     "trámites aduaneros",
     "notificaciones electrónicas",
+    "actos administrativos",
     "firma electrónica avanzada",
-    "buzón aduanero",
-    "plazo de notificación"
+    "buzón electrónico"
   ],
   "terminos_coloquiales": [
-    "avisos aduaneros",
-    "notificación electrónica",
-    "notificación de trámites",
-    "correo aduanero",
-    "plazo para abrir notificación"
+    "notificaciones aduaneras",
+    "aviso de notificación",
+    "firma electrónica",
+    "acuse de notificación"
   ],
-  "resumen": "Este artículo establece cómo las personas y empresas que hagan trámites aduaneros deben recibir notificaciones a través de un sistema electrónico. El sistema enviará un aviso por correo electrónico y la notificación se considera válida una vez que se abra en el buzón correspondiente.",
+  "resumen": "El artículo establece que las personas que realizan trámites a través del sistema electrónico aduanero recibirán avisos de notificación por correo electrónico. La notificación se considerará legalmente practicada una vez que se abra con la firma electrónica avanzada.",
   "preguntas_ejemplo": [
-    "¿Cómo recibo notificaciones de mis trámites aduaneros?",
-    "¿Qué debo hacer para ver el aviso de notificación?",
-    "¿Qué es la firma electrónica avanzada y cómo se usa?",
-    "¿Cuánto tiempo tengo para abrir una notificación aduanera?",
-    "¿Qué sucede si no reviso mi buzón electrónico?"
+    "¿Cómo recibo las notificaciones de mis trámites aduaneros?",
+    "¿Qué es un aviso de disponibilidad de notificación?",
+    "¿Qué efectos tiene la firma electrónica en las notificaciones?",
+    "¿Qué debo hacer después de recibir un aviso de notificación?",
+    "¿Qué plazo tengo para abrir el aviso de notificación?",
+    "¿Qué sucede si no abro mi notificación a tiempo?"
   ]
 }

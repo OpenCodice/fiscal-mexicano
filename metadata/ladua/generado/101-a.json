@@ -6,23 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:281cca3b55aa086f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación",
+  "denominacion_comun": "Derogación de la Sección de Exportación",
   "temas": [
-    "derogación",
     "exportación",
-    "sección secundaria"
+    "tributación aduanera",
+    "regulación aduanera",
+    "derogación"
   ],
   "terminos_coloquiales": [
-    "qué pasó con la exportación",
-    "normas de exportación",
-    "reglas de exportación derogada"
+    "exportar productos",
+    "aduanas",
+    "reglamento de aduanas"
   ],
-  "resumen": "Este artículo ha sido derogado y ya no está en vigor. Se relacionaba con las normas de exportación en la legislación.",
+  "resumen": "Este artículo estaba relacionado con la regulación de las exportaciones en la legislación aduanera, pero actualmente ya no tiene validez ya que ha sido derogado.",
   "preguntas_ejemplo": [
-    "¿Qué se dice sobre la exportación en la ley?",
-    "¿Qué artículos ya no aplican en la legislación de exportación?",
-    "¿Qué ocurre con las normas de exportación anteriormente vigentes?"
+    "¿Qué pasó con la regulación de exportaciones en la ley aduanera?",
+    "¿Hay algún artículo vigente sobre exportaciones en la L. Aduanera?",
+    "¿Qué significa la derogación de la sección de exportación?",
+    "¿Cómo afecta la derogación a los exportadores?",
+    "¿Dónde se encuentran las normas actuales de exportación?"
   ]
 }

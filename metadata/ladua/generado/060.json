@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2dd97c166b150e1c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales de mercancías",
+  "denominacion_comun": "Mercancías y obligaciones fiscales",
   "temas": [
-    "entrada de mercancías",
-    "salida de mercancías",
     "obligaciones fiscales",
-    "créditos fiscales",
-    "retenes aduaneros",
-    "embargos aduaneros",
-    "medios de transporte"
+    "mercancías",
+    "retención",
+    "embargo",
+    "medios de transporte",
+    "contribuciones",
+    "cuotas compensatorias"
   ],
   "terminos_coloquiales": [
-    "cumplimiento de obligaciones",
-    "retención de mercancías",
-    "embargo aduanero"
+    "obligaciones fiscales de mercancías",
+    "embargo de mercancías",
+    "retener mercancías",
+    "cumplir con impuestos",
+    "trámites aduaneros"
   ],
-  "resumen": "Las mercancías deben cumplir con obligaciones fiscales al entrar o salir del país y pueden ser retenidas o embargadas si no se satisfacen dichas obligaciones. Los medios de transporte también están sujetos a contribuir al pago de impuestos según su carga.",
+  "resumen": "Las mercancías deben cumplir con las obligaciones fiscales al entrar o salir del país. Si no se cumplen, las autoridades aduaneras pueden retener o embargar las mercancías y los medios de transporte son responsables de las contribuciones generadas.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no pago mis impuestos al importar mercancías?",
-    "¿Pueden retener mis mercancías en la aduana?",
-    "¿Qué obligaciones fiscales tienen mis medios de transporte?",
-    "¿Cuáles son las consecuencias de no cumplir con las leyes fiscales aduaneras?",
-    "¿Qué es un embargo aduanero?"
+    "¿Las aduanas pueden embargar mis productos?",
+    "¿Qué obligaciones tengo al entrar mercancías al país?",
+    "¿Los transportes también pagan impuestos al pasar por aduanas?",
+    "¿Qué sucede si no cumplo con las disposiciones fiscales en aduanas?"
   ]
 }

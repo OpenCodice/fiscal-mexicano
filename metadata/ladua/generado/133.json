@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2cbaf7cd35fcca24",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad en tránsito aduanal",
+  "denominacion_comun": "Responsabilidad en tránsito internacional",
   "temas": [
     "tránsito internacional de mercancías",
     "responsabilidad fiscal",
-    "agente aduanal",
-    "empresa transportista",
     "contribuciones",
     "cuotas compensatorias",
-    "infracciones aduanales"
+    "agente aduanal",
+    "agencia aduanal",
+    "empresa transportista",
+    "despacho aduanal"
   ],
   "terminos_coloquiales": [
-    "responsabilidad de aduanas",
-    "pagos de impuestos en aduanas",
-    "quién paga en la aduana",
-    "responsabilidad de transporte de mercancías"
+    "traslado de mercancías",
+    "responsabilidad en aduanas",
+    "agente aduanal",
+    "agencia aduanal",
+    "aduana de entrada"
   ],
-  "resumen": "El artículo establece que quienes realicen el tránsito internacional de mercancías en México son responsables de pagar los impuestos correspondientes. También menciona que tanto los agentes aduanales como las empresas transportistas pueden ser responsables solidarios por cualquier infracción durante el traslado.",
+  "resumen": "Las personas que realicen el tránsito internacional de mercancías son responsables del pago de créditos fiscales. Se establece la responsabilidad solidaria de agentes aduanales y empresas transportistas ante el Fisco Federal por contribuciones y cuotas omitidas, así como por irregularidades en el despacho aduanal.",
   "preguntas_ejemplo": [
-    "¿Quién es responsable de pagar impuestos al pasar mercancías por México?",
-    "¿Qué pasa si un agente aduanal comete un error?",
-    "¿Las empresas de transporte tienen que pagar impuestos también?",
-    "¿Qué infracciones puedo enfrentar al trasladar mercancías?",
-    "¿Cómo se verifica el cumplimiento de mis obligaciones fiscales en aduanas?"
+    "¿Quién es responsable del pago de impuestos al trasladar mercancías internacionalmente?",
+    "¿Qué pasa si un agente aduanal no cumple con sus obligaciones fiscales?",
+    "¿Las empresas transportistas también son responsables de las contribuciones durante el tránsito de mercancías?",
+    "¿Qué irregularidades pueden surgir en el despacho aduanal?",
+    "¿Cómo se llevan a cabo las obligaciones fiscales en el tránsito de mercancías?"
   ]
 }

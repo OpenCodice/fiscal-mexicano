@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f5677ed9f42df5c1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pedimento Consolidado",
   "temas": [
+    "pedimento",
     "exportación",
     "importación",
     "documento electrónico",
-    "autoridades aduaneras",
+    "operaciones aduaneras",
+    "programas de exportación",
     "Servicio de Administración Tributaria"
   ],
   "terminos_coloquiales": [
-    "pedimento para exportar",
-    "documento de aduanas",
-    "consolidación de pedimentos",
-    "exportaciones e importaciones",
-    "pedimento electrónico"
+    "pedimento",
+    "pedido de aduana",
+    "exportación",
+    "importación",
+    "SAT"
   ],
-  "resumen": "El Artículo 37 permite que los contribuyentes envíen un solo pedimento consolidado para varias operaciones ante las autoridades aduaneras. Esto aplica para exportaciones y ciertas importaciones, siempre que se cumplan los requisitos establecidos por el Servicio de Administración Tributaria.",
+  "resumen": "Se permite a los contribuyentes enviar un solo pedimento que cubra varias operaciones, conocido como pedimento consolidado, en casos de exportación y en ciertas importaciones bajo programas autorizados. El SAT podrá establecer requisitos adicionales para estas operaciones.",
   "preguntas_ejemplo": [
     "¿Qué es un pedimento consolidado?",
-    "¿Cómo puedo tramitar un pedimento para varias operaciones?",
-    "¿En qué casos se puede usar el pedimento consolidado?",
-    "¿Qué requisitos necesito para las importaciones bajo un pedimento consolidado?",
-    "¿Dónde encuentro más información sobre los pedimentos electrónicos?"
+    "¿Cómo puedo agrupar varias operaciones en un solo pedimento?",
+    "¿Cuándo se puede usar un pedimento consolidado?",
+    "¿Qué requisitos establece el SAT para el pedimento consolidado?",
+    "¿Puedo utilizar un pedimento consolidado para importaciones?"
   ]
 }

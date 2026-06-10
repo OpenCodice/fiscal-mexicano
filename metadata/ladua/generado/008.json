@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bef96bf5cd8d04af",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Excepciones Aduaneras",
+  "denominacion_comun": "Exención de naves militares",
   "temas": [
     "naves militares",
     "gobiernos extranjeros",
+    "operaciones comerciales",
     "tratados internacionales",
-    "operaciones comerciales"
+    "exenciones aduaneras"
   ],
   "terminos_coloquiales": [
-    "excepciones para barcos",
-    "naves militares en comercio",
-    "reglas para naves extranjeras",
-    "buques del gobierno"
+    "naves de guerra",
+    "naves de gobiernos extranjeros",
+    "exención aduanera"
   ],
-  "resumen": "Las naves militares y las de gobiernos extranjeros no siguen las reglas aduaneras, a menos que se usen para negocios. Esto está basado en tratados internacionales que México ha firmado.",
+  "resumen": "Las naves militares y las de gobiernos extranjeros no están sujetas a la Ley Aduanera, a menos que realicen operaciones comerciales. Esto está en línea con los tratados internacionales en los que México es parte.",
   "preguntas_ejemplo": [
-    "¿Las naves militares pagan impuestos en Aduanas?",
-    "¿Qué pasa con los barcos de gobiernos extranjeros en México?",
-    "¿Existen excepciones para naves durante operaciones comerciales?",
-    "¿Las normas aduaneras aplican a naves militares?",
-    "¿Los tratados internacionales afectan las leyes aduaneras en México?"
+    "¿Las naves militares tienen que pagar impuestos aduaneros?",
+    "¿Qué pasa con las naves de gobiernos extranjeros en México?",
+    "¿Están exentas de impuestos las naves de guerra?",
+    "¿Cuándo una nave militar puede ser sujeta a la Ley Aduanera?",
+    "¿Qué dicen los tratados internacionales sobre las naves extranjeras?"
   ]
 }

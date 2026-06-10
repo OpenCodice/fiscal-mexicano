@@ -6,26 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:89d21e65bc6d43f9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazos de abandono aduanero",
+  "denominacion_comun": "Plazos de mercancías en depósito",
   "temas": [
     "plazos aduaneros",
+    "depósito de mercancías",
     "tráfico marítimo",
-    "mercancías diplomáticas",
-    "almacenamiento en aduanas"
+    "embajadas",
+    "consulados",
+    "organismos internacionales",
+    "abandonos"
   ],
   "terminos_coloquiales": [
-    "plazos para recoger mercancías",
-    "cuándo debo reclamar mis cosas de la aduana",
-    "tiempo de abandono en impuestos aduaneros"
+    "tiempos de espera en aduanas",
+    "merchandise en aduanas",
+    "mercancías en depósito",
+    "embajadas",
+    "consulados",
+    "organismos internacionales"
   ],
-  "resumen": "Este artículo establece cómo se computan los plazos para el abandono de mercancías en la aduana. Dependiendo del tipo de mercancía y su origen, el inicio del plazo puede variar.",
+  "resumen": "El artículo establece cómo se computan los plazos para mercancías en depósito ante la aduana, considerando diferentes situaciones como el tráfico marítimo y mercancías pertenecientes a embajadas y consulados. Los plazos de abandono se inician en diferentes momentos según el tipo de mercancía.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para recoger mis mercancías en la aduana?",
-    "¿Cuándo comienza el plazo para el abandono de mis productos?",
-    "¿Qué pasa con las mercancías de embajadas y consulados?",
-    "¿Hay un plazo diferente para mercancías en tráfico marítimo?",
-    "¿Cuándo se considera que las cosas están abandonadas en la aduana?"
+    "¿Cuánto tiempo puedo dejar mis mercancías en la aduana?",
+    "¿Cuándo empieza el plazo para las mercancías de embajadas?",
+    "¿Cómo se cuentan los plazos para mercancías en tráfico marítimo?",
+    "¿Qué pasa con mis productos si permanecen en depósito por mucho tiempo?",
+    "¿Cuáles son los plazos de abandono de mercancías en aduanas?"
   ]
 }

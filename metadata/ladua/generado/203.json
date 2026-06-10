@@ -6,25 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:135a822da93d14a8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "resoluciones aduaneras",
-    "recurso administrativo",
-    "Código Fiscal",
-    "procedimientos aduaneros"
+    "recurso de revocación",
+    "Tribunal Federal de Justicia Fiscal",
+    "autorizaciones aduaneras",
+    "reglamento de la Ley Aduanera"
   ],
   "terminos_coloquiales": [
-    "cómo apelar decisiones de aduana",
-    "revocación de decisiones aduaneras",
-    "recurso de revocación ante aduana"
+    "recurso de revocación",
+    "queja aduanera",
+    "reclamo a aduana",
+    "no estoy de acuerdo"
   ],
-  "resumen": "Este artículo establece que se puede interponer un recurso de revocación contra decisiones definitivas de las autoridades aduaneras. Es opcional antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.",
+  "resumen": "La disposición establece que se puede interponer un recurso de revocación contra las resoluciones finales de las autoridades aduaneras, antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa. Este recurso es voluntario para los interesados.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si no estoy de acuerdo con una decisión de la aduana?",
-    "¿Cómo funciona el recurso de revocación en aduanas?",
-    "¿Puedo apelar una resolución aduanera antes de ir al tribunal?",
-    "¿Qué es el recurso de revocación en la Ley Aduanera?"
+    "¿Cómo puedo impugnar una decisión de aduana?",
+    "¿Qué opciones tengo si no estoy de acuerdo con una resolución aduanera?",
+    "¿Cuál es el proceso para un recurso de revocación en aduanas?",
+    "¿Debo presentar un recurso de revocación antes de ir a juicio?",
+    "¿Qué pasos seguir si la aduana me niega un permiso?"
   ]
 }

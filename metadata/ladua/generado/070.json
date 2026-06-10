@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:489b1908adb29e02",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de transacción en ventas vinculadas",
+  "denominacion_comun": "Valor de transacción en ventas entre personas vinculadas",
   "temas": [
     "valor de transacción",
-    "ventas vinculadas",
-    "importación",
-    "valores criterio",
+    "ventas entre vinculados",
     "mercancías idénticas",
     "mercancías similares",
+    "valores criterio",
     "declaración aduanera"
   ],
   "terminos_coloquiales": [
-    "precio en compras entre amigos",
-    "valor de venta en familia",
-    "valor aproximado en aduanas",
-    "cuánto vale si estamos conectados"
+    "valor de transacción",
+    "ventas vinculadas",
+    "mercancías similares",
+    "importación",
+    "aduanas"
   ],
-  "resumen": "Este artículo trata sobre cómo se acepta el valor de transacción en ventas entre personas vinculadas. Para que se acepte, el importador debe demostrar que el valor se asemeja a ciertos valores de referencia establecidos.",
+  "resumen": "El artículo establece que en las ventas entre personas vinculadas se aceptará el valor de transacción si se demuestra que se aproxima a ciertos valores criterio y que no hubo influencia en el precio por la vinculación. Además, se deben considerar diferencias de nivel comercial y cantidad, así como costos adicionales del vendedor.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor de transacción en ventas entre familiares?",
-    "¿Qué criterios se utilizan para evaluar precios en importaciones?",
-    "¿Qué significa que hay vinculación entre vendedor e importador?",
-    "¿Qué pasa si el precio de mi mercancía es muy distinto al de otras similares?",
-    "¿Cuáles son los valores de referencia que se deben considerar?"
+    "¿Qué se considera valor de transacción en ventas entre personas vinculadas?",
+    "¿Cómo se determina si el valor se aproxima a otro en una venta entre vinculados?",
+    "¿Qué criterios se utilizan para evaluar ventas de mercancías idénticas o similares?",
+    "¿Qué pasa si el vendedor tiene vínculos con el comprador?",
+    "¿Qué requisitos debe cumplir un importador para aceptar el valor de transacción?"
   ]
 }

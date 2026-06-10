@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d6b10143ba3be935",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de Exportación Definitiva",
@@ -13,21 +14,19 @@
     "exportación",
     "mercancías",
     "territorio nacional",
-    "extranjero",
-    "tiempo ilimitado"
+    "permanencia en el extranjero"
   ],
   "terminos_coloquiales": [
-    "sacar mercancías del país",
-    "exportar definitivamente",
-    "salida de productos",
-    "mercancías al extranjero"
+    "exportación",
+    "sacar mercancías",
+    "salida de productos"
   ],
-  "resumen": "El régimen de exportación definitiva permite enviar mercancías fuera del país de forma permanente. Esto significa que las mercancías pueden quedarse en el extranjero sin un tiempo límite.",
+  "resumen": "El régimen de exportación definitiva permite que las mercancías salgan del país y permanezcan en el extranjero sin límite de tiempo.",
   "preguntas_ejemplo": [
-    "¿Qué es la exportación definitiva?",
-    "¿Cómo funciona el régimen de exportación?",
-    "¿Cuáles son las normas para exportar mercancías?",
-    "¿Cuánto tiempo se pueden dejar las mercancías en el extranjero?",
-    "¿Qué se necesita para sacar productos del país?"
+    "¿Qué es el régimen de exportación definitiva?",
+    "¿Cuáles son las condiciones para exportar mercancías definitivamente?",
+    "¿Qué significa que una mercancía esté en régimen de exportación definitiva?",
+    "¿Cuánto tiempo puedo mantener mercancías fuera del país con este régimen?",
+    "¿Cómo funciona la salida de mercancías bajo el régimen de exportación definitiva?"
   ]
 }

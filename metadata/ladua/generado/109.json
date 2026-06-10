@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:920d734b44f91b2c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación y maquilas",
+  "denominacion_comun": "Maquiladoras y exportación",
   "temas": [
-    "declaraciones aduaneras",
+    "declaración aduanera",
     "importación temporal",
-    "exportación",
-    "muestras y desperdicios",
-    "cuotas compensatorias",
+    "mermas",
+    "desperdicios",
     "cambio de régimen",
-    "control de mercancías"
+    "control de mercancías",
+    "pedimento de exportación",
+    "pedimento de importación temporal"
   ],
   "terminos_coloquiales": [
-    "declaración de maquila",
-    "cómo manejar desperdicios de importación",
-    "cambio de importación a definitiva",
-    "información sobre mercancías",
-    "requisitos para exportar desperdicios"
+    "maquiladora",
+    "exportación",
+    "mercancías",
+    "cambio de régimen",
+    "desperdicios",
+    "declaración aduanera"
   ],
-  "resumen": "Las maquiladoras deben presentar una declaración con información sobre mercancías que regresan y aquellas que no. También establece condiciones para convertir importaciones temporales en definitivas y manejar desperdicios.",
+  "resumen": "Las maquiladoras y empresas de exportación deben informar sobre mercancías que retornan y su porcentaje respecto a las importadas temporalmente. Pueden convertir importaciones temporales en definitivas al pagar cuotas compensatorias y otros impuestos. No se consideran importadas definitivamente las mermas y desperdicios si son destruidos según el reglamento.",
   "preguntas_ejemplo": [
-    "¿Qué debo declarar como maquiladora?",
-    "¿Cómo convierto una importación temporal en definitiva?",
-    "¿Qué pasa con los desperdicios de las mercancías importadas?",
-    "¿Cuáles son los requisitos para exportar desperdicios?",
-    "¿Cómo se manejan las mercancías que no se retornan?"
+    "¿Qué documentos necesito para exportar desperdicios de mercancías?",
+    "¿Puedo convertir una importación temporal en definitiva?",
+    "¿Cómo declaro las mermas de mi maquiladora?",
+    "¿Qué información debo proporcionar a aduanas sobre mis productos?",
+    "¿Qué son los pedimentos de exportación e importación temporal?",
+    "¿Cómo se manejan los desperdicios en el régimen de maquila?"
   ]
 }

@@ -6,26 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c8bcecea699e685c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones a la introducción y extracción ilegal de mercancías",
+  "denominacion_comun": "Sanciones por Contrabando",
   "temas": [
+    "introducción de mercancías",
+    "extracción de mercancías",
     "sanciones",
     "infracciones",
-    "mercancías",
     "responsabilidad solidaria"
   ],
   "terminos_coloquiales": [
-    "sanciones por contrabando",
-    "multas por mercancías ilegales",
-    "responsabilidad por importación ilegal"
+    "contrabando",
+    "mercancías ilegales",
+    "sanciones por contrabando"
   ],
-  "resumen": "Este artículo establece que si varias personas introducen o extraen mercancías de manera ilegal, se aplicarán sanciones según lo que cada quien haya hecho. Si no se puede determinar quién hizo qué, todos serán responsables de manera conjunta.",
+  "resumen": "El artículo establece las reglas para aplicar sanciones cuando varias personas introducen o extraen mercancías ilegalmente del país. Si se pueden identificar las mercancías de cada persona, se les sanciona individualmente; de lo contrario, todos son responsables de manera solidaria.",
   "preguntas_ejemplo": [
     "¿Qué pasa si varias personas traen mercancías ilegales?",
-    "¿Cómo se sanciona a quienes sacan cosas del país ilegalmente?",
-    "¿Se pueden dividir las multas entre los involucrados?",
-    "¿Qué sucede si no se puede identificar a cada infractor?",
-    "¿Cada uno es responsable por lo que trajo o sacó?"
+    "¿Cómo se aplican las sanciones por contrabando?",
+    "¿Qué es la responsabilidad solidaria en el contrabando?",
+    "¿Qué consecuencias hay si no se puede identificar quién trajo qué mercancía?",
+    "¿Se sanciona a todos los involucrados en un contrabando?"
   ]
 }

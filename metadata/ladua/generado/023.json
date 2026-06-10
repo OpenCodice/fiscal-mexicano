@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:383dcd93f7358fb5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Depósito de mercancías ante la aduana",
+  "denominacion_comun": "Depósito de mercancías",
   "temas": [
-    "recintos fiscales",
-    "régimen aduanero",
+    "depósito aduanero",
     "mercancías peligrosas",
-    "autorizaciones aduaneras",
+    "recintos fiscales",
+    "autorización de autoridades",
     "almacenaje seguro"
   ],
   "terminos_coloquiales": [
     "mercancías en aduana",
-    "depósito aduanal",
+    "depósito aduanero",
     "mercancías explosivas",
-    "almacenamiento aduanero",
-    "control de mercancías"
+    "mercancías inflamables",
+    "mercanías corrosivas",
+    "mercancías radiactivas"
   ],
-  "resumen": "Las mercancías deben ser depositadas en recintos fiscales ante la aduana para su destino aduanero. Las mercancías peligrosas tienen requisitos especiales para su almacenamiento seguro y deben ser entregadas a las autoridades competentes.",
+  "resumen": "Las mercancías deben permanecer en depósito ante la aduana en recintos designados hasta que se les asigne un régimen aduanero. Las mercancías peligrosas tienen requisitos específicos para su almacenamiento y entrega a las autoridades competentes.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías pueden estar en depósito ante la aduana?",
-    "¿Cuáles son los requisitos para almacenar mercancías peligrosas?",
-    "¿Qué pasa con las mercancías radiactivas en la aduana?",
-    "¿Dónde se depositan las mercancías en la aduana?",
-    "¿Qué significa estar en régimen aduanero?"
+    "¿Qué sucede con las mercancías en aduana?",
+    "¿Cuáles son las condiciones para el depósito de mercancías explosivas?",
+    "¿Dónde se pueden almacenar mercancías peligrosas en México?",
+    "¿Qué requisitos deben cumplir las mercancías radiactivas para su ingreso?",
+    "¿Cómo se controla el almacenamiento de mercancías contaminantes en la aduana?"
   ]
 }

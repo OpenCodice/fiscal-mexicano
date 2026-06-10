@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:618353d782925b9a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cálculo de contribuciones y cuotas compensatorias",
+  "denominacion_comun": "Revisión en origen",
   "temas": [
     "importaciones",
     "contribuciones",
     "cuotas compensatorias",
-    "revisión en origen",
     "margen de error",
-    "pago espontáneo",
-    "reconocimiento aduanero"
+    "porcentaje de omitidas",
+    "reconocimiento aduanero",
+    "verificación de mercancías"
   ],
   "terminos_coloquiales": [
-    "cómo calcular pagos por importaciones",
-    "cuánto debo pagar de impuestos de importación",
-    "error en contribuciones importación",
-    "cuotas compensatorias importación"
+    "revisión de importaciones",
+    "cálculo de impuestos",
+    "errores aduaneros",
+    "cuotas por importación",
+    "margen de error",
+    "PCO",
+    "CE"
   ],
-  "resumen": "Este artículo establece el procedimiento para que los importadores calculen las contribuciones y cuotas compensatorias que deben pagar por sus importaciones. Se determinan márgenes de error y porcentajes de omisiones a partir de las contribuciones previamente pagadas y declaradas.",
+  "resumen": "Este artículo establece cómo los importadores deben calcular las contribuciones y cuotas compensatorias por importaciones durante el mes de enero, basándose en el ejercicio inmediato anterior. Si el porcentaje de contribuciones omitidas es mayor que el margen de error, se debe pagar la diferencia; de lo contrario, no habrá pago necesario.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el margen de error en importaciones?",
-    "¿Qué hago si tengo contribuciones omitidas?",
+    "¿Cómo calculo las contribuciones por mis importaciones?",
+    "¿Qué es el margen de error en aduanas?",
     "¿Cuándo debo pagar las cuotas compensatorias?",
-    "¿Qué pasa si el porcentaje de omisiones es menor que el margen de error?",
-    "¿Cómo afecta el reconocimiento aduanero a mis pagos?"
+    "¿Qué pasa si tengo contribuciones omitidas?",
+    "¿Qué quiere decir PCO y ME?"
   ]
 }

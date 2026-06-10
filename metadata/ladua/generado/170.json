@@ -6,27 +6,18 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
-  "temas": [
-    "derogación",
-    "legislación fiscal",
-    "artículos",
-    "cambio normativo"
-  ],
-  "terminos_coloquiales": [
-    "se eliminó un artículo",
-    "artículo derogato",
-    "cambio en la ley",
-    "se quitó una regla"
-  ],
-  "resumen": "Este artículo ha sido eliminado de la legislación, por lo que ya no es aplicable.",
+  "denominacion_comun": "Derogación de disposición",
+  "temas": [],
+  "terminos_coloquiales": [],
+  "resumen": "La disposición se ha derogado y ya no está en vigor.",
   "preguntas_ejemplo": [
-    "¿Qué artículos han sido derogados en la ley aduanera?",
-    "¿Cuáles son los cambios recientes en la normativa fiscal?",
-    "¿Qué significa que un artículo esté derogado?",
-    "¿Dónde puedo ver los artículos eliminados de la ley?",
-    "¿Qué implicaciones tiene la derogación de un artículo?"
+    "¿Qué pasa con el Artículo 170 de la Ley Aduanera?",
+    "¿Está vigente el Artículo 170 de la Ley Aduanera?",
+    "¿Qué disposiciones se han derogado de la Ley Aduanera?",
+    "¿Cuáles son las leyes actuales en lugar del Artículo 170?",
+    "¿Se aplica alguna norma en lugar del Artículo 170?"
   ]
 }

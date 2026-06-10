@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a83721023736d3cb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios aduaneros de manejo y custodia",
+  "denominacion_comun": "Manejo y Almacenaje de Mercancías",
   "temas": [
-    "concesiones",
-    "autorizaciones",
-    "manejo de mercancías",
+    "servicios aduaneros",
     "almacenaje",
-    "custodia",
+    "custodia de mercancías",
+    "interés fiscal",
     "reconocimiento aduanero",
-    "compensaciones",
-    "aprovechamientos"
+    "compensación",
+    "aprovechamiento",
+    "transfersencia de mercancías"
   ],
   "terminos_coloquiales": [
-    "servicios de aduanas",
     "almacenamiento de mercancías",
     "custodia de mercancías",
-    "manejo de mercancías en aduana",
-    "requisitos para almacenes de aduana"
+    "interés fiscal",
+    "cuota",
+    "asignación de mercancías",
+    "traslado de mercancías",
+    "SAE",
+    "SAT"
   ],
-  "resumen": "El artículo establece las obligaciones que deben cumplir quienes prestan servicios de manejo y custodia de mercancías en aduanas. Esto incluye garantizar el interés fiscal, permitir el acceso a instalaciones para reconocimiento de mercancías y contar con sistemas de control.",
+  "resumen": "Este artículo establece las obligaciones de los particulares que ofrecen servicios de manejo, almacenaje y custodia de mercancías en recintos fiscalizados. Detalla aspectos como la garantía del interés fiscal, el reconocimiento aduanero y las condiciones para el cobro de servicios, así como la correcta gestión y seguridad de las mercancías. También menciona la obligación de reportar al SAT cualquier irregularidad en el manejo de estas mercancías.",
   "preguntas_ejemplo": [
-    "¿Qué requisitos debo cumplir para manejar mercancías en aduana?",
-    "¿Cómo se garantiza el interés fiscal en el almacenamiento de mercancías?",
-    "¿Qué sucede si las mercancías no son retiradas a tiempo?",
-    "¿Cuáles son las obligaciones de un almacén aduanero?",
-    "¿Cómo se manejan las mercancías embargadas en aduanas?"
+    "¿Qué obligaciones tengo si ofrezco servicios de almacenaje de mercancías?",
+    "¿Cómo se determina el interés fiscal para el almacenamiento?",
+    "¿Cuánto tiempo puedo almacenar mercancías sin costo?",
+    "¿Qué pasa si las mercancías no son retiradas a tiempo?",
+    "¿Cómo funciona la compensación de tarifas en este artículo?",
+    "¿Qué requerimientos debo cumplir para trasladar mercancías entre almacenes?"
   ]
 }

@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b9073e76653d569d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Destinación de mercancías embargadas",
+  "denominacion_comun": "Destrucción y devolución de mercancías embargadas",
   "temas": [
-    "mercancías perecederas",
-    "embargo precautorio",
+    "embargo aduanero",
     "destrucción de mercancías",
-    "donación de bienes",
+    "devolución de bienes",
+    "donación de mercancías",
     "asignación de mercancías",
-    "devolución de mercancías",
     "valor de mercancías",
-    "resoluciones administrativas"
+    "bien sustituto"
   ],
   "terminos_coloquiales": [
-    "qué pasa con las mercancías embargadas",
-    "destrucción de mercancías",
-    "donación de bienes embargados",
+    "embargo",
     "devolución de mercancías",
-    "valores de mercancías embargadas"
+    "destrucción de bienes",
+    "donar mercancías",
+    "asignación de bienes",
+    "valor de la mercancía"
   ],
-  "resumen": "Este artículo establece que las autoridades aduaneras pueden destruir, donar o asignar mercancías embargadas que no sean reclamadas en un tiempo determinado. También se menciona la posibilidad de devolver bienes a los particulares o pagar su valor si se comprueba su legalidad.",
+  "resumen": "El artículo establece que mercancías perecederas o peligrosas embargadas que no sean reclamadas en un plazo determinado pueden ser destruidas o donadas. Además, si se ordena la devolución de mercancías y no se puede hacer, el afectado puede optar por un bien sustituto o el valor de la mercancía.",
   "preguntas_ejemplo": [
-    "¿Qué sucede con las mercancías que son embargadas?",
-    "¿Cómo se determina el valor de las mercancías embargadas?",
-    "¿Puedo solicitar la devolución de mercancías embargadas?",
-    "¿Qué hacer si las mercancías fueron dañadas o destruidas?",
-    "¿Cuánto tiempo tengo para reclamar mercancías embargadas?"
+    "¿Qué pasa con las mercancías embargadas si no las reclamo?",
+    "¿Puedo recibir el valor de mi mercancía embargada?",
+    "¿Qué tipo de mercancías se pueden destruir o donar?",
+    "¿Cómo puedo solicitar la devolución de mi mercancía?",
+    "¿Qué hago si la autoridad no puede devolverme mi mercancía?"
   ]
 }

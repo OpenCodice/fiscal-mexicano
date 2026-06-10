@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fb130d144e60d3f8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pedimento Aduanero",
+  "denominacion_comun": "Pedimento aduanero",
   "temas": [
-    "transmisión de mercancías",
+    "introducción de mercancías",
+    "extracción de mercancías",
     "régimen aduanero",
-    "pedimento electrónico",
+    "transmisión de pedimentos",
     "firma electrónica avanzada",
     "sello digital",
-    "autenticación de usuarios"
+    "identificación tecnológica",
+    "código de barras"
   ],
   "terminos_coloquiales": [
-    "cómo hago un pedimento",
-    "pedimento para aduanas",
-    "qué es un pedimento electrónico",
-    "documento para importar",
-    "requisitos de importación"
+    "pedimento",
+    "trámite aduanero",
+    "mercancías",
+    "documento electrónico",
+    "importación",
+    "exportación"
   ],
-  "resumen": "El artículo establece que quienes introduzcan o extraigan mercancías deben presentar un pedimento electrónico con información detallada, utilizando firma electrónica y otros medios de identificación. Este pedimento se puede entregar en dispositivos electrónicos y debe contener elementos técnicos para su validación.",
+  "resumen": "Este artículo establece que las personas que introducen o sacan mercancías del país deben transmitir un pedimento a las autoridades aduaneras usando un sistema electrónico. El pedimento incluye información sobre las mercancías y debe llevar la firma electrónica avanzada o sello digital correspondiente.",
   "preguntas_ejemplo": [
     "¿Qué es un pedimento aduanero?",
-    "¿Cómo se presenta un pedimento electrónico?",
-    "¿Qué información lleva un pedimento para importar?",
-    "¿Cuál es la función de la firma electrónica en los pedimentos?",
-    "¿Qué pasa si no presento un pedimento?",
-    "¿Qué requisitos debo cumplir para enviar mercancías?"
+    "¿Cómo se presenta un pedimento a las autoridades aduaneras?",
+    "¿Qué información debe incluir un pedimento?",
+    "¿Qué es la firma electrónica avanzada en el contexto aduanero?",
+    "¿Cuáles son los efectos de usar un sello digital en los pedimentos?",
+    "¿Qué ocurre si el pedimento no tiene el código de barras correspondiente?"
   ]
 }

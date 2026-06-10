@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2db7315417fa1659",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Desistimiento de régimen aduanero",
+  "denominacion_comun": "Desistimiento y cambio de régimen aduanero",
   "temas": [
-    "desistimiento",
     "régimen aduanero",
-    "exportaciones",
-    "mecanismo de selección",
-    "tráfico aéreo",
-    "tráfico marítimo",
+    "desistimiento",
     "cambio de régimen",
-    "contribuciones"
+    "exportaciones",
+    "aduanas",
+    "tránsito de mercancías"
   ],
   "terminos_coloquiales": [
-    "cómo cancelar un régimen aduanero",
-    "desistirse de un régimen",
+    "renuncia a un régimen aduanero",
     "cambio de régimen aduanero",
-    "exportar mercancías",
-    "regulaciones aduaneras"
+    "desistimiento",
+    "aduanas aéreas",
+    "aduanas marítimas"
   ],
-  "resumen": "El desistimiento de un régimen aduanero se puede hacer antes de que se active un mecanismo de selección. Para exportaciones en aduanas aéreas o marítimas, se permite desistirse incluso después de activado este mecanismo. El cambio de régimen requiere el pago de ciertas contribuciones y cargos.",
+  "resumen": "El artículo establece las condiciones bajo las cuales se puede desistir de un régimen aduanero y cómo proceder con el cambio de régimen. Esto incluye el manejo de exportaciones en aduanas de tráfico aéreo o marítimo y las obligaciones fiscales asociadas.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo desistirme de un régimen aduanero?",
-    "¿Puedo cambiar de régimen después de activar la selección automatizada?",
-    "¿Qué necesito para realizar un cambio de régimen aduanero?",
-    "¿Qué implicaciones tiene desistirse de un régimen en aduanas marítimas?",
-    "¿Qué pagos son necesarios al cambiar de régimen aduanero?"
+    "¿Cómo puedo desistirme de un régimen aduanero?",
+    "¿Cuáles son las condiciones para cambiar de régimen aduanero?",
+    "¿Puedo desistirme después de activar el mecanismo de selección automatizado?",
+    "¿Qué pasa con las exportaciones en aduanas aéreas o marítimas?",
+    "¿Qué debo pagar al cambiar de régimen aduanero?"
   ]
 }

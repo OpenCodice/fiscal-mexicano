@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1e37a7a4a6fdfd6b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones aduaneras",
+  "denominacion_comun": "Infracciones Aduaneras",
   "temas": [
     "transmisión de información",
-    "documentación aduanera",
-    "declaraciones extemporáneas",
+    "declaraciones aduaneras",
+    "documentación",
+    "ritmo de presentación",
     "datos inexactos",
-    "código de barras",
-    "cantidades en efectivo",
-    "pedimentos consolidados"
+    "medios de control"
   ],
   "terminos_coloquiales": [
-    "errores en documentos",
-    "faltantes en declaraciones",
-    "problemas con aduanas",
-    "incumplimientos aduaneros"
+    "infracciones aduaneras",
+    "informes aduaneros",
+    "declaración de aduana",
+    "pedimento",
+    "código de barras",
+    "declaración extemporánea",
+    "documentos requeridos"
   ],
-  "resumen": "Este artículo establece las infracciones que pueden cometer las personas al no transmitir o presentar adecuadamente la información y documentos requeridos por las autoridades aduaneras. También abarca aspectos como datos inexactos y la declaración de cantidades en efectivo al entrar o salir del país.",
+  "resumen": "Este artículo establece las infracciones relacionadas con la presentación y transmisión de documentos e información requeridos por las autoridades aduaneras. Se detallan las sanciones por no cumplir con la entrega de información o por hacerlo de manera incorrecta o extemporánea.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no presento mis documentos aduaneros a tiempo?",
-    "¿Cuáles son las infracciones relacionadas con las aduanas?",
-    "¿Qué debo hacer si cometí un error en mi declaración aduanera?",
-    "¿Es obligatorio declarar el efectivo al cruzar la frontera?",
-    "¿Qué sanciones hay por no transmitir información correcta en aduanas?"
+    "¿Qué pasa si no presento la declaración aduanera a tiempo?",
+    "¿Cuáles son las infracciones que puedo cometer en aduanas?",
+    "¿Qué información debo enviar a las autoridades aduaneras?",
+    "¿Qué sucede si mi pedimento tiene datos inexactos?",
+    "¿Cómo se manifiestan las infracciones aduaneras?"
   ]
 }

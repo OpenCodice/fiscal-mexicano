@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c243c6ff8fc20e0f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Base gravable del impuesto de importación",
   "temas": [
-    "valor en aduana",
     "impuesto general de importación",
+    "valor en aduana",
     "valor de transacción",
-    "mercancías",
-    "precio pagado"
+    "precio pagado",
+    "circunstancias de valoración"
   ],
   "terminos_coloquiales": [
-    "cómo se calcula el impuesto de importación",
-    "qué es el valor en aduana",
-    "precio de mercancías importadas",
-    "base para impuestos de importación"
+    "impuesto de importación",
+    "valor aduanal",
+    "costo de mercancía",
+    "precio de importación"
   ],
-  "resumen": "La base gravable para el impuesto de importación es el valor en aduana de las mercancías, que generalmente es el precio pagado por ellas. Este valor se ajusta de acuerdo a ciertas condiciones establecidas en la ley.",
+  "resumen": "El artículo establece que la base gravable para el impuesto de importación es el valor en aduana de las mercancías, que normalmente es el valor de transacción. Este valor se refiere al precio pagado por las mercancías importadas y puede ajustarse según ciertas circunstancias.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor en aduana de un producto?",
-    "¿Qué se considera como precio pagado en la importación?",
-    "¿Cuáles son los requisitos para calcular el impuesto de importación?",
-    "¿Qué pasa si el valor de transacción no coincide con el precio pagado?",
-    "¿Existen excepciones para la base gravable en el impuesto de importación?"
+    "¿Cómo se calcula el impuesto de importación?",
+    "¿Qué es el valor en aduana de las mercancías?",
+    "¿Cómo se determina el precio pagado en una importación?",
+    "¿Qué se considera valor de transacción en aduanas?",
+    "¿Existen excepciones para el cálculo del valor en aduana?"
   ]
 }

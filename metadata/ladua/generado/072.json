@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e10911b0ca82ce0b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Valor de mercancías idénticas",
   "temas": [
     "valor de transacción",
     "mercancías idénticas",
+    "exportación",
+    "importación",
     "ajustes de valor",
-    "exportación e importación",
-    "nivel comercial"
+    "costos y gastos",
+    "comercio internacional"
   ],
   "terminos_coloquiales": [
-    "cómo se valúan las mercancías",
-    "precio de importación",
-    "valor aduanero",
-    "mercancías similares"
+    "valor de mercancías",
+    "mercancías iguales",
+    "valor de referencia",
+    "ajuste de precios"
   ],
-  "resumen": "El artículo establece cómo determinar el valor de mercancías idénticas para propósitos de importación. Se determina el valor a partir de transacciones de mercancías similares, con ajustes si es necesario, considerando factores como el nivel comercial y la cantidad.",
+  "resumen": "Este artículo establece cómo se determina el valor de transacción para mercancías idénticas importadas. Se especifica que se debe utilizar el valor más bajo cuando hay más de uno y se deben hacer ajustes en función de costos y gastos para reflejar diferencias entre mercancías similares.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor de mercancías importadas?",
-    "¿Qué son las mercancías idénticas según la ley?",
-    "¿Qué ajustes se deben considerar al valorar mercancías?",
-    "¿Qué hacer si no hay venta de mercancías idénticas?",
-    "¿Cuál es el valor más bajo en las mercancías idénticas?"
+    "¿Qué es el valor de mercancías idénticas?",
+    "¿Cómo se determina el valor de importación de mercancías?",
+    "¿Qué pasa si no hay ventas comparables para ajustar el valor?",
+    "¿Qué son los ajustes en el valor de mercancías idénticas?",
+    "¿Qué mercancías se consideran idénticas según la ley?",
+    "¿Cuáles son los criterios para ajustar el valor de transacción?"
   ]
 }

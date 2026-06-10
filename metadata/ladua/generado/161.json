@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cbbb97bfde223b34",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Patente de agente aduanal",
+  "denominacion_comun": "Patente de Agente Aduanal",
   "temas": [
     "agente aduanal",
     "patente",
     "autorización",
-    "aduanas adicionales",
+    "aduana",
     "obligaciones fiscales",
-    "despachos aduanales",
+    "despacho aduanal",
+    "tránsito interno",
     "readscripción"
   ],
   "terminos_coloquiales": [
+    "patente de agente aduanal",
     "agente de aduana",
-    "patente de aduana",
-    "poder actuar en otra aduana",
-    "autorización aduanal",
-    "renuncia a aduana"
+    "autorización de aduana",
+    "derechos fiscales"
   ],
-  "resumen": "La patente de agente aduanal permite actuar en una aduana específica, pero se puede solicitar autorización para operar en otras. Se requiere demostrar que se están cumpliendo las obligaciones fiscales para obtener dicha autorización.",
+  "resumen": "El artículo regula la patente de agente aduanal, permitiendo a su titular actuar en una aduana específica y establecer los procedimientos para solicitar autorizaciones para aduanas adicionales, así como las condiciones para su actuación y readmisión en caso de supresión de aduanas.",
   "preguntas_ejemplo": [
-    "¿Qué es la patente de agente aduanal?",
-    "¿Cuántas aduanas adicionales puede manejar un agente aduanal?",
-    "¿Qué requisitos necesita un agente aduanal para actuar en otra aduana?",
-    "¿Qué pasa si un agente aduanal renuncia a una aduana?",
-    "¿Cómo puede un agente aduanal solicitar su readscripción?"
+    "¿Qué necesito para ser agente aduanal?",
+    "¿Cuántas aduanas puede atender un agente aduanal?",
+    "¿Cómo solicito una autorización para actuar en otra aduana?",
+    "¿Qué sucede si se suprime una aduana donde estoy adscrito?",
+    "¿Qué obligaciones fiscales tengo como agente aduanal?",
+    "¿Qué es el régimen de tránsito interno de mercancías?"
   ]
 }

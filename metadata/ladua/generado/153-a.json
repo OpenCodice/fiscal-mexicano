@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:96f1927130812c27",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Actas de irregularidades aduaneras",
+  "denominacion_comun": "Actas Circunstanciadas",
   "temas": [
-    "actas circunstanciadas",
+    "reconocimiento aduanero",
     "verificación de mercancías",
-    "autoridades aduaneras",
-    "plazos de actuación",
+    "actas parciales",
+    "actas finales",
     "irregularidades",
-    "comprobación aduanera"
+    "plazos de comprobación"
   ],
   "terminos_coloquiales": [
     "actas aduaneras",
-    "irregularidades en aduanas",
-    "plazos en verificaciones",
-    "verificación de mercancías",
-    "comprobación en aduanas"
+    "acta circunstanciada",
+    "actas de verificación"
   ],
-  "resumen": "El artículo establece que las autoridades aduaneras pueden levantar actas cuando detectan irregularidades durante la verificación de mercancías. Además, señala los plazos y condiciones bajo los cuales deben realizarse estas actas y las consecuencias de no cumplir con ellos.",
+  "resumen": "Este artículo establece que las autoridades aduaneras pueden levantar actas circunstanciadas cuando encuentran irregularidades durante la verificación de mercancías. También menciona los plazos que deben seguir para que dichas actas sean válidas.",
   "preguntas_ejemplo": [
-    "¿Qué hacer si hay irregularidades en la aduana?",
-    "¿Cuáles son los plazos para levantar un acta aduanera?",
-    "¿Qué ocurre si no se cumplen los plazos en la verificación de mercancías?",
-    "¿Las autoridades aduaneras deben seguir un procedimiento específico?",
-    "¿Cómo se levantan las actas en la aduana?"
+    "¿Qué es un acta circunstanciada en aduanas?",
+    "¿Cuáles son los plazos para las actas de verificación aduanera?",
+    "¿Qué sucede si no se cumplen los plazos en la verificación de mercancías?",
+    "¿Cómo se levantan las actas parciales y finales en aduanas?",
+    "¿Qué irregularidades se pueden registrar en un acta aduanera?"
   ]
 }

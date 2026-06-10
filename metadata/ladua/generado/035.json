@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:708f58d193297a48",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Despacho aduanero",
+  "denominacion_comun": "Despacho Aduanero",
   "temas": [
-    "merchancías",
-    "entrada y salida",
+    "tráficos aduaneros",
     "regímenes aduaneros",
-    "actos y formalidades",
-    "agentes aduanales"
+    "entrada de mercancías",
+    "salida de mercancías",
+    "autoridades aduaneras",
+    "agentes aduanales",
+    "sistema electrónico aduanero"
   ],
   "terminos_coloquiales": [
-    "trámites aduaneros",
-    "despacho de mercancías",
-    "ingreso de productos",
-    "exportación e importación"
+    "despacho aduanero",
+    "importaciones",
+    "exportaciones",
+    "agente aduanal",
+    "aduana"
   ],
-  "resumen": "El despacho aduanero incluye los actos y formalidades necesarios para la entrada y salida de mercancías en el país, regulados por las autoridades aduaneras. Esto debe realizarse de acuerdo con los tráficos y regímenes establecidos en la ley.",
+  "resumen": "El artículo define el despacho aduanero como el conjunto de actos y formalidades relacionados con la entrada y salida de mercancías del país. Este proceso debe realizarse ante las autoridades y se lleva a cabo utilizando un sistema electrónico aduanero.",
   "preguntas_ejemplo": [
     "¿Qué es el despacho aduanero?",
-    "¿Qué trámites necesito para importar mercancías?",
-    "¿Cómo se manejan las contingencias en el sistema aduanero?",
-    "¿Quiénes participan en el despacho aduanero?",
-    "¿Cuáles son los requisitos para exportar productos?"
+    "¿Qué se necesita para importar mercancías?",
+    "¿Cómo se realiza el proceso de exportación?",
+    "¿Quiénes son los agentes aduanales?",
+    "¿Qué pasa si hay problemas con el sistema aduanero?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:143edb4df92c060b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Obligaciones de empresas porteadoras",
   "temas": [
+    "transporte de mercancías",
     "inspección aduanera",
-    "documentación de transporte",
-    "mercancías peligrosas",
-    "comunicación de arribo",
-    "registro de empresas porteadoras",
-    "transmisión de información"
+    "documentación",
+    "marcaje de mercancías",
+    "transmisión de información",
+    "servicio de transporte de pasajeros",
+    "registro de empresas"
   ],
   "terminos_coloquiales": [
-    "responsabilidades de transportistas",
-    "requisitos para transporte internacional",
-    "reglas para empresas de transporte",
-    "qué deben hacer los capitanes",
-    "obligaciones ante aduanas"
+    "transporte de mercancías",
+    "trato aduanero",
+    "inspección de carga",
+    "documentos de transporte",
+    "transportar explosivos",
+    "transmitir información a aduanas",
+    "transporte internacional de pasajeros"
   ],
-  "resumen": "Las empresas y personas encargadas del transporte de mercancías deben cumplir con varias obligaciones, como permitir la inspección de sus medios de transporte y mercancías, así como transmitir información a las autoridades aduaneras antes de su entrada o salida del país. También deben marcar adecuadamente las mercancías peligrosas y proporcionar cierta documentación a los pasajeros en transporte internacional.",
+  "resumen": "Las empresas porteadoras y sus representantes deben cumplir con diversas obligaciones relacionadas con la inspección de mercancías y el transporte. Esto incluye la presentación de documentos, medidas de seguridad, y la transmisión de información a las autoridades aduaneras.",
   "preguntas_ejemplo": [
-    "¿Qué documentos debo tener para transportar mercancías?",
-    "¿Cuáles son las obligaciones de un transportista al llegar a México?",
-    "¿Qué hacer si transporto mercancías peligrosas?",
-    "¿Cómo informo a aduana sobre la llegada de mercancías?",
-    "¿Los capitanes de barcos deben cumplir con alguna regla específica?"
+    "¿Qué obligaciones tienen las empresas que transportan mercancías?",
+    "¿Qué documentación necesito al transportar carga?",
+    "¿Cómo debo marcar mercancías peligrosas?",
+    "¿Qué debo hacer al llegar con mercancías al país?",
+    "¿Qué es el registro de empresas porteadoras?",
+    "¿Cuáles son las responsabilidades del capitán de un barco?"
   ]
 }

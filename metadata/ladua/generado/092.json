@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de63d46c92f2da37",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Retorno de mercancías en aduana",
   "temas": [
-    "retorno de mercancías",
-    "depósito en aduana",
+    "devolución de mercancías",
+    "aduana",
     "importación prohibida",
-    "armas",
-    "substancias nocivas",
     "créditos fiscales",
-    "normas aduaneras"
+    "mercancías nocivas"
   ],
   "terminos_coloquiales": [
-    "devolución de mercancías",
-    "regreso de productos",
-    "mercancías en aduana",
-    "retorno de productos importados"
+    "devolver mercancías",
+    "retorno de mercancías",
+    "reembolso aduanal"
   ],
-  "resumen": "Este artículo establece que se puede devolver mercancías al extranjero antes de activar un mecanismo de selección, excepto en ciertos casos como importaciones prohibidas, armas o deudas fiscales. El proceso de retorno debe seguir ciertas reglas establecidas.",
+  "resumen": "El artículo establece que se puede devolver mercancías que están en depósito ante la aduana antes de activar un mecanismo automatizado, siempre y cuando no sean mercancías prohibidas, armas, substancias nocivas o tengan créditos fiscales pendientes. Las devoluciones se realizarán siguiendo reglas específicas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo devolver mercancías que están en aduana?",
-    "¿Cuáles son las condiciones para el retorno de productos?",
-    "¿Puedo regresar mercancías prohibidas?",
-    "¿Qué pasa si tengo deudas fiscales y quiero regresar mercancías?",
-    "¿Qué tipo de mercancías pueden ser devueltas al extranjero?"
+    "¿Cuándo puedo devolver mercancías en aduana?",
+    "¿Qué mercancías no puedo retornar al extranjero?",
+    "¿Cómo se maneja el retorno de mercancías con créditos fiscales?",
+    "¿Qué pasa si tengo mercancías nocivas en aduana?",
+    "¿Cuáles son los requisitos para devolver mercancías?"
   ]
 }

@@ -6,19 +6,24 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:47c6b23e6e215cd5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación del Artículo 85",
-  "temas": [],
-  "terminos_coloquiales": [
-    "qué pasó con el artículo 85",
-    "artículo 85 derogado",
-    "cambio en la ley aduanera"
+  "denominacion_comun": "Derogación de Artículo 85",
+  "temas": [
+    "derogación",
+    "artículo",
+    "legislación"
   ],
-  "resumen": "El artículo 85 ha sido derogado, por lo que ya no está en vigor. Esto significa que las disposiciones que estaban en él ya no se aplican.",
+  "terminos_coloquiales": [
+    "derogación",
+    "se eliminó este artículo"
+  ],
+  "resumen": "El artículo 85 ha sido derogado, por lo que ya no tiene validez legal.",
   "preguntas_ejemplo": [
-    "¿Qué significa la derogación del artículo 85?",
-    "¿Qué pasó con las obligaciones de este artículo?",
-    "¿Qué efectos tiene la deroga del artículo 85 en la legislación actual?"
+    "¿Qué pasó con el artículo 85 de la Ley Aduanera?",
+    "¿Está vigente el artículo 85?",
+    "¿Se eliminó alguna disposición de la Ley Aduanera?",
+    "¿Qué significa que se derogue un artículo?"
   ]
 }

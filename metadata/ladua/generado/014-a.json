@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:33d360d583112a20",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recinto Fiscalizado Autorizado",
+  "denominacion_comun": "Recinto fiscalizado autorizado",
   "temas": [
+    "servicios de manejo",
+    "almacenaje de mercancías",
+    "custodia de mercancías",
     "autorizaciones aduaneras",
-    "servicios de manejo de mercancías",
-    "almacenaje en aduanas",
-    "requisitos para autorización",
-    "plazo de autorización"
+    "requisitos fiscales",
+    "plazo de autorización",
+    "inmuebles colindantes"
   ],
   "terminos_coloquiales": [
-    "recinto fiscal autorizado",
-    "manejo de mercancías en aduana",
-    "almacenaje fiscal",
-    "autorización de aduanas"
+    "recinto fiscalizado",
+    "servicio de aduanas",
+    "almacenaje",
+    "manejo de mercancías",
+    "custodia",
+    "SAT"
   ],
-  "resumen": "Los inmuebles colindantes con recintos fiscales pueden ser autorizados para manejar y almacenar mercancías. Se requieren varios requisitos, como ser una persona moral y tener un sistema tecnológico adecuado.",
+  "resumen": "Los particulares que usen un inmueble colindante con un recinto fiscal pueden solicitar al SAT autorización para ofrecer servicios de manejo, almacenaje y custodia de mercancías. Deben demostrar su capacidad técnica y cumplir con varios requisitos, incluyendo el uso legal del inmueble.",
   "preguntas_ejemplo": [
-    "¿Qué es un recinto fiscalizado autorizado?",
-    "¿Cómo solicitar autorización para manejar mercancías?",
-    "¿Cuáles son los requisitos para tener un recinto fiscalizado?",
-    "¿Por cuánto tiempo se puede obtener la autorización?",
-    "¿Qué documentos necesito para la autorización?"
+    "¿Cómo puedo obtener una autorización para manejar mercancías en un recinto fiscalizado?",
+    "¿Cuáles son los requisitos para ser un recinto fiscalizado autorizado?",
+    "¿Por cuánto tiempo se otorgan las autorizaciones para prestar servicios de aduanas?",
+    "¿Qué documentación necesito para solicitar el uso de un inmueble colindante a un recinto fiscal?",
+    "¿Debo cumplir con obligaciones fiscales para tener un recinto fiscalizado autorizado?",
+    "¿Qué tipo de tecnología necesito para operar un recinto fiscalizado?"
   ]
 }

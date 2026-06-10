@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:04494cb5edc04e6d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de Empresas Certificadas",
   "temas": [
-    "Inscripción",
-    "Autorización",
-    "Requisitos fiscales",
-    "Cumplimiento aduanero",
-    "Operador económico autorizado",
-    "Renovación"
+    "inscripción",
+    "requisitos",
+    "renovación",
+    "cancelación de autorización",
+    "empresas transportistas",
+    "cumplimiento fiscal",
+    "mercancías",
+    "seguridad"
   ],
   "terminos_coloquiales": [
-    "Empresas certificadas",
-    "Registro de empresas",
-    "Inscripción aduanera",
-    "Cumplimiento de requisitos fiscales"
+    "registro de empresas",
+    "operador económico autorizado",
+    "fulanito de tal",
+    "certificación de empresas",
+    "documentación para registro"
   ],
-  "resumen": "Este artículo establece los requisitos que deben cumplir las empresas para ser inscritas en el registro de empresas certificadas, incluyendo estar al corriente con sus obligaciones fiscales y demostrar cumplimiento aduanero. También menciona el proceso de renovación de la inscripción.",
+  "resumen": "Este artículo establece los requisitos para que las empresas se inscriban en el registro de empresas certificadas. Para obtener la autorización, deben demostrar cumplimiento en obligaciones fiscales y aduaneras. La inscripción debe renovarse y existen condiciones para la cancelación de la autorización.",
   "preguntas_ejemplo": [
     "¿Qué se necesita para registrarse como empresa certificada?",
-    "¿Cómo puedo renovar mi inscripción en el registro?",
-    "¿Cuáles son los requisitos fiscales para empresas certificadas?",
-    "¿Qué pasa si no cumplo con las obligaciones aduaneras?",
-    "¿Quién puede ser operador económico autorizado?"
+    "¿Cómo renuevo mi inscripción en el registro de empresas certificadas?",
+    "¿Cuáles son los requisitos para ser un operador económico autorizado?",
+    "¿Qué pasa si mi autorización fue cancelada?",
+    "¿Qué documentación debo presentar para obtener la certificación?",
+    "¿Cuánto tiempo tarda el SAT en dar respuesta a mi solicitud?"
   ]
 }

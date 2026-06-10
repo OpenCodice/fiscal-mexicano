@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2b0b072f1cd824be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuestos al comercio exterior en la frontera",
+  "denominacion_comun": "Desgravación de impuestos en la franja fronteriza",
   "temas": [
-    "desgravación de impuestos",
-    "regulaciones fronterizas",
-    "exportación e importación",
-    "mercancías específicas"
+    "mercancías desgravadas",
+    "impuestos al comercio exterior",
+    "franja fronteriza",
+    "importación de bebidas alcohólicas",
+    "impuesto general de importación"
   ],
   "terminos_coloquiales": [
-    "impuestos en la frontera",
-    "mercancías desgravadas",
-    "reglas de importación en la frontera",
-    "bebidas alcohólicas y tabaco en la frontera"
+    "mercancías sin impuestos",
+    "frontera",
+    "impuesto de importación",
+    "bebidas alcohólicas",
+    "tabacos"
   ],
-  "resumen": "La Secretaría de Economía establece qué mercancías están exentas de impuestos en la franja fronteriza. También determina las mercancías que tienen regulaciones especiales para su importación o exportación.",
+  "resumen": "El artículo establece que la Secretaría de Economía, con la opinión correspondiente, determinará las mercancías que estarán exentas o reducidas de impuestos en la región fronteriza. Además, algunas mercancías, como bebidas alcohólicas y tabaco, estarán sujetas al impuesto general de importación sin reducción.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías no pagan impuestos en la frontera?",
-    "¿Cuáles son las regulaciones para importar a la franja fronteriza?",
-    "¿Se pueden importar bebidas alcohólicas sin impuestos en la frontera?",
-    "¿Qué productos están sujetos a restricciones en la frontera?",
-    "¿Cómo afecta el comercio en la región fronteriza?",
-    "¿Qué dice la ley sobre la importación de tabaco en la frontera?"
+    "¿Qué mercancías están exentas de impuestos en la franja fronteriza?",
+    "¿Cuáles productos tienen impuestos al ser importados a la frontera?",
+    "¿El tabaco tiene alguna reducción de impuestos en la franja fronteriza?",
+    "¿Cómo se determinan las mercancías desgravadas en la frontera?",
+    "¿Qué regula la Secretaría de Economía en cuanto a impuestos en la franja fronteriza?"
   ]
 }

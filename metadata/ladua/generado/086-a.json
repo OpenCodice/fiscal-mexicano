@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e57e3825f0663d3c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Garantías Aduaneras",
+  "denominacion_comun": "Garantía aduanera",
   "temas": [
-    "importación",
-    "garantías",
+    "importación de mercancías",
+    "tránsito de mercancías",
+    "garantías aduaneras",
     "cuotas compensatorias",
-    "depósitos",
-    "mercancías",
-    "régimen fiscal",
-    "tránsito aduanero"
+    "regímenes aduaneros",
+    "recintos fiscales",
+    "depósitos en cuentas aduaneras"
   ],
   "terminos_coloquiales": [
-    "depósitos en aduanas",
-    "garantía de importación",
-    "cuotas aduaneras",
-    "mercancías en tránsito",
-    "carta de crédito aduanera",
-    "cancela garantía aduanera"
+    "garantía aduanera",
+    "depósitos aduaneros",
+    "impuestos de importación",
+    "cuotas de importación",
+    "pedimentos aduaneros"
   ],
-  "resumen": "El artículo establece que quienes importan mercancías deben garantizar ciertos pagos mediante depósitos en cuentas aduaneras. Estas garantías pueden cancelarse después de un año o al cumplir con ciertos requisitos. También se permite el uso de cartas de crédito como forma de garantía.",
+  "resumen": "Este artículo establece las obligaciones de quienes importan mercancías o realizan tránsito de mercancías en relación a las garantías que deben depositar en cuentas aduaneras. Las garantías están relacionadas con el valor declarado de las mercancías y las contribuciones correspondientes. Estas garantías pueden ser canceladas bajo ciertas condiciones, como el pago de cuotas o la tramitación adecuada de los pedimentos.",
   "preguntas_ejemplo": [
     "¿Qué es una garantía aduanera?",
-    "¿Cuándo se cancela una garantía de importación?",
-    "¿Necesito un depósito para importar mercancías?",
-    "¿Puedo usar una carta de crédito en lugar de un depósito?",
-    "¿Qué sucede si no pago las cuotas compensatorias?"
+    "¿Cómo se tramita un pedimento aduanero?",
+    "¿Cuándo se puede cancelar una garantía aduanera?",
+    "¿Qué pasa si declaro un valor menor al precio estimado en la aduana?",
+    "¿Qué son las cuotas compensatorias en las importaciones?",
+    "¿Qué requisitos hay para usar una carta de crédito como garantía?"
   ]
 }

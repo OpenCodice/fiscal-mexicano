@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:583ed98ff740b84e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Devolución de mercancías exportadas",
+  "denominacion_comun": "Retorno de mercancías",
   "temas": [
     "exportación",
-    "retorno de mercancías",
+    "importación",
     "impuesto general de importación",
     "impuesto general de exportación",
     "maquiladoras",
-    "programa de exportación",
-    "modificaciones en el extranjero"
+    "mercancías defectuosas",
+    "programa de exportación"
   ],
   "terminos_coloquiales": [
-    "devolución de productos",
-    "exportación y regreso",
-    "impuestos por exportación",
-    "mercancías rechazadas",
-    "productos defectuosos"
+    "retorno de mercancías",
+    "devolución de mercancías",
+    "exportación definitiva",
+    "exportación temporal",
+    "maquiladoras",
+    "SGM (Servicio de Administración Tributaria)"
   ],
-  "resumen": "Este artículo establece que las mercancías exportadas pueden regresar al país sin pagar impuestos si no han cambiado y dentro de un año de su salida. También indica que, si las mercancías son rechazadas en el extranjero por ser defectuosas, se puede solicitar la devolución del impuesto general de exportación pagado.",
+  "resumen": "El artículo establece las condiciones bajo las cuales las mercancías exportadas pueden retornar al país sin pagar impuestos, y los procedimientos a seguir si las mercancías son rechazadas en el extranjero. También menciona las implicaciones para las maquiladoras en el proceso de retorno.",
   "preguntas_ejemplo": [
-    "¿Puedo devolver mercancías que exporté?",
-    "¿Qué pasa si mis productos fueron rechazados en el extranjero?",
-    "¿Hay impuestos si regreso mercancías exportadas?",
-    "¿Qué condiciones debo cumplir para retornar mercancías?",
-    "¿Las maquiladoras también pueden regresar productos defectuosos?"
+    "¿Se pueden devolver mercancías exportadas si tienen defectos?",
+    "¿Qué impuestos se pagan al retornar mercancías al país?",
+    "¿Cuáles son las condiciones para el retorno de mercancías exportadas?",
+    "¿Qué pasa si una maquiladora regresa productos defectuosos?",
+    "¿Cómo funciona el programa de exportación para maquiladoras?"
   ]
 }

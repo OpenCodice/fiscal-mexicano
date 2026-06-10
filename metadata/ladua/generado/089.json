@@ -6,30 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7c92957b83fac245",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Rectificación de Pedimentos",
+  "denominacion_comun": "Rectificación de pedimento",
   "temas": [
-    "modificación de pedimentos",
-    "contribuyentes",
-    "mecanismo de selección automatizado",
+    "pedimentos",
     "rectificación",
+    "mecanismo de selección automatizado",
     "reconocimiento aduanero",
-    "autorización de autoridades"
+    "facultades de comprobación"
   ],
   "terminos_coloquiales": [
-    "cambiar datos en pedimento",
-    "corrección de pedimentos",
-    "ajustes en declaraciones",
-    "rectificar datos aduaneros"
+    "cambio en pedimento",
+    "modificación de pedimento",
+    "selección automatizada",
+    "autorización",
+    "multas"
   ],
-  "resumen": "Los contribuyentes pueden modificar los datos en su pedimento antes de activar el mecanismo automatizado de selección, aunque hay casos que requieren autorización. No se permitirán rectificaciones después de activarlo, salvo ciertas excepciones, y no habrá multas por correcciones espontáneas.",
+  "resumen": "Los contribuyentes pueden modificar los datos en el pedimento antes de activar el mecanismo de selección automatizado. Si este mecanismo se activa, las rectificaciones solo se permiten bajo ciertas condiciones establecidas por la autoridad aduanera.",
   "preguntas_ejemplo": [
-    "¿Puedo cambiar los datos del pedimento después de enviarlo?",
-    "¿Qué hago si necesito corregir un pedimento?",
-    "¿Hay multas por rectificar un pedimento?",
-    "¿Cuándo se puede modificar un pedimento?",
-    "¿Necesito autorización para rectificar mi pedimento?",
-    "¿Qué pasa si el mecanismo automatizado selecciona mi pedimento?"
+    "¿Cómo puedo modificar mi pedimento?",
+    "¿Qué pasa si necesito cambiar algo en mi pedimento después de activarlo?",
+    "¿Necesito permiso para rectificar un pedimento?",
+    "¿Qué ocurre si el mecanismo de selección automatizado se activa?",
+    "¿Hay multas por rectificar un pedimento?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cdf4dce3897005c2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Exenciones de impuestos al comercio exterior",
   "temas": [
-    "impuestos al comercio exterior",
-    "mercancías exentas",
-    "vehículos y aeronaves",
+    "exenciones fiscales",
+    "comercio exterior",
+    "importaciones",
+    "vehículos",
     "donaciones",
-    "material didáctico",
-    "personas con discapacidad"
+    "maquinaria",
+    "artículos personales",
+    "material didáctico"
   ],
   "terminos_coloquiales": [
-    "qué cosas no pagan impuestos al entrar o salir del país",
-    "mercancías que no pagan impuestos",
-    "exenciones fiscales en aduanas",
-    "qué se puede traer sin pagar impuestos",
-    "importaciones sin impuestos"
+    "exenciones en impuestos",
+    "importar sin pagar impuestos",
+    "vehículos para carga",
+    "artículos de uso personal",
+    "donaciones al Fisco",
+    "maquinaria obsoleta"
   ],
-  "resumen": "Este artículo establece una lista de mercancías que no están sujetas al pago de impuestos al entrar o salir de México. Incluye productos como vehículos para servicios internacionales, equipajes de pasajeros y donaciones para fines específicos, entre otros.",
+  "resumen": "El artículo establece diversas exenciones de impuestos al comercio exterior para mercancías específicas, como vehículos de servicio internacional, donaciones para fines culturales y materiales educativos, entre otros. También señala criterios y regulaciones para el cumplimiento de estas exenciones.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías puedo importar sin pagar impuestos?",
-    "¿Qué productos están exentos de impuestos al salir del país?",
-    "¿Los donativos están exentos de impuestos en aduanas?",
-    "¿Qué requisitos hay para importar vehículos adaptados para personas con discapacidad?",
-    "¿Puedo traer mi equipaje sin pagar impuestos?"
+    "¿Qué mercancías están exentas de impuestos al importar?",
+    "¿Puedo importar un vehículo sin pagar impuestos?",
+    "¿Qué requisitos hay para importar mercancías donadas?",
+    "¿Las compras para personas con discapacidad tienen beneficios fiscales?",
+    "¿Qué tipo de artículos personales puedo traer sin pagar impuestos?",
+    "¿Cómo funciona la exención de impuestos para donaciones?"
   ]
 }

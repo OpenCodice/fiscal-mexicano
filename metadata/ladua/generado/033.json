@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4b12cad1e5770b44",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interrupción de plazos de abandono",
+  "denominacion_comun": "Plazos de Abandono",
   "temas": [
     "plazos de abandono",
-    "recurso administrativo",
+    "recursos administrativos",
     "demanda judicial",
-    "consulta entre autoridades",
+    "consultas entre autoridades",
     "extravío de mercancías"
   ],
   "terminos_coloquiales": [
-    "plazos de abandono aduanera",
-    "interrupción de plazos",
-    "recursos y demandas en aduanas",
-    "qué pasa si se pierden mercancías"
+    "plazos de abandono",
+    "recurso administrativo",
+    "demanda",
+    "consulta entre autoridades",
+    "merchandise extraviada"
   ],
-  "resumen": "El artículo establece que los plazos de abandono se interrumpen por la presentación de un recurso administrativo o demanda, consultas entre autoridades y el extravío de mercancías en depósito. Esta interrupción solo es válida si la resolución no confirma lo impugnado.",
+  "resumen": "El artículo establece que los plazos de abandono se interrumpen por la interposición de un recurso administrativo o demanda, entre otros motivos. También menciona que la consulta entre autoridades y el extravío de mercancías pueden causar la interrupción de estos plazos.",
   "preguntas_ejemplo": [
-    "¿Cuándo se interrumpen los plazos de abandono en aduana?",
-    "¿Qué pasa si hago un recurso administrativo?",
-    "¿Se detiene el plazo si se pierden mis mercancías?",
-    "¿Qué necesita pasar para que se interrumpan los plazos de abandono?"
+    "¿Cuándo se interrumpen los plazos de abandono en la aduana?",
+    "¿Qué pasa si presento un recurso administrativo?",
+    "¿Los plazos de abandono se detienen por demanda judicial?",
+    "¿Qué significa que se interrumpen los plazos por consulta entre autoridades?",
+    "¿Qué ocurre si mis mercancías se extravían en aduana?"
   ]
 }

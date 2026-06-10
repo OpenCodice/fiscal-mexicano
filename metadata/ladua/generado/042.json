@@ -6,25 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f2900d097e413a22",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Examen de mercancías en depósito",
   "temas": [
     "pedimento",
     "mercancías",
+    "depósito",
     "aduana",
     "examen"
   ],
   "terminos_coloquiales": [
-    "checar mercancías en la aduana",
-    "revisar productos en depósito",
-    "ver mercancías antes de declarar"
+    "checar mercancías",
+    "revisar productos",
+    "mi pedido en aduana"
   ],
-  "resumen": "Si alguien no conoce las características de las mercancías que tiene en depósito en la aduana, puede examinarlas para obtener esa información.",
+  "resumen": "Si alguien no sabe cómo son las mercancías que están en depósito en la aduana, tiene la opción de revisarlas para identificarlas correctamente.",
   "preguntas_ejemplo": [
-    "¿Puedo revisar mis productos en la aduana?",
-    "¿Qué hago si no sé las características de mis mercancías?",
-    "¿Hay forma de examinar mercancías en depósito antes de hacer el pedimento?",
-    "¿Cómo puedo identificar mis mercancías en la aduana?"
+    "¿Puedo revisar lo que tengo en aduana?",
+    "¿Qué hacer si no reconozco mis mercancías en depósito?",
+    "¿Cómo puedo examinar mis productos en la aduana?",
+    "¿Qué es un pedimento en la aduana?",
+    "¿Qué debo hacer si olvido las características de mis mercancías?"
   ]
 }

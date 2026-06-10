@@ -6,28 +6,25 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:46f87e11f08a3fdc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de mercancías",
+  "denominacion_comun": "Régimen de Tránsito de Mercancías",
   "temas": [
     "mercancías",
-    "reglas de control",
-    "almacenes generales",
-    "depósito",
-    "tránsito"
+    "almacenes generales de depósito",
+    "control de mercancías",
+    "separación material"
   ],
   "terminos_coloquiales": [
-    "qué mercancías no se pueden mover",
-    "reglas de manejo de mercancías",
-    "almacenes de depósito",
-    "control de mercancías"
+    "tránsito de mercancías",
+    "almacenes de depósito"
   ],
-  "resumen": "La Secretaría define qué mercancías no pueden ser parte de este régimen y establece medidas de control que los almacenes deben seguir para gestionar adecuadamente las mercancías. Además, menciona la importancia de la separación de los espacios destinados a estas mercancías.",
+  "resumen": "Este artículo establece que la Secretaría deberá indicar las mercancías que no pueden ser objeto del régimen de tránsito y las medidas que deben seguir los almacenes generales de depósito para separar adecuadamente las mercancías bajo este régimen.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías no se pueden mover bajo este régimen?",
-    "¿Cuáles son las reglas para los almacenes de depósito?",
-    "¿Cómo se controla el manejo de mercancías en tránsito?",
-    "¿Qué establece la Secretaría sobre el depósito de mercancías?",
-    "¿Qué medidas deben observar los almacenes generales?"
+    "¿Qué mercancías no se pueden transportar bajo el régimen de tránsito?",
+    "¿Qué medidas deben seguir los almacenes de depósito para el manejo de mercancías?",
+    "¿Cómo se deben manejar las mercancías en los almacenes generales?",
+    "¿Qué reglas aplica la Secretaría sobre el tránsito de mercancías?"
   ]
 }

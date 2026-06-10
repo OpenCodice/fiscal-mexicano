@@ -6,31 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:aa9fd78e8c9316d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tránsito internacional de mercancías",
+  "denominacion_comun": "Tránsito Internacional de Mercancías",
   "temas": [
     "plazos de traslado",
-    "mercanías en tránsito",
-    "aduanas",
+    "aduana de salida",
+    "determinación provisional",
+    "probante de arribo",
     "avisos a autoridades",
     "caso fortuito",
-    "fuerza mayor",
-    "determinación de contribuciones"
+    "fuerza mayor"
   ],
   "terminos_coloquiales": [
-    "transporte internacional",
-    "envíos internacionales",
-    "requisitos aduanales",
-    "plazos de entrega",
-    "proceso aduanal"
+    "tránsito de mercancías",
+    "plazos aduaneros",
+    "caso fortuito",
+    "fuerza mayor",
+    "avisos aduanales"
   ],
-  "resumen": "El tránsito internacional de mercancías debe hacerse dentro de los plazos que establezca el SAT. Si no llegan a la aduana a tiempo, las contribuciones se consideran definitivas, a menos que se presente un aviso por causas de fuerza mayor.",
+  "resumen": "Este artículo establece que el tránsito internacional de mercancías debe hacerse en plazos determinados por el SAT. Si no se cumplen, la determinación de impuestos se vuelve definitiva, a menos que haya razones justificadas como caso fortuito o fuerza mayor, en cuyo caso se debe notificar a las autoridades aduaneras.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para que mis mercancías lleguen a la aduana?",
-    "¿Qué hago si no puedo entregar mis mercancías a tiempo?",
-    "¿Qué pasa si mis productos llegan tarde a la aduana?",
-    "¿Los plazos de traslado son los mismos para todos los envíos?",
-    "¿Cómo notifico a la aduana si hay retrasos en mi envío?"
+    "¿Cuáles son los plazos para el tránsito internacional de mercancías?",
+    "¿Qué pasa si mis mercancías no llegan a la aduana a tiempo?",
+    "¿Puedo justificar un retraso en el arribo de mercancías?",
+    "¿Qué debo hacer si no puedo cumplir con los plazos de traslado?",
+    "¿Qué significa la determinación provisional de contribuciones?",
+    "¿Qué implica caso fortuito o fuerza mayor en el tránsito aduanal?"
   ]
 }

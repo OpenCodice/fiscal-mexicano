@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b56260c9bd7c3916",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Disminución de Sanciones Aduaneras",
+  "denominacion_comun": "Disminución de Sanciones",
   "temas": [
     "sanciones",
-    "comercio exterior",
-    "clasificación arancelaria",
+    "impuestos al comercio exterior",
     "multas",
-    "contribuciones"
+    "clasificación arancelaria",
+    "exportación de mercancías",
+    "contribuciones",
+    "embargo precautorio"
   ],
   "terminos_coloquiales": [
-    "bajar multas aduaneras",
-    "rebaja de sanciones",
-    "descuentos en multas",
-    "sanciones aduaneras",
-    "ahorrando en sanciones"
+    "multas aduaneras",
+    "bajar sanciones",
+    "rebaja de multas",
+    "pago de sanciones",
+    "comercio exterior",
+    "SEDA",
+    "artículo 199"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales se pueden disminuir las sanciones impuestas en materia aduanera. Se indican porcentajes específicos de reducción dependiendo de las circunstancias de la infracción y el pago de las multas.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales se pueden disminuir las sanciones impuestas por omisiones en los impuestos al comercio exterior. Se especifican porcentajes de reducción dependiendo de la situación de la infracción, como la clasificación arancelaria correcta o el pago oportuno de la multa.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo reducir mi multa aduanera?",
-    "¿Qué porcentaje de reducción tengo si pago a tiempo?",
-    "¿Qué situaciones permiten disminuir las sanciones en aduanas?",
-    "¿Qué pasa si clasifico mal mis mercancías?",
-    "¿Puedo evitar sanciones si pago antes de la notificación?"
+    "¿Cómo puedo reducir una multa de comercio exterior?",
+    "¿Qué porcentaje se baja de una multa por clasificación arancelaria?",
+    "¿Qué sucede si pago mi multa antes de que me notifiquen?",
+    "¿Cuándo se aplica la disminución de sanciones en el comercio exterior?",
+    "¿Puedo combinar reducciones de sanciones según el artículo 199?"
   ]
 }

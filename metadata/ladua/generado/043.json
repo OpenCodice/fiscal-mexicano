@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0f9185eff7fd2a95",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reconocimiento aduanero",
@@ -14,22 +15,25 @@
     "pago de contribuciones",
     "mecanismo de selección automatizado",
     "documentación aduanera",
-    "entrega de mercancías",
-    "inspección aduanera",
-    "sistemas tecnológicos"
+    "reconocimiento aduanero",
+    "inspección de mercancías",
+    "tecnología no intrusiva",
+    "dictamen aduanero"
   ],
   "terminos_coloquiales": [
-    "chequeo de mercancías",
-    "revisión aduanera",
-    "papeleo de aduana",
-    "entrega de productos en la aduana"
+    "pedimento",
+    "documentos aduaneros",
+    "reconocimiento de mercancías",
+    "inspección aduanera",
+    "SAT"
   ],
-  "resumen": "Este artículo establece el proceso que sigue el reconocimiento aduanero de mercancías, incluyendo la activación de un mecanismo automatizado para determinar si es necesario revisar las mercancías. Si no hay irregularidades, estas se entregan de inmediato.",
+  "resumen": "El artículo establece el procedimiento para el reconocimiento aduanero de mercancías después de presentar el pedimento y pagar las contribuciones. Define el mecanismo automatizado que determina si se requiere una revisión adicional de las mercancías. También menciona que las autoridades aduaneras pueden utilizar tecnología para facilitar el reconocimiento.",
   "preguntas_ejemplo": [
-    "¿Qué ocurre después de presentar las mercancías en la aduana?",
-    "¿Qué es el mecanismo de selección automatizado?",
-    "¿Qué pasa si no hay irregularidades en la revisión aduanera?",
-    "¿Necesito un pedimento siempre para la revisión aduanera?",
-    "¿Cómo se valida el valor de las mercancías en la aduana?"
+    "¿Qué es el reconocimiento aduanero?",
+    "¿Necesito un pedimento para la entrega de mercancías?",
+    "¿Cómo se activa el mecanismo de selección automatizado?",
+    "¿Qué sucede si no se detectan irregularidades en la aduana?",
+    "¿Qué documentación necesito para el reconocimiento aduanero?",
+    "¿Qué implica la inspección de mercancías por parte de la aduana?"
   ]
 }

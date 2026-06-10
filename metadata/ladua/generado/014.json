@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c52c3d516154aaff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Manejo y custodia de mercancías",
+  "denominacion_comun": "Manejo y Custodia de Mercancías",
   "temas": [
     "aduanas",
     "recintos fiscales",
     "concesiones",
-    "servicios de manejo",
-    "almacenaje",
-    "custodia"
+    "mercanías de comercio exterior",
+    "fiscalización",
+    "despacho aduanero",
+    "requisitos para concesiones"
   ],
   "terminos_coloquiales": [
-    "cómo se manejan las mercancías en aduanas",
-    "almacenaje de mercancías",
-    "recintos fiscales",
+    "almacenamiento de mercancías",
+    "custodia aduanera",
+    "recintos fiscalizados",
     "concesiones aduaneras",
-    "custodia de mercancías"
+    "manejo de carga"
   ],
-  "resumen": "El artículo establece que las aduanas son responsables del manejo, almacenaje y custodia de mercancías de comercio exterior. También se menciona que se pueden otorgar concesiones a particulares para prestar estos servicios en recintos fiscales, siempre que cumplan con ciertos requisitos.",
+  "resumen": "Este artículo regula el manejo, almacenaje y custodia de mercancías en los recintos fiscales, que son espacios donde las aduanas realizan sus funciones. Además, establece las condiciones bajo las cuales se pueden otorgar concesiones a particulares para prestar estos servicios dentro de dichos recintos.",
   "preguntas_ejemplo": [
-    "¿Quién se encarga del almacenaje de mercancías en aduanas?",
-    "¿Qué requisitos se necesitan para obtener una concesión en un recinto fiscal?",
-    "¿Qué pasa con las instalaciones después de terminar la concesión?",
-    "¿Cuánto tiempo puede durar una concesión para manejo de mercancías?",
-    "¿Qué es un recinto fiscal concesionado?"
+    "¿Qué son los recintos fiscales?",
+    "¿Cómo se obtienen concesiones para manejar mercancías en aduanas?",
+    "¿Cuáles son los requisitos para la concesión de servicios aduaneros?",
+    "¿Qué ocurre con las instalaciones al terminar una concesión aduanera?",
+    "¿Qué funciones realizan las aduanas sobre las mercancías?"
   ]
 }

@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7c3fad04b9d6168",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de mercancías extranjeras",
+  "denominacion_comun": "Régimen de Importación Temporal",
   "temas": [
     "mercancías extranjeras",
-    "plazos",
     "recintos fiscalizados",
+    "plazo de permanencia",
+    "depreciación",
     "maquinaria",
-    "equipos de control",
-    "capacitación",
-    "seguridad industrial"
-  ],
-  "terminos_coloquiales": [
-    "importación de maquinaria",
-    "tiempo en aduana",
-    "productos extranjeros en México",
-    "maquinaria de importación",
+    "equipos de control de contaminación",
+    "herramientas",
     "equipos para capacitación"
   ],
-  "resumen": "Las mercancías extranjeras pueden estar en recintos fiscalizados por un tiempo limitado hasta dos años, salvo excepciones donde el plazo es diferente. Esto incluye maquinaria y equipos para el proceso productivo y control de calidad.",
+  "terminos_coloquiales": [
+    "importación temporal",
+    "mercancías",
+    "maquinaria",
+    "equipo",
+    "herramientas",
+    "recintos fiscales"
+  ],
+  "resumen": "Este artículo establece que las mercancías extranjeras pueden estar en recintos fiscalizados por un tiempo limitado, normalmente hasta dos años, con excepciones para ciertos equipos y maquinaria que tienen un plazo distinto. Estos incluyen artículos destinados al proceso productivo y equipos de control de contaminación.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo puedo mantener mercancías extranjeras en México?",
-    "¿Qué tipo de maquinaria se puede importar y cuánto tiempo se puede quedar?",
-    "¿Cuál es el límite de tiempo para equipos de control de contaminación?",
-    "¿Los equipos de capacitación tienen un plazo diferente en aduana?",
-    "¿Qué ocurre si necesito más tiempo para mis mercancías extranjeras?"
+    "¿Cuánto tiempo pueden estar las mercancías extranjeras en México?",
+    "¿Qué tipos de mercancías tienen un plazo diferente de permanencia?",
+    "¿Qué pasa con la maquinaria y equipo importado temporalmente?",
+    "¿Cuáles son los plazos de depreciación para los equipos importados?",
+    "¿Qué es un recinto fiscalizado?"
   ]
 }

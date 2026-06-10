@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d303984053031da1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Cómputo de plazos en aduanas",
+  "denominacion_comun": "Plazos de Notificación Electrónica",
   "temas": [
-    "cómputo de plazos",
-    "notificaciones electrónicas",
+    "plazos",
+    "notificación",
     "documentos electrónicos",
-    "actos administrativos"
+    "firma electrónica",
+    "sello digital"
   ],
   "terminos_coloquiales": [
-    "cómo se cuentan los plazos",
-    "plazos en aduanas",
-    "notificaciones por internet",
-    "electrónicas aduanas"
+    "notificación electrónica",
+    "acuse electrónico",
+    "documento digital"
   ],
-  "resumen": "Este artículo establece que los plazos en los trámites aduaneros se cuentan a partir de la fecha del acuse electrónico de notificación. Esto incluye el uso de documentos digitales generados por el sistema aduanero con la firma del interesado.",
+  "resumen": "Este artículo establece que para el conteo de plazos se considera la fecha del acuse electrónico de la notificación. Este acuse es un documento digital generado por el sistema aduanero que incluye la firma electrónica avanzada del interesado o un sello digital, y otros documentos relacionados con el acto administrativo.",
   "preguntas_ejemplo": [
-    "¿Cómo se inician los plazos en aduanas?",
-    "¿Qué es un acuse electrónico?",
-    "¿Qué documentos se utilizan para las notificaciones?",
-    "¿Cómo se computan los plazos de los actos administrativos?",
-    "¿Qué significa la firma electrónica avanzada en aduanas?"
+    "¿Cómo se cuentan los plazos de notificación en temas aduaneros?",
+    "¿Qué es un acuse electrónico en la L. Aduanera?",
+    "¿Qué documentos se consideran para la notificación electrónica?",
+    "¿Cómo se verifica la fecha de notificación en un acto administrativo?",
+    "¿Qué es la firma electrónica avanzada en el contexto aduanero?"
   ]
 }

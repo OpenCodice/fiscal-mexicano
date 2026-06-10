@@ -6,32 +6,37 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:065f36ca3d87c674",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos para agencias aduanales",
+  "denominacion_comun": "Requisitos para Agencias Aduanales",
   "temas": [
-    "operación de agencias aduanales",
+    "agencias aduanales",
+    "requisitos de operación",
     "notificaciones",
-    "responsabilidad",
     "despacho aduanero",
+    "empleados autorizados",
+    "uso de firma electrónica",
     "importación y exportación",
-    "uso de candados electrónicos",
-    "información a autoridades"
+    "candados oficiales",
+    "parentesco de agentes aduanales",
+    "cambio de socios"
   ],
   "terminos_coloquiales": [
-    "qué requisitos necesitan las agencias aduanales",
-    "cómo operan las agencias aduanales",
-    "notificaciones en aduanas",
-    "responsabilidad de la agencia aduanal",
-    "despacho de mercancías",
-    "información para aduanas"
+    "agencia aduanal",
+    "notificaciones aduaneras",
+    "despacho aduanero",
+    "firma electrónica",
+    "importación",
+    "exportación",
+    "candados electrónicos"
   ],
-  "resumen": "Las agencias aduanales deben cumplir requisitos para operar, como mantener su oficina en el país y notificar cambios a las autoridades. También son responsables por los actos de sus empleados y deben utilizar sistemas electrónicos para el despacho de mercancías.",
+  "resumen": "Las agencias aduanales deben cumplir con requisitos para operar, como tener una oficina en México, notificar cambios y asegurar el uso de sistemas electrónicos. Además, son responsables de sus empleados y deben comunicar ciertos cambios a la autoridad aduanera.",
   "preguntas_ejemplo": [
-    "¿Qué necesita una agencia aduanal para funcionar?",
-    "¿Qué responsabilidades tienen las agencias aduanales?",
-    "¿Cómo deben notificar cambios las agencias aduanales?",
-    "¿Qué información deben proporcionar a las autoridades aduaneras?",
-    "¿Cuáles son los requisitos para el despacho de mercancías?"
+    "¿Qué requisitos necesito para abrir una agencia aduanal?",
+    "¿Cómo se realiza la notificación de cambios en la oficina de una agencia aduanal?",
+    "¿Qué responsabilidades tienen los empleados de una agencia aduanal?",
+    "¿Qué se necesita para el despacho electrónico de mercancías?",
+    "¿Cómo informo sobre un parentesco entre un agente aduanal y un administrador de aduana?"
   ]
 }

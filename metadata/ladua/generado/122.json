@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d7a02616430bbde1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Depósito fiscal de mercancías",
+  "denominacion_comun": "Depósito fiscal",
   "temas": [
-    "depósito fiscal",
-    "almacenes generales",
-    "adquisición de mercancías",
-    "derechos y obligaciones",
-    "terceros",
+    "mercancías",
+    "régimen de depósito fiscal",
+    "almacenes generales de depósito",
+    "subrogación de derechos y obligaciones",
     "residentes en el extranjero"
   ],
   "terminos_coloquiales": [
-    "mercancías en depósito fiscal",
-    "comprar mercancías en almacenes",
-    "subrogación en derechos",
-    "que es un depósito fiscal",
-    "almacenes autorizados"
+    "depósito fiscal",
+    "comprar mercancías en depósito",
+    "almacenes de depósito"
   ],
-  "resumen": "Las mercancías en un depósito fiscal pueden ser compradas por otras personas o por extranjeros, siempre que el almacén esté de acuerdo. La persona que compra asume los derechos y obligaciones relacionados con la mercancía.",
+  "resumen": "Las mercancías en régimen de depósito fiscal pueden ser compradas por terceros y residentes en el extranjero si el almacén da su conformidad. El comprador asume los derechos y obligaciones de la mercancía.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo comprar mercancías en depósito fiscal?",
-    "¿Qué necesito para adquirir mercancías en un almacén autorizado?",
-    "¿Quién puede comprar mercancías en depósitos fiscales?",
-    "¿Qué implica la subrogación de derechos en la compra?",
-    "¿Las mercancías pueden ser compradas por residentes en el extranjero?"
+    "¿Qué es el régimen de depósito fiscal?",
+    "¿Puedo comprar mercancías en depósito fiscal?",
+    "¿Qué requisitos hay para adquirir mercancías en almacenes de depósito?",
+    "¿Quién puede comprar mercancías en el depósito fiscal?",
+    "¿Qué significa que me subrogue en los derechos y obligaciones?",
+    "¿Pueden los extranjeros comprar mercancías en depósito fiscal?"
   ]
 }

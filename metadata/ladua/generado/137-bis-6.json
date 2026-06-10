@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d9550107bf100303",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Importación de vehículos usados",
   "temas": [
-    "importación de vehículos",
-    "vehículos automotores usados",
-    "limitaciones",
-    "personas físicas",
-    "comercialización"
+    "importación",
+    "vehículos automotores",
+    "unidad por persona",
+    "limitaciones de importación"
   ],
   "terminos_coloquiales": [
-    "importar un carro usado",
-    "comprar auto usado en el extranjero",
-    "cuántos autos usados puedo importar",
-    "restricciones para importar vehículos",
-    "cuándo puedo volver a importar un auto"
+    "comprar un coche usado",
+    "importación de autos usados",
+    "autos de segunda mano"
   ],
-  "resumen": "Solo se puede importar un vehículo automotor usado por persona. Después de importar un auto usado, no se puede hacer otra importación hasta que pase un año.",
+  "resumen": "La importación de vehículos automotores usados está limitada a una unidad por persona. Quien importe un vehículo no podrá realizar otra importación hasta después de un año de la primera.",
   "preguntas_ejemplo": [
     "¿Cuántos autos usados puedo importar?",
-    "¿Puedo importar dos vehículos usados en el mismo año?",
-    "¿Qué restricciones hay para la importación de autos usados?",
-    "¿Cuánto tiempo debo esperar para importar otro vehículo usado?",
-    "¿Quién puede importar vehículos usados?"
+    "¿Hay un tiempo de espera para importar otro coche usado?",
+    "¿Qué limitaciones hay para la importación de vehículos usados?",
+    "¿Puedo importar más de un vehículo usado en un año?",
+    "¿Qué requisitos debo cumplir para importar un auto usado?"
   ]
 }

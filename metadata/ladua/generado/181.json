@@ -6,26 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:896df658ae24eb8e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Multas por infracciones aduaneras",
   "temas": [
     "multas",
-    "infracciones",
-    "Ley Aduanera",
-    "sanciones"
+    "infracciones aduaneras",
+    "obligaciones",
+    "fondos",
+    "liberación de multas"
   ],
   "terminos_coloquiales": [
-    "multa aduanera",
-    "sanción por incumplimiento",
-    "castigo por infracción",
-    "multa por aduanas"
+    "multa",
+    "infracción",
+    "pago de multa",
+    "sanciones"
   ],
-  "resumen": "Se establecerán multas de entre mil y mil quinientos pesos a quienes cometan ciertas infracciones relacionadas con la Ley Aduanera. Si los infractores contribuyen a ciertos fondos, podrán liberarse de la obligación de pagar la multa.",
+  "resumen": "Se establece una multa de entre $1,000.00 y $1,500.00 para quienes cometan infracciones relacionadas con los artículos 180 y 180-A de la Ley Aduanera. Aquellos que contribuyan a ciertos fondos podrán ser liberados del pago de esta multa.",
   "preguntas_ejemplo": [
-    "¿Cuánto me puede costar una multa si cometo una infracción aduanera?",
-    "¿Qué pasa si pago la multa relacionada con mi infracción?",
-    "¿Cómo puedo evitar una multa en el proceso aduanero?",
-    "¿Qué infracciones están sujetas a multas según la Ley Aduanera?"
+    "¿Cuánto es la multa por infracciones aduaneras?",
+    "¿Qué pasa si pago la multa?",
+    "¿Cómo me puedo liberar de la multa?",
+    "¿Qué infracciones se consideran para estas multas?",
+    "¿A quién se le impone la multa?"
   ]
 }

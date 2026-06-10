@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:923245af03bf0f33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Importación de vehículos usados",
   "temas": [
     "impuesto de importación",
-    "vehículos automotores",
-    "importación",
     "fracciones arancelarias",
-    "exenciones",
-    "Clasificación arancelaria",
-    "permiso de importación"
+    "vehículos automotores",
+    "exención de permisos"
   ],
   "terminos_coloquiales": [
-    "importar carros usados",
-    "impuesto de importación bajo",
-    "vehículos de segunda mano",
-    "vehículos importados sin permiso",
-    "tarifa de importación de autos"
+    "importar un coche",
+    "impuesto por importar autos",
+    "vehículos usados",
+    "permisos de importación",
+    "Secretaría de Economía"
   ],
-  "resumen": "Se permite importar vehículos automotores usados pagando solo el 50% del impuesto de importación. Además, no se requiere permiso previo de la Secretaría de Economía para esta importación.",
+  "resumen": "Este artículo permite la importación de vehículos automotores usados pagando solo el 50% del impuesto de importación correspondiente. Además, se elimina la necesidad de un permiso previo de la Secretaría de Economía para esta importación.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar de impuesto al importar un carro usado?",
-    "¿Puedo importar un vehículo usado sin permiso?",
-    "¿Qué es la clasificación arancelaria para autos?",
-    "¿Qué requisitos necesito para importar un auto usado?",
-    "¿Hay un descuento en el impuesto para carros de segunda mano?"
+    "¿Cuánto impuesto tengo que pagar al importar un coche usado?",
+    "¿Puedo importar un auto usado sin permiso de la Secretaría de Economía?",
+    "¿Qué es la fracción arancelaria para vehículos usados?",
+    "¿Qué requisitos necesito para importar un vehículo automotor?",
+    "¿Qué significa que se exima del permiso previo en la importación de autos?"
   ]
 }

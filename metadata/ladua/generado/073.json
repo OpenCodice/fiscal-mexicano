@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c231faeb9112f317",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de mercancías similares",
+  "denominacion_comun": "Valor de transacción de mercancías",
   "temas": [
     "valor de transacción",
     "mercancías similares",
-    "exportación e importación",
+    "importaciones",
+    "exportaciones",
     "ajustes de valor",
     "costos y gastos",
     "comparación comercial"
   ],
   "terminos_coloquiales": [
-    "valor de mercancías",
-    "cómo se valúan mercancías similares",
-    "precio de productos similares",
-    "ajuste de precios en aduanas"
+    "valor de las mercancías",
+    "mercancías similares",
+    "importar mercancías",
+    "precios de exportación"
   ],
-  "resumen": "Este artículo establece cómo determinar el valor de mercancías similares en importaciones, considerando precios de transacción de productos vendidos en condiciones comparables. Si no hay ventas similares, se ajusta el valor de otras mercancías, tomando en cuenta diferencias de costos y gastos.",
+  "resumen": "Este artículo establece cómo se determina el valor de transacción de mercancías similares para su valoración en importaciones, considerando condiciones de venta, ajustes de costo y comparaciones comerciales. También define qué se entiende por mercancías similares y menciona excepciones para su evaluación.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor de mercancías similares para importación?",
-    "¿Qué se considera mercancía similar en el comercio?",
-    "¿Qué ajustes se hacen al valor de mercancías para la importación?",
-    "¿Qué pasa si no hay venta de mercancías similares?",
-    "¿Cómo influye la distancia en el valor de mercancías?"
+    "¿Cómo se calcula el valor de importación de un producto similar?",
+    "¿Qué criterios se utilizan para considerar que dos mercancías son similares?",
+    "¿Qué ocurre si no existen ventas en condiciones similares al momento de importar?",
+    "¿Cómo se ajusta el valor de transacción si las mercancías tienen diferentes costos de transporte?",
+    "¿Qué sucede si el valor de mercancías similares ha sido modificado por la aduana?"
   ]
 }

@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:762a2e086c167db3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Documentación de mercancías",
+  "denominacion_comun": "Documentación de mercancías importadas",
   "temas": [
     "tenencia de mercancías",
     "transporte de mercancías",
+    "manejo de mercancías",
     "documentación aduanera",
     "pedimento de importación",
+    "nota de venta",
     "comprobante fiscal digital",
-    "legalidad de mercancías"
+    "carta porte"
   ],
   "terminos_coloquiales": [
-    "¿Qué papeles necesito para transportar mercancías?",
-    "documentos para mercancías extranjeras",
-    "comprobantes para importar",
-    "qué es el pedimento",
-    "documentación para importar vehículos"
+    "documentos aduaneros",
+    "papeles de importación",
+    "comprobante fiscal",
+    "carta porte",
+    "vehículos importados",
+    "documentación para importar"
   ],
-  "resumen": "Las mercancías de origen extranjero deben estar respaldadas por documentos que demuestren su legalidad al ser transportadas o manejadas. Esto incluye pedimentos de importación y comprobantes fiscales digitales, entre otros.",
+  "resumen": "La disposición detalla los documentos requeridos para la tenencia, transporte y manejo de mercancías importadas, excluyendo las de uso personal. Además, establece que el pedimento de importación debe ser entregado al adquirir vehículos importados y menciona los requisitos para el comprobante fiscal digital.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para comprobar la legalidad de unas mercancías?",
-    "¿Cómo puedo demostrar que un vehículo importado es legal?",
-    "¿Qué requisitos tiene un comprobante fiscal digital para transporte?",
-    "¿Qué es la carta porte y cuándo se utiliza?",
-    "¿Qué pasa si no tengo el pedimento de importación?"
+    "¿Qué documentos necesito para transportar mercancías importadas?",
+    "¿Cómo puedo comprobar que tengo legalmente un vehículo importado?",
+    "¿Qué es un pedimento de importación y cuándo lo debo utilizar?",
+    "¿Qué requisitos debe tener un comprobante fiscal digital?",
+    "¿Qué es la carta porte y para qué sirve en el transporte de mercancías?",
+    "¿Cómo acreditan las empresas de transporte la legalidad de las mercancías que llevan?"
   ]
 }

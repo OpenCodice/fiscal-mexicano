@@ -6,24 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación",
+  "denominacion_comun": "Derogación de disposiciones",
   "temas": [
     "derogación",
-    "legislación",
-    "modificaciones",
-    "leyes fiscales"
+    "disposiciones",
+    "legalidad",
+    "normas"
   ],
   "terminos_coloquiales": [
-    "se eliminó una ley",
-    "cambios a la ley",
-    "reglas que ya no aplican"
+    "se eliminó",
+    "se quitó",
+    "fuera de la ley"
   ],
-  "resumen": "Este artículo indica que una disposición legal ha sido derogada, lo que significa que ya no está en vigor.",
+  "resumen": "Este artículo establece que ciertas disposiciones han sido derogadas, lo que significa que ya no son válidas ni aplicables.",
   "preguntas_ejemplo": [
-    "¿Qué leyes han sido eliminadas?",
-    "¿Qué significa que una ley esté derogada?",
-    "¿Cuáles son los efectos de la derogación en las leyes fiscales?"
+    "¿Qué disposiciones fueron eliminadas?",
+    "¿Qué significa que algo esté derogado?",
+    "¿Cuándo se derogan las leyes?",
+    "¿Qué efectos tiene la derogación de una norma?",
+    "¿Hay normas que ya no se aplican?"
   ]
 }

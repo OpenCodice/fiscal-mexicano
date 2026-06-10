@@ -6,32 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4cd1d442863a15e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracción en importación y exportación",
+  "denominacion_comun": "Infracciones en Comercio Exterior",
   "temas": [
-    "infracción aduanera",
+    "infracciones aduaneras",
     "importación",
     "exportación",
-    "mercancías desmontadas",
     "permisos",
-    "impuestos",
+    "impuestos al comercio exterior",
     "cuotas compensatorias"
   ],
   "terminos_coloquiales": [
-    "infracción aduanera",
-    "problemas al importar",
-    "problemas al exportar",
-    "mercancías en partes",
-    "permiso de importación",
-    "impuestos de aduana"
+    "infracciones de aduana",
+    "comercio internacional",
+    "importar mercancías",
+    "exportar mercancías"
   ],
-  "resumen": "El artículo establece que se considera como una sola infracción al importar o exportar mercancías si se presentan en partes o desmontadas, bajo ciertas condiciones relacionadas con permisos y pagos de impuestos. Esto aplica incluso si las partes por sí solas también constituyen una infracción.",
+  "resumen": "Se considera que se comete una sola infracción si se introducen o extraen mercancías del país en partes, en determinados casos. Esto aplica cuando se requiere un permiso para la mercancía completa pero no para las partes, o cuando los impuestos por la mercancía completa son mayores que los de las partes por separado.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si importo mercancía en partes?",
-    "¿Cuándo se considera que cometí una infracción aduanera?",
-    "¿Necesito un permiso si traigo solo una parte de un producto?",
-    "¿Cómo se calculan los impuestos si importo mercancías desmontadas?",
-    "Si hago varias importaciones de partes, ¿puedo ser sancionado?"
+    "¿Qué pasa si importo mercancías en partes?",
+    "¿Se considera una infracción si traigo varias partes de un producto?",
+    "¿Necesito un permiso para cada parte si el todo lo requiere?",
+    "¿Cuándo se considera que se comete una sola infracción en comercio exterior?",
+    "¿Qué son las cuotas compensatorias en la importación?",
+    "¿Cómo se calculan los impuestos si importo y exporto partes de mercancías?"
   ]
 }

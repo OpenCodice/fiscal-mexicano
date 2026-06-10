@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f47bb152fb3b84b3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación de menaje de casa en la frontera",
+  "denominacion_comun": "Internación de menaje de casa en franja fronteriza",
   "temas": [
     "franja fronteriza",
+    "internación",
     "menaje de casa",
-    "autoridades aduaneras",
-    "exención de impuestos"
+    "impuesto general de importación",
+    "residencia",
+    "autoridades aduaneras"
   ],
   "terminos_coloquiales": [
-    "menaje de casa sin impuestos",
-    "cambio de residencia fronteriza",
-    "importación de muebles usados",
-    "casa en la frontera"
+    "mudanza",
+    "casa",
+    "cambiar de casa",
+    "bienes usados"
   ],
-  "resumen": "Los residentes de la franja fronteriza pueden llevar su menaje de casa usado a otras partes del país sin pagar impuestos, siempre que cumplan ciertos requisitos. Deben haber vivido en la franja por más de un año y haber adquirido los bienes hace al menos seis meses.",
+  "resumen": "El artículo permite que los residentes de la franja fronteriza puedan internar su menaje de casa usado sin pagar impuestos, siempre que cumplan ciertos requisitos de residencia y tiempo de adquisición de los bienes. Las autoridades aduaneras son las encargadas de autorizar este proceso.",
   "preguntas_ejemplo": [
-    "¿Puedo llevar mis muebles a otra parte del país sin pagar impuestos?",
-    "¿Qué requisitos debo cumplir para internar mi menaje de casa?",
-    "¿Cuánto tiempo tengo que haber vivido en la frontera para importar mis cosas?",
-    "¿Qué pasa si compré mis muebles en la franja hace más de seis meses?",
-    "¿Las autoridades aduaneras pueden autorizar la importación de menaje de casa?"
+    "¿Puedo llevar mis muebles si me cambio de casa desde la franja fronteriza?",
+    "¿Qué necesito para internar mis cosas usadas sin pagar impuestos?",
+    "¿Cuánto tiempo tengo que haber vivido en la franja fronteriza para poder internar mi menaje de casa?",
+    "¿Qué documentos necesito para comprobar mi residencia en la franja fronteriza?",
+    "¿Hay algún límite en el valor de mis bienes para poder internarlos sin pagar impuestos?"
   ]
 }

@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a758cac9feb7dde4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Despacho de mercancías",
+  "denominacion_comun": "Despacho aduanero",
   "temas": [
-    "trámites aduaneros",
     "importadores",
     "exportadores",
     "agentes aduanales",
-    "requisitos legales"
+    "agencias aduanales",
+    "representante legal",
+    "requisitos",
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "cómo despachar mercancías",
-    "trámites de aduanas",
+    "despacho aduanero",
+    "trámite de aduana",
     "agente aduanal",
-    "despacho sin agente",
-    "requisitos para despachar"
+    "agencia aduanal"
   ],
-  "resumen": "El artículo establece que los importadores y exportadores pueden despachar mercancías por sí mismos o a través de agentes aduanales. También se indican los requisitos que deben cumplir estas personas para realizar el despacho sin un agente aduanal.",
+  "resumen": "Este artículo establece que los importadores y exportadores pueden promover el despacho de mercancías a través de agentes aduanales o por sus propios medios. Además, especifica los requisitos que debe cumplir un representante legal si se opta por no utilizar un agente aduanal.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para despachar mercancías?",
-    "¿Puedo hacer el despacho aduanero sin un agente?",
-    "¿Cuáles son los requisitos para ser representante legal en aduanas?",
-    "¿Cómo puedo promover el despacho de mis mercancías?",
-    "¿Qué obligaciones tengo como importador o exportador?"
+    "¿Qué es el despacho aduanero?",
+    "¿Quién puede ser representante legal en el despacho de mercancías?",
+    "¿Cuáles son los requisitos para despachar mercancías sin agente aduanal?",
+    "¿Qué deben hacer los importadores y exportadores para cumplir con la ley?",
+    "¿Qué obligaciones tienen los agentes aduanales en el despacho de mercancías?"
   ]
 }

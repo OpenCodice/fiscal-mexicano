@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2a789eabfec4dce8",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Pruebas en procedimientos aduanales",
@@ -15,22 +16,21 @@
     "extinción de patente",
     "inhabilitación de agente aduanal",
     "pruebas documentales",
-    "plazos para presentar pruebas",
+    "notificación de requerimientos",
     "admisión de pruebas"
   ],
   "terminos_coloquiales": [
-    "pruebas para aduanas",
-    "documentos aduanales",
-    "agente aduanal y pruebas",
-    "cancelación de agente aduanal",
-    "cómo presentar pruebas en aduanas"
+    "documentos de agentes aduanales",
+    "pruebas en cancelación de patente",
+    "notificaciones de autoridades aduaneras",
+    "originales y copias de documentos"
   ],
-  "resumen": "El artículo establece las reglas sobre la admisión de pruebas en procedimientos de suspensión, cancelación o extinción de patente de agente aduanal. Se detallan los tipos de pruebas que se pueden presentar, plazos y condiciones para su aceptación.",
+  "resumen": "El artículo establece que en los procedimientos relacionados con la suspensión, cancelación o extinción de patentes, así como la inhabilitación de agentes aduanales, se pueden presentar pruebas, excepto las confesionales de autoridades. Las pruebas documentales deben ser originales, y si no se presentan, la autoridad puede solicitar su entrega dentro de un plazo específico.",
   "preguntas_ejemplo": [
-    "¿Qué pruebas puedo presentar en un procedimiento aduanal?",
-    "¿Cuánto tiempo tengo para presentar pruebas ante la autoridad aduanera?",
-    "¿Qué tipo de documentos se aceptan en los trámites aduanales?",
-    "¿Qué sucede si no presento las pruebas requeridas?",
-    "¿La autoridad puede rechazar mis pruebas?"
+    "¿Qué pruebas se pueden presentar en un procedimiento de inhabilitación de agente aduanal?",
+    "¿Los documentos deben ser originales para el trámite de patente aduanal?",
+    "¿Qué pasa si no presento las pruebas requeridas en el plazo establecido?",
+    "¿Cómo puede un agente aduanal demostrar que un documento no está disponible?",
+    "¿Qué tipo de pruebas son inadmisibles en estos procedimientos?"
   ]
 }

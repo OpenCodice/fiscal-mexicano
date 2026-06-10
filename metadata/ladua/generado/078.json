@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e7ffdd9b6ea47998",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del valor aduanero",
+  "denominacion_comun": "Valor de mercancías importadas",
   "temas": [
     "valor de mercancías",
     "importación",
+    "métodos de valoración",
     "documentación comprobatoria",
-    "valores falsos",
-    "vehículos usados"
+    "vehículos usados",
+    "autoridad aduanera"
   ],
   "terminos_coloquiales": [
-    "cómo se determina el valor de las importaciones",
-    "valor de mercancías importadas",
-    "valor aduanal",
-    "avalúo de mercancías"
+    "valor de importación",
+    "valor declarado",
+    "valor comercial",
+    "avaluo aduanero",
+    "cotización aduanera",
+    "mercancías usadas"
   ],
-  "resumen": "El artículo establece cómo determinar el valor de mercancías importadas cuando no se puede usar métodos previos. También indica que si hay documentos falsos, la autoridad puede rechazar el valor declarado y fijar uno nuevo. Para vehículos usados, hay un método específico de cálculo de su valor.",
+  "resumen": "El artículo establece cómo se determina el valor de las mercancías importadas cuando no se puede aplicar los métodos estándar de valoración. Además, menciona que la autoridad aduanera puede rechazar un valor declarado si la documentación es falsa o alterada, y establece un método específico para calcular el valor gravable de vehículos usados.",
   "preguntas_ejemplo": [
     "¿Cómo se determina el valor de las mercancías que importo?",
-    "¿Qué sucede si la documentación sobre el valor de mi mercancía es falsa?",
-    "¿Cómo se calcula el valor de vehículos usados para importación?",
-    "¿Qué métodos se utilizan para establecer el valor aduanero?",
-    "¿Qué pasa si no puedo comprobar el valor de mis mercancías?"
+    "¿Qué pasa si la documentación del valor de mis mercancías es falsa?",
+    "¿Cuál es el valor de importación para vehículos usados?",
+    "¿Qué métodos se utilizan para valorar mercancías importadas?",
+    "¿La autoridad aduanera puede cambiar el valor que declaré?",
+    "¿Cómo se calcula el valor gravable de un auto usado?"
   ]
 }

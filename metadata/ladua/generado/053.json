@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:45486a26fd327a46",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad solidaria en comercio exterior",
+  "denominacion_comun": "Responsables solidarios",
   "temas": [
-    "responsabilidad solidaria",
-    "comercio exterior",
-    "impuestos",
-    "agentes aduanales",
+    "impuestos al comercio exterior",
     "contribuciones",
-    "mercancías",
-    "transporte"
+    "cuotas compensatorias",
+    "agentes aduanales",
+    "socios de agencia aduanal",
+    "medios de transporte",
+    "remitentes de mercancías",
+    "almacenaje de mercancías"
   ],
   "terminos_coloquiales": [
-    "quién paga los impuestos de importación",
-    "responsabilidad en aduanas",
-    "agentes aduanales y pagos",
-    "impuestos de mercancías",
-    "cargos por comercio exterior"
+    "responsables solidarios",
+    "impuestos de aduanas",
+    "agentes aduanales",
+    "documentación aduanal",
+    "mercancías transportadas"
   ],
-  "resumen": "El artículo establece quiénes son responsables de pagar impuestos y contribuciones en el comercio exterior, incluyendo a mandatarios, agentes aduanales, propietarios de medios de transporte y remitentes de mercancías. También detalla las condiciones de esta responsabilidad solidaria y los casos en que aplica.",
+  "resumen": "El artículo establece quiénes son responsables solidarios del pago de impuestos y contribuciones relacionados con el comercio exterior y las operaciones aduaneras. Incluye a mandatarios, agentes aduanales, propietarios de medios de transporte, remitentes de mercancías y otros. La responsabilidad puede calcularse según su participación en la agencia aduanal y comprende los accesorios, excepto multas.",
   "preguntas_ejemplo": [
-    "¿Quién es responsable de los impuestos al importar mercancías?",
-    "¿Qué pasa si un agente aduanal no paga las contribuciones?",
-    "¿Los socios de una agencia aduanal son responsables de las deudas fiscales?",
-    "¿Quién paga cuando una mercancía no llega a su destino?",
-    "¿Qué responsabilidades tienen los transportistas en aduanas?"
+    "¿Quiénes son responsables de pagar impuestos al comercio exterior?",
+    "¿Qué obligaciones tienen los agentes aduanales?",
+    "¿Los conductores de transporte son responsables de las mercancías que transportan?",
+    "¿Qué pasa si no llegán las mercancías a su destino?",
+    "¿Los socios de una agencia aduanal son responsables de las contribuciones?",
+    "¿Qué documentación se necesita para el transporte de mercancías?"
   ]
 }

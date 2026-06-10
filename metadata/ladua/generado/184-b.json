@@ -6,27 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64848e29229dfd83",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas por infracciones aduaneras",
+  "denominacion_comun": "Multas por infracciones en aduanas",
   "temas": [
-    "sanciones",
-    "multas",
-    "infracciones",
+    "sanciones aduaneras",
     "transmisión de información",
-    "valor de mercancía"
+    "valor de mercancía",
+    "datos de comercialización",
+    "transportación de mercancías"
   ],
   "terminos_coloquiales": [
-    "multas de aduanas",
-    "infracciones en comercio exterior",
-    "sanciones por no reportar mercancías",
-    "multas por tráfico de mercancías"
+    "multas en aduanas",
+    "sanciones por incumplimiento",
+    "valores de importación",
+    "datos de despacho aduanero"
   ],
-  "resumen": "Este artículo establece multas para quienes no transmitan correctamente la información relacionada con el valor de las mercancías y otros datos de su comercialización y transportación. Las multas varían según la gravedad de la infracción.",
+  "resumen": "El artículo establece multas que se aplicarán a quienes no cumplan con la obligación de transmitir información relacionada con el valor de las mercancías y otros datos necesarios para su comercialización y transportación en aduanas.",
   "preguntas_ejemplo": [
-    "¿Qué multas hay por no declarar el valor de mis mercancías?",
-    "¿Cuánto me pueden multar si no transmito información aduanera?",
-    "¿Qué pasa si no reporto los datos de mis productos al importar?",
-    "¿Qué sanciones existen por errores en la documentación aduanera?"
+    "¿Qué multas se aplican por no transmitir información en aduanas?",
+    "¿Cuáles son las sanciones por incumplimiento en la ley aduanera?",
+    "¿Qué información debo transmitir para evitar multas en aduanas?",
+    "¿Cuánto es la multa por no declarar el valor de la mercancía?",
+    "¿Qué pasa si no envío los datos de transportación de las mercancías?"
   ]
 }

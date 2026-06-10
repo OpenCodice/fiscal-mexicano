@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51e8c0025847d44e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de autorización aduanera",
   "temas": [
-    "cancelación",
-    "autorización",
+    "Agencia Nacional de Aduanas",
+    "autorización aduanera",
     "requisitos",
-    "incumplimiento"
+    "obligaciones",
+    "cancelación"
   ],
   "terminos_coloquiales": [
-    "quitar autorización",
-    "causas de cancelación",
-    "no cumplir requisitos",
-    "problemas con aduanas"
+    "cancelar permisos de aduanas",
+    "requisitos de aduanas",
+    "incumplimiento de autorización"
   ],
-  "resumen": "La Agencia Nacional de Aduanas puede cancelar una autorización si no se cumplen los requisitos o las obligaciones necesarias. También puede haber otras razones especificadas en la ley o en la autorización misma.",
+  "resumen": "La Agencia Nacional de Aduanas puede cancelar autorizaciones si no se cumplen los requisitos, se incumplen las obligaciones o por otras causas establecidas en la ley. Se debe seguir un procedimiento específico para ello.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las causas por las que pueden cancelar mi autorización aduanera?",
-    "¿Qué requisitos debo cumplir para mantener mi autorización con aduanas?",
-    "¿Qué pasa si incumplo con mis obligaciones aduaneras?",
-    "¿Pueden quitarme la autorización por otras razones?"
+    "¿Cuáles son las razones para que la aduana cancele una autorización?",
+    "¿Qué requisitos hay que cumplir para mantener la autorización aduanera?",
+    "¿Qué pasa si no cumplo con mis obligaciones de aduana?",
+    "¿Cómo puedo saber si me han cancelado una autorización?"
   ]
 }

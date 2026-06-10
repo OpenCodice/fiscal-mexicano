@@ -6,26 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:26399797230fd63d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificaciones Electrónicas en Aduanas",
+  "denominacion_comun": "Notificaciones electrónicas en aduanas",
   "temas": [
     "notificaciones electrónicas",
     "sistema electrónico aduanero",
+    "trámites aduaneros",
     "días hábiles",
-    "horarios de trámite"
+    "horarios de operaciones",
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "notificaciones en aduanas",
-    "horarios aduaneros",
-    "trámites electrónicos"
+    "notificaciones online",
+    "trámites en aduanas",
+    "horarios en aduanas",
+    "días hábiles aduaneros"
   ],
-  "resumen": "Las notificaciones electrónicas para aduanas son hábiles todos los días del año, excepto sábados, domingos y días establecidos en la ley. Los trámites se deben realizar entre las siete y dieciocho horas, y después de ese horario se consideran para el día hábil siguiente.",
+  "resumen": "Este artículo establece que las notificaciones electrónicas en el sistema aduanero se consideran hábiles todos los días del año, excepto sábados, domingos y días indicados en el Código Fiscal. Además, los trámites deben realizarse entre las siete y las dieciocho horas, y los realizados después de esa hora se consideran hechos al día siguiente hábil.",
   "preguntas_ejemplo": [
-    "¿Cuándo son hábiles las notificaciones en aduanas?",
-    "¿Qué horarios hay para hacer trámites en el sistema aduanero?",
-    "¿Qué pasa si hago un trámite después de las seis de la tarde?",
-    "¿Los días festivos son hábiles para notificaciones electrónicas?",
-    "¿Dónde puedo saber los días inhábiles para aduanas?"
+    "¿Cuáles son los días hábiles para notificaciones en aduanas?",
+    "¿Hasta qué hora se pueden realizar trámites en el sistema aduanero?",
+    "¿Qué sucede si realizo un trámite después de la hora límite?",
+    "¿Qué días no se consideran hábiles en el sistema de aduanas?",
+    "¿Cómo funcionan las notificaciones electrónicas en aduanas?"
   ]
 }

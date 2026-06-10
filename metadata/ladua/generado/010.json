@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:20d2fe5559d60a3b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de entrada y salida de mercancías",
+  "denominacion_comun": "Entrada y salida de mercancías",
   "temas": [
-    "entrada de mercancías",
-    "salida de mercancías",
+    "mercancías",
     "lugares autorizados",
-    "autorización especial",
-    "sistema tecnológico",
-    "control de inventarios",
-    "seguridad aduanera"
+    "despacho aduanero",
+    "inspección de equipajes",
+    "autorizaciones",
+    "tecnología en aduanas",
+    "control de inventarios"
   ],
   "terminos_coloquiales": [
-    "dónde puedo traer cosas",
-    "cómo sacar mercancía",
-    "lugares para importación",
-    "requisitos para sacar mercancía",
-    "cómo funcionan las aduanas",
-    "autorizaciones para mercancías"
+    "entrada de mercancías",
+    "salida de mercancías",
+    "carga y descarga",
+    "revisión de equipajes",
+    "autorización aduanera"
   ],
-  "resumen": "La entrada y salida de mercancías del país debe hacerse en lugares autorizados y en horarios hábiles. En ciertos casos, el Servicio de Administración Tributaria puede autorizar lugares distintos si las mercancías requieren un tratamiento especial o para mejorar el proceso.",
+  "resumen": "Este artículo establece que la entrada y salida de mercancías del país debe hacerse en lugares autorizados y en horarios específicos. El SAT puede autorizar excepciones bajo ciertas condiciones, incluyendo la necesidad de contar con tecnología adecuada para el control y monitoreo de las mercancías.",
   "preguntas_ejemplo": [
-    "¿Dónde puedo llevar mis mercancías?",
-    "¿Qué necesito para sacar productos del país?",
-    "¿Se puede importar desde un lugar que no es autorizado?",
-    "¿Cómo obtengo autorización para un lugar diferente?",
-    "¿Qué sistemas deben tener los lugares de entrada y salida?",
-    "¿Cuáles son los requisitos para la entrada de mercancías?"
+    "¿Dónde puedo entrar o salir mercancías?",
+    "¿Qué debo hacer para obtener autorización de aduanas?",
+    "¿Cuáles son las reglas para la carga y descarga de mercancías?",
+    "¿Qué tecnología necesito para facilitar el despacho de mercancías?",
+    "¿Se puede revisar mi equipaje en cualquier lugar?"
   ]
 }

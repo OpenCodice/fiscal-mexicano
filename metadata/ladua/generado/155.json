@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0c0d5718c072a56e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de mercancía extranjera",
+  "denominacion_comun": "Embargo precautorio de mercancías",
   "temas": [
     "visita domiciliaria",
-    "embargo precautorio",
+    "embargo",
+    "mercancía extranjera",
     "legal estancia",
-    "pruebas",
-    "resolución de sanciones"
+    "impuestos al comercio exterior",
+    "cuotas compensatorias",
+    "plazo para acreditar mercancías"
   ],
   "terminos_coloquiales": [
-    "retención de mercancías",
-    "cierre de negocio",
-    "embargo aduanal",
-    "incautación de productos"
+    "embargo de mercancías",
+    "aduana",
+    "visita aduanera"
   ],
-  "resumen": "Si durante una visita en un domicilio se encuentra mercancía extranjera sin legal estancia, se puede proceder al embargo. El propietario tiene un plazo para demostrar la legal estancia de la mercancía embargada y se emitirán resoluciones sobre contribuciones y posibles sanciones.",
+  "resumen": "Este artículo establece que si durante una visita a un domicilio se encuentra mercancía extranjera sin prueba de su legal estancia, se puede proceder al embargo precautorio. El visitado tiene un plazo para demostrar la legalidad de las mercancías embargadas y se determinarán contribuciones y sanciones si es necesario.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si me embargan mercancía en mi negocio?",
-    "¿Cuánto tiempo tengo para demostrar que mi mercancía está legal?",
-    "¿Qué pruebas puedo presentar tras un embargo aduanal?",
-    "¿Qué pasa si no se emite una resolución después del embargo?",
-    "¿Hay alguna forma de suspender el plazo tras un embargo?"
+    "¿Qué pasa si encuentran mercancía extranjera en mi casa?",
+    "¿Cuánto tiempo tengo para probar que mi mercancía está legal en el país?",
+    "¿Qué es el embargo precautorio y cómo se aplica?",
+    "¿Cuáles son mis derechos durante una visita domiciliaria por aduanas?",
+    "¿Qué sucede si no puedo demostrar la legalidad de mi mercancía embargada?"
   ]
 }

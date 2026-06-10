@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ef750644c04a02bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Dictaminador Aduanero",
+  "denominacion_comun": "Autorización de dictaminador aduanero",
   "temas": [
-    "autorización",
     "requisitos",
-    "exámenes",
+    "autorización",
     "evaluaciones de confiabilidad",
-    "vigencia"
-  ],
-  "terminos_coloquiales": [
-    "ser dictaminador aduanero",
-    "requisitos para dictaminador",
-    "cómo ser dictaminador",
-    "exámenes para dictaminador",
     "cancelación de autorización"
   ],
-  "resumen": "El Servicio de Administración Tributaria puede otorgar la autorización de dictaminador aduanero a ciudadanos mexicanos que cumplan ciertos requisitos, incluyendo la aprobación de exámenes. Esta autorización es válida por dos años y puede renovarse si se mantienen las condiciones.",
+  "terminos_coloquiales": [
+    "dictaminador aduanero",
+    "servicio de aduanas",
+    "SAT"
+  ],
+  "resumen": "El SAT otorga autorización de dictaminador aduanero a ciudadanos mexicanos que cumplen ciertos requisitos, como no tener antecedentes penales y aprobar exámenes específicos. Esta autorización es válida por dos años y puede ser renovada, siempre que se sigan cumpliendo con los requisitos.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para ser dictaminador aduanero?",
-    "¿Cuánto dura la autorización de dictaminador?",
-    "¿Qué exámenes debo presentar para ser dictaminador aduanero?",
-    "¿Qué pasa si no cumplo los requisitos?",
-    "¿Puedo volver a ser dictaminador si me cancelaron la autorización?"
+    "¿Cuáles son los requisitos para ser dictaminador aduanero?",
+    "¿Qué exámenes se deben aprobar para obtener la autorización?",
+    "¿Cuál es la vigencia de la autorización de dictaminador aduanero?",
+    "¿Qué pasa si incumplo con los requisitos de la autorización?",
+    "¿Se puede renovar la autorización de dictaminador aduanero?"
   ]
 }

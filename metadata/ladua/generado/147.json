@@ -6,24 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:79af483234cb888c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transporte de mercancías en la frontera",
+  "denominacion_comun": "Mercancías en frontera",
   "temas": [
-    "mercancías nacionales",
-    "exportación",
+    "transportación de mercancías",
+    "exportación prohibida",
     "documentación aduanera",
-    "origen de artículos agropecuarios"
+    "constancias de origen",
+    "mercancías confundibles"
   ],
   "terminos_coloquiales": [
-    "cómo transportar mercancías en la frontera",
-    "documentos para llevar productos a la frontera",
-    "requisitos para exportar desde la frontera"
+    "papeles para exportar",
+    "comprobante fiscal",
+    "documentos comerciales",
+    "constancia de origen",
+    "merca en frontera"
   ],
-  "resumen": "Las mercancías nacionales que se transportan en la franja fronteriza deben cumplir con ciertos requisitos de documentación. Esto incluye comprobantes fiscales y permisos de exportación en casos específicos, así como comprobación del origen de productos agropecuarios cuando se requiera.",
+  "resumen": "El artículo establece los requisitos documentales para transportar mercancías nacionales dentro de la franja fronteriza, incluyendo comprobantes y permisos específicos para exportaciones y mercancías confundibles con extranjeras. También se menciona cómo acreditar el origen de artículos agropecuarios en estas zonas.",
   "preguntas_ejemplo": [
     "¿Qué documentos necesito para llevar mercancías a la frontera?",
-    "¿Cómo demuestro el origen de mis productos agropecuarios?",
-    "¿Cuáles son los requisitos para exportar desde la zona fronteriza?"
+    "¿Cómo comprobar el origen de productos agropecuarios en la frontera?",
+    "¿Qué es un comprobante fiscal digital y cuándo se necesita?",
+    "¿Cuáles son los requisitos para exportar mercancías restringidas?",
+    "¿Cómo se manejan las mercancías confundibles con extranjeras?"
   ]
 }

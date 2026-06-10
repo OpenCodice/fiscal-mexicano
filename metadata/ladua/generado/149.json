@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:dfd2459dbc54ff3e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión de mercancías",
+  "denominacion_comun": "Suspensión de circulación de mercancías",
   "temas": [
     "importación",
     "mercancías",
     "aduanas",
-    "resoluciones administrativas",
-    "depósito"
+    "suspensión",
+    "cargo de depositario"
   ],
   "terminos_coloquiales": [
-    "suspensión de mercancías",
-    "cómo detener la circulación de importaciones",
-    "qué información necesito para la aduana",
-    "depósito de mercancías",
-    "requisitos para mercancías detenidas"
+    "detención de mercancías",
+    "importador",
+    "almacén aduanal"
   ],
-  "resumen": "Este artículo establece que la suspensión de la libre circulación de mercancías importadas debe incluir información específica sobre el importador, las mercancías, la aduana de ingreso y otros detalles logísticos.",
+  "resumen": "Este artículo establece las condiciones bajo las cuales se puede suspender la libre circulación de mercancías importadas. Detalla la información que debe incluir la resolución de la autoridad competente para que esta suspensión sea válida.",
   "preguntas_ejemplo": [
-    "¿Qué información necesita la aduana para suspender mercancías?",
-    "¿Cuáles son los requisitos para el depósito de mercancías detenidas?",
-    "¿Qué datos debe contener la resolución de suspensión?",
-    "¿Cuánto tiempo se puede suspender la entrada de mercancías?",
-    "¿Dónde deben quedarse las mercancías si se suspende su circulación?"
+    "¿Qué información debe contener la resolución para suspender la circulación de mercancías?",
+    "¿Qué es un cargo de depositario en el contexto de aduanas?",
+    "¿Cuánto tiempo puede durar la suspensión de mercancías importadas?",
+    "¿Dónde deben permanecer las mercancías durante la suspensión?",
+    "¿Quién puede ser considerado el importador en este proceso?"
   ]
 }

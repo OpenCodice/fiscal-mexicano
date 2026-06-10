@@ -6,32 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a62581cfcbb7a13c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transmisión de Información Aduanera",
+  "denominacion_comun": "Transmisión de información aduanera",
   "temas": [
+    "agente aduanal",
+    "agencia aduanal",
     "importación",
     "exportación",
-    "documentos electrónicos",
-    "información aduanera",
+    "documentos aduaneros",
     "regulaciones no arancelarias",
-    "preferencias arancelarias",
-    "garantías aduaneras",
-    "números de serie"
+    "valor en aduana",
+    "preferencias arancelarias"
   ],
   "terminos_coloquiales": [
-    "qué información necesito para aduanas",
-    "documentación para importar",
-    "requisitos de exportación",
-    "cómo declarar mercancías",
-    "transmisión de datos aduaneros"
+    "pedimento",
+    "comprobante fiscal",
+    "documento electrónico",
+    "SAT",
+    "importaciones",
+    "exportaciones"
   ],
-  "resumen": "El artículo establece que los agentes y agencias aduanales deben transmitir información en formato digital al realizar importaciones y exportaciones. Esta información incluye detalles sobre el valor de las mercancías y cumplimiento de regulaciones específicas.",
+  "resumen": "El artículo 36-A establece las obligaciones de los agentes y agencias aduanales en relación con la transmisión de información sobre la importación y exportación de mercancías. Específicamente, deben enviar documentos electrónicos que contengan datos sobre el valor, regulaciones, y características de las mercancías, entre otros.",
   "preguntas_ejemplo": [
-    "¿Qué información debo enviar al hacer una importación?",
-    "¿Cuáles son los documentos necesarios para exportar mercancías?",
-    "¿Cómo se presentan los datos electrónicos en aduanas?",
-    "¿Qué regulaciones debo cumplir al importar productos?",
-    "¿Existen excepciones en la transmisión de información para importaciones?"
+    "¿Qué información debo transmitir al hacer un pedimento de importación?",
+    "¿Cuáles son las obligaciones del agente aduanal al exportar mercancías?",
+    "¿Qué documentos necesito para comprobar el valor de importación?",
+    "¿Qué son las regulaciones no arancelarias y cómo afectan mis importaciones?"
   ]
 }

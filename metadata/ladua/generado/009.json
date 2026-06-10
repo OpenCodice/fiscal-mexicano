@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:612de0a94c4fa3bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Declaración de efectivo en Aduanas",
+  "denominacion_comun": "Declaración de dinero en efectivo",
   "temas": [
     "declaración de efectivo",
-    "cantidades en efectivo",
     "transporte internacional",
     "custodia de valores",
-    "cheques nacionales",
-    "órdenes de pago"
+    "transacciones mayores a diez mil dólares",
+    "notificación a autoridades aduaneras"
   ],
   "terminos_coloquiales": [
-    "declaración de dinero en aduanas",
-    "cuánto dinero puedo pasar",
-    "obligaciones al llevar dinero al extranjero",
-    "reportar efectivo en la frontera",
-    "declarar dinero en el aeropuerto"
+    "declarar dinero al entrar o salir",
+    "llevar efectivo al extranjero",
+    "enviar dinero en efectivo",
+    "empresas de mensajería",
+    "SAT",
+    "declaración aduanera"
   ],
-  "resumen": "Las personas que ingresen o salgan del país con más de diez mil dólares deben declarar el dinero a las autoridades aduaneras. Asimismo, las empresas de transporte que manejen estos montos también tienen la obligación de informar a las autoridades sobre las cantidades que les sean manifestadas.",
+  "resumen": "Las personas que ingresan o salen del país con más de diez mil dólares en efectivo o documentos deben declararlo a las autoridades aduaneras. Las empresas que envían estas cantidades también deben manifestar lo enviado y declarar lo que reciban.",
   "preguntas_ejemplo": [
-    "¿Cuánto efectivo puedo llevar sin declarar en la aduana?",
-    "¿Qué debo hacer si llevo más de diez mil dólares?",
-    "¿Las empresas de mensajería tienen que informar sobre el dinero que transportan?",
-    "¿Qué pasa si no declaro el dinero en la frontera?",
-    "¿A quién debo reportar si llevo efectivo al extranjero?"
+    "¿Cuánto dinero puedo llevar sin declarar al salir del país?",
+    "¿Qué debo hacer si envío dinero en efectivo al extranjero?",
+    "¿Las empresas de mensajería tienen que declarar el dinero que transportan?",
+    "¿Qué sucede si no declaro el efectivo que llevo?",
+    "¿Cómo se declara el dinero en efectivo al entrar a México?"
   ]
 }

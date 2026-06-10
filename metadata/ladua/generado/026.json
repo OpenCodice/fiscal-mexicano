@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0de363052907db2f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de almacenes aduaneros",
+  "denominacion_comun": "Obligaciones de Almacenamiento en Aduana",
   "temas": [
     "almacenamiento de mercancías",
     "supervisión aduanera",
-    "seguridad en almacenes",
-    "devolución de contenedores",
+    "medidas de seguridad",
     "entrega de mercancías",
     "pedimentos consolidados",
     "avisos a autoridades"
   ],
   "terminos_coloquiales": [
-    "qué tiene que hacer un almacén aduanero",
-    "obligaciones de los almacenes en aduana",
-    "almacenamiento de mercancías en aduana",
-    "responsabilidades del almacén aduanero"
+    "depositar mercancías",
+    "almacen aduanero",
+    "recepción de mercancías",
+    "entregar productos",
+    "supervisión aduanas",
+    "contenedores",
+    "Fisco Federal"
   ],
-  "resumen": "Las personas que tienen autorización para almacenar mercancías en aduana deben cumplir ciertas obligaciones, como recibir y custodiar mercancías, permitir supervisiones y devolver contenedores al Fisco. También deben asegurar que la información presentada coincide con los registros aduaneros.",
+  "resumen": "Las personas autorizadas para almacenar mercancías ante la aduana deben cumplir con varias obligaciones, como custodiar las mercancías, permitir la supervisión de aduanas, y entregar mercancías bajo ciertas condiciones. Además, deben dar aviso a las autoridades si encuentran inconsistencias en los pagos o en la documentación.",
   "preguntas_ejemplo": [
-    "¿Qué obligaciones tiene un almacén aduanero?",
-    "¿Cómo se debe manejar la mercancía embargada?",
-    "¿Qué hacer si los datos de un pedimento no coinciden?",
-    "¿Qué medidas de seguridad deben seguir los almacenes?",
-    "¿Cómo debo devolver un contenedor al propietario?"
+    "¿Qué debo hacer si tengo mercancías almacenadas en aduana?",
+    "¿Cuáles son mis obligaciones si tengo un almacén aduanero?",
+    "¿Qué pasa si los datos del pedimento no coinciden?",
+    "¿Cómo debo entregar las mercancías embargadas?",
+    "¿Qué medidas de seguridad debo cumplir en mi almacén?"
   ]
 }

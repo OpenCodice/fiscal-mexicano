@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2cf71c3921e534b6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Despacho aduanero electrónico",
+  "denominacion_comun": "Despacho aduanero sin intermediarios",
   "temas": [
-    "Mercancías",
-    "Agencia aduanal",
-    "Sistema electrónico aduanero",
-    "Número de autorización",
-    "Candados electrónicos",
-    "Documentación electrónica",
-    "Visitas de autoridades aduaneras",
-    "Obligaciones fiscales"
+    "número de autorización",
+    "pedimentos",
+    "sistema electrónico aduanero",
+    "candados oficiales",
+    "declaración de mercancías",
+    "visitas de autoridades aduaneras"
   ],
   "terminos_coloquiales": [
-    "Despacho aduanal sin agente",
-    "Número de autorización aduanal",
-    "Candados de seguridad",
-    "Documentos electrónicos para aduana"
+    "despacho aduanero directo",
+    "registro en el SAT",
+    "información estadística de pedimentos",
+    "candados fiscales",
+    "firma electrónica",
+    "mercancías sin agencia aduanal"
   ],
-  "resumen": "El artículo establece las obligaciones que deben cumplir quienes realicen el despacho de mercancías sin un agente aduanal. Esto incluye solicitar un número de autorización, transmitir información al sistema aduanero y utilizar candados electrónicos en los transportes.",
+  "resumen": "Este artículo establece las obligaciones que deben cumplir quienes realicen el despacho de mercancías sin la ayuda de un agente aduanal. Incluye la solicitud de un número de autorización, la transmisión de información a un sistema electrónico y el uso de candados en el transporte de mercancías.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para realizar el despacho de mercancías sin agente aduanal?",
-    "¿Cuáles son mis obligaciones al despachar mercancías electrónicamente?",
-    "¿Cómo se transmite información al sistema aduanero?",
-    "¿Qué son los candados electrónicos en el transporte de mercancías?",
-    "¿Qué es el número de autorización y cómo lo obtengo?"
+    "¿Cómo puedo hacer un despacho aduanero sin un agente?",
+    "¿Qué requisitos necesito para obtener un número de autorización del SAT?",
+    "¿Qué información debo transmitir al sistema electrónico aduanero?",
+    "¿Qué son los candados fiscales y cómo se utilizan?",
+    "¿Puedo declarar las mercancías electrónicamente?"
   ]
 }

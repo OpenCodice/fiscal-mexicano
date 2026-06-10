@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c41ad931ee7dc02a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Propiedad de mercancías por el Fisco Federal",
+  "denominacion_comun": "Propiedad de mercancías por el Fisco",
   "temas": [
-    "mercanías",
-    "Fisco Federal",
-    "sanciones",
+    "propiedad del Fisco",
+    "sanciones aduaneras",
+    "regulaciones no arancelarias",
+    "pedimento de rectificación",
+    "importación",
     "almacenes generales",
-    "información falsa",
-    "regulaciones aduaneras",
-    "importación"
+    "vehículos",
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "¿Por qué se quedan mis mercancías con aduanas?",
-    "mercanías perdidas con el fisco",
-    "¿Qué pasa si no retiro mis mercancías?",
-    "sanciones aduaneras",
-    "mercancías confiscadas"
+    "mercancías del Fisco",
+    "multas aduaneras",
+    "pedimento",
+    "regulaciones aduaneras",
+    "buenas prácticas aduaneras",
+    "diezmo",
+    "vehículos no regularizados"
   ],
-  "resumen": "Las mercancías se consideran propiedad del Fisco Federal si no se retiran a tiempo de los almacenes o si hay información incorrecta en el pedimento de importación. Además, hay situaciones específicas donde esto también aplica, como incumplimientos en regulaciones aduaneras.",
+  "resumen": "Este artículo establece que las mercancías pasan a ser propiedad del Fisco Federal en casos específicos, como no ser retiradas en el tiempo correspondiente o cuando la información del proveedor o importador es falsa. Además, se menciona la obligación del importador de entregar la mercancía a la autoridad aduanera y las sanciones asociadas por incumplimiento.",
   "preguntas_ejemplo": [
-    "¿Qué ocurre si no retiro mis mercancías a tiempo?",
-    "¿Qué pasa si el proveedor en el extranjero no existe?",
-    "¿Cuándo puede el fisco quedarse con mis mercancías?",
-    "¿Qué sanciones hay por información falsa en el pedimento?",
-    "¿Cómo se determina el valor comercial de las mercancías?"
+    "¿Qué pasa con mis mercancías si no las retiro a tiempo?",
+    "¿Cuáles son las sanciones si el nombre de mi proveedor es falso?",
+    "¿Cómo puedo rectificar un pedimento aduanero?",
+    "¿Qué sucede si mis mercancías no cumplen con las regulaciones no arancelarias?",
+    "¿Qué significa que mis mercancías pasan a ser propiedad del Fisco?",
+    "¿Qué debo hacer si no puedo entregar mis mercancías al Fisco?"
   ]
 }

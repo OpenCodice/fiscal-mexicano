@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1fff8f902b472469",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Regularización de mercancías",
   "temas": [
+    "importación",
     "mercancías extranjeras",
     "despacho aduanero",
-    "importaciones temporales",
-    "regularización",
-    "contribuciones",
-    "restricciones no arancelarias",
     "sanciones",
-    "autoridades aduaneras"
+    "obligaciones aduaneras",
+    "regulaciones no arancelarias"
   ],
   "terminos_coloquiales": [
-    "cómo regularizar mercancías",
-    "mercancías sin documentación",
-    "importaciones no declaradas",
-    "qué hacer con mercancías extranjeras",
-    "plazo de retorno mercancías",
-    "sanciones aduaneras"
+    "regularizar mercancías",
+    "pago de contribuciones",
+    "cuotas compensatorias",
+    "mercancías sin despachar"
   ],
-  "resumen": "Las personas pueden regularizar mercancías de origen extranjero que no cumplieron con los procedimientos aduaneros necesarios o que excedieron el tiempo de retorno. Esto se realiza importando las mercancías definitivamente y pagando las contribuciones correspondientes.",
+  "resumen": "Este artículo establece que las personas que tengan mercancías extranjeras que no hayan cumplido con las formalidades aduaneras pueden regularizarlas mediante la importación definitiva. Esto requiere el pago de contribuciones y el cumplimiento de otras obligaciones, aunque hay sanciones si ya se inició una revisión por parte de las autoridades.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si tengo mercancías extranjeras sin documentar?",
-    "¿Cómo regularizo mercancías que excedieron su plazo de retorno?",
-    "¿Qué debo pagar para regularizar mis importaciones?",
-    "¿Cuáles son las sanciones si me detectan mercancías irregulares?",
-    "¿Puedo regularizar mercancías que ya son propiedad del Fisco?"
+    "¿Cómo puedo regularizar mercancías que traje del extranjero?",
+    "¿Qué debo hacer si tengo mercancías que no pasaron por aduanas?",
+    "¿Cuáles son las multas por no despachar mercancías correctamente?",
+    "¿Puedo pagar impuestos para regularizar mercancías que exceden el plazo de retorno?",
+    "¿Qué requisitos debo cumplir para importar mercancías definitivamente?",
+    "¿Cómo afecta a mis mercancías si la aduana ya comenzó una revisión?"
   ]
 }

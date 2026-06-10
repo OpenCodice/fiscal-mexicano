@@ -6,31 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:45bd038142785c33",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transmisión de pedimentos aduaneros",
+  "denominacion_comun": "Importación y Exportación por Tuberías y Cables",
   "temas": [
+    "pedimento",
     "importación",
     "exportación",
-    "mercancías",
-    "tuberías",
-    "cables",
-    "sistema electrónico aduanero",
-    "pedimento"
+    "sistema electrónico aduanero"
   ],
   "terminos_coloquiales": [
-    "como enviar un pedimento",
-    "plazos de pedimentos",
-    "pedimentos para importación",
-    "exportar mercancía",
-    "información aduanera"
+    "documento aduanero",
+    "pedimento",
+    "importar mercancías",
+    "exportar mercancías"
   ],
-  "resumen": "Las personas que importen o exporten mercancías a través de tuberías o cables deben enviar el pedimento de manera electrónica. Este debe ser transmitido antes del día seis del mes siguiente al que corresponde.",
+  "resumen": "La disposición establece que quienes importen o exporten mercancías mediante tuberías o cables deben transmitir un pedimento a través del sistema electrónico aduanero antes del día seis del mes siguiente a la importación o exportación.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo enviar el pedimento por tuberías?",
-    "¿Qué debo hacer para exportar por cable?",
-    "¿Cómo funciona el sistema electrónico aduanero?",
-    "¿Qué pasa si no transmito el pedimento a tiempo?",
-    "¿Qué son las mercancías por tuberías y cables?"
+    "¿Qué es un pedimento para importar o exportar mercancías?",
+    "¿Cuándo tengo que enviar el pedimento si utilizo tuberías o cables?",
+    "¿Cuál es el procedimiento para importar mercancías a través de tuberías?",
+    "¿Qué debo hacer para exportar mercancías por medio de cables?",
+    "¿Qué información debe contener el pedimento en la importación y exportación?"
   ]
 }

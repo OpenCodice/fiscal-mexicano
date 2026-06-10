@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:41cb4f77b90ce229",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Requisitos de importación de vehículos",
+  "denominacion_comun": "Importación de vehículos",
   "temas": [
-    "ciudadanía mexicana",
+    "requisitos de importación",
     "residencia fronteriza",
-    "pedimento de importación",
-    "normas de emisiones"
+    "documentos necesarios",
+    "vehículos",
+    "contaminantes"
   ],
   "terminos_coloquiales": [
-    "importar un automóvil",
-    "requisitos para traer un carro",
-    "documentos para importar vehículos",
-    "cómo importar un coche",
-    "vehículos en la frontera"
+    "comprar un coche",
+    "vehículo importado",
+    "acta de nacimiento",
+    "pedimento de importación"
   ],
-  "resumen": "Para importar un vehículo, las personas deben comprobar su ciudadanía mexicana, su residencia en la franja fronteriza, presentar un pedimento de importación y cumplir con las normas de emisiones de su país. Es necesario tener todos los documentos en orden al momento del despacho aduanero.",
+  "resumen": "Las personas físicas que desean importar vehículos deben demostrar su nacionalidad y residencia en la franja fronteriza. También necesitan presentar documentos como el pedimento de importación y comprobar que el vehículo cumple con normas de emisiones contaminantes.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para importar un carro a México?",
-    "¿Cuáles son los requisitos para traer un vehículo del extranjero?",
-    "¿Cómo compruebo que soy ciudadano mexicano al importar un automóvil?",
-    "¿Qué documentos debo presentar para importar un vehículo?",
-    "¿Cuáles son las normas de emisiones para vehículos importados?"
+    "¿Qué necesito para importar un coche?",
+    "¿Cuáles son los requisitos para importar un vehículo?",
+    "¿Cómo demuestro que soy residente en la frontera?",
+    "¿Qué documentos son necesarios para la importación de autos?",
+    "¿Cómo compruebo que mi vehículo cumple con las normas de contaminación?"
   ]
 }

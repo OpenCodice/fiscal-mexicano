@@ -6,28 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8055eebacaef8ac3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cuentas aduaneras de garantía",
   "temas": [
-    "garantías aduaneras",
+    "garantías",
     "depósitos",
-    "contribuciones",
     "comercio exterior",
+    "cuotas compensatorias",
     "créditos fiscales"
   ],
   "terminos_coloquiales": [
+    "cuentas de garantía",
     "depósitos aduaneros",
-    "garantía en aduanas",
-    "pagos de impuestos aduaneros",
-    "cuentas de garantía"
+    "pago de impuestos",
+    "comercio internacional"
   ],
-  "resumen": "Las cuentas aduaneras de garantía se utilizan para asegurar el pago de impuestos relacionados con el comercio exterior. Los depósitos se hacen en instituciones financieras autorizadas por el SAT para cubrir posibles contribuciones y cuotas compensatorias.",
+  "resumen": "Las cuentas aduaneras de garantía se utilizan para asegurar el pago de impuestos y cuotas que surgen de las operaciones de comercio exterior, a través de depósitos en instituciones financieras autorizadas por el SAT.",
   "preguntas_ejemplo": [
     "¿Qué son las cuentas aduaneras de garantía?",
-    "¿Cómo se usan los depósitos en el comercio exterior?",
-    "¿Qué contribuciones se aseguran con estas cuentas?",
-    "¿Quién autoriza las instituciones donde se hacen los depósitos?",
-    "¿Qué son las cuotas compensatorias en aduanas?"
+    "¿Cómo funcionan los depósitos aduaneros?",
+    "¿Cuándo se requieren cuentas de garantía en comercio exterior?",
+    "¿Qué contribuciones se garantizan con estas cuentas?",
+    "¿Quién autoriza las instituciones financieras para los depósitos?"
   ]
 }

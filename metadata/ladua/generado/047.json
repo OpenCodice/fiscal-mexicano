@@ -6,29 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8089caeb3a213120",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Consulta sobre clasificación arancelaria",
+  "denominacion_comun": "Consulta de clasificación arancelaria",
   "temas": [
     "comercio exterior",
     "clasificación arancelaria",
     "número de identificación comercial",
-    "consultas ante autoridad",
     "despacho de mercancías",
-    "irregularidades aduaneras"
+    "consultas ante el SAT",
+    "regularización de contribuciones"
   ],
   "terminos_coloquiales": [
-    "preguntar a aduanas",
-    "clasificación de productos",
-    "identificación de mercancías",
-    "consulta aduanal"
+    "consulta aduanal",
+    "agentes aduanales",
+    "importación",
+    "exportación",
+    "pago de contribuciones",
+    "mercancías en dudas"
   ],
-  "resumen": "Los importadores y exportadores pueden hacer consultas al SAT sobre la clasificación arancelaria de mercancías antes de realizar operaciones de comercio exterior. Esto les ayuda a aclarar dudas sobre cómo clasificar sus productos correctamente.",
+  "resumen": "Este artículo permite a importadores y exportadores realizar consultas sobre la clasificación arancelaria y el número de identificación comercial de mercancías antes de las operaciones de comercio exterior. También establece que, si hay diferencias en contribuciones, se deben pagar y no habrá sanciones por omisiones en este proceso.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo consultar la clasificación arancelaria de mi producto?",
-    "¿Qué hago si no estoy seguro del número de identificación comercial?",
-    "¿Puedo despachar mercancías mientras espero la respuesta de mi consulta?",
-    "¿Qué pasa si hay errores en la clasificación después de que he hecho la consulta?",
-    "¿Cómo se actualizan las contribuciones si hay diferencias tras la consulta?"
+    "¿Cómo puedo clasificar mis mercancías antes de importarlas?",
+    "¿Qué hago si no estoy seguro del número de identificación comercial de mis productos?",
+    "¿Puedo despachar mis mercancías mientras espero la respuesta de mi consulta aduanal?",
+    "¿Qué pasa si las autoridades aduaneras encuentran errores en mi clasificación arancelaria?",
+    "¿Cuáles son los requisitos para hacer una consulta ante el SAT sobre mis mercancías?"
   ]
 }

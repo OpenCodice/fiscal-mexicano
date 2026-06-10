@@ -6,25 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:cf61c79d50d342ba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tránsito de mercancías internacionales",
+  "denominacion_comun": "Transito Internacional de Mercancías",
   "temas": [
     "tránsito de mercancías",
     "aduanas",
+    "mercancías nacionales",
     "mercancías extranjeras",
-    "reingreso de mercancías"
+    "procedencia",
+    "reingreso"
   ],
   "terminos_coloquiales": [
-    "cómo se mueven las mercancías entre países",
-    "tránsito de importaciones y exportaciones",
-    "movimiento de productos internacionales"
+    "tránsito internacional",
+    "aduana de entrada",
+    "aduana de salida",
+    "mercancías"
   ],
-  "resumen": "El artículo define cuándo el tránsito de mercancías se considera internacional. Esto ocurre si las mercancías extranjeras se envían al extranjero o si las nacionales pasan por territorio extranjero para regresar a México.",
+  "resumen": "El artículo establece las condiciones bajo las cuales se considera que el tránsito de mercancías es internacional. Esto incluye el traslado de mercancías extranjeras con destino al extranjero y el reingreso de mercancías nacionales o nacionalizadas a través de territorio extranjero.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que el tránsito de mercancías es internacional?",
-    "¿Qué documentos necesito para el traslado internacional de mercancías?",
-    "¿Cómo se manejan las mercancías nacionales que salen y regresan a México?",
-    "¿Qué requisitos hay para exportar mercancías del país?"
+    "¿Qué significa el tránsito internacional de mercancías?",
+    "¿Cuándo se considera que una mercancía está en tránsito internacional?",
+    "¿Cuál es la diferencia entre aduana de entrada y aduana de salida?",
+    "¿Las mercancías nacionales pueden ser trasladadas por territorio extranjero?",
+    "¿Qué se considera mercancía de procedencia extranjera?"
   ]
 }

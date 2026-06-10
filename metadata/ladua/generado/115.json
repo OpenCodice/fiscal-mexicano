@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c799192e6fa10d83",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Régimen de exportación temporal",
   "temas": [
     "exportación",
-    "temporal",
     "mercancías",
     "retorno",
-    "modificación"
+    "estado original"
   ],
   "terminos_coloquiales": [
     "exportación temporal",
-    "salida de mercancías",
-    "volver mercancías",
-    "exportar y regresar"
+    "retorno de mercancías"
   ],
-  "resumen": "El régimen de exportación temporal permite que las mercancías nacionales o nacionalizadas salgan del país por un tiempo limitado, con el compromiso de regresar en el mismo estado. Esto debe hacerse sin ningún tipo de modificación durante su estancia en el extranjero.",
+  "resumen": "Este régimen permite la salida de mercancías nacionales o nacionalizadas al extranjero por un tiempo limitado, con el compromiso de que regresen sin ninguna modificación. Es un proceso específico para el retorno de productos al país.",
   "preguntas_ejemplo": [
-    "¿Qué es la exportación temporal?",
-    "¿Cómo funciona el régimen de exportación temporal?",
-    "¿Qué pasa con las mercancías que se exportan temporalmente?",
-    "¿Cuáles son las condiciones para retornar mercancías al país?",
-    "¿Se pueden modificar las mercancías durante la exportación temporal?"
+    "¿Qué es el régimen de exportación temporal?",
+    "¿Cómo funciona el retorno de mercancías al país?",
+    "¿Qué condiciones deben cumplir las mercancías en el régimen de exportación temporal?",
+    "¿Puedo exportar mercancías por un tiempo limitado y traerlas de vuelta?",
+    "¿Cuáles son los requisitos para la exportación temporal?",
+    "¿Qué significa retornar mercancías en el mismo estado?"
   ]
 }

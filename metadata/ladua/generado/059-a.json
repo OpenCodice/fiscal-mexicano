@@ -6,28 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:34306375e2b994d5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transmisión de información aduanera",
   "temas": [
+    "mercancías",
     "régimen aduanero",
     "documento electrónico",
-    "información de mercancías",
+    "valor de mercancías",
     "despacho aduanero",
-    "acuse de recibo"
+    "Servicio de Administración Tributaria",
+    "acuse de recepción",
+    "pedimento"
   ],
   "terminos_coloquiales": [
-    "enviar datos aduaneros",
-    "transmitir información de aduanas",
-    "pedimento con acuse",
-    "documentos para aduanas"
+    "información aduanera",
+    "transmisión de datos",
+    "pedimento aduanero",
+    "SATA",
+    "acuso",
+    "despacho de mercancías"
   ],
-  "resumen": "Las personas que traen o sacan mercancías del país deben enviar información sobre su valor y otros datos a las autoridades aduaneras antes de que se despachen. Esta información se considera enviada cuando se obtiene un acuse del sistema aduanero, el cual debe incluirse en el pedimento.",
+  "resumen": "Las personas que introduzcan o extraigan mercancías del país deben enviar información sobre su valor y otros datos relevantes a las autoridades aduaneras antes de que se despachen. Esto se hace mediante un documento electrónico y se considera enviado cuando se genera un acuse en el sistema aduanero.",
   "preguntas_ejemplo": [
-    "¿Qué datos debo enviar a aduanas?",
-    "¿Cómo obtengo el acuse para mi pedimento?",
-    "¿Qué es un régimen aduanero?",
-    "¿Cuándo debo transmitir la información de mis mercancías?",
-    "¿Qué pasa si no envío la información requerida?"
+    "¿Qué información debo enviar a aduanas al importar o exportar mercancías?",
+    "¿Cómo se transmite el valor de las mercancías a las autoridades aduaneras?",
+    "¿Qué es el acuse de recepción en el despacho aduanero?",
+    "¿Cuáles son los requisitos para el pedimento aduanero?",
+    "¿Qué funciones tiene el Servicio de Administración Tributaria en el proceso de aduanas?"
   ]
 }

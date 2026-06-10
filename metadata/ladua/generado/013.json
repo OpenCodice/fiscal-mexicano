@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f5c82bad036fcdb4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transbordo de mercancías",
@@ -16,16 +17,16 @@
     "empresa transportista"
   ],
   "terminos_coloquiales": [
-    "cambio de mercancías",
-    "transferencia de cargas",
-    "movimiento de productos",
-    "despacho de mercancías"
+    "transbordo de carga",
+    "transbordo",
+    "carga internacional"
   ],
-  "resumen": "El transbordo de mercancías extranjeras entre aeronaves o embarcaciones debe hacerse bajo la responsabilidad de la empresa transportista y siguiendo los requisitos del reglamento correspondiente.",
+  "resumen": "El transbordo de mercancías de origen extranjero de un medio de transporte a otro debe hacerse bajo la responsabilidad de la empresa que transporta, siempre que se sigan los requisitos del Reglamento.",
   "preguntas_ejemplo": [
-    "¿Cómo se hace el transbordo de mercancías?",
-    "¿Quién es responsable del transbordo?",
-    "¿Qué se necesita para el cambio de mercancías entre transportes?",
-    "¿Cuáles son las reglas para el transbordo de cargas?"
+    "¿Qué requisitos se necesitan para el transbordo de mercancías?",
+    "¿Quién es responsable en el transbordo de mercancías?",
+    "¿Cómo se realiza el transbordo de carga internacional?",
+    "¿Qué es el transbordo en el contexto aduanero?",
+    "¿Cuáles son las obligaciones del transportista en el transbordo?"
   ]
 }

@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ae80c4ec9604269a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Despacho aduanero simplificado",
+  "denominacion_comun": "Despacho aduanero simplificado para mensajería",
   "temas": [
-    "autorización de empresas",
+    "autorización",
     "despacho aduanero",
+    "mensajería",
+    "paquetería",
     "procedimiento simplificado",
     "análisis de riesgo",
-    "contribuciones aduaneras",
-    "obligaciones fiscales",
-    "documentación de mercancías"
+    "obligaciones aduaneras",
+    "contribuciones"
   ],
   "terminos_coloquiales": [
-    "autorización para mensajería",
-    "despacho aduanero rápido",
-    "pago de impuestos aduaneros",
-    "requisitos para paquetería",
-    "cómo despachar mercancías",
-    "simplificación de aduanas"
+    "despacho aduanero",
+    "autorización aduanera",
+    "envíos rápidos",
+    "mensajería",
+    "paquetería"
   ],
-  "resumen": "La Agencia Nacional de Aduanas permite que empresas de mensajería y paquetería hagan despachos aduaneros de manera simplificada si cumplen ciertos requisitos. Deben solicitar autorización y llevar un sistema que valide el cumplimiento de sus obligaciones aduaneras.",
+  "resumen": "La Agencia Nacional de Aduanas puede autorizar a empresas de mensajería y paquetería a realizar el despacho aduanero de manera simplificada, siempre que cumplan con ciertos requisitos. Estas empresas deben llevar un sistema de análisis de riesgo, proporcionar información a la autoridad y calcular las contribuciones pertinentes sobre las mercancías.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener autorización para despachar mercancías?",
-    "¿Qué requisitos necesito para el despacho aduanero simplificado?",
-    "¿Qué impuestos debo pagar por el despacho de mercancías?",
-    "¿Cuánto tiempo dura la autorización para el despacho aduanero?",
-    "¿Puedo prorrogar mi autorización para despachar aduanas?",
-    "¿Qué documentos necesito para cumplir con las obligaciones fiscales?"
+    "¿Qué necesitan las empresas de mensajería para hacer despacho aduanero simplificado?",
+    "¿Cuáles son las obligaciones de las empresas de paquetería en el despacho aduanero?",
+    "¿Cómo se calcula el valor en aduana para el despacho simplificado?",
+    "¿Cuánto dura la autorización para el despacho aduanero simplificado?",
+    "¿Qué tipo de contribuciones deben pagar las empresas de mensajería?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:345278b12f605b08",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación de contribuciones aduaneras",
+  "denominacion_comun": "Determinación de Contribuciones Aduaneras",
   "temas": [
-    "contribuciones",
     "importaciones",
     "exportaciones",
     "cuotas compensatorias",
-    "vía postal",
-    "autoridad aduanera"
+    "autoridad aduanera",
+    "agencia aduanal",
+    "agente aduanal"
   ],
   "terminos_coloquiales": [
-    "cómo se calculan los impuestos de aduana",
-    "cuánto tengo que pagar por importar",
-    "cuotas de aduana por correo",
-    "impuesto de importación"
+    "impuestos de importación",
+    "impuestos de exportación",
+    "cuotas por envíos postales",
+    "hacer el trámite aduanal"
   ],
-  "resumen": "La autoridad aduanera es la encargada de fijar los impuestos relacionados con importaciones y exportaciones a través del correo. Los interesados pueden pedir que ellos mismos realicen esta determinación o que lo haga un agente o agencia aduanal.",
+  "resumen": "La autoridad aduanera puede establecer los impuestos relacionados con importaciones y exportaciones. También se pueden solicitar cuotas compensatorias en caso de envíos postales. El interesado puede hacer esta determinación por sí mismo o a través de un agente aduanal.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan los impuestos para importar algo?",
-    "¿Puedo calcular yo mismo las contribuciones aduaneras?",
-    "¿Qué son las cuotas compensatorias en las importaciones?",
-    "¿Qué debo hacer para importar algo por correo?",
-    "¿Quién fija las contribuciones aduaneras?",
-    "¿Puedo pedir ayuda a un agente aduanal para calcular mis impuestos?"
+    "¿Cómo puedo calcular los impuestos de importación?",
+    "¿Qué son las cuotas compensatorias en envíos postales?",
+    "¿Puedo hacer el trámite aduanal yo mismo?",
+    "¿Quién determina los impuestos de exportación?",
+    "¿Qué es una agencia aduanal?",
+    "¿Cuál es el rol de un agente aduanal?"
   ]
 }

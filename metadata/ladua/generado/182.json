@@ -6,31 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4f65a25c9d12b9fa",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones Aduaneras",
   "temas": [
-    "Destino de mercancías",
-    "Franquicias y exenciones",
-    "Temporalidad de importaciones",
-    "Uso no autorizado de vehículos",
-    "Plazos de entrega",
-    "Dispositivos tecnológicos en aduanas"
+    "destino de mercancías",
+    "franquicias",
+    "vehículos importados",
+    "régimen aduanero",
+    "importación temporal",
+    "transito interno",
+    "depósito fiscal"
   ],
   "terminos_coloquiales": [
     "multas aduaneras",
-    "errores en importación",
-    "problemas con mercancías",
-    "infracciones en aduanas",
-    "vehículos importados",
-    "franquicias en aduanas"
+    "franquicias aduaneras",
+    "importación de autos",
+    "vehículos de frontera",
+    "no presentar mercancías a tiempo",
+    "exportación de mercancías",
+    "régimen de depósito"
   ],
-  "resumen": "El artículo establece varias infracciones que se cometen al no cumplir con la normativa aduanera relacionada con el destino de las mercancías. Esto incluye el uso de mercancías con beneficios fiscales para finalidades distintas, así como el incumplimiento de plazos y requisitos para importaciones y exportaciones.",
+  "resumen": "El artículo establece las infracciones que se cometen al destinar o manejar mercancías de manera distinta a la autorizada por la autoridad aduanera, incluyendo condiciones para vehículos importados y plazos para la presentación y retorno de mercancías. Además, se especifican sanciones por no cumplir con los requisitos del régimen aduanero autorizado.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las infracciones más comunes en aduanas?",
-    "¿Qué pasa si no cumplo con el destino de mis mercancías?",
-    "¿Qué multas puedo enfrentar por no declarar correctamente en aduanas?",
-    "¿Cuáles son las condiciones para importar vehículos temporalmente?",
-    "¿Qué debo hacer si excedo el plazo de llegada de mis mercancías?"
+    "¿Qué infracciones se cometen al importar mercancías?",
+    "¿Cuáles son las condiciones para importar vehículos a la frontera?",
+    "¿Qué pasa si no presento mis mercancías a tiempo en la aduana?",
+    "¿Qué multas existen por no cumplir con el régimen aduanero?",
+    "¿Cuáles son las consecuencias de usar vehículos importados sin autorización?"
   ]
 }

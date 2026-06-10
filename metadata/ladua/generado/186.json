@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:22c1c2e2c00264eb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones en comercio exterior",
+  "denominacion_comun": "Infracciones en Comercio Exterior",
   "temas": [
     "control de mercancías",
     "seguridad aduanera",
-    "infracciones",
-    "autorizaciones",
     "almacenamiento",
-    "transporte internacional"
+    "transporte de mercancías",
+    "exportación",
+    "importación",
+    "recintos fiscalizados",
+    "agentes aduanales"
   ],
   "terminos_coloquiales": [
-    "multas aduaneras",
-    "problemas con mercancías",
-    "falta de seguridad",
-    "incumplimiento aduanero"
+    "infracciones aduaneras",
+    "mercancías de comercio exterior",
+    "almacenaje de mercancías",
+    "transporte internacional",
+    "recinto fiscalizado",
+    "agente aduanal"
   ],
-  "resumen": "El artículo describe diferentes infracciones relacionadas con el manejo y control de mercancías en el comercio exterior, incluyendo la falta de seguridad y las obligaciones de empresas y personas autorizadas. Se mencionan las consecuencias que pueden enfrentar aquellos que no cumplan con la normativa establecida.",
+  "resumen": "El artículo establece las infracciones relacionadas con el control, seguridad y manejo de las mercancías de comercio exterior. Incluye diversas obligaciones que deben cumplir las personas y entidades involucradas, así como las sanciones por no cumplirlas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no llevo los sellos necesarios en mi transporte?",
-    "¿Cuáles son las infracciones más comunes en la aduana?",
-    "¿Qué multas hay por no declarar mercancías en envíos?",
-    "¿Qué obligaciones tienen los transportistas de mercancías?",
-    "¿Cómo me afecta no contar con la autorización adecuada para manejar mercancías?"
+    "¿Qué infracciones se consideran en el manejo de mercancías de comercio exterior?",
+    "¿Cuáles son las obligaciones de los agentes aduanales según la Ley Aduanera?",
+    "¿Qué pasa si no se cumplen las medidas de seguridad en el transporte de mercancías?",
+    "¿Qué sanciones hay para los recintos fiscalizados que no cumplen con las normas?",
+    "¿Cuándo se consideran violaciones en el almacenamiento de mercancías?"
   ]
 }

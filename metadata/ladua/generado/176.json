@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3468b21876d4985c",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones aduaneras",
+  "denominacion_comun": "Infracciones en comercio exterior",
   "temas": [
+    "infracciones aduaneras",
     "importación",
     "exportación",
-    "impuestos",
-    "permisos",
-    "regulaciones",
-    "actos idóneos",
-    "aduanas no autorizadas",
-    "documentación aduanal"
+    "permisos aduaneros",
+    "documentación aduanal",
+    "tránsito de mercancías",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "multas de aduana",
-    "faltas en importación",
     "infracciones aduaneras",
-    "problemas con aduanas",
-    "irregularidades en importación"
+    "aduanas",
+    "comercio exterior",
+    "permisos de importación",
+    "pedimento",
+    "mercancías en tránsito"
   ],
-  "resumen": "El artículo establece las infracciones que se cometen al introducir o extraer mercancías del país sin cumplir con las obligaciones fiscales y aduaneras. Esto incluye no pagar impuestos, no tener permisos requeridos, y no contar con la documentación adecuada.",
+  "resumen": "El artículo establece diversas infracciones relacionadas con la importación y exportación de mercancías, incluyendo la omisión de pagos de impuestos, la falta de permisos, el uso de aduanas no autorizadas y la falta de documentación adecuada. También se consideran infracciones el desvío de mercancías y la falta de cumplimiento con regulaciones aduaneras.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago los impuestos al importar?",
-    "¿Cuáles son las infracciones al intentar exportar mercancías?",
-    "¿Qué documentos necesito para evitar multas aduaneras?",
-    "¿Qué infracciones se cometen si uso una aduana no autorizada?",
-    "¿Qué regulaciones debo seguir para importar legalmente?"
+    "¿Qué infracciones se cometen al importar mercancías?",
+    "¿Cuáles son los requisitos para exportar mercancías legalmente?",
+    "¿Qué pasa si no tengo el permiso de aduanas para importar?",
+    "¿Qué infracciones se consideran en el tránsito de mercancías?",
+    "¿Qué documentación necesito para comprobar la legalidad de mis importaciones?",
+    "¿Cuáles son las consecuencias de usar una aduana no autorizada?"
   ]
 }

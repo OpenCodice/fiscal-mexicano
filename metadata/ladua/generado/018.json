@@ -6,28 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:8d0538675aa81fff",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Horas hábiles en aduanas",
+  "denominacion_comun": "Facultades de comprobación aduanera",
   "temas": [
-    "hacendarios",
     "facultades de comprobación",
     "autoridades aduaneras",
-    "horas y días hábiles"
+    "días hábiles",
+    "horas hábiles",
+    "reglas de la Secretaría"
   ],
   "terminos_coloquiales": [
-    "tiempos de revisión aduanera",
-    "horarios de aduana",
-    "días hábiles de aduanas",
-    "revisiones fiscales",
-    "horarios de verificación"
+    "verificaciones aduaneras",
+    "horarios de trabajo aduanero"
   ],
-  "resumen": "Las autoridades aduaneras pueden ejercer sus facultades de comprobación las 24 horas del día, todos los días del año. La Secretaría puede establecer reglas sobre qué días y horas son hábiles.",
+  "resumen": "La ley establece que las autoridades aduaneras pueden ejercer sus facultades de revisión en cualquier momento del día y durante todo el año. Además, la Secretaría puede determinar qué días y horas se consideran hábiles para estos efectos.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede trabajar la aduana?",
-    "¿Qué días son hábiles para las revisiones de aduana?",
-    "¿A qué horas puede la aduana verificar mercancías?",
-    "¿La aduana trabaja los fines de semana?",
-    "¿Qué significa que sean hábiles las 24 horas?"
+    "¿Cuándo están habilitadas las autoridades aduaneras para hacer revisiones?",
+    "¿Las horas del día son relevantes para las facultades de comprobación aduanera?",
+    "¿Qué días de la semana son hábiles para la Aduana?",
+    "¿La Secretaría puede modificar los horarios de las revisiones aduaneras?",
+    "¿Cómo se determina si un día es hábil para la revisión aduanera?"
   ]
 }

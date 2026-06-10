@@ -6,24 +6,20 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3a3b2d85f7821223",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de disposiciones",
-  "temas": [
-    "derogación",
-    "disposiciones",
-    "ley",
-    "aduanera"
-  ],
+  "denominacion_comun": "Derogación",
+  "temas": [],
   "terminos_coloquiales": [
-    "qué significa derogar",
-    "disposición derogada",
-    "artículo que ya no existe"
+    "ya no aplica"
   ],
-  "resumen": "Este artículo establece que ciertas disposiciones han sido derogadas, es decir, ya no están vigentes.",
+  "resumen": "El artículo establece que se deroga la disposición mencionada. Esto significa que ya no está vigente y no se aplica más.",
   "preguntas_ejemplo": [
-    "¿Qué artículos de la ley aduanera han sido derogados?",
-    "¿Qué significa que una disposición haya sido derogada?",
-    "¿Cómo afecta la derogación a la legislación vigente?"
+    "¿Qué significa que se derogue un artículo de la ley?",
+    "¿Qué disposiciones ya no están vigentes?",
+    "¿Cómo afecta la derogación a los contribuyentes?",
+    "¿Qué pasa con las obligaciones anteriores de esta ley?",
+    "¿Dónde puedo encontrar las leyes que aún están vigentes?"
   ]
 }

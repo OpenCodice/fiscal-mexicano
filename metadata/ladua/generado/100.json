@@ -6,33 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9c2715fe07b53d70",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Registro de despacho de mercancías",
   "temas": [
-    "importación",
-    "inscripción",
-    "requisitos",
-    "renovación",
-    "empresa",
-    "SATA",
+    "importación de mercancías",
+    "revisión en origen",
+    "inscripción en el registro",
+    "renovación anual",
     "maquiladoras",
-    "suspensión"
+    "suspensión de inscripción",
+    "obligaciones fiscales",
+    "servicios de mensajería"
   ],
   "terminos_coloquiales": [
-    "registro de importación",
-    "cómo inscribirse para importar",
-    "renovación de registro aduanal",
-    "requisitos para empresas importadoras",
-    "suspensión de registro",
-    "maquiladoras y registro"
+    "registro aduanero",
+    "inscripción de importadores",
+    "renovar registro",
+    "revisión de mercancías",
+    "empresas exportadoras",
+    "maquiladoras"
   ],
-  "resumen": "Las empresas que quieren importar mercancías deben inscribirse en un registro de despacho de mercancías y cumplir ciertos requisitos. También deben renovar esta inscripción cada año y pueden ser suspendidas si no cumplen con las normas fiscales.",
+  "resumen": "Este artículo detalla los requisitos para que las empresas se inscriban en el registro del despacho de mercancías para la importación. También establece la necesidad de renovar este registro anualmente y las condiciones bajo las cuales se puede suspender la inscripción.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para registrarme como importador?",
-    "¿Cómo renuevo mi inscripción en el registro de despacho?",
-    "¿Cuáles son los requisitos para empresas importadoras?",
-    "¿Qué pasa si me suspenden del registro?",
-    "¿Las maquiladoras necesitan cumplir los mismos requisitos para inscribirse?"
+    "¿Qué necesito para inscribirme en el registro de despacho de mercancías?",
+    "¿Cómo renuevo la inscripción en el registro aduanero?",
+    "¿Qué requisitos debo cumplir como empresa para importar mercancías?",
+    "¿Las maquiladoras tienen que cumplir los mismos requisitos que las otras empresas?",
+    "¿Qué pasa si mi inscripción en el registro es suspendida?"
   ]
 }

@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:caabd7d9e1d112c3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de recinto fiscalizado estratégico",
+  "denominacion_comun": "Régimen de Recinto Fiscalizado Estratégico",
   "temas": [
-    "mercancías",
-    "impuestos",
-    "comercio exterior",
-    "regulaciones",
+    "mercancías extranjeras",
+    "almacenaje",
+    "transformación",
+    "venta",
     "desperdicios",
     "pedimento",
-    "agente aduanal"
+    "agente aduanal",
+    "exportación definitiva"
   ],
   "terminos_coloquiales": [
-    "recinto fiscalizado",
-    "régimen aduanal",
-    "exenciones de impuestos",
-    "introducción de mercancías",
-    "reglas de aduana"
+    "manejo de mercancías",
+    "régimen de recinto fiscalizado",
+    "no pago de impuestos",
+    "mermas",
+    "desperdicios",
+    "pedimento aduanal"
   ],
-  "resumen": "Este régimen permite la entrada temporal de mercancías a ciertos recintos sin pagar impuestos, excepto en casos específicos. Las mercancías deben cumplir con regulaciones y se requiere documentación para demostrar su uso.",
+  "resumen": "Este régimen permite la entrada temporal de mercancías a recintos fiscalizados para su manejo y transformación sin pagar impuestos, salvo excepciones. Además, establece que los desperdicios no generarán contribuciones si se demuestran su destrucción adecuada.",
   "preguntas_ejemplo": [
     "¿Qué es el régimen de recinto fiscalizado estratégico?",
-    "¿Cuáles son los beneficios de introducir mercancías bajo este régimen?",
-    "¿Qué requisitos debo cumplir para utilizar el recinto fiscalizado estratégico?",
-    "¿Se pagan impuestos al introducir mercancías en este régimen?",
-    "¿Cómo demuestro que las mercancías se utilizaron correctamente?"
+    "¿Se pagan impuestos al introducir mercancías bajo este régimen?",
+    "¿Qué requisitos se necesitan para tramitar el pedimento?",
+    "¿Qué pasa si no se comprueba el destino de las mercancías transformadas?",
+    "¿Qué mercancías no pueden entrar en este régimen?",
+    "¿Cómo se manejan las mermas en este régimen?"
   ]
 }

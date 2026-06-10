@@ -6,29 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d75df85df38f2b1f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Multas Aduaneras",
+  "denominacion_comun": "Multas en la Ley Aduanera",
   "temas": [
     "multas",
-    "moneda nacional",
-    "actualización",
-    "contribuciones omitidas",
+    "contribuciones",
+    "actualización de montos",
     "autoridad aduanera"
   ],
   "terminos_coloquiales": [
-    "cuánto me pueden multar",
-    "multas en aduanas",
-    "cálculo de multas aduaneras",
-    "contribuciones no pagadas",
-    "cómo se actualizan las multas"
+    "multas aduaneras",
+    "monto de multas",
+    "contribuciones",
+    "dinero que se debe pagar"
   ],
-  "resumen": "Este artículo habla sobre cómo se actualizarán las multas en moneda nacional según lo que indica el Código Fiscal. También menciona que las multas por contribuciones no pagadas se calcularán sin incluir la actualización.",
+  "resumen": "Este artículo habla sobre cómo se actualizarán las multas y cantidades relacionadas con las contribuciones en el ámbito aduanero. Además, menciona que al calcular las multas se deben considerar las contribuciones sin actualizar.",
   "preguntas_ejemplo": [
-    "¿Cómo se determinan las multas aduaneras?",
-    "¿Qué dice la ley sobre las multas en moneda nacional?",
-    "¿Se actualizan todas las multas automáticamente?",
-    "¿Qué pasa si no pago mis contribuciones?",
-    "¿Cómo afecta la actualización al monto de las multas?"
+    "¿Cómo se actualizan las multas en la Ley Aduanera?",
+    "¿Qué criterios usa la autoridad aduanera para calcular las multas?",
+    "¿Se incluyen las actualizaciones en el cálculo de las contribuciones omitidas?",
+    "¿Qué pasa si no se actualizan las multas?",
+    "¿Cómo se determinan las multas en relación con las contribuciones?"
   ]
 }

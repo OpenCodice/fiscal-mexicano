@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d2a1b7a0cad71f26",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor en Aduana",
+  "denominacion_comun": "Valor en aduana",
   "temas": [
     "facultades de comprobación",
-    "valor en aduana",
-    "mercancías importadas",
-    "información confidencial",
     "embargo precautorio",
-    "representantes",
-    "importaciones"
+    "valor en aduana",
+    "información confidencial",
+    "mercancías importadas"
   ],
   "terminos_coloquiales": [
-    "cómo determinar el valor de importaciones",
-    "valor en aduana de mercancías",
-    "qué información puede usar la aduana",
+    "valor en aduana",
     "embargo de mercancías",
-    "representantes para información aduanera"
+    "información de importaciones",
+    "representantes para información",
+    "aduana"
   ],
-  "resumen": "Este artículo establece cómo las autoridades aduaneras pueden utilizar información de verificación para determinar el valor en aduana de mercancías importadas. También menciona que la información confidencial sobre las importaciones solo puede revelarse en ciertas circunstancias y que los interesados pueden designar representantes para acceder a esta información.",
+  "resumen": "El artículo detalla cómo las autoridades aduaneras pueden utilizar información de expedientes y documentos para determinar el valor en aduana de mercancías. También establece que la información confidencial de importaciones solo puede ser revelada en ciertas circunstancias y permite a los interesados designar representantes para acceder a dicha información.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el valor en aduana de mis mercancías?",
-    "¿Qué información puede usar la aduana para cobrar impuestos?",
-    "¿Cómo puedo acceder a información confidencial de importaciones similares?",
-    "¿Qué pasa si mis mercancías son embargadas por aduanas?",
-    "¿Puedo designar a alguien para que revise la información de aduana?"
+    "¿Cómo se determina el valor en aduana de las mercancías importadas?",
+    "¿Qué información puede usar aduana para embargar mercancías?",
+    "¿Quién puede acceder a la información confidencial de importaciones?",
+    "¿Qué hacen las autoridades si encuentran irregularidades en el valor en aduana?",
+    "¿Puedo designar representantes para que accedan a mi información en aduana?"
   ]
 }

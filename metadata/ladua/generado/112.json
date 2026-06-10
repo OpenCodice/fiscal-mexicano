@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7d08ed267b4280a2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transferencias de mercancías en maquiladoras",
+  "denominacion_comun": "Transferencia de mercancías en maquiladoras",
   "temas": [
     "maquiladoras",
     "exportación",
     "importación temporal",
     "impuesto general de importación",
     "responsabilidad solidaria",
-    "procesos de transformación",
-    "documentación requerida"
+    "procesos de transformación"
   ],
   "terminos_coloquiales": [
-    "transferencia de mercancías",
-    "maquiladoras y exportaciones",
-    "importación temporal en maquilas",
-    "impuestos en maquiladoras"
+    "transfers de mercancías",
+    "envíos entre maquiladoras",
+    "pedimento de exportación",
+    "pedimento de importación temporal",
+    "impuesto de importación"
   ],
-  "resumen": "Las maquiladoras pueden transferir mercancías importadas temporalmente a otras maquiladoras, cumpliendo con ciertos requisitos. El pago del impuesto por estas transferencias puede ser diferido si se presenta un escrito de responsabilidad solidaria por parte de la empresa receptora.",
+  "resumen": "Las maquiladoras pueden transferir mercancías importadas temporalmente a otras maquiladoras u empresas autorizadas, bajo ciertos requisitos. Si la empresa receptora asume la responsabilidad del impuesto de importación, este pago se puede diferir. Además, se debe conservar documentación que respalde el proceso productivo de las mercancías.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo transferir mercancías entre maquiladoras?",
-    "¿Qué requisitos debo cumplir para la importación temporal?",
-    "¿Quién paga el impuesto de importación en la transferencia de mercancías?",
-    "¿Cuáles son los documentos necesarios para transferir mercancías?",
-    "¿Qué es la responsabilidad solidaria en estos casos?"
+    "¿Cómo pueden las maquiladoras transferir mercancías importadas?",
+    "¿Qué requisitos se necesitan para la transferencia de mercancías entre maquiladoras?",
+    "¿Qué pasa si la empresa que recibe las mercancías asume la responsabilidad del impuesto?",
+    "¿Qué documentos se deben conservar durante la transferencia de mercancías?",
+    "¿Cuál es el impuesto que se paga al transferir mercancías entre maquiladoras?"
   ]
 }

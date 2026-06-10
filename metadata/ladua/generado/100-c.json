@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a3c014e406c47853",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de autorización",
   "temas": [
-    "Procedimiento de cancelación",
-    "Requisitos de autorización",
-    "Incumplimiento de obligaciones",
-    "Delitos fiscales",
-    "Sanciones fiscales"
+    "cancelación de autorización",
+    "requisitos de autorización",
+    "obligaciones fiscales",
+    "sanciones fiscales",
+    "mercancías",
+    "condiciones de autorización"
   ],
   "terminos_coloquiales": [
-    "cómo cancelar la autorización",
-    "cancelación de permisos",
-    "qué pasa si incumplo",
-    "sanciones por delitos fiscales",
-    "¿me pueden cancelar mi autorización?"
+    "cancelar autorizaciones",
+    "requisitos para autorizaciones",
+    "obligaciones fiscales",
+    "sanciones por impuestos",
+    "mercancías en aduanas"
   ],
-  "resumen": "Este artículo establece las causas por las cuales el Servicio de Administración Tributaria puede cancelar una autorización relacionada con el artículo 100-A. Incluye incumplimiento de requisitos y obligaciones, así como situaciones derivadas de delitos fiscales.",
+  "resumen": "El artículo establece las razones por las que el SAT puede cancelar una autorización, incluyendo el incumplimiento de requisitos y obligaciones. Además, menciona que si la cancelación es por delitos fiscales, no se podrá obtener una nueva autorización.",
   "preguntas_ejemplo": [
-    "¿Qué motivos pueden llevar a la cancelación de mi autorización?",
-    "¿Cómo solicito la cancelación de una autorización?",
-    "¿Qué pasa si tengo problemas legales relacionados con impuestos?",
-    "¿Pueden cancelarme la autorización sin avisarme?",
-    "¿Cuál es el procedimiento para cancelar una autorización?"
+    "¿Cuándo puede el SAT cancelar mi autorización?",
+    "¿Qué pasa si ya no cumplo con los requisitos de autorización?",
+    "¿Puedo volver a solicitar una autorización después de que me la cancelaron?",
+    "¿Qué sanciones pueden llevar a la cancelación de una autorización?",
+    "¿Cómo puedo cancelar mi autorización de manera voluntaria?"
   ]
 }

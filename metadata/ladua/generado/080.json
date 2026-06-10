@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e8044522764f5bf4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Impuestos al comercio exterior",
+  "denominacion_comun": "Impuestos al Comercio Exterior",
   "temas": [
     "impuestos",
     "comercio exterior",
     "base gravable",
-    "cuota",
-    "clasificación arancelaria"
+    "clasificación arancelaria",
+    "mercancías"
   ],
   "terminos_coloquiales": [
-    "impuestos al importar",
-    "tarifas de aduanas",
-    "cargos al comercio exterior",
-    "gravedad de impuestos"
+    "impuestos de importación",
+    "aranceles",
+    "cargos por comercio exterior"
   ],
-  "resumen": "Los impuestos que se aplican al comercio exterior se calculan sobre una base gravable, utilizando una cuota según la clasificación de las mercancías.",
+  "resumen": "Los impuestos al comercio exterior se calculan sobre la base gravable que se determina en las secciones del capítulo correspondiente, aplicando la cuota según la clasificación de las mercancías.",
   "preguntas_ejemplo": [
-    "¿Cómo se calculan los impuestos al importar?",
-    "¿Qué es la base gravable para impuestos de aduana?",
-    "¿Qué cuota debo pagar por mis mercancías?",
-    "¿Cómo afecta la clasificación arancelaria a mis impuestos?",
-    "¿Qué se considera comercio exterior?"
+    "¿Cómo se calculan los impuestos de importación?",
+    "¿Qué es la clasificación arancelaria?",
+    "¿Qué base gravable se utiliza para los aranceles?",
+    "¿Cuáles son los impuestos al comercio exterior?",
+    "¿Qué mercancías están sujetas a impuestos al comercio exterior?"
   ]
 }

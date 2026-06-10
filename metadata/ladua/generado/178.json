@@ -6,30 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a83c07a0f42baf29",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por infracciones en comercio exterior",
+  "denominacion_comun": "Sanciones por infracciones aduaneras",
   "temas": [
     "multas",
-    "infracciones",
+    "infracciones aduaneras",
     "comercio exterior",
-    "regulaciones aduaneras",
-    "vehículos",
+    "regulaciones no arancelarias",
     "importaciones",
-    "exportaciones"
+    "exportaciones",
+    "cumplimiento de obligaciones"
   ],
   "terminos_coloquiales": [
-    "multas aduaneras",
-    "sanciones de aduana",
-    "infracciones de comercio exterior",
-    "reglas de importación"
+    "multas por aduanas",
+    "sanciones aduaneras",
+    "malas prácticas en comercio exterior",
+    "cumplimiento de regulaciones",
+    "vehículos",
+    "mercancías"
   ],
-  "resumen": "El artículo 178 establece las sanciones que se aplican a las infracciones relacionadas con el comercio exterior, incluyendo multas que varían según la gravedad de la infracción y el tipo de mercancía involucrada. Las sanciones pueden ser proporcionales al valor de las mercancías o montos fijos dependiendo de la infracción cometida.",
+  "resumen": "El artículo establece diversas sanciones en forma de multas para quienes cometan infracciones relacionadas con el comercio exterior. Estas sanciones varían según el tipo de incumplimiento, incluyendo multas específicas para vehículos y mercancías en casos de no cumplimiento de regulaciones.",
   "preguntas_ejemplo": [
-    "¿Qué multas hay por infracciones en comercio exterior?",
-    "¿Cuáles son las sanciones para vehículos en aduanas?",
-    "¿Qué pasa si no cumplo con las regulaciones de importación?",
-    "¿Cuánto es la multa por importar mercancías prohibidas?",
-    "¿Qué sanciones hay si no presento la documentación correcta en aduanas?"
+    "¿Qué sanciones hay por no pagar impuestos al comercio exterior?",
+    "¿Cuánto me pueden multar si no cumplo con regulaciones aduaneras?",
+    "¿Qué multas existen para la importación de mercancías prohibidas?",
+    "¿Qué sucede si no puedo comprobar el cumplimiento de normas en el proceso aduanero?",
+    "¿Hay multas específicas para empresas de mensajería que no cumplen con sus obligaciones?"
   ]
 }

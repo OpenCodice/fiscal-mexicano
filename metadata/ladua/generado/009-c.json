@@ -6,28 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:85f7910ed96492be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de personas para notificaciones aduaneras",
+  "denominacion_comun": "Autorización de personas para notificaciones",
   "temas": [
-    "notificaciones",
-    "autorización",
     "sistema electrónico aduanero",
-    "responsabilidades del interesado",
+    "avisos de disponibilidad",
+    "notificaciones",
+    "responsabilidad de los interesados",
     "revocación de autorizaciones"
   ],
   "terminos_coloquiales": [
-    "quién puede recibir notificaciones",
-    "autorización de notificaciones",
-    "recibir avisos aduaneros",
-    "gestión de notificaciones aduaneras"
+    "autorización de personas",
+    "notificaciones aduaneras",
+    "aviso de disponibilidad"
   ],
-  "resumen": "Este artículo permite a los interesados designar hasta cinco personas para recibir notificaciones relacionadas con trámites aduaneros. Los interesados son responsables de comunicar cualquier cambio en las autorizaciones a través del sistema electrónico aduanero.",
+  "resumen": "Los interesados pueden autorizar a un máximo de cinco personas para recibir avisos y notificaciones relacionadas con trámites aduaneros. Las autorizaciones y revocaciones tienen efectos inmediatos y las notificaciones se consideran realizadas al interesado que las autoriza.",
   "preguntas_ejemplo": [
-    "¿Cuántas personas puedo autorizar para recibir mis notificaciones?",
-    "¿Qué necesito para autorizar a alguien para que reciba mis avisos aduaneros?",
-    "¿Cómo revoco la autorización de una persona para recibir notificaciones?",
-    "¿Las notificaciones a las personas autorizadas cuentan como si me las hubieran notificado a mí?",
-    "¿Qué información debo proporcionar para autorizar a alguien?"
+    "¿Cómo puedo autorizar a alguien para recibir notificaciones en trámites aduaneros?",
+    "¿Qué debo hacer para revocar una autorización de notificación?",
+    "¿Cuántas personas puedo autorizar para recibir avisos en mi nombre?",
+    "¿Qué información se necesita para autorizar a alguien?",
+    "¿Cuándo surten efecto las autorizaciones en el sistema electrónico aduanero?"
   ]
 }

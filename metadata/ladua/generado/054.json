@@ -6,28 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0919b3380e68c984",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad del agente aduanal",
+  "denominacion_comun": "Responsabilidades del Agente Aduanal",
   "temas": [
+    "responsabilidad",
+    "agente aduanal",
+    "agencia aduanal",
     "veracidad de datos",
-    "pago de contribuciones",
+    "contribuciones",
     "régimen aduanero",
     "clasificación arancelaria",
-    "documentación de comercio exterior"
+    "comercio exterior"
   ],
   "terminos_coloquiales": [
-    "responsabilidades del agente aduanal",
-    "qué hace un agente aduanal",
-    "obligaciones de la agencia aduanal",
-    "pago de impuestos aduaneros"
+    "agente aduanal",
+    "agencia aduanal",
+    "responsabilidades aduaneras",
+    "pago de impuestos",
+    "documentos de importación",
+    "importar",
+    "exportar"
   ],
-  "resumen": "El agente aduanal y la agencia aduanal son responsables de asegurar que la información y datos proporcionados sean correctos, así como de verificar el cumplimiento de las obligaciones del importador o exportador en comercio exterior. Deben asegurarse también de que se clasifiquen adecuadamente las mercancías y se paguen los impuestos correspondientes.",
+  "resumen": "El agente aduanal y la agencia aduanal son responsables por la veracidad de la información que proporcionan y deben asegurarse de que las mercancías se clasifiquen correctamente y que se paguen las contribuciones adecuadas. También deben verificar que los importadores o exportadores tengan la documentación necesaria para cumplir con las regulaciones de comercio exterior.",
   "preguntas_ejemplo": [
     "¿Qué responsabilidades tiene un agente aduanal?",
-    "¿Cómo se determina el régimen aduanero de mis mercancías?",
-    "¿Qué documentos necesita un importador para cumplir con la ley?",
-    "¿Qué pasa si la información presentada en aduanas es incorrecta?",
-    "¿Cómo se clasifica arancelariamente una mercancía?"
+    "¿Qué información debe proporcionar una agencia aduanal?",
+    "¿Cómo se determina el régimen aduanero de las mercancías?",
+    "¿Qué implica la veracidad de los datos en el comercio exterior?",
+    "¿Qué documentación necesito para importar o exportar?",
+    "¿Qué es la clasificación arancelaria?"
   ]
 }

@@ -6,26 +6,26 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c4762fc996205e75",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tránsito interno para importación",
+  "denominacion_comun": "Tránsito interno de importación",
   "temas": [
-    "tránsito interno",
     "importación",
     "bienes de consumo",
+    "tránsito interno",
     "reglamento aduanero"
   ],
   "terminos_coloquiales": [
-    "movimiento de mercancías",
-    "importaciones internas",
-    "paso de productos",
-    "reglamento de importación"
+    "importar",
+    "bienes de consumo final",
+    "tránsito interno"
   ],
-  "resumen": "Este artículo establece que el tránsito interno de bienes de consumo final en el país se realizará solo según lo que indique el reglamento. Es una regulación sobre cómo se deben manejar estas importaciones.",
+  "resumen": "El artículo establece que el tránsito interno para la importación de bienes de consumo final está sujeto a las condiciones que indique el reglamento correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se maneja el tránsito de bienes importados?",
-    "¿Qué condiciones se requieren para importar productos?",
-    "¿Qué dice el reglamento sobre el tránsito interno de mercancías?",
-    "¿Cuáles son las reglas para el movimiento de bienes de consumo?"
+    "¿Qué es el tránsito interno para la importación?",
+    "¿Cuáles son las condiciones para importar bienes de consumo?",
+    "¿Qué dice el reglamento sobre la importación de bienes?",
+    "¿Cómo se regula el tránsito interno de mercancías?"
   ]
 }

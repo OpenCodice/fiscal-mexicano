@@ -6,11 +6,12 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:64ffeda457491ecb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación temporal",
+  "denominacion_comun": "Régimen de Importación Temporal",
   "temas": [
-    "normas de importación",
+    "importación temporal",
     "transferencia de mercancías",
     "maquiladoras",
     "programas de exportación",
@@ -18,17 +19,17 @@
   ],
   "terminos_coloquiales": [
     "importación temporal",
-    "reglas de importación",
-    "cambio de mercancías",
+    "transferir mercancías",
     "maquiladoras",
-    "negocios de comercio exterior"
+    "exportar",
+    "comercio exterior"
   ],
-  "resumen": "Las mercancías que se importan temporalmente no pueden ser vendidas o transferidas, a menos que sea entre maquiladoras o ciertas empresas con autorización. Deben seguir las reglas que establezca el reglamento correspondiente.",
+  "resumen": "Las mercancías bajo el régimen de importación temporal no pueden ser vendidas o transferidas, a menos que sea entre maquiladoras o empresas calificadas. Estas deben cumplir con ciertos requisitos establecidos en el reglamento.",
   "preguntas_ejemplo": [
-    "¿Puedo vender mercancías que importé temporalmente?",
-    "¿Qué empresas pueden intercambiar mercancías importadas temporalmente?",
-    "¿Qué requisitos hay para transferir mercancías entre maquiladoras?",
-    "¿Qué dice la ley sobre el uso de mercancías en importación temporal?",
-    "¿Cómo funcionan los programas de exportación en relación con la importación temporal?"
+    "¿Puedo vender mercancía importada temporalmente?",
+    "¿Cuáles son las condiciones para transferir mercancías bajo este régimen?",
+    "¿Qué empresas pueden transferir mercancías de importación temporal?",
+    "¿Cómo funciona el régimen de importación temporal?",
+    "¿Qué restricciones hay en la importación temporal de mercancías?"
   ]
 }

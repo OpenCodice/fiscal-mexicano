@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:96f19085fa146e2b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revisión en origen para importación de mercancías",
+  "denominacion_comun": "Revisión en origen",
   "temas": [
-    "importación",
-    "procedimiento aduanal",
+    "importación de mercancías",
     "responsabilidad del importador",
-    "pagos de contribuciones",
+    "agente aduanal",
+    "contribuciones",
     "cuotas compensatorias",
-    "recargos",
-    "agentes aduanales",
-    "documentación aduanera"
+    "reconocimiento aduanero",
+    "registro de agentes aduanales"
   ],
   "terminos_coloquiales": [
-    "importar mercancías",
-    "responsabilidad al importar",
-    "deberes del importador",
-    "agente aduanal",
-    "cuotas aduaneras",
-    "revisión en origen"
+    "declarar mercancías",
+    "pagar impuestos de importación",
+    "pedimento aduanal",
+    "liberación de responsabilidad",
+    "recargos",
+    "registro de agentes",
+    "importar mercancías"
   ],
-  "resumen": "El artículo establece cómo las empresas pueden importar mercancías asumiendo la responsabilidad de los datos proporcionados por sus proveedores. También describe las obligaciones y responsabilidades del importador y el agente aduanal en este procedimiento.",
+  "resumen": "El artículo establece el procedimiento de revisión en origen para la importación de mercancías, donde el importador asumirá la responsabilidad de los datos proporcionados por su proveedor. Además, define las obligaciones del agente aduanal y el pago de contribuciones y cuotas compensatorias que correspondan.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer para importar mercancías bajo revisión en origen?",
-    "¿Quién es responsable de los datos al importar?",
-    "¿Qué sucede si omito pagos de contribuciones al importar?",
-    "¿Qué recargos aplican si no pago a tiempo las cuotas?",
-    "¿Debo registrar a mis agentes aduanales para la importación?"
+    "¿Cómo funciona el procedimiento de revisión en origen?",
+    "¿Qué responsabilidades tiene un importador al importar mercancías?",
+    "¿Qué pasa si hay omisiones en el pago de impuestos por importación?",
+    "¿Cómo se calculan los recargos por cuotas compensatorias?",
+    "¿Qué debo hacer para registrar a un agente aduanal?",
+    "¿Cuáles son mis obligaciones si importo mercancías bajo este procedimiento?"
   ]
 }

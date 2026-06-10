@@ -6,27 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9bf56430f00d7102",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Facilidades para el despacho aduanero",
+  "denominacion_comun": "Facilidades en el despacho aduanero",
   "temas": [
     "despacho aduanero",
     "mercancías",
-    "facilidades fiscales",
-    "servicio de administración tributaria"
+    "regulaciones",
+    "desperdicios",
+    "reducción de multas",
+    "facilitación aduanera"
   ],
   "terminos_coloquiales": [
-    "despacho de aduanas",
-    "facilidades en aduanas",
-    "cómo hacer despacho aduanero",
-    "requisitos para exportar"
+    "despacho aduanero",
+    "facilidades aduaneras",
+    "despacho a domicilio",
+    "Servicio de Administración Tributaria (SAT)"
   ],
-  "resumen": "Las empresas registradas tienen acceso a varias facilidades para el despacho aduanero de mercancías, incluyendo opciones para despacho a domicilio y consideración de desperdicios en el proceso. También pueden beneficiarse de reducciones en multas y otras medidas de simplificación.",
+  "resumen": "Las empresas registradas pueden optar por despachar mercancías en cualquier aduana, salvo ciertas excepciones. También tienen derechos relacionados con el despacho a domicilio de exportaciones y la consideración de materiales obsoletos como desperdicios, así como medidas para reducir multas y facilitar el despacho aduanero.",
   "preguntas_ejemplo": [
-    "¿Qué facilidades tengo para el despacho de aduanas?",
-    "¿Cómo puedo hacer un despacho aduanero a domicilio?",
-    "¿Qué se considera desperdicio en el proceso aduanero?",
-    "¿Puedo optar por despachar mis mercancías en cualquier aduana?",
-    "¿Qué medidas de simplificación existen para el despacho aduanero?"
+    "¿Qué facilidades tienen las empresas para el despacho aduanero?",
+    "¿Pueden las empresas hacer despachos desde cualquier aduana?",
+    "¿Qué pasa con los materiales rechazados en control de calidad?",
+    "¿Cómo se reducen las multas en el despacho aduanero?",
+    "¿Qué son las regulaciones y restricciones no arancelarias?"
   ]
 }

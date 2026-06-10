@@ -6,31 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:069c8aef966e5fb1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para candados aduaneros",
+  "denominacion_comun": "Autorización para fabricación o importación de candados",
   "temas": [
     "autorización",
+    "personas morales",
     "candados oficiales",
-    "importación",
-    "fabricación",
-    "requisitos",
-    "obligaciones fiscales",
-    "plazo de autorización"
+    "transporte de mercancías",
+    "despacho aduanero",
+    "requisitos fiscales",
+    "plazo de autorización",
+    "cumplimiento de obligaciones"
   ],
   "terminos_coloquiales": [
-    "permisos para candados",
-    "candados de aduana",
-    "autorización para importación de candados",
-    "fabricación de candados oficiales"
+    "candados para vehículos",
+    "candados electrónicos",
+    "autorización de candados",
+    "SAT"
   ],
-  "resumen": "El artículo establece que el SAT puede autorizar a personas morales para fabricar o importar candados utilizados en el transporte de mercancías. Para obtener esta autorización, deben cumplir con ciertos requisitos, incluyendo solvencia económica y obligaciones fiscales.",
+  "resumen": "El SAT puede autorizar a personas morales para fabricar o importar candados oficiales o electrónicos que se utilizan en el transporte de mercancías. Para obtener dicha autorización, se deben cumplir con diversos requisitos, incluyendo la solvencia económica y el cumplimiento de obligaciones fiscales.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener una autorización para fabricar candados aduaneros?",
-    "¿Qué requisitos necesito para importar candados oficiales?",
-    "¿Cuánto dura la autorización para fabricar candados?",
-    "¿Qué obligaciones tengo una vez que obtengo la autorización?",
-    "¿Puedo prorrogar la autorización para los candados?",
-    "¿Quién puede solicitar la autorización para los candados?"
+    "¿Cómo puedo obtener la autorización para fabricar candados?",
+    "¿Qué requisitos debo cumplir para importar candados electrónicos?",
+    "¿Cuál es el plazo de la autorización que otorga el SAT?",
+    "¿Qué obligaciones tengo si obtengo la autorización de candados?",
+    "¿Pueden las agencias aduanales obtener autorización para candados?"
   ]
 }

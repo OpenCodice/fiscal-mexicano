@@ -6,33 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:a09b41eac6db85d3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sanciones por infracciones aduaneras",
   "temas": [
-    "sanciones",
     "multas",
     "infracciones",
     "mercancías",
-    "retorno",
     "franquicias",
     "exenciones",
-    "valores comerciales"
+    "importación",
+    "retorno de mercancías"
   ],
   "terminos_coloquiales": [
     "multas aduaneras",
-    "sanciones por mercancías",
-    "infracciones en aduanas",
-    "retorno de mercancías",
-    "multas por exenciones"
+    "infracciones aduaneras",
+    "regulaciones aduaneras"
   ],
-  "resumen": "Este artículo establece las sanciones y multas que se aplican a quienes cometen infracciones relacionadas con el destino de las mercancías. Se especifican diferentes porcentajes y cuantías de multas, dependiendo de la naturaleza de la infracción cometida.",
+  "resumen": "Este artículo establece las sanciones que se aplicarán a las infracciones relacionadas con la manipulación y el destino de mercancías, incluyendo multas que varían según el tipo de infracción y el valor de las mercancías involucradas. También se mencionan condiciones en las que las multas no se aplicarán si se retorna mercancía de forma espontánea.",
   "preguntas_ejemplo": [
-    "¿Qué multas hay por no retornar mercancías en tiempo?",
-    "¿Cuáles son las sanciones si me eximo de regulaciones aduaneras?",
-    "¿Qué sucede si no cumplo con las normativas al importar?",
-    "¿Cuánto me pueden multar si exedo los plazos para el retorno de mercancías?",
-    "¿Qué sanciones se aplican si importo mercancías exentas?",
-    "¿Cómo se calculan las multas por infracciones aduaneras?"
+    "¿Qué multas hay por no retornar mercancías importadas?",
+    "¿Cuáles son las sanciones por exceder plazos en aduanas?",
+    "¿Qué pasa si incumplo con las regulaciones de importación?",
+    "¿Qué multas son aplicables a las mercancías exentas?",
+    "¿Hay alguna sanción si regreso un auto importado espontáneamente?",
+    "¿Cuáles son las consecuencias de no cumplir con las normativas aduaneras?"
   ]
 }

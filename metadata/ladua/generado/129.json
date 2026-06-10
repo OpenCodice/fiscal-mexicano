@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6bd0b707b502ba9a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Responsabilidad fiscal en aduanas",
+  "denominacion_comun": "Responsabilidad en el tránsito de mercancías",
   "temas": [
     "responsabilidad fiscal",
     "traslado de mercancías",
-    "sanciones aduaneras",
     "agente aduanal",
     "empresa transportista",
+    "infracciones aduaneras",
+    "pedimento",
+    "contribuciones",
     "cuotas compensatorias",
-    "irregularidades aduaneras"
+    "control y seguridad aduanera"
   ],
   "terminos_coloquiales": [
-    "quién paga impuestos aduaneros",
-    "responsabilidad de agentes aduanales",
-    "sanciones por errores en pedimento",
-    "quién es responsable del pago de impuestos",
-    "traslado de mercancías y impuestos"
+    "responsable del pago de impuestos",
+    "traslado de productos",
+    "agente aduanal",
+    "empresa transportista",
+    "irregularidades aduaneras",
+    "pedimento aduanal"
   ],
-  "resumen": "Este artículo establece quién es responsable ante el Fisco Federal por el pago de impuestos y sanciones relacionados con el traslado de mercancías. Incluye a quienes realizan el tránsito y a los agentes aduanales en caso de irregularidades en la documentación o el procedimiento. También menciona la responsabilidad de las empresas transportistas en el cumplimiento de estas obligaciones fiscales.",
+  "resumen": "Este artículo establece que los responsables ante el Fisco Federal del pago de contribuciones y cuotas compensatorias omitidas durante el traslado de mercancías son el agente aduanal, la agencia aduanal, la empresa transportista y quienes efectúan el tránsito interno. También menciona que deben mantener controles y proporcionar información a las autoridades aduaneras.",
   "preguntas_ejemplo": [
-    "¿Quién es responsable de los impuestos si hay un error en el pedimento?",
-    "¿Qué pasa si una agencia aduanal proporciona información falsa?",
-    "¿Las empresas transportistas tienen que pagar impuestos fiscales?",
-    "¿Qué responsabilidades tienen los agentes aduanales?",
-    "¿Cómo afecta una irregularidad en el traslado de mercancías a los impuestos?"
+    "¿Quién es responsable de pagar impuestos durante el traslado de mercancías?",
+    "¿Qué pasa si un agente aduanal proporciona información falsa en el pedimento?",
+    "¿Qué deben hacer las empresas transportistas para cumplir con la ley?",
+    "¿Cuáles son las infracciones que se cometen durante el tránsito de mercancías?",
+    "¿Qué sucede si una mercancía no está permitida en el régimen de tránsito interno?"
   ]
 }

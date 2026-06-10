@@ -6,28 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:490aeebd4ef60f79",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Depósito de mercancías ante la aduana",
+  "denominacion_comun": "Depósito ante la aduana",
   "temas": [
-    "Depósito aduanero",
-    "Conservación de mercancías",
-    "Toma de muestras",
-    "Servicios de almacenaje",
-    "Régimen fiscalizado estratégico"
+    "depósito aduanero",
+    "conservación de mercancías",
+    "toma de muestras",
+    "almacenaje",
+    "servicios aduaneros",
+    "interés fiscal",
+    "régimen de recinto fiscalizado estratégico"
   ],
   "terminos_coloquiales": [
-    "Mercancías en aduana",
-    "Cómo se manejan las mercancías en depósito",
-    "Toma de muestras en la aduana",
-    "Servicios aduaneros",
-    "Depósito fiscalizado"
+    "mercancías en aduana",
+    "depósito aduanero",
+    "toma de muestras",
+    "almacenaje",
+    "recinto fiscalizado",
+    "SATA"
   ],
-  "resumen": "Las mercancías en depósito ante la aduana pueden ser examinadas y muestreadas, siempre que no se alteren. También se pueden ofrecer servicios como almacenaje y etiquetado. Además, pueden ser destinadas a un régimen fiscalizado estratégico sin necesidad de sacarlas del depósito.",
+  "resumen": "Las mercancías en depósito ante la aduana pueden ser objeto de conservación y análisis sin cambiar su naturaleza. Se permiten servicios adicionales y el régimen de recinto fiscalizado estratégico para estas mercancías.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con mis mercancías en depósito ante la aduana?",
-    "¿Puedo tomar muestras de las mercancías almacenadas?",
-    "¿Qué servicios se pueden ofrecer para mercancías en aduana?",
-    "¿Cómo funciona el régimen fiscalizado estratégico para mercancías?"
+    "¿Qué se puede hacer con mercancías en depósito ante la aduana?",
+    "¿Se pueden tomar muestras de mercancías en aduana?",
+    "¿Qué servicios se ofrecen para mercancías en aduana?",
+    "¿Qué es el régimen de recinto fiscalizado estratégico?",
+    "¿Cómo se protege el interés fiscal de las mercancías en depósito?"
   ]
 }

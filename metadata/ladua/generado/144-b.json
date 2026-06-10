@@ -6,30 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:51b3bec595039a16",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Cancelación de inscripción de empresas transportistas",
   "temas": [
-    "cancelación de inscripción",
+    "inscripción",
     "empresas transportistas",
-    "obligaciones fiscales",
-    "documentación de comercio exterior",
-    "facultades de comprobación"
+    "comercio exterior",
+    "contabilidad",
+    "documentación",
+    "créditos fiscales",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "cancelar empresa transportista",
-    "por qué me cancelan la inscripción",
-    "requisitos para empresas de transporte",
-    "problemas con aduanas",
-    "inscripción en el registro de transportistas"
+    "cancelar inscripción",
+    "empresas de transporte",
+    "documentos de aduana",
+    "cumplir con pagos",
+    "irregularidades fiscales",
+    "RFC"
   ],
-  "resumen": "La Secretaría puede cancelar la inscripción de empresas transportistas si no llegan las mercancías a la aduana, si no llevan la contabilidad adecuada, si no cumplen con la documentación requerida, o si tienen irregularidades fiscales, entre otros motivos.",
+  "resumen": "La Secretaría puede cancelar la inscripción de empresas transportistas por diversas razones, como no llegar las mercancías, no llevar la contabilidad o no cumplir con la documentación requerida. También puede cancelar si hay irregularidades fiscales o si la empresa no es localizable.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las razones para que me cancelen la inscripción como transportista?",
-    "¿Qué documentación necesito para mantener mi inscripción?",
-    "¿Qué pasa si no cumplo con mis obligaciones fiscales?",
-    "¿Cómo sé si mi empresa está bien registrada ante la autoridad aduanera?",
-    "¿Qué hacer si no me localizan en mi domicilio?",
-    "¿Cuáles son las consecuencias de no llevar contabilidad en el transporte?"
+    "¿Cuándo puede la Secretaría cancelar mi inscripción como empresa transportista?",
+    "¿Qué pasa si no llevo la contabilidad exigida por la aduana?",
+    "¿Cuáles son los requisitos para mantener mi registro como empresa de transporte?",
+    "¿Qué documentos debo presentar para estar en regla con la aduana?",
+    "¿Cómo sé si tengo irregularidades en mi RFC que puedan afectar mi inscripción?",
+    "¿Qué significa estar al corriente en mis obligaciones fiscales?"
   ]
 }

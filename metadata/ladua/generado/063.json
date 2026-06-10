@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2827015d4057123a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Restricciones a la enajenación de mercancías",
+  "denominacion_comun": "Enajenación de mercancías con franquicia",
   "temas": [
-    "franquicias",
-    "exenciones fiscales",
+    "franquicias fiscales",
+    "exenciones",
     "estímulos fiscales",
     "enajenación de mercancías",
     "obligaciones del importador",
-    "cobro de impuestos",
-    "sanciones aduaneras"
+    "impuesto general de importación",
+    "sanciones",
+    "Tratados de Libre Comercio"
   ],
   "terminos_coloquiales": [
-    "mercancías importadas",
+    "franquicia fiscal",
     "exención de impuestos",
-    "qué pasa con las importaciones",
-    "enajenación de productos",
-    "obligaciones fiscales",
-    "sanciones aduaneras"
+    "estímulos fiscales",
+    "vender mercancías importadas",
+    "derechos del importador"
   ],
-  "resumen": "Las mercancías que se importan con franquicias o exenciones no pueden venderse ni usarse para otros fines. Si se venden, el nuevo dueño asume las obligaciones del importador y se deben pagar impuestos correspondientes.",
+  "resumen": "Este artículo establece que las mercancías importadas bajo ciertas franquicias o exenciones no deben ser vendidas o usadas para otros fines. Si se venden, el comprador heredará las obligaciones del importador y se deberá pagar el impuesto correspondiente desde que las mercancías entraron al país.",
   "preguntas_ejemplo": [
-    "¿Puedo vender mercancías que importé con exención de impuestos?",
-    "¿Qué pasa si cambio el uso de las mercancías importadas?",
-    "¿Quién asume las obligaciones si vendo mercancías importadas?",
-    "¿Qué impuestos debo pagar si enajeno mercancías con beneficio fiscal?",
-    "¿Qué sanciones hay por no cumplir con las restricciones de importación?",
-    "¿Cuándo se aplica el cobro de impuestos en la enajenación?"
+    "¿Qué pasa si quiero vender mercancías que importé con franquicia?",
+    "¿El comprador asume las obligaciones del importador al adquirir mercancías exentas?",
+    "¿Qué impuestos debo pagar si enajeno mercancías importadas bajo estímulo fiscal?",
+    "¿Hay sanciones si vendo mercancías con exención fiscal?",
+    "¿Qué restricciones hay para las mercancías importadas en Tratados de Libre Comercio?"
   ]
 }

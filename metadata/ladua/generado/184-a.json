@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:58272a10e4836a38",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones por información aduanera",
+  "denominacion_comun": "Infracciones en la transmisión de información aduanera",
   "temas": [
-    "infracciones aduaneras",
-    "información de mercancía",
-    "valor de mercancías",
+    "infracciones",
+    "transmisión de información",
+    "valor de mercancía",
     "comercialización",
     "transportación",
     "datos inexactos",
     "información incompleta"
   ],
   "terminos_coloquiales": [
-    "multas por datos falsos",
-    "errores en la aduana",
-    "problemas con la mercancía",
-    "información incorrecta aduanera",
-    "infracciones por transporte"
+    "datos de aduana",
+    "infracciones aduanales",
+    "información de mercancías",
+    "valores de importación"
   ],
-  "resumen": "El artículo establece infracciones por transmitir información inexacta o incompleta sobre el valor, descripción y transportación de la mercancía. Estas infracciones afectan la correcta comercialización y despacho de productos.",
+  "resumen": "Este artículo establece las infracciones relacionadas con la obligación de transmitir información precisa sobre el valor de mercancías y otros datos relevantes para su comercialización y transportación. Se considera infracción proporcionar datos inexactos o incompletos sobre la mercancía.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si doy datos falsos en la aduana?",
-    "¿Cuáles son las multas por información incompleta?",
-    "¿Qué se considera información inexacta en la aduana?",
-    "¿Qué sanciones hay por errores en la mercancía?",
-    "¿Cómo afecta la transportación incorrecta a la aduana?"
+    "¿Qué pasa si no transmito correctamente el valor de mis mercancías?",
+    "¿Cuáles son las consecuencias de dar información falsa en aduanas?",
+    "¿Qué información debo proporcionar sobre la transportación de mis mercancías?",
+    "¿Qué se considera una infracción en la transmisión de datos aduaneros?",
+    "¿Qué hacer si hay errores en la descripción de la mercancía al enviar información a aduanas?"
   ]
 }

@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:858ab2e06857a160",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Ley Aduanera",
   "temas": [
-    "importación",
-    "exportación",
+    "entrada de mercancías",
+    "salida de mercancías",
     "despacho aduanero",
-    "regulación de mercancías",
-    "obligaciones aduaneras"
+    "obligaciones aduaneras",
+    "aplicación supletoria del Código Fiscal"
   ],
   "terminos_coloquiales": [
-    "ley de aduanas",
+    "aduana",
     "impuestos de importación",
-    "reglas de exportación",
-    "normas aduaneras"
+    "impuestos de exportación",
+    "mercancías",
+    "agente aduanal",
+    "introducir mercancías",
+    "sacar mercancías"
   ],
-  "resumen": "Esta ley regula cómo entran y salen las mercancías del país, así como el proceso de despacho aduanero. Se aplica a todos los que participan en la introducción o extracción de mercancías.",
+  "resumen": "La Ley Aduanera regula cómo entran y salen las mercancías del país, abarcando el despacho aduanero y las personas involucradas en este proceso. Además, se aplicarán las disposiciones relacionadas en otras leyes y tratados internacionales vigentes.",
   "preguntas_ejemplo": [
     "¿Qué regula la Ley Aduanera?",
-    "¿Quiénes deben cumplir con la Ley de aduanas?",
-    "¿Qué pasa con las mercancías que se importan?",
-    "¿Cómo se maneja el despacho aduanero?",
-    "¿Qué obligaciones tengo al importar o exportar mercancías?"
+    "¿Quiénes están obligados a cumplir con las disposiciones aduaneras?",
+    "¿Qué pasa si introduzco mercancías al país?",
+    "¿Cuáles son los impuestos que se aplican a la importación y exportación?",
+    "¿Cómo se realiza el despacho aduanero?"
   ]
 }

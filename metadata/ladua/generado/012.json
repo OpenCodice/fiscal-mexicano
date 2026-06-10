@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09c4cc111dec7cb2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Aviso de accidentes en transporte de mercancías",
+  "denominacion_comun": "Avisos de accidentes en transporte de mercancías",
   "temas": [
     "accidentes",
     "transporte",
     "mercancías",
     "comercio exterior",
-    "avisos",
     "autoridades aduaneras"
   ],
   "terminos_coloquiales": [
-    "accidente en el transporte",
-    "qué hacer si hay un accidente",
-    "avisar a aduanas",
-    "mercancías dañadas",
-    "reportar accidente aduanero"
+    "accidentes en el transporte",
+    "dar aviso a aduanas",
+    "mercancías de comercio exterior"
   ],
-  "resumen": "Si ocurre un accidente con un medio de transporte que lleva mercancías de comercio exterior, se debe avisar a las autoridades aduaneras de inmediato y entregar las mercancías si se tienen.",
+  "resumen": "Las personas que se enteren de accidentes que ocurran en el transporte de mercancías de comercio exterior deben avisar inmediatamente a las autoridades aduaneras y entregarles las mercancías si las tienen en su poder.",
   "preguntas_ejemplo": [
-    "Qué debo hacer si hay un accidente con mi carga?",
-    "A quién debo avisar si ocurre un accidente aduanero?",
-    "Qué leyes aplican en caso de accidentes en el transporte de mercancías?",
-    "Cómo reportar un accidente en el transporte internacional?",
-    "Qué sucede con la mercancía después de un accidente?"
+    "¿Qué hacer si ocurre un accidente con mercancías en el transporte?",
+    "¿A quién debo avisar si hay un accidente en el transporte de productos de importación?",
+    "¿Es necesario entregar las mercancías después de un accidente?",
+    "¿Cómo se informa a aduanas sobre un accidente de transporte?",
+    "¿Qué responsabilidades tengo en caso de un accidente con mercancías?"
   ]
 }

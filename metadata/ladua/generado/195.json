@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:83e69f0427343ed0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones aduanales",
@@ -16,14 +17,17 @@
     "multas"
   ],
   "terminos_coloquiales": [
-    "multas por aduanas",
-    "infracciones por agentes aduanales",
-    "sanciones aduanales"
+    "multas aduanales",
+    "infracciones de agentes",
+    "multa a agentes aduanales",
+    "multas por agencia"
   ],
-  "resumen": "Este artículo establece que las multas por infracciones cometidas por agentes aduanales o agencias aduanales serán responsabilidad de ellos. Las penalizaciones se aplican en base a su actuación.",
+  "resumen": "Se establece que las multas por infracciones causadas por agentes aduanales o agencias aduanales serán responsabilidad de ellos mismos.",
   "preguntas_ejemplo": [
     "¿Quién paga la multa si un agente aduanal comete una infracción?",
-    "¿Qué pasa si la agencia aduanal incurre en una falta?",
-    "¿Cuál es la responsabilidad de un agente aduanal ante infracciones?"
+    "¿Qué pasa si la agencia aduanal incurre en una infracción?",
+    "¿Las multas son siempre a cargo de los agentes aduanales?",
+    "¿Cómo se aplican las sanciones a las agencias aduanales?",
+    "¿Qué infracciones tienen multas en el ámbito aduanal?"
   ]
 }

@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7276c044f4157f0a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Elaboración en recinto fiscalizado",
+  "denominacion_comun": "Elaboración y transformación en recinto fiscalizado",
   "temas": [
-    "recinto fiscalizado",
     "elaboración",
     "transformación",
-    "reparación"
+    "reparación",
+    "recinto fiscalizado"
   ],
   "terminos_coloquiales": [
-    "trabajo en aduana",
-    "elaboración en aduana",
-    "transformación en recinto",
-    "reparaciones fiscales"
+    "hacer productos en aduana",
+    "proceso en recinto fiscal",
+    "trabajos en aduana"
   ],
-  "resumen": "El artículo se refiere a la elaboración, transformación o reparación de mercancías dentro de un recinto fiscalizado, pero se encuentra derogado.",
+  "resumen": "Este artículo se refiere a la elaboración, transformación o reparación de mercancías que se lleva a cabo dentro de un recinto fiscalizado. Es importante para los procesos de importación y exportación de mercancías.",
   "preguntas_ejemplo": [
-    "¿Qué se puede hacer en un recinto fiscalizado?",
-    "¿Cómo se manejan las reparaciones en aduanas?",
-    "¿Qué implica la transformación de mercancías en el recinto fiscal?",
-    "¿Qué tipo de actividades están permitidas en un recinto fiscalizado?"
+    "¿Qué se puede hacer dentro de un recinto fiscalizado?",
+    "¿Se permiten reparaciones en la aduana?",
+    "¿Qué significa elaborar productos en un recinto fiscal?",
+    "¿Cuáles son las normas para la transformación de mercancías en aduana?",
+    "¿Qué implica trabajar en un recinto fiscalizado?"
   ]
 }

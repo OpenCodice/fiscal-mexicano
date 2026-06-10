@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c2e7d80464005896",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Retención de mercancías por suspensión de libre circulación",
+  "denominacion_comun": "Retención de mercancías",
   "temas": [
-    "mercancías extranjeras",
     "suspensión de libre circulación",
-    "retención aduanera",
-    "propiedad intelectual",
+    "mercancías de procedencia extranjera",
     "acta circunstanciada",
-    "testigos de diligencia"
+    "autoridad competente",
+    "diligencia aduanera",
+    "testigos",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
-    "retención de productos",
-    "productos detenidos en aduana",
-    "mercancías paradas por ley",
-    "suspensión de importación",
-    "acta de retención aduanera"
+    "retención de mercancías",
+    "suspensión de circulación",
+    "acta de retención",
+    "testigos ante la autoridad"
   ],
-  "resumen": "Las autoridades aduaneras pueden retener mercancías extranjeras que tengan una suspensión de libre circulación. Se debe levantar un acta que incluya detalles sobre la autoridad que retiene las mercancías, la resolución de suspensión, y la información de los productos retenidos.",
+  "resumen": "Este artículo regula la retención de mercancías de origen extranjero que están bajo una resolución de suspensión de libre circulación. Las autoridades aduaneras deben levantar un acta circunstanciada y asegurar que las mercancías sean depositadas en un lugar indicado por la autoridad competente.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si mis mercancías son retenidas en aduana?",
-    "¿Qué documentación se necesita al retener mercancías?",
-    "¿Cómo se realiza la retención de productos extranjeros?",
-    "¿Qué hacer si me notifican una suspensión de libre circulación?",
-    "¿Quién puede ser testigo en una diligencia de retención?"
+    "¿Qué pasa si mis mercancías son retenidas en la aduana?",
+    "¿Qué procedimientos siguen las autoridades al retener mercancías?",
+    "¿Qué información debe contener el acta de retención de mercancías?",
+    "¿Puedo designar testigos cuando se retienen mis mercancías?",
+    "¿Dónde se depositan las mercancías retenidas?",
+    "¿Qué hacer después de que se levanta un acta circunstanciada?"
   ]
 }

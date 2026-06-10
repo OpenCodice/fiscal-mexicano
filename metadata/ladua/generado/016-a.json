@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d94a5cd28af2044b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Prevalidación Electrónica de Pedimentos",
@@ -14,24 +15,24 @@
     "prevalidación",
     "pedimentos",
     "obligaciones fiscales",
-    "equipos de cómputo",
-    "proveedores de servicios",
+    "infraestructura aduanera",
+    "ente autorizado",
+    "servicios aduaneros",
     "aprovechamientos"
   ],
   "terminos_coloquiales": [
-    "validación de pedimentos",
-    "servicios de aduana",
-    "autorización aduanal",
-    "cobros por pedimentos",
-    "pago de servicios aduaneros"
+    "validación de datos",
+    "pedimentos aduaneros",
+    "aprovechamiento por pedimento",
+    "SAT"
   ],
-  "resumen": "El artículo permite que el Servicio de Administración Tributaria autorice servicios de prevalidación electrónica de datos en pedimentos, siempre que cumplan con ciertos requisitos. Además, establece que quienes prevaliden estos pedimentos deben pagar un aprovechamiento por cada uno que presenten para su despacho aduanero.",
+  "resumen": "Este artículo regula la autorización que el Servicio de Administración Tributaria otorga para prestar servicios de prevalidación electrónica de pedimentos. Los interesados deben cumplir con requisitos específicos y realizar el pago de un aprovechamiento por cada pedimento prevalidado.",
   "preguntas_ejemplo": [
-    "¿Qué es la prevalidación de pedimentos?",
-    "¿Qué requisitos necesito para ofrecer servicios de prevalidación?",
-    "¿Cuánto debo pagar por cada pedimento que prevalido?",
-    "¿Cómo me autorizan para validar datos en pedimentos?",
-    "¿Cuáles son las obligaciones al obtener la autorización de prevalidación?",
-    "¿Por cuánto tiempo puedo obtener la autorización de prevalidación?"
+    "¿Qué requisitos debo cumplir para prevalidar pedimentos?",
+    "¿Cuánto se paga por cada pedimento en la prevalidación?",
+    "¿Quién puede otorgar autorización para la prevalidación de datos?",
+    "¿Qué es la prevalidación electrónica en aduanas?",
+    "¿Cómo me registro para prestar servicios de prevalidación?",
+    "¿Cuánto tiempo dura la autorización para prevalidar pedimentos?"
   ]
 }

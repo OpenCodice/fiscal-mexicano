@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:9b37ceb419d503db",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización de salida de mercancías",
+  "denominacion_comun": "Salida temporal de mercancías",
   "temas": [
     "exportación",
+    "importación",
+    "mercancías",
     "transformación",
     "elaboración",
     "reparación",
-    "impuestos",
-    "reglamento aduanal"
+    "impuesto general de importación",
+    "pedimento"
   ],
   "terminos_coloquiales": [
-    "sacar mercancías al extranjero",
-    "proceso de exportación",
-    "salida de productos",
+    "sacar mercancías",
     "devolver mercancías",
-    "impuestos al regresar productos"
+    "proceso de transformación",
+    "importación temporal"
   ],
-  "resumen": "Se permite que las mercancías salgan del país para ser transformadas o reparadas hasta por dos años, con posibilidad de extender el plazo. Al regresar, se debe pagar un impuesto sobre el valor de las mercancías y servicios extranjeros relacionados.",
+  "resumen": "Se permite que las mercancías salgan de México para ser transformadas, elaboradas o reparadas por hasta dos años, con la posibilidad de extender este plazo. Al regresar, se deben pagar impuestos sobre el valor de los materiales y servicios utilizados en el extranjero.",
   "preguntas_ejemplo": [
-    "¿Puedo enviar mis productos al extranjero para repararlos?",
-    "¿Cuánto tiempo puedo tener mis mercancías fuera del país?",
-    "¿Qué impuestos debo pagar al regresar mis mercancías?",
+    "¿Cuánto tiempo puedo sacar mercancías para transformarlas?",
+    "¿Qué impuestos debo pagar al traer mercancías de regreso?",
     "¿Cómo se amplía el plazo para la salida de mercancías?",
-    "¿Qué necesito para sacar mercancías a otro país?"
+    "¿Qué es un pedimento y cómo se utiliza?",
+    "¿Qué requisitos necesito para exportar mercancías temporalmente?"
   ]
 }

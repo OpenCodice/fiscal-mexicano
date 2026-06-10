@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:14e33be6c983a74f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Notificación por estrados",
   "temas": [
+    "notificaciones",
     "sistema electrónico aduanero",
     "plazo de notificación",
-    "actos administrativos",
-    "consultas en línea"
+    "actos administrativos"
   ],
   "terminos_coloquiales": [
-    "notificación en línea",
-    "notificación aduanera",
-    "notificación por internet",
-    "consultar notificaciones"
+    "notificaciones por estrados",
+    "notificación electrónica",
+    "consulta de notificaciones",
+    "fecha de notificación"
   ],
-  "resumen": "Se establece cómo se realizan las notificaciones por estrados en el sistema electrónico aduanero. Después de un plazo de cinco días, se publica el acto administrativo y se puede consultar durante quince días.",
+  "resumen": "Este artículo establece el procedimiento de notificación por estrados en el contexto aduanero, que se realiza mediante un sistema electrónico. Las notificaciones se publican en línea y tienen efectos legales a partir del décimo sexto día hábil después de su publicación.",
   "preguntas_ejemplo": [
-    "¿Cómo se hace la notificación por estrados?",
-    "¿Dónde puedo consultar las notificaciones aduaneras?",
-    "¿Cuánto tiempo dura la publicación de notificaciones?",
-    "¿Qué plazo tengo para enterarme de una notificación?",
-    "¿Qué efectos legales tiene la notificación?"
+    "¿Cómo se realiza la notificación por estrados en aduanas?",
+    "¿Cuándo surte efecto una notificación electrónica?",
+    "¿Dónde puedo consultar las notificaciones por estrados?",
+    "¿Cuál es el plazo para recibir una notificación en el sistema aduanero?",
+    "¿Qué pasos debo seguir para ver los actos administrativos publicados?"
   ]
 }

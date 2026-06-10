@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f545ea9d6a1b4377",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Procedimiento simplificado de contribuciones",
+  "denominacion_comun": "Procedimiento Simplificado de Importación y Exportación",
   "temas": [
+    "contribuciones",
     "importación",
     "exportación",
-    "contribuciones",
     "mercancías",
-    "pasajeros",
+    "procedimiento simplificado",
     "franquicias",
-    "regulaciones aduaneras"
+    "regulaciones no arancelarias",
+    "pagos de contribuciones"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos de aduana",
-    "opción simplificada para pasajeros",
-    "cobro de impuestos por importación",
-    "procedimiento para viajeros"
+    "pagar impuestos de importación",
+    "opciones de importación/exportación",
+    "franquicia aduanera",
+    "importar mercancías",
+    "exportar mercancías",
+    "simplificación aduanera"
   ],
-  "resumen": "Los pasajeros pueden elegir un método simplificado para determinar y pagar impuestos de importación o exportación de mercancías que no son parte de su equipaje. Existen ciertas restricciones y condiciones que deben cumplirse para utilizar este procedimiento.",
+  "resumen": "Los pasajeros pueden pagar impuestos por la importación o exportación de mercancías usando un procedimiento simplificado. Este procedimiento requiere que las mercancías no estén sujetas a ciertas regulaciones y se deben pagar las contribuciones antes de usar el mecanismo de selección automatizado.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo pagar los impuestos de mis compras en el extranjero?",
-    "¿Qué es el procedimiento simplificado para importar mercancías?",
-    "¿Puedo usar este método si traigo productos sujetos a restricciones?",
-    "¿Qué debo hacer para importar mercancías sin pagar impuestos?",
-    "¿Cuáles son las limitaciones para el procedimiento simplificado de contribuciones?",
-    "¿Qué pasa si mis mercancías están exentas de aranceles?"
+    "¿Cómo puedo pagar impuestos al importar mercancías?",
+    "¿Qué es el procedimiento simplificado para la importación?",
+    "¿Existen restricciones al exportar mercancías?",
+    "¿Qué debo hacer para usar la franquicia aduanera?",
+    "¿Los impuestos por exportaciones son deducibles?",
+    "¿Qué pasa si mis mercancías están reguladas?"
   ]
 }

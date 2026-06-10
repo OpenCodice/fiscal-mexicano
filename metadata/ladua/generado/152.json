@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5c291d8758968a19",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación de contribuciones y sanciones aduaneras",
+  "denominacion_comun": "Determinación de contribuciones y sanciones",
   "temas": [
-    "Reconocimiento aduanero",
-    "Verificación de mercancías",
-    "Determinación de contribuciones",
-    "Sanciones aduaneras",
-    "Toma de muestras",
-    "Notificaciones",
-    "Pruebas y alegatos",
-    "Resoluciones aduaneras"
+    "contribuciones omitidas",
+    "sanciones",
+    "procedimiento aduanero",
+    "toma de muestras",
+    "notificaciones",
+    "resoluciones",
+    "plazo para pruebas",
+    "crédito fiscal"
   ],
   "terminos_coloquiales": [
-    "cómo se determinan las contribuciones",
-    "sanciones en aduanas",
-    "proceso de verificación aduanera",
-    "toma de muestras aduaneras",
-    "qué pasa si omito contribuciones"
+    "omisión de contribuciones",
+    "sanciones aduaneras",
+    "toma de muestras de mercancías",
+    "notificación de sanciones",
+    "crédito fiscal aduanero"
   ],
-  "resumen": "El artículo establece el procedimiento que sigue la autoridad aduanera para determinar contribuciones omitidas y sanciones, así como la toma de muestras de mercancías cuando sea necesario. También regula el plazo para notificar al interesado y las acciones que este puede tomar en respuesta.",
+  "resumen": "Este artículo establece el procedimiento que deben seguir las autoridades aduaneras para determinar contribuciones omitidas y sanciones, incluyendo la toma de muestras de mercancías de difícil identificación. También se especifican los plazos para notificaciones y presentación de pruebas por parte del interesado.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina si tengo que pagar más contribuciones?",
-    "¿Qué pasa si hay sanciones en mi despacho aduanero?",
-    "¿Cómo se notifican los problemas en la verificación de mis mercancías?",
-    "¿Qué tengo que hacer si me piden pruebas para mi caso aduanero?",
-    "¿Qué ocurre si no estoy en el domicilio que señalé a la autoridad?"
+    "¿Qué pasa si no pago mis contribuciones aduaneras?",
+    "¿Cómo se determina una sanción si hay irregularidades en mi mercancía?",
+    "¿Qué plazos tengo para presentar pruebas ante la autoridad aduanera?",
+    "¿Qué ocurre si no recibo la notificación de un procedimiento aduanero?",
+    "¿La autoridad aduanera puede tomar muestras de mis mercancías?",
+    "¿Cómo puedo apelar una sanción impuesta por la aduana?"
   ]
 }

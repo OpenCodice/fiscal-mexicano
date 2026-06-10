@@ -6,31 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e5dfc4b0c56d76ee",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Representación de Agentes Aduanales",
+  "denominacion_comun": "Representación legal en aduanas",
   "temas": [
-    "Agentes aduanales",
-    "Agencias aduanales",
-    "Representación legal",
-    "Despacho aduanero",
-    "Notificaciones aduaneras",
-    "Inspección de mercancías",
-    "Recinto fiscal"
+    "agentes aduanales",
+    "agencias aduanales",
+    "importadores",
+    "exportadores",
+    "despacho aduanero",
+    "notificaciones",
+    "inspección",
+    "verificación"
   ],
   "terminos_coloquiales": [
-    "Agentes de aduana",
-    "Representante de importación",
-    "Despacho de mercancías",
-    "Notificación aduanera",
-    "Inspección en aduanas"
+    "agente aduanal",
+    "agencia aduanal",
+    "importar",
+    "exportar",
+    "despacho",
+    "notificaciones aduaneras",
+    "documentación aduanera"
   ],
-  "resumen": "Los agentes y agencias aduanales representan a los importadores y exportadores en temas relacionados con el despacho de mercancías y notificaciones aduaneras. También pueden cesar esta representación mediante un aviso escrito a las autoridades correspondientes.",
+  "resumen": "Los agentes y agencias aduanales representan legalmente a los importadores y exportadores para actos relacionados con el despacho de mercancías. Pueden recibir notificaciones y comunicados relacionados con el proceso aduanal. Los importadores y exportadores pueden cancelar esta representación mediante notificación.",
   "preguntas_ejemplo": [
-    "¿Quién puede representar a un importador en aduanas?",
-    "¿Qué pasa si quiero dejar de usar un agente aduanal?",
-    "¿Qué notificaciones se dan a los importadores después del despacho?",
-    "¿Qué actos están cubiertos por los agentes aduanales?",
-    "¿Dónde se realizan las notificaciones aduaneras?"
+    "¿Quién puede representarme en el despacho aduanero?",
+    "¿Qué es un agente aduanal y qué funciones tiene?",
+    "¿Cómo puedo cancelar la representación de mi agente aduanal?",
+    "¿Qué notificaciones recibiré durante el proceso aduanal?",
+    "¿En qué casos necesito un agente aduanal?",
+    "¿Qué pasa si la representación de mi agencia aduanal ha cesado?"
   ]
 }

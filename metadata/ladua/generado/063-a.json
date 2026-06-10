@@ -6,27 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3591bec42e3bd504",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación y Aranceles",
+  "denominacion_comun": "Diferimiento y Devolución de Aranceles",
   "temas": [
+    "impuestos al comercio exterior",
     "diferimiento de aranceles",
     "devolución de aranceles",
-    "impuestos al comercio exterior",
+    "mercancías",
     "tratados internacionales"
   ],
   "terminos_coloquiales": [
-    "pago de impuestos de importación",
-    "aranceles en mercancías",
-    "devolución de aranceles",
-    "diferimiento de impuestos"
+    "devolución de impuestos",
+    "aranceles",
+    "comercio exterior"
   ],
-  "resumen": "Las personas que introduzcan mercancías a México bajo programas especiales deben pagar los impuestos correspondientes al comercio exterior según las reglas que establezca la Secretaría. Esto incluye el manejo de aranceles.",
+  "resumen": "Este artículo establece que quienes importen mercancías bajo un programa de diferimiento o devolución de aranceles deben pagar los impuestos correspondientes al comercio exterior según los tratados de México. Las reglas específicas serán determinadas por la Secretaría.",
   "preguntas_ejemplo": [
-    "¿Qué debo pagar al importar mercancías con un programa de diferimiento?",
-    "¿Cómo funcionan los programas de devolución de aranceles?",
-    "¿Qué impuestos aplican al comercio exterior en México?",
-    "¿Cuáles son las obligaciones al importar bajo tratados internacionales?",
-    "¿Qué reglas establece la Secretaría sobre aranceles?"
+    "¿Qué es el diferimiento de aranceles?",
+    "¿Cómo funciona la devolución de aranceles en México?",
+    "¿Qué impuestos se aplican al comercio exterior?",
+    "¿Qué mercancías pueden beneficiarse de estos programas?",
+    "¿Quién establece las reglas para la devolución y el diferimiento?"
   ]
 }

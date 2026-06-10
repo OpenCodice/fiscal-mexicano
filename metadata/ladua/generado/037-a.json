@@ -6,29 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0ff480405b63b8b0",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Transmisión Electrónica de Mercancías",
+  "denominacion_comun": "Transmisión electrónica en aduanas",
   "temas": [
-    "transmisión aduanera",
-    "mercancías",
-    "sistema electrónico",
-    "firma electrónica",
-    "pedido consolidado",
-    "mecanismo de selección automatizada"
+    "transmisión de mercancías",
+    "documento electrónico",
+    "pedimento consolidado",
+    "firma electrónica avanzada",
+    "mecanismo de selección automatizada",
+    "avisos consolidados",
+    "regularizaciones no arancelarias"
   ],
   "terminos_coloquiales": [
-    "cómo enviar mercancías electrónicamente",
-    "documentos aduaneros electrónicos",
-    "cómo usar firma electrónica en aduanas",
-    "qué es un pedimento consolidado"
+    "transmitir mercancías",
+    "documento electrónico aduanal",
+    "pedimento",
+    "selección automatizada",
+    "aviso consolidado",
+    "regulaciones aduaneras"
   ],
-  "resumen": "El artículo establece que los importadores y exportadores deben enviar electrónicamente información sobre mercancías al sistema aduanero, utilizando firma electrónica y otros métodos de identificación. Además, se deben presentar avisos consolidados y pedimentos de manera electrónica, cumpliendo con regulaciones específicas.",
+  "resumen": "El artículo establece la obligación de transmitir información sobre mercancías a las autoridades aduaneras utilizando medios electrónicos y cumplir con ciertas regulaciones. También se menciona la necesidad de un pedimento consolidado que resuma las operaciones semanales y contenga evidencias del cumplimiento de regulaciones no arancelarias.",
   "preguntas_ejemplo": [
-    "¿Cómo transmito información de mis mercancías a aduanas?",
-    "¿Qué documentos necesito para la exportación electrónica?",
-    "¿Qué es un aviso consolidado y cómo se presenta?",
-    "¿Cómo utilizo la firma electrónica para mis trámites aduaneros?",
-    "¿Qué es el mecanismo de selección automatizada?"
+    "¿Cómo se transmite la información de las mercancías en aduanas?",
+    "¿Qué es un pedimento consolidado y cómo se usa?",
+    "¿Qué requisitos debo cumplir para la transmisión electrónica en aduanas?",
+    "¿Qué significa activar el mecanismo de selección automatizada para mis mercancías?",
+    "¿Qué información debo incluir en el aviso consolidado?",
+    "¿Cómo se verifica el cumplimiento de regulaciones no arancelarias en aduanas?"
   ]
 }

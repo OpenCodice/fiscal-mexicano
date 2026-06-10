@@ -6,31 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee3ff8574e0610be",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de transacción aduanera",
+  "denominacion_comun": "Valor de transacción en importaciones",
   "temas": [
     "valor de transacción",
     "mercancías importadas",
-    "costos adicionales",
-    "gastos de transporte",
-    "regalías y derechos de licencia",
-    "embalajes",
-    "productos enajenados"
+    "cargos adicionales",
+    "regalías",
+    "gastos de embalaje",
+    "costos de transporte",
+    "materiales y servicios",
+    "determinación del valor"
   ],
   "terminos_coloquiales": [
-    "valor aduanero",
     "costo de importación",
-    "gastos de importación",
-    "cuánto debo pagar por mis mercancías",
-    "cargos adicionales en aduana"
+    "gastos de transporte",
+    "regalías",
+    "embalaje",
+    "gastos conexos",
+    "comisiones de corretaje"
   ],
-  "resumen": "El valor de transacción de las mercancías importadas incluye el precio pagado y ciertos costos adicionales, como comisiones, gastos de embalaje, transporte y regalías. Se calcula con base en datos objetivos y cuantificables.",
+  "resumen": "El artículo establece que el valor de transacción de las mercancías importadas incluye no solo el precio pagado, sino también varios cargos como comisiones, gastos de transporte y regalías. Se detallan diferentes elementos que deben considerarse para calcular este valor.",
   "preguntas_ejemplo": [
-    "¿Qué incluye el valor de transacción de mis mercancías importadas?",
-    "¿Hay costos adicionales que debo considerar al importar?",
-    "¿Cómo se determina el valor de mis mercancías en aduana?",
-    "¿Los gastos de transporte cuentan para el valor aduanero?",
-    "¿Qué son las regalías en la importación de mercancías?"
+    "¿Cuáles son los costos adicionales al precio de las mercancías importadas?",
+    "¿Qué se incluye en el valor de transacción sobre importaciones?",
+    "¿Cómo se determina el costo total de importar mercancías?",
+    "¿Qué gastos debo considerar al calcular el valor de mis importaciones?",
+    "¿Las regalías también cuentan como parte del valor de transacción?",
+    "¿Qué gastos de transporte se suman al costo de las mercancías importadas?"
   ]
 }

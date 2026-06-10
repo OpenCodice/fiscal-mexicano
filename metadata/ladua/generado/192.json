@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:11e813c665f21dba",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Infracciones Aduaneras",
+  "denominacion_comun": "Infracciones en instalaciones aduaneras",
   "temas": [
+    "infracciones aduaneras",
     "seguridad aduanera",
-    "instalaciones aduaneras",
-    "daño a bienes",
-    "uso de comunicación restringida",
-    "pesos de mercancías"
+    "comunicación restringida",
+    "daño a instalaciones",
+    "transporte de mercancías"
   ],
   "terminos_coloquiales": [
-    "problemas en aduanas",
-    "infracciones en la aduana",
-    "multas aduaneras",
-    "reglas de seguridad en aduanas"
+    "infracciones en aduanas",
+    "seguridad de aduanas",
+    "celulares en áreas restringidas",
+    "daño a equipos aduaneros",
+    "transportar mercancías pesadas"
   ],
-  "resumen": "El artículo establece infracciones relacionadas con la seguridad en las instalaciones aduaneras, como el uso indebido de teléfonos celulares, daños a la infraestructura y el ingreso de vehículos con peso excesivo sin autorización. Estas reglas buscan proteger la integridad de las operaciones aduaneras.",
+  "resumen": "Este artículo establece las infracciones relacionadas con la seguridad de las instalaciones aduaneras. Se prohíbe el uso de dispositivos de comunicación en áreas restringidas, causar daños a los bienes utilizados en la operación aduanera y la introducción de vehículos con mercancías que excedan el peso permitido sin la debida autorización.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si uso mi celular en la aduana?",
-    "¿Cómo se sanciona el daño a los bienes aduaneros?",
-    "¿Qué debo hacer si quiero ingresar un vehículo pesado a la aduana?",
-    "¿Cuáles son las áreas restringidas en las aduanas?",
-    "¿Qué infracciones puedo cometer en las instalaciones aduaneras?"
+    "¿Qué infracciones se pueden cometer en las aduanas?",
+    "¿Está permitido usar celulares en las instalaciones aduaneras?",
+    "¿Qué pasa si daño el equipo en aduanas?",
+    "¿Cuáles son las restricciones para el transporte de mercancías en aduanas?",
+    "¿Cómo pido permiso para introducir un vehículo pesado a la aduana?"
   ]
 }

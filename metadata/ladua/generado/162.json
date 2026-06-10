@@ -6,27 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d529ebc7023cd13a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones del agente aduanal",
+  "denominacion_comun": "Obligaciones del Agente Aduanal",
   "temas": [
     "trámites aduanales",
-    "documentos electrónicos",
-    "expedientes electrónicos",
+    "regulaciones no arancelarias",
+    "documentación aduanera",
+    "expediente electrónico",
+    "comercio exterior",
     "garantías aduaneras",
-    "cumplimiento normativo"
+    "inspecciones",
+    "comprobante fiscal"
   ],
   "terminos_coloquiales": [
-    "responsabilidades del agente aduanal",
-    "qué debe hacer un agente aduanal",
-    "funciones del agente de aduanas",
-    "obligaciones en comercio exterior"
+    "agente aduanal",
+    "documentos de importación",
+    "papeles aduanales",
+    "pedimento",
+    "comercio exterior",
+    "garantía aduanera",
+    "CFDI"
   ],
-  "resumen": "El artículo establece las obligaciones que deben cumplir los agentes aduanales en sus gestiones, incluyendo la correcta documentación y el cumplimiento de regulaciones. Además, detalla la necesidad de mantener expedientes y cumplir con requisitos de las autoridades aduaneras.",
+  "resumen": "El artículo establece las obligaciones que deben cumplir los agentes aduanales, incluyendo la presentación de documentación adecuada, la formación y conservación de expedientes electrónicos, y la aceptación de auditorías por parte de las autoridades aduaneras. Además, indica que deben actuar conforme a la regulación aplicable en comercio exterior.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las responsabilidades de un agente aduanal?",
-    "¿Qué documentos necesita un agente aduanal?",
-    "¿Cómo debe actuar un agente aduanal en comercio exterior?",
-    "¿Qué tipo de información debe conservar el agente aduanal?"
+    "¿Cuáles son las obligaciones de un agente aduanal?",
+    "¿Qué documentos necesita un agente aduanal para sus trámites?",
+    "¿Cómo debe un agente aduanal manejar la información de comercio exterior?",
+    "¿Qué pasa si un agente aduanal no cumple con sus obligaciones?",
+    "¿Qué es un pedimento en el contexto aduanal?",
+    "¿Qué tipo de garantías debe presentar un agente aduanal?"
   ]
 }

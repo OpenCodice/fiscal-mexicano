@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4bfb51aa4beeb277",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Agencia aduanal",
+  "denominacion_comun": "Agencia Aduanal",
   "temas": [
     "autorización",
     "requisitos",
-    "agentes aduanales",
     "funciones",
-    "solvencia económica",
-    "normatividad",
-    "transparencia",
-    "código de ética"
+    "socios",
+    "patente",
+    "cumplimiento fiscal",
+    "gobierno corporativo",
+    "servicios aduaneros"
   ],
   "terminos_coloquiales": [
-    "cómo crear una agencia aduanal",
-    "requisitos para agencias aduanales",
-    "agencia aduanal autorización",
-    "ley agencias aduanales"
+    "agencia aduanal",
+    "agente aduanal",
+    "servicios aduanales",
+    "despacho aduanero"
   ],
-  "resumen": "El artículo establece los requisitos que deben cumplir las agencias aduanales para su autorización por parte de la Secretaría. Incluye aspectos como la constitución legal, solvencia económica y la transparencia en su operación.",
+  "resumen": "El artículo establece los requisitos y funciones que debe cumplir una agencia aduanal para ser autorizada y operar en México. Esto incluye aspectos como la constitución legal, la solvencia económica y las obligaciones fiscales de sus socios y miembros.",
   "preguntas_ejemplo": [
     "¿Qué se necesita para abrir una agencia aduanal?",
-    "¿Cuáles son los requisitos para los agentes aduanales?",
-    "¿Cómo se obtiene la autorización de una agencia aduanal?",
-    "¿Qué pasa si la patente de un agente aduanal está suspendida?"
+    "¿Cuáles son los requisitos para ser agente aduanal?",
+    "¿Qué funciones tiene una agencia aduanal?",
+    "¿Cómo se obtiene la autorización para operar como agencia aduanal?",
+    "¿Qué pasa si un agente aduanal está inhabilitado?"
   ]
 }

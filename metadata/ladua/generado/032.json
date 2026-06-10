@@ -6,29 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:136f163532117010",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazo de abandono de mercancías",
+  "denominacion_comun": "Mercancías Abandonadas",
   "temas": [
-    "notificación de abandono",
-    "propiedad del Fisco",
-    "plazo para retirar mercancías",
-    "mercanías peligrosas",
-    "documento de transporte",
-    "identificación del propietario"
+    "notificaciones",
+    "plazos de abandono",
+    "mercancías",
+    "Fisco Federal",
+    "destrucción de mercancías"
   ],
   "terminos_coloquiales": [
-    "que pasa con mis mercancías abandonadas",
-    "cuánto tiempo tengo para recoger mi carga",
-    "cómo me notifican de mercancías",
-    "qué sucede si no reclamo mis cosas"
+    "notificación de mercancías abandonadas",
+    "tiempo para retirar mercancías",
+    "propiedad del Fisco",
+    "destrucción de mercancías",
+    "aduana"
   ],
-  "resumen": "Las autoridades aduaneras notifican a los propietarios si sus mercancías han sido abandonadas y deben retirarlas en un periodo determinado. Si no se identifican adecuadamente, la notificación será pública. Mercancías peligrosas tienen un plazo más corto para ser reclamadas.",
+  "resumen": "Las autoridades aduaneras notifican a los dueños de mercancías sobre el plazo para retirarlas antes de que pasen a ser propiedad del Fisco Federal. Si no pueden localizar al propietario por la falta de información, la notificación se hace por estrados. Hay plazos especiales para mercancías peligrosas o perecederas.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mis mercancías están abandonadas?",
-    "¿Cuánto tiempo tengo para recoger mis mercancías después de ser notificado?",
-    "¿Qué pasa si no puedo ser notificado por falta de información?",
-    "¿Qué sucede con mercancías peligrosas si no las recojo a tiempo?",
-    "¿Quién paga por la destrucción de mis mercancías si no las reclamo?"
+    "¿Qué pasa si no retiro mis mercancías a tiempo?",
+    "¿Cómo se realiza la notificación de mercancías abandonadas?",
+    "¿Cuánto tiempo tengo para retirar mercancías peligrosas?",
+    "¿Qué ocurre con las mercancías que se consideran abandonadas?",
+    "¿Quién paga por la destrucción de mercancías abandonadas?"
   ]
 }

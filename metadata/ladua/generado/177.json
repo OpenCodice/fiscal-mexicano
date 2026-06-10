@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:c7ce3e6011c58577",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Infracciones Aduaneras",
   "temas": [
+    "mercancías extranjeras",
+    "infracciones",
+    "régimen aduanero",
+    "depósito fiscal",
+    "maquiladoras",
+    "comercio exterior",
+    "exportación e importación",
+    "pedimentos aduaneros"
+  ],
+  "terminos_coloquiales": [
     "infracciones",
     "mercancías",
     "importación",
     "exportación",
-    "régimen aduanero",
-    "comercio exterior",
-    "comprobación"
+    "régimen de depósito fiscal",
+    "maquila"
   ],
-  "terminos_coloquiales": [
-    "errores en aduanas",
-    "problemas con mercancías",
-    "multas aduaneras",
-    "requisitos de importación",
-    "traslados irregulares",
-    "mercancías prohibidas"
-  ],
-  "resumen": "El artículo establece una serie de presunciones de infracciones relacionadas con la descarga, importación y exportación de mercancías, así como las consecuencias de no cumplir con los requisitos legales. Se consideran infracciones varias acciones como introducir mercancías sin permisos o no reportar correctamente las mercancías en los documentos de aduana.",
+  "resumen": "El artículo establece las infracciones que se consideran cometidas en materia aduanera, relacionadas con la importación y exportación de mercancías, así como con el incumplimiento de los requisitos para su manejo y tratamiento. También se menciona el contexto en el cual estas infracciones son presumidas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si las mercancías llegan a un lugar no autorizado?",
-    "¿Cuáles son las infracciones más comunes en aduanas?",
-    "¿Qué requisitos deben cumplir las mercancías para ser importadas?",
-    "¿Qué hacer si no tengo los documentos para mis mercancías?",
-    "¿Cómo evitar multas por infracciones aduaneras?"
+    "¿Qué infracciones se consideran en la legislación aduanera?",
+    "¿Cuáles son las consecuencias de no cumplir con el régimen aduanero?",
+    "¿Qué tipo de mercancías están prohibidas o restringidas en su importación?",
+    "¿Cómo afecta el incumplimiento de requisitos a las maquiladoras?",
+    "¿Qué es un pedimento aduanero y por qué es importante?",
+    "¿Qué sucede si no se declaran correctamente las mercancías en el comercio exterior?"
   ]
 }

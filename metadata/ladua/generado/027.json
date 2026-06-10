@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1b0f3f906db3686e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Extinción de obligación fiscal",
+  "denominacion_comun": "Destrucción de mercancías en aduana",
   "temas": [
-    "mercancías",
-    "depósito",
-    "aduana",
-    "obligación fiscal",
-    "destrucción",
+    "depósito aduanero",
+    "destrucción de mercancías",
+    "obligaciones fiscales",
     "régimen aduanero"
   ],
   "terminos_coloquiales": [
-    "qué pasa si se destruyen las mercancías",
-    "obligaciones si se pierde alguna mercancía",
-    "mercancías en aduana",
     "destrucción de mercancías",
-    "cómo se manejan los restos de mercancías"
+    "aduana",
+    "obligación fiscal",
+    "régimen aduanero"
   ],
-  "resumen": "Si las mercancías en el depósito aduanero se destruyen accidentalmente, se elimina la obligación fiscal, a menos que los restos se asignen a un régimen aduanero.",
+  "resumen": "Si las mercancías que están en depósito en la aduana se destruyen por un accidente, ya no se deberá pagar impuestos, a menos que se destinen los restos a algún régimen relacionado con la aduana.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si se destruyen mis mercancías en la aduana?",
-    "¿Pierdo mi obligación fiscal si las mercancías se dañan?",
-    "¿Puedo hacer algo con los restos de mercancías destruidas?",
-    "¿Qué requisitos hay para extinguir la obligación fiscal?",
-    "¿Hay un procedimiento cuando se destruyen mercancías en depósito?"
+    "¿Qué pasa si se destruyen mis mercancías en la aduana?",
+    "¿Se eliminan las obligaciones fiscales si mi mercancía se destruye?",
+    "¿Qué debo hacer si mis mercancías en depósito se dañan?",
+    "¿Qué es el régimen aduanero en caso de destrucción de mercancías?",
+    "¿Cómo afecta la destrucción de mercancías en la aduana a mis impuestos?"
   ]
 }

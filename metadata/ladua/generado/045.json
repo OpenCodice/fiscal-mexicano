@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b36c8d8bfc2d8fd9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Toma de muestras en aduanas",
+  "denominacion_comun": "Toma de Muestras en Aduanas",
   "temas": [
-    "muestras de mercancías",
+    "murtes estériles",
     "mercancías peligrosas",
-    "inscripción en el registro",
-    "irregularidades aduaneras",
-    "sanciones fiscales",
+    "inscripciones",
+    "sanciones",
+    "irregularidades",
     "acta de muestreo"
   ],
   "terminos_coloquiales": [
-    "cómo se toman muestras en la aduana",
-    "muestras peligrosas en importaciones",
-    "registro de muestras en aduanas",
-    "sanciones por irregularidades en aduanas"
+    "toma de muestras",
+    "muestras estériles",
+    "importación de mercancías",
+    "exportación de mercancías",
+    "irregularidades aduanales"
   ],
-  "resumen": "Este artículo establece que se deben tomar muestras de mercancías especiales al momento del reconocimiento aduanero. También menciona que los importadores y exportadores registrados en ciertos casos no tienen que presentar estas muestras, pero que pueden enfrentar sanciones si hay irregularidades.",
+  "resumen": "El artículo regula la toma de muestras de mercancías estériles y peligrosas en procesos aduaneros, estableciendo que importadores y exportadores deben seguir ciertos lineamientos. También menciona consecuencias por irregularidades en la declaración de mercancías, que pueden incluir sanciones y la suspensión de inscripciones en registros correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cómo se toman las muestras de mercancías peligrosas en aduanas?",
-    "¿Qué pasa si no presento las muestras requeridas?",
-    "¿Cuáles son las sanciones por irregularidades en la declaración aduanera?",
-    "¿Qué es el acta de muestreo y cuándo se levanta?",
-    "¿Quiénes deben estar inscritos para la toma de muestras?"
+    "¿Qué debo hacer si tengo que tomar muestras de mercancías peligrosas?",
+    "¿Cuáles son las sanciones por irregularidades en la importación?",
+    "¿Cómo puedo inscribirme para la toma de muestras en aduanas?",
+    "¿Qué sucede si me suspenden de la inscripción para la toma de muestras?",
+    "¿Qué es un acta de muestreo y cuándo se levanta?"
   ]
 }

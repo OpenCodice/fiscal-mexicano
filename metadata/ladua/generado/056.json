@@ -6,30 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:62180b5bb27a9612",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Fechas de regulación aduanera",
+  "denominacion_comun": "Cuotas y regulaciones aduaneras",
   "temas": [
     "cuotas",
     "bases gravables",
     "tipos de cambio",
+    "cuotas compensatorias",
     "regulaciones no arancelarias",
+    "fecha de regulación",
     "importación",
-    "exportación",
-    "infracciones aduaneras"
+    "exportación"
   ],
   "terminos_coloquiales": [
-    "fechas de aduana",
+    "cuotas aduaneras",
+    "regulaciones de importación",
     "cuotas de importación",
-    "regulaciones aduaneras",
-    "tipos de cambio en aduana"
+    "proceso aduanero",
+    "precio estimado",
+    "abandonos fiscales"
   ],
-  "resumen": "El artículo establece las fechas que rigen las cuotas y regulaciones aplicables a la importación y exportación de mercancías. Estas incluyen condiciones específicas para distintos tipos de operaciones aduaneras.",
+  "resumen": "Este artículo establece las fechas que rigen las cuotas, bases gravables y regulaciones en operaciones de importación y exportación de mercancías. También menciona las circunstancias bajo las cuales se aplican diferentes tarifas y regulaciones aduaneras.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las cuotas que aplican en la importación?",
-    "¿Qué fechas rigen para la exportación de mercancías?",
-    "¿Cómo se determina la base gravable en aduana?",
-    "¿Qué pasa si hay una infracción aduanera?",
-    "¿Cuándo se aplica la regulación no arancelaria?"
+    "¿Cuándo se aplican las cuotas de importación?",
+    "¿Qué regulaciones existen para la exportación de mercancías?",
+    "¿Cómo se determinan las bases gravables en aduanas?",
+    "¿Qué sucede si las mercancías son abandonadas?",
+    "¿Qué normas rigen en importaciones temporales?",
+    "¿Cuándo se considera que hay una infracción aduanera?"
   ]
 }

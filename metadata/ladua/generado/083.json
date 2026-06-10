@@ -6,33 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0269d86e8c627e6a",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Pago de Contribuciones en Aduanas",
+  "denominacion_comun": "Contribuciones en Aduanas",
   "temas": [
     "importaciones",
     "exportaciones",
+    "contribuciones",
     "pedimento",
-    "pago de contribuciones",
-    "recintos fiscales",
+    "pago de impuestos",
     "regulaciones no arancelarias",
-    "plazos de pago",
-    "recargos",
-    "Cuotas compensatorias"
+    "recintos fiscales",
+    "mecanismo de selección automatizado"
   ],
   "terminos_coloquiales": [
-    "cómo se paga en aduanas",
-    "cuándo hacer el pago en aduanas",
-    "obligaciones para importadores y exportadores",
-    "plazos de pago de impuestos aduaneros",
-    "recargos en contribuciones aduaneras"
+    "impuestos de importación",
+    "impuestos de exportación",
+    "pago de aduana",
+    "pedimento aduanero",
+    "regulaciones aduaneras"
   ],
-  "resumen": "Los importadores y exportadores deben pagar sus contribuciones al presentar el pedimento en aduanas. Este pago debe hacerse dentro de plazos específicos y en caso de no realizarlo, se generarán recargos.",
+  "resumen": "Las contribuciones deben pagarse al presentar el pedimento en las oficinas autorizadas, antes de que se active el mecanismo de selección automatizado. El no cumplimiento puede resultar en recargos y se deben seguir las regulaciones no arancelarias correspondientes.",
   "preguntas_ejemplo": [
-    "¿Cuándo se debe pagar en la aduana?",
-    "¿Qué pasa si no pago a tiempo en aduanas?",
-    "¿Cuáles son mis obligaciones al importar o exportar?",
-    "¿Existen recargos si no pago a tiempo?",
-    "¿Cómo determino el monto a pagar en aduanas?"
+    "¿Cómo se pagan los impuestos de importación?",
+    "¿Qué es un pedimento aduanero?",
+    "¿Cuánto tiempo tengo para pagar los impuestos después de depositar las mercancías?",
+    "¿Qué son las regulaciones no arancelarias?",
+    "¿Qué pasa si no pago los impuestos a tiempo?"
   ]
 }

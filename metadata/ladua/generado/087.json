@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:3adf3dda47a3ba3b",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de instituciones de crédito en cuentas aduaneras",
+  "denominacion_comun": "Cuentas aduaneras",
   "temas": [
-    "cuentas aduaneras",
+    "obligaciones de instituciones de crédito",
     "declaración mensual",
-    "transferencias",
-    "obligaciones",
-    "importadores",
-    "rendimientos",
-    "sanciones"
+    "transfers a la Tesorería de la Federación",
+    "créditos fiscales",
+    "resarcimiento"
   ],
   "terminos_coloquiales": [
     "declaración de cuentas aduaneras",
-    "transferencias aduaneras",
-    "obligaciones de bancos en aduanas",
-    "qué deben hacer las casas de bolsa",
-    "cuándo se reportan las cantidades"
+    "transferir fondos",
+    "cobros por resarcimiento",
+    "CFDI"
   ],
-  "resumen": "Las instituciones de crédito que manejan cuentas aduaneras deben presentar una declaración mensual con información sobre sus usuarios y transferir fondos a la Tesorería de la Federación según lo indicado. Además, deben cumplir con estas obligaciones para evitar sanciones y resarcimientos.",
+  "resumen": "Las instituciones de crédito y casas de bolsa que operan cuentas aduaneras deben presentar declaraciones mensuales y transferir montos correspondientes a la Tesorería de la Federación según diversas condiciones. También hay penalizaciones por incumplimiento en estas obligaciones.",
   "preguntas_ejemplo": [
-    "¿Qué tienen que reportar los bancos sobre cuentas aduaneras?",
-    "¿Cuándo deben hacer las transferencias a la Tesorería?",
-    "¿Qué pasa si no cumplen con sus obligaciones las casas de bolsa?",
-    "¿Cómo se calculan las sanciones por incumplimiento?",
-    "¿Qué información debe incluir la declaración mensual?"
+    "¿Qué deben hacer las instituciones de crédito con las cuentas aduaneras?",
+    "¿Qué es la declaración mensual de cuentas aduaneras?",
+    "¿Cuándo tienen que transferir los fondos a la Tesorería de la Federación?",
+    "¿Qué consecuencias hay por no cumplir con las obligaciones de cuentas aduaneras?",
+    "¿Cómo se calcula el resarcimiento por incumplimiento?"
   ]
 }

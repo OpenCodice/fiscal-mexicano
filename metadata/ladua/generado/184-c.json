@@ -6,29 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:e3177a3a0a3896eb",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Suspensión de Agente Aduanal e Importador",
+  "denominacion_comun": "Suspensión de Agentes Aduanales e Importadores",
   "temas": [
-    "suspensión",
+    "suspensión de operaciones",
     "agente aduanal",
     "importador",
     "pedimento",
-    "documentación",
-    "garantía aduanera"
+    "documento de garantía",
+    "importación definitiva",
+    "precio estimado"
   ],
   "terminos_coloquiales": [
-    "por qué me suspendieron en aduanas",
-    "suspensión por pedimento incorrecto",
-    "no puedo operar en aduanas",
-    "qué hacer si me suspenden"
+    "suspensión de patente",
+    "detención de trámites aduaneros",
+    "documento de garantía aduanera",
+    "inexactitud en el pedimento"
   ],
-  "resumen": "Las autoridades aduaneras pueden suspender a un agente aduanal o importador por un mes si se detecta que el pedimento contiene inexactitudes sobre el número de identificación comercial. Esta suspensión se levanta una vez que se presenten los documentos requeridos.",
+  "resumen": "El artículo establece que se suspenderá a los agentes aduanales e importadores para operar en el sistema electrónico aduanero hasta por un mes si se detecta que han declarado inexactamente en el pedimento. Tendrán un plazo de veinte días para corregir la situación o presentar la documentación requerida.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si declaro mal el número de identificación comercial?",
-    "¿Cuánto tiempo me pueden suspender en el sistema aduanero?",
-    "¿Qué documentos necesito para levantar la suspensión?",
-    "¿Cuál es el proceso para desvirtuar la causal de suspensión?",
-    "¿Qué sucede si no presento la garantía en 20 días?"
+    "¿Qué sucede si declaro incorrectamente en un pedimento?",
+    "¿Cuánto tiempo puedo estar suspendido como agente aduanal?",
+    "¿Qué necesito presentar para evitar la suspensión de mi patente?",
+    "¿Qué es el documento de garantía aduanera?",
+    "¿Qué ocurre si no presento la documentación en los 20 días requeridos?"
   ]
 }

@@ -6,30 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:999baef3ddd61dd6",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Determinación del valor en aduana",
+  "denominacion_comun": "Valor en Aduana",
   "temas": [
-    "facultades de comprobación",
     "valor declarado",
-    "irregularidades en comercio exterior",
-    "documentación fiscal",
+    "comprobación aduanera",
+    "irregularidades en importación",
+    "documentación aduanera",
     "importaciones entre personas vinculadas",
-    "rechazo de valor en aduana"
+    "determinación de contribuciones"
   ],
   "terminos_coloquiales": [
-    "cómo se valúan las mercancías",
-    "problemas con el valor de importación",
-    "irregularidades aduaneras",
-    "documentación que necesito para importar",
-    "qué pasa si mi valor declarado es rechazado"
+    "valor de aduana",
+    "declaración de aduana",
+    "comercio exterior",
+    "declaración falsa",
+    "impedimentos aduaneros"
   ],
-  "resumen": "El artículo establece que la autoridad aduanera puede rechazar el valor declarado de mercancías importadas si hay irregularidades en la contabilidad o en la documentación presentada. También se menciona que se pueden utilizar métodos de valoración específicos para determinar el valor en aduana en caso de que se presenten inconsistencias.",
+  "resumen": "La autoridad aduanera puede rechazar el valor declarado de las mercancías importadas si hay irregularidades en la contabilidad o en la información presentada. También puede actuar si se presentan datos falsos o si hay problemas de localización con el importador o el proveedor.",
   "preguntas_ejemplo": [
-    "¿Qué irregularidades pueden hacer que se rechace mi valor declarado?",
-    "¿Cómo debo demostrar que el valor de mis importaciones es correcto?",
-    "¿Qué documentación necesito para evitar problemas en aduana?",
-    "¿Qué pasa si no localizan a mi proveedor en el extranjero?",
-    "¿Cuáles son las consecuencias de presentar información falsa en aduanas?"
+    "¿Por qué me rechazaron el valor declarado de mis mercancías?",
+    "¿Qué irregularidades pueden causar un problema en mi importación?",
+    "¿Qué documentación debo presentar para comprobar el valor de mis mercancías?",
+    "¿Cómo afecta la vinculación entre importadores y proveedores al valor aduanero?",
+    "¿Qué hacer si no puedo localizar al proveedor en el extranjero?"
   ]
 }

@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:bdba043fb4f2cd74",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Transporte Internacional",
   "temas": [
-    "transporte aéreo",
-    "transporte marítimo",
-    "transporte ferroviario",
-    "información de pasajeros",
-    "transporte internacional de carga",
+    "empresas aéreas",
+    "empresas marítimas",
+    "empresas ferroviarias",
+    "transporte de pasajeros",
+    "transporte de carga",
     "mercancías explosivas",
     "armas de fuego",
-    "avisos a autoridades"
+    "servicio de administración tributaria"
   ],
   "terminos_coloquiales": [
-    "requisitos para vuelos internacionales",
-    "transportar mercancías al extranjero",
-    "avisos para carga peligrosa",
-    "información de pasajeros para aduanas",
-    "normas de transporte internacional"
+    "transporte internacional",
+    "aviones",
+    "barcos",
+    "trenes",
+    "carga internacional",
+    "mercancías peligrosas",
+    "notificación aduanera"
   ],
-  "resumen": "Las empresas de transporte internacional deben enviar información sobre pasajeros y tripulación al SAT. Además, las que transporten mercancías peligrosas deben avisar a las autoridades antes de su llegada al país.",
+  "resumen": "Las empresas de transporte internacional deben enviar información de pasajeros y tripulación al SAT. Además, deben avisar sobre mercancías peligrosas como explosivos y armas antes de su llegada al país.",
   "preguntas_ejemplo": [
     "¿Qué información deben enviar las aerolíneas al SAT?",
-    "¿Cómo aviso a aduanas sobre cargas peligrosas?",
-    "¿Qué requisitos hay para el transporte internacional de pasajeros?",
-    "¿Las empresas marítimas tienen que informar al SAT?",
-    "¿Qué pasa si traslado armas de fuego al país?"
+    "¿Cuáles son los requisitos para el transporte de mercancías peligrosas?",
+    "¿Qué deben hacer los trenes que transportan pasajeros internacionales?",
+    "¿Cómo se notifican las autoridades sobre el transporte de armas?",
+    "¿Qué sucede si una empresa no avisa sobre mercancías explosivas?"
   ]
 }

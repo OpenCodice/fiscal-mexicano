@@ -6,33 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5abb05df9e79d8bc",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Control de mercancías postales",
   "temas": [
     "Servicio Postal Mexicano",
-    "Autoridades aduaneras",
+    "Vigilancia aduanera",
     "Importaciones",
     "Exportaciones",
-    "Regulaciones",
-    "Restricciones no arancelarias",
-    "Créditos fiscales"
+    "Créditos fiscales",
+    "Regulaciones no arancelarias",
+    "Clasificación arancelaria"
   ],
   "terminos_coloquiales": [
     "envíos postales",
-    "mercarías en el correo",
-    "control de aduanas",
-    "trámites de aduana",
-    "bultos postales",
-    "papelería de importación"
+    "mercanías extranjeras",
+    "aduanas",
+    "servicio postal",
+    "bultos postales"
   ],
-  "resumen": "Las mercancías que lleguen o salgan del país por correo están bajo la supervisión del Servicio Postal Mexicano y las autoridades aduaneras. Esto incluye la apertura de paquetes, revisión de documentos y el cumplimiento de obligaciones fiscales para el despacho de las mercancías.",
+  "resumen": "El artículo establece las responsabilidades del Servicio Postal Mexicano en cuanto al control y despacho de mercancías importadas y exportadas bajo la supervisión de las autoridades aduaneras. Incluye la presentación de mercancías y el cumplimiento de obligaciones fiscales y regulaciones no arancelarias.",
   "preguntas_ejemplo": [
-    "¿Cómo se controlan los paquetes internacionales?",
-    "¿Qué debo hacer para enviar mercancías por correo?",
-    "¿Cuáles son los requisitos para importar por correo?",
-    "¿Qué pasa si un paquete cae en rezago?",
-    "¿Cómo se manejan los impuestos de los envíos postales?",
-    "¿Qué información necesita la aduana de mis envíos?"
+    "¿Qué debo hacer para importar mercancías por correo?",
+    "¿Cuáles son las obligaciones del Servicio Postal Mexicano en el control de envíos?",
+    "¿Cómo se manejan los impuestos en las importaciones postales?",
+    "¿Qué sucede si las mercancías no cumplen con las regulaciones aduaneras?",
+    "¿Cómo se clasifica arancelariamente un envío postal?"
   ]
 }

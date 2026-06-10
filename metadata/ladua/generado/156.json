@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:6a7bbf736cc42342",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Mercancías prohibidas en importación",
+  "denominacion_comun": "Mercancías prohibidas",
   "temas": [
     "importación",
-    "mercancías prohibidas",
-    "ilícitos",
-    "autoridades aduaneras"
+    "mercancías ilícitas",
+    "autoridades aduaneras",
+    "prohibiciones",
+    "leyes complementarias"
   ],
   "terminos_coloquiales": [
-    "qué mercancías no se pueden importar",
-    "productos prohibidos en aduanas",
-    "ley de importación de mercancías",
-    "qué pasa con las mercancías ilegales"
+    "productos prohibidos",
+    "mercancías ilegales"
   ],
-  "resumen": "Se deben entregar a las autoridades las mercancías que no se pueden importar o que son ilegales según otras leyes. Esto garantiza que no ingresen productos prohibidos al país.",
+  "resumen": "Este artículo establece que se entregarán a las autoridades las mercancías cuya importación está prohibida o que son objeto de delitos que no están relacionados con leyes fiscales. Esto incluye productos que no pueden ser importados legalmente.",
   "preguntas_ejemplo": [
-    "¿Qué mercancías no se pueden importar a México?",
-    "¿Qué debo hacer si tengo productos prohibidos?",
-    "¿Quién se encarga de revisar las importaciones?",
-    "¿Qué pasa si intento importar algo ilegal?",
-    "¿Cuáles son las leyes que prohíben ciertas importaciones?"
+    "¿Qué pasa con las mercancías que no se pueden importar?",
+    "¿Qué tipo de productos son considerados ilegales en la importación?",
+    "¿A quién debo entregar mercancías prohibidas?",
+    "¿Hay consecuencias por intentar importar productos prohibidos?",
+    "¿Qué se considera un ilícito en la importación?"
   ]
 }

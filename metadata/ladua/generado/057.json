@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:333cff7a79fe7e65",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Exportación de mercancías del mar",
+  "denominacion_comun": "Exportación de mercancías",
   "temas": [
     "exportación",
     "mercancías",
     "mar territorial",
     "zona económica exclusiva",
-    "concesiones",
     "permisos",
     "autorizaciones"
   ],
   "terminos_coloquiales": [
-    "exportar del mar",
-    "mercancías del mar",
-    "captura sin permiso",
-    "cruce de fronteras marítimas",
-    "normas de exportación marina"
+    "exportación de productos",
+    "exportación ilegal",
+    "captura de mercancías",
+    "permisos para exportar"
   ],
-  "resumen": "Se considera que la exportación de mercancías del mar se realiza cuando estas son descubiertas, siempre que se hayan extraído sin los permisos necesarios. Esto incluye mercancías procedentes del mar territorial o de zonas económicas adyacentes.",
+  "resumen": "Se considera que la exportación de mercancías del mar territorial se lleva a cabo cuando se encuentran, si estas fueron extraídas sin los permisos necesarios. Esto incluye las mercancías provenientes de la zona económica exclusiva adyacente.",
   "preguntas_ejemplo": [
-    "¿Cuándo se considera que he exportado mercancías del mar?",
-    "¿Qué pasa si extraigo productos del mar sin permiso?",
-    "¿Necesito un permiso para exportar del mar territorial?",
-    "¿Qué son las concesiones en la exportación de mercancías marinas?",
-    "¿Qué se considera una intervención ilegal en la exportación del mar?"
+    "¿Qué sucede si exporto mercancías del mar sin permisos?",
+    "¿Cómo se considera la exportación de productos del mar territorial?",
+    "¿Qué permisos necesito para exportar mercancías del mar?",
+    "¿Es legal exportar mercancías sin autorización?",
+    "¿Qué define la exportación en la zona económica exclusiva?"
   ]
 }

@@ -6,27 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:1ad3c602bab9944f",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Tránsito de mercancías",
+  "denominacion_comun": "Tránsito de mercancías internas",
   "temas": [
-    "aduanas",
+    "aduana",
     "importación",
     "exportación",
-    "mercancías"
+    "mercancías",
+    "programas de maquila"
   ],
   "terminos_coloquiales": [
-    "tránsito interno de mercancías",
-    "movimiento de mercancías",
-    "aduanas nacionales",
-    "despacho aduanal"
+    "transporte de mercancías",
+    "aduana de entrada",
+    "aduana de despacho",
+    "aduana de salida",
+    "devolución de mercancías",
+    "importación temporal"
   ],
-  "resumen": "Se define el tránsito interno de mercancías y los supuestos en los que se considera que ocurre. Esto incluye el envío de mercancías de aduanas a otras para su despacho o exportación.",
+  "resumen": "El artículo establece que el tránsito de mercancías se considera interno cuando ciertas condiciones de envío entre aduanas se cumplen, como el despacho de mercancías importadas y nacionales. Describe las distintas situaciones en las que se realizan estas transferencias de mercancías entre aduanas.",
   "preguntas_ejemplo": [
-    "¿Qué es el tránsito interno de mercancías?",
-    "¿Cómo funcionan las aduanas en el tránsito de mercancías?",
-    "¿Cuándo se considera que una mercancía está en tránsito interno?",
-    "¿Qué supuestos hay para el tránsito de mercancías?",
-    "¿Qué tipo de mercancías se pueden enviar entre aduanas?"
+    "¿Qué es el tránsito de mercancías internas?",
+    "¿Cuándo se considera que el tránsito de mercancías es interno?",
+    "¿Qué documentos necesito para el tránsito de mercancías entre aduanas?",
+    "¿Cómo se manejan las mercancías de procedencia extranjera en el tránsito interno?",
+    "¿Qué sucede con las mercancías de maquila en el tránsito de aduanas?"
   ]
 }

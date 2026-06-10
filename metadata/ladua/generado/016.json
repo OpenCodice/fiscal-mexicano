@@ -6,30 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:f4750d2254e1b50d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Autorización para servicios aduaneros",
+  "denominacion_comun": "Autorización de servicios aduaneros",
   "temas": [
-    "Servicio de Administración Tributaria",
-    "Procesamiento electrónico de datos",
-    "Despacho aduanero",
-    "Requisitos para autorización",
-    "Contraprestaciones",
-    "Derechos de trámite aduanero"
+    "procesamiento electrónico de datos",
+    "despacho aduanero",
+    "autorizaciones",
+    "servicios aduaneros",
+    "requisitos de autorización",
+    "contraprestaciones",
+    "impuesto al valor agregado",
+    "derechos de trámite aduanero"
   ],
   "terminos_coloquiales": [
-    "autorizaciones aduaneras",
-    "servicios de aduanas",
-    "cómo trabajar en aduanas",
-    "requisitos para servicios aduaneros",
-    "pago de derechos aduaneros"
+    "servicios aduaneros",
+    "autorización de servicios",
+    "pago de derechos",
+    "IVA en trámites aduaneros"
   ],
-  "resumen": "El artículo establece que el Servicio de Administración Tributaria puede autorizar a particulares para brindar servicios relacionados con el despacho aduanero. Para obtener esta autorización, deben cumplir ciertos requisitos, incluyendo experiencia y capital social.",
+  "resumen": "El SAT puede autorizar a particulares para ofrecer servicios de procesamiento de datos y relacionados con el despacho aduanero. Para obtener esta autorización, los solicitantes deben cumplir con ciertos requisitos como experiencia y capital social. Las contraprestaciones se pagarán junto con los derechos de trámite aduanero correspondientes.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para trabajar en servicios aduaneros?",
-    "¿Cuáles son los requisitos para autorizar a alguien en aduanas?",
-    "¿Cómo se pagan los derechos aduaneros?",
-    "¿Qué servicios puede ofrecer un particular en el despacho aduanero?",
-    "¿Cuánto capital se requiere para autorizar servicios aduaneros?"
+    "¿Cómo puedo obtener autorización para prestar servicios aduaneros?",
+    "¿Qué requisitos debo cumplir para ofrecer servicios de despacho aduanero?",
+    "¿Cómo se determina el costo de los servicios aduaneros que ofrezco?",
+    "¿Qué es el acreditamiento de IVA en trámites aduaneros?",
+    "¿Existen requisitos específicos para los particulares que quieran trabajar en aduanas?"
   ]
 }

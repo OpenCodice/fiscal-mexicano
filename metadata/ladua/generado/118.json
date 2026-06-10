@@ -6,30 +6,28 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:7b271957d1dfb444",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Mermas y Desperdicios en Exportación",
+  "denominacion_comun": "Mermas y desperdicios",
   "temas": [
-    "Impuesto General de Exportación",
-    "Mermas",
-    "Desperdicios",
-    "Clasificación Arancelaria",
-    "Estímulos Fiscales",
-    "Transformación de Mercancías"
+    "impuesto general de exportación",
+    "mermas",
+    "desperdicios",
+    "clasificación arancelaria",
+    "depósito fiscal"
   ],
   "terminos_coloquiales": [
-    "impuesto por mermas",
-    "desperdicios en exportación",
-    "exención de impuestos por mermas",
-    "pago de impuestos de desperdicios",
-    "requisitos para mermas"
+    "mermas",
+    "desperdicios",
+    "impuesto de exportación"
   ],
-  "resumen": "Las mermas de procesos de transformación no generan impuestos de exportación, mientras que los desperdicios sí, a menos que se pruebe su destrucción o retorno al país. Además, ni las mermas ni los desperdicios reciben estímulos fiscales.",
+  "resumen": "No se cobrará el impuesto general de exportación por las mermas resultantes de procesos de transformación, elaboración o reparación. Para los desperdicios, se aplicará el impuesto según la clasificación arancelaria, a menos que se demuestre su destrucción o retorno al país.",
   "preguntas_ejemplo": [
-    "¿Las mermas en producción están exentas de impuestos?",
-    "¿Qué pasa con los desperdicios al exportar?",
-    "¿Cómo se clasifican los desperdicios para impuestos?",
-    "¿Qué requisitos debo cumplir para no pagar impuestos por mermas?",
-    "¿Hay incentivos fiscales para desperdicios y mermas?"
+    "¿Cuándo no se paga el impuesto de exportación por mermas?",
+    "¿Qué pasa con los desperdicios en la exportación?",
+    "¿Hay estímulos fiscales para mermas o desperdicios?",
+    "¿Cómo se clasifica arancelariamente un desperdicio?",
+    "¿Qué requisitos hay para demostrar que los desperdicios fueron destruidos?"
   ]
 }

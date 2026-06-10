@@ -6,34 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:21d826618d887f5d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importación temporal en maquilas",
+  "denominacion_comun": "Importación Temporal para Maquiladoras",
   "temas": [
     "maquiladoras",
-    "importación temporal",
-    "mercancías",
     "programas de exportación",
-    "requisitos de control",
-    "plazos",
+    "importación temporal",
+    "mercanías",
     "impuesto general de importación",
-    "cancelación de programas"
+    "plazos de permanencia",
+    "cancelación de programas",
+    "regímenes aduaneros"
   ],
   "terminos_coloquiales": [
-    "importación de maquilas",
-    "maquiladoras y exportaciones",
-    "importar temporalmente",
-    "productos de maquila",
-    "reglamento de importación",
-    "mercanías en maquila"
+    "importación temporal",
+    "maquilas",
+    "programa de exportación",
+    "exportación",
+    "constancia de exportación"
   ],
-  "resumen": "Las maquiladoras y empresas con programas de exportación pueden importar mercancías temporalmente para su transformación o reparación, siempre que cumplan con ciertos requisitos. Las mercancías deben retornar al extranjero o cambiar de régimen aduanero, y hay plazos establecidos para su permanencia en el país.",
+  "resumen": "Las maquiladoras y empresas con programas de exportación pueden importar mercancías temporalmente para transformarlas o repararlas y deben retornar al extranjero en ciertos plazos. Si no se cumplen estos plazos, las mercancías se considerarán ilegales en el país.",
   "preguntas_ejemplo": [
-    "¿Qué es la importación temporal en maquilas?",
-    "¿Cuánto tiempo pueden permanecer las mercancías importadas temporalmente?",
-    "¿Qué requisitos deben cumplir las maquiladoras para importar mercancías?",
-    "¿Qué sucede si no retorno las mercancías importadas a tiempo?",
-    "¿Puedo importar materiales para mi maquila?",
-    "¿Qué pasa si cancelan mi programa de exportación?"
+    "¿Qué es la importación temporal para maquiladoras?",
+    "¿Cuánto tiempo pueden quedarse las mercancías importadas temporalmente?",
+    "¿Qué sucede si no retorno las mercancías importadas temporalmente?",
+    "¿Cuáles son los requisitos para importar temporalmente?",
+    "¿Qué pasa si se cancela el programa de maquila?",
+    "¿Qué mercancías no se pueden importar temporalmente bajo este régimen?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:2658e18e943c3ba7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Depósito de mercancías",
@@ -13,22 +14,19 @@
     "pasajeros internacionales",
     "transito",
     "mercancías",
-    "aduana",
-    "régimen aduanero"
+    "aduana"
   ],
   "terminos_coloquiales": [
-    "dejar mercancías en la aduana",
-    "depositar cosas en el aeropuerto",
-    "mercancías en tránsito",
-    "pasajeros que vienen del extranjero",
-    "depósito de objetos en la frontera"
+    "dejar mercancías",
+    "depósito aduanero",
+    "pasajeros en tránsito"
   ],
-  "resumen": "Los pasajeros internacionales que lleguen al país pueden dejar sus mercancías en la aduana sin necesidad de que estén destinadas a un régimen aduanero. Esto aplica tanto para quienes llegan por aire como por tierra.",
+  "resumen": "Los pasajeros internacionales que lleguen a México pueden dejar sus mercancías en la aduana sin que estas tengan que ser destinadas a un régimen específico. Esto aplica tanto para los que llegan por aire como por tierra.",
   "preguntas_ejemplo": [
-    "¿Puedo dejar mi equipaje en la aduana si no lo voy a usar?",
-    "¿Qué puedo hacer con mis compras al llegar al país?",
-    "¿Los pasajeros pueden guardar mercancías en la aduana?",
-    "¿Cómo funciona el depósito de mercancías en tránsito?",
-    "¿Existen restricciones para dejar cosas en la aduana?"
+    "¿Puedo dejar mis cosas en la aduana si estoy en tránsito?",
+    "¿Qué puedo hacer con mis mercancías si solo voy de paso por México?",
+    "¿Los pasajeros en tránsito pueden almacenar sus mercancías en la aduana?",
+    "¿Hay algún costo por dejar mercancías en la aduana?",
+    "¿Necesito un permiso especial para depositar mis mercancías en la aduana?"
   ]
 }

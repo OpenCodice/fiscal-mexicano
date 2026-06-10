@@ -6,31 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:512232ac7e4688f1",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Inicio del procedimiento administrativo aduanero",
+  "denominacion_comun": "Acta de inicio del procedimiento aduanero",
   "temas": [
-    "acta de inicio",
+    "procedimiento administrativo",
     "embargo precautorio",
-    "diligencias aduaneras",
-    "notificaciones",
-    "clasificación arancelaria",
-    "pruebas y alegatos",
-    "testigos"
+    "verificación de mercancías",
+    "clausura",
+    "testigos",
+    "notificaciones"
   ],
   "terminos_coloquiales": [
-    "procedimiento aduanero",
-    "acta de aduana",
-    "embargo de mercancías",
-    "notificación de aduana",
-    "clasificación de mercancías"
+    "acta aduanera",
+    "diligencia aduanera",
+    "verificación de productos",
+    "embargo de mercancías"
   ],
-  "resumen": "Las autoridades aduaneras levantan un acta cuando embargan mercancías, iniciando un procedimiento administrativo. En el acta se debe incluir la identificación de la autoridad y los hechos que motivan el inicio, además de requerir testigos y notificar al interesado sobre sus derechos y plazos.",
+  "resumen": "Este artículo detalla cómo las autoridades aduaneras deben levantar el acta de inicio del procedimiento administrativo cuando realicen un reconocimiento aduanero y embarguen mercancías. Establece los requisitos que debe contener el acta, como la identificación de la autoridad, las circunstancias del procedimiento y los derechos del interesado.",
   "preguntas_ejemplo": [
-    "¿Qué ocurre si me embargan mercancías en la aduana?",
-    "¿Qué debo hacer al recibir un acta de inicio de procedimiento aduanero?",
-    "¿Cómo se designan los testigos en un procedimiento aduanero?",
-    "¿Cuánto tiempo tengo para presentar mis pruebas en el procedimiento?",
-    "¿Qué pasa si no estoy de acuerdo con la clasificación arancelaria de mis mercancías?"
+    "¿Qué pasos siguen las autoridades aduaneras al embargar mercancías?",
+    "¿Cómo puedo designar testigos en un procedimiento aduanero?",
+    "¿Qué información debe incluir el acta de inicio del procedimiento?",
+    "¿Qué hacer si no estoy de acuerdo con la clasificación arancelaria de mis mercancías?",
+    "¿Cuánto tiempo tengo para presentar pruebas en un procedimiento administrativo aduanero?"
   ]
 }

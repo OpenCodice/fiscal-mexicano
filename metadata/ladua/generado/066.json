@@ -6,26 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:fde5503366021129",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de transacción en importaciones",
+  "denominacion_comun": "Valor de Transacción en Importaciones",
   "temas": [
-    "gastos excluidos",
-    "valor en aduana",
-    "importación",
-    "comprobantes fiscales"
+    "gastos de importación",
+    "contribuciones",
+    "costos adicionales",
+    "comprobantes fiscales",
+    "dividendos",
+    "gastos de transporte"
   ],
   "terminos_coloquiales": [
-    "qué se incluye en el precio de importación",
-    "gastos que no cuentan en importaciones",
-    "valores que no se suman en aduanas"
+    "gastos de importación",
+    "precio de las mercancías",
+    "gastos de transporte",
+    "comprobante fiscal",
+    "gastos conexos",
+    "cuotas compensatorias"
   ],
-  "resumen": "Este artículo establece qué gastos no deben incluirse en el valor de transacción de las mercancías importadas, siempre y cuando se especifiquen por separado. Incluye gastos de construcción, transporte, seguros y contribuciones aplicables.",
+  "resumen": "El artículo establece que el valor de transacción de mercancías importadas no incluirá ciertos gastos, siempre que se desglosen por separado. Estos incluyen costos relacionados con la construcción, transporte, así como contribuciones y cuotas compensatorias asociadas a la importación.",
   "preguntas_ejemplo": [
-    "¿Qué gastos no se incluyen en el valor de importación?",
-    "¿Cuáles son las excepciones al precio de las mercancías importadas?",
-    "¿Cómo se determina el valor en aduana de un producto importado?",
-    "¿Qué tipo de comprobante necesito para detallar gastos en importaciones?",
-    "¿Hay gastos de transporte que no cuentan para el valor total al importar?"
+    "¿Qué gastos no se consideran en el valor de transacción de importaciones?",
+    "¿Cómo se deben detallar los gastos en el comprobante fiscal de importación?",
+    "¿Qué son las cuotas compensatorias en el contexto de importaciones?",
+    "¿Los gastos de transporte se incluyen en el precio de las mercancías importadas?",
+    "¿Qué conceptos no se relacionan directamente con el valor de las mercancías importadas?"
   ]
 }

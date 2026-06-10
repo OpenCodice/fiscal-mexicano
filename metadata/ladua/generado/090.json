@@ -6,30 +6,36 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:691f01b97b4157a5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Regímenes aduaneros",
   "temas": [
     "importación",
     "exportación",
-    "temporales",
     "depósito fiscal",
     "tránsito de mercancías",
+    "maquila",
     "recinto fiscalizado"
   ],
   "terminos_coloquiales": [
-    "tipos de aduanas",
-    "reglas de importación y exportación",
-    "regímenes fiscales",
-    "aduanas",
-    "mercancías en frontera"
+    "regímenes aduaneros",
+    "importación definitiva",
+    "exportación definitiva",
+    "importación temporal",
+    "exportación temporal",
+    "depósito fiscal",
+    "tránsito interno",
+    "tránsito internacional",
+    "mantenimiento en aduana"
   ],
-  "resumen": "Las mercancías que entran o salen de México pueden estar bajo diferentes regímenes aduaneros, incluyendo importación, exportación, y temporales. Estos regímenes permiten distintos tratamientos según el estado de las mercancías.",
+  "resumen": "El artículo establece los diferentes regímenes aduaneros que se pueden aplicar a las mercancías que entran o salen del país. Estos incluyen regímenes definitivos, temporales, de depósito fiscal y de tránsito.",
   "preguntas_ejemplo": [
-    "¿Qué tipos de regímenes aduaneros existen?",
-    "¿Cuáles son las reglas para importar mercancías?",
-    "¿Qué significa el régimen de depósito fiscal?",
-    "¿Cómo funcionan los regímenes temporales?",
-    "¿Cuáles son los requisitos para exportar desde México?"
+    "¿Cuáles son los tipos de regímenes aduaneros en México?",
+    "¿Qué es la importación temporal?",
+    "¿Cómo funcionaría el régimen de depósito fiscal?",
+    "¿Qué mercancías se pueden exportar bajo régimen definitivo?",
+    "¿Qué significa tránsito interno de mercancías?",
+    "¿Qué es una maquila en el contexto aduanero?"
   ]
 }

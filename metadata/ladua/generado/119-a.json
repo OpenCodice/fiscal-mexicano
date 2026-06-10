@@ -6,30 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:016472e91745419d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Depósito Fiscal",
   "temas": [
-    "autoridad aduanera",
-    "almacenes generales",
-    "obligaciones fiscales",
-    "autorización",
-    "mercanías",
-    "plazo de depósito",
-    "cancelación de autorización"
+    "almacenes generales de depósito",
+    "autorización fiscal",
+    "mercanías en depósito",
+    "cancelación de autorización",
+    "requisitos de cumplimiento"
   ],
   "terminos_coloquiales": [
-    "depósito de mercancías",
-    "almacenamiento fiscal",
-    "autorización de almacenes",
-    "cancelación de depósito"
+    "depósito fiscal",
+    "almacenes de depósito",
+    "autorización de almacenaje",
+    "cancelación de permisos"
   ],
-  "resumen": "Los almacenes generales de depósito deben cumplir con ciertos requisitos para obtener autorización para almacenar mercancías en depósito fiscal. Esta autorización tiene una vigencia de hasta diez años y se puede cancelar si se incumplen las normas establecidas.",
+  "resumen": "Los almacenes generales de depósito deben cumplir con obligaciones fiscales y demostrar la propiedad de las instalaciones para obtener una autorización. Las mercancías pueden permanecer en depósito fiscal hasta 24 meses, y la autorización puede ser cancelada si no se cumplen ciertos requisitos.",
   "preguntas_ejemplo": [
-    "¿Qué necesito para que un almacén me autorice a almacenar mercancías?",
-    "¿Cuánto tiempo puede estar una mercancía en depósito fiscal?",
-    "¿Cuándo se puede cancelar la autorización de un almacén?",
-    "¿Qué requisitos debo cumplir para almacenar bienes en un depósito fiscal?",
-    "¿Qué puede causar la suspensión de la autorización de un almacén general?"
+    "¿Qué es un depósito fiscal?",
+    "¿Cómo obtengo la autorización para un almacén general de depósito?",
+    "¿Cuáles son los requisitos para almacenar mercancías fiscalmente?",
+    "¿Por qué podría cancelarse mi autorización de depósito?",
+    "¿Cuánto tiempo pueden estar mis mercancías en depósito fiscal?"
   ]
 }

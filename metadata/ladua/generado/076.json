@@ -6,26 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:b55680668b348ad5",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Momento Aproximado de Valoración",
+  "denominacion_comun": "Momento aproximado en la importación",
   "temas": [
-    "valoración de mercancías",
     "importación",
+    "valoración",
+    "mercancías",
     "plazos",
-    "ley aduanera"
+    "efectos legales"
   ],
   "terminos_coloquiales": [
-    "tiempo para valorar mercancías",
-    "plazos para importaciones",
-    "valoración aduanera",
-    "plazo de valoración"
+    "importar mercancías",
+    "valorar mercancías"
   ],
-  "resumen": "El artículo establece que el momento aproximado para valorar mercancías importadas puede ser de hasta noventa días antes o después de la importación. Esto es importante para determinar el valor aduanero.",
+  "resumen": "El artículo establece que el 'momento aproximado' se refiere a un periodo de hasta noventa días antes o después de la importación de mercancías que necesitan ser valoradas.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para valorar mis mercancías importadas?",
-    "¿Qué se entiende por momento aproximado en la valoración aduanera?",
-    "¿Cuál es el plazo para la valoración de mercancías según la Ley Aduanera?",
-    "¿Se puede valorar una mercancía antes de importarla?"
+    "¿Qué significa momento aproximado en la importación?",
+    "¿Cuánto tiempo antes o después de importar se considera el momento aproximado?",
+    "¿Cómo se relaciona el momento aproximado con la valoración de mercancías?",
+    "¿Qué artículo regula los plazos para la importación de mercancías?",
+    "¿Qué ocurre si se importa mercancía fuera del momento aproximado?"
   ]
 }

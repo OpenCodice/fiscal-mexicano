@@ -6,29 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:4a8a69cbee1599cd",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Plazos para resolución de procedimientos aduaneros",
+  "denominacion_comun": "Procedimientos Aduaneros",
   "temas": [
-    "procedimientos de suspensión",
+    "suspensión de patente",
     "extinción de patente",
     "cancelación de patente",
     "plazos de resolución",
-    "notificación de resolución",
-    "medios de defensa"
+    "notificación de procedimientos",
+    "medios de defensa",
+    "inhabilitación de agente aduanal"
   ],
   "terminos_coloquiales": [
-    "tiempos de respuesta de aduanas",
-    "cancelación de patentes",
-    "plazo para aduanas",
-    "qué pasa si no responden en aduanas"
+    "patente aduanal",
+    "suspensión",
+    "extinción",
+    "cancelación",
+    "plazo de tres meses",
+    "plazo de cuatro meses",
+    "resolución de aduana"
   ],
-  "resumen": "Las autoridades aduaneras tienen plazos específicos para resolver procedimientos de suspensión, extinción y cancelación de patentes. Si no se resuelven en ese tiempo, los interesados pueden considerar que la patente ha sido cancelada o extinguida y tienen derecho a defenderse.",
+  "resumen": "Las autoridades aduaneras deben resolver sobre la suspensión, extinción o cancelación de las patentes aduanales dentro de plazos específicos. Si no hay resolución en los tiempos establecidos, se puede considerar como finalizado el procedimiento y se pueden interponer medios de defensa.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tarda aduanas en resolver un procedimiento?",
-    "¿Qué pasa si no me notifican en el plazo establecido?",
-    "¿Puedo hacer algo si mi patente no ha sido cancelada después de cuatro meses?",
-    "¿Qué significa que un procedimiento se haya caducado?",
-    "¿Cómo se notifican las resoluciones de aduanas?"
+    "¿Cuánto tiempo tiene la autoridad aduanera para resolver sobre una patente?",
+    "¿Qué sucede si no hay respuesta en el plazo establecido para la cancelación de una patente?",
+    "¿Puedo impugnar la decisión si no me notifican a tiempo sobre la suspensión de mi patente?",
+    "¿Cómo se notifica el inicio de un procedimiento de extinción de patente?",
+    "¿Qué significa que se entienda caducado un procedimiento de suspensión?",
+    "¿Qué pasos debo seguir si me cancelan la patente aduanal?"
   ]
 }

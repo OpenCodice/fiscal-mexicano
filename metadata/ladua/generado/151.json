@@ -6,32 +6,34 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:70e5570a2bba6ea4",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo precautorio en aduanas",
+  "denominacion_comun": "Embargo precautorio de mercancías",
   "temas": [
-    "embargo",
-    "autoridades aduaneras",
+    "embargo aduanero",
     "mercancías",
-    "trámites aduaneros",
-    "verificación",
+    "transporte",
     "importación",
     "exportación",
-    "vehículos de carga"
+    "documentación aduanera",
+    "verificación",
+    "recinto fiscal"
   ],
   "terminos_coloquiales": [
     "embargo de mercancías",
-    "retención aduanera",
+    "detención de mercancías",
+    "retención de productos",
     "mercancías no declaradas",
-    "incumplimiento aduanero",
-    "trámites aduanales"
+    "papeles de transporte"
   ],
-  "resumen": "El artículo establece las condiciones bajo las cuales las autoridades aduaneras pueden embargar mercancías y medios de transporte. Esto incluye casos como la introducción de mercancías por lugares no autorizados, el incumplimiento de regulaciones y la falta de documentación adecuada.",
+  "resumen": "El artículo establece las condiciones bajo las cuales las autoridades aduaneras pueden embargar mercancías y medios de transporte. Estos embargos pueden ocurrir por introducir mercancías de manera irregular, incumplir con regulaciones o no presentar la documentación adecuada.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede la aduana embargar mis mercancías?",
-    "¿Qué causas llevan a un embargo en la aduana?",
-    "¿Qué tipo de mercancías pueden ser embargadas?",
-    "¿Cómo puedo evitar que mis productos sean embargados en la aduana?",
-    "¿Qué sucede si no tengo la documentación adecuada para mis mercancías?"
+    "¿Cuáles son las causas para que las mercancías sean embargadas en la aduana?",
+    "¿Qué sucede si no tengo la documentación adecuada para mis productos?",
+    "¿Se pueden embargar vehículos que transportan mercancías?",
+    "¿Qué pasa si declaro un valor menor en mis productos?",
+    "¿Qué documentos debo presentar al importar mercancías?",
+    "¿Qué ocurre si mis mercancías están en tránsito internacional?"
   ]
 }

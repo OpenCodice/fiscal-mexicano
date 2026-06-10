@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:0139295b047ada5e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Servicios en recintos fiscales",
+  "denominacion_comun": "Servicios de carga y descarga",
   "temas": [
-    "autorización",
-    "servicios de carga",
-    "servicios de descarga",
-    "maniobras de mercancías",
+    "autorización de servicios",
+    "personas morales",
     "recinto fiscal",
-    "requisitos",
+    "mercancías de comercio exterior",
+    "requisitos y condiciones",
     "control y vigilancia"
   ],
   "terminos_coloquiales": [
-    "servicios de aduana",
-    "carga y descarga de mercancías",
-    "manejo de mercancías",
-    "autorización para empresas",
-    "reglas del SAT"
+    "servicios de carga y descarga",
+    "autorizaciones del SAT",
+    "hacer maniobras de mercancías"
   ],
-  "resumen": "El SAT puede autorizar a empresas para que ofrezcan servicios de carga y descarga en recintos fiscales. Estas empresas deben cumplir con los requisitos establecidos por el SAT para operar de manera segura y controlada.",
+  "resumen": "El SAT puede autorizar a empresas para que presten servicios de carga, descarga y maniobras de mercancías en el recinto fiscal. Estas empresas deben cumplir con requisitos establecidos por el SAT y seguir lineamientos para la seguridad y control en el recinto fiscal.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener autorización para prestar servicios en un recinto fiscal?",
-    "¿Qué requisitos debo cumplir para manejar mercancías en la aduana?",
-    "¿Qué son las maniobras de mercancías en el recinto fiscal?",
-    "¿Quién regula los servicios de carga y descarga en los recintos fiscales?",
-    "¿Qué reglas sigue el SAT para autorizar a las empresas?"
+    "¿Qué necesito para que mi empresa preste servicios de carga y descarga?",
+    "¿Cómo puedo obtener la autorización del SAT para transportar mercancías?",
+    "¿Cuáles son los requisitos para operar en el recinto fiscal?",
+    "¿Qué reglas establece el SAT para el control de mercancías?",
+    "¿Qué tipo de empresas pueden prestar servicios en el recinto fiscal?"
   ]
 }

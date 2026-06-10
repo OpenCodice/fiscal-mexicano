@@ -6,27 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:09dd1c2f8b6cdd04",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de transacción en ventas vinculadas",
+  "denominacion_comun": "Valuación de ventas entre personas vinculadas",
   "temas": [
-    "ventas vinculadas",
+    "ventas",
+    "personas vinculadas",
     "valor de transacción",
-    "precios de venta",
-    "circunstancias de venta"
+    "prácticas de precios",
+    "costos",
+    "beneficios",
+    "ajuste de precios"
   ],
   "terminos_coloquiales": [
-    "precios entre empresas relacionadas",
-    "cómo se fijan precios entre amigos",
-    "venta de empresa a filial",
-    "cómo saber si el precio es justo"
+    "ventas entre familiares",
+    "precios entre empresas",
+    "valores de venta",
+    "ajustes de precios",
+    "costos de venta"
   ],
-  "resumen": "Este artículo establece que, en una venta entre personas vinculadas, se aceptará el valor de transacción siempre que se demuestre que la vinculación no ha influido en el precio. Se deben considerar las prácticas normales de fijación de precios y la recuperación de costos.",
+  "resumen": "Este artículo establece que en las ventas entre personas vinculadas se evaluará si la vinculación afectó el precio. Se aceptará el valor de transacción si se demuestra que el precio se ajustó a las prácticas normales del sector y si permite recuperar costos y obtener beneficios razonables.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el precio en ventas entre empresas relacionadas?",
-    "¿Qué pasa si un amigo me vende algo a un precio muy alto?",
-    "¿Qué significa que el precio no haya sido influenciado por la vinculación?",
-    "¿Cómo se asegura que un precio de venta es justo en relaciones comerciales?",
-    "¿Cuáles son las prácticas normales para fijar precios en el mercado?"
+    "¿Cómo se determina el precio en ventas entre familiares?",
+    "¿Qué pasa si tengo una empresa y vendo a un socio?",
+    "¿Cómo puedo demostrar que mi precio es justo?",
+    "¿Qué son las prácticas normales de fijación de precios?",
+    "¿Cómo se calculan los beneficios en transacciones entre personas vinculadas?"
   ]
 }

@@ -6,27 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:19b009eb3bb06782",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importaciones Temporales",
+  "denominacion_comun": "Importaciones temporales",
   "temas": [
-    "importaciones temporales",
     "impuestos al comercio exterior",
-    "regulaciones y restricciones no arancelarias",
+    "importaciones",
+    "regulaciones no arancelarias",
     "cuotas compensatorias"
   ],
   "terminos_coloquiales": [
-    "importaciones sin impuestos",
-    "mercancías temporales",
-    "regulaciones de importación",
-    "exenciones fiscales"
+    "importaciones temporales",
+    "no pagar impuestos de importación",
+    "regulaciones de importación"
   ],
-  "resumen": "Las importaciones temporales de mercancías extranjeras no pagan impuestos al comercio exterior, salvo ciertas excepciones. Además, deben cumplir con regulaciones y restricciones específicas.",
+  "resumen": "Las importaciones temporales de mercancías extranjeras no pagan impuestos al comercio exterior, salvo en ciertas excepciones. También deben cumplir con regulaciones no arancelarias y cuotas compensatorias si aplica.",
   "preguntas_ejemplo": [
-    "¿Qué son las importaciones temporales?",
-    "¿No se pagan impuestos en las importaciones temporales?",
-    "¿Cuáles son las obligaciones de importación que debo cumplir?",
-    "¿Hay excepciones a las importaciones temporales sin impuestos?",
-    "¿Qué significa cuota compensatoria en importaciones?"
+    "¿Qué impuestos se pagan por importaciones temporales?",
+    "¿Cuáles son las obligaciones para importar mercancías temporalmente?",
+    "¿Qué excepciones hay para no pagar impuestos al importar temporalmente?",
+    "¿Qué son las regulaciones no arancelarias en importaciones?",
+    "¿Cómo funcionan las cuotas compensatorias en importaciones temporales?"
   ]
 }

@@ -6,29 +6,33 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5cc00777c1068ae9",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones fiscales en comercio exterior",
+  "denominacion_comun": "Impuestos al Comercio Exterior",
   "temas": [
     "impuestos al comercio exterior",
     "regulaciones no arancelarias",
     "cuotas compensatorias",
-    "personas obligadas",
-    "programas de devolución de aranceles"
+    "programas de devolución de aranceles",
+    "importación",
+    "exportación",
+    "mercancías",
+    "entidades obligadas"
   ],
   "terminos_coloquiales": [
-    "impuestos de aduana",
-    "regulación aduanera",
-    "cuotas en importaciones",
-    "obligaciones fiscales en aduanas",
-    "exenciones de impuestos"
+    "impuestos de importación",
+    "impuestos de exportación",
+    "cuotas compensatorias",
+    "comercio exterior",
+    "devolución de aranceles"
   ],
-  "resumen": "Las personas y entidades que introduzcan o extraigan mercancías del país deben pagar impuestos al comercio exterior y cumplir con regulaciones específicas. También deben pagar cuotas compensatorias en ciertos casos, incluso si están exentas de impuestos federales según otras leyes.",
+  "resumen": "Este artículo establece quiénes están obligados a pagar impuestos al comercio exterior y a cumplir con regulaciones y restricciones al respecto. También menciona las cuotas compensatorias para regímenes aduaneros específicos y qué se considera como regulaciones no arancelarias.",
   "preguntas_ejemplo": [
-    "¿Quiénes deben pagar impuestos al importar o exportar mercancías?",
-    "¿Qué son las cuotas compensatorias en comercio exterior?",
-    "¿Existen excepciones para no pagar impuestos aduaneros?",
-    "¿Qué regulaciones no arancelarias debo considerar al importar?",
-    "¿Cómo se determina el pago de cuotas compensatorias?"
+    "¿Quiénes deben pagar impuestos al comercio exterior?",
+    "¿Qué son las cuotas compensatorias?",
+    "¿Cómo se aplican las regulaciones no arancelarias?",
+    "¿Qué entidades están exentas de impuestos en comercio exterior?",
+    "¿Cuál es el procedimiento para la devolución de aranceles?"
   ]
 }

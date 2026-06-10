@@ -6,28 +6,32 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:71ad49b02049295d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Autorización para servicios de importación temporal",
   "temas": [
+    "importación temporal",
+    "remolques",
+    "semiremolques",
+    "portacontenedores",
     "procesamiento electrónico de datos",
-    "control de importación",
-    "remolques y semiremolques",
-    "solvencia moral y económica",
-    "requisitos para autorización"
+    "autorizaciones",
+    "obligaciones fiscales"
   ],
   "terminos_coloquiales": [
-    "permiso para importar remolques",
     "autorización aduanera",
-    "servicios de aduana",
-    "costo de importación temporal"
+    "importar remolques",
+    "servicios de aduanas",
+    "SERVICIO DE ADMINISTRACIÓN TRIBUTARIA (SAT)",
+    "pago de aprovechamiento"
   ],
-  "resumen": "El artículo establece que el Servicio de Administración Tributaria puede autorizar a empresas para prestar servicios relacionados con la importación temporal de remolques y otros vehículos. Para hacerlo, deben cumplir ciertos requisitos y pagar una tasa mensual por la prevalidación de sus pedimentos.",
+  "resumen": "El SAT puede autorizar a particulares para prestar servicios relacionados con el control de la importación temporal de remolques y similares. Para obtener esta autorización, se deben cumplir requerimientos específicos y pagar un aprovechamiento mensual por la prevalidación del pedimento.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un permiso para importar un remolque?",
-    "¿Qué requisitos necesito para los servicios de importación?",
-    "¿Cuánto cuesta la prevalidación para la importación temporal?",
-    "¿Qué documentos necesito para solicitar la autorización?",
-    "¿Cuánto tiempo dura la autorización de importación?"
+    "¿Cómo puedo obtener la autorización para importar remolques?",
+    "¿Qué requisitos debo cumplir para ser autorizado por el SAT?",
+    "¿Cuánto tengo que pagar por la prevalidación de un remolque?",
+    "¿Cuáles son los servicios que puedo ofrecer en la importación temporal?",
+    "¿Por cuánto tiempo es válida la autorización del SAT para importar?"
   ]
 }

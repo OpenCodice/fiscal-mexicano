@@ -6,28 +6,30 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5c6bbc1048534484",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Importaciones temporales",
+  "denominacion_comun": "Importaciones Temporales",
   "temas": [
-    "pedimentos",
-    "importación",
+    "pedimento",
     "mercancías",
-    "Servicio de Administración Tributaria",
-    "tratados internacionales"
+    "importaciones temporales",
+    "tratados internacionales",
+    "programas de maquila",
+    "exportación"
   ],
   "terminos_coloquiales": [
     "importación temporal",
-    "documentación para importar",
-    "requisitos de pedimento",
-    "exoneración de pedimento"
+    "pedimento de importación",
+    "compras temporales",
+    "maquila"
   ],
-  "resumen": "El artículo establece las condiciones para realizar importaciones temporales, incluyendo la necesidad de señalar la finalidad de las mercancías y los casos en que no se requiere un pedimento. También menciona que otros documentos pueden ser aceptados si así lo estipulan tratados internacionales.",
+  "resumen": "El artículo establece que para las importaciones temporales, se debe señalar la finalidad y el lugar de destino en el pedimento. Además, el SAT puede determinar casos en los que no se requiera pedimento y usar otros documentos según tratados internacionales.",
   "preguntas_ejemplo": [
-    "¿Qué es un pedimento para importaciones temporales?",
-    "¿Cuándo no necesito un pedimento para importar?",
-    "¿Cómo se documenta la importación temporal de mercancías?",
-    "¿Qué dice la ley sobre la importación temporal en tratados internacionales?",
-    "¿Quién establece las reglas para las importaciones temporales?"
+    "¿Qué es una importación temporal?",
+    "¿Cuándo no necesito un pedimento para importar temporalmente?",
+    "¿Qué documentación debo presentar para importar temporalmente mercancías?",
+    "¿Qué son los programas de maquila?",
+    "¿Cómo afecta un tratado internacional a las importaciones temporales?"
   ]
 }

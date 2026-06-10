@@ -6,32 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:5c84b478eeead7e3",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de tránsito interno",
+  "denominacion_comun": "Régimen de Tránsito Interno",
   "temas": [
-    "tránsito interno",
-    "pedimento de exportación",
-    "regulaciones aduaneras",
+    "importación",
+    "exportación",
+    "pedimento",
     "contribuciones",
-    "documentación",
-    "mercancías",
-    "S.A.T."
+    "regulaciones",
+    "restricciones",
+    "traslado de mercancías",
+    "maquila"
   ],
   "terminos_coloquiales": [
-    "reglamento de aduanas",
-    "trámites de importación",
-    "procedimientos aduaneros",
-    "exportaciones e importaciones",
-    "papeles para aduana"
+    "tránsito interno",
+    "pedimento de exportación",
+    "pedimento de tránsito",
+    "cuotas compensatorias",
+    "SAT",
+    "reglamento de aduanas"
   ],
-  "resumen": "El artículo establece los requisitos para el tránsito interno de mercancías tanto a la exportación como a la importación. Indica que se deben presentar pedimentos, pagar contribuciones y cumplir con las regulaciones aduaneras correspondientes.",
+  "resumen": "El régimen de tránsito interno permite a importadores y exportadores llevar a cabo el movimiento de mercancías dentro del país cumpliendo con ciertos requisitos. Se deben presentar pedimentos y pagar contribuciones, además de cumplir con regulaciones específicas.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para exportar mercancías?",
-    "¿Cuáles son los requisitos para importar mercancías?",
-    "¿Qué documentos debo presentar en aduanas?",
-    "¿Cómo se calcula el pago de contribuciones en tránsito interno?",
-    "¿Qué es un pedimento de tránsito interno?",
-    "¿Cuáles son las restricciones para el tránsito de mercancías?"
+    "¿Qué es el régimen de tránsito interno?",
+    "¿Cómo se hace un pedimento de exportación?",
+    "¿Cuáles son las contribuciones en el tránsito interno?",
+    "¿Qué requisitos se necesitan para el tránsito interno de mercancías?",
+    "¿Qué documentos se anexan al pedimento de tránsito?",
+    "¿Cómo se trasladan mercancías en tránsito interno?"
   ]
 }

@@ -6,29 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:ee0ca113edfbf4e7",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Responsabilidad de dictaminadores aduaneros",
   "temas": [
     "responsabilidad",
     "sanciones",
-    "dictaminadores aduaneros",
+    "dictámenes aduaneros",
     "autorizaciones",
-    "obligaciones",
     "evaluaciones de confiabilidad"
   ],
   "terminos_coloquiales": [
-    "responsabilidad de dictaminadores",
+    "dictaminadores",
+    "responsabilidad del dictaminador",
     "sanciones a dictaminadores",
-    "cancelación de autorizaciones",
-    "obligaciones aduaneras"
+    "cancelación de autorizaciones"
   ],
-  "resumen": "Los dictaminadores aduaneros son responsables de las irregularidades en sus dictámenes, pero no se impondrán sanciones a las empresas por estas irregularidades. El SAT puede cancelar sus autorizaciones si no cumplen con ciertas obligaciones o evaluaciones.",
+  "resumen": "Los dictaminadores aduaneros son responsables de las irregularidades en los dictámenes que elaboran, sin que la empresa a la que sirven sea sancionada por esas irregularidades. El SAT puede cancelar las autorizaciones de los dictaminadores si no cumplen con sus obligaciones o si no pasan evaluaciones de confiabilidad.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un dictaminador comete un error?",
-    "¿Las empresas son responsables por los errores de sus dictaminadores?",
-    "¿Bajo qué circunstancias puede el SAT cancelar a un dictaminador aduanero?",
-    "¿Qué obligaciones tienen los dictaminadores aduaneros?",
-    "¿Cómo se determina la confiabilidad de un dictaminador?"
+    "¿Qué responsabilidades tienen los dictaminadores aduaneros?",
+    "¿Por qué puede cancelarse la autorización de un dictaminador aduanero?",
+    "¿Qué sucede si un dictaminador comete una irregularidad?",
+    "¿La empresa puede ser sancionada por errores de su dictaminador?",
+    "¿Qué obligaciones deben cumplir los dictaminadores aduaneros?"
   ]
 }

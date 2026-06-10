@@ -6,31 +6,31 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:eafe1ae6ef599129",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Reexpedición de mercancías",
   "temas": [
-    "importación",
+    "internación de mercancías",
     "franja fronteriza",
-    "reexpedición",
-    "mercancías extranjeras",
-    "contribuciones",
+    "importación",
     "transformación",
     "elaboración",
-    "temporalidad"
+    "contribuciones"
   ],
   "terminos_coloquiales": [
-    "mandar mercancías al interior",
-    "internar productos extranjeros",
-    "reexportar",
-    "pasar mercancía de frontera a interior"
+    "reexpedición",
+    "importación temporal",
+    "mercancías en frontera",
+    "procesos de transformación",
+    "importación definitiva"
   ],
-  "resumen": "La reexpedición es la internación de mercancías extranjeras que han llegado a la frontera hacia el resto del país. Esto puede hacerse si se cubren los impuestos correspondientes o si las mercancías han sido procesadas en la zona fronteriza.",
+  "resumen": "La reexpedición se refiere a la internación de mercancías importadas en la franja fronteriza hacia el resto del país. Puede realizarse con mercancías importadas temporal o definitivamente, siempre que se cumplan las contribuciones o si han sido transformadas en la frontera.",
   "preguntas_ejemplo": [
     "¿Qué es la reexpedición de mercancías?",
-    "¿Cuándo puedo internar productos desde la frontera?",
-    "¿Qué condiciones deben cumplirse para reexportar mercancías?",
-    "¿Se deben pagar impuestos para la reexpedición?",
-    "¿Puedo transformar mercancías en la frontera y enviarlas al interior?"
+    "¿Qué mercancías se pueden internar al resto del país desde la frontera?",
+    "¿Cuáles son los requisitos para importar mercancías al país?",
+    "¿Se pueden importar mercancías temporalmente para transformarlas?",
+    "¿Qué significa importar mercancías de manera definitiva?"
   ]
 }

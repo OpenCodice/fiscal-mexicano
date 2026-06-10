@@ -6,31 +6,29 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d1097c2a101311ad",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Valor de Precio Unitario de Venta",
+  "denominacion_comun": "Valor de precio unitario de venta",
   "temas": [
     "valor de mercancías",
     "importación",
     "precio unitario",
-    "ventas nacionales",
-    "deducciones",
     "mercancías idénticas",
     "transformación de mercancías"
   ],
   "terminos_coloquiales": [
-    "cómo se valúan las mercancías",
-    "precio de importación",
-    "precio de venta en México",
-    "valor de mercancías importadas",
-    "cómo se determina el precio unitario"
+    "precio de venta",
+    "valor de importación",
+    "venta de mercancías",
+    "mercancías similares"
   ],
-  "resumen": "El artículo detalla cómo se determina el valor de precio unitario de venta de mercancías importadas en México. Se establece que, si se venden en el mismo estado en que fueron importadas, se basa en el precio más alto de venta. Si no se venden, se puede usar el precio de venta posterior a una transformación, considerando ciertas deducciones.",
+  "resumen": "Este artículo define cómo determinar el valor de precio unitario de venta de mercancías importadas, ya sea en su estado original o después de su transformación, considerando distintas condiciones de venta. Además, aclara que no se tomará en cuenta la venta que involucre elementos proporcionados por el comprador de forma gratuita o a precio reducido para la producción de estas mercancías.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el valor de mercancías importadas?",
-    "¿Qué criterios se utilizan para determinar el precio unitario?",
-    "¿Qué pasa si no se venden las mercancías en el estado original?",
-    "¿Cuáles son las deducciones que se deben considerar?",
-    "¿Qué significa que el vendedor y el comprador no estén vinculados?"
+    "¿Cómo se determina el precio unitario de venta de mercancías importadas?",
+    "¿Qué pasa si no se venden las mercancías en su estado original?",
+    "¿Qué se considera al calcular el valor de mercancías transformadas?",
+    "¿Cómo se afecta el precio de venta por elementos proporcionados por el comprador?",
+    "¿Qué deducciones se aplican para el cálculo del valor de importación?"
   ]
 }

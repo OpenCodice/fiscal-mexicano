@@ -6,29 +6,27 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:52d0f0cc15a8481e",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remitente de mercancías",
+  "denominacion_comun": "Remitente de Envíos Postales",
   "temas": [
-    "envíos postales",
-    "exportación de mercancías",
-    "procedencia extranjera",
+    "exportación",
+    "mercancías",
     "franja fronteriza",
     "depósito ante la aduana"
   ],
   "terminos_coloquiales": [
-    "enviar mercancía al extranjero",
-    "envío postal de productos",
-    "mercancías de otros países",
-    "mandar cosas fuera",
-    "paquetería internacional"
+    "envíos postales",
+    "remitente",
+    "mercancías de exportación",
+    "productos internacionales"
   ],
-  "resumen": "El remitente de mercancías debe indicar en las envolturas que se trata de exportaciones. Esto también aplica a quienes envían mercancías de origen extranjero desde zonas fronterizas a otras partes del país.",
+  "resumen": "El remitente de envíos postales que contenga mercancías para exportación debe declararlo en las envolturas. Lo mismo aplica para mercancías de origen extranjero enviadas desde la franja fronteriza al resto del país.",
   "preguntas_ejemplo": [
-    "¿Cómo debo enviar mercancías al extranjero?",
-    "¿Qué tengo que poner en el paquete para exportar?",
-    "¿Las mercancías de otros países tienen alguna obligación al enviarlas?",
-    "¿Qué es el depósito ante la aduana?",
-    "¿Cómo se manejan los envíos desde la frontera?"
+    "¿Qué debo hacer con las mercancías que exporto por correo?",
+    "¿Cómo se debe manifestar un envío postal de mercancías para exportación?",
+    "¿Tengo que declarar mis productos si los envío desde la frontera?",
+    "¿Qué obligaciones tengo como remitente de mercancías?"
   ]
 }

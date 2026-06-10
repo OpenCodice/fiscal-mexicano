@@ -6,33 +6,35 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:de75f2eadb15fd9d",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Revocación de concesiones aduaneras",
+  "denominacion_comun": "Revocación de concesiones y autorizaciones aduaneras",
   "temas": [
-    "revocación de concesiones",
-    "cancelación de autorizaciones",
-    "obligaciones fiscales",
+    "concesiones",
+    "autorizaciones",
     "suspensión de operaciones",
-    "derechos de concesionarios",
-    "irregularidades fiscales",
-    "transferencia de mercancías",
-    "procedimientos aduaneros"
+    "revocación",
+    "fiscalización",
+    "garantías",
+    "créditos fiscales"
   ],
   "terminos_coloquiales": [
-    "cómo cancelar una concesión",
-    "revocación de permisos aduaneros",
-    "sanciones a concesionarios",
-    "problemas con la aduana",
-    "traslado de mercancías",
-    "incumplimiento fiscal"
+    "cancelación de permisos",
+    "dar de baja concesiones",
+    "suspensión de servicios",
+    "no cubrir impuestos",
+    "listados de contribuyentes",
+    "certificado de sello digital",
+    "Domicilio Fiscal",
+    "declarar quiebra"
   ],
-  "resumen": "Las autoridades aduaneras pueden cancelar o revocar concesiones y autorizaciones por diversas razones, como el incumplimiento fiscal o irregularidades en el manejo de registros. Además, establecen un proceso para informar a los concesionarios sobre la decisión y las consecuencias para sus mercancías.",
+  "resumen": "El artículo establece las causas por las cuales las autoridades aduaneras pueden revocar concesiones o cancelar autorizaciones. También señala el procedimiento que debe seguir la autoridad para llevar a cabo esta revocación y las acciones a tomar por los titulares afectados.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las causas para que me cancelen mi concesión aduanera?",
-    "¿Qué pasa si no cumplo con mis obligaciones fiscales como concesionario?",
-    "¿Cómo se realiza el procedimiento de revocación de una autorización?",
-    "¿Qué debo hacer con mis mercancías si me revocan la concesión?",
-    "¿Cuánto tiempo tengo para responder a una orden de suspensión?"
+    "¿Cuáles son las razones para que me revoquen la concesión aduanera?",
+    "¿Qué pasa si no presento mis obligaciones fiscales?",
+    "¿Qué sucede con mis mercancías si se cancela mi autorización?",
+    "¿Cómo puedo defenderme si me notifican una revocación?",
+    "¿Qué debo hacer si tengo créditos fiscales pendientes?"
   ]
 }

@@ -6,6 +6,7 @@
     "modelo": "gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:d74c62cc7b2a2ed2",
+    "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Sanciones por infracciones aduaneras",
@@ -13,21 +14,21 @@
     "sanciones",
     "multas",
     "infracciones aduaneras",
-    "control y manejo de mercancías",
-    "clausura de establecimientos"
+    "control de mercancías",
+    "clausura de establecimiento",
+    "suspensión provisional",
+    "valor comercial"
   ],
   "terminos_coloquiales": [
     "multas aduaneras",
-    "sanciones por mercancías",
-    "infracciones de aduanas",
-    "qué pasa si cometo una infracción aduanera"
+    "sanciones por importaciones",
+    "clausura del negocio",
+    "recintos fiscalizados"
   ],
-  "resumen": "El artículo establece las multas y sanciones que se aplican a quienes cometan infracciones en el manejo y control de mercancías. Las sanciones varían según la gravedad de la infracción y pueden incluir clausura temporal del establecimiento.",
+  "resumen": "El artículo establece las sanciones aplicables a quienes cometan infracciones relacionadas con el manejo y control de mercancías, incluyendo multas de diferentes rangos y la posibilidad de clausura del establecimiento por semanas. También detalla multas específicas según la gravedad de la infracción.",
   "preguntas_ejemplo": [
-    "¿Cuánto me pueden multar por una infracción aduanera?",
-    "¿Qué sanciones hay si no cumplo con las regulaciones aduaneras?",
-    "¿Cuáles son las infracciones más comunes en aduanas?",
-    "¿Qué ocurre si mi establecimiento es clausurado por aduanas?",
-    "¿Qué multas aplican a las mercancías exentas?"
+    "¿Qué multas se aplican por infracciones aduaneras?",
+    "¿Cuáles son las sanciones si cierro mi negocio por violaciones aduaneras?",
+    "¿Qué implica la suspensión provisional de un recinto fiscalizado?"
   ]
 }
