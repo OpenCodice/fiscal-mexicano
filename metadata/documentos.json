@@ -1,0 +1,294 @@
+{
+  "documentos": [
+    {
+      "clave": "anexo2-2026",
+      "etiqueta": "Fichas de trámite fiscales (Anexo 2 RMF 2026)",
+      "sigla": "Anexo 2 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 330,
+      "version": "2025-12-29",
+      "pdf_sha256": "ea38b1fa101a8fb07a4b913589aad3f0cda85e67345581cbe199fa016a4c7e1d",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "anexo5-2026",
+      "etiqueta": "Cantidades actualizadas del CFF (Anexo 5 RMF 2026)",
+      "sigla": "Anexo 5 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 3,
+      "version": "2025-12-28",
+      "pdf_sha256": "ed96a19389de60bb2ea317fecfa0fd833ad649fbee1021e1f1d7d9a5c8b6dd14",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "anexo8-2026",
+      "etiqueta": "Tarifas del ISR (Anexo 8 RMF 2026)",
+      "sigla": "Anexo 8 RMF 2026",
+      "tipo": "anexo-rmf",
+      "num_articulos": 3,
+      "version": "2025-12-28",
+      "pdf_sha256": "69ebaf8a78a3bde5d631ad2a994e81ec6d07e2d4e39085c8c948d138f782c1f4",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "cff",
+      "etiqueta": "Código Fiscal de la Federación",
+      "sigla": "CFF",
+      "tipo": "ley",
+      "num_articulos": 421,
+      "version": "2026-04-09",
+      "pdf_sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "criterios-no-vinculativos",
+      "etiqueta": "Compilación de criterios sobre prácticas fiscales indebidas (Anexo 3 RMF 2026)",
+      "sigla": "Criterio No Vinculativo",
+      "tipo": "criterios",
+      "num_articulos": 81,
+      "version": "2026-01-09",
+      "pdf_sha256": "ba7119f26e28b7e542efd65eb206da44cca27694f78253765b15bcc3df0cff5b",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "criterios-normativos",
+      "etiqueta": "Compilación de criterios normativos fiscales (Anexo 7 RMF 2026)",
+      "sigla": "Criterio Normativo",
+      "tipo": "criterios",
+      "num_articulos": 153,
+      "version": "2026-01-09",
+      "pdf_sha256": "fb05d0a105da6536e2c8fa313b2f862b7849759513eaeaab106ddd6a119104c9",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "ladua",
+      "etiqueta": "Ley Aduanera",
+      "sigla": "L. Aduanera",
+      "tipo": "ley",
+      "num_articulos": 277,
+      "version": "2025-11-19",
+      "pdf_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lcf",
+      "etiqueta": "Ley de Coordinación Fiscal",
+      "sigla": "LCF",
+      "tipo": "ley",
+      "num_articulos": 67,
+      "version": "2024-01-03",
+      "pdf_sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lfd",
+      "etiqueta": "Ley Federal de Derechos",
+      "sigla": "LFD",
+      "tipo": "ley",
+      "num_articulos": 782,
+      "version": "2025-11-07",
+      "pdf_sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lfdc",
+      "etiqueta": "Ley Federal de los Derechos del Contribuyente",
+      "sigla": "LFDC",
+      "tipo": "ley",
+      "num_articulos": 24,
+      "version": "2005-06-23",
+      "pdf_sha256": "70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lfisan",
+      "etiqueta": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+      "sigla": "LFISAN",
+      "tipo": "ley",
+      "num_articulos": 14,
+      "version": "2021-11-12",
+      "pdf_sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lfpca",
+      "etiqueta": "Ley Federal de Procedimiento Contencioso Administrativo",
+      "sigla": "LFPCA",
+      "tipo": "ley",
+      "num_articulos": 132,
+      "version": "2025-11-14",
+      "pdf_sha256": "c99ea8ee22f1988c309d700f74532efdcd790f82cd3d6128a42a2f97ec2c4710",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lfpiorpi",
+      "etiqueta": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "sigla": "LFPIORPI",
+      "tipo": "ley",
+      "num_articulos": 73,
+      "version": "2025-07-16",
+      "pdf_sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lieps",
+      "etiqueta": "Ley del Impuesto Especial sobre Producción y Servicios",
+      "sigla": "LIEPS",
+      "tipo": "ley",
+      "num_articulos": 68,
+      "version": "2025-11-07",
+      "pdf_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lif-2026",
+      "etiqueta": "Ley de Ingresos de la Federación 2026",
+      "sigla": "LIF 2026",
+      "tipo": "ley",
+      "num_articulos": 34,
+      "version": "2025-11-07",
+      "pdf_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lish",
+      "etiqueta": "Ley de Ingresos sobre Hidrocarburos",
+      "sigla": "LISH",
+      "tipo": "ley",
+      "num_articulos": 64,
+      "version": "2025-03-18",
+      "pdf_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lisr",
+      "etiqueta": "Ley del Impuesto sobre la Renta",
+      "sigla": "LISR",
+      "tipo": "ley",
+      "num_articulos": 236,
+      "version": "2024-04-01",
+      "pdf_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "liva",
+      "etiqueta": "Ley del Impuesto al Valor Agregado",
+      "sigla": "LIVA",
+      "tipo": "ley",
+      "num_articulos": 80,
+      "version": "2021-11-12",
+      "pdf_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "lsat",
+      "etiqueta": "Ley del Servicio de Administración Tributaria",
+      "sigla": "LSAT",
+      "tipo": "ley",
+      "num_articulos": 41,
+      "version": "2018-12-04",
+      "pdf_sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rcff",
+      "etiqueta": "Reglamento del Código Fiscal de la Federación",
+      "sigla": "RCFF",
+      "tipo": "reglamento",
+      "num_articulos": 113,
+      "version": "2014-04-02",
+      "pdf_sha256": "649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rfa-2026",
+      "etiqueta": "Resolución de Facilidades Administrativas para 2026",
+      "sigla": "RFA 2026",
+      "tipo": "rfa",
+      "num_articulos": 54,
+      "version": "2026-02-17",
+      "pdf_sha256": "37edcc03fea879b8171081461975ec5c68a70c2dfb54e85f87d038acc4737fe8",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rgce-2026",
+      "etiqueta": "Reglas Generales de Comercio Exterior para 2026",
+      "sigla": "RGCE 2026",
+      "tipo": "rgce",
+      "num_articulos": 550,
+      "version": "2025-12-27",
+      "pdf_sha256": "50d2b9c07422be5c9fc56bd3fe63f33a52e3119a5ffcd1951987a3d62e03e752",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "risat",
+      "etiqueta": "Reglamento Interior del Servicio de Administración Tributaria",
+      "sigla": "RISAT",
+      "tipo": "reglamento",
+      "num_articulos": 56,
+      "version": "2021-12-21",
+      "pdf_sha256": "1150da5d374c226f338fc8244998e9c446443c007131c400e2161ac292baca1c",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rladua",
+      "etiqueta": "Reglamento de la Ley Aduanera",
+      "sigla": "RLA",
+      "tipo": "reglamento",
+      "num_articulos": 282,
+      "version": "2026-02-23",
+      "pdf_sha256": "bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rlfpiorpi",
+      "etiqueta": "Reglamento de la LFPIORPI",
+      "sigla": "RLFPIORPI",
+      "tipo": "reglamento",
+      "num_articulos": 70,
+      "version": "2026-03-27",
+      "pdf_sha256": "8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rlieps",
+      "etiqueta": "Reglamento de la Ley del IEPS",
+      "sigla": "RLIEPS",
+      "tipo": "reglamento",
+      "num_articulos": 19,
+      "version": "2006-12-04",
+      "pdf_sha256": "cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rlisr",
+      "etiqueta": "Reglamento de la Ley del Impuesto sobre la Renta",
+      "sigla": "RLISR",
+      "tipo": "reglamento",
+      "num_articulos": 313,
+      "version": "2016-05-06",
+      "pdf_sha256": "0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rliva",
+      "etiqueta": "Reglamento de la Ley del Impuesto al Valor Agregado",
+      "sigla": "RLIVA",
+      "tipo": "reglamento",
+      "num_articulos": 84,
+      "version": "2014-09-25",
+      "pdf_sha256": "4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    },
+    {
+      "clave": "rmf-2026",
+      "etiqueta": "Resolución Miscelánea Fiscal para 2026",
+      "sigla": "RMF 2026",
+      "tipo": "rmf",
+      "num_articulos": 1208,
+      "version": "2025-12-28",
+      "pdf_sha256": "6f71ce0cccf430171fe858c5d244b1c321fa68306f962d44ec4977858a52919a",
+      "extractor_sha": "e53dfea61890dfbfba3e7019e7576f6ab0da0bf0"
+    }
+  ]
+}
