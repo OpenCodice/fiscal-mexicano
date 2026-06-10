@@ -1,0 +1,37 @@
+{
+  "clave": "065",
+  "documento": "rladua",
+  "etiqueta": "Artículo 65.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:dd61e8401901c29c",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Control de la Aduana en el Despacho",
+  "temas": [
+    "pedimentos",
+    "mercancías de importación",
+    "documentos de origen",
+    "comprobante fiscal digital",
+    "subdivisión de pedimentos",
+    "trazabilidad"
+  ],
+  "terminos_coloquiales": [
+    "pedimento",
+    "importación",
+    "mercancías",
+    "comprobante fiscal",
+    "documento de transporte"
+  ],
+  "resumen": "En un pedimento solo se pueden declarar mercancías para un mismo destinatario y régimen. Las mercancías pueden subdividirse en varios pedimentos, asegurando que se mantenga la trazabilidad a través de un comprobante fiscal digital o documento equivalente.",
+  "preguntas_ejemplo": [
+    "¿Qué es un pedimento aduanal?",
+    "¿Puedo dividir un pedimento para importar mercancías?",
+    "¿Cómo se manejan los comprobantes fiscales en los pedimentos?",
+    "¿Qué se necesita para declarar mercancías en un pedimento?",
+    "¿Qué documentos se requieren para la importación de mercancías?",
+    "¿Cuál es el proceso para la subdivisión de pedimentos?"
+  ]
+}

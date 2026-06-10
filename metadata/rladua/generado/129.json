@@ -1,0 +1,36 @@
+{
+  "clave": "129",
+  "documento": "rladua",
+  "etiqueta": "Artículo 129.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5ecf3002e0df177b",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Valor de transacción",
+  "temas": [
+    "mercancías",
+    "valor en aduana",
+    "ajustes",
+    "gastos de transporte",
+    "seguro",
+    "gastos conexos"
+  ],
+  "terminos_coloquiales": [
+    "valor de transacción",
+    "valor aduanero",
+    "ajustes por cantidad",
+    "ajustes por nivel comercial",
+    "mercancías similares",
+    "gastos de envío"
+  ],
+  "resumen": "Este artículo establece cómo se debe calcular el valor de transacción de mercancías para la aduana, considerando ajustes por cantidad o nivel comercial. Si no hay suficiente información para estos ajustes, no se puede usar el valor de mercancías similares para determinar el valor en aduana.",
+  "preguntas_ejemplo": [
+    "¿Cómo se calcula el valor en aduana de mis mercancías?",
+    "¿Qué ajustes se consideran para determinar el valor de transacción?",
+    "¿Qué hacer si no tengo información suficiente para calcular el valor aduanero?",
+    "¿Cómo afectan los gastos de transporte al valor de mis mercancías en aduana?"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "clave": "128",
+  "documento": "rladua",
+  "etiqueta": "Artículo 128.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:acd62f913347244a",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Valoración de Mercancías",
+  "temas": [
+    "valor de transacción",
+    "mercancías idénticas",
+    "mercancías similares",
+    "valor en aduana",
+    "comprobante fiscal digital"
+  ],
+  "terminos_coloquiales": [
+    "valor de mercancías",
+    "valoración aduanera",
+    "aduanas",
+    "ventas de mercancías",
+    "CFDI"
+  ],
+  "resumen": "El artículo establece que las mercancías sin venta pueden ser valoradas usando el método de valor de transacción de mercancías idénticas o similares, tomando como referencia el valor en aduana de otras mercancías que sí tengan venta. Esto ayuda en la valoración adecuada en los embarques.",
+  "preguntas_ejemplo": [
+    "¿Cómo se valúan las mercancías que no tienen venta?",
+    "¿Qué métodos se utilizan para la valoración de mercancías en aduanas?",
+    "¿Qué es el valor de transacción para mercancías similares?",
+    "¿Cómo se relacionan las mercancías idénticas con la valoración en aduana?",
+    "¿Qué información se requiere para el comprobante fiscal digital en estos casos?"
+  ]
+}

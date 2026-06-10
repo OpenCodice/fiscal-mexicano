@@ -1,0 +1,31 @@
+{
+  "clave": "111",
+  "documento": "rladua",
+  "etiqueta": "Artículo 111.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:03553bb579fedcf8",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Venta de mercancías para exportación",
+  "temas": [
+    "importación",
+    "exportación",
+    "contratos de arrendamiento",
+    "arrendamiento financiero"
+  ],
+  "terminos_coloquiales": [
+    "importar mercancías",
+    "vender mercancías",
+    "contrato de arrendamiento",
+    "arrendamiento financiero"
+  ],
+  "resumen": "Este artículo establece que no se considera venta de mercancías al importar productos bajo un contrato de arrendamiento o arrendamiento financiero, aunque haya opción de compra. Esto aplica específicamente para mercancías que se exportan a territorio nacional.",
+  "preguntas_ejemplo": [
+    "¿Qué se considera venta de mercancías al importar?",
+    "¿Un contrato de arrendamiento afecta la importación de mercancías?",
+    "¿Qué pasa si hay opción de compra en un arrendamiento?"
+  ]
+}

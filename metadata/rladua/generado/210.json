@@ -1,0 +1,33 @@
+{
+  "clave": "210",
+  "documento": "rladua",
+  "etiqueta": "Artículo 210.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f9bf8a65bbb6b776",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Consejos Asesores",
+  "temas": [
+    "sesiones ordinarias",
+    "sesiones extraordinarias",
+    "convocatorias",
+    "acuerdos",
+    "minutas"
+  ],
+  "terminos_coloquiales": [
+    "reuniones de asesores",
+    "voto de calidad",
+    "minuta de sesión"
+  ],
+  "resumen": "Los Consejos Asesores se reúnen dos veces al año y pueden tener sesiones extraordinarias. Las convocatorias se notifican con anticipación y se requiere la asistencia de la mayoría para que las sesiones sean válidas. Las decisiones se toman por mayoría de votos y se levantan minutas para documentar los acuerdos.",
+  "preguntas_ejemplo": [
+    "¿Con qué frecuencia se reúnen los Consejos Asesores?",
+    "¿Qué se necesita para que una sesión del Consejo sea válida?",
+    "¿Cómo se notifican las convocatorias a las reuniones?",
+    "¿Qué es el voto de calidad en las decisiones del Consejo?",
+    "¿Qué información se incluye en la minuta de una sesión?"
+  ]
+}

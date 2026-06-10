@@ -1,0 +1,37 @@
+{
+  "clave": "121",
+  "documento": "rladua",
+  "etiqueta": "Artículo 121.",
+  "_generado": {
+    "modelo": "gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:55f0b0e7ebd5b6f6",
+    "prompt": "sha256:88fa2e8626be2205",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
+  },
+  "denominacion_comun": "Valor en aduana de mercancías",
+  "temas": [
+    "importación",
+    "cobros adicionales",
+    "base gravable",
+    "rectificación de pedimento",
+    "valor de transacción",
+    "contribuciones",
+    "recargos"
+  ],
+  "terminos_coloquiales": [
+    "precio de importación",
+    "cargos adicionales",
+    "rectificar pedimento",
+    "valor en aduana",
+    "declarar mercancía"
+  ],
+  "resumen": "Este artículo establece que, si no se puede determinar el monto de ciertos cargos al momento de la importación, el importador puede estimar esos cargos y ajustar la base gravable provisionalmente. Si se determinan cantidades diferentes después, debe rectificar el pedimento y pagar las contribuciones adeudadas. Además, se indica que si no se rectifica el valor en un año, este será considerado definitivo.",
+  "preguntas_ejemplo": [
+    "¿Cómo se calcula el valor en aduana de mis mercancías?",
+    "¿Qué debo hacer si no puedo determinar los cargos adicionales al importar?",
+    "¿Cuál es el procedimiento si tengo que rectificar un pedimento?",
+    "¿Qué pasa si no rectifico mi pedimento a tiempo?",
+    "¿Cómo se determinan las contribuciones por importación?"
+  ]
+}
