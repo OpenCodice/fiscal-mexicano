@@ -38,6 +38,7 @@ vigente:
 | Ley del Impuesto al Valor Agregado | 2021-11-12 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf) |
 | Ley del Impuesto sobre la Renta | 2024-04-01 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf) |
 | Ley del Servicio de Administración Tributaria | 2018-12-04 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf) |
+| Reglamento Interior del Servicio de Administración Tributaria | 2021-12-21 | [Descargar PDF](https://wwwmat.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461176458878&ssbinary=true) |
 | Reglamento de la LFPIORPI | 2026-03-27 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf) |
 | Reglamento de la Ley Aduanera | 2026-02-23 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf) |
 | Reglamento de la Ley del IEPS | 2006-12-04 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf) |
