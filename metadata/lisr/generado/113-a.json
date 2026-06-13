@@ -5,33 +5,36 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:edc8ed3aa94763e1",
+    "hash_texto": "sha256:04580f1e8ba1a1c3",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Incorporación Fiscal",
+  "denominacion_comun": "Ingresos por actividades en línea",
   "temas": [
-    "retención de impuestos",
-    "actividades empresariales",
+    "impuesto sobre la renta",
+    "retensión de impuestos",
     "plataformas tecnológicas",
-    "servicios en línea",
-    "ingresos",
-    "personas físicas"
+    "prestación de servicios",
+    "enajenación de bienes",
+    "personas físicas",
+    "servicios de transporte",
+    "servicios de hospedaje"
   ],
   "terminos_coloquiales": [
-    "RIF",
-    "impuesto sobre la renta",
-    "Ingresos por Internet",
-    "plataformas digitales",
-    "servicios por aplicaciones",
-    "retención fiscal"
+    "vender en línea",
+    "ganar dinero por Internet",
+    "pago de impuestos en línea",
+    "retención fiscal",
+    "servicios de entrega",
+    "servicios turísticos",
+    "RIF"
   ],
-  "resumen": "Este artículo establece que las personas físicas que realicen actividades empresariales a través de plataformas digitales están obligadas a pagar impuestos sobre los ingresos generados. El impuesto será retenido por las entidades que operen estas plataformas, con tasas específicas según el tipo de servicio o bien enajenado.",
+  "resumen": "Las personas físicas que realicen actividades empresariales a través de Internet deben pagar un impuesto sobre los ingresos generados por estas actividades. La retención de este impuesto la realizarán las personas morales o entidades que usen las plataformas tecnológicas correspondientes.",
   "preguntas_ejemplo": [
     "¿Cómo se paga el impuesto si vendo productos por Internet?",
-    "¿Qué porcentaje me retienen si ofrezco servicios de transporte por plataformas digitales?",
-    "¿Puedo optar por pagar el impuesto sobre la renta de manera diferente si mis ingresos son bajos?",
-    "¿Qué debo hacer si recibo pago directamente de los usuarios en lugar de por la plataforma?",
-    "¿Cómo afecta la retención de impuestos a mis ingresos anuales?"
+    "¿Qué tasas de retención se aplican a mis ingresos por servicios en línea?",
+    "¿Qué debo hacer si mis ingresos anuales son menores a 300 mil pesos?",
+    "¿Quiénes están obligados a retener el impuesto sobre mis ventas en línea?",
+    "¿Cómo se calcula el impuesto sobre mis ingresos de plataformas digitales?"
   ]
 }

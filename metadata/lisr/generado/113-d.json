@@ -5,31 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:11fbe18b5f236e04",
+    "hash_texto": "sha256:14b8bad03dd0bd35",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Régimen de Incorporación Fiscal",
+  "denominacion_comun": "Sanciones por incumplimiento de retenciones",
   "temas": [
     "sanciones",
     "retenciones",
     "impuesto sobre la renta",
-    "cumplimiento fiscal",
-    "personas morales extranjeras"
+    "personas morales",
+    "residencia fiscal",
+    "entidades extranjeras",
+    "cumplimiento tributario"
   ],
   "terminos_coloquiales": [
-    "sanciones por incumplimiento",
-    "retener impuestos",
-    "impuesto sobre la renta",
-    "RIF"
+    "sanción por no retener",
+    "retención de ISR",
+    "personas morales extranjeras",
+    "cumplimiento de obligaciones fiscales"
   ],
-  "resumen": "Este artículo establece las sanciones aplicables a las personas morales residentes en el extranjero que no retengan y entreguen el impuesto sobre la renta. Las sanciones son independientes de otras que se apliquen según el Código Fiscal de la Federación.",
+  "resumen": "Este artículo establece sanciones para las personas morales residentes en el extranjero que no retenen y enteran el impuesto sobre la renta durante tres meses consecutivos. Además, las sanciones son independientes de las que se regulan en el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
-    "¿Qué sanciones hay por no retener el impuesto sobre la renta?",
-    "¿Cómo afectan las sanciones a las empresas extranjeras?",
-    "¿Qué pasa si una empresa no cumple con las obligaciones fiscales durante tres meses?",
-    "¿Es diferente la sanción para figuras jurídicas extranjeras?",
-    "¿Qué artículos de la ley se aplican para el incumplimiento tributario?",
-    "¿Cuáles son las consecuencias de no enterar el impuesto sobre la renta?"
+    "¿Qué sanciones hay por no retener el ISR?",
+    "¿Qué pasa si una persona moral extranjera no cumple con sus obligaciones fiscales?",
+    "¿Cuánto tiempo se tiene para retener el impuesto sobre la renta?",
+    "¿Qué ocurre si incumplo por tres meses consecutivos?",
+    "¿Existen sanciones adicionales en el Código Fiscal?",
+    "¿Qué entidades están sujetas a estas sanciones?"
   ]
 }

@@ -5,34 +5,35 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:01057b672c608aea",
+    "hash_texto": "sha256:279711b1a31ffaae",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Obligaciones de personas morales",
+  "denominacion_comun": "Retenciones y obligaciones de personas morales",
   "temas": [
-    "obligaciones fiscales",
+    "retenciones de impuestos",
     "comprobantes fiscales",
-    "retención de impuestos",
-    "impuesto sobre la renta",
+    "obligaciones de personas morales",
     "información al SAT",
-    "contabilidad",
-    "personas morales"
+    "declaración de retenciones",
+    "Registro Federal de Contribuyentes"
   ],
   "terminos_coloquiales": [
-    "retención de impuestos",
-    "comprobante de retención",
-    "obligaciones fiscales",
+    "retenciones",
+    "comprobantes",
+    "impuestos",
+    "gente que trabaja en línea",
+    "empresa extranjera",
     "SAT",
-    "documentación contable"
+    "RIF"
   ],
-  "resumen": "Las personas morales, tanto residentes en México como en el extranjero, tienen varias obligaciones fiscales, como proporcionar comprobantes fiscales a las personas físicas sobre las retenciones efectuadas y retener e informar al SAT sobre el impuesto sobre la renta. También deben conservar la documentación que respalde estas acciones.",
+  "resumen": "Este artículo establece las obligaciones de las personas morales residentes en México y de las entidades extranjeras en relación a la retención y entero del impuesto sobre la renta. Deben proporcionar comprobantes fiscales a las personas físicas a quienes retuvieron impuestos y cumplir con requisitos de información ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones de las personas morales en México?",
-    "¿Qué es un comprobante fiscal de retención?",
-    "¿Cómo debo informar al SAT sobre las retenciones de impuestos?",
-    "¿Qué documentación debo conservar como persona moral?",
-    "¿Qué sucede si no proporciono mi RFC?",
-    "¿Cuál es el porcentaje de retención del ISR para personas morales?"
+    "¿Cuáles son mis obligaciones si soy una empresa extranjera en México?",
+    "¿Qué comprobantes fiscales debo entregar por las retenciones?",
+    "¿Cómo reporto las retenciones al SAT?",
+    "¿Qué información debo conservar sobre las retenciones?",
+    "¿Cuál es la tasa de retención aplicable si no tengo RFC?",
+    "¿Qué debo hacer si no entrego la clave del RFC al SAT?"
   ]
 }
