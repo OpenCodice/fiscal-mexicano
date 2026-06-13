@@ -5,31 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b401156a2889b4e7",
+    "hash_texto": "sha256:15aecf680a461ce5",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adjudicación de Inmuebles",
+  "denominacion_comun": "Remate de inmuebles",
   "temas": [
-    "escritura",
-    "adjudicación",
-    "inmueble",
+    "adjudicación de inmuebles",
+    "escritura pública",
     "autoridad ejecutora",
-    "desocupación",
-    "terceros",
-    "acreditación legal"
+    "desocupación de propiedad"
   ],
   "terminos_coloquiales": [
-    "comprar una casa",
-    "adjudicación de bienes",
-    "desocupar un inmueble"
+    "remate",
+    "compra de propiedad",
+    "desalojo",
+    "escritura de la casa"
   ],
-  "resumen": "El artículo establece que tras firmar la escritura de adjudicación de un inmueble, la autoridad correspondiente debe asegurarse de que se entregue al nuevo propietario, incluso ordenando la desocupación si el inmueble está habitado por alguien que no pueda demostrar su derecho a ocuparlo.",
+  "resumen": "El artículo establece que, tras la firma de la escritura de adjudicación de un inmueble, la autoridad debe entregar el inmueble al adquirente y puede ordenar su desocupación si está ocupado sin una acreditación legal. Esto se refiere al proceso de remate de un inmueble.",
   "preguntas_ejemplo": [
-    "¿Qué pasa después de firmar la escritura de un inmueble?",
-    "¿Puede la autoridad desalojar a alguien de un inmueble adjudicado?",
-    "¿Qué requisitos se tienen que cumplir para la entrega de un inmueble?",
-    "¿Quién se encarga de la entrega del inmueble tras la adjudicación?",
-    "¿Qué sucede si hay personas habitando el inmueble adjudicado?"
+    "¿Qué pasa después de que se firma la escritura de un remate?",
+    "¿Qué vale la autoridad hacer si la propiedad adjudicada está habitada?",
+    "¿Quién se encarga de entregar el inmueble tras el remate?",
+    "¿Se puede desalojar a los ocupantes de una casa en remate?",
+    "¿Qué es una escritura de adjudicación en un remate?"
   ]
 }

@@ -5,32 +5,34 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cc94ba9cb666f599",
+    "hash_texto": "sha256:d107c814b8fc2d3c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Abandono de bienes",
   "temas": [
-    "bienes",
+    "bien embargado",
+    "remate",
     "fisco federal",
-    "abandonos",
-    "embargos",
-    "notificaciones",
-    "devolución de bienes"
+    "notificación de abandono",
+    "bienes muebles",
+    "devolución de bienes",
+    "resoluciones fiscales"
   ],
   "terminos_coloquiales": [
+    "bienes en abandono",
     "abandonar bienes",
-    "bienes embargados",
-    "retirar bienes",
-    "bienes en poder del fisco",
-    "bien en depósito"
+    "devolución de propiedades",
+    "embargo",
+    "rematar bienes",
+    "bienes del fisco"
   ],
-  "resumen": "Este artículo establece las circunstancias bajo las cuales los bienes pueden considerarse en abandono y pasar a propiedad del fisco federal. Se detallan los plazos y condiciones para el retiro de los bienes por parte de los interesados.",
+  "resumen": "Los bienes pueden ser considerados en abandono y pasar a propiedad del fisco federal si no son retirados en un plazo determinado después de su adjudicación o embargo. Las autoridades fiscales deberán notificar que los bienes han causado abandono antes de ser transferidos al fisco.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no retiro mis bienes después de un embargo?",
-    "¿Cuánto tiempo tengo para retirar mis bienes después de que se me notifique?",
-    "¿Qué son los bienes en abandono para el fisco?",
-    "¿Qué sucede si no hay respuesta a la notificación de abandono?",
-    "¿Cómo se transfiere un bien que ha causado abandono al fisco?"
+    "¿Qué pasa si no retiro un bien embargado?",
+    "¿Cuánto tiempo tengo para recoger mis bienes después de un remate?",
+    "¿Qué significa que un bien es abandonado por el fisco?",
+    "¿Cómo se notifica el abandono de bienes?",
+    "¿Qué ocurre con los bienes que no se reclaman después de un embargo?"
   ]
 }

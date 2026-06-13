@@ -5,35 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:ffa9d21adfd8dced",
+    "hash_texto": "sha256:9d46fd8bcaf23825",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos improcedentes",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
+    "improcedencia del recurso",
     "actos administrativos",
     "interés jurídico",
-    "recursos administrativos",
-    "Tribunal Federal de Justicia Fiscal",
+    "resoluciones administrativas",
     "consentimiento",
-    "tratados internacionales",
-    "créditos fiscales",
-    "resoluciones liquidatorias",
-    "prescripción de créditos"
+    "autoridades fiscales",
+    "tratados internacionales"
   ],
   "terminos_coloquiales": [
     "recurso",
-    "reclamo",
-    "juicio administrativo",
-    "impuestos",
-    "deudas fiscales"
+    "recurso de revocación",
+    "actos que no pueden ser impugnados",
+    "resoluciones firmes",
+    "créditos fiscales"
   ],
-  "resumen": "El artículo establece que hay ciertas situaciones en las que no se puede interponer un recurso contra actos administrativos, como cuando no afectan el interés del recurrente o cuando se han consentido. También menciona casos específicos relacionados con resoluciones extranjeras y créditos fiscales.",
+  "resumen": "El recurso de revocación no es procedente contra ciertos actos administrativos que no afectan el interés jurídico del recurrente. También es improcedente si los actos han sido consentidos o si son resoluciones firmes de otras autoridades.",
   "preguntas_ejemplo": [
-    "¿Cuándo no puedo impugnar un acto administrativo?",
-    "¿Qué actos administrativos no afectan mi interés?",
-    "¿Qué pasa si no presenté un recurso a tiempo?",
-    "¿Los actos extranjeros se pueden impugnar en México?",
-    "¿Qué requisitos deben cumplirse para que un recurso sea procedente?"
+    "¿Cuándo no es posible presentar un recurso de revocación?",
+    "¿Qué tipos de actos administrativos no se pueden impugnar?",
+    "¿Qué significa que un acto administrativo sea consentido?",
+    "¿Cuáles son las excepciones para presentar un recurso contra resoluciones administrativas?",
+    "¿Qué pasa si una resolución fiscal ha sido impugnada ya?"
   ]
 }

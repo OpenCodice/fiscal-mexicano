@@ -5,38 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:dc7f3e2df7737a56",
+    "hash_texto": "sha256:2c915982ad64476a",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bienes exceptuados de embargo",
+  "denominacion_comun": "Del Embargo",
   "temas": [
-    "embargo",
-    "bienes personales",
-    "patrimonio",
+    "bienestar familiar",
+    "muebles necesarios",
+    "derechos de uso",
     "sueldos",
     "pensiones",
-    "derechos de usufructo",
-    "maquinaria",
-    "ejidos"
+    "ejidos",
+    "depósitos de ahorro"
   ],
   "terminos_coloquiales": [
-    "no embargable",
+    "embargo",
+    "bienes embargables",
     "sueldos",
     "pensiones",
-    "ahorro para el retiro",
-    "bienes de uso cotidiano",
-    "negocios",
-    "maquinaria",
-    "derechos de uso"
+    "ahorros para el retiro"
   ],
-  "resumen": "Este artículo establece una lista de bienes que están exceptuados de embargo, es decir, que no pueden ser embargados. Estos incluyen bienes de uso cotidiano, sueldos, pensiones, y algunos derechos relacionados con el patrimonio familiar y el ahorro para el retiro.",
+  "resumen": "El artículo establece qué bienes quedan exceptuados de embargo, incluyendo el lecho y la ropa de la familia, los muebles indispensables, y derechos como el usufructo y uso. También menciona que no se pueden embargar sueldos, pensiones, ejidos y depósitos de ahorro para el retiro hasta cierto límite.",
   "preguntas_ejemplo": [
-    "¿Qué bienes no pueden ser embargados?",
-    "¿Se pueden embargar mis sueldos o pensiones?",
-    "¿Qué derechos tengo sobre mis bienes en caso de embargo?",
-    "¿Cuáles son los bienes de uso cotidiano que no se pueden embargar?",
-    "¿Qué pasa con mi ahorro para el retiro si me embargan?",
-    "¿Los ejidos están protegidos de embargos?"
+    "¿Qué cosas no pueden ser embargadas?",
+    "¿Cuáles son los bienes que quedan exentos de embargo?",
+    "¿Se pueden embargar mis ahorros para el retiro?",
+    "¿Mis sueldos son susceptibles de embargo?",
+    "¿Qué pasa con los muebles de la casa en un embargo?"
   ]
 }

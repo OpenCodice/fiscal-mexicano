@@ -5,28 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d418df469cbd878e",
+    "hash_texto": "sha256:61ad1449cfc39d1a",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resolución de recursos",
+  "denominacion_comun": "Trámite y Resolución de Recursos",
   "temas": [
-    "autoridad fiscal",
+    "resolución",
     "notificación",
     "silencio administrativo",
-    "recursos fiscales"
+    "recurso",
+    "acto impugnado"
   ],
   "terminos_coloquiales": [
+    "respuesta",
     "resolución de recursos",
-    "silencio administrativo",
-    "recurso contra la autoridad"
+    "silencio de la autoridad",
+    "impugnación"
   ],
-  "resumen": "La autoridad fiscal debe resolver y notificar sobre el recurso presentado en un plazo máximo de tres meses. Si no responde, se considera que ha confirmado el acto impugnado.",
+  "resumen": "La autoridad debe emitir una resolución y notificarla en un plazo máximo de tres meses a partir de la presentación del recurso. Si no lo hace, el acto impugnado se considera confirmado automáticamente.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tiene la autoridad para resolver mi recurso?",
-    "¿Qué pasa si la autoridad no me responde sobre mi recurso?",
-    "¿Puedo impugnar si no hay respuesta de la autoridad?",
-    "¿Qué significa el silencio administrativo en mi caso?",
-    "¿Cómo se notifica la resolución de recursos fiscales?"
+    "¿Cuánto tiempo tiene la autoridad para resolver un recurso?",
+    "¿Qué pasa si la autoridad no responde a mi recurso?",
+    "¿Puedo impugnar si la autoridad no me ha dado respuesta en tres meses?",
+    "¿Qué significa el silencio administrativo en este contexto?"
   ]
 }

@@ -5,33 +5,36 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:8aea7edbee82988d",
+    "hash_texto": "sha256:c26a29cc7fc5fcd3",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Gastos de ejecución fiscal",
+  "denominacion_comun": "Gastos de ejecución",
   "temas": [
     "crédito fiscal",
     "gastos de ejecución",
     "embargo",
     "remate",
-    "avalúo",
+    "honorarios",
+    "avalúos",
     "contribuciones"
   ],
   "terminos_coloquiales": [
-    "cobro de deudas fiscales",
+    "gastos de cobranza",
+    "cobrar deudas fiscales",
     "embargo de bienes",
-    "remate de propiedades",
-    "gastos por ejecución",
-    "honorarios de peritos",
-    "costo de avalúo"
+    "remate de bienes",
+    "avalúo de bienes",
+    "gastos extraordinarios",
+    "CGF (Crédito Fiscal)"
   ],
-  "resumen": "El artículo establece que tanto las personas físicas como las morales deben pagar un 2% del crédito fiscal como gastos de ejecución en diversos procedimientos. Además, se determinan los costos que deben cubrirse por el embargo y remate de bienes, así como otros gastos extraordinarios relacionados con estos procesos.",
+  "resumen": "Este artículo establece que al aplicar el procedimiento administrativo de ejecución para cobrar un crédito fiscal, los contribuyentes deben pagar un 2% del monto del crédito en gastos, salvo que este sea menor a $630. Además, se detallan otros gastos extraordinarios relacionados con el proceso, como transportes y honorarios de peritos.",
   "preguntas_ejemplo": [
-    "¿Cuánto tengo que pagar por gastos de ejecución?",
-    "¿Qué gastos se generan durante un embargo?",
-    "¿Qué ocurre si el costo de un avalúo es más alto que el declarado?",
-    "¿Cómo se determina el monto de los gastos de ejecución?",
-    "¿A dónde van los ingresos por gastos de ejecución?"
+    "¿Cuánto tengo que pagar por gastos de ejecución de un crédito fiscal?",
+    "¿Qué son los gastos extraordinarios en un embargo?",
+    "¿Cómo se calculan los gastos de avalúo en un procedimiento administrativo?",
+    "¿Qué porcentaje se cobra por el remate de bienes embargados?",
+    "¿Existen límites en los gastos de ejecución que puedo cobrar?",
+    "¿Qué sucederá si el avalúo supera el valor declarado por mí?"
   ]
 }

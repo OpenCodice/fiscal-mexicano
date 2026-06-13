@@ -5,31 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:69e6cb50152c323b",
+    "hash_texto": "sha256:095a601f97fbc9d6",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación",
+  "denominacion_comun": "Recurso de revocación exclusivo de fondo",
   "temas": [
-    "procedimiento administrativo",
+    "trámite de revocación",
     "resoluciones definitivas",
     "facultades de comprobación",
     "Unidad de Medida y Actualización",
-    "oralidad",
+    "principios de oralidad",
     "celeridad"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "impugnar resoluciones",
-    "revisar decisiones fiscales",
-    "procedimiento rápido"
+    "revocación",
+    "resolución impugnada",
+    "1ra instancia",
+    "CFF"
   ],
-  "resumen": "Este artículo establece que se puede tramitar un recurso de revocación para impugnar resoluciones definitivas cuando se superen ciertas cantidades relacionadas con las facultades de comprobación. También menciona que se deben seguir principios de oralidad y rapidez en el procedimiento.",
+  "resumen": "El recurso de revocación se tramita y resuelve a través de un procedimiento especializado cuando se impugnan resoluciones definitivas por facultades de comprobación, siempre que la cantidad sea mayor a doscientas veces la UMA. Se deben observar los principios de oralidad y celeridad en el proceso.",
   "preguntas_ejemplo": [
     "¿Cómo puedo impugnar una resolución fiscal?",
-    "¿Qué es un recurso de revocación?",
-    "¿Cuáles son las bases para hacer un recurso?",
-    "¿Qué sucede si la resolución afecta cantidades grandes?",
-    "¿Cómo se tramita un recurso de revocación?"
+    "¿Qué debo hacer si no estoy de acuerdo con una autoridad fiscal?",
+    "¿Cuáles son los procedimientos para un recurso de revocación?",
+    "¿Qué es la UMA y cómo afecta mi recurso de revocación?",
+    "¿Qué principios debe seguir el trámite de revocación?"
   ]
 }

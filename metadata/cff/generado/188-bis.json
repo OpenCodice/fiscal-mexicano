@@ -5,32 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:51c52b9e8bbf1543",
+    "hash_texto": "sha256:a8025df7a83d41a6",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bienes rematados",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "remate de bienes",
     "entrega de bienes",
-    "imposibilidad de entrega",
-    "solicitud de monto pagado",
-    "abandonos",
-    "procedimiento de enajenación"
+    "impedimento jurídico",
+    "devolución de monto",
+    "abandonos fiscales"
   ],
   "terminos_coloquiales": [
     "remate",
     "subasta",
-    "devolución del dinero",
-    "monto pagado",
-    "bienes incompletos"
+    "devolución de dinero",
+    "imposibilidad de entrega"
   ],
-  "resumen": "Si los bienes comprados en un remate no pueden ser entregados por un impedimento legal, el postor puede solicitar la devolución del dinero pagado. La autoridad tiene un plazo para entregar el monto o los bienes si el impedimento se soluciona. Si no se solicita la devolución en seis meses, el monto se considera abandonado a favor del fisco.",
+  "resumen": "Este artículo trata sobre la situación en la que un bien rematado no puede ser entregado al comprador debido a impedimentos legales. El comprador tiene derecho a solicitar la devolución de su dinero si no se puede realizar la entrega en un plazo determinado. Si no se solicita la devolución, el dinero se considera abandonado a favor del fisco.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no puedo recibir los bienes que compré en un remate?",
-    "¿Cuánto tiempo tengo para pedir la devolución del dinero en un remate?",
-    "¿Qué ocurre si la autoridad no puede entregarme los bienes que compré?",
-    "¿Qué hago si mis bienes rematados no me los entregan?",
-    "¿Qué significa que el monto pagado se considere abandonado?"
+    "¿Qué sucede si no me entregan el bien que compré en el remate?",
+    "¿Puedo recuperar mi dinero si hay un impedimento jurídico?",
+    "¿Cuánto tiempo tengo para solicitar la devolución de mi dinero?",
+    "¿Qué pasa si no solicito la entrega de mi dinero después de seis meses?",
+    "¿Qué ocurre si luego entregan los bienes después de que recibí mi dinero?"
   ]
 }

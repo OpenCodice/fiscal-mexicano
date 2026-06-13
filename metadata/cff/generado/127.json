@@ -5,29 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:6af14eee412a406a",
+    "hash_texto": "sha256:3356c9b84a0c7c6b",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "procedimiento administrativo",
-    "máximo plazo",
+    "ejecución",
     "remate",
-    "notificación",
-    "embargo"
+    "violaciones a la ley",
+    "plazos para recursos",
+    "actos inembargables"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "impugnación",
-    "plazo para reclamar"
+    "apelación fiscal",
+    "problemas con embargos"
   ],
-  "resumen": "Establece que si se interpone un recurso de revocación por violaciones al procedimiento administrativo de ejecución, estas deben hacerse valer antes de la publicación del remate y dentro de un plazo específico. En ciertos casos, el plazo se contaría a partir de la notificación del requerimiento de pago o del embargo.",
+  "resumen": "El recurso de revocación se puede usar cuando el procedimiento administrativo de ejecución no siguió la ley. Las violaciones deben hacerse valer antes del remate y dentro de ciertos plazos establecidos, salvo excepciones para actos de imposibilidad material.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo impugnar un remate?",
-    "¿Cuáles son los plazos para presentar un recurso de revocación?",
-    "¿Qué debo hacer si no se ajusta la ejecución a la ley?",
-    "¿Se puede reclamar después del remate?",
-    "¿Qué pasa con los bienes inembargables en el procedimiento?"
+    "¿Cómo interpongo un recurso de revocación?",
+    "¿Qué plazo tengo para presentar una apelación en un remate?",
+    "¿Cuáles son las violaciones que puedo reclamar en un procedimiento de ejecución?",
+    "¿Qué actos son considerados inembargables?",
+    "¿Qué sucede si no cumprimento con los plazos para interponer el recurso?"
   ]
 }

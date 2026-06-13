@@ -5,31 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:754fc0c46555c4d7",
+    "hash_texto": "sha256:eac79f26dd05672c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación",
+  "denominacion_comun": "Recurso de Revocación Exclusivo de Fondo",
   "temas": [
+    "recurso de revocación",
     "dictamen pericial",
     "audiencia especial",
-    "pruebas periciales",
-    "autoridad administrativa",
-    "promovente",
-    "resoluciones impugnadas"
+    "valorización de pruebas",
+    "peritos"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "dictamen de perito",
-    "audiencia",
-    "prueba pericial"
+    "revocación de resolución",
+    "dictamen de experto",
+    "audiencia de peritos"
   ],
-  "resumen": "El artículo establece que en un recurso de revocación, la autoridad puede valorar un dictamen pericial y citar al perito para una audiencia donde responderá preguntas. También permite que la autoridad solicite otro dictamen si es necesario para entender mejor los hechos.",
+  "resumen": "El artículo establece el procedimiento que debe seguir la autoridad al recibir un recurso de revocación exclusivo de fondo cuando se presenta un dictamen pericial. Se permite la valoración de este dictamen y la posibilidad de que el perito sea llamado a una audiencia para aclarar dudas. La autoridad puede también solicitar otro dictamen pericial para tener un mejor conocimiento de los hechos en disputa.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si presento un dictamen pericial en un recurso de revocación?",
-    "¿El perito puede ser llamado a responder preguntas en la audiencia?",
-    "¿La autoridad puede pedir otro dictamen pericial?",
-    "¿Cuánto tiempo antes se debe avisar al perito sobre la audiencia?",
-    "¿Quiénes pueden acudir a la audiencia del recurso de revocación?"
+    "¿Qué es el recurso de revocación exclusivo de fondo?",
+    "¿Qué papel juega un dictamen pericial en un recurso de revocación?",
+    "¿Cómo se lleva a cabo la audiencia especial para el perito?",
+    "¿Puede la autoridad solicitar más de un dictamen pericial?",
+    "¿Qué sucede si hay dudas sobre un dictamen pericial presentado?"
   ]
 }

@@ -5,33 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a95cfecae11c3897",
+    "hash_texto": "sha256:9a72f152bd1f6812",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes inmuebles",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "remate",
-    "bienes inmuebles",
-    "postores",
-    "transferencia electrónica",
-    "notario",
+    "postura",
+    "pago",
     "escritura de venta",
     "evicción",
     "vicios ocultos"
   ],
   "terminos_coloquiales": [
-    "subasta de bienes",
-    "oferta de compra",
-    "pago de remate"
+    "remate",
+    "subasta",
+    "oferta",
+    "comprar bienes",
+    "bien inmueble"
   ],
-  "resumen": "Este artículo establece el procedimiento para el remate de bienes inmuebles, señalando que el postor debe realizar el pago mediante transferencia electrónica y formalizar la escritura de venta con el ejecutado. También menciona la responsabilidad del ejecutado por evicción y vicios ocultos en la propiedad.",
+  "resumen": "El artículo establece que el ganador de un remate debe pagar el importe acordado en un plazo específico. Si no se presenta a firmar la escritura de venta, el procedimiento continúa sin su firma, pero el vendedor sigue siendo responsable por problemas con el bien que se vende.",
   "preguntas_ejemplo": [
-    "¿Cómo se realiza el pago en un remate de bienes inmuebles?",
-    "¿Qué sucede si el ejecutado no firma la escritura de venta?",
-    "¿Quién es responsable de los vicios ocultos en un bien adquirido en remate?",
-    "¿Qué plazo tiene el postor para pagar después de ganar el remate?",
-    "¿Qué pasa si el postor quiere designar un notario?",
-    "¿Cómo se hace una oferta en un remate de bienes?"
+    "¿Cómo se paga un bien en un remate?",
+    "¿Qué sucede si no firmo la escritura de venta?",
+    "¿Qué responsabilidades tengo al comprar un bien en remate?",
+    "¿Qué es el proceso de remate de bienes?",
+    "¿Qué pasa si hay problemas ocultos con el bien que compré?"
   ]
 }

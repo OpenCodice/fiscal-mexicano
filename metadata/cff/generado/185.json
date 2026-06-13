@@ -5,33 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:9e83afda252a741b",
+    "hash_texto": "sha256:0532e79ce63b8107",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes muebles",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "oferentes",
-    "remate",
+    "oferente",
+    "postura",
     "transferencia electrónica",
-    "comprobantes fiscales",
-    "adjudicación de bienes",
+    "compr comprobantes fiscales",
+    "entrega de bienes",
     "almacenaje"
   ],
   "terminos_coloquiales": [
+    "remate",
     "subasta",
-    "remate de cosas",
-    "comprar bienes en remate",
-    "pagar con transferencia",
-    "entregar recibos",
-    "bienes adjudicados"
+    "transferencia de fondos",
+    "comprobantes fiscales digitales",
+    "enajenación"
   ],
-  "resumen": "Este artículo trata sobre el proceso de adjudicación de bienes muebles en un remate. El postor ganador debe pagar la cantidad ofrecida mediante transferencia electrónica y entregar los comprobantes fiscales correspondientes en un plazo determinado.",
+  "resumen": "Este artículo establece el procedimiento que debe seguir el postor después de ganar un remate de bienes muebles, incluyendo cómo realizar el pago y la entrega de los bienes adjudicados. Además, menciona las obligaciones relacionadas con los comprobantes fiscales que deben expedirse.",
   "preguntas_ejemplo": [
-    "¿Cómo se paga en un remate de bienes muebles?",
-    "¿Qué sucede si no entrego el comprobante fiscal después de un remate?",
-    "¿Cuánto tiempo tengo para recoger los bienes después de ganarlos en un remate?",
-    "¿Qué pasa si no retiro los bienes en el plazo establecido?",
-    "¿Qué documentos necesito para reclamar mis bienes en un remate?"
+    "¿Qué debo hacer si gané un remate?",
+    "¿Cómo pago por los bienes en un remate?",
+    "¿Cuáles son mis obligaciones después del remate?",
+    "¿Qué pasa si no entrego los comprobantes fiscales?",
+    "¿Cuándo puedo recoger mis bienes después del remate?"
   ]
 }

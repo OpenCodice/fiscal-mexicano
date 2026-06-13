@@ -5,34 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:7833be991490d2b2",
+    "hash_texto": "sha256:2a01a1017ea4b638",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Señalamiento de bienes",
+  "denominacion_comun": "Del Embargo",
   "temas": [
-    "embargo",
-    "bienes",
-    "diligencias",
     "ejecutor",
-    "gravamen",
-    "copropiedad",
-    "sociedad conyugal"
+    "bien inmueble",
+    "embargo",
+    "señalamiento de bienes",
+    "gravamen real"
   ],
   "terminos_coloquiales": [
     "embargo",
-    "señalar bienes",
-    "bienes embargables",
-    "ejecutor",
-    "acta de embargo"
+    "dejación de bienes",
+    "señalamiento de bienes",
+    "gravámenes"
   ],
-  "resumen": "Este artículo establece las condiciones bajo las cuales un ejecutor puede señalar bienes para el embargo, evitando el orden habitual si ciertos criterios no se cumplen. Se mencionan también las obligaciones del deudor respecto a los bienes que se van a embargar.",
+  "resumen": "El ejecutor tiene la facultad de señalar bienes para embargo sin seguir un orden específico si el deudor no proporciona bienes suficientes. Además, se deben seleccionar bienes que sean fáciles de vender y se debe verificar si hay gravámenes o si pertenecen a sociedades conyugales.",
   "preguntas_ejemplo": [
-    "¿Qué bienes puede señalar un ejecutor?",
-    "¿Cuándo puede un ejecutor ignorar el orden de señalamiento de bienes?",
-    "¿Qué información debe proporcionar el deudor sobre sus bienes?",
-    "¿Qué sucede si el deudor no señala bienes suficientes?",
-    "¿Cuáles son las características de los bienes que se pueden embargar?",
-    "¿Qué es un gravamen real y cómo afecta al embargo?"
+    "¿Qué pasa si el deudor no tiene bienes suficientes para embargar?",
+    "¿Qué tipos de bienes se pueden embargar según la ley?",
+    "¿Qué debe hacer el deudor si hay gravámenes sobre los bienes embargados?",
+    "¿El ejecutor puede elegir bienes fuera del orden establecido?",
+    "¿Cómo se determina si un bien es de fácil venta para embargo?"
   ]
 }

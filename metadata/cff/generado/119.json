@@ -5,19 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:47c6b23e6e215cd5",
+    "hash_texto": "sha256:dd8f76da978debfa",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Artículo Derogado",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "El artículo ha sido derogado y ya no tiene validez legal.",
+  "denominacion_comun": "Recurso de Revocación",
+  "temas": [
+    "procedimiento administrativo",
+    "resoluciones fiscales",
+    "impugnación",
+    "derechos del contribuyente"
+  ],
+  "terminos_coloquiales": [
+    "recurso de revocación",
+    "recurso",
+    "impugnación de resoluciones",
+    "CFF"
+  ],
+  "resumen": "El Recurso de Revocación es un medio para impugnar resoluciones fiscales que consideran injustas los contribuyentes. Permite la revisión de estas decisiones por parte de la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué significa que un artículo sea derogado?",
-    "¿Dónde puedo encontrar la normativa actual en lugar de este artículo?",
-    "¿El artículo derogado afecta alguna obligación fiscal?",
-    "¿Qué artículos reemplazan al que se ha derogado?",
-    "¿Qué procedimientos debo seguir ahora que este artículo ya no existe?"
+    "¿Qué es un recurso de revocación?",
+    "¿Cómo puedo impugnar una resolución fiscal?",
+    "¿Cuáles son mis derechos en un procedimiento administrativo?",
+    "¿Qué necesito para presentar un recurso?",
+    "¿Qué haces si no estás de acuerdo con una resolución de la autoridad fiscal?"
   ]
 }

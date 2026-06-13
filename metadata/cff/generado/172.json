@@ -5,30 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d7fd162b8d224c2c",
+    "hash_texto": "sha256:6c097ab3108f2899",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes",
+  "denominacion_comun": "Intervención de bienes",
   "temas": [
     "enajenación",
-    "bienes",
+    "autoridades fiscales",
     "crédito fiscal",
     "negociaciones",
-    "recuperación de ingresos"
+    "bienes y derechos",
+    "recaudación"
   ],
   "terminos_coloquiales": [
-    "remate",
-    "venta de bienes",
-    "bienes embargados",
-    "subasta"
+    "venta de bienes intervenidos",
+    "intervención fiscal",
+    "crédito fiscal",
+    "enajenación de bienes"
   ],
-  "resumen": "Las autoridades fiscales pueden vender bienes o derechos si no se recauda lo suficiente para cubrir un porcentaje del crédito fiscal en un tiempo determinado. Esto se aplica a las negociaciones que generan ingresos en períodos específicos.",
+  "resumen": "Las autoridades fiscales pueden vender negocios o bienes intervenidos si el dinero recaudado en tres meses no cubre el 24% del crédito fiscal. Si es para negocios que generan ingresos solo en ciertas épocas del año, el porcentaje a cubrir se ajusta según el tiempo transcurrido.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no se recauda suficiente dinero en un remate?",
-    "¿Cuándo puede el fisco vender bienes embargados?",
-    "¿Qué porcentaje del crédito fiscal se debe cubrir para evitar la enajenación?",
-    "¿Cómo funcionan las subastas de bienes fiscales?",
-    "¿Qué criterios se siguen para la enajenación de bienes?"
+    "¿Qué puede hacer la autoridad si no se recauda suficiente dinero de una intervención?",
+    "¿Qué significa la enajenación de bienes intervenidos?",
+    "¿Cómo se determina el porcentaje a cubrir para la venta de bienes intervenidos?",
+    "¿En qué casos se aplica el ajuste del 8% mensual en las intervenciones?",
+    "¿Cuál es el rol de las autoridades fiscales en la intervención de negocios?"
   ]
 }

@@ -5,29 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:220712a5d68eba70",
+    "hash_texto": "sha256:6aa7cd54e7ffa8bc",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Propiedad de bienes adquiridos",
+  "denominacion_comun": "Remate",
   "temas": [
-    "bienes",
-    "propiedad",
-    "gravámenes",
+    "adquisición de bienes",
+    "bienes libres de gravámenes",
     "inmuebles",
     "registro público"
   ],
   "terminos_coloquiales": [
-    "comprar propiedad",
-    "bienes inmuebles",
-    "cancelar gravámenes"
+    "remate",
+    "subasta",
+    "comprar propiedades",
+    "bienes sin deudas"
   ],
-  "resumen": "Cuando se adquieren bienes, estos pasan a ser propiedad del comprador sin deudas. Si son inmuebles, la autoridad debe informar al registro público para cancelar cualquier gravamen en un plazo máximo de quince días.",
+  "resumen": "El artículo establece que los bienes adquiridos en un remate se convierten en propiedad del comprador sin deudas asociadas, y en el caso de inmuebles, se debe comunicar esta situación al registro público en un plazo determinado.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los gravámenes al comprar un inmueble?",
-    "¿Cómo se cancela un gravamen en la propiedad?",
-    "¿Qué documentos se necesitan para registrar la propiedad después de comprarla?",
-    "¿Cuánto tiempo tiene la autoridad para registrar un inmueble?",
-    "¿Los bienes pasan a ser míos al comprarlos inmediatamente?"
+    "¿Qué sucede con los bienes después de un remate?",
+    "¿Cómo se cancelan los gravámenes de un inmueble rematado?",
+    "¿Qué debo hacer para registrar un inmueble que compré en un remate?",
+    "¿Los bienes adquiridos en un remate tienen deudas?",
+    "¿Cuánto tiempo tengo para registrar un inmueble ganado en un remate?"
   ]
 }

@@ -5,28 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f7508c7dc944641b",
+    "hash_texto": "sha256:a500a6168b0cc0f7",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remates fiscales",
+  "denominacion_comun": "Remate",
   "temas": [
-    "subastas",
-    "postores",
+    "subasta",
     "mejora de posturas",
-    "resultados de remate"
+    "plazos de remate",
+    "notificación de resultados"
   ],
   "terminos_coloquiales": [
-    "subasta de bienes",
-    "remates del SAT",
-    "ofertas en línea"
+    "subasta",
+    "postores",
+    "mejorar ofertas",
+    "resultados de remate"
   ],
-  "resumen": "Este artículo regula el proceso de remates fiscales que lleva a cabo el Servicio de Administración Tributaria, detallando cómo se presentan las posturas, los plazos y la comunicación de resultados a los postores. Si hay mejores ofertas en los últimos minutos, se extenderá el tiempo para recibir nuevas posturas.",
+  "resumen": "El artículo detalla el procedimiento de remate del Servicio de Administración Tributaria, incluyendo la duración del período de subasta y cómo se manejan las posturas. También establece el proceso para notificar a los postores sobre el resultado del remate.",
   "preguntas_ejemplo": [
-    "¿Cómo funciona un remate fiscal del SAT?",
-    "¿Qué debo hacer para participar en una subasta de bienes?",
-    "¿Cuánto tiempo dura un remate?",
-    "¿Qué pasa si hay varias ofertas iguales en un remate?",
-    "¿Cómo recibiré los resultados de una subasta en la que participé?"
+    "¿Cómo funciona el proceso de remate en el SAT?",
+    "¿Cuánto tiempo dura una subasta de remate?",
+    "¿Qué pasa si se mejora una postura en los últimos minutos?",
+    "¿Cómo se notifican los resultados de un remate?",
+    "¿Qué sucede si hay varias posturas iguales?",
+    "¿Cuáles son los plazos para pagar después de ganar un remate?"
   ]
 }

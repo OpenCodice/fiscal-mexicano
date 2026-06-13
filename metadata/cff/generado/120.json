@@ -5,30 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:6d378cfa6c5af087",
+    "hash_texto": "sha256:213c797a0f525f7d",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
-    "recurso de revocación",
+    "recursos fiscales",
+    "tribunales administrativos",
     "autoridad fiscal",
-    "tribunal fiscal",
-    "incompetencia"
+    "competencia de autoridades"
   ],
   "terminos_coloquiales": [
-    "recurso",
-    "ir a el tribunal fiscal",
-    "mala autoridad",
-    "impuesto",
-    "interponer recurso"
+    "recurso de revocación",
+    "puedo apelar",
+    "volver a pedir revisión"
   ],
-  "resumen": "El artículo establece que el recurso de revocación es optativo antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa. Además, si un recurso se presenta ante una autoridad fiscal que no es competente, debe ser enviado a la autoridad correcta.",
+  "resumen": "El recurso de revocación es una opción que tiene el interesado para solicitar una revisión de una decisión fiscal antes de llevar el caso a un tribunal. Si se presenta ante la autoridad incorrecta, esta debe remitirlo a la autoridad competente.",
   "preguntas_ejemplo": [
-    "¿Cuándo debo interponer un recurso de revocación?",
-    "¿Qué hago si presenté mi recurso ante la autoridad incorrecta?",
-    "¿Es obligatorio presentar un recurso de revocación antes de ir al tribunal?",
-    "¿Qué significa que una autoridad sea competente o incompetente?",
-    "¿Cómo se presenta un recurso de revocación?"
+    "¿Qué es un recurso de revocación?",
+    "¿Puedo apelar una resolución fiscal?",
+    "¿Qué hacer si interpongo mi recurso ante la autoridad equivocada?",
+    "¿Es obligatorio presentar un recurso de revocación?",
+    "¿Cuáles son los siguientes pasos después de un recurso de revocación?",
+    "¿Dónde debo presentar mi recurso de revocación?"
   ]
 }

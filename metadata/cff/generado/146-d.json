@@ -5,32 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d3e0a20c277a187f",
+    "hash_texto": "sha256:f814be6ee9b0c03c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Extinción de créditos fiscales",
   "temas": [
     "créditos fiscales",
+    "incobrables",
     "subcuenta especial",
-    "imposibilidad de cobro",
+    "cobro",
     "deudores",
     "quiebra",
     "bienes embargables"
   ],
   "terminos_coloquiales": [
-    "deudas fiscales",
     "créditos incobrables",
-    "imposibilidad de cobrar",
-    "quiebra",
-    "deudores que no tienen dinero"
+    "deudas que no se pueden cobrar",
+    "no se puede cobrar",
+    "quiebra de deudores"
   ],
-  "resumen": "Los créditos fiscales registrados como incobrables se extinguen cinco años después de su registro si no se pueden cobrar. Esto ocurre cuando los deudores no tienen bienes, han fallecido o están en quiebra.",
+  "resumen": "La disposición establece que los créditos fiscales registrados como incobrables se extinguen después de cinco años si no se pueden cobrar. Esto incluye situaciones como que el deudor no tenga bienes para embargar o haya fallecido sin herencia.",
   "preguntas_ejemplo": [
-    "¿Cuándo se extinguen los créditos fiscales?",
-    "¿Qué pasa si un deudor no tiene bienes embargables?",
-    "¿Qué significa que no se pueda cobrar una deuda fiscal?",
-    "¿Cuánto tiempo se espera para considerar un crédito fiscal como incobrable?",
-    "¿Qué sucede si el deudor muere sin dejar bienes?"
+    "¿Cuánto tiempo deben pasar para que un crédito fiscal sea considerado extinto?",
+    "¿Qué pasa si el deudor no tiene bienes embargables?",
+    "¿Se extingue la deuda si el deudor fallece?",
+    "¿Qué se considera imposibilidad de cobro?",
+    "¿Cómo se registra un crédito fiscal incobrable?"
   ]
 }

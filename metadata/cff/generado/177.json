@@ -5,30 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:3e76e5881132515c",
+    "hash_texto": "sha256:90b22618a0462ed1",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Notificación de acreedores en remates",
+  "denominacion_comun": "Remate",
   "temas": [
     "acreedores",
     "certificado de gravámenes",
-    "remate",
     "notificación",
     "buzón tributario",
     "convocatoria"
   ],
   "terminos_coloquiales": [
-    "notificación de deudores",
     "remate",
-    "buzón tributario"
+    "notificación de remate",
+    "certificado de deudas",
+    "buzón fiscal"
   ],
-  "resumen": "Este artículo establece cómo deben ser notificados los acreedores en el proceso de remate de bienes, especificando que deben recibir notificación personal o a través del buzón tributario. Si no es posible, se considerarán notificados con la publicación de la convocatoria en la página de las autoridades fiscales.",
+  "resumen": "El artículo establece que los acreedores deben ser notificados sobre el remate basado en un certificado de gravámenes. Si no se puede notificar de manera personal, se considerará válida la publicación en la página de las autoridades fiscales donde se incluya el nombre de los acreedores.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifican a los acreedores en un remate?",
+    "¿Cómo se notifica a los acreedores sobre un remate?",
     "¿Qué es un certificado de gravámenes?",
-    "¿Qué pasa si no se puede notificar a un acreedor personalmente?",
-    "¿Cómo funciona el buzón tributario en el proceso de remate?",
-    "¿Qué información debe contener la convocatoria para notificar a los acreedores?"
+    "¿Qué sucede si no se puede notificar a los acreedores personalmente?",
+    "¿Dónde se publica la convocatoria para un remate?",
+    "¿Cómo se utiliza el buzón tributario en el proceso de remate?"
   ]
 }

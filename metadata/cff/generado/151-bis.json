@@ -5,33 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:1564945425eec801",
+    "hash_texto": "sha256:c6b483fe081b52c5",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Embargo",
   "temas": [
     "créditos exigibles",
-    "embargo",
-    "bienes inmuebles",
-    "bienes intangibles",
-    "depósitos bancarios",
-    "valores mobiliarios",
+    "bienes embargables",
     "notificación de embargo",
-    "procedimiento administrativo"
+    "procedimiento administrativo de ejecución"
   ],
   "terminos_coloquiales": [
-    "embargo",
-    "notificación de embargo",
-    "dudas sobre embargos",
-    "bienes embargados"
+    "quitar bienes",
+    "embargo de cuentas",
+    "embargo de acciones",
+    "embargo de propiedades",
+    "buzón tributario",
+    "notificación de embargo"
   ],
-  "resumen": "La autoridad fiscal puede embargar bienes de un contribuyente para satisfacer créditos exigibles. Este embargo puede incluir depósitos bancarios, bienes inmuebles, y valores mobiliarios, y se notifica al deudor a través de diferentes medios como buzón tributario o edictos.",
+  "resumen": "La autoridad fiscal puede embargar bienes de un contribuyente para cobrar créditos exigibles. Esto incluye depósitos bancarios, acciones, bienes inmuebles, y otros bienes intangibles. Se notificará al deudor sobre el embargo a través de diferentes medios.",
   "preguntas_ejemplo": [
-    "¿Qué puede embargar la autoridad fiscal?",
+    "¿Qué bienes pueden ser embargados por la autoridad fiscal?",
     "¿Cómo se notifica un embargo?",
-    "¿Cuáles son los bienes que pueden ser objeto de embargo?",
-    "¿Qué sucede después de la notificación del embargo?",
-    "¿Qué es un embargo de bienes intangibles?"
+    "¿Qué hacer si me embargan una cuenta bancaria?",
+    "¿Puede la autoridad embargar mis acciones en la bolsa?",
+    "¿Cuál es el procedimiento después de un embargo?"
   ]
 }

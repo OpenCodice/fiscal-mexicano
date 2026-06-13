@@ -5,28 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:96160686f357eee7",
+    "hash_texto": "sha256:49528d64781d947e",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Acceso para procedimiento de ejecución",
+  "denominacion_comun": "Embargo",
   "temas": [
-    "ejecución de sentencias",
-    "acceso al domicilio",
-    "auxilio de la policía",
-    "procedimientos legales"
+    "deudores",
+    "ejecución",
+    "acceso a bienes",
+    "auxilio policial",
+    "procedimiento de ejecución"
   ],
   "terminos_coloquiales": [
-    "proceso de embargo",
-    "auxilio policial",
-    "no dejar entrar al ejecutor"
+    "embargo",
+    "quitar bienes",
+    "deudores",
+    "ejecutor",
+    "ayuda de la policía"
   ],
-  "resumen": "Este artículo establece que si el deudor impide el acceso al ejecutor en un procedimiento de ejecución, este puede solicitar ayuda de la policía o fuerza pública. Esto asegura que se pueda continuar con el proceso legal correspondiente.",
+  "resumen": "El artículo establece que si alguien impide el acceso al domicilio del deudor o al lugar donde están sus bienes, el ejecutor puede solicitar ayuda de la policía para continuar con el proceso de embargo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no dejan entrar al ejecutor a mi casa?",
-    "¿Puede la policía ayudar en un juicio de ejecución?",
-    "¿Qué se hace si hay resistencia al procedimiento de embargo?",
-    "¿Quién puede solicitar auxilio durante un proceso legal?",
-    "¿Qué medidas se toman si el deudor no permite el acceso?"
+    "¿Qué pasa si un deudor no deja entrar al ejecutor?",
+    "¿Puede la policía ayudar en un embargo?",
+    "¿Qué se debe hacer si no se puede acceder a los bienes del deudor?",
+    "¿Qué es un procedimiento de ejecución?",
+    "¿Quién puede ser un ejecutor en el embargo?",
+    "¿Qué sucede si hay resistencia durante un embargo?"
   ]
 }

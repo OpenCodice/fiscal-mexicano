@@ -5,29 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:eb33639162353ded",
+    "hash_texto": "sha256:30683e8e33aeea2b",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resolución de recursos",
+  "denominacion_comun": "Resolución de Recursos",
   "temas": [
-    "improcedencia",
-    "confirmación",
-    "reposición de procedimiento",
-    "nulidad"
+    "desechamiento de recursos",
+    "confirmación de actos",
+    "reposiciones de procedimientos",
+    "nulidad de actos",
+    "modificación de actos",
+    "resoluciones administrativas"
   ],
   "terminos_coloquiales": [
-    "resolver un recurso",
-    "desechar un recurso",
-    "nulidad de actos",
-    "modificación de resoluciones"
+    "recurso improcedente",
+    "confirmar actos",
+    "reponer procedimientos",
+    "dejar sin efectos",
+    "modificar decisiones",
+    "nular actos"
   ],
-  "resumen": "Este artículo establece las distintas opciones que tiene la autoridad al resolver un recurso interpuesto, incluyendo desecharlo, confirmarlo, modificarlo o dejarlo sin efectos. También menciona que se puede declarar nulidad si la autoridad que emitió el acto es incompetente.",
+  "resumen": "Este artículo establece las acciones que puede tomar la autoridad respecto a un recurso administrativo. Las resoluciones pueden incluir desechar el recurso, confirmar el acto impugnado, reponer el procedimiento, dejar sin efectos el acto o modificarlo.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me desechan el recurso?",
-    "¿Cómo puedo saber si mi recurso fue confirmado?",
-    "¿Qué significa que un acto está sin efectos?",
-    "¿Qué se hace si la autoridad es incompetente?",
-    "¿Pueden modificar la decisión que impugnamos?"
+    "¿Qué puedo hacer si mi recurso es desechado?",
+    "¿Cómo se confirma un acto administrativo?",
+    "¿Qué significa que se reponga un procedimiento?",
+    "¿Qué sucede si se deja sin efectos un acto impugnado?",
+    "¿En qué casos se puede modificar un acto administrativo?"
   ]
 }

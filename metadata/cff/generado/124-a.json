@@ -5,29 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d27400176daf540a",
+    "hash_texto": "sha256:5ddaea43882eebe8",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sobreseimiento de recursos administrativos",
+  "denominacion_comun": "Sobreseimiento del Recurso de Revocación",
   "temas": [
+    "procedimiento administrativo",
+    "recurso de revocación",
     "desistimiento",
-    "causas de improcedencia",
-    "actos impugnados",
-    "cesación de efectos"
+    "improcedencia",
+    "actos administrativos"
   ],
   "terminos_coloquiales": [
-    "abandonar un recurso",
+    "dejar sin efecto el recurso",
+    "cancelar el recurso",
     "no hay resolución",
-    "cancelar un trámite",
-    "recursos administrativos"
+    "cesación de efectos"
   ],
-  "resumen": "El artículo establece las situaciones en las que se puede dar por terminado un recurso administrativo sin continuar con el procedimiento. Estos casos incluyen desistimientos, causas de improcedencia, falta de actos impugnados y cesación de efectos de dichos actos.",
+  "resumen": "El artículo establece las circunstancias bajo las cuales se puede dar por terminado un recurso de revocación. Esto incluye el desistimiento del promovente, causas de improcedencia, la inexistencia del acto impugnado y la cesación de efectos del mismo.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo desistirme de un recurso administrativo?",
-    "¿Qué pasa si no hay resolución sobre mi recurso?",
-    "¿Cuáles son las causas para que no proceda un recurso?",
-    "¿Qué significa que un acto impugnado haya cesado sus efectos?",
-    "¿Puedo cancelar un recurso en cualquier momento?"
+    "¿Cuándo se puede cancelar un recurso de revocación?",
+    "¿Qué pasa si me desisto de mi recurso administrativo?",
+    "¿Qué ocurre si no hay resolución sobre mi caso?",
+    "¿Se puede dar por terminado un recurso si ya no hay efectos del acto impugnado?"
   ]
 }

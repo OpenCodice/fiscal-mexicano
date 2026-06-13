@@ -5,30 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0b16d36ea11ada40",
+    "hash_texto": "sha256:8d438472ef283fdf",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Preferencia del fisco en remates",
+  "denominacion_comun": "Remate",
   "temas": [
-    "remate",
-    "bienes",
+    "preferencia del fisco",
+    "bienes en remate",
+    "postores",
+    "pujas",
     "adjudicación",
-    "fisco federal",
-    "postores"
+    "casos de remate"
   ],
   "terminos_coloquiales": [
     "remate",
-    "subasta",
     "bienes del fisco",
-    "fisco"
+    "subasta",
+    "postores",
+    "pujas"
   ],
-  "resumen": "El fisco federal tiene preferencia para quedarse con bienes en remate si no hay otros postores, si no hay pujas u si hay pujas iguales.",
+  "resumen": "El fisco federal tiene prioridad para quedarse con los bienes que se rematan en determinadas situaciones, como cuando no hay otros postores o cuando las pujas son iguales. Esto asegura que el gobierno pueda recuperar activos cuando hay escasa competencia en el remate.",
   "preguntas_ejemplo": [
-    "¿Qué sucede si no hay postores en un remate?",
-    "¿El fisco siempre se queda con los bienes en caso de pujas iguales?",
-    "¿Qué significa que el fisco tenga preferencia en un remate?",
-    "¿En qué situaciones el fisco puede adjudicarse un bien en remate?",
-    "¿Qué ocurre si no hay pujas en un remate del fisco?"
+    "¿Qué pasa si no hay nadie que puje en un remate?",
+    "¿El fisco puede quedarse con bienes en remate?",
+    "¿Qué ocurre si hay pujas iguales en un remate?",
+    "¿Cuándo tiene preferencia el fisco en un remate?",
+    "¿Qué condiciones permiten al fisco adjudicarse bienes en remate?"
   ]
 }

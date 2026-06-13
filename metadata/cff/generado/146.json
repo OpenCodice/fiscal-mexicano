@@ -5,33 +5,35 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b5fdf0e93005943c",
+    "hash_texto": "sha256:1942526cad22a48e",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Extinción de crédito fiscal",
+  "denominacion_comun": "Extinción de créditos fiscales por prescripción",
   "temas": [
-    "crédito fiscal",
+    "créditos fiscales",
     "prescripción",
-    "cobro",
-    "procedimiento administrativo",
+    "excepción administrativa",
+    "juicio contencioso",
+    "gestiones de cobro",
     "domicilio fiscal",
-    "interrupción de plazos",
-    "resolución de controversias"
+    "interrupción de prescripción",
+    "suspensión de plazos"
   ],
   "terminos_coloquiales": [
-    "crédito fiscal",
-    "prescripción",
-    "cobro de deudas fiscales",
-    "aviso de cambio de domicilio",
-    "interrupción de prescripción"
+    "créditos tributarios",
+    "prescripción de deudas fiscales",
+    "cobro de impuestos",
+    "domicilio fiscal incorrecto",
+    "suspensión de cobros"
   ],
-  "resumen": "El crédito fiscal se extingue por prescripción después de cinco años. El término para prescribir comienza cuando el pago puede ser exigido y se puede interrumpir con gestiones de cobro. Si el contribuyente cambia de domicilio sin notificar, también se suspenderán los plazos de prescripción.",
+  "resumen": "El crédito fiscal se extingue por prescripción después de cinco años. Este plazo se interrumpe por gestiones de cobro o reconocimiento del deudor, y se suspende en ciertas circunstancias relacionadas con el domicilio fiscal del contribuyente.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para que se extinga una deuda fiscal?",
+    "¿Cuánto tiempo tengo para pagar una deuda fiscal antes de que se considere prescrita?",
+    "¿Qué pasa si cambio de domicilio fiscal sin avisar?",
     "¿Cómo se interrumpe el plazo de prescripción de un crédito fiscal?",
-    "¿Qué sucede si no presento el aviso de cambio de domicilio fiscal?",
-    "¿Puede la autoridad declarar la prescripción de mis créditos fiscales?",
-    "¿Qué plazos se consideran para la prescripción de deudas fiscales?"
+    "¿Puede la autoridad declarar la prescripción de un crédito fiscal automáticamente?",
+    "¿Qué sucede si he reconocido mi deuda fiscal?",
+    "¿Los plazos de prescripción se ven afectados por procesos de resolución de controversias?"
   ]
 }

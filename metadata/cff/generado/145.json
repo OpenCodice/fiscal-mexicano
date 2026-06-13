@@ -5,34 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:19f3b85bf9fcb1dd",
+    "hash_texto": "sha256:c1af8b128b42c813",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embargo Precautorio",
   "temas": [
     "créditos fiscales",
-    "pago de impuestos",
     "procedimiento administrativo",
-    "embargo de bienes",
-    "garantías fiscales",
-    "acta circunstanciada",
-    "entidades financieras"
+    "notificación",
+    "inmovilización de bienes",
+    "levantar embargo",
+    "garantías fiscales"
   ],
   "terminos_coloquiales": [
-    "hacer un embargo",
-    "deudas fiscales",
-    "embargo de cuentas",
-    "levantar embargo",
-    "bien embargado",
-    "créditos de impuestos"
+    "embargo",
+    "créditos",
+    "banco",
+    "cobros",
+    "comprobantes"
   ],
-  "resumen": "El Artículo 145 establece las condiciones y procedimientos para que la autoridad fiscal realice un embargo precautorio sobre los bienes de un contribuyente que no haya pagado sus créditos fiscales. Este embargo puede incluir distintos tipos de bienes y tiene un proceso específico que debe seguir la autoridad fiscal.",
+  "resumen": "El artículo establece las condiciones bajo las cuales las autoridades fiscales pueden llevar a cabo un embargo precautorio sobre los bienes de un contribuyente que no ha cumplido con sus obligaciones fiscales. Se especifican los bienes que pueden ser embargados y el procedimiento para levantar dicho embargo en caso de que el contribuyente cumpla con el pago antes de los plazos establecidos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago mis impuestos a tiempo?",
-    "¿Cómo pueden embargar mis cuentas bancarias?",
-    "¿Cuáles son mis derechos si me hacen un embargo?",
-    "¿Qué bienes pueden embargarme por deuda fiscal?",
-    "¿Cómo se levanta un embargo precautorio?"
+    "¿Qué es un embargo precautorio?",
+    "¿Cuándo puede la autoridad realizar un embargo sobre mis bienes?",
+    "¿Qué bienes pueden ser embargados por la autoridad fiscal?",
+    "¿Cómo puedo levantar un embargo precautorio?",
+    "¿Qué hago si no estoy de acuerdo con un embargo que me han realizado?"
   ]
 }

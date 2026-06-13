@@ -5,37 +5,34 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:28a01b3bce5bb654",
+    "hash_texto": "sha256:4eaab2358bee8948",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Adjudicación de bienes fiscales",
+  "denominacion_comun": "Remate de bienes",
   "temas": [
-    "postores",
     "adjudicación",
-    "bien",
-    "valor de avalúo",
+    "valores de avalúo",
     "donaciones",
-    "instituciones asistenciales",
-    "Registro Público de la Propiedad",
-    "remates",
-    "gastos de administración"
+    "inscripción en el Registro Público",
+    "fondos de administración",
+    "bienes federales"
   ],
   "terminos_coloquiales": [
-    "subasta",
-    "donar bienes",
-    "remate de bienes",
-    "acta de adjudicación",
-    "gastos de mantenimiento",
-    "fondo de administración"
+    "remate",
+    "postores",
+    "adjudicación de bienes",
+    "donativos deducibles",
+    "Registro Público",
+    "bienes del fisco"
   ],
-  "resumen": "Este artículo establece que si no hay postores en una subasta, la autoridad se adjudica el bien al 60% de su valor de avalúo. Los bienes pueden ser donados a instituciones benéficas y se detallan aspectos sobre la inscripción en el Registro Público de la Propiedad y el manejo de los ingresos obtenidos de remates.",
+  "resumen": "Este artículo establece que si no hay postores en un remate, la autoridad adjudica el bien al 60% de su valor de avalúo. Los bienes adjudicados pueden ser donados para obras públicas o instituciones benéficas y se regula su inscripción en el Registro Público de la Propiedad.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no hay postores en un remate de bienes fiscales?",
-    "¿Cómo se adjudican los bienes del fisco federal?",
-    "¿Qué se puede hacer con los bienes adjudicados?",
-    "¿Cuál es el valor de un bien adjudicado sin postores?",
-    "¿Qué debe hacerse para inscribir la adjudicación en el Registro Público?",
-    "¿Cómo se utilizan los ingresos de los remates de bienes fiscales?"
+    "¿Qué sucede si no hay postores en un remate?",
+    "¿Cómo se adjudican los bienes al fisco?",
+    "¿Se pueden donar bienes obtenidos en un remate?",
+    "¿Cuál es el valor de los bienes adjudicados?",
+    "¿Qué es el acta de adjudicación y su importancia?",
+    "¿Cómo se manejan los ingresos de los remates?"
   ]
 }

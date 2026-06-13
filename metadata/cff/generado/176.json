@@ -5,33 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:2657b7ffc7e09d8f",
+    "hash_texto": "sha256:bbea84e763d6b528",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes",
+  "denominacion_comun": "Remate",
   "temas": [
-    "remate",
-    "avalúo",
-    "subasta",
     "convocatoria",
-    "bienes enajenados",
-    "postores",
-    "requisitos",
-    "obras de fiscais"
+    "notificación",
+    "avaluo",
+    "subasta",
+    "bienes enajenables",
+    "requisitos para postores"
   ],
   "terminos_coloquiales": [
-    "subasta de bienes",
-    "remate fiscal",
-    "participar en remates",
-    "bien en remate"
+    "remate",
+    "subasta",
+    "convocatoria de remate",
+    "bienes a rematar"
   ],
-  "resumen": "El remate de bienes se convoca después de notificar el avalúo y debe realizarse en un plazo específico. Se publicará información sobre los bienes y los requisitos para participar en la subasta.",
+  "resumen": "El remate se convoca al día siguiente de la notificación del avalúo y debe realizarse dentro de un plazo específico. En la convocatoria se informan los bienes, el valor de enajenación y los requisitos para participar en la subasta.",
   "preguntas_ejemplo": [
-    "¿Cómo se lleva a cabo un remate de bienes fiscales?",
-    "¿Cuándo se publica la convocatoria para un remate?",
-    "¿Qué requisitos debo cumplir para participar en un remate?",
-    "¿Dónde puedo ver los bienes que se van a rematar?",
-    "¿Qué es un avalúo en el contexto de un remate?"
+    "¿Qué es un remate fiscal?",
+    "¿Cómo se participa en un remate?",
+    "¿Cuándo se convoca la subasta de bienes?",
+    "¿Qué requisitos se necesitan para postularse en un remate?",
+    "¿Dónde se publica la convocatoria de remate?"
   ]
 }

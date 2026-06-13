@@ -5,32 +5,28 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:2fff5ca928520d96",
+    "hash_texto": "sha256:00c5f7350e1097d1",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos de impugnación fiscales",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
-    "recurso de revocación",
-    "juicio ante el Tribunal Federal",
-    "resoluciones administrativas",
-    "actos administrativos",
-    "procedimientos de defensa",
-    "doble tributación"
+    "impugnación de actos",
+    "juicios fiscales",
+    "procedimientos administrativos",
+    "controversias fiscales"
   ],
   "terminos_coloquiales": [
-    "impugnación de actos fiscales",
     "recurso de revocación",
     "juicio fiscal",
-    "recursos administrativos"
+    "impugnar resolución"
   ],
-  "resumen": "El artículo establece que se puede impugnar un acto administrativo a través de un recurso de revocación o un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. También menciona que este recurso debe mantenerse si se trata de actos conectados y que hay procedimientos para resolver controversias en tratados de doble tributación.",
+  "resumen": "El contribuyente puede impugnar un acto administrativo mediante un recurso de revocación o un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa. Esta impugnación debe seguir la misma vía si se relaciona con actos administrativos previos o posteriores.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo impugnar un acto administrativo?",
+    "¿Cómo puedo impugnar una resolución fiscal?",
     "¿Qué es el recurso de revocación?",
-    "¿Cómo se presenta un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa?",
-    "¿Puedo impugnar varias resoluciones a la vez?",
-    "¿Qué hacer si me rechazan un recurso administrativo?",
-    "¿Cuáles son los procedimientos para evitar la doble tributación?"
+    "¿Puedo presentar un juicio si ya usé el recurso de revocación?",
+    "¿Qué hacer si una resolución afecta a un acto previo?",
+    "¿Existen procedimientos alternativos para resolver conflictos fiscales?"
   ]
 }

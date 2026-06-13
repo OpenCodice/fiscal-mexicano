@@ -5,7 +5,7 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:e5ea5246388260c4",
+    "hash_texto": "sha256:137ada1ddc6dfe28",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
@@ -16,20 +16,21 @@
     "incosteabilidad",
     "insolvencia",
     "deudores",
-    "responsables solidarios"
+    "responsables solidarios",
+    "ejecución administrativa"
   ],
   "terminos_coloquiales": [
-    "cancelar deudas fiscales",
-    "créditos de cobro incosteable",
-    "deudores insolventes",
-    "cobro de impuestos"
+    "cancelación de deudas fiscales",
+    "créditos difíciles de cobrar",
+    "deudas incosteables",
+    "deudores insolventes"
   ],
-  "resumen": "La Secretaría de Hacienda puede cancelar deudas fiscales cuando no sean viables de cobrar o cuando el deudor no tenga bienes para pagarlas. La cancelación no exime al deudor de su obligación de pago.",
+  "resumen": "La Secretaría de Hacienda puede cancelar créditos fiscales que sean incosteables o cuando el deudor es insolvente. Se consideran incosteables las deudas que no pueden recuperarse en costos viables o que son muy pequeñas. La cancelación no exime al deudor de seguir siendo responsable del pago.",
   "preguntas_ejemplo": [
-    "¿Cuándo puedo cancelar mis deudas fiscales?",
-    "¿Qué significa que una deuda fiscal sea incosteable?",
-    "¿Cuáles son las condiciones para considerar a un deudor como insolvente?",
-    "¿Qué pasa si tengo varios créditos fiscales?",
-    "¿La cancelación de un crédito fiscal significa que ya no debo pagarlo?"
+    "¿Qué créditos fiscales puede cancelar la Secretaría de Hacienda?",
+    "¿Cuándo se considera que un crédito es incosteable?",
+    "¿Qué significa ser un deudor insolvente?",
+    "¿La cancelación de créditos libera al deudor de su pago?",
+    "¿Cuáles son las condiciones para cancelar deudas fiscales?"
   ]
 }

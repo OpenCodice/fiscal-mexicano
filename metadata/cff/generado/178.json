@@ -5,28 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d5d6141dff2b404d",
+    "hash_texto": "sha256:3f5008510fcc9619",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Propuesta de Comprador en Embargo",
+  "denominacion_comun": "Remate",
   "temas": [
     "embargo",
-    "remate",
-    "comprador",
-    "crédito fiscal"
+    "crédito fiscal",
+    "propuesta de comprador",
+    "remate de bienes"
   ],
   "terminos_coloquiales": [
-    "comprador en embargo",
-    "remate de bienes",
-    "pagar deuda fiscal"
+    "remate",
+    "embargo",
+    "oferta de compra",
+    "comprador"
   ],
-  "resumen": "El artículo establece que mientras no se realice el remate de un bien embargado, el deudor puede presentar un comprador que ofrezca el pago de la deuda fiscal de forma inmediata.",
+  "resumen": "El artículo establece que, antes de que se realice el remate, la persona embargada puede proponer un comprador que ofrezca el monto necesario para cubrir el crédito fiscal. Esto permite la posibilidad de evitar el remate si se llega a un acuerdo con un nuevo comprador.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si estoy embargado?",
-    "¿Puedo proponer a alguien para que compre mis bienes embargados?",
-    "¿Cómo puedo evitar el remate de mis bienes?",
-    "¿Qué significa que alguien proponga un comprador para un embargo?",
-    "¿Qué ocurre si un comprador ofrece el pago de mi deuda fiscal?"
+    "¿Qué puedo hacer si mi bien está embargado?",
+    "¿Puedo proponer a alguien para que compre un bien en un remate?",
+    "¿Qué se necesita para cubrir un crédito fiscal antes del remate?",
+    "¿Cómo funciona el proceso de remate de bienes embargados?",
+    "¿Qué sucede si encuentro un comprador antes del remate?"
   ]
 }

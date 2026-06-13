@@ -5,35 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b7d72ede68be5454",
+    "hash_texto": "sha256:7fff742b2e610eda",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate y cumplimiento de obligaciones",
+  "denominacion_comun": "Remate",
   "temas": [
-    "remate",
-    "obligaciones del postor",
-    "garantía",
-    "fisco federal",
-    "adjudicación de bienes",
     "postores",
+    "garantías",
+    "subastas",
+    "bien adjudicado",
+    "obligaciones",
     "almoneda"
   ],
   "terminos_coloquiales": [
     "remate",
-    "cumplir con las obligaciones",
-    "garantía",
-    "fisco",
-    "adjudicación de bienes",
+    "subasta",
     "postor",
-    "segunda postura"
+    "garantía",
+    "almoneda"
   ],
-  "resumen": "Si el postor no cumple con sus obligaciones, pierde su garantía a favor del fisco. La autoridad puede adjudicar el bien al siguiente postor más alto, manteniendo las mismas condiciones.",
+  "resumen": "El artículo establece que si un postor no cumple con sus obligaciones, perderá la garantía y el bien podrá ser adjudicado al siguiente postor que ofrezca un precio igual o mayor. También indica que, en caso de incumplimiento, se podrá reiniciar la almoneda.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no cumplo con mis obligaciones en un remate?",
-    "¿Qué ocurre con mi garantía si no cumplo?",
-    "¿Cómo se adjudica un bien si el primer postor no cumple?",
-    "¿Qué debo hacer si quiero participar en un remate?",
-    "¿Cuáles son las responsabilidades de un postor en un remate?"
+    "¿Cómo se adjudica un bien en caso de que el ganador no pague?",
+    "¿Qué es la almoneda y cómo se realiza?",
+    "¿Quién puede participar en un remate?",
+    "¿Qué sucede si ningún postor cumple con las obligaciones?"
   ]
 }

@@ -5,32 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:faa6245061b57f30",
+    "hash_texto": "sha256:67fe30071397f52c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Avalúo de bienes embargados",
+  "denominacion_comun": "Remate de bienes embargados",
   "temas": [
-    "embargos",
     "avalúo",
-    "peritos",
-    "recursos de revocación",
-    "compraventa",
-    "subasta",
+    "bien inmueble",
+    "embargo",
+    "recurso de revocación",
+    "perito",
+    "valores",
     "negociaciones"
   ],
   "terminos_coloquiales": [
-    "avalúo de bienes",
-    "valoración de propiedades",
+    "remate",
+    "subasta",
+    "avaluación de bienes",
     "recurso de revocación",
-    "bien embargado"
+    "perito valuador"
   ],
-  "resumen": "Este artículo establece cómo se determina el avalúo de bienes inmuebles embargados. Si el embargado o los acreedores no están conformes con la valuación, pueden impugnarla mediante un recurso de revocación. Además, se especifican los plazos en los que los peritos deben rendir su dictamen.",
+  "resumen": "El artículo regula el remate de bienes inmuebles embargados y el proceso de avalúo correspondiente. Si los afectados no están de acuerdo con el avalúo, pueden interponer un recurso de revocación y presentar su propio perito. Si no se cumplen ciertos plazos, se acepta el avalúo hecho por la autoridad.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina el avalúo de un bien embargado?",
-    "¿Qué puedo hacer si no estoy de acuerdo con el avalúo de la autoridad?",
-    "¿Cuáles son los plazos para entregar el dictamen de un perito?",
-    "¿Qué sucede si no designo un valuador en mi recurso de revocación?",
-    "¿Qué ocurre si el dictamen de mi perito es superior al avalúo de la autoridad?"
+    "¿Cómo se determina el valor de los bienes embargados en un remate?",
+    "¿Qué puedo hacer si no estoy de acuerdo con el avalúo de un bien embargado?",
+    "¿Cuáles son los plazos para presentar un dictamen de mi perito?",
+    "¿Qué sucede si no designo un perito para el recurso de revocación?",
+    "¿Qué requisitos debo cumplir para participar en la subasta de bienes embargados?"
   ]
 }

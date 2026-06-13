@@ -5,32 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:83fc0648486f26cb",
+    "hash_texto": "sha256:506290704d5c6549",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Embargo",
   "temas": [
-    "embargo",
-    "bienes muebles",
-    "cerraduras",
-    "diligencia",
-    "depositario",
-    "inmuebles"
+    "diligencias de embargo",
+    "posesión de bienes",
+    "sellado de bienes",
+    "bienes embargables",
+    "ruptura de cerraduras",
+    "depósito de bienes"
   ],
   "terminos_coloquiales": [
-    "embargo",
+    "quitar bienes",
+    "embargo de propiedades",
     "romper cerraduras",
-    "tomar posesión",
-    "bien embargable",
-    "muebles cerrados"
+    "bien embargado",
+    "dinero embargado",
+    "alhajas embargadas"
   ],
-  "resumen": "Este artículo establece que si durante un embargo la persona no abre las puertas o los muebles, el ejecutor puede romper las cerraduras para tomar posesión de los bienes. Si no se puede abrir algo, se traba el embargo y se sellan los bienes para su custodia.",
+  "resumen": "El artículo establece el procedimiento que debe seguir el ejecutor del embargo si la persona no permite el acceso a los bienes embargables, incluyendo la posibilidad de romper cerraduras para tomar posesión de los mismos. También menciona la forma de sellar y enviar al depósito los bienes que no se pueden abrir de inmediato.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no me dejan entrar durante un embargo?",
-    "¿Puede romperse la cerradura en un embargo?",
-    "¿Qué hace el ejecutor si no puede acceder a los bienes embargados?",
-    "¿Cómo se manejan los bienes embargables que están cerrados?",
-    "¿Qué procedimiento se sigue para abrir un inmueble embargado?"
+    "¿Qué pasa si no abren las puertas para el embargo?",
+    "¿Puede el ejecutor romper cerraduras?",
+    "¿Qué se hace con los bienes cerrados?",
+    "¿Cómo se manejan los objetos embargados?",
+    "¿Qué procedimiento se sigue si hay alhajas embargadas?"
   ]
 }

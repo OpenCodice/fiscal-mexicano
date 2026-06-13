@@ -5,29 +5,26 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:794c51afa3b87566",
+    "hash_texto": "sha256:00ac904eba12fe71",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes",
+  "denominacion_comun": "Remate",
   "temas": [
-    "valor de remate",
     "postura legal",
-    "bien embargado",
-    "subasta"
+    "valor del remate",
+    "base para remate",
+    "terceras partes"
   ],
   "terminos_coloquiales": [
-    "remate",
-    "subasta de bienes",
-    "oferta legal",
-    "inmuebles en remate"
+    "porcentaje de remate",
+    "valor de remate"
   ],
-  "resumen": "El artículo establece que para que una postura legal en un remate sea válida, debe alcanzar al menos dos terceras partes del valor base establecido. Esto es importante para asegurar que las ofertas sean justas y reflejen el valor real de los bienes en cuestión.",
+  "resumen": "El artículo establece que la postura legal en un remate debe cubrir al menos dos terceras partes del valor de referencia para que sea válida.",
   "preguntas_ejemplo": [
-    "¿Qué se necesita para hacer una postura en un remate?",
-    "¿Cuál es el valor mínimo para participar en una subasta?",
-    "¿Cómo se determina el valor de un bien en un remate?",
-    "¿Qué pasa si la oferta no alcanza el valor base en un remate?",
-    "¿Qué significa postura legal en el contexto de un remate?"
+    "¿Cuánto debo ofrecer en un remate?",
+    "¿Qué porcentaje cubre una postura legal en un remate?",
+    "¿Cuál es la base para realizar un remate?",
+    "¿Qué se considera una postura válida en un remate?"
   ]
 }

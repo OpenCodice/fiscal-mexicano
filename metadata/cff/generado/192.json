@@ -5,33 +5,28 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0d2d6a75e40ea27c",
+    "hash_texto": "sha256:c3abac7375ef8ba7",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes embargados",
+  "denominacion_comun": "Remate de Bienes Embargados",
   "temas": [
-    "embargo",
-    "enajenación",
-    "remate",
+    "enajenación de bienes",
+    "remate judicial",
     "bienes embargados",
-    "fisco",
-    "venta",
     "valor de bienes"
   ],
   "terminos_coloquiales": [
-    "vender bienes embargados",
-    "remate de bienes",
-    "bienes embargados",
-    "fisco",
-    "comprador de bienes embargados"
+    "remate",
+    "embargo",
+    "venta de bienes embargados"
   ],
-  "resumen": "Los bienes embargados pueden venderse sin remate si se propone un comprador antes del remate o si son bienes que se pueden deteriorar fácilmente. También deben venderse al precio que se ha señalado para esos bienes.",
+  "resumen": "Los bienes que han sido embargados pueden venderse sin necesidad de un remate si se cumplen ciertas condiciones. Estas incluyen que el deudor proponga un comprador que ofrezca al menos el valor del bien o que los bienes sean de fácil descomposición y no se puedan conservar adecuadamente.",
   "preguntas_ejemplo": [
-    "¿Cómo se pueden vender los bienes embargados?",
-    "¿Qué pasa si propongo un comprador antes del remate?",
-    "¿Qué tipos de bienes pueden venderse sin remate?",
-    "¿Qué debo considerar al vender bienes embargados al fisco?",
-    "¿Puedo vender bienes embargados a un precio diferente al señalado?"
+    "¿Puedo vender un bien embargado sin hacer un remate?",
+    "¿Qué condiciones debo cumplir para enajenar bienes embargados?",
+    "¿Qué sucede con los bienes embargados que están en mal estado?",
+    "¿Quién puede proponer un comprador para un bien embargado?",
+    "¿Cuál es el valor mínimo que debe alcanzar la venta de un bien embargado?"
   ]
 }

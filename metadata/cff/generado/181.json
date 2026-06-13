@@ -5,31 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:3d3204b1e5d2efe9",
+    "hash_texto": "sha256:c220a4dbca3c56a6",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Remate de bienes",
+  "denominacion_comun": "Remate",
   "temas": [
+    "subasta",
     "posturas",
-    "subastas",
     "firma electrónica",
     "transferencia electrónica",
-    "garantías"
+    "garantías",
+    "obligaciones"
   ],
   "terminos_coloquiales": [
-    "remate",
-    "subasta",
-    "oferta",
+    "subastas",
+    "ofertas",
     "firma electrónica",
-    "pago electrónico"
+    "transferencia de dinero",
+    "depósito en garantía"
   ],
-  "resumen": "Este artículo establece los procedimientos para participar en remates de bienes, incluyendo la necesidad de enviar posturas electrónicas con firma electrónica y realizar una transferencia electrónica como garantía. Los fondos transferidos se devuelven tras el remate, excepto los correspondientes al postor admitido.",
+  "resumen": "El artículo establece cómo se deben enviar las posturas para un remate, incluyendo el uso de firma electrónica y una transferencia electrónica de fondos como garantía. Los fondos se devolverán a los postores después del remate, excepto el que se adjudique, el cual permanecerá como garantía del cumplimiento de su obligación.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo participar en un remate de bienes?",
-    "¿Qué hago con la firma electrónica avanzada para las posturas?",
-    "¿Cuál es el procedimiento para enviar una oferta en una subasta?",
-    "¿Necesito hacer un pago previo para participar en un remate?",
-    "¿Cómo se devuelven los fondos después del remate?"
+    "¿Cómo se participa en un remate?",
+    "¿Qué se necesita para hacer una oferta en una subasta?",
+    "¿Qué es la transferencia electrónica de fondos en un remate?",
+    "¿Cómo se garantiza el cumplimiento de las obligaciones en una subasta?",
+    "¿Qué pasa con el dinero transferido después del remate?"
   ]
 }

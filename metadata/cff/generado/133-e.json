@@ -5,30 +5,28 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:e46b8c9075188193",
+    "hash_texto": "sha256:ba053394c55c54b4",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación exclusivo de fondo",
+  "denominacion_comun": "Recurso de Revocación Exclusivo de Fondo",
   "temas": [
     "audiencia",
     "promovente",
-    "autoridad administrativa",
     "resolución",
     "inasistencia",
-    "expediente"
+    "autoridad administrativa"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "audiencia fiscal",
-    "escuchar al contribuyente"
+    "revocación de resolución",
+    "audiencia de revocación"
   ],
-  "resumen": "Este artículo regula cómo se lleva a cabo la audiencia para el recurso de revocación exclusivo de fondo, estableciendo plazos y condiciones para su realización. Si el contribuyente no asiste, la audiencia no se reprogramará a menos que se solicite con anticipación.",
+  "resumen": "El artículo establece el procedimiento para solicitar una audiencia en el recurso de revocación exclusivo de fondo, donde el contribuyente puede ser escuchado por la autoridad. Si el promovente no asiste, la audiencia no se podrá reprogramar a menos que se solicite con cinco días de anticipación.",
   "preguntas_ejemplo": [
-    "¿Cuándo se lleva a cabo la audiencia del recurso de revocación?",
-    "¿Qué pasa si no asisto a la audiencia de revocación?",
-    "¿Puedo pedir que se reprograma la audiencia?",
-    "¿Qué documentación se necesita para el recurso de revocación?",
-    "¿Quiénes están presentes en la audiencia de revocación?"
+    "¿Cómo se solicita una audiencia en el recurso de revocación?",
+    "¿Qué pasa si no asisto a la audiencia del recurso de revocación?",
+    "¿Cuánto tiempo tengo para solicitar una nueva fecha de audiencia?",
+    "¿Dónde se llevará a cabo la audiencia del recurso de revocación?"
   ]
 }

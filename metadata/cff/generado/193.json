@@ -5,18 +5,26 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d3bae23785f54144",
+    "hash_texto": "sha256:f3b0fd27eda20bab",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Derogación de artículo",
-  "temas": [],
-  "terminos_coloquiales": [],
-  "resumen": "Este artículo ha sido derogado y ya no tiene validez legal.",
+  "denominacion_comun": "Derogación",
+  "temas": [
+    "derogación",
+    "normatividad",
+    "cambio legal"
+  ],
+  "terminos_coloquiales": [
+    "es derogado",
+    "ya no está en la ley"
+  ],
+  "resumen": "Este artículo establece la derogación de una disposición previa en la legislación fiscal. Al ser derogado, ya no tiene efecto legal.",
   "preguntas_ejemplo": [
-    "¿Qué significa que un artículo fiscal esté derogado?",
-    "¿El artículo 193 del CFF sigue vigente?",
-    "¿Qué artículos han sido derogados en la ley fiscal?",
-    "¿Dónde puedo encontrar información sobre artículos derogados?"
+    "¿Qué significa que un artículo esté derogado?",
+    "¿Qué pasa con las disposiciones que fueron derogados?",
+    "¿Dónde puedo encontrar información sobre los artículos derogados?",
+    "¿Qué implicaciones tiene la derogación de un artículo fiscal?",
+    "¿Cuáles son las leyes que ya no están vigentes?"
   ]
 }

@@ -5,31 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5164d6d02352a984",
+    "hash_texto": "sha256:1ff8e4f0874d671c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recursos de Revocación",
+  "denominacion_comun": "Recursos de revocación",
   "temas": [
-    "procedimiento administrativo",
-    "actos de autoridad",
+    "trámite de recursos",
     "resoluciones fiscales",
-    "medios de defensa",
-    "plazos administrativos",
-    "vicios de forma y fondo"
+    "vicios de forma",
+    "vicios de fondo",
+    "suspensión de efectos",
+    "cumplimiento de resoluciones"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "resoluciones fiscales",
-    "impugnación",
-    "vicios en actos administrativos"
+    "impugnación de resoluciones",
+    "fallos fiscales",
+    "suspensión de resolución"
   ],
-  "resumen": "El artículo establece que las autoridades fiscales deben cumplir con las resoluciones dictadas en los recursos de revocación. Se abordan los plazos y condiciones bajo las cuales se pueden reponer o reanudar procedimientos viciados, así como las limitaciones sobre nuevos actos administrativos después de revocaciones por vicios de fondo.",
+  "resumen": "El artículo establece que las autoridades fiscales deben cumplir las resoluciones de los recursos de revocación. Si se revoca un acto por vicios de forma o fondo, se deben seguir ciertos procedimientos y plazos para emitir nuevas resoluciones, sin que estas perjudiquen más al interesado.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi resolución fiscal fue revocada?",
-    "¿Cuáles son los plazos para cumplir con una resolución de recurso de revocación?",
-    "¿Qué sucede si hay vicios en la resolución que impugné?",
-    "¿Cómo afecta la impugnación a los plazos de resolución?",
-    "¿La autoridad puede dictar una nueva resolución después de una revocación?"
+    "¿Qué pasa si no estoy de acuerdo con una resolución fiscal?",
+    "¿Cuáles son los plazos para cumplir con una resolución de un recurso de revocación?",
+    "¿Los efectos de la resolución se suspenden al interponer un recurso?",
+    "¿Qué se considera un vicio de fondo en una resolución fiscal?",
+    "¿Puede la autoridad emitir una nueva resolución después de un recurso de revocación?"
   ]
 }

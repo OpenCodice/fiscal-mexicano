@@ -5,33 +5,34 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d7ad947e079ba2c8",
+    "hash_texto": "sha256:29a3862eb1ebefa9",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Inmovilización de depósitos",
   "temas": [
-    "créditos fiscales",
-    "inmovilización de cuentas",
-    "depósitos bancarios",
-    "entidades financieras",
-    "garantías fiscales",
     "embargo",
-    "notificación al contribuyente"
+    "créditos fiscales",
+    "declaraciones fiscales",
+    "cuentas bancarias",
+    "garantías fiscales",
+    "intereses",
+    "notificaciones",
+    "liberación de fondos"
   ],
   "terminos_coloquiales": [
-    "congelar cuentas",
-    "bloquear cuentas",
-    "inmovilizar dinero",
+    "embargo bancario",
+    "inmovilización de cuentas",
+    "bloqueo de cuentas",
     "créditos fiscales",
-    "depósitos en bancos"
+    "intereses generados"
   ],
-  "resumen": "Este artículo regula la inmovilización de depósitos bancarios del contribuyente por parte de la autoridad fiscal cuando existan créditos fiscales firmes o impugnados. Se establece el procedimiento y condiciones bajo las cuales se puede llevar a cabo dicha inmovilización.",
+  "resumen": "La ley establece que la autoridad fiscal puede inmovilizar depósitos bancarios de un contribuyente en diversas situaciones relacionadas con créditos fiscales, asegurando que no se exceda el monto del crédito a cubrir. Además, se deben realizar notificaciones y se establecen plazos para liberar fondos en caso de que haya un importe inmovilizado mayor al adecuado.",
   "preguntas_ejemplo": [
-    "¿Por qué me congelaron mi cuenta bancaria?",
-    "¿Qué es la inmovilización de depósitos?",
-    "¿Cuándo puede la autoridad fiscal inmovilizar mi dinero?",
-    "¿Cuánto tiempo dura la inmovilización de mis cuentas?",
-    "¿Qué hacer si mi cuenta está inmovilizada por el SAT?"
+    "¿Cuándo puede la autoridad fiscal inmovilizar mis depósitos?",
+    "¿Qué ocurre si mi cuenta está inmovilizada por un crédito fiscal?",
+    "¿Cómo puedo liberar mis fondos de una cuenta inmovilizada?",
+    "¿Qué plazos debo conocer sobre la inmovilización de mis cuentas?",
+    "¿Cuáles son mis derechos si mi cuenta bancaria es inmovilizada?"
   ]
 }

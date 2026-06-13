@@ -5,30 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0139244673a66524",
+    "hash_texto": "sha256:a5f2fb7ac1b59d38",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Plazos de Abandono",
   "temas": [
-    "recursos administrativos",
-    "demanda judicial",
-    "interrupción de plazos",
-    "consulta entre autoridades"
+    "interposición de recursos",
+    "demanda en juicio",
+    "consulta entre autoridades",
+    "entrega de bienes",
+    "resoluciones definitivas"
   ],
   "terminos_coloquiales": [
-    "plazos de abandono",
-    "recurso administrativo",
-    "demanda",
-    "juicio",
-    "consulta"
+    "abandonar bienes",
+    "recursos administrativos",
+    "juicio contencioso",
+    "consulta entre oficinas"
   ],
-  "resumen": "El artículo establece que los plazos de abandono se interrumpen cuando se interpone un recurso administrativo o una demanda, así como por consultas entre autoridades que afecten la entrega de bienes. La interrupción se aplica solo si la resolución final no confirma la decisión impugnada.",
+  "resumen": "El artículo establece que los plazos de abandono se interrumpen por la interposición de un recurso administrativo o la demanda en juicio, además de consultas entre autoridades relacionadas con la entrega de bienes. Esto implica que mientras se resuelven estos trámites, los plazos no avanzan.",
   "preguntas_ejemplo": [
-    "¿Qué sucede con los plazos de abandono si interpongo un recurso?",
-    "¿Los plazos se interrumpen si presento una demanda?",
-    "¿Qué pasa si hay una consulta entre autoridades sobre mis bienes?",
-    "¿Cuándo se consideran interrumpidos los plazos según el artículo 196-B?",
-    "¿Qué efectos tiene la resolución de un recurso en los plazos de abandono?"
+    "¿Qué pasa si interpongo un recurso administrativo sobre un bien abandonado?",
+    "¿Los plazos de abandono se detienen por una demanda?",
+    "¿Qué ocurre si hay consulta entre autoridades sobre un bien?",
+    "¿Qué significa que una resolución no confirme lo impugnado?",
+    "¿Cómo se interrumpen los plazos de abandono?"
   ]
 }

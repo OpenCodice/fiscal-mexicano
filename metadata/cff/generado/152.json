@@ -5,31 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:7cd7b4e920203bb3",
+    "hash_texto": "sha256:fdc56596cc80fab0",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Embargo",
   "temas": [
-    "embargo",
-    "actos de inspección",
-    "vigilancia",
     "diligencia de embargo",
+    "ejecutor designado",
+    "identificación",
     "notificaciones",
-    "buzón tributario"
+    "acta circunstanciada",
+    "aseguramiento de bienes",
+    "inspección y vigilancia"
   ],
   "terminos_coloquiales": [
     "embargo de bienes",
-    "actos de inspección",
-    "requerimiento de pago",
-    "notificación de embargo"
+    "diligencia de embargo",
+    "notificación de embargo",
+    "acta de embargo",
+    "buzón tributario"
   ],
-  "resumen": "El artículo establece cómo se debe realizar el embargo de bienes del deudor y las formalidades necesarias para notificaciones. También menciona el proceso de aseguramiento de bienes en inspecciones fiscales. Se debe levantar un acta circunstanciada del embargo.",
+  "resumen": "El artículo detalla el proceso de embargo, incluyendo la identificación del ejecutor ante el deudor y las formalidades de notificación. También menciona el aseguramiento de bienes que debieron ser declarados ante las autoridades fiscales durante actos de inspección.",
   "preguntas_ejemplo": [
+    "¿Qué pasa si me embargan mis bienes?",
     "¿Cómo se realiza un embargo de bienes?",
-    "¿Qué se necesita para un requerimiento de pago?",
-    "¿Qué formalidades deben seguirse durante un embargo?",
-    "¿Cómo se notifican los embargos?",
-    "¿Qué es el buzón tributario?"
+    "¿Qué documentos se generan en una diligencia de embargo?",
+    "¿Qué debo hacer si recibo una notificación de embargo?",
+    "¿Cuáles son los derechos del deudor en un proceso de embargo?"
   ]
 }

@@ -5,28 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0463801b86af4534",
+    "hash_texto": "sha256:0bbc3b689c6e1bd4",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Prohibición de adquirir bienes en remate",
+  "denominacion_comun": "Remate",
   "temas": [
-    "remate",
-    "bienes",
-    "fisco",
-    "sanciones"
+    "prohibición de adquisición",
+    "bienese objeto de remate",
+    "jefes de oficinas ejecutoras",
+    "sanciones",
+    "nulidad de remate"
   ],
   "terminos_coloquiales": [
-    "remates",
-    "bienes embargados",
-    "compra en remate"
+    "comprar en remate",
+    "adquirir bienes en remate",
+    "remate nulo"
   ],
-  "resumen": "No se puede comprar bienes que se rematan si has estado involucrado en el proceso administrativo del fisco. Si alguien lo hace, la compra es nula y habrá sanciones para los infractores.",
+  "resumen": "La ley prohíbe adquirir bienes en un remate a ciertos funcionarios y personas involucradas en el procedimiento administrativo. Cualquier remate realizado en contravención a esta norma será considerado nulo y sus infractores serán sancionados.",
   "preguntas_ejemplo": [
-    "¿Puedo comprar un bien en remate si trabajé en la oficina del fisco?",
-    "¿Qué pasa si adquiero un bien rematado de manera prohibida?",
-    "¿Qué sanciones hay por infringir la prohibición de compra en remate?",
-    "¿Es posible comprar bienes del fisco en remates públicos?",
-    "¿Qué se entiende por remate nulo en términos fiscales?"
+    "¿Quiénes no pueden participar en un remate?",
+    "¿Qué pasa si alguien incumple la prohibición de adquirir bienes en un remate?",
+    "¿El remate es válido si lo realiza un funcionario del fisco?",
+    "¿Qué se considera un remate nulo?",
+    "¿Qué sanciones existen para quienes infrinjan esta norma?"
   ]
 }

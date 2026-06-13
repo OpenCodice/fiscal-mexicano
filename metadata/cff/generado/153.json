@@ -5,30 +5,34 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:fb04c889504fd2d0",
+    "hash_texto": "sha256:3de54f920bfdc065",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bienes embargados",
+  "denominacion_comun": "Embargo",
   "temas": [
-    "depósito de bienes embargados",
-    "nombramiento de depositarios",
-    "remoción de depositarios",
-    "responsabilidad de depositarios",
-    "sellos oficiales en embargos"
+    "depositarios",
+    "bienes embargados",
+    "responsabilidad",
+    "sellos oficiales",
+    "bienes raíces",
+    "negociaciones",
+    "entrega de bienes"
   ],
   "terminos_coloquiales": [
-    "embargos",
-    "bienes embargados",
-    "depositarios",
+    "embargo",
+    "bien embargado",
+    "depositario",
+    "administrador de bienes",
+    "interventor",
     "responsabilidad de depositarios"
   ],
-  "resumen": "El artículo establece que los bienes embargados pueden ser dejados bajo la guarda de depositarios que sean designados. Estos depositarios actuarán conforme a la ley y su responsabilidad termina al entregar los bienes embargados a las autoridades fiscales.",
+  "resumen": "El artículo establece cómo se deben manejar los bienes embargados y quiénes pueden ser los depositarios. Estos depositarios tienen responsabilidades en la custodia y entrega de los bienes a las autoridades fiscales. También se menciona el uso de sellos oficiales para identificar los bienes embargados.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los bienes embargados?",
-    "¿Quién nombra a los depositarios de bienes embargados?",
-    "¿Cuándo cesa la responsabilidad de un depositario?",
+    "¿Qué pasa con mis bienes si me embargan?",
+    "¿Quién puede ser el depositario de mis bienes embargados?",
+    "¿Cuáles son las obligaciones de un depositario de bienes embargados?",
     "¿Cómo se identifican los bienes embargados?",
-    "¿Qué obligaciones tienen los depositarios de bienes embargados?"
+    "¿Qué sucede si se remueve al depositario de mis bienes?"
   ]
 }

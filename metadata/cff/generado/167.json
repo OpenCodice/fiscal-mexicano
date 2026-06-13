@@ -5,28 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b10aaa493b9de41a",
+    "hash_texto": "sha256:7634c02cf44bb9ae",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interventor Administrador",
+  "denominacion_comun": "Intervención Administrativa",
   "temas": [
-    "rendición de cuentas",
-    "recaudación de ingresos",
-    "enajenación de bienes",
-    "remate de negociaciones"
+    "obligaciones del interventor",
+    "cuentas mensuales",
+    "recaudación",
+    "ingresos diarios",
+    "enajenación de bienes"
   ],
   "terminos_coloquiales": [
     "interventor",
-    "cobrar dinero",
-    "dar cuentas",
-    "vender bienes"
+    "rendir cuentas",
+    "recaudar dinero",
+    "ventas diarias"
   ],
-  "resumen": "El interventor administrador debe rendir cuentas mensuales y recaudar un porcentaje de las ventas en la negociación intervenida. No puede vender los bienes fijos del negocio, y en casos de enajenación, debe seguir ciertos procedimientos de remate.",
+  "resumen": "El interventor administrador tiene la obligación de rendir cuentas mensuales y recaudar un porcentaje de las ventas diarias en el negocio intervenido. No puede vender bienes del activo fijo durante la intervención y debe seguir ciertas disposiciones para el remate si se da el caso de enajenación.",
   "preguntas_ejemplo": [
-    "¿Cuáles son las obligaciones del interventor administrador?",
-    "¿Cómo se recauda el 10% de las ventas?",
-    "¿Qué pasa si el interventor quiere vender los bienes de la negociación?",
-    "¿Qué procedimiento se sigue para el remate de bienes?"
+    "¿Qué debe hacer un interventor administrador?",
+    "¿Cómo se llevan a cabo las cuentas mensuales en la intervención?",
+    "¿Qué porcentaje de ventas se recauda en una negociación intervenida?",
+    "¿Puede el interventor vender los bienes del negocio intervenido?",
+    "¿Qué pasa si se tiene que enajenar un negocio intervenido?"
   ]
 }

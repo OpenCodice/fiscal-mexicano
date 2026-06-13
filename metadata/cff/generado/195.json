@@ -5,7 +5,7 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:229aecfdd89b470f",
+    "hash_texto": "sha256:6529bd845e8a85b6",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
@@ -14,19 +14,22 @@
     "embargo",
     "pago de créditos",
     "recuperación de bienes",
-    "alquiler y almacenaje"
+    "resoluciones favorables",
+    "almacenaje de bienes"
   ],
   "terminos_coloquiales": [
-    "recuperar bienes embargados",
-    "pagar deudas",
-    "derechos de almacenaje"
+    "remate",
+    "bien embargado",
+    "pago de deuda",
+    "retirar bienes",
+    "cobrar deuda"
   ],
-  "resumen": "El embargado puede pagar total o parcialmente su deuda para recuperar sus bienes antes de que sean rematados. Si realiza el pago o gana un juicio, puede retirar los bienes embargados, pero si no lo hace a tiempo, deberá pagar costos de almacenaje.",
+  "resumen": "El embargado puede pagar total o parcialmente su deuda para recuperar los bienes embargados antes de que sean rematados. Si paga o recibe una resolución favorable, podrá retirar los bienes, pero si no lo hace, se generarán cargos por almacenaje.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo recuperar mis bienes embargados?",
-    "¿Qué sucede si pago mi deuda después de un embargo?",
-    "¿Cuáles son mis derechos si tengo bienes embargados?",
-    "¿Tengo que pagar almacenaje si no recojo mis bienes embargados a tiempo?",
-    "¿Puedo pagar parcialmente para evitar el remate de mis bienes?"
+    "¿Puedo recuperar mis bienes embargados si pago la deuda?",
+    "¿Qué sucede si no retiro mis bienes embargados?",
+    "¿Cuáles son mis opciones si se ha embargado un bien?",
+    "¿Qué derechos tengo al pagar una deuda antes del remate?",
+    "¿Qué sucede con los costos de almacenaje de mis bienes embargados?"
   ]
 }

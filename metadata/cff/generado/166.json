@@ -5,28 +5,33 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b67f8d408b87fd2d",
+    "hash_texto": "sha256:530e9c944ff8a506",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Interventor Administrador",
+  "denominacion_comun": "Intervención",
   "temas": [
     "facultades del interventor",
-    "administración de la sociedad",
+    "administración",
     "actos de dominio",
-    "pleitos y cobranzas",
-    "poderes generales y especiales"
+    "poderes generales",
+    "titulos de crédito",
+    "denuncias y querellas",
+    "negociaciones"
   ],
   "terminos_coloquiales": [
     "interventor",
-    "facultades administrativas",
+    "facultades del interventor",
+    "apoderado",
+    "administrador",
     "actos de administración"
   ],
-  "resumen": "El interventor administrador tiene plenas facultades para administrar la sociedad, incluyendo actos de dominio y pleitos. No está sujeto a la aprobación de la asamblea o consejo de administración. También puede actuar con autoridad plena en negocios que no son sociedades.",
+  "resumen": "El interventor administrador tiene plenas facultades para manejar y administrar la sociedad, así como ejercer acciones legales y otorgar poderes. No está sujeto a la aprobación del consejo de administración o asamblea para sus decisiones. Además, en negociaciones fuera de una sociedad, actúa con todas las facultades de un dueño.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer un interventor administrador?",
-    "¿El interventor necesita permiso del consejo para actuar?",
-    "¿Cuáles son las facultades que tiene el interventor en una sociedad?",
-    "¿Qué tipo de actos puede realizar un interventor administrador?"
+    "¿Qué facultades tiene el interventor administrador en una sociedad?",
+    "¿Puede el interventor realizar acciones legales sin permiso del consejo de administración?",
+    "¿Qué sucede en negociaciones que no son sociedades a las que interviene un interventor?",
+    "¿El interventor puede otorgar poderes a otras personas?",
+    "¿Cuáles son los límites de la actuación del interventor administrador?"
   ]
 }

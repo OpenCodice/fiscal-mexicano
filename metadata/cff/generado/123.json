@@ -5,31 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:70c4384a7720e0af",
+    "hash_texto": "sha256:52f385be89bf7bea",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Presentación de recursos",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "documentación requerida",
-    "notificación de actos",
+    "impugnación de actos fiscales",
+    "notificación",
     "pruebas documentales",
-    "plazos para presentar documentos",
-    "aseveraciones del promovente",
-    "documentos en otros idiomas"
+    "personalidad jurídica"
   ],
   "terminos_coloquiales": [
-    "recurso",
-    "documentos para el recurso",
-    "notificación de actos fiscales",
-    "pruebas para el recurso"
+    "recurso fiscal",
+    "apelar un acto fiscal",
+    "documentos fiscales",
+    "notificación",
+    "pruebas"
   ],
-  "resumen": "Este artículo establece los documentos que debe presentar una persona al interponer un recurso contra un acto de la autoridad fiscal, así como los requisitos para su aceptación y plazos para hacerlo. También menciona que si no se presentan los documentos necesarios, el recurso puede no ser admitido.",
+  "resumen": "El Recurso de Revocación permite impugnar actos de la autoridad fiscal, requiriendo la presentación de ciertos documentos y pruebas. Si no se presentan en tiempo, el recurso puede ser considerado no interpuesto.",
   "preguntas_ejemplo": [
-    "¿Qué documentos necesito para presentar un recurso fiscal?",
+    "¿Qué documentos necesito para un recurso de revocación?",
     "¿Cómo puedo impugnar un acto de la autoridad fiscal?",
-    "¿Qué pasa si no presento la constancia de notificación?",
-    "¿Puedo presentar copias simples de los documentos?",
-    "¿Qué hago si no tengo los documentos requeridos?"
+    "¿Cuánto tiempo tengo para presentar pruebas en un recurso de revocación?",
+    "¿Qué sucede si no presento la documentación requerida para el recurso?",
+    "¿Dónde puedo encontrar información sobre la notificación de actos fiscales?"
   ]
 }

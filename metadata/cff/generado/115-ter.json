@@ -5,31 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:3c31fe3685bb17ec",
+    "hash_texto": "sha256:9ba8b51bf8635256",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por datos falsos",
+  "denominacion_comun": "Declaraciones Falsas",
   "temas": [
     "sanciones",
     "prisión",
-    "hechos falsos",
     "documentación falsa",
     "procedimientos administrativos",
-    "Hacienda Federal"
+    "Hacienda Federal",
+    "daño material"
   ],
   "terminos_coloquiales": [
-    "dar datos falsos",
+    "declaraciones falsas",
     "presentar documentos falsos",
-    "sanciones por fraude",
-    "delitos fiscales"
+    "sanción",
+    "prisión por fraudes fiscales"
   ],
-  "resumen": "Se establece que se impondrá una sanción de tres a seis años de prisión a quien declare hechos o datos falsos o presente documentación falsa en procedimientos del Código. Además, este delito puede causar daño a la Hacienda Federal, que debe ser reparado.",
+  "resumen": "Se penaliza con prisión de tres a seis años a quienes presenten datos o documentos falsos en procedimientos del Código Fiscal. Además, este acto puede causar un daño a Hacienda que debe ser reparado.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si presento documentos falsos en un trámite fiscal?",
-    "¿Cuáles son las sanciones por declarar datos falsos a Hacienda?",
-    "¿Qué delitos fiscales pueden llevar a prisión?",
-    "¿Es un delito presentar información falsa en procedimientos administrativos?",
-    "¿Qué consecuencias tiene el daño material a la Hacienda Federal?"
+    "¿Qué pasa si presento documentos falsos a la autoridad fiscal?",
+    "¿Cuáles son las sanciones por declarar datos falsos?",
+    "¿Qué tipo de delitos están relacionados con las declaraciones falsas?",
+    "¿Qué consecuencias tiene alterar información en un procedimiento fiscal?",
+    "¿Cómo se investiga un caso de documentación falsa ante Hacienda?"
   ]
 }

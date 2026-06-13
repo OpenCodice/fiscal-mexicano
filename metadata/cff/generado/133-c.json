@@ -5,29 +5,28 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:bb9508b06d13daf7",
+    "hash_texto": "sha256:b8ef69c405799e6f",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación exclusivo de fondo",
+  "denominacion_comun": "Recurso de Revocación Exclusivo de Fondo",
   "temas": [
-    "recursos fiscales",
-    "revocación",
-    "agravios de fondo",
-    "cumplimiento de obligaciones"
+    "trámite de revocación",
+    "aggravios de fondo",
+    "resoluciones fiscales",
+    "requisitos de procedencia"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "recurso fiscal",
-    "agrietar una decisión",
-    "revisar una resolución"
+    "revocación de resolución",
+    "recurso fiscal"
   ],
-  "resumen": "El artículo regula el recurso de revocación exclusivo de fondo, que permite a un promovente impugnar decisiones de la autoridad sobre el fondo de una resolución, siempre que cumpla ciertos requisitos. Los agravios deben referirse a elementos fundamentales como el sujeto, objeto y aplicación de normas en el contexto de contribuciones.",
+  "resumen": "Este artículo establece que el promovente de un recurso de revocación exclusivo de fondo no puede cambiar su elección. También detalla los requisitos y los agravios que se pueden presentar en este tipo de recurso sobre las resoluciones fiscales impugnadas.",
   "preguntas_ejemplo": [
     "¿Qué es el recurso de revocación exclusivo de fondo?",
-    "¿Qué tipo de agravios se pueden presentar en un recurso de revocación?",
-    "¿Cuáles son los requisitos para admitir un recurso de revocación?",
-    "¿Qué significa agravio de fondo en este contexto?",
+    "¿Cuáles son los requisitos para presentar un recurso de revocación?",
+    "¿Qué tipo de agravios se pueden alegar en un recurso de revocación?",
+    "¿Se puede cambiar la elección del recurso de revocación después de presentarlo?",
     "¿Qué sucede si no se cumplen los requisitos para el recurso de revocación?"
   ]
 }

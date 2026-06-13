@@ -5,34 +5,36 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:fd635faeb302e15f",
+    "hash_texto": "sha256:78e3b87fd63ce150",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Embargo de Créditos",
   "temas": [
-    "embargo",
+    "notificación de embargo",
     "deudores",
-    "autoridad fiscal",
+    "multas",
+    "títulos de crédito",
+    "depositario",
     "comprobante fiscal",
-    "títulos",
-    "depósito",
-    "ejecución de créditos"
+    "cancelación de créditos",
+    "procedimiento administrativo"
   ],
   "terminos_coloquiales": [
     "embargo",
-    "deuda",
-    "banco",
-    "comprobante digital",
     "notificación de embargo",
-    "título de crédito"
+    "multa",
+    "pago de deuda",
+    "comprobante digital",
+    "registros públicos",
+    "deudor"
   ],
-  "resumen": "El artículo establece cómo se notifica el embargo de créditos a los deudores y los requerimientos que deben cumplir. También menciona el procedimiento para la obtención y custodia de títulos, así como las obligaciones que tienen los deudores al realizar pagos relacionados con el crédito embargado.",
+  "resumen": "El embargo de créditos implica que la autoridad fiscal notifica a los deudores del embargado para que informen sobre la relación contractual y no realicen pagos al embargado, sino a la propia autoridad. Además, establece obligaciones para los depositarios de los títulos de crédito y procedimientos para la entrega de comprobantes de pago.",
   "preguntas_ejemplo": [
-    "¿Cómo se notifica un embargo de créditos?",
-    "¿Qué debo hacer si soy deudor y recibo una notificación de embargo?",
-    "¿Qué pasa si no entrego el comprobante fiscal después de un pago?",
-    "¿Qué es un título de crédito y cómo se embarga?",
-    "¿Qué sucede si el titular de un crédito embargado no firma la escritura de cancelación?"
+    "¿Qué pasa si no informo a la autoridad sobre el embargo?",
+    "¿Cómo se notifica el embargo de un crédito?",
+    "¿Qué debe hacer el depositario de un título embargado?",
+    "¿Qué ocurre si el deudor no entrega el comprobante fiscal después de pagar?",
+    "¿Cuáles son las consecuencias de no cumplir con el embargo?"
   ]
 }

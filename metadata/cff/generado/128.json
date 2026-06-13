@@ -5,31 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:eaef10340ea9e546",
+    "hash_texto": "sha256:93449557d8879b4d",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Recurso de Revocación",
   "temas": [
-    "propiedad de bienes",
     "derechos embargados",
-    "remates",
+    "remate",
+    "enajenación",
     "créditos fiscales",
-    "notificaciones"
+    "fisco federal"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "embargo",
     "derechos sobre bienes",
-    "remate de bienes",
-    "créditos de contribuyentes"
+    "tercero propietario"
   ],
-  "resumen": "Este artículo establece que una persona que declare ser propietaria de bienes embargados puede impugnar acciones antes del remate. También se aclara que si hay créditos a favor de esa persona, puede solicitarlos antes de que se destine el dinero del remate al pago de créditos fiscales.",
+  "resumen": "El recurso de revocación permite a quienes afirman ser propietarios de bienes embargados o tener derechos sobre ellos hacerlo valer antes de que se realice el remate o se adjudique el bien. También permite a quienes tienen créditos a su favor pedir que se cubran antes que los fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si un bien que me pertenece ha sido embargado?",
-    "¿Cómo puedo reclamar un crédito que tengo antes de un remate?",
-    "¿Qué es un recurso de revocación en el contexto de embargos?",
-    "¿Hasta cuándo puedo impugnar el remate de mis bienes?",
-    "¿Puedo asegurar que se cubran mis créditos antes de pagar los impuestos?"
+    "¿Cómo puedo hacer valer mis derechos sobre un bien embargado?",
+    "¿Cuándo debo presentar el recurso de revocación?",
+    "¿Qué puedo hacer si creo que tengo derecho a un crédito fiscal antes del remate?",
+    "¿Qué sucede si se adjudican los bienes a favor del fisco?",
+    "¿Puedo impugnar un remate si soy el propietario del bien?"
   ]
 }

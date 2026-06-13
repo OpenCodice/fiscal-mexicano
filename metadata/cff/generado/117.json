@@ -5,31 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5c236e8d247f843a",
+    "hash_texto": "sha256:e3277b9f140c475c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso de revocación",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "resoluciones definitivas",
-    "contribuciones",
-    "devoluciones",
-    "actos de autoridad fiscal",
+    "devolución de cantidades",
+    "actos de autoridades fiscales",
     "créditos fiscales",
-    "procedimiento administrativo"
+    "procedimiento administrativo de ejecución",
+    "interés jurídico"
   ],
   "terminos_coloquiales": [
-    "apelación de impuestos",
     "recurso de revocación",
-    "devolución de impuestos",
-    "cobro de impuestos"
+    "revocación de resoluciones",
+    "devoluciones fiscales",
+    "créditos fiscales",
+    "actos fiscales"
   ],
-  "resumen": "El artículo establece que el recurso de revocación puede utilizarse contra resoluciones definitivas de autoridades fiscales y actos que afectan los derechos de los contribuyentes. Esto incluye la determinación de contribuciones, la negación de devoluciones y actos que requieran el pago de créditos fiscales.",
+  "resumen": "El recurso de revocación es un medio para impugnar resoluciones definitivas de las autoridades fiscales que causen agravio al particular, así como actos que exijan el pago de créditos fiscales. Se puede interponer contra determinaciones de impuestos, devoluciones y otros actos que afectan derechos fiscales.",
   "preguntas_ejemplo": [
-    "¿Qué puedo hacer si no estoy de acuerdo con una resolución fiscal?",
-    "¿Puedo apelar una negativa a la devolución de impuestos?",
-    "¿Qué es el recurso de revocación en asuntos fiscales?",
-    "¿En qué casos puedo reclamar contra la autoridad fiscal?",
-    "¿Qué actos de la autoridad fiscal son revisables?"
+    "¿Qué es un recurso de revocación?",
+    "¿Cuándo puedo presentar un recurso de revocación?",
+    "¿Qué resoluciones fiscales puedo impugnar?",
+    "¿Cómo interponer un recurso de revocación?",
+    "¿Qué pasa si me niegan la devolución de impuestos?"
   ]
 }

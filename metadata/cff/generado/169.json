@@ -5,29 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:18d51847c8dc3ea4",
+    "hash_texto": "sha256:9ef60ca68625721f",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Asambleas y administración de sociedades",
+  "denominacion_comun": "Intervención en sociedades",
   "temas": [
     "asambleas",
     "administración de sociedades",
-    "interventor administrador",
-    "convocatorias"
+    "interventor",
+    "convocatorias",
+    "informes",
+    "operaciones de la negociación"
   ],
   "terminos_coloquiales": [
-    "asamblea de accionistas",
-    "asamblea de socios",
-    "interventor",
-    "convocatoria"
+    "asambleas de accionistas",
+    "convocatoria del interventor",
+    "informe del interventor",
+    "sociedades"
   ],
-  "resumen": "El artículo establece que la asamblea y administración de una sociedad pueden seguir reuniéndose para tratar asuntos relevantes, y permite que el interventor convoque a estas reuniones cuando lo considere necesario.",
+  "resumen": "El artículo establece que la asamblea y administración de una sociedad pueden reunirse para conocer asuntos relevantes, así como para recibir informes del interventor administrador sobre el funcionamiento de la sociedad. El interventor también tiene la facultad de convocar asambleas y citar a la administración para tratar asuntos que considere pertinentes.",
   "preguntas_ejemplo": [
     "¿Qué puede hacer el interventor en una sociedad?",
-    "¿Las asambleas de socios pueden seguir realizándose?",
-    "¿Qué asuntos se tratan en las asambleas de administración?",
-    "¿Quién puede convocar a una asamblea de accionistas?",
-    "¿Qué es un interventor administrador?"
+    "¿Cuál es el papel del interventor en las asambleas?",
+    "¿Las asambleas pueden seguir realizándose aunque haya un interventor?",
+    "¿Qué tipo de informes presenta el interventor a la sociedad?",
+    "¿Quién puede convocar a una asamblea de accionistas?"
   ]
 }

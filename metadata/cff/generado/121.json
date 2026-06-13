@@ -5,30 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:3ddb911d403da094",
+    "hash_texto": "sha256:0a5644052e5a23a1",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Recurso administrativo",
+  "denominacion_comun": "Recurso de Revocación",
   "temas": [
     "buzón tributario",
-    "plazo para interponer recurso",
+    "plazos para interposición",
     "suspensión de plazos",
+    "actos administrativos",
     "representación legal"
   ],
   "terminos_coloquiales": [
-    "reclamo fiscal",
-    "días para apelar",
-    "fallecimiento y recursos",
-    "contingencias fiscales"
+    "recurso fiscal",
+    "plazo para recurir",
+    "suspensión de plazos",
+    "suspensión por fallecimiento",
+    "interponer recurso"
   ],
-  "resumen": "Este artículo establece que los recursos deben presentarse a través del buzón tributario dentro de un plazo específico tras la notificación. Adicionalmente, se detallan condiciones para la suspensión de este plazo, como el fallecimiento del particular afectado o la incapacidad judicial.",
+  "resumen": "El recurso de revocación debe presentarse por el buzón tributario dentro de un plazo específico tras notificación. Si el particular fallece o solicita procedimientos de resolución de controversias, el plazo puede suspenderse. También se suspende por incapacidad o ausencia legal.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo tengo para presentar un recurso fiscal?",
-    "¿Qué pasará si muero durante el proceso de un recurso?",
-    "¿Se me puede dar más tiempo para apelar si tengo un tutor?",
-    "¿Cómo se presenta un recurso por el buzón tributario?",
-    "¿Qué sucede si solicito la resolución de controversias con otro país?",
-    "¿Bajo qué condiciones se suspende el plazo para presentar un recurso?"
+    "¿Cómo interponer un recurso de revocación?",
+    "¿Qué plazos debo considerar para presentar el recurso?",
+    "¿Qué sucede si fallece el afectado por un acto administrativo?",
+    "¿Qué pasa si estoy en un procedimiento de doble tributación?",
+    "¿Cómo se suspende el plazo si hay incapacidad legal?"
   ]
 }

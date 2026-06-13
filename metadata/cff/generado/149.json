@@ -5,31 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a600b31b9e71a08b",
+    "hash_texto": "sha256:6079a3ac5e217e70",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Preferencia de créditos fiscales",
+  "denominacion_comun": "Preferencia del Fisco Federal",
   "temas": [
     "créditos fiscales",
-    "preferencia",
-    "garantías",
-    "juicios",
-    "quiebra",
-    "concursos"
+    "preferencia de pago",
+    "excepciones a la preferencia",
+    "juicios universales"
   ],
   "terminos_coloquiales": [
-    "créditos del fisco",
-    "pago de impuestos",
     "deudas fiscales",
-    "juicio de quiebra"
+    "pago de impuestos",
+    "cobro de impuestos",
+    "quiebra",
+    "concurso mercantil"
   ],
-  "resumen": "El fisco federal tiene prioridad para cobrar deudas fiscales, a menos que estas estén garantizadas por prenda o hipoteca, alimentos, sueldos devengados del último año o indemnizaciones. Para esto, las garantías deben estar registradas y en caso de créditos por alimentos, se debe haber presentado una demanda.",
+  "resumen": "El fisco federal tiene preferencia para cobrar créditos relacionados con ingresos que le corresponden, a menos que existan deudas garantizadas con bienes o por conceptos específicos como alimentos y salarios. Existen requisitos específicos para hacer efectivas estas excepciones.",
   "preguntas_ejemplo": [
-    "¿Quién tiene preferencia para cobrar deudas fiscales?",
-    "¿Qué excepciones hay para los créditos fiscales?",
-    "¿Qué debo hacer si tengo deudas garantizadas?",
-    "¿Cómo se procede en casos de quiebra con deudas fiscales?",
-    "¿Qué pasa si tengo una demanda de alimentos y deudas fiscales?"
+    "¿Qué significa que el fisco tenga preferencia para el cobro de deudas?",
+    "¿En qué casos el fisco no puede cobrar primero?",
+    "¿Qué debo hacer si tengo una deuda fiscal y estoy en quiebra?",
+    "¿Cuáles son las excepciones a la preferencia de pago del fisco?",
+    "¿Cómo se verifica la vigencia de un crédito fiscal?"
   ]
 }

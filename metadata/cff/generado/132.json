@@ -5,32 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:30a826720c443d6f",
+    "hash_texto": "sha256:110f1e29358c815e",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Resolución de recursos fiscales",
+  "denominacion_comun": "Resolución de Recursos Fiscales",
   "temas": [
-    "recursos",
-    "agravios",
+    "resolución de recursos",
     "actos administrativos",
-    "ilegalidades",
-    "juicio contencioso administrativo",
-    "modificación de créditos fiscales"
+    "agravios",
+    "ilegalidad",
+    "plazos impuestos"
   ],
   "terminos_coloquiales": [
     "recurso fiscal",
-    "apelar",
-    "actos de la autoridad",
-    "impuesto",
-    "plazos de impugnación"
+    "impugnación",
+    "actos administrativos",
+    "juzgado fiscal"
   ],
-  "resumen": "El artículo establece cómo se deben resolver los recursos fiscales presentados por los contribuyentes, analizando los agravios y permitiendo a la autoridad corregir errores y revocar actos administrativos cuando se detecten ilegalidades. También detalla que la resolución debe especificar los actos modificados y los plazos para impugnar decisiones.",
+  "resumen": "Este artículo establece cómo deben resolverse los recursos fiscales, considerando los agravios presentados por el recurrente. La autoridad tiene la facultad de corregir errores y revocar actos administrativos en caso de ilegalidades, y los plazos para impugnar la resolución deben ser claramente señalados.",
   "preguntas_ejemplo": [
-    "¿Cómo se resuelve un recurso fiscal?",
-    "¿Qué pueden hacer si la autoridad comete un error en su acto administrativo?",
-    "¿Cuáles son los plazos para impugnar una resolución?",
-    "¿La autoridad puede modificar sus propios actos?",
-    "¿Cómo se analizan los agravios en un recurso fiscal?"
+    "¿Cómo se resuelven los agravios en un recurso fiscal?",
+    "¿Qué sucede si encuentro un error en un acto administrativo?",
+    "¿Cuáles son los plazos para impugnar una resolución fiscal?",
+    "¿Puedo impugnar algo que no está mencionado en el recurso?",
+    "¿Qué ocurre si la resolución no señala los plazos de impugnación?"
   ]
 }

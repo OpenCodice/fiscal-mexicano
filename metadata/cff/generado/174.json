@@ -5,30 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cd4ff96f21bd4455",
+    "hash_texto": "sha256:2b3d11346bad6212",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Enajenación de bienes embargados",
+  "denominacion_comun": "Remate",
   "temas": [
-    "subasta pública",
     "enajenación",
+    "subasta pública",
     "bienes embargados",
-    "medios electrónicos",
-    "venta en lotes",
-    "venta de piezas sueltas"
+    "venta electrónica",
+    "lotes",
+    "piezas sueltas"
   ],
   "terminos_coloquiales": [
+    "remate",
     "subasta",
-    "subasta electrónica",
-    "venta de bienes embargados"
+    "venta de bienes embargados",
+    "venta electrónica"
   ],
-  "resumen": "Este artículo establece que las enajenaciones deben realizarse mediante subasta pública utilizando medios electrónicos, salvo ciertas excepciones. Además, la autoridad puede decidir que los bienes embargados se vendan en lotes o como piezas individuales.",
+  "resumen": "El artículo establece que, a menos que el Código indique lo contrario, las enajenaciones se realizarán mediante subasta pública a través de medios electrónicos. También permite que los bienes embargados se vendan en lotes o individualmente.",
   "preguntas_ejemplo": [
-    "¿Cómo se venden los bienes embargados?",
-    "¿Qué es una subasta pública electrónica?",
-    "¿Puede la autoridad vender bienes embargados en partes?",
-    "¿Cuándo se puede hacer una enajenación distinta a la subasta pública?",
-    "¿Qué implica la venta en lotes de bienes embargados?"
+    "¿Cómo se realiza un remate de bienes embargados?",
+    "¿Qué significa que la venta sea en subasta pública?",
+    "¿Se puede vender un bien embargado en partes?",
+    "¿Qué es una enajenación en el contexto de la ley fiscal?",
+    "¿Qué tipos de remate existen para bienes embargados?"
   ]
 }

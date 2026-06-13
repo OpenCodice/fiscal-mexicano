@@ -5,28 +5,28 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:aafc1056816330fb",
+    "hash_texto": "sha256:8a1a59a896783be8",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Intervención fiscal",
+  "denominacion_comun": "Intervención",
   "temas": [
-    "interventor",
-    "autoridades fiscales",
-    "negociación",
-    "designación de interventor"
+    "designación de interventor",
+    "mandato de autoridad",
+    "intervención fiscal",
+    "comunicación entre autoridades"
   ],
   "terminos_coloquiales": [
+    "intervención",
     "interventor",
-    "intervención fiscal",
-    "cambio de interventor"
+    "autoridad fiscal"
   ],
-  "resumen": "El artículo establece que si una negociación ya tiene un interventor designado por otra autoridad, se nombrará uno nuevo que también se encargará de las intervenciones existentes. Además, se informará a las autoridades que ordenaron las intervenciones anteriores sobre cualquier cambio de interventor.",
+  "resumen": "El artículo establece que si una negociación ya está intervenida por otra autoridad, se puede nombrar un nuevo interventor, quien también actuará en otras intervenciones mientras dure la actual. Además, se debe informar a las autoridades que ordenaron las intervenciones anteriores o posteriores sobre el cambio de interventor.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si ya hay un interventor y se necesita uno nuevo?",
-    "¿Cómo se designa un interventor en negociaciones fiscales?",
-    "¿Qué autoridades deben ser informadas sobre el cambio de interventor?",
-    "¿El nuevo interventor se encarga de otras intervenciones también?",
-    "¿Qué sucede si la negociación está bajo otras autoridades?"
+    "¿Qué sucede si ya hay un interventor designado por otra autoridad?",
+    "¿Cómo se nombra un nuevo interventor?",
+    "¿Qué se debe hacer al cambiar de interventor en una intervención fiscal?",
+    "¿Las autoridades deben conocer cuándo se cambia de interventor?",
+    "¿Un nuevo interventor puede intervenir en múltiples negociaciones?"
   ]
 }

@@ -5,28 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:34ba70923bd34041",
+    "hash_texto": "sha256:df8338bcf4aa926a",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Intervención de Negociaciones",
   "temas": [
     "embargo",
-    "negociaciones",
     "interventor",
-    "administrador"
+    "depositario",
+    "administrador",
+    "negociaciones"
   ],
   "terminos_coloquiales": [
-    "embargo de negocios",
-    "intervención de bienes",
-    "gestión de embargos"
+    "intervención",
+    "embargo de bienes",
+    "administrador del embargo"
   ],
-  "resumen": "Este artículo establece que cuando se embarguen negociaciones, se designará un depositario que actuará como interventor o administrador de los bienes embargados. Se aplicarán las disposiciones relevantes de este capítulo de la ley.",
+  "resumen": "El artículo establece que cuando las autoridades fiscales embarguen negociaciones, el depositario designado actuará como interventor o administrador. También menciona que se aplicarán las secciones correspondientes de este capítulo en la intervención de negociaciones.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si me embargan mi negocio?",
+    "¿Qué pasa si las autoridades fiscales embargan mis bienes?",
     "¿Quién es el interventor en un embargo?",
-    "¿Qué significa que un depositario sea administrador?",
-    "¿Cuáles son mis derechos si han embargado mis bienes?",
-    "¿Cómo se manejan las negociaciones embargadas?"
+    "¿Qué funciones tiene el depositario en una intervención?",
+    "¿Cómo se lleva a cabo la intervención de negociaciones?",
+    "¿Qué normativa se aplica durante una intervención de embargo?"
   ]
 }

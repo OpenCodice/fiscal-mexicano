@@ -5,7 +5,7 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a82a385a5966c896",
+    "hash_texto": "sha256:f8df9ff36c171a1a",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
@@ -13,18 +13,20 @@
   "temas": [
     "actos administrativos",
     "materia fiscal",
-    "revocación"
+    "revocación",
+    "derechos del contribuyente"
   ],
   "terminos_coloquiales": [
     "recurso de revocación",
-    "revisión de impuestos"
+    "revocar una decisión",
+    "revisión fiscal"
   ],
-  "resumen": "El artículo establece que se puede impugnar cualquier acto administrativo emitido en el ámbito fiscal federal mediante un recurso de revocación. Esto permite a los contribuyentes solicitar una revisión de dichas decisiones.",
+  "resumen": "El recurso de revocación permite a los contribuyentes impugnar actos administrativos en el ámbito fiscal federal. Este procedimiento busca revisar la legalidad de las decisiones tomadas por la autoridad fiscal.",
   "preguntas_ejemplo": [
-    "¿Qué es un recurso de revocación en fiscalía?",
-    "¿Puedo impugnar un acto administrativo fiscal?",
-    "¿Cómo interponer un recurso de revocación?",
-    "¿Qué actos administrativos pueden ser revocados?",
-    "¿Cuáles son los pasos para un recurso de revocación?"
+    "¿Qué es un recurso de revocación?",
+    "¿Cómo puedo impugnar un acto administrativo fiscal?",
+    "¿Cuáles son los pasos para presentar un recurso de revocación?",
+    "¿Qué tipos de actos administrativos pueden impugnarse?",
+    "¿Qué derechos tengo como contribuyente en un recurso de revocación?"
   ]
 }

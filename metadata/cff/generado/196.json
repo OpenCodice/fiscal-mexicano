@@ -5,32 +5,32 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c2584989ed6f92d8",
+    "hash_texto": "sha256:6f27262385694c2f",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Excedentes de adjudicación",
+  "denominacion_comun": "Remate",
   "temas": [
-    "crédito fiscal",
+    "adjudicación",
     "excedentes",
-    "bien adjudicado",
+    "deudor",
     "enajenación",
-    "remate",
-    "entrega de excedentes",
-    "gastos de administración"
+    "gastos de administración",
+    "remanente",
+    "embargo"
   ],
   "terminos_coloquiales": [
-    "devolución de sobrantes",
-    "adjudicación de bienes",
-    "remate de bienes",
-    "cobro de excedentes"
+    "subasta",
+    "bien embargado",
+    "cobro de deudas",
+    "entrega de excedentes"
   ],
-  "resumen": "Este artículo establece que los excedentes de una adjudicación deben entregarse al deudor o a una persona designada, una vez cubierto el crédito fiscal. Si no se realiza la enajenación del bien en un plazo de 24 meses, los excedentes se entregarán de acuerdo a ciertas condiciones. Además, se indica que en caso de remate, el producto obtenido se aplicará para cubrir gastos y se entregarán los remanentes al contribuyente, salvo que haya una orden diferente de la autoridad.",
+  "resumen": "Este artículo regula el proceso de remate de bienes embargados, estableciendo que los excedentes se entregarán al deudor o a un tercero designado después de cubrir los créditos fiscales. Además, menciona la aplicación del importe obtenido en el remate y la entrega de remanentes.",
   "preguntas_ejemplo": [
-    "¿Qué pasa con los excedentes de una adjudicación?",
-    "¿Cuáles son las condiciones para la entrega de excedentes de bienes?",
-    "¿Cómo se debe entregar el remanente después de un remate?",
-    "¿Qué sucede si no se vende un bien dentro del plazo establecido?",
-    "¿A quién se le entregan los excedentes en caso de adjudicación?"
+    "¿Cómo se entregan los excedentes después de un remate?",
+    "¿Qué pasa si no se vende un bien embargado en 24 meses?",
+    "¿Quién recibe el dinero del remate de un bien embargado?",
+    "¿Qué gastos se descuentan del producto del remate?",
+    "¿Qué debo hacer si quiero que me entreguen los excedentes de un remate?"
   ]
 }

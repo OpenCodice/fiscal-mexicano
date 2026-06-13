@@ -5,34 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a9b6ec1355e7c117",
+    "hash_texto": "sha256:f5bd5cf357ca67a9",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Embargo",
   "temas": [
-    "embargo",
-    "bien inmueble",
-    "plazo de entrega",
-    "valores",
-    "dinero",
-    "inventario",
-    "crédito fiscal"
+    "embargo de bienes",
+    "entregas de bienes",
+    "plazos de embargo",
+    "cobertura de crédito fiscal"
   ],
   "terminos_coloquiales": [
+    "retención de bienes",
     "embargo",
-    "bienes embargados",
     "dinero embargado",
-    "valores mobiliarios",
-    "alhajas",
-    "metales preciosos"
+    "valores embargados"
   ],
-  "resumen": "Este artículo establece las reglas para la entrega de bienes embargados, como dinero y valores, a la oficina ejecutora. Los bienes deben entregarse dentro de un plazo específico después del embargo, y el dinero obtenido se destina a cubrir créditos fiscales.",
+  "resumen": "El artículo establece que los bienes embargados, como dinero y metales, deben ser entregados a la oficina ejecutora en plazos específicos. Además, se indica que una parte del dinero embargado se utilizará para cubrir el crédito fiscal relacionado.",
   "preguntas_ejemplo": [
-    "¿Cómo se entregan los bienes embargados?",
-    "¿Cuánto tiempo tengo para entregar el dinero embargado?",
-    "¿Qué sucede con el dinero obtenido del embargo?",
-    "¿Qué bienes pueden ser embargados?",
-    "¿Cómo se calcula el monto a cubrir por un embargo?"
+    "¿Qué pasa si me embargan mis bienes?",
+    "¿Cuánto tiempo tiene el depositario para entregar los bienes embargados?",
+    "¿Qué se hace con el dinero embargado?",
+    "¿Cuánto dinero puede retenerse de mis bienes embargados?",
+    "¿Qué bienes pueden ser embargados?"
   ]
 }

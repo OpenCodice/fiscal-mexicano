@@ -5,29 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:84ab393ca84b8378",
+    "hash_texto": "sha256:08edfb126e6c2552",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Embargo",
   "temas": [
     "embargo",
+    "procedimiento administrativo",
+    "ejecución",
     "bienes embargados",
-    "créditos fiscales",
-    "procedimiento administrativo"
+    "créditos fiscales"
   ],
   "terminos_coloquiales": [
     "embargo",
-    "cobro de deudas",
-    "bienes",
-    "administración de deudas"
+    "proceso de embargo",
+    "bienes embargados"
   ],
-  "resumen": "El embargo de bienes puede ampliarse durante el procedimiento administrativo si se considera que los bienes embargados no son suficientes para cubrir las deudas fiscales. Esto se decide por la oficina encargada del proceso de cobranza.",
+  "resumen": "El embargo puede ampliarse en cualquier etapa del procedimiento administrativo de ejecución si se considera que los bienes embargados no son suficientes para cubrir las deudas fiscales.",
   "preguntas_ejemplo": [
-    "¿Cuándo puede ampliarse un embargo de bienes?",
-    "¿Qué sucede si los bienes embargados no cubren la deuda?",
-    "¿Quién decide si se amplía el embargo?",
-    "¿Qué se entiende por créditos fiscales en un embargo?",
-    "¿Cuál es el procedimiento administrativo en el embargo de bienes?"
+    "¿Qué es el embargo en el proceso administrativo fiscal?",
+    "¿Cuándo puede ampliarse un embargo?",
+    "¿Qué pasa si los bienes embargados no cubren mis deudas fiscales?",
+    "¿Cuáles son las etapas del procedimiento de embargo?",
+    "¿Cómo se determina la insuficiencia de bienes embargados?"
   ]
 }

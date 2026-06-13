@@ -5,35 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:4bdf796e902b732e",
+    "hash_texto": "sha256:1b06023960f88ff0",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Embargo de bienes",
+  "denominacion_comun": "Del Embargo",
   "temas": [
     "embargo",
-    "bienes",
-    "créditos fiscales",
-    "depósitos bancarios",
-    "acciones",
-    "bonos",
-    "valores mobiliarios",
-    "bienes inmuebles"
+    "bienes embargables",
+    "activos financieros",
+    "bienestar social"
   ],
   "terminos_coloquiales": [
     "embargo",
     "dinero embargado",
-    "deudas fiscales",
-    "cuentas bancarias",
-    "bienes muebles",
-    "bienes raíces"
+    "cuentas embargadas",
+    "bienes embargados",
+    "activos de fácil venta"
   ],
-  "resumen": "Este artículo establece el procedimiento para el embargo de bienes por deudas fiscales, especificando el orden en que se deben embargar los bienes del contribuyente. Los bienes pueden incluir dinero en cuentas, acciones, bonos y bienes inmuebles, y la autoridad fiscal debe contar con información sobre las cuentas y saldos antes de realizar el embargo.",
+  "resumen": "El artículo establece el procedimiento de embargo de bienes, indicando el orden en que se pueden embargar y qué bienes son considerados para este fin. Se detallan los tipos de bienes que pueden ser embargados, incluyendo dinero, depósitos bancarios, bienes muebles e inmuebles.",
   "preguntas_ejemplo": [
-    "¿Qué se puede embargar si debo impuestos?",
-    "¿Cómo se realiza el embargo de una cuenta bancaria?",
-    "¿Qué bienes están sujetos a embargo por deudas fiscales?",
-    "¿Puede la autoridad embargar mis propiedades?",
-    "¿Qué información necesita la autoridad para embargar mis bienes?"
+    "¿Qué bienes pueden ser embargados?",
+    "¿Cómo se lleva a cabo un embargo?",
+    "¿Qué información necesita la autoridad fiscal antes de embargar?",
+    "¿Cuál es el procedimiento si tengo bienes en copropiedad?",
+    "¿Pueden embargarse mis cuentas de ahorro para el retiro?"
   ]
 }
