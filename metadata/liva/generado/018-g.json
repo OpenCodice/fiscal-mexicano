@@ -5,31 +5,30 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:1470fc9294d94ed2",
+    "hash_texto": "sha256:a72ae48de253115e",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Sanciones por omisión de impuestos",
+  "denominacion_comun": "Omisiones en el pago del impuesto",
   "temas": [
-    "sanciones",
-    "impuestos",
+    "sanciones fiscales",
     "retenciones",
-    "declaraciones",
-    "Código Fiscal"
+    "declaraciones de pago",
+    "declaraciones informativas",
+    "Código Fiscal de la Federación"
   ],
   "terminos_coloquiales": [
     "no pagar impuestos",
-    "omisión de impuestos",
-    "retenciones no presentadas",
-    "declaraciones de impuestos",
+    "no presentar declaraciones",
+    "retenciones de impuestos",
     "sanciones fiscales"
   ],
-  "resumen": "Este artículo establece que la omisión en el pago de impuestos, en las retenciones que deben hacerse y en la presentación de declaraciones se sancionará de acuerdo con la Ley y el Código Fiscal de la Federación.",
+  "resumen": "Esta disposición establece que la falta de pago de impuestos, de las retenciones correspondientes y la no presentación de declaraciones se sancionará conforme a lo que indica la Ley y el Código Fiscal de la Federación.",
   "preguntas_ejemplo": [
     "¿Qué pasa si no pago mis impuestos?",
-    "¿Cuáles son las sanciones por no presentar declaraciones?",
-    "¿Qué debo hacer si no retengo los impuestos correspondientes?",
-    "¿Hay multas por omitir el pago de impuestos?",
-    "¿Qué dice la Ley sobre sanciones fiscales por omisión?"
+    "¿Cuáles son las sanciones por no presentar declaraciones de impuestos?",
+    "¿Qué debo hacer si olvidé hacer una retención de impuestos?",
+    "¿Qué sucede si omito el pago de retenciones?",
+    "¿Dónde se regulan las sanciones por omisión de impuestos?"
   ]
 }

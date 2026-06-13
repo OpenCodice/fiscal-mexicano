@@ -5,29 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:981a929ff6800a2d",
+    "hash_texto": "sha256:1f4c6cc98d0011b2",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Receptor de Servicios en Territorio Nacional",
+  "denominacion_comun": "Receptor de servicio en territorio nacional",
   "temas": [
-    "Domicilio en México",
-    "Pago mediante intermediarios",
-    "Dirección IP",
-    "Número de teléfono en México"
+    "ubicación del receptor",
+    "domicilio en México",
+    "pago mediante intermediario",
+    "dirección IP en México",
+    "número de teléfono mexicano"
   ],
   "terminos_coloquiales": [
-    "receptor de servicios",
-    "servicios en México",
-    "número de teléfono mexicano",
-    "dirección IP mexicana"
+    "receptor de servicio",
+    "servicios en línea",
+    "domicilio en México",
+    "código de país",
+    "intermediario de pago"
   ],
-  "resumen": "Se considera que un receptor de servicio está en territorio nacional si tiene un domicilio en México, paga a través de un intermediario mexicano, utiliza una dirección IP de México o proporciona un número de teléfono mexicano.",
+  "resumen": "Se establece que un receptor de servicio se considera ubicado en México si cumple con ciertos criterios como tener un domicilio en el país, realizar pagos a través de un intermediario mexicano, usar una dirección IP mexicana o proporcionar un número de teléfono mexicano.",
   "preguntas_ejemplo": [
-    "¿Cómo se determina si un servicio se presta en México?",
-    "¿Qué requisitos debe cumplir un receptor para ser considerado en territorio nacional?",
-    "¿Es suficiente con tener un número de teléfono mexicano para recibir servicios?",
-    "¿Qué papel juega la dirección IP en la ubicación del receptor?",
-    "¿Puede un intermediario extranjero afectar la calificación de territorialidad del servicio?"
+    "¿Cómo sé si un servicio se considera prestado en México?",
+    "¿Qué requisitos debe cumplir un receptor de servicio para estar en territorio nacional?",
+    "¿La dirección IP importa para la ubicación del receptor?",
+    "¿Un pago a través de un intermediario nacional afecta la ubicación del receptor?",
+    "¿Qué significa tener un código de país mexicano para un número de teléfono?"
   ]
 }

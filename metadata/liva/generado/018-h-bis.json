@@ -5,31 +5,34 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:323345ee287432b4",
+    "hash_texto": "sha256:b893f0add855fee5",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Incumplimiento de obligaciones de servicios digitales",
+  "denominacion_comun": "Sanciones por incumplimiento de obligaciones fiscales",
   "temas": [
-    "sanciones",
-    "bloqueo de servicios digitales",
-    "residentes en el extranjero",
-    "Declaraciones de pago",
-    "Registro Federal de Contribuyentes"
+    "residencia en el extranjero",
+    "servicios digitales",
+    "bloqueo de servicios",
+    "Registro Federal de Contribuyentes",
+    "sanciones fiscales",
+    "declaraciones de pago",
+    "retenciones de impuestos"
   ],
   "terminos_coloquiales": [
-    "bloqueo de acceso a servicios digitales",
-    "no pago de impuestos",
-    "declaraciones de impuestos",
-    "RFC",
-    "residentes fuera de México"
+    "sanciones por no pagar impuestos",
+    "bloqueo de servicios digitales",
+    "registro de contribuyentes",
+    "declarar impuestos",
+    "no pagar retenciones",
+    "prestadores de servicios digitales"
   ],
-  "resumen": "Este artículo establece que los residentes en el extranjero que proporcionen servicios digitales a receptores en México, y que incumplan con sus obligaciones fiscales, sufrirán un bloqueo temporal de acceso a sus servicios. Además, se cancelará su inscripción en el RFC si no cumplen con sus obligaciones durante tres meses consecutivos.",
+  "resumen": "Este artículo establece sanciones para quienes residan en el extranjero y no cumplan con sus obligaciones fiscales relacionadas con los servicios digitales en México. El incumplimiento puede resultar en el bloqueo temporal de sus servicios y en la cancelación de su registro ante el SAT.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un residente en el extranjero no paga sus impuestos por servicios digitales?",
-    "¿Cómo se bloquea el acceso a un servicio digital?",
-    "¿Cuáles son las obligaciones fiscales para prestar servicios digitales desde el extranjero?",
-    "¿Qué sanciones hay por no presentar declaraciones de pago e informativas?",
-    "¿Qué ocurre con el Registro Federal de Contribuyentes si incumplo con mis obligaciones?"
+    "¿Qué pasa si un residente en el extranjero no cumple con sus obligaciones fiscales en México?",
+    "¿Se puede bloquear un servicio digital por incumplimiento de impuestos?",
+    "¿Cómo se da de baja a un contribuyente en el Registro Federal de Contribuyentes?",
+    "¿Cuáles son las sanciones por no presentar declaraciones de impuestos?",
+    "¿Un prestador de servicios digitales puede perder su registro si no paga retenciones?"
   ]
 }

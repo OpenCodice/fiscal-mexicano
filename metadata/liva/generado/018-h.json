@@ -5,31 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:2dea3eb3cf38be25",
+    "hash_texto": "sha256:5998441b2e6d87fd",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "IVA en servicios digitales",
+  "denominacion_comun": "Servicios digitales y IVA",
   "temas": [
     "impuesto al valor agregado",
     "servicios digitales",
-    "separación de servicios",
-    "contraprestaciones",
+    "comprobantes fiscales",
     "tasa del 16%"
   ],
   "terminos_coloquiales": [
-    "IVA en servicios digitales",
-    "servicios por internet",
-    "impuesto en línea",
-    "comprobantes fiscales",
-    "artículo 18-B"
+    "IVA",
+    "servicios digitales",
+    "comprobante fiscal",
+    "tarifa del 16%"
   ],
-  "resumen": "Este artículo establece cómo se debe calcular el impuesto al valor agregado (IVA) para servicios digitales cuando se ofrecen junto con otros servicios. Se requiere que los comprobantes separen los servicios para aplicar la tasa del 16%. Si no hay separación, se asume un porcentaje específico de la contraprestación para el IVA.",
+  "resumen": "Este artículo establece cómo se calcula el impuesto al valor agregado para servicios digitales cuando se ofrecen junto con otros servicios. Específicamente, se debe separar el precio de los servicios digitales para aplicar correctamente el IVA correspondiente.",
   "preguntas_ejemplo": [
-    "¿Cómo se calcula el IVA en servicios digitales que se ofrecen junto con otros?",
-    "¿Qué pasa si no separo los servicios en mi comprobante?",
-    "¿Qué porcentaje se aplica si hay servicios combinados?",
-    "¿Qué dice el artículo 18-H sobre servicios digitales?",
-    "¿Cómo debe ser el comprobante para servicios digitales?"
+    "¿Cómo se aplica el IVA a los servicios digitales?",
+    "¿Qué pasa si no separo los servicios en el comprobante?",
+    "¿Cuánto IVA se cobra por servicios digitales?",
+    "¿Qué se considera un servicio digital para el IVA?",
+    "¿Es necesario indicar los precios por separado en el comprobante?"
   ]
 }

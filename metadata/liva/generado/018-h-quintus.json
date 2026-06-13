@@ -5,31 +5,35 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cb2d043b6f0db5e7",
+    "hash_texto": "sha256:a981f29f3b90d22c",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Bloqueo y Desbloqueo de Servicio Digital",
+  "denominacion_comun": "Bloqueo y Desbloqueo de Servicios Digitales",
   "temas": [
     "bloqueo temporal",
     "desbloqueo",
-    "servicio digital",
-    "SAT",
-    "contribuyentes",
-    "red pública de telecomunicaciones"
+    "servicios digitales",
+    "contratación de servicios",
+    "proveedores",
+    "Servicio de Administración Tributaria",
+    "Código Fiscal de la Federación",
+    "Registro Federal de Contribuyentes"
   ],
   "terminos_coloquiales": [
     "bloqueo de servicios",
     "desbloqueo de servicios",
     "SAT",
-    "obligaciones fiscales"
+    "internet",
+    "contratar servicios digitales",
+    "proveedores de internet"
   ],
-  "resumen": "El SAT puede bloquear temporalmente el acceso a servicios digitales si el contribuyente no cumple con sus obligaciones. Una vez cumplidas, el SAT ordena el desbloqueo del servicio en un plazo de cinco días.",
+  "resumen": "Este artículo regula el procedimiento de bloqueo temporal del acceso a servicios digitales por parte del SAT. Cuando un contribuyente cumple con sus obligaciones, se emite una orden de desbloqueo para restaurar el acceso al servicio.",
   "preguntas_ejemplo": [
-    "¿Qué debo hacer si mi acceso a servicios digitales está bloqueado por el SAT?",
-    "¿Cómo se realiza el desbloqueo de un servicio digital por el SAT?",
-    "¿Cuáles son los motivos por los que el SAT bloquea servicios digitales?",
-    "¿Qué plazo tiene el SAT para desbloquear un servicio digital?",
-    "¿Quién emite la orden de desbloqueo de los servicios digitales?"
+    "¿Qué sucede si me bloquean el acceso a un servicio digital?",
+    "¿Cómo puedo desbloquear mis servicios digitales?",
+    "¿Quién informa sobre el bloqueo de servicios?",
+    "¿Cuánto tiempo toma el desbloqueo después de cumplir con las obligaciones?",
+    "¿Cuál es el procedimiento para el desbloqueo de servicios digitales?"
   ]
 }

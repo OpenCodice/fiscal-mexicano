@@ -5,27 +5,29 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:697ad38d903c718c",
+    "hash_texto": "sha256:4a905acc18748b6b",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
   "denominacion_comun": "Establecimiento Permanente",
   "temas": [
-    "residentes en el extranjero",
     "obligaciones fiscales",
+    "residente en el extranjero",
     "establecimiento permanente",
     "Ley del IVA"
   ],
   "terminos_coloquiales": [
-    "obligaciones fiscales",
-    "residentes en el extranjero"
+    "no ser considerado como negocio en México",
+    "obligaciones de extranjeros",
+    "sello de estar en México",
+    "establecimiento permanente"
   ],
-  "resumen": "El artículo establece que cumplir con ciertas obligaciones fiscales no significa que una persona residente en el extranjero tenga un establecimiento permanente en México.",
+  "resumen": "El artículo establece que el cumplimiento de ciertas obligaciones fiscales por parte de un residente en el extranjero no implica que se le considere como un establecimiento permanente en México.",
   "preguntas_ejemplo": [
-    "¿Qué significa establecer un establecimiento permanente en México?",
-    "¿Los residentes en el extranjero tienen que pagar impuestos en México?",
-    "¿Cumplir obligaciones fiscales implica tener un establecimiento permanente?",
-    "¿Qué obligaciones tienen los residentes extranjeros en México?",
-    "¿Qué dice la Ley del IVA sobre el establecimiento permanente?"
+    "¿Qué significa no tener un establecimiento permanente?",
+    "¿Un residente en el extranjero puede cumplir obligaciones sin ser considerado un negocio en México?",
+    "¿Qué obligaciones fiscales deben cumplir los extranjeros?",
+    "¿Qué dice la ley sobre el establecimiento permanente?",
+    "¿Cómo afecta un establecimiento permanente a los residentes en el extranjero?"
   ]
 }

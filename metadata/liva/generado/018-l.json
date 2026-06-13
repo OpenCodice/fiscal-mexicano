@@ -5,32 +5,31 @@
   "_generado": {
     "modelo": "gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:28c29787951737c7",
+    "hash_texto": "sha256:6415f18afaae9fc2",
     "prompt": "sha256:88fa2e8626be2205",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto de la unidad."
   },
-  "denominacion_comun": "Opción para contribuyentes de bajo ingreso",
+  "denominacion_comun": "Servicios digitales de intermediación",
   "temas": [
-    "contribuyentes personas físicas",
-    "opción de régimen",
+    "contribuyentes",
     "ingresos",
-    "intermediación",
-    "actividades económicas"
+    "opciones fiscales",
+    "actividades económicas",
+    "persona física",
+    "intermediación"
   ],
   "terminos_coloquiales": [
-    "opción para contribuir",
-    "bajo ingresos",
-    "régimen de bajos ingresos",
-    "personas físicas",
-    "ingresos hasta 300 mil",
-    "inicializar actividades"
+    "servicios digitales",
+    "ingresos por intermediación",
+    "opciones fiscales",
+    "contribuyente persona física"
   ],
-  "resumen": "El artículo establece que los contribuyentes personas físicas con ingresos hasta $300,000 pueden optar por un régimen especial si no tienen otros ingresos. También se contempla a quienes inician actividades y consideran que no superarán ese monto durante el ejercicio fiscal.",
+  "resumen": "Este artículo regula las condiciones bajo las cuales los contribuyentes personas físicas que operan servicios digitales de intermediación pueden optar por un tratamiento fiscal favorable si sus ingresos son menores a cierta cantidad. Además, menciona disposiciones para aquellos que inician actividades y proyectan ingresos menores.",
   "preguntas_ejemplo": [
-    "¿Qué opciones tengo si mis ingresos son bajos?",
-    "¿Cómo puedo optar por un régimen si inicio actividades?",
-    "¿Cuánto debo facturar para poder aplicar la opción que menciona el artículo?",
-    "¿Qué pasa si mis ingresos superan los 300 mil pesos?",
-    "¿Puedo elegir este régimen si recibo otras fuentes de ingreso?"
+    "¿Qué debo hacer si mis ingresos por servicios digitales son menores a $300,000?",
+    "¿Qué opciones fiscales tengo como contribuyente persona física?",
+    "¿Cómo se calculan mis ingresos si empecé a operar hace menos de un año?",
+    "¿Puedo optar por beneficios fiscales si mis ingresos son solo por intermediación?",
+    "¿Qué sucede si mis ingresos superan el límite establecido el año siguiente?"
   ]
 }
