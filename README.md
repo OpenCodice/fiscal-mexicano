@@ -27,7 +27,7 @@ vigente:
 | Código Fiscal de la Federación | 2026-04-09 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf) |
 | Ley Aduanera | 2025-11-19 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf) |
 | Ley Federal de Derechos | 2025-11-07 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf) |
-| Ley Federal de Procedimiento Contencioso Administrativo | 2025-11-14 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
+| Ley Federal de Procedimiento Contencioso Administrativo | 2026-06-09 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf) |
 | Ley Federal de los Derechos del Contribuyente | 2005-06-23 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf) |
 | Ley Federal del Impuesto sobre Automóviles Nuevos | 2021-11-12 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf) |
 | Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | 2025-07-16 | [Descargar PDF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf) |
